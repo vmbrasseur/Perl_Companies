@@ -12,7 +12,7 @@ use List::Util qw(max);
 
 my $debug = '1';
 
-my $dir = 'job_postings';
+my $dir = '../job_postings';
 die "$dir does not exist." unless (-d $dir);
 
 say "Getting the list of files...";
