@@ -22,9 +22,9 @@ my @files = glob( "$dir/*.txt" );
 
 my %companies;
 my $numfiles;
-my $exceptions = 'exceptions.txt';
-my $companycsv = 'Perl_Companies.csv';
-my $companymd = 'Perl_Companies.md';
+my $exceptions = '../exceptions.txt';
+my $companycsv = '../Perl_Companies.csv';
+my $companymd = '../Perl_Companies.md';
 
 open(my $EXCEPTIONS, ">", $exceptions);
 
