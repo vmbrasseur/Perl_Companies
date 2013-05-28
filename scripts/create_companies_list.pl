@@ -12,7 +12,7 @@ use List::Util qw(max);
 
 my $debug = '1';
 
-my $dir = '../job_postings';
+my $dir = '../../job_postings';
 die "$dir does not exist." unless (-d $dir);
 
 say "Getting the list of files...";
@@ -21,7 +21,6 @@ my @files = glob( "$dir/*.txt" );
 #my @files = ("$dir/3098.txt");
 
 my %companies;
-my %Seen;
 my $numfiles;
 my $exceptions = 'exceptions.txt';
 my $companycsv = 'Perl_Companies.csv';
@@ -41,8 +40,7 @@ foreach my $file ( @files ) {
 
 	my $body = $email->body;
 
-	my $posting = $body =~ m|^Online URL for this job: http://jobs\.perl\.org/job/(\d+)|m;
-	#next if $Seen{$posting}++;
+	#my $posting = $body =~ m|^Online URL for this job: http://jobs\.perl\.org/job/(\d+)|m;
 	
 	my ( $year )      = $body =~ /^Posted: \s+ [a-z]+ \s+ \d+, \s+ (\d+)/mix;
 	my ( $name )      = $body =~ /^Company name:\s+(.*)$/mi;

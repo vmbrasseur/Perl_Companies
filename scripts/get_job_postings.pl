@@ -12,7 +12,7 @@ my $nntp = Net::NNTP->new('nntp.perl.org');
 my( $count, $first, $last ) = $nntp->group( 'job_postings' );
 say "$count, $first, $last";
 
-my $dir = '../perl.companies';
+my $dir = '../../job_postings';
 mkdir $dir, 0755 unless -d $dir;
 
 foreach my $i ( $first .. $last ) {
