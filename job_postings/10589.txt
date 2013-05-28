@@ -1,0 +1,128 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10589
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 25132 invoked from network); 1 Oct 2010 18:44:54 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 1 Oct 2010 18:44:54 -0000
+Received: (qmail 3151 invoked by uid 225); 1 Oct 2010 18:44:54 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 3146 invoked by alias); 1 Oct 2010 18:44:54 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 01 Oct 2010 11:44:52 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id E39612AFE1; Fri,  1 Oct 2010 11:44:48 -0700 (PDT)
+To: jobs@perl.org
+Date: Fri, 1 Oct 2010 11:44:48 -0700
+Message-ID: <20101001184448.E39612AFE1@x3.develooper.com>
+Subject: Software Engineer/Perl For Forensic Laboratory, United States, AZ,
+ Flagstaff
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/12966
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October  1, 2010
+
+Job title: Software Engineer/Perl For Forensic Laboratory
+
+Company name: Norchem Drug Testing
+
+Location: United States, AZ, Flagstaff
+
+Pay rate: DOE/USD
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Description:
+Norchem Drug Testing is looking for an experienced Perl developer for a 
+full-time position in Flagstaff, Arizona.
+
+Responsibilities
+* Interface with support staff and other developers to provide solutions 
+to software problems, including root cause analysis and defect repair on 
+mission-critical software.
+* Design, test and deploy software refinements and new features to an 
+extensive existing code base.
+* Conduct component-level, system end-to-end, regression, and quality 
+assurance software testing on existing and new applications.
+* Promotion of high quality deliverables through adherence to process 
+and defined practices.
+* Apply experience, creativity and good judgment to plan and accomplish 
+company goals.
+
+
+Required Skills
+* Minimum 3-5 years Perl programming experience with extensive 
+object-oriented and test-driven development focus
+* Database application development experience with SQL databases
+* Basic understanding of AJAX applications and JavaScript
+* Demonstrated ability to work independently with minimal supervision
+* Ability to prioritize and multi-task many small projects in a shared 
+code environment (GIT/CVS/SVN)
+
+
+Desired Skills
+* Experience with mod_perl2, design patterns, DBIx::Class, POD 
+documentation, and automated testing
+* Large-scale MVC web application development experience using CSS, 
+AJAX, JSON, and PrototypeJS
+* Background developing in a LAMP (Linux, Apache2, MySQL, Perl) environment
+
+
+
+Company Profile
+With over two thousand clients nationwide, Norchem offers premium drug 
+testing for a broad variety of law enforcement, social services, and 
+court ordered drug use monitoring. 
+
+Norchem Drug Testing is a nationwide provider of customized drug testing
+services, and is known for outstanding services and high quality standards.
+ We are situated in beautiful northern Arizona and are surrounded by
+national forest.  We enjoy clean air and access to many recreational and
+cultural opportunities.  Norchem Drug Testing offers career growth,
+competitive salaries and benefits.
+
+Come work for us and challenge your technical ingenuity by developing 
+and maintaining highly specialized laboratory software and web-based 
+applications. Our software is designed, developed, maintained, and 
+upgraded completely in-house. This position offers the unique 
+opportunity to learn and grow with an experienced and knowledgeable team
+and allows you to share and lead with your own experience in an open and
+collaborative environment. 
+
+
+Required skills:
+Required Skills
+* Minimum 3-5 years Perl programming experience with extensive 
+object-oriented and test-driven development focus
+* Database application development experience with SQL databases
+* Basic understanding of AJAX applications and JavaScript
+* Demonstrated ability to work independently with minimal supervision
+* Ability to prioritize and multi-task many small projects in a shared 
+code environment (GIT/CVS/SVN)
+
+
+Desired skills:
+Desired Skills
+* Experience with mod_perl2, design patterns, DBIx::Class, POD 
+documentation, and automated testing
+* Large-scale MVC web application development experience using CSS, 
+AJAX, JSON, and PrototypeJS
+* Background developing in a LAMP (Linux, Apache2, MySQL, Perl) environment
+
+Website for more information: http://www.norchemlab.com/
+
+Contact information at:
+http://jobs.perl.org/job/12966#contact

@@ -1,0 +1,74 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12568
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 9613 invoked from network); 5 Jul 2012 18:17:32 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 5 Jul 2012 18:17:32 -0000
+Received: (qmail 17202 invoked by uid 225); 5 Jul 2012 18:17:31 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 17198 invoked by alias); 5 Jul 2012 18:17:31 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,LOTS_OF_MONEY
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 05 Jul 2012 11:17:28 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 916412AFDF; Thu,  5 Jul 2012 11:17:25 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 5 Jul 2012 11:17:25 -0700
+Message-ID: <20120705181725.916412AFDF@x3.develooper.com>
+Subject: Perl Engineer - hedge fund, London, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16202
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July  5, 2012
+
+Job title: Perl Engineer - hedge fund
+
+Company name: Westbourne Partners
+
+Location: London, UK
+
+Pay rate: £60,000 - £100,000
+
+Terms of employment: Salaried employee
+
+Length of employment: permanent
+
+Hours: Full time
+
+Description:
+We are a systematic hedge fund based in the City of London. Our core
+strengths are technology and research. If you would enjoy working as part
+of a small team of investment professionals then we would love to hear from
+you.
+We are currently recruiting software developers with a focus on Perl
+development.
+You will be work on the development and integration of applications and
+algorithms used for analysing markets and entirely automating the trading
+process.
+
+Required skills:
+-OOP (OO Perl)
+-Perl scripting
+-Perl modules: Template::Toolkit, CGI::Prototype, Test::More, LWP, Embperl 
+
+-Comfortable using Unix/Linux on the command line 
+-A BSc in Computer Science, Computer Engineering or related technical
+discipline.
+
+Desired skills:
+-Java / Apache / Web environment knowledge are advantageous but required
+
+Contact information at:
+http://jobs.perl.org/job/16202#contact

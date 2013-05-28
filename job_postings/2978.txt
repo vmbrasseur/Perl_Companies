@@ -1,0 +1,110 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2978
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 24371 invoked from network); 18 Jul 2005 01:26:41 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 18 Jul 2005 01:26:41 -0000
+Received: (qmail 716 invoked by uid 225); 18 Jul 2005 01:26:41 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 711 invoked by alias); 18 Jul 2005 01:26:40 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 17 Jul 2005 18:26:36 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j6I1QXSL012066
+	for <jobs@perl.org>; Sun, 17 Jul 2005 18:26:33 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j6I1QXdi012064;
+	Sun, 17 Jul 2005 18:26:33 -0700
+Date: Sun, 17 Jul 2005 18:26:33 -0700
+Message-ID: <200507180126.j6I1QXdi012064@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Passive Security Scanner Control Panel Needed (telecommute), United States, Kentucky, Louisville
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2852
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 17, 2005
+
+Job title:
+Passive Security Scanner Control Panel Needed
+
+Company name: Nick Temple
+
+Internal ID: Security Scanner
+
+Location: United States, Kentucky, Louisville
+
+Pay rate: Open
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+I have just released an ebook that shows non-technical people how to begin
+to secure their websites. Part of the service I am providing is a scanning
+services that will:
+
+a) Search Google (using the API) and related websites for common security
+issues (old versions of vulnerable web software, unsecured front page
+extensions, etc).
+
+b)Does a basic port-scan for open vlulnerabilities, as well as
+recomendations for each port found open.
+
+I need the internal tool to perform these scans, then generate a "pretty"
+HTML report that lists the items checked, warnings in yellow and critical
+issues highlighted in red.
+
+Other ideas for passive, external scanning are welcome.
+
+I need someone to build this tool, using existing open source software.
+Customers are predominantly on shared hosted environments, with ISP's that
+may not be security conscious.	Many also have unmanaged dedicated servers
+that are extremely insecure.
+
+Also, I need a tool that helps me look up the owner of the IP address
+(users ISP) so that I can do basic verification  and obtain permission
+before performing the scan.
+
+These tools are for internal use, the customers will not have access to the
+tools themselves only the generated reports.
+
+Finally, as an additional service, we need a few companies that we can
+outsouce server hardening to, when vulnerabilities are detected. I prefer
+companies that are Visa / Mastercard "certified", but that is not a
+requirement as long as I have some way to verify the company we recommend
+is indeed legitimate and well run / organized.
+
+Payment upon completion, longer term work availble for the
+rignt individual.
+
+
+Required skills:
+Perl, Security Awareness, Google API, Port Scanning software
+
+Desired skills: Fluent in english.
+
+URL for more information: http://www.dontgethacked.info/
+
+Contact information at:
+http://jobs.perl.org/job/2852#contact
+
+

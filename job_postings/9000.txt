@@ -1,0 +1,88 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9000
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 2558 invoked from network); 10 Feb 2009 21:19:04 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 10 Feb 2009 21:19:04 -0000
+Received: (qmail 27312 invoked by uid 225); 10 Feb 2009 21:19:04 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 27307 invoked by alias); 10 Feb 2009 21:19:03 -0000
+X-Spam-Status: No, hits=-5.2 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SUBJECT_NEEDS_ENCODING,SUBJ_ILLEGAL_CHARS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 10 Feb 2009 13:19:01 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 91E212B01C; Tue, 10 Feb 2009 13:18:57 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20090210211857.91E212B01C@x3.develooper.com>
+Date: Tue, 10 Feb 2009 13:18:57 -0800 (PST)
+Subject: Perl Support/Training (telecommute), Brazil, São Paulo, São Paulo
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/10184
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February  6, 2009
+
+Job title: Perl Support/Training
+
+Company name: chi
+
+Internal ID: PST/SAC
+
+Location: Brazil, São Paulo, São Paulo
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+We are using Perl to develop a GUI system to show a video feed and
+diagnostics, as I am new to Perl it is taking a little time to get started.
+ 
+
+I am planning to use wxPerl for the GUI stuff, and although it seems to
+work, I have been completely unable to get a video to run in a window.
+
+I should add an update to the above. I need help in a few areas, but I
+don't need all of them now. The three areas are wxPerl (I suppose I could
+use Tk, but wx seems to be more current), video (I don't mind whether we
+harness something like wxMedia or build our own avi player - I'm quite
+drawn towards the latter) and speech recognition in perl. I can't find
+anything on that at the moment.
+
+I am based in São Paulo, Brazil.
+
+We would like to buy some paid-for-support to help me get it going?
+
+Please let me know what sort of price I would have to pay.
+
+Required skills:
+Perl
+wxPerl
+Windows
+MySQL
+Video
+
+
+Desired skills:
+Linux
+avi format files
+
+
+Contact information at:
+http://jobs.perl.org/job/10184#contact
+
+

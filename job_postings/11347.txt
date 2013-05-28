@@ -1,0 +1,128 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11347
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28182 invoked from network); 26 May 2011 22:41:13 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 26 May 2011 22:41:13 -0000
+Received: (qmail 28075 invoked by uid 225); 26 May 2011 22:41:13 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 28070 invoked by alias); 26 May 2011 22:41:13 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 26 May 2011 15:41:11 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 129372AFE2; Thu, 26 May 2011 15:41:08 -0700 (PDT)
+To: jobs@perl.org
+Date: Thu, 26 May 2011 15:41:07 -0700
+Message-ID: <20110526224108.129372AFE2@x3.develooper.com>
+Subject: Software Engineer for Digital Archive Service (onsite), United
+ States, CA, San Francisco
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14230
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 26, 2011
+
+Job title: Software Engineer for Digital Archive Service
+
+Company name: Internet Archive
+
+Internal ID: digarchive
+
+Location: United States, CA, San Francisco
+
+Pay rate: TBD
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The Internet Archive is building a new, hosted Digital Archiving service to
+be launched in 2011 that will provide storage, maintenance and access for
+the digital collections of memory institutions. The Digital Archive
+Engineer will be a key player on a small team of people building this
+service from the ground up.
+
+This new service will interact with several existing projects at the
+Internet Archive, requiring the ability to understand and integrate
+technologies written in several different programming languages. The ideal
+candidate must therefore be resourceful, flexible and enjoy working on a
+highly collaborative but loosely structured team.
+
+You will help us define the parameters of the service, figure out how to
+ingest media files from partner institutions and other storage systems and
+build methods for patrons to access the materials. Your work will range
+from back end to middleware right on up to the user interface but will
+initially focus on design and development of the Digital Archive API (in
+Perl or whichever language makes the most sense for the project).
+
+This position is based in San Francisco, CA. We cannot consider
+telecommuters at this time.
+
+Applicants must be able to work in the United States. We are unable to
+sponsor work visas at this time.
+
+We are an equal opportunity employer. The Archive thanks all applicants for
+their interest, but advises that only those selected for an interview will
+be contacted. No phone calls please.
+
+The Internet Archive is a 501(c)(3) non-profit that was founded to build an
+Internet library. Its purposes include offering permanent access for
+researchers, historians, scholars, people with disabilities, and the
+general public to historical collections that exist in digital format. Now
+the Internet Archive includes texts, audio, moving images, and software as
+well as archived web pages in our collections, and provides specialized
+services for adaptive reading and information access for the blind and
+other persons with disabilities. Internet Archive is the home of services
+such as OpenLibrary, the Wayback Machine and Archive-It along with several
+other open source projects.
+
+
+Required skills:
+
+* A strong commitment to the goals and values of the Internet Archive
+mission
+* Several years of recent, hands-on software development experience
+* Experience both designing and implementing APIs for both public and
+internal use
+* Must be able to communicate clearly and effectively with coworkers and
+partners of all technical levels
+* Knowledge of basic Linux system administration
+* Fluency in at least one scripting language like shell or Perl
+
+
+Desired skills:
+
+* Strong knowledge of web development technologies including HTML, CSS,
+etc.
+* Ability to work in--and enjoy--a loosely structured work environment
+* Experience with one or more common web development programming language
+(PHP, Python, Ruby, etc.)
+* A strong appreciation for and at least basic understanding of UI and UX
+design
+* Experience with JavaScript, including but not limited to one or more
+common JavaScript frameworks such as JQuery or Sencha/extJS
+* Experience building user-facing media or information portals
+* Software development experience in Java (server and UI)
+* Knowledge of deployment of web applications and services (hands-on
+experience strongly preferred) Experience working with libraries or other
+metadata-heavy institutions or processes
+
+
+Website for more information: http://archive.org/
+
+Contact information at:
+http://jobs.perl.org/job/14230#contact

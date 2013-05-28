@@ -1,0 +1,94 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4839
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 18368 invoked from network); 23 Aug 2006 00:35:59 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 23 Aug 2006 00:35:59 -0000
+Received: (qmail 7492 invoked by uid 225); 23 Aug 2006 00:35:59 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 7482 invoked by alias); 23 Aug 2006 00:35:58 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 22 Aug 2006 17:35:55 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id D8DD32AFE2; Tue, 22 Aug 2006 17:35:50 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060823003550.D8DD32AFE2@x3.develooper.com>
+Date: Tue, 22 Aug 2006 17:35:50 -0700 (PDT)
+Subject: System developer at progressive non-profit (onsite), United States, DC, Washington
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4545
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 22, 2006
+
+Job title:
+System developer at progressive non-profit
+
+Company name: Media Matters
+
+Location: United States, DC, Washington
+
+Pay rate: based on experience
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Media Matters for America is a progressive, nonprofit research and
+information center in Washington, D.C., dedicated to comprehensively
+monitoring, analyzing, and correcting conservative misinformation in the
+U.S. media. We seek a systems developer to support the evolution of our
+website, mediamatters.org, and other initiatives.
+
+This is a dynamic position well-suited to an innovative individual
+interested in working on progressive issues in an open-source software
+environment. In addition to website development, the position also involves
+working with our in-house video monitoring system and other projects.
+
+Responsibilities:
+* Help extend our website with new features and enhance its performance.
+* Help enhance our systems for media recording, archiving, and retrieval.
+* Conduct systems-administration work on our Unix Web, mail, and database
+servers.
+* Create Web applications to aid internal processes such as editorial
+workflow and Web publishing.
+* Other projects that fight the spread of conservative misinformation.
+
+Required skills:
+* Commitment to the organization's mission and values.
+* Experience programming in a Perl environment.
+* Minimum of two years of experience with LAMP-style Web development.
+* Minimum of two years working on Unix systems administration (apache,
+mysql, postfix, courier) and network architecture design.
+* Experience with XML and XHTML, familiarity with CSS and HTML 4.0.
+* Flexibility with schedule and a willingness to be on call when needed.
+
+Desired skills:
+* AJAX.
+* mod_perl, mod_rewrite, and mod_proxy.
+* Bachelor's degree in computer science or equivalent experience.
+
+URL for more information:
+http://mediamatters.org/about_us/jobs/sys_developer
+
+Contact information at:
+http://jobs.perl.org/job/4545#contact
+
+

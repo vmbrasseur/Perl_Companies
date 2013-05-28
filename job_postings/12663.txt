@@ -1,0 +1,128 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12663
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 12817 invoked from network); 15 Aug 2012 17:47:16 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 15 Aug 2012 17:47:16 -0000
+Received: (qmail 25271 invoked by uid 225); 15 Aug 2012 17:47:15 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 25267 invoked by alias); 15 Aug 2012 17:47:15 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 15 Aug 2012 10:47:12 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id E30832AFD2; Wed, 15 Aug 2012 10:47:08 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 15 Aug 2012 10:47:08 -0700
+Message-ID: <20120815174708.E30832AFD2@x3.develooper.com>
+Subject: Senior Quality Assurance Engineer (onsite), Cambridge, MA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16342
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 15, 2012
+
+Job title: Senior Quality Assurance Engineer
+
+Company name: Akamai Technologies
+
+Internal ID: 6289
+
+Location: Cambridge, MA
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+About the Job
+
+As a Senior Software Quality Engineer in Akamai’s Enterprise Cloud
+Engineering team, you will be responsible for testing and verification of
+software components and features that will power Akamai’s Edge Application
+Network.
+
+We are seeking an experienced Senior Software Quality Assurance Engineer
+with proven distributed systems experience and automation skills to work
+with the engineering and quality teams to build system-level test
+automation and execute automated and manual tests. An ideal candidate will
+have distributed system testing experience, strong analytical abilities,
+excellent teamwork and communication skills, and the ability to design,
+implement, maintain and extend effective system test automation solutions.
+
+About the Team
+
+You will be part of a highly skilled software engineering team responsible
+for the software that powers a scalable, highly distributed fault tolerant
+network of servers that hosts virtual machines running a variety of
+applications at the Akamai Edge. The software will interface with various
+elements of Akamai’s world-class infrastructure such as mapping, customer
+care systems, and the Akamai Network Operations Command Center. By
+leveraging our global deployment of networks, Akamai can uniquely solve
+problems and exceed fundamental limitations of traditional networking.
+
+Responsibilities:
+- Work closely with developers, DevQA, SQA Engineers and others to design,
+develop, implement and improve test methodologies, test plans and highly
+effective test automation.
+- Perform manual and automated functional and full system tests for
+Akamai’s Enterprise Cloud Products.
+- Execute tests on a large-scale distributed test network.
+- Create, deploy and maintain automated system tests to replicate
+real-world scenarios.
+- Review bug descriptions, functional requirements and design documents,
+incorporating this information into test plans and test cases.
+
+Required skills:
+Basic Qualifications
+- Education: Bachelor’s Degree in Computer Science or equivalent
+experience.
+- Overall Experience: Minimum of 5 years experience in software quality
+and/or software development engineering experience.
+- Minimum of 5 years experience in server-side SQA and/or software
+development engineering experience.
+- Minimum of 3 years experience testing and/or developing distributed
+applications/services.
+- Minimum of 3 years experience working with UNIX/Linux operating system.
+- Minimum of 3 years experience working with one of more common scripting
+languages such as perl, python, ruby, php, and/or shell.
+- Minimum of 3 years experience developing and/or executing back-end system
+test automation.
+- Minimum of 3 years experience working with one or more common Internet
+protocols such as IP, TCP, HTTP, DNS, FTP, and/or SSL.
+
+Desired skills:
+Desired Qualifications
+- Education: Master’s Degree or greater in Computer Science.
+- Excellent oral and written communications skills.
+- Strong experience developing and maintaining test automation scripts,
+libraries and frameworks (OO methodologies strongly preferred, OO Perl
+strongly preferred).
+- Experience with Linux internals.
+- Experience with client/server testing.
+- Experience testing large-scale, large-volume and highly distributed
+systems.
+- Experience with/knowledge of hypervisor technologies (such as KVM,
+VMWare, Xen or Hyper-V).
+- Highly driven, positive attitude, team player, self-motivated and very
+flexible.
+- Strong analytical skills, attention to detail and excellent problem
+solving/troubleshooting skills.
+
+Website for more information: http://www.akamai.com
+
+Contact information at:
+http://jobs.perl.org/job/16342#contact

@@ -1,0 +1,72 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7879
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 14640 invoked from network); 25 Mar 2008 14:13:22 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 25 Mar 2008 14:13:22 -0000
+Received: (qmail 30361 invoked by uid 225); 25 Mar 2008 14:13:22 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 30356 invoked by alias); 25 Mar 2008 14:13:21 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 25 Mar 2008 07:13:19 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 814672AFDA; Tue, 25 Mar 2008 07:13:15 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080325141315.814672AFDA@x3.develooper.com>
+Date: Tue, 25 Mar 2008 07:13:15 -0700 (PDT)
+Subject: Developer (onsite), South Africa, Gauteng, Johannesburg
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8244
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 25, 2008
+
+Job title: Developer
+
+Company name: Busii
+
+Location: South Africa, Gauteng, Johannesburg
+
+Pay rate: Negotiable
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Developer required for data staging (ETL) development. Possibility of web
+application development.  
+
+Required skills:
+- SQL
+- Batch data movement/integration applications
+- Perl on Linux/Unix
+- Regular expressions
+- Perl DBI
+- Linux/Unix shell and associated utilities as a development environment
+- SDLC
+
+Desired skills:
+- Version control tool: cvs or Subversion
+- Web development using Apache, Perl CGI, HTML::Mason
+- Automated testing using Perl modules
+
+Contact information at:
+http://jobs.perl.org/job/8244#contact
+
+

@@ -1,0 +1,127 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8595
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 10017 invoked from network); 23 Aug 2008 20:45:32 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 23 Aug 2008 20:45:32 -0000
+Received: (qmail 20791 invoked by uid 225); 23 Aug 2008 20:45:31 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 20784 invoked by alias); 23 Aug 2008 20:45:31 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 23 Aug 2008 13:45:27 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id EE3062AFE8; Sat, 23 Aug 2008 13:45:23 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080823204523.EE3062AFE8@x3.develooper.com>
+Date: Sat, 23 Aug 2008 13:45:23 -0700 (PDT)
+Subject: Operations Support - Telecom ASP (onsite), United States, California, Lafayette
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/9474
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 20, 2008
+
+Job title: Operations Support - Telecom ASP
+
+Company name: Switch Management
+
+Internal ID: operations-support
+
+Location: United States, California, Lafayette
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+This is an excellent job if you've been using Linux for a couple of years,
+know some Perl, and want to widen your skill set. You will be responsible
+for monitoring our network of Linux servers, setting up accounts for new
+customers, setting up and troubleshooting data collection services for new
+customers, monitoring server load and ensuring adequate server capacity,
+monitoring system alarms and warnings, and working with senior system
+engineers troubleshooting and fixing system problems. As you learn these
+tasks you will be responsible for automating most of these activities using
+Perl, graduating to more and more complex Perl programming tasks based on
+your developing skill set.
+
+Switch Management is a 8-year old Lafayette-based telecom software company
+known for its innovative and award-winning telecom billing products,
+including WebCDR and RADIUS ASP. We're a small, growing company that uses
+Linux, Perl, Apache, and Oracle to make order out of telecom chaos. We
+specialize in processing large volumes of telecom data and computing the
+inter-carrier settlement payments for international telecommunications
+companies.
+
+We currently have a large, happy, and growing list of global companies as
+clients and a list of programming projects that need to be completed.
+Knowledge of the telecommunications industry is helpful but not required. 
+
+Required skills:
+Required Technical Skills
+
+    * Minimum 2 years working with Linux on a daily basis
+    * Proven troubleshooting skills
+    * Understanding of Perl and Bash shell scripting
+    * Working understanding of FTP, ssh, and rsync
+    * Experience in a network operations environment 
+
+Professional
+
+    * Excellent spoken and written English. This position requires direct
+customer interaction for application support.
+    * Ability to help clients via telephone and email in a tech support
+role.
+    * Highly productive; revenue aware.
+    * Ability to accept direction and instruction from management.
+    * Ability to track and communicate status of your projects to
+management on a recurring basis.
+    * Ability to multi-task and prioritize your workload.
+    * Ability to organize yourself and your projects.
+    * Must be able to work on-site in our Lafayette offices 5 days a week
+(Monday – Friday). 
+
+Personal
+
+    * Highly intelligent, innovative problem-solver.
+    * Detail oriented with strong follow-through.
+    * Ability to learn new concepts quickly.
+    * Happy working solo or in a team.
+    * Reliable, trustworthy, honest.
+    * Sense of humor a must. 
+
+Desired skills:
+Desired technical skills
+
+    * Experience with Nagios monitoring software
+    * Experience in a network operations environment.
+    * Database experience (Oracle a plus)
+    * Apache 2.2 configuration knowledge
+    * FreeRADIUS
+    * Cisco VoIP knowledge 
+
+These are desired skills. If there are gaps in your knowledge we have no
+problem teaching you if you want to learn new skills. 
+
+URL for more information:
+http://www.switchmanagement.com/operations_position.html
+
+Contact information at:
+http://jobs.perl.org/job/9474#contact
+
+

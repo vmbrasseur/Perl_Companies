@@ -1,0 +1,104 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4932
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 6065 invoked from network); 12 Sep 2006 19:21:00 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 12 Sep 2006 19:21:00 -0000
+Received: (qmail 30895 invoked by uid 225); 12 Sep 2006 19:20:59 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 30824 invoked by alias); 12 Sep 2006 19:20:52 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_05
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 12 Sep 2006 12:20:44 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id F156E2AFEA; Tue, 12 Sep 2006 12:20:25 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060912192025.F156E2AFEA@x3.develooper.com>
+Date: Tue, 12 Sep 2006 12:20:25 -0700 (PDT)
+Subject: Systems Programmer II (onsite), United States, South Carolina, Columbia
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4640
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 12, 2006
+
+Job title: Systems Programmer II
+
+Company name:
+University of South Carolina, Baruch Institute for Marine and Coastal
+Sciences
+
+Location: United States, South Carolina, Columbia
+
+Pay rate: $49,533
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The candidate will utilize existing, and develop as needed, software and
+hardware infrastructure to support the ocean sciences program developments
+of the Caro-COOPS (Carolinas Coastal Ocean Observing and Prediction System
+http://carocoops.org) , SEACOOS (Southeast Atlantic Ocean Observing System
+http://seacoos.org ) and larger national and international ocean observing
+systems by extension.  Development requires the ability to use Linux server
+shell scripting and Perl for data processing, PHP for web pages and
+SQL/PostgreSQL/PostGIS for data storage.
+
+The position includes the following responsibilities:
+
+* Data processing to and from server filesystems or databases.
+* Discussion with users or technical community regarding requirements for
+product development or services.
+* Development, documentation and maintenance of products or services.
+
+Looking for candidates who have an interest in ocean sciences and the use
+of more traditional IT data management techniques as applied to more
+research oriented observing systems and data.  The candidate should be
+self-motivated and interested in learning from and contributing back to the
+ocean sciences data management and research communities.
+
+The candidate will have a large amount of oversight until existing
+development and work processes have been learned.  The candidate will
+continue to be directed until aware of the current user/community needs and
+able to utilize or develop solutions independently. 
+
+
+Required skills:
+Bachelor's degree in computer science, electrical and/or computer
+engineering or related field and six (6) years relevant experience
+experience or Master's degree and four (4) years relevant experience or
+equivalent. Knowledge of Linux operating system (or UNIX), Perl language
+(or Python, Java, C, or C++), PostgreSQL relational database (or Oracle,
+SQL Server), and PHP web language (or JSP or ASP).
+
+Development is mostly within a Linux server environment requiring candidate
+to be proficient and comfortable working in this type of environment which
+is mostly command line interface oriented.  The candidate may also be
+moving between several concurrent work tasks budgeting time as needed, and
+will need to communicate well, both verbally and written, with other
+developers and users.  
+
+
+URL for more information: https://uscjobs.sc.edu/
+
+Contact information at:
+http://jobs.perl.org/job/4640#contact
+
+

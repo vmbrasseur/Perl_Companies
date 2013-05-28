@@ -1,0 +1,79 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2951
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 7373 invoked from network); 10 Jul 2005 00:25:54 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 10 Jul 2005 00:25:54 -0000
+Received: (qmail 32071 invoked by uid 225); 10 Jul 2005 00:25:54 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 32067 invoked by alias); 10 Jul 2005 00:25:53 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 09 Jul 2005 17:25:50 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j6A0Pltj028702
+	for <jobs@perl.org>; Sat, 9 Jul 2005 17:25:47 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j6A0Pl6J028700;
+	Sat, 9 Jul 2005 17:25:47 -0700
+Date: Sat, 9 Jul 2005 17:25:47 -0700
+Message-ID: <200507100025.j6A0Pl6J028700@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: CGI application programmer (telecommute), Ukraine, Dniepropetrovsk
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2825
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July  9, 2005
+
+Job title: CGI application programmer
+
+Company name: MakePerl.com
+
+Location: Ukraine, Dniepropetrovsk
+
+Pay rate: under discussion
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: 1-2 months
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+MakePerl.com is looking for the few Perl programmers for our projects. 
+Working in our office in Dniepropetrovsk, but telecommute contractors are
+also acceptable.
+
+Required skills:
+- Perl
+- MySQL
+- CGI
+
+Desired skills:
+- CGI::Application
+- GD, Image::Magick
+- LWP, Net::FTP
+- C/C++/Java will be a plus
+
+
+Contact information at:
+http://jobs.perl.org/job/2825#contact
+
+

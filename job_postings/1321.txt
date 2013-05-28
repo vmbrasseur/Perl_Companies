@@ -1,0 +1,77 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:1321
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 91005 invoked by uid 76); 28 Jan 2004 09:58:28 -0000
+Received: from qmailr@one.develooper.com (HELO ran-out.mx.develooper.com) (64.81.84.115) by onion.perl.org (qpsmtpd/0.26) with SMTP; Wed, 28 Jan 2004 01:58:28 -0800
+Received: (qmail 9621 invoked by uid 225); 28 Jan 2004 09:58:27 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 9613 invoked by uid 507); 28 Jan 2004 09:58:27 -0000
+Received: from onion.develooper.com (HELO onion.perl.org) (63.251.223.166)  by one.develooper.com (qpsmtpd/0.27-dev) with SMTP; Wed, 28 Jan 2004 01:57:56 -0800
+Received: (qmail 56147 invoked by uid 1016); 28 Jan 2004 08:57:12 -0000
+Date: 28 Jan 2004 08:57:12 -0000
+Message-ID: <20040128085712.56146.qmail@onion.perl.org>
+To: jobs@perl.org
+X-Spam-Check-By: one.develooper.com
+X-Spam-Status: No, hits=1.8 required=7.0 tests=CARRIAGE_RETURNS,SPAM_PHRASE_03_05,TO_BE_REMOVED_REPLY version=2.44
+X-SMTPD: qpsmtpd/0.26, http://develooper.com/code/qpsmtpd/
+Subject: Server/Database Engineer at Six Apart (onsite), United States, CA, San Mateo
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1207
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 27, 2004
+
+Job title: Server/Database Engineer at Six Apart
+
+Company name: Six Apart
+
+Location: United States, CA, San Mateo
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Six Apart (http://www.sixapart.com/), the company behind the Movable Type
+and TypePad weblogging systems/services, is growing and we're looking for a
+server/database engineer to work on our TypePad service. You will be
+leading our transition between two major database platforms for our hosted
+service, TypePad, and administering our database and server platforms in an
+on-call position. The ideal candidate will be very detail-oriented,
+flexible, easy-going, have strong organization skills, and be comfortable
+with the fast pace of a small but growing company.
+
+Required skills:
+    - DB2
+    - Perl
+    - Apache
+    - Unix/Linux system administration experience
+    - High-availability environment administration experience
+    - Database clustering and performance optimization
+
+Desired skills:
+    - Experience with PostgreSQL
+    - Apache/mod_perl
+    - Familiarity with weblogs
+    - Experience with RedHat Linux and Intel hardware
+
+URL for more information: http://www.sixapart.com/jobs/
+
+Contact information:
+Please apply with cover letter (plain text) and résumé to
+jobs@sixapart.com. Also include links to previous work, CPAN modules,
+contributions to open source projects, etc as well as salary expectations.
+
+

@@ -1,0 +1,97 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6972
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 15563 invoked from network); 19 Sep 2007 15:37:13 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 19 Sep 2007 15:37:13 -0000
+Received: (qmail 16105 invoked by uid 225); 19 Sep 2007 15:37:12 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 16100 invoked by alias); 19 Sep 2007 15:37:11 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 19 Sep 2007 08:37:02 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 3D4EE2AFE4; Wed, 19 Sep 2007 08:36:59 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070919153659.3D4EE2AFE4@x3.develooper.com>
+Date: Wed, 19 Sep 2007 08:36:59 -0700 (PDT)
+Subject: Computer Biologist, United Kingdom, Hinxton; Cambridge
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/6777
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 19, 2007
+
+Job title: Computer Biologist
+
+Company name: Wellcome Trust Sanger Institute
+
+Internal ID: Ref 1403
+
+Location: United Kingdom, Hinxton; Cambridge
+
+Pay rate: £20,500 - £26,650
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Description:
+The Wellcome Trust Sanger Institute leads the world in genomic research,
+with an expanding scientific programme dedicated to understanding gene
+function in health & disease.
+The Wellcome Trust Sanger Institute therefore has played a major role in
+characterising human sequence variation (The SNP Consortium, HapMap
+project). We are currently involved in large-scale studies (e.g. WTCCC) in
+which we scan regional and genome-wide	
+marker sets for association to susceptibility genes in a range of common  
+diseases such as obesity, type 2 diabetes, cardiovascular disease and
+cancer. 
+
+We are seeking an experienced Computer Biologist to provide data management
+ 
+support for the laboratory and statistical groups involved in these
+projects. 
+Responsibilities will include; communicating with collaborators to assist 
+with experimental design and to provide results and analysis, applying
+quality
+control measures to maintain the accuracy of the data produced, development
+
+and maintenance of custom tools and assisting the lab members with problems
+faced 
+in the day to day running of the lab.
+
+
+Required skills:
+The ideal candidate will have a degree in the biological sciences and MSc 
+or equivalent experience in bioinformatics. Experience of writing and 
+maintaining Perl code in a UNIX/LINUX environment and using RDMS is
+essential.Good communication skills are also essential as the role involves
+
+working closely with lab scientists and collaborating with internal and 
+external groups.  
+
+
+Desired skills:
+Experience of managing large biological data sets and a familiarity with
+the 
+statistical tests used for quality control and association analysis would
+be 
+an advantage.
+
+URL for more information: http://www.sanger.ac.uk/
+
+Contact information at:
+http://jobs.perl.org/job/6777#contact
+
+

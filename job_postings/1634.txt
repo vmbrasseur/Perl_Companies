@@ -1,0 +1,89 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:1634
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 75217 invoked from network); 2 Jun 2004 21:31:54 -0000
+Received: from x1.develooper.com (63.251.223.170)
+  by onion.develooper.com with SMTP; 2 Jun 2004 21:31:54 -0000
+Received: (qmail 32431 invoked by uid 225); 2 Jun 2004 21:31:54 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 32427 invoked by alias); 2 Jun 2004 21:31:53 -0000
+X-Spam-Status: No, hits=0.0 required=7.0
+	tests=
+X-Spam-Check-By: la.mx.develooper.com
+Received: from onion.develooper.com (HELO onion.perl.org) (63.251.223.166)
+  by la.mx.develooper.com (qpsmtpd/0.27.1) with SMTP; Wed, 02 Jun 2004 14:31:53 -0700
+Received: (qmail 75205 invoked by uid 1016); 2 Jun 2004 21:31:52 -0000
+Date: 2 Jun 2004 21:31:52 -0000
+Message-ID: <20040602213152.75204.qmail@onion.perl.org>
+To: jobs@perl.org
+X-Spam-Rating: onion.develooper.com 1.6.2 0/1000/N
+Subject: Perl/MySQL developer - sponsored keyword matching (part onsite), United States, VA, Falls Church
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1527
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June  2, 2004
+
+Job title:
+Perl/MySQL developer - sponsored keyword matching
+
+Company name: IMAS Inc.
+
+Location: United States, VA, Falls Church
+
+Pay rate: Negotiable
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: 2-3 weeks
+
+Hours: Flexible
+
+Onsite: some
+
+Description:
+Need Perl developer with strong background interfacing via DBI to MySQL to
+create keyword matching system for our web sites. Goes like this: We sell
+keywords to sponsors, and each web page article that *has* their word(s)
+gets a sponsored text box at the end with their message and a URL
+
++ Need backend DB and front-end browser interface to store sponsor sign-up
+words, related info. 
+
++ Need backend scripts, front-end browser interface to allow sponsors to
+manage their own accounts after they have signed up. 
+
++ Need program to scan articles on server for keywords, logging in MySQL
+the ones that match sponsors.
+
+Web pages would NOT need to be dynamic, but updated with new/old words on a
+nightly basis. Some of the sign-up work already begun using PHP frontend
+and Perl BE. Mostly pretty straighforward stuff if you are truly
+experienced serving up pages through Perl DBI.
+
+Please note applicant *must* reside in metro D.C. area, as we will want to
+meet in person to discuss and interview before contracting out the work.
+Must be ready to start as soon as possible. Only individuals ... no search
+firms. 
+
+
+Required skills:
+Perl, DBI, MySQL, HTML, SSI, comfortable with Redhat Linux
+
+Desired skills: PHP, shell scripting
+
+Contact information:
+rfarrell@imaspub.com
+Put "Perl job" in the subject line.
+
+

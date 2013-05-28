@@ -1,0 +1,105 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7274
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13836 invoked from network); 14 Nov 2007 04:20:05 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 14 Nov 2007 04:20:05 -0000
+Received: (qmail 6256 invoked by uid 225); 14 Nov 2007 04:20:04 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 6232 invoked by alias); 14 Nov 2007 04:20:01 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 13 Nov 2007 20:19:57 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 8B5742AFEE; Tue, 13 Nov 2007 20:19:54 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20071114041954.8B5742AFEE@x3.develooper.com>
+Date: Tue, 13 Nov 2007 20:19:54 -0800 (PST)
+Subject: Senior Perl Engineer (onsite), United States, CA, West Hollywood
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/7279
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 13, 2007
+
+Job title: Senior Perl Engineer
+
+Company name: Ticketmaster
+
+Internal ID: AT-WH-SSE
+
+Location: United States, CA, West Hollywood
+
+Pay rate: DOE (USA)
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Ticketmaster is looking for a Senior Software Engineer to join our Online
+Transaction Applications Team. It’s an exciting opportunity to help evolve
+our product with next-generation web technologies.  The successful
+candidate will be working with other Developers, Systems Engineers, as well
+as Product Managers, Designers, and Quality Assurance professionals.  
+
+Responsibilities:
+• Design & implementation of complicated projects involving the
+architecture and development of code
+• Review preexisting complex code and provide recommendations to improve
+performance & maintainability
+• Write new code and perform enhancements that integrate with old code
+• Add new functionality to existing code
+• Fix problematic code
+
+
+Required skills:
+Requirements:
+• Minimum 3+ years complex application development experience in Perl
+• Solid understanding of common design patterns
+• Proficiency with Perl objects and object-oriented concepts
+• Development experience with Apache and mod_perl
+• SQL inserting, updating, retrieving, and optimization skills
+• Experience debugging complex code issues
+• Must be able to asses large complex code base quickly and accurately
+• Must be a team player
+• Ability to clearly communicate technical concepts and designs to
+non-developers
+• Experience with version control, ideally CVS or Subversion
+
+
+Desired skills:
+Preferences:
+• Community involvement with CPAN, Apache, mod_perl, or other open source
+projects
+• Experience building dynamic web applications with Javascript and Ajax
+• Data design and modeling
+• Experience with other languages such as C/C++, Lisp, Ruby, or Python
+• Knowledge of agile methodologies such as Test Driven Development or Scrum
+
+• Familiarity with development best practices, such as code reviews and
+unit testing
+• Experience developing international sites is a plus
+• Experience with MySQL and Oracle
+
+
+URL for more information: http://www.ticketmaster.com/careers
+
+Contact information at:
+http://jobs.perl.org/job/7279#contact
+
+

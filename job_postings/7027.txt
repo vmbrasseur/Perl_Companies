@@ -1,0 +1,106 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7027
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 2980 invoked from network); 27 Sep 2007 14:14:56 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 27 Sep 2007 14:14:56 -0000
+Received: (qmail 16960 invoked by uid 225); 27 Sep 2007 14:14:56 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 16955 invoked by alias); 27 Sep 2007 14:14:56 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 27 Sep 2007 07:14:39 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id BF96F2AFD7; Thu, 27 Sep 2007 07:14:36 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070927141436.BF96F2AFD7@x3.develooper.com>
+Date: Thu, 27 Sep 2007 07:14:36 -0700 (PDT)
+Subject: Experienced Perl Programmer (telecommute), United States, CA, Orinda
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/6845
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 27, 2007
+
+Job title: Experienced Perl Programmer
+
+Company name: Mountain News Corporation
+
+Location: United States, CA, Orinda
+
+Pay rate: Depends on Experience
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+Mountain News Corp (Orinda, CA) are the publishers of the #1 visited snow
+sports Web site: OnTheSnow.com. We are seeking for Perl experienced
+programmers who are available immediately. Experienced perl programmers
+only. Please send your resume with experience by e-mail only. 
+
+Required skills:
+*Perl* 
+Programmers is intimately familiar with Perl OO (all the ways to create an
+Object all the problems that pop up from an object). 
+This includes the Class::Accessor modules, Inheritance, Abstract
+constructors. Programmer should understand the limitations of perl
+inheritance and when composition should be used. 
+Performance is our mantra, we do not use Class::DBI or any other
+abstraction frameworks (Catalyst, Maypole, etc). 
+We separate our code/logic from the text (multi-lingual). 
+We use CPAN for our core low level functions (XML, JSON, DBI, URI, Crypt,
+Mail). We custom code our business rules. 
+
+*Application Layer* 
+We utilize Mod_Perl as our application environment. 
+This requires strict adherence to strict programming pragma. 
+Detailed knowledge about the mod_perl inner workings, how it operates with
+Apache and Perl. 
+We utilize MySQL for our database, detailed knowledge of MySQL and the DBI
+interfaces is a must. 
+
+*Scripting* 
+Inline is okay. 
+Procedural programming for one offs. 
+Well documented and structured. 
+Comfortable working with complex data structures. 
+XML Processing and creation. 
+Text Processing. 
+Regular Expressions 
+Familiarity with ISO character sets (UTF8/ISO-8859-1) Avoiding perl
+shortcuts 
+
+*We do not* 
+We do not use inline scripting. 
+AutoLoad 
+cgi-bin 
+CGI.pm 
+procedural --- Classes only. 
+use 3rd party shortcut, framework libraries 
+
+
+Desired skills:
+Relevant experience programming in a news and content environment.
+
+URL for more information: http://www.onthesnow.com/
+
+Contact information at:
+http://jobs.perl.org/job/6845#contact
+
+

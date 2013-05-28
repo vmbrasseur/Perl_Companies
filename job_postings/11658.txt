@@ -1,0 +1,96 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11658
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28972 invoked from network); 12 Sep 2011 07:56:59 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 12 Sep 2011 07:56:59 -0000
+Received: (qmail 19942 invoked by uid 225); 12 Sep 2011 07:56:59 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 19938 invoked by alias); 12 Sep 2011 07:56:58 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 12 Sep 2011 00:56:56 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 1E5522AFDF; Mon, 12 Sep 2011 00:56:53 -0700 (PDT)
+To: jobs@perl.org
+Date: Mon, 12 Sep 2011 00:56:52 -0700
+Message-ID: <20110912075653.1E5522AFDF@x3.develooper.com>
+Subject: Perl Application Support Developer (onsite), United Kingdom, London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13838
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 12, 2011
+
+Job title: Perl Application Support Developer
+
+Company name: NET-A-PORTER
+
+Location: United Kingdom, London
+
+Pay rate: Competitive with excellent benifits
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are looking for Perl developers to join our Application Support team,
+helping to resolve live issues on our back office systems.  Reporting to
+the Application Support Manager, successful candidates will be passionate
+about software, keen to learn, and user-focused.
+
+Required skills:
+Desirable Skills & Experience:
+Experience of any of the following will be useful but training will be
+provided to the right candidate.
+•Able to build high-quality web applications
+•Able to develop web-based web-based user interfaces (HTML, CSS) & APIs
+(JSON & XML)
+•Knowledge of CPAN modules and frameworks, particularly:
+oDBI, DBIx::Class, Catalyst, Template Toolkit and Moose
+•Experience building and testing high-availability applications
+•Understanding of:
+oPerl & Linux conventions
+oPerl testing frameworks
+oRefactoring
+oSQL (ideally Postgres / MySQL)
+oVersion Control Systems (SVN, SVK, P4, VSS, Git etc)
+oApache/FCGI & mod_perl
+•Exposure to:
+oAJAX & Javascript, & JS frameworks (jQuery, YUI)
+oAgile development methodologies
+oMessage queues (ideally ActiveMQ)
+•Some knowledge of Java would be useful
+
+Desired skills:
+Required Skills & Experience:
+•Able to investigate & trouble-shoot technical issues
+•Able to rapidly and effectively context-switch
+•Operating Systems: Linux & Windows
+•Server-side development in Perl
+•SQL/RDBMS  
+•HTML, CSS & Javascript
+•Version control systems  
+
+To Apply:
+follow this link http://tinyurl.com/3zc6k2w
+
+Website for more information:
+http://www.net-a-porter.com/?cm_mmc=MSNUK-_-Branded-_-Net-A-Porter-_-Net-A-
+Porter&bbcid=2625
+
+Contact information at:
+http://jobs.perl.org/job/13838#contact

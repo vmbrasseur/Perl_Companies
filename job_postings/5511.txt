@@ -1,0 +1,98 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5511
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 26646 invoked from network); 5 Jan 2007 03:24:35 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 5 Jan 2007 03:24:35 -0000
+Received: (qmail 12116 invoked by uid 225); 5 Jan 2007 03:24:35 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 12111 invoked by alias); 5 Jan 2007 03:24:34 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 04 Jan 2007 19:24:31 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id F2CF82B01F; Thu,  4 Jan 2007 19:24:27 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20070105032427.F2CF82B01F@x3.develooper.com>
+Date: Thu,  4 Jan 2007 19:24:27 -0800 (PST)
+Subject: Perl XML web services (part onsite), Australia, VIC, Melbourne
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5140
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January  4, 2007
+
+Job title: Perl XML web services
+
+Company name: Everyone Counts Inc
+
+Location: Australia, VIC, Melbourne
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: 12 weeks
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+Hi there,
+We are close to negotiating a job which will require Perl people for 12
+weeks to work with us from late Jan.  We need people who are comfortable
+with XML web services in Perl.	 We need to have new web services developed
+and glued to our existing, large code base as part of UK gov't
+interoperability for what we do.  
+
+You need to be physically in or near Melbourne, Australia and able to come
+to Carlton at least some days as you will need to meet with us a fair bit
+in this project.  We need you full time if not more.  You would need to be
+available from the last week of Jan or very soon after.
+
+Some of the work would be mounting Schematron and SAX services for existing
+schemas but most of the work will be working to understanding what the
+current system does and bridge the small and large gaps.  It's a hack, I
+know, and maybe you can help us see a bit of direction, but for now, we
+have to get up to speed.
+
+Your ability to see and solve problems, understand the 80/20 rule and make
+prudent use of Perl and CPAN under what may be fairly pressing timelines
+would be greatly appreciated.  Any experience with similar projects would
+be good as would knowledge of UK eGIF and our stack of Apache, mod_perl,
+MySQL, Debian.	
+
+You have to be insured and registered for Aust GST.  You need your own
+laptop and Internet access.  You need to agree to an Aust Federal Police
+check and you can't be a member of any political party.  
+
+Please only apply if you can physically attend Carlton, VIC, Australia or
+are willing to meatcommute.
+
+
+Required skills:
+Perl, XML, Apache mod_perl, MySQL
+
+
+Desired skills:
+Efficient problem solving with legacy codebases (patience)
+Internet security, "web development"
+
+URL for more information: http://everyonecounts.com/
+
+Contact information at:
+http://jobs.perl.org/job/5140#contact
+
+

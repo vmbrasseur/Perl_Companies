@@ -1,0 +1,94 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11187
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 2773 invoked from network); 8 Apr 2011 00:43:57 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 8 Apr 2011 00:43:57 -0000
+Received: (qmail 17103 invoked by uid 225); 8 Apr 2011 00:43:57 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 17099 invoked by alias); 8 Apr 2011 00:43:57 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 07 Apr 2011 17:43:54 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 916D62AFE9; Thu,  7 Apr 2011 17:43:51 -0700 (PDT)
+To: jobs@perl.org
+Date: Thu, 7 Apr 2011 17:43:51 -0700
+Message-ID: <20110408004351.916D62AFE9@x3.develooper.com>
+Subject: Perl/Oracle web-based tools programmer for retail (onsite), United
+ States, VA, Quantico
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13988
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April  5, 2011
+
+Job title: Perl/Oracle web-based tools programmer for retail
+
+Company name: US Marine Corps - MCCS (www.usmc-mccs.org)
+
+Internal ID: 39-11
+
+Location: United States, VA, Quantico
+
+Pay rate: 65K-75K USD annual
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Designs, codes, and implements high performance, modular applications
+following a predominately object oriented design methodology. Codes modules
+that interface with various databases and third party systems. Designs and
+implements graphical user interfaces using web technologies. Designs
+database schemas that follow the principles of normalization. Develops
+software that is line with MCCS security requirements. Maintains and debugs
+existing source code and software. Develops unit tests to match software
+modules (test driven development). Defines system specifications, and, when
+necessary, gathers application requirements. Serves as a member of the
+Programming Support Team.
+
+
+Required skills:
+Bachelor’s degree in Information Technology, Computer Science or a related
+field appropriate to the work of position AND three years hands-on software
+development experience using Perl, OR an appropriate combination of
+education and experience that demonstrates possession of knowledge and
+skill equivalent to that gained in the above, OR appropriate experience
+that demonstrates that the applicant has acquired the knowledge, skills,
+and abilities equivalent to that gained in the above.
+
+
+Desired skills:
+Knowledge of object oriented development methodologies with special
+emphasis on encapsulation and abstraction.  Experience working in a
+UNIX-like operating system.  In depth knowledge of Oracle SQL and PL/SQL
+concepts including: table design, views, and triggers, packages, types, and
+sequences.  Skilled at identifying and resolving problems with application
+software through the use of analysis, synthesis, and deduction.  Skilled at
+evaluating existing system capabilities, compatibility, and
+interoperability even when existing documentation is lacking. Working
+knowledge of the following additional technologies is required: Perl (web
+application development), Oracle SQL and PL/SQL, HTML, CSS, JavaScript,
+Bash, Java.  Familiarity with the following technologies is a plus: MySQL,
+Apache, mod_perl, Mason, Groovy, Python, SOAP, LDAP, Glassfish or other
+J2EE application servers.
+
+Website for more information:
+http://www.usmc-mccs.org/employ/jobVacResults.cfm?sid=emp&smid=2
+
+Contact information at:
+http://jobs.perl.org/job/13988#contact

@@ -1,0 +1,108 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6937
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 585 invoked from network); 11 Sep 2007 03:37:02 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 11 Sep 2007 03:37:02 -0000
+Received: (qmail 6658 invoked by uid 225); 11 Sep 2007 03:37:01 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 6652 invoked by alias); 11 Sep 2007 03:37:01 -0000
+X-Spam-Status: No, hits=-8.7 required=8.0
+	tests=BAYES_20,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 10 Sep 2007 20:36:46 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id B24A52AFE5; Mon, 10 Sep 2007 20:36:42 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070911033642.B24A52AFE5@x3.develooper.com>
+Date: Mon, 10 Sep 2007 20:36:42 -0700 (PDT)
+Subject: Platform Engineer, United States, CA, Palo Alto
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/6235
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 10, 2007
+
+Job title: Platform Engineer
+
+Company name: IntApp
+
+Location: United States, CA, Palo Alto
+
+Pay rate: DOE
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Description:
+***************************
+Company Description
+***************************
+IntApp, Inc. is a privately held software company based in Palo Alto
+(conveniently located next to Fry’s Electronics). Founded in 2000 and
+profitable for five years, we offer powerful integration technology that
+enables software applications that were not designed to work together to
+share information.
+
+The opportunities for our core technology span multiple markets. Today, we
+focus primarily on the legal market, helping law firms to maximize billable
+hours, optimize internal operations, and control access to sensitive
+information.
+
+Our leadership team includes seasoned entrepreneurs with a history of
+building successful technology companies. For instance, John Hall, our CEO,
+was a co-founder of VA Linux and helped lead the company to one of the most
+successful IPOs in history. We’re growing, and we’re looking for smart,
+hard-working people to fuel our growth.
+
+Our corporate culture rewards and encourages hard work, open communication,
+and teamwork. Everyone here is passionate about making our customers
+successful through superior technology, products and support.
+
+***************************
+Job Description
+***************************
+Our product is a platform that defines how data should be moved between
+many different sources such as databases, LDAP servers, and remote file
+systems. It allows users to manipulate data with our high-level graphical
+programming language.
+
+As one of our key developers, you will use Perl to design, implement, and
+maintain the back end for this tool. Your responsibility will be creating
+code that can robustly handle critical customer data without sacrificing
+the ease of use that has made our product successful.
+
+Our goal is to allow users to utilize such features as control flow, error
+handling, data persistence, and concurrency -- without having extensive
+programming experience.
+
+We are altering how our customers approach integration, and we need someone
+capable of helping us advance the technology even further. 
+
+Desired skills:
+* M.S. and/or B.S. degree in Computer Science
+* Object-oriented software development experience
+* Perl 5 (not required)
+* Excellent communication skills
+* Skills in as many of the following areas as possible: DBI, SQL, Apache,
+CGI/modperl, XML-RPC, SOAP, HTTP, LDAP, SSL, MySQL
+* Desire to grow personally and professionally 
+
+URL for more information: http://www.intapp.com/
+
+Contact information at:
+http://jobs.perl.org/job/6235#contact
+
+

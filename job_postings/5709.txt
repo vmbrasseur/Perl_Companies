@@ -1,0 +1,89 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5709
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 9551 invoked from network); 6 Feb 2007 17:19:46 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 6 Feb 2007 17:19:46 -0000
+Received: (qmail 15112 invoked by uid 225); 6 Feb 2007 17:19:46 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 15097 invoked by alias); 6 Feb 2007 17:19:44 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 06 Feb 2007 09:19:36 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 546462AFF4; Tue,  6 Feb 2007 09:19:32 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20070206171932.546462AFF4@x3.develooper.com>
+Date: Tue,  6 Feb 2007 09:19:32 -0800 (PST)
+Subject: Junior SysAdmin and Perl dev Class::DBI mod_perl, United Kingdom, Surrey, Surbiton
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5310
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February  6, 2007
+
+Job title:
+Junior SysAdmin and Perl dev Class::DBI mod_perl
+
+Company name: Shrewsbury House School
+
+Location: United Kingdom, Surrey, Surbiton
+
+Pay rate: 22000 GBP pa
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Description:
+Help with School Database Development (Perl, Class::DBI, TT with  MySQL)
+Updating and development of School's Website.
+Maintenance and development of School's computer network including wiring.
+Help with Computer Classrooms installations (20 computers in each
+classroom).
+Hardware and Software support (350 computers, 20 projectors, 5
+touchscreens). 
+Assisting teaching and office staff with software and hardware issues.
+Write comprehensive documentation (includes correct inline code comments).
+Monitor stability and performance.
+
+
+Required skills:
+ At least 4 years FreeBSD Unix administration experience.
+       High level of Programming/scripting skills: Perl5 CGI, Class::DBI,
+mod_perl2
+Working knowledge of TCP/IP networking.
+       Experience with following:
+	       - MTA Postfix and Curier with MySQL password backend
+	       - SAMBA PDC, Windows NT Domain and Windows Active Directory
+	       - Common UNIX Printing System
+	       - Apache2 with mod_perl2
+- MySQL and OpenLDAP, some experience with M$ Access97 would be
+benefit but not essential.
+- W3 cache  Squid
+- Windows XP, Debian GNU Linux
+Strong communication skills; desire to work as part of a team.
+
+Desired skills:
+creating PDF files using templates and data fetched from database
+GD and Image::Magic
+knowledge what is MVC
+Win32, admin misc and logon scripts
+some small knowledge about VBS and VBA
+
+
+Contact information at:
+http://jobs.perl.org/job/5310#contact
+
+

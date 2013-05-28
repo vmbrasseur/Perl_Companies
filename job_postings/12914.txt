@@ -1,0 +1,70 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12914
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 31458 invoked from network); 20 Nov 2012 21:16:38 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 20 Nov 2012 21:16:38 -0000
+Received: (qmail 15665 invoked by uid 225); 20 Nov 2012 21:16:38 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 15661 invoked by alias); 20 Nov 2012 21:16:37 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 20 Nov 2012 13:16:35 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id DE5402AFE0; Tue, 20 Nov 2012 13:16:31 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Tue, 20 Nov 2012 13:16:31 -0800
+Message-ID: <20121120211631.DE5402AFE0@x3.develooper.com>
+Subject: Develop a Mojolicious RESTful service to instantiate and control AWS
+ spot instances (telecommute), Planet Earth
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16728
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 20, 2012
+
+Job title:
+Develop a Mojolicious RESTful service to instantiate and control AWS spot
+instances
+
+Company name: Career Gear
+
+Location: Planet Earth
+
+Pay rate: $1000-$2000
+
+Terms of employment: Independent contractor (project-based)
+
+Onsite: no
+
+Description:
+We are in need of a web service which will enable us to create new amazon
+EC2 instances using specified AMIs. Essentially we need a set of wrappers
+over various Amazon EC2 API. 
+
+As a first step, we need some core features. The actual project is a large
+~6-9 month evolving "product". So based on commitment and leadership
+exhibited in this project, we are willing to extend all further development
+entirely to you.
+
+API requirements can be made available on demand.
+
+Required skills:
+Mojolicious
+Perl
+REST
+AWS APIs
+
+Contact information at:
+http://jobs.perl.org/job/16728#contact

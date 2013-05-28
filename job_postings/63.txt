@@ -1,0 +1,72 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:63
+Return-Path: <vorsprung@linuxufo.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 49468 invoked from network); 29 May 2001 12:46:03 -0000
+Received: from unknown (HELO cow.iomart.com) (212.38.173.90)
+  by onion.valueclick.com with SMTP; 29 May 2001 12:46:03 -0000
+Received: from snail.localhost (user163-108.iomart.com [212.38.163.108])
+	by cow.iomart.com (8.9.3/8.9.3) with SMTP id OAA10035
+	for <jobs@perl.org>; Tue, 29 May 2001 14:45:20 +0100
+Received: (from vorsprung@localhost)
+	by snail.localhost (8.9.3/8.9.3/Debian 8.9.3-21) id NAA01279
+	for jobs@perl.org; Tue, 29 May 2001 13:48:57 +0100
+Date: Tue, 29 May 2001 13:48:52 +0100
+To: jobs@perl.org
+Message-ID: <20010529134852.C851@maths.ex.ac.uk>
+Reply-To: Jamie Android <jamie@linuxufo.org>
+Mime-Version: 1.0
+Content-Type: multipart/signed; micalg=pgp-sha1;
+	protocol="application/pgp-signature"; boundary="PuGuTyElPB9bOcsM"
+Content-Disposition: inline
+User-Agent: Mutt/1.2.5i
+X-Spam-Rating: onion.valueclick.com 1.6.2 0/1000/N
+Subject: Programmer/ Systems Administrator/ Project Manager available (UK)
+Approved: news@nntp.perl.org
+From: jamie@linuxufo.org (Jamie Android)
+
+--PuGuTyElPB9bOcsM
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+
+Programmer/ Systems Administrator/ Project Manager available
+
+I have broad experience of Unix based systems, web site production and
+programming.  I have experience of managing Unix clusters of mixed AIX,
+HPUX, Solaris, Linux, FreeBSD and Irix machines.  I am familiar with
+unix a-z: apache, bind, cron, dump, ETRN, fsck, grep, head, ifconfig,
+job, kill, last, mkdir, named, openssl, passwd, queso, rcs, syslog,
+tcpdump, uptime, vi, wc, xntpd, yes and zmore are not strangers to me.
+I have managed a busy, content rich web site and mass virtual hosting
+for hundreds of clients.  My preferred programming language is perl.
+I have 8 years experience of perl programming and I am familar with most=20
+perl techniques. I can also use Java, C, shell on Unix platforms.
+
+I live in Devon, England and a permanent, challenging role in the
+south west would be great.   Short term contracts further afield are
+also welcome.  I have my own development environment and can telework
+from home if desired.
+
+Please contact me at jamie@linuxufo.org for a copy of CV
+
+--
+Jamie Andrews
+
+--PuGuTyElPB9bOcsM
+Content-Type: application/pgp-signature
+Content-Disposition: inline
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.0.4 (GNU/Linux)
+Comment: For info see http://www.gnupg.org
+
+iD8DBQE7E5q0mOMTmMhilnMRAt6JAJ4+V7h412h7wgDndJkZI8U6LwYa1wCfdWmZ
+bUIM4+wQ7Dw85UU5o0BHGVk=
+=oN9x
+-----END PGP SIGNATURE-----
+
+--PuGuTyElPB9bOcsM--

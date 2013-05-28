@@ -1,0 +1,92 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7326
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 6432 invoked from network); 23 Nov 2007 19:38:29 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 23 Nov 2007 19:38:29 -0000
+Received: (qmail 15828 invoked by uid 225); 23 Nov 2007 19:38:29 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 15817 invoked by alias); 23 Nov 2007 19:38:28 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 23 Nov 2007 11:38:21 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id D0D122AFDE; Fri, 23 Nov 2007 11:38:17 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20071123193817.D0D122AFDE@x3.develooper.com>
+Date: Fri, 23 Nov 2007 11:38:17 -0800 (PST)
+Subject: Search Technology Specialist (onsite), United Kingdom, London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/7364
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 23, 2007
+
+Job title: Search Technology Specialist
+
+Company name: Efficient Frontier
+
+Location: United Kingdom, London
+
+Pay rate: Up to 30K GBP
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+I am hiring an entry-level Perl developer to create tools that automate the
+analysis of advertising campaigns on Google, Yahoo and MSN search.
+
+Sample tasks include:
+
+- Automate the creation of new advertising campaigns on Google.
+
+- Use DBI to extract data from SQL databases, and then use Win32::OLE to
+output finished reports in Excel or Powerpoint format.
+
+- Create tools to analyse sales data in search of market trends.
+
+The ideal candidate is a recent computer science grad with some exposure to
+Perl.  Raw programming skill and a good attitude are the most important
+qualifications; the right person can pick up the finer points of Perl on
+the job.
+
+Benefits include stock options, a lot of autonomy in making design
+decisions, and working for a tech savvy manager (I used to hack Perl but
+don’t have the time any more).
+
+If you would like to know more, please email me with a bit about yourself
+and I’ll be happy to share a detailed job description and set up a time to
+speak further.	No recruiters please.
+
+Required skills:
+- Perl
+- SQL
+
+Desired skills:
+- Autonomous.  Able to decide issues of product design, select the
+appropriate technologies, and implement the solution.
+- Analytical with good problem solving skills.
+- Interest in online advertising and commerce.
+
+URL for more information: http://www.efrontier.com/
+
+Contact information at:
+http://jobs.perl.org/job/7364#contact
+
+

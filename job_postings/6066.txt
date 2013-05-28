@@ -1,0 +1,95 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6066
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 25791 invoked from network); 6 Apr 2007 23:44:34 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 6 Apr 2007 23:44:34 -0000
+Received: (qmail 18354 invoked by uid 225); 6 Apr 2007 23:44:34 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 18349 invoked by alias); 6 Apr 2007 23:44:34 -0000
+X-Spam-Status: No, hits=-2.6 required=8.0
+	tests=BAYES_00,DK_POLICY_SIGNSOME
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 06 Apr 2007 16:44:27 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 1B8572AFEF; Fri,  6 Apr 2007 16:44:24 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070406234424.1B8572AFEF@x3.develooper.com>
+Date: Fri,  6 Apr 2007 16:44:24 -0700 (PDT)
+Subject: Software Development Engineer in Test (onsite), United States, California, Los Angeles
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5607
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April  6, 2007
+
+Job title: Software Development Engineer in Test
+
+Company name: Language Weaver, Inc.
+
+Location: United States, California, Los Angeles
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Language Weaver, Inc. is looking for a fulltime Software Development
+Engineer in Test (SDET).  This position will be reporting to the Quality
+Assurance manager.
+
+The Software Engineer in Test will be responsible for the following
+tasks/duties:
+
+    * Maintaining and extending the Core Applications regression test
+harness
+    * Regression test failure analysis and debug
+    * Expanding regression test code coverage
+    * Refactoring and maintaining the build system
+    * Source code management of Core Applications with Subversion
+    * Build and release management of Core Applications
+    * Automated test tool development
+    * Core applications testing and debug
+
+Required skills:
+    * Four-year degree from an accredited institution in Computer Science,
+Engineering, or related. 
+    * Expert Perl skills with at least 3 years of non-academic development
+experience.  Must have comprehensive experience with most aspects of Perl
+programming (not just CGIs), including object oriented design.
+    * Proficient user of MS Windows, including the ability to configure
+workstations and servers and install and configure complex applications. 
+    * Source code management and versioning experience with SVN or CVS,
+including branching, tagging, and merging.  Strong understanding of
+configuration management principles.
+    * Experience developing or maintaining automated software build systems
+in a Windows environment.
+    * Very good technical writing and verbal communication skills.  
+
+Desired skills:
+    * Build or Release management experience.
+    * Windows OS internals
+    * Linux
+    * C++, Java, .Net development
+
+URL for more information:
+http://www.languageweaver.com/Page.asp?LSM=&intNodeID=920&intPageID=1005
+
+Contact information at:
+http://jobs.perl.org/job/5607#contact
+
+

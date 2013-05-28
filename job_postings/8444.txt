@@ -1,0 +1,135 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8444
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 31817 invoked from network); 14 Jul 2008 20:29:37 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 14 Jul 2008 20:29:37 -0000
+Received: (qmail 17256 invoked by uid 225); 14 Jul 2008 20:29:37 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 17246 invoked by alias); 14 Jul 2008 20:29:36 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 14 Jul 2008 13:29:31 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id ECE082AFE2; Mon, 14 Jul 2008 13:29:25 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080714202925.ECE082AFE2@x3.develooper.com>
+Date: Mon, 14 Jul 2008 13:29:25 -0700 (PDT)
+Subject: Telecommute Position For Healthcare ASP in New York (telecommute), United States, New York, New York
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/9188
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 10, 2008
+
+Job title:
+Telecommute Position For Healthcare ASP in New York
+
+Company name: Medikin Incorporated
+
+Location: United States, New York, New York
+
+Pay rate: commensurate with experience
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: long term
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+If you are looking for a long-term position which gives you the flexibility
+to work from your current location, and if you choose to respond
+_PLEASE_ANSWER_ALL_ of the questions posed at the end of the desired skills
+section of this post.
+
+Medikin Incorporated is a Healthcare IT company based in New York City.
+More specifically we are a TASP or Transcription ASP. Our software
+automates the daily workflow for more than 100 medical transcription
+companies. We've been in business since 2002.
+
+We have a number of projects which we would like to implement in the near
+future, so we are looking for approximately two eager developers to become
+an integral part of our development team. The technical requirements for
+the positions are as follows: 
+
+Required skills:
+1. PERL / CGI - the more experience the better since the application is
+written almost entirely in PERL.
+2. Familiarity with cross platform development for Windows, Mac and Linux
+3. Familiarity with best practices in application development,
+documentation, etc.
+4. Ability to understand and unwind spaghetti code. See number 2 above. We
+are working towards that.
+5. Not an absolute requirement but a very strong plus - Familiarity with
+Windows interfacing technologies such as either ASP.NET, Java or C#
+6. Not an absolute requirement but a strong plus - Familiarity with AJAX 
+
+Desired skills:
+A. Project management in software development. We are looking for a team
+leader who has demonstrated skills in this area.
+B. Familiarity with PostgreSQL is a plus. Advanced DBA skills would be
+great so that we can optimize queries and keep the database well tuned.
+C. Sysadmin skills with the LAMP stack. We have a full-time sysadmin so
+we're not expecting the candidate to stray too much from development work.
+This is more for backup and occasional loadbalancing of our sysadmin.
+D. Speaking of backup and loadbalancing, we're aiming to build our app into
+a bulletproof ASP, so we're investigating various high availability and
+scalability solutions such as replication and clustering. If you have
+familiarity with clustering, load-balancing, replication or
+point-in-time-recovery solutions that will be a major plus.
+E. Familiarity with transcription workflow is a major plus.
+
+The work also involves second-level support, which means you would be
+responsible for fixing bugs and communicating with our support staff.
+Therefore clear written and spoken English skills and a customer-care
+approach are valued as well.
+
+Being available around the clock is a plus. We rarely have major incidents
+and don't expect everyone to be on call 24/7. However, our application,
+although it is utilized mostly during business hours, has to be online and
+working 24/7; so our staff must understand and be OK with the duties that
+come with being a critical part of our team.
+
+If this seems like an interesting opportunity to you, let me know why you
+believe you are a good candidate, and specifically let me know:
+
+1. your availability – when you can start and if there are any impediments
+to your working full-time or on a long-term basis
+2. your desired work status – are you looking for project work or a
+long-term affiliation, full-time or part-time work, remote teleworking or
+work in our office
+3. if you may work remotely - where you will work from (home, cybercafe, an
+office?) and whether you have reliable Internet access and a sufficiently
+disturbance-free (office quality) atmosphere in that location.
+4. your compensation requirements.
+
+We are interested in developers whose telecommuting arrangement enables
+them to be well satisfied at a rate far lower than the going rates for
+experienced developers in New York City. We're interested in meeting local
+folks as well, but cost is always a concern and is the primary reason we
+are willing to consider remote workers.
+
+When formulating your reply please be sure to respond to each of the points
+above, and please attach your resume as well. Although I have seen it
+already I'm emailing several individuals and I would like to have your
+resume in-line with your response.
+
+URL for more information: http://www.medikin.com/
+
+Contact information at:
+http://jobs.perl.org/job/9188#contact
+
+

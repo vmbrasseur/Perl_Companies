@@ -1,0 +1,75 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11904
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 5312 invoked from network); 29 Nov 2011 08:02:32 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 29 Nov 2011 08:02:32 -0000
+Received: (qmail 4498 invoked by uid 225); 29 Nov 2011 08:02:32 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 4494 invoked by alias); 29 Nov 2011 08:02:32 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 29 Nov 2011 00:02:29 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 6618E2AFE0; Tue, 29 Nov 2011 00:02:26 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Tue, 29 Nov 2011 00:02:26 -0800
+Message-ID: <20111129080226.6618E2AFE0@x3.develooper.com>
+Subject: Project based Perl and mySQL programmer (telecommute), Bridgeport,
+ MI
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15202
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 29, 2011
+
+Job title: Project based Perl and mySQL programmer
+
+Company name: AutoNetTools.com
+
+Location: Bridgeport, MI
+
+Pay rate: Project based
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+Looking for a programmer who can take many of our systems already built in
+Perl and turn them from flat files to mySQL inside of Perl. Ex:
+Drivetheprice.com.
+
+We are an automotive internet marketing company looking to take our
+microsites and online inventory website portals into a
+scalable/remarketable format.
+
+Required skills:
+Perl for Linux
+mySQL
+
+These skllls will be used to take nightly data feeds via ftp data sources
+being sent in different formats and then aligning those files to create one
+database daily. Also to create the online shopping experience based on data
+alignment. No shopping cart.
+
+Desired skills:
+Additional projects available if able to use dreamweaver.
+
+Website for more information: http://www.autonettools.com
+
+Contact information at:
+http://jobs.perl.org/job/15202#contact

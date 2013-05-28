@@ -1,0 +1,98 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4863
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28891 invoked from network); 29 Aug 2006 13:23:39 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 29 Aug 2006 13:23:39 -0000
+Received: (qmail 3708 invoked by uid 225); 29 Aug 2006 13:23:38 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 3704 invoked by alias); 29 Aug 2006 13:23:38 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 29 Aug 2006 06:23:36 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id B76172AFE4; Tue, 29 Aug 2006 06:23:31 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060829132331.B76172AFE4@x3.develooper.com>
+Date: Tue, 29 Aug 2006 06:23:31 -0700 (PDT)
+Subject: Perl Software Engineer (onsite), United States, CA, San Francisco
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4577
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 28, 2006
+
+Job title: Perl Software Engineer
+
+Company name: Ensenda, Inc.
+
+Location: United States, CA, San Francisco
+
+Pay rate: Competetive
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Ensenda is a rapidly growing technology company that provides the fastest
+delivery possible. We’re an important logistics partner to some of the
+largest companies in the world, and we’re looking for the right candidates
+to join our tech team. As a Software Engineer at Ensenda, you’ll be working
+on new feature development for our products, maintenance of our
+application, and programming through our development cycle. In the process
+you’ll work on a host of interesting problems: tiered architectures, load
+balancing, framework development, code & DB optimization, etc. Most of our
+systems are written in Perl/modperl/Apache, with an eye towards moving to
+other technologies as appropriate, and you’ll also get exposure to, and
+have the opportunity to solve problems related to, high availability
+systems, database replication, and distributed processing. As a business we
+are set to grow, and the Software Engineer will play a key part.
+
+Required skills:
+The successful candidate will have a combination of great analytical and
+design skills, good software development skills and basic systems
+administration experience on an open-source stack (Linux/Apache/Perl). You
+will possess the following:
+
+1. Experience developing web based enterprise applications. Preference will
+be given to candidates with Perl.
+
+2. An interest in technology (hardware, software, and theory). Knowledge of
+core concepts of software engineering and programming: pointers and complex
+data structures, regular expressions and objects, imperative and functional
+programming. Experience with UNIX (Linux, BSD, etc.), relational database
+experience (SQL, joins), Apache, and a familiarity with XML.
+
+3. Dependability, excellent troubleshooting skills, and a hands-on
+attitude. You are hard-working, motivated, and smart.
+
+4. The ability to estimate effort for a project and subsequently deliver on
+your estimate.
+
+5. Versatility. Today we use Perl and a host of supporting technologies
+(Sybase, XML, etc.). Tomorrow we may be using something else. We expect
+that you will be open to developing in other technologies.
+
+
+URL for more information: http://www.ensenda.com/
+
+Contact information at:
+http://jobs.perl.org/job/4577#contact
+
+

@@ -1,0 +1,108 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5874
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 10965 invoked from network); 7 Mar 2007 14:00:16 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 7 Mar 2007 14:00:16 -0000
+Received: (qmail 7903 invoked by uid 225); 7 Mar 2007 14:00:15 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 7895 invoked by alias); 7 Mar 2007 14:00:14 -0000
+X-Spam-Status: No, hits=-2.6 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,DK_POLICY_SIGNSOME,MARKETING_PARTNERS
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 07 Mar 2007 06:00:11 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 0B18E2B03B; Wed,  7 Mar 2007 06:00:07 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20070307140007.0B18E2B03B@x3.develooper.com>
+Date: Wed,  7 Mar 2007 06:00:07 -0800 (PST)
+Subject: EAI component developer / Web app developer (onsite), Hungary, Budapest
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5454
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March  7, 2007
+
+Job title:
+EAI component developer / Web app developer
+
+Company name: Online Solutions Limited
+
+Internal ID: PJ01
+
+Location: Hungary, Budapest
+
+Pay rate: from 130k HUF / mo
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+ - Enterprise Application Integration
+ - Component Development
+ - Evolutionary Web Application Development and Maintenance
+
+Who we are:
+Online Solutions Limited is a small enterprise started 3 years ago. We have
+developed and are maintaining worldvacationrentals.net which advertises
+vacation rentals all around the world and is search engine optimized. Our
+clients are individual owners, travel agencies, and partner websites. Our
+service is providing inquiries and bookings. The company consists of an
+international team. We have IT, sales, and administration departments.
+
+What we do:
+We are constantly developing new features for our website, and integrating
+new partner systems. Examples of a feature: Ajax search enhancement,
+availability calendar + search, fuzzy region search. Example of partner
+integration: developing a module to connect a partner ( usually through
+some form of web service in XML ), developing a connector to adapt
+partner's data to a common format, and integrating partner's data with our;
+upon an inquiry or booking request, dispatch to appropriate module to
+handle based on partner's requirements.
+
+Where we are:
+We are located on Buda side of Budapest in a nice office nearby a shopping
+center.
+
+What's in it for you:
+You will be working in a small international development team in Budapest.
+You will never sit idle, there is always something interesting to code. You
+will be constantly growing in your coding skill and development process
+experience.
+
+Required skills:
+ - Perl
+ - SQL
+ - XPath
+ - Javascript
+ - Object Oriented Programming
+
+Desired skills:
+ - Ajax
+ - Java
+ - XQuery
+ - Aspect Oriented Programming
+ - Test-Driven Development
+ - Refactoring
+ - Design Patterns
+ - Version Control
+
+Contact information at:
+http://jobs.perl.org/job/5454#contact
+
+

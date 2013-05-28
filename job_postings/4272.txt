@@ -1,0 +1,75 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4272
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 3619 invoked from network); 2 May 2006 19:08:36 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 2 May 2006 19:08:36 -0000
+Received: (qmail 15709 invoked by uid 225); 2 May 2006 19:08:36 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 15705 invoked by alias); 2 May 2006 19:08:35 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 02 May 2006 12:08:32 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 885AF2AFDD; Tue,  2 May 2006 12:08:27 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060502190827.885AF2AFDD@x3.develooper.com>
+Date: Tue,  2 May 2006 12:08:27 -0700 (PDT)
+Subject: One time USB driver project (telecommute), United States, NV, Henderson
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4022
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May  2, 2006
+
+Job title: One time USB driver project
+
+Company name: AC & D
+
+Location: United States, NV, Henderson
+
+Pay rate: DOE, please bid the project
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: 1-5 days
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+DO NOT REPLY IF YOU DO NOT HAVE 100% OF THE LISTED SKILLS.
+
+I need a daemon written that can send ascii commands to and read answers
+returned from a USB device.  It Should be very simple, I will send it
+strings and then it will respond to those strings, it should be running all
+the time (as daemons do) and should be semi portable.
+the device is an "USB Insteon PowerLinc V2"
+There is very little code out there for it now, I just need a quick and
+dirty, but stable way to read/write to it.
+
+Required skills:
+Perl
+Device::USB
+Device::USB::Device 
+libusb
+Fedora Core 4
+
+Contact information at:
+http://jobs.perl.org/job/4022#contact
+
+

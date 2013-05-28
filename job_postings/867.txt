@@ -1,0 +1,58 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:867
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 45710 invoked by uid 1016); 23 Apr 2003 00:15:51 -0000
+Date: 23 Apr 2003 00:15:51 -0000
+Message-ID: <20030423001551.45709.qmail@onion.perl.org>
+To: jobs@perl.org
+Subject: mod_perl/DBI/SQL programmer to implement dynamic website (telecommute), Canada, Ontario, Toronto
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/754
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 22, 2003
+
+Job title:
+mod_perl/DBI/SQL programmer to implement dynamic website
+
+Location: Canada, Ontario, Toronto
+
+Pay rate: negotiable
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: 3-4 weeks
+
+Onsite: no
+
+Description:
+Perl/mod_perl programmer needed to implement a custom dynamic website.
+Features of the site will include a private member's area with different
+tiers of access control, webmail, and calendar functionality.
+All other content in the member's area will be generated from database
+sources.
+The site will be running on a dedicated Linux server, upon which the chosen
+candidate will be expected to install all necessary software, but specific
+justification will be required for anything besides Apache w/mod_perl,
+MySql/Postgres, and any CPAN modules.
+
+
+Required skills: mod_perl, DBI, SQL, Linux, Apache.
+
+Desired skills:
+Demonstratable experience with advanced-usage of mod_perl will be a plus.
+
+Contact information:
+send resume to Frank Smith - franksmith@fx0.com
+
+

@@ -1,0 +1,69 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12667
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13001 invoked from network); 15 Aug 2012 17:48:43 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 15 Aug 2012 17:48:43 -0000
+Received: (qmail 25492 invoked by uid 225); 15 Aug 2012 17:48:43 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 25481 invoked by alias); 15 Aug 2012 17:48:42 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 15 Aug 2012 10:48:40 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id EBD352AFE0; Wed, 15 Aug 2012 10:48:36 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 15 Aug 2012 10:48:36 -0700
+Message-ID: <20120815174836.EBD352AFE0@x3.develooper.com>
+Subject: Perl developer--analytics/statistics (onsite), Amsterdam, the
+ Netherlands
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16196
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 15, 2012
+
+Job title: Perl developer--analytics/statistics
+
+Company name: Emerging Travel Inc.
+
+Location: Amsterdam, the Netherlands
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are seeking for a Perl developer for internal statistics and
+analytics. You will create programmes to manage, analyze and visualize
+large amounts of data. We only use Perl 5.16 today and have no legacy
+code.
+
+Required skills:
+- Strong knowledge of Perl.
+- Understanding statistics.
+- Knowledge of MySQL and/or PostgreSQL.
+- Being able to find at least one way to check the results.
+- Programming for UNIX environment.
+- Basic JavaScript knowledge (including JSON).
+- Building JavaScript-based charts.
+
+Desired skills:
+- C++ knowledge (basic level).
+- Knowledge of XML/XSLT pair.
+
+Contact information at:
+http://jobs.perl.org/job/16196#contact

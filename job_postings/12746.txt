@@ -1,0 +1,107 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12746
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 10037 invoked from network); 19 Sep 2012 01:02:39 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 19 Sep 2012 01:02:39 -0000
+Received: (qmail 27576 invoked by uid 225); 19 Sep 2012 01:02:39 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 27572 invoked by alias); 19 Sep 2012 01:02:39 -0000
+X-Spam-Status: No, hits=-2.7 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,DRUGS_MUSCLE
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 18 Sep 2012 18:02:35 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id EBAB82AFDD; Tue, 18 Sep 2012 18:02:31 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Tue, 18 Sep 2012 18:02:31 -0700
+Message-ID: <20120919010231.EBAB82AFDD@x3.develooper.com>
+Subject: (Senior) Software Engineer (onsite), San Francisco, CA (SOMA)
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16468
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 17, 2012
+
+Job title: (Senior) Software Engineer
+
+Company name: SAY Media
+
+Location: San Francisco, CA (SOMA)
+
+Pay rate: Competitive Base, Benefits, Equity
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+SAY Media uses advanced software engineering practices to make authentic,
+independent media properties scale dramatically.  Every month, we serve ads
+to 400 million unique users with 160 million in the US alone.  We're on the
+cutting edge of mobile web, high-performance web scaling, powerful and easy
+content management, and advertising technology.  Come work with talented
+engineers and expand your learning on the latest technology.   We strive to
+design and develop lightweight processes that allow you to move fast, get
+it done right, and build robust systems that work.
+
+Responsiblities:
+
+* Design and develop solutions to optimize ad delivery across many
+platforms (web, mobile app, mobile web)
+* Write code that is highly performant and can handle very large scale
+* Write solid unit tests that cover core functionality and edge cases
+* Give and receive feedback with fellow engineers on technical designs
+* Participate in code reviews
+* Create solutions for today while making them flexible enough for the
+future
+* Share knowledge across team
+* Actively participate in standups and sprint planning
+
+Required skills:
+Qualifications:
+
+* Have shipped at least one application or product to a large number of
+external users
+* Strong understanding web client/server interactions, and Internet
+protocols such as HTTP, oAuth, JSON, REST, and DNS
+* Excellent object-oriented design skills in at least two languages,
+specifically one of: Python, Perl, PHP
+* Have held a title of software engineer or higher for 3+ years at
+companies whose primary revenue comes from the software or websites they
+build
+* Solid knowledge of the frameworks and libraries associated with your
+strongest language (Pecl/PEAR for PHP, PIP for Python, CPAN for Perl)
+* Have designed and built multiple features within a core application, or
+technically owned entire applications within a suite
+* Solid communication skills
+
+Nice to haves:
+
+* Experience shipping to high volume or high performance websites or
+servers
+* Familiarity with HTML, Javascript and CSS
+* Experience with mobile web and/or native mobile development
+* Agile/Scrum experience, including using lightweight process tools to
+reduce waste
+* Ability to design complex software interactions and present those designs
+to an audience of your peers
+* Any open source/github projects demonstrating your coding skill
+* Demonstrated passion for technology
+
+Website for more information: http://www.saymedia.com
+
+Contact information at:
+http://jobs.perl.org/job/16468#contact

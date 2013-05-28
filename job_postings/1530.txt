@@ -1,0 +1,79 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:1530
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 2975 invoked from network); 23 Apr 2004 18:28:36 -0000
+Received: from x1.develooper.com (63.251.223.170)
+  by onion.develooper.com with SMTP; 23 Apr 2004 18:28:36 -0000
+Received: (qmail 11818 invoked by uid 225); 23 Apr 2004 18:28:36 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11807 invoked by alias); 23 Apr 2004 18:28:35 -0000
+X-Spam-Status: No, hits=0.0 required=7.0
+	tests=
+X-Spam-Check-By: la.mx.develooper.com
+Received: from onion.develooper.com (HELO onion.perl.org) (63.251.223.166)
+  by la.mx.develooper.com (qpsmtpd/0.27.1) with SMTP; Fri, 23 Apr 2004 11:28:35 -0700
+Received: (qmail 2958 invoked by uid 1016); 23 Apr 2004 18:28:34 -0000
+Date: 23 Apr 2004 18:28:34 -0000
+Message-ID: <20040423182834.2957.qmail@onion.perl.org>
+To: jobs@perl.org
+X-Spam-Rating: onion.develooper.com 1.6.2 0/1000/N
+Subject: Mod_perl DBI programmer to design and implement small scale website search engine (telecommute), United States, NJ, Atlantic City
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1423
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 23, 2004
+
+Job title:
+Mod_perl DBI programmer to design and implement small scale website search
+engine
+
+Company name: Bender Internet Group
+
+Location: United States, NJ, Atlantic City
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: 1 project 1-2 months
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+We are looking for someone to design and develop a small customized website
+search engine. Instead of relying only on the SE ranking algorithms, we
+want to be able to let a human influence the ranking based on his firsthand
+knowledge of the site.	To save time we have considered using one of the
+available open source search engines as a base.  
+
+So far I have looked at 
+http://www.aspseek.org/   
+   example http://www.aspseek.com/   
+http://nutch.org
+   example  http://www.mozdex.com
+http://openfts.sourceforge.net/ 
+
+but all will need a good deal of tweaking.
+
+
+Required skills:
+perl, DBI, mod_perl, process optimization
+
+Desired skills:
+perl, DBI, mod_perl, process optimization, postgresql knowledge
+
+Contact information:
+Please send resume to jobs@citytravelguide.com
+
+

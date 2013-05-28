@@ -1,0 +1,80 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6036
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 19808 invoked from network); 4 Apr 2007 20:00:57 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 4 Apr 2007 20:00:57 -0000
+Received: (qmail 23536 invoked by uid 225); 4 Apr 2007 20:00:57 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 23525 invoked by alias); 4 Apr 2007 20:00:55 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,DK_POLICY_SIGNSOME
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 04 Apr 2007 13:00:51 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 9CD6B2AFF1; Wed,  4 Apr 2007 13:00:47 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070404200047.9CD6B2AFF1@x3.develooper.com>
+Date: Wed,  4 Apr 2007 13:00:47 -0700 (PDT)
+Subject: Media Infrastructure Perl Contractor (part onsite), United States, CA, Sunnyvale
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5571
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April  3, 2007
+
+Job title: Media Infrastructure Perl Contractor
+
+Company name: Hicks Consulting Group
+
+Internal ID: H07715
+
+Location: United States, CA, Sunnyvale
+
+Pay rate: 70/hr
+
+Terms of employment: Hourly employee
+
+Length of employment: 2 Months
+
+Hours: Part time
+
+Onsite: some
+
+Description:
+The Media Infrastructure team needs an experienced mod_perl developer for a
+short contract (up to 2 months). You would implement a set of reliable,
+high-availability, RESTful web services on top of an existing 3rd-party
+application (a standalone server with a Perl API) and an in-house toolkit. 
+
+
+Current project (AnchorSteam) requires Perl programming of Entity
+Recognition services. Members of team implementing services are ramping up
+on Perl. Contractor would help speed learning curve.
+
+Performance analysis and server tuning are likely to be required. San
+Francisco Bay Area local is preferred, but telecommute would be ok if we
+could bring you in house for the first week or so.
+
+Required skills:
+Experience in: Perl, code review, developing web services, performance
+analysis & tuning. API Specification
+
+Position is 20 Hours a week
+
+URL for more information: http://hicksconsult.com/
+
+Contact information at:
+http://jobs.perl.org/job/5571#contact
+
+

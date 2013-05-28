@@ -1,0 +1,100 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7579
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 18664 invoked from network); 25 Jan 2008 01:29:56 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 25 Jan 2008 01:29:56 -0000
+Received: (qmail 10682 invoked by uid 225); 25 Jan 2008 01:29:56 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 10677 invoked by alias); 25 Jan 2008 01:29:55 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 24 Jan 2008 17:29:49 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 82AF52AF9C; Thu, 24 Jan 2008 17:29:46 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20080125012946.82AF52AF9C@x3.develooper.com>
+Date: Thu, 24 Jan 2008 17:29:46 -0800 (PST)
+Subject: Postgres/Perl Hacker for NZ-based Programming House (onsite), New Zealand, Wellington,
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/7792
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 24, 2008
+
+Job title:
+Postgres/Perl Hacker for NZ-based Programming House
+
+Company name: Catalyst IT (NZ) Ltd
+
+Location: New Zealand, Wellington,
+
+Pay rate: NZD$75k neg
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are seeking developers passionate about and skilled in Open Source
+technologies. Experience in the development of internet based business
+systems is a necessity.
+
+We require people who can understand business requirements, can manage
+their own time and work quality, and can present themselves professionally
+to our clients.
+
+For motivated candidates, as New Zealand's largest Free and Open Source
+development house, Catalyst offer plenty of scope to learn new skills in
+interesting business sectors and technologies.	We are a long-time, devoted
+contributor to free software projects worldwide.
+
+If you are currently an overseas resident, this position will satisfy the
+New Zealand Immigration Department's "Skilled Migrant" VISA category.
+
+Required skills:
+* Perl including mod_perl
+* Unix proficiency
+* experience writing test cases
+* transactional database programming
+
+
+Desired skills:
+Any of the following will be very useful;
+
+* CPAN module maintenance
+* Mason and/or Catalyst, DBIx::Class, Template Toolkit, or a similarly
+spirited well known stack.
+* XML - DTDs and validation
+* PGP and encryption
+* Linux
+* Debian packaging and/or experience with Debian management
+* Debian FAI
+* Experience with distributed source control, esp. Git
+* Asterix
+* Postgres, both in OLAP and OLTP modes
+
+The company employs a variety of languages and tools - any of Java/J2EE,
+Ruby, PHP or Erlang may help.  Knowledge of Solaris or BSD a bonus. 
+Experience with Open source CMS such as Drupal, Plone, etc also useful.
+
+URL for more information: http://www.catalyst.net.nz/vacancies
+
+Contact information at:
+http://jobs.perl.org/job/7792#contact
+
+

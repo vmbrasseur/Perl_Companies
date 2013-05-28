@@ -1,0 +1,103 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5045
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 12947 invoked from network); 3 Oct 2006 18:52:35 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 3 Oct 2006 18:52:35 -0000
+Received: (qmail 13900 invoked by uid 225); 3 Oct 2006 18:52:35 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 13886 invoked by alias); 3 Oct 2006 18:52:33 -0000
+X-Spam-Status: No, hits=-2.0 required=8.0
+	tests=ALL_TRUSTED,BAYES_40
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 03 Oct 2006 11:52:31 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 0499A2AFE1; Tue,  3 Oct 2006 11:52:26 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20061003185226.0499A2AFE1@x3.develooper.com>
+Date: Tue,  3 Oct 2006 11:52:26 -0700 (PDT)
+Subject: Perl Data Developer Tech Lead - Financial Leader! (onsite), United States, IL, Chicago
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4731
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October  3, 2006
+
+Job title:
+Perl Data Developer Tech Lead - Financial Leader!
+
+Company name: Tekleaders
+
+Internal ID: dd1
+
+Location: United States, IL, Chicago
+
+Pay rate: 110,000 - 190,000 USD DOE
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: Permanent
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Come join the Data Developer team as a Technical Lead for one of the
+world’s most dynamic financial firms.  In this challenging role, you’ll be
+responsible for working with a range of data sets, analyzing, filtering,
+and pulling into different databases. You’ll work very closely with the
+trading desk and researchers to develop state-of-the-art automated trading
+and analytics systems.
+
+Responsibilities will include:
+- Quickly understand trader needs
+- Analyze and understand the data options from multiple suppliers
+- Data analysis including investigation and analysis, documentation,
+filtering of bad data pointes, generation of user reports, etc.
+- Communicate data needs internally and externally with 3rd parties
+- Access different patterns and plan usage of different data sets.  
+- Influence data architecture that can help facilitate a front to back
+solution
+
+Qualifications:
+- Must have scripting experience: e.g. Perl, for hands on population of
+database, data parsing, etc.
+- Must have database experience with Sybase and or any vector/time series
+database technology
+- Must have data modeling skills and familiarity with sql
+- Any familiarity with database connectivity from/to Matlab (or more
+generic from/to C++ or Java) is a plus
+- C++ development experience is a plus
+- Domain experience around equity derivatives and common data sets used for
+valuation (dividends, rates, vol curves, etc) is a plus
+- Data skills should include experience with storage and maintenance of
+data sets being derived internally, as well as from different
+external/vendor providers of data sets (e.g. market, option metrics, Barra,
+Bloomberg, Thomson, etc)
+
+You’ll be rewarded with a unique opportunity to work with some of the
+financial industry’s best and brightest.  This is a company that rewards
+creativity and initiative.
+
+
+Required skills: perl, sql
+
+Desired skills: c++, sybase, trading, financial
+
+Contact information at:
+http://jobs.perl.org/job/4731#contact
+
+

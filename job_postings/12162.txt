@@ -1,0 +1,91 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12162
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 31818 invoked from network); 29 Feb 2012 08:52:36 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 29 Feb 2012 08:52:36 -0000
+Received: (qmail 27409 invoked by uid 225); 29 Feb 2012 08:52:36 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 27405 invoked by alias); 29 Feb 2012 08:52:35 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,LOTS_OF_MONEY,T_FRT_PROFILE2
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 29 Feb 2012 00:52:33 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id EFFD02AFDF; Wed, 29 Feb 2012 00:52:29 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 29 Feb 2012 00:52:29 -0800
+Message-ID: <20120229085229.EFFD02AFDF@x3.develooper.com>
+Subject: Perl Developer (onsite), New York, NY
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15592
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 29, 2012
+
+Job title: Perl Developer
+
+Company name: OSS
+
+Location: New York, NY
+
+Pay rate:
+$90,000 to $110,000 depending on experience + benefits
+
+Terms of employment: Salaried employee
+
+Length of employment: Permanent
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+This is a full time, on-site, salaried Perl Developer position located in
+New York City paying to $90,000 to $110,000 depending on experience +
+benefits. No telecommuting allowed. US Citizens or Green Card holders only
+please. Local candidates only. Thank you.
+
+Required skills:
+The candidate will be responsible for web interface programming for an
+internal database driven application that connects multiple systems used
+for internal operations. The position requires primarily Perl/web
+development work, but there is also a component of Oracle database
+administration and Linux system administration. The candidate must be very
+proficient with SQL and able to author complex queries for reporting
+purposes. The candidate must be a proficient web author and JavaScript
+programmer. The applicant should be prepared to participate in
+decision-making on broader information architecture and design questions.
+
+Desired skills:
+Desired Experience: 
+
+* Extreme proficiency in advanced Perl programming for both system
+administration, and web applications 
+* Proficiency with the following Perl Modules: CGI, DBI, DBD::Oracle, Carp,
+Date, HTML::Template 
+* Ability to write own Perl Modules and subroutine package 
+* Solid understanding of multidimensional data structures, references,
+regular expressions 
+* Extreme proficiency in SQL 
+* Solid understanding of database concepts: keying, subquerying, triggers,
+stored procedures 
+* Web authoring: complex JavaScript, HTML, CSS 
+* Extensive experience in command line Unix/Linux environments 
+* Ability to install, administrate Linux packages, including from source 
+* Experience programming for mod_perl
+
+Website for more information: http://opensourcestaffing.wordpress.com
+
+Contact information at:
+http://jobs.perl.org/job/15592#contact

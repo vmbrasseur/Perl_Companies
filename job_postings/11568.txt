@@ -1,0 +1,150 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11568
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 22982 invoked from network); 15 Aug 2011 07:54:36 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 15 Aug 2011 07:54:36 -0000
+Received: (qmail 22599 invoked by uid 225); 15 Aug 2011 07:54:35 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 22595 invoked by alias); 15 Aug 2011 07:54:35 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 15 Aug 2011 00:54:32 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 8116B2AFDD; Mon, 15 Aug 2011 00:54:29 -0700 (PDT)
+To: jobs@perl.org
+Date: Mon, 15 Aug 2011 00:54:29 -0700
+Message-ID: <20110815075429.8116B2AFDD@x3.develooper.com>
+Subject: Perl Architect/Developer for commercial software company (onsite),
+ United States, DC, Washington
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14664
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 15, 2011
+
+Job title:
+Perl Architect/Developer for commercial software company
+
+Company name: Vision Chain, Inc.
+
+Internal ID: VC792
+
+Location: United States, DC, Washington
+
+Pay rate: negotiable
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Vision Chain, Inc. is hiring for a Perl Architect/Developer position.
+Responsibilities are:
+ - Enhancing existing core software stack and building new applications. 
+ - Applying agile and test driven development principles to work directly
+with consultants and customers in requirements analysis, project
+management, development and delivery. 
+ - Working with other developers on design ideas and best practices. 
+ - Responding quickly and thoroughly to customer requests and bug reports. 
+ 
+ - Managing software projects from end to end and owning the specs, plans,
+release cycles, documentation, tech notes, training, and overall quality of
+each release.
+ 
+
+What would a typical day look like in this job?
+
+A typical day would involve a variety of tasks and activities:
+ - Communicate directly with consultants and customers on the requirements
+and design of new features. (5-10%) 
+ - Write internal and end user documentation. (5-10%)
+ - Design, implement and test new features. (30-60%) 
+ - Support end users, fix bugs. (5-10%) 
+ - Explore new technologies and methodologies. (5-10%) 
+ 
+ 
+How will I know if I am successful in this job?
+ 
+You will know that you are being successful in this job if...
+ - Customers and consultants applaud your work deliverables and want to
+work with you more
+ - Teammates praise your performance, team work, and sense of personal
+responsibility
+ - You become the go-to person for hard problems and difficult situations
+ 
+ 
+What are the pros and cons in working at Vision Chain?
+ 
+Pros:
+ - Each person you work with is highly capable and customer-focused.
+ - All your work matters and is directly used by your coworkers and
+customers.  There is no “busy work.” 
+ - The customers you work with are market leaders in the CPG industry and
+household names like General Mills, Heinz, Del-Monte, Coke, and Bayer
+ - Our office is in downtown DC 3 blocks from Dupont Circle
+
+Cons:
+ - We are a small company where everyone has many responsibilities, some of
+which are less interesting than others, but all of which must be done.	
+
+ 
+Who is the ideal candidate?
+
+The ideal candidate...
+ - is analytical, enthusiastic, and easy to work with
+ - has at least 3 years of experience working on a professional software
+development team.
+ - is constantly learning and exploring new technologies
+ - has a solid foundation in software development concepts and best
+practices.
+ - is a talented problem solver.
+ - has a strong SQL background.
+ - understands what’s involved in releasing and supporting
+production-quality software for thousands of users.
+ - is passionate about delivering high-quality software.
+ - is adept at learning new technologies and has proven the ability to
+quickly become productive in new environments.
+ - has a customer service mentality when working with peers and customers.
+ - is the person that peers go to as a resource when they need help.
+ - is the person that management goes to for critical situations.
+ - measures success based on customer outcomes, not lines of code.
+ - wants to understand the business behind the software
+ - is highly effective both individually and as part of a small team.
+ - is extremely versatile, able and willing to play multiple roles
+
+
+Required skills:
+This position requires the following skills:
+ - Perl
+ - SQL
+ - Version control concepts and principles
+ - Test Driven Development
+ - Continuous Integration
+ - Bug Tracking concepts and principles
+
+Desired skills:
+Having experience with the following tools will make you productive at
+Vision Chain faster:
+ - Prove/perl unit test modules
+ - Git or other dvcs's
+ - TeamCity/Jenkins
+ - FogBugz
+ - PerlDevKit
+
+Website for more information: http://www.visionchain.com/
+
+Contact information at:
+http://jobs.perl.org/job/14664#contact

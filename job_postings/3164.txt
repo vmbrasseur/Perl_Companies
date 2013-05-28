@@ -1,0 +1,165 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3164
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13539 invoked from network); 5 Sep 2005 19:48:58 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 5 Sep 2005 19:48:58 -0000
+Received: (qmail 32581 invoked by uid 225); 5 Sep 2005 19:48:58 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 32576 invoked by alias); 5 Sep 2005 19:48:57 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 05 Sep 2005 12:48:55 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j85JmpXQ028612
+	for <jobs@perl.org>; Mon, 5 Sep 2005 12:48:51 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j85JmpKu028610;
+	Mon, 5 Sep 2005 12:48:51 -0700
+Date: Mon, 5 Sep 2005 12:48:51 -0700
+Message-ID: <200509051948.j85JmpKu028610@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Class::DBI/HTML::Mason/Catalyst programmers for webapplications needed (onsite), Norway, Oslo
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3023
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September  5, 2005
+
+Job title:
+Class::DBI/HTML::Mason/Catalyst programmers for webapplications needed
+
+Company name: Mediaflex AS
+
+Internal ID: IT01
+
+Location: Norway, Oslo
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Mediaflex AS søker webutviklere til fremtidens annonsesystem.
+
+
+
+Mediaflex AS har lisens for utvikling og salg av den amerikanske
+produksjonsteknologien Pageflex, samt at vi står bak utgivelsene av
+magasinene NY:BOLIG (distribueres via Dagbladet i Oslo-distriktet hver
+torsdag) og NY:BOLIG Asker & Bærum (fulldistribueres i Asker og Bærum hver
+torsdag) samt at vi leverer ASP-tjenester og selger egenutviklet webløsning
+for annonseproduksjon. Selskapet har for tiden 12 ansatte og omsetter for
+ca 20 millioner. Fra august i år har Avishuset Dagbladet AS økt sin
+eierandel i Mediaflex AS, og det er iverksatt en satsing for begge våre
+forretningsområder.
+
+
+Grunnet utvidet omfang av eksisterende kunder, tilsig av nye kunder og
+flere nye prosjekter, ønsker vi å utvide vår IT-stab med en
+utviklingsleder, en systemutvikler og en driftsansvarlig. 
+ 
+
+
+Utviklingsleder:
+-------------------
+
+Utviklingslederen vil ha ansvaret for avdelingens totale arbeid: teknologi,
+rutiner, personal, kvalitet og arbeid med løsninger ut mot kunder, i
+tillegg til egen programmering.
+
+Arbeidsoppgaver blir i hovedsak:
+
+- Ansvarlig for utviklingen av våre eksisterende og fremtidige produkter
+- Planlegge utviklingsavdelingens ressursbruk, tidsmessig og økonomisk
+- Delta som teknisk delegat på kundemøter
+- Delta i prosjekter og systemdesign internt, og eksternt i samarbeid med
+våre kunder
+ 
+
+Kunnskapskrav:
+
+To års erfaring eller mer innen Perl, SQL, webprogrammering og
+systemdesign.
+
+ 
+Ønsket kunnskap:
+
+Ledererfaring, ressursplanlegging, prosjektstyring.
+
+
+
+Systemutvikler:
+------------------
+
+Systemutviklerens arbeidsoppgaver blir i hovedsak å delta i planlegging,
+utvikling og implementasjon av eksisterende og fremtidige webløsninger.
+
+
+Kunnskapskrav:
+
+Objektorientert Perl, mod_perl, HTML::Mason, Class::DBI, HTML.
+
+ 
+Ønsket kunnskap:
+
+Catalyst, Ajax, javaScript, Java, DHTML, SQL.
+
+ 
+
+Driftsansvarlig:
+-------------------
+
+Dine arbeidsoppgaver blir å sørge for stabil drift av våre Windows og
+Linux-servere, samt delta i prosjekt med kunnskap om kapasitet, stabilitet,
+backup og sikkerhet. Har du erfaringer fra utvikling ønsker vi gjerne at du
+også bidrar i våre utviklingsprosjekt
+
+
+Kunnskapskrav:
+
+Linux (Debian), Windows 2000, Apache, PostgreSQL, Mailserver, LDAP,
+
+
+Ønsket kunnskap:
+
+Perl, postfix, Samba, Fedora Directory Server eller OpenLDAP, Pageflex
+teknologi, Mpower, .Edit, PitStop, ProScript.
+
+ 
+
+Vi leter etter kreative og løsningsorienterte personer -  "avsluttere", som
+evner å føre løsninger helt fram til mål. Du er forhåpentligvis strukturert
+og har evne til å dokumentere det du gjør. Du har gjerne humoristisk sans
+og ønsker å bidra til et godt arbeidsmiljø.
+
+ 
+
+Send en enkel søknad uten referanser i første omgang til:
+stilling_ledig@mediaflex.no eller kontakt Ole Øyvind Hove,
+oleo@mediaflex.no, tlf 41 67 71 48 om du lurer på noe.
+
+ 
+
+VELKOMMEN TIL EN SPENNENDE JOBB I ET FRAMTIDSRETTET MILJØ!
+
+Contact information at:
+http://jobs.perl.org/job/3023#contact
+
+

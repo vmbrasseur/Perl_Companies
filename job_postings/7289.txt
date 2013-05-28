@@ -1,0 +1,93 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7289
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 21610 invoked from network); 16 Nov 2007 00:47:08 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 16 Nov 2007 00:47:08 -0000
+Received: (qmail 27767 invoked by uid 225); 16 Nov 2007 00:47:06 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 27712 invoked by alias); 16 Nov 2007 00:46:58 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 15 Nov 2007 16:46:55 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id BD5762AFF7; Thu, 15 Nov 2007 16:26:50 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20071116002650.BD5762AFF7@x3.develooper.com>
+Date: Thu, 15 Nov 2007 16:26:50 -0800 (PST)
+Subject: Web Application Developer (onsite), United States, MD, Baltimore
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/7307
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 15, 2007
+
+Job title: Web Application Developer
+
+Company name: MedStar
+
+Location: United States, MD, Baltimore
+
+Pay rate: DOE
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: 12mos to perm
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The National Institute on Aging (NIA)/MedStar Research Institute (MRI) is
+actively recruiting for a Medical Research Programmer to design and
+implement web-based data collection programs for the Healthy Aging in
+Neighborhoods of Diversity across Life Span (HANDLS) study conducted in
+Baltimore, Maryland. 
+
+Primary Duties and Responsibilities Include: 
+
+•	Implements and maintains databases that correspond to web-based
+programs, and implement transfers and backups from data collected in
+real-time on medical instruments such as EKG and DXA. 
+•	Creates systems for tracking participants, and implements and
+maintains programs and databases to perform this function. 
+•	Insures secure storage and maintains access control to data and
+programming facilities. Enhances software components to improve the
+functionality, availability, reliability, access control, security, and
+performance of computing services for study staff and investigators, and
+performs system administration, backup, recovery, and sustaining functions
+and resolves system problems.
+•	As necessary, may design, plan, and implement new computing systems
+consistent with program-wide information processing strategies. 
+
+
+Required skills:
+Perl
+PHP
+MySQL
+Apache
+Linux
+
+
+Desired skills:
+Web Design Experience
+Experience with Medical Research or Clinical Studies
+
+
+Contact information at:
+http://jobs.perl.org/job/7307#contact
+
+

@@ -1,0 +1,130 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9972
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 14932 invoked from network); 26 Mar 2010 07:08:12 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 26 Mar 2010 07:08:12 -0000
+Received: (qmail 3983 invoked by uid 225); 26 Mar 2010 07:08:11 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 3977 invoked by alias); 26 Mar 2010 07:08:11 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 26 Mar 2010 00:08:07 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 0F2142AFE4; Fri, 26 Mar 2010 00:08:04 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20100326070804.0F2142AFE4@x3.develooper.com>
+Date: Fri, 26 Mar 2010 00:08:04 -0700 (PDT)
+Subject: Spam Accuracy Software Engineer (Perl/C) (onsite), United States, San Francisco
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/11944
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 26, 2010
+
+Job title: Spam Accuracy Software Engineer (Perl/C)
+
+Company name: Cloudmark
+
+Location: United States, San Francisco
+
+Pay rate: competitive
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Cloudmark is looking for a Spam Accuracy Software Engineer to join our
+engineering team in San Francisco.
+
+Major areas of responsibility will include data mining for emerging threat
+variants and contributing to the design and implementation of large scale
+systems that quickly distinguish new types of messaging abuse from
+legitimate content.
+
+Cloudmark provides messaging security services to customers around the
+world, including Comcast, Cox Communications, EarthLink, NEC Biglobe,
+Swisscom, and XS4ALL (KPN) as well as leading hosting providers and social
+networking companies such as MySpace. Our solutions protect more than 850
+million subscribers, including over 75 percent of all major service
+providers in the United States and Japan.
+
+Cloudmark is the leader in providing high accuracy, high performance spam
+filtering to these customers. The responsibilities of this position include
+not only maintaining but improving our software while responding to
+constantly evolving threats. As a core member of our engineering team,
+you'll have your finger on the pulse of global spam attacks.
+
+Cloudmark solutions use fingerprinting algorithms, a Global Threat Network
+of trusted reporters around the world, and real-time analysis of traffic
+and content patterns to provide security intelligence and filtering.
+
+We currently use a combination of technologies including a large MySQL
+databases and servers, daemons, and tools written in Perl, C, and Ruby. We
+recently added a Hadoop cluster to the mix. We realize that the fight
+against spam changes daily and are open to using the right tool for the
+job. We encourage new ideas and experimentation in our engineering team.
+
+We are looking for someone who is passionate about joining the fight
+against messaging abuse.
+
+Responsibilities
+
+
+* Writing software in Perl and/or C against a MySQL database.
+* Data mining and analysis to serve as input to automating the real-time
+detection and identification of abuse trends and anomalies in the message
+stream with a high degree of accuracy and few false positives.
+* Maintaining an awareness of new technologies and trends in security,
+keeping an eye open for new ways to stop emerging security threats in spam.
+
+Required skills:
+Qualifications
+
+* Have solid experience writing software in Perl in a UNIX environment. 
+(Solid experience in C is also a plus)
+* Have an Undergraduate or Graduate degree in computer science,
+mathematics, statistics, engineering or a related field  or equivalent
+years of experience.
+* Be very comfortable with fundamental Computer Science concepts such as
+algorithms, data structures, memory usage etc.
+* Have a good understanding of SQL and relational databases (ie, basic SQL
+query optimization, schema design)  
+* Experience programming against a very large MySQL database and achieving
+very high performance is a plus.
+* Be very comfortable writing regular expressions.
+* Enjoy developing software with a security mindset in an environment with
+an active adversary.
+* Be able to think clearly under pressure.
+
+Desired skills:
+The following skills are useful but not required:
+
+* Experience in the security industry.
+* Experience writing email related software.
+* Solid understanding of statistics and ability to apply that understanding
+to real world data is useful.
+* Experience with data mining and analysis using Hadoop or similar
+technologies.
+
+URL for more information: http://www.cloudmark.com/en/company/jobs
+
+Contact information at:
+http://jobs.perl.org/job/11944#contact
+
+

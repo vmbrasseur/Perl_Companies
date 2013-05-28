@@ -1,0 +1,76 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3645
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 15250 invoked from network); 4 Jan 2006 20:22:17 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 4 Jan 2006 20:22:17 -0000
+Received: (qmail 12907 invoked by uid 225); 4 Jan 2006 20:22:16 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 12899 invoked by alias); 4 Jan 2006 20:22:16 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 04 Jan 2006 12:22:09 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id k04KM6qH012352
+	for <jobs@perl.org>; Wed, 4 Jan 2006 12:22:06 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id k04KM64o012350;
+	Wed, 4 Jan 2006 12:22:06 -0800
+Date: Wed, 4 Jan 2006 12:22:06 -0800
+Message-ID: <200601042022.k04KM64o012350@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Senior test-driven OO Perl developer (onsite), United States, California, Burbank
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3477
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January  4, 2006
+
+Job title: Senior test-driven OO Perl developer
+
+Company name: Yahoo! Search Marketing
+
+Location: United States, California, Burbank
+
+Pay rate: DOE
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 10 weeks
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Help design and implement a configuration management system for web
+applications.  Using test-driven methodologies we will quickly create
+MAINTAINABLE code to dynamically configure web application environments.
+
+Required skills:
+OO Perl, Perl Best Practices/Class::Std, test-driven development, Oracle,
+linux, play well with others, & a good attitude.
+
+Desired skills:
+WebLogic, Apache, JBoss, configuration management experience, Catalyst
+
+URL for more information: http://searchmarketing.yahoo.com/
+
+Contact information at:
+http://jobs.perl.org/job/3477#contact
+
+

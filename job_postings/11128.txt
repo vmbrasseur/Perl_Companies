@@ -1,0 +1,125 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11128
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8821 invoked from network); 22 Mar 2011 21:42:43 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 22 Mar 2011 21:42:43 -0000
+Received: (qmail 21318 invoked by uid 225); 22 Mar 2011 21:42:43 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 21314 invoked by alias); 22 Mar 2011 21:42:43 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 22 Mar 2011 14:42:40 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 1BA332AFD0; Tue, 22 Mar 2011 14:42:37 -0700 (PDT)
+To: jobs@perl.org
+Date: Tue, 22 Mar 2011 14:42:37 -0700
+Message-ID: <20110322214237.1BA332AFD0@x3.develooper.com>
+Subject: Senior Software Developer (onsite), United States, WA, Seattle
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13898
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 22, 2011
+
+Job title: Senior Software Developer
+
+Company name: Marchex
+
+Location: United States, WA, Seattle
+
+Pay rate: TBD
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+About You
+Our Software Development Engineers act as inventor, product architect,
+engineer, and can balance forward thinking with what needs to get done now.
+
+
+So we’re looking for more than just passion for technology, we also want
+individuals who can contribute to long lasting solutions, and lead a
+discussion about architecture and communicate clearly and convincingly to
+both technical and non-technical stakeholders.
+
+ 
+About the Product
+Any business can purchase a phone number to track online advertising /
+sales calls, but how do you measure the value of 'x' million calls a month?
+ Welcome to Marchex Call Advertising! 
+
+We enable advertisers to track ROI for online advertising, and marketing
+campaigns using VoIP phone lines to optimize advertising expense both
+online and offline. We also offer a cost effective way for businesses to
+measure the value of their calls.
+  
+
+About the Role
+Overall:
+•	We have clear leadership!
+•	We are transitioning into a highly Agile team, with frequent
+releases, TDD, and pairing
+•	Our product is already a success, and it’s time to crank it up to
+the next level
+
+Product technologies
+•	Perl, Asterisks, OpenSIP, PostgreSQL, etc.
+
+Role opportunities
+•	Open source technologies such as Perl and telephony stack (learn
+new technologies!)
+•	Public API
+•	Flexible product (VXML) that allows our clients to build tools on
+our platform
+•	Product built entirely in-house 
+•	Small team, and collaborative learning environment (Share your
+knowledge and learn from us too)
+•	Work on interesting challenges because we have *big* plans
+•	Your work will matter because our product gets heavily used and our
+customers LOVE it!
+
+
+Required skills:
+
+•	BS degree in a Computer Science or equivalent experience
+•	5+ years experience in software development
+•	Experience with a variety of SDLCs
+•	Ability to be flexible and adapt to rapidly changing company and
+project needs
+•	Fluency in more than one language such as Perl, Ruby, Java, Python,
+C
+•	Understanding of OO design, algorithms, data structures,
+networking, database design & optimization
+•	Extensive experience with database design and optimization
+•	Proven ability to quickly learn new technologies
+
+
+Desired skills:
+
+•	Experience working with a development framework (Mason, Rails,
+Catalyst, JSP, etc) HTML, CSS, JS and Linux 
+•	Experience with telco or VoIP technologies such as a
+SIP/Asterisk/TDM/ PBX’s, any VoIP protocols 
+
+
+Website for more information:
+http://tbe.taleo.net/NA9/ats/careers/requisition.jsp?org=MARCHEX&cws=1&rid=
+1580
+
+Contact information at:
+http://jobs.perl.org/job/13898#contact

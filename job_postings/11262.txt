@@ -1,0 +1,84 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11262
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 31889 invoked from network); 29 Apr 2011 23:12:50 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 29 Apr 2011 23:12:50 -0000
+Received: (qmail 29568 invoked by uid 225); 29 Apr 2011 23:12:50 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 29564 invoked by alias); 29 Apr 2011 23:12:49 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 29 Apr 2011 16:12:48 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 99EA82AFE1; Fri, 29 Apr 2011 16:12:44 -0700 (PDT)
+To: jobs@perl.org
+Date: Fri, 29 Apr 2011 16:12:44 -0700
+Message-ID: <20110429231244.99EA82AFE1@x3.develooper.com>
+Subject: Perl Software Engineer (part onsite), United States, OPEN/NY,
+ OPEN/NYC
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14094
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 29, 2011
+
+Job title: Perl Software Engineer
+
+Company name: Plum Placements Inc.
+
+Location: United States, OPEN/NY, OPEN/NYC
+
+Pay rate: Based on experience
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+We're actively seeking experienced Perl programmers who are open to working
+as full time employees remotely from anywhere in the USA (will be flown in
+occassionaly for onsite meetings) OR who are willing to relocate to the NYC
+area for this opportunity (will be given relo. package).  We are looking
+for candidates who can get complicated projects done quickly and
+independently. You should have a keen interest in and enthusiasm for
+high-traffic web sites and all the excitement they offer: optimization,
+load balancing, redundancy, fail over, tiered architectures, etc. 
+
+* Please know that you will be asked to provide us with a code sample in
+order to be considered for this opportunity.
+
+Required skills:
+    * Perl
+    * HTML / CSS / Javascript
+    * MySQL
+    * Linux
+
+
+Desired skills:
+    * HTML::Mason
+    * AJAX
+    * layout / design
+    * ImageMagick (and PerlMagick)
+    * other languages (php, bash, C, etc.)
+    * mod_perl / Apache
+    * video editing
+    * MySQL replication and optimization
+
+
+Website for more information: http://www.plumplacementsinc.com/
+
+Contact information at:
+http://jobs.perl.org/job/14094#contact

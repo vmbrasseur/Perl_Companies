@@ -1,0 +1,98 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2878
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 3092 invoked from network); 20 Jun 2005 20:26:07 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 20 Jun 2005 20:26:07 -0000
+Received: (qmail 30641 invoked by uid 225); 20 Jun 2005 20:26:06 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 30634 invoked by alias); 20 Jun 2005 20:26:06 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 20 Jun 2005 13:26:02 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j5KKPwae031844
+	for <jobs@perl.org>; Mon, 20 Jun 2005 13:25:58 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j5KKPw5x031842;
+	Mon, 20 Jun 2005 13:25:58 -0700
+Date: Mon, 20 Jun 2005 13:25:58 -0700
+Message-ID: <200506202025.j5KKPw5x031842@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Web App Developer (telecommute), 55408, MN, Minneapolis
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2757
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 20, 2005
+
+Job title: Web App Developer
+
+Company name: House Absolute Consulting
+
+Location: 55408, MN, Minneapolis
+
+Pay rate: $40-70/hour
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 3-5 weeks
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+I have a client who needs some work done more quickly than I can do it
+myself, so I'm looking for a subcontractor to do most of the actual work,
+and I will help spec the work, supervise, and pitch in when possible.
+
+There are two pieces to this work.  In theory, I could have two different
+people work on this but I'd prefer to just have one (to simplify my life).
+
+One part of the work is to enhance an existing partially dynamic website by
+enhancing the admin backend with some new features.  This is fairly
+straight forward database-backed web app development.
+
+The other piece is to enhance the search & reporting features of Rapport
+(http://www.rapportware.org/), a free software donor/member database aimed
+at nonprofits.	This work will require some JS/AJAX knowledge in addition
+to other aspects of web app development.
+
+The HTML/CSS work will be done by a web designer, but you will be
+responsible for taking his mockups and turning them into dynamic pages.
+
+The rate will vary based on how much supervision I need to put in.
+
+There is some potential for future work on Rapport as well, and similar
+website development work for other clients.  No promises, of course ;)
+
+Required skills:
+* Perl, obviously
+* Mason
+* SQL DBMS knowledge (this project uses MySQL)
+* HTML & CSS - you don't need to write it, but you'll be working with it
+* JS/AJAX for Rapport piece
+
+Desired skills:
+* Experience using Alzabo would be a big plus
+
+
+Contact information at:
+http://jobs.perl.org/job/2757#contact
+
+

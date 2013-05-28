@@ -1,0 +1,119 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12561
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 23126 invoked from network); 29 Jun 2012 00:30:38 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 29 Jun 2012 00:30:38 -0000
+Received: (qmail 28513 invoked by uid 225); 29 Jun 2012 00:30:38 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 28509 invoked by alias); 29 Jun 2012 00:30:38 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 28 Jun 2012 17:30:35 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 93A332AFDF; Thu, 28 Jun 2012 17:30:32 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 28 Jun 2012 17:30:32 -0700
+Message-ID: <20120629003032.93A332AFDF@x3.develooper.com>
+Subject: Senior Developer at a small, profitable web services company
+ (telecommute)
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16194
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 28, 2012
+
+Job title:
+Senior Developer at a small, profitable web services company
+
+Company name: MaxMind
+
+Pay rate: $100-140k/annually
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+MaxMind (www.maxmind.com) is looking for an experienced developer to help
+make the Internet a safer place to do business. MaxMind offers web services
+and downloadable databases focused on IP intelligence and fraud detection.
+We are planning new projects as well as improvements to our existing
+services.
+
+Your job will be to carry out development projects both big and small. You
+may work on data collection improvements for our fraud system, fixing bug
+in our open source APIs, or developing an entirely new service. We're
+looking for an experienced software developer who can make good technical
+design decisions, write tests and documentation, and communicate with
+non-developers.
+
+We're a small, privately held company (under 20 employees) founded in 2002,
+and we've been profitable for many years. As an employee of MaxMind, you'll
+enjoy the flexibility and autonomy that come with being a member of a small
+technical team. Since we are profitable, our focus is on exploring new
+ideas and doing things well, rather than rushing work to market. We're a
+casual, friendly, results-focused company. We want you to get things done,
+but it's also important to have a life outside the office. We won't be
+asking you to stay late or pull all-nighters on crazy deadlines.
+
+Transaction fraud detection is a constantly changing field, and our work is
+never done. Fraudsters are always looking for new ways to evade detection,
+which means we're always looking for new ways to detect them. Our fraud
+detection service, minFraud, builds on top of our widely used GeoIP
+product, which associates geographical data with individual IP addresses.
+We screen half a billion online transactions each year and provide IP
+intelligence data to thousands of companies worldwide.
+
+Our office is located in downtown Waltham, MA outside of Boston, five
+minutes walk from the nearest commuter rail line and several express bus
+lines. Local candidates are great, but we're also open to telecommuting. 
+
+The vast bulk of our code base is written in Perl using MySQL and Linux,
+with a bit of C where it's needed. We use free software as much as
+possible, and we release code back to the community when we can do so.
+We're trying to improve the way we do development, and we expect you to
+participate in that process. We are working to add more tests and
+documentation to our code base, and all new work goes through code review.
+
+This position is for an experienced developer. The salary range for this
+position is from $100-140k per year.
+
+Minimum Qualifications:
+
+* Dynamic language programming experience. We use Perl but we're happy to
+hear from Javascript, PHP, Python, or Ruby developers as well.
+* Experience developing for deployment on a Linux or BSD platform.
+* Experience writing tests and documentation.
+* Experience doing code reviews.
+* Excellent written and spoken communication skills.
+* The ability to work with a geographically dispersed team.
+
+Bonus skills:
+
+* Web development, especially RESTful web services.
+* Data analysis, number crunching, and math skills.
+* Experience writing C, especially libraries.
+* FS/OSS contributions. Tell us about them!
+
+To apply, please email your resume to senior-developer-job@maxmind.com as
+an attachment or link in PDF, HTML, or plain text format. Resumes in other
+formats will not be considered.
+
+Website for more information: http://www.maxmind.com
+
+Contact information at:
+http://jobs.perl.org/job/16194#contact

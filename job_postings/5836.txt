@@ -1,0 +1,162 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5836
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 26537 invoked from network); 1 Mar 2007 14:09:38 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 1 Mar 2007 14:09:38 -0000
+Received: (qmail 32294 invoked by uid 225); 1 Mar 2007 14:09:37 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 32256 invoked by alias); 1 Mar 2007 14:09:35 -0000
+X-Spam-Status: No, hits=-2.5 required=8.0
+	tests=ALL_TRUSTED,BAYES_20,DK_POLICY_SIGNSOME
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 01 Mar 2007 06:09:31 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id CFEB22B06A; Thu,  1 Mar 2007 06:09:27 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20070301140927.CFEB22B06A@x3.develooper.com>
+Date: Thu,  1 Mar 2007 06:09:27 -0800 (PST)
+X-Virus-Checked: Checked
+Subject: Partner Tech Ops/Developer Engineer (part onsite), Taiwan (flexible - see detail), Taipei  (preferred)
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5427
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 28, 2007
+
+Job title: Partner Tech Ops/Developer Engineer
+
+Company name: Yahoo - Asia
+
+Location:
+Taiwan (flexible - see detail), Taipei	(preferred)
+
+Pay rate: very competitive
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+
+(Web Server, Unix Admin, Perl and general networking skills)
+
+Location: Taipei
+(other locations possibly considered:  Tokyo, Seoul, Hong Kong, other Asia
+hub) 
+
+Job Description:
+Perform extensive observation, testing, and tuning of
+the hardware, software, and network equipment that comprises
+YSM's search systems.  This is a multi-project-
+oriented position that often deals directly with 
+YSM's partners to maintain cohesive working relationships. (This is not a
+NOC or front-line tech support position).
+
+PTS Engineers are responsible for many technical aspects of the Search
+Partner lifecycle:
+
+•	Contract Phase – When initiating a new relationship, PTS engineers
+may work with YSM Partner Account Management and Partner technical staff. 
+Tasks include due diligence on Partner systems, assessment of Partner
+technical capabilities and organization, building relationships with key
+personnel, evangelizing the technical benefits of working with YSM, and
+communicating implementation details.  PTS engineers may also assist
+Business Development and Legal staff in agreeing upon a Service Level
+Agreement (SLA) with the Partner.
+
+•	Requirements Definition – PTS engineers support the Asia market
+teams in defining all technical requirements to meet and exceed Partner
+needs.	This includes driving the escalation and communication of Partner
+requirements.
+
+
+•	Build Phase – PTS engineers build and maintain external interfaces
+into the YSM search system.  PTS engineers implement Partner technical
+requirements as search service features and assist Partners in building
+clients to the search system.  This assistance includes advice on best
+practices for fail over, monitoring, XML interfacing, and resource
+management.
+
+•	Support – After a new Partner implementation is launched, PTS
+engineers continue to work with Partners.  Tasks include technical
+performance reviews, incident communication, and SLA metric tracking.  PTS
+engineers are level 3 support for Partner incidents.  PTS engineers are
+required to identify, debug, and repair system faults quickly.
+
+PTS engineers also act as internal technical consultants to YSM Partner
+Management staff.  
+
+PTS engineers are part of YSM’s global PTS team, with members in Asia,
+California, and Europe.  PTS engineers must be able to function
+independently and manage communication with staff in Europe, the Americas,
+and Asia.  This role requires occasional travel within Asia and possibly to
+Europe and USA.
+
+
+Required skills:
+
+Yahoo Kimo is searching for a Tech Ops engineer with 
+- some web-based systems background
+- some perl programming savvy
+- some network and network administration knowledge
+- experience with high-traffic, fault-tolerant web applications
+- configuration, monitoring, and tuning experience of the above systems
+- log file parsing techniques
+- research, investigation, and evaluation skills
+
+•	Excellent communication skills – capability of communicating with a
+wide variety of end users, customers and colleagues. 
+•	Strong initiative – capable of working on a self-sufficient basis
+and identifying areas of potential technical improvement.
+•	Self-management – capable of managing workload, prioritizing tasks,
+and project managing the working day.
+•	Problem solving – ability to identify, diagnose and resolve
+technical problems. 
+•	Fluency in English and one or more Asian languages is required.  
+
+
+Desired skills:
+
+•	5+ year developing web-based systems using Perl running in a Unix
+environment required
+•	3+ years system and network administration experience with strong
+applications programming skills required  
+•	Development experience with Asian-language locales and character
+sets:  UTF-8, Japanese, Chinese, Korean required 
+•	Detailed knowledge of high traffic, fault tolerant, 24x7 websites
+running multiple OS's (Solaris, Linux, FreeBSD) required
+•	Extensive Perl and Shell scripting experience required
+•	Extensive Web/app server configuration/tuning/monitoring experience
+required
+•	Knowledge of Network configuration/monitoring/sniffing
+•	Log parsing and basic data analysis required
+•	General knowledge of Apache and mod_perl desired
+•	Knowledge of system monitoring and alert tools (SNMP, MRTG, HPOV)
+also highly desired
+•	General knowledge of Oracle database desired
+•	Familiarity with OS kernel and TCP/IP stack internals highly
+desired
+•	Superior research, investigation and evaluation skills.
+
+
+URL for more information: http://tw.yahoo.com/job/openings.html
+
+Contact information at:
+http://jobs.perl.org/job/5427#contact
+
+

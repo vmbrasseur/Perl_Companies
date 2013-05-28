@@ -1,0 +1,186 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3994
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 21072 invoked from network); 11 Mar 2006 21:50:31 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 11 Mar 2006 21:50:31 -0000
+Received: (qmail 2670 invoked by uid 225); 11 Mar 2006 21:50:30 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 2664 invoked by alias); 11 Mar 2006 21:50:30 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 11 Mar 2006 13:50:18 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id k2BLoDJ9002004
+	for <jobs@perl.org>; Sat, 11 Mar 2006 13:50:13 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id k2BLoC4l002002;
+	Sat, 11 Mar 2006 13:50:12 -0800
+Date: Sat, 11 Mar 2006 13:50:12 -0800
+Message-ID: <200603112150.k2BLoC4l002002@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+X-Virus-Checked: Checked
+Subject: CA-West Hollywood: Quality Assurance Engineer for Perl House (onsite), United States, CA, West Hollywood
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3806
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 10, 2006
+
+Job title:
+CA-West Hollywood: Quality Assurance Engineer for Perl House
+
+Company name: Ticketmaster
+
+Internal ID: TMO-T13
+
+Location: United States, CA, West Hollywood
+
+Pay rate: commensurate with skills
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: Full-time, regular hire
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+If you take great pride in your QA testing and your ability to apply
+quality assurance processes within fast-paced environments, then you've
+found a new home. Ticketmaster, a leading supporter of open-source
+technologies, is looking to add a few testers to help our team grow. If you
+have a desire to work in a challenging and rewarding environment in sunny
+southern California, then Ticketmaster is where you should be. NOTE: Our QA
+group is NOT heavily tools dependent, in other words, if you have a primary
+goal of writing automation scripts for a particular tool (e.g., winrunner,
+silk, etc.), then this may not be the road for you to travel. If you're
+interested in applying QA theory and processes to a new environment and
+aiding the director of quality assurance in the application of these
+processes, then this may be the place for you. Of course, be ready for some
+heads-down testing!
+
+Title: Quality Assurance Engineer
+Location: West Hollywood, California
+Company: Ticketmaster.com
+
+How to Apply: Please submit your resume to our career site
+(http://www.ticketmaster.com/careers/ and search for "quality assurance"
+roles.
+
+If you have any questions, please feel free to contact us directly at
+techjobs@ticketmaster.com
+
+Ticketmaster.com is a leading example of open-source technologies deployed
+on an enterprise level. Our primary technology base is: perl, mod_perl,
+linux, mySQL, Oracle, solaris. While we're strong open-source supporters,
+we are also pragmatic and deploy commercial applications and tools in a
+"best fit" evaluation (e.g., Oracle, solaris).
+
+Job Summary:
+--------------------
+Maintain quality of the output, tools, and backend of a generated website. 
+Document, and track the details of each production release from delivery to
+QA through to the production hand-off.
+
+Organizational Culture:
+------------------------
+Ticketmaster is a fast growth company. Candidate must thrive in a
+fast-paced, ever changing, entrepreneurial environment. Individual must be
+able to work independently as well as collaboratively. Must be resourceful
+and be able to understand the full breadth of how the company works
+together.  Individual must be a creative thinker, confident and able to
+express ideas in an articulate, well thought out manner. Ability to
+multi-task and prioritize deadlines is a must.
+
+Essential Job Functions:
+-------------------------
+Join the Ticketmaster.com development team providing essential QA testing
+of all new and existing code-base. We have a lot of code to test. Join us
+to ensure that our products meet the high quality standards demanded by our
+clients and customers.
+
+Functional Web Testing:
+     Black Box testing.
+     Functional web site testing to manually and visually check
+     the quality of Ticketmaster.com.
+
+Code Testing:
+     Grey Box/White Box testing for functionality, performance,
+     and regression of code used for website.
+
+Develop and Maintain Test Cases:
+     Write, maintain, and verify test cases. Develop test matrixes,
+     identify test data and use case requirements.  
+    
+Defect/Bug Lifecycle Tracking:
+     Will be responsible for identifying, logging, and
+     escalating bugs. Verify fixes, regression testing, and updates
+     to related QA documentation.  The ability to write concise,
+     articulate bug reports is a must.
+
+Mentoring:
+     Provide guidance to more junior team members in developing
+     technical and testing skills. Document all stages of
+     the QA process and work with QA Director to define
+     testing practices.
+
+
+Required skills:
+Required (and Preferred) Candidate Skills and Qualities:
+--------------------------------------------------------
+Candidates must have previous experience as a QA Engineer in both black and
+white/grey box testing. Previous experience testing consumer-oriented
+commerce websites preferred.
+
+Prefer experience with the UNIX operating system at the user level and
+better. Must be able to manipulate files, set permissions, and navigate the
+file system without the aid of support documentation.  Experience testing
+applications developed in mod_perl using Apache and Template Toolkit is
+ideal but not required.
+
+Must have experience using and testing database related code. Must be able
+to write SQL queries to identify and verify data used by code.	Must also
+be able to write SQL to find or create baseline data for complex test
+scenarios.  Should be comfortable with relational database technology and
+concepts and tools. Previous experience with MySQL and Oracle is ideal by
+not required.
+
+Teamwork, solid written and oral communication skills, and the ability to
+think on your feet are expected.  Must be detail-oriented, self-motivated,
+and have strong multi-tasking abilities. Above all else, you must, at your
+core, be a problem-solver, a sleuth, and incurably inquisitive.
+
+
+Desired skills:
+--------------------------------
+Additional benefits
+Ticketmaster is looking for a full-time, regular hire employee working
+on-site (West Hollywood, CA). Ticketmaster offers a complete benefits
+package including medical, dental, vision, and life insurance options, a
+401K plan, FSA plan, etc.
+
+Ticketmaster is proud to be an equal opportunity employer.
+
+
+URL for more information: http://www.ticketmaster.com/careers/
+
+Contact information at:
+http://jobs.perl.org/job/3806#contact
+
+

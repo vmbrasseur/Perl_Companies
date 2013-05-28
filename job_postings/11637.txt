@@ -1,0 +1,100 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11637
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28956 invoked from network); 6 Sep 2011 02:34:27 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 6 Sep 2011 02:34:27 -0000
+Received: (qmail 17780 invoked by uid 225); 6 Sep 2011 02:34:26 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 17775 invoked by alias); 6 Sep 2011 02:34:26 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 05 Sep 2011 19:34:22 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 230662AFDE; Mon,  5 Sep 2011 19:34:19 -0700 (PDT)
+To: jobs@perl.org
+Date: Mon, 5 Sep 2011 19:34:19 -0700
+Message-ID: <20110906023419.230662AFDE@x3.develooper.com>
+Subject: Linux / Apache / MySQL / Perl (LAMP) Developer (part onsite), USA,
+ FL, Ft Lauderdale
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14762
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September  5, 2011
+
+Job title: Linux / Apache / MySQL / Perl (LAMP) Developer
+
+Company name: WireSpring Technologies
+
+Internal ID: 2011Q302
+
+Location: USA, FL, Ft Lauderdale
+
+Pay rate: USD $50-60K
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+WireSpring has an immediate opening for an awesome Linux/Apache/MySQL/Perl
+(LAMP) developer. The selected candidate will work with our software
+development and QA teams to build cutting-edge, web-based applications for
+digital signage and remote device management. The ideal candidate will be
+comfortable working in an all-Linux environment, and will use a back-end
+LAMP stack to drive rich web applications written in HTML 4/5, CSS and
+JavaScript. All applicants should be neat, well-organized and
+detail-oriented.
+
+The salary range for this position is $50-60k, depending on experience.
+This is a full-time position. The work location is Fort Lauderdale, FL.
+Partial telecommuting may be available after completing the initial 3-6
+months of training at our Fort Lauderdale headquarters.
+
+Required skills:
+Candidates should have 5 years of experience with:
+
+- Working in a Linux environment - your desktop workstation will run the
+Linux variant of your choosing, so you must know how to use it!
+
+- Writing object-oriented Perl. We LOVE Perl here, but if you're confident
+that your Ruby/Python/PHP skills would translate over to our environment,
+we're willing to listen.
+
+- Writing dynamic web applications using dynamic HTML, CSS and JavaScript
+by hand.
+
+- Writing and modifying database queries using MySQL
+
+The following are also pretty important:
+
+- Strong written and verbal communication skills
+- 2 or 4-year college degree
+- Sense of humor. (Yes, it's required.)
+
+Desired skills:
+- Experience working with mod_perl
+- Experience with event-loop programming architectures like POE or AnyEvent
+
+- Familiarity with common JavaScript frameworks, in particular the
+Prototype library
+- Experience with the HTML5 File and Blob classes (and other HTML5
+experience in general)
+
+Website for more information: http://www.wirespring.com
+
+Contact information at:
+http://jobs.perl.org/job/14762#contact

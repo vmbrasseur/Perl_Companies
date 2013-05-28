@@ -1,0 +1,91 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7032
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 15366 invoked from network); 30 Sep 2007 00:32:12 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 30 Sep 2007 00:32:12 -0000
+Received: (qmail 7390 invoked by uid 225); 30 Sep 2007 00:32:12 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 7385 invoked by alias); 30 Sep 2007 00:32:11 -0000
+X-Spam-Status: No, hits=-5.3 required=8.0
+	tests=BAYES_40,DNS_FROM_DOB,RCVD_IN_DNSWL_HI,RCVD_IN_DOB,URIBL_RHS_DOB
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 29 Sep 2007 17:32:00 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 3C1512AFEA; Sat, 29 Sep 2007 17:31:57 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070930003157.3C1512AFEA@x3.develooper.com>
+Date: Sat, 29 Sep 2007 17:31:57 -0700 (PDT)
+Subject: Software Development Engineer (Build and Test Systems) (onsite), United States, Washington, Seattle
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/6323
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 29, 2007
+
+Job title:
+Software Development Engineer (Build and Test Systems)
+
+Company name: Open Interface North America
+
+Location: United States, Washington, Seattle
+
+Pay rate: TBD - USD
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Open Interface North America is a locally owned, innovative Bluetooth
+software company creating world-class wireless solutions for leading
+consumer electronics companies. We seek creative, versatile engineers who
+are passionate about technology and pioneering new products.
+
+We currently have an opening for a software development engineer to
+develop, update, and maintain automated build and test systems. This is a
+complex, challenging position, involving multiple products and
+configurations. The successful candidate will possess strong,
+cross-platform, distributed programming and IT skills.
+
+Responsibilities:
+- Develop cross-platform, distributed, automated build and test systems
+- Re-factor, integrate, and extend existing tools and infrastructure
+- Develop packaging and build infrastructure for new products
+- Help define and create internal tools to improve overall engineering
+productivity
+
+This job provides great career growth opportunities collaborating with an
+exceptional team of talented, creative engineers. Open Interface offers
+competitive compensation and benefits packages.
+
+Required skills:
+- Cross-platform experience in Windows and Linux
+- Strong Perl experience required, other scripting languages are a plus
+- Distributed programming or IT experience
+- Previous experience developing or maintaining complex, automated build
+and test systems
+- Familiar with Windows and Linux build tools and packaging processes (e.g.
+GNU make, msbuild, nmake, etc.)
+- Self motivated and able to work independently
+
+
+URL for more information: http://www.oina.com/
+
+Contact information at:
+http://jobs.perl.org/job/6323#contact
+
+

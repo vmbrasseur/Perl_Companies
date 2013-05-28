@@ -1,0 +1,90 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11654
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 10973 invoked from network); 10 Sep 2011 01:02:57 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 10 Sep 2011 01:02:57 -0000
+Received: (qmail 14597 invoked by uid 225); 10 Sep 2011 01:02:57 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 14593 invoked by alias); 10 Sep 2011 01:02:56 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 09 Sep 2011 18:02:53 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 8C3852AFE0; Fri,  9 Sep 2011 18:02:50 -0700 (PDT)
+To: jobs@perl.org
+Date: Fri, 9 Sep 2011 18:02:50 -0700
+Message-ID: <20110910010250.8C3852AFE0@x3.develooper.com>
+Subject: Perl Developer (onsite), USA, FL, Sunrise
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14806
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September  9, 2011
+
+Job title: Perl Developer
+
+Company name: MODIS
+
+Location: USA, FL, Sunrise
+
+Terms of employment: Hourly employee
+
+Length of employment: 4months plus
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Overall Project Description: (Includes Description of Project and Business
+Implications of Project):
+
+Consultant will be coming on board to make some modifications to a core
+Perl automation script that helps implement other applications.  The script
+is very well written and documented so the consultant will be able to
+follow what has been done and understand what needs to be done.  The main
+driver behind the project is due to an update in HW and SW as well as new
+requirements for the script.  
+
+Job Description for Consultant (Includes Daily responsibilities and
+expectations):
+
+•	Develop will be responsible for enhancing and developing a few
+modifications to the core database environment Perm Script that is used to
+implement applications and automate process.  The script is very well
+written and has been documented very well, so they can and will use this to
+help in completing the updates.
+•	Need to be very well versed in Perl, most for script development
+but also for general application development.  The users for this
+application / script will be other developers.
+
+Required skills:
+General Required Skills (needed to successfully complete responsibilities):
+
+
+•	5+ years of Perl Development, mostly for Perl Script, but also
+general Perl application development.
+•	Must have a very solid understanding and experience with DBI – This
+is the DB interconnect module within Perl and is used heavily within the
+client.
+•	Must have a very solid understanding of RCS – This is a revision
+control interface module and the client uses this for all revision controls
+process.
+•	Must have some experience with Mod Perl – This is a Perl Module
+that allows back end scripts to interface with web applications.
+
+Desired skills: Knowledge of Unix is a major plus.
+
+Contact information at:
+http://jobs.perl.org/job/14806#contact

@@ -1,0 +1,125 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3829
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 3711 invoked from network); 5 Feb 2006 09:22:13 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 5 Feb 2006 09:22:13 -0000
+Received: (qmail 14980 invoked by uid 225); 5 Feb 2006 09:22:13 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 14972 invoked by alias); 5 Feb 2006 09:22:12 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 05 Feb 2006 01:21:39 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id k159LYsr002684
+	for <jobs@perl.org>; Sun, 5 Feb 2006 01:21:34 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id k159LYJs002682;
+	Sun, 5 Feb 2006 01:21:34 -0800
+Date: Sun, 5 Feb 2006 01:21:34 -0800
+Message-ID: <200602050921.k159LYJs002682@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: mod_perl/Mason/DBI Programmer (telecommute) (telecommute), United States, NY, New York
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3639
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February  4, 2006
+
+Job title:
+mod_perl/Mason/DBI Programmer (telecommute)
+
+Company name: PropertyShark.com
+
+Location: United States, NY, New York
+
+Pay rate: DOE
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+PropertyShark.com is adding a programmer to meet its rapidly growing
+business needs.  PropertyShark.com is New York City's premier property
+research service, and we're adding new cities all the time.  New York
+Magazine named us "New York's Best Real-Estate Resource" for 2005!
+
+The core website is based on mod_perl/HTML::Mason with MySQL and
+otherbacking databases.  Other business capabilities include webservice and
+mapping technologies.
+
+We're also using a lot of cool technologies, such as AJAX to supercharge
+our user interface and our in-house mapping systems to generate the most
+information-rich maps of New York City that you can find anywhere.
+
+We think this opportunity is the most interesting and challenging Perl job
+on the market.	Your existing skills will be pushed to the limit, and you
+will have an opportunity to acquire and master a variety of new skills.
+
+PropertyShark.com pays a fair and reasonable salary.  If it's all about the
+money for you, look elsewhere.	If you're expecting a high salary for which
+you can phone in a half-hearted effort, move on.  However, if you're a Perl
+rock star who thrives on challenge and opportunity, this is the job for
+you.
+
+To apply, send your resume/CV to david@propertyresearchpartners.com.
+Preferred formats are PDF and plain text.  (Resumes in POD will fill us
+with a sense of awe and concern, but these will not receive any extra
+consideration.)  Qualified candidates will be asked to complete a short
+programming exercise for which there will be no compensation.  (Any
+additional programming in the hiring process will be compensated.)
+
+The hiring process will be extensive and last more than a week.  We want to
+be certain that you are the right person for PropertyShark.com and that
+this opportunity is the right challenge for you.
+
+Principals only, without exception.  Every email from principals will be
+acknowledged.  Emails from recruiters, contract shops, and other
+non-principals will be deleted without response.
+
+Note: USA residency is not required for this position.	However, a certain
+level of familiarity and understanding of the American real-estate economy
+is a bona fide occupational requirement for this position.  Most
+native-born Americans possess sufficient understanding, as do many others. 
+There won't be a test, but if you don't know what mortgages are and how
+they work in the United States, you probably won't be successful in this
+position.
+
+PropertyShark.com is an equal-opportunity employer in every regard.  All we
+care about is whether someone is smart and can get things done.
+
+
+Required skills:
+Strong Perl programming skills
+HTML::Mason or equivalent templating system, such as Template::Toolkit
+DBI experience with MySQL or other DBMS
+ability to work independently and to communicate effectively about goals
+and results 
+
+Desired skills:
+mod_perl expertise
+FreeBSD system administration
+SVN/CVS experience
+Javascript/AJAX 
+
+Contact information at:
+http://jobs.perl.org/job/3639#contact
+
+

@@ -1,0 +1,111 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9425
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 10909 invoked from network); 23 Aug 2009 18:39:27 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 23 Aug 2009 18:39:27 -0000
+Received: (qmail 2654 invoked by uid 225); 23 Aug 2009 18:39:27 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 2647 invoked by alias); 23 Aug 2009 18:39:26 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 23 Aug 2009 11:39:21 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id CF05C2AFDF; Sun, 23 Aug 2009 11:39:17 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20090823183917.CF05C2AFDF@x3.develooper.com>
+Date: Sun, 23 Aug 2009 11:39:17 -0700 (PDT)
+Subject: Programming/Automation (onsite), United States, CA, San Diego
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/10972
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 19, 2009
+
+Job title: Programming/Automation
+
+Location: United States, CA, San Diego
+
+Pay rate: $ - open based on experience
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: Min 6 months...possibility of 
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Basically, the job is going to involve scripting in a big way. I can’t have
+someone doing on-the-job training, but also realize that I won’t be getting
+a superstar with 20 years experience, either.
+
+The two big scripting languages I’m looking for are PERL and PHP. My
+primary need is for PERL. However, anybody that has the requisite
+experience level I need in PERL will also have experience in one or more
+other scripting languages, as picking up another scripting language is
+inevitable after you learn one.
+
+The list of skills I need are as follows, in order:
+1) PERL
+2) PHP
+3) PYTHON or TCL or RUBY (not directly useful to me, but illustrates the
+depth of experience of the candidate).
+4) JAVA is a good thing.
+5) “SHELL” SCRIPTING – but honestly, all of these (CSH, TCSH, KORN shell,
+etc) are more or less obsolete so we’d be scraping the bottom of the barrel
+if this is all they have besides PERL.
+6) HTML and other Web technologies like APACHE
+
+As far as languages like C, C++, C#, or JAVA go – these aren’t so useful.
+Neither really is JAVA, but it is far more useful than any of the ‘C’ type
+languages.
+
+Related technologies and experience:
+
+
+Required skills:
+The list of skills I need are as follows, in order:
+1) PERL
+2) PHP
+3) PYTHON or TCL or RUBY (not directly useful to me, but illustrates the
+depth of experience of the candidate).
+4) JAVA is a good thing.
+5) “SHELL” SCRIPTING – but honestly, all of these (CSH, TCSH, KORN shell,
+etc) are more or less obsolete so we’d be scraping the bottom of the barrel
+if this is all they have besides PERL.
+6) HTML and other Web technologies like APACHE
+
+As far as languages like C, C++, C#, or JAVA go – these aren’t so useful.
+Neither really is JAVA, but it is far more useful than any of the ‘C’ type
+languages.
+
+
+Desired skills:
+Configuration Management experience, aka build and release engineering –
+nice to have, that is in fact the job, but really this is a
+programming/automation job that happens to be dabbling in Configuration
+Management, not the other way around.
+
+PERFORCE, though experience with ClearCase is good as well if I can verify
+that they scripted around it. Otherwise, in itself it doesn’t help much. 
+
+Familiarity with COM and OLE via scripting would be nice, but usually this
+won’t be known till the interview.
+
+
+Contact information at:
+http://jobs.perl.org/job/10972#contact
+
+

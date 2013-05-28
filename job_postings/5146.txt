@@ -1,0 +1,110 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5146
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 16457 invoked from network); 23 Oct 2006 06:25:04 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 23 Oct 2006 06:25:04 -0000
+Received: (qmail 16721 invoked by uid 225); 23 Oct 2006 06:25:04 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 16716 invoked by alias); 23 Oct 2006 06:25:03 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 22 Oct 2006 23:25:00 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 1F0FA2AFE2; Sun, 22 Oct 2006 23:24:27 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20061023062427.1F0FA2AFE2@x3.develooper.com>
+Date: Sun, 22 Oct 2006 23:24:27 -0700 (PDT)
+Subject: Senior Perl engineer for embedded linux devices (onsite), United States, CA, San Mateo
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4816
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 22, 2006
+
+Job title:
+Senior Perl engineer for embedded linux devices
+
+Company name: Fabrik, Inc.
+
+Location: United States, CA, San Mateo
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are looking for talented, creative, clever, enthusiastic, and
+intelligent engineers to join our team as a senior software engineer. 
+Since we are a small company, applicants with a broad range of experience
+are valued.  We are looking to fill a full-time on-site Senior Perl
+Engineer position at our San Mateo office.
+
+This role is as diverse as you are, but your primary responsibility would
+be developing and maintaining our embedded applications. You would be
+writing these applications with perl in an event-based server.	You would
+be working very closely with other engineers in a close-knit 3 to 4 person
+engineering team.
+
+Responsibilities:
+ * Development of Fabrik appliance code in OO Perl
+ * Development and refinement of system build scripts
+ * Tuning existing applications for memory usage and performance
+ * Help develop new products (defining requirements, prototyping, testing,
+high-level support)
+
+
+Required skills:
+ * Extensive perl knowledge
+ * Object-oriented experience
+ * Personal interest in perl and/or *nix (BSD/Linux/etc)
+ * Desire to learn and improve your skills
+ * Common sense
+
+
+Desired skills:
+Preferred Technical Skills (Should have some of these):
+ * Event-based programming (Danga::Socket, POE)
+ * C/C++
+ * Personal contributions to open source projectss
+ * Linux Guru
+ * Cross-platform development (busybox, buildroot)
+ * Experience with minimal filesystems and embedded linux (busybox,
+openwrt, uclibc, dietlibc, etc.)
+ * Networking (ethernet, TCP/IP, NAT, routing, Multicast)
+ * Contribution to open-source projects
+ * Familiarity with networking ( TCP/IP, DHCP, DNS, ethernet, routing,
+firewalls )
+ * Linux platform expertise ( iptables, iproute, init/rc scripts )
+ * Perl web development (CGI, Template Toolkit, Mason, FastCGI)
+
+Optional Technical Skills (Not required, but nice):
+ * "AJAX" ( DHTML, javascript, dojo, prototype, script.aculo.us, etc.)
+ * P2P technologies ( Bittorrent, gnutella, zeroconf, UPNP )
+ * Advanced networking ( LVS, load balancing, multicast, IDS, traffic
+shaping, NAT traversal )
+ * Clustering experience ( spread toolkit, whackamole, heartbeat,
+ultramonkey )
+ * Knowledge of Network File Systems ( Samba, NFS, Coda, AFS, WebDAV )
+ * Knowledge of Identity storage ( LDAP, NIS, CalDAV, GroupDAV )
+ * Knowledge of VOIP Telephony ( SIP, H.323, IAX, Asterisk )
+
+Contact information at:
+http://jobs.perl.org/job/4816#contact
+
+

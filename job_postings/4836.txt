@@ -1,0 +1,134 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4836
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 18265 invoked from network); 23 Aug 2006 00:35:11 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 23 Aug 2006 00:35:11 -0000
+Received: (qmail 7233 invoked by uid 225); 23 Aug 2006 00:35:10 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 7227 invoked by alias); 23 Aug 2006 00:35:10 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 22 Aug 2006 17:35:06 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 2F4572AFE2; Tue, 22 Aug 2006 17:35:01 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060823003501.2F4572AFE2@x3.develooper.com>
+Date: Tue, 22 Aug 2006 17:35:01 -0700 (PDT)
+Subject: OO Perl Developer (onsite), United States, TN, Memphis
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4546
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 22, 2006
+
+Job title: OO Perl Developer
+
+Company name: TEKsystems
+
+Location: United States, TN, Memphis
+
+Pay rate: DOE per Hour
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 3 month open ended contract
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+TEKsystems has an immediate opening for a Perl Developer for a Fortune 500
+client in Memphis, TN. This is a 3 month contract position with the
+possibility of extension.
+
+This position will be responsible for participating in projects for an
+application release and support group. One of the projects includes
+improving/developing an application release architecture, which will
+involve documenting and automating build and release processes as well as
+documenting procedures for manual processes. This will require knowledge of
+software repository technologies, development languages, as well as
+packaging technologies. Another project will involve reviewing/improving
+existing support processes and procedures. This will require knowledge of
+application support activities such as: log file parsing, operating system
+tools, network analyzers, and protocols such as TCP/IP, HTTP, LDAP, SNMP,
+IRC, SOAP, XMLRPC, etc. This position is required to coordinate with the
+company?s Change Management Group, Development Groups, Quality Assurance
+Department, as well as Systems Engineering and Architecture group. This
+position is responsible for ensuring consistent and reliable development of
+software builds with minimal impact to existing production applications.
+This position will create, communicate, and utilized a software building
+architecture that eases that tasks associated with packaging and deploying
+releases of software to multiple destination architectures. 
+
+As part of the screening process, all qualified candidates will be required
+to demonstrate their coding expertise in Perl, C and Java by taking a
+coding test.
+
+
+Required skills:
+- BS in Computer Science or equivalent
+- 3+ years experience in Object-oriented Perl development
+- 4-3 years experience in overall software development
+- Must have experience working in an enterprise environment doing actual
+development not just scripting
+- Current experience and expertise using CVS, make, ant and other tools to
+automate software builds
+- Strong knowledge of JavaScript, CSS and XHTML
+- Strong knowledge of Apache servers, and Tomcat
+- Able to work in a rapid development environment
+- Able to demonstrate coding expertise in Perl, C and Java by taking a
+coding test
+- Able to work with 4GL RDMSs
+- Possess excellent analytical, problem solving and communication skills
+- Possess hands-on programming experience with Perl, Python, Shell, etc for
+automation script development 
+-3+ years experience with HTTP, SNMP, SOAP, XMLRPC protocols
+- Self-motivated and capable of handling rapid change
+- Experience with Apache, MySQL and Informix for Internet development
+
+Required Skills for Perl Developer Job:
+OBJECT ORIENTED PERL
+SOAP
+XMLRPC
+JAVASCRIPT
+CSS
+XHTML
+APACHE SERVERS
+TOMCAT
+SPRING
+C
+JAVA
+RDMS
+
+
+Desired skills:
+- Knowledge of C/C++, and Java software development
+- Experience building Solaris packages and RPM packages
+- Experience administering Solaris and Red Hat Servers
+- Experience with POE and Spring a plus
+- Technical writing skills a plus
+
+
+URL for more information:
+http://information-technology.thingamajob.com/jobs/Tennessee/Perl-Developer
+/956891
+
+Contact information at:
+http://jobs.perl.org/job/4546#contact
+
+

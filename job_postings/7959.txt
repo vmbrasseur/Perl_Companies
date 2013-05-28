@@ -1,0 +1,118 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7959
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 21295 invoked from network); 9 Apr 2008 15:23:06 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 9 Apr 2008 15:23:06 -0000
+Received: (qmail 30808 invoked by uid 225); 9 Apr 2008 15:23:05 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 30802 invoked by alias); 9 Apr 2008 15:23:05 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 09 Apr 2008 08:22:56 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 74D4A2AFCB; Wed,  9 Apr 2008 08:22:53 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080409152253.74D4A2AFCB@x3.develooper.com>
+Date: Wed,  9 Apr 2008 08:22:53 -0700 (PDT)
+Subject: Perl developer (web & back-end experience) (onsite), United States, CA, San Francisco
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8392
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April  8, 2008
+
+Job title:
+Perl developer (web & back-end experience)
+
+Company name: SingleFeed
+
+Internal ID: perldev
+
+Location: United States, CA, San Francisco
+
+Pay rate: DOE
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+SF Startup seeking experienced Perl developer
+
+SingleFeed is seeking a developer with strong previous experience
+developing web and/or other applications in Perl. Come join our small but
+growing team of developers and help improve and grow SingleFeed's system as
+a major contributor. You'll be creating new solutions, participating in
+reviews and system design, and, yes, fixing issues that may need fixing.
+Our system is in Perl and the work includes web interfaces, AJAX, text and
+data management and manipulation, MySQL database, and data transmission.
+
+SingleFeed is a web service which enables merchants to effectively market
+their goods through shopping search engines such as Google Product Search,
+Yahoo! Shopping, Shopzilla, and PriceGrabber by managing and submitting
+high quality product data feeds. Each shopping engine has a different
+specification for how they want product data feeds to be delivered. Each
+shopping engine also has a different algorithm for how they rank products.
+SingleFeed’s goal is to get merchants up and running quickly and easily on
+multiple shopping engines while helping merchants achieve the highest ROI
+possible.
+
+SingleFeed is a venture-backed start up with real customers and real
+revenue. Our office is located in San Francisco.
+
+
+Required skills:
+- Experience developing significant software for at least 5 years, and you
+know about design patterns and anti-patterns; common algorithms; web
+application system architecture; good development practices.
+- Several years, at least, spent coding substantial applications in Perl.
+You know all about Perl subroutines and objects, how the perl threading
+model behaves, how to debug and profile apps, and how to make code
+efficient yet readable and maintainable.
+- You've spent a lot of time with CPAN and know a lot of the best packages
+so you don't have to reinvent the wheel.
+- You're perfectly at home in a Linux environment, and you might even have
+reasonable experience as a sysadmin.
+- Experience working with SQL databases such as MySQL. You can do
+multi-table joins in your head and know the difference between inner and
+outer joins.
+- Experience with DHTML, CSS, Javascript, and AJAX for web front-end
+development.
+
+
+Desired skills:
+- Experience in other languages. Strong PHP experience would be a big plus.
+
+- Good systems understanding, including highly-scalable web applications,
+how to cluster Apache and/or MySQL servers, etc.
+- Your previous team members know that you can take a project and it'll be
+done when you said it would be. And not only that but you've tested it
+inside and out already. The QA team really likes you.
+- You believe strongly in unit testing, good documentation, code reviews,
+and working closely with other developers, who like working with you for
+those reasons.
+- You've worked at startups before, and look forward to working at another
+one even though things can be chaotic at times.
+
+
+URL for more information: http://www.singlefeed.com/
+
+Contact information at:
+http://jobs.perl.org/job/8392#contact
+
+

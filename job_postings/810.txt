@@ -1,0 +1,40 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:810
+Return-Path: <uri@stemsystems.com>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 73527 invoked by uid 76); 21 Mar 2003 02:20:06 -0000
+Received: from qmailr@one.develooper.com (HELO ran-out.mx.develooper.com) (64.81.84.115) by onion.perl.org (qpsmtpd/0.25) with SMTP; Thu, 20 Mar 2003 18:20:06 -0800
+Received: (qmail 15164 invoked by uid 225); 21 Mar 2003 02:20:01 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 15159 invoked by uid 507); 21 Mar 2003 02:20:00 -0000
+Received: from rwcrmhc51.attbi.com (HELO rwcrmhc51.attbi.com) (204.127.198.38) by one.develooper.com (qpsmtpd/0.25) with SMTP; Thu, 20 Mar 2003 18:19:58 -0800
+Received: from stemsystems.com (h00045a211c08.ne.client2.attbi.com[66.30.205.33])          by rwcrmhc51.attbi.com (rwcrmhc51) with SMTP          id <20030321021947051003hhk4e>; Fri, 21 Mar 2003 02:19:47 +0000
+Received: (qmail 8246 invoked by uid 100); 21 Mar 2003 02:19:46 -0000
+To: jobs@perl.org
+Date: Thu, 20 Mar 2003 21:19:46 -0500
+Message-ID: <x7llz9ea0t.fsf@mail.sysarch.com>
+User-Agent: Gnus/5.090015 (Oort Gnus v0.15) Emacs/21.2
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+X-SMTPD: qpsmtpd/0.25, http://develooper.com/code/qpsmtpd/
+X-Spam-Check-By: one.develooper.com
+X-Spam-Status: No, hits=1.2 required=7.0 tests=CARRIAGE_RETURNS,RCVD_IN_MULTIHOP_DSBL,RCVD_IN_UNCONFIRMED_DSBL,SPAM_PHRASE_00_01,USER_AGENT,USER_AGENT_GNUS_UA version=2.44
+X-SMTPD: qpsmtpd/0.25, http://develooper.com/code/qpsmtpd/
+Subject: sorry about that
+Approved: news@nntp.perl.org
+From: uri@stemsystems.com (Uri Guttman)
+
+
+i thought i rejected that resume. somehow it got through. i will have to
+double check my reject macro. 
+
+uri
+
+-- 
+Uri Guttman  ------  uri@stemsystems.com  -------- http://www.stemsystems.com
+----- Stem and Perl Development, Systems Architecture, Design and Coding ----
+Search or Offer Perl Jobs  ----------------------------  http://jobs.perl.org
+Damian Conway Perl Classes - January 2003 -- http://www.stemsystems.com/class

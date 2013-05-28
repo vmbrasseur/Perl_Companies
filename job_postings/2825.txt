@@ -1,0 +1,108 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2825
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 18303 invoked from network); 7 Jun 2005 07:13:27 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 7 Jun 2005 07:13:27 -0000
+Received: (qmail 29222 invoked by uid 225); 7 Jun 2005 07:13:27 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 29217 invoked by alias); 7 Jun 2005 07:13:26 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 07 Jun 2005 00:13:23 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j577DJFk008904
+	for <jobs@perl.org>; Tue, 7 Jun 2005 00:13:19 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j577DJBg008902;
+	Tue, 7 Jun 2005 00:13:19 -0700
+Date: Tue, 7 Jun 2005 00:13:19 -0700
+Message-ID: <200506070713.j577DJBg008902@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Senior Perl Developer for network-appliance systems administration automation (onsite), United States, Florida, Vero Beach
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2706
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June  6, 2005
+
+Job title:
+Senior Perl Developer for network-appliance systems administration
+automation
+
+Company name: Lok Technology, Inc.
+
+Location: United States, Florida, Vero Beach
+
+Pay rate: $125,000 - $150,000
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Growing network technology company recently featured in Entrepreneur and
+Forbes magazines, as well as on CNBC, is looking for first class Senior
+System Administrators with exceptional PERL skills.  Your job will be to
+architect, implement and maintain a series of PERL scripts that automate
+the configuration of UNIX systems and various network applications running
+on the UNIX platform.
+
+The AIRlok Appliance, launched in 2004 by Lok Technology, Inc., is deployed
+worldwide with customers in 14 countries. The AIRlok uses a unique
+combination of an exo-kernel, shared memory and out of order packet
+processing technology. It integrates an unprecedented breadth of
+applications into a low cost, secure, high capacity appliance that
+processes all packets to or from the WLAN, WPOP or hot-spot end user. 
+
+Required skills:
+UNIX system administration, configuration and deployment
+Advanced PERL scripting techniques
+Advanced shell scripting techniques
+Firewall rule configuration and deployment methodology
+Static and dynamic routing methodology
+DHCP and DNS server configuration
+Wireless access point configuration and deployment
+NetBIOS file server technologies
+
+B.Eng. or B.S. required, M.S. or M.Eng. preferred
+
+
+Desired skills:
+PERL web applications
+OpenBSD
+Bandwidth management, traffic shaping and QoS technologies
+Intrusion protection systems
+Captive portal and walled garden technologies
+LDAP server configuration, deployment and implementation
+RADIUS server configuration, deployment and implementation
+IPsec VPN configuration and deployment
+Link control technologies
+Transparent web caching deployment and configuration
+Content filtering technologies
+Rogue access point detection and triangulation technology
+VoIP PBX systems, specifically Asterisk
+CCNA (or higher) certification is highly preferred
+
+URL for more information: http://www.air-lok.com/
+
+Contact information at:
+http://jobs.perl.org/job/2706#contact
+
+

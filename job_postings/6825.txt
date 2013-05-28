@@ -1,0 +1,97 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6825
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8723 invoked from network); 20 Aug 2007 17:26:10 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 20 Aug 2007 17:26:10 -0000
+Received: (qmail 2324 invoked by uid 225); 20 Aug 2007 17:26:07 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 2202 invoked by alias); 20 Aug 2007 17:25:59 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 20 Aug 2007 10:25:48 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id A56712AFEA; Mon, 20 Aug 2007 10:25:39 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070820172539.A56712AFEA@x3.develooper.com>
+Date: Mon, 20 Aug 2007 10:25:39 -0700 (PDT)
+Subject: Sr. QA/Software Engineer (onsite), United States, CA, san Francisco
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/6525
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 20, 2007
+
+Job title: Sr. QA/Software Engineer
+
+Company name: Riverbed Technology
+
+Location: United States, CA, san Francisco
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We're looking for a Sr. Software QA Engineer to develop tests and test
+tools to verify the proper functioning of Riverbed’s network appliances. 
+The ideal candidate will have significant experience with networking
+technologies (like TCP/IP, managed switches, routers) as well as software
+development methodologies. 
+
+ 
+
+We believe that delivering a quality product requires an investment in good
+software tools and automation, and we want to hire people who share this
+belief.  Riverbed has an excellent quality-oriented engineering environment
+with a high ratio of QA to development engineers.
+
+ 
+
+Responsibilities:
+
+* Create and extend tools to analyze the performance of Riverbed network
+appliances. 
+
+* Utilize understanding of networks and network protocols, as well as
+programming skills, to analyze TCP/IP network traces to find implementation
+problems, compliance problems, and performance problems with the network
+integration components of the Riverbed appliance.  
+
+* Develop automated test cases to exercise 3rd party applications and
+devices using application APIs to induce behaviors that exercise the
+Riverbed appliance functionality.  
+
+* Design and implement test plans to test various features of Riverbed
+network appliances.
+
+ 
+
+ 
+
+We are proud to be an EEO/AA employer. M/F/D/V.
+
+Required skills: Perl, C/C++, TCP
+
+Desired skills: Python
+
+URL for more information: http://www.riverbed.com/
+
+Contact information at:
+http://jobs.perl.org/job/6525#contact
+
+

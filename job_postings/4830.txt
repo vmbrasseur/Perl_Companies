@@ -1,0 +1,115 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4830
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 17992 invoked from network); 23 Aug 2006 00:34:05 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 23 Aug 2006 00:34:05 -0000
+Received: (qmail 6790 invoked by uid 225); 23 Aug 2006 00:34:05 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 6781 invoked by alias); 23 Aug 2006 00:34:04 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 22 Aug 2006 17:34:00 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id B72C32AFE3; Tue, 22 Aug 2006 17:33:55 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060823003355.B72C32AFE3@x3.develooper.com>
+Date: Tue, 22 Aug 2006 17:33:55 -0700 (PDT)
+Subject: Agile Perl Developer for Enterprise Network Management Software (onsite), United States, CA, San Mateo
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4548
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 22, 2006
+
+Job title:
+Agile Perl Developer for Enterprise Network Management Software
+
+Company name: AirWave Wireless
+
+Location: United States, CA, San Mateo
+
+Pay rate: 80-90K
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Hi there.  I'm Blake Mills, the DevTeam lead at AirWave Wireless.  We're
+expanding our development team, and you might be just the one we're looking
+for.  Three years ago, I was looking for a company that was small enough
+that I could make an impact, yet had the stability of a larger
+organization.  I found it here at AirWave.  We have an enthusiastic group
+of developers and a great working environment.	Just watch out though, you
+might find your keyboard encased in Jello like I did last April Fools day.
+
+Ok, so I've got your attention.  You're starting to think that this might
+be the job for you.  Aside from office pranks, what is it that we do at
+AirWave?  Glad you asked.  We develop network management software that is
+used by many of the leading IT organizations at Fortune 500 companies,
+major universities, hospitals, and other prominent institutions.  Rolling
+out a wireless network is a daunting task, and we provide tools to ease
+that burden.  Our industry leading software helps plan, configure, manage,
+and monitor some of the largest wireless networks on the planet.
+
+Our team practices extreme programming (XP), which means we spend most of
+our time writing code.	We believe that running code and short feedback
+loops speak louder than excessive documentation and month long design
+meetings.  We practice test-driven development and have a fairly
+comprehensive suite of tests... over 23,000 at last count. We pair program,
+which means you'll learn the system quickly and have a great time doing it.
+We have short release cycles so your talents won't sit idle working on
+projects that never see the light of day. Software you write today will be
+managing enterprise networks in a couple weeks.  We've been cited as the
+longest running continuous XP project in the industry (five years and
+counting) so we have gotten quite good at embracing its advantages while
+avoiding the pitfalls.
+
+Excited?  Good. Now to the nuts and bolts.  AirWave develops software in
+several different languages and the current position will be working on
+Linux writing object-oriented Perl.  We use Apache mod_perl as our front
+end UI and Postgres as our backend persistence layer.
+ 
+Responsibilities - The software engineer's responsibilities include
+designing, writing, testing, and maintaining code that is part of a
+shipping enterprise network management and monitoring software package.
+
+-Blake
+
+
+Required skills:
+Perl, Object Oriented design, Linux, Enthusiasm, Sense of Humor 
+
+Desired skills:
+Since we manage network devices, knowledge of network protocols would be a
+plus, SNMP, TFTP, HTTP, etc.  Apache, Linux application development,
+mod_perl, Postgres, Experience developing network management software -
+Knowledge of IP and 802.11 networking - Network management experience,
+specifically wireless network management - Linux system administration
+(rpm, network configuration, etc.) - Experience developing automated tests
+- Strong refactoring and design skills - Extreme Programming (XP)
+experience
+
+
+URL for more information: http://www.airwave.com/
+
+Contact information at:
+http://jobs.perl.org/job/4548#contact
+
+

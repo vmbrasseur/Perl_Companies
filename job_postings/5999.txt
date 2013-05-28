@@ -1,0 +1,83 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5999
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 21729 invoked from network); 28 Mar 2007 20:24:10 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 28 Mar 2007 20:24:10 -0000
+Received: (qmail 9265 invoked by uid 225); 28 Mar 2007 20:24:09 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 9258 invoked by alias); 28 Mar 2007 20:24:09 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,DK_POLICY_SIGNSOME
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 28 Mar 2007 13:24:06 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id C4DD02AFF4; Wed, 28 Mar 2007 13:24:02 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070328202402.C4DD02AFF4@x3.develooper.com>
+Date: Wed, 28 Mar 2007 13:24:02 -0700 (PDT)
+Subject: Lead Developer (onsite), United States, New Jersey, Princeton
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5541
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 28, 2007
+
+Job title: Lead Developer
+
+Company name: iGuard / Quintiles
+
+Location: United States, New Jersey, Princeton
+
+Pay rate: 85k-120k
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Flexible
+
+Onsite: yes
+
+Description:
+iGuard, Inc., a startup company funded by Quintiles Transnational, is
+looking for an experienced developer to join our team. Applicant will be
+working independently or as part of a team on the development and
+maintenance of a consumer oriented drug safety monitoring system, and will
+take care of all aspects of the system and software development life cycle
+from design and implementation, to quality assurance, documentation, and
+ongoing support & maintenance. We primarily use Perl, Mason, MySQL, Apache,
+and Linux. Candidate must be a United States citizen or permanent resident.
+
+Required skills:
+* Expert: Perl, RDBMS (MySQL preferred), DBI module, CGI scripting;
+* Intermediate: Apache, Linux
+* Understanding of software development best practices -- Modules, Don't
+Repeat Yourself, Maintainable code
+* Ability to write scalable, high performance code, with efficient
+utilization of server resources
+* Strong communication skills
+* Experience working in a team environment
+* Enjoys the startup experience
+
+Desired skills:
+* mod_perl, CVS, HTML, CSS, DHTML, Ajax
+* Object oriented programming (preferably with perl)
+* Other languages a plus (Java, PHP, Ruby, Python)
+
+URL for more information: http://www.iguard.org/
+
+Contact information at:
+http://jobs.perl.org/job/5541#contact
+
+

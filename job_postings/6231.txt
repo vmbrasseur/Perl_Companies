@@ -1,0 +1,115 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6231
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 24012 invoked from network); 4 May 2007 13:58:08 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 4 May 2007 13:58:08 -0000
+Received: (qmail 24113 invoked by uid 225); 4 May 2007 13:58:07 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 24106 invoked by alias); 4 May 2007 13:58:06 -0000
+X-Spam-Status: No, hits=-2.6 required=8.0
+	tests=BAYES_00,DKIM_POLICY_SIGNSOME,DK_POLICY_SIGNSOME,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 04 May 2007 06:57:52 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 923872AFD8; Fri,  4 May 2007 06:57:48 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070504135748.923872AFD8@x3.develooper.com>
+Date: Fri,  4 May 2007 06:57:48 -0700 (PDT)
+Subject: Design & Development Engineer (onsite), United States, CA, San Francisco
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5742
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May  3, 2007
+
+Job title: Design & Development Engineer
+
+Company name: Barclays Global Investors
+
+Internal ID: PS-1029
+
+Location: United States, CA, San Francisco
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Length of employment: Permanent
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Barclays Global Investors (BGI) is the world’s largest asset manager,
+providing structured investment strategies such as indexing,
+risk-controlled active products, and exchange traded funds (iShares) to
+investors worldwide. For 35 years, BGI has been at the forefront of
+developing innovative investment ideas, applying science and technology to
+the investment process. Headquartered in San Francisco and named one of the
+SF Business Times’ “Best Places to Work in the Bay Area 2006,” the
+majority-owned subsidiary of Barclays Bank PLC employs over 3,000 people
+globally and manages $1.8 trillion in assets. 
+
+IT development for production-quality data acquisition, cleansing and
+distribution with technologies such as Sybase ASE, Perl, Sybase IQ, SQL and
+XML. The primary client for the initial 6 months will be Hedge Fund &
+Derivatives Platform Group. The candidate will be responsible for the full
+lifecycle of the Development liaising with a global team. 
+
+
+Primary Responsibilities 
+
+
+•Partnering with Knowledge Management Business Analysts and Clients to
+define business requirements and test plans. 
+•Implementing high quality well tested solutions to business problems using
+one of BGI’s agreed SDLCs. Collaborate with KM Architecture group on design
+of new applications and components. 
+•Building strong relationships with the business through delivery,
+communication and domain knowledge. 
+•Working closely with the Production Services team to ensure code,
+documentation, monitoring, etc. are fit for a production environment. 
+•Providing 2nd Level support for existing production code 
+
+
+Required skills:
+•Degree in CS or related field 
+•Strong OO Designs skill – knowledge of OO design methodology, terminology
+and principles; Strong Perl, prior experience with Java preferred 
+•Strong Database development skills – Sybase ASE preferable • Strong
+Database design skills - (indexes, normalization, stored procedures, views,
+entity-relationships, etc…) 
+•Strong Unix skills - at least 4 years day-to-day experience of Unix
+(Solaris, Linux, BSD, etc…) 
+•Experience with an ETL tool, preferably Informatica. 
+•Desirable Technologies 
+• Good XML skills 
+• Sybase IQ 
+• Powerbuilder 
+• MQ Series 
+• Autosys 
+• Asset Control 
+• mod_perl 
+• BPM 
+
+
+URL for more information:
+https://barclays.recruitmax.com//main/careerportal/candidate_update.cfm?szO
+rderID=1029
+
+Contact information at:
+http://jobs.perl.org/job/5742#contact
+
+

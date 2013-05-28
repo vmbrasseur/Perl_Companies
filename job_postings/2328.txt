@@ -1,0 +1,122 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2328
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8815 invoked from network); 8 Feb 2005 23:12:55 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 8 Feb 2005 23:12:55 -0000
+Received: (qmail 21550 invoked by uid 225); 8 Feb 2005 23:12:55 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 21546 invoked by alias); 8 Feb 2005 23:12:55 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 08 Feb 2005 15:12:50 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j18NCmHE015097
+	for <jobs@perl.org>; Tue, 8 Feb 2005 15:12:48 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j18NCmqB015095;
+	Tue, 8 Feb 2005 15:12:48 -0800
+Date: Tue, 8 Feb 2005 15:12:48 -0800
+Message-ID: <200502082312.j18NCmqB015095@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Senior Software Engineer: Yahoo! Search (onsite), United States, CA, Sunnyvale
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2244
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February  8, 2005
+
+Job title: Senior Software Engineer: Yahoo! Search
+
+Company name: Yahoo!
+
+Location: United States, CA, Sunnyvale
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Are you a software engineer with a passion for elegant solutions?  Can you
+provide technical leadership to a team and take an application to the next
+level?	Can you really get into your users’ heads and see the world as they
+see it?   The Yahoo! Search Site Match team is seeking a skilled senior
+software engineer with solid database and backend development experience to
+join the development team for the Site Match Center (SMC).  Site Match
+Center provides various performance metrics related to the content that
+Yahoo! indexes in order to improve the search experience.  Our audience
+includes both Yahoos and external customers.
+
+What will you do?
+
+As a senior software engineer working on SMC, you will design and build
+infrastructure to support new features.   You will help lead the team in
+making design decisions, choosing which technologies to use and producing a
+high quality product.  You will tackle tough problems like scaling,
+internationalization, and integration with other Yahoo! products.  You will
+identify how changes impact other components, track dependencies and
+prevent problems before they occur.  You will mentor junior developers in
+design decisions and provide feedback on their work.
+
+About Yahoo!
+
+At Yahoo! we work hard, play hard and don’t take ourselves too seriously...
+It’s The Yahoo Way! From our humble history we have grown to be the World’s
+most essential Internet service for consumers (businesses too!). When we
+are not changing the course of Internet history, we are busy celebrating
+each others successes and letting it all hang out!
+
+
+Required skills:
+- Significant experience building systems in Perl (using object-oriented
+Perl)
+- Strong relational database design experience (experience with Oracle a
+plus)
+- Experience with large data-driven applications and advanced SQL queries
+- 4+ years software development experience
+- B.S. or M.S. in Computer Science or equivalent
+
+Desired skills:
+ Ideal candidates have:
+- Creativity and passion for solving problems, plus a willingness to make
+decisions
+- Strong object-oriented design skills (C++, Java a plus)
+- Strong algorithm skills
+- Strong focus and rigorous attention to detail
+- Experience with web-based technologies (Javascript, HTML, CSS2, etc.)
+- Linux/Unix experience
+
+Deep experience in one or more of the following is a plus:
+- Internationalization
+- HTML/Mason
+- Web services
+- Apache
+
+
+Contact information:
+Interested in applying?
+
+Please send your resume to smc_dev@yahoo.com.  Use the following subject
+for your email:  ‘Senior Software Engineer: SMC (jobs.perl.org)’.   In your
+cover letter, please explain how your background addresses the job
+requirements and especially highlight any applications or projects that you
+developed in Perl.  Also describe your favorite design pattern.
+
+
+

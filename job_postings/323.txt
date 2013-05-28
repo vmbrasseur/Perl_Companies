@@ -1,0 +1,53 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:323
+Return-Path: <jozefn@sonic.net>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 71281 invoked by uid 76); 7 Feb 2002 18:59:18 -0000
+Received: from marine.sonic.net (HELO marine.sonic.net) (208.201.224.37)
+  by onion.perl.org (qpsmtpd/0.06) with SMTP; Thu Feb  7 18:59:18 2002 -0000
+Received: (qmail 20124 invoked from network); 7 Feb 2002 18:59:00 -0000
+Received: from sub.sonic.net (208.201.224.8)
+  by marine.sonic.net with SMTP; 7 Feb 2002 18:59:00 -0000
+Received: from sonic.net (newbolt [208.201.242.18])
+	by sub.sonic.net (8.11.6/8.8.5) with ESMTP id g17Ix0O27268
+	for <jobs@perl.org>; Thu, 7 Feb 2002 10:59:00 -0800
+X-envelope-info: <jozefn@sonic.net>
+Received: from newbolt.sonic.net (IDENT:jozefn@localhost [127.0.0.1])
+	by sonic.net (8.12.1/8.12.1) with ESMTP id g17Ix0Aa007833
+	for <jobs@perl.org>; Thu, 7 Feb 2002 10:59:00 -0800
+Received: from localhost (jozefn@localhost)
+	by newbolt.sonic.net (8.12.1/8.12.1/Submit) with ESMTP id g17Ix0TH007830
+	for <jobs@perl.org>; Thu, 7 Feb 2002 10:59:00 -0800
+Date: Thu, 7 Feb 2002 10:59:00 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <Pine.LNX.4.40.0202071054050.7485-100000@newbolt.sonic.net>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Subject: Interest in contracts involving PERL/MYSQL
+Approved: news@nntp.perl.org
+From: jozefn@sonic.net (jozefn)
+
+
+I am interested in contracts that involve back-end work and
+database connectivity.  I can do front end but work better
+with a designer up front with my support at the back.
+
+My rate is 35.00/hour and I have a proven telecommute
+track record with references from Peoplesoft and others.
+
+My resume is at www.sonic.net/~jozefn.  I wish to work
+with Perl and Mysql but I can do oracle also.
+
+If you are interested in some one with excellent communication
+and coding skills, I am available for projects.
+
+Thank you.
+
+#Joseph Norris (Perl - what else is there?/Linux/CGI/Mysql)
+print @c=map chr $_+100,(6,17,15,16,-68,-3,10,11,16,4,1,14,-68,12,1,14,8,
+-68,4,-3,-1,7,1,14,-68,-26,11,15,1,12,4,-68,-22,11,14,14,5,15,-90);
+
+

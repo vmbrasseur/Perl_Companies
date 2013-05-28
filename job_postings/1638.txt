@@ -1,0 +1,83 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:1638
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 10160 invoked from network); 3 Jun 2004 17:23:51 -0000
+Received: from x1.develooper.com (63.251.223.170)
+  by onion.develooper.com with SMTP; 3 Jun 2004 17:23:51 -0000
+Received: (qmail 14757 invoked by uid 225); 3 Jun 2004 17:23:51 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 14752 invoked by alias); 3 Jun 2004 17:23:51 -0000
+X-Spam-Status: No, hits=0.0 required=7.0
+	tests=
+X-Spam-Check-By: la.mx.develooper.com
+Received: from onion.develooper.com (HELO onion.perl.org) (63.251.223.166)
+  by la.mx.develooper.com (qpsmtpd/0.27.1) with SMTP; Thu, 03 Jun 2004 10:23:50 -0700
+Received: (qmail 10147 invoked by uid 1016); 3 Jun 2004 17:23:49 -0000
+Date: 3 Jun 2004 17:23:49 -0000
+Message-ID: <20040603172349.10146.qmail@onion.perl.org>
+To: jobs@perl.org
+X-Spam-Rating: onion.develooper.com 1.6.2 0/1000/N
+Subject: QA Manager/Lead (onsite), United States, CA, Sunnyvale
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1530
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June  3, 2004
+
+Job title: QA Manager/Lead
+
+Company name: Yahoo! Inc.
+
+Location: United States, CA, Sunnyvale
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Yahoo! Search is looking for an exceptional QA Engineer Lead/Manager to
+contribute to and lead the QA effort of our sites.  The successful
+candidate will drive and also be intimately involved in the
+design/implementation of QA automation platform for Yahoo! Search.  The
+candidate will lead a team of local and remote engineers, and will be
+required to interact on a daily basis with development, Yahoo! management
+teams, and other QA groups.  The candidate will be responsible for
+end-to-end QA execution for many critical projects, and will be required
+for QA/test planning in an online, consumer facing product development
+environment.	
+
+Required skills:
+- 2+ years managing a team of 5 or more QA engineers, with emphasis on
+communication, planning, and organization skill
+- experience working with local and remote peers
+- experience building and managing a QA lab 
+- hand-on experience with LoadRunner, WinRunner, or other GUI automation
+tool for functional as well as load testing
+- strong perl programmer on UNIX platform, specifically with
+  . 3+ years of perl programming with experience coding perl modules
+  . experience with developing with and using cpan modules
+  . strong with regular expressions   
+
+
+Desired skills:
+  . 4+ years developing code on unix/linux/freebsd  
+- familiar with apache, http, tcp/ip, and network protocols    
+- experience automating projects via scripts and cron
+- MS degree in CS/EE or equivalent
+
+
+Contact information: fbitter@yahoo-inc.com
+
+

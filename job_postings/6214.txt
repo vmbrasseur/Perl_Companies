@@ -1,0 +1,103 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6214
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 32493 invoked from network); 2 May 2007 14:53:07 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 2 May 2007 14:53:07 -0000
+Received: (qmail 23756 invoked by uid 225); 2 May 2007 14:53:07 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 23751 invoked by alias); 2 May 2007 14:53:06 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,DK_POLICY_SIGNSOME
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 02 May 2007 07:52:58 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 5D2E02AFD6; Wed,  2 May 2007 07:52:55 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070502145255.5D2E02AFD6@x3.develooper.com>
+Date: Wed,  2 May 2007 07:52:55 -0700 (PDT)
+Subject: UNIX Systems and Network Administrator (onsite), United Kingdom, England, London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5722
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May  1, 2007
+
+Job title: UNIX Systems and Network Administrator
+
+Company name: Southern Records
+
+Location: United Kingdom, England, London
+
+Pay rate: DOE
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Southern Records is looking for an experienced UNIX Systems and Network
+Administrator for its small team of IT personnel. This position is based at
+our Wood Green (London) head office/recording studio and is open
+immediately.
+
+Southern was founded as a recording studio in the mid-1970's based on a DIY
+ethic that exists in all aspects of the company to this day. Southern has
+been a UNIX shop since 1985 and strongly supports Open Source solutions
+within the IRIX, GNU/Linux and Apple Macintosh OS X frameworks, as well as
+bespoke applications produced in-house.
+
+The ideal candidate will have a strong background in IRIX/Solaris and Linux
+server administration, Mac OS X, and solid experience managing terminal
+servers and dealing with console-based server administration over a WAN. A
+large part of this job will involve making various bits of hardware and
+software play together nicely, so good knowledge of TCP and the ability to
+make patch cables and adapters for all kinds of devices (e.g. RS-232 over
+Cat 5) is important. On the software side, our scripting language of choice
+is Perl, so the ideal candidate will have experience programming and
+maintaining OO Perl. Knowledge of C will also be necessary.
+
+Don't forget to send us your salary requirements!
+
+Applicants must have the right to live and work in the UK.
+
+You can read more about Southern Records and Southern Studios on Wikipedia.
+
+Required skills:
+IRIX or Solaris
+Linux
+OO Perl
+C
+Networking
+Routing
+VPN
+Services: MTA, IMAP, BIND, DHCP, Squid, Apache, MySQL, PostgreSQL
+
+Desired skills:
+Knowledge of MIPS-based hardware
+HylaFAX, DigiEtherlite modem servers
+PostgreSQL, MySQL
+Tape backup (DLT & LTO 3)
+
+
+URL for more information:
+http://www.southern.net/southern/srl_jobvac.html
+
+Contact information at:
+http://jobs.perl.org/job/5722#contact
+
+

@@ -1,0 +1,92 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6099
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 3740 invoked from network); 12 Apr 2007 19:06:15 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 12 Apr 2007 19:06:15 -0000
+Received: (qmail 29317 invoked by uid 225); 12 Apr 2007 19:06:15 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 29313 invoked by alias); 12 Apr 2007 19:06:15 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,DK_POLICY_SIGNSOME
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 12 Apr 2007 12:06:12 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 632C12AFE6; Thu, 12 Apr 2007 12:06:07 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070412190607.632C12AFE6@x3.develooper.com>
+Date: Thu, 12 Apr 2007 12:06:07 -0700 (PDT)
+Subject: Production Engineer (Linux sysadmin + Perl) (onsite), United States, CA, Santa Clara
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5632
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 12, 2007
+
+Job title:
+Production Engineer (Linux sysadmin + Perl)
+
+Company name: Yahoo!
+
+Internal ID: RX1000021358
+
+Location: United States, CA, Santa Clara
+
+Pay rate: DOE
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Join the team responsible for the daily operations of Yahoo!'s leading
+search engine. You will contribute to both the administration of tens of
+thousands of (primarily) Linux machines as well as the development of tools
+that automate their deployment, management and monitoring.
+The ideal candidate has strong system administration skills as well as
+experience using Perl for automation tasks.
+
+Responsibilities:
+* Administer Linux clusters responsible for Yahoo! Web search results.
+* Ensure stability of production applications, deploy software
+releases and configurations, and diagnose and recover from emergencies.
+* Provide input into product development to guide the evolution of
+frameworks that run over thousands of systems.
+* Drive the build-out and deployment of new hardware to facilitate
+growth of the production environment.
+* Participate in the on-call pager rotation.
+* Utilize and extend a large library of Perl code responsible for the
+administration automation and monitoring of thousands of Linux machines.
+* Work closely with developers on upcoming software features.
+
+Required skills:
+* Proven system administration experience (preferably with Linux).
+* Strong Perl programming skills.
+
+
+Desired skills:
+* B.S. in Computer Science/Engineering or equivalent.
+* 3+ years system administration experience (preferably with Linux).
+* Technical or business operations experience in a 24x7 environment.
+
+
+URL for more information: http://careers.yahoo.com/
+
+Contact information at:
+http://jobs.perl.org/job/5632#contact
+
+

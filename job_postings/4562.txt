@@ -1,0 +1,102 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4562
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 6092 invoked from network); 1 Jul 2006 00:46:26 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 1 Jul 2006 00:46:26 -0000
+Received: (qmail 17874 invoked by uid 225); 1 Jul 2006 00:46:25 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 17868 invoked by alias); 1 Jul 2006 00:46:24 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 30 Jun 2006 17:45:53 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 1637A2AFE4; Fri, 30 Jun 2006 17:45:49 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060701004549.1637A2AFE4@x3.develooper.com>
+Date: Fri, 30 Jun 2006 17:45:49 -0700 (PDT)
+Subject: Web and database Perl  programmer for govt agency (onsite), United States, NY, BROOKLYN
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4308
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 30, 2006
+
+Job title:
+Web and database Perl  programmer for govt agency
+
+Company name: NYC Human Resources Administration
+
+Location: United States, NY, BROOKLYN
+
+Pay rate: $120K/year
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 16 months
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Duties:
+
+Maintain, document, and create new UNIX Perl applications and modules in
+support of our Solaris systems administration and document imaging
+infrastructure and applications.
+
+All are welcome to apply; preference is given to those who have contributed
+something to CPAN and/or published either a book and/or paper (so that I
+can see a sample of your code and documentation). Those who have not
+contributed to CPAN or published must include some module or
+application/script as code sample to demonstrate your ability with CGI or
+Apache (mod_perl/perl2), DBI, Perl and writing documentation. 
+
+This is a 16-month contract employment position on-site in downtown
+Brooklyn. No remote work is  permitted. Start-time for each day is
+negotiable and flexible within the core business hours of the agency.
+
+
+Required skills:
+Senior programmer with BA/BS degree in Computer Science and 10 years of
+solid UNIX software development. Four years of solid full-time Perl work
+experiencewith strong Perl experience including CGI and other web
+application techniques.
+
+Database interfaces using SQL and DBI and DBD::Oracle or DBD::Postgresql or
+DBD::MySQL; experience with one or more of the various wrappers (Alzabo or
+Class::DBI).
+
+mod_perl/mod_perl2
+
+The ability to design/write/understand both procedural and object-oriented
+Perl, as appropriate, is required. 
+
+The successful candidate must also have a thorough command of English both
+written and spoken (whether that be as your first or nth language) with
+demonstrated technical writing skills. 
+
+Desired skills:
+HTML::Mason
+
+Any experience creating Solaris packages for software distribution a plus.
+
+
+Contact information at:
+http://jobs.perl.org/job/4308#contact
+
+

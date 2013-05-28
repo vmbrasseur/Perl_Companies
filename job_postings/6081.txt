@@ -1,0 +1,105 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6081
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 11970 invoked from network); 11 Apr 2007 01:50:06 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 11 Apr 2007 01:50:06 -0000
+Received: (qmail 13214 invoked by uid 225); 11 Apr 2007 01:50:05 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 13198 invoked by alias); 11 Apr 2007 01:50:04 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,DK_POLICY_SIGNSOME
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 10 Apr 2007 18:50:01 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 27A062B021; Tue, 10 Apr 2007 18:49:57 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070411014957.27A062B021@x3.develooper.com>
+Date: Tue, 10 Apr 2007 18:49:57 -0700 (PDT)
+Subject: Software Engineer, Network Device Drivers (onsite), United States, Washington, Redmond
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5376
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 10, 2007
+
+Job title:
+Software Engineer, Network Device Drivers
+
+Company name: Opsware, Inc.
+
+Location: United States, Washington, Redmond
+
+Pay rate: DOE
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: Regular Full-time
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are one of the fastest growing enterprise software companies on NASDAQ.
+With more than 350 global customers, we've achieved revenue growth of more
+than 60 percent for the last three years. We offer a highly collaborative,
+entrepreneurial environment that encourages innovation and growth. 
+
+RESPONSIBILITIES:
+•	Design, implement, unit-test, maintain and document software  for
+configuration of devices
+•	Support our user base (debug issues,  develop drivers for support
+of new devices, provide patches)
+•	Design and develop robust, scalable, high-quality software 
+•	Work with Program Management, QA and Technical Support during the
+entire product lifecycle
+•	Manage the network lab and systems as necessary.
+
+
+Required skills:
+•	Prior experience with VoIP and Cisco CallManager
+•	Demonstrable experience writing scripts using Perl & Expect
+programming languages;
+•	Minimum of 5 years experience managing large data networks at
+Fortune 500 companies;
+•	Minimum of 5 years experience configuring routers,  switches,
+firewalls and other networking equipment from a variety of vendors,
+including Cisco,  Nortel,  Juniper,   Extreme, Foundry,  Checkpoint… ;
+•	Good background in networking (TCP/IP, Routing, Switching, VLANs,
+AAA, Syslog, TFTP, QoS,  Ethernet, SNMP, HSRP, VRRP,  Access Lists,  …);
+•	Willingness to travel to customer sites;
+•	Experience working in high pressure,   quick-support-turnaround
+environments;
+•	Experience developing software for network management applications
+(device discovery, monitoring, configuration, etc…) ;
+•	Team player, good communication skills;
+
+Desired skills:
+•	Experience with Solaris, Linux, Windows as an administrator;
+•	Experience using and configuring network management tools HP Open
+View, CiscoWorks, Optivity,  CA Unicenter, Tivoli, Cisco Works …; 
+•	Knowledge of CLI and other forms of configuration of network
+elements;
+•	Knowledge of Java/C programming languages;
+•	Bachelors or Masters in CS/EE;
+
+
+URL for more information: http://www.opsware.com/
+
+Contact information at:
+http://jobs.perl.org/job/5376#contact
+
+

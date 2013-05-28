@@ -1,0 +1,69 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7115
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 16973 invoked from network); 13 Oct 2007 14:32:47 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 13 Oct 2007 14:32:47 -0000
+Received: (qmail 32404 invoked by uid 225); 13 Oct 2007 14:32:46 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 32380 invoked by alias); 13 Oct 2007 14:32:45 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 13 Oct 2007 07:32:38 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id E671E2AFD7; Sat, 13 Oct 2007 07:32:24 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20071013143224.E671E2AFD7@x3.develooper.com>
+Date: Sat, 13 Oct 2007 07:32:24 -0700 (PDT)
+Subject: Perl dev. for data parsing (telecommute), Belgium, Antwerp
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/6997
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 13, 2007
+
+Job title: Perl dev. for data parsing
+
+Company name: Yenting nv
+
+Location: Belgium, Antwerp
+
+Pay rate: negotionable
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: 3-4 months
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+I am looking for a perl developer who can write an application for my
+thesis on linguistics. 
+Starting from a ascii corpus the text has to be lemmatised/parsed and then
+divided into micro-semantic entities. These entities have then to be
+analysed statisticaly.
+
+Required skills:
+Perl, good knowledge of statistics, experienced with usage of superclusters
+
+Desired skills:
+Linguistic background, academic experience
+
+Contact information at:
+http://jobs.perl.org/job/6997#contact
+
+

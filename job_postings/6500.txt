@@ -1,0 +1,105 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6500
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 14438 invoked from network); 22 Jun 2007 21:15:03 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 22 Jun 2007 21:15:03 -0000
+Received: (qmail 11264 invoked by uid 225); 22 Jun 2007 21:15:02 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11260 invoked by alias); 22 Jun 2007 21:15:02 -0000
+X-Spam-Status: No, hits=-2.6 required=8.0
+	tests=BAYES_00,DKIM_POLICY_SIGNSOME,DK_POLICY_SIGNSOME,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 22 Jun 2007 14:14:46 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id E3D1D2B009; Fri, 22 Jun 2007 14:14:42 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070622211442.E3D1D2B009@x3.develooper.com>
+Date: Fri, 22 Jun 2007 14:14:42 -0700 (PDT)
+Subject: Mid-to-Senior Perl Application Developer (telecommute)
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5999
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 22, 2007
+
+Job title: Mid-to-Senior Perl Application Developer
+
+Company name: Plus Three, LP
+
+Pay rate: Based on experience ($65,000-$85,000)
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+Plus Three (http://www.plusthree.com) is a small, profitable start up
+committed to using and contributing to Open Source and Free Software to
+deliver better, more robust solutions to our clients. Our systems support
+fund
+raising, building activist communities and increasing the communication
+between our clients and their constituents.
+
+You will be part of a team of developers through all aspects of the
+development life-cycle from requirements gathering to quality assurance and
+ongoing maintenance. A less experienced person with the right attitude and
+an interest in learning will also be considered.
+
+Plus Three requires the candidate to be a United States citizen or resident
+alien living in the United States.  We have offices in New York City, NY
+and Washington, DC. Depending on the candidate we will also consider
+telecommuting.
+
+Required skills:
+* Perl
+    Excellent knowledge of Perl required, including Object Oriented design
+and using CPAN modules.
+* Apache
+    Experience with configuration, tuning and use of Apache 1.3 and Apache
+2.0
+
+* mod_perl
+    Knowledge of the Apache/mod_perl API.
+
+* MySQL
+    Experience with MySQL and SQL in general.
+
+* Linux
+    Experience developing and deploying on Linux.
+
+Desired skills:
+* CVS or Subversion,
+* HTML::Template, Template::Toolkit
+* DBI, Class::DBI
+* Test::More, Test::Class
+* Javascript and AJAX (Prototype.js)
+* CSS and HTML
+* Email systems
+* PostgreSQL and other RDBMS systems
+* Test driven development
+* Communication Skills
+
+EXTRA SPECIAL SUPER BONUS SKILLS
+
+* CGI::Application (http://cgi-app.org)
+* Krang CMS (http://krangcms.com)
+
+Contact information at:
+http://jobs.perl.org/job/5999#contact
+
+

@@ -1,0 +1,96 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2121
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 17532 invoked from network); 30 Nov 2004 01:46:32 -0000
+Received: from x1.develooper.com (63.251.223.170)
+  by lists.develooper.com with SMTP; 30 Nov 2004 01:46:32 -0000
+Received: (qmail 1521 invoked by uid 225); 30 Nov 2004 01:46:31 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 1511 invoked by alias); 30 Nov 2004 01:46:31 -0000
+X-Spam-Status: No, hits=-4.9 required=8.0
+	tests=BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.dev) (63.251.223.163)
+  by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 29 Nov 2004 17:46:29 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.dev (8.12.11/8.12.11) with ESMTP id iAU1kQeA023555
+	for <jobs@perl.org>; Mon, 29 Nov 2004 17:46:26 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id iAU1kQBd023553;
+	Mon, 29 Nov 2004 17:46:26 -0800
+Date: Mon, 29 Nov 2004 17:46:26 -0800
+Message-ID: <200411300146.iAU1kQBd023553@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Perl Programmer (Data Feeds / Release Manager) (onsite), United States, CA, San Mateo
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2028
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 29, 2004
+
+Job title:
+Perl Programmer (Data Feeds / Release Manager)
+
+Company name: School Loans Corp
+
+Internal ID: sw1
+
+Location: United States, CA, San Mateo
+
+Pay rate: $40-50K / yr DOE
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+School Loans Corporation provides fully outsourced private-label student
+lending solutions to financial institutions and secondary markets. Using
+primarily open source tools, we've built systems for capturing, processing
+and storing loan applications for FFELP and private loans.
+
+We are looking for an ambitious junior programmer to join our development
+team, working primarily on systems for packaging and deploying software to
+our staging and production systems, as well as developing and maintaining
+data feeds with our partners.
+
+Required skills:
+- Great OO Perl Skills: You MUST be very comfortable using perl objects,
+have experience rolling complex data structures, writing custom modules,
+searching CPAN, connecting to a mysql database, etc.
+- Strong Linux Skills: You don't need to be able to re-compile the kernel,
+but you need to be completely comfortable in a bash shell and be familiar
+with standard tools.
+- Good Experience with XML: You should have experience with parsing and
+generating XML using perl.
+- Strong Apache Skills: You should be familiar with setting up and
+configuring apache, setting redirects and rewrites, installing a
+certificate, etc.
+- Great People Skills: You'll interface with our internal marketing and
+project management staff as well as with our partners, so you should have
+excellent verbal and written communication skills.
+
+
+Desired skills:
+- Experience with ant
+- Experience with SOAP
+- Experience with tomcat
+
+Contact information:
+Please send a cover letter and resume to sw_job@schoolloanscorp.com
+
+

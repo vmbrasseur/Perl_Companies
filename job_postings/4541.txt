@@ -1,0 +1,86 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4541
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 22715 invoked from network); 27 Jun 2006 00:05:41 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 27 Jun 2006 00:05:41 -0000
+Received: (qmail 8367 invoked by uid 225); 27 Jun 2006 00:05:40 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 8345 invoked by alias); 27 Jun 2006 00:05:38 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 26 Jun 2006 17:05:20 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 4F5CF2AFE4; Mon, 26 Jun 2006 17:05:06 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060627000506.4F5CF2AFE4@x3.develooper.com>
+Date: Mon, 26 Jun 2006 17:05:06 -0700 (PDT)
+Subject: Perl Optimization Guru (telecommute), United States, MI, Grand Rapids
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4290
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 26, 2006
+
+Job title: Perl Optimization Guru
+
+Company name: UV Hosting
+
+Location: United States, MI, Grand Rapids
+
+Pay rate: tba
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+I have been in the on and off process of writing a website monitoring
+system for the last 9 months or so. Think www.atwatch.com or
+www.alertra.com or www.watchmouse.com. I have much of it completed. It is
+really only my first or second attempt to write 'clean' perl (using
+localized variables, passing variables between subroutines, writing it for
+mod_perl, using a daemon to launch forks, etc.) as everything before this
+has been relatively simple. I have been writing perl in some form for 8+
+years though I have never been formally trained or made it my day-job.
+
+What I am looking for is someone who can go over the code, which is about
+4000 lines between the various parts of the program (front-end, back-end,
+and embedded html), in two facets. The first is to find routines that I am
+using frequently -- the type of code such as dbi-mysql queries or getting
+data from a form, and show me a more memory & code efficient way to do
+those things. The second is when I am 'done' with most or all of the
+program, effectively go through it, optimize it, look for logic errors, and
+send it back. I suspect that there will be some functions that I wrote very
+poorly and I have some idea which those are. The code is also rather
+proprietary, so I would like to have some sort of a NDA.
+
+Required skills:
+mod_perl2
+Template Toolkit
+GD library tools
+perl daemon experience
+perl fork experience
+perl dbi using mysql
+
+Desired skills: see required skills
+
+Contact information at:
+http://jobs.perl.org/job/4290#contact
+
+

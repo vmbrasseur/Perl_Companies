@@ -1,0 +1,131 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10872
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 25198 invoked from network); 11 Jan 2011 00:28:32 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 11 Jan 2011 00:28:32 -0000
+Received: (qmail 4191 invoked by uid 225); 11 Jan 2011 00:28:31 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 4187 invoked by alias); 11 Jan 2011 00:28:31 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 10 Jan 2011 16:28:29 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id F303C2AFE1; Mon, 10 Jan 2011 16:28:25 -0800 (PST)
+To: jobs@perl.org
+Date: Mon, 10 Jan 2011 16:28:25 -0800
+Message-ID: <20110111002825.F303C2AFE1@x3.develooper.com>
+Subject: QA Software Engineer Virtualization with Perl or similar (onsite),
+ United States, CA, San Francisco, Sunnyvale or Champaign IL 
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/12518
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 10, 2011
+
+Job title:
+QA Software Engineer Virtualization with Perl or similar
+
+Company name: Riverbed Technology
+
+Internal ID: 2047
+
+Location:
+United States, CA, San Francisco, Sunnyvale or Champaign IL 
+
+Pay rate: Open 
+
+Terms of employment: Salaried employee
+
+Length of employment: Full Time 
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Like analyzing and breaking complex systems?
+Excited by virtualization and networking?
+Ready to work on something big?
+
+We’ve got the job for you.
+
+You’ll be working on serious software that 60 of the 100 biggest global
+companies put in the core of their networks.  You’ll be surrounded by
+experts in the field, but be empowered to forge your own path.	You’ll have
+the right tools – from a hands-off, fully-automated lab with a few thousand
+machines at your disposal, to a test code library built so that you
+concentrate on your test logic, not the trivial stuff.	We understand that
+you need just enough of the right processes, so you’ll take part in code
+reviews and use proven documentation and progress tracking standards that
+help us build and test rock-solid products.  And most importantly, you’ll
+have new challenges at every turn.
+
+We’re a fun group that feels more “Web 2.0” than “Big Company.”  We rock
+out on the game room Guitar Hero, hold Friday night keggers, and we even
+have the occasional something we call “Mustache Mondays” (fake mustaches
+provided).  You can run Mac OS, Windows, or Linux with double monitors and
+your favorite ergo keyboard – we don’t care, as long as it fits your style.
+ It’s not surprising that we were voted one of the 2010 best places to work
+in the San Francisco Bay Area by the SF Business Times.
+
+Full-time – San Francisco, CA, Sunnyvale, CA, or Champaign, IL
+
+You will:
+•	Develop, extend, execute, and analyze regression, functional, and
+performance test plans and automation for our virtualization components and
+products.
+•	Identify, setup, test, and troubleshoot permutations of software,
+hardware, and network configurations.
+•	Develop and extend scripts, programs, and other tools to implement
+test automation.
+•	Document and track your work and participate in code and design
+reviews.
+
+
+Required skills:
+•	Bachelor’s degree in CS, CE, EE, Math, or Physics-related field or
+four years equivalent QA experience; or
+•	Master’s degree in a CS, CE, EE, Math, or Physics-related field or
+two years of equivalent QA experience.
+•	Scripting and/or programming using one of the following: Perl,
+python, ruby, tcl, C/C#/Objective C/C++, or java.
+•	Strong experience with QA Engineering methodologies.
+•	Great logical debugging ability.
+•	Have excellent verbal and written communication and documentation
+skills. 
+•	Can approach complex problem-solving and troubleshooting tasks with
+creativity.
+•	Strong aptitude for learning new technologies and methodologies.
+•	Solid attention to detail.
+•	Can work on your own but know when to ask for help.
+
+Riverbed Technology (NASDAQ: RVBD) is a San Francisco-based company near
+CalTrain, Muni, and BART.  In Sunnyvale, we are close to CalTrain (via Mary
+Moffett Shuttle).  We feature an attractive compensation package including
+salary, stock options, employee stock purchase program, 401(k) matching,
+and comprehensive benefits. We are proud to be an EEO/AA employer, M/F/D/V.
+
+Desired skills:
+•	Fluency in object-oriented Perl and shell command line.
+•	Familiarity with Linux/UNIX-based systems.
+•	Familiarity with networking (TCP/IP routing/switching, iOS/CatOS
+devices, WANs, iSCSI, etc.) and Wireshark.
+•	Familiarity with virtualization products (VMware ESX/ESXi/vCenter,
+Citrix XenServer/Xen Desktop, Microsoft Hyper-V, etc).
+
+
+Website for more information: http://www.riverbed.com/us/careers/index.php
+
+Contact information at:
+http://jobs.perl.org/job/12518#contact

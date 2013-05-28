@@ -1,0 +1,106 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8635
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 26882 invoked from network); 4 Sep 2008 17:24:04 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 4 Sep 2008 17:24:04 -0000
+Received: (qmail 20245 invoked by uid 225); 4 Sep 2008 17:24:03 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 20241 invoked by alias); 4 Sep 2008 17:24:03 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 04 Sep 2008 10:23:59 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 09CD02AFE7; Thu,  4 Sep 2008 10:23:55 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080904172356.09CD02AFE7@x3.develooper.com>
+Date: Thu,  4 Sep 2008 10:23:55 -0700 (PDT)
+Subject: Programmer/Developer (onsite), United States, Arizona, Flagstaff
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/9552
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September  3, 2008
+
+Job title: Programmer/Developer
+
+Company name: Norchem Drug Testing
+
+Location: United States, Arizona, Flagstaff
+
+Pay rate: $60-$70K DOE
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Norchem Drug Testing is a nationwide provider of customized drug testing
+services, and is known for outstanding services and high quality standards.
+ We are situated in beautiful northern Arizona and are surrounded by
+national forest.  We enjoy clean air and access to many recreational and
+cultural opportunities.  Norchem Drug Testing offers career growth,
+competitive salaries and benefits.
+
+Required skills:
+General Development
+   - Understanding of Code Revision systems (CVS, SVN, GIT)
+   - Knowledge of Software Development Lifecycles.
+
+JavaScript:    - Understanding of the basics of JavaScript    -
+Understanding of AJAX concepts
+Perl:
+   - Understanding of OO usage in perl.
+   - Ability to understand and write regular expressions
+   - mod_perl:
+   - Mod_perl2 handlers and developing/debugging in that environment
+   - HTML::Template
+   - CGI::Application
+   - DBIx::Class usage with MySQL back-ends
+
+SQL:
+   - Understanding of data base normalization.
+   - Proper MySQL data types, use of date functions, joins
+
+
+Desired skills:
+General Development
+   - Understanding of Code Revision systems (CVS, SVN, GIT)
+   - Knowledge of Software Development Lifecycles.
+
+JavaScript:    - Understanding of the basics of JavaScript    -
+Understanding of AJAX concepts
+Perl:
+   - Understanding of OO usage in perl.
+   - Ability to understand and write regular expressions
+   - mod_perl:
+   - Mod_perl2 handlers and developing/debugging in that environment
+   - HTML::Template
+   - CGI::Application
+   - DBIx::Class usage with MySQL back-ends
+
+SQL:
+   - Understanding of data base normalization.
+   - Proper MySQL data types, use of date functions, joins
+
+
+URL for more information: http://www.norchemlab.com/
+
+Contact information at:
+http://jobs.perl.org/job/9552#contact
+
+

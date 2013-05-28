@@ -1,0 +1,124 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8041
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 17175 invoked from network); 25 Apr 2008 16:18:33 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 25 Apr 2008 16:18:33 -0000
+Received: (qmail 13667 invoked by uid 225); 25 Apr 2008 16:18:32 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 13663 invoked by alias); 25 Apr 2008 16:18:32 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 25 Apr 2008 09:18:29 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 441292AFE5; Fri, 25 Apr 2008 09:18:25 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080425161826.441292AFE5@x3.develooper.com>
+Date: Fri, 25 Apr 2008 09:18:25 -0700 (PDT)
+Subject: Software Engineer (onsite), United States, WA, Seattle
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8492
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 25, 2008
+
+Job title: Software Engineer
+
+Company name: CarDomain Network, Inc.
+
+Location: United States, WA, Seattle
+
+Pay rate: DOE - US
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Are you a software engineer that’s looking to…
+
+•	Code in a field and on an application which is extremely relevant? 
+
+•	Work in an environment where software engineers are not just
+cubicle coders but full participants in shaping the product and the
+business? 
+•	Be involved in all phases of the product lifecycle from
+requirements to release and maintenance? 
+•	Make a significant impact on the business by doing your daily job
+(and more!)? 
+•	Interact with a group of like-minded engineers who are passionate
+about software, software systems, and technology in general? 
+
+CarDomain Network, Inc. is a privately held company in the social media
+space and is looking for full-time software engineers.	We’ve been around
+since 1998 and have been developing social networking applications before
+MySpace, Facebook or Friendster.  The development team takes their job of
+creating functional, maintainable, sustainable and releasable code very
+seriously and is involved in all aspects of application development in our
+time-to-market driven environment.  However, we are also a laid-back group
+that enjoys playing chess and hanging out at our free Friday lunches (yes,
+every Friday!).  Do you meet the following requirements?
+
+•	Significant experience working with large-scale MVC web
+applications with high-traffic demands 
+•	You’re a good communicator that’s most-comfortable when working on
+cross-functional teams 
+•	You’re also bullish on code quality and maintainability, but able
+to balance that with the pragmatism necessary to release product in a
+timely fashion 
+•	Former managers describe you as an extremely productive contributor
+with a get-it-done attitude 
+
+If so, please submit your resume as well as solutions to the following
+problems:
+
+1.	You are given a C-array of indeterminate length containing
+unbounded integers where each integer is repeated exactly once.  An integer
+that does not already exist in the array is added randomly to the array. 
+Write an algorithm (pseudo-code is fine, extra points for actual code in
+any language) to find the non-repeated integer in the most efficient manner
+(big-O space+time). 
+a.	Ex. Array contains (4, 5, -1, 5, 16, 4, -1).  Your algorithm should
+return 16. 
+2.	You are given a C-array of indeterminate length containing
+unbounded integers where each integer exists in the array only once.  An
+integer that does not already exist in the array is added twice to random
+positions in the array.  Write an algorithm (pseudo-code is fine, extra
+points for actual code in any language) to find the repeated integer in the
+most efficient manner (big-O space+time). 
+a.	Ex. Array contains (-8, 10, 156, 10, -13, 4).  Your algorithm
+should return 10. 
+
+
+Required skills:
+Qualifications
+•	Thorough understanding of object-oriented methodology 
+•	Thorough understanding of MVC architectures 
+•	Experience with coding database-backed web applications 
+•	Expert knowledge in mod_perl 
+•	Intermediate knowledge of a mod_perl templating language 
+•	Intermediate CSS and Javascript skills 
+•	Willingness to work in an Agile development environment 
+•	Ability to clearly and concisely communicate technical ideas 
+
+
+URL for more information: http://www.cardomain.com/
+
+Contact information at:
+http://jobs.perl.org/job/8492#contact
+
+

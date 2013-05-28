@@ -1,0 +1,105 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8259
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 10162 invoked from network); 6 Jun 2008 22:37:56 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 6 Jun 2008 22:37:56 -0000
+Received: (qmail 27383 invoked by uid 225); 6 Jun 2008 22:37:56 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 27375 invoked by alias); 6 Jun 2008 22:37:55 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 06 Jun 2008 15:37:53 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id D5DEB2AFF3; Fri,  6 Jun 2008 15:37:49 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080606223749.D5DEB2AFF3@x3.develooper.com>
+Date: Fri,  6 Jun 2008 15:37:49 -0700 (PDT)
+Subject: Sr. Engineer (onsite), United States, VA, Herndon
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8904
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June  6, 2008
+
+Job title: Sr. Engineer
+
+Company name: Comcast
+
+Internal ID: Req # 63315
+
+Location: United States, VA, Herndon
+
+Pay rate: Based on skills
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+This individual will be a member of the Internet Systems Services team
+within the Product Engineering Organization. This team operates Comcast’s
+residential and commercial IP voice messaging systems – the largest
+IP-based voice messaging system in the world.  This job involves designing
+and developing software tools to support the full range of activities
+necessary to deliver voicemail services on an end-to-end basis.  This
+includes building and integrating reporting, monitoring, and data analysis
+tools, creating automation tools to assist with systems administration and
+troubleshooting, and more.
+
+* Design and develop automation tools to help the team’s systems
+administration engineers manage the Voicemail platform more efficiently,
+including tools to deploy software, verify consistent configurations,
+automate functionality testing of new servers, analyze log data, and
+troubleshoot problems.
+* Design and create tools to collect, organize, and analyze utilization,
+performance, and capacity information from the platform.
+* Design and create a “dashboard” web site to visualize the collected data,
+including platform availability reporting and capacity trend prediction.
+* Ensure all development is done in a flexible, extensible way, so that it
+may be easily expanded to support additional products and platforms in the
+future.
+* Utilize existing open-source products and packages to speed development.
+
+
+Required skills:
+* At least 5 years of Perl software development experience in a Unix/Linux
+environment.
+* At least 3 years of software development with design responsibilities.
+* At least 5 years experience creating web pages using HTML and CSS.
+* At least 5 years designing and developing for SQL databases (Oracle,
+Postgres, MySQL, etc.)
+* Development using web services technologies such as SOAP, XML, and REST.
+
+
+Desired skills:
+* Experience developing Web 2.0 / AJAX functionality using JavaScript/DOM.
+* Software development experience in PHP, Python, Ruby or other similar
+languages.
+* Data analysis and visualization experience, including basic statistical
+analysis skills and experience with open-source graphing toolkits such as
+gnuplot, ploticus, MRTG, etc.
+* Experience as a Unix systems administrator.
+* Network analysis experience (SNMP, packet analysis, DNS, etc.)
+
+
+URL for more information: http://comcast.jobs/
+
+Contact information at:
+http://jobs.perl.org/job/8904#contact
+
+

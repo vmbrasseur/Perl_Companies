@@ -1,0 +1,98 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7562
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 5470 invoked from network); 18 Jan 2008 20:13:29 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 18 Jan 2008 20:13:29 -0000
+Received: (qmail 23253 invoked by uid 225); 18 Jan 2008 20:13:28 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 23247 invoked by alias); 18 Jan 2008 20:13:28 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 18 Jan 2008 12:13:25 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 8689B2AF8F; Fri, 18 Jan 2008 12:13:22 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20080118201322.8689B2AF8F@x3.develooper.com>
+Date: Fri, 18 Jan 2008 12:13:22 -0800 (PST)
+Subject: Senior Web Application Developer (onsite), United States, CA, Ladera Ranch
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/7754
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 18, 2008
+
+Job title: Senior Web Application Developer
+
+Company name: IntelliSurvey, Inc.
+
+Internal ID: C25
+
+Location: United States, CA, Ladera Ranch
+
+Pay rate: $80K - $110K DOE
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+IntelliSurvey, Inc. is a young and growing (but also financially stable)
+company, and we need to hire great software developers to help us grow. 
+Our software enables market researchers to deploy complex online surveys,
+and view results using real-time on-line reports.  We license our software
+via an ASP model for our do-it-yourself clients, and we also have client
+service project managers who use our software internally for clients who
+who would rather outsource all survey set up.  
+
+We are currently adding major new features to our software to allow us to
+stay ahead of the competition. So this is a great opportunity for the right
+candidate to be a part of building leading-edge software using the latest
+web development technologies.  You will be involved in all phases of
+software development, from high level design, detailed design, to
+programming, testing, and roll-out.
+
+Our programming is done using database-backed and object-oriented
+programming, with tools such as Perl on the server and using JavaScript
+(with the YUI library and Ajax) for the front-end.
+
+Depending on your background and experience, you may also be responsible
+for helping to monitor and manage our servers, and for occasionally
+providing technical support to our clients.
+
+Required skills:
+Our core software is built using Perl, mod_perl, DBI, and Apache running on
+Linux servers, with PostgreSQL databases.  Our new software version also
+includes dynamic pages using extensive javascript and ajax.  Our ideal
+candidate will be experienced in developing web applications using these
+tools and technologies. In addition, the  candidate should be comfortable
+with configuring hardware (for example, installing all necessary software
+on a new Linux server) and should have a significant amount of networking
+expertise.
+
+However, we are happy to consider excellent programmers regardless of their
+technology background.	The ability to learn quickly and adapt is more
+important than past experience with any particular technical skill.
+
+Finally, because we are a relatively small company, everyone may be asked
+to wear different hats and help with whatever other tasks are necessary to
+help the company grow and prosper.
+
+Contact information at:
+http://jobs.perl.org/job/7754#contact
+
+

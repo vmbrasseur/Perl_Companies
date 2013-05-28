@@ -1,0 +1,167 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7065
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 10716 invoked from network); 5 Oct 2007 01:46:38 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 5 Oct 2007 01:46:38 -0000
+Received: (qmail 23630 invoked by uid 225); 5 Oct 2007 01:46:38 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 23613 invoked by alias); 5 Oct 2007 01:46:37 -0000
+X-Spam-Status: No, hits=-9.4 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SARE_LWSHORTT
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 04 Oct 2007 18:46:23 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 1E7DA2AFEA; Thu,  4 Oct 2007 18:46:20 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20071005014620.1E7DA2AFEA@x3.develooper.com>
+Date: Thu,  4 Oct 2007 18:46:20 -0700 (PDT)
+X-Virus-Checked: Checked
+Subject: Perl Application Developer (onsite), United States, CA, San Mateo
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/6885
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October  4, 2007
+
+Job title: Perl Application Developer
+
+Company name: Info Plus International
+
+Location: United States, CA, San Mateo
+
+Pay rate: DOE
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 3+months
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Talented people make all the difference. Info Plus International possesses
+one of the most important competitive advantages in the marketplace: we
+have a valuable relationship equity in our people. They have built
+long-standing relationships and partnerships with their colleagues and
+clients. They are proud of their personal and professional achievements,
+helping to propel IPI to the forefront and be recognized by our clients and
+peers as a leading IT/Telecom consulting organization.
+
+We are an IT/Network Consulting Firm in San Mateo, CA and we have an
+immediate assignment for a very large computer manufacturer modifying some
+feeds of Telecom data for an Executive Dashboard application that they have
+built in-house.  The team will be comprised of expertise in the following
+areas:
+1) Data Collection - coders, programmers
+2) Data Transformation Developers
+3) User Interface GUI
+
+Here's what we know - this project will be performed in two phases.
+
+Phase I: Stabilization to be completed within 4-6 weeks
+To bring stability to our customers' PBX metrics system to improve the data
+collection process by adding new OSX servers to collect data and writing
+some software to streamline the movement of data into those new servers. 
+The platform is made up of taking feeds from the Avaya PBX(s) located
+around the world and manipulating the data with Perl scripts to put into a
+MYSQL database.  PHP is the language that the web application is built to
+display this streamed data in a dashboard UI.  Immediate means a start date
+within a week or so.  The initial project would be a short term engagement
+but we believe the subsequent phase(s) could keep us engaged for a bit. 
+They actually want to redesign/re-architect the solution in the longer
+term.  The short term need is to stabilize this process globally before the
+holiday peak volumes start by establishing additional servers in Cork
+Ireland and in Cupertino.
+
+Phase II: Re-engineering project
+There is a need to re-engineer the current dashboard product to improve the
+architecture as well as the features of the actual dashboard. Essential
+skills are for UI a designer.  
+
+~ Local San Francisco Bay Area candidates only
+~ Work to be done by the end of November
+
+~ Technology:
+1. Avaya reports pulled from ASA and AIM
+2. My SQL database
+3. Perl scripts to manipulate reports data to push to database
+4. PHP to place data on Website (Dashboard UI)
+5. OSX Server setup and administration
+6. Familiar with call center metrics, PBX platform, and Windows knowledge
+will be beneficial.
+~ Understanding of Contact Center metrics
+~ Specific programming experience needed to develop the data collection
+layer, data transformation layer and UI layer.
+
+For more details and to apply, please click on the hyperlink:
+http://portal.infoplusintl.com/cats/careers/index.php?p=showJob&ID=24
+
+Info Plus International is an IT and Network consulting company for Fortune
+500 companies such as Cisco (13 years), Intuit (9 years), Lam Research (9
+years), Safeway (12 years), VISA (1  year), E*Trade (8 years) and more.  We
+provide life cycle services to corporations from assessment, project
+planning, management, and implementation expertise to operational
+engagements. Our collaborative solutions allow us to become part of the
+Client's IT/Network team, and conduct a thorough analysis of the
+applications, environment and people. Armed with this information we can to
+better assist the Client in developing strategies for utilizing Voice,
+Data, Networks, Applications, Video and Information Technology.   Since
+1986 we have been providing tailored business solutions for our Clients.  
+To learn more about our firm, please click on the hyperlink below.
+
+
+Required skills:
+MySQL, OSX, Perl, PHP, Avaya platform, knowledge of real-time streamed
+data, dashboard UI, PBX metrics, data warehousing, voice and data
+applications. 
+
+Silicon Valley / San Francisco Bay Area Residents Only
+
+Desired skills:
+================================================================
+
+This is an IMMEDIATE opportunity. Please click on the IPI hyperlink that
+will direct you to our Career Portal to apply for this position.
+
+Please note: Only Qualified candidates who meet the requirements AND
+provide resume WITH rates WILL be CONTACTED IMMEDIATELY.
+
+================================================================
+
+US citizens and Green Card Holders and those authorized to work in the US
+are encouraged to apply. We are unable to sponsor H1b candidates at this
+time.
+
+No phone calls or Recruiters please.
+
+Relocation Reimbursement: 0%
+
+Info Plus International is an IT/Network consulting company, working with
+Fortune 500 companies around the country.
+
+Visit our web site: www.infoplusintl.com
+IPI is an equal opportunity employer.
+ 
+Travel required:	none
+Telecommute:	no
+
+URL for more information:
+http://portal.infoplusintl.com/cats/careers/index.php?p=showJob&ID=24
+
+Contact information at:
+http://jobs.perl.org/job/6885#contact
+
+

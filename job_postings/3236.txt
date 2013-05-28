@@ -1,0 +1,102 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3236
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 31724 invoked from network); 22 Sep 2005 21:41:54 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 22 Sep 2005 21:41:54 -0000
+Received: (qmail 31657 invoked by uid 225); 22 Sep 2005 21:41:54 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 31651 invoked by alias); 22 Sep 2005 21:41:53 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 22 Sep 2005 14:41:49 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j8MLfkKX007980
+	for <jobs@perl.org>; Thu, 22 Sep 2005 14:41:46 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j8MLfkK6007978;
+	Thu, 22 Sep 2005 14:41:46 -0700
+Date: Thu, 22 Sep 2005 14:41:46 -0700
+Message-ID: <200509222141.j8MLfkK6007978@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Senior Linux, Apache/Mod_Perl & MySQL admin with Perl knowledge required (onsite), United States, Washington, Seattle
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3088
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 22, 2005
+
+Job title:
+Senior Linux, Apache/Mod_Perl & MySQL admin with Perl knowledge required
+
+Company name: Jobster Inc
+
+Internal ID: linux2
+
+Location: United States, Washington, Seattle
+
+Pay rate: Above industry
+
+Terms of employment: Salaried employee
+
+Length of employment: Permanent
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Do you enjoy pushing Linux's boundaries? Join our growing operations team
+at Jobster to work on a high traffic, pure mod_perl job search engine that
+indexes over 50,000 jobs every day from a variety of sources.
+
+Voted one of Time Magazine's top 50 websites for 2005 and covered in the NY
+Times, Red Herring and many more - Jobster Search (previously known as
+WorkZoo.com) is one of the top vertical search engines in the USA.
+
+If you are interested in Linux clustering, performance tuning and using
+Perl to write build, deployment, monitoring and data replication scripts,
+then this is the job for you. 
+
+Required skills:
+Strong Linux administrator.
+Intermediate level OO Perl.
+Knowledge of CPAN: "perl -MCPAN -e shell" and automated installation of
+CPAN modules. 
+Mod_Perl. Compiling mod_perl into apache httpd and tuning is required. A
+knowledge of the API would be helpful.
+In depth MySQL knowledge required including performance tuning, replication
+and troubleshooting. 
+CVS, Subversion or similar versioning system is a must have. 
+TCP/IP knowledge
+Working knowledge of the HTTP protocol (cookies, caching, various request
+and response headers etc)
+
+
+Desired skills:
+Knowledge of load sharing hardware devices (Foundry in particular) would be
+helpful. 
+Knowledge of Java would be helpful (not required!)
+Knowledge of monitoring and alerting tools helpful.
+Oracle on Linux knowledge helpful.
+
+
+URL for more information:
+http://service.jobster.com/view.html?i=EZQALRTMHKIR
+
+Contact information at:
+http://jobs.perl.org/job/3088#contact
+
+

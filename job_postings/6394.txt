@@ -1,0 +1,70 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6394
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 31450 invoked from network); 4 Jun 2007 15:02:29 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 4 Jun 2007 15:02:29 -0000
+Received: (qmail 23527 invoked by uid 225); 4 Jun 2007 15:02:29 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 23517 invoked by alias); 4 Jun 2007 15:02:28 -0000
+X-Spam-Status: No, hits=-0.6 required=8.0
+	tests=BAYES_00,DKIM_POLICY_SIGNSOME,DK_POLICY_SIGNSOME,KARMA_CONNECT_NEGATIVE,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 04 Jun 2007 08:02:19 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id E1C162AFD7; Mon,  4 Jun 2007 08:02:15 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070604150215.E1C162AFD7@x3.develooper.com>
+Date: Mon,  4 Jun 2007 08:02:15 -0700 (PDT)
+Subject: Perl / Mason programmer for news web site (onsite), Iceland, Reykjavik
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5898
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June  4, 2007
+
+Job title:
+Perl / Mason programmer for news web site
+
+Company name: Morgunblaðið
+
+Location: Iceland, Reykjavik
+
+Pay rate: $50K+
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We need an experienced, versatile web programmer with a strong Perl
+background and preferably a knowledge of the HTML::Mason templating system.
+You will work onsite in a small team developing and maintaining Iceland's
+most popular website, http://www.mbl.is/, which runs on an almost 100%
+open-source platform (Linux, Apache, PostgreSQL, Perl,	Mason, etc.). We're
+looking for a permanent employee living in Reykjavik, or willing to move
+there. Knowledge of Icelandic is obviously a plus.
+
+Required skills: Perl, SQL, Javascript, HTML, CSS, XML
+
+Desired skills:
+mod_perl, HTML::Mason, Linux, PostgreSQL, Icelandic
+
+Contact information at:
+http://jobs.perl.org/job/5898#contact
+
+

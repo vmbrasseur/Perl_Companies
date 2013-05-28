@@ -1,0 +1,145 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10416
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 18501 invoked from network); 9 Aug 2010 20:04:08 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 9 Aug 2010 20:04:08 -0000
+Received: (qmail 25494 invoked by uid 225); 9 Aug 2010 20:04:08 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 25490 invoked by alias); 9 Aug 2010 20:04:08 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS,T_LOTS_OF_MONEY
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 09 Aug 2010 13:04:05 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 393BF2AFD2; Mon,  9 Aug 2010 13:04:01 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20100809200402.393BF2AFD2@x3.develooper.com>
+Date: Mon,  9 Aug 2010 13:04:01 -0700 (PDT)
+Subject: Activestate, Enterprise Adminstration  Perl Programmer for Project, United States, CA, Los Angeles
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/12696
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August  9, 2010
+
+Job title:
+Activestate, Enterprise Adminstration  Perl Programmer for Project
+
+Company name: DTT
+
+Location: United States, CA, Los Angeles
+
+Pay rate: $5000.00 USD
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Flexible
+
+Description:
+I need to manage a large infrastructure of Windows XP pro machines as well
+as a growing amount of Windows 7 Enterprise. All machines are on consumer
+grade DSL or cable modems, behind consumer grade nat'd crappy firewalls,
+and ALL connections must initiate from the client side.
+
+By manage; essentially, I need to be able to send instruction to any one of
+6-7 thousand machines or logical groups of them securely. By instruction, I
+mean deliver any sort of VBS, EXE, Windows Powershell and have the system
+or group of systems execute. The clients need to be able to be grouped
+logically and be able to be members of other groups. In other words, there
+could be a *location* with 3 clients, those clients could have other
+attributes that would affect whether or not we send instructions down to
+them.
+
+I have come up with what I believe is a simple idea, and I believe, perl
+would be a great way to implement.
+Here it goes:
+
+Client side- 
+1.	I need a windows service (activestate?
+http://docs.activestate.com/activeperl/5.8/faq/Windows/ActivePerl-Winfaq4.h
+tml ) that hopefully runs as a standard user, that gets an ssl webpage
+every 30 seconds, (http://johnbokma.com/perl/https.html) this webpage is a
+database call that looks for a value that says there is a file to download,
+if there is a file to download, this file has instructions. 
+2.	Once the file is downloaded, it is stuck into a directory, checksum
+checked, somehow, the download of the file gets acknowledged. 
+3.	Then either another service or the same service is constantly or
+every 5 seconds checking a directory for an/the instruction file. If it
+finds that file…it runs the instruction.  
+a.	Maybe the first line of every set of instructions is the file
+writes back to the DB or something to state that the *job* has started,
+then the *job*completes, again. 
+i.	This could be as simple as an https file post or get, job started, 
+then we get notified that the completion of the job took place again the
+same way. Time, duration, failures, all being reportable.
+Examples of Jobs will be: 
+1.	Change the administrator password of the windows machine.
+2.	Change a users password on that Windows Machine. download and
+execute a file. 
+3.	Upload Event log data, upload other data. 
+4.	Reboot a machine or a group of machines.
+5.	Once we have the ability to execute on the machine and get status
+of that core functionality, we have complete control (muah ha ha)
+
+
+
+
+Server Side- 
+Security: Very important, I need to know that the client checking in, is
+indeed the client checking in, maybe there is a *key*, *certificate*,
+something that identifies that client. Since the client is going to use
+443, everything is encrypted, so we got that going for us, and finally,
+EVERY time the instruction file is downloaded, I think we need to sign that
+file or encrypt so that we are sure that as the client is looking for this
+instruction file in a given folder, that file was delivered by us and only
+us.
+
+Database
+MySQL of course, secure info encrypted/hashed if you will. DB will be
+thousands of clients,  optimization needs to be taken into consideration. I
+think the row has a very simple set of columns, 
+1.	name of the server, 
+2.	Last IP checked in with (most clients are on consumer grade DSL or
+cable modems with dynamic IPs) 
+3.	Last checkin time, 
+4.	A key or encryption field so we know the client connecting is
+indeed the client connecting. 
+5.	Name of last successful job 
+a.	maybe another table for *all jobs/files installed* jobs pending,
+status of last job, 
+6.	Associations
+a.	Need to be able to associate with other clients logically
+b.	Need to be able to associate with *multiple* associations or
+members of different groups
+
+Interface
+I need a web based management interface that allows me to 
+1.	Group my clients in hierarchal fashion
+2.	Shows the connection status of all clients, green connected in the
+past 60 seconds (need to be able to configure what is an acceptable
+connection time 60 sec, 120 sec etc)
+3.	Create a sub-set of clients to distribute an instruction file to.
+4.	Hierarchical Administrative authentication. Ability to give someone
+read only
+5.	Create a ping type tester, that allows us to put a ping or simple
+script to ensure that the service is running, and the machine is executing
+instructions when delivered.
+
+
+Required skills:
+Perl, Activestate, LAMP Setup, Encryption modules 
+
+Contact information at:
+http://jobs.perl.org/job/12696#contact
+
+

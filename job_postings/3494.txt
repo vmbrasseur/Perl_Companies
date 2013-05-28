@@ -1,0 +1,106 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3494
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 18645 invoked from network); 23 Nov 2005 02:30:06 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 23 Nov 2005 02:30:06 -0000
+Received: (qmail 2124 invoked by uid 225); 23 Nov 2005 02:30:06 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 2102 invoked by alias); 23 Nov 2005 02:30:03 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 22 Nov 2005 18:29:56 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id jAN2TriG000889
+	for <jobs@perl.org>; Tue, 22 Nov 2005 18:29:53 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id jAN2Tr6B000887;
+	Tue, 22 Nov 2005 18:29:53 -0800
+Date: Tue, 22 Nov 2005 18:29:53 -0800
+Message-ID: <200511230229.jAN2Tr6B000887@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Regression System Tools Architect (onsite), United States, CA, Santa Clara
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3344
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 22, 2005
+
+Job title: Regression System Tools Architect
+
+Company name: Nvidia
+
+Internal ID: 709294
+
+Location: United States, CA, Santa Clara
+
+Pay rate: Negotiable
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+REGRESSION SYSTEM TOOLS ARCHITECT #709294
+
+RESPONSIBILITIES/DESCRIPTION:
+The successful candidate will have a strong PERL programming background and
+demonstrated expertise of good development processes for large scale
+software projects and groups. In this capacity, the architect will be
+expected to become familiar with NVIDIA current regression system
+architecture, algorithms, products, and development methodologies. 
+Responsibilities include (but not limited to) the design, development and
+support of tools and environments for:
+
+- Regression system supporting many concurrent chip developments on a
+multi-platform compute farm
+- Development environment for check-out, build, and test execution
+- Tools for automatic fault detection, and fault isolation
+- Web based database management, data analysis and reporting
+- Tools and documentation to empower customers to directly service their
+needs
+
+Required skills:
+MINIMUM REQUIREMENTS:
+- Exceptional PERL programming skills on large projects required. 
+- Object oriented programming skills required, familiarity with design
+patterns desired. 
+- Experience with Windows and Unix networking and multiprocessing required.
+ 
+- Experience in at least using (preferred designing) software engineering
+development environments, including build, version control, bug tracking
+and verification/regression systems, required.	
+- BS in Computer Science, Engineering, Mathematics, Physics, or related
+field, with 5+ yrs relevant industry experience required. 
+
+Desired skills:
+HIGHLY DESIRED SKILLS:
+- Experience with massive distributed computing and scheduling tools (such
+as LSF or Grid Engine) strongly desired.
+- Familiarity with tools and formats for data storage, management and
+mining, including MS SQL, XML and data mining tools is highly desired. 
+
+URL for more information:
+http://careerportal.resumix.com/pljb/nvidia/nvidiaemployment/applicant/jobC
+lick.jsp?count=1&id=1370
+
+Contact information at:
+http://jobs.perl.org/job/3344#contact
+
+

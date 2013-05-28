@@ -1,0 +1,89 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8117
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13408 invoked from network); 8 May 2008 23:43:20 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 8 May 2008 23:43:20 -0000
+Received: (qmail 29213 invoked by uid 225); 8 May 2008 23:43:20 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 29208 invoked by alias); 8 May 2008 23:43:19 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 08 May 2008 16:43:17 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id C99CE2AFEC; Thu,  8 May 2008 16:43:13 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080508234313.C99CE2AFEC@x3.develooper.com>
+Date: Thu,  8 May 2008 16:43:13 -0700 (PDT)
+Subject: Perl/Database Developer (onsite), GA, Atlanta
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8654
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May  8, 2008
+
+Job title: Perl/Database Developer
+
+Company name: Bank of America
+
+Location: GA, Atlanta
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The Corporate Investments Group at Bank of America is looking for a
+Perl/Database developer to join our team in Atlanta, GA. The Corporate
+Investments Group (CIG) manages a discretionary mortgage portfolio of
+approximately $400 billion and a balance sheet of $1.5 trillion. The
+Quantitative wing of CIG is responsible for model development,
+implementation, and reporting. We are a Linux shop. We write all our own
+code using predominantly Perl and C++. We use pvm for parallel computing.
+We run a nightly production system and respond to a variety of short-term
+requests. We have needs ranging from database development to web
+development to large-scale module design and implementation to end-user
+support to analysis and troubleshooting of existing systems. We place a big
+emphasis on doing the right thing the first time and are looking for
+motivated, independent people who feel the same way.
+
+Required skills:
+- core perl skills (in the extraction, reporting and munging of text files
+sense) 
+- strong working knowledge of databases (Postgres, Oracle, mySql, Sybase) 
+- writing modules, object oriented code and unit tests (strict and warnings
+clean) 
+- strong working knowledge of *nix commands 
+- ability to work in a time sensitive, market-driven environment 
+- facility with mathematics 
+
+Desired skills:
+- degree in a quantitative field (Math, Finance, Engineering) 
+- familiarity with source control using SVN and/or CVS 
+- experience with parallel computing via pvm or mpi 
+- Linux systems administration experience (RedHat Enterprise) 
+- Database administration 
+ 
+Bonus: 
+- C++ 
+- Ruby (on Rails) 
+- experience with Mac use and administration
+
+Contact information at:
+http://jobs.perl.org/job/8654#contact
+
+

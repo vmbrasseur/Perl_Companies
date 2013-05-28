@@ -1,0 +1,73 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:477
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 54211 invoked by uid 1016); 5 Jul 2002 15:56:05 -0000
+Date: 5 Jul 2002 15:56:05 -0000
+Message-ID: <20020705155605.54210.qmail@onion.perl.org>
+To: jobs@perl.org
+Subject: OO Perl / mod_perl programmer for Web CMS (onsite), United Kingdom, Sheffield
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/373
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July  5, 2002
+
+Job title:
+OO Perl / mod_perl programmer for Web CMS
+
+Company name: Webarchitects
+
+Location: United Kingdom, Sheffield
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Flexible
+
+Onsite: yes
+
+Description:
+Hi,
+
+  I'm currently looking for a Perl / mod_perl programmer to help developing
+our application MKDoc.
+
+  The application was originally a CGI script which has been made
+Apache::Registry friendly later on. We are currently gradually porting the
+software under proper mod_perl handlers.
+
+  Given the fact that the codebase is now more than 2 years old, and that
+the application is doing a lot more that it was ever meant to do, being
+able to work with existing code and write test script suites is important.
+Refactoring to the rescue!
+
+  Our company aims at making the CMS which produces the best websites in
+terms of usability, accessibility and standards compliance. And lately,
+unicode support, including right to left languages. So if you like these
+words and if you love Object Oriented Perl, this job is for you!
+
+Send me resumes and code snippets!
+
+Required skills:
+OO Perl, mod_perl, DBI
+
+
+Desired skills: XS
+
+URL for more information: http://www.mkdoc.com/
+
+Contact information:
+Jean-Michel Hiver
++44 (0)114 255 8097
+jhiver@mkdoc.com
+
+

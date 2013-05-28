@@ -1,0 +1,66 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10025
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 14035 invoked from network); 12 Apr 2010 21:44:03 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 12 Apr 2010 21:44:03 -0000
+Received: (qmail 18484 invoked by uid 225); 12 Apr 2010 21:44:02 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 18480 invoked by alias); 12 Apr 2010 21:44:02 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 12 Apr 2010 14:43:58 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id E95CA2AFDF; Mon, 12 Apr 2010 14:43:54 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20100412214354.E95CA2AFDF@x3.develooper.com>
+Date: Mon, 12 Apr 2010 14:43:54 -0700 (PDT)
+Subject: Perl Developer (telecommute), United States, CA, San Luis Obispo
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/12038
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 12, 2010
+
+Job title: Perl Developer
+
+Company name: Refresh Media
+
+Location: United States, CA, San Luis Obispo
+
+Pay rate: Hourly rate
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+We are looking for an independent contractor to develop a CGI script in
+perl to process a PDF form. The PDF will route FDF information to the
+server, where the script will need to parse the data and route it into a
+database.
+
+Required skills:
+Previous experience with processing PDFs is a plus, but there is also a lot
+of sample code provided by Adobe.
+
+http://www.adobe.com/devnet/acrobat/fdftoolkit.html
+
+Contact information at:
+http://jobs.perl.org/job/12038#contact
+
+

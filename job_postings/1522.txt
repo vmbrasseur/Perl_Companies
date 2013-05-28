@@ -1,0 +1,118 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:1522
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 35661 invoked by uid 76); 20 Apr 2004 23:08:11 -0000
+Received: from x1.develooper.com (HELO x1.develooper.com) (63.251.223.170)
+  by onion.perl.org (qpsmtpd/0.27.1) with SMTP; Tue, 20 Apr 2004 16:08:11 -0700
+Received: (qmail 31968 invoked by uid 225); 20 Apr 2004 23:08:07 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 31908 invoked by alias); 20 Apr 2004 23:08:06 -0000
+X-Spam-Status: No, hits=0.0 required=7.0
+	tests=
+X-Spam-Check-By: la.mx.develooper.com
+Received: from onion.develooper.com (HELO onion.perl.org) (63.251.223.166)
+  by la.mx.develooper.com (qpsmtpd/0.27.1) with SMTP; Tue, 20 Apr 2004 16:08:06 -0700
+Received: (qmail 34745 invoked by uid 1016); 20 Apr 2004 23:06:44 -0000
+Date: 20 Apr 2004 23:06:44 -0000
+Message-ID: <20040420230644.34744.qmail@onion.perl.org>
+To: jobs@perl.org
+Subject: Operations Programmer (onsite), Canada, BC, Victoria
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1416
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 20, 2004
+
+Job title: Operations Programmer
+
+Company name: DM Contact Managment
+
+Location: Canada, BC, Victoria
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: permenant
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+This is a full time position, 37.5 hours per week, salary to be negotiated,
+start date is late April/early May and you are providing services to
+Internet marketing clients
+
+
+Your skills:
+
+Your first language is Perl. You may know some C or Java as well. The job
+does require some PHP work but if you are at the level we need, that will
+not be hard to pick up quickly. Most likely you have at least dabbled in
+PHP before. You have a decent knowledge of CPAN. You try to
+program in OOP as much as possible but realize its limitations. The main
+goal for you is to write code that is readable, reusable, and finished on
+time(within reason). You know SQL. This means you can write simple
+JOINS on a database you didn't design. Overall this would be considered an
+intermediate position, *not entry level*. That also means that you will be
+integrated into a team of programmers and designers. Your opinions and
+input on all projects will be valued and expected.
+You need to be able to take direction as well as be able to offer insight
+and opinions. 
+
+Our expectations:
+
+We need for you to be professional and organized. We expect that it would
+take around 3 years of focused hard work to get to the level of experience
+we require, but the end result is what is important not just how long it
+took you to get there. Along with your resume please submit 5 code samples
+that solve a practical problems(no classroom type exercises). These can be
+complete rograms, subs, or modules. These should be the work you are most
+proud of. 
+
+Compensation:
+
+Would be considered average to above average with room to grow. Benefits
+include dental and prescription coverage. 
+
+
+Environment:
+
+There is a never ending flood of hard work and you will learn a lot.
+Management is understanding and enlightened. Very little Dilbertizm happens
+here. There is a lot of time pressure, but if you enjoy hard work you will
+thrive. 
+
+
+Please reply with your resume in text or PDF format and attach a tar.gz of
+your code samples if you are interested in this position.
+
+Required skills:
+Perl
+php
+
+
+
+Desired skills:
+CGI::Application / HTML::Template
+FreeBSD
+Mysql
+LWP
+Just about anything you know will be put to use somehow. 
+
+
+
+Contact information:
+Email resumes and code samples to:
+eric@dmcontact.com
+
+

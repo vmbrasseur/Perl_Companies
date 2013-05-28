@@ -1,0 +1,113 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12470
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 14633 invoked from network); 31 May 2012 09:35:26 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 31 May 2012 09:35:26 -0000
+Received: (qmail 2266 invoked by uid 225); 31 May 2012 09:35:26 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 2261 invoked by alias); 31 May 2012 09:35:26 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 31 May 2012 02:35:23 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id CC27F2AFD0; Thu, 31 May 2012 02:35:19 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 31 May 2012 02:35:19 -0700
+Message-ID: <20120531093519.CC27F2AFD0@x3.develooper.com>
+Subject: 2 Open Perl Positions - Help us secure the net for normal website
+ owners! (telecommute), Earth!
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16056
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 31, 2012
+
+Job title:
+2 Open Perl Positions - Help us secure the net for normal website owners!
+
+Company name: WebPub.com
+
+Location: Earth!
+
+Pay rate: USD
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+Hi everyone!
+
+We have two open Perl positions at WebPub.com, first I'll tell you a little
+about what we are building and then the positions.
+
+Quick 30 seconds on what we are building and why...
+There is a big problem on the internet with WordPress, Drupal, and other
+scripts getting hacked because non tech website owners don't know they need
+to upgrade those scripts on a regular basis. When this happens spam,
+malware, and other nasty stuff emerge and we want to stop that. My business
+partner and I own a hosting company with 40,000+ customers and 80+ staff
+around the world, and we are tired of seeing our customers frustrated by
+this. The answer? WebPub.com is a system that keeps scripts automaticly
+upgraded over FTP (secure ftp whenever possible). Right now we are in beta
+and the system is working great with WordPress (which is the only script we
+support currently). We are expanding the team to add more scripts and
+accelerate development of our core. 
+
+The system is divided into a PHP Frontend and a Perl backend API. We want
+the backend complexity to be as invisible to end users as possible in order
+to make it as easy for possible for hem. Currently we are planning out a
+scheduler for the automatic upgrades and possiblly a gearman implementation
+for multiple worker servers. 
+
+Position #1 - We need a Perl/Moose dev to work with our existing team on
+the guts of what runs the backend perl setup. This could be things like
+adding new features such as gearman or a scheduler, figuring out an API
+bug, adding an API command, or figuring out how to get around an FTP block
+due to a user posting the wrong password. 
+
+Position #2 - We need a Perl/Moose developer to write the mini Perl
+programs inside of our system that install and upgrade different scripts
+such as Drupal, Joomla, Magento. This is going to be incredibly challenging
+as you are going to be dealing with a lot of different pieces of software
+and it will bring a new challenge every few weeks as they are implemented.
+It would be beneficial to have a working knoweldge of WordPress or similar
+scripts so that you come to the job with a clear understanding of what it
+takes to do a new install of a script, to upgrade it, and so on.
+
+We are 100% remote as a company, so you need to be comfortable working from
+home. We offer vacation, annual pay reviews, etc! 
+
+Feel free to hit me up with any questoins too!
+Thanks, Ben
+Ben@Webpub.com
+
+Required skills:
+Perl
+Moose 
+GitHub Profile
+FTP/FTPS + And a lil Linux systems exp.
+
+Desired skills:
+Moolicious
+Geraman
+WordPress/Drupal/Joomla or similar experience.
+
+Website for more information: http://www.webpub.com
+
+Contact information at:
+http://jobs.perl.org/job/16056#contact

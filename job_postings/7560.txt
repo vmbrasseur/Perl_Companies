@@ -1,0 +1,104 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7560
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 27627 invoked from network); 18 Jan 2008 19:25:04 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 18 Jan 2008 19:25:04 -0000
+Received: (qmail 27348 invoked by uid 225); 18 Jan 2008 19:25:04 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 27343 invoked by alias); 18 Jan 2008 19:25:03 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 18 Jan 2008 11:24:58 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id B84542AF8F; Fri, 18 Jan 2008 11:24:54 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20080118192454.B84542AF8F@x3.develooper.com>
+Date: Fri, 18 Jan 2008 11:24:54 -0800 (PST)
+Subject: Converting flat file DB perl script into MySQL (telecommute), Guatemala, Solola, San Pedro
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/7416
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 18, 2008
+
+Job title:
+Converting flat file DB perl script into MySQL
+
+Company name: Not Applicable
+
+Location: Guatemala, Solola, San Pedro
+
+Pay rate: open, flexible
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: On project completion basis
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+I am not a programmer but taught myself perl for the only purpose of
+building a Community Portal database driven and templetized.
+
+All parameters that run this portal are currently saved in Flay Files.
+
+Your job entails to translate the saving of data in MySQL and then the
+template that displays the portal which now reads  all the parameters from
+flat files, you need to make it read from the MySQL DB.
+
+You need to bid for coding a single instance of saving data into the MySQL
+DB. I will multiply that number into how many time saving takes place
+throughout the script to find out how much I need to pay you.
+
+Required skills:
+I nderstand that perl is not the most suitable scripting language to build
+a heavy traffic site. Most people are suggesting Python, PHP, ASP, .Net,
+etc.
+
+But perl is the only language I understand so I dont want to learn another
+language, besides the portal is already built in perl. It would help if you
+have experience and skills in speeding up perl to make it work faster... so
+that it can sustain heavy traffic.
+
+I understand that there are technologies or tools that make perl work
+almost as a compiled language rather than having each request interpreted
+one by one.
+
+Tools like VELOMETER, VELOCIGEN, Mod Perl, and Perl Server Pages.
+
+if you understand any of these technologies.. or you are profficient in one
+not memtioned here that may help speed up perl.. then you have a second
+job. 
+
+Over and above the translation into MySQL I would ask you to speed up the
+functionality of the portal adding whetever code is needed. (please quote
+this task separatelly).
+
+THIRD TASK: The language of the portal plus all of the Back End (Admin
+Control Panel), is currently in Spanish. I need every phrace saved in a
+Language file (perhaps XML). This way the portal can be easily translated
+into any language. (This task quoted separatelly).
+
+Desired skills:
+VELOMETER, VELOCIGEN, Mod Perl, and/or Perl Server Pages as well as XML
+
+
+Contact information at:
+http://jobs.perl.org/job/7416#contact
+
+

@@ -1,0 +1,90 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10107
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 20920 invoked from network); 7 May 2010 08:13:35 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 7 May 2010 08:13:35 -0000
+Received: (qmail 11008 invoked by uid 225); 7 May 2010 08:13:35 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11004 invoked by alias); 7 May 2010 08:13:34 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 07 May 2010 01:13:30 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 899072AFE2; Fri,  7 May 2010 01:13:27 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20100507081327.899072AFE2@x3.develooper.com>
+Date: Fri,  7 May 2010 01:13:27 -0700 (PDT)
+Subject: Perl Software Engineer (onsite), United States, CA, Pasadena
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/12228
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May  7, 2010
+
+Job title: Perl Software Engineer
+
+Company name: OpenX
+
+Location: United States, CA, Pasadena
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+OpenX is looking for talented and highly motivated perl software engineers
+to help us design and build a scalable, high-performance software platform
+to handle billions of transactions per day. Developing this infrastructure
+will present many interesting technical challenges to solve in the areas of
+distributed computing, high-performance computing, and high availability. 
+
+
+Required skills:
+Job Responsibilities: 
+
+* Design, implement, and support high-performance, highly-available
+distributed storage and replication platforms 
+* Build and maintain tools to manage and automate distributed systems 
+* Tune large-scale clusters for optimal performance and efficiency 
+* Contribute to the open source community on various projects 
+
+Required Job Qualifications 
+
+* Expert in Perl  (means you can write code under pressure, including in an
+interview setting) 
+* Passion for open source communities and philosophies 
+* Experience with distributed hashtables, network programming, and data
+replication 
+* Strong, disciplined skills in Perl or Python 
+* Development experience on Linux platforms 
+* Excellent communication, teamwork, and documentation skills 
+* BS degree in Computer Science or equivalent experience a strong plus 
+
+
+Desired skills:
+* Experience with performance programming in Perl
+* Experience with C, C++ extensions to Perl 
+* Experience with large infrastructures 200+ machines 
+
+
+URL for more information: http://www.openx.org/
+
+Contact information at:
+http://jobs.perl.org/job/12228#contact
+
+

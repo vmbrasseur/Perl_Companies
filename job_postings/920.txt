@@ -1,0 +1,71 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:920
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 68562 invoked by uid 1016); 17 Jun 2003 15:35:07 -0000
+Date: 17 Jun 2003 15:35:07 -0000
+Message-ID: <20030617153507.68561.qmail@onion.perl.org>
+To: jobs@perl.org
+Subject: SOAP programmer for EU project (onsite), Finland, Tampere
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/812
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 17, 2003
+
+Job title: SOAP programmer for EU project
+
+Company name:
+Tampere University, dept. of Information Studies
+
+Location: Finland, Tampere
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Length of employment: 1.8.2003-31.1.2004
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Taking over my current position of developing SOAP::Lite wrappers. The
+components wrapped are a freetext search engine and language translation &
+analyzing tools.
+
+This is an EU collaborative project so you might be required to attend some
+meetings abroad.
+
+Required skills:
+Knowledge of Perl and C. C is used for faster interfacing with some
+components. 
+
+Knowing Finnish language is almost essential as your working environment
+will be in Finnish, but you might survive without.
+
+Desired skills:
+Knowing Perl internals would help, since you might be  expected to create
+or maintain extension(s).
+
+Knowing Inquery (freetext search engine), it's API and query language is a
+definite plus. Knowing that such components as normalizers and
+morphological analyzers exist might lessen your confusion when you start
+the job.
+
+Please ask me more if anything is unclear.
+
+Contact information:
+bemmu.sepponen@uta.fi
+
+Application deadline is 25.6.2003.
+
+

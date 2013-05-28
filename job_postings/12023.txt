@@ -1,0 +1,66 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12023
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 10941 invoked from network); 13 Jan 2012 22:08:59 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 13 Jan 2012 22:08:59 -0000
+Received: (qmail 24855 invoked by uid 225); 13 Jan 2012 22:08:59 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 24851 invoked by alias); 13 Jan 2012 22:08:58 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 13 Jan 2012 14:08:56 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 212562AFD6; Fri, 13 Jan 2012 14:08:53 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 13 Jan 2012 14:08:53 -0800
+Message-ID: <20120113220853.212562AFD6@x3.develooper.com>
+Subject: Perl Developer (telecommute), San Diego, CA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15374
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 13, 2012
+
+Job title: Perl Developer
+
+Company name: Monk Development, Inc.
+
+Location: San Diego, CA
+
+Pay rate: Retainer
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 6 months+
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+We have a Perl code base that scrapes web sites for content.  There are
+100's of sites being crawled using this software and we need someone to
+maintain this code base.  After a weekly crawl we may have some data fields
+missing, or crawls failing due to 404 errors and we need you to fix those
+errors on an ongoing basis.
+
+Required skills: Perl
+
+Desired skills: Perl
+
+Website for more information: http://www.monkdevelopment.com
+
+Contact information at:
+http://jobs.perl.org/job/15374#contact

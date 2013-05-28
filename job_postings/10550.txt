@@ -1,0 +1,109 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10550
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13580 invoked from network); 21 Sep 2010 07:43:07 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 21 Sep 2010 07:43:07 -0000
+Received: (qmail 20168 invoked by uid 225); 21 Sep 2010 07:43:07 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 20164 invoked by alias); 21 Sep 2010 07:43:06 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 21 Sep 2010 00:43:05 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id CAE592AFE0; Tue, 21 Sep 2010 00:43:01 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20100921074301.CAE592AFE0@x3.develooper.com>
+Date: Tue, 21 Sep 2010 00:43:01 -0700 (PDT)
+Subject: Staff / SR. APPLICATIONS ENGINEER (onsite), Santa Clara, CA, Santa Clara
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/12894
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 21, 2010
+
+Job title: Staff / SR. APPLICATIONS ENGINEER
+
+Company name: LiveOps
+
+Location: Santa Clara, CA, Santa Clara
+
+Pay rate: DOE
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Staff / SR. APPLICATIONS ENGINEER
+
+In this role you will be a member of the team that owns the design and
+development of the real time reporting (UI, analytics, performance) and
+grid computing (Hadoop - Map/Reduce, HDFS) systems.  
+
+These systems will be part of LiveOps core data & grid management
+infrastructure.  At your disposal are all of the facilities of Linux, Perl
+, Java, open source workflow management libraries and job queuing systems,
+as well as libraries developed in house. This is an excellent opportunity
+to own a large, critical chunk of the overall system, and flex your ability
+to build a highly available, scalable, distributed system application.
+
+You’ll gain a strong understanding of the domain of a virtual call center,
+and apply sound engineering practices (like design docs, design reviews,
+code documentation, code reviews and unit tests) to solve technical
+challenges. You will play a key role on a strong engineering team, and
+collaborate effectively on core code libraries and code sharing techniques.
+
+Required skills:
+Qualifications:
+
+• BS degree or equivalent in engineering discipline is required
+
+• MS recommended 
+
+• 5+ yrs professional experience in building commercial applications a must
+
+
+• Solid programming knowledge of Perl required, (Java, C++ desirable)
+
+• Knowledge of JMS (ActiveMQ), J2EE desirable.
+
+• Solid understanding of web technologies - HTML, XML, JavaScript, Apache 
+
+• Solid understanding of database fundamentals essential. 
+
+• Working Experience with sql - mysql required (Advance sql highly
+desirable.).
+
+• Knowledge / interest in analytics a big plus.
+
+• Knowledge of Networking (TCP/IP) and web protocols - http, https
+required. 
+
+• Ability to develop on Linux operating systems with good concepts of
+system level programming in unix 
+
+• Knowledge of VoIP, SIP, RTP protocols a big plus 
+
+• Must be highly motivated, flexible, passionate, self-learner
+
+
+URL for more information:
+http://ejob.bz/ATS/PortalViewRequirement.do?reqGK=142167
+
+Contact information at:
+http://jobs.perl.org/job/12894#contact
+
+

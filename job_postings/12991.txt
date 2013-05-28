@@ -1,0 +1,105 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12991
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 15691 invoked from network); 17 Dec 2012 19:59:57 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 17 Dec 2012 19:59:57 -0000
+Received: (qmail 22906 invoked by uid 225); 17 Dec 2012 19:59:57 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 22898 invoked by alias); 17 Dec 2012 19:59:57 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,LOTS_OF_MONEY
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 17 Dec 2012 11:59:54 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id E61ED2AFE1; Mon, 17 Dec 2012 11:59:50 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 17 Dec 2012 11:59:50 -0800
+Message-ID: <20121217195950.E61ED2AFE1@x3.develooper.com>
+Subject: Perl Developer, Reading, Berkshire, United Kingdom
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16822
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 17, 2012
+
+Job title: Perl Developer
+
+Company name: Opsview
+
+Internal ID: 171212
+
+Location: Reading, Berkshire, United Kingdom
+
+Pay rate: £45,000
+
+Hours: Full time
+
+Description:
+We are seeking a Perl Developer who is capable of delivering new features
+in our Opsview product suite. This new role provides a real opportunity at
+the start of an exciting period of growth where your dynamism and vision
+could have a direct influence on the success of our Opsview business.
+
+You will be responsible for developing the product and assisting customers
+with requests for specific feature development whilst providing expert
+technical guidance and dealing with technical issues and queries. You will
+report to the Development Team Leader. 
+
+Training will be provided in Opsview and other open source tools, but prior
+knowledge of these or similar products would be advantageous.
+
+Duties and Responsibilities:
+
+• Developing software for our Opsview product suite
+• Reviewing and contributing to functional specifications and detailed
+technical designs
+• Developing and unit testing to these detailed designs
+• Testing and QA
+• Validating development estimates and timescales, and taking
+responsibility for meeting the resulting deadlines
+• Working as directed with Open Source projects and contributing as
+required
+• Maintaining current technical documentation at the code and design levels
+
+• Working with service developers and operational staff to package, deploy
+and maintain a reliable support service based on the developed software
+• Maintaining the software on an ongoing basis
+
+Required skills:
+Required skills:
+
+• Experienced in Perl development including a minimum of 2 years experience
+in either Perl Catalyst web framework or DBIx::Class 
+• Experience of software development processes
+• Experience in writing unit tests
+• Computer Science, Mathematics or similar degree
+• Experience in other browser based technologies such as Javascript, HTML,
+CSS, AJAX, REST and JSON
+
+Desired skills:
+Desired skills:
+
+• Prior experience of working for a small, high-growth company
+• Experience of working within an agile scrum team
+• Experience in version control systems, such as Subversion or Git
+• Experience with Nagios
+• Experience with SQL for MySQL 
+• Experience in testing with Selenium
+• Experience in C programming
+• Contributions to open source projects, especially CPAN modules
+
+Website for more information: http://www.opsview.com/
+
+Contact information at:
+http://jobs.perl.org/job/16822#contact

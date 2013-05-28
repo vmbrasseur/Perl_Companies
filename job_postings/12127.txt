@@ -1,0 +1,92 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12127
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 23401 invoked from network); 17 Feb 2012 10:49:47 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 17 Feb 2012 10:49:47 -0000
+Received: (qmail 32513 invoked by uid 225); 17 Feb 2012 10:49:47 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 32509 invoked by alias); 17 Feb 2012 10:49:47 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=LOTS_OF_MONEY,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 17 Feb 2012 02:49:42 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 6FB102AFDF; Fri, 17 Feb 2012 02:49:38 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 17 Feb 2012 02:49:38 -0800
+Message-ID: <20120217104938.6FB102AFDF@x3.develooper.com>
+Subject: Scientific Applications Programmer (onsite), Lanham, MD
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15328
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 17, 2012
+
+Job title: Scientific Applications Programmer
+
+Company name: Sigma Space Corporation
+
+Internal ID: SAP01
+
+Location: Lanham, MD
+
+Pay rate: $85,000
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Sigma Space Corp. is seeking an experienced applications programmer to
+support LANCE (Level 1 and Atmosphere Near Real-time Compatible with EOS)
+system. LANCE system requires developing new LANCE products and data
+applications as well as enhancements to Fire Information for Resource
+Management System (FIRMS). 
+LANCE delivers a total of 96 Near Real Time (NRT) satellite data products
+through FTP. Current and planned developments will further integrate Remote
+Sensing, GIS and other technologies to deliver satellite imagery and
+derived products in a range of easy to use formats including data
+visualizing in a Google like State of the Earth and integrating data in to
+NASA's new integrated Earth Data site (refer to
+http://earthdata.nasa.gov/).
+
+Responsibilities
+
+<li>Maintain and further develop the LANCE - FIRMS WebGIS applications and
+spatial web services including administering the FIRMS databases 
+<li>Develop programming solutions to make LANCE data more easily accessible
+to users (e.g. Datacasting, mobile phone alerts and GeoRSS feeds for
+hazards and disasters) 
+<li>Work on improved solutions for data download, map display, analysis,
+and visualization - contributing to the Google like State of the Earth and
+the NASA Earth Data websites
+<li>Work closely with other team members to further develop LANCE products,
+including Naval Research Laboratory (NRL) data assimilation product, land
+water mask, and burned area products. This will involve developing
+programming solutions to automate algorithms and provide solutions for data
+download, map display, analysis, and visualization.
+
+Required skills:
+<li>Bachelor's degree in computer science or related field. 
+<li>Three or more years of experience working in Linux and Windows
+environments, along with knowledge of GIS and Remote Sensing concepts.
+<li>Three or more years of hands-on programming experience with JAVA, C,
+PHP, PERL, JavaScript.
+
+Website for more information: http://www.sigmaspace.com
+
+Contact information at:
+http://jobs.perl.org/job/15328#contact

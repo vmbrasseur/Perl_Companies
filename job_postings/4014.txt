@@ -1,0 +1,98 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4014
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 19702 invoked from network); 17 Mar 2006 16:56:14 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 17 Mar 2006 16:56:14 -0000
+Received: (qmail 25577 invoked by uid 225); 17 Mar 2006 16:56:14 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 25570 invoked by alias); 17 Mar 2006 16:56:13 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 17 Mar 2006 08:56:10 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id k2HGu5I7025035
+	for <jobs@perl.org>; Fri, 17 Mar 2006 08:56:05 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id k2HGu5W6025033;
+	Fri, 17 Mar 2006 08:56:05 -0800
+Date: Fri, 17 Mar 2006 08:56:05 -0800
+Message-ID: <200603171656.k2HGu5W6025033@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Perl and/or Python Sys Programmers, Eugene, OR (onsite), United States, OR, Eugene
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3823
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 17, 2006
+
+Job title:
+Perl and/or Python Sys Programmers, Eugene, OR
+
+Location: United States, OR, Eugene
+
+Pay rate: 40-60k
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: Permanent
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Perl and/or Python Sys Programmers, Eugene, OR | 40-60k
+
+Primary Responsibilities include:
+
+The focus of this position will be more on programming than on systems
+administration. This individual will be primarily a coder, but with a lot
+of interaction at the system level, particularly monitoring of the
+services. Responsibilities will include creating files, using SSH to move
+files around, using grep to pull memory information from a machine,
+monitoring log files, and forking background processes. Reusable code is
+important, using object-oriented design where possible. Functional tests
+will be written, where possible, to validate the correctness of the code.
+
+All candidates MUST have significant professional experience developing
+complex, database-driven applications. This is a challenging position and
+is not suitable for novice or entry-level programmers. Only fastidious
+systems developers will be considered. As the application uses a database
+backend and runs on UNIX, experience with MySQL and Linux (Gentoo a plus)
+is required.
+
+Candidates should be able to provide examples of applications and/or
+frameworks that they have developed, to discuss practical and theoretical
+consequences of design choices. 
+
+Qualifications include:
+•Professional experience developing system administration scripts in PERL
+and Python
+•MySQL and a good knowledge of client-server architecture a must 
+•Solid intrapersonal skills and strong trouble shooting skills
+•Must have meticulous disposition 
+•Experience with Nagios or other monitoring tools is a plus
+•Experience with PHP a plus
+
+
+URL for more information: http://www.open-source-staffing.com/
+
+Contact information at:
+http://jobs.perl.org/job/3823#contact
+
+

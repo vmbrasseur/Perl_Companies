@@ -1,0 +1,94 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2627
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 18311 invoked from network); 22 Apr 2005 07:16:41 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 22 Apr 2005 07:16:41 -0000
+Received: (qmail 9258 invoked by uid 225); 22 Apr 2005 07:16:41 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 9253 invoked by alias); 22 Apr 2005 07:16:40 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 22 Apr 2005 00:16:37 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j3M7GYxS030134
+	for <jobs@perl.org>; Fri, 22 Apr 2005 00:16:34 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j3M7GY7Q030132;
+	Fri, 22 Apr 2005 00:16:34 -0700
+Date: Fri, 22 Apr 2005 00:16:34 -0700
+Message-ID: <200504220716.j3M7GY7Q030132@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Advanced Software Developer (onsite), United States, MO, St. Louis
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2517
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 21, 2005
+
+Job title: Advanced Software Developer
+
+Company name:
+Genome Sequencing Center, Washington University, St. Louis
+
+Location: United States, MO, St. Louis
+
+Pay rate: commensurate with experience
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The Genome Sequencing Center at Washington University School of Medicine is
+seeking an experienced software developer to support a high-profile,
+large-scale, DNA-sequencing lab.  The position will include working with
+scientists to develop a wide variety of applications, from short, one-time
+scripts to complex, object-oriented applications accessing relational
+databases.
+
+
+Required skills:
+Applicant must be able to build high quality, scalable tools for data
+management.  Solid design, testing, debugging, and problem analysis skills
+are a must.  High-level skills in abstract software design, object-oriented
+architecture, and relational data modeling are required to do the job.
+
+The successful candidate will be able to learn new things on a regular
+basis, think critically, work with a team of other skilled developers, and
+produce solutions in a production environment quickly.
+
+Proficiency in Perl or other dynamically-typed languages (Ruby, Python,
+etc.) will be required to do the job effectively.  Strong skills with large
+relational databases such as Oracle are a necessity.
+
+Desired skills:
+Experience designing graphical user interfaces is a plus.    Regular work
+will be done in GNU/Linux and other UNIX-like development environments. 
+Familiarity with open source technologies, version control software, and
+programming in a network environment are also assets.
+
+URL for more information: http://genome.wustl.edu/
+
+Contact information:
+Jim Maus
+softdev@watson.wustl.edu
+
+
+

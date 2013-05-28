@@ -1,0 +1,141 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6624
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 15400 invoked from network); 16 Jul 2007 05:45:23 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 16 Jul 2007 05:45:23 -0000
+Received: (qmail 15361 invoked by uid 225); 16 Jul 2007 05:45:23 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 15354 invoked by alias); 16 Jul 2007 05:45:22 -0000
+X-Spam-Status: No, hits=-0.7 required=8.0
+	tests=BAYES_20,DKIM_POLICY_SIGNSOME,DK_POLICY_SIGNSOME,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 15 Jul 2007 22:45:17 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 6B3352AFE2; Sun, 15 Jul 2007 22:45:14 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070716054514.6B3352AFE2@x3.develooper.com>
+Date: Sun, 15 Jul 2007 22:45:14 -0700 (PDT)
+Subject: Lifecycle Architect (onsite), Australia, NSW, Sydney
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/6155
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 15, 2007
+
+Job title: Lifecycle Architect
+
+Company name: UBS Australia
+
+Internal ID: 26204BR
+
+Location: Australia, NSW, Sydney
+
+Pay rate: AUD Competitive
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: Permanent Position
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Role Overview
+This role is to take ownership of all lifecycle tools and processes,
+working in the Infrastructure team within
+Equity Research and Distribution (ERD), a function of Equities IT. ERD IT
+is responsible for the construction
+of a number of bespoke applications to facilitate the production and
+distribution of Equity research. 
+These applications are developed using a range of languages, tools and
+platforms. There is a clear requirement to
+further improve the software development process by providing tools to
+automate and standardise various aspects of the lifecycle.
+
+Primary Responsibilities
+This important role in the department covers the ownership and strategy of
+all aspects of the software development lifecycle, together with an
+infrastructure for promoting re-use, across the department.  More
+specifically:
+
+•	A suite of tools and process documentation to support software
+development called the Common Development Lifecycle (CDL) was produced some
+time ago and is still used extensively within ERD. However, support for CDL
+has lapsed for a significant period. Take ownership of CDL. Prune those
+areas no longer relevant to ERD. Review the consistency of code and
+documentation, make the necessary changes and distribute a new release.
+•	Since ownership of CDL passed to an external group, a number of
+new, standalone tools have been developed within ERD. Take ownership of
+these tools and assimilate them within the CDL framework.
+•	Improve the support of CDL for development on the Windows platform.
+
+•	The development of lifecycle tools will require contributions from
+other development staff in ERD. For example, a currently ongoing piece of
+work is to migrate CDL's support for building Java software from Ant to
+Maven. Manage this contribution process and ensure that all submitted
+components fit seamlessly into the overall direction.
+•	Take requirements from within ERD for entirely new work on
+lifecycle tools. Manage the planning and prioritisation of this work. Keep
+management informed with regular reports on progress and deliverables.
+
+This role is dedicated to full time work on the above tasks. However, ERD
+Infrastructure is a small team. Understand the rest of the team's work
+sufficiently well to be able to provide help and support in other areas as
+required.
+ 
+Our Company
+UBS is one of the world's leading firms in the investment banking and
+securities business, providing a full spectrum of services to corporate and
+institutional clients, governments and financial intermediaries. The
+investment bank provides product innovation, research and advice and
+comprehensive access to the world's capital markets. 
+
+Our Offering
+At UBS, initiative and client focus are always recognised and rewarded. You
+can expect to share in the rewards of our success, benefits from continuous
+professional development and enjoy a vibrant and dynamic working
+environment. With operations in over 50 countries, we can also offer
+international opportunities.
+
+
+Required skills:
+•	Detailed knowledge of Perl, since almost all of the software in
+this area is written in that language.	By way of illustration, if you have
+not at least considered contributing software to CPAN, or are not familiar
+with the changes in Perl 6, then this is unlikely to be the role for you.
+•	Familiarity with a range of lifecycle tools, such as Subversion,
+Confluence, JIRA, Gnumake, Maven, CruiseControl and RPM.
+•	A sufficiently deep understanding of the challenges inherent in
+software development to set a vision and direction for the suite of tools
+across the user community.  Rather than a single application, the role
+involves working on multiple small to medium sized utilities across the
+entire software development lifecycle.	The developer community in ERD
+varies from quite inexperienced to expert.
+
+
+•	Persistent, eager to learn, and hard working
+•	A strong communicator, able to work with and gain the confidence of
+senior managers across the department.
+•	Possessed of extremely strong organisational skills and meticulous
+in your approach, able to manage and prioritise work on a large number of
+disparate tasks in this problem domain.
+
+
+Contact information at:
+http://jobs.perl.org/job/6155#contact
+
+

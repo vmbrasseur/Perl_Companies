@@ -1,0 +1,90 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12235
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 29164 invoked from network); 13 Mar 2012 21:48:14 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 13 Mar 2012 21:48:14 -0000
+Received: (qmail 13525 invoked by uid 225); 13 Mar 2012 21:48:14 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 13521 invoked by alias); 13 Mar 2012 21:48:14 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 13 Mar 2012 14:48:11 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id C9F5D2AFE0; Tue, 13 Mar 2012 14:48:07 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Tue, 13 Mar 2012 14:48:07 -0700
+Message-ID: <20120313214807.C9F5D2AFE0@x3.develooper.com>
+Subject: Enterprise Perl Developer (part onsite), Austin, TX, United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15694
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 13, 2012
+
+Job title: Enterprise Perl Developer
+
+Company name: Open Mortgage
+
+Internal ID: Eng
+
+Location: Austin, TX, United States
+
+Pay rate: DOE
+
+Terms of employment: Salaried employee
+
+Hours: Flexible
+
+Onsite: some
+
+Description:
+Open Mortgage is looking for an experienced Perl Developer to help
+maintain, expand and refine our mod_perl-based enterprise back-end office
+system.
+
+Additional responsibilities include Linux (CentOS, RedHat) server
+administration, backup and MySQL database maintenance.	We also maintain a
+large WordPress multi-site installation.
+
+The position will have some support and on-call responsibilities and
+experience in those areas in a plus.  While not a core responsibility, the
+role is tasked with some desktop, VOIP phone, networking and other IT Help
+Desk-type support.
+
+Applicants should be comfortable in a casual corporate environment.  While
+most of the work will be done from home, frequent office visits will be
+required for support and to discuss and refine project goals.
+
+Applicants should be equally skilled at working with the technical team and
+technical vendors as well as office staff and system users.
+
+Required skills:
+3 years experince Perl-based web applications, preferably
+mod_perl/MySQL/Linux.
+Experience administering Linux servers, configuring Apache, MySQL and
+mod_perl.
+Firm understanding of networking (TCP/IP, HTTP, SSL).
+Strong written and oral communication skills; able to explain technical
+problems to non-technical personnel.
+
+Desired skills:
+Experience with Perl retrieving external services, APIs, webservices a
+plus.
+Experience with Catalyst, Mojolicious, DBIx::Class a plus.
+
+Website for more information: http://www.openmortgage.com
+
+Contact information at:
+http://jobs.perl.org/job/15694#contact

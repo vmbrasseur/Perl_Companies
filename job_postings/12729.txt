@@ -1,0 +1,103 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12729
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 14823 invoked from network); 14 Sep 2012 10:04:32 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 14 Sep 2012 10:04:32 -0000
+Received: (qmail 22165 invoked by uid 225); 14 Sep 2012 10:04:32 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 22161 invoked by alias); 14 Sep 2012 10:04:32 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 14 Sep 2012 03:04:29 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 584672AFD6; Fri, 14 Sep 2012 03:04:26 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 14 Sep 2012 03:04:26 -0700
+Message-ID: <20120914100426.584672AFD6@x3.develooper.com>
+Subject: ProductionOps/Service/Tools Eng. (onsite), Cupertino, CA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16460
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 14, 2012
+
+Job title: ProductionOps/Service/Tools Eng.
+
+Company name: Apple Computer
+
+Internal ID: 14441627
+
+Location: Cupertino, CA
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Come work in the Tools Team for the Apple Internet Services Group! We're a
+fun team of sharp engineers that provide software tools to production
+operations. The team directly influences daily operations of iTunes, iCloud
+and other Apple internet services in order to maximize efficiency,
+consistency and availability. We prefer candidates who have a strong
+background in, and understanding of software development and large scale
+internet operations - specifically networking (L2-L4), load-balancing (L7),
+system administration, and multi-tiered production application design. In
+addition, a strong ability to troubleshoot distributed and complex software
+systems is required. Candidates also must be a strong and articulate
+communicator. The ideal candidate is an experienced large scale network
+administrator with strong programming skills.
+
+Pager support (24x7) is a requirement. All duties are carried out on-site
+at the Cupertino offices.
+
+This particular position requires active interfacing with other reliability
+engineers, software developers, systems administrators as well as senior
+networking engineers.
+
+Responsibilities:
+- Provide senior engineering leadership on design and implementation of new
+network device configuration tools, technologies and procedures for
+production network operations.
+- Knowledge of or ability to learn configuration management tools such as
+Puppet
+- Develop written procedures, engineering drawings, and other technical
+documentation
+- Possible Duty pager rotation
+- Monitor and maintain mission critical services.
+
+Required skills:
+Requirements:
+
+- 10+ years in network administration in a large network/production Ops
+environment
+- Strong understand of HTTP and TCP/IP protocol debugging and conversation
+troubleshooting
+- Strong background in OSX/BSD, RHEL5, OEL, SOLARIS
+- Fluency in one or more of: Perl, C, C++, Java, Ruby, Python, and general
+UNIX related software development
+- Open source experience/contribution with any major projects a plus.
+- Superior Analytical/Troubleshooting skills.
+- Expertise in data structures, algorithms, and complexity analysis.
+
+Desired skills: - Technical BS/MS degree
+
+Website for more information:
+https://jobs.apple.com/index.ajs?BID=1&method=mExternal.showJob&RID=111894&
+CurrentPage=1
+
+Contact information at:
+http://jobs.perl.org/job/16460#contact

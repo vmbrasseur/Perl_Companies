@@ -1,0 +1,113 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3812
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 14097 invoked from network); 2 Feb 2006 21:28:17 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 2 Feb 2006 21:28:17 -0000
+Received: (qmail 16430 invoked by uid 225); 2 Feb 2006 21:28:17 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 16425 invoked by alias); 2 Feb 2006 21:28:16 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 02 Feb 2006 13:28:07 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id k12LRuKd009572
+	for <jobs@perl.org>; Thu, 2 Feb 2006 13:27:56 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id k12LRun2009570;
+	Thu, 2 Feb 2006 13:27:56 -0800
+Date: Thu, 2 Feb 2006 13:27:56 -0800
+Message-ID: <200602022127.k12LRun2009570@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: SENIOR SOFTWARE ENGINEER, Internal Web Systems and Tools (onsite), United States, CA, Santa Monica,
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3624
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February  2, 2006
+
+Job title:
+SENIOR SOFTWARE ENGINEER, Internal Web Systems and Tools
+
+Company name: Boingo Wireless
+
+Location: United States, CA, Santa Monica,
+
+Pay rate: Very good
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: Permanent
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are looking for an experienced senior systems engineer to develop
+internal web applications and software tools.  Their responsibilities
+include the development and maintaince of administrative interfaces for our
+Hot Spot location database, user activity, and back-end client services.
+Candidates for this position should enjoy front-end applications
+development, including gathering requirements and feedback from internal
+customers, and providing suggestions.  Balancing short-term requests with
+long-term product vision is required.
+Web application development in a UNIX/LINUX environment is required, using
+a variety of application servers.  This position requires expert-level Perl
+skills, particularly with web-application development of cgi’s, and ideally
+mod_perl.  Very strong SQL programming skills, including developing and
+optimizing stored procedures is required.  The candidate should have
+extensive experience with XML including schema development.
+Experience working in an organization focused on consumer-facing services,
+preferably an ISP or WISP, is a big plus.
+
+
+Required skills:
+·	At least 7 years of web application software development
+experience, preferably using apache, and mod_perl.
+·	Expert level Perl skills, including scripting and web application
+development.
+·	Database engineering experience, including triggers, complex joins,
+and schema design.  Perl:DBI/DBD experience.
+·	Very strong HTML skills, including multi-platform support, style
+sheets, and JavaScript.
+·	Strong XML development experience including designing of DTDs
+and/or XML Schema.
+·	Good software design skills including use of UML & Object-oriented
+design practices.
+·	Ability to learn and contribute quickly, work independently.  
+Experience leading other developers during the analysis, design, and
+execution phases of an engineering project is a big plus.
+·	Experience with source control systems, such as CVS.
+·	BS in Computer Science, or equivalent experience. 
+
+
+Desired skills:
+·	Advanced Linux development skills including .rpm and kickstart
+configurations.
+·	Advanced database development experience, including using stored
+procedures & PL/SQL.
+·	XSL development experience.  Preferably in Perl, and using XML Spy.
+
+·	Experience in Java web application development, including Tomcat,
+JSPs, and JDBC.
+
+
+Contact information at:
+http://jobs.perl.org/job/3624#contact
+
+

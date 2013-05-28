@@ -1,0 +1,137 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6711
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 9994 invoked from network); 30 Jul 2007 17:05:56 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 30 Jul 2007 17:05:56 -0000
+Received: (qmail 27065 invoked by uid 225); 30 Jul 2007 17:05:55 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 27044 invoked by alias); 30 Jul 2007 17:05:54 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,DKIM_POLICY_SIGNSOME,DK_POLICY_SIGNSOME,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 30 Jul 2007 10:05:42 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id AF32F2AFE3; Mon, 30 Jul 2007 10:05:37 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070730170537.AF32F2AFE3@x3.develooper.com>
+Date: Mon, 30 Jul 2007 10:05:37 -0700 (PDT)
+Subject: Senior Linux Engineer, United States, NY, New  York
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5939
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 30, 2007
+
+Job title: Senior Linux Engineer
+
+Company name: International Securities Exchange
+
+Location: United States, NY, New  York
+
+Pay rate: Commensurate with experience
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Description:
+The International Securities Exchange is currently recruiting a Senior
+Linux Engineer. 
+
+
+
+Responsibilities to include:
+
+
+
+
+
+Implement and maintain RedHat and Sun Solaris systems 
+
+Administration of JBoss in RedHat Linux Environment 
+
+Perform hardware, operating system, security and application
+updates/patches on these systems 
+
+Monitor Linux/UNIX systems for performance and availability 
+
+Work with team on defining best practices for supporting our environment 
+
+Work with various development groups to deploy application code into
+Staging and Production environments 
+
+Interface with business to identify practical solutions applicable to the
+business needs based on available technology 
+
+Assist in performing routine capacity planning tasks for storage assets,
+generate utilization and performance reports, and maintain documentation of
+storage environment 
+
+Respond to tickets through a ticketing system 
+
+Manage a data center migration project 
+
+Work with project managers and technical staff in defining and documenting
+technical project requirements
+
+Required skills:
+Experience Required/Technical Skills:
+
+
+
+
+
+3-6+ years experience with RedHat Enterprise Linux
+
+Administrative experience with the following UNIX protocols: DNS, NTP, SSH,
+NFS, SMTP, LDAP
+
+Experience with RPM and building custom packages
+
+Ability to troubleshoot issues using utilities such as iostat, vmstat,
+truss, gdb, dtrace
+
+Experience with Apache Web server and with managing SSL certificates
+
+Experience with mysql
+
+At least 4 years working with Perl and some exposure to object oriented
+development
+
+Familiar with standard development utilities such as make, cvs, ldd, nm,
+etc.
+
+Production installation and support of Apache and JBoss systems
+
+Veritas Products (Netbackup, VCS)
+
+Able to automate routine tasks using Shell or Perl scripting
+
+Understanding of security best practices such as minimal install sets,
+server hardening and system patching
+
+Excellent oral and written communication skills
+
+Solaris and RedHat certifications a plus
+
+Desired skills: BA/BS degree preferred
+
+URL for more information: http://www.ise.com/
+
+Contact information at:
+http://jobs.perl.org/job/5939#contact
+
+

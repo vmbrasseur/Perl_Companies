@@ -1,0 +1,106 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13327
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 23943 invoked from network); 21 Apr 2013 02:29:51 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 21 Apr 2013 02:29:51 -0000
+Received: (qmail 22773 invoked by uid 225); 21 Apr 2013 02:29:51 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 22768 invoked by alias); 21 Apr 2013 02:29:51 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 20 Apr 2013 19:29:43 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 608602AFD1; Sat, 20 Apr 2013 19:29:39 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 20 Apr 2013 19:29:39 -0700
+Message-ID: <20130421022940.608602AFD1@x3.develooper.com>
+Subject: Perl developer, Macclesfield, Cheshire, United Kingdom
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17273
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 20, 2013
+
+Job title: Perl developer
+
+Company name: SpareRoom.co.uk
+
+Location: Macclesfield, Cheshire, United Kingdom
+
+Pay rate:
+£25k plus (we're considering junior through to senior candidates)
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Description:
+Are you looking for a rewarding job? With over 2 million visits per month,
+we're the UK's leading flat and house share website. We're in the top 10 UK
+property sites and the top 750 sites overall for UK traffic.
+
+SpareRoom's staff are a diverse bunch of creative individuals who enjoy
+being part of a small team that packs a big punch.
+
+We offer a relaxed and friendly working environment in a light and spacious
+office in the centre of Macclesfield, just a couple of minutes walk from
+the train station. Apart from it being an enjoyable place to work,
+SpareRoom offers:
+
+* CPI linked salaries 
+* Training budgets 
+* One-year interest-free loans for rail season tickets 
+* One-year interest-free loans for bicycle purchases as part of Cyclescheme
+
+* Contributions towards sports memberships: gyms, swimming, sports clubs,
+et cetera 
+* Loyalty holidays: one extra day per year from your third year, up to a
+total of five extra days 
+
+We're looking for talented and enthusiastic individuals to add to our
+growing team, and to help us help millions of people find somewhere new to
+live. If you are creative and hard working, you will see your ideas having
+a direct effect on SpareRoom and how it develops.
+
+You'll be responsible for developing and expanding our website's backend
+Perl code, automating tests and infrastructure tasks, providing internal
+support and fixing bugs. We're big on code quality and encourage
+well-tested, maintainable code over rushing to hit deadlines. You'll be
+working on a small, self-organising team so this job will suit someone who
+thrives on the chance to work hard, innovate and make a huge difference.
+
+Required skills:
+* Perl 5 programming, preferably procedural and OO
+* Web application development
+* Good teamwork and communication skills
+* Keen eye for detail
+* Willingness to learn
+* Ability to work as part of a small team
+* An understanding of the importance of up-time for a busy web site
+* Attention to detail
+* Good communication skills
+
+Desired skills:
+* Apache and mod_perl
+* Front-end development (eg. HTML, CSS, JavaScript)
+* Relational databases (e.g. MySQL)
+* Version control (e.g. Subversion or Git)
+* Test frameworks
+* Linux command line usage
+
+Website for more information: http://www.spareroom.co.uk/content/about/jobs
+
+Contact information at:
+http://jobs.perl.org/job/17273#contact

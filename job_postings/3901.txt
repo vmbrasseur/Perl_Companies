@@ -1,0 +1,107 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3901
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 18074 invoked from network); 21 Feb 2006 06:32:00 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 21 Feb 2006 06:32:00 -0000
+Received: (qmail 13132 invoked by uid 225); 21 Feb 2006 06:31:59 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 13109 invoked by alias); 21 Feb 2006 06:31:58 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 20 Feb 2006 22:31:55 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id k1L6VoJd027454
+	for <jobs@perl.org>; Mon, 20 Feb 2006 22:31:50 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id k1L6Voxl027452;
+	Mon, 20 Feb 2006 22:31:50 -0800
+Date: Mon, 20 Feb 2006 22:31:50 -0800
+Message-ID: <200602210631.k1L6Voxl027452@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Perl Intra-Webpage/DBI Programmer for Statistical Process Control (onsite), United States, CA, Concord
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3718
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 20, 2006
+
+Job title:
+Perl Intra-Webpage/DBI Programmer for Statistical Process Control
+
+Company name:
+ESCO Integrated Manufacturing (Concord, CA)
+
+Location: United States, CA, Concord
+
+Pay rate: Negotiable (USD)
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: 1 month
+
+Hours: Flexible
+
+Onsite: yes
+
+Description:
+ESCO is a manufacturing company dealing with high-precision machining.
+
+This project involves:
+- SPC (Statistical Process Control)
+- a backend DBMS (MS Access), storing data from CMM (coordinate measuring
+machine) dump - .txt extensions
+- a frontend U/I
+- a software by SAS (statistical package software) with scriptable language
+based closely to C-programming
+- hundreds of products and hence hundred thousands data points, ever
+increasing and will need archiving.
+
+What needs to be done is:
+- the completion of existing data interface with .txt files of different
+formats using VBA (or provide quick, simple and learnable alternative using
+Perl)
+- the completion of system to routinely upload data into the DBMS, with
+archiving.
+- the creation of a simple U/I with multiple menu options for different
+product groups. This will allow user to select product and dimension(s) for
+statistical analysis and report abridged data and graphs/charts
+- the creation of intranet webpages that is part of the U/I with options to
+expand to secured internet webpage(no encryption necessary)
+
+We want to keep it simple, economical, fast, workable and minimal
+maintenance. Our industry is very dynamic, so we will need the coding to be
+simple and documented for future upgrades (which may be needed). Hence,
+your coding cannot be proprietry.
+
+Contract will have to be at our location to learn how the system is setup
+and will need to work with our statistical software initially and during
+testing phase. Due to security reasons, we cannot allow testing with
+external connection outside our intranet.
+
+Our expectation is that the contract will be completed in one month or
+less. Compensation is per contract as initially agreed upon by both
+parties, regardless of duration.
+
+Required skills: Perl, SQL, VBA, MS Access.
+
+Desired skills: Webpage Design.
+
+Contact information at:
+http://jobs.perl.org/job/3718#contact
+
+

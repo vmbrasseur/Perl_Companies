@@ -1,0 +1,98 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8485
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 11102 invoked from network); 24 Jul 2008 07:10:33 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 24 Jul 2008 07:10:33 -0000
+Received: (qmail 19231 invoked by uid 225); 24 Jul 2008 07:10:33 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 19227 invoked by alias); 24 Jul 2008 07:10:33 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 24 Jul 2008 00:10:27 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 40AA12AFEA; Thu, 24 Jul 2008 00:10:22 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080724071024.40AA12AFEA@x3.develooper.com>
+Date: Thu, 24 Jul 2008 00:10:22 -0700 (PDT)
+Subject: Programmer for new payment service provider (non-web/CGI based) (onsite), United Kingdom, Derbyshire, Chesterfield
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/9264
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 23, 2008
+
+Job title:
+Programmer for new payment service provider (non-web/CGI based)
+
+Company name: Vidicom Ltd.
+
+Location: United Kingdom, Derbyshire, Chesterfield
+
+Pay rate: 30-50k GBP depending on applicant
+
+Travel: 25-50%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Vidicom is a small technology company currently undergoing rapid expansion.
+
+Our main product is the world leading mobile payment platform Mobillcash.
+
+We are currently looking for multiple programmers to work on our core
+billing
+platform, which is implemented as a series of daemon processes written in
+Perl.
+
+A successful candidate would be a good thinker and problem solver, as we
+are
+looking to recruit people who can weigh in heavily on design and
+architecture
+decisions. There will be interesting challenges to solve, such as improving
+
+and expanding the distributed / decentralised nature of our system.
+
+Experience with a variety of areas, programming challenges and languages
+would
+be beneficial. In particular, we'd like someone who may see things from a
+stricter point of view than Perl itself actually enforces at times :)
+
+We are looking for someone with many years general programming experience,
+although this by no means must be in a professional capacity.
+You should have at least 1 year of Perl experience in particular.
+
+Required skills:
+ - Perl application development experience.
+ - An excellent level of Linux and/or general UNIX knowledge.
+ - Knowledge of SQL.
+
+
+Desired skills:
+Not required, but nice to have:
+ - mod_perl.
+ - Distributed redundant systems development experience.
+ - PHP experience (our front end reporting tools use this).
+ - Knowledge of SMS internals / industry.
+
+
+URL for more information: http://www.mobillcash.com/
+
+Contact information at:
+http://jobs.perl.org/job/9264#contact
+
+

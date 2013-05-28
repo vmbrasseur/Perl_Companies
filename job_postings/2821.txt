@@ -1,0 +1,93 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2821
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 1692 invoked from network); 7 Jun 2005 03:04:28 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 7 Jun 2005 03:04:28 -0000
+Received: (qmail 28138 invoked by uid 225); 7 Jun 2005 03:04:27 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 28134 invoked by alias); 7 Jun 2005 03:04:27 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 06 Jun 2005 20:04:24 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j5734Lln004008
+	for <jobs@perl.org>; Mon, 6 Jun 2005 20:04:21 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j5734LbM004006;
+	Mon, 6 Jun 2005 20:04:21 -0700
+Date: Mon, 6 Jun 2005 20:04:21 -0700
+Message-ID: <200506070304.j5734LbM004006@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Senior Perl Web Application Developer for network appliance products (onsite), United States, Florida, Vero Beach
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2707
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June  6, 2005
+
+Job title:
+Senior Perl Web Application Developer for network appliance products
+
+Company name: Lok Technology, Inc.
+
+Location: United States, Florida, Vero Beach
+
+Pay rate: $125,000 - $150,000
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Growing network technology company recently featured in Entrepreneur and
+Forbes magazines, as well as on CNBC, is looking for first class Senior
+PERL Web Application Developers.  Your job will be to architect, implement
+and maintain a web application that serves as a GUI for UNIX-based network
+infrastructure management appliance.
+
+The AIRlok Appliance, launched in 2004 by Lok Technology, Inc., is deployed
+worldwide with customers in 14 countries. The AIRlok uses a unique
+combination of an exo-kernel, shared memory and out of order packet
+processing technology. It integrates an unprecedented breadth of
+applications into a low cost, secure, high capacity appliance that
+processes all packets to or from the WLAN, WPOP or hot-spot end user. 
+
+Required skills:
+Advanced modular PERL implementation techniques
+CGI web applications that generate HTML/CSS pages
+XML and XSL template technologies
+
+B.Eng. or B.S. required, M.S. or M.Eng. preferred
+
+Desired skills:
+ISP billing software, integration and methodologies
+Credit card processing systems
+SSL certificate management methodologies
+UNIX systems administration
+OpenBSD
+Shared calendaring and CRM software
+Email systems, POP, IMAP
+
+URL for more information: http://www.air-lok.com/
+
+Contact information at:
+http://jobs.perl.org/job/2707#contact
+
+

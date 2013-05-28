@@ -1,0 +1,82 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6461
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 2867 invoked from network); 18 Jun 2007 14:20:00 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 18 Jun 2007 14:20:00 -0000
+Received: (qmail 7213 invoked by uid 225); 18 Jun 2007 14:20:00 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 7208 invoked by alias); 18 Jun 2007 14:19:59 -0000
+X-Spam-Status: No, hits=0.0 required=8.0
+	tests=BAYES_50,DKIM_POLICY_SIGNSOME,DK_POLICY_SIGNSOME,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 18 Jun 2007 07:19:54 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 3CAE72AFF6; Mon, 18 Jun 2007 07:19:51 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070618141951.3CAE72AFF6@x3.develooper.com>
+Date: Mon, 18 Jun 2007 07:19:51 -0700 (PDT)
+Subject: contract: database schema and web-based front-end for private school (onsite), United Kingdom, Surrey
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5971
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 18, 2007
+
+Job title:
+contract: database schema and web-based front-end for private school
+
+Company name: Shrewsbury House School
+
+Location: United Kingdom, Surrey
+
+Pay rate: negotiable
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: 2 months
+
+Hours: Flexible
+
+Onsite: yes
+
+Description:
+School is looking for programmer/consultant who will develop new
+web-based database system and help swapping to it.
+Existing system is based on Access97.
+Database holds all informations about boys, leavers, teachers,
+workcards, profiles, PDF reports, bus run etc...
+One Access mdb file, located on network share (samba share) and not
+more then 30 teachers accessing it in the same time via shortcut (UNC
+path).
+It is 63 tables, almost half of it ODBC linked to MySQL 4.0.27
+(FreeBSD). Size is not more then 50K records but some of tables have
+more then 200 columns called for e.g. F2GcS5 which may make it
+difficult to work out which data is redundant.
+
+What we really need is type of CRUD, possible Maypole based, with
+new database schema , some abstraction layer (Class::DBI) and about 40
+forms based on templates. Good documentation, and well performed swap to
+new system.
+
+Timescale requirements:
+We would like it to be in place by september 2007
+but we are open to discuss it.
+
+Required skills:
+OO Perl, CGI.pm, Class::DBI, TT, Apache2, MySQL, PDF reports
+
+Contact information at:
+http://jobs.perl.org/job/5971#contact
+
+

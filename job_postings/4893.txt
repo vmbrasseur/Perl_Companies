@@ -1,0 +1,88 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4893
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 17573 invoked from network); 4 Sep 2006 07:04:25 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 4 Sep 2006 07:04:25 -0000
+Received: (qmail 16274 invoked by uid 225); 4 Sep 2006 07:04:24 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 16252 invoked by alias); 4 Sep 2006 07:04:24 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 04 Sep 2006 00:04:21 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id EF72E2AFE6; Mon,  4 Sep 2006 00:04:16 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060904070416.EF72E2AFE6@x3.develooper.com>
+Date: Mon,  4 Sep 2006 00:04:16 -0700 (PDT)
+Subject: Asterisk AGI programmer for telecom company (onsite), Australia, South Australia, Adelaide
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4607
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September  3, 2006
+
+Job title:
+Asterisk AGI programmer for telecom company
+
+Company name: Koala Telecom
+
+Location: Australia, South Australia, Adelaide
+
+Pay rate: ~AU$50,000 (negotiable)
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Length of employment: Permanent
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Koala Telecom is seeking a full time programmer with experience with PHP5,
+Perl and SQL (MySQL).
+
+The position is located in the Adelaide CBD for immediate start. Salary is
+negotiable. It is a full-time permanent position. 
+
+Likely tasks with us include:
+
+   - Integrating billing systems together via SQL databases.
+   - Extending and developing new methods for VoIP systems.
+   - Providing secure Web interfaces for our systems.
+   - Working in a small team of 2-4 members. 
+
+Required skills:
+Experience developing projects in a team environment using a
+versioning system such as Subversion or CVS.
+Design and analysis skills.
+Experience with PHP5, Perl and SQL.
+Familiar with GNU/Linux systems. 
+
+Desired skills:
+Experience with Asterisk (and hopefully AGI).
+Experience deploying MySQL Cluster and load balancing.
+Experience integrating systems together.
+Payments, electronic commerce, etc.
+Experience with Radius. 
+
+URL for more information: http://www.koalatelecom.com.au/
+
+Contact information at:
+http://jobs.perl.org/job/4607#contact
+
+

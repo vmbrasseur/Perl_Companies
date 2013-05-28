@@ -1,0 +1,128 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12346
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8825 invoked from network); 19 Apr 2012 00:35:35 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 19 Apr 2012 00:35:35 -0000
+Received: (qmail 6656 invoked by uid 225); 19 Apr 2012 00:35:35 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 6652 invoked by alias); 19 Apr 2012 00:35:35 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 18 Apr 2012 17:35:30 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id A6B642AFDD; Wed, 18 Apr 2012 17:35:26 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 18 Apr 2012 17:35:26 -0700
+Message-ID: <20120419003526.A6B642AFDD@x3.develooper.com>
+Subject: Perl Developer - all levels, New York, NY, USA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15622
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 18, 2012
+
+Job title: Perl Developer - all levels
+
+Company name: NYC Software firm
+
+Internal ID: JH Perl001
+
+Location: New York, NY, USA
+
+Pay rate: open
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Description:
+We get to build a lot of really cool systems at scale, including search,
+download, content organization, real-time metrics, deployment, and other
+stuff that we can't tell you about yet. Our current systems are mostly
+built around Perl, Javascript, PHP, Ruby, Solr, Apache, Nginx, and MySQL.
+We are seeking experienced and intelligent software engineers that are
+excited about working with other experienced and intelligent software
+engineers on closely integrated teams to push the boundaries of what is
+expected of a stock photo company. 
+We focus on fast, iterative development (over 150 deployments/month) and
+collaborative, interactive programming. Developers work on small
+cross-functional teams (4-6 people) that have a voice in setting their own
+priorities and are expected to build and deploy applications quickly and
+iteratively.
+
+Required skills:
+Qualified candidates are:
+
+·	  in love with programming and building things that have never
+existed
+
+·	  curious and passionate about finding creative solutions to
+complex problems
+
+·	  able communicators that are used to talking through problems and
+feel a deep need to share the cool stuff that they're working on with
+others
+
+·	  experienced enough to know what to build themselves and what not
+to
+
+·	  aware of what they don't know yet and are excited about what to
+learn next
+
+·	  ready to teach us some new tricks
+
+·	  able to take care of business
+
+ 
+
+Skills Required
+
+·	  a very deep understanding of at least one programming language
+(Perl strongly preferred, but we're not zealots)
+
+·	  years of experience with at least one database (MySQL preferably)
+
+
+·	  a profound knowledge of how the web works and how to make it
+efficient (HTTP, caching, page rendering, etc)
+
+·	  strong linux experience.
+
+Desired skills:
+Skills Preferred
+
+·	  HTML::Mason
+
+·	  Experience with web MVC frameworks: Dancer, Mojolicious,
+Catalyst, Sinatra, Express, etc
+
+·	  RESTful API design and development
+
+·	  Layout / Design
+
+·	  Front or back end javascript / Node.js
+
+·	  Image processing and computer vision
+
+·	  MongoDB or other key/value stores
+
+·	  Memcached / Redis
+
+·	  System administration
+
+·	  MogileFS
+
+Contact information at:
+http://jobs.perl.org/job/15622#contact

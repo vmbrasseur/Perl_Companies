@@ -1,0 +1,98 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3827
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 7273 invoked from network); 4 Feb 2006 01:23:44 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 4 Feb 2006 01:23:44 -0000
+Received: (qmail 14666 invoked by uid 225); 4 Feb 2006 01:23:43 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 14659 invoked by alias); 4 Feb 2006 01:23:42 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 03 Feb 2006 17:23:31 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id k141NQA2011267
+	for <jobs@perl.org>; Fri, 3 Feb 2006 17:23:26 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id k141NQpA011265;
+	Fri, 3 Feb 2006 17:23:26 -0800
+Date: Fri, 3 Feb 2006 17:23:26 -0800
+Message-ID: <200602040123.k141NQpA011265@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Software Engineer (Perl / Pipeline) (onsite), United States, California, Glendale & Redwood City
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3635
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February  3, 2006
+
+Job title: Software Engineer (Perl / Pipeline)
+
+Company name: DreamWorks Animation, SKG
+
+Location:
+United States, California, Glendale & Redwood City
+
+Pay rate: Competitive
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+DreamWorks Animation develops and produces high quality computer generated
+(CG) animated films. Our recent releases include Shrek 2, Sharktale, and
+Madagascar.  
+
+Seeking Software Engineers to work in our Pipeline group!
+
+
+Summary: 
+DreamWorks Animation is looking for senior engineers to share
+responsibility for the scripting language infrastructure in the studio. 
+This position would be responsible for the low level libraries in use by
+every studio tool with a component programmed in a scripting language, the
+vast majority of which is written in Perl.  Additional responsibilities
+would include training and supporting programmers and artists in the studio
+on how to use the studio libraries in a standard and effective way, in
+addition to how to write clean and well structured code. 
+
+
+Required skills:
+-5+ years of software development experience 
+-Scripting expert with extensive Perl experience: consider yourself a Perl
+Guru 
+-Good working knowledge of CVS, Make, and the standard Unix build tools 
+-Good working knowledge of C and C++ 
+-Good working knowledge of Linux or similar UNIX variant 
+-Good troubleshooting and debugging experience 
+-Demonstrated history of technical and project leadership 
+-Excellent verbal and written communication skills
+
+Desired skills:
+-A history of library development 
+-Good working knowledge of Python 
+-General interest in programming language minutia
+
+URL for more information: http://www.dreamworksanimation.com/
+
+Contact information at:
+http://jobs.perl.org/job/3635#contact
+
+

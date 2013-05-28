@@ -1,0 +1,82 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10989
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 31040 invoked from network); 11 Feb 2011 20:35:00 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 11 Feb 2011 20:35:00 -0000
+Received: (qmail 7345 invoked by uid 225); 11 Feb 2011 20:35:00 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 7335 invoked by alias); 11 Feb 2011 20:35:00 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS,T_LOTS_OF_MONEY
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 11 Feb 2011 12:34:58 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id C37972AFDA; Fri, 11 Feb 2011 12:34:54 -0800 (PST)
+To: jobs@perl.org
+Date: Fri, 11 Feb 2011 12:34:54 -0800
+Message-ID: <20110211203454.C37972AFDA@x3.develooper.com>
+Subject: Software Developer (onsite), United Kingdom, Hampshire, Basingstoke
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13642
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 11, 2011
+
+Job title: Software Developer
+
+Company name: tuscany networks Ltd.
+
+Location: United Kingdom, Hampshire, Basingstoke
+
+Pay rate: Around £33,000 depending on experience
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+-Work in small team and quite often on your own
+-Maintain tuscany networks products
+-Provide ad-hoc development capability for customers
+-----Liaise with customers to capture requirements
+-----Develop web based interfaces/applications to meet requirements
+-----Develop backend programs to meet requirements
+-----Use 3rd party APIs to interface with existing systems
+
+
+Required skills:
+-Intermediate Perl fluency
+-Demonstrate previous delivery of a Perl based application (not just
+scripts)
+-Non CGI usage of Perl
+-Ability to read C and XS code
+-Modern Perl usage (OO, Mouse, best practices, etc)
+-Understanding of DNS and DHCP
+-Understanding and knowledge of TCP/IP
+-Experience under Windows, Red Hat Linux and/or Solaris operating systems
+
+
+Desired skills:
+-Knowledge of DNS and DHCP
+-Deploying Perl applications across multiple platforms
+-Develop POSIX and/or simple Win32 C programs
+-Use of DBD::SQLite
+-JavaScript (Ext JS or jQuery)
+
+
+Website for more information: http://www.tuscanynetworks.com/
+
+Contact information at:
+http://jobs.perl.org/job/13642#contact

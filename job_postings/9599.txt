@@ -1,0 +1,411 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9599
+Return-Path: <ahuimanu808@gmail.com>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 21172 invoked from network); 9 Nov 2009 20:08:45 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 9 Nov 2009 20:08:45 -0000
+Received: (qmail 9401 invoked by uid 225); 9 Nov 2009 20:08:45 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 9318 invoked by alias); 9 Nov 2009 20:08:44 -0000
+X-Spam-Status: No, hits=-6.8 required=8.0
+	tests=DK_SIGNED,RCVD_IN_DNSWL_HI,SPF_NEUTRAL
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x6.develooper.com (HELO lists.develooper.com) (207.171.7.86)
+    by la.mx.develooper.com (qpsmtpd/0.28) with SMTP; Mon, 09 Nov 2009 12:08:43 -0800
+Received: (qmail 21149 invoked by uid 515); 9 Nov 2009 20:08:39 -0000
+To: jobs@perl.org
+MBOX-Line: From news@google.com Mon Nov 09 20:08:37 2009
+Delivered-To: colobus-nntpmod@lists.develooper.com
+Received: (qmail 21132 invoked from network); 9 Nov 2009 20:08:36 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 9 Nov 2009 20:08:36 -0000
+Received: (qmail 8858 invoked by uid 225); 9 Nov 2009 20:08:36 -0000
+Delivered-To: news-moderator-perl.jobs@perl.org
+Received: (qmail 8854 invoked by alias); 9 Nov 2009 20:08:35 -0000
+Received: from moderators.individual.net (HELO moderators.individual.net) (130.133.4.7)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 09 Nov 2009 12:08:33 -0800
+Received: from mail-gx0-f155.google.com ([209.85.217.155])
+          by moderators.individual.net (Exim 4.69)
+          for perl-jobs@moderators.isc.org with esmtp
+          (envelope-from <news@google.com>)
+          id <1N7aXM-0005qO-PR>; Mon, 09 Nov 2009 21:08:29 +0100
+Received: by gxk13 with SMTP id 13so5971750gxk.4
+        for <perl-jobs@moderators.isc.org>; Mon, 09 Nov 2009 12:08:23 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:received:received:received
+         :x-authentication-warning:to:path:from:newsgroups:subject:date
+         :organization:lines:message-id:nntp-posting-host:mime-version
+         :content-type:content-transfer-encoding:x-trace:x-complaints-to
+         :nntp-posting-date:complaints-to:injection-info:user-agent
+         :x-http-useragent;
+        bh=IDzTZ+zFHA2IL9YSf/C1amXnmP6+wpaPYeRdIeL6vQk=;
+        b=ZiOCkbPfj/uYm3Ztba+bLaDlVDBvJAvqt66qOpmg+kXQFk4HK7wO/xvliKMloiEIGq
+         5zDpj0X1PNzRqiSeZo+QdkvsJVCZEeSAycMZQsGm9PSyJZYYZDbyvtbcindg5aPzvh6L
+         P3U0JTR2J8CxDxApNCPMBKdQEjz0PbNFdJpp8=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=x-authentication-warning:to:path:from:newsgroups:subject:date
+         :organization:lines:message-id:nntp-posting-host:mime-version
+         :content-type:content-transfer-encoding:x-trace:x-complaints-to
+         :nntp-posting-date:complaints-to:injection-info:user-agent
+         :x-http-useragent;
+        b=S+I0VApljVoTnEpEutwBScxCSShyGTYMvPd/6+bECLQCPDw8Gy+5D1dhFDO80QmzJ4
+         TiIonmcHZfrI9z4AdBHBm5v/fQLlJICe/9rmnh2YFkCD7OX+OPNAe7y/uaj5OQz59k0/
+         WvJdMHQ44QuFgdBTVPsShzZ7DqYNhWpjHnbKM=
+Received: by 10.91.10.5 with SMTP id n5mr9630489agi.4.1257797303460;
+        Mon, 09 Nov 2009 12:08:23 -0800 (PST)
+Received: from ywd9.prod.google.com (ywd9.prod.google.com [10.192.4.9])
+        by mx.google.com with ESMTP id 7si497ywo.0.2009.11.09.12.08.23;
+        Mon, 09 Nov 2009 12:08:23 -0800 (PST)
+Received: (from news@localhost)
+	by Google Production id nA9K8Nxx005392
+	for perl-jobs@moderators.isc.org; Mon, 9 Nov 2009 12:08:23 -0800
+X-Authentication-Warning: ywd9.prod.google.com: news set sender to news@google.com using -f
+Date: Mon, 9 Nov 2009 12:08:22 -0800 (PST)
+Organization: http://groups.google.com
+Lines: 315
+Message-ID: <5353fa1f-1c91-4679-ba8a-4071be6dc713@h14g2000pri.googlegroups.com>
+NNTP-Posting-Host: 69.169.181.2
+Mime-Version: 1.0
+Content-Type: text/plain; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+X-Trace: posting.google.com 1257797303 5391 127.0.0.1 (9 Nov 2009 20:08:23 GMT)
+X-Complaints-To: groups-abuse@google.com
+NNTP-Posting-Date: Mon, 9 Nov 2009 20:08:23 +0000 (UTC)
+Complaints-To: groups-abuse@google.com
+Injection-Info: h14g2000pri.googlegroups.com; posting-host=69.169.181.2; 
+	posting-account=TPkqLwoAAAA2YdupgRVZIhM2CnYZYSfk
+User-Agent: G2/1.0
+X-HTTP-UserAgent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.4) 
+	Gecko/20091016 Firefox/3.5.4 GTB6 (.NET CLR 3.5.30729),gzip(gfe),gzip(gfe)
+X-Virus-Checked: Checked
+X-Posted-By: 207.171.7.86
+X-Virus-Checked: Checked
+X-Old-Spam-Check-By: la.mx.develooper.com
+X-Old-Spam-Status: No, hits=0.7 required=8.0
+	tests=DK_SIGNED,SPF_SOFTFAIL
+Subject: Jobs Available - Nation Wide - Check them out!!
+Approved: news@nntp.perl.org
+From: ahuimanu808@gmail.com (EnticeLabs)
+
+Position Title:  Development Manager
+Company:  White Pages
+Permanent Position
+Placement Through Recruiter
+W-2
+401K
+Job Description:
+Development Manager, Front End Come lead our
+
+team of top developers as we build the next generation of the best
+
+people search engine on the internet? We are a spirited team of
+
+innovative, passionate engineers united in our mission of becoming the
+
+undisputed best online source of contact information for people and
+
+businesses. We are agile by design, and work quickly and confidently
+to
+
+achieve our goals. We think outside the box, and often without the box
+
+at all, and are hungry for continued success as a team and as a
+
+company. We are looking for someone who can join our team as a leader
+
+that we can look up to, collaborate with, and continue to learn from.
+
+If you are strong technically -- as in you can (and have) architect,
+
+design, and develop complex systems, if you enjoy solving hard
+
+technical problems within a team environment, and if you have proven
+
+experience leading people with a hands-on approach, then you are the
+
+person we are looking for. We work hard and play hard, and we love to
+
+win, so you need to bring a champion attitude to the table, along with
+
+a strong ability to motivate and inspire some of the best developers
+in
+
+the industry. Submit your resume today!
+
+Requirements:
+=95 Passion for website usability and intuitive, delightful user
+experiences
+=95 Ability to write clean code that works, is readable, maintainable
+and follows best practices and coding standards on schedule.
+=95 Fluency in a variety of languages such as C/C++, Java, Ruby, Perl,
+Python
+=95 Ability to lead the design of complex distributed architectures and
+serve as a role model to senior engineers on the team.
+=95 Solid understanding of OO design, languages, algorithms, data
+structures, networking, database design & optimization.
+=95 Proven ability to quickly learn new languages and technologies as
+necessary.
+=95 Extensive experience working with a web development framework
+(Django, Rails, .NET, Catalyst, JSP, etc).
+=95 Extensive experience with HTML, CSS, JavaScript, and AJAX.
+=95 Familiarity with Webserver/service technologies, including Apache,
+JSON, SOAP, and REST.
+=95 Experience with agile development processes and scrum in particular.
+=95 8+ years experience in software development with 3 or more in
+management.
+=95 BS degree in Computer Science or equivalent experience.
+
+Bonus Points
+=95 Extensive database development experience and SQL proficiency.
+=95 Experience working in an Open Source internet platforms.
+
+City:  Seattle,WA
+
+
+For More Info and to apply Contact us at:
+
+http://bit.ly/3nUOgN
+
+
+
+Position Title:  Lead Software Engineer
+Company:  White Pages
+Permanent Position
+Placement Through Recruiter
+W-2
+401K
+Job Description:
+We're looking for top-notch developers who have a passion for building
+
+delightful websites that people love to use and who have a special
+
+interest in UI development. If you love developing sites using Ruby on
+
+Rails or if you're just excited to learn, this may be the place for
+
+you. We're one of the highest traffic Rails sites on the Internet, and
+
+we've been using it since the beginning.
+
+Requirements
+
+=95
+In depth knowledge of CSS and HTML/XHTML
+=95 Experience with JavaScript and/or ActionScript =95 Solid understanding
+of software development life cycles =95 Proven ability to write clean
+code that works =95 Ability to code in at least one of: Perl, Ruby,
+Java,
+Python, C#/C++/C =95 Knowledge of one or more web development frameworks
+=95 Ability to lead and inspire small project teams
+=95 BS or advanced degree in CS, CSE or EE, or equivalent experience
+Bonus Points
+=95 Experience with XSLT, mod_perl and/or XML =95 Database development
+experience =95 Development experience in Linux environment. =95
+Understanding of one or more areas of relevant expertise: search
+engine
+design, people search, distributed computing, database optimization,
+messaging, VOIP, social networking, mobile applications, web design
+We are an equal opportunity employer.
+
+City:  Seattle,WA
+
+
+
+For More Info and to apply Contact us at:
+
+http://bit.ly/3VXsHm
+
+
+
+
+
+Title:  Site Reliability Engineer
+Company:  Google
+Location:  MT. View, CA
+Job Description:
+Google.com engineers are expert coders with a strong understanding of
+algorithms and data structures. This includes code-level
+troubleshooting of service anomalies to safeguarding the availability
+of our most popular services; from monitoring and response to building
+new automation infrastructure to balancing the desire for change
+management with the need for stability.
+All team members must have strong analytical and troubleshooting
+skills, fluency in coding, good communication skills, and most of all
+enthusiasm for tackling the complex problems of scale which are
+uniquely Google. We tackle challenging, novel situations every day,
+and work with just about every other engineering and operations team
+at Google in the process.
+Responsibilities:
+=95       Large-scale production software troubleshooting.
+=95       Ongoing capacity planning.
+=95       Monitor and maintain mission critical services.
+Requirements:
+=95       BS in CS, MS is preferred.
+=95       Expertise in data structures, algorithms, and complexity
+analysis.
+=95       Fluency in one or more of: C, C++, Java.
+=95       Superior Analytical/Troubleshooting skills.
+=95       Working knowledge of Unix, preferably Linux.
+=95       Knowledge of Shell, PHP, Perl or Python a plus.
+=95       Open source experience/contribution with any linux/unix
+distribution
+a plus.
+
+For more info and to apply contact us at:
+
+http://bit.ly/1UCPW5
+
+
+
+Title:  Software Engineer
+Company:  Google
+Locations:  New York, Irvine, CA, San Bruno, CA, Santa Monica, CA,
+Chicago, Boston, Pittsburgh, Washington, DC, and Seattle
+
+Job Description:
+
+Software Engineers have a passion for solving complex and interesting
+problems. Google is much more than search, and our mission has much
+greater scope. To handle information at the scale of the web requires
+ideas from just about every area of computer science, including
+information retrieval, artificial intelligence, natural language
+processing, distributed computing, large-scale system design,
+networking, security, data compression, user interface design, etc.
+Engineers work on many projects that carry varying responsibilities.
+Below are some examples of the diverse projects with which you might
+be involved.
+Responsibilities:
+=95       Write server-side code for web-based applications, create
+robust
+high-volume production applications, and develop prototypes quickly.
+You should also have a strong understanding of, and practical
+experience with, Java web application development.
+=95       Build our platforms, systems and networking infrastructure
+using
+your strong background in distributed systems, OS/kernel, network
+system design, and large scale storage systems.
+=95       Build internal systems used by thousands of Googlers around
+the
+world with your domain expertise in HR, Staffing, Legal, and all other
+corporate functions.
+=95       Specialist domains: UI development with AJAX and similar
+technologies, client application development for Windows/Mac (Chrome,
+Toolbar, etc.), embedded systems and mobile apps (Android), developer
+tools (IDEs, large-scale build systems, compilers),
+internationalization.
+Requirements:
+=95       BS, MS, or PhD in Computer Science or related technical
+discipline
+(or equivalent).
+=95       A solid foundation in computer science, with strong
+competencies in
+data structures, algorithms, and software design.
+=95       Extensive programming experience in C/C++ and/or Java (strong
+OO
+skills preferred).
+=95       Several years of large systems software design and development
+experience, with extensive knowledge of Unix/Linux.
+=95       Coding skills in Python or Javascript/AJAX, database design
+and SQL,
+and/or knowledge of TCP/IP and network programming are a plus.
+
+For more info and to apply contact us at:
+
+http://bit.ly/3j2W8Z
+
+
+
+Title:  Java Portal Developers
+Company:  CapTech
+Location:  Richmond, VA
+
+Job Description:
+
+CapTech is actively hiring talented Java developers for its expanding
+Portal service offering. Candidates should have Java development
+experience, with a strong background in object oriented analysis and
+design.
+
+Candidates should be motivated problem solvers, who understand the
+value of design patterns and software engineering. CapTech developers
+are avid self-learners, who apply their technical knowledge in working
+closely with clients to solve challenging business problems.
+
+Ideal candidates will have Java EE experience and a practical
+knowledge of Java web frameworks, such as JSF, Spring MVC, or Struts.
+Candidates with working knowledge of the Java Portlet Specifications
+are preferred.
+
+Bachelor's degree in computer science, software engineering, or a
+related field are preferred. Candidates must be open to occasional
+travel.
+
+
+For more info and to apply contact us at:
+
+http://bit.ly/4giNnB
+
+
+Title:  Sr Application and Integration Architect
+Company:  UnitedHealth Group
+Location:  Minnetonka- MN, Hartford- CT, Basking Ridge- NJ
+
+Job Description:
+
+Seeking a lead Application and Integration Architect capable of
+defining overall architecture of a large scale, high-volume SOA-based
+web application. Must be able to lead application design, solve system
+level issues as well as execute the physical implementation. Must be
+able to mentor others and lead offshore development teams. Primary
+Responsibilities: Work with business stakeholders to align business
+strategy with project deliverables Formulate approach documents,
+statements of work, estimates, and project plans Working with other
+architects, and application designers to design service-oriented
+applications Assist in development of architecturally significant or
+high-risk aspects of the project Creation and management of
+architecture models and associated documentation Participate in
+governance and oversight of program application architecture and
+system design Coordinate and collaborate with other program architects
+to assure alignment with Enterprise Architecture team, Business Unit
+Architecture teams and other project teams Assist in program
+management, team and work coordination, and mentoring Lead offshore
+development groups in the design, implementation and integration of
+new software Participate in quality and performance reviews
+
+Requirements:
+
+10 plus years of Application Development in a large enterprise
+environment 10 plus years of Application Architecture in a large
+enterprise environment Strong communication skills Experience in
+project and component estimating Experience Object-Oriented design and
+analysis Experience with UML modeling Experience implementing
+applications on the J2EE platform, including experience using JSP,
+EJB, Message-Driven Beans and Ajax Experience designing web services
+and service-based applications (SOA) Experience building, deploying
+and integrating applications with a portal application Experience with
+the following technology platforms, frameworks, and languages: UNIX,
+Wintel, J2EE/Java, XML, AJAX and Spring Desired Skills: Experience
+working on cross functional, inter-departmental and offshore
+development teams Relevant health care experience and familiarity with
+HIPPA data privacy requirements Experience with portal infrastructure
+implementations Experience Directory Services infrastructure
+implementation (SiteMinder and LDAP) Experience with ESB concepts and
+technologies Familiar with AJAX or other asynchronous web technologies
+Experience defining governance processes for application development
+and integration Experience with iterative development processes, such
+as Agile, Extreme Programming (XP), or Rational Unified Process (RUP)
+JSF Experience with the following technologies: IBM Websphere
+Application Server 6.x, IBM MQ Series, Netegrity Siteminder, Oracle
+Database, Microsoft SQL Server, Vignette Content Management LDAP, PL
+SQL, SQL Transact, BPL, mule
+
+For more info and to apply contact us at:
+
+http://bit.ly/4BVHjW
+

@@ -1,0 +1,121 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6588
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 6303 invoked from network); 9 Jul 2007 18:39:00 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 9 Jul 2007 18:39:00 -0000
+Received: (qmail 11513 invoked by uid 225); 9 Jul 2007 18:38:59 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11497 invoked by alias); 9 Jul 2007 18:38:58 -0000
+X-Spam-Status: No, hits=-2.6 required=8.0
+	tests=BAYES_00,DKIM_POLICY_SIGNSOME,DK_POLICY_SIGNSOME,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 09 Jul 2007 11:38:48 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id F2DA42AFE3; Mon,  9 Jul 2007 11:38:44 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070709183844.F2DA42AFE3@x3.develooper.com>
+Date: Mon,  9 Jul 2007 11:38:44 -0700 (PDT)
+Subject: Perl Web Application Developer (onsite), CANADA, Ontario, Toronto
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5784
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July  9, 2007
+
+Job title: Perl Web Application Developer
+
+Company name: Wilder & Associates
+
+Location: CANADA, Ontario, Toronto
+
+Pay rate: $35,000 - $45,000 Cdn
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Wilder & Associates is looking for experienced, junior and intermediate
+Perl programmers to join our young and rapidly growing company located in
+North Toronto. These are full-time, permanent positions with benefits.
+
+System Description:
+Our web system provides the following aspects of financial data reporting:
+  - Data Import / Export
+  - Workflow
+  - Business Logic
+  - Presentation Layer
+
+Job Description:
+  - maintain and manage the development of our existing large software
+project:
+    - develop new features
+    - make architectural improvements
+    - troubleshoot and fix bugs 
+    - deploy new installations of software for new customers
+    - communicate directly with customers
+      - determine customer requirements
+      - help customers troubleshoot problems
+      - transform customer bug reports/feature requests into detailed
+specifications
+
+
+Required skills:
+  -  2+ years experience programming in Perl, ideally with some knowledge
+of:
+    - mod_perl
+    - DBI
+    - Object relational systems
+	e.g. Class::DBI, Rose::DB::Object, DBIx::Class, SPOPS
+    - Web development frameworks
+	e.g. CGI::Application, Catalyst, Maypole
+    - Template systems
+	e.g. Template Toolkit, Petal, HTML::Template
+
+Required Non-Technical Skills:
+  - Excellent English communication skills including translation to/from
+techspeak
+  - Problem solving
+  - Training skills
+  - Multi-tasking
+
+Desired skills:
+- Familiarity with some/any of these related technologies:
+    - Version control
+    - SQL
+    - HTML / CSS
+    - JavaScript
+    - UNIX command line
+    - DHTML / AJAX
+    - Postgres
+    - PHP
+
+
+  - Best practices
+    - Object Orientation
+    - Testing
+    - Code reuse
+    - Security mindset
+
+
+URL for more information: http://www.wilder.ca/
+
+Contact information at:
+http://jobs.perl.org/job/5784#contact
+
+

@@ -1,0 +1,111 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7703
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 21337 invoked from network); 19 Feb 2008 20:25:11 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 19 Feb 2008 20:25:11 -0000
+Received: (qmail 29001 invoked by uid 225); 19 Feb 2008 20:25:11 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 28991 invoked by alias); 19 Feb 2008 20:25:10 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 19 Feb 2008 12:25:06 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 19EC82AFCA; Tue, 19 Feb 2008 12:25:03 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20080219202503.19EC82AFCA@x3.develooper.com>
+Date: Tue, 19 Feb 2008 12:25:03 -0800 (PST)
+Subject: Perl Developers for Funded, Growing Startup Company (telecommute), United States, MA, Littleton
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/7970
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 19, 2008
+
+Job title:
+Perl Developers for Funded, Growing Startup Company
+
+Company name: iTeam
+
+Internal ID: PerlDev1
+
+Location: United States, MA, Littleton
+
+Pay rate: based on experience
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+iTeam has developed an automated software platform for selling and
+delivering IT services in high volume across North America.  Our unique and
+patent-pending technologies have attracted some of the largest reseller
+channels in North America to use our platform.	Developers will work on all
+aspects of the platform including new features and enhancements, code
+transitioning, integration with other systems, and more.
+
+We seek Perl developers to build out our next stage of integrating with
+partners which will enable us to reach many more people. 
+
+- telecommute, work from home or your own office
+
+- contract position, flexible hours
+
+- Amazon EC2 development server available with all needed libraries
+installed
+
+- original programmer available to answer your questions about the existing
+code base and how to implement project requirements 
+
+The work is organized as a series of small projects.  Each programmer is
+responsible for doing their project from beginning to end: starting with
+understanding what iTeam needs, and going all the way through assessing the
+current code, implementation, integration, reviewing the implementation
+with iTeam to see if any tweaks need to be made, testing, to delivering
+working code. 
+
+Required skills:
+Perl (including object oriented Perl development)
+ MySQL
+ HTML, CSS, XML
+ web application development (whether in Perl or some other language)
+ experience getting two different systems to talk to each other (could be
+web services or some other technology) 
+ debugging and problem solving
+ basic Linux (login using ssh, running programs on the command line)
+
+
+Desired skills:
+This is for you if you:
+
+- are in the mood to crank out some code
+- can look at existing code (some of it really terrible legacy code) and
+figure out what is going on
+- see an existing application and say "ok, there are the five paths the
+user can take through this system, so here are all the things that are
+going to need to be tested before and after making my change" 
+- are good at asking questions about iTeam's needs and how things work (or
+currently aren't working) in the existing code base
+
+
+URL for more information: http://www.iteam.com/
+
+Contact information at:
+http://jobs.perl.org/job/7970#contact
+
+

@@ -1,0 +1,89 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12772
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 14134 invoked from network); 28 Sep 2012 17:49:51 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 28 Sep 2012 17:49:51 -0000
+Received: (qmail 16930 invoked by uid 225); 28 Sep 2012 17:49:51 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 16926 invoked by alias); 28 Sep 2012 17:49:51 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 28 Sep 2012 10:49:48 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 63B802AFE0; Fri, 28 Sep 2012 10:49:45 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 28 Sep 2012 10:49:45 -0700
+Message-ID: <20120928174945.63B802AFE0@x3.develooper.com>
+Subject: Sr. Unix Service Engineer (onsite), Sunnyvale, CA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16514
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 28, 2012
+
+Job title: Sr. Unix Service Engineer
+
+Company name: Yahoo!
+
+Location: Sunnyvale, CA
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Contribute to the day to day operations of the Systems Infrastructure team.
+Operate and improve the infrastructure service by implementing monitoring,
+automation, redundancy and business-continuity planning.
+
+- Work with the Dev teams to ensure high priority issues are reported,
+triaged and resolved quickly and correctly. 
+
+- Take project requirements and map them to detailed task lists and to
+highly available hardware and software configurations with minimal
+managerial oversight.
+
+ - Maintain distributed systems and software configurations, perform
+releases, debugging and troubleshooting tasks, implement and improve
+monitoring and develop run books.
+
+Required skills:
+- At least six years of Unix systems admin experience in a large production
+Unix environment, RedHat preferred.
+- Solid network experience working with TCP/IP, VLAN's, routing, etc. 
+Exposure to firewalls, DNS and or load balancers would be ideal.
+-Some practical experience in implementing, operating and troubleshooting
+the following:
+ - Hypervisor configuration (KVM, XenServer, etc) 
+ - Strong Perl and/or Python (required)
+ - MySQL
+ - Bash
+ - Monitoring
+
+Desired skills:
+- Experience scaling services for large traffic usage.
+- Experience with Openstack, DHCP, Apache, FreeBSD, Subversion, Git
+- Motivated self-starter, who can complete work with minimal supervision.
+- Able to multi-task and remain effective under pressure.
+- Proven strong verbal and written communication, with colleagues and
+customers.
+- Experience in a role where good attention to detail was clearly
+demonstrated.
+- Willing to participate in a 24/7 on-call rotation.
+
+Contact information at:
+http://jobs.perl.org/job/16514#contact

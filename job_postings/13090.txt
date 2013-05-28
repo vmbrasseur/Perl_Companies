@@ -1,0 +1,83 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13090
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 31554 invoked from network); 28 Jan 2013 06:05:06 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 28 Jan 2013 06:05:06 -0000
+Received: (qmail 26309 invoked by uid 225); 28 Jan 2013 06:05:05 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 26305 invoked by alias); 28 Jan 2013 06:05:05 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 27 Jan 2013 22:05:02 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 1CFD62AFE0; Sun, 27 Jan 2013 22:04:58 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sun, 27 Jan 2013 22:04:58 -0800
+Message-ID: <20130128060459.1CFD62AFE0@x3.develooper.com>
+Subject: Software Engineer (onsite), Paris, France
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16939
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 27, 2013
+
+Job title: Software Engineer
+
+Company name: Weborama
+
+Location: Paris, France
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+As a developer you are a strong element in the team. You will be in charge
+of the following roles:
+
+Design and build hosted back-end applications.
+Be part of all phases in a project, from scope and functional requirements
+definition to solution deployment (design, implementation, testing and
+documentation).
+Follwing up technical evolutions and be part of new concept validations.
+Contribute to the conception of new methods for storing, handling and
+computing Big Data in highly scalable environment with high-performance
+constraints.
+
+Required skills:
+You have at least 3 years of experience in software engineering in a open
+source environement.
+You're familiar with SQL, and fluent with Perl.
+
+You have good knowledge of the object-oriented programming principles and
+you care about code quality (unit testing, continuous integration and
+coding guildelines).
+
+Desired skills:
+Mastering the Perl language and all the "Modern Perl" principles is a plus,
+but is not required for applying to this position.
+
+You have a good understanding of the HTTP protocol and how a browser
+communicate with a website.
+You know how to work daily with a distributed versioning system (preferably
+Git).
+Knowledge of NoSQL data storage engines is a plus (Redis, Riak, MongoDB).
+
+Website for more information: http://www.weborama.com
+
+Contact information at:
+http://jobs.perl.org/job/16939#contact

@@ -1,0 +1,135 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13371
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 23982 invoked from network); 3 May 2013 19:54:39 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 3 May 2013 19:54:39 -0000
+Received: (qmail 18853 invoked by uid 225); 3 May 2013 19:54:38 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 18849 invoked by alias); 3 May 2013 19:54:37 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 03 May 2013 12:54:29 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 9F5982AFE0; Fri,  3 May 2013 12:54:25 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 3 May 2013 12:54:25 -0700
+Message-ID: <20130503195425.9F5982AFE0@x3.develooper.com>
+Subject: Senior QA Engineer at a small, profitable web services company
+ (telecommute) (telecommute)
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17331
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May  3, 2013
+
+Job title:
+Senior QA Engineer at a small, profitable web services company
+(telecommute)
+
+Company name: MaxMind, Inc.
+
+Pay rate: $100-140k annually
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+MaxMind (www.maxmind.com) is looking for a tester/developer to help us
+ensure the quality of our releases. MaxMind offers web services and
+downloadable databases focused on IP intelligence and fraud detection. We
+are planning new projects as well as improvements to our existing services.
+
+
+Your job will be to work with developers and product management to test
+changes to existing products, as well as test new products to ensure they
+behave as expected. You will also liaise with our support team so that you
+are aware of problems being reported by users. You will work with
+developers to triage these bug reports and make sure they are fixed in
+future releases.
+
+Things that need testing at MaxMind include our website, our web services,
+our downloadable databases, client APIs, and more. Your job is to break
+them all and then help us rebuild them.
+
+We're looking for a detail-oriented person with strong development and
+communication skills. Whenever possible, we expect you to automate tests
+using tools like Selenium, Jenkins, virtual machines, etc. When manual
+testing is needed, you will need to document your test plans for future
+use. We have made great progress in writing unit tests for new and old
+work, but we would greatly benefit from improved functional testing.
+
+We're a small, privately held company (under 20 employees) founded in 2002,
+and we've been profitable for many years. As an employee of MaxMind, you'll
+enjoy the flexibility and autonomy that come with being a member of a small
+technical team. Since we are profitable, our focus is on exploring new
+ideas and doing things well, rather than rushing work to market. We're a
+casual, friendly, results-focused company. We want you to get things done,
+but it's also important to have a life outside the office. We won't be
+asking you to stay late or pull all-nighters on crazy deadlines.
+
+Transaction fraud detection is a constantly changing field, and our work is
+never done. Fraudsters are always looking for new ways to evade detection,
+which means we're always looking for new ways to detect them. Our fraud
+detection service, minFraud, builds on top of our widely used GeoIP
+product, which associates geographical data with individual IP addresses.
+We screen half a billion online transactions each year and provide IP
+intelligence data to thousands of companies worldwide.
+
+Our office is located in downtown Waltham, MA outside of Boston, five
+minutes walk from the nearest commuter rail line and several express bus
+lines. However, our development team is scattered around two continents, so
+telecommuting is fine.
+
+The vast bulk of our code base is written in Perl using MySQL (but moving
+to Postgres) and Linux, with a bit of C where it's needed. We use free
+software as much as possible, and we release code back to the community
+when we can do so. We're trying to improve the way we do development, and
+we expect you to participate in that process. We are working to add more
+tests and documentation to our code base, and all new work goes through
+code review.
+
+This position is for an experienced developer with a solid QA background.
+The salary range for this position is from $100-140k per year.
+
+Minimum Qualifications:
+
+* Experience writing tests based on user requirements.
+* Experience with testing tools such as Jenkins, Selenium, etc.
+* Ability to communicate clearly with end users to interpret bug reports
+and document them for developers.
+* Dynamic language programming experience. We use Perl but we're happy to
+hear from Javascript, PHP, Python, or Ruby developers as well.
+* Understanding of SQL databases (MySQL and Postgres, specifically)
+* Experience developing on a Linux or BSD platform.
+* Experience with version control, preferably Git.
+* Excellent written and spoken communication skills.
+* The ability to work with a geographically dispersed team.
+
+Bonus skills:
+
+* Performance testing/benchmarking experience.
+* FS/OSS contributions. Tell us about them!
+
+To apply, please email your resume to qa-engineer-job@maxmind.com as an
+attachment or link in PDF, HTML, or plain text format. Resumes in other
+formats will not be considered.
+
+Website for more information: http://www.maxmind.com
+
+Contact information at:
+http://jobs.perl.org/job/17331#contact

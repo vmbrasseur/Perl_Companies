@@ -1,0 +1,79 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:1959
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 22993 invoked from network); 5 Oct 2004 18:25:42 -0000
+Received: from x1.develooper.com (63.251.223.170)
+  by lists.develooper.com with SMTP; 5 Oct 2004 18:25:42 -0000
+Received: (qmail 4643 invoked by uid 225); 5 Oct 2004 18:25:42 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 4629 invoked by alias); 5 Oct 2004 18:25:41 -0000
+X-Spam-Status: No, hits=-4.9 required=8.0
+	tests=BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.dev) (63.251.223.163)
+  by la.mx.develooper.com (qpsmtpd/0.27.1) with ESMTP; Tue, 05 Oct 2004 11:25:39 -0700
+Received: from x3.dev (localhost.localdomain [127.0.0.1])
+	by x3.dev (8.12.11/8.12.11) with ESMTP id i95IPaXE019741
+	for <jobs@perl.org>; Tue, 5 Oct 2004 11:25:36 -0700
+Received: (from jobs@localhost)
+	by x3.dev (8.12.11/8.12.11/Submit) id i95IPaj1019739;
+	Tue, 5 Oct 2004 11:25:36 -0700
+Date: Tue, 5 Oct 2004 11:25:36 -0700
+Message-ID: <200410051825.i95IPaj1019739@x3.dev>
+X-Authentication-Warning: x3.dev: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Perl/Mason developer for custom calendar site (telecommute), doesn't matter, doesn't matter, doesn't matter
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1853
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October  5, 2004
+
+Job title:
+Perl/Mason developer for custom calendar site
+
+Company name: Premier
+
+Location:
+doesn't matter, doesn't matter, doesn't matter
+
+Pay rate: $2500
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Onsite: no
+
+Description:
+We're building a site where someone can come and create a custom calendar.
+They'll upload photos, enter text, and we'll take that and create a printed
+calendar.
+
+We have the HTML/graphics, we use Mason, we're busy. I need somebody with
+extensive Mason experience to come in and build the site, the database, and
+POSSIBLY some of the code to allow people to edit their photos like
+Shutterfly does, using ImageMagick on the backend.
+
+Required skills:
+Perl
+Mason
+MySQL or PostgreSQL
+
+URL for more information: http://www.premier.us/
+
+Contact information:
+John Koetsier
+jkoetsier@premieragendas.com
+AIM: technophiliac
+604-857-1707
+
+

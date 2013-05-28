@@ -1,0 +1,84 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7373
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 18945 invoked from network); 4 Dec 2007 18:32:39 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 4 Dec 2007 18:32:39 -0000
+Received: (qmail 28740 invoked by uid 225); 4 Dec 2007 18:32:39 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 28733 invoked by alias); 4 Dec 2007 18:32:38 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 04 Dec 2007 10:31:58 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 421122AFE4; Tue,  4 Dec 2007 10:31:55 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20071204183155.421122AFE4@x3.develooper.com>
+Date: Tue,  4 Dec 2007 10:31:55 -0800 (PST)
+Subject: Sr. Web Applications Developer -- Perl, MySQL, Apache, Linux (onsite), United States, DC, Washington
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5505
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December  4, 2007
+
+Job title:
+Sr. Web Applications Developer -- Perl, MySQL, Apache, Linux
+
+Company name: Liquidity Services, Inc.
+
+Location: United States, DC, Washington
+
+Pay rate: 70-85K USD
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Liquidity Services, Inc. is looking for an experienced developer to join
+our team.  Applicant will be working independently or as part of a team on
+various projects, and take care of all aspects of the software development
+life cycle from specification gathering, design, business process analysis,
+and implementation, to quality assurance, documentation, and ongoing
+support & maintenance.	We primarily use Perl, MySQL, Apache, and Linux. 
+Candidate must be a United States citizen or permanent resident.
+
+Required skills:
+* Expert: Perl, RDBMS (MySQL preferred), DBI module, CGI scripting
+* Intermediate: Apache, Linux, Javascript
+* Understanding of software development best practices -- Modules, Don't
+Repeat Yourself, Maintainable code
+* Ability to write scalable, high performance code, with efficient
+utilization of server resources
+* Strong communication skills
+* Experience working in a team environment
+
+
+Desired skills:
+* mod_perl, CVS, HTML, CSS, DHTML, Ajax
+* Core/CPAN modules: Template Toolkit, DBIx::Class, List::Util,
+List::MoreUtils, DateTime
+* Object oriented programming (preferably with perl)
+* Other languages a plus (Java, PHP, Ruby, Python) 
+
+URL for more information: http://liquidityservicesinc.com/
+
+Contact information at:
+http://jobs.perl.org/job/5505#contact
+
+

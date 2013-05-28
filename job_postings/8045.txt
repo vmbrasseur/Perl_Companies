@@ -1,0 +1,87 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8045
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 1228 invoked from network); 26 Apr 2008 16:49:29 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 26 Apr 2008 16:49:29 -0000
+Received: (qmail 23428 invoked by uid 225); 26 Apr 2008 16:49:29 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 23417 invoked by alias); 26 Apr 2008 16:49:29 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 26 Apr 2008 09:49:25 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 997792AFEF; Sat, 26 Apr 2008 09:49:21 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080426164921.997792AFEF@x3.develooper.com>
+Date: Sat, 26 Apr 2008 09:49:21 -0700 (PDT)
+Subject: Software Engineer/Perl Programmer, CA, San Jose
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8536
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 25, 2008
+
+Job title: Software Engineer/Perl Programmer
+
+Company name: KnowledgePlex Inc.
+
+Location: CA, San Jose
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Length of employment: Permanent
+
+Hours: Full time
+
+Description:
+KnowledgePlex, Inc. is seeking experienced Perl programmers for front-end
+(web) and back-end (systems) development of multiple co-brandable web
+products.
+
+We are a small non-profit, located in San Jose, CA, with a growing
+engineering team, tackling challenges such as web scraping, news
+aggregation, automated semantic analysis and classification, multi-sourced
+data assimilation and warehousing, geospatial analysis, real-time
+multi-layer mapping, and statistics.
+
+We prefer developers who are comfortable with Unix-like operating systems,
+revision control systems (Subversion), bug/task ticketing systems (Trac),
+Model-View-Controller (MVC) design patterns, agile development methods, and
+short release cycles.
+
+Required skills:
+ * Experience with Perl, HTML, CSS, and JavaScript required.
+ * Affinity for embracing and exploiting open-source projects to reduce
+development time imperative.
+ * Experience with SQL (MySQL, PostgreSQL) and Perl DBI.
+
+
+Desired skills:
+* Experience with co-branding and templating.
+ * Familiarity with HTML::Mason, Catalyst, Class::DBI, and/or
+Rose::DB::Object a big plus.
+ * Familiarity with prototype.js also a plus.
+ * Familiarity with web performance optimization and caching strategies
+also useful.
+ * Basic image editing skills and design sense also useful.
+
+
+URL for more information: http://www.dataplace.org/
+
+Contact information at:
+http://jobs.perl.org/job/8536#contact
+
+

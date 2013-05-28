@@ -1,0 +1,93 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12344
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8260 invoked from network); 19 Apr 2012 00:34:21 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 19 Apr 2012 00:34:21 -0000
+Received: (qmail 6536 invoked by uid 225); 19 Apr 2012 00:34:20 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 6532 invoked by alias); 19 Apr 2012 00:34:20 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 18 Apr 2012 17:34:14 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 061752AFDD; Wed, 18 Apr 2012 17:34:10 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 18 Apr 2012 17:34:10 -0700
+Message-ID: <20120419003411.061752AFDD@x3.develooper.com>
+Subject: Web miner for consumer protection site (telecommute), Sydney NSW,
+ Australia
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15870
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 18, 2012
+
+Job title: Web miner for consumer protection site
+
+Company name: Rapid Intelligence
+
+Internal ID: RI0017
+
+Location: Sydney NSW, Australia
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+Web scraper/miner for consumer protection site.
+
+We want you. But you are a Perl/Python developer who can and wants to
+scrape the web to make it a better place. You will be managed by a fellow
+Perl/Python developer.
+
+Requirements
+
+
+About the company
+
+We want to help consumers find websites that they can trust by using
+sophisticated web mining technologies. We have developed some machine
+learning around this.
+
+To see our previous sites, check out http://www.rapint.com 
+ . Our new site will be http://verify1st.com
+
+Contact Info:
+
+Contact: Luke Metcalfe, Tech Lead
+E-mail contact: 
+Telecommuting OK
+
+Required skills:
+* Good communication skills in English
+* Pragmatic approach, preferably with some experience with agile/lean
+methodologies
+* Experience dealing with large volume datasets (millions of
+records/documents and many gbs)
+* Experience with big data, preferably with MongoDB
+* Preferably, experience with automated testing
+* ... and Perl of course
+
+Desired skills:
+* ... Oh, and Django won't hurt you either, because we're looking for a
+Django dev too.
+
+Website for more information: http://www.rapint.com
+
+Contact information at:
+http://jobs.perl.org/job/15870#contact

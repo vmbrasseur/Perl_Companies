@@ -1,0 +1,116 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13099
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13419 invoked from network); 29 Jan 2013 05:41:35 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 29 Jan 2013 05:41:35 -0000
+Received: (qmail 23522 invoked by uid 225); 29 Jan 2013 05:41:34 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 23517 invoked by alias); 29 Jan 2013 05:41:34 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 28 Jan 2013 21:41:31 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 207562AFE0; Mon, 28 Jan 2013 21:41:27 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 28 Jan 2013 21:41:27 -0800
+Message-ID: <20130129054128.207562AFE0@x3.develooper.com>
+Subject: Software Engineer (onsite), Minneapolis, MN, United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16945
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 28, 2013
+
+Job title: Software Engineer
+
+Company name: DR MyCommerce
+
+Location: Minneapolis, MN, United States
+
+Pay rate: DOE
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are looking for a junior to mid-level Software Engineer.
+
+We're part of a publicly traded company with more than 1400 employees
+located just outside of Minneapolis. Our group is a smaller subset called
+MyCommerce, focused on small and medium businesses, with an agile and fast
+paced development process. As a part of this larger organization, we can
+offer perks such as an on-site fitness center, full service cafeteria,
+parking, casual dress, tuition reimbursement, employee referral program,
+domestic partner benefits, a 401k plan, employee stock purchase program,
+medical/dental/vision/life insurance, PTO, and paid holidays.
+
+As a member of the development team for an e-commerce web application, you
+will design, code, and unit test new features and modifications. As a
+software engineer, you must be willing to help define technical
+requirements based on business needs while implementing solutions. You will
+be expected to implement projects in a timely manner, in conformance with
+coding standards and in compliance with defined specifications. You should
+be able to consistently follow existing patterns and implement new ones
+when appropriate.
+
+We're looking for someone with some reasonable Perl experience, but we
+aren't looking for a language loyalist. We have a team of developers with
+widely different backgrounds and language knowledge, and we're willing to
+try new things as long as they work, they're robust, and they're scalable.
+The core platform is written in Modern Perl (Catalyst, Moose, DBIx::Class,
+and more), but new services could be built in different languages, and we'd
+like you to be open to it.
+
+Responsibilities:
+
+ - Design, code, and unit test new features and modifications
+ - Implement projects in a timely manner in conformance with coding
+standards and in compliance with defined specifications
+ - Triage, refactor, and troubleshoot issues found within the codebase
+ - Communicate effectively in a fast paced work environment
+ - Develop robust, reliable, well-tested software
+
+Required skills:
+- B.S. in Computer Science or equivalent experience
+ - 3+ years software development experience
+ - 2+ years object oriented analysis and design
+ - 2+ years programming experience in Perl
+ - 1+ years programming experience in another object oriented language,
+such as Java, C#, Python, or Ruby
+ - 2+ years SQL experience, Oracle preferred
+ - 2+ years developing in a Unix/Linux environment
+ - 1+ years experience in ORM or persistence frameworks such as
+DBIx::Class, Hibernate, or ActiveRecord
+ - 1+ years experience in Catalyst, Mojolicious, or another major MVC web
+framework
+ - 1+ years experience in Git or another version control system
+ - Experience with HTML, JavaScript, JQuery, and CSS
+ - Experience with AJAX, JSON, and API interaction
+ - Experience building web applications in an object oriented development
+environment
+
+ - Excellent written and verbal skills
+ - Comfort with a fast paced environment
+ - Proven record in delivering results in complex development projects
+ - Ability to translate business requirements into a technical design that
+can be understood and implemented by a cross functional team
+ - Can take several assignments at the same time and manage development
+activities according to priorities and schedules
+
+Contact information at:
+http://jobs.perl.org/job/16945#contact

@@ -1,0 +1,93 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5878
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 25194 invoked from network); 7 Mar 2007 17:22:54 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 7 Mar 2007 17:22:54 -0000
+Received: (qmail 18756 invoked by uid 225); 7 Mar 2007 17:22:54 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 18751 invoked by alias); 7 Mar 2007 17:22:53 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,DK_POLICY_SIGNSOME
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 07 Mar 2007 09:22:46 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 74C162B03F; Wed,  7 Mar 2007 09:22:43 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20070307172243.74C162B03F@x3.develooper.com>
+Date: Wed,  7 Mar 2007 09:22:43 -0800 (PST)
+Subject: Perl Web Developer for Stock Photography Website (onsite), United States, NY, New York
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4096
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March  7, 2007
+
+Job title:
+Perl Web Developer for Stock Photography Website
+
+Company name: Shutterstock
+
+Internal ID: coder
+
+Location: United States, NY, New York
+
+Pay rate: depending on experience
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Shutterstock.com is looking for a Perl/Mason web developer to join our
+development team.  We're a small, fun, and casual company with a startup
+culture.  We're looking for a range of talent, from Perl gurus to Perl
+newbies.  Regardless of your experience, you should have a keen interest in
+and enthusiasm for high-traffic web sites and all the excitement they
+offer: optimization, load balancing, redundancy, failover, tiered
+architectures, etc.  In addition to Perl coding, you'll get lots of
+experience learning about high availability systems, dealing with database
+replication, and administering machines in a server rack.  If applying,
+please be local to the New York area.
+
+
+Required skills:
+At least 2 years experience with: 
+
+* Perl 
+* HTML / CSS / Javascript 
+* MySQL
+
+Desired skills:
+* HTML::Mason
+* AJAX
+* layout / design 
+* ImageMagick (and PerlMagick)
+* other languages (php, bash, C, etc.) 
+* mod_perl / Apache 
+* video editing
+* network filesystems
+* MySQL replication and optimization
+* Linux system administration
+* basic hardware installation (installing memory, hard disks, etc)
+
+URL for more information: http://www.shutterstock.com/
+
+Contact information at:
+http://jobs.perl.org/job/4096#contact
+
+

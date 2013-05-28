@@ -1,0 +1,82 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12118
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 16803 invoked from network); 10 Feb 2012 22:58:44 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 10 Feb 2012 22:58:44 -0000
+Received: (qmail 21067 invoked by uid 225); 10 Feb 2012 22:58:43 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 21063 invoked by alias); 10 Feb 2012 22:58:43 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 10 Feb 2012 14:58:41 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 214DE2AFE1; Fri, 10 Feb 2012 14:58:38 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 10 Feb 2012 14:58:38 -0800
+Message-ID: <20120210225838.214DE2AFE1@x3.develooper.com>
+Subject: Perl Developer (onsite), Indianapolis, IN
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15528
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 10, 2012
+
+Job title: Perl Developer
+
+Internal ID: PERLDEV
+
+Location: Indianapolis, IN
+
+Pay rate: 70k-80k plus excellent benefits
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Creating and maintaining Perl web apps.
+Indianapolis area only, not telecommute-friendly.
+
+For the "MUST HAVES" below, please submit a
+well-commented code sample; does not need to be
+fancy or overly-complex.
+
+For the "NICE TO HAVES" below, if you have any,
+please abide same terms as comment for "MUST HAVES".
+
+For more information, please reply by email
+with any samples and your resume.
+
+Please put PERLDEV in the subject line.
+
+Required skills:
+MUST HAVES
+* Perl (OO would be nice)
+* MySQL (DBI)
+* Javascript (jQuery would be nice)
+* CSS
+* HTML (HTML::Template, CGI)
+* Troubleshooting Ability
+* CVS or SVN or git
+
+Desired skills:
+NICE TO HAVES
+* MS SQL
+* Perl MVC experience
+
+Contact information at:
+http://jobs.perl.org/job/15528#contact

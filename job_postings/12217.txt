@@ -1,0 +1,127 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12217
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 12280 invoked from network); 8 Mar 2012 16:43:25 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 8 Mar 2012 16:43:25 -0000
+Received: (qmail 31004 invoked by uid 225); 8 Mar 2012 16:43:25 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 31000 invoked by alias); 8 Mar 2012 16:43:25 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 08 Mar 2012 08:43:22 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id CF3392AFE9; Thu,  8 Mar 2012 08:43:18 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 8 Mar 2012 08:43:18 -0800
+Message-ID: <20120308164318.CF3392AFE9@x3.develooper.com>
+Subject: Web Application Developer (onsite), New York, NY
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15668
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March  8, 2012
+
+Job title: Web Application Developer
+
+Company name: Magnify
+
+Location: New York, NY
+
+Pay rate:
+Commensurate with experience + Benefits + Stock Options
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Magnify.net is looking for a Junior Developer to to join our technical
+team.  The Junior Developer will build new product features as well as
+maintain existing software and provide technical assistance to customers
+integrating with the Magnify platform.  As part of our team you will have
+the opportunity to work on a high performance, highly available, highly
+visible SaaS platform and gain critical experience developing and
+maintaining software deployed in a multi-server, multi-platform
+environment. The ideal candidate will have experience with the Perl
+programming language, the LAMP environment as well as exposure to Java and
+distributed computing technologies such as web services, message queues and
+data grids.
+
+
+Responsibilities
+
+-Working with the technical team to design, develop and maintain a highly
+available web-based application platform built using Perl, MySQL and Java
+in a Linux environment
+-Developing, maintaining and monitoring custom-built technical solutions
+that facilitate customer integration with our platform
+- Integrating third-party data sources with the Magnify platform and
+helping to monitor and maintain those integrations
+- Aiding the technical team in fixing bugs and participating in the QA
+process for new feature deployments
+- Communicating with the customer service team regarding bugs, project
+timelines and deliverables and customer implementation tasks
+
+Company Description: Magnify.net is a video publishing platform that makes
+it easy for you to integrate user-generated video, video that you produce,
+or video that you discover into your website. Growing at 100% per year, and
+working with clients such as Patagonia, New York Magazine, Bonnier, Readers
+Digest, and General Electric, Magnify is a great place to accelerate your
+career.
+
+Location: This position is located in Manhattan and is not eligible for
+relocation or working remotely. 
+
+Timeframe: Magnify is open to candidates available to start immediately, as
+well as upon graduation from an undergraduate or graduate study program in
+computer science.
+
+Eligibility: Magnify does not sponsor Visas. Must be eligible to work in
+the United States.
+
+Compensation: Commensurate with experience + Benefits + Stock Options
+
+TO APPLY: PLEASE SEND A COPY OF YOUR RESUME TO Techjobs@Magnify.net
+
+Required skills:
+Qualifications
+
+- The minimum of a Bachelors degree in Computer Science or a related field
+or demonstrated relevant technical experience is required
+- Experience working in a LAMP environment is required
+- Experience writing Perl in a web application environment is required
+- Experience with SQL is required
+-Experience working with version control systems such as Subversion or GIT
+is required
+-Experience working in a Linux environment using the command line is
+required, some experience with Linux system administration is strongly
+preferred
+- Exposure to data caching technologies like memcached or EHCache is
+preferred
+- Exposure to HTTP caching technologies like Varnish or Squid is preferred
+- Exposure to Java is preferred
+- Exposure to distributed computing technologies, such as web services,
+message queues and data grids is highly desirable
+- Exposure to Amazon Web Services like EC2 and S3 is desirable
+- A working knowledge of basic HTML, CSS, JavaScript, AJAX and JSON is
+desirable
+-Excellent written and verbal communication skills
+-The ability and desire to work in a very fast paced team environment and
+adhere to both internal and external deadlines
+
+Website for more information: http://www.magnify.net
+
+Contact information at:
+http://jobs.perl.org/job/15668#contact

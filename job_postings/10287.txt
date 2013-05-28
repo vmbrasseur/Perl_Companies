@@ -1,0 +1,93 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10287
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 16092 invoked from network); 6 Jul 2010 10:22:58 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 6 Jul 2010 10:22:58 -0000
+Received: (qmail 5792 invoked by uid 225); 6 Jul 2010 10:22:41 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 21515 invoked by alias); 4 Jul 2010 23:26:53 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS,T_FRT_PROFILE2
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 04 Jul 2010 16:26:51 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 495532AFE1; Sun,  4 Jul 2010 16:26:47 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20100704232648.495532AFE1@x3.develooper.com>
+Date: Sun,  4 Jul 2010 16:26:47 -0700 (PDT)
+Subject: Senior Perl Developer (onsite), United States, FL, Lake Mary
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/12478
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July  3, 2010
+
+Job title: Senior Perl Developer
+
+Company name: DataRockit!
+
+Location: United States, FL, Lake Mary
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Maintain and enhance XML gateway to various underlying data stores. 
+Create, maintain and enhance API access to XML gateway. 
+
+Maintain and enhance batch ETL processes in multi server environment
+
+
+Required skills:
+Must be proficient in Perl under Apache mod_perl
+
+Must have 2+ years of experience with XML
+
+Must be able to work on site in Lake Mary, FL
+
+Experience working with datasets in excess of 100G
+
+3+ years of experience with Perl
+
+Linux shell scripting proficiency
+
+Experience with batching processes across multiple servers
+
+Must have 4+ years experience with Perl
+
+Desired skills:
+Previous experience with SOLR or Lucene 
+
+Experience with VMWare virtual servers.
+
+Java programming experience
+
+Familiarity with revision control systems, git specifically a plus
+
+MySQL experience
+
+Understanding of memory and resource consumption when working with millions
+or billions records
+
+Experience with geocoding
+
+
+Contact information at:
+http://jobs.perl.org/job/12478#contact
+
+

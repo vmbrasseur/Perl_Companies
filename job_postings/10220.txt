@@ -1,0 +1,125 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10220
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 25864 invoked from network); 14 Jun 2010 20:30:34 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 14 Jun 2010 20:30:34 -0000
+Received: (qmail 19497 invoked by uid 225); 14 Jun 2010 20:30:34 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 19493 invoked by alias); 14 Jun 2010 20:30:34 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 14 Jun 2010 13:30:32 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 11CE22AFDE; Mon, 14 Jun 2010 13:30:29 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20100614203029.11CE22AFDE@x3.develooper.com>
+Date: Mon, 14 Jun 2010 13:30:29 -0700 (PDT)
+Subject: Perl Developer (mid-level) (onsite), United States, California, San Francisco
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/12364
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June  7, 2010
+
+Job title: Perl Developer (mid-level)
+
+Company name: Apex Systems Inc
+
+Internal ID: PERL
+
+Location: United States, California, San Francisco
+
+Travel: 0%
+
+Terms of employment: Hourly employee
+
+Length of employment: 1 year
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Description:  4 year degree and 5+ years experience or equivalent
+combination of education and experience. Description: Provides technical
+consultation and support in the development of computer applications and
+programs. Analyzes business requirements, designs and writes technical
+specifications to design or redesign computer solutions. Develops original
+and/or complex code or provides coding guidance to less experienced staff.
+Leads and/or performs modeling, simulations and analysis efforts. Verifies
+program logic by overseeing the preparation of test data, testing and
+debugging of programs. Participates in overall systems testing. Leads the
+migration of applications to production. Develops new documentation,
+participates in the development of department technical procedures and
+designs user guides. As an escalation point for application support and
+troubleshooting, provides guidance and direction to less experienced staff
+in resolution of escalated issues and/or complex production, application or
+system problems. Leads projects, including assignment of tasks, and
+provides direction and guidance to less experienced staff. Assures quality,
+security and compliance requirements are met for supported area and
+oversees updating and testing of the business continuation plan. 
+
+Code LAMP stack application from requirements. User interface using JAVA
+script. Perl experience key. MySQL experience important. Javascript
+important. Supplementing a small team for several release in second half of
+2010 for physical access control project. 
+
+The application under development supports the connection between requests
+for access  (a web portal for access and smart-badge requests) to a
+database of facility and person information, to several  individual
+proprietary access control systems through file interfaces and
+web-services.
+
+-	   The application runs on Linux VMs.
+
+-	   The application interfaces with several up-stream and downstream
+data sources and work-flow systems.
+
+-	   This is a LAMP environment and NOT a windows environment
+
+-	   The application is written in PERL, on a MySQL database, with
+Javascript for the user interface.
+
+-	   BRD and FSD are well laid out, though there is constant team
+dialog to question and confirm technical details.
+
+-	   The development team is now a designer/coder, and two other
+developers. The team will expand by one with this opening.
+
+-	   We anticipate 2 more application releases in 2010 (end of q3,
+end of q4)
+
+-	   If effective, this candidate will be considered for extension
+into 2011
+
+-	   No particular information security or cryptographic background
+is required.
+
+-	   Recent and substantial Javascript / Perl experience is a key
+selection factor, and the most important success criteria for this
+position. 
+
+-	   System design experience, and other architectural experience may
+be impediments. Recent and substantial Perl and Javascript experience are
+key drivers. 
+
+
+Required skills:
+Platform and Skill Set Expertise: 
+Web Development : Perl, Apache, MySQL, Javascript 
+
+Contact information at:
+http://jobs.perl.org/job/12364#contact
+
+

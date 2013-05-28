@@ -1,0 +1,74 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:1406
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 45317 invoked by uid 76); 12 Mar 2004 05:13:24 -0000
+Received: from x1.develooper.com (HELO x1.develooper.com) (63.251.223.170)
+  by onion.perl.org (qpsmtpd/0.27.1) with SMTP; Thu, 11 Mar 2004 21:13:24 -0800
+Received: (qmail 26716 invoked by uid 225); 12 Mar 2004 05:13:20 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 26625 invoked by alias); 12 Mar 2004 05:13:04 -0000
+Received: from [63.251.223.166] (HELO onion.perl.org) (63.251.223.166)
+  by la.mx.develooper.com (qpsmtpd/0.27.1) with SMTP; Thu, 11 Mar 2004 21:13:04 -0800
+Received: (qmail 45202 invoked by uid 1016); 12 Mar 2004 05:13:02 -0000
+Date: 12 Mar 2004 05:13:02 -0000
+Message-ID: <20040312051302.45201.qmail@onion.perl.org>
+To: jobs@perl.org
+X-Spam-Checker-Version: SpamAssassin 2.63 (2004-01-11) on x1.develooper.com
+X-Spam-Status: No, hits=-4.9 required=8.0 tests=BAYES_00 autolearn=ham 
+	version=2.63
+Subject: Bots and regular expressions (telecommute), Australia, Not onsite
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1302
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 11, 2004
+
+Job title: Bots and regular expressions
+
+Company name: Rapid Intelligence
+
+Internal ID: PERL03
+
+Location: Australia, Not onsite
+
+Pay rate: neg based on speed
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: indefinite
+
+Hours: Part time
+
+Onsite: no
+
+Description:
+Convert data from various HTML formats to a standard  format for
+importation to database. Interesting and varied datasets. 
+
+Required skills:
+* Advanced regular expressions
+* Advanced Perl
+* Some experience with bots
+* Good English
+
+Desired skills:
+These are not essential, but your role will be larger if you have these
+characteristics: 
+
+* University degree 
+* Good general knowledge
+* High level of literacy in English. 
+
+Contact information:
+'jobseekersrapint.com' =~ s/sr/s\@r/; 
+
+
+

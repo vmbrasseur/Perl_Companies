@@ -1,0 +1,100 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9880
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 10913 invoked from network); 20 Feb 2010 17:44:14 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 20 Feb 2010 17:44:14 -0000
+Received: (qmail 2533 invoked by uid 225); 20 Feb 2010 17:44:13 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 2175 invoked by alias); 20 Feb 2010 17:44:04 -0000
+X-Spam-Status: No, hits=-0.0 required=8.0
+	tests=SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 20 Feb 2010 09:43:42 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 26E772AFE0; Sat, 20 Feb 2010 09:43:30 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20100220174331.26E772AFE0@x3.develooper.com>
+Date: Sat, 20 Feb 2010 09:43:30 -0800 (PST)
+Subject: Catalyst Developer for promotional download application (telecommute), United Kingdom, London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/11808
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 20, 2010
+
+Job title:
+Catalyst Developer for promotional download application
+
+Company name: Southern Records
+
+Location: United Kingdom, London
+
+Pay rate:
+To be decided once we've discussed the spec
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: 1 month
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+We're looking for someone to help us develop a standalone Catalyst
+application that will allow us to share digital promotional releases with
+our customers and the press. The application should have the following
+features, unless you'd like to take a stab at convincing me that any of
+them are stupid:
+
+Core features:
+
+- Download code-based. The release is distributed by the user entering a
+code into a form.
+
+- Secure. We have a working prototype using standard Apache authentication
+modules.
+
+- CMS integration via REST
+
+- File uploader. We need to upload the promos.
+
+- Code generator. We need to generate/export codes for the promos.
+
+There are a number of other features I'd like to discuss with the
+developer. I've also got a functional specification I can show you, if
+you're interested.
+
+I'd like this to be done in modern Perl with full documentation so I can
+maintain it and add to it in future.
+
+Ideally, I would also like to meet with you, so this gives UK developers an
+advantage.
+
+Required skills:
+Perl
+Catalyst
+Moose
+DBIC
+Apache
+MySQL
+RESTful services
+
+Desired skills: Drupal "Services" module
+
+Contact information at:
+http://jobs.perl.org/job/11808#contact
+
+

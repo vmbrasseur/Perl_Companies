@@ -1,0 +1,87 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3147
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 11523 invoked from network); 30 Aug 2005 20:26:21 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 30 Aug 2005 20:26:21 -0000
+Received: (qmail 21043 invoked by uid 225); 30 Aug 2005 20:26:21 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 21034 invoked by alias); 30 Aug 2005 20:26:20 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 30 Aug 2005 13:26:17 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j7UKQDQk031599
+	for <jobs@perl.org>; Tue, 30 Aug 2005 13:26:13 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j7UKQDQ8031597;
+	Tue, 30 Aug 2005 13:26:13 -0700
+Date: Tue, 30 Aug 2005 13:26:13 -0700
+Message-ID: <200508302026.j7UKQDQ8031597@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Control panels final fixing (telecommute), Croatia, Split, Split
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3010
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 30, 2005
+
+Job title: Control panels final fixing
+
+Company name: gp333
+
+Internal ID: gp333
+
+Location: Croatia, Split, Split
+
+Pay rate: $100
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: 5 days
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+http://www.network4company.com/companynetwork/webpanel/
+user: gp777777
+pass: 30303030
+
+http://www.network4company.com/companynetwork/adminpanel/
+user: xp3000xp
+pass: 30303030
+
+Project is 99% done.. I need experienced Perl person for final
+changes/small detail fixes through whole panel..
+
+Bid has 2 parts like below:
+1) these 5 points must be implemented: http://f5web.com/job2.txt 
+2) recheck all code is work ok 
+ 
+
+Note: I prefer work with coders from Russia, India, East Europe
+
+
+Required skills:
+Perl, mod_perl, DBI, MySQL, CGI::Application, HTML::Template
+
+Contact information at:
+http://jobs.perl.org/job/3010#contact
+
+

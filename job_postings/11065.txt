@@ -1,0 +1,97 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11065
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28225 invoked from network); 4 Mar 2011 19:01:51 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 4 Mar 2011 19:01:51 -0000
+Received: (qmail 32587 invoked by uid 225); 4 Mar 2011 19:01:50 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 32583 invoked by alias); 4 Mar 2011 19:01:50 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 04 Mar 2011 11:01:48 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id EF06A2AFE1; Fri,  4 Mar 2011 11:01:44 -0800 (PST)
+To: jobs@perl.org
+Date: Fri, 4 Mar 2011 11:01:44 -0800
+Message-ID: <20110304190144.EF06A2AFE1@x3.develooper.com>
+Subject: Perl Web developer , USA , CA, San Francisco
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13042
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March  4, 2011
+
+Job title: Perl Web developer 
+
+Company name: ChannelMeter
+
+Internal ID: Emp1-dev
+
+Location: USA , CA, San Francisco
+
+Pay rate: Negotiable (USD)
+
+Terms of employment: Salaried employee
+
+Length of employment: Permanent 
+
+Hours: Full time
+
+Description:
+Are you a smart, hungry Perl web dev?	Want to be employee #1 at a funded
+startup doing YouTube analytics?  We'll give you a moderate salary, great
+equity, and a whole lot of responsibility. We'll expect brilliance,
+motivation, blood, sweat, and tears. 
+
+Preference will be given to San Francisco Bay Area residents.  We will
+consider telecommuters who are no more than 3 time zones away PROVIDED THEY
+ARE US CITIZENS / HAVE A GREEN CARD.
+
+Why take this job?  We're on the final countdown to launch, we've done no
+marketing and we've already got hundreds of customers, major corps asking
+to sign up, and videos about us popping up on YouTube. 
+
+
+Required skills:
+- Perl
+
+- US citizen or green card
+
+- Fluent written and spoken English
+
+- As stated above, preference will be given to San Francisco Bay Area
+residents.  We will consider telecommuters who are no more than 3 time
+zones away PROVIDED THEY ARE US CITIZENS / HAVE A GREEN CARD.
+
+We care more about your character and learning speed than existing skills.
+We can teach you Catalyst but not how to be smart or motivated. 
+
+Desired skills:
+Serious data management experience in MySQL, meaning:
+
+- Determining appropriate indices and caching strategies for tables with
+tens of millions of rows and >1M rows added daily 
+
+- Optimizing website performance to serve data from said database with
+sub-second response time.  
+
+- Catalyst
+
+- DBIC
+
+
+Website for more information: http://channelmeter.com/
+
+Contact information at:
+http://jobs.perl.org/job/13042#contact

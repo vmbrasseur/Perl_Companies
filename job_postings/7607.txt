@@ -1,0 +1,113 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7607
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 31777 invoked from network); 31 Jan 2008 15:09:53 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 31 Jan 2008 15:09:53 -0000
+Received: (qmail 13151 invoked by uid 225); 31 Jan 2008 15:09:53 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 13144 invoked by alias); 31 Jan 2008 15:09:52 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 31 Jan 2008 07:09:48 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id D30302AFCF; Thu, 31 Jan 2008 07:09:43 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20080131150943.D30302AFCF@x3.develooper.com>
+Date: Thu, 31 Jan 2008 07:09:43 -0800 (PST)
+Subject: Sr. Software Engineer (Object Oriented / Perl) (onsite), United States, CA, West Los Angeles
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5251
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 31, 2008
+
+Job title:
+Sr. Software Engineer (Object Oriented / Perl)
+
+Company name: Shopzilla.com (Bizrate)
+
+Internal ID: SrSWE
+
+Location: United States, CA, West Los Angeles
+
+Pay rate: DOE
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Length of employment: Full-time
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+As Senior Software Engineer (Perl) you will: 
+
+* Share responsibility and ownership of the Shopzilla.com website
+* Work closely with R&D and business analytics teams
+* Dream up and design new products and functionality
+* foreach(@day){next if /^(sat|sun)/i;goto WORK; write CODE; goto BAR if
+/^(th|fr)/i; sleep;}
+* Write code used by millions of people per day
+* Not compromise on quality
+* Work closely with other brilliant engineers on a daily basis 
+* Develop core technology, including the design/architecture of new
+solutions and the refactoring and refinement of existing systems 
+* Mentor junior members of the team 
+* Serve as key architect for many key classes, protocols, and APIs
+* Help shape the future of online shopping 
+
+With an index of over 30 million products from more than 92,000 stores,
+gathered, organized and presented using all proprietary leading-edge
+technology, Shopzilla provides consumers the best way to find virtually
+anything for sale, anywhere, and at the best price. 
+
+At Shopzilla, our goal is to build the greatest shopping service ever
+conceived by mankind. To that end, we strive very hard to hire the smartest
+people. We’re an environment where great ideas shape our vision and true
+passion drives us to the best solutions to the most challenging problems at
+the intersection of shopping and search. 
+
+Shopzilla offers great benefits including medical, dental and vision plans,
+life insurance, 401(k) plan, flexible spending account, generous vacation
+benefits -- and we even provide FREE catered lunch every single day! 
+
+Shopzilla is an Equal Opportunity Employer. 
+
+Required skills:
+* Perl/mod_perl 
+* RDBMS fundamentals
+* Proficient in Object Oriented design and development
+* Ability to formally communicate architectural designs and plans 
+* Experience working with developers and project/business owners 
+* Experience integrating open source technologies in application
+development 
+
+Desired skills:
+* Test-driven development
+* Fundamentals in design patterns 
+* Participation in Agile development environment
+* Template Toolkit experience 
+* BS in Computer Science or comparable experience 
+* Domain experience in n-tier web application development 
+* Working experience with web and networking protocols and concepts 
+
+URL for more information: http://www.shopzilla.com/
+
+Contact information at:
+http://jobs.perl.org/job/5251#contact
+
+

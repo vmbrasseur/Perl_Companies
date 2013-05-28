@@ -1,0 +1,114 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6368
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 24055 invoked from network); 30 May 2007 17:09:51 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 30 May 2007 17:09:51 -0000
+Received: (qmail 18454 invoked by uid 225); 30 May 2007 17:09:51 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 18442 invoked by alias); 30 May 2007 17:09:50 -0000
+X-Spam-Status: No, hits=0.0 required=8.0
+	tests=BAYES_50,DKIM_POLICY_SIGNSOME,DK_POLICY_SIGNSOME,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 30 May 2007 10:08:30 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 4BAE32AFD6; Wed, 30 May 2007 10:08:27 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070530170827.4BAE32AFD6@x3.develooper.com>
+Date: Wed, 30 May 2007 10:08:27 -0700 (PDT)
+Subject: Senior Technical Support Engineer (telecommute), United States, CA, Palo Alto
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5874
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 30, 2007
+
+Job title: Senior Technical Support Engineer
+
+Company name: Socialtext
+
+Location: United States, CA, Palo Alto
+
+Pay rate: Competitive
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+Socialtext is looking for a passionate Perl developer to deploy and adapt
+our award-winning enterprise wiki/blog application into customers'
+enterprise computing environments. The ideal candidate will have both
+excellent technical credentials and a friendly, consultative approach to
+solving customer needs. We need you to keep us clear of system issues,
+performance crunches, & daily hiccups. 
+
+Responsibilities 
+
+* Second tier customer support, troubleshooting and providing solutions for
+the front line support folks 
+* Develop a deep understanding of our application 
+* Answer Socialtext helpdesk request tickets via web interface 
+* Work with developers to identify and resolve more complicated problems 
+* Address urgent issues quickly 
+* Codify frequent issues into documented or scripted processes 
+* Assist with product QA from a user's point of view 
+* Document required bugfixes, end-user feature improvements, and operations
+feature improvements 
+* Act as customer advocate in the product development process 
+* Adapt installer, shell scripts and Perl scripts 
+* Document exceptions and fixes for inclusion into core product 
+* Provide feedback from customer users to product team 
+* Work with customer employees and consultants, including business
+managers, project managers, software engineers, security analysts, data
+center engineers, and customer NOC 
+* Diagnose and fix bugs 
+* You must be comfortable setting up new servers, optimizing existing
+servers and be able to perform server surveillance, monitoring and
+maintenance 
+
+Required skills:
+* 5+ years experience with Unix, including Debian GNU/Linux 
+* 3+ years programming experience, including object-oriented Perl 
+** Candidates with less Perl experience but a strong dynamic language
+background are encouraged to apply 
+* 5+ years experience solving deployment issues with x86 servers, Linux,
+Perl, TCP/IP networking, firewalls, interprocess communication, cron jobs,
+etc. 
+* Good consulting and problem-solving skills 
+* Excellent spoken and written communication skills 
+* Able to work well in the face of tight deadlines and tough technical
+challenges 
+* Likes to interact directly with customers to achieve customer
+satisfaction 
+* Prompt, responsive, responsible and friendly approach to customer
+problems 
+* Ability to rapidly gain in-depth knowledge of Socialtext application 
+* Aptitude for streamlining process to make one's job more efficient 
+* Ability to effectively juggle/prioritize multiple tasks 
+
+Desired skills:
+* Participation in open source projects 
+* Savvy about online collaboration, especially wikis 
+* Knowledge of a variety of server hardware 
+
+URL for more information: http://www.socialtext.com/
+
+Contact information at:
+http://jobs.perl.org/job/5874#contact
+
+

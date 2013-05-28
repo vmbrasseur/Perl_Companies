@@ -1,0 +1,127 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11345
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 24350 invoked from network); 26 May 2011 04:37:40 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 26 May 2011 04:37:40 -0000
+Received: (qmail 26535 invoked by uid 225); 26 May 2011 04:37:40 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 26531 invoked by alias); 26 May 2011 04:37:39 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS,T_FRT_PROFILE2
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 25 May 2011 21:37:35 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 31A2B2AFE2; Wed, 25 May 2011 21:37:32 -0700 (PDT)
+To: jobs@perl.org
+Date: Wed, 25 May 2011 21:37:32 -0700
+Message-ID: <20110526043732.31A2B2AFE2@x3.develooper.com>
+Subject: Programmer Analyst, Credit Card Processing (onsite), Canada,
+ Ontario, Georgetown
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14224
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 25, 2011
+
+Job title: Programmer Analyst, Credit Card Processing
+
+Company name: Caledon Card Services
+
+Location: Canada, Ontario, Georgetown
+
+Pay rate: Negotiable, DOE
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Caledon Card Services is growing again, and we're looking for two brilliant
+programmer analysts to work on our financial transaction processing
+systems.
+
+Caledon offers competitive remuneration, a relaxed atmosphere, and a
+dedicated team of professionals and technical resources to work with.  We
+are located in Georgetown, Ontario.
+
+Caledon's computing environment runs primarily on Linux, so preference will
+be given to applicants who have experience and/or enthusiasm for open
+source operating systems and software.
+
+As a member of Caledon Card Services' development group, the programmer
+analysts' responsibilities will include:
+
+Software design: 
+Working with our application engineers you will assist in the technical
+aspects of the design of new software systems as well as the analysis of
+requirements for the maintenance and upgrades of our existing software
+infrastructure.
+
+Programming: 
+We use a variety of languages and technologies at Caledon.  Proficiency in
+any of these languages would be helpful, but is not a requirement: Perl,
+Java, PHP, C, Python, JavaScript, SQL, shell scripting (Bash).	The ability
+to produce efficient code quickly is a definite asset.	Understanding
+computer system interactions and having the ability to identify bottlenecks
+and other inefficiencies is important.	You will likely learn new languages
+here, but Perl is our current main programming language.
+
+QA/Testing:
+Testing of code written by other programmers is also part of the job.  We
+recognize that programmers can only test their code so far before it needs
+to go on to someone else to work out the bugs that the original designer or
+programmer might not have anticipated.	You may sometimes have to set up a
+test environment to get this done, so systems administration capabilities
+are very useful to have.
+
+Code reviews:
+From time to time you may be asked to look over another programmer's code. 
+We do this in order to encourage improvements in algorithms, find bugs
+early, and also identify and correct any security deficiencies that may
+exist.	It's also a great way to learn.
+
+Documentation:
+There are several types of documentation required.  We use an internal wiki
+for our developer support documentation and requirements.  In general,
+programmer analysts will need to produce documentation explaining the
+internals, dependencies, and deployment instructions for products they work
+on.
+
+Post-deployment support:
+After products are deployed, you may be called upon to provide help to our
+support staff, and occasionally you may need to talk to a customer or a
+vendor in order to debug and/or resolve issues with production systems.
+
+
+Required skills:
+* A keen analytical mind with a desire to learn new things
+* You must work well with others
+* 5+ years of programming experience, with 2+ years Perl
+* Excellent communications in English, including both verbal and written
+* Database programming experience 
+* A very good understanding of computer security
+
+Desired skills:
+* Perl, Java, PHP, JavaScript, SQL
+* Database administration experience (PostgreSQL and MySQL)
+* Systems administration experience on Linux or other UNIX-type system
+* Networking and communications programming and troubleshooting experience
+* Web development experience
+* Payment processing and/or financial application development expertise
+
+Website for more information: http://caledoncard.com/
+
+Contact information at:
+http://jobs.perl.org/job/14224#contact

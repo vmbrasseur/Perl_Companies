@@ -1,0 +1,169 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14
+Return-Path: <keith.hansen@usa.net>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 6621 invoked from network); 2 Apr 2001 18:15:24 -0000
+Received: from femail12.sdc1.sfba.home.com (24.0.95.108)
+  by tmtowtdi.perl.org with SMTP; 2 Apr 2001 18:15:24 -0000
+Received: from C1352653B ([65.4.84.203]) by femail12.sdc1.sfba.home.com
+          (InterMail vM.4.01.03.20 201-229-121-120-20010223) with SMTP
+          id <20010402181518.LDYC3930.femail12.sdc1.sfba.home.com@C1352653B>
+          for <jobs@perl.org>; Mon, 2 Apr 2001 11:15:18 -0700
+Message-ID: <00fd01c0bba0$b341f6a0$59aba1a8@C1352653B>
+To: <jobs@perl.org>
+Date: Mon, 2 Apr 2001 11:14:04 -0700
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00FA_01C0BB66.06C00640"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+Subject: RE: [Perl Jobs] Offered: Perl LWP Consulting. - closed (Thank you all)
+Approved: news@nntp.perl.org
+From: keith.hansen@usa.net ("Keith Hansen")
+
+------=_NextPart_000_00FA_01C0BB66.06C00640
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Thank you all for your submissions!
+
+Everyone has been most impressive in their credentials and their =
+kindness.
+The response has been overwhelming.
+
+Unfortunately I can only work with one person and have more than I can =
+respond to already.
+My apologies for not responding to each and every one of those who were =
+kind enough to respond.
+
+Regards,
+
+Keith Hansen.
+
+
+REGARDING:
+
+Would anyone in the community be interested in consulting for a limited =
+scope project for a day or two.
+The project is for a well known Corporation that would look great on any =
+one of our resumes.
+
+ The technical objectives are fairly straight forward:
+
+    1) Connect to a fixed URI to pickup an authentication cookie.
+    2) Assemble a second URI with fields derived from an Oracle table.
+    3) Submit the second URI (using the cookie from step 1) to a static =
+HTTP server.
+    4) Query the static HTTP session id (returned in step 3) for status =
+feedback of request.
+
+    Misc.:
+        - The environment is Solaris and Oracle Web Application Server =
+(and maybe Apache.)
+        - The wrapping logic will be taken care of.  I only need the =
+specific routines for=20
+           the Connect, Assemble, Submit, and Query.
+
+If you are interested in more information and are well versed in the LWP =
+module of perl, please reply.
+
+Keith Hansen.
+
+------=_NextPart_000_00FA_01C0BB66.06C00640
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META content=3D"text/html; charset=3Diso-8859-1" =
+http-equiv=3DContent-Type>
+<META content=3D"MSHTML 5.00.3103.1000" name=3DGENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV><FONT face=3DArial size=3D2>
+<DIV><FONT face=3DArial size=3D2>Thank you all for your =
+submissions!</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT face=3DArial size=3D2>Everyone has been most impressive in =
+their=20
+credentials and their kindness.</FONT></DIV>
+<DIV><FONT face=3DArial size=3D2>The response has been =
+overwhelming.</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT face=3DArial size=3D2>Unfortunately I can only work with one =
+person and=20
+have more than I can respond to already.</FONT></DIV>
+<DIV><FONT face=3DArial size=3D2>My apologies for not responding to each =
+and every=20
+one of those who were kind enough to respond.</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV>Regards,</DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT face=3DArial size=3D2>Keith Hansen.</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV><STRONG>REGARDING:</STRONG></DIV>
+<DIV>&nbsp;</DIV>
+<DIV>
+<DIV><FONT face=3DArial size=3D2>Would anyone in the community be =
+interested in=20
+consulting for a limited scope project for </FONT><FONT face=3DArial =
+size=3D2>a day=20
+or two.</FONT></DIV>
+<DIV><FONT face=3DArial size=3D2>The project is for&nbsp;a well=20
+known&nbsp;Corporation that would look great on any on</FONT><FONT =
+face=3DArial=20
+size=3D2>e of our resumes.</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT face=3DArial size=3D2>&nbsp;The technical objectives are =
+fairly straight=20
+forward:</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT face=3DArial size=3D2>&nbsp;&nbsp;&nbsp; 1) Connect to =
+a&nbsp;fixed URI=20
+to pickup an authentication cookie.</FONT></DIV>
+<DIV><FONT face=3DArial size=3D2>&nbsp;&nbsp;&nbsp;&nbsp;2) Assemble a =
+second=20
+URI&nbsp;with fields derived from an Oracle table.</FONT></DIV>
+<DIV><FONT face=3DArial size=3D2>&nbsp;&nbsp;&nbsp;&nbsp;3) Submit the =
+second URI=20
+(using the cookie from step 1) to a&nbsp;static HTTP =
+server.</FONT></DIV>
+<DIV><FONT face=3DArial size=3D2>&nbsp;&nbsp;&nbsp; 4) Query the static =
+HTTP session=20
+id (returned in step 3) for status feedback of request.</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT face=3DArial size=3D2>&nbsp;&nbsp;&nbsp; Misc.:</FONT></DIV>
+<DIV><FONT face=3DArial size=3D2>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; - =
+The=20
+environment is Solaris and Oracle Web Application Server (and maybe=20
+Apache.)</FONT></DIV>
+<DIV><FONT face=3DArial size=3D2>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; - =
+The=20
+wrapping logic will be taken care of.&nbsp; I only need =
+the&nbsp;specific=20
+routines for </FONT></DIV>
+<DIV><FONT face=3DArial=20
+size=3D2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+the Connect,=20
+Assemble, Submit, and Query.</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT face=3DArial size=3D2>If you are interested in more =
+information and are=20
+well versed in the LWP module of perl, </FONT><FONT face=3DArial =
+size=3D2>please=20
+reply.</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT face=3DArial size=3D2>Keith=20
+Hansen.</FONT></DIV></DIV></FONT></DIV></BODY></HTML>
+
+------=_NextPart_000_00FA_01C0BB66.06C00640--
+

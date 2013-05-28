@@ -1,0 +1,145 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4880
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 20256 invoked from network); 31 Aug 2006 01:27:22 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 31 Aug 2006 01:27:22 -0000
+Received: (qmail 10510 invoked by uid 225); 31 Aug 2006 01:27:21 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 10504 invoked by alias); 31 Aug 2006 01:27:21 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 30 Aug 2006 18:27:19 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id A04D52AFE4; Wed, 30 Aug 2006 18:27:14 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060831012714.A04D52AFE4@x3.develooper.com>
+Date: Wed, 30 Aug 2006 18:27:14 -0700 (PDT)
+Subject: Senior Engineer: Learn OO perl in a High Transaction Web Environment (onsite), United States, CA, West Hollywood
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4594
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 30, 2006
+
+Job title:
+Senior Engineer: Learn OO perl in a High Transaction Web Environment
+
+Company name: Ticketmaster
+
+Internal ID: TMO-T31A
+
+Location: United States, CA, West Hollywood
+
+Pay rate: Commensurate with skills
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: full-time, regular hire
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Title:	  Senior Software Engineer: Learn OO Perl in
+	  High-Transaction Web Environment
+
+Company:  Ticketmaster
+Location: West Hollywood, CA
+
+What does it take to work at Ticketmaster?
+
+1). Do you excel at Java, C#, Ruby, Python, or C/C++? 
+
+2). Are you an expert object-oriented developer?
+
+3). Are you comfortable working in a linux-based dev environment?
+
+4). Do you have some significant exposure to perl, even if only procedural
+development?
+
+If so, we'd love to speak with you.
+
+Our development environment is heavily based on OO perl and we're happy to
+cross-train you to learn OO development techniques in this language. We
+would require you to have a solid engineering background in OO development
+in another language, and at least some exposure to real-world development
+in perl. Learning both perl and object-oriented development would be too
+difficult a hill to climb in our rapid environment and we want this
+experience to be a win-win all around.
+
+Those being said, if you're already a top-flight OO perl guru, please do
+apply! I'm sure that you'd feel right at home ;)
+
+Description:
+Build the guts of ticketmaster.com.  Most often you will code the "model"
+and "controller" component of our software which includes working with
+Perl, mod_perl, mysql, oracle, CPAN modules, and our custom ticketing API.
+
+Throughout a typical workday you'll work on a project coding new
+functionality, fix a few bugs, eat some lunch, write some unit tests, and
+meet with your team to design developing projects. 
+
+Required skills:
+Desired Skillset:
+
+• Senior-level experience in development,
+  architecture, and design
+• Expertise of one or more of the following:
+  Java, C, C++, C#, Ruby, Python, or similar language
+• You understand objects better than Erich Gamma ;) 
+• Some significant experience as a perl engineer
+• Proven experience working in a high-availability
+  web-based environment
+• Drive to learn and grow
+• Strong knowledge of algorithms
+• Flexibility - our business has rapidly
+  changing priorities
+• Thrive in a team based environment
+• SQL inserting, updating, and retrieving skills
+• Enthusiastic effective communication style
+
+Bonus Points and a Get Out of Jail Free Card:
+
+• Degree in Computer Science, Information Systems,
+  or Similar
+
+Desired skills:
+Perks of Working on the Engineer/Developer Team:
+
+• Flexible work hours
+• Excellent growth potential as you'll work on
+  very important core products
+• Occasional outings to see the Lakers, Kings,
+  and/or Clippers
+• Opportunity to hone your OO Perl skills working
+  with others on your team
+• Exposure to and input on the technology it takes
+  to run a mega high-volume website
+• Occasional free movie screenings in our
+  cushy private theater
+• Opportunity to attend OSCON, YAPC, ApacheCon,
+  and other industry conferences
+
+URL for more information:
+http://jobsearch.iac-careers.com/getjob.asp?JobID=47371577&AVSDM=2006-08-30
++15%3A41%3A57&Logo=0&col=dtcl&co=xcityx,xtmukx&q=perl&vw=b&sort=rv
+
+Contact information at:
+http://jobs.perl.org/job/4594#contact
+
+

@@ -1,0 +1,88 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11500
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 23965 invoked from network); 21 Jul 2011 09:24:34 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 21 Jul 2011 09:24:34 -0000
+Received: (qmail 21222 invoked by uid 225); 21 Jul 2011 09:24:34 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 21218 invoked by alias); 21 Jul 2011 09:24:34 -0000
+X-Spam-Status: No, hits=-4.9 required=8.0
+	tests=LOTS_OF_MONEY,RCVD_IN_DNSWL_HI,SPF_PASS,SUBJECT_NEEDS_ENCODING
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 21 Jul 2011 02:24:28 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 874EC2AFDD; Thu, 21 Jul 2011 02:24:25 -0700 (PDT)
+To: jobs@perl.org
+Date: Thu, 21 Jul 2011 02:24:25 -0700
+Message-ID: <20110721092425.874EC2AFDD@x3.develooper.com>
+Subject: Perl Developer - London - paying up to £60,000 plus Bonus and
+ Benefits (onsite), United Kingdom, London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14534
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 20, 2011
+
+Job title:
+Perl Developer - London - paying up to £60,000 plus Bonus and Benefits
+
+Company name: Open Select Recruitment (www.osrecruit.com)
+
+Internal ID: Perl Dev1
+
+Location: United Kingdom, London
+
+Pay rate: up to £60,000 plus Bonus and Benefits
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+An award winning service provider urgently need 2 senior perl developers
+working to develop, enhance, maintain and support the company’s hosted
+services. The applications delivering the services generally have an
+interactive user interface component delivered as dynamic web pages over
+the Internet as well as a series of significant server based data
+processing components. You must have a solid understanding of object
+oriented programming and a familiarity with web frameworks, 3 or more years
+as a Perl developer. Experience of NoSQL datastores and ecommerce/billing
+systems would be a bonus. Working knowledge of Linux, Apache and
+MySQL/Sybase would be helpful, though there are no sysadmin
+responsibilities in this role. 
+
+The role offers the opportunity to work in a small company setting with
+other highly skilled developers to produce high quality software where good
+work is both recognised and rewarded. You will work in a dynamic mixed
+skill development team, using Scrum to deliver new product features every
+4-6 weeks under the direction of the CTO. You will be comfortable using
+different technologies/languages as necessary to meet overall team
+objectives, though remain an expert in your area of experience. You will
+have the opportunity to lead development cycles, provide creative solutions
+to challenging problems, and integrate with other industry leading
+products/services via API (e.g. Facebook Connect, OAuth, eBay, etc.). 
+
+Required skills:
+* Over 3 years experience in Perl (OO)
+* Moose / Catalyst
+* SQL and relational data modelling skills
+* Experience developing in the LAMP stack
+* OO design skills, including the ability to apply appropriate OO patterns
+* Linux / Apache / MySQL or Sybase / Perl
+
+Website for more information: http://www.osrecruit.com/
+
+Contact information at:
+http://jobs.perl.org/job/14534#contact

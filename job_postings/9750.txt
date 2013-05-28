@@ -1,0 +1,104 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9750
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 23127 invoked from network); 8 Jan 2010 17:58:25 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 8 Jan 2010 17:58:25 -0000
+Received: (qmail 28812 invoked by uid 225); 8 Jan 2010 17:58:25 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 28806 invoked by alias); 8 Jan 2010 17:58:24 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 08 Jan 2010 09:58:23 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id F1ACB2AFDE; Fri,  8 Jan 2010 09:58:19 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20100108175819.F1ACB2AFDE@x3.develooper.com>
+Date: Fri,  8 Jan 2010 09:58:19 -0800 (PST)
+Subject: Perl ETL Developer (onsite), United States, ca, LOS ANGELES
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/11548
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January  7, 2010
+
+Job title: Perl ETL Developer
+
+Company name: eQuest Solutions
+
+Location: United States, ca, LOS ANGELES
+
+Pay rate: open
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 6+ months
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+A new division, of a very successful and profitable global company, is
+looking for a Sr. Perl Engineer to ETL (Extract, Transfer, Load), Reporting
+and/or Data Processing Systems. The Sr. Perl ETL Systems Developer will be
+responsible for developing, enhancing, troubleshooting and maintaining the
+company’s backend ETL, Reporting and Data Processing Systems in a Linux
+environment, using Perl, SQL, MySQL, Postgres, Oracle and Unix shell
+scripts.  Company is running several instances of MySQL, Postgres and
+Oracle 10g/11g databases on RH Linux, loading 100,000’s transactions/day of
+sensitive and mission critical data into a multi terabyte databases and
+Data Warehouses. Transactions processing and reporting systems are
+developed in Perl, Ruby, Unix Shell Scripts and SQL. Candidate will be
+responsible for developing and optimizing the backend ETL systems for
+stability, scalability and efficiency. If the candidate’s skill set allows,
+the developer will also be responsible for designing and optimizing
+database schemas, queries, and complex stored procedures under MySQL,
+Postgres and/or Oracle. Candidate will also maintain the integrity of the
+databases in order to provide accurate information.  Candidate will provide
+technical assistance by responding to inquires from users regarding errors,
+problems or questions about programs, ensure availability of data in a
+timely manner, consult with users to design and code reports/programs to
+meet their needs.  
+
+
+Required skills:
+MUST HAVE recent experience backend ETL (Extract, Transfer, Load),
+Reporting and/or Data Processing Systems in Perl (or Ruby or Java). 
+MUST HAVE experience writing SQL to MySQL, Postgres and/or Oracle
+Must have Unix Shell Scripting experience, preferably to Linux
+Ability to understand and create very complex SQL statements
+Must be able to apply database optimization methods
+PLUS:
+Hadoop or cloud computing or Web Services or other emerging technologies
+Experience in Database logical and physical design is a plus, but not
+necessary.
+BS and/or MS in CS or related field
+
+To increase your chances of getting an interview it is recommended to
+include a detailed description of the ETL/Reporting systems (# of sources
+and type of sources of data that the systems are receiving/retrieving from
+{i.e. ftp, http,}), the types of data and format received/converted to, any
+converting, verifying, manipulating, cleansing, parsing, etc. of data, the
+size/volume of transactions processed daily/weekly/monthly (number of
+transactions and/or # of records/rows updated and/or size of files in Gb)
+and the size of the database/s (total size in TB’s/# of records/table) in
+the body of your resume
+
+
+Contact information at:
+http://jobs.perl.org/job/11548#contact
+
+

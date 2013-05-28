@@ -1,0 +1,131 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12497
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 3934 invoked from network); 11 Jun 2012 06:16:46 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 11 Jun 2012 06:16:46 -0000
+Received: (qmail 8108 invoked by uid 225); 11 Jun 2012 06:16:46 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 8103 invoked by alias); 11 Jun 2012 06:16:45 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,T_FILL_THIS_FORM_SHORT
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 10 Jun 2012 23:16:43 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id CE46C2AFE0; Sun, 10 Jun 2012 23:16:39 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sun, 10 Jun 2012 23:16:39 -0700
+Message-ID: <20120611061639.CE46C2AFE0@x3.develooper.com>
+Subject: data append script (telecommute), NY
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16106
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June  8, 2012
+
+Job title: data append script
+
+Company name: SilverFox
+
+Location: NY
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+Here is the outline of how the script will work:
+
+For a given input file.
+Some key information is missing for certain records, such as telephone,
+company name, url, email address, and address. This script will attempt to
+find this data and output it.  All input and output files will be in CSV
+format.
+
+The script will use 14 ip addresses to send searches to google and bing.
+
+A W9 will be required for the developer who gets selected.
+
+
+
+Specifics of the logic:
+
+
+1.	take anybody that does not have a company name and do an address
+search.
+a.	Do the search with google, and take the title tag out of the top 10
+results. 
+b.	Do the same search on Bing and take the title tag from the top 10
+results.
+c.	Pattern match the page titles and it should give a pretty unanimous
+company name
+
+
+2.	Take pattern matched company name, if company name was empty, if
+not then use the company name we already had. Take the company name and
+full address and google it. Street names are off on many of the examples.
+So we would strip out by removing 's, directions and street extensions:
+
+This search gives us all kinds of results so we have to score these
+results:
+a.	go to the home page of each of the pages in the top 10 results.
+Page analysis:
+i.	the name of the business should be located on this page
+ii.	the name of the business should be located in the title tag
+b.	If the name of the business is located on both, on page and in
+title then we can be pretty sure this is the website of the company.
+c.	If the company name is not on either go to the next site in the top
+10 until we achieve the pattern match.
+d.	Once this sub routine is complete, now we have the URL of the
+company. See below for example of search. From this pdf in the results it
+would find the url of the business:
+
+
+3.	get email
+a.	Search for name, email and Url. 
+b.	Use common business email address structures and do pattern
+matching for these anywhere in the resulting pages:
+i.	firstlastname @url.com
+ii.	first.lastname @url.com
+iii.	first_lastname @url.com
+iv.	First initial last name @url.com
+If one of these structures are found, success, move on to #5. If it is
+unsuccessful move on to #4. 
+
+4.	Email search:
+a.	As the regular search for email did not work, now we do the
+reverse:
+b.	This produces many searches looking for the right name. if a match
+is found the match is graded:
+i.	If the match is on the company website, +10
+ii.	If match is in a pdf, +5
+iii.	If match is in a PPT, +5
+iv.	If the match is both found by google and bing, +5
+The match with the highest grade is the one the script will use. 
+
+
+
+5.	Phone search
+a.	Google search for name, phone, actual email address. 
+
+b.	This usually returns some type of result that has “phone:” on the
+page, from this we will parse the page pulling back all the digits to the
+right of the word “phone:” 
+
+
+Thanks for your time.
+
+Contact information at:
+http://jobs.perl.org/job/16106#contact

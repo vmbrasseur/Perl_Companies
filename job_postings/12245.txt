@@ -1,0 +1,85 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12245
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 20584 invoked from network); 18 Mar 2012 23:51:21 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 18 Mar 2012 23:51:21 -0000
+Received: (qmail 17495 invoked by uid 225); 18 Mar 2012 23:51:21 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 17491 invoked by alias); 18 Mar 2012 23:51:20 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 18 Mar 2012 16:51:18 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id EBD412AFE2; Sun, 18 Mar 2012 16:51:14 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sun, 18 Mar 2012 16:51:14 -0700
+Message-ID: <20120318235114.EBD412AFE2@x3.develooper.com>
+Subject: Jr. Perl Programmer (onsite), Austin, TX
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15716
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 18, 2012
+
+Job title: Jr. Perl Programmer
+
+Company name: Open Mortgage
+
+Internal ID: Eng2
+
+Location: Austin, TX
+
+Pay rate: $ neg
+
+Terms of employment: Salaried employee
+
+Hours: Part time
+
+Onsite: yes
+
+Description:
+Open Mortgage is looking for a part time/full time junior Perl Developer to
+help maintain, expand and refine our mod_perl-based enterprise back-end
+office system, while expanding their knowledge of Perl, object oriented
+Perl and mod_perl.
+
+Our environment also consists of Linux servers, MySQL databases and a large
+WordPress multi-site installation (PHP+MySQL).
+
+The position will have some desktop support and on-call responsibilities
+and experience in those areas in a plus.  These responsibilities include
+desktop, VOIP phone, networking and other IT Help Desk-type support.
+
+Applicants should be comfortable in a casual corporate environment. 
+Applicants should be equally skilled at working with the technical team and
+technical vendors as well as office staff and system users.
+
+Required skills:
+1 year experince with Perl
+1 year experience administering Linux servers
+Firm understanding of networking (TCP/IP, HTTP, SSL).
+Strong written and oral communication skills; able to explain technical
+problems to non-technical personnel.
+
+Desired skills:
+Experience with mod_perl, MySQL a plus.
+Experience with Catalyst, Mojolicious, DBIx::Class a plus.
+Experience with Perl retrieving external services, APIs, webservices a
+plus.
+
+Website for more information: http://www.openmortgage.com
+
+Contact information at:
+http://jobs.perl.org/job/15716#contact

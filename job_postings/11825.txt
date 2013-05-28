@@ -1,0 +1,105 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11825
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 23687 invoked from network); 2 Nov 2011 06:57:19 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 2 Nov 2011 06:57:19 -0000
+Received: (qmail 12043 invoked by uid 225); 2 Nov 2011 06:57:19 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 12039 invoked by alias); 2 Nov 2011 06:57:18 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 01 Nov 2011 23:57:16 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 8DFA02AFD2; Tue,  1 Nov 2011 23:57:12 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Tue, 1 Nov 2011 23:57:12 -0700
+Message-ID: <20111102065712.8DFA02AFD2@x3.develooper.com>
+Subject: Principal Test Engineer - Perl (onsite), Lowell, MA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15068
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November  1, 2011
+
+Job title: Principal Test Engineer - Perl
+
+Company name: F5 Networks
+
+Internal ID: LG137512
+
+Location: Lowell, MA
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+About the team’s work:
+
+The Data Solutions Quality Assurance team is chartered with testing  all
+aspects of the ARX product line.  This includes functional and systems
+level testing, as well performance, scale and interoperability.   The team
+has a Test Automation Framework developed in PERL that is instrumental to
+its success.  
+
+What we are looking for:
+
+A well rounded SQA professional.  Someone that has been involved in all
+aspects of Quality Assurance in the past including test plan creation,
+manual testing and test automation.   The ideal candidate would have an
+extensive test background that included some combination of NAS storage
+devices, networking devices, or Active Directory, as well as a strong PERL
+scripting background. This position will work closely with software
+developers to assist in the diagnosis and resolution of reported issues
+
+Key Assignments of the role:
+
+•	Working closely with S/W developers to create test plans for new
+features
+•	Creating, running and maintaining tests to test ARX functionality
+•	Doing preliminary troubleshooting / debugging, filing bugs as
+needed, assisting developers with deeper troubleshooting
+•	Working closely with the Automation team to incorporate all test
+cases into our Automated Test harness.
+
+Required skills:
+•	Very strong Perl scripting experience required 
+•	Experience testing enterprise class software in a variety of
+environments (Linux, Windows, Solaris, etc). 
+•	Bachelors degree in Computer Science or equivalent with a minimum
+of 7 years in software quality assurance. 
+•	Knowledge of storage technologies. Working knowledge of NFS,
+CIFS/SMB protocols. 
+•	Knowledge of networking technologies, with administration and
+hands-on configuration experience with IP and storage networking required
+(NIS, Active Directory, LDAP). 
+•	Proven track record of working with developers to write clear
+concise test plans. 
+•	Candidate must be a self starter possessing strong debugging and
+problem solving skills. 
+•	Experience with taking and analyzing protocol traces is required. 
+•	Strong organization and communication skills with the ability to
+document concepts, procedures, and results.
+
+Desired skills:
+•	Knowledge of Storage networking mechanisms (NTLM, Kerberos) highly
+desired.
+
+Website for more information: http://www.f5.com/about/careers/benefits.html
+
+Contact information at:
+http://jobs.perl.org/job/15068#contact

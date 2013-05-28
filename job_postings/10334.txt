@@ -1,0 +1,91 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10334
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 12798 invoked from network); 20 Jul 2010 15:05:06 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 20 Jul 2010 15:05:06 -0000
+Received: (qmail 21067 invoked by uid 225); 20 Jul 2010 15:05:06 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 21059 invoked by alias); 20 Jul 2010 15:05:06 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS,T_LOTS_OF_MONEY
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 20 Jul 2010 08:05:03 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id DC4642AFE1; Tue, 20 Jul 2010 08:04:59 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20100720150459.DC4642AFE1@x3.develooper.com>
+Date: Tue, 20 Jul 2010 08:04:59 -0700 (PDT)
+Subject: Email Sys Admin, NYC | 80-100k+ (onsite), United States, NY, New York
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/12540
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 19, 2010
+
+Job title: Email Sys Admin, NYC | 80-100k+
+
+Company name: OSS
+
+Location: United States, NY, New York
+
+Pay rate: $80,000 to $100,000 range + benefits
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: Permanent
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+My New York City client near Penn Station is a leading travel deals and
+destination advice publishing firm (online and print). They are seeking a
+full-time, on-site, salaried Email Systems Administrator to join their
+technology team in the $80,000 to $100,000 range + benefits.   
+
+They follow best-practices with regard to email and pride ourselves on
+maintaining high deliverability rates for all of our campaigns.  They are
+looking for someone to continue to lead and expand upon their email
+delivery platform as well as manage the systems needs of a LAMP-based
+organization. 
+
+Required skills:
+Must-haves are: 
+* Experience administering, configuring, tuning Postfix mail server 
+* Strong Perl programming experience; senior enough to know about fork()
+and daemon processes 
+* Comfortable with bash scripting and Linux text processing commands (cut,
+grep, awk, etc) 
+* Strong on the systems side: knows about file descriptors/limits, pipes
+and how to profile system bottlenecks (knows how to use iostat) 
+* Experience in monitoring, troubleshooting and escalation in a production
+class environment 
+
+Desired skills:
+Knowledge in any of the following is a plus: 
+* PHP, Python, Ruby, MySQL, Sphinx, mongo, redis, memcached, Apache, Nginx 
+
+
+Compensation/Benefits: 
+* Compensation is competitive; depends on experience 
+* 3 weeks vacation (rises to 4 after 5 years); 401 K; Medical 
+
+URL for more information: http://opensourcestaffing.wordpress.com/
+
+Contact information at:
+http://jobs.perl.org/job/12540#contact
+
+

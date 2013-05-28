@@ -1,0 +1,83 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10043
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 24062 invoked from network); 14 Apr 2010 04:27:27 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 14 Apr 2010 04:27:27 -0000
+Received: (qmail 22991 invoked by uid 225); 14 Apr 2010 04:27:26 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 22880 invoked by alias); 14 Apr 2010 04:27:26 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 13 Apr 2010 21:27:22 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id B90EC2AFE2; Tue, 13 Apr 2010 21:27:18 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20100414042718.B90EC2AFE2@x3.develooper.com>
+Date: Tue, 13 Apr 2010 21:27:18 -0700 (PDT)
+Subject: Perl/Linux Engineer for SendGrid (onsite), United States, CA, San Diego
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/12068
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 12, 2010
+
+Job title: Perl/Linux Engineer for SendGrid
+
+Company name: SendGrid
+
+Location: United States, CA, San Diego
+
+Pay rate: competitive
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Responsibilities:
+
+* Help build, maintain, and scale SendGrid's infrastructure and backend
+applications.
+* Develop benchmarks to test code scalability and speed.
+* Develop distributed applications that scale dynamically in the cloud.
+* Optimize existing applications.
+* Contribute ideas to improve our service.
+* Support customers when having technical issues
+
+Required skills:
+* Linux system administration
+* Expert knowledge of Perl
+* Strong familiarity with the SMTP protocol
+* Socket programming experience
+
+Desired skills:
+* Familiarity with multiple languages, such as Python, Ruby, Java, C++.
+* Familiarity with chef
+* Knowledge of event driven programming, specifically the Perl AnyEvent
+library.
+* Experience scaling applications and systems
+* Experience with nosql databases (such as cassandra or hadoop)
+
+URL for more information:
+http://sendgrid.jobscore.com/jobs/sendgrid/webengineeringmanager/ddYBbajxSr
+37BmeJe4aGWH
+
+Contact information at:
+http://jobs.perl.org/job/12068#contact
+
+

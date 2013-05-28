@@ -1,0 +1,80 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9845
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 3126 invoked from network); 6 Feb 2010 15:43:56 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 6 Feb 2010 15:43:56 -0000
+Received: (qmail 23719 invoked by uid 225); 6 Feb 2010 15:43:56 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 23713 invoked by alias); 6 Feb 2010 15:43:55 -0000
+X-Spam-Status: No, hits=-0.0 required=8.0
+	tests=SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 06 Feb 2010 07:43:21 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 2D8562AFDD; Sat,  6 Feb 2010 07:43:10 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20100206154310.2D8562AFDD@x3.develooper.com>
+Date: Sat,  6 Feb 2010 07:43:10 -0800 (PST)
+Subject: OO Perl, mod_perl, DBI programmer in R&D group. (onsite), United States, NY, New York
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/11716
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February  5, 2010
+
+Job title:
+OO Perl, mod_perl, DBI programmer in R&D group.
+
+Company name: McGarryBowen/Dentsu LABS Group
+
+Location: United States, NY, New York
+
+Pay rate: $50 Per hour
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 4+ weeks
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Our R&D group is developing a social media search and evaluation tool.
+
+The LABS group seeks a OO Perl, mod_perl, DBI developer to write software
+to collect data, massage, record in database, and also serve data via XML
+and JSON to web and Adobe Flash clients.
+
+This is a roughly 4 week project, however, this may extend longer and has
+the opportunity to become permanent or permatemp.
+
+Required skills:
+OO Perl, DBI, mod_perl (enough to to create a server side app), JSON,
+JavaScript (some), HTML, XML.
+
+Applicants should be familiar with the concepts of using multiple remote
+API's, whether RESTful JSON, SOAP, XMLRPC, or ATOM/RSS.
+
+Desired skills:
+Additionally would like Ruby and RoR experience as well as some Java
+(enough to alter existing code base).  These are not requirements.
+
+URL for more information: http://www.mcgarrybowen.com/
+
+Contact information at:
+http://jobs.perl.org/job/11716#contact
+
+

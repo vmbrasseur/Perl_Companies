@@ -1,0 +1,116 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7905
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 4819 invoked from network); 31 Mar 2008 21:52:54 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 31 Mar 2008 21:52:54 -0000
+Received: (qmail 9855 invoked by uid 225); 31 Mar 2008 21:52:54 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 9846 invoked by alias); 31 Mar 2008 21:52:53 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 31 Mar 2008 14:52:51 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 215492AF9C; Mon, 31 Mar 2008 14:52:48 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080331215248.215492AF9C@x3.develooper.com>
+Date: Mon, 31 Mar 2008 14:52:48 -0700 (PDT)
+Subject: Perl MySql - Data Integration (telecommute), United States, TX, Houston
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8292
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 30, 2008
+
+Job title: Perl MySql - Data Integration
+
+Company name: HRN
+
+Internal ID: MngrPerl.01
+
+Location: United States, TX, Houston
+
+Pay rate: $16-$19/hr USD
+
+Travel: 0%
+
+Terms of employment: Hourly employee
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+***MANAGER POSITION***
+
+We are looking for a manager of multiple Perl/MySQL freelancers.  The
+manager must be able to work like and manage those who...
+
+MUST HAVE:
+a) Strong MySql skills
+b) Good working knowledge of PERL
+c) Understand GIS/geocoding
+
+Our company integrates data from multiple sources into a database and has
+pre-defined table structures for the end-product.
+
+The data integration must be done on a market-by-market basis. We have
+implemented the solution on four markets.
+
+We are looking to add a fifth market. All of the data sets have been
+gathered.
+
+The right candidate will work with the company DBA to understand data
+structure, and with the company Business Analyst to understand how to
+translate the data sources into the proper fields.
+
+Further specifics:
+
+a) Calculating centroid points from GIS shapefiles
+b) Placing centroid points on to other data layers to gather information,
+such as "zip code", or "school district"
+c) Creating a process for automatically uploading the same (but updated)
+dataset
+d) Creating data exports
+
+Based on our experience, estimated Hours are expected to be 50 in total, as
+this is not a small job. There are 4 Main Data Sources plus several
+ancillary ones (such as GIS layers).
+
+A key skill is the ability to communicate and ask questions so that we can
+quickly move through stopping points. We use Skype to chat, which is a must
+for questions, although we do not like to interrupt programmers.
+
+If you are uncomfortable on Skype/IM, then this is the wrong position for
+you.
+
+Please include:
+
+a) Skype or other IM address
+b) resume
+c) Availability
+
+We pay twice a month
+
+Required skills:
+Perl
+MySql
+Understand GIS
+Deadline Management
+
+Desired skills: English
+
+Contact information at:
+http://jobs.perl.org/job/8292#contact
+
+

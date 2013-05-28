@@ -1,0 +1,97 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7124
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 26577 invoked from network); 16 Oct 2007 15:08:48 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 16 Oct 2007 15:08:48 -0000
+Received: (qmail 26353 invoked by uid 225); 16 Oct 2007 15:08:48 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 26345 invoked by alias); 16 Oct 2007 15:08:48 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 16 Oct 2007 08:08:44 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 4459A2AFD7; Tue, 16 Oct 2007 08:08:31 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20071016150831.4459A2AFD7@x3.develooper.com>
+Date: Tue, 16 Oct 2007 08:08:31 -0700 (PDT)
+Subject: Perl/CGI Developer (telecommute), United States, RI, Cumberland
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/7013
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 16, 2007
+
+Job title: Perl/CGI Developer
+
+Company name:
+International Textile Manufacturing, Inc.
+
+Location: United States, RI, Cumberland
+
+Pay rate: USD $55+/hr
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 6-12mo
+
+Onsite: no
+
+Description:
+We are seeking a software developer to assist in implementing an EDI module
+for the SQL-Ledger Accounting system.
+
+We interface with a EDI provider by transmitting and receiving text files
+with fixed-length records over ftp.
+
+Tasks include:
+* Reading these records into a high-level objects
+* Transforming records into reports
+* Transforming records into Sales Orders documents
+* Reporting on inbound sales orders for exceptions, such as insufficient
+quantities, and pricing errors.
+* Producing labels in PDF format.
+* Transforming perl into these records to send to ftp server
+
+Most of these scripts are command line scripts, and a few are CGI scripts.
+
+You will be working primarily with another perl developer, and will need to
+be available by at least email.  Instant Messaging, IRC, and/or Skype
+access will help accelerate development.
+
+We expect at least 20hrs of work a week.
+
+We are in an accelerated development stage, and are eager to get an
+additional developer signed on ASAP.
+
+Required skills:
+* Perl 5.8
+* CGI
+* SQL
+* Linux/Unix 
+* SSH (For Remote Access)
+
+
+Desired skills:
+* EDI
+* PosgreSQL 8.1
+* Knowledge of the SQL-Ledger code base
+* Understanding of business processes
+* Knowledge of UPS's WorldShip software
+
+Contact information at:
+http://jobs.perl.org/job/7013#contact
+
+

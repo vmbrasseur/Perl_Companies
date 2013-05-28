@@ -1,0 +1,78 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9092
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 10401 invoked from network); 30 Mar 2009 07:16:54 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 30 Mar 2009 07:16:54 -0000
+Received: (qmail 1715 invoked by uid 225); 30 Mar 2009 07:16:54 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 1711 invoked by alias); 30 Mar 2009 07:16:53 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 30 Mar 2009 00:16:52 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 3AF172AFDF; Mon, 30 Mar 2009 00:16:49 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20090330071649.3AF172AFDF@x3.develooper.com>
+Date: Mon, 30 Mar 2009 00:16:49 -0700 (PDT)
+Subject: eCommerce company seeks senior mod_perl developer (telecommute), United Kingdom, London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/10400
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 27, 2009
+
+Job title:
+eCommerce company seeks senior mod_perl developer
+
+Location: United Kingdom, London
+
+Pay rate: Negotiable p/h
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+We are a growing ecommerce site with a mature mod_perl application that has
+grown in size and inefficiency over the past few years. 
+
+We are looking for a senior mod_perl programmer to work with us on
+optimizing and reorganising our application and possibly to help us port it
+to apache2.
+
+You should enjoy trimming every byte and millisecond you can from an
+application.
+
+An option will be available to make the work longer term if it is suitable
+for both parties.
+
+The project will be remote and hours to suit.
+
+
+Required skills:
+mod_perl
+apache 1.3
+
+Desired skills:
+mysql
+memcached
+
+Contact information at:
+http://jobs.perl.org/job/10400#contact
+
+

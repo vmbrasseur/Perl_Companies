@@ -1,0 +1,90 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13385
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 24749 invoked from network); 7 May 2013 16:19:38 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 7 May 2013 16:19:38 -0000
+Received: (qmail 24031 invoked by uid 225); 7 May 2013 16:19:38 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 24026 invoked by alias); 7 May 2013 16:19:38 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 07 May 2013 09:19:31 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id A70AA2AFE1; Tue,  7 May 2013 09:19:28 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Tue, 7 May 2013 09:19:28 -0700
+Message-ID: <20130507161928.A70AA2AFE1@x3.develooper.com>
+Subject: Utvikler med driftsansvar (onsite), Oslo, Norway
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17367
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May  7, 2013
+
+Job title: Utvikler med driftsansvar
+
+Company name: Meteorologisk institutt
+
+Location: Oslo, Norway
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Ved Avdeling for geodata og systemer er det ledig stilling som utvikler med
+driftsansvar. Bakgrunnen er økt satsing på formidling av data og produkter
+innen værvarsling og klima.
+
+Avdelingen har ansvaret for åpne tjenester som eklima.met.no og tjenester
+som Kilden og Værbutikken for formidling til statlige samarbeidspartnere og
+kunder. Sammen med NRK har vi yr.no som i stor grad henter sine data fra de
+åpne tjenestene api.met.no og wsklima.met.no. For forskningsprosjekter
+driver vi tjenester som damocles.met.no og myocean.met.no. I tillegg driver
+vi et stort antall interne tjenester for innsamling, lagring, distribusjon
+og forvaltning av meteorologiske data.
+
+Nye oppgaver innenfor formidling omfatter blant annet fornyelse av
+løsninger for samarbeidspartnere og utvikling og drift av et servicesenter
+for klimadata.
+
+Arbeidsområde:
+- drift og videreutvikling av det Linux-baserte produksjonsmiljøet
+- automatisere, installere, konfigurere, teste, overvåke, feilrette og
+kapasitetsplanlegge
+- drift og videreutvikling av formidlingsløsninger basert på åpne
+standarder
+- deltagelse i prosjekter
+
+Required skills:
+- erfaring med drift eller utvikling under Linux
+- erfaring med følgende vil bli tillagt vekt
+- automatisering, testing, Perl, statistikk, Java
+- drift av eller utvikling mot web-, applikasjons- og databaseservere
+- drift eller utvikling av robuste løsninger og løsninger med høy ytelse
+- ansvarsbevisst og resultatorientert
+- gode evner til kommunikasjon og samarbeid
+- fleksibilitet og evne til å tilegne seg og anvende ny kompetanse
+- utdanning på universitets- eller høgskolenivå innen informatikk,
+geofysikk eller anvendt matematikk. Relevant erfaring kan kompensere for
+manglende formell utdanning
+
+Website for more information:
+http://met.easycruit.com/vacancy/974961/39050?iso=no
+
+Contact information at:
+http://jobs.perl.org/job/17367#contact

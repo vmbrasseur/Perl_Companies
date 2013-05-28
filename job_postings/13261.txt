@@ -1,0 +1,80 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13261
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 20756 invoked from network); 2 Apr 2013 01:56:50 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 2 Apr 2013 01:56:50 -0000
+Received: (qmail 11737 invoked by uid 225); 2 Apr 2013 01:56:49 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11733 invoked by alias); 2 Apr 2013 01:56:49 -0000
+X-Spam-Status: No, hits=-1.0 required=8.0
+	tests=ALL_TRUSTED,BAYES_20
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 01 Apr 2013 18:56:41 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id C53672AFE0; Mon,  1 Apr 2013 18:56:37 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 1 Apr 2013 18:56:37 -0700
+Message-ID: <20130402015637.C53672AFE0@x3.develooper.com>
+Subject: Senior Applications Engineer and Architect (part onsite), Seattle,
+ WA, United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17203
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 28, 2013
+
+Job title: Senior Applications Engineer and Architect
+
+Company name: Golden Guru
+
+Location: Seattle, WA, United States
+
+Pay rate: TBD (US$)
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: Indefinite
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+We're looking for a qualified senior Perl developer and architect to join
+our team to build and maintain complex web applications and back-end
+services across a series of different environments and for a variety of
+clients. The person will be part of a very senior team of software
+engineers. (See http://goldenguru.com/team for details.) The person will
+also be called on to research and design new software and systems
+architectures.
+
+Required skills:
+We need someone with very strong with Perl and OOP, someone with strong
+software architecture wisdom, and someone who can fit into a team of
+equally senior engineers. We're looking for someone sufficiently senior
+enough to work on projects solo as needed without the need for oversight
+and yet who will follow our strict style guide and best practices in all
+cases. Viable candidates will have a track-record of self-motivation, high
+attention to detail, and ability to work very independently.
+
+Desired skills:
+Desired skills for the position include experience with some mixture of
+some of the following: Debian system administration and networking,
+Mojolicious, nginx, Couch, Solr, Postgres, Git, jQuery, XHTML/CSS, and
+Template Toolkit. PhoneGap and jQuery Mobile experience is a bonus.
+
+Website for more information: http://goldenguru.com/jobs
+
+Contact information at:
+http://jobs.perl.org/job/17203#contact

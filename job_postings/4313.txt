@@ -1,0 +1,76 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4313
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 30409 invoked from network); 12 May 2006 14:43:55 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 12 May 2006 14:43:55 -0000
+Received: (qmail 9640 invoked by uid 225); 12 May 2006 14:43:54 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 9635 invoked by alias); 12 May 2006 14:43:54 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 12 May 2006 07:43:32 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 22B7E2AFDF; Fri, 12 May 2006 07:43:27 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060512144327.22B7E2AFDF@x3.develooper.com>
+Date: Fri, 12 May 2006 07:43:27 -0700 (PDT)
+Subject: RSS Screen Scraping (telecommute), Any
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4068
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 12, 2006
+
+Job title: RSS Screen Scraping
+
+Company name: Heads Up
+
+Internal ID: RSS Screen Scraping
+
+Location: Any
+
+Pay rate: $75 per script
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: open
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+
+We have an immediate need to generate Perl scripts which can turn our
+targeted sites into valid RSS feeds.  We will specifiy the site (and
+sub-navigation to a specific page if necessary) and the script must turn
+the identified page into a valid RSS 2.0 feed.	This is an off-site
+contracing opportunity so the work can be performed from anywhere. 
+Completion of the script is verified by testing the output against our RSS
+parser.
+
+We have an inventory of 300 sites currently and it is growing every day.
+
+
+Required skills: Perl, HTML, RSS
+
+URL for more information: http://www.headsupmonitor.com/
+
+Contact information at:
+http://jobs.perl.org/job/4068#contact
+
+

@@ -1,0 +1,97 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13366
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 23870 invoked from network); 3 May 2013 19:51:48 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 3 May 2013 19:51:48 -0000
+Received: (qmail 18699 invoked by uid 225); 3 May 2013 19:51:48 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 18695 invoked by alias); 3 May 2013 19:51:48 -0000
+X-Spam-Status: No, hits=-2.7 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,DRUGS_MUSCLE
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 03 May 2013 12:51:39 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 8D9FF2AFE0; Fri,  3 May 2013 12:51:31 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 3 May 2013 12:51:31 -0700
+Message-ID: <20130503195131.8D9FF2AFE0@x3.develooper.com>
+Subject: Principal Software Design Engineer (onsite), San Francisco, CA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17325
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May  3, 2013
+
+Job title: Principal Software Design Engineer
+
+Company name: Chargesmart
+
+Location: San Francisco, CA
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Chargesmart.com is a rapidly expanding bill payment website with an
+established user base and thousands of payments processed daily.  We’re
+getting ready to launch a completely redesigned and modernized
+frontend/backend, and we’re seeking an experienced full stack web engineer
+to support and expand the site post-launch.  Our mission is to make the
+bill payment experience as frictionless as possible, and to that end we
+value people that are fanatical about the end-user experience.
+
+Chargesmart is headquartered San Francisco, CA and recently moved into a
+killer new office in the SoMa district with easy access to BART.  As part
+of VeriFone, we offer full benefits, and competitive pay.
+
+Required skills:
+We’re a small team and you’ll have a chance to work on a bit of everything.
+ Our backend is a perl Dancer app that interacts with the frontend via our
+RESTful API.  The frontend is almost entirely implemented with backbone.js
+and bootstrap. Behind all of that, we have integrations to various payment
+processors to settle and remit funds.  We do have a good chunk of legacy
+perl code that we're slowly updating to use modern design methodologies
+(Moose, etc)
+
+Our ideal candidate has:
+
+•	Expert JS skills and has built web apps using backbone.js or
+another JS framework.  
+•	modern OO perl experience (or experience with another modern
+scripting language like ruby or python and is willing to learn)
+•	Has worked with dancer or another mvc framework (rails, flask, etc)
+
+•	Used bootstrap and can explain why responsive design is important. 
+
+•	Solid MySQL experience, plus familiarity with postgres.
+
+Desired skills:
+It’d be great if you also have: 
+
+•	Experience in the payments industry (particularly PCI-DSS
+compliance)
+•	Sysadmin experience.  We manage our own infrastructure, and
+familiarity with nginx, spacewalk, memcached, basic networking principles,
+backups, etc are always helpful to have.
+•	An interest or experience with risk analytics.	We’re constantly
+improving our risk algorithms to reduce fraudulent transactions.  
+•	A sense of humor.
+
+Website for more information: http://www.chargesmart.com
+
+Contact information at:
+http://jobs.perl.org/job/17325#contact

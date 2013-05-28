@@ -1,0 +1,97 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12853
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 32621 invoked from network); 25 Oct 2012 00:50:12 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 25 Oct 2012 00:50:12 -0000
+Received: (qmail 23020 invoked by uid 225); 25 Oct 2012 00:50:11 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 23016 invoked by alias); 25 Oct 2012 00:50:11 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 24 Oct 2012 17:50:08 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id D894A2AFE1; Wed, 24 Oct 2012 17:50:04 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 24 Oct 2012 17:50:04 -0700
+Message-ID: <20121025005004.D894A2AFE1@x3.develooper.com>
+Subject: Perl Programmer (onsite), San Francisco, CA, United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16642
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 24, 2012
+
+Job title: Perl Programmer
+
+Company name: craigslist
+
+Location: San Francisco, CA, United States
+
+Pay rate: commensurate with experience
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+craigslist is seeking experienced Programmers to:
++ help scale and improve craigslist
++ imagine, design, code, and release next generation features;
++ integrate new technologies wherever appropriate; 
++ use and contribute to open source projects; and
++ solve interesting tech issues at billion-page-view-per-day scale.
+
+craigslist provides:
++an unusually philanthropic company mission and philosophy;
++ an opportunity to work on one of the most used websites in the world;
++ a chance to work with open source technologies on a massive scale;
++ free love from CL users for adding features and fixing bugs; 
++ laid-back, down-to-earth, non-corporate vibe;
++ a workplace free of VCs, MBAs, sales, marketing, biz dev, etc.;
++ a small team of smart, interesting, idealistic people; 
++ a San Francisco office location well served by transit;
++ market rates for you and a free market for basic human needs for users;
+and
++ a small company culture with better benefits than most large companies.
+
+Desired skills:
+Successful candidates will have high-level experience in as many of the
+following areas as possible:
++ high performance web architectures for handling massive traffic;
++ perl and mod_perl web development;
++ C, C++;
++ MySQL/SQL, database design, performance tuning;
++ UNIX/Linux;
++ accounts receivable & billing systems;
++ QA/testing;
++ user interface design, HTML, CSS;
++ javascript, AJAX, jquery, XML;
++ internationalization, encoding systems, Unicode;
++ event driven programming;
++ queuing / job scheduling systems;
++ anti-spam/scam systems;
++ security, web site vulnerabilities, phishing attacks;
++ large scale storage systems;
++ automated testing;
++ redis; and
++ mongoDB.
+
+Website for more information:
+http://www.craigslist.org/about/craigslist_is_hiring
+
+Contact information at:
+http://jobs.perl.org/job/16642#contact

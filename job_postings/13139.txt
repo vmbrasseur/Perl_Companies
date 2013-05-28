@@ -1,0 +1,109 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13139
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 23159 invoked from network); 13 Feb 2013 19:17:31 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 13 Feb 2013 19:17:31 -0000
+Received: (qmail 10411 invoked by uid 225); 13 Feb 2013 19:17:31 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 10407 invoked by alias); 13 Feb 2013 19:17:31 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,LOTS_OF_MONEY,T_FRT_PROFILE2
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 13 Feb 2013 11:17:27 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id D6A632AFE1; Wed, 13 Feb 2013 11:17:23 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 13 Feb 2013 11:17:23 -0800
+Message-ID: <20130213191723.D6A632AFE1@x3.develooper.com>
+Subject: Business & Technology Applications Analyst II (onsite), St. Louis,
+ MO, USA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17015
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 13, 2013
+
+Job title: Business & Technology Applications Analyst II
+
+Company name: The Genome Institute
+
+Internal ID: 25269
+
+Location: St. Louis, MO, USA
+
+Pay rate: $56,222 to $73,091 annually
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The Genome Institute at Washington University has an opening for a talented
+software engineer in the Bioinformatics group.	The position will work with
+an experienced group of software engineers to develop software supporting
+the tracking of laboratory data and analysis processes to support large
+scale genomic research projects.
+
+The Genome Institute has been at the forefront of genome research since its
+inception in 1993 and has been a part of major scientific projects such as
+the Human Genome, 1000 Genomes and TCGA (The Cancer Genome Atlas) Projects.
+ The Genome Institute is a world-leader in the generation and analysis of
+genomic sequence data and uses this data to extend biological knowledge of
+the human genome and provide clinically relevant sequence analysis aimed at
+understanding human diseases (such as cancer and Alzheimer's disease).	In
+addition, the Institute fosters public understanding of genomic science
+through various educational and outreach efforts.
+
+Required skills:
+Certification or degree in computer programming from a technical school or
+college plus two years of relevant work experience required.  Additional
+relevant programming experience may be substituted on a year-for-year basis
+for required education.
+
+Yes, this really is a position where you will be programming with Perl, as
+it is our main workhorse.
+
+Desired skills:
+The ideal candidate has a talent and love for writing software, is
+interested in developing that skill, and applying it in a production
+environment.  The candidate will be expected to learn new things on a
+regular basis, think critically, and collaborate with other developers
+across groups.	The environment is fast-paced and a person who likes to get
+things done will find a lot of opportunity.
+
+Design, testing, debugging, and problem analysis are a regular part of the
+work.  Skills in abstract software design, object-oriented architecture,
+relational data modeling, and web interface design will be used frequently,
+which will require thorough knowledge of each concept.	The applicant will
+use these skills to develop software that will: interface with people
+and/or laboratory equipment, process and analyze large data sets on a
+compute cluster, and provide intuitive web based interfaces to the
+specifications of the laboratory managers and technicians.
+
+Proficiency in dynamically typed languages (Perl, Ruby, Python, Lisp, etc.)
+is a plus, but not required.  Understanding of relational databases and SQL
+will be helpful.  Experience with web technologies such as HTML, CSS,
+Javascript and approaches such as REST and AJAX is an asset.  Regular work
+will be done in GNU/Linux and other UNIX-like development environments. 
+Familiarity with open source technologies, version control software such as
+git, and programming in a network environment are also assets.
+
+Website for more information:
+https://jobs.wustl.edu/psp/APPLHRMS/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_CE.GBL?Pag
+e=HRS_CE_JOB_DTL&Action=A&JobOpeningId=25269&SiteId=1&PostingSeq=1
+
+Contact information at:
+http://jobs.perl.org/job/17015#contact

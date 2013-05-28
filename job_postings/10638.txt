@@ -1,0 +1,129 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10638
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 14060 invoked from network); 19 Oct 2010 03:45:40 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 19 Oct 2010 03:45:40 -0000
+Received: (qmail 31674 invoked by uid 225); 19 Oct 2010 03:45:40 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 31669 invoked by alias); 19 Oct 2010 03:45:40 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 18 Oct 2010 20:45:37 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 776382AFE1; Mon, 18 Oct 2010 20:45:33 -0700 (PDT)
+To: jobs@perl.org
+Date: Mon, 18 Oct 2010 20:45:33 -0700
+Message-ID: <20101019034534.776382AFE1@x3.develooper.com>
+Subject: Senior Programmer (onsite), United States, CO/CA, Broomfield, CO or
+ Orinda, CA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13056
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 18, 2010
+
+Job title: Senior Programmer
+
+Company name: Mountain News Corp.
+
+Location: United States, CO/CA, Broomfield, CO or Orinda, CA
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Work where you play. Play where you work. Vail Resorts employees enjoy
+careers at some of the most iconic locations on the planet. We embrace an
+authentic life balance that provides our team the environment to work hard,
+play hard and live well, every single day. We are dedicated to delivering
+exceptional guest service by helping our guests enjoy the great outdoors
+that we call home. Whether you are part of our community for a season or a
+lifetime, working for Vail Resorts is the Experience of a Lifetime.
+  
+The Senior Programmer is an IT position for Mountain News Corporation,
+publishers of the world's most visited snow sports web site, OnTheSnow.com,
+and provider of Snow Sports and Summer Mountain Travel content to over
+2,000 media companies world wide.  Mountain News Corporation is based in
+Orinda, California and the operations of MNC, including editorial content,
+are maintained separate and independent from Vail Resorts' five mountain
+resorts and lodging and real estate businesses.
+
+ 
+The Senior Programmer/Architect is responsible for all the technical
+components of the divisions websites.  The main focus includes
+architecting, programming and implementing solutions using Database, web
+servers, Object Oriented applications and their supporting technologies. 
+Provides Database Administrator, Programmer, Systems Programmer and Unix
+admin roles.  Creates reusable architecture and components which can be
+used by front end developers.
+Identify and implement technologies and procedures to enhance Content
+Management System using internal and external API's (Flickr, Facebook,
+Google, OAS).
+Identify and implement solutions for scalability and performance in web/app
+and data store layers. 
+Create abstract solutions to complex problems to reduce complexity and time
+necessary to bring new products to market. Working closely with internal
+resources and 3rd party vendors to accomplish.
+Oversees relationships with hosting resources to eliminate company cost of
+self-reliant hosting sites.
+Develop processes and procedures to maintain features within extranet and
+intranet sites.
+Assist with developing and managing relationships with 3rd party vendors
+specializing in areas of interest to reduce overall costs of development.
+Develops and manages new content products for distribution and sale to 3rd
+party media vendors (Yahoo!, CNN, TV networks, radio stations, etc).
+Develops and manages web features which utilize new technologies and
+advancements in features field (Examples: AJAX, DHTML, mashups, community
+features,  webs services, etc).
+
+
+Required skills:
+Bachelor's degree in computer science, computer programming, computer
+engineering , math/physics  or related field preferred, or the equivalent
+job-related experience and training. Industry knowledge and experience
+required.
+6-8+ years programming experience
+Proven ability to design/code high performance applications in a fully
+dynamic high volume website (2+ million unique visitors per month).
+Localization in a UTF8 characters set.	Familiarity with encoding and
+decoding problems and solutions.
+Advanced knowledge of  UNIX, Perl (ModPerl), Linux in a LAMP enviroment and
+at least one of the following PHP, .NET (preferable) or Java (preferable). 
+Abstraction of problem spaces and strong Object Oriented mindset.
+Webservices experience REST/SOAP in Java or .NET.
+Advanced Apache Server configuration for high traffic website.	Tomcat or 
+other application server knowledge is a plus.
+Advanced SQL knowledge including stored procedures, sub selects, joins in a
+UTF8 character set with multiple collations.
+XML, XLST, JSON and XSD experience in both publishing and consuming.
+MS Word and standard office software.  MS Visio, UML,
+Ability to independently learn and master new technologies.
+Willingness to embrace architectural change such as moving from LAMP to
+.NET or MySQL to NoSQL; motivation to master the new technology to expert
+level.
+Strong written and verbal communication skills.
+Ability to compile and install 3rd party software on Linux platforms.  This
+may include make, rpm, and various update managers.  Ability to install
+from src and resolve conflicts is a plus.
+MySQL, Oracle or SQLServer DBA skills.	Schema creation, performance tuning
+and replication experience a plus.
+
+
+Website for more information: http://www.jobs.vailresorts.com/
+
+Contact information at:
+http://jobs.perl.org/job/13056#contact

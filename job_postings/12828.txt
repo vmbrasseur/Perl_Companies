@@ -1,0 +1,106 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12828
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 17538 invoked from network); 11 Oct 2012 20:02:18 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 11 Oct 2012 20:02:18 -0000
+Received: (qmail 1686 invoked by uid 225); 11 Oct 2012 20:02:18 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 1682 invoked by alias); 11 Oct 2012 20:02:18 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 11 Oct 2012 13:02:14 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id F385B2AFDF; Thu, 11 Oct 2012 13:02:10 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 11 Oct 2012 13:02:10 -0700
+Message-ID: <20121011200210.F385B2AFDF@x3.develooper.com>
+Subject: Senior Automation Infrastructure Engineer (onsite), Cambridge, MA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16606
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 11, 2012
+
+Job title: Senior Automation Infrastructure Engineer
+
+Company name: Akamai Technologies
+
+Internal ID: 6861
+
+Location: Cambridge, MA
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+About the Job
+
+Akamai is looking for an experienced software engineer with automation
+development skills to work with engineering and quality teams to build and
+maintain system-level test automation tools. Our automation infrastructure
+spans many languages and supports testing highly distributed front-end and
+back-end systems. You will gather requirements, design, implement, and
+maintain tools and infrastructure used by more than a dozen teams.
+
+About the Team
+
+The System Quality Assurance group is responsible for extensive testing
+across all the technologies developed in Engineering. This group is
+knowledgeable about all these technologies and focuses on real-world,
+end-to-end testing to ensure all of Akamai's systems integrate and perform
+flawlessly. In addition, this group has a dedicated team developing and
+supporting testing infrastructure, automation, and tools to increase
+efficiency and effectiveness within Akamai’s Engineering Teams.
+
+Responsibilities:
+- Work with the QA and Engineering teams in the design and implementation
+of test automation tools.
+- Design, implement, and support the infrastructure used for automated
+testing of complex systems.
+- Work in a team-based environment while also be able to drive results
+independently, all with an acute awareness of project deadlines and
+priorities.
+- Investigate, debug, and triage issues found with testing infrastructure.
+- Work with cross-functional teams to elicit automation requirements and to
+share technologies.
+
+Required skills:
+Basic Qualifications
+- Education: Bachelor’s Degree in Computer Science or equivalent
+experience.
+- Overall Experience: Minimum of 5 years experience in software quality
+and/or software development engineering.
+- 3+ years programming experience in Perl, Ruby, Python or Shell scripting.
+
+- 3+ years experience supporting large scale systems: installing,
+maintaining, and troubleshooting.
+- 3+ years of technical working experience with UNIX/Linux OS environments
+and HTTP, DNS, TCP/IP.
+
+Desired skills:
+Desired Qualifications
+- Strong attention to detail and excellent problem solving/troubleshooting
+skills.
+- Excellent oral and written communication skills required.
+- Experience building test automation frameworks.
+- Ruby on Rails development experience.
+
+Website for more information: http://www.akamai.com
+
+Contact information at:
+http://jobs.perl.org/job/16606#contact

@@ -1,0 +1,91 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4066
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 1176 invoked from network); 27 Mar 2006 20:52:52 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 27 Mar 2006 20:52:52 -0000
+Received: (qmail 10346 invoked by uid 225); 27 Mar 2006 20:52:51 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 10342 invoked by alias); 27 Mar 2006 20:52:51 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 27 Mar 2006 12:52:49 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id E4E862AFDA; Mon, 27 Mar 2006 12:52:44 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20060327205244.E4E862AFDA@x3.develooper.com>
+Date: Mon, 27 Mar 2006 12:52:44 -0800 (PST)
+Subject: Applications Developer, Server side (onsite), United States, CA, Redwood City
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3859
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 27, 2006
+
+Job title: Applications Developer, Server side
+
+Company name: Claria, inc.
+
+Internal ID: SF-ENG-RY-02
+
+Location: United States, CA, Redwood City
+
+Pay rate: Competitive
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+* Work with other members of a small technical team to design, implement,
+maintain, and scale server-side software applications, middleware, and
+custom data storage/retrieval engines.
+    * Actively participate in the requirements definition, feasibility, and
+ongoing troubleshooting/support phases of the product lifecycle.
+    * Implement automated unit tests, debugging/QA frameworks and test
+tools, development and release tools and build packages (e.g. debs, rpms)
+of custom software.
+
+
+Required skills:
+* BS in CS or equivalent
+    * Excellent English language skills (spoken and written)
+    * Complete understanding of the software development lifecycle
+    * Extensive experience developing Apache/mod-perl applications on Linux
+or Unix
+    * Working knowledge of basic internet protocols (HTTP, FTP, SMTP, DNS,
+etc.)
+    * Basic working knowledge of SQL
+    * Excellent skills in at least one of the following: C, C++, Java,
+Python
+    * Working knowledge of HTML, CSS, JavaScript
+    * Experience using CVS, Subversion, or equivalent for source code
+management
+
+
+Desired skills:
+* Experience developing applications based on mySQL/Oracle/MS SQL a plus
+Experience with Debian Linux
+
+URL for more information:
+http://www.claria.com/companyinfo/careers/
+
+Contact information at:
+http://jobs.perl.org/job/3859#contact
+
+

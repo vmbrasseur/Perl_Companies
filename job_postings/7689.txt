@@ -1,0 +1,83 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7689
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 25013 invoked from network); 15 Feb 2008 20:53:45 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 15 Feb 2008 20:53:45 -0000
+Received: (qmail 3879 invoked by uid 225); 15 Feb 2008 20:53:44 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 3875 invoked by alias); 15 Feb 2008 20:53:44 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 15 Feb 2008 12:53:41 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 3B4A82AF9C; Fri, 15 Feb 2008 12:53:38 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20080215205338.3B4A82AF9C@x3.develooper.com>
+Date: Fri, 15 Feb 2008 12:53:38 -0800 (PST)
+Subject: Sr Software Developer:  Infrastructure (Cluster Mgmt) (onsite), United States, CA, Sunnyvale
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/7944
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 15, 2008
+
+Job title:
+Sr Software Developer:	Infrastructure (Cluster Mgmt)
+
+Company name: Proofpoint, Inc
+
+Location: United States, CA, Sunnyvale
+
+Pay rate: Competitive
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Are you sick of people talking about how perl is a language for script
+kiddies and not good for enterprise class applications? The Infrastructure
+Development Group is a select group developers working on key parts of the
+administration, management, and infrastructure of the Proofpoint product.
+We are looking for an excellent perl developer to do exciting working on an
+enterprise grade, cluster based, application and appliance. You will be
+part of a small team of enthusiastic developers responsible for the
+administration and management portion of our product, with responsibilities
+that transcend the entire development process from design through
+implementation. 
+
+Required skills:
+• Perl (of course), 5 years+ 
+• OO perl 
+• Ability to design software from the ground up 
+• Previous work on a network based application 
+• Willingness to learn
+
+Desired skills:
+• Knowledge of SOAP, HTTP, SMTP, REST 
+• Contributed to a publicly available open source project
+• Knowledge and prior work with Java 
+• Script kiddies need not apply 
+
+URL for more information:
+http://www.proofpoint.com/company/careers.php
+
+Contact information at:
+http://jobs.perl.org/job/7944#contact
+
+

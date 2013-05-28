@@ -1,0 +1,130 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9534
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 15320 invoked from network); 16 Oct 2009 00:49:05 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 16 Oct 2009 00:49:05 -0000
+Received: (qmail 22563 invoked by uid 225); 16 Oct 2009 00:49:04 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 22558 invoked by alias); 16 Oct 2009 00:49:04 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 15 Oct 2009 17:49:02 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 293252AFDF; Thu, 15 Oct 2009 17:48:59 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20091016004859.293252AFDF@x3.develooper.com>
+Date: Thu, 15 Oct 2009 17:48:59 -0700 (PDT)
+Subject: Yahoo! Senior Deployment Tools Software Engineer (onsite), United States, CA, Sunnyvale
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/11176
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 15, 2009
+
+Job title:
+Yahoo! Senior Deployment Tools Software Engineer
+
+Company name: Yahoo!
+
+Internal ID: 23142
+
+Location: United States, CA, Sunnyvale
+
+Pay rate: DOE
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: Full-Time
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Position: Senior Deployment Tools Software Engineer
+Location: Sunnyvale, CA
+Job ID: 23142
+
+
+About Yahoo! 
+
+Think about impacting 1 out of every 2 people online—in innovative and
+imaginative ways that are uniquely Yahoo!. We do just that each and every
+day, and you could too. After all, it's big thinkers like you who will
+create the next generation of Internet experiences for consumers and
+advertisers across the globe. Now’s the time to show the world what you've
+got. Put your ideas to work for over half a billion people. 
+
+== The Team ==
+
+Yahoo!'s Developer Tools Team provides productivity solutions to thousands
+of employees in every Yahoo! location worldwide. Our tools portfolio
+includes open-source and homemade systems covering everything from defect
+and source-code management, through build systems, and on to packaging and
+deployment. We also manage a large internal documentation system and
+provide language platform infrastructure, specifically in Perl and Java.
+
+Our customers are thousands of internal developers, service engineers, QA
+engineers and project managers. We support deployment to hundreds of
+thousands of hosts, and have some of the largest developer databases in the
+world. If you're interested in working in large-scale streamlined
+engineering solutions, the Yahoo! Developer Tools Team is the place to be.
+
+We're a medium-sized team that continues to grow rapidly. We have a strong
+commitment to open source software, both as consumers and contributors.
+
+== Responsibilities and Background ==
+
+We're now looking to hire an experienced, self-motivated build/release
+engineer. You will be working across multiple groups to establish uniform
+build and release practices while improving and maintaining build and test
+automation suites. You will also setup and maintain production staging
+environments, interacting with both development and operations teams.
+
+There will also be tool development opportunities in this position. Most of
+our current toolset is written in Perl and experience with object-oriented
+Perl is preferred.
+
+Yahoo! Inc. is an equal opportunity employer.  For more information or to
+search all of our openings please visit http://careers.yahoo.com.
+
+Required skills:
+* 5 years of build/release engineering experience, including experience
+with:
+* Continuous integration servers (CruiseControl, Hudson, ElectricCommander)
+
+* Version control systems (Subversion, Perforce, Git)
+* Scripting languages (Perl, Python)
+* Build management tools (Make, Ant, Maven)
+* Building C/C++ and Java software
+* Strong troubleshooting and problem-solving skills.
+* Demonstrated production of high-quality documentation.
+* Excellent communication skills
+* Strong Unix background
+
+Desired skills:
+* Experience with building software packages (RedHat, Debian, Solaris)
+* Experience releasing software for deployment on a large scale
+* Subversion configuration and administration
+* 3 years of object-oriented Perl development experience
+* Java development experience
+
+URL for more information: http://careers.yahoo.com/
+
+Contact information at:
+http://jobs.perl.org/job/11176#contact
+
+

@@ -1,0 +1,105 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6531
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 1426 invoked from network); 29 Jun 2007 15:08:46 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 29 Jun 2007 15:08:46 -0000
+Received: (qmail 29479 invoked by uid 225); 29 Jun 2007 15:08:46 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 29473 invoked by alias); 29 Jun 2007 15:08:45 -0000
+X-Spam-Status: No, hits=-2.6 required=8.0
+	tests=BAYES_00,DKIM_POLICY_SIGNSOME,DK_POLICY_SIGNSOME,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 29 Jun 2007 08:08:39 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 71F1D2AFEF; Fri, 29 Jun 2007 08:08:36 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070629150836.71F1D2AFEF@x3.develooper.com>
+Date: Fri, 29 Jun 2007 08:08:36 -0700 (PDT)
+Subject: Systems/Database Admin with Perl Experience (onsite), United States, New Hampshire, Manchester
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/6019
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 27, 2007
+
+Job title:
+Systems/Database Admin with Perl Experience
+
+Company name: Contact Telecom
+
+Location: United States, New Hampshire, Manchester
+
+Pay rate: $85,000 US
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: Permanent
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Contact Telecom is looking for a highly motivated and creative individual
+to manage and maintain all aspects of our Linux based server network and
+PostgreSQL databases.  We provide a highly automated web hosted data
+processing application to the Telecommunications Industry that enables our
+clients to analyze, validate and audit complex billing and usage data. 
+With only a few employees, we’re looking for someone who can become an
+integral part of the Contact Telecom team and values a flexible and
+entrepreneurial working environment.  This job opening is located in
+Manchester, NH at our corporate offices and data center.
+
+Required skills:
+•Bachelor's Degree or equivalent 
+•+1 year UNIX/Linux experience and administering/maintaining PostgreSQL
+databases
+•Competent with complex SQL queries 
+•PostgreSQL configuration and performance tuning experience 
+•Experience with administering and tuning Linux servers
+•Scripting in BASH and Perl 
+•In-depth understanding of security technology and policy with technical
+problem solving 
+•Working knowledge in the following packages:
+o Database – Postgresql 8.1 and 8.2
+o Linux software raid – mdadm
+o Backup – Amanda
+o Email – sendmail and gnu pop3
+o Web Server – Apache
+o Windows file and print sharing – Samba
+o Linux firewall – Shorewall
+o FTP Server – wu-ftp
+o Secure Shell/ftp – Openssh
+o Unix file sharing – NFS
+o Directory Services – NIS
+o DNS – Bind
+o System Monitoring - Nagios
+•Excellent communication skills with the ability to understand and convey
+ideas
+•Demonstrated self starter, willing to take the initiative
+
+
+Desired skills:
+•Previous experience within the Telecommunications Industry 
+•Website development experience
+
+
+URL for more information: http://www.contacttelecom.com/
+
+Contact information at:
+http://jobs.perl.org/job/6019#contact
+
+

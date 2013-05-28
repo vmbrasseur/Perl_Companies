@@ -1,0 +1,114 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11818
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 23469 invoked from network); 2 Nov 2011 06:55:58 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 2 Nov 2011 06:55:58 -0000
+Received: (qmail 11899 invoked by uid 225); 2 Nov 2011 06:55:58 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11895 invoked by alias); 2 Nov 2011 06:55:58 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 01 Nov 2011 23:55:55 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 4DD932AFD2; Tue,  1 Nov 2011 23:55:52 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Tue, 1 Nov 2011 23:55:52 -0700
+Message-ID: <20111102065552.4DD932AFD2@x3.develooper.com>
+Subject: System Test Engineer (m/f) (onsite), Dresden, Germany
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14844
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November  1, 2011
+
+Job title: System Test Engineer (m/f)
+
+Company name: AMD Advanced Micro Devices
+
+Internal ID: 17702
+
+Location: Dresden, Germany
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Founded in 1969 and headquartered in Sunnyvale, California, Advanced Micro
+Devices (NYSE: AMD) is an innovative technology company dedicated to
+collaborating with customers and partners to ignite the next generation of
+computing and graphics solutions at work, home and play. With over 10,500
+employees around the world, AMD is dedicated to driving open innovation,
+choice and industry growth by delivering superior customer-centric
+solutions that empower consumers and businesses worldwide. For more
+information, visit http://www.amd.com
+
+
+AMD GmbH in Dresden is looking for a full-time System Test Engineer (m/f).
+This position is associated with AMDs Operating System Research
+Center.
+
+PRIMARY RESPONSIBILITIES
+
+As OSRC System Test Engineer you are developing test applications and
+Linux kernel modules to stress test key parts of upcoming AMD
+processors and the Linux OS or Hypervisor running ontop of it. You
+will design new testing concepts for multi-core CPUs and APUs,
+power management tests and hardware virtualization tests.
+
+
+MINIMUM QUALIFICATIONS / PERSONAL QUALITIES REQUIRED
+
+- Good knowledge of C and the Linux OS
+
+- Excellent knowledge of Bash and Perl or Python
+
+- Basic knowledge of testing strategies
+
+- Good knowledge of Linux and Unix system tools
+
+- Desire to learn
+
+- Careful and reliable working style
+
+- Capacity for teamwork
+
+MORE INFORMATION
+
+AMD strongly supports the personal development and continuous
+education of its employees. The OSRC is looking for people who enjoy
+encountering new challenges and trying out new approaches just
+as well as developing software that works and is used.
+
+Please include a printout of some sample code that you have written
+yourself in your application. The example should be 150 - 300 lines of
+code and illustrate the style and quality of your programming work.
+It should be written in C, C++, Ruby, Python or Perl and does not need
+to be a complete programm.
+
+Your complete application should be submitted as a single PDF file.
+
+We are looking forward for your application at AMD Career Center or through
+www.amd.com/careers, Requisition #17702.
+Alternatively email to Stella.Lineri@amd.com .
+
+Website for more information:
+https://www.amd.apply2jobs.com/ProfExt/index.cfm?fuseaction=mExternal.showJ
+ob&RID=17702&CurrentPage=1
+
+Contact information at:
+http://jobs.perl.org/job/14844#contact

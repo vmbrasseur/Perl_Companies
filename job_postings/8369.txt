@@ -1,0 +1,109 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8369
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 5935 invoked from network); 27 Jun 2008 20:12:13 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 27 Jun 2008 20:12:13 -0000
+Received: (qmail 7427 invoked by uid 225); 27 Jun 2008 20:12:13 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 7419 invoked by alias); 27 Jun 2008 20:12:12 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 27 Jun 2008 13:11:55 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id B25512AFF4; Fri, 27 Jun 2008 13:11:51 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080627201151.B25512AFF4@x3.develooper.com>
+Date: Fri, 27 Jun 2008 13:11:51 -0700 (PDT)
+Subject: Release Engineer (onsite), United States, CA, Redwood City
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/9076
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 27, 2008
+
+Job title: Release Engineer
+
+Company name: Renkoo
+
+Internal ID: RELEASE ENGINEER
+
+Location: United States, CA, Redwood City
+
+Pay rate: $DOE
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Renkoo is looking for a Release Engineer with operations experience.  You
+will be in charge of getting our applications out into production and play
+a supporting role in keeping them running.  If you enjoy learning new
+things and have a passion for developing cutting-edge methods for managing
+complex large-scale systems, then this job is for you.	This job is core to
+our engineering team and reports to our Web Operations Manager.
+
+Responsibilities:
+- Deploying multiple web applications on a weekly schedule.
+- Update and/or replace our existing deployment infrastructure.
+- Helping plan deployments for new applications and major application
+updates.
+- Working closely with Development and Operations to ensure smooth release
+cycles.
+- Documenting deployment plans and application architectures.
+- Helping manage growth by generating usage reports.
+- Occasional second-tier on-call duty.
+
+
+Required skills:
+- 2-5 years Build/Release experience.
+- Experience deploying website applications to clustered environments.
+- Experience with package managements systems and package creation on
+Linux.
+- Experience managing version control systems; subversion preferred.
+- Scripting expertise in Perl, Shell, PHP, or Python (multiple a plus) and
+willingness to pick up new ones.
+- Experience setting up and maintaining database clusters (MySQL
+replication double plus good).
+- An understanding of protocols running over TCP (especially HTTP) and an
+ability to debug networking and network application problems.
+- A fundamental understanding of what makes web applications scalable and
+why throwing hardware at a problem is not the right answer.
+- Excellent oral and written communications skills.
+
+
+Desired skills:
+- Experience with Amazon Web Services: EC2, S3, Mechanical Turk.
+- Knowledge of Facebook Platform apps.
+- Experience scaling Ajax-based applications (especially OpenSocial).
+- Basic SQL query skills.
+- An understanding of make files and compiling binary applications from
+source.
+- Experience administering Linux-based servers (CentOS, RedHat, Debian,
+etc).
+- An understanding of network topologies and network equipment
+configuration.
+- Experience with automated web testing tools (Selenium a plus).
+
+URL for more information:
+http://renkoo.wordpress.com/2008/01/03/wanted-release-engineer/
+
+Contact information at:
+http://jobs.perl.org/job/9076#contact
+
+

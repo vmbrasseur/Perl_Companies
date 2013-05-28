@@ -1,0 +1,98 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4121
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 25466 invoked from network); 6 Apr 2006 17:22:34 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 6 Apr 2006 17:22:34 -0000
+Received: (qmail 1321 invoked by uid 225); 6 Apr 2006 17:22:33 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 1314 invoked by alias); 6 Apr 2006 17:22:33 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,DRUGS_MUSCLE
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 06 Apr 2006 10:22:30 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 0547A2AFEB; Thu,  6 Apr 2006 10:22:26 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060406172226.0547A2AFEB@x3.develooper.com>
+Date: Thu,  6 Apr 2006 10:22:26 -0700 (PDT)
+Subject: Senior Perl Developer for hosted application (Email Service Provider) (onsite), United States, CA, San Francicso
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3690
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April  6, 2006
+
+Job title:
+Senior Perl Developer for hosted application (Email Service Provider)
+
+Company name: VerticalResponse
+
+Internal ID: PE01
+
+Location: United States, CA, San Francicso
+
+Pay rate: Competitive + Full Benefits
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+VerticalResponse is a fast growing, fun and exciting place to work. We are
+an Email Service Provider (ESP) located in the SOMA of San Francisco close
+to all major transortation. 
+
+We are looking for a senior software developer to join our technology team.
+This is a high-octane, high-profile, high-paying job for someone who:
+-  Has at least 4 years of experience developing internet applications
+-  Has an extremely solid knowledge of OO Perl and a bonus if you also know
+ OO PHP
+-  Knows Linux system administration, GNU utilities, and RPM management
+inside and out
+-  Is proficient in SQL, including experience with queries, normalized and
+denormalized design, stored procedures/triggers, and using SQL in scripting
+languages (e.g. DBD::* in Perl)
+-  Is completely comfortable with all aspects of Unix and FOSS usage
+-  Understands hosted applications including networking design and
+technologies (switches, routers, load balancers, etc.)
+-  Has developed and managed complex server systems that serve high-volume
+sites
+-  Has been responsible for source management, software installation, and
+environment control (dev, qa, prod) for server applications
+-  Is productive and prolific either in a team, or solo
+-  Has great written and verbal communication skills
+-  Has lots of hard-earned (and correct) ideas about how to develop web
+applications the right way
+-  Enjoys obsessing about technical challenges
+-  Wants to learn cool technical stuff
+-  Wants to teach other people about cool technical stuff
+
+The ideal candidate will have both Perl and PHP experience, but we are also
+interested in people with just one of these skills as long as your
+experience is very solid.
+
+Required skills: OO Perl, Linux, GNU, RPMs
+
+Desired skills: OO PHP, SQL experince
+
+URL for more information: http://www.verticalresponse.com/
+
+Contact information at:
+http://jobs.perl.org/job/3690#contact
+
+

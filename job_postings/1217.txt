@@ -1,0 +1,83 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:1217
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 30078 invoked by uid 76); 4 Dec 2003 16:22:43 -0000
+Received: from x1.develooper.com (HELO x1.develooper.com) (63.251.223.170) by onion.perl.org (qpsmtpd/0.26) with SMTP; Thu, 04 Dec 2003 08:22:43 -0800
+Received: (qmail 8980 invoked by uid 225); 4 Dec 2003 16:22:39 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 8975 invoked by alias); 4 Dec 2003 16:22:38 -0000
+Received: from onion.develooper.com (HELO onion.perl.org) (63.251.223.166) by la.mx.develooper.com (qpsmtpd/0.27-dev) with SMTP; Thu, 04 Dec 2003 08:22:26 -0800
+Received: (qmail 29967 invoked by uid 1016); 4 Dec 2003 16:22:25 -0000
+Date: 4 Dec 2003 16:22:25 -0000
+Message-ID: <20031204162225.29963.qmail@onion.perl.org>
+To: jobs@perl.org
+X-Spam-Check-By: la.mx.develooper.com
+X-Spam-Status: No, hits=1.8 required=7.0 tests=CARRIAGE_RETURNS,SPAM_PHRASE_03_05,TO_BE_REMOVED_REPLY version=2.44
+X-SMTPD: qpsmtpd/0.26, http://develooper.com/code/qpsmtpd/
+Subject: Senior Web Developer  mod_perl SOAP (part onsite), United States, NJ, Egg Harbor Township
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1108
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December  4, 2003
+
+Job title: Senior Web Developer  mod_perl SOAP
+
+Company name: Bender Internet Group
+
+Location: United States, NJ, Egg Harbor Township
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: Permanent
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+We are a rapidly growing, 5 years old company, looking for an experienced
+Perl programmer to join our growing team.
+This position is will require at least 3 days a week on-site.  However we
+always have more work than man power and candidates with the requested
+skills are encouraged to apply as outsourced contract workers.
+ 
+We are currently working to make our sites much more dynamic and migrating
+our perl CGI to Mod_Perl. We are also starting to work with SOAP and
+SOAP::Lite.
+ 
+Development environment will be Linux with apache, mod_perl, MySQL, and
+postgresql.
+Prior experience in high traffic, high availability web site development
+with is a must.
+
+
+Required skills:
+Perl
+mod_perl
+Apache
+Linux
+SQL
+HTML
+XML 
+
+Desired skills:
+SOAP
+Postgresql
+Javascript
+
+Contact information:
+Please send resume to Robert Knaak jobs@citytravelguide.com
+
+
+

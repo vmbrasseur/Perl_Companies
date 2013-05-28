@@ -1,0 +1,77 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7504
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 30795 invoked from network); 10 Jan 2008 21:02:09 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 10 Jan 2008 21:02:09 -0000
+Received: (qmail 19753 invoked by uid 225); 10 Jan 2008 21:02:09 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 19738 invoked by alias); 10 Jan 2008 21:02:08 -0000
+X-Spam-Status: No, hits=-2.6 required=8.0
+	tests=BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 10 Jan 2008 13:02:06 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 6772B2AF9B; Thu, 10 Jan 2008 13:02:01 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20080110210203.6772B2AF9B@x3.develooper.com>
+Date: Thu, 10 Jan 2008 13:02:01 -0800 (PST)
+Subject: Perl Programmer - database front end project (telecommute), United States, MA, Westford
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/7678
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 10, 2008
+
+Job title:
+Perl Programmer - database front end project
+
+Company name: Ekaru
+
+Location: United States, MA, Westford
+
+Pay rate: Negotiable
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: indefinite
+
+Hours: Part time
+
+Onsite: no
+
+Description:
+We are looking for an accomplished Perl programmer to complete a database
+front end and provide ongoing support and absorb overflow work.
+
+The initial project incorporates a MySQL Database (already mostly
+complete), a front-end that displays the public and customer web pages, and
+an admin area to do data entry into the database.  The partially completed
+front end is written in a Haskell-Perl hybrid.	We are open to building on
+the existing interface, or re-writing to a more standard Perl
+infrastructure.
+
+After the site is up and running (initial project), we would like support
+to do updates, further development, and other ongoing support.
+
+Required skills:
+Perl
+My SQL
+
+Desired skills: Haskell Perl
+
+Contact information at:
+http://jobs.perl.org/job/7678#contact
+
+

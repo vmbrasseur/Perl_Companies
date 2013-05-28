@@ -1,0 +1,95 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12537
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 1283 invoked from network); 21 Jun 2012 16:08:06 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 21 Jun 2012 16:08:06 -0000
+Received: (qmail 7057 invoked by uid 225); 21 Jun 2012 16:08:06 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 7051 invoked by alias); 21 Jun 2012 16:08:06 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 21 Jun 2012 09:08:03 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id D892D2AFE0; Thu, 21 Jun 2012 09:07:59 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 21 Jun 2012 09:07:59 -0700
+Message-ID: <20120621160759.D892D2AFE0@x3.develooper.com>
+Subject: Javascript Node.js Perl Developer (MD/Telecommute) (part onsite),
+ Baltimore, MD, USA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16158
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 21, 2012
+
+Job title: Javascript Node.js Perl Developer (MD/Telecommute)
+
+Company name: RadioField
+
+Location: Baltimore, MD, USA
+
+Pay rate: Competitive
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+RadioField, a division of CargoTel, Inc., is developing a work flow system
+using javascript Node.js (coupled with perl) on both the front-end mobile
+(html5) and back-end web. Core technologies include Mojolicious,
+javascript, JQuery Mobile, Node.js, Perl, and REST (which communicates with
+RadioField's JQuery/Perl web site). 
+
+We are seeking a talented and experienced javascript developer who also has
+experience in perl web development. Applicant should be familiar with
+modern web technologies such as MVC and JQuery and have experience in
+mobile applications development.
+
+Maryland-area candidate or telecommuter with right background would be
+considered. 
+
+CargoTel/RadioField is a YAPC sponsor, host and sponsor of the
+Baltimore/Washington DC Perl Mongers.
+
+Required skills:
+- Extensive modern javascript 
+- JQuery and/or JQuery Mobile
+- Node.js
+- Revision control(Git preferred, Mercurial/SVN/CVS ok) 
+- HTML skills 
+- Ability to work in a fast-paced team environment 
+- Enthusiasm, determination and initiative
+
+Desired skills:
+- HTML5 
+- Android, iOS, Phonegap (Cordova)
+- OO perl web development 
+- REST, JSON 
+- QR Codes and NFC (Near Field Communication) 
+- Mapping integration and PostGIS 
+- Mojolicious, Catalyst or another MVC framework 
+- Familiarity with JIRA, Confluence, Fisheye, etc 
+- DBIx::Class or another ORM 
+- PostgreSQL (or relevant experience with another relational db) 
+- Agile software development 
+- Experience in the field service or logistics industry
+
+Website for more information: http://www.cargotel.com/
+
+Contact information at:
+http://jobs.perl.org/job/16158#contact

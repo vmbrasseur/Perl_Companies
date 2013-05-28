@@ -1,0 +1,90 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7375
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 12623 invoked from network); 5 Dec 2007 15:50:25 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 5 Dec 2007 15:50:25 -0000
+Received: (qmail 22595 invoked by uid 225); 5 Dec 2007 15:50:24 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 22589 invoked by alias); 5 Dec 2007 15:50:24 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 05 Dec 2007 07:49:45 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id D8BEF2AFE2; Wed,  5 Dec 2007 07:49:41 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20071205154941.D8BEF2AFE2@x3.develooper.com>
+Date: Wed,  5 Dec 2007 07:49:41 -0800 (PST)
+Subject: C::A/Apache::Reg/MySQL web-app bug fixing contract (telecommute), United States, WA, Seattle
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/7488
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December  5, 2007
+
+Job title:
+C::A/Apache::Reg/MySQL web-app bug fixing contract
+
+Company name: Golden Guru
+
+Location: United States, WA, Seattle
+
+Pay rate: DOE
+
+Travel: 75-100%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 1 month-ish with good chance o
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+Client with an existing, reasonably large CGI::Application web-app running
+on Debian needs bug fixes ASAP. The app was originally written as a pure
+CGI app then dumped into Apache::Registry. Looking for a mid-level Perl
+hacker who can step into the code to debug a handful of critical,
+non-trivial bugs. Bugs include a broken emailing service, order processing
+where some orders get “lost” in the system, missing reporting
+functionality, and similar.
+
+The majority if not all of the work could be done telecommute. However,
+slight preference will be given to local (Seattle WA USA) candidates
+because there may be some value in meeting face-to-face with the client’s
+staff briefly at some point.
+
+
+Required skills:
+1. Very good Perl reading skills (existing code is readable-ish but not
+great or documented)
+2. Apache::Registry exposure (understand some of the issues with taking a
+CGI app and dumping it into A::R)
+3. MySQL experience (from POV of Perl web-app development)
+4. Attention to detail; responsiveness; other various good traits you'd
+expect to see listed here
+
+
+Desired skills:
+1. Experience with large but semi-architected C::A apps.
+2. CGI::Application experience in general
+3. Previous web-app/db debugging experience
+
+
+URL for more information: http://goldenguru.com/
+
+Contact information at:
+http://jobs.perl.org/job/7488#contact
+
+

@@ -1,0 +1,123 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:1312
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 67185 invoked by uid 76); 23 Jan 2004 01:05:39 -0000
+Received: from qmailr@one.develooper.com (HELO ran-out.mx.develooper.com) (64.81.84.115) by onion.perl.org (qpsmtpd/0.26) with SMTP; Thu, 22 Jan 2004 17:05:39 -0800
+Received: (qmail 26072 invoked by uid 225); 23 Jan 2004 01:05:38 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 26066 invoked by uid 507); 23 Jan 2004 01:05:38 -0000
+Received: from onion.develooper.com (HELO onion.perl.org) (63.251.223.166) by one.develooper.com (qpsmtpd/0.27-dev) with SMTP; Thu, 22 Jan 2004 17:05:07 -0800
+Received: (qmail 67013 invoked by uid 1016); 23 Jan 2004 01:05:05 -0000
+Date: 23 Jan 2004 01:05:05 -0000
+Message-ID: <20040123010505.67012.qmail@onion.perl.org>
+To: jobs@perl.org
+X-Spam-Check-By: one.develooper.com
+X-Spam-Status: No, hits=1.2 required=7.0 tests=CARRIAGE_RETURNS,SPAM_PHRASE_01_02,TO_BE_REMOVED_REPLY version=2.44
+X-SMTPD: qpsmtpd/0.26, http://develooper.com/code/qpsmtpd/
+Subject: Sr Perl Developer (onsite), United States, CA, Pasadena
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1198
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 22, 2004
+
+Job title: Sr Perl Developer
+
+Company name: eQuest Solutions
+
+Location: United States, CA, Pasadena
+
+Pay rate: $80-110K + options
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: full-time
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+A leading Global Internet Company is looking for 3 Sr Level Perl
+Developers.  Company has been public for over 3 years, has been profitable
+for the past 6 Quarters, has YTD Net Income of $18+ million and has $100+
+million in cash.  Company has over 500 employees globally.
+
+The Sr Perl Developer will be part of an exclusive team, within the
+company.  The Sr Perl Developer will be working on one of two development
+teams that are responsible for 1) algorithim development with heavy use of
+OO Perl (possibly some Java) to increase efficiency and effectiveness of
+product or 2) responsible for working with the company’s key/elite external
+partners and clients developing new, customized and unique
+solutions/applications in OO Perl (possibly some Java) that will result in
+increased revenue and ROI.  The Sr Perl Developer will meet with the
+external partners to determine their requirements, translate the
+requirements into technical solutions and implement the new solutions into
+the current infrastructure and enterprise systems, including enterprise
+wide middleware products.  New applications will primarily be developed in
+Perl on Linux.	Current enterprise systems are built in Java and Perl
+running on BEA WebLogic and ATG Dynamo Application Servers on Solaris with
+Oracle 8i on the back-end.  Current development is exclusively being
+written on RedHat Linux utilizing VI or emac editors (NO IDE’s). Company
+consistently works with bleeding edge technology. Engineering team consists
+of 15+ Caltech and MIT alum.
+
+Company offers full benefits medical (PPO & HMO) including dental and
+vision, 401K, Stock Option and Purchase Plans, 2 weeks paid vacation, 8
+paid sick days, Short and Long Term Disability, Life Insurance, casual
+attire and flexible work hours.
+
+
+Required skills:
+Candidate MUST have at least 2-3+ years of Perl development on Unix,
+preferably Linux, (a MUST HAVE) for large-scale, distributed, high-volume
+Web based systems. Currently, company is developing on Linux and deploying
+on Solaris. Or must have experience with algorithim development.
+Should have experience deploying Perl code on Application Servers;
+preferably ATG Dynamo and/or BEA WebLogic.
+Proven OO Analysis and Design experience with UML and different design
+patterns.
+Perl multi-tier client server systems.
+Scalable high throughput low latency systems.
+Familiarity with system SLAs (establishing them, meeting them,
+understanding them).
+Familiar with low level instrumentation of code for performance (perl,
+'c').
+Understanding of system level components to aid in high performance
+software development
+Understanding of web services architecture
+Understanding of heterogenous production environments
+Experience interfacing with external clients (outside the company) a plus.
+Bachelors or Masters C.S. Degree is a MUST.  Caltech, MIT or Berkeley grads
+highly preferred.
+Any messaging and middleware experience is a plus.
+Experience with any alogorithm-based applications/systems is a plus.
+Experience with Oracle, XML and any middleware products a plus.
+
+
+Please do NOT apply unless you have at least 2 years of Perl development on
+Unix/Linux for large distributed Web Systems.  Your Perl and Unix/Linux
+development and deployment experience must be detailed in the body of your
+resume before client will consider it.
+
+*Company is unable to sponsor or offer corp-to-corp contract to Visa
+holders. *
+*Company will not offer relocation assistance. *
+
+Company is in position to hire immediately.  Qualified candidates will be
+required to take and pass an extensive Perl/Unix exam.
+
+
+Contact information: al@equestsolutions.com
+
+

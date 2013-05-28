@@ -1,0 +1,80 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11965
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8788 invoked from network); 19 Dec 2011 06:28:24 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 19 Dec 2011 06:28:24 -0000
+Received: (qmail 1502 invoked by uid 225); 19 Dec 2011 06:28:24 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 1498 invoked by alias); 19 Dec 2011 06:28:24 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 18 Dec 2011 22:28:19 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 0857A2AFE0; Sun, 18 Dec 2011 22:28:15 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sun, 18 Dec 2011 22:28:15 -0800
+Message-ID: <20111219062816.0857A2AFE0@x3.develooper.com>
+Subject: Perl Dev who knows Linux and the web (onsite), Austin, TX
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15286
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 18, 2011
+
+Job title: Perl Dev who knows Linux and the web
+
+Company name: Koston Consulting
+
+Location: Austin, TX
+
+Pay rate: salary + profit sharing
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+I'm moving my business to downtown Austin and I'm looking for someone who
+is game to hack on web services in Perl with me and may or may not be
+interested in working on the Apache API in C. I've got a number of neat
+projects going OneClickSSL for GlobalSign, SEO Tools for Attracta and some
+others and I'm looking to expand the team. 
+
+The company:
+	http://www.kostonconsulting.com
+
+My background:
+	http://www.linkedin.com/profile/view?id=13278991
+
+I'm looking for people who are looking to work for a small company with
+great job growth and partnership potential. You should have 3+ years in OO
+Perl doing something (hopefully more than 1 thing) that someone would get
+pissed about if it broke. You should also have read way too many RFCs and
+STDs for one lifetime.
+
+Required skills:
+OO Perl, experience parsing XML and JSON, understanding of HTTP and Apache,
+understanding of SSL and openssl, understanding of CGI
+
+Desired skills:
+Ownership of all knowledge related to Perl and the Web, LAMP, openssl,
+YAML, XML, JSON, Javascript, HTML, CSS, C and the Apache API.
+
+Website for more information: http://kostonconsulting.com
+
+Contact information at:
+http://jobs.perl.org/job/15286#contact

@@ -1,0 +1,99 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10270
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 30050 invoked from network); 29 Jun 2010 02:18:04 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 29 Jun 2010 02:18:04 -0000
+Received: (qmail 13393 invoked by uid 225); 29 Jun 2010 02:18:03 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 13386 invoked by alias); 29 Jun 2010 02:18:01 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 28 Jun 2010 19:18:00 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id A3C982AFE1; Mon, 28 Jun 2010 19:17:56 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20100629021756.A3C982AFE1@x3.develooper.com>
+Date: Mon, 28 Jun 2010 19:17:56 -0700 (PDT)
+Subject: Scripting Genius (onsite), United States, MD, Oxon Hill area
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/12448
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 28, 2010
+
+Job title: Scripting Genius
+
+Company name: White Oak Technologies, Inc.
+
+Location: United States, MD, Oxon Hill area
+
+Pay rate: Competitive!
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+
+What do you do when data sources are larger than you've ever seen, less
+structured than you thought possible, and arrive without documentation? We
+write elegant, transportable code that scales. We leverage clusters, SANs
+and other high-end hardware configurations, but to maximize the speed and
+performance of our applications we optimize and fine tune complex scripts
+on UNIX and Linux systems. We are often called upon to reformat and
+separate data for a variety of uses, and expect flexibility and creativity
+to accommodate evolving requirements. How you can help:
+
+
+Required skills:
+How you can help:
+*	Develop custom scripts (Perl, Awk, Bash, shell, Python, etc.) to
+cleanse, transform and normalize very large, often unstructured
+multi-format data sets. 
+*	Analyze the data once it is inside a database or custom file
+solution to perform pattern analysis. 
+*	Explore new ways to manipulate and parse a variety of formats.
+*	Use text parsing languages and transformations, complex data
+structures and statistical analysis to guide, develop and support follow-on
+processes.
+*	Scale, scale, scale!
+
+
+Desired skills:
+Qualifications:
+
+*	Experience with scripting in Linux/Unix environments (CLI).
+*	Ability to munge data, analyze it within and outside of databases,
+and extract salient features.
+*	Demonstrated experience on very large data sets, preferably from
+many sources.
+*	Expertise distributing jobs across clusters and demonstrated
+aptitude for compiling results. NFS!
+*	Applicants must be U.S. citizens and selected applicants will be
+subject to a government security investigation and must meet eligibility
+requirements for access to classified information. Current Top Secret
+clearance strongly preferred.
+*	BS in CS preferred.
+
+
+URL for more information: http://woti.jobs/
+
+Contact information at:
+http://jobs.perl.org/job/12448#contact
+
+

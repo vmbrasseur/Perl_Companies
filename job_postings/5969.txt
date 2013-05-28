@@ -1,0 +1,137 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5969
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 25937 invoked from network); 22 Mar 2007 19:37:32 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 22 Mar 2007 19:37:32 -0000
+Received: (qmail 10775 invoked by uid 225); 22 Mar 2007 19:37:32 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 10749 invoked by alias); 22 Mar 2007 19:37:31 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,DK_POLICY_SIGNSOME
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 22 Mar 2007 12:37:24 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 784552B035; Thu, 22 Mar 2007 12:37:21 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070322193721.784552B035@x3.develooper.com>
+Date: Thu, 22 Mar 2007 12:37:21 -0700 (PDT)
+Subject: Perl Developer for education industry (onsite), United States, New York, New York
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5521
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 22, 2007
+
+Job title: Perl Developer for education industry
+
+Company name: Edison Schools, Inc.
+
+Location: United States, New York, New York
+
+Pay rate: USD56,000 - USD75,000
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+BE THE DIFFERENCE!
+Edison Schools, Inc.is excited to announce that we have an opening for a
+Perl Developer in our
+Technology division. As the Perl Developer, you will be working on Edison’s
+
+Achievement Management System, an educational tool that provides grade
+level
+benchmark testing in specific subject areas to over 450 schools throughout
+the
+United States and the United Kingdom. You will develop and support in-house
+
+applications that are 100% mod_perl (using a combination of mason and
+Template::Toolkit) sitting on top of Linux servers with a PostgreSQL
+database backend.
+No matter what your particular role is within Edison Schools, you will
+ultimately be
+supporting our work to raise student achievement and helping every child to
+reach his
+or her full potential.
+At the heart of all of Edison Schools’ internal and external teams,
+partnerships,
+services and programs is a set of core values to which all members of the
+Edison
+community subscribe. By actively promoting and embracing these values, we
+provide
+a clear reference point that encourages a positive ethos and guides all
+that we do.
+Main Responsibilities:
+Ability to determine unique and creative solutions to problems within a
+rapid
+development environment.
+Develop and maintain software and packages to support applications.
+Analyze and fix data irregularities and write code when necessary to fix
+problems.
+Optimize queries, indexes, stored procedures and other to increase
+throughput,
+availability, scalability, redundancy, superior performance and quick
+recoverability.
+Develop reports and custom queries for internal and external users.
+Participate in the design of new applications.
+Develop web applications using Perl and Template Toolkit.
+Develop Perl modules to support internal processes and applications.
+Maintain code of existing applications.
+Recommend strategies to take advantage of database capabilities for new and
+
+existing projects.
+Constructively challenge and improve existing department-wide processes.
+Writes internal documentation describing software developed.
+
+
+Required skills:
+5+ years solid development experience with object-oriented Perl, mod_perl,
+XML and HTML in a dynamic, fast-paced application development environment.
+
+5+ years of SQL experience (Oracle or PostgreSQL environment is ideal).
+5+ years with Operations Support Software.
+Database development and design experience with SQL and Oracle.
+Understanding of various software development lifecycle methodologies,
+configuration management (CVS) and object-oriented software development
+methodologies.
+Detailed knowledge of web application architecture and infrastructure.
+Experience with Linux (primarily Red Hat).
+Ability to work well independently and within a team, especially
+cross-functional
+teams.
+Excellent written and verbal communication skills.
+
+
+Desired skills:
+Preferred Skills:
+Mason (v1.0.6).
+Template::Toolkit.
+ETL experience.
+Some secondary language (C/C++, Java, Python, Ruby, etc.).
+Some experience with school operations, especially in the areas of
+enrollment,
+scheduling and attendance.
+
+
+URL for more information: http://www.edisonschools.com/
+
+Contact information at:
+http://jobs.perl.org/job/5521#contact
+
+

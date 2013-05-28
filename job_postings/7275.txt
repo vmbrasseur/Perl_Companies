@@ -1,0 +1,110 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7275
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 14045 invoked from network); 14 Nov 2007 04:21:06 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 14 Nov 2007 04:21:06 -0000
+Received: (qmail 6674 invoked by uid 225); 14 Nov 2007 04:21:06 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 6654 invoked by alias); 14 Nov 2007 04:21:04 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 13 Nov 2007 20:20:50 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 20AEC2AFEA; Tue, 13 Nov 2007 20:20:46 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20071114042046.20AEC2AFEA@x3.develooper.com>
+Date: Tue, 13 Nov 2007 20:20:46 -0800 (PST)
+Subject: Workflow Coordinator -- ImageMagick & Perl (onsite), Canada, Ontario, Toronto
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/7273
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 13, 2007
+
+Job title:
+Workflow Coordinator -- ImageMagick & Perl
+
+Company name: Masterfile Corporation
+
+Location: Canada, Ontario, Toronto
+
+Pay rate: commensurate with experience
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Based in Toronto, Canada, Masterfile is one of the world's largest
+independent stock photo agencies. We acquire, organize, distribute and
+license images for commercial use in media ranging from print advertising
+to websites. With the Masterfile web site selling images around the clock
+and a collection exceeding one million images, our need for ingenuity has
+never been higher.
+
+As Masterfile's image collection grows, we need to efficiently manage an
+increasingly complex workflow. We are seeking a detail-oriented, motivated
+and adaptable individual for the position of Workflow Coordinator. The
+successful candidate will operate, maintain and improve various automated
+image processing workflows, running on Mac OS X.
+
+These workflows are implemented as scripts -- written in Perl and
+AppleScript -- which automate the ingestion, processing and publishing of
+very large numbers of image files, using ImageMagick and Photoshop.
+
+This entry level position is a great opportunity to learn about -- and
+contribute to -- a high-volume production environment.
+
+Responsibilities:
+
+- Operate and maintain various digital image processing workflows which
+handle a large volume of image files daily
+- Improve, adapt and optimize image processing workflows 
+- Validate and manage metadata in databases and text files
+- Monitor image quality to ensure correct colour and data integrity
+- Handle ad hoc image processing requests 
+- Communicate and work with Masterfile staff, image suppliers and
+distributors regarding image processing and content syndication
+- Research image processing and workflow technology and practices to
+further improve quality and efficiency
+
+
+Required skills:
+- At least 1 year experience writing scripts for workflow automation using
+Perl or other scripting languages
+- Knowledge of Unix and shell scripting (we are using Mac OSX); must be
+comfortable on the command line
+- Understanding of Internet protocols: HTTP, FTP, SSH
+- Knowledge of Adobe Photoshop – especially colour management and
+automation 
+- Understanding of colour management (e.g. ICC profiles), image files
+formats and image compression
+- Knowledge of SQL and Microsoft Server or MySQL would be an asset
+- Experience with command line image processing tools, such as ImageMagick,
+would be an asset
+- Experience with production workflows, e.g. pre-press workflows, would be
+an asset
+- Excellent interpersonal skills are required
+
+
+URL for more information: http://www.masterfile.com/
+
+Contact information at:
+http://jobs.perl.org/job/7273#contact
+
+

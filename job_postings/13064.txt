@@ -1,0 +1,103 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13064
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 1042 invoked from network); 20 Jan 2013 05:34:20 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 20 Jan 2013 05:34:20 -0000
+Received: (qmail 3048 invoked by uid 225); 20 Jan 2013 05:34:20 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 3044 invoked by alias); 20 Jan 2013 05:34:19 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 19 Jan 2013 21:34:17 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 01D662AFE0; Sat, 19 Jan 2013 21:34:13 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 19 Jan 2013 21:34:13 -0800
+Message-ID: <20130120053414.01D662AFE0@x3.develooper.com>
+Subject: Perl Developer (onsite), The Championships, London Borough of
+ Merton, London SW19, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16900
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 17, 2013
+
+Job title: Perl Developer
+
+Company name: Ascent Sourcing
+
+Location:
+The Championships, London Borough of Merton, London SW19, UK
+
+Terms of employment: Salaried employee
+
+Length of employment: Permanent
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+seeking passionate Perl developers of all levels to join their dynamic team
+to maintain and develop current and future web projects. 
+
+We are looking for developers who have a genuine passion for all aspects of
+web technology and wish to be involved in all steps of running successful
+online services, including but not limited to: 
+
+HTML 
+Javascript 
+CSS 
+Perl 
+Apache/Lighttpd/Nginx 
+MySQL/BerkeleyDB/Memcached 
+Networking (Subnets, VLANs, etc) 
+NFS/Samba 
+DNS 
+Hardware Switches/Routers/VPNs/Consoles/Proxies 
+SANs, NAS, Filers 
+Load-balancers 
+Server hardware 
+
+If the above sounds interesting and exciting, regardless of experience, we
+would like to talk to you. 
+
+You will be responsible for developing Perl applications, with hands-on
+exposure to the entire application stack, down to configuring the hardware.
+
+Required skills:
+Hands-on experience of Perl development on Linux 
+Understanding of OO concepts 
+Aptitude to learn new technologies 
+Excellent communication skills 
+Passion for technology
+
+Desired skills:
+Perl references, complex data structures, map, grep, sort 
+OO Perl, Class::Accessor, Object::InsideOut, Moose 
+DBI, DBIx::Class 
+JSON::RPC, XML::RPC 
+Test::Simple, Test::More, Test::Exception 
+Catalyst, PSGI/Plack, FastCGI, mod_perl 
+Apache, Lighttpd, Nginx 
+DNS/Bind 
+SMTP/Exim, IMAP/Dovecot 
+SSL/TLS 
+JQuery 
+SQL, MySQL (with replication), BerkeleyDB, Memcached 
+Cisco certified
+
+Contact information at:
+http://jobs.perl.org/job/16900#contact

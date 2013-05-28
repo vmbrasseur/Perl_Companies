@@ -1,0 +1,90 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3326
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 30297 invoked from network); 13 Oct 2005 23:33:09 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 13 Oct 2005 23:33:09 -0000
+Received: (qmail 10571 invoked by uid 225); 13 Oct 2005 23:33:09 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 10566 invoked by alias); 13 Oct 2005 23:33:08 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 13 Oct 2005 16:33:01 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j9DNWwF0011862
+	for <jobs@perl.org>; Thu, 13 Oct 2005 16:32:58 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j9DNWw7d011860;
+	Thu, 13 Oct 2005 16:32:58 -0700
+Date: Thu, 13 Oct 2005 16:32:58 -0700
+Message-ID: <200510132332.j9DNWw7d011860@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Experienced Perl Developer (onsite), United States, NY, New York
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3175
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 13, 2005
+
+Job title: Experienced Perl Developer
+
+Company name: Bloomberg LP
+
+Internal ID: 16104
+
+Location: United States, NY, New York
+
+Pay rate: Negotiable
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Bloomberg is the leading global provider of data, news and analytics. The
+BLOOMBERG TERMINAL and Bloomberg's media services provide real-time and
+archived financial and market data, pricing, trading, news and
+communications tools in a single, integrated package to corporations, news
+organizations, financial and legal professionals and individuals around the
+world. 
+
+Bloomberg's Build and Release Team is looking for an experienced Perl
+applications developer with knowledge of software configuration and build
+engineering to develop and support Bloomberg's build and release
+environment.
+
+Required skills:
+Strong Perl, experience writing Perl modules for reuse, with
+object-oriented Perl a plus.
+Knowledge of C and C++ development, compilers and linkers.
+Experience with Unix platforms, especially Solaris, AIX, and Linux.
+
+Desired skills:
+Experience with SCM systems such as CVS, Subversion, and ClearCase.
+Windows development experience a plus.
+
+
+URL for more information:
+http://quote.bloomberg.com/apps/career?action=1&jobid=16104&T=career/detail
+.wm
+
+Contact information at:
+http://jobs.perl.org/job/3175#contact
+
+

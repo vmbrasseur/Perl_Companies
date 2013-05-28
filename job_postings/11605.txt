@@ -1,0 +1,103 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11605
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 32349 invoked from network); 23 Aug 2011 15:28:21 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 23 Aug 2011 15:28:21 -0000
+Received: (qmail 26782 invoked by uid 225); 23 Aug 2011 15:28:21 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 26778 invoked by alias); 23 Aug 2011 15:28:21 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 23 Aug 2011 08:28:18 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 24A732AFD4; Tue, 23 Aug 2011 08:28:15 -0700 (PDT)
+To: jobs@perl.org
+Date: Tue, 23 Aug 2011 08:28:14 -0700
+Message-ID: <20110823152815.24A732AFD4@x3.develooper.com>
+Subject: Perl Developer for London Startup (onsite), UK, London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14718
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 23, 2011
+
+Job title: Perl Developer for London Startup
+
+Company name: Adzuna
+
+Location: UK, London
+
+Pay rate: 35k to 45k GBP
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are looking to recruit an experienced, professional perl developer to
+support the growth and development of our next-generation classified ads
+search engine.	The site to date has been developed on the back end by a
+single experienced lead developer, however we are now looking to expand our
+team.
+
+You will need good communication skills and attention to detail as well as
+technical ability. You will also need to understand the importance of
+building structured code that is fast, scalable, reliable and robust.  As
+part of a very small but talented team you need to thrive working
+independently and in a fast-moving, low-structure environment.
+
+The kind of projects you will be working on include  new search features
+and relevancy algorithms, partner xml feed integration, data analysis and
+metrics, administrative tools and  a variety of new features and
+enhancements. Our systems have been with scalability in mind, so the
+successful candidate must demonstrate experience and ability to write
+scalable code to be run in distributed environments.
+
+Adzuna has been founded and recently launched by two experienced web
+entrepreneurs who have built three multi-million revenue companies in the
+last 5 years with similar business models, are developer-friendly, and have
+extensive expertise in marketing and monetisation of these businesses.	It
+is funded by experienced business angels and a venture capital fund.  The
+initial focus is on the UK, but we expect to expand internationally
+rapidly.  To find out more about us visit http://jobs.adzuna.co.uk
+
+Initially the role may be on a contract basis at market competitive salary,
+however there is the opportunity for this to become a full time role and to
+earn an equity stake in the business over time. 
+
+Location is at our office in central London.  Flexibility can be discussed.
+
+Required skills:
+•	Very good Object-Oriented Perl
+•	Apache, fastcgi
+•	mysql
+•	SOLR or other search engine
+•	Attention to detail
+•	multi-box/multi-environment system configuration
+
+Desired skills:
+•	Experience with templating frameworks (ideally Template Toolkit)
+•	Spidering technology
+•	Catalogue / feeds management
+•	Search engine optimisation
+•	Classified ads / vertical search websites
+•	Cloud services integration (eg AWS)
+•	gearman or other distributed job-dispatching mechanisms
+
+Website for more information: http://jobs.adzuna.co.uk
+
+Contact information at:
+http://jobs.perl.org/job/14718#contact

@@ -1,0 +1,122 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11223
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 10354 invoked from network); 14 Apr 2011 15:43:55 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 14 Apr 2011 15:43:55 -0000
+Received: (qmail 10465 invoked by uid 225); 14 Apr 2011 15:43:55 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 10459 invoked by alias); 14 Apr 2011 15:43:54 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS,T_LOTS_OF_MONEY
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 14 Apr 2011 08:43:53 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 126FC2AFE2; Thu, 14 Apr 2011 08:43:49 -0700 (PDT)
+To: jobs@perl.org
+Date: Thu, 14 Apr 2011 08:43:49 -0700
+Message-ID: <20110414154350.126FC2AFE2@x3.develooper.com>
+Subject: Perl Developer (onsite), United Kingdom, London, London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14042
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 14, 2011
+
+Job title: Perl Developer
+
+Company name: Venda Limited
+
+Location: United Kingdom, London, London
+
+Pay rate: up to £45,000
+
+Terms of employment: Salaried employee
+
+Length of employment: Permanent
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The Role
+The Venda platform is a complex, high availability system, which serves
+100's Mb/sec of traffic, has a throughput of 10’s of thousands of financial
+transactions per day, 1000’s of requests per second and delivers 99.95%
+availability.
+The role is within a multi-skilled technical team, where you will be
+responsible for:
+- Developing the Venda product to enhance functionality,  increase
+performance and simplify maintenance, fixing and extending its integration
+capabilities.
+- Introducing services to add functionality to the core   platform.
+- Promoting an SOA approach to new features.
+- Designing and implementing solutions collaboratively to add value to the
+Venda product and increase revenue for our customers in the most cost
+efficient way.
+- Leading projects, mentoring and reviewing other developers’ work to
+ensure that stability, performance and security of the Venda product is
+maintained.
+- Liaising with remote teams.
+- Assisting with the delivery of frequent version upgrades.
+While our dev teams primarily use Perl we actively encourage applications
+from developers whose background is in Rails, Python, PHP and Java.
+For Senior roles we expect deeper technical skills and an excellent working
+knowledge of high availability systems.  We would also like to see
+experience shaping teams, raising technical standards and especially
+mentoring of younger team members.
+
+
+Required skills:
+Essential Technical Skills
+-	LAMP development using Catalyst and Moose.
+-	Object Oriented Perl.
+-	Experience and understanding of technology and development cycles.
+-	Test driven development.
+-	Source control management using GIT or Subversion.
+-	Good knowledge of high availability systems (e.g. eCommerce,
+internet or similar) and associated challenges.
+-	Good knowledge of CPAN.
+-	Commercial experience of SQL.
+-	Knowledge of web security, including PCI, XSS.
+
+Essential Soft Skills
+-	Self motivated with proactive approach.
+-	Able to remain calm under pressure.
+-	Willing to take ownership and responsibility.
+-	High level of attention to detail.
+-	Keen to automate common tasks.
+-	Open minded with a desire to learn new skills and technologies.
+-	Able to write excellent documentation and understand why it is
+necessary.
+-	Methodical approach to problem solving.
+
+Knowledge, Experience & Qualifications
+-	Knowledge of libraries and frameworks.
+-	Educated to degree level or having gained appropriate commercial
+experience.
+
+
+Desired skills:
+Desirable Skills
+-	Experience with agile, scrum and XP.
+-	Experience of web technologies such as HTML, CSS, JavaScript, Ajax,
+JSON etc.
+-	Strong Database skills; indexes, normalization, stored procedures,
+views, entity-relationships etc.
+
+Website for more information:
+http://ukvenda.theresumator.com/apply/w1ciRd/Perl-Developer.html
+
+Contact information at:
+http://jobs.perl.org/job/14042#contact

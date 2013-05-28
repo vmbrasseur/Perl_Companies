@@ -1,0 +1,103 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:1316
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 60636 invoked by uid 76); 24 Jan 2004 21:33:32 -0000
+Received: from qmailr@one.develooper.com (HELO ran-out.mx.develooper.com) (64.81.84.115) by onion.perl.org (qpsmtpd/0.26) with SMTP; Sat, 24 Jan 2004 13:33:32 -0800
+Received: (qmail 27815 invoked by uid 225); 24 Jan 2004 21:33:31 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 27808 invoked by uid 507); 24 Jan 2004 21:33:31 -0000
+Received: from onion.develooper.com (HELO onion.perl.org) (63.251.223.166) by one.develooper.com (qpsmtpd/0.27-dev) with SMTP; Sat, 24 Jan 2004 13:33:00 -0800
+Received: (qmail 60482 invoked by uid 1016); 24 Jan 2004 21:32:58 -0000
+Date: 24 Jan 2004 21:32:58 -0000
+Message-ID: <20040124213258.60481.qmail@onion.perl.org>
+To: jobs@perl.org
+X-Spam-Check-By: one.develooper.com
+X-Spam-Status: No, hits=1.8 required=7.0 tests=CARRIAGE_RETURNS,SPAM_PHRASE_03_05,TO_BE_REMOVED_REPLY version=2.44
+X-SMTPD: qpsmtpd/0.26, http://develooper.com/code/qpsmtpd/
+Subject: Reports Developer (onsite), United States, CA, Los Angeles
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1201
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 24, 2004
+
+Job title: Reports Developer
+
+Company name: citysearch
+
+Internal ID: LARepD
+
+Location: United States, CA, Los Angeles
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The Reports team is responsible for developing and maintaining the
+Citysearch click stream data warehouses. The team is involved in
+collecting, processing, and analysis of the web and advertising traffic,
+and proving financial reporting. The Reports team plays a major role in
+supporting the business and managing the data processing that
+runsCitysearch .com.
+
+Your responsibilities will include, but not be limited to:
+
+-Developing applications for the reporting system, including SQL procedures
+and queries, design, and interfaces/reports.
+-Data mining of the data warehouse using SQL and applications
+-Developing custom reports using a combination of web technologies, Crystal
+Reports and Business Objects.
+-Redesign of the current .Net/SQL Server financial reporting system to a
+mySQL/Oracle and Java and perl platform.
+- Development and implementation of a business dashboard.
+
+This is a data intensive position in contrast to a pure application
+development position. 
+
+Required skills:
+Bachelor degree in Computer Science, or equivalent experience.
+Proficient in relational databases and SQL.
+Two years of software development experience using Perl, mod_perl, or Java.
+
+Two years of reporting experience using either a programming language, or a
+BI tool.
+Must be proficient in SQL including SQL Server procedures
+Comfortable working in both Windows NT/2000 and Linux/Solaris environments.
+
+Familiar with fundamentals of financial reporting.
+Experience in development of GUI interfaces.
+Knowledge of OLAP or other reporting tools a plus.
+Knowledge of .Net a plus.
+Strong analytical and debugging skills.
+
+If interested, please email resume to fieldref@citysearch.com with LARepD
+in the subject line.
+
+Contact information:
+Contact for more information:
+
+Citysearch
+3731 Wilshire Blvd
+
+Los Angeles, CA 90010
+
+
+
+E-mail: fieldref@citysearch.com
+
+Web: http://www.citysearch.com
+
+

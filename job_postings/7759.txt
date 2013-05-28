@@ -1,0 +1,107 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7759
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8642 invoked from network); 4 Mar 2008 00:03:17 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 4 Mar 2008 00:03:17 -0000
+Received: (qmail 7854 invoked by uid 225); 4 Mar 2008 00:03:17 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 7850 invoked by alias); 4 Mar 2008 00:03:16 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 03 Mar 2008 16:03:14 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id C668F2AFD0; Mon,  3 Mar 2008 16:03:10 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20080304000310.C668F2AFD0@x3.develooper.com>
+Date: Mon,  3 Mar 2008 16:03:10 -0800 (PST)
+Subject: Create affiliate based ecommerce site (telecommute), WI, Madison
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8074
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March  2, 2008
+
+Job title: Create affiliate based ecommerce site
+
+Location: WI, Madison
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: project, maybe more
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+I need a site built for an affiliate based store system.  Here's a break
+down, my estimate of the number of hours it should take is in brackets []:
+=====================================
+Pages required for affiliates: [36]
+
+Stats Overview [10]
+Modify Account Info [5]
+ --Edit Payment Info
+
+Payment History [4]
+
+Update Store Info: [2]
+notify email address, store name, etc
+
+List/Download templates [3]
+
+View/Search Orders [4]
+
+Editable Price list [8]
+
+=====================================
+Fulfillment: [10]
+
+Order Queue [6]
+Order Info/Update [4]
+
+
+=====================================
+Templates [20]
+
+- affiliates will put a template on their website that will include
+graphics and have dynamic pricing and products
+=====================================
+Cart & Payment Page [8]
+
+a secure page that takes the order.
+
+=====================================
+Management [18]
+
+Affiliate Payment - [6]
+Downloadable monthly/weekly spreadsheet
+
+Product Editing/Additions [12]
+=====================================
+
+
+Required skills: DBI/MySQL, CSS, HTML, Javascript.
+
+Desired skills:
+I'd prefer a Mason developer, but you don't have to be.
+Prototype.js experience would be good too.
+
+
+Contact information at:
+http://jobs.perl.org/job/8074#contact
+
+

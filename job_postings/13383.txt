@@ -1,0 +1,66 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13383
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28181 invoked from network); 6 May 2013 23:06:23 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 6 May 2013 23:06:23 -0000
+Received: (qmail 14148 invoked by uid 225); 6 May 2013 23:06:23 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 14144 invoked by alias); 6 May 2013 23:06:22 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 06 May 2013 16:06:19 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 2B9E02AFE1; Mon,  6 May 2013 16:06:16 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 6 May 2013 16:06:16 -0700
+Message-ID: <20130506230616.2B9E02AFE1@x3.develooper.com>
+Subject: Documenting an existing Perl script (telecommute), Bangkok, Thailand
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17357
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May  6, 2013
+
+Job title: Documenting an existing Perl script
+
+Company name: Precision Translation Tools
+
+Location: Bangkok, Thailand
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Part time
+
+Onsite: no
+
+Description:
+Document an existing LGPL3 Perl script. The script is a workflow with 89
+command-line arguments and nine independent stages. Each stage concatenates
+the command argument values into input/output file paths and arguments that
+are use to run binary application or script sub-processes. The "real" work
+is done by the subprocess. This script is not complicated; it's just a lot
+of boring work.
+
+The script is virtually undocumented in the project where it's published.
+"Document everything" includes which stages use what arguments, how they
+are used, and what is the affect on the input/output path names for each of
+the stages. We will this documentation under Creative Commons license and
+contribute it back to the original open source project. Project fee
+negotiable.
+
+Required skills: Perl
+
+Contact information at:
+http://jobs.perl.org/job/17357#contact

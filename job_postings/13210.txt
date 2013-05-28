@@ -1,0 +1,88 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13210
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 2860 invoked from network); 12 Mar 2013 08:08:11 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 12 Mar 2013 08:08:11 -0000
+Received: (qmail 19519 invoked by uid 225); 12 Mar 2013 08:08:10 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 19511 invoked by alias); 12 Mar 2013 08:08:10 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 12 Mar 2013 01:08:04 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 899112AFE1; Tue, 12 Mar 2013 01:08:00 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Tue, 12 Mar 2013 01:08:00 -0700
+Message-ID: <20130312080800.899112AFE1@x3.develooper.com>
+Subject: Senior Software Developer (onsite), Reading, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17115
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 11, 2013
+
+Job title: Senior Software Developer
+
+Company name: First Point Group
+
+Location: Reading, UK
+
+Pay rate: Negotiable
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: End of Year (extendable)
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+1 Description
+A software developer position working in Perl and SQL on a network
+performance management solution in the mobile telecommunications space. 
+1.1 Key Tasks and Responsibilities
+Developing, test and release Perl scripts and modules that, interact with a
+messaging queue, parse XML files, control database loaders, control
+database table management… in a high performance 24/7 business critical
+data warehouse and reporting solution.
+Deploy and manage Perl based solutions on Redhat platforms.
+Translate business and design requirements into automation solutions
+written in Perl.
+Test and release code via SVN.
+Produce in-code and wiki based Documentation.
+Parse, translate and store data sourced from XML, CSV and semi structured
+data files.
+
+BSc degree educated in Telecommunications, Computing or Information
+Technology, (preferred 2:1 or above).
+2.2 Experience:
+In depth knowledge of OO Perl (Essential)
+In depth knowledge of SVN or similar code management solutions (Essential)
+In depth knowledge of UNIX/Linux (Essential)
+In depth knowledge of Greenplum/Postgresql/Oracle/Mysql platforms 
+Previous experience working with STOMP/AMPQ message queuing
+solutions(Desirable)
+Knowledge of mobile telecom OSS Platforms from NSN/Ericsson/ Huawei
+(Desirable)
+Knowledge of mobile phone network typologies and basic element
+functionality (Desirable)
+
+Required skills: PERL
+
+Desired skills: Greenplum MYSQL
+
+Contact information at:
+http://jobs.perl.org/job/17115#contact

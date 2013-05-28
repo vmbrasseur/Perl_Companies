@@ -1,0 +1,95 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11183
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 1422 invoked from network); 8 Apr 2011 00:41:32 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 8 Apr 2011 00:41:32 -0000
+Received: (qmail 16930 invoked by uid 225); 8 Apr 2011 00:41:31 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 16926 invoked by alias); 8 Apr 2011 00:41:31 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 07 Apr 2011 17:41:29 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id CCAB32AFE9; Thu,  7 Apr 2011 17:41:25 -0700 (PDT)
+To: jobs@perl.org
+Date: Thu, 7 Apr 2011 17:41:25 -0700
+Message-ID: <20110408004125.CCAB32AFE9@x3.develooper.com>
+Subject: Perl/Selenium Contractor (onsite), United Kingdom, Paddington,
+ London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13992
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April  6, 2011
+
+Job title: Perl/Selenium Contractor
+
+Company name: PhotoBox Limited
+
+Location: United Kingdom, Paddington, London
+
+Pay rate: £300 to £350 per day
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: 3 months+
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Photobox is Europe's leading online personal publishing and printing
+service. Based metres from Paddington station, Photobox's London office
+hosts the Scrum teams responsible for development of the Photobox website. 
+Following agile methodologies the teams build the
+large-scale, heavy volume, customer facing website, internal admin tools,
+and the API that glues it all together.  They're domain experts in what
+they do, be it anything from spinning up hundreds of cloud based servers to
+cope with a surge in customer demand to developing rich interactive user
+experience with JavaScript.
+
+An ideal candidate would be enthusiastic about modern Perl programming and
+have a passion for HTML, CSS and all things in the browser.
+
+**Main purpose of the contract**
+To expand Photobox’s suite of automated regression tests.
+
+As part of our continuous integration project, Photobox has already
+automated some 50% of regression test cases using Selenium but the scripts
+were written in Ruby and some of them are now out of date. Our core
+technology is perl and it has therefore been decided to port the existing
+scripts to a perl framework (based on Test::WWW::Selenium) given that we
+have plenty of in-house perl expertise.
+
+This role will involve working closely with our QA and scrum teams to
+expand our frontend test cases, convert and polish the Ruby scripts and
+extend test coverage to close to 100% of our manual regression test suite.
+
+Required skills:
+* Perl – at least 3 years’ experience of OO Perl, CPAN etc.
+* HTML, CSS, JQuery, JavaScript - good working knowledge
+* SVN, GIT. cvs or another source code management system
+
+Desired skills:
+* Any experience with Selenium
+* Basic knowledge of Ruby
+* An awareness of common testing procedures and methodologies
+* Basic knowledge of Hudson
+* Good analytical skills
+
+Website for more information: http://www.photobox.co.uk/
+
+Contact information at:
+http://jobs.perl.org/job/13992#contact

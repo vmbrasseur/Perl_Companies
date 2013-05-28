@@ -1,0 +1,203 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6555
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 20761 invoked from network); 2 Jul 2007 18:46:01 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 2 Jul 2007 18:46:01 -0000
+Received: (qmail 24307 invoked by uid 225); 2 Jul 2007 18:46:00 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 24299 invoked by alias); 2 Jul 2007 18:46:00 -0000
+X-Spam-Status: No, hits=-0.2 required=8.0
+	tests=BAYES_40,DKIM_POLICY_SIGNSOME,DK_POLICY_SIGNSOME,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 02 Jul 2007 11:45:57 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 2F6E22AFE6; Mon,  2 Jul 2007 11:45:54 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070702184554.2F6E22AFE6@x3.develooper.com>
+Date: Mon,  2 Jul 2007 11:45:54 -0700 (PDT)
+Subject: Senior Software Engineer (onsite), United States, California, SAN FRANCISCO
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5769
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July  2, 2007
+
+Job title: Senior Software Engineer
+
+Company name: Symantec
+
+Internal ID: 565226
+
+Location: United States, California, SAN FRANCISCO
+
+Pay rate: NA
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+=head1 NAME
+
+Senior::Software::Engineer - your new job.
+
+=head1 SYNOPSIS
+
+     my $job = Senior::Software::Engineer->new();
+     my $me = Perl::Guru->new( \%my_attributes );    # be honest!
+     if ( $job->apply($me) ) {
+	 $job->perform( \%intriguing_stuff );
+     }
+     else {
+	 die "No hire";
+     }
+
+=head1 DESCRIPTION
+
+Want to work with a small team of highly-motivated Perl hackers?
+
+Want the benefits of a large company without giving up that can-do startup
+spirit?
+
+Want to write code that makes the world better while also kicking the
+competition's butt?
+
+This may be a job for you.
+
+=head2 WE ARE
+
+We are part of a market-leading business unit of a Fortune 1000 software
+company with operations in 40 countries.  We work on a mission-critical
+system that quietly and effectively feeds oxygen to the rocket ship of our
+product line.
+
+We're smart and flexible and we get things done.
+
+We fight spam.
+
+=head2 YOU ARE
+
+You are a rock-star hacker with a passion for great code and the track
+record to prove it.
+
+You love Perl but not to the exclusion of other things.
+You also love being on a winning team.
+
+You're serious but not boring, smart but not pretentions, funny but not
+rude.  You have a life.
+
+You're comfortable with complexity, unafraid of pressure, tolerant of
+legacy code, passionate about quality, and dedicated to customer
+satisfaction.
+
+=head2 LOCATION^3
+
+We work in the heart of beautiful downtown San Francisco, within easy
+walking distance of some of the world's finest cultural and culinary
+offerings.
+
+
+=head1 REQUIREMENTS
+
+=head2 ABSOLUTE MUST-HAVES
+
+=over
+
+=item Perl Expertise.
+
+OOPerl, C<Class::*>, C<Apache::*>, C<Legacy::Complex::Voodoo>
+
+=item Testing Experience.
+
+C<Test::More> and more.
+
+=item Solid Database Knowledge.
+
+C<DBI> and C<Class::DBI> and a strong understanding of relational database
+concepts and their application in the real world.
+
+=item Senior/Lead Engineering Experience.
+
+Something on the order of 10 years' experience, all of it interesting.
+
+=item System Programming Experience.
+
+     die unless $^O =~ /(li)?[nu]+i?x/i;
+
+This position involves B<Heavy Lifting> on the server.
+Candidates I<must> be fully able to geek out on difficult, esoteric
+system-level weirdness in Perl and outside it.
+
+=item Nerves of Steel.
+
+This is the kind of job where you have to measure twice before you cut,
+even if you have to do it very fast.
+The business depends directly on your work.
+
+=back
+
+=head2 COOL-TO-HAVES
+
+=over
+
+=item More Languages.
+
+We all speak C<Perl> but we speak other things as well.
+If you're a C<Python>ite we'd like to hear about that.
+
+=item Experience Shipping Commercial Software.
+
+While this job is mostly about internal applications, we still live in a
+world where software ships and ships fast.
+
+=item Security Experience.
+
+We are, after all, a security company.	Familiarity with the industry and
+its challenges is a big plus.
+
+=item Messaging (or similar) Experience.
+
+Much of our work is about quickly analyzing breathtakingly large amounts of
+e-mail-related data.  Experience building systems to parse and process
+e-mail or similar types of data would be very nice.
+
+=item Web Application Experience.
+
+Some of our work involves purpose-built web applications, both internal and
+public-facing:	C<mod_perl>, C<HTML::Mason>, and the like (plus a little
+fancy Web 2.0 here and there).
+
+=back
+
+=head1 APPLICATION
+
+To apply for this position, send the usual self-presentation package to:
+
+     perl_guru@symantec.com
+
+As the application process progresses we will at some point ask to see a
+code sample; it must be an original work and free of any access
+restrictions.  Time to bring your CPAN modules up to date!
+
+=cut
+
+
+Contact information at:
+http://jobs.perl.org/job/5769#contact
+
+

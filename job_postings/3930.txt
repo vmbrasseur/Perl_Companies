@@ -1,0 +1,97 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3930
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 3881 invoked from network); 27 Feb 2006 22:11:52 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 27 Feb 2006 22:11:52 -0000
+Received: (qmail 5447 invoked by uid 225); 27 Feb 2006 22:11:51 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 5442 invoked by alias); 27 Feb 2006 22:11:50 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 27 Feb 2006 14:11:46 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id k1RMBfJJ029941
+	for <jobs@perl.org>; Mon, 27 Feb 2006 14:11:41 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id k1RMBf2g029939;
+	Mon, 27 Feb 2006 14:11:41 -0800
+Date: Mon, 27 Feb 2006 14:11:41 -0800
+Message-ID: <200602272211.k1RMBf2g029939@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Unix/Linux Software Developer for Distance Education (onsite), United States, MA, Cambridge
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3306
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 27, 2006
+
+Job title:
+Unix/Linux Software Developer for Distance Education
+
+Company name: Harvard University
+
+Internal ID: 25773
+
+Location: United States, MA, Cambridge
+
+Pay rate: Grade 058
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Reports to the Software Development Manager for Distance Education. The
+person in this role will be responsible for the design and implementation
+of Unix and Linux system software and Web applications for use in distance
+education and academic computing within DCE. Projects will include such
+things as developing services for the monitoring and control of the
+distributed components of the distance education software, designing and
+implementing security methods for access to distance education
+publications, and analyzing and optimizing system performance. The person
+will also actively participate in the design of new distance education
+systems as well as the testing and debugging of complex software and
+operational problems. This person will report to the Software Development
+Manager for Distance Education.
+
+Required skills:
+B.S. or M.S. degree in Computer Science or Software Engineering and 3-5
+years in Unix/Linux systems programming, particularly related to Web
+applications, databases, and security. Must have extensive experience in
+Perl and Web development in a Unix/Linux environment; in particular with a
+templating system such as HTML::Mason or Template Toolkit, use of mod_perl,
+CGI, and open source tools. The current environment includes tools for
+distributed processing, Cygwin, Red Hat and Solaris and MySQL. The
+candidate must have a commitment to agile software engineering practices
+including requirements gathering, source code management practices,
+iterative design, and testing. The individual must be very detail-oriented,
+have excellent written and oral communication skills, and must be able to
+express designs in both written and verbal forms prior to implementation.
+The successful candidate must be able to work under pressure as part of a
+team in an integrated software development and operations/production
+environment.
+
+URL for more information:
+http://jobs.harvard.edu/jobs/summ_req?in_post_id=28972
+
+Contact information at:
+http://jobs.perl.org/job/3306#contact
+
+

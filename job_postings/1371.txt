@@ -1,0 +1,209 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:1371
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 76443 invoked by uid 76); 21 Feb 2004 00:15:24 -0000
+Received: from x1.develooper.com (HELO x1.develooper.com) (63.251.223.170) by onion.perl.org (qpsmtpd/0.26) with SMTP; Fri, 20 Feb 2004 16:15:24 -0800
+Received: (qmail 4761 invoked by uid 225); 21 Feb 2004 00:15:23 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 4700 invoked by alias); 21 Feb 2004 00:15:06 -0000
+Received: from [63.251.223.166] (HELO onion.perl.org) (63.251.223.166)  by la.mx.develooper.com (qpsmtpd/0.27-dev) with SMTP; Fri, 20 Feb 2004 16:15:06 -0800
+Received: (qmail 76293 invoked by uid 1016); 21 Feb 2004 00:14:56 -0000
+Date: 21 Feb 2004 00:14:56 -0000
+Message-ID: <20040221001456.76292.qmail@onion.perl.org>
+To: jobs@perl.org
+X-Spam-Checker-Version: SpamAssassin 2.63 (2004-01-11) on x1.develooper.com
+X-Spam-Status: No, hits=-4.9 required=8.0 tests=BAYES_00 autolearn=ham 	version=2.63
+X-SMTPD: qpsmtpd/0.26, http://develooper.com/code/qpsmtpd/
+Subject: Software Engineer / Wireless Network Management / XP (onsite), United States, CA, San Mateo
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1257
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 20, 2004
+
+Job title:
+Software Engineer / Wireless Network Management / XP
+
+Company name: AirWave Wireless Inc.
+
+Location: United States, CA, San Mateo
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+AirWave Wireless develops wireless network management software solutions
+that make wireless networks as manageable and secure as wireline networks.
+The company's AirWave Management Platform enables an IT organization to
+manage a large WLAN efficiently from a central console, greatly reducing
+the cost of maintaining a wireless network and dramatically improving
+network performance. Leading IT organizations at Fortune 500 enterprises,
+major universities, and other prominent institutions are currently using
+AirWave's software. 
+
+
+Working Environment
+We are looking to expand our development team! We have an enthusiastic team
+where pair programming is the norm and egos are kept in check. We follow
+the extreme programming methodology (XP), which includes test driven
+development, pair programming, and short release cycles. 
+
+
+
+Required skills:
+Requirements
+- Extensive enterprise application development experience using Perl and
+object-oriented programming
+- Linux application development
+- Knowledge of network protocols like SNMP, TFTP, HTTP, etc.
+- Strong interpersonal communication skills
+- Motivated and proactive attitude
+
+
+
+Desired skills:
+Preferred Skills
+- Experience developing network management software
+- Knowledge of IP and 802.11 networking
+- Network management experience, specifically wireless network management
+- Linux system administration (rpm, network configuration, etc.)
+- Experience developing automated tests
+- Strong refactoring and design skills
+- Extreme Programming (XP) experience
+
+Responsibilities
+- The software engineer's responsibilities include designing, writing,
+testing, and maintaining code that is part of a shipping enterprise network
+management and monitoring software package. The majority of the development
+is in OO Perl. 
+- This position requires working in an extreme programming environment
+where pair programming, test-driven development and refactoring are the
+norm. 
+
+
+
+Contact information:
+How to Apply
+Please answer the following questions and submit the answers with a resume
+and cover letter to se@airwave.com. No submissions will be considered
+without answers to these questions. 
+
+No recruiters or headhunters.
+Please do not phone our office.
+Only applicants who submit their application to se@airwave.com will be
+considered.
+
+
+Write a function, compute_bonuses() to calculate employee bonuses.
+Employee sales data are stored like this:
+
+$emp_data = {
+"bob" => {
+salary => 38.7, # in k$/yr
+sales => 23, # units
+},
+"jane" => {
+salary => 50.3,
+sales => 36,
+},
+...
+};
+
+Employees get a 20% bonus on their base salary if their sales exceed 30
+units.
+
+Your compute_bonuses() function should take a single argument like
+$emp_data above, and return a hashref with names as keys and bonus amounts
+as values. The output hashref only contains employees receiving a bonus,
+e.g.
+{
+"jane" => 10.06,
+...
+}
+
+
+Write a function which takes a single scalar argument and returns 1 if it
+is a well-formed IP address and 0 otherwise. 
+Examples:
+"123.123.123.456" -- invalid
+"blahblah" -- invalid
+"10.32.45.8" -- valid
+
+
+Write a function to convert "xxx.yyy.zzz.iii" (IP address in dotted-quad
+format) to $number, where $number is a perl scalar (integer) between 0 and
+2^32-1.
+
+
+Given: 
+-------------- 
+package Obj; 
+use base qw(Singleton); 
+
+sub count { 
+my $self = shift; 
+return $self->{count}++; 
+} 
+1;
+
+-------------- 
+
+package Foo; 
+use base qw(Singleton); 
+
+sub count { 
+my $self = shift; 
+return $self->{count}++; 
+} 
+1;
+
+-------------- 
+
+#!/usr/bin/perl -w
+use strict;
+use Obj; 
+use Foo;
+
+my $obj1 = Obj->new(); 
+print $obj1->count(); # prints '0' 
+
+my $obj2 = Obj->new(); 
+print $obj2->count(); # prints '1' 
+
+my $foo1 = Foo->new(); a
+print $foo1->count(); # prints '0' 
+
+my $foo2 = Foo->new(); 
+print $foo2->count(); # prints '1' 
+
+-------------- 
+
+Please implement the package 'Singleton'. With your code, provide an
+executable script that will validate the implementation (perhaps using the
+Test package). 
+
+
+---------------------------------------------------------------------------
+--
+---------------------------------------------------------------------------
+--
+---------------------------------------------------------------------------
+--
+---------------------------------------------------------------------------
+--
+
+
+

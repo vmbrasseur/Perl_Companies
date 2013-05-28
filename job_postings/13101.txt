@@ -1,0 +1,104 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13101
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13505 invoked from network); 29 Jan 2013 05:42:09 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 29 Jan 2013 05:42:09 -0000
+Received: (qmail 23604 invoked by uid 225); 29 Jan 2013 05:42:09 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 23596 invoked by alias); 29 Jan 2013 05:42:08 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 28 Jan 2013 21:42:06 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id E1D8E2AFDD; Mon, 28 Jan 2013 21:42:02 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 28 Jan 2013 21:42:02 -0800
+Message-ID: <20130129054202.E1D8E2AFDD@x3.develooper.com>
+Subject: Senior Software Engineer (onsite), Cincinnati, OH or Washington, DC
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16949
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 28, 2013
+
+Job title: Senior Software Engineer
+
+Company name: Academic Benchmarks
+
+Location: Cincinnati, OH or Washington, DC
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Academic Benchmarks is a highly profitable, small company that provides
+services for most of the leading K-12 education technology and publishing
+companies in the US.  We’ve spent the last 10 years building a solid
+portfolio of clients and a substantial amount of valuable intellectual
+property in our quest to help users address the complexities of accurately
+describing educational resources for search and alignment.  Our efforts
+have helped K-12 teachers across the country find the resources they need
+to ensure their students’ success.
+
+Now we are ready to throw some gasoline on this nicely burning bonfire of
+an opportunity to rapidly increase our growth trajectory.  To do so, we are
+looking for a Senior Software Engineer that shares our passion for bringing
+innovative solutions to the education space to join the team and help bring
+new products to market.
+
+Responsibilities
+- Participate in all phases of the software development lifecycle,
+including the architecture of solutions, creation of design documentation,
+actual coding and developing test plans.
+- Provide accurate development estimates and deliver projects on schedule.
+- Help provide leadership to the team and mentor more junior programmers.
+- Value the importance of understanding client need and be creative about
+solving their problems.
+- Stay current on the latest technologies and best practices in development
+and constantly be looking for ways to improve the quality of the team.
+- Be pleasant and/or fun to work with.
+
+Benefits
+- 100% employer paid health, dental and vision for you (and reasonable
+costs for your qualified dependents)
+- Ample paid time off and company holidays
+
+Required skills:
+- Looking for solid talent and significant applied experience. 
+- Bachelors' degree in related field or equivalent knowledge gained through
+work experience.
+- Experience with implementing algorithms to solve complex real world
+problems.
+- Expertise in object oriented design and design patterns.
+
+We use the following technologies so it would be advantageous if you have
+experience with these: 
+- PERL 5 (we’ll also consider experience with PHP, Python or Ruby),
+HTTP/REST, AJAX, HTML5, CSS, XML/JSON, MySQL, and mod_perl/Apache 2.
+
+Desired skills:
+Your resume will go to the top of the pile if you can also bring some of
+these skills to the team:
+- Data analytics, AWS or other cloud platform experience, jQuery, Moose,
+and CORS.
+
+Website for more information:
+http://academicbenchmarks.com/employment/439-senior-software-engineer.html
+
+Contact information at:
+http://jobs.perl.org/job/16949#contact

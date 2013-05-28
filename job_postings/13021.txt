@@ -1,0 +1,117 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13021
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 20417 invoked from network); 7 Jan 2013 20:47:34 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 7 Jan 2013 20:47:34 -0000
+Received: (qmail 20092 invoked by uid 225); 7 Jan 2013 20:47:34 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 20088 invoked by alias); 7 Jan 2013 20:47:33 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,LOTS_OF_MONEY
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 07 Jan 2013 12:47:30 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 2B5A42AFE0; Mon,  7 Jan 2013 12:47:27 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 7 Jan 2013 12:47:27 -0800
+Message-ID: <20130107204727.2B5A42AFE0@x3.develooper.com>
+Subject: Perl Developer (onsite), Reading, Berkshire
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16848
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January  7, 2013
+
+Job title: Perl Developer
+
+Company name: Opsview Limited
+
+Internal ID: 070113
+
+Location: Reading, Berkshire
+
+Pay rate: £45,000
+
+Length of employment: indefinite
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are seeking a Perl Developer who is capable of delivering new features
+in our Opsview product suite. This new role provides a real opportunity at
+the start of an exciting period of growth where your dynamism and vision
+could have a direct influence on the success of our Opsview business.
+
+You will be responsible for developing the product and assisting customers
+with requests for specific feature development whilst providing expert
+technical guidance and dealing with technical issues and queries. You will
+report to the Development Team Leader. 
+
+Training will be provided in Opsview and other open source tools, but prior
+knowledge of these or similar products would be advantageous.
+
+Duties and Responsibilities:
+
+• Developing software for our Opsview product suite
+• Reviewing and contributing to functional specifications and detailed
+technical designs
+• Developing and unit testing to these detailed designs
+• Testing and QA
+• Validating development estimates and timescales, and taking
+responsibility for meeting the resulting deadlines
+• Working as directed with Open Source projects and contributing as
+required
+• Maintaining current technical documentation at the code and design levels
+
+• Working with service developers and operational staff to package, deploy
+and maintain a reliable support service based on the developed software
+• Maintaining the software on an ongoing basis
+
+Required skills:
+• Experienced in Perl development including a minimum of 2 years experience
+in either Perl Catalyst web framework or DBIx::Class 
+• Experience of software development processes
+• Experience in writing unit tests
+• Computer Science, Mathematics or similar degree
+• Experience in other browser based technologies such as Javascript, HTML,
+CSS, AJAX, REST and JSON
+
+Desired skills:
+• Prior experience of working for a small, high-growth company
+• Experience of working within an agile scrum team
+• Experience in version control systems, such as Subversion or Git
+• Experience with Nagios
+• Experience with SQL for MySQL 
+• Experience in testing with Selenium
+• Experience in C programming
+• Contributions to open source projects, especially CPAN modules
+
+You must be a high energy self-starter, able to work with minimal
+supervision and comfortable working within a framework of objectives
+without the need for day to day guidance and direction.
+
+A genuine desire to help create and participate in developing our company,
+culture and future success will be a pre-requisite.
+
+For the successful candidate, we offer a competitive salary with an
+attractive benefit package.
+
+More information about Opsview can be found at www.opsview.com
+
+Website for more information: http://www.opsview.com/about-us/careers
+
+Contact information at:
+http://jobs.perl.org/job/16848#contact

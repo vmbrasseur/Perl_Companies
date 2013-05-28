@@ -1,0 +1,84 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13252
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 21731 invoked from network); 22 Mar 2013 18:21:25 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 22 Mar 2013 18:21:25 -0000
+Received: (qmail 14660 invoked by uid 225); 22 Mar 2013 18:21:25 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 14656 invoked by alias); 22 Mar 2013 18:21:25 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 22 Mar 2013 11:21:22 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id F2EB62AFE0; Fri, 22 Mar 2013 11:21:18 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 22 Mar 2013 11:21:18 -0700
+Message-ID: <20130322182118.F2EB62AFE0@x3.develooper.com>
+Subject: Perl Developer (onsite), Ilkeston, Derbyshire, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17173
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 22, 2013
+
+Job title: Perl Developer
+
+Company name: Close Brothers Commercial Vehicle Solutions
+
+Location: Ilkeston, Derbyshire, UK
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Developer with Perl and MySQL experience required to maintain and further
+develop our suite of bespoke in-house applications, including our customer
+facing fleet management portal.
+
+You will be based at CVS offices and will report to the Managing Director.
+You will work closely with one other software developer and a full time
+systems administrator on a number of bespoke in-house software
+applications, written primarily in Perl.
+
+Major technologies used in these applications include CGI, DBI,
+HTML::Template and MySQL, although there is increasing scope to use higher
+level frameworks such as DBIx::Class, Moose and Catalyst.
+
+The job also involves communication around the business, to gather
+requirements for new features, keep the business informed of new features,
+and to gather information about bugs from users.
+
+Required skills:
+Strong problem solving and design skills – the role will involve solving
+open-ended problems in the context of existing code and business practices.
+
+Organised and attentive to detail. 
+Excellent Perl skills and experience
+SQL experience
+Linux or other UNIX experience
+
+Desired skills:
+Formal education, ideally to degree level, in Computer Science or related
+subject.
+
+Moose, Catalyst and DBIC
+Some Java or Android development experience.
+Exposure to MySQL in particular
+
+Contact information at:
+http://jobs.perl.org/job/17173#contact

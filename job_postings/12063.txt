@@ -1,0 +1,81 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12063
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 9670 invoked from network); 26 Jan 2012 22:50:57 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 26 Jan 2012 22:50:57 -0000
+Received: (qmail 10562 invoked by uid 225); 26 Jan 2012 22:50:57 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 10557 invoked by alias); 26 Jan 2012 22:50:56 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 26 Jan 2012 14:50:54 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 8965F2AFDE; Thu, 26 Jan 2012 14:50:51 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 26 Jan 2012 14:50:51 -0800
+Message-ID: <20120126225051.8965F2AFDE@x3.develooper.com>
+Subject: Perl Engineer (telecommute), San Francisco, CA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15446
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 26, 2012
+
+Job title: Perl Engineer
+
+Company name: VeriFone, Inc.
+
+Internal ID: MOBIPERL1
+
+Location: San Francisco, CA
+
+Pay rate: DOE
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+We are a thriving and innovative payments technology company, expanding our
+reach into the mobile payments space.  We are seeking a senior Perl
+engineer to join our team.  Projects include several Plack driven web
+applications, including customer-facing web site, internal administrative
+tools, and JSON API.  Our systems also integrate with a number of external
+resources through a variety of interfaces.
+
+Current technology stack includes: Linux, MySQL, nginx, Perl, Dancer,
+DBIx::Class, Template Toolkit
+
+Required skills:
+* 5+ years of Perl + web experience
+* Strong SQL background (MySQL preferred)
+* Working with APIs and external services
+* Functional HTML + CSS skills
+* Working knowledge of Linux
+* Good communication skills
+* Work well in a team environment
+* Disciplined, self-driven problem solver
+
+Desired skills:
+* Perl frameworks such as Dancer or Catalyst
+* Service Oriented Architecture
+* DBIx::Class + Template Toolkit
+* Javascript + jQuery
+* Experience with multiple RDBMS
+
+Contact information at:
+http://jobs.perl.org/job/15446#contact

@@ -1,0 +1,87 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5317
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 15759 invoked from network); 18 Nov 2006 08:47:44 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 18 Nov 2006 08:47:44 -0000
+Received: (qmail 3399 invoked by uid 225); 18 Nov 2006 08:47:43 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 3370 invoked by alias); 18 Nov 2006 08:47:42 -0000
+X-Spam-Status: No, hits=-1.8 required=8.0
+	tests=ALL_TRUSTED
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 18 Nov 2006 00:47:40 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 771302AFDD; Sat, 18 Nov 2006 00:47:34 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20061118084734.771302AFDD@x3.develooper.com>
+Date: Sat, 18 Nov 2006 00:47:34 -0800 (PST)
+Subject: Perl Programmer for Educational Institution (onsite), United States, California, Downey
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4982
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 17, 2006
+
+Job title:
+Perl Programmer for Educational Institution
+
+Company name: Los Angeles County Office of Education
+
+Internal ID: Information Technology Outreach
+
+Location: United States, California, Downey
+
+Pay rate: 20-25/hr
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Part time
+
+Onsite: yes
+
+Description:
+Looking for part-time web developer for LAMP environment. Hours can vary
+depending on the number and deadlines of projects. Normal schedule would be
+for 20 hours.  Using mostly Mason/mod_perl/apache 1.3 and moving to
+mod_perl2 / apache 2.x / Template Toolkit.  Must know OOP.
+
+Required skills:
+-Perl / mod_perl 2 and 1/ mysql / apache ( 1.3 and 2.x ) / MySQL 
+- OOP
+– LAMP environment
+-Must know Class::DBI, Template Toolkit and Mason
+-Basic javascript
+-Some Solaris/RedHat experience
+-sql 
+-Ability to Multi-task
+-Ability to Handle multi projects
+-Active listening skills
+-Critical thinking skills
+-Ability to Work very well in a team environment.
+
+
+Desired skills:
+-Advanced javascript ( Ajax – listeners  -- no inline calls )
+-Knowledge of Java 
+-Solaris System Admin experience ( 10 only )
+-Familiar with Agile development 
+-Project management training
+
+
+Contact information at:
+http://jobs.perl.org/job/4982#contact
+
+

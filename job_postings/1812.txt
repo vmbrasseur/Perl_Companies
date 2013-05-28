@@ -1,0 +1,94 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:1812
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 54814 invoked from network); 5 Aug 2004 09:17:55 -0000
+Received: from x1.develooper.com (63.251.223.170)
+  by onion.develooper.com with SMTP; 5 Aug 2004 09:17:55 -0000
+Received: (qmail 26913 invoked by uid 225); 5 Aug 2004 09:17:55 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 26907 invoked by alias); 5 Aug 2004 09:17:55 -0000
+X-Spam-Status: No, hits=-4.9 required=8.0
+	tests=BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from onion.develooper.com (HELO onion.perl.org) (63.251.223.166)
+  by la.mx.develooper.com (qpsmtpd/0.27.1) with SMTP; Thu, 05 Aug 2004 02:17:53 -0700
+Received: (qmail 54790 invoked by uid 1016); 5 Aug 2004 09:17:51 -0000
+Date: 5 Aug 2004 09:17:51 -0000
+Message-ID: <20040805091751.54789.qmail@onion.perl.org>
+To: jobs@perl.org
+X-Spam-Rating: onion.develooper.com 1.6.2 0/1000/N
+Subject: Freelance programmer in the Netherlands (part onsite), Netherlands, Breda
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1195
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 20, 2004
+
+Job title: Freelance programmer in the Netherlands
+
+Company name: Oakbox Productions
+
+Location: Netherlands, Breda
+
+Pay rate: 45 Euros per hour
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Flexible
+
+Onsite: some
+
+Description:
+I am an independent contractor based in the Netherlands.      Mostly I deal
+with psychological testing systems for several clients.  As each system has
+grown, each client is asking for more and more complex feature sets, and
+I'm falling behind.  I need two more freelance programmers to work with on
+these projects and the clients want to warm fuzzy feeling that comes from
+having a second phone number to call if their site starts acting up.  
+
+I am looking for:
+ - An independent contractor, je moet en BTW nummer hebben.  You will spend
+some time getting familiar with the codebase, meet with the client, and be
+available for support issues if I am not available.  Basically, I want
+someone who is a freelancer like me who has some space in their schedule to
+pick up some extra work.  
+ - Someone fluent in Nederlands.  This is a REQUIREMENT, please do not
+respond if you are not fluent in Dutch.
+ - Someone located IN the Netherlands.	On occasion, my clients want to
+meet with the people doing the programming face to face.
+
+
+Required skills:
+Perl
+use strict;
+use warnings;
+OO experience
+MySQL
+Linux
+Subversion is used for version control!
+
+
+Desired skills:
+My code is straightforward and easy to understand.  Not a lot of 'map'ping
+going on.  Readability and Useability are the most important things to me
+and my clients.
+
+A basic understanding of Statistics is a plus, but not a requirment.  My
+clients require a nondisclosure agreement.
+
+Contact information:
+richard@oakbox.com or go to http://www.oakbox.com Oakbox Productions web
+site and use the contact page.	When you email me, use 'PerlJob' in the
+subject so that my spam filter doesn't trash your message.
+
+

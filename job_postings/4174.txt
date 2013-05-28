@@ -1,0 +1,107 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4174
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28231 invoked from network); 18 Apr 2006 15:36:52 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 18 Apr 2006 15:36:52 -0000
+Received: (qmail 23483 invoked by uid 225); 18 Apr 2006 15:36:51 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 23478 invoked by alias); 18 Apr 2006 15:36:50 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 18 Apr 2006 08:36:44 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 5CA9C2AFDE; Tue, 18 Apr 2006 08:36:39 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060418153639.5CA9C2AFDE@x3.develooper.com>
+Date: Tue, 18 Apr 2006 08:36:39 -0700 (PDT)
+Subject: UNIX Administrator (onsite), Netherlands, Amsterdam
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3961
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 18, 2006
+
+Job title: UNIX Administrator
+
+Company name: Bookings Europe BV
+
+Location: Netherlands, Amsterdam
+
+Pay rate: EUR. 2400-2800
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Length of employment: indefinite
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Bookings is an international online hotel reservation company. It has been
+growing very rapidly since its start in 1996, growth that continues today.
+Our main office is in Amsterdam, opposite Rijksmuseum, and we have several
+offices throughout Europe.
+
+The Bookings websites (www.bookings.net) and applications around it are
+built using Perl as the primary language.
+
+We need one or two UNIX system administrators to join our team in
+maintaining and expanding our large (100+) server collection. We would like
+you to apply if you think you are good at what you do (see skills), you are
+flexible (both in mindset and in hours - this is no nine to five job) and
+like the challenge of a growing environment.
+
+If you are not sure you have all the necessary skills, but you are sure you
+can learn them quick, try us.
+
+Required skills:
+HUMAN COMMUNICATION skills - you can listen to and help collegues, you are
+a team player, both at work and on pub occasions.
+
+SENSE OF PRIORITY - you keep track of what is and what isn't important. You
+keep using your brain.
+
+REDHAT/CENTOS general system knowledge, rpm packaging, network installs
+
+NAGIOS/CACTI and similar for monitoring application and system health
+
+PERL for understanding application code, packaging, building system
+management scripts.
+
+APACHE (mod_perl would help), MYSQL replication, POSTFIX, BIND, general
+TCP/IP knowledge (you've used tcpdump, ethereal and friends. You're no
+stranger to iptables).
+
+You speak ENGLISH.
+
+Desired skills:
+Additionally it would help if you have experience in the field of SECURITY.
+Experience in managed HOSTING environments and REMOTE MANAGEMENT would be
+considered a plus. Any experience with HIGH AVAILABILITY and redundancy
+would be appreciated. 
+
+We would prefer you to master the DUTCH language enough to attend meetings
+in it.
+
+URL for more information:
+http://www.bookings.net/general.html?tmpl=docs/career_opportunities
+
+Contact information at:
+http://jobs.perl.org/job/3961#contact
+
+

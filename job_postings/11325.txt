@@ -1,0 +1,93 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11325
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28719 invoked from network); 20 May 2011 08:19:28 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 20 May 2011 08:19:28 -0000
+Received: (qmail 4811 invoked by uid 225); 20 May 2011 08:19:27 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 4807 invoked by alias); 20 May 2011 08:19:27 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 20 May 2011 01:19:25 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 6DE3B2AFEA; Fri, 20 May 2011 01:19:22 -0700 (PDT)
+To: jobs@perl.org
+Date: Fri, 20 May 2011 01:19:22 -0700
+Message-ID: <20110520081922.6DE3B2AFEA@x3.develooper.com>
+Subject: OO Perl developer with web focus (onsite), United States, TX, Plano
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14188
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 20, 2011
+
+Job title: OO Perl developer with web focus
+
+Company name: CTI
+
+Internal ID: Tommy
+
+Location: United States, TX, Plano
+
+Pay rate: 60K-75K USD
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Privately held company seeks a software engineer to round out a 4 man
+development team.  Although this is a web focused position - we do not make
+"websites".  Our product is specialized communication (phone/video) systems
+that go into jails and prisons. It just happens to have a web interface
+that controls everything.
+
+Small company with good benefit package (BlueCross/BlueShield medical and
+employer pays 80% of your premium).  Working remotely is possible for right
+candidate, but we have never done it in a full time position before.
+
+Also, we have two public facing websites that are due for a revamp (the
+90's are over).  You would get to help design and implement a database
+driven site for our public customers, and a portal for our direct clients.
+
+
+Required skills:
+- Moose (Object Oriented Perl)
+- Catalyst Web Framework
+- DBIX
+- mySQL
+- AJAX familiarity
+- "linux" (we deploy primarily on debian)
+- svn, or familiarity with any version control system
+
+
+Desired skills:
+- jquery (javascript, we have a graphics designer but why wait on him when
+you can do what you need)
+- linux admin skills (it's 1:00am, do you know where you boxen are?)
+- memcached
+- vSphere 4 (we run some things in vmware)
+- SIP/H.323
+- video and audio compression and codec familiarity
+- Asterisk (not in your responsibility, but we use it)
+- git (working towards a switch from svn)
+- high tolerance for puns
+- Android development
+
+Website for more information: http://www.cticorrections.com/
+
+Contact information at:
+http://jobs.perl.org/job/14188#contact

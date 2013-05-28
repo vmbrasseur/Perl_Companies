@@ -1,0 +1,94 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2305
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 16416 invoked from network); 1 Feb 2005 20:21:49 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 1 Feb 2005 20:21:49 -0000
+Received: (qmail 2275 invoked by uid 225); 1 Feb 2005 20:21:49 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 2270 invoked by alias); 1 Feb 2005 20:21:48 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+  by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 01 Feb 2005 12:21:45 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j11KLh79023177
+	for <jobs@perl.org>; Tue, 1 Feb 2005 12:21:43 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j11KLhf6023175;
+	Tue, 1 Feb 2005 12:21:43 -0800
+Date: Tue, 1 Feb 2005 12:21:43 -0800
+Message-ID: <200502012021.j11KLhf6023175@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Production Engineer (onsite), United States, CA, Sunnyvale
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2220
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February  1, 2005
+
+Job title: Production Engineer
+
+Company name: Yahoo
+
+Internal ID: PE
+
+Location: United States, CA, Sunnyvale
+
+Pay rate: DOE
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Be a member of a dynamic team that is vital to Yahoo!, including our
+leading Web Search engine. You will develop, run, and monitor tools for
+large-scale search
+clusters located around the world, using primarily Linux. This position is
+full-time, located in Sunnyvale, CA.
+
+Responsibilities:
+* Administer Linux clusters, monitor their health and performance
+* Develop and maintain in-house automation for world-wide cluster
+operations
+* Coordinate and execute changes to live cluster software and
+configurations
+* Diagnose and repair production clusters
+* Participate in the on-call pager rotation
+* Collaborate in the design of cluster configurations with developers
+* Work closely with other system administrator and network teams
+
+
+Required skills:
+* 5+ years experience with Linux/Unix
+* Strong Perl scripting skills
+* BS Computer Science and/or strong System Administration background.
+
+
+Desired skills:
+Experience administering large Linux installations in a tier 1 environment
+
+
+URL for more information: http://search.yahoo.com/
+
+Contact information:
+Daniel Muino
+dmuino@yahoo-inc.com
+
+

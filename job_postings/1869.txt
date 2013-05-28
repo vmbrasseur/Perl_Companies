@@ -1,0 +1,114 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:1869
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 3130 invoked from network); 26 Aug 2004 09:33:39 -0000
+Received: from x1.develooper.com (63.251.223.170)
+  by lists.develooper.com with SMTP; 26 Aug 2004 09:33:39 -0000
+Received: (qmail 12013 invoked by uid 225); 26 Aug 2004 09:33:39 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 12007 invoked by alias); 26 Aug 2004 09:33:39 -0000
+X-Spam-Status: No, hits=-4.9 required=8.0
+	tests=BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.dev) (63.251.223.163)
+  by la.mx.develooper.com (qpsmtpd/0.27.1) with ESMTP; Thu, 26 Aug 2004 02:33:37 -0700
+Received: from x3.dev (localhost.localdomain [127.0.0.1])
+	by x3.dev (8.12.11/8.12.11) with ESMTP id i7Q9XY7a020634
+	for <jobs@perl.org>; Thu, 26 Aug 2004 02:33:34 -0700
+Received: (from jobs@localhost)
+	by x3.dev (8.12.11/8.12.11/Submit) id i7Q9XY5H020632;
+	Thu, 26 Aug 2004 02:33:34 -0700
+Date: Thu, 26 Aug 2004 02:33:34 -0700
+Message-ID: <200408260933.i7Q9XY5H020632@x3.dev>
+X-Authentication-Warning: x3.dev: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: HTML::Mason/mod_perl/SQL programmer for University (onsite), Australia, Victoria, Melbourne
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1760
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 25, 2004
+
+Job title:
+HTML::Mason/mod_perl/SQL programmer for University
+
+Company name: Monash University
+
+Internal ID: G045242
+
+Location: Australia, Victoria, Melbourne
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: Permanent (i.e. ongoing)
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Monash University does a large amount of perl development from
+enterprise-level applications through to small-scale projects.	Within the
+IT division, the FLT program have 10-15 perl developers working on
+maintenance, enhancements and the development of new and innovative systems
+ranging across Administration, Research, Learning and Teaching and the
+Community.  Services are provided to both staff and students, with over
+65,000 people regularly using FLT systems each month.
+
+Applications typically integrate with enterprise systems such as SAP
+HR/Finance, Endeavor Voyager, InterWoven TeamSite, WebCT Vista and the
+SunOne Messaging suite (LDAP, IMAP, WCAP, etc.).  We also develop
+leading-edge internal solutions to issues such as billing/ecommerce,
+workflow, committee support, etc.
+
+ITS have a strong commitment to open standards and run almost all our web
+services on Apache-based Linux servers in a multi-server 'farm'
+configuration.	FLT run Oracle on Solaris at the backend for maintaining
+state, configuration and other information.
+
+We are seeking a motivated team player with demonstrated ability in both
+procedural and object-oriented Perl, to design and develop innovative and
+rigorous solutions within an enterprise-wide, dynamic, database-backed web
+application environment.
+
+Essential attributes include expertise in Perl, and Unix (Linux/Solaris),
+project management and interpersonal skills.  Knowledge of HTML::Mason and
+SQL (Oracle 9i) is highly regarded.
+
+
+Required skills:
+Procedural and object-oriented Perl, architecture/ design of enterprise web
+based applications, projects experience, SQL, Unix, team skills,
+understanding of higher education issues. (for more information, see
+position description)
+
+*NOTE*: MUST already have authority to work in Australia (i.e. citizenship
+or working visa)
+
+Desired skills:
+Tertiary qualifications, enterprise systems integration (eg. SAP, SIS, CRM,
+CMS and library systems), familiarity with other web programming languages
+and portal environments such as Java (and IBM WebSphere or similar), Python
+(and Zope) and PHP (and Zend). (for more information, see position
+description)
+
+URL for more information:
+http://sssd.adm.monash.edu.au/employ/job.asp?refnumber=G045242
+
+Contact information:
+Ms. Kate Wrathall on +613 9905 5521 or email
+Kate.Wrathall@its.monash.edu.au
+
+NOTE: Applications close Friday, 27th August, 2004.
+
+

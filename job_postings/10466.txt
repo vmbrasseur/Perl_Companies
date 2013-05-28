@@ -1,0 +1,157 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10466
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 12401 invoked from network); 26 Aug 2010 00:56:06 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 26 Aug 2010 00:56:06 -0000
+Received: (qmail 16132 invoked by uid 225); 26 Aug 2010 00:56:06 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 16128 invoked by alias); 26 Aug 2010 00:56:05 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS,T_FRT_PROFILE2
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 25 Aug 2010 17:56:04 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 90B432AFE0; Wed, 25 Aug 2010 17:56:00 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20100826005600.90B432AFE0@x3.develooper.com>
+Date: Wed, 25 Aug 2010 17:56:00 -0700 (PDT)
+X-Virus-Checked: Checked
+Subject: Senior Systems Administrator (onsite), United States, NY, Buffalo
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/12784
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 24, 2010
+
+Job title: Senior Systems Administrator
+
+Company name: Synacor, inc
+
+Location: United States, NY, Buffalo
+
+Pay rate: USD
+
+Terms of employment: Salaried employee
+
+Length of employment: Permenant
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Synacor is a dynamic, fun and exciting company.  Jeans and t-shirts are
+typical office attire, even for the executives. Flexible work hours
+accommodate employees with special scheduling needs, early risers and those
+who need a little caffeinated kick-start each morning. Synacor's
+headquarters are located along Buffalo's waterfront and the Erie Basin
+Marina. Taking a few minutes to stretch your legs is as easy as walking the
+1,000 feet or so to the water. Working from our beautiful lakefront gazebo,
+makes it easy to spend a little time outside while still being productive.
+We are looking for great people to join our team and be given the freedom
+to do the work they were hired to do.
+
+We are seeking a Senior Systems Administrator who will work under limited
+supervision, administer all aspects of an advanced, distributed computer
+system supporting an important functional area of Synacor operations.
+Day-to-day tasks may involve any or all of the following: operating system
+administration, configuration of mail systems, system installation, SAN
+administration, fundamentals of security, installing third party software,
+etc.
+
+Duties and Responsibilities:
+•	Plans and coordinates system utilization, and performs growth
+analysis and capacity planning
+•	Provides installation, support, and maintenance of servers and
+other computer systems
+•	Efficiently manage configuration of 200+ servers and services (web,
+e-mail, dns, etc)
+•	Implement/maintain monitoring and trending for all deployed servers
+and services
+•	Assists with planning for and responding to service outages and
+other problems (SLA’s)
+•	Able to take on a leadership role in managing systems-related
+projects
+•	Must be able quickly and correctly diagnose problems with computer
+systems and introduce the best way to fix the problem
+•	Proficient in scripting or light programming
+•	Provide leadership and mentoring to other System Administrators
+•	Support a 24x7 staffing model with on-call shifts that include
+weekends and Holidays
+•	Other duties as assigned
+
+
+What we’ll bring to the table:
+•	100% Company paid benefits (health, dental, vision) for all
+employees and eligible dependents
+•	Competitive compensation
+•	25 cent vending machines
+•	Free Spot coffee, popcorn and cappuccino
+•	Award winning company culture
+•	Casual dress and flexible environment
+•	Generous paid time off
+•	The opportunity to make a difference!
+
+*Relocation to Buffalo, NY is required for this position – relocation
+assistance is available 
+
+To apply please visit our website; www.synacor.com/jobs
+
+
+Required skills:
+What you’ll need to bring to the table:
+•	Bachelor of Computer Science preferred, minimum two years of
+college or equivalent post-high school education or experience
+•	5+ years System Administration experience in a large-scale Unix
+(Linux/Solaris/BSD) environment required; Package management; Automated
+installs
+•	Thorough understanding of e-mail protocols and architectures; SMTP
+(including AUTH, submission), POP, IMAP. (RFC 5322, 5321, 2822, 2821, etc.)
+
+•	Experience with large LDAP deployments (OpenLDAP, etc.)
+•	Experience managing LAMP web-farms serving 10+ million page views
+daily; Memcached; Load-balancing. Apache configuration and operation
+•	Experience setting up and regularly using monitoring and trending
+tools (Zenoss, Cacti, Nagios, Resmon); Monitoring, trending experience for
+various services
+•	Experience with revision control systems and usage for managing
+systems configuration; SVN, Puppet, etc.
+•	Experience with managing, operating, monitoring backup systems
+•	Experience with large e-mail systems (>1 million accounts); High
+performance MTA’s (Ecelerity, IronPort, StrongMail, Bizanga, Coldspark);
+Zimbra (or similar) experience preferred
+•	Experience in an Enterprise SAN environment recommended; Familiar
+with block level access using FC and iSCSI, Director class FC switches in
+an HA environment; Multi-pathing; Knowledge of Linux and driver
+interaction; NetApp experience and Multi-SAN environment preferred
+•	Familiarity with fundamental networking/distributed computing
+environment concepts; can configure NFS, key-based ssh; DNS; familiar with
+basic networking concepts: switching, routing (BGP,(R)STP, source routing),
+firewalls, load-balancing at various layers
+•	Has a solid understanding of a UNIX-based operating system;
+understands paging and swapping, inter-process communication, devices and
+what device drivers do, filesystem concepts (inode, clustering, logical
+partitions)
+•	Experience with Solaris, ZFS, DTrace considered a plus
+•	Independent problem-solving, troubleshooting skills, team player,
+excellent communication skills all required
+•	Generally knows several programming languages used for scripting or
+automation of routine tasks (bash, Perl, PHP)
+
+
+URL for more information: http://www.synacor.com/
+
+Contact information at:
+http://jobs.perl.org/job/12784#contact
+
+

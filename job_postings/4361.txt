@@ -1,0 +1,89 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4361
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 25687 invoked from network); 19 May 2006 16:55:53 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 19 May 2006 16:55:53 -0000
+Received: (qmail 5350 invoked by uid 225); 19 May 2006 16:55:53 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 5338 invoked by alias); 19 May 2006 16:55:52 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 19 May 2006 09:55:18 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 530992AFE0; Fri, 19 May 2006 09:55:14 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060519165514.530992AFE0@x3.develooper.com>
+Date: Fri, 19 May 2006 09:55:14 -0700 (PDT)
+Subject: Quality Assurance Automation Test Engineer – Performance & Storage, United States, NC, RTP
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4122
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 19, 2006
+
+Job title:
+Quality Assurance Automation Test Engineer – Performance & Storage
+
+Company name: Network Appliance
+
+Internal ID: 0106229060003
+
+Location: United States, NC, RTP
+
+Pay rate: open
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Flexible
+
+Description:
+Summary:  The Quality Assurance Automation Test Engineer is responsible for
+designing, implementing, and performing tests to accurately assess the
+quality of projects designed to reduce the client-visible impact of failure
+events in NetApp storage clusters.  Responsibilities include:
+
+•	Working closely with development engineers to identify and
+prioritize areas for testing; develop test plans, develop automated tests,
+execute tests, and document test results.
+•	Work closely with development engineers to understand the expected
+behavior and potential failure modes of new software under development.
+•	Design, build and execute automated tests using Perl and other Unix
+utilities.
+•	Assist performance analysts with identifying and characterizing
+changes in performance.
+
+Qualifications (Required)
+
+•	BSCS or related field, or equivalent required; MSCS or related
+field desired.
+•	2-3 years of experience developing and executing automated testing
+of complex enterprise applications. 
+•	Strong background in Perl.
+•	Solid understanding of UNIX kernel, IO and/or file system concepts.
+
+•	Demonstrated commitment to delivery of high-quality solutions to
+problems.
+•	Knowledge/education in file system and/or storage protocols (NFS,
+CIFS, iSCSI, and FCP)
+
+
+URL for more information: http://www.netapp.com/
+
+Contact information at:
+http://jobs.perl.org/job/4122#contact
+
+

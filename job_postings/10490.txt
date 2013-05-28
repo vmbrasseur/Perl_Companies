@@ -1,0 +1,91 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10490
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 3522 invoked from network); 31 Aug 2010 22:36:24 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 31 Aug 2010 22:36:24 -0000
+Received: (qmail 13572 invoked by uid 225); 31 Aug 2010 22:36:24 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 13568 invoked by alias); 31 Aug 2010 22:36:23 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 31 Aug 2010 15:36:22 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 0667A2AFE0; Tue, 31 Aug 2010 15:36:18 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20100831223619.0667A2AFE0@x3.develooper.com>
+Date: Tue, 31 Aug 2010 15:36:18 -0700 (PDT)
+Subject: Enterprise Solutions Developer (onsite), United States, Ohio, Columbus
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/12816
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 31, 2010
+
+Job title: Enterprise Solutions Developer
+
+Company name: Teleperformance
+
+Location: United States, Ohio, Columbus
+
+Pay rate: DOE
+
+Travel: 0-25%
+
+Terms of employment: Hourly employee
+
+Length of employment: Permanent 
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Develop and maintain medium to large sized web based development projects,
+utilizing Perl, MySQL, HTML, JavaScript and CSS.
+
+Required skills:
+* Will integrate with existing production staff on medium to large sized
+web development projects.
+* Must have at least two years experience of web development using Perl,
+PHP (perl is preferred).
+* Must have at least two years experience of object oriented programming.
+* Must have at least two years experience creating websites using HTML /
+CSS / JavaScript.
+* Must have experience in database programming using a Relation DB
+Management System.
+* Must have a thorough knowledge of database programming as it pertains to
+table structures, user interfaces, design and maintenance, specifically
+with MySQL and / or Oracle and Microsoft SQL Server.
+* Must have a thorough understanding of software design, debugging and
+troubleshooting methods.
+* Prior experience using code management software such as CVS, SVN or git.
+* Must be able to communicate with all levels of management.
+* Must be able to work independently.
+* Must be well organized.
+
+Desired skills:
+* User level experience with a *NIX operating system.
+* Experience using vi(m) command line editors.
+* Knowledge of common CPAN modules and ability to effectively research,
+install and develop new solutions through the reuse of existing code
+available in the open source community.
+* Knowledge and prior use of Perl testing frame works (Test::More,
+Test::Simple, Test::Harness).
+* *NIX system administration experience as it pertains to the LAMP stack
+(installation, configuration and maintenance).
+
+Contact information at:
+http://jobs.perl.org/job/12816#contact
+
+

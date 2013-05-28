@@ -1,0 +1,181 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12610
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 25715 invoked from network); 26 Jul 2012 05:22:02 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 26 Jul 2012 05:22:02 -0000
+Received: (qmail 7085 invoked by uid 225); 26 Jul 2012 05:22:01 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 7081 invoked by alias); 26 Jul 2012 05:22:01 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,LOTS_OF_MONEY
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 25 Jul 2012 22:21:58 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 1B22A2AFE0; Wed, 25 Jul 2012 22:21:47 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 25 Jul 2012 22:21:47 -0700
+Message-ID: <20120726052147.1B22A2AFE0@x3.develooper.com>
+X-Virus-Checked: Checked
+Subject: Web App Developer / Linux Admin - Full Time Salary (telecommute),
+ Salt Lake City, UT, USA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15896
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 25, 2012
+
+Job title: Web App Developer / Linux Admin - Full Time Salary
+
+Company name: Lab-01
+
+Internal ID: 20120421
+
+Location: Salt Lake City, UT, USA
+
+Pay rate: $55,000 US + Benefits & Bonuses
+
+Terms of employment: Salaried employee
+
+Length of employment: Indefinite
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+This is a repost of a job which we successfully filled. We are hiring an
+additional engineer for an identical position. If you applied for this job
+before and are still available, please feel free to apply again. 
+
+We need a linux software engineer with PERL experience to join our team.
+This is an actual job with a salary and bonuses, not project based
+consulting or some kind of weird business opportunity. Work hours are
+flexible, and this is a telecommute position. You will need a minimum of
+about 5 years of hands-on programming experience to do this job.
+
+As you can see, this job ad did not start out with "BLAH Company is a
+leading provider of BLAH Solutions with a dynamic work environment based on
+an open culture BLAH BLAH BLAH". That's because some of us (at least the
+ones writing this job ad) are sane enough to want to attract actual people
+to work here, rather than whatever kind of zombie answers one of those
+types of ads that were written to impress investors, or perhaps the parents
+of the owner of the company. So, if you like the idea of working with
+somewhat sane humans, but yet rarely having to see them because you work
+mostly from the comfort of your own home, read on!
+
+<b>About the Job:</b>
+
+Your boss is a very experienced software engineer who doesn't have the time
+to write all the software he wishes he could. He is the VP of Engineering.
+You shall be his squire. Together you shall go forth and write a lot of
+code and admin a bunch of linux boxen and bestow much needed relief on the
+slightly stressed out R&D department.
+
+Half your teammates are customer facing webmasters who will look upon you
+as a god and come to you for wisdom. The other half are mighty BAD-ASS
+Nodejs DevOps Wizards and Ajax UX Ninjas who will make you feel inadequate
+by their sheer intellect and experience, but who will totally admire and
+accept you if you are a hard worker who learns how to use GIT, asks smart
+questions, and cleans up his own sticky software messes so they don't have
+to!
+
+You will write and maintain a ragtag fleet of small apps and integrations
+for a number of e-commerce projects. We have some good templates and
+frameworks, but there will be a lot of plugging service A into service B.
+There will also be couple fairly cool in-house apps you get to work on.
+
+Most integrations will be HTTP posts, maybe with XML or JSON, but some will
+be such nasty things as overbuilt SOAP services, mind-boggling oAuth, and
+raw PHP data formats with incorrect documentation. You know: the typical
+kind of broken junk that people usually expect you to integrate with.
+
+You will need to be able to decipher documentation and figure out bad APIs
+on your own, and quickly. This means sometimes you will need to call or
+email outside software engineers on the other end when their documentation
+is missing or incorrect.
+
+<b>About US:</b>
+
+We are a small software company with four engineers and four HTML coders.
+
+We are NOT a temp-agency. We're an actual employer offering salary and
+health benefits and bonuses! (I know! Right?)
+
+Since it's a telecommute position, there's no dress code, except for when
+you come into our office.
+
+Hours are flexible, sometimes mindbendingly long, occasionally weird. We
+wrote this job at 2 AM, so obviously we're a bit nuts in that way.
+
+We're only considering US candidates for this position.
+
+Required skills:
+<b>About You:</b>
+
+You have at least 5 years experience writing web apps and you're good at
+PERL. It's extra awesome if you are security minded, but this job requires
+more than just a sysadmin. Since parts of some of the apps in question have
+a WEB UI, you have to know HTML, Javascript (ideally jQuery) and know or be
+learning the AJAX paradigm for web UI along with the DOM/CSS stuff.
+
+You have experience with PERL and Javascript. Bonus points if you know but
+hate PHP, think Ruby or Python is cool, wrote some C programs back in the
+day, and once got a Java project to actually compile.
+
+You have integrated with someone's horribly broken and poorly documented
+API using PERL. And you came out of it with a good understanding of how
+HTTP protocol works. Bonus if you also did it in NodeJS.
+
+You are a moderately good command line linux admin, and we can trust you
+help us with IT setup, backups, etc for linux boxen. We run a stripped-down
+Ubuntu 10.04 LTS. If you think CPanel is better than ssh, do not apply for
+this job. If you run linux at home and you can install and configure UFW
+from memory, definitely DO apply for this job!
+
+You are extremely careful at checking your work and catching your mistakes.
+You do logging and double-checking. You hardly ever accidentally drop the
+wrong table or format the wrong volume.
+
+We are moving our stuff to CouchDB. So either you know it or you are stoked
+about learning it! If you come from a mySql background it will be strange
+but fun, and the mySql may still come in very handy. If you like Mongo or
+BigTables better than CouchDB, don't tell our Chief Architect that until
+you have gained his respect and are seriously ready to throw down.
+
+You are great at learning by reading documentation, and you communicate
+very clearly by email.
+
+You would call another engineer to get a "second pair of eyes" in the
+middle of the night rather than wasting 5 hours trying to debug something
+yourself, but you would always paste your error messages into google search
+and spend 15 minutes doing some careful checking of your own code FIRST.
+
+You are motivated and experienced enough to work fast and independently
+without procrastination. Translation: You know how to keep a list of stuff
+you are supposed to do and a list of questions you need answered. And you
+can handle working unsupervised, since obviously we are unlikely to come
+supervise you at your house or the coffee shop or wherever you do your
+work.
+
+Desired skills:
+Linux admin skills and Perl web-app experience are the requirements. But
+nice extras would include: CSS, HTML, Bootstrap, Ajax, jQuery, CouchDB,
+NodeJS, GIT, and if you have an arty side, Photoshop and Adobe
+Illustratator. And although PHP sucks, knowing it will be sometimes useful
+for this job.
+
+If you don't know all that stuff, you will get to learn it on the job.
+
+Contact information at:
+http://jobs.perl.org/job/15896#contact

@@ -1,0 +1,122 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2560
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 12565 invoked from network); 6 Apr 2005 22:16:02 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 6 Apr 2005 22:16:02 -0000
+Received: (qmail 3315 invoked by uid 225); 6 Apr 2005 22:16:02 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 3311 invoked by alias); 6 Apr 2005 22:16:02 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 06 Apr 2005 15:15:54 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j36MFq0O027300
+	for <jobs@perl.org>; Wed, 6 Apr 2005 15:15:52 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j36MFqPR027298;
+	Wed, 6 Apr 2005 15:15:52 -0700
+Date: Wed, 6 Apr 2005 15:15:52 -0700
+Message-ID: <200504062215.j36MFqPR027298@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Cutting-edge Web Developer for a video game company (onsite), Canada, Ontario, Toronto
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2452
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April  6, 2005
+
+Job title:
+Cutting-edge Web Developer for a video game company
+
+Company name: TransGaming Technologies
+
+Location: Canada, Ontario, Toronto
+
+Pay rate:
+commensurate with experience; comprehensive benefits package
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: Permanent
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+TransGaming Technologies is a global leader in the development of software
+portability products that allow video game developers and publishers to
+develop games for one system and deploy them across multiple platforms -
+faster, cheaper and better than anyone else.
+
+The TransGaming IT team is currently looking for motivated, dynamic
+individuals who love to design and write excellent code. Our team manages
+the entire TransGaming internet and corporate intranet infrastructure, and
+we do everything (well, as much as we possibly can) in OO perl. We use the
+latest and greatest in perl community offerings, plus a host of frameworks
+that we develop from the ground up for web applications development. We
+take the time to do our work the right way, staying agile while continuing
+to deliver quality products and services on time. In short, this is a
+really cool place to work.
+
+Send resumes to the email address below.
+
+Required skills:
+Experience designing and implementing complex object-oriented software for
+the web with LAMP technologies, in particular:
+
+- OO perl 5
+- Linux, *BSD or some other UNIX variant (Debian GNU/Linux preferred)
+- Apache
+- MySQL (or any full-featured SQL database server -- PostGres, Oracle,
+etc.)
+
+Desired skills:
+Any of the following would be considered assets:
+
+The ability to write standards-compliant HTML and CSS
+
+Familiarity with any or (ideally) all of the following perl tools:
+- templating/application toolkits for the web (HTML::Mason preferred)
+- Class::DBI
+- Test::Simple, Test::More, Test::Inline, etc.
+- any other 'best practices' and object-orientation modules (Carp::Assert,
+Class::Accessor, etc.)
+- general usage of and preparation of packages for CPAN
+
+Familiarity with eXtreme Programming and/or other Agile software
+development practices
+
+System administration skills, particularly:
+- the management of network and email services, server hardware
+maintenance, network design and configuration, etc., under Linux, *BSD or
+some other UNIX variant
+- experience administering Qmail
+- experience with Mitel SMEServer
+- expertise in Debian package creation and/or the management of .deb
+repositories
+
+Experience with PHP or JavaScript
+
+Graphic design skills
+
+URL for more information: http://www.transgaming.com/
+
+Contact information: webjobs@transgaming.com
+
+

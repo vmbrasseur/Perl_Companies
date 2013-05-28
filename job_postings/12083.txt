@@ -1,0 +1,123 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12083
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 18404 invoked from network); 3 Feb 2012 06:28:10 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 3 Feb 2012 06:28:10 -0000
+Received: (qmail 7874 invoked by uid 225); 3 Feb 2012 06:28:09 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 7642 invoked by alias); 3 Feb 2012 06:27:56 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=HS_INDEX_PARAM,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 02 Feb 2012 22:27:52 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 49C8D2AFE0; Thu,  2 Feb 2012 22:27:49 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 2 Feb 2012 22:27:49 -0800
+Message-ID: <20120203062749.49C8D2AFE0@x3.develooper.com>
+Subject: Software Engineer (Perl) (onsite), New York, NY
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15476
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February  2, 2012
+
+Job title: Software Engineer (Perl)
+
+Company name: HR Dynamics
+
+Location: New York, NY
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Headquartered in New York, OUR CLIENT is a technology company that connects
+stock media buyers and sellers. Their mission is to provide the best stock
+content buying and selling experience anywhere.. Their current systems are
+mostly built around Perl, Javascript, PHP, Ruby, Solr, Apache, Nginx, and
+MySQL. 
+ 
+OUR CLIENT is seeking experienced and intelligent software engineers that
+are excited about working with other experienced and intelligent software
+engineers on closely integrated teams to push the boundaries of what is
+expected of a stock photo company. They focus on fast, iterative
+development (over 150 deployments/month) and collaborative, interactive
+programming. Developers work on small cross-functional teams (4-6 people)
+that have a voice in setting their own priorities and are expected to build
+and deploy applications quickly and iteratively.
+ 
+Qualified candidates are:
+ 
+
+•in love with programming and building things that have never existed
+•curious and passionate about finding creative solutions to complex
+problems
+•able communicators that are used to talking through problems and feel a
+deep need to share the cool stuff that they're working on with others
+•experienced enough to know what to build themselves and what not to
+•aware of what they don't know yet and are excited about what to learn next
+
+•ready to teach us some new tricks
+•able to take care of business
+
+Required skills:
+Required skills:
+ 
+
+•a very deep understanding of at least one programming language (Perl
+strongly preferred, but we're not zealots)
+•years of experience with at least one database (MySQL preferably)
+•a profound knowledge of how the web works and how to make it efficient
+(HTTP, caching, page rendering, etc)
+•strong linux experience
+
+Desired skills:
+Required skills:
+ 
+
+•a very deep understanding of at least one programming language (Perl
+strongly preferred, but we're not zealots)
+•years of experience with at least one database (MySQL preferably)
+•a profound knowledge of how the web works and how to make it efficient
+(HTTP, caching, page rendering, etc)
+•strong linux experience
+Bonus skills:
+ 
+
+•HTML::Mason
+•Experience with web MVC frameworks: Dancer, Mojolicious, Catalyst,
+Sinatra, Express, etc
+•RESTful API design and development
+•Layout / Design
+•Front or back end javascript / Node.js
+•Image processing and computer vision
+•MongoDB or other key/value stores
+•Memcached / Redis
+•System administration
+•MogileFS
+ This position is based in New York City. Relocation assistance is
+available for qualified candidates.
+
+Website for more information:
+http://www.hrdynamicsnyc.com/candidate-services/job-details-page/?jobOrdrNo
+=88&companyuser=hrdynamics&akken_jpage=job-details-page&akken_cpage=candida
+te-registration&akken_cppage=candidate-profile&akken_url=http://www.hrdynam
+icsnyc.com/candidate-services&akken_source=&akken_jloc=
+
+Contact information at:
+http://jobs.perl.org/job/15476#contact

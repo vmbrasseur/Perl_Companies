@@ -1,0 +1,90 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6938
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 23540 invoked from network); 11 Sep 2007 14:55:45 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 11 Sep 2007 14:55:45 -0000
+Received: (qmail 2458 invoked by uid 225); 11 Sep 2007 14:55:44 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 2449 invoked by alias); 11 Sep 2007 14:55:44 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 11 Sep 2007 07:55:34 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 35D4F2AFD6; Tue, 11 Sep 2007 07:55:30 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070911145530.35D4F2AFD6@x3.develooper.com>
+Date: Tue, 11 Sep 2007 07:55:30 -0700 (PDT)
+Subject: Perl Developer (onsite), United States, MI, Lansing
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/6287
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 11, 2007
+
+Job title: Perl Developer
+
+Company name: Liquid Web Inc.
+
+Location: United States, MI, Lansing
+
+Pay rate: $30,000-$50,000 USD
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Liquid Web Inc. is looking for a Perl developer to assist in the
+development of our internal applications that help run our daily
+operations. These areas include Billing, Helpdesk, Workflow Management,
+Monitoring and more.
+
+* Assist in the software development life cycle.
+  - Gather requirements and plan for future software development.
+  - Develop structured code that is easy to use, reliable, and
+maintainable.
+  - Develop testing procedures, and use those procedures for verifying
+software development.
+  - Help with the software debugging process. (Verifying, recording,
+patching, communicating).
+  - Provide adequate documentation for other developers and users.
+  - Deploy software in a 24/7 environment with minimal impact.
+* Candidate will primarily work on development but will also perform DBA
+tasks and systems administration duties as needed.
+* Provide support for internal operations.
+* Help develop tools needed to integrate new products into our systems.
+
+Required skills:
+* Proficient in Perl, and OO Perl Techniques.
+* Familiarity with web architectures.
+* System administration with strong Linux/Unix familiarity.
+* Shell scripting.
+
+Desired skills:
+* Familiar with HTML::Mason, Database ORM's such as DBIx::Class, Class::DBI
+
+* Familiar with version control systems (CVS, svn, etc.)
+* Experience developing relational databases.
+
+URL for more information:
+http://www.liquidweb.com/about/jobs.html#004
+
+Contact information at:
+http://jobs.perl.org/job/6287#contact
+
+

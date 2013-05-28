@@ -1,0 +1,97 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12281
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 5287 invoked from network); 28 Mar 2012 22:36:52 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 28 Mar 2012 22:36:52 -0000
+Received: (qmail 14931 invoked by uid 225); 28 Mar 2012 22:36:52 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 14927 invoked by alias); 28 Mar 2012 22:36:52 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 28 Mar 2012 15:36:48 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 5AF972AFE2; Wed, 28 Mar 2012 15:36:45 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 28 Mar 2012 15:36:45 -0700
+Message-ID: <20120328223645.5AF972AFE2@x3.develooper.com>
+Subject: Senior Perl Web/Wireless Developer: Baltimore/Telecommute (part
+ onsite), Baltimore, MD, USA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15154
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 28, 2012
+
+Job title:
+Senior Perl Web/Wireless Developer: Baltimore/Telecommute
+
+Company name: RadioField
+
+Location: Baltimore, MD, USA
+
+Pay rate: Competitive
+
+Terms of employment: Salaried employee
+
+Length of employment: Open
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+RadioField, a division of CargoTel, Inc., is developing a new SaaS work
+order system targeted at field service businesses in the US and
+internationally. The new system is driven by browser-based mobile
+applications. These applications use perl, javascript, and HTML5 and
+communicate with RadioField's web site using web services. 
+
+We are seeking a talented and experienced perl web developer. Applicants
+should be intimately familiar with web development in perl using Javascript
+and relational databases. Applicants should also be somewhat familiar with
+modern web technologies such as JQuery, MVC frameworks, etc.
+
+Maryland-area candidate or telecommuter with right background would be
+considered. 
+
+CargoTel is a YAPC sponsor, host and sponsor of the Baltimore/Washington DC
+Perl Mongers.
+
+Required skills:
+- Senior-level OO perl web development skills
+- Advanced PostgreSQL skills (or relevant experience with another
+relational db)
+- Modern Javascript experience (JQuery highly preferred)
+- Revision control experience (Git preferred, Mercurial/SVN/CVS ok)
+- Basic HTML skills
+- Basic system administration skills and familiarity with either Fedora
+Core or Ubuntu Server
+- Ability to work in a fast-paced team environment
+- Enthusiasm, determination and initiative
+
+Desired skills:
+- Mojolicious, Catalyst or another MVC framework
+- DBIx::Class or another ORM
+- Mobile web programming (Phonegap or JQueryMobile preferred)
+- Familiarity with REST
+- Agile software development methodology
+- Familiarity with Atlassian's suite of development tools: JIRA,
+Confluence, Fisheye, etc
+- Experience in the the field services or logistics industry
+
+Website for more information: http://www.cargotel.com
+
+Contact information at:
+http://jobs.perl.org/job/15154#contact

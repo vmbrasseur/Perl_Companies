@@ -1,0 +1,100 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3794
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 14919 invoked from network); 31 Jan 2006 23:38:43 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 31 Jan 2006 23:38:43 -0000
+Received: (qmail 23402 invoked by uid 225); 31 Jan 2006 23:38:43 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 23390 invoked by alias); 31 Jan 2006 23:38:42 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 31 Jan 2006 15:38:39 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id k0VNcUQW012953
+	for <jobs@perl.org>; Tue, 31 Jan 2006 15:38:30 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id k0VNcUSE012951;
+	Tue, 31 Jan 2006 15:38:30 -0800
+Date: Tue, 31 Jan 2006 15:38:30 -0800
+Message-ID: <200601312338.k0VNcUSE012951@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Perl programmer and Linux sysadmin (onsite), United Kingdom, Oxford
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3611
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 31, 2006
+
+Job title: Perl programmer and Linux sysadmin
+
+Company name: University of Oxford
+
+Internal ID: AC8745
+
+Location: United Kingdom, Oxford
+
+Pay rate: 20,044 - 30,002 GBP
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Do you have an interest in Unix systems administration and gaining an
+in-depth understanding of GNU/Linux systems administration? Do you have
+Perl programming experience and an understanding of computer security
+issues? If so, please get in touch with us.
+
+We currently have a vacancy for a Unix Systems Programmer to work in our
+Systems Development and Support Team, and are looking for an enthusiastic
+and highly IT-literate person to fill this post. The work involves systems
+architecture, software development and user support. You should have a
+degree or equivalent in a relevant discipline and experience of working in
+a technically-complex environment. A knowledge of C or Java would be an
+advantage. You will often be expected to work on your own initiative, and
+will need good organizational and communication skills for dealing with
+staff at all levels in the University. You will be expected to develop your
+skills in the many aspects of computing that the job will entail, so your
+ability to learn and respond rapidly will be considered as important as
+experience.
+
+The post is within the Infrastructure Group of the Computing Services which
+is responsible for providing the IT and network infrastructure underpinning
+the core computing activities of the University. We offer flexible working
+and the University has good childcare provision.
+
+
+Required skills:
+Perl programming
+GNU/Linux systems administration
+
+
+Desired skills:
+apache2/mod_perl2 web application development
+C programming experience
+Experience of Java including J2EE deveoplment and deployment
+
+URL for more information:
+http://www.oucs.ox.ac.uk/jobs/unixprog.xml
+
+Contact information at:
+http://jobs.perl.org/job/3611#contact
+
+

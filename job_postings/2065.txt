@@ -1,0 +1,119 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2065
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 23922 invoked from network); 10 Nov 2004 09:06:00 -0000
+Received: from x1.develooper.com (63.251.223.170)
+  by lists.develooper.com with SMTP; 10 Nov 2004 09:06:00 -0000
+Received: (qmail 29886 invoked by uid 225); 10 Nov 2004 09:05:59 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 29866 invoked by alias); 10 Nov 2004 09:05:58 -0000
+X-Spam-Status: No, hits=-4.9 required=8.0
+	tests=BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.dev) (63.251.223.163)
+  by la.mx.develooper.com (qpsmtpd/0.27.1) with ESMTP; Wed, 10 Nov 2004 01:05:47 -0800
+Received: from x3.dev (localhost.localdomain [127.0.0.1])
+	by x3.dev (8.12.11/8.12.11) with ESMTP id iAA95igN020753
+	for <jobs@perl.org>; Wed, 10 Nov 2004 01:05:44 -0800
+Received: (from jobs@localhost)
+	by x3.dev (8.12.11/8.12.11/Submit) id iAA95ijR020751;
+	Wed, 10 Nov 2004 01:05:44 -0800
+Date: Wed, 10 Nov 2004 01:05:44 -0800
+Message-ID: <200411100905.iAA95ijR020751@x3.dev>
+X-Authentication-Warning: x3.dev: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Systems Developer - Global Advanced Active Equities (onsite), United States, CA, San Francisco
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1962
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November  9, 2004
+
+Job title:
+Systems Developer - Global Advanced Active Equities
+
+Company name: Barclays Global Investors
+
+Internal ID: MP-012358
+
+Location: United States, CA, San Francisco
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Barclays Global Investors (BGI), one of the world’s largest institutional
+investors with over $1 trillion under management, is looking for a Systems
+Developer to work in a group that supports BGI’s quantitative investing
+methodologies.
+
+BGI is the market leader in active investing. We manage portfolios for
+institutional clients around the globe, and have active investment models
+for all developed world equity markets as well as fixed income, currency
+and global markets strategies. 
+
+Key Job Responsibilities:
+·Provide production support for time-critical financial data processing
+·Maintain and support automated production scheduling and notification
+systems for investment and trading processes in distributed UNIX
+multi-processor environments
+·Monitor, maintain and develop systems that bring together complex
+inter-related processes using huge amounts of disparate data for a single
+purpose
+·Work with UNIX system administrators to manage and optimize terabyte scale
+high performance data storage systems
+·Work with other developers in the Active Technology Group to develop tools
+to deliver data for investment processes  
+·Work as part of a global team to coordinate the processes with similar
+groups around the world
+
+
+Required skills:
+·Unix experience, especially with system metric, disk management and data
+transfer utilities 
+·Experience developing in an OO language
+·Experience with data warehousing or an RDBMS
+·Knowledge of Perl, with batch data processing in Perl or C a strong
+advantage
+·Eagerness to learn about and work with a great breadth of financial data
+·Strong written and verbal communication
+·Demonstrated self-initiative
+·An analytic, quantitative problem-solution mindset
+·B.S. (or equivalent) in Engineering, Computer Science, Mathematics or
+related fields
+·Knowledge of Sybase, NT, XML, SAS and web programming desirable
+
+
+URL for more information:
+http://www.barclaysglobal.com/about/careers/?r=19&a=34
+
+Contact information:
+Please include a cover letter with your application that answers the
+following questions:
+1. Why are you applying for a job with an investment firm? 
+2. Describe your experience with Unix (all flavors.) 
+3. Describe your systems development experience.
+
+Interested applicants should send a resume (Word document preferred)
+detailing why you believe your skills and abilities are a good match to
+bgi.recruiter34@barclaysglobal.com.Please reference the job title and id in
+your submission.
+
+BGI’s San Francisco headquarters is located at 45 Fremont (near Market
+Street) and is easily accessible by BART, and Muni. More information about
+careers at BGI can be obtained at
+http://www.barclaysglobal.com/about/careers/?r=19&a=34.
+
+
+

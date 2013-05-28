@@ -1,0 +1,103 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8741
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28624 invoked from network); 13 Oct 2008 20:22:23 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 13 Oct 2008 20:22:23 -0000
+Received: (qmail 26939 invoked by uid 225); 13 Oct 2008 20:22:23 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 26930 invoked by alias); 13 Oct 2008 20:22:22 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 13 Oct 2008 13:22:18 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 22C222AFE0; Mon, 13 Oct 2008 13:22:15 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20081013202215.22C222AFE0@x3.develooper.com>
+Date: Mon, 13 Oct 2008 13:22:15 -0700 (PDT)
+Subject: Mod_Perl2 Developer (onsite), United States, IL, Rosemont
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/9760
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 13, 2008
+
+Job title: Mod_Perl2 Developer
+
+Company name: DISYS
+
+Internal ID: MPDDCRI
+
+Location: United States, IL, Rosemont
+
+Pay rate: Open USD
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 3 to 6 Months
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We have a Critical NEW position Mod_Perl Developer available in Rosemont IL
+for our client.Would you be a suitable match please feel free to email us
+your updated resume with contact details
+ 
+Title: Mod_Perl Developer 
+Duration :3-6 Months
+Location: Rosemont IL
+Rate: Open
+ 
+Description
+
+•	Currently client is converting from mod_CGI to mod_Perl due to
+scalability issues with mod_CGI and now have run into issues with mod_Perl
+and need  a mod_perl expert that has the skills and experience to guide the
+migration of a web-based application running on a Windows/Apache
+environment to work under mod_perl. 
+•	The application is live at customer sites and runs off their local
+server. 
+•	The expert analyzes encountered problems such as access violations
+and Apache restart issues and works closely together with the development
+team and assists in making the code compliant with mod_perl. Expert-level
+knowledge of Apache and mod_perl is required!
+
+Experience
+•	mod_perl 2 in production environment (3+ years), preferably Windows
+(Must have some Windows experience, most mod_perl people will have
+experience with Linux and Unix...MUST have some Windows to be considered) 
+•	Expert-level understanding of Apache and configuration directives 
+•	Perl registry and handlers 
+•	Understanding of threads and related Perl coding issues 
+•	Database connection pooling with Apache::DBI 
+•	Must have okay verbal communication skills 
+ 
+ 
+Sabitha Sukumar l Senior Technical Recruiter 
+Digital Intelligence Systems, Inc
+T 714 602 3514 | F 800 409 5819 | C 951 818 5836 
+sabitha.sukumar@disys.com | www.disys.com 
+
+
+Required skills: Mod_Perl2
+
+URL for more information: http://www.disys.com/
+
+Contact information at:
+http://jobs.perl.org/job/9760#contact
+
+

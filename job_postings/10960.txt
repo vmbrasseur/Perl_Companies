@@ -1,0 +1,89 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10960
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 19587 invoked from network); 2 Feb 2011 18:14:14 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 2 Feb 2011 18:14:14 -0000
+Received: (qmail 17242 invoked by uid 225); 2 Feb 2011 18:14:14 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 17237 invoked by alias); 2 Feb 2011 18:14:13 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 02 Feb 2011 10:14:12 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 59B612AFDE; Wed,  2 Feb 2011 10:14:08 -0800 (PST)
+To: jobs@perl.org
+Date: Wed, 2 Feb 2011 10:14:08 -0800
+Message-ID: <20110202181408.59B612AFDE@x3.develooper.com>
+Subject: Senior programmer/analyst for software house (onsite), United
+ Kingdom, Yorkshire, Sheffield
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13580
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February  2, 2011
+
+Job title: Senior programmer/analyst for software house
+
+Company name: Electronic Commerce Group Ltd
+
+Internal ID: JD1
+
+Location: United Kingdom, Yorkshire, Sheffield
+
+Pay rate: GBP 40K+
+
+Terms of employment: Salaried employee
+
+Length of employment: Permanent
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We receive a multitude of formats of electronic business documents by many
+transport protocols and convert them to any other format and send them on
+using just about any transport protocol.
+
+The candidate will be responsible for the detailed design, programming and
+testing of all our internal systems. These are:
+
+perl daemons that: 
+ process our customers messages;
+ provide web services. 
+ monitor systems.
+ Send files using just about any protocol. HTTP, SMTP, FTP, AS2 etc
+ Interact with 3rd party daemon to receive files. eg POP3, HTTP, FTP etc.
+
+standalone perl scripts to parse xml/text/fixed width files.
+internal web based application that sets up our environment and services
+per customer
+
+3rd party daemons such as apache, qmail, OpenAS2...
+
+In short, pretty much everything bar the kitchen sink.
+
+All software is open source and runs on RH linux on our hosted servers.
+
+Required skills:
+5+years of perl, OO perl.
+DBI.
+
+
+Desired skills: unicode, mysql, xslt, css, html, js, apache
+
+Website for more information: http://www.firstb2b.net/
+
+Contact information at:
+http://jobs.perl.org/job/13580#contact

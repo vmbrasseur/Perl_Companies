@@ -1,0 +1,111 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3250
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13652 invoked from network); 28 Sep 2005 17:19:54 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 28 Sep 2005 17:19:54 -0000
+Received: (qmail 13471 invoked by uid 225); 28 Sep 2005 17:19:52 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 13428 invoked by alias); 28 Sep 2005 17:19:48 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 28 Sep 2005 10:19:35 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j8SHJVei030453
+	for <jobs@perl.org>; Wed, 28 Sep 2005 10:19:31 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j8SHJVms030451;
+	Wed, 28 Sep 2005 10:19:31 -0700
+Date: Wed, 28 Sep 2005 10:19:31 -0700
+Message-ID: <200509281719.j8SHJVms030451@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Web Developer/Systems Administrator (onsite), United Kingdom, Devon, Totnes
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3102
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 28, 2005
+
+Job title: Web Developer/Systems Administrator
+
+Company name: NHBS Environment Bookstore
+
+Location: United Kingdom, Devon, Totnes
+
+Pay rate: GBP 20-25k
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+NHBS is a leading specialist web bookseller in natural history,
+conservation and environment, based in Totnes, Devon. This small town on
+the River Dart and the wider South Devon area frequently top British
+quality-of-life indices. Our website is highly regarded internationally by
+academics, libraries and environmental professionals and has ecommerce
+functionality. It has been developed for us over 10 years in Perl on a
+Linux/Apache in-house server, incorporating Template Toolkit, MySQL and
+Javascript.
+
+We are now looking to employ a full-time Web Developer, who will have solid
+Perl and at least a year’s commercial experience, will be equipped to
+maintain a complex site and will have the initiative, enthusiasm and
+interpersonal skills to take the site forward in a way which incorporates a
+variety of demands from marketing, customer service and bibliographic
+angles, with scope for active involvement in the shaping of strategy. The
+integration of email marketing is an important aspect of the role. A strong
+sense of visual design together with the skills to realise it would be
+particularly valuable. 
+
+In a small establishment the Developer will also be required to flexible
+about assisting the IT Manager in general systems admin. There is a Windows
+2003 server with 20 users and a culture of responsiveness on the part of IT
+staff. The company has a policy of using external dial-in support for
+server and network issues. 
+
+The internal system for sales/purchase ledgers and compiling the
+bibliographic database has been written over 20 years in dBASE, which is
+also used to create a large number of static pages. The Developer will be
+involved in the latter process and will also be required to familiarise
+him/herself to some extent with the dBASE system. One of his/her central
+tasks will be to find ways of converting bibliographic data constantly
+added in dBASE into website features and email campaigns which will attract
+new and existing customers and lead to sales.
+
+
+Required skills:
+Experience with good software engineering practices
+Proficiency in CGI/modperl, MySQL, HTML, CSS, Linux
+
+
+Desired skills:
+Template Toolkit, JavaScript
+Apache for web server configuration and administration
+Dreamweaver, Photoshop
+Familiarity with CPAN conventions
+Windows 2003 server
+
+
+URL for more information: http://www.nhbs.com/recruitment
+
+Contact information at:
+http://jobs.perl.org/job/3102#contact
+
+

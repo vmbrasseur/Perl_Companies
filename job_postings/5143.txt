@@ -1,0 +1,83 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5143
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 4659 invoked from network); 20 Oct 2006 19:24:15 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 20 Oct 2006 19:24:15 -0000
+Received: (qmail 25088 invoked by uid 225); 20 Oct 2006 19:24:13 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 25079 invoked by alias); 20 Oct 2006 19:24:13 -0000
+X-Spam-Status: No, hits=-2.5 required=8.0
+	tests=ALL_TRUSTED,BAYES_20
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 20 Oct 2006 12:24:09 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id DE2A52AFEA; Fri, 20 Oct 2006 12:23:51 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20061020192351.DE2A52AFEA@x3.develooper.com>
+Date: Fri, 20 Oct 2006 12:23:51 -0700 (PDT)
+Subject: Perl/CSM Developer (onsite), United States, NY, New York
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4812
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 20, 2006
+
+Job title: Perl/CSM Developer
+
+Company name: Algomod Technologies
+
+Internal ID: 28209
+
+Location: United States, NY, New York
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 10 mos
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Global Investment Bank located in New York has an immediate opportunity for
+a OnDemand/CSM Developer OnDemand / CSM developer for compliance archiving.
+Currently, the books and records for Institutional Securities and other
+critical reporting data are maintained in IBM's OnDemand product. In
+addition, a lightweight set of software (CSM) that facilitates retrieval of
+non-structured content archived to SEC compliant storage is in place.
+Currently there is one product and development manager, a junior developer,
+and a set of offshore development resources. The ideal candidate will have
+a working knowledge of SEC and NASD legal requirements for Broker/Dealers
+and experience in these types of organizations.
+
+Required skills:
+Database: DB2 or Sybase
+Programming Languages: Perl required, C a help, UNIX Shells
+Products: Content Management products in general are a help but not
+required. Development experience with large UNIX based client-server
+systems. Strong UNIX server skills, especially Solaris and LINUX.
+
+Desired skills:
+Experience with large system deployments; Software source code management
+software and procedures - Brokerage SW SC and deployment experience a big
+plus; Experience with compliant storage systems and archive systems a plus;
+Products of interest: IBM Content Manager OnDemand IBM and Tivoli Storage
+Manager (TSM) are an advantage. Web portal development skills. 
+
+Contact information at:
+http://jobs.perl.org/job/4812#contact
+
+

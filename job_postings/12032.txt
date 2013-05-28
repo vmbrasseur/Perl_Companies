@@ -1,0 +1,82 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12032
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13113 invoked from network); 14 Jan 2012 04:19:36 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 14 Jan 2012 04:19:36 -0000
+Received: (qmail 21536 invoked by uid 225); 14 Jan 2012 04:19:36 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 21532 invoked by alias); 14 Jan 2012 04:19:36 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS,T_FRT_PROFILE2
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 13 Jan 2012 20:19:34 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id A4F3C2AFE1; Fri, 13 Jan 2012 20:19:30 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 13 Jan 2012 20:19:30 -0800
+Message-ID: <20120114041930.A4F3C2AFE1@x3.develooper.com>
+Subject: VM Guest Package Developer (Perl+Linux) (onsite), Campbell, CA, USA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15384
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 13, 2012
+
+Job title: VM Guest Package Developer (Perl+Linux)
+
+Company name: Barracuda Networks
+
+Internal ID: vm-developer
+
+Location: Campbell, CA, USA
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Barracuda Networks is seeking a junior- to mid-level-perl hacker to work on
+our Virtual Appliance products.  Barracuda Virtual Appliances already
+support more host environments than any other vendor (really!) and we're
+looking to do even more (more environments, more vm-specific functionality,
+etc).
+
+A fair amount of work will be going into our preboot environment, which is
+a perltoot-style OOP replacement for init(1).  There is also an automated
+build process and packager that needs extension and interfacing with other
+teams to implement various VM-specific hooks (again, almost entirely in
+perl).
+
+This position will also require occasional patching and rebuilds of the
+Linux kernel (and troubleshooting what goes wrong), so if you love perl but
+passionately hate C, you probably won't be too happy here.
+
+Barracuda HQ is in the South Bay, conveniently close to highways 85 and 17
+and was recently voted one of the 25 best tech companies to work for.
+
+Required skills:
+Perl - 2 yrs +
+Linux - 2 yrs +
+Basic Familiarity with C and the Linux Boot Process
+
+Desired skills:
+Any amount of Linux kernel work (having compiled your own kernel is
+probably good enough to start).
+Being proficient with at least one VM environment (ESX/i, Xen, Hyper-V,
+kvm, etc) is a plus.
+
+Contact information at:
+http://jobs.perl.org/job/15384#contact

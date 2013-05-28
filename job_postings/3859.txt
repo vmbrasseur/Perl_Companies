@@ -1,0 +1,169 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3859
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 7313 invoked from network); 10 Feb 2006 07:27:25 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 10 Feb 2006 07:27:25 -0000
+Received: (qmail 28969 invoked by uid 225); 10 Feb 2006 07:27:24 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 28961 invoked by alias); 10 Feb 2006 07:27:24 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 09 Feb 2006 23:26:52 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id k1A7QlJq011850
+	for <jobs@perl.org>; Thu, 9 Feb 2006 23:26:47 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id k1A7Qllu011848;
+	Thu, 9 Feb 2006 23:26:47 -0800
+Date: Thu, 9 Feb 2006 23:26:47 -0800
+Message-ID: <200602100726.k1A7Qllu011848@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Internet Operations - Unix Support Engineer (telecommute), United Kingdom, Berkshire, Maidenhead
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3664
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February  9, 2006
+
+Job title:
+Internet Operations - Unix Support Engineer
+
+Company name: Siemens Business Services
+
+Internal ID: UK07013
+
+Location: United Kingdom, Berkshire, Maidenhead
+
+Pay rate: On Application
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Length of employment: Permanent
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+Goals/Mission	 
+
+The primary function of this role is to ensure the internet infrastructure
+is effectively managed, meeting the agreed stringent service level targets.
+To ensure incidents and changes are effectively managed without adverse
+impact on operational service, whilst delivering high levels of
+availability and security.
+ 
+Working Partners/Contacts    
+This role sits within the Internet Operations support team, whose primary
+function is to ensure operational service levels and event delivery meet
+the targets agreed with our customers. This team is also responsible for
+ensuring changes are effectively applied without adverse impact on
+operational services.
+ 
+Tasks	 
+
+Technical support
+Day to day support and management of the operational internet
+infrastructure including change and problem management. Completing source
+code reviews and security auditing of all systems before transition from
+development to production environments. System administration for all unix
+hosts. Installation of web and streaming solutions. 
+• Delivery of project tasks on-time to the agreed quality standards
+• Deployment of a secure Server infrastructure 
+• Delivery of high-availability Server infrastructure.
+Service Delivery
+Management of incoming incidents to ensure all incidents are assigned are
+processed in accordance with documented standards and within service level
+targets. Adoption of company technical best practice standards and
+documented procedures within daily support duties Management of Servers
+environments in accordance with defined Service Levels. Ownership and
+management of technical escalations assigned with concise updates at
+required intervals or upon request 
+• Service availability targets
+• Service conformance targets achieved
+• Positive feedback from customers regarding the quality of service
+delivered
+• Deployment of tools and technologies which ensure a proactive service is
+delivered
+• Gartner technology benchmark targets are exceeded 
+• Customer satisfaction survey results
+Process Development and Implementation
+Development and maintenance of support documentation to defined company
+standards. 
+• Existence of up-to-date procedures
+• Integration of new staff is achieved with minimal effort
+• Processes and procedures which dovetail with ITIL methodologies
+
+Personnel Management
+Where appropriate, deputising for Team Leader acting as focal point for the
+team and assisting with recruitment and selection of new technical staff. 
+• Staff have sufficient information and direction to undertake assigned
+tasks.
+• Quality of candidates hired for new roles
+
+Specialist Advice
+Provide specialist advice and consultancy relating to Enterprise Server
+services to key stakeholders (customers, CIO office, Sales Support teams
+etc.)
+• Contemporary subject knowledge
+• Timeliness of advice provided
+• Effectiveness and practicality of advice provided
+• Customer feedback/satisfaction
+
+Required skills:
+Knowledge/Languages
+   
+• Advance knowledge of Unix (Sun Solaris and Linux)
+• Unix shell scripting
+• Web server configuration and operation (Apache)
+• Extensive knowledge of TCP/IP, FTE and network security
+• Web application development and integration
+• Knowledge of Perl, mod_perl including CGI security checking
+• ITIL foundation – desirable
+• AIX administration – desirable
+• Oracle/MySQL basic database admin – desirable
+• Experience in SMTP, Sendmail and Majordomo desirable 
+
+Desired skills:
+Experience    
+  • At least 3 years UNIX server platform development and operations
+experience in a high availability, secure Internet hosting and streaming
+environment 
+• At least 2 years Sun, Intel and Cisco based system design, deployment and
+management
+• At least 2 years experience of direct customer support in an IT service
+desk environment
+
+Personal qualities, skills and experience
+• Good customer relationship management
+• Good understanding of the services provided by SBS
+• Excellent prioritisation, negotiation and communication skills
+• An understanding of the customers business
+• Good problem solving skills
+• Ability to interact successfully with all levels of customer and SBS
+organisations
+• Excellent interpersonal and team skills
+
+URL for more information:
+https://v22.recruitmentplatform.com/syndicated/private/syd_apply.cfm?ID=PX5
+FK026203F3VBQB8MV78N54&nPostingTargetID=182072
+
+Contact information at:
+http://jobs.perl.org/job/3664#contact
+
+

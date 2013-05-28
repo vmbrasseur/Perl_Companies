@@ -1,0 +1,135 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3635
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 3948 invoked from network); 31 Dec 2005 03:50:22 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 31 Dec 2005 03:50:22 -0000
+Received: (qmail 5594 invoked by uid 225); 31 Dec 2005 03:50:22 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 5586 invoked by alias); 31 Dec 2005 03:50:21 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 30 Dec 2005 19:50:18 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id jBV3oGik021458
+	for <jobs@perl.org>; Fri, 30 Dec 2005 19:50:16 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id jBV3oG1m021455;
+	Fri, 30 Dec 2005 19:50:16 -0800
+Date: Fri, 30 Dec 2005 19:50:16 -0800
+Message-ID: <200512310350.jBV3oG1m021455@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: MySQL/Perl Senior Consultant in U.S. (part onsite), United States, California, Cupertino
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2134
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 30, 2005
+
+Job title: MySQL/Perl Senior Consultant in U.S.
+
+Company name: MySQL
+
+Location: United States, California, Cupertino
+
+Pay rate: DOE
+
+Travel: 50-75%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+MySQL professional services consultant delivers consulting services to our
+customers. The professional services consultant will work with other team
+members, customers, partners and sub-contractors, sales team and
+engineering group to ensure successful delivery to our clients.  
+
+Perhaps most importantly, the consultant must love open source software and
+leverage free software like Perl in their day-to-day efforts.
+
+Responsibilities include, but not limited to:
+
+    * Responsibility for database design, administration, tuning and
+optimization, migration from other database vendors to MySQL, development
+and integration in support of customer engagements. This includes
+accountability for functional completeness and delivery against
+performance, supportability, and testability goals.
+    * Working with other professional services and sales team members in
+pre-sale engagements to produce mockups and proof of concepts.
+    * Working closely with clients and MySQL project managers and team to
+clearly define scope of work and provide accurate schedule estimates.
+    * Acting as technical guide and mentor to other team members.
+    * Creating and maintaining technical documentation, best practices and
+methodology.
+    * Translating customer specifications into quality deliverables.
+    * Following and enhancing coding standards and development guidelines.
+    * Participating in code and design reviews.
+
+
+Required skills:
+Minimum Qualifications:
+
+    * BS or MS in computer science or equivalent experience.
+    * Use and love Perl + MySQL!
+    * 5+ year's database development experience working with with schema
+design, database programming, stored procedures and database performance
+tuning, especially for complex queries.
+    * Deep understanding of MySQL, Oracle and/or MS SQL Server
+    * Experience in writing stored procedures, triggers and functions in
+multiple development environments (Linux , Windows, Solaris, UNIX) 
+    * Language skills: Perl, C/C++, Java, PHP, Python
+    * Experience with connectors: DBI, JDBC and ODBC
+    * Strong problem solving skills with an eye for the big-picture and
+capable of delving into details when required. Must be creative; be able to
+develop new simple approaches to complex design problems.
+    * Ability to handle multiple concurrent activities and have a flexible
+positive attitude.
+    * Must be an experienced, motivated, self-starter who is willing to
+work in an entrepreneurial environment.
+    * Excellent written and verbal communication skills.
+    * Significant travel could be required.
+
+
+Desired skills:
+Desirable Qualifications:
+
+    * MySQL Professional and Core Certifications
+    * Expertise with in-memory databases and other high-performance
+alternatives.
+    * Experience with Scale-Out, and setting up replication architectures.
+    * Experience with High Availability and Telco grade 5 9's deployments.
+    * Experience with other DBMS including Oracle RAC, Sybase, Informix,
+PostgreSQL, Pervasive, Times Ten and Cache is a plus.
+    * Experience with application and web servers such as WebLogic,
+WebSphere, JBoss, Apache Tomcat.
+    * Working knowledge of J2EE/LAMP stacks (EJB, JSP, ASP, Servlets, JNDI,
+XML/XSL) to implement a distributed n-tier object system.
+    * Object-oriented analysis & design skills.
+    * Experience with data modeling.
+    * Project management skills.
+    * Development experience under Linux, Windows, Solaris, UNIX.
+
+
+URL for more information:
+http://www.mysql.com/company/jobs/senior_consultant.html
+
+Contact information at:
+http://jobs.perl.org/job/2134#contact
+
+

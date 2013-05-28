@@ -1,0 +1,145 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7594
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8713 invoked from network); 28 Jan 2008 20:25:41 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 28 Jan 2008 20:25:41 -0000
+Received: (qmail 28232 invoked by uid 225); 28 Jan 2008 20:25:40 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 28225 invoked by alias); 28 Jan 2008 20:25:40 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 28 Jan 2008 12:25:32 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id F165E2AFCB; Mon, 28 Jan 2008 12:25:28 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20080128202528.F165E2AFCB@x3.develooper.com>
+Date: Mon, 28 Jan 2008 12:25:28 -0800 (PST)
+Subject: UI Engineer (part onsite), United States, CA, Santa Clara
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/7804
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 28, 2008
+
+Job title: UI Engineer
+
+Company name: WhiteHat Security
+
+Internal ID: UI Engineer
+
+Location: United States, CA, Santa Clara
+
+Pay rate: DOE (competitive) + benefits
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+BRIEF JOB DESCRIPTION: 
+---------------------- 
+
+We're looking for a full time middle to senior level UI developer who 
+has experience and a working knowledge of web 2.0 and accessible W3C
+standards (section 508) using XHTML, CSS, and unobtrusive DOM scripting.
+Some design skills would be appreciated. 
+
+Linux and Perl also desired, specifically work with HTML::Mason templates
+and subversion. 
+Knowledge of Section 508
+
+Candidate must be located in the SF bay area and able to work onsite in the
+
+office 3 days a week. Telecommuting Mondays and Fridays are standard for
+our dev team once you get rolling. 
+
+If interested, please forward me your resume and any recent code samples or
+sites you have created online so we may perform an evaluation of your
+coding skills to: 
+wh-jobs@whitehatsec.com. 
+
+
+OFFICIAL JOB DESCRIPTION: 
+----------------- 
+
+* Implement and maintain user interfaces for WhiteHat Sentinel 
+and WhiteHat Console using HTML, CSS, JavaScript and Perl. 
+* Work closely with the design, product and engineering teams to 
+deliver an excellent user experience for WhiteHat's services. 
+
+Requirements 
+
+* Knowledge of HTML, CSS, JavaScript and W3C DOM 
+* Experience implementing standards-based web application user interfaces 
+* Ability to cleanly implement a UI across different browsers (IE6,
+Mozilla/Firefox, Safari, Opera) 
+* Demonstrated understanding of how implementation choices impact user
+experience in terms of browser compatibility, accessibility and performance
+
+* Willingness to work and self start in a fast-moving, dynamic and
+team-oriented environment 
+
+Desirable 
+
+* Experience developing AJAX applications 
+* Experience integrating rich web interfaces with server-side code 
+* Experience in UI design and engineering of content-based applications
+such as blogs, photo albums, email, content management systems, etc. 
+* Previous experience developing with open source technologies, such as
+Perl, mod_perl, Template::Toolkit and/or Mason 
+* Experience with XML, Web Services, and Internationalization
+* Agile Development with SCRUM
+
+ABOUT WhiteHat Security: 
+------------------------ 
+
+WhiteHat Security was founded in 2002 and is located in Santa 
+Clara, CA. With approximately 40 employees, WhiteHat has developed 
+its flagship product, Sentinel, a web application security service 
+with comprehensive, practical and cost-effective solutions to protect 
+customer and corporate data, and to help its customers comply with 
+industry standards.
+
+Required skills:
+* Knowledge of HTML, CSS, JavaScript and W3C DOM 
+* Experience implementing standards-based web application user interfaces 
+* Ability to cleanly implement a UI across different browsers (IE6,
+Mozilla/Firefox, Safari, Opera) 
+* Demonstrated understanding of how implementation choices impact user
+experience in terms of browser compatibility, accessibility and performance
+
+* Willingness to work and self start in a fast-moving, dynamic and
+team-oriented environment 
+
+Desired skills:
+* Experience developing AJAX applications 
+* Experience integrating rich web interfaces with server-side code 
+* Experience in UI design and engineering of content-based applications
+such as blogs, photo albums, email, content management systems, etc. 
+* Previous experience developing with open source technologies, such as
+Perl, mod_perl, Template::Toolkit and/or Mason 
+* Experience with XML, Web Services, and Internationalization
+* Agile Development with SCRUM
+* Command-line experience with vim/emac, grep, find, and subversion.
+
+URL for more information: http://www.whitehatsec.com/
+
+Contact information at:
+http://jobs.perl.org/job/7804#contact
+
+

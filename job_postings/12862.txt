@@ -1,0 +1,98 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12862
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 20264 invoked from network); 26 Oct 2012 17:43:16 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 26 Oct 2012 17:43:16 -0000
+Received: (qmail 22819 invoked by uid 225); 26 Oct 2012 17:43:15 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 22814 invoked by alias); 26 Oct 2012 17:43:15 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 26 Oct 2012 10:43:12 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 25F0E2AFE1; Fri, 26 Oct 2012 10:43:08 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 26 Oct 2012 10:43:08 -0700
+Message-ID: <20121026174309.25F0E2AFE1@x3.develooper.com>
+Subject: Perl Developer, Amsterdam, The Netherlands
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16644
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 26, 2012
+
+Job title: Perl Developer
+
+Company name: Cliq Digital
+
+Location: Amsterdam, The Netherlands
+
+Terms of employment: Salaried employee
+
+Length of employment: Definite
+
+Hours: Full time
+
+Description:
+As CLIQ Digital continues to grow we look for an experienced Perl Developer
+as a part of our Technology Team.
+
+The CLIQ multi-media services platform defines a vital network component
+for the efficient distribution of mobile service content, forming an
+inter-connection hub to all major gateways worldwide. The Perl backend
+component of CLIQ’s architecture connects to more than 30 countries, and
+this number is growing. The platform is built on top of a solid framework
+of interconnected Perl modules and scripts within a distributed network of
+powerful Linux servers. High-performance, robustness, redundancy and
+scalability are important. The development team is continuously improving
+this backend system by using state of the art open-source technology like
+Perl, mod_perl, Apache2, XML, Json, MySQL, CPAN-style packaging,
+object-oriented programming, continuous integration, module testing and
+version control guide development. 
+
+Job Description
+Maintain, improve and enhance modules of a platform used to manage
+subscriptions, bill and deliver content to mobile consumers worldwide. The
+applicant must be able to work mostly independently on small projects
+involving connections to SMS aggregators and implementation of new
+features. The applicant will gather the relevant requirements, implement
+them and cover the implementation with tests and documentation. The lead
+developer will guide the applicant when dealing with larger refactorings
+and/or the design of larger features that affect multiple modules.
+
+To get a feeling for the platform the applicant will first learn to set up
+services on the platform. Operational tasks will remain a small part of the
+job, both as backup for the main application engineer and to promote an
+awareness of the consequences of certain design decisions from an
+operational point of view.
+
+Core responsibilities
+•	Problem analysis
+•	Functional and technical design
+•	Software development – object oriented
+•	Module & system testing
+•	Documentation, packaging and deployment
+
+Required skills:
+•	University or similar level
+•	Analytical skills
+•	2 to 5 years experience in software engineering
+•	Experience with software version control like	  CVS and/or SVN
+•	Familiarity with Linux operating systems is an advantage
+
+Website for more information: http://www.cliqdigital.com
+
+Contact information at:
+http://jobs.perl.org/job/16644#contact

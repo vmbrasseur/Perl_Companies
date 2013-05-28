@@ -1,0 +1,97 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6337
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 26923 invoked from network); 24 May 2007 23:21:01 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 24 May 2007 23:21:01 -0000
+Received: (qmail 1851 invoked by uid 225); 24 May 2007 23:21:01 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 1847 invoked by alias); 24 May 2007 23:21:01 -0000
+X-Spam-Status: No, hits=-0.2 required=8.0
+	tests=BAYES_40,DKIM_POLICY_SIGNSOME,DK_POLICY_SIGNSOME,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 24 May 2007 16:20:53 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id C04292AFE2; Thu, 24 May 2007 16:20:49 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070524232049.C04292AFE2@x3.develooper.com>
+Date: Thu, 24 May 2007 16:20:49 -0700 (PDT)
+Subject: Senior LAMP Engineer for NYC startup (onsite), United States, NY, New York
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5856
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 24, 2007
+
+Job title: Senior LAMP Engineer for NYC startup
+
+Company name: Zimu Inc.
+
+Location: United States, NY, New York
+
+Pay rate: 90-120K
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Senior engineer will joing a team of developers in building a next
+generation web platform integrating social networking features and local
+search. Responsibilities include developing perl/mod_perl modules at the
+application layer using OOP programming techniques on a LAMP stack
+architecture. AJAX & JSON will be utilized to create useable and
+interactive UI elements to further enhance the user experience. Candidate
+will be involved in all stages of software development including
+requirements definition, design, architecture, development, testing,
+support, and maintenance. Engineer will be responsible for component
+design, unit testing.  Minimum 6+ years of experience developing web
+applications. Experience with or desire to work in a small entrepreneurial
+environment is a must. Candidates with Catalyst framework and
+Template::Toolkit highly desirable.
+
+Required skills:
+• perl/mod_perl
+• Linux
+• SQL
+• MySQL (Perl DBI/DBD/DBIC access, basic DBA experience)
+• Apache
+• AJAX
+• JavaScript
+• Extensive software development experience, with object-oriented
+programming
+• LAMP architecture
+
+Desired skills:
+• 5+ years of software development experience (preferably OOP)
+• Subversion
+• Catalyst
+• SOAP/REST
+• XML
+• JSON
+• Template::Toolkit
+• CSS
+• GIS
+• Entrepreneurial Spirit
+• Analytical and problem solving skills
+• Detail oriented, highly organized
+• Ability to work with teams in a fast pace environment
+
+Contact information at:
+http://jobs.perl.org/job/5856#contact
+
+

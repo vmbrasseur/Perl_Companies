@@ -1,0 +1,81 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6510
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 10978 invoked from network); 27 Jun 2007 06:49:06 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 27 Jun 2007 06:49:06 -0000
+Received: (qmail 14788 invoked by uid 225); 27 Jun 2007 06:49:05 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 14781 invoked by alias); 27 Jun 2007 06:49:05 -0000
+X-Spam-Status: No, hits=-2.6 required=8.0
+	tests=BAYES_00,DKIM_POLICY_SIGNSOME,DK_POLICY_SIGNSOME,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 26 Jun 2007 23:49:00 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 894572AFF1; Tue, 26 Jun 2007 23:48:57 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070627064857.894572AFF1@x3.develooper.com>
+Date: Tue, 26 Jun 2007 23:48:57 -0700 (PDT)
+Subject: Perl and Shell Scripting Linking Filemaker to MySQL and Mail (telecommute), United States, CA, Sacramento
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/6014
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 26, 2007
+
+Job title:
+Perl and Shell Scripting Linking Filemaker to MySQL and Mail
+
+Company name: MacNexus
+
+Internal ID: none
+
+Location: United States, CA, Sacramento
+
+Pay rate: 75USD/hr
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: as needed
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+We switched web servers. We run our membership list in Filemaker and had
+two perl scripts that went out and added/deleted members from MySQL and
+from our mail server. The two perl scripts are called by choosing a menu
+action in Filemaker. Filemaker then runs a shell script, adds parameters,
+and passes those to the perl script. So Filemaker is able to trigger around
+24 account-related functions with only 2 perl scripts. Since moving to a
+new web server, this has stopped working and throws up error message "host
+key verification failed 255"
+
+Required skills:
+Perl scripting
+Shell scripting
+knowledge of ssh
+expert knowledge of unix terminal
+OS X version 10.4.10
+
+Desired skills:
+Able to run the scripts manually and debug to see where/why it is failing.
+Must provide and have good references.
+
+Contact information at:
+http://jobs.perl.org/job/6014#contact
+
+

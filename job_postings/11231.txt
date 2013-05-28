@@ -1,0 +1,84 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11231
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 26336 invoked from network); 15 Apr 2011 22:06:15 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 15 Apr 2011 22:06:15 -0000
+Received: (qmail 5407 invoked by uid 225); 15 Apr 2011 22:06:14 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 5403 invoked by alias); 15 Apr 2011 22:06:14 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 15 Apr 2011 15:06:09 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id F3E082AFE2; Fri, 15 Apr 2011 15:06:05 -0700 (PDT)
+To: jobs@perl.org
+Date: Fri, 15 Apr 2011 15:06:05 -0700
+Message-ID: <20110415220605.F3E082AFE2@x3.develooper.com>
+Subject: Senior Perl Developer (onsite), United States, CA, Altadena
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14056
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 15, 2011
+
+Job title: Senior Perl Developer
+
+Company name: Synctree, Inc.
+
+Internal ID: Senior Perl Developer
+
+Location: United States, CA, Altadena
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Our growing company is looking for a super star team member who is positive
+and practical and would enjoy contributing ideas. We are seeking a talented
+and highly motivated software engineer to design, implement and support a
+variety of applications for internal and external clients.
+
+Job Responsibilities might include: 
+* Design, implement, and test eCommerce web apps using mod_perl and
+Template Toolkit.
+* Develop REST APIs (XML or JSON over HTTP).
+* Design and implement automated testing frameworks.
+* Carry out live demos for internal and external clients.
+* Backend support for internal tools.
+
+Required skills:
+* Expert in OO Perl
+* Extensive experience in mod_perl
+* Extensive experience with JavaScript, AJAX, HTML
+* Experience with Template Toolkit
+* Strong understanding of TDD
+* Expert in using Linux as a development environment 
+* Tenacious problem solver and ability to work under pressure
+* A pragmatic programmer type
+* Positive, detail oriented, and self-motivated
+* Excellent verbal and written communication skills 
+* BS degree in Computer Science or equivalent experience
+
+Desired skills:
+* Experience with Ruby on Rails 
+* Experience with Java
+* Experience with BDD
+
+Website for more information: http://www.synctree.com/
+
+Contact information at:
+http://jobs.perl.org/job/14056#contact

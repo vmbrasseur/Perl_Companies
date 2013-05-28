@@ -1,0 +1,165 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3999
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 26931 invoked from network); 14 Mar 2006 00:58:53 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 14 Mar 2006 00:58:53 -0000
+Received: (qmail 29262 invoked by uid 225); 14 Mar 2006 00:58:52 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 29254 invoked by alias); 14 Mar 2006 00:58:51 -0000
+X-Spam-Status: No, hits=-0.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_20,URIBL_WS_SURBL
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 13 Mar 2006 16:58:47 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id k2E0whMN027377
+	for <jobs@perl.org>; Mon, 13 Mar 2006 16:58:43 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id k2E0wham027375;
+	Mon, 13 Mar 2006 16:58:43 -0800
+Date: Mon, 13 Mar 2006 16:58:43 -0800
+Message-ID: <200603140058.k2E0wham027375@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: mod_perl/DBI programmer for issue-oriented nonprofit (onsite), United States, VA, Arlington
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3812
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 13, 2006
+
+Job title:
+mod_perl/DBI programmer for issue-oriented nonprofit
+
+Company name: NumbersUSA
+
+Internal ID: perlorg1
+
+Location: United States, VA, Arlington
+
+Pay rate: $46,000 - $59,000/year
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Join a highly-motivated Tech Team which produces and maintains the nation's
+leading set of web tools for online political activism--www.NumbersUSA.com.
+
+
+Our 150,000 members depend on NumbersUSA to make their voices heard in
+Congress.
+
+We are eight years old, growing, and financially stable.
+
+If you are in strong agreement with our policy agenda of changing U.S. law
+to REDUCE legal immigration to traditional levels and to ELIMINATE illegal
+immigration, and you have strong, proven technical skills and truly great
+work habits and attitudes, read on!
+
+Important Note: NumbersUSA is PRO-immigrant, but ANTI-mass-immigration. We
+take a moderate, charitable tone. Our cause is very mainstream, and our
+organization is nationally respected.
+
+We need a skilled mod_perl programmer with strong DBI/MySQL skills to help
+us build and maintain our large web applications, which focus on helping
+average Americans contact and influence their government on the subject of
+reducing immigration (our web site gives full details of our political
+position). 
+
+You will be working with a highly motivated, fun group of 9 programmers and
+technical support people. You will be working in our office in Arlington,
+Virginia, immediately across the river from Washington. We have a bunch of
+really interesting Redhat Enterprise servers and maintain numerous
+data-intensive web sites. In the world of politics and technology, we are
+cutting edge.
+
+The job involves building entire modules of new web functionality, plus
+repairing and maintaining existing modules. The challenges are
+never-ending, because we are doing many things no one has ever tried
+before. We are looking for a focused, hard-working, and inventive employee
+to help us reduce our enormous backlog of code projects. You must be
+meticulous as to detail and a self-starter.
+
+This position has attractive benefits:
+
+* Starts with two weeks vacation plus one week sick leave!
+
+* Medical insurance benefit!
+
+* After one year, participate in our matching 403(b) retirement plan!
+
+* All taxes withheld.
+
+* Located only one short block from Metro (subway).
+
+Things you will be doing
+
+1. Writing software, primarily in mod-perl, to add functionality to our
+Internet political activism toolset (see our site, www.NumbersUSA.com);
+
+2. Working closely with the Director of Technology and your Tech Team
+colleagues to develop ideas and solve problems;
+
+3. Getting assigned "bugs" in system, using Bugzilla, and hunting down and
+slaying them;
+
+4. Building and maintaining reports;
+
+5. Knocking out lots and lots of good, tight code.
+
+Required skills:
+*  Strong Knowledge of Perl both in the mod_perl setting and otherwise
+
+* Familarity with MySQL, sql query writing, setting up and maintaining
+relational databases
+
+* Excellent English communication skills (written and oral)
+
+* Legal permission to work in U.S.
+
+ * Strong Knowledge of working on the command line (Red Hat Enterprise
+especially)
+
+* JavaScript
+
+* html, css
+
+* Creative approach to technology!
+
+* Desire to make a positive difference in the world.
+
+Desired skills:
+* Knowledge of C/C++
+
+* Knowledge of PHP
+
+* Windows applications especially using VB
+
+* Optimizing MySQL queries
+
+* Comfortable with CVS
+
+* Comfortable with Bugzilla
+
+URL for more information: http://www.numbersusa.com/
+
+Contact information at:
+http://jobs.perl.org/job/3812#contact
+
+

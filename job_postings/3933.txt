@@ -1,0 +1,104 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3933
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 19886 invoked from network); 28 Feb 2006 15:50:37 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 28 Feb 2006 15:50:37 -0000
+Received: (qmail 28300 invoked by uid 225); 28 Feb 2006 15:50:36 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 28256 invoked by alias); 28 Feb 2006 15:50:35 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 28 Feb 2006 07:50:24 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id k1SFoINA021493
+	for <jobs@perl.org>; Tue, 28 Feb 2006 07:50:18 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id k1SFoI3u021491;
+	Tue, 28 Feb 2006 07:50:18 -0800
+Date: Tue, 28 Feb 2006 07:50:18 -0800
+Message-ID: <200602281550.k1SFoI3u021491@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: ASR Software Engineer I (onsite), United States, MA, Needham
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3751
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 28, 2006
+
+Job title: ASR Software Engineer I
+
+Company name: eScription, Inc
+
+Location: United States, MA, Needham
+
+Pay rate: USD
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: Full time
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The Automatic Speech Recognition Group is looking for a solid software
+engineer to focus on automating processes and developing tools which help
+to improve our algorithms. 
+This individual will work on a variety of programming projects and will be
+exposed to many aspects of the technology. The ideal candidate will view
+each project as a chance to learn more about ASR technology and will aspire
+to contribute to algorithm development. 
+Among the anticipated projects are: 
+•Normalizing large text databases. 
+•Analyzing historical data for statistics and trends. 
+•Monitoring a large farm of recognition hosts: diagnose and troubleshoot
+operation problems, automate error reporting, status reporting, improve
+robustness to hardware failures. 
+•Automating responses to customer support questions.
+All of these projects will require careful written specification,
+incremental development, testing and monitoring. 
+In addition, the position may require: 
+•Contributing to software release processes and procedures. 
+•Optimizing the ASR code. 
+•Programming custom components for new requirements. 
+•Testing/QA of new features.
+
+
+Required skills:
+The ideal candidate will possess: 
+•A BS or MS in Computer Science, Engineering, Math or related field 
+•At least 1-2 yrs of work experience, or a good GPA from a top tier
+university 
+•Extensive experience with Perl and/or shell scripting (bash) 
+•Experience with Unix/Linux 
+•Knowledge of one or more of the following: C/C++, SQL, Java, CVS/SVM
+•Theoretical and intuitive understanding of basic probability and
+statistics 
+•Excellent analytical skills 
+•Good oral and written communication skills 
+•Ability to multi-task in a fast-paced environment 
+•Desire to learn new technologies, work hard, excel and make a difference
+
+
+URL for more information: http://www.escription.com/
+
+Contact information at:
+http://jobs.perl.org/job/3751#contact
+
+

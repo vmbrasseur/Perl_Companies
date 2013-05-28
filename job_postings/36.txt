@@ -1,0 +1,55 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:36
+Return-Path: <aef@chalk.oaktree.net.uk>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 73853 invoked from network); 8 May 2001 09:26:03 -0000
+Received: from peach.oaktree.net.uk (HELO relay.is4b.net) (193.82.129.13)
+  by onion.valueclick.com with SMTP; 8 May 2001 09:26:03 -0000
+Received: from chalk.oaktree.net.uk (chalk.oaktree.net.uk [193.82.129.19])
+	by relay.is4b.net (Postfix) with ESMTP id 0839E1DC17
+	for <jobs@perl.org>; Tue,  8 May 2001 10:25:57 +0100 (BST)
+Received: from localhost (aef@localhost)
+	by chalk.oaktree.net.uk (8.9.3/8.9.3) with ESMTP id KAA00758
+	for <jobs@perl.org>; Tue, 8 May 2001 10:25:56 +0100 (BST)
+Date: Tue, 8 May 2001 10:25:56 +0100 (BST)
+To: jobs@perl.org
+Message-ID: <Pine.BSF.4.03.10105081005470.29419-100000@chalk.oaktree.net.uk>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+X-Spam-Rating: onion.valueclick.com 1.6.2 0/1000/N
+Subject: London, UK - Perl Developers (Permanent)
+Approved: news@nntp.perl.org
+From: aef@chalk.oaktree.net.uk (AEF)
+
+
+ Ok, this is a somewhat unofficial advert on behalf of the company I work
+for. It's an Internet publishing company based a few minutes walk from
+Highbury & Islington station (Victoria Line, National Rail). We[1] have
+been around for a few years, have funding and are selling real services to
+real clients. (I think some actual profits may be involved - but don't
+quote me on that.)
+
+ We are looking for two junior Perl coders and one more senior developer.
+The current system is Linux & Solaris/Apache/Perl/MySQL. Java technologies
+and a commercial DB may be used in the nearish future, and we want people
+who are prepared to work with that.
+
+ The two junior roles would suit recent graduates with some experience
+with Unix/Linux, Perl, SQL (other applicable skills a plus). The more
+senior role is aimed at someone with non-trivial experience of commercial
+Perl development, with some skills and experience in the other
+technologies mentioned above.
+
+ If interested, please send details/questions to me, and I'll pass them on
+to the appropriate person. Please don't respond to this if you are a
+recruitment agency/consultancy/etc.
+
+ Thanks,
+
+ Tony Fisher
+
+[1] The company, in case you missed the change in context.
+

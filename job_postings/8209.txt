@@ -1,0 +1,72 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8209
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 14699 invoked from network); 29 May 2008 06:37:13 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 29 May 2008 06:37:13 -0000
+Received: (qmail 8931 invoked by uid 225); 29 May 2008 06:37:13 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 8925 invoked by alias); 29 May 2008 06:37:13 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 28 May 2008 23:37:10 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 07BBE2AFEC; Wed, 28 May 2008 23:37:06 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080529063707.07BBE2AFEC@x3.develooper.com>
+Date: Wed, 28 May 2008 23:37:06 -0700 (PDT)
+Subject: Perl Developer, Team Lead (software) (onsite), United States, NY, New York
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8808
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 28, 2008
+
+Job title: Perl Developer, Team Lead (software)
+
+Company name: Solomon Page Technology Partners
+
+Location: United States, NY, New York
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Our client is the leading developer of database management automation
+software. The server side of their flagship product is heavy on
+object-oriented Perl; 5.8.7 is supported (although we might migrate to 5.10
+on all supported platforms once it is burned in).  As far as coding
+conventions, we use PBP and peer review (use strict; and use warnings; are
+mandatory). Warnings are fatal (causing a die to occur). All code must
+compile on all supported platforms prior to commit (Linux, Solaris, Win32,
+HP-UX, etc.).
+
+Required skills:
+Obviously you have an unbridled love of Perl. Additionally, you’ll offer:
+ 
+•	Significantly skilled with Perl (C++, PHP receive bonus points) 
+•	Solid experience in TCP/IP network and/or distributed systems
+programming 
+•	Working with one or more of Oracle/DB2/Sybase/MSSQL 
+•	Fluency in Linux and/or flavors of UNIX 
+•	Team lead experience would be very nice to have 
+
+Contact information at:
+http://jobs.perl.org/job/8808#contact
+
+

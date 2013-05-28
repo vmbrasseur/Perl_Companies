@@ -1,0 +1,126 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11735
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13989 invoked from network); 10 Oct 2011 15:58:45 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 10 Oct 2011 15:58:45 -0000
+Received: (qmail 20678 invoked by uid 225); 10 Oct 2011 15:58:44 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 20674 invoked by alias); 10 Oct 2011 15:58:44 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 10 Oct 2011 08:58:41 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 44B822AFE4; Mon, 10 Oct 2011 08:58:38 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 10 Oct 2011 08:58:38 -0700
+Message-ID: <20111010155838.44B822AFE4@x3.develooper.com>
+Subject: Web Software Developer for Scotland's leading digital media company
+ (onsite), Glasgow, United Kingdom
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14364
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 10, 2011
+
+Job title:
+Web Software Developer for Scotland's leading digital media company
+
+Company name: s1
+
+Internal ID: JJx4
+
+Location: Glasgow, United Kingdom
+
+Pay rate: £depends on experience
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We have a great opportunity on s1's in-house technical team for a talented
+web applications developer. The role includes server-side web application
+programming, mobile applications development, content management systems,
+databases, email and SQL for some of Scotland's most successful websites
+and online services.
+
+s1 is Scotland's leading internet publisher responsible for the highly
+successful s1 series of sites: s1jobs, s1homes, s1cars, s1community and
+s1play. We're part of the Herald & Times Group and work closely with our
+colleagues on The Herald, Evening Times and Sunday Herald newspapers, and
+on their websites such as heraldscotland.com and eveningtimes.co.uk. Our
+staff enjoy the benefits of working within a small friendly unit whilst
+also being part of a major media company. 
+
+To be considered for this role you must have experience implementing
+SQL-based database-driven websites which are available to the general
+public, using Perl, PHP, Python or a similar language, preferably using
+MySQL databases. Exposure to any of Apache, mod_perl, Linux, SSH, FTP,
+memcached, e-commerce, mobile development, MVC, query optimisation or
+multiple-server environments would be beneficial. You should also be
+comfortable with Javascript and very used to writing and maintaining
+Javascript-enabled pages, including Ajax, the DOM, and third party
+libraries such as Jquery.
+
+You should have working knowledge of other client-side technologies such as
+HTML and CSS, and you combine them with your server programming and
+database skills to produce and maintain world-class sites and services.
+Essential to this role is a cooperative and professional attitude and
+approach. You must be able to work effectively in teams with technical and
+non-technical colleagues.
+
+You should be dedicated to elegant solutions and aware how different
+technical implementations can bring different benefits to an organisation.
+You should be resourceful with web resources, attentive to detail, and have
+the initiative to advance your own technical knowledge and skills when
+required. If you are comfortable working on both high-level architectures
+and low-level algorithm optimisation, and you know which things work well
+on s1 websites (see s1thecompany.com for some examples) and how to make
+other things work better, then please forward your CV and covering letter
+to us through our online application system. In order for your application
+to be considered you must detail your experience with the technologies
+listed above, including URLs and other information about sites you have
+worked on recently which are available to the general public.
+
+Please apply online through our website, at the URL 
+ http://www.s1jobs.com/job/421605975.shtml
+
+Please mention that you saw the job ad on the Perl jobs list.
+
+Thanks!
+
+Required skills:
+Perl
+Commercial awareness
+Apache
+MySQL
+
+Desired skills:
+Linux
+mod_perl
+SSH
+Email services
+Load balancing
+Security
+Git
+PHP/Python/etc
+E-commerce
+
+Website for more information: http://www.s1jobs.com/job/421605975.shtml
+
+Contact information at:
+http://jobs.perl.org/job/14364#contact

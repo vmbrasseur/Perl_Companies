@@ -1,0 +1,95 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4979
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 11302 invoked from network); 21 Sep 2006 21:51:00 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 21 Sep 2006 21:51:00 -0000
+Received: (qmail 28987 invoked by uid 225); 21 Sep 2006 21:51:00 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 28982 invoked by alias); 21 Sep 2006 21:51:00 -0000
+X-Spam-Status: No, hits=-1.8 required=8.0
+	tests=ALL_TRUSTED,BAYES_50
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 21 Sep 2006 14:50:56 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 35CDE2AFDE; Thu, 21 Sep 2006 14:50:51 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060921215051.35CDE2AFDE@x3.develooper.com>
+Date: Thu, 21 Sep 2006 14:50:51 -0700 (PDT)
+Subject: Perl Programmer for Financial Institution (part onsite), United States, California, San Francisco
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4681
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 21, 2006
+
+Job title:
+Perl Programmer for Financial Institution
+
+Company name: Barclays Global Investors
+
+Location: United States, California, San Francisco
+
+Pay rate: Competitive
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 6 to 8 months.
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+Barclays Global Investors (BGI) is America’s largest money manager,
+providing structured investment strategies such as indexing,
+risk-controlled active products, and exchange traded funds to investors
+worldwide. For 35 years, BGI has been at the forefront of developing
+innovative investment ideas, applying science and technology to the
+investment process. Headquartered in San Francisco and recently named one
+of the SF Business Times’ “Best Places to Work in the Bay Area,” the
+Barclays PLC subsidiary employs over 2,800 people globally and manages $1.5
+trillion in assets.
+
+We are seeking a Perl developer to help us modernize a legacy portfolio
+management system.  This will involve removing unecessary code, migrating
+from Perl 4 to Perl 5 coding styles, applying best-practices and coding
+standards, refactoring/rewriting procedural code into object-oriented
+services, reorganizing system into functional components and distributions.
+
+
+This is an excellent opportunity to sharpen Perl skills and learn about
+Equity Portfolio Managment.  We are small team of developers filling many
+roles in the development cycle.  We practice pair and solo programming, use
+automated builds and continuous integration, and have a small but growing
+repository of tests.
+
+Required skills:
+Writing object-oriented and procedural Perl code.
+Using source-code management tools (SVN, CVS).
+Working in a Unix command-line environment.
+Developing with SQL and DBI.
+
+Desired skills:
+Refactoring tools and techniques.
+Using Perl's testing tools.
+Creating CPAN modules.
+
+URL for more information: http://www.barclaysglobal.com/
+
+Contact information at:
+http://jobs.perl.org/job/4681#contact
+
+

@@ -1,0 +1,117 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9719
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 600 invoked from network); 30 Dec 2009 07:38:38 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 30 Dec 2009 07:38:38 -0000
+Received: (qmail 31186 invoked by uid 225); 30 Dec 2009 07:38:38 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 31180 invoked by alias); 30 Dec 2009 07:38:37 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 29 Dec 2009 23:38:35 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 77E2B2AFDA; Tue, 29 Dec 2009 23:38:32 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20091230073832.77E2B2AFDA@x3.develooper.com>
+Date: Tue, 29 Dec 2009 23:38:32 -0800 (PST)
+Subject: Software Reliability Engineer, United States, NY, New York
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/11512
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 29, 2009
+
+Job title: Software Reliability Engineer
+
+Company name: kgbweb
+
+Location: United States, NY, New York
+
+Pay rate: commensurate w/exp
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Description:
+Here at the web team of kgb we are an organizational centaur. The head of a
+start-up with the body of a leading global information services company.
+kgb has operated information businesses worldwide since 1992 and recently
+launched the “Ask Us Anything” 542-542 Text message service. Therefore, we
+pay a competitive salary with full benefits, and enjoy the strength and
+resources of an established organization. In ancient times they called that
+a “magical combination”. Today, they’d probably just coin it “reorganized
+organizational organization.” 
+
+We are a distinct small and agile team that functions as an incubated
+start-up funded by a larger organization. Our mission is simple: completely
+redefine the way users get their content on the web. 
+
+Our office is extremely open and collegiate and we are committed to letting
+ideas thrive above all else. Our office in midtown Manhattan is filled with
+smiles, Ping Pong tables, brilliant ideas, movies, pizza, and laughter. We
+find that pizza and ideas are highly correlated. 
+
+We’re a very eclectic bunch of characters, but we all share a common
+commitment to taking whatever we do, fun or work, to the max. Some words
+that have been used to describe us are: passionate, fun, funny, innovative,
+contrarian, automagical, brilliant, academic, whimsical, and most
+importantly respectful. If you fit 3 or more of those descriptions, you
+might just have some of that magic we’re looking for. 
+
+Required skills:
+As the Software Reliability Engineer at kgb web you will be a foundational
+member of our Software Services team, working intimately with the CTO and
+other developers. The Software Services team is responsible for reliably
+moving, storing, indexing, and making easily accessible a variety of data
+to be used in a major consumer facing product. The role of the Software
+Reliability Engineer is to help manage the deployment of a variety of open
+source projects and systems to accomplish these goals.
+ 
+With so much to get done, every member of the team is encouraged to
+participate in all areas of the group.	We expect this to excite our
+candidates and find that the right candidates often make great
+contributions outside of their area of focus. 
+ 
+Responsibilities:
+* Install, configure, operate, and monitor services for storing and
+indexing data.
+* Develop clustering and redundancy/failover methods to ensure reliability
+of services.
+* Identify and evaluate new services/projects to assist the Data team in
+exploring possible new requirements.
+ 
+Experience Guidelines (most of this should apply to you):
+* Strong Linux/unix systems and operations background
+* Experience with multi-system configurations for failover and clustering
+* Comfort handling large amounts of data with scripting languages
+* Monitoring of many systems and processes and ability to quickly debug
+issues
+ 
+We would be very happy if you:
+* Know Perl, Python, Ruby
+* Have experience with Amazon Web Services and cloud computing
+* Have experience with Memcache, Lucene/Solr, Hadoop, or other distributed
+systems that handle massive amounts of data
+* Work comfortably in a fast paced start-up environment 
+* Work comfortably on multiple projects simultaneously
+
+URL for more information: http://www.kgbweb.com/
+
+Contact information at:
+http://jobs.perl.org/job/11512#contact
+
+

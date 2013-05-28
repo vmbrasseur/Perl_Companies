@@ -1,0 +1,139 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5949
+Return-Path: <stanleygo@google.com>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 12319 invoked from network); 20 Mar 2007 17:54:25 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 20 Mar 2007 17:54:25 -0000
+Received: (qmail 9730 invoked by uid 225); 20 Mar 2007 17:54:24 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 9710 invoked by alias); 20 Mar 2007 17:54:23 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,DK_POLICY_SIGNSOME,DK_POLICY_TESTING,DK_SIGNED,DK_VERIFIED,DNS_FROM_RFC_ABUSE,HTML_40_50,HTML_MESSAGE,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of stanleygo@google.com designates 216.239.33.17 as permitted sender)
+Received: from smtp-out.google.com (HELO smtp-out.google.com) (216.239.33.17)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 20 Mar 2007 10:54:19 -0700
+Received: from spaceape14.eur.corp.google.com (spaceape14.eur.corp.google.com [172.28.16.148])
+	by smtp-out.google.com with ESMTP id l2KHs3Tg015146
+	for <jobs@perl.org>; Tue, 20 Mar 2007 17:54:03 GMT
+DomainKey-Signature: a=rsa-sha1; s=beta; d=google.com; c=nofws; q=dns;
+	h=received:message-id:date:from:to:subject:mime-version:content-type;
+	b=DqvH0dlwY3OVXgObBfWx382A8y7E4VDRo2pg/0xKmDtW0O9rlqua91SKwk2zNMmDl
+	t/ZJPgOvIspwzKETVAYxQ==
+Received: from nz-out-0506.google.com (nzfz3.prod.google.com [10.36.202.3])
+	by spaceape14.eur.corp.google.com with ESMTP id l2KHrnXs023354
+	for <jobs@perl.org>; Tue, 20 Mar 2007 17:53:49 GMT
+Received: by nz-out-0506.google.com with SMTP id z3so842160nzf
+        for <jobs@perl.org>; Tue, 20 Mar 2007 10:53:49 -0700 (PDT)
+Received: by 10.100.43.9 with SMTP id q9mr5357458anq.1174413229142;
+        Tue, 20 Mar 2007 10:53:49 -0700 (PDT)
+Received: by 10.114.191.19 with HTTP; Tue, 20 Mar 2007 10:53:49 -0700 (PDT)
+Message-ID: <ec7382d20703201053k357f99aamf57a46337e239ee8@mail.gmail.com>
+Date: Tue, 20 Mar 2007 10:53:49 -0700
+To: jobs@perl.org
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_175799_2055809.1174413229044"
+X-Virus-Checked: Checked
+Subject: Google - employment opportunities
+Approved: news@nntp.perl.org
+From: stanleygo@google.com ("Stanley Go")
+
+------=_Part_175799_2055809.1174413229044
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+
+Hi Perl users,
+
+My name is Stanley Go and I am a technical recruiter for the
+Google.com<http://google.com/>engineering team at Google.  This is the
+most dynamic, challenging, and fun
+group at Google.  It is an exciting time at Google and we are always looking
+for the very best talent to join us.  In a gist, I am looking for engineers
+with Unix Sys Admin and SW background with strong coding skills.
+
+First let me tell you a little about the position.
+"Google.com<http://google.com/>engineering team is the "Mission
+Control" of Google - the group that ensures
+that our critical services and systems meet the availability and performance
+standards our users expect.  Google.com <http://google.com/> engineers help
+development teams think about, and engineer for, reliability in user-facing
+services and systems.  Google.com <http://google.com/> engineers require a
+unique combination of software engineering, networking, system
+administration, diagnostic ability, and good judgment.  They are called upon
+to make instant decisions that have large consequences, and they have to be
+very, very good at it!"
+
+I am currently recruiting for two positions (we have both multiple positions
+and locations in the US, Europe, and Australia):
+Software Engineer, Google.com <http://google.com/> -
+http://www.google.com/support/jobs/bin/answer.py?answer=23591
+Unix System/Applications Administrator, Google.com <http://google.com/> -
+http://www.google.com/support/jobs/bin/answer.py?answer=23594
+
+We have multiple positions in various locations in the US and Europe.  If
+you are open to exploring this opportunity, please send me an email so we
+can schedule a time to discuss more details.
+
+I hope you are not bothered by my networking attempt.  If you are not
+interested or available, but would like to forward my name and contact
+information to your friends or colleagues, I would be most appreciative.
+
+Thank you and hope to hear from you soon!
+
+Best Regards,
+
+-- 
+Stanley Go
+Google Inc.
+Staffing/Recruiting
+Office: (650) 253-1241
+
+
+Are you Linkedin? - http://www.linkedin.com  Feel free to send me an invite
+to stanleygo@google.com
+
+------=_Part_175799_2055809.1174413229044
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+
+Hi Perl users,<br><br>My name is Stanley Go and I am a technical recruiter for the <a href="http://google.com/" target="_blank" onclick="return top.js.OpenExtLink(window,event,this)">Google.com</a>
+engineering team at Google.&nbsp; This is the most dynamic, challenging, and
+fun group at Google.&nbsp; It is an exciting time at Google and we are
+always looking for the very best talent to join us.&nbsp; In a gist, I am
+looking for engineers with Unix Sys Admin and SW background with strong
+coding skills.
+<br><br>First let me tell you a little about the position.&nbsp; &quot;<a href="http://google.com/" target="_blank" onclick="return top.js.OpenExtLink(window,event,this)">Google.com</a>
+engineering team is the &quot;Mission Control&quot; of Google - the group that
+ensures that our critical services and systems meet the availability
+and performance standards our users expect.&nbsp; <a href="http://google.com/" target="_blank" onclick="return top.js.OpenExtLink(window,event,this)">Google.com</a> engineers help development teams think about, and engineer for, reliability in user-facing services and systems.&nbsp; 
+<a href="http://google.com/" target="_blank" onclick="return top.js.OpenExtLink(window,event,this)">Google.com</a>
+engineers require a unique combination of software engineering,
+networking, system administration, diagnostic ability, and good
+judgment.&nbsp; They are called upon to make instant decisions that have
+large consequences, and they have to be very, very good at it!&quot;&nbsp; <br><br>I am currently recruiting for two positions (we have both multiple positions and locations in the US, Europe, and Australia):<br>Software Engineer, 
+<a href="http://google.com/" target="_blank" onclick="return top.js.OpenExtLink(window,event,this)">Google.com</a> - <a href="http://www.google.com/support/jobs/bin/answer.py?answer=23591" target="_blank" onclick="return top.js.OpenExtLink(window,event,this)">
+
+
+http://www.google.com/support/jobs/bin/answer.py?answer=23591</a><br>Unix System/Applications Administrator, <a href="http://google.com/" target="_blank" onclick="return top.js.OpenExtLink(window,event,this)">Google.com</a>
+
+ - <a href="http://www.google.com/support/jobs/bin/answer.py?answer=23594" target="_blank" onclick="return top.js.OpenExtLink(window,event,this)">
+http://www.google.com/support/jobs/bin/answer.py?answer=23594</a> <br><br>We
+have multiple positions in various locations in the US and Europe.&nbsp; If
+you are open to exploring this opportunity, please send me an email so
+we can schedule a time to discuss more details.
+<br><br>I hope you are not bothered by my networking attempt.&nbsp; If you
+are not interested or available, but would like to forward my name and
+contact information to your friends or colleagues, I would be most
+appreciative.&nbsp; <br><br>Thank you and hope to hear from you soon!<br><br>Best Regards,<br><span class="sg"><span><br>-- <br>Stanley Go<br>Google Inc.<br>Staffing/Recruiting<br>Office: (650) 253-1241<br><br><br>Are you Linkedin? - 
+<a href="http://www.linkedin.com/" target="_blank" onclick="return top.js.OpenExtLink(window,event,this)">
+http://www.linkedin.com</a>&nbsp; Feel free to send me an invite to <a href="mailto:stanleygo@google.com" target="_blank" onclick="return top.js.OpenExtLink(window,event,this)">stanleygo@google.com</a></span>
+</span>
+
+------=_Part_175799_2055809.1174413229044--

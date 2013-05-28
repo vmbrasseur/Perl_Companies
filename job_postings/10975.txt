@@ -1,0 +1,101 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10975
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 6273 invoked from network); 6 Feb 2011 22:32:39 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 6 Feb 2011 22:32:39 -0000
+Received: (qmail 3878 invoked by uid 225); 6 Feb 2011 22:32:38 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 3874 invoked by alias); 6 Feb 2011 22:32:38 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 06 Feb 2011 14:32:36 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 7D4822AFE2; Sun,  6 Feb 2011 14:32:33 -0800 (PST)
+To: jobs@perl.org
+Date: Sun, 6 Feb 2011 14:32:33 -0800
+Message-ID: <20110206223233.7D4822AFE2@x3.develooper.com>
+Subject: Quick email grabber script and email sender script (can use CPAN),
+ United States, New York, New York
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13618
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February  6, 2011
+
+Job title:
+Quick email grabber script and email sender script (can use CPAN)
+
+Company name: Independent/start-up
+
+Location: United States, New York, New York
+
+Pay rate: 210
+
+Terms of employment: Independent contractor (project-based)
+
+Description:
+Hi! We are looking for someone knowledgeable in MIME header parsing and
+pop3/smtp in general to write two scripts in Perl. The operating system we
+are using is Debian Linux.
+
+1. A message grabber script that will download e-mails from a Gmail inbox
+or a Hotmail inbox using pop3 and put each message in a directory called
+/tmp/messages/(unique message no.)/
+
+The e-mail body should be in /tmp/messages/(unique message
+no.)/message.html and only contain valid HTML. No content-header/MIME
+base64-encoded attachments soup!
+
+The e-mail subject should in /tmp/messages/(unique message no.)/subject.txt
+
+
+The e-mail &amp;amp;quot;From&amp;amp;quot; address should be in
+/tmp/messages/(unique message no.)/from.txt
+
+The e-mail sender's name (from the From header) should be in
+/tmp/messages/(unique message no.)/fromname.txt
+
+All attachments of the e-mail should be in /tmp/messages/(unique message
+no.)/attachments/(whatever the name of the attachment is)
+
+The script will accept these command-line arguments: 1. The inbox e-mail
+address
+2. The inbox password
+3. That's it.
+
+Your script will store the settings (name of server, whether to use SSL,
+and port) for the two most popular e-mail providers (Gmail and Hotmail) in
+an array at the top of the script.
+
+Based on the domain name in the e-mail address supplied, your program will
+select the appropriate settings.
+
+2. You will build an e-mail sender script that will use SMTP to send an
+e-mail from the user's Gmail or Hotmail account.
+
+The sender script will accept the following parameters: The e-mail address
+of the SMTP box, the account password, the address of the e-mail address
+recipient, a string with the message subject, and a string with the message
+body (passed to the script as quoted command-line arguments).
+
+I will supply you with a Perl script called grabber_pop3.pl that has a
+subset of this functionality (it grabs messages over pop3, but only parses
+the From/Subject headers and doesn't handle attachments).
+
+Feel free to use any CPAN modules you want for these two scripts. 
+
+Required skills: Knowledge of Perl and pop3/smtp.
+
+Contact information at:
+http://jobs.perl.org/job/13618#contact

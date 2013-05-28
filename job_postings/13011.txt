@@ -1,0 +1,111 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13011
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 3851 invoked from network); 2 Jan 2013 23:35:14 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 2 Jan 2013 23:35:14 -0000
+Received: (qmail 7218 invoked by uid 225); 2 Jan 2013 23:35:14 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 7210 invoked by alias); 2 Jan 2013 23:35:13 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,T_FRT_PROFILE2
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 02 Jan 2013 15:35:11 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 265CE2AFDE; Wed,  2 Jan 2013 15:35:08 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 2 Jan 2013 15:35:08 -0800
+Message-ID: <20130102233508.265CE2AFDE@x3.develooper.com>
+Subject: DevOps Programmer (onsite), North Vancouver, BC
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16842
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January  2, 2013
+
+Job title: DevOps Programmer
+
+Company name: Lions Bay Media Inc.
+
+Location: North Vancouver, BC
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+OPPORTUNITY:
+Lions Bay Media is looking for a full time DevOps Programmer to join our
+team. We offer a casual, professional work environment and corporate
+culture. We strive to take advantage of the latest state-of-the art tools
+and techniques to deliver superior technology. Our systems are powered by
+advanced open source components.
+
+RESPONSIBILITIES:
+This is a unique position which comprises 2 distinct roles. We're looking
+for an individual with a broad skills base who can tackle systems
+administration challenges as well as build great software.
+
+1. System and Network administration/automation
+-Build, configure and deploy production servers (including virtualization)
+-Develop automation systems
+-Maintain network infrastructure
+-Maintain PCs and other devices
+-Troubleshoot hardware and software
+-Ongoing performance and reliability monitoring
+
+2. Software Development
+-Design, develop, and deploy software in a production environment
+-Software maintenance, enhancement, diagnostics and bug fixing
+-Write technical documentation
+-Integrate systems with third-party APIs
+-Write unit tests, perform manual testing
+-Work closely with QA
+-Front end development including HTML/CSS and user interface design
+
+DESIRED QUALIFICATIONS:
+-Degree or diploma in Computer Science (or a related field) or equivalent
+education/experience
+-Previous professional experience in systems administration/automation, and
+ideally software development as well
+-Comfortable with virtualization technologies such as KVM, Xen, etc.
+-Strong Linux/Unix skills
+-Competent with system automation tools such as Vagrant, Chef, Puppet, etc.
+
+-Strong knowledge of core web technologies and server software such as
+SMTP, DNS, SSH, SSL/TLS, etc.
+-Familiar with database servers and key-values stores including Postgres,
+MySQL and Redis
+-Knowledge of cloud services such as Amazon web services
+-Troubleshooting and repair of server/PC hardware
+-Proficient with networking hardware and topology
+-Knowledge of PCI/DSS would be a big plus
+-Knowledge of several programming languages such as Perl, JavaScript, Ruby,
+PHP, etc. (Although we're not a PHP shop, we do have several legacy PHP
+applications) 
+-Comfortable with SQL and relational database design
+-Version control systems (especially git)
+-Comfortable with web application frameworks (such as Mojolicious) and
+related technologies (RPC methods such as JSON-RPC and SOAP would be
+useful)
+
+COMPENSATION:
+-Compensation will depend on qualifications. Please indicate your salary
+expectations within your cover letter.
+
+Please submit your cover letter and resume by email. No phone calls please.
+
+Contact information at:
+http://jobs.perl.org/job/16842#contact

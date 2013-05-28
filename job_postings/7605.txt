@@ -1,0 +1,122 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7605
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 12428 invoked from network); 30 Jan 2008 21:08:24 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 30 Jan 2008 21:08:24 -0000
+Received: (qmail 10375 invoked by uid 225); 30 Jan 2008 21:08:23 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 10358 invoked by alias); 30 Jan 2008 21:08:23 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 30 Jan 2008 13:08:19 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 0D13A2AFCD; Wed, 30 Jan 2008 13:08:15 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20080130210816.0D13A2AFCD@x3.develooper.com>
+Date: Wed, 30 Jan 2008 13:08:15 -0800 (PST)
+Subject: SQA and Perl Expert (onsite), United States, California, San Mateo 
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/7826
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 30, 2008
+
+Job title: SQA and Perl Expert
+
+Company name: Akamai Technologies
+
+Internal ID: 270-169
+
+Location: United States, California, San Mateo 
+
+Pay rate: Competitive
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Akamai is the global leader in distributed computing solutions and
+services, helping organizations grow their online businesses without
+growing their IT infrastructures. With more than 20,000 servers in hundreds
+of networks around the world, we use our computational and network power to
+transform the chaotic Internet into a predictable, scalable, and secure
+business platform.
+
+We have over 1,800 customers who trust us to deliver music, videos, games,
+software downloads, news, and web-based applications of all kinds to a
+global audience with unmatched performance and reliability. This includes
+some of the most established names in business and government:
+manufacturers like Audi and SKF, retailers like Sony Ericsson and
+Victoria's Secret, and media outlets like NBC and Fox Sports. 
+
+We also have a unique insight into what is happening on the Internet at any
+given in point in time. For example, check out our Net Usage Index for
+Retails, gathered from dozens of today's top on-line retailers sites, all
+Akamai customers:
+http://www.akamai.com/en/html/industry/nui/retail/index.html
+
+Akamai is "The Trusted Choice for Online Business." 
+
+As a Senior SQA Engineer within Akamai’s Storage SQA team, you will design,
+develop and execute automated and manual system tests on our robust and
+scalable Content Storage network. You will enhance our automated Perl test
+suites and expand our test library by creating new Perl packages to support
+automated testing of future services. You will work with developers to
+create comprehensive test plans and complex test suites, and you will
+review bug descriptions, design documents and code check-ins. A significant
+portion of this job consists of designing and developing complicated
+automated tests. Your knowledge of, and past experience with, large-scale
+distributed systems (especially software-enabled file/content management
+systems) will be a huge plus.
+
+If you’re an exceptional Quality Engineer with a strong programming
+background and a strong desire to succeed in a challenging, fast-paced
+engineering environment, this is the job for you! 
+
+Required skills:
+* BCSC required with a minimum of 3 years experience as a Developer or
+QA/Test Engineer
+* Strong Unix/Linux experience required
+* Minimum 3 years of hands-on experience designing and developing complex
+automated test scripts (Perl preferred)
+* Minimum 4 years of programming/scripting experience required (Perl
+preferred)
+* Minimum 3-6 years experience in Software Quality Assurance or Software
+Development with a strong emphasis on quality, including at least 2 years
+in a senior role
+* Strong working knowledge of FTP, RSYNC, SCP, HTTP, SFTP is a plus.
+* Proven experience developing and/or testing complex, large-scale
+distributed systems
+* Meticulous attention to detail and excellent problem
+solving/troubleshooting skills 
+* Experience testing a distributed storage solution strongly desired
+
+Contact us!
+If you're excited by Akamai and all that we can offer you, please apply to
+the link below. 
+
+Akamai Technologies is an Affirmative Action, Equal Opportunity employer
+(M/F/D/V) that values the strength that diversity brings to the workplace. 
+
+URL for more information:
+http://jobs-akamai.icims.com/akamai_jobs/jobs/candidate/job.jsp?mode=view&j
+obid=1890
+
+Contact information at:
+http://jobs.perl.org/job/7826#contact
+
+

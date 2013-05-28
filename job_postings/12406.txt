@@ -1,0 +1,129 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12406
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 30435 invoked from network); 8 May 2012 20:55:25 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 8 May 2012 20:55:25 -0000
+Received: (qmail 25365 invoked by uid 225); 8 May 2012 20:55:25 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 25357 invoked by alias); 8 May 2012 20:55:24 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 08 May 2012 13:55:22 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id D117F2AFE2; Tue,  8 May 2012 13:55:18 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Tue, 8 May 2012 13:55:18 -0700
+Message-ID: <20120508205518.D117F2AFE2@x3.develooper.com>
+Subject: Perl Web Apps Developer, $80K-$110K (onsite), Los Angeles, CA,
+ United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15008
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May  8, 2012
+
+Job title: Perl Web Apps Developer, $80K-$110K
+
+Company name: TigerLead Solutions
+
+Location: Los Angeles, CA, United States
+
+Pay rate: $80K-$110K USD
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Company Background
+TigerLead Solutions is a leading provider of internet marketing services
+and management software to Realtors throughout North America. TigerLead is
+a thriving young company offering a cutting-edge set of services to an
+enthusiastic and expanding client base. We're seeking a talented Perl
+developer to assume a key role within our team of engineers and help
+spearhead the creation of apps and features that users will love.
+
+About the Opportunity
+As a Web Applications Developer, you will be playing a central role in
+creating and improving web applications for one of the most
+heavily-trafficked network of real estate sites on the web. You will work
+in a small, collaborative environment with other seasoned pros and with the
+direct support of the company's owners and CTO. Your canvas and raw
+materials include rich data sets totaling several million property listings
+replenished daily by hundreds of external data feeds. This valuable data
+and our powerful end-user tools to access it are deployed across several
+thousand real estate search sites used by nearly two million home-buyer
+leads and growing by 50K+ users each month. The prospective home buyer
+leads using our search tools are in turn tracked and cultivated by the
+several thousand real estate professionals using our management software.
+This is an outstanding opportunity to see your creations immediately
+embraced by a large community of users while you enjoy working in a stable
+and positive environment. 
+
+Benefits
+We're offering a competitive starting salary with opportunity for growth,
+medical benefits, paid holidays and personal days, paid monthly parking or
+public transportation pass, a casual work environment with no dress code, a
+new high-end workstation with your personal specs, a well-stocked kitchen
+with both healthy and not-so-healthy food and beverages, and the
+opportunity to work with a talented and committed team of engineers as well
+as extremely nice folks in all other areas of the company too.
+Participation in the twice-daily Quake sessions is voluntary but highly
+encouraged. This is a full-time position in our comfortable offices in West
+LA near UCLA and public transportation hubs. We are not able to consider
+contractor or telecommuting arrangements at this time, although occasional
+work from home could be OK once you are established. Relocation assistance
+is negotiable.
+
+An Endorsement
+If you're a fan of Perl, then you're probably familiar with Tim Bunce. Tim
+has been part of our team for several years and was kind enough to say
+"TigerLead is a lovely company to work for and this is a great opportunity.
+Highly recommended."
+
+Required skills:
+-Extensive experience with command line Linux/Unix environments
+-Strong background in OO architecture and MVC design
+-Solid experience with Perl creating and maintaining user-facing web apps
+of moderate complexity, preferably using a framework such as Catalyst or
+Mojolicious
+-Experience or familiarity with ORMs
+-Front-end development skills: ability to hand code HTML, JavaScript
+(inluding jQuery) and CSS, particularly within an MVC context
+-Comfort with Git or Subversion
+-Ability to balance new app development with maintenance of existing apps
+-Willing to learn new languages and other technologies as needed
+-Ability to define new features and resolve design issues
+-Quickly architect and develop large portions of software independently or
+on a small team
+-Strong working knowledge of relational databases, 
+-Mindful of common web-based attacks and how to code to avoid common
+security pitfalls (XSS, SQL injection ...)
+-Good documentation and unit-testing habits
+-Enjoys an intellectually vigorous environment and contributes to that
+intensity
+-Fun-loving, team-first attitude and a sense of humor
+
+Desired skills:
+-Additional experience utilizing frameworks such as RoR or Django also
+considered
+-PostgreSQL or MySQL preferred but other relevant experience accepted
+
+Website for more information: http://www.tigerlead.com
+
+Contact information at:
+http://jobs.perl.org/job/15008#contact

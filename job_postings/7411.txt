@@ -1,0 +1,95 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7411
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 19084 invoked from network); 14 Dec 2007 16:41:34 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 14 Dec 2007 16:41:34 -0000
+Received: (qmail 11170 invoked by uid 225); 14 Dec 2007 16:41:34 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11148 invoked by alias); 14 Dec 2007 16:41:32 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 14 Dec 2007 08:41:22 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id D7AC12AFD7; Fri, 14 Dec 2007 08:41:18 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20071214164118.D7AC12AFD7@x3.develooper.com>
+Date: Fri, 14 Dec 2007 08:41:18 -0800 (PST)
+Subject: OO Perl Developer in an Agile environment (onsite), United States, CA, San Mateo
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/7537
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 13, 2007
+
+Job title:
+OO Perl Developer in an Agile environment
+
+Company name: AirWave Wireless, Inc
+
+Location: United States, CA, San Mateo
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Our team practices extreme programming (XP), so we spend most of our time
+writing code. We believe that running code and short feedback loops speak
+louder than excessive documentation and month-long design meetings. We
+practice test-driven development and have a comprehensive suite of tests...
+over 26,000 at last count. We pair program, so you'll learn the system
+quickly and have a great time doing it. We have short release cycles, which
+means your talents won't sit idle working on projects that never see the
+light of day. Software you write today will be managing enterprise networks
+in just a couple of weeks. We've been cited as the longest running
+continuous XP project in the industry (five years and counting) so we have
+gotten quite good at embracing advantages while avoiding its pitfalls.
+
+Excited? Good! Now to the nuts and bolts. Airwave developers write software
+in several different languages, primarily object-oriented Perl on Linux
+systems. We use Apache mod_perl2 for our front end UI and PostgreSQL for
+our back-end persistence layer. Since we manage network devices, knowledge
+of network protocols would be a plus, e.g. SNMP, TFTP, and HTTP.
+
+Rolling out a wireless network is a daunting task, but our products help to
+ease that burden. We build network management software that is used by many
+of the leading IT organizations at Fortune 50 companies, major
+universities, hospitals, and other prominent institutions. Our
+industry-leading software helps plan, configure, manage, and monitor some
+of the largest wireless networks on the planet.
+
+Required skills:
+Strong OO skills
+OO Perl
+Strong refactoring and design ability
+
+Desired skills:
+Experience with agile software development
+Linux application development
+Apache mod_perl
+Basic SQL (PostgreSQL experience a plus)
+Experience developing automated tests
+Knowledge of TCP/IP and 802.11 wireless networking
+
+
+URL for more information: http://www.airwave.com/
+
+Contact information at:
+http://jobs.perl.org/job/7537#contact
+
+

@@ -1,0 +1,147 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11933
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 4207 invoked from network); 6 Dec 2011 01:17:58 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 6 Dec 2011 01:17:58 -0000
+Received: (qmail 729 invoked by uid 225); 6 Dec 2011 01:17:57 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 724 invoked by alias); 6 Dec 2011 01:17:57 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 05 Dec 2011 17:17:55 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 9D9D72AFE1; Mon,  5 Dec 2011 17:17:51 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 5 Dec 2011 17:17:51 -0800
+Message-ID: <20111206011751.9D9D72AFE1@x3.develooper.com>
+X-Virus-Checked: Checked
+Subject: Director of Engineering (onsite), Salt Lake City, UT, USA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15244
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December  5, 2011
+
+Job title: Director of Engineering
+
+Company name: Stackable
+
+Location: Salt Lake City, UT, USA
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Stackable Web Hosting is seeking a Director of Engineering to oversee a
+team of developers and engineers dedicated to solving problems in web
+application scaling and hosting.
+
+Your daily duties would include
+
+Manage a small team of developers, system administrators:
+Keep track of the progress of each team member on a daily basis
+Conduct weekly face to face meetings to discuss the progress of Stackable
+Manage short, medium and long term goals, frequently reorganizing tasks as
+necessary to respond to the needs of the product
+Brainstorm and co-develop new products and services that are consistent
+with the goals of Stackable
+Capacity planning: Track resource utilization and ensure that new equipment
+is on track for provisioning before existing infrastructure is at capacity
+Act as lead programmer of the Stackable team. It will be your job to know
+every line of code and how everything works together. Many programming
+tasks will fall to you, and you'll be needed to teach the other team
+members about the code base:
+Program in Perl on a 100k+ line code base with a focus on the following
+libraries and technologies:
+POE, AMQP, DBIx::Class, Catalyst, Thrift, XML-RPC, XMPP
+Develop scalable, threaded, non-blocking applications with custom API
+protocol implementations
+Focus on clean, reusable code with adequate documentation and best
+practices in coding style
+Understanding of CSS a must, a mastery of CSS a bonus
+Administer a cluster of dozens of physical machines holding of thousands of
+virtualized servers, all running CentOS 5
+Use Puppet, Monit, Nagios and other open source tools to create and
+maintain a consistent state across the cluster
+Work with Parallels Virtual Automation and Parallels Virtuozzo Containers,
+both using the given tools and developing your own tools to interact with
+Virtuozzo via their XML-based asynchronous API to manage the cluster
+containers and to create new products
+Create and follow processes to ensure that systems are secure and
+up-to-date
+Use and configure PowerDNS, haproxy, nginx, Apache, MySQL, PostgreSQL,
+RabbitMQ, Cassandra, ProFTPd, OpenLDAP, along with many other open source
+tools
+Have a strong understanding of information visualization and use of
+techniques necessary to graph and display large amounts of data.
+Design and implementation of storage area networks for production and
+backup data sets.
+Be on-call 24/7, able to deal with operational issues at any hour of the
+night or weekend
+Handle customer issues and support as needed, via live support, email, IRC,
+or telephone.
+Skills
+
+You must understand all the technologies involved with your assigned tasks,
+and be prepared to educate others in their usage. Must-have skills include
+knowledge of configuration management systems, LAMP stacks, CentOS/RHEL
+administration, scaling complex web applications, and experience with
+Virtuozzo or Parallels products. Experience with OpenStack is a plus.
+You must be able to communicate well in emails, IRC, telephone and in
+person
+You must be able to work in a team, having the ability to delegate tasks as
+needed and to communicate expectations with others.
+An understanding of DevOps culture and a willingness to wear both hats in
+order to solve hard problems.
+A solid understanding of all aspects of LAMP stack web performance tuning
+and demonstrable troubleshooting skills.
+Experience with load-balancing and the design and implementation of
+highly-available LAMP-based web applications.
+Networking experience preferred, especially at the upper-layers of the OSI
+model
+Experience
+
+8-10 years experience in the support, development and operations of web
+applications, with hands-on experience with scalability and web operations
+a must.
+Pay and Benefits
+
+Telecommuting from home for part of your work week is optional.
+Salary commensurate with expertise and overall experience
+Excellent health benefits
+About Us
+
+Stackable is a web hosting provider for amazing websites.
+
+Stackable's team is headquartered in Salt Lake City, Utah -- home of the
+world's best powder skiing (sorry, Colorado!). We bring creativity,
+confidence, and a lot of enthusiasm to our work. We're committed to solving
+problems that web developers face every day. As a part of XMission,
+Stackable has been offering web hosting to clients since 1993. Founded by
+Pete Ashdown, Stackable and XMission employ about fifty people.
+
+Required skills: Perl, MySQL, Linux, CSS, JavaScript
+
+Desired skills:
+Apache, haproxy, nginx, RabbitMQ, OpenLDAP, Virtuozzo, POE, DBIx::Class,
+Catalyst, Thrift
+
+Website for more information: http://xmission.com/jobs
+
+Contact information at:
+http://jobs.perl.org/job/15244#contact

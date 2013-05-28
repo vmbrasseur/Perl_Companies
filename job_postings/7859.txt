@@ -1,0 +1,74 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7859
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 14484 invoked from network); 18 Mar 2008 19:38:05 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 18 Mar 2008 19:38:05 -0000
+Received: (qmail 31874 invoked by uid 225); 18 Mar 2008 19:38:03 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 31826 invoked by alias); 18 Mar 2008 19:38:00 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 18 Mar 2008 12:37:54 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 483CA2AFD3; Tue, 18 Mar 2008 12:37:51 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080318193751.483CA2AFD3@x3.develooper.com>
+Date: Tue, 18 Mar 2008 12:37:51 -0700 (PDT)
+Subject: Catalyst/DBIx::Class programmer for real estate web applications (part onsite), Canada, B.C., Vancouver
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8212
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 18, 2008
+
+Job title:
+Catalyst/DBIx::Class programmer for real estate web applications
+
+Company name: Base-10 Design & Development
+
+Location: Canada, B.C., Vancouver
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Flexible
+
+Onsite: some
+
+Description:
+We are looking for skilled perl programmers that are familiar with the
+Catalyst web framework, DBIx::Class and related technologies. We develop
+and maintain a number of Vancouver based real estate websites and need
+someone to help maintain and add functionality to existing sites, as well
+as help develop applications for new sites. We need someone that is local
+and will be able to come into our office for the odd meeting. We are
+located on lower lonsdale in north vancouver.
+
+Required skills:
+Perl, Catalyst, DBIx::Class, unit testing, SVN, Template::Toolkit, Apache
+2.x, fastcgi, deploying catalyst apps, MySQL
+
+Desired skills:
+PostgreSQL, Javascript, familiar with an AJAX framework, Advanced
+deployment, load balancing, lighttpd, kung-fu, bow hunting skills, advanced
+database knowledge (transactions, views, stored procs, load balancing, etc.
+etc.)
+
+URL for more information: http://www.base-10.net/
+
+Contact information at:
+http://jobs.perl.org/job/8212#contact
+
+

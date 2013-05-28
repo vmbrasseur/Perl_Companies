@@ -1,0 +1,138 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11685
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 31805 invoked from network); 15 Sep 2011 20:46:45 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 15 Sep 2011 20:46:45 -0000
+Received: (qmail 8133 invoked by uid 225); 15 Sep 2011 20:46:44 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 8129 invoked by alias); 15 Sep 2011 20:46:44 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 15 Sep 2011 13:46:41 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 196302AFDE; Thu, 15 Sep 2011 13:46:37 -0700 (PDT)
+To: jobs@perl.org
+Date: Thu, 15 Sep 2011 13:46:37 -0700
+Message-ID: <20110915204638.196302AFDE@x3.develooper.com>
+Subject: Software Engineer (onsite), Raleigh, NC
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14848
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 15, 2011
+
+Job title: Software Engineer
+
+Company name: HireNetworks
+
+Internal ID: #2729
+
+Location: Raleigh, NC
+
+Pay rate: $90-100,000
+
+Terms of employment: Salaried employee
+
+Length of employment: indefinite
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Senior Software Engineer
+Direct hire opportunity with one of our clients. The purpose of the Senior
+Software Engineer role is to design, build, and maintain critical
+components of the company's web-based technology. The company is seeking a
+number of Senior Software Engineers to join their team. The purpose of the
+Senior Software Engineer role is to design, build and maintain critical
+components of their technology. Your first 12 months will be exciting.
+During that time you may have: 
+•	Created new features that help students learn more effectively;
+•	Designed an API to support new integrations;
+•	Improved the testability of our application;
+•	Mentored less-experienced team members;
+•	Contributed to improvements to our Agile process.
+•	(And that’s just the tip of the iceberg.)
+They are searching for multiple Senior Software Engineers. The successful
+candidates will bring with them extremely solid software engineering
+fundamentals, as well as unique experience solving specific types of
+problems.
+The Duties
+• Write high-quality software as a member of an Agile team.
+• Accurately estimate and plan the work necessary to build a new feature or
+component.
+• Analyze complex business problems and determine the best technological
+solution.
+• Collaborate with fellow developers, test analysts, designers and product
+managers.
+• Drink free beer (or another frosty beverage of your choice) every
+Thursday afternoon.
+
+Required skills:
+The Fundamentals
+Any successful candidate will have most of the following:
+•	Ability to improve the testability of our application. (This
+includes the basics of automated unit and functional testing, along with
+the ability to refactor non-tested portions of our application to make them
+testable.)
+•	Significant experience with Object-Oriented programming with Perl. 
+
+•	An in-depth understanding of design patterns. (For example, you
+should feel remarkably comfortable with: Model-View-Controller, Gateway,
+Façade, Singleton, and Factory Method design patterns.)
+•	Experience with MySQL (or another RDBMS).
+•	Techniques for solving problems in a high-volume, always-available
+environment.
+•	A history with modern browsers and supporting technologies (such as
+CSS 2 & 3, XHTML, HTML5, Ajax, and Javascript frameworks).
+•	In-depth experience with multiple server-side languages, such as
+Java, Perl, PHP, Ruby, etc.
+•	A strong desire to be a part of a cross-functional development
+team.
+•	A passion for automating just about everything, but especially
+testing, packaging and deploying.
+
+The Qualifications
+Successful candidates will likely have the following:
+•	At least 7 years of software development, preferably with a
+web-based, Software-as-a-Service application.
+•	A passing familiarity with Agile software development.
+•	A bachelor’s degree (a master’s is a plus) in Computer Science,
+Computer Engineering or related field.
+•	A passion for helping teachers teach and students learn.
+
+Desired skills:
+The Distinctives
+Having a history with and passion for one or more of the following will set
+you apart from the pack:
+•	Designing, building and testing RESTful APIs.
+•	Improving the performance of an application with technologies such
+as Memcache and Beanstalkd.
+•	Mentoring other developers.
+•	Serving on cross-team committees that establish and promote solid
+engineering standards.
+•	Using NoSQL to store and retrieve lots of data. Technologies such
+as MongoDB, Hadoop, BigTable, and Cassandra should ring a bell.
+•	Writing advanced Javascript and/or contributing to Javascript
+frameworks such as Jquery or Dojo.
+•	Building software under a continuous integration model.
+•	An in-depth understanding of Agile development. (For instance, you
+might know the answer to “How are team commitments different in a Scrum
+culture than they are in a Kanban culture?”)
+
+Website for more information: http://www.hirenetworks.com/
+
+Contact information at:
+http://jobs.perl.org/job/14848#contact

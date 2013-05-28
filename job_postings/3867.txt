@@ -1,0 +1,89 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3867
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 9198 invoked from network); 10 Feb 2006 21:57:17 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 10 Feb 2006 21:57:17 -0000
+Received: (qmail 11000 invoked by uid 225); 10 Feb 2006 21:57:16 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 10996 invoked by alias); 10 Feb 2006 21:57:16 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 10 Feb 2006 13:56:48 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id k1ALuhkN029382
+	for <jobs@perl.org>; Fri, 10 Feb 2006 13:56:43 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id k1ALuh4u029380;
+	Fri, 10 Feb 2006 13:56:43 -0800
+Date: Fri, 10 Feb 2006 13:56:43 -0800
+Message-ID: <200602102156.k1ALuh4u029380@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Stunt Double/tight deadline Web project (telecommute)
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3678
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 10, 2006
+
+Job title: Stunt Double/tight deadline Web project
+
+Company name: Contract job
+
+Internal ID: 0xdeadbeef
+
+Pay rate: Hourly, negiotiable
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+I need a stunt double -- someone to work with me on this project who will
+do the yucky bits that I don't want to do, and will pick up the slack a bit
+when I get distracted by something shiny. This is telecommute. A well-known
+company hired a client of mine who is passing the work to me. I'd love to
+name the end client, but I'm sure they have no idea how far out this work
+is being farmed. They have a groody site that's a mixture of Flash,
+outbounds links to external service providers, and Personal HomePage
+applications being completely misused. They want all of that moved
+in-house... by April. They made a major deal with a TV network and then
+their board of directors talked about it for 11 months, so now we have one
+month. We have hosting set up on a Linux machine (I prefer BSD, but what
+can ya do). I'm going to take the architectural lead on the core features,
+but I'm happy to listen to reason, and I'll delegate parts out. The bulk of
+the request is just a lot of CRUD style admin action to make things dynamic
+and easily maintained by the suits, but the list of desired features is as
+long as my arm. Right now, I'm just assuming they aren't going to happen,
+but maybe we can do a little more damage than I thought.
+
+Required skills:
+Perl. Unix. More Perl. Perl, Perl, Perl. CGI. SQL. CVS. IRC. No Perl. Ha!
+Just kidding. Perl. 
+
+Desired skills:
+My code contains closures. If you don't understand closures, you won't be
+able to understand my code. This probably goes for a few other language
+constructs. If you happen to know Maypole or Catalyst cold and you want to
+try to sell me on them, we can talk. 
+
+Contact information at:
+http://jobs.perl.org/job/3678#contact
+
+

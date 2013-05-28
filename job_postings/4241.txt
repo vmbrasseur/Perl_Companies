@@ -1,0 +1,67 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4241
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 3257 invoked from network); 28 Apr 2006 21:41:09 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 28 Apr 2006 21:41:09 -0000
+Received: (qmail 5737 invoked by uid 225); 28 Apr 2006 21:41:09 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 5730 invoked by alias); 28 Apr 2006 21:41:08 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 28 Apr 2006 14:40:55 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 38E4B2AFE2; Fri, 28 Apr 2006 14:40:51 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060428214051.38E4B2AFE2@x3.develooper.com>
+Date: Fri, 28 Apr 2006 14:40:51 -0700 (PDT)
+Subject: mod_perl/DBI programmer (onsite), Sweden, Stockholm
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4011
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 28, 2006
+
+Job title: mod_perl/DBI programmer
+
+Company name: II-stiftelsen
+
+Location: Sweden, Stockholm
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are searching for a programmer to be part of our development team for a
+new registry/registrar (DNS) system. We are currently a team of 5-6
+programmers working with the new system and you will be part of this team.
+Your main area will be the webb part of the project. Not the design but the
+integration between the webb and the backend system.
+
+Required skills: Perl & Ubuntu/Linux.
+
+Desired skills: MySQL & DNS.
+
+URL for more information:
+http://www.iis.se/pdf/IIS-webb-utvecklare.pdf
+
+Contact information at:
+http://jobs.perl.org/job/4011#contact
+
+

@@ -1,0 +1,89 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8898
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28379 invoked from network); 18 Dec 2008 06:13:42 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 18 Dec 2008 06:13:42 -0000
+Received: (qmail 9620 invoked by uid 225); 18 Dec 2008 06:13:41 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 9616 invoked by alias); 18 Dec 2008 06:13:41 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 17 Dec 2008 22:13:39 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 1620A2AFD4; Wed, 17 Dec 2008 22:13:36 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20081218061336.1620A2AFD4@x3.develooper.com>
+Date: Wed, 17 Dec 2008 22:13:36 -0800 (PST)
+Subject: RSS feed aggregator / parser (telecommute), CA, LA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/10024
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 17, 2008
+
+Job title: RSS feed aggregator / parser
+
+Company name: Tritech
+
+Location: CA, LA
+
+Pay rate: US $50.00
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: less than 1 hour if ur good
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+A Contest
+
+$50 prize if you can provide this:
+
+a script (preferably perl or something present on most linux servers) that
+aggregates and parses RSS feeds, and provides its output as a new RSS feed.
+
+
+for example:
+
+1) it opens and reads the Science News RSS feeds from the New York Times,
+Reuters, AP, USA Today, etc.
+2) it parses all of the feeds from #1 (ie [+yeast OR +saccharomyces] AND
+-foot AND -vaginal) would return only stories that mention the term yeast
+OR the term saccharomyces AND not the term foot AND not the term vaginal)
+3) it returns the result in the form of a RSS feed named MyYeastFeed
+4) the aggregate from #1 can be parsed several times, each with different
+criteria and output into several different RSS feeds (+web AND +development
+AND -spider AND -arachnid returns stories about web development except not
+ones about spider webs to a RSS feed called MyWebDevFeed in addition to the
+MyYeastFeed provided by the 1st search string).
+
+I believe there are already opensource perl things that do this, and you
+can use them to get the $50 prize, but I need to be provided with something
+that totally works.  For example if it requires 2 or 3 different scripts
+integrated together, you do that part, and provide instructions how we can
+install it on a linux machine and get it working. 
+
+Required skills:
+willingness to do the above for US$50 total and the ability to start and
+finish before December 31, 2008
+
+Contact information at:
+http://jobs.perl.org/job/10024#contact
+
+

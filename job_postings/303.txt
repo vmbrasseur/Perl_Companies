@@ -1,0 +1,71 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:303
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 9437 invoked by uid 1016); 21 Jan 2002 08:05:38 -0000
+Date: 21 Jan 2002 08:05:38 -0000
+Message-ID: <20020121080538.9436.qmail@onion.perl.org>
+To: jobs@perl.org
+Subject: mod_perl/CGI programmer (telecommute), United Kingdom, Cleveland, Middlesbrough
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/199
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 20, 2002
+
+Job title: mod_perl/CGI programmer
+
+Company name: Internet Images
+
+Location: United Kingdom, Cleveland, Middlesbrough
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+The intention is to develop a management system which will allow browser
+based administration to our clients in order to manage and manipulate
+contract details which can be viewed either via the Internet or to internal
+members of staff via the Intranet.
+
+General Specifics
+
+Browser based Administration System.
+Administrators to be able to access system by username and password and to
+have limited access to contracts to which their individual departments have
+control.
+Overall Administrators Access which will allow access to any contract and
+to be able to add administrators and users to the system.
+Each Administrator will have the ability to add, remove, edit, and view
+contracts within their departments.
+The ability to flag contracts which are due for renewal or those which
+require work, possibly date driven.
+To upload text file or other into the system which will contain additional
+information about the contract? This will need to be carried out from
+within the browser, the files will have to be uploaded from the network or
+PC and will need to be linked from the relevant contract.
+Simple backing up of all data by the overall administrator
+
+Required skills:
+Perl of course, as we are wholly unsure of the definitive skills for the
+project we would expect the programmer and ourselves to be satisfied that
+the contract could be fulfilled by both parties as per full spec
+
+Desired skills:
+Must be UK based and have portfolio/resume outlining experience.
+
+Contact information: graham@tecknet.net
+
+

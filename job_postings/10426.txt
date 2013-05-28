@@ -1,0 +1,105 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10426
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 22168 invoked from network); 12 Aug 2010 06:28:44 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 12 Aug 2010 06:28:44 -0000
+Received: (qmail 31208 invoked by uid 225); 12 Aug 2010 06:28:44 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 31201 invoked by alias); 12 Aug 2010 06:28:43 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 11 Aug 2010 23:28:42 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 321D62AFE5; Wed, 11 Aug 2010 23:28:39 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20100812062839.321D62AFE5@x3.develooper.com>
+Date: Wed, 11 Aug 2010 23:28:39 -0700 (PDT)
+Subject: Senior Perl MVC and Backend Scaling Engineer (onsite), United States, Maryland, Bethesda
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/12698
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 11, 2010
+
+Job title:
+Senior Perl MVC and Backend Scaling Engineer
+
+Company name: CodeRyte, Inc
+
+Location: United States, Maryland, Bethesda
+
+Pay rate: competitive USD
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: Permanent
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are a Fast Paced, Health Care Informatics Company; Ten years old, and
+Growing.  However, despite our growth we still manage to hold on to some
+"startup style." So If you love Perl technology, and you're upbeat about
+putting it to the test, come and have a chat with us. We are looking strong
+senior Perl Engineer who will not only handle a few existing MVC growth
+projects, but someone who will also help direct new "green fields" efforts
+as well. We are not simply limited to web applications. We have a large
+back end Data integration infrastructure, and an ever-growing need for Data
+analytics, and Data mining.  In this environment, Innovative and Upbeat
+engineers will excel. Come show us what you've got. http://coderyte.com/
+
+Required skills:
+Laziness, Impatience, Hubris - (With the ability to virtualize objectivity
+and patience)
+
+Desired skills:
+ * Perl, Regex, Catalyst, mod_perl, DBIx (Both legacy and OO Perl, and
+possibly MOOSE). 
+ * Apache - Server Performance, LDAP auth familiarity a plus, 
+ * Mysql- Very Strong knowledge of advanced SQL query-building, optimizing,
+and transactional usage. Cognizance of Database Performance is a must. 
+ * Linux(RH, Ubuntu), 
+ * Javascript - extJS, DOJO, 
+ * CSS, 
+ * XML/XSLT, 
+ * SVN, 
+ * Testing Frameworks, 
+ * Parallel Processing and Scaling Horizontally! 
+
+General Blah: 
+ * Problem solving, 
+ * Ability to research and learn on your own. 
+ * Ability to handle multiple projects simultaneously 
+ * Ability to work both independently and within a team... (Sometimes with
+less than well structured requirements) 
+ * Good software design/development practices: design patterns, software
+development methodologies, version control, test frameworks, documentation,
+etc. 
+
+ * Ability to work from home on a regular basis. 
+
+Big plus if you have: 
+ * VM Ware experience, 
+ * Hadoop/Map Reduce experience, 
+
+URL for more information: http://coderyte.com/
+
+Contact information at:
+http://jobs.perl.org/job/12698#contact
+
+

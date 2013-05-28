@@ -1,0 +1,111 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13033
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 3835 invoked from network); 9 Jan 2013 20:01:57 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 9 Jan 2013 20:01:57 -0000
+Received: (qmail 14011 invoked by uid 225); 9 Jan 2013 20:01:56 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 14007 invoked by alias); 9 Jan 2013 20:01:56 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 09 Jan 2013 12:01:54 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id EC2CF2AFE2; Wed,  9 Jan 2013 12:01:50 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 9 Jan 2013 12:01:50 -0800
+Message-ID: <20130109200150.EC2CF2AFE2@x3.develooper.com>
+Subject: Linux System Administrator (onsite), Rockville, MD
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16866
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January  8, 2013
+
+Job title: Linux System Administrator
+
+Company name: eJournalPress
+
+Location: Rockville, MD
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+eJournalPress is a software development company located in Rockville MD.
+Our primary focus is developing web-based manuscript submission and peer
+review software for scientific journals.
+Currently eJournalPress is seeking a Linux System Administrator to install,
+support, and troubleshoot problems with our 40 Linux/Apache web servers.
+
+JOB DESCRIPTION:
+
+The Linux System Administrator will provide day to day support for 40+
+Linux / Apache web servers. The position requires the ability to install
+and maintain Linux servers and knowledge of Apache, PERL, and SQL.
+Knowledge and experience in maintaining firewalls, load balancers, and
+routers is also desirable.
+
+The work will involve 50% System Administration and 50% coding of support
+(PERL) scripts. The company's diverse environment allows for a wide variety
+of challenging tasks. The typical work hours are 40 hours/week with some
+out-of-hours work required for equipment installs or emergencies (typically
+less than two evenings per month.) This said, it is normally a low key
+environment/job.
+
+*** Employee must work on-site in Rockville, MD ****
+
+RESPONSIBILITIES:
+
+* Install/manage Windows/Linux/Apache servers
+* Install/manage RAID storage arrays
+* Manage network firewalls and load balancers
+* Setup VMWare virtual server/clients
+* Configure and maintain a simple network, firewalls, DNS, and e-mail
+server.
+* Maintain and improve enterprise Antivirus and Antispyware capabilities.
+* Proven ability to organize and document standard operating procedures
+(SOPs).
+* Maintain and manage security monitoring and management software.
+* Maintain SLAs and system up-time.
+
+
+REQUIREMENTS:
+
+Knowledge Skills, Abilities and Experience:
+
+* Minimum of 5 years of hands-on system administration and support
+experience, preferably in a complex systems environment.
+* Must be experienced in designing, implementing, and maintaining current
+Linux & Windows Server. Products including, Apache, SQL, and PERL scripts.
+* Solid understanding of TCP/IP, routing and routed protocols. Netstat,
+traceroute, ssh, tcpdump.
+* Strong troubleshooting skills with Windows/Linux OSâ€™s and application.
+* Strong written and verbal communication skills, along with customer
+service, troubleshooting, and problem solving skills.
+* VMware Experience a plus.
+* Proven ability to organize and document standard operating procedures
+(SOPs).
+* Solid knowledge of industry security standards.
+* DBA experience a plus.
+* Dell experience a plus
+* Experience with load balancer is a plus
+
+Please send both your resume and salary requirements.
+
+Contact information at:
+http://jobs.perl.org/job/16866#contact

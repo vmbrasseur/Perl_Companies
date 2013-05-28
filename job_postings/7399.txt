@@ -1,0 +1,75 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7399
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 17686 invoked from network); 11 Dec 2007 22:18:19 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 11 Dec 2007 22:18:19 -0000
+Received: (qmail 31423 invoked by uid 225); 11 Dec 2007 22:18:17 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 31398 invoked by alias); 11 Dec 2007 22:18:15 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 11 Dec 2007 14:18:07 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 33B3C2AFE3; Tue, 11 Dec 2007 14:18:03 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20071211221803.33B3C2AFE3@x3.develooper.com>
+Date: Tue, 11 Dec 2007 14:18:03 -0800 (PST)
+Subject: Perl TCP Client/Server - Linux (telecommute), United States, MI, Monroe
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/7523
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 11, 2007
+
+Job title: Perl TCP Client/Server - Linux
+
+Company name: MNX Solutions
+
+Location: United States, MI, Monroe
+
+Pay rate: Open based on your estimate.
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 1 Week
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+We are looking for an experienced Perl programmer to help us develop a TCP
+client/server application.
+
+Some basic info:
+The server will accept general command after some form of authentication.
+The communications between the client and server should be encrypted.
+
+The commands to be accepted are, gather system information (cpu, load,
+memory, network info [adapters, stats]) using Sys:Statistics:Linux?,
+process running and disk info. Additional commands will be added in the
+future.
+
+This is a quick introduction to our project, please let us know if you are
+interested.
+
+
+Required skills: Perl, TCP [client/server], Linux.. 
+
+Contact information at:
+http://jobs.perl.org/job/7523#contact
+
+

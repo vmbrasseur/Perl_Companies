@@ -1,0 +1,97 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5126
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 14807 invoked from network); 18 Oct 2006 18:34:07 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 18 Oct 2006 18:34:07 -0000
+Received: (qmail 23072 invoked by uid 225); 18 Oct 2006 18:34:07 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 23063 invoked by alias); 18 Oct 2006 18:34:06 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 18 Oct 2006 11:34:03 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id BEB652AFE9; Wed, 18 Oct 2006 11:33:43 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20061018183343.BEB652AFE9@x3.develooper.com>
+Date: Wed, 18 Oct 2006 11:33:43 -0700 (PDT)
+Subject: Senior Software Engineer (Anti-spam Engine) (onsite), Canada, BC, Vancouver
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4802
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 18, 2006
+
+Job title:
+Senior Software Engineer (Anti-spam Engine)
+
+Company name: Sophos Inc.
+
+Location: Canada, BC, Vancouver
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+As a Senior Software Engineer (Anti-spam Engine), you will assist in the
+development of our core anti-spam engine. You will bring to the role a
+motivated, creative approach to problem-solving and software design. You
+will also have an understanding of internet security threats, such as spam,
+viruses, phishing and malware.
+
+-Develop secure, reliable, high performance systems software for email
+filtering and threat detection 
+-Work with SophosLabs to research latest threat trends and industry
+solutions 
+-Propose and prototype innovative approaches to solving email-based threats
+
+-Ensure high quality through unit testing and following Sophos coding
+standards 
+-Work with SophosLabs, product managers and developers to define stories
+(i.e. use cases) 
+
+
+Required skills:
+-5 years' experience of C/C++ network/systems software programming 
+-2+ years' experience of Perl software programming 
+-3+ years' experience with Linux, Solaris or FreeBSD software development 
+-3+ years' experience with MS Windows software development 
+-Experience with internet protocols, networking and WC3 standards
+(desirable: SMTP, MIME & HTML/CSS) 
+-Experience with a software configuration management system 
+-Bachelor’s degree in computer science or software engineering 
+
+
+Desired skills:
+-Sendmail, Postfix or Qmail internals and/or development experience 
+-Experience with internet security software (spam, virus, phishing,
+malware) 
+-Test automation experience 
+-Experience working in an agile environment 
+-Experience in giving presentations and writing papers for a technical
+audience 
+
+
+URL for more information:
+http://www.sophos.com/companyinfo/careers/ca/
+
+Contact information at:
+http://jobs.perl.org/job/4802#contact
+
+

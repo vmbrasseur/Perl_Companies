@@ -1,0 +1,72 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11482
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 6357 invoked from network); 14 Jul 2011 07:48:09 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 14 Jul 2011 07:48:09 -0000
+Received: (qmail 27131 invoked by uid 225); 14 Jul 2011 07:48:09 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 27125 invoked by alias); 14 Jul 2011 07:48:08 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 14 Jul 2011 00:48:06 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 404B22AFE1; Thu, 14 Jul 2011 00:48:03 -0700 (PDT)
+To: jobs@perl.org
+Date: Thu, 14 Jul 2011 00:48:03 -0700
+Message-ID: <20110714074803.404B22AFE1@x3.develooper.com>
+Subject: Perl & Mechanize Guru Needed (telecommute), United States, VT, South
+ Burlington
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/10092
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 14, 2011
+
+Job title: Perl & Mechanize Guru Needed
+
+Location: United States, VT, South Burlington
+
+Pay rate: Negotiable
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+This is just a short-term project, but hopefully a fun challenge for an
+experienced programmer. We're willing to pay per hour or for the project
+based on a time estimate.
+
+We need help setting up a spider to crawl sites that requires
+authentication and use javascript redirects and who knows what else. We
+need a mechanize guru to help us get into the site and pull some info for
+our users from their account on these external sites.
+
+The intent is to provide a sort of data aggregation service to our users.
+They will provide us their credentials so that we can import information
+from their account into our database to make their lives much easier.
+
+Required skills:
+Perl
+use of Mechanize module to crawl sites requiring authentication and heavy
+use of javascript
+
+Desired skills:
+perl
+mechanize
+
+Contact information at:
+http://jobs.perl.org/job/10092#contact

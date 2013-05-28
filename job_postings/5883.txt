@@ -1,0 +1,90 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5883
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 10118 invoked from network); 8 Mar 2007 20:07:30 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 8 Mar 2007 20:07:30 -0000
+Received: (qmail 11431 invoked by uid 225); 8 Mar 2007 20:07:30 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11425 invoked by alias); 8 Mar 2007 20:07:29 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,DK_POLICY_SIGNSOME
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 08 Mar 2007 12:07:27 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 201022AFF9; Thu,  8 Mar 2007 12:07:23 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20070308200723.201022AFF9@x3.develooper.com>
+Date: Thu,  8 Mar 2007 12:07:23 -0800 (PST)
+Subject: Perl Application Developer (onsite), United States, NJ, Whippany
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5457
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March  8, 2007
+
+Job title: Perl Application Developer
+
+Internal ID: 20138406
+
+Location: United States, NJ, Whippany
+
+Terms of employment: Salaried employee
+
+Length of employment: Permanent
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Major International Financial Institution requires a Fixed Income
+Applications Developer for a DIRECT HIRE role.
+
+The Fixed Income Operations IT group supports various systems critical to
+the functioning of the operations area. The Fixed Income Operations IT
+system (SYSTR) acts as the interface to the Vendor settlements systems, for
+trade processing, settlements, and clearance of fixed income and TBA/MBS
+products for both proprietary and institutional customer trading. SYSTR has
+real time trade feed with the vendor system, and also receives and process
+end of day data from the vendor. The processed data is distributed to the
+various internal downstream systems. SYSTR also does front to back office
+reconciliations. Some web applications have been built on SYSTR to do real
+time trade matching and allocations, and to net and send wire payments and
+receipts to the clearance banks.
+
+This position is an analyst/developer position within Fixed Income
+Operations IT. Candidate will develop new functionality on the SYSTR
+system. Candidate will liaise between the securities Operations user
+community and other IT teams to define requirements and support testing of
+new enhancements. The candidate is required to code enhancements in Perl,
+Sybase, shell scripting, and Java.
+
+1. Define requirements which are assigned new functionality and require
+development in SYSTR.
+2. Code and unit test enhancements within SYSTR.
+3. Generate hand off documentation to application management team.
+
+Required skills:
+PERL, SQL, UNIX, JAVA
+
+
+Desired skills:
+Fixed Income Securities Settlement
+Experience with IMPACT system
+Experience with MBS back office system 
+
+Contact information at:
+http://jobs.perl.org/job/5457#contact
+
+

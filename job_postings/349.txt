@@ -1,0 +1,75 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:349
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 72334 invoked by uid 1016); 1 Mar 2002 05:03:27 -0000
+Date: 1 Mar 2002 05:03:27 -0000
+Message-ID: <20020301050327.72333.qmail@onion.perl.org>
+To: jobs@perl.org
+Subject: Perl Script for Clickbank Passthru of Affiliate Code to Paypal, United States, OK, Tulsa
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/244
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 28, 2002
+
+Job title:
+Perl Script for Clickbank Passthru of Affiliate Code to Paypal
+
+Company name: Route 66 Cyber Cafe, Inc.
+
+Location: United States, OK, Tulsa
+
+Pay rate: Negotiable - bidding
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: 1 day
+
+Description:
+Please send your bids for the following job:
+
+I need a script that will pass a Clickbank affiliate ID through a Paypal
+transaction and send me an email letting me know which affiliate just made
+a paypal sale. 
+The customer comes from another website by clicking through, then passes
+the affiliate code through to a Paypal sale (if they decide to pay by
+Paypal)
+I am looking for someone to write this, but my company wants to own the
+code exclusively in order to sell it commercially.  We'll gladly refer
+other webmasters to the programmer that we choose, and we'll choose the one
+who comes up with the most unique solution and who bids the lowest. The one
+who comes up with the most unique and creative method, along with
+documentation that an average webmaster could follow, will be the one to
+win the project.
+Once this project is completed, the most creative programmer will also be
+hired for many other jobs.
+
+Required skills:
+Perl/CGI expertise.
+Knowledge of how the Clickbank affiliate cgi passes the affiliate code.
+(you can see an example by going to this page and clicking on the links
+that say "Pay by secure server" at the bottom of the page here:
+http://www.littlewebsitethatcould.net/default.htm
+and knowledge of the Paypal transaction process (just a general idea of the
+steps involved)_
+
+Desired skills: Perl/CGI fluency.
+
+URL for more information: http://www.littlewebsitethatcould.net/
+
+Contact information:
+Lynne Schlumpf, CEO
+Route 66 Cyber Cafe, Inc.
+lynne@r66cci.com
+
+

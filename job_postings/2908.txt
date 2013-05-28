@@ -1,0 +1,96 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2908
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 15825 invoked from network); 28 Jun 2005 00:41:21 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 28 Jun 2005 00:41:21 -0000
+Received: (qmail 12741 invoked by uid 225); 28 Jun 2005 00:41:20 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 12737 invoked by alias); 28 Jun 2005 00:41:20 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 27 Jun 2005 17:41:18 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j5S0fFQt005917
+	for <jobs@perl.org>; Mon, 27 Jun 2005 17:41:15 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j5S0fFwF005915;
+	Mon, 27 Jun 2005 17:41:15 -0700
+Date: Mon, 27 Jun 2005 17:41:15 -0700
+Message-ID: <200506280041.j5S0fFwF005915@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: mod_perl server software engineer (onsite), United States, CA, Palo Alto
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2786
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 27, 2005
+
+Job title: mod_perl server software engineer
+
+Company name: Danger
+
+Internal ID: Server Software Engineer - PDM
+
+Location: United States, CA, Palo Alto
+
+Pay rate: DOE
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Danger's Service Engineering group is seeking a talented software engineer
+to work on the high-visibility Premium Download Manager (PDM) service. The
+ideal candidate will possess strong server programming and software design
+skills and the ability to gracefully handle a dynamic, fast-paced
+development environment.
+
+   Responsibilities
+									   
+		     
+     * Work with other members of the Service Engineering group to extend
+and improve the Premium Download Manager
+     * Create and enhance APIs and interfaces to the PDM for internal and
+external customers
+     * Monitor operation of production servers and address problems in a
+timely manner should they arise.
+     * Work closely with QA and Operations groups during each release
+lifecycle.
+     * Design new capabilities or re-design existing ones as needed.
+     * Document and test all work.
+
+Required skills:
+     * Strong, demonstrable programming skills in Perl and either Java or
+C++
+     * Experience in architecture and implementation of servers for
+web-based applications
+     * Experience debugging distributed large-scale systems
+     * Experience with databases.  Oracle is a plus.
+     * Excellent written and verbal communication skills, as this position
+involves considerable interaction with non-engineers
+     * Desire and ability to work in a fast-paced environment
+     * Prior experience with finance, catalog, or billing systems is a huge
+plus
+
+Contact information at:
+http://jobs.perl.org/job/2786#contact
+
+

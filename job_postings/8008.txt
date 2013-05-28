@@ -1,0 +1,115 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8008
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 24879 invoked from network); 21 Apr 2008 15:25:17 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 21 Apr 2008 15:25:17 -0000
+Received: (qmail 29048 invoked by uid 225); 21 Apr 2008 15:25:17 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 29043 invoked by alias); 21 Apr 2008 15:25:16 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 21 Apr 2008 08:25:12 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id ED1B12B032; Mon, 21 Apr 2008 08:25:08 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080421152508.ED1B12B032@x3.develooper.com>
+Date: Mon, 21 Apr 2008 08:25:08 -0700 (PDT)
+Subject: DATEBASE SOFTWARE ENGINEER (onsite), Netherlands, AMSTERDAM
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8472
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 21, 2008
+
+Job title: DATEBASE SOFTWARE ENGINEER
+
+Company name: The RIPE NCC
+
+Internal ID: 0508-001
+
+Location: Netherlands, AMSTERDAM
+
+Pay rate:
+between € 42,497 and € 53,128 (before tax, p.a.)
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Experienced Software Engineer to produce high quality software and provide
+support through all phases of software development.
+
+PLEASE QUOTE THE JOB REFERENCE NUMBER AND PROVIDE YOUR FULL NAME IN YOUR
+APPLICATION
+
+Job Reference Number: 0508-001
+
+The RIPE Network Coordination Centre (RIPE NCC) is one of five Regional
+Internet Registries providing Internet resource allocations, registration
+services and coordination activities that support the operation of the
+Internet globally. The organisation is set up as a not-for-profit
+association and the working language is English. The environment is
+internationally orientated with staff from more than 20 countries.
+
+We are currently seeking an experienced Software Engineer for our Database
+Group, which provides system and software development and maintenance for
+the RIPE Database and related projects.
+
+The successful candidate will be working in an environment with
+professional, knowledgeable and enthusiastic engineers where getting things
+right is more important than just getting it done.
+
+This position is based in our office in the centre of Amsterdam.
+
+Required skills:
+In addition to the general qualifications that you can find on our website,
+we are specifically looking for someone who has:
+• A strong and demonstrated knowledge of OO Perl in a UNIX environment
+• Strong knowledge of relational databases and SQL, particularly MySQL
+• Experience in software development, testing/QA and deployment processes
+• Some practical experience in C, networking and Linux environments
+(Debian/CentOS)
+• Undergraduate or higher degree in Computer Science or a similar
+discipline, or equivalent professional experience
+• Strong written and spoken English
+• Ability to learn quickly
+• Excellent team player
+
+We encourage applicants from all countries in our service region to apply.
+
+Desired skills:
+• Experience in database performance tuning and clustering, particularly
+MySQL
+• Experience working in agile development environments (XP/Scrum)
+• Experience with source code control systems (SVN/SVK preferred)
+• Experience and understanding of designing and implementing clustered,
+high performance (server) systems
+• Affinity with the Open Source community, preferably through demonstrated
+contributions
+• Affinity with the ISP environment and RIPE community
+• Experience with MVC frameworks such as Catalyst, database abstraction
+layers such as DBIx::Class and templating systems such as Template Toolkit.
+Contributions to the CPAN will also be considered a plus.
+
+URL for more information: http://www.ripe.net/info/ncc/
+
+Contact information at:
+http://jobs.perl.org/job/8472#contact
+
+

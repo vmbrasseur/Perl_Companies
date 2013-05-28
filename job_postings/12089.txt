@@ -1,0 +1,98 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12089
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 20013 invoked from network); 3 Feb 2012 06:31:19 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 3 Feb 2012 06:31:19 -0000
+Received: (qmail 9236 invoked by uid 225); 3 Feb 2012 06:31:19 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 9232 invoked by alias); 3 Feb 2012 06:31:18 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 02 Feb 2012 22:31:16 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id B3EA62AFE0; Thu,  2 Feb 2012 22:31:12 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 2 Feb 2012 22:31:12 -0800
+Message-ID: <20120203063112.B3EA62AFE0@x3.develooper.com>
+Subject: Perl Developer(s) (telecommute), City of London, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14802
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February  1, 2012
+
+Job title: Perl Developer(s)
+
+Company name: UK2 Group
+
+Internal ID: Honeybadger
+
+Location: City of London, UK
+
+Pay rate: variable $ or £
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 3-6 months
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+UK2 are looking for talented Perl developers to expand our development
+team.
+
+Our billing systems, provisioning, order process and control panel are all
+powered by Perl, and we're moving towards increasing use of Perl to
+entirely power our backend, so require more developers.
+
+We strive towards code reuse, decent coding standards and Modern Perl, with
+peer code reviews and discussion encouraged. There is also a dedicated QA
+team and the codebase is split into development, staging and production
+environments.
+
+We colloborate over IRC, with Bugzilla and github issues for bug tracking,
+Basecamp for project management, and use Github for version control. 
+Naturally we make heavy use of open-source software, and contribute back
+where possible.
+
+Required skills:
+- At least 2-3 years of Perl programming experience, including object-
+   oriented coding, test-driven development
+
+ - At least 2-3 years experience of Unixy systems
+
+ - Strong SQL skills (MySQL in particular)
+
+ - Version control, Subversion or GIT in particular
+
+Desired skills:
+- Common CPAN modules (DBI, CGI, etc)
+
+ - Knowing your way around the Perl debugger
+
+ - Experience with Dancer web framework
+
+ - Experience with Moose
+
+ - Experience with DBIx::Class
+
+ - Experience in the domain registration & web hosting market
+
+Website for more information: http://www.uk2group.com
+
+Contact information at:
+http://jobs.perl.org/job/14802#contact

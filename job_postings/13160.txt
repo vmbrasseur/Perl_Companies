@@ -1,0 +1,69 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13160
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 3648 invoked from network); 24 Feb 2013 23:24:24 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 24 Feb 2013 23:24:24 -0000
+Received: (qmail 8476 invoked by uid 225); 24 Feb 2013 23:24:24 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 8472 invoked by alias); 24 Feb 2013 23:24:23 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 24 Feb 2013 15:24:21 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id F18E42AFE1; Sun, 24 Feb 2013 15:24:17 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sun, 24 Feb 2013 15:24:17 -0800
+Message-ID: <20130224232417.F18E42AFE1@x3.develooper.com>
+Subject: Perl Developer (Data Extraction and MySQL) (telecommute), Remote
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16876
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 24, 2013
+
+Job title: Perl Developer (Data Extraction and MySQL)
+
+Company name: Journatic
+
+Internal ID: 80486
+
+Location: Remote
+
+Pay rate: $1,750 USD/month
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+Journatic is a growing local data and news company that provides public
+data and content to media sources. We are looking for Perl programmers who
+are very familiar with data extraction via Mechanize.
+The following is especially important:
+1) You love perl - simply the most important quality
+2) You have deep experience using Perl to manipulate large amounts of data
+3) You value the ability to telecommute
+4) You have strong MySQL skills.
+You will be joining a team of predominantly Eastern European developers.
+Test project for pay as interview. If qualified and interested, please:
+1) Send resume to jobs+perl at journatic dot com
+2) Send perl code sample
+3) Include the number "80486" and the words Perl Programmer in your email
+subject header
+
+Contact information at:
+http://jobs.perl.org/job/16876#contact

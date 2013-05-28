@@ -1,0 +1,110 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3748
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8242 invoked from network); 23 Jan 2006 12:06:42 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 23 Jan 2006 12:06:42 -0000
+Received: (qmail 14709 invoked by uid 225); 23 Jan 2006 12:06:41 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 14699 invoked by alias); 23 Jan 2006 12:06:40 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 23 Jan 2006 04:06:38 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id k0NC6Z4e031663
+	for <jobs@perl.org>; Mon, 23 Jan 2006 04:06:35 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id k0NC6YZT031661;
+	Mon, 23 Jan 2006 04:06:34 -0800
+Date: Mon, 23 Jan 2006 04:06:34 -0800
+Message-ID: <200601231206.k0NC6YZT031661@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: PERL programmer for infrastructure dev role with ORACLE CORP, INDIA (telecommute), INDIA, Karnataka, Bangalore
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3572
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 22, 2006
+
+Job title:
+PERL programmer for infrastructure dev role with ORACLE CORP, INDIA
+
+Company name: Oracle India Pvt Ltd
+
+Location: INDIA, Karnataka, Bangalore
+
+Pay rate: Std market rated in INR
+
+Terms of employment: Salaried employee
+
+Length of employment: full time
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+
+Division:Server Technologies- Product development division
+Location: BANGALORE, INDIA
+Type of work : Development
+
+
+The responsibilities of the team include:
+Development infrastructure
+ 
+Includes the documentation, organization, and construction of the makefiles
+across the group’s components, component setup within the development
+environment, deployment and jar file construction, development process
+utilities, diagnostics.  
+ 
+Leveraging of common tools
+ 
+Includes enabling developers to leverage common tools.	Examples of
+projects in this area include writing mergereq triggers to evaluate
+development transactions, improving integration with the group’s server
+farm resources.
+ 
+Documenting common processes
+ 
+Includes working with senior developers within the group to optimize
+existing development processes and document them in the  process guide.
+ 
+Windows development
+ 
+This area covers areas such as making the product configure, setup, and run
+on the windows platform, ensuring that the development environment is
+consistent across both UNIX and Windows platforms, and addressing any
+windows platform specific limitations, such as restrictions on environment
+size.
+ 
+We are looking for bright and self-motivated software engineers who have an
+interest in development processes, development environment improvements,
+and development tool/utility implementation.  Our objective is to provide a
+best practice development environment for the division.
+
+Work experience: 2+ to 10 years
+Educational qualification: BE/BTech/MTech/MCA (BS or MS in engineering
+sciences)
+
+Skills :Programming skills in perl
+
+Required skills:
+Strong programming skills in perl programing
+
+Contact information at:
+http://jobs.perl.org/job/3572#contact
+
+

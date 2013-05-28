@@ -1,0 +1,128 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9569
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 24271 invoked from network); 30 Oct 2009 17:06:55 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 30 Oct 2009 17:06:55 -0000
+Received: (qmail 24176 invoked by uid 225); 30 Oct 2009 17:06:55 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 24165 invoked by alias); 30 Oct 2009 17:06:54 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 30 Oct 2009 10:06:48 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 0B4112AFDF; Fri, 30 Oct 2009 10:06:44 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20091030170645.0B4112AFDF@x3.develooper.com>
+Date: Fri, 30 Oct 2009 10:06:44 -0700 (PDT)
+Subject: Systems Engineer- Monitoring and Reporting (onsite), United States, New York, Buffalo
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/11022
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 30, 2009
+
+Job title:
+Systems Engineer- Monitoring and Reporting
+
+Company name: Synacor
+
+Location: United States, New York, Buffalo
+
+Pay rate: competitive based on experience
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+
+Synacor is a dynamic, fun and exciting company.  Jeans and t-shirts are
+typical office attire, even for the executives. Flexible work hours
+accommodate employees with special scheduling needs, early risers and those
+who need a little caffeinated kick-start each morning. Synacor's
+headquarters are located along Buffalo's waterfront and the Erie Basin
+Marina. Taking a few minutes to stretch your legs is as easy as walking the
+1,000 feet or so to the water. The office wireless network even reaches a
+beautiful gazebo, making it easy to spend a little time outdoors while
+still being productive. We are looking for great people to join our team
+and be given the freedom to do the work they were hired to do.
+
+We are seeking a Systems Engineer, Monitoring and Reporting to develop
+strategic monitoring and reporting solutions that facilitate the business
+and operational needs of Synacor.
+
+Duties and Responsibilities:
+•	Architect, develop, and enhance the Network Management System (NMS)
+
+•	Enhance the reporting platform to meet the needs of both executive
+and operational management
+•	Provide auditing to ensure accurate monitoring of all devices,
+services, and processes
+•	Ensure that trending for servers, network devices, and customer
+application (portal) statistics are being correlated with server and
+network issues
+•	Work with management and internal customers to verify that we have
+proper monitoring thresholds for all metrics
+•	Modify, enhance, or create the monitoring/reporting software
+necessary to perform the data collection and event generation
+•	Perform NMS software administration (maintenance, upgrades, daily)
+•	Identify and recommend monitoring solutions based on changing
+technology
+•	Educating the Network Operations Center on proper usage of tools to
+quickly identify issues and triage solutions
+•	Create a workflow system that will integrate incident documentation
+with alerts to automate triage and process requirements
+
+What we’ll bring to the table:
+•	100% Company paid benefits (health, dental, vision) for all
+employees and eligible dependents
+•	Competitive compensation
+•	25 cent vending machines
+•	Free Spot coffee, popcorn and cappuccino
+•	Award winning company culture
+•	Casual dress and flexible environment
+•	Generous paid time off
+•	H1B Visa Sponsorship available
+•	The opportunity to make a difference!
+
+
+Required skills:
+What you’ll need to bring to the table:
+•	Proven experience designing and administering monitoring and
+reporting solutions in a high availability environment with tools such as
+Perl, Shell scripting, SNMP, and RRD tool
+•	5+ years of Linux/Unix System Administration experience
+•	Administration experience working on a Network Management System
+such as Zenoss, Big Brother, Cacti, or Nagios
+•	The ability to find elegant ways of programmatically retrieving
+data from non-trivial sources
+•	Solid communication skills, both oral and written
+•	Proven team building and leadership skills, combined with the
+ability to self motivate without direct supervision
+•	Bachelor’s Degree in Computer Science
+•	Strong project management skills
+
+
+URL for more information:
+http://tbe.taleo.net/NA11/ats/careers/requisition.jsp?org=SYNACOR&cws=1&rid
+=273
+
+Contact information at:
+http://jobs.perl.org/job/11022#contact
+
+

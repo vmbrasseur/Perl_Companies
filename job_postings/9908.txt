@@ -1,0 +1,94 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9908
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 3502 invoked from network); 1 Mar 2010 18:10:42 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 1 Mar 2010 18:10:42 -0000
+Received: (qmail 3891 invoked by uid 225); 1 Mar 2010 18:10:41 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 3759 invoked by alias); 1 Mar 2010 18:10:40 -0000
+X-Spam-Status: No, hits=-0.0 required=8.0
+	tests=SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 01 Mar 2010 10:10:07 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id B608D2AFE2; Mon,  1 Mar 2010 10:09:55 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20100301180955.B608D2AFE2@x3.develooper.com>
+Date: Mon,  1 Mar 2010 10:09:55 -0800 (PST)
+Subject: Perl developer for bioinformatics (part onsite), United Kingdom, Cambs, Cambridge
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/11840
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March  1, 2010
+
+Job title: Perl developer for bioinformatics
+
+Company name: EBI
+
+Internal ID: W/10/022/EBI
+
+Location: United Kingdom, Cambs, Cambridge
+
+Pay rate: £26750 + benefits
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+The European Bioinformatics Institute (EBI) is located on the Wellcome
+Trust Genome Campus near Cambridge and provides cutting-edge research,
+service and training in the field of bioinformatics.
+
+Ensembl (http://www.ensembl.org) is one of the leaders in genome annotation
+and one of the groups at the EBI. We are looking for an enthusiastic
+software developer to join our core team at Ensembl. The successful
+candidate will participate in the maintenance and development of the
+databases and software that underpins the Ensembl project  
+
+
+Required skills:
+The ideal candidate should hold a Masters degree or higher in Computational
+Science or Physical Science or a PhD in Biological Science. Candidates
+should have evidence of their ability to write, understand and maintain
+complex code. Previous experience of working on a large, established but
+continually-evolving codebase would be a distinct advantage.
+
+The post holder must have strong programming skills in Perl and experience
+in development of SQL databases, in particular MySQL. 
+
+We are looking for highly motivated candidates with good communication and
+interpersonal skills. Furthermore, candidates should demonstrate solid
+problem solving skills, excellent attention to detail, and a desire to work
+in an international environment. Good English skills are a requirement. 
+
+Desired skills:
+Experience in other programming/scripting languages would be an advantage,
+as would some knowledge of molecular biology and/or bioinformatics. You
+should be comfortable developing software in a primarily Unix-based
+environment, and be familiar with development tools such as CVS.
+
+
+URL for more information:
+http://www.embl.de/aboutus/jobs/jobs_embl_ebi_hinxton/2010/bioinformatician
+s/w_10_022_ebi/
+
+Contact information at:
+http://jobs.perl.org/job/11840#contact
+
+

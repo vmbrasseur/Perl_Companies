@@ -1,0 +1,86 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3741
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 11528 invoked from network); 19 Jan 2006 20:40:41 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 19 Jan 2006 20:40:41 -0000
+Received: (qmail 9870 invoked by uid 225); 19 Jan 2006 20:40:41 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 9863 invoked by alias); 19 Jan 2006 20:40:40 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 19 Jan 2006 12:40:38 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id k0JKeRRD009892
+	for <jobs@perl.org>; Thu, 19 Jan 2006 12:40:27 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id k0JKeRSU009890;
+	Thu, 19 Jan 2006 12:40:27 -0800
+Date: Thu, 19 Jan 2006 12:40:27 -0800
+Message-ID: <200601192040.k0JKeRSU009890@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Perl programmer to work on distributed software update system (onsite), United States, CO, Denver
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3564
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 19, 2006
+
+Job title:
+Perl programmer to work on distributed software update system
+
+Company name: Velocity Staff
+
+Location: United States, CO, Denver
+
+Travel: 0%
+
+Terms of employment: Hourly employee
+
+Length of employment: 3 to 6 Months
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Our client has 8,000 workstations that are geographically distributed. 
+These workstations run a custom software system.  Among these workstations
+there are 30 different configurations.	All of these systems run Microsoft
+Windows.
+
+They have a home grown system for remotely pushing configuration and
+software updates from central workstations to the 8,000 distributed
+workstations.  This system is written in Perl.	They are looking for
+someone to help them operate, maintain, and update this software
+distribution system on a 3 to 6 month contract basis. 
+
+We are looking for a Perl programmer who has experince with network and
+systems programming on Windows.
+
+You must have strong experience in enterprise implementation of custom
+software and experience with Perl scripting to conduct implementations. You
+must also have the ability to work off business hours, as needed to
+complete an implementation.
+
+Required skills:
+- Perl programming on Window
+- Perl network programming on Windows
+- Perl systems programming on Windows
+
+Contact information at:
+http://jobs.perl.org/job/3564#contact
+
+

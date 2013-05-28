@@ -1,0 +1,96 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9669
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 10203 invoked from network); 2 Dec 2009 23:16:40 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 2 Dec 2009 23:16:40 -0000
+Received: (qmail 18477 invoked by uid 225); 2 Dec 2009 23:16:40 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 18421 invoked by alias); 2 Dec 2009 23:16:40 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 02 Dec 2009 15:16:39 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id D7F092AFE1; Wed,  2 Dec 2009 15:16:35 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20091202231635.D7F092AFE1@x3.develooper.com>
+Date: Wed,  2 Dec 2009 15:16:35 -0800 (PST)
+Subject: Site Reliability Engineer (onsite), United States, CA, Palo Alto
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/11414
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December  2, 2009
+
+Job title: Site Reliability Engineer
+
+Company name: Facebook
+
+Location: United States, CA, Palo Alto
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Facebook is seeking talented operations engineers to join the Site
+Reliability Engineering team. The ideal candidate will have strong
+communication skills, a passion for tinkering with Linux, and an almost
+insane fondness for fast-paced, seat-of-your-pants troubleshooting and
+crisis management. The position is full-time and is based in our main
+office in downtown Palo Alto. This position reports to the Manager of Site
+Reliability Engineering.
+
+Responsibilities
+
+    * Monitor the stability and performance of the website
+    * Remotely troubleshoot and diagnose hardware problems
+    * Debug issues with Linux software, applications and network
+    * Resolve technical challenges encountered in LAMP technologies
+    * Develop and maintain monitoring tools and automation systems
+    * Predict and respond to utilization variances across multiple
+datacenters
+    * Identify and triage all outage related events
+    * Facilitate communication, coordinate escalation, and work with
+subject matter experts to implement critical fixes
+    * Automate and streamline processes
+
+Required skills:
+    * 2-3 years+ Linux support/sys admin experience in an Internet
+operations environment
+    * BA/BS in Computer Science or a related field, or equivalent
+experience
+    * Working knowledge of Linux, TCP/IP, Apache and mySQL
+    * Experience working with network management systems and monitoring
+tools, such as Nagios, Ganglia and Cacti
+    * Competency in Shell, PHP, Perl or Python. C is a plus
+    * Solid understanding of web services architecture and commonly
+employed technologies
+    * A sense of urgency in responding to and resolving critical issues
+that relate to the performance of the site and/or core infrastructure
+    * Excellent verbal and written communication skills
+    * Participation in a shifted coverage schedule, including occasional
+evenings shifts
+
+URL for more information:
+http://www.facebook.com/careers/department.php?dept=tech-ops#/careers/depar
+tment.php?dept=tech-ops&req=283295265304
+
+Contact information at:
+http://jobs.perl.org/job/11414#contact
+
+

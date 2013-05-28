@@ -1,0 +1,107 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4870
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 14388 invoked from network); 30 Aug 2006 02:37:23 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 30 Aug 2006 02:37:23 -0000
+Received: (qmail 21728 invoked by uid 225); 30 Aug 2006 02:37:23 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 21723 invoked by alias); 30 Aug 2006 02:37:22 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 29 Aug 2006 19:37:20 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id A0B7C2AFDE; Tue, 29 Aug 2006 19:37:15 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060830023715.A0B7C2AFDE@x3.develooper.com>
+Date: Tue, 29 Aug 2006 19:37:15 -0700 (PDT)
+Subject: Application Developer (onsite), United Kingdom, London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4582
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 29, 2006
+
+Job title: Application Developer
+
+Company name: Digital Craftsmen
+
+Location: United Kingdom, London
+
+Pay rate: £32-37,000
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We've won a new contract and we're looking for an application
+developer to join our team.
+
+We build business applications for clients.  The common theme (apart
+from being web based) is that they all solve real-world business
+problems in an easy to use way. Usability and user-centred design are
+key to our work.
+
+Our new project is building a content delivery & management system for
+the mobile market. That's all we can say at the moment but it will be an
+exciting project for anyone interested in mobile technology, user
+interfaces and content management.
+
+Our other work includes document search tools, time tracking, contact
+management and business process automation tools for intranets and
+e-commerce (www.carmalondon.com), content management
+(www.peacedirect.org) and content delivery (www.monday9am.tv) on the
+internet. We also make extensive use of the Bricolage content management
+system (www.bricolage.cc) and contribute to the maintenance of the
+codebase.
+
+The majority of our work is in Perl but we also use PHP & .NET when
+necessary & appropriate.
+
+The successful candidate will join a small team of Perl developers
+working across all of these projects, taking the lead in some and
+supporting in others. We work collaboratively in a relaxed office
+environment in Clerkenwell, London, a space shared with a team of music
+journalists and mobile media specialists.
+
+Required skills:
+The successful candidate will have a good understanding of the
+following:
+
+Object oriented Perl
+Application design
+SQL (MySQL, PostgreSQL, MS SQL are all in use)
+XHTML/CSS/Javascript/AJAX
+Designing user interfaces (from a usability viewpoint rather than
+graphically although those skills would be highly desirable too)
+
+Catalyst, HTML::Mason, Template Toolkit, Class::DBI & DBIx::Class are
+our tools of choice but experience with other frameworks and templating
+systems will be welcome.
+
+You will be a creative thinker and able to visualise problems, develop
+solutions and communicate your ideas to business people.
+
+
+URL for more information: http://www.digitalcraftsmen.net/
+
+Contact information at:
+http://jobs.perl.org/job/4582#contact
+
+

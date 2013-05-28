@@ -1,0 +1,82 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10675
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 6333 invoked from network); 28 Oct 2010 00:32:43 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 28 Oct 2010 00:32:43 -0000
+Received: (qmail 1142 invoked by uid 225); 28 Oct 2010 00:32:43 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 1137 invoked by alias); 28 Oct 2010 00:32:42 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 27 Oct 2010 17:32:40 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 26DA42AFE1; Wed, 27 Oct 2010 17:32:35 -0700 (PDT)
+To: jobs@perl.org
+Date: Wed, 27 Oct 2010 17:32:35 -0700
+Message-ID: <20101028003235.26DA42AFE1@x3.develooper.com>
+Subject: OO / POE / AnyEvent developer (onsite), France, Boulogne-Billancourt
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13124
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 27, 2010
+
+Job title: OO / POE / AnyEvent developer
+
+Company name: Ijenko
+
+Location: France, Boulogne-Billancourt
+
+Pay rate: €40K - €50K
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Membre à part entière de l'équipe de développement, vous avez la
+responsabilité du développement d'applications client/serveur apportant une
+forte valeur ajoutée aux services existants. En environnement Linux, vous
+faites en sorte que vos applications s'interfacent avec les bases de
+données et autres services réalisés en interne. Outre le service apporté,
+vous portez un soin attentif au support d'une très forte charge et d'une
+haute disponibilité tout en restant maître des ressources allouées. Pour
+cela vous appréhendez rapidement les différentes architectures logicielles
+et matérielles déjà mises en œuvre et participez activement à leur
+évolution.
+
+Required skills:
+La mise en œuvre d'applications vous passionne. De la conception à la
+réalisation, en passant par les indispensables tests, vous êtes
+complètement autonome, rigoureux(euse) et surtout dynamique ! Le C et
+l'environnement Unix vous sont familiers. La programmation réseau est une
+partie de plaisir. Bien évidemment, vous maîtrisez le langage Perl, mais
+pourtant vous êtes sans cesse étonné(e) d'en découvrir d'avantage. Pour
+vous, CPAN n'est pas un acronyme comme les autres. Pour preuve, vous aimez
+à répéter que Perl n'est pas seulement un langage de script, mais qu'il
+permet de réaliser de puissantes applications. POE ou AnyEvent vous y ont
+d'ailleurs largement aidé. Vous êtes naturellement à l'aise dans un
+environnement « start-up » qui entreprend aux côtés de grands groupes
+industriels, en France et à l'international.
+
+Desired skills:
+Si vous êtes arrivés jusque là c'est que vous lisez le français. Le parler
+est un plus. :)
+
+Website for more information: http://ijenko.com/
+
+Contact information at:
+http://jobs.perl.org/job/13124#contact

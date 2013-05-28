@@ -1,0 +1,71 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5383
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 11953 invoked from network); 30 Nov 2006 19:34:10 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 30 Nov 2006 19:34:10 -0000
+Received: (qmail 8736 invoked by uid 225); 30 Nov 2006 19:34:09 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 8682 invoked by alias); 30 Nov 2006 19:34:06 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 30 Nov 2006 11:34:02 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id A3C252AFE0; Thu, 30 Nov 2006 11:33:58 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20061130193358.A3C252AFE0@x3.develooper.com>
+Date: Thu, 30 Nov 2006 11:33:58 -0800 (PST)
+Subject: Perl/Tk/Class::DBI coder for commercial app. (telecommute), Canada, Ontario, Toronto
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5037
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 30, 2006
+
+Job title:
+Perl/Tk/Class::DBI coder for commercial app.
+
+Company name: praecipuus
+
+Location: Canada, Ontario, Toronto
+
+Pay rate: TBD
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+Coder required for general OO Perl coding and Tk interface design and
+coding, including developing mega-widgets. Relating this to database access
+usually using Class::DBI but may migrate to DBIx::Class. Quite happy for a
+telecommuter to do the work (which is ongoing) but best if you are
+available for conferences or calls (we like Skype) during Eastern Standard
+Time.
+
+Required skills:
+* Latest ActiveState Perl.
+* Komodo and PDK
+* Strong OO emphasis
+
+Desired skills: Ability to work with CVS.
+
+Contact information at:
+http://jobs.perl.org/job/5037#contact
+
+

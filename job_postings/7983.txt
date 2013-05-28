@@ -1,0 +1,131 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7983
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 11235 invoked from network); 15 Apr 2008 23:55:11 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 15 Apr 2008 23:55:11 -0000
+Received: (qmail 29024 invoked by uid 225); 15 Apr 2008 23:55:11 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 29020 invoked by alias); 15 Apr 2008 23:55:10 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 15 Apr 2008 16:55:07 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 0C1B62AFE2; Tue, 15 Apr 2008 16:55:01 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080415235502.0C1B62AFE2@x3.develooper.com>
+Date: Tue, 15 Apr 2008 16:55:01 -0700 (PDT)
+Subject: Scripting Engineer (onsite), United States, California, Mountain View
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8432
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 15, 2008
+
+Job title: Scripting Engineer
+
+Company name: Sapphire Technologies
+
+Internal ID: 169619
+
+Location: United States, California, Mountain View
+
+Pay rate: $60.00 dollars an hour
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 9-12 months to start
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Support the current intrusion detection software installation in production
+environment. Add clients as they are added into production. Modify and add
+new rule sets for the existing services and applications. Generate security
+audit reports. Create new reports and node groups for effective use of
+intrusion software. Add, remove, and modify files/directories that are
+monitored using intrusion software. Create event pattern and ignore/add
+monitoring as needed. Test and implement intrusion software in windows
+environment. Upgrade the current version.
+		 System logs from various operating system needs to be
+collected to a centralized server.  These logs are from Red Hat Linux
+(various versions), Solaris 6,7,8,9 &10, AIX, SuSe and Windows. The total
+numbers of systems from which the logs will be collected are around 600.
+There are approximately 60 Windows servers, 20 AIX Servers, 300 Linux
+servers and 220 Solaris servers. This will also be collecting system logs
+from various storage units like NetApp and EMC Storage.  Reports needs to b
+generated using the logs that are collected from various systems. These
+reports includes but not limited to event correlation, system configuration
+and network information. Should adhere to the current security model in the
+organization and follow the procedures and policies in place for log
+collection, retention and archival.
+		  The sendmail infrastructure in production is a vital part
+of our business which serves email to lot of outside customers. Need to
+modify the existing BSD sendmail configuration from time to time to adhere
+to the security standards of the company. Ensure smooth functionality of
+the existing sendmail infrastructure and improve its functionality and
+performance.
+		   Need to collect various Security related events from all
+systems to a centralized location. This also includes but not limited to
+collecting system configuration, user information and file/directory access
+permissions collection. The system configuration information also needs to
+be verified for various security events and audit the events for problems
+and issues. Should adhere to the current security model in the organization
+and follow the procedures and policies in place.
+		    Develop a script for collecting system configuration
+information for various operating systems. The data collected should
+include but not limited to Operation system version, system configuration,
+network information and disk/storage information. This data will be used in
+the ops online reporting tools. Should adhere to the current security model
+in the organization and follow the procedures and policies in place.
+		     Need to add more functionality to the existing ops
+online tools and fix any issues that are in the current ops online
+infrastructure. Should adhere to the current security model in the
+organization and follow the procedures and policies in place.
+
+
+Required skills:
+Skills Required:  
+
+5 - 6 Years of extensive scripting experience using Perl and shell. 
+2 - 3 years experience in XML/HTML programming. 
+Experience with Unix System Security, SSH, PAM and tcp wrappers. 
+Experience with PostgreSQL and SQL Scripting. 
+Experience with various system logs, log file format and growth/size
+information 
+This position also requires 1-2 years of Unix system administration
+experience and knowledge of windows and all log files related to the OS. 
+Sendmail.cf configuration in production environment is a plus. 
+BSD Sendmail.cf configuration in production environment. 
+1 - 2 years experience with syslog-ng. 
+Experience with SSH Tunneling, rsync configuration and Email pharsing is a
+plus. 
+1 - 2 years of working experience with Tripwire Enterprise version 6/7 is a
+plus. 
+2 -3 Years of extensive working experience with BladeLogic (7.3 / 7.4)
+Configuration Manager and Provisioning Manager. 
+Must have experience with Bladelogic implementation in a production
+environment. 
+Extensive experience with Bladelogic NSH commands and implantation in a
+secure environment. 
+1 -2 Unix and Windows system administration. 
+
+
+Contact information at:
+http://jobs.perl.org/job/8432#contact
+
+

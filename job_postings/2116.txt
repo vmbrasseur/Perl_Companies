@@ -1,0 +1,88 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2116
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 20135 invoked from network); 26 Nov 2004 17:26:25 -0000
+Received: from x1.develooper.com (63.251.223.170)
+  by lists.develooper.com with SMTP; 26 Nov 2004 17:26:25 -0000
+Received: (qmail 32614 invoked by uid 225); 26 Nov 2004 17:26:23 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 32600 invoked by alias); 26 Nov 2004 17:26:21 -0000
+X-Spam-Status: No, hits=-4.8 required=8.0
+	tests=BAYES_00,HTML_MESSAGE
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.dev) (63.251.223.163)
+  by la.mx.develooper.com (qpsmtpd/0.27.1) with ESMTP; Fri, 26 Nov 2004 09:26:18 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.dev (8.12.11/8.12.11) with ESMTP id iAQHQFvd009404
+	for <jobs@perl.org>; Fri, 26 Nov 2004 09:26:15 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id iAQHQFQp009402;
+	Fri, 26 Nov 2004 09:26:15 -0800
+Date: Fri, 26 Nov 2004 09:26:15 -0800
+Message-ID: <200411261726.iAQHQFQp009402@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Build Engineer (onsite), Canada, BC, Vancouver
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2022
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 25, 2004
+
+Job title: Build Engineer
+
+Company name: ActiveState
+
+Location: Canada, BC, Vancouver
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+You like to work with heterogenous systems (from cutting edge to oddball),
+get your kicks from a smoothly running build farm, and	obsessively
+automate everything.  You like keeping machines humming, enjoy the
+challenges of heterogeneous networks, and collect 
+idiosyncratic bits of knowledge about operating systems as a hobby. Along
+with solid technical skills, you possess the ability to work as comfortably
+and effectively as a team member as you do working alone, eager to help and
+to learn.
+
+
+Required skills:
+<li>Solid build engineering experience (build systems, makefiles, etc) 
+<li>Unix shell and Perl scripting experience 
+<li>Solid experience with SCM tools and environments (prefer Perforce)
+<li>Experience with Solaris, Linux, Windows
+
+Desired skills:
+<li>Solid build engineering experience (build systems, makefiles, etc) 
+<li>Unix shell and Perl scripting experience 
+<li>Solid experience with SCM tools and environments (prefer Perforce)
+<li>Experience with Solaris, Linux, Windows
+
+Contact information:
+ActiveState, a division of Sophos, enables enterprises and IT professionals
+to increase productivity and organizational efficiency through the
+innovative use of open source technologies. Over 70% of the Fortune 500
+rely on ActiveState's programming tools, language distributions, and
+support services. http://www.ActiveState.com.
+
+To apply for this position, email your resume in MS Word, HTML or plain
+text format to careers-canada@sophos.com. Please ensure that you include
+the position applied for in the subject line of the email.
+
+

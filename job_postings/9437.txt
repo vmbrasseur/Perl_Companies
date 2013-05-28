@@ -1,0 +1,82 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9437
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8408 invoked from network); 29 Aug 2009 03:45:08 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 29 Aug 2009 03:45:08 -0000
+Received: (qmail 9021 invoked by uid 225); 29 Aug 2009 03:45:08 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 9017 invoked by alias); 29 Aug 2009 03:45:07 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 28 Aug 2009 20:45:02 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id C051F2AFD0; Fri, 28 Aug 2009 20:44:58 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20090829034458.C051F2AFD0@x3.develooper.com>
+Date: Fri, 28 Aug 2009 20:44:58 -0700 (PDT)
+Subject: Web data extraction ninja coder (telecommute), Anywhere, Anywhere, Anywhere
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/10998
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 27, 2009
+
+Job title: Web data extraction ninja coder
+
+Company name: Axiombox
+
+Location: Anywhere, Anywhere, Anywhere
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+I'm looking for a developer with interest in Web data harvesting and
+scraping. I'm currently developing a number of projects with this model and
+I cannot continue doing them alone. You will be a vital part of these fun
+projects: I usually enjoy doing them, you should be into that too :)
+
+You can be anywhere in the world, I don't care as long as results are
+shown.
+
+I'm looking for a long-term partner for this, not a hit & run.
+
+Required skills:
+I need you to understand intermediate Perl, OO-design and medium to complex
+implementations.
+
+You need to have a working skillset of regular expressions.
+
+Knowledge and understanding of HTTP basics is vital too. I use an HTTP
+sniffer + Firebug most of the time.
+
+A UNIX (Linux or MacOS) background would be a plus.
+
+Git is an extra plus. If you are into Subversion, you'd be willing to
+convert to Git :)
+
+Desired skills:
+Perl modules mostly used: WWW::Mechanize, LWP::UserAgent (good
+understanding of it, to extend Mech), HTML::TreeBuilder, HTML::Parser (and
+its descents), CGI::Fast, Modern::Perl, Moose (beginning to move most of
+our codebase to real OO), Module::Install, Module::Pluggable and sometimes
+cool stuff like Catalyst, HTTP::Engine and mod_perl 2.
+
+Contact information at:
+http://jobs.perl.org/job/10998#contact
+
+

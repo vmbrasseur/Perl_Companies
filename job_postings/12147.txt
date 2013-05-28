@@ -1,0 +1,105 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12147
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 5227 invoked from network); 19 Feb 2012 09:59:47 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 19 Feb 2012 09:59:47 -0000
+Received: (qmail 24030 invoked by uid 225); 19 Feb 2012 09:59:46 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 24026 invoked by alias); 19 Feb 2012 09:59:46 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 19 Feb 2012 01:59:42 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 863F32AFE1; Sun, 19 Feb 2012 01:59:39 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sun, 19 Feb 2012 01:59:38 -0800
+Message-ID: <20120219095939.863F32AFE1@x3.develooper.com>
+Subject: Perl Developer (onsite), Milwaukee, WI, United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15568
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 19, 2012
+
+Job title: Perl Developer
+
+Company name: StreetLinks / Corvisa
+
+Location: Milwaukee, WI, United States
+
+Pay rate: $ Competitive Salary
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Location: Milwaukee
+Department: Engineering & Development
+Compensation: Competitive with benefits
+
+Job Description
+As a Software Developer with StreetLinks, you will be responsible for the
+design and development of our RESTful API and backend processing jobs to
+add new system functionality that will support our growing customer base. 
+Under the guidance of StreetLinks management, you will accurately and
+rapidly write code for various StreetLinks software products, which entails
+using proper coding conventions as well as following any specific
+StreetLinks desired coding conventions. Emphasis is on producing clean and
+lean code that is capable of functioning and scaling in highly demanding
+business environments. 
+Qualifications
+We are looking for a thinking programmer who desires to join a highly
+productive team and wants to immediately contribute by totally immersing
+themselves in our products. 
+The ideal candidate will be religious about the use of source control and
+desire to properly cover your code with ample test cases and documentation.
+You should feel comfortable working with a small team of highly experienced
+and talented developers, but should be able to function on your own when
+given a project. 
+The ideal candidate must have: 
+•	Excellent application development skills
+•	Strong communication skills (written and verbal) with all
+organizational levels
+•	Ability to work within a fast-paced, rapidly changing environment 
+•	Ability to rely on sound application development principles,
+methodologies and creativity when planning and accomplishing projects and
+goals
+•	Willingness to take and be accountable for risks
+•	Self-confidence and be self-motivated
+•	Ability to work and function well with minimal direction or with
+team discussion and verbal direction/specification vs. highly structured
+written documentation/specifications
+
+Required skills:
+Applicants should have demonstrable experience with: 
+•	Expert knowledge of Perl (preferred) or another scripting language
+such as Python, PHP or Ruby 
+•	Knowledge and regular use of source control
+•	Working knowledge of Catalyst MVC framework, DBIx::Class, and Moose
+
+•	Experience with test driven development
+•	Experience with REST API design patterns and concepts
+•	Experience with Sencha (formally ExtJS) or other Javascript
+framework is a plus.
+Bachelor/s degree in Computer Science, MCS, MIS, Computer Engineering is a
+plus, but must be coupled with experience.
+
+Website for more information: https://www.streetlinks.com/
+
+Contact information at:
+http://jobs.perl.org/job/15568#contact

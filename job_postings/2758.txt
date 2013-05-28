@@ -1,0 +1,87 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2758
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 10695 invoked from network); 22 May 2005 03:55:52 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 22 May 2005 03:55:52 -0000
+Received: (qmail 30401 invoked by uid 225); 22 May 2005 03:55:51 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 30396 invoked by alias); 22 May 2005 03:55:51 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 21 May 2005 20:55:48 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j4M3tkxK011795
+	for <jobs@perl.org>; Sat, 21 May 2005 20:55:46 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j4M3tkv9011793;
+	Sat, 21 May 2005 20:55:46 -0700
+Date: Sat, 21 May 2005 20:55:46 -0700
+Message-ID: <200505220355.j4M3tkv9011793@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Scientific Programmer (onsite), United States, Maryland, Bethesda
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2646
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 21, 2005
+
+Job title: Scientific Programmer
+
+Company name: Digicon Corporation
+
+Location: United States, Maryland, Bethesda
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Digicon Corporation is searching for a Scientific Programmer to provide
+programming support for scientists at the National Human Genome Research
+Institute (NGHRI), part of the National Institutes of Health (NIH).
+
+Duties of the position include the development of custom interfaces to
+analysis tools, design and development of new databases and scientific
+software, and the implmentation of third-party software for biological
+analysis.
+
+
+Required skills:
+To be qualified for this position, we ask that you have at least 3 years of
+programming experience with a heavy emphasis on Perl and CGI, as well as
+experience with relational database development. You should have solid
+knowledge of SQL and HTML, and have experience developing and deploying
+applications on a Linux platform.
+
+
+Desired skills:
+Programming support on bioinformatics and genomics projects is preferred as
+is familiarity with bioinformatics databases and tools to include the UCSC
+genome browser, BLAST, UniGene, Entrez, etc. Also important is experience
+with object-oriented programming, Unix shell scripting, and version control
+software (e.g. cvs).
+
+
+URL for more information: http://www.digicon.com/
+
+Contact information at:
+http://jobs.perl.org/job/2646#contact
+
+

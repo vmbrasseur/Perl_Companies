@@ -1,0 +1,111 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2152
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 32005 invoked from network); 9 Dec 2004 07:09:23 -0000
+Received: from x1.develooper.com (63.251.223.170)
+  by lists.develooper.com with SMTP; 9 Dec 2004 07:09:23 -0000
+Received: (qmail 20560 invoked by uid 225); 9 Dec 2004 07:09:23 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 20554 invoked by alias); 9 Dec 2004 07:09:23 -0000
+X-Spam-Status: No, hits=-4.8 required=8.0
+	tests=BAYES_00,HTML_MESSAGE
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.dev) (63.251.223.163)
+  by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 08 Dec 2004 23:09:20 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.dev (8.12.11/8.12.11) with ESMTP id iB979IHX003135
+	for <jobs@perl.org>; Wed, 8 Dec 2004 23:09:18 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id iB979Ilo003133;
+	Wed, 8 Dec 2004 23:09:18 -0800
+Date: Wed, 8 Dec 2004 23:09:18 -0800
+Message-ID: <200412090709.iB979Ilo003133@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Build Engineer- ActiveState (onsite), Canada, BC, Vancouver
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2062
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December  8, 2004
+
+Job title: Build Engineer- ActiveState
+
+Company name: ActiveState- A Division of Sophos
+
+Location: Canada, BC, Vancouver
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: indefinite
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+You like to work with heterogenous systems (from cutting edge to oddball),
+get your kicks from a smoothly running build farm, and obsessively automate
+everything.  You like keeping machines humming, enjoy the challenges of
+heterogeneous networks, and collect idiosyncratic bits of knowledge about
+operating systems as a hobby.
+Along with solid technical skills, you possess the ability to work as
+comfortably and effectively as a team member as you do working alone, eager
+to help and to learn.
+
+
+Required skills:
+-Solid build engineering experience (build systems, makefiles, etc) 
+-Unix shell and Perl scripting experience 
+-Solid experience with SCM tools and environments (prefer Perforce)
+<li>Experience with Solaris, Linux, Windows
+
+
+Desired skills:
+-Knowledge of (or interest in) Windows & Unix packaging mechanisms 
+-Experience of HP-UX & AIX 
+-Experience in configuration management, release management 
+-Python and/or Tcl scripting experience 
+-Knowledge of bug tracking systems, especially Bugzilla
+-Prior experience programming in Perl & C
+-Good understanding of Unix software layout conventions
+-Experience building and testing Windows applications
+-Experience installing/configuring database servers, web servers, LDAP and
+SNMP
+
+
+Contact information:
+ActiveState is the leading provider of tools and services for dynamic
+languages such as Perl, PHP, Python, Tcl and XSLT. The key features of
+dynamic languages: high-level, dynamically typed and open source, make them
+ideally suited to building loosely coupled systems that adapt to changing
+requirements. 
+
+These languages solve real programming challenges, proving themselves both
+in spite of-and thanks to-their independence from corporate platform
+strategies. 
+
+From high-quality language distributions for general purpose scripting; to
+professional development, debugging and deployment tools; to services that
+ensure peace-of-mind and stability of essential systems, ActiveState is
+committed to providing dynamic tools for the dynamic languages powering
+essential projects everywhere, from the birth of the web to tomorrow's
+challenges. 
+
+
+To apply for this position, email your resume in MS Word, HTML or plain
+text format to careers-canada@sophos.com. Please ensure that you include
+the position applied for in the subject line of the email.
+
+

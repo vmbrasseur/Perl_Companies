@@ -1,0 +1,125 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2793
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 5867 invoked from network); 31 May 2005 20:28:11 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 31 May 2005 20:28:11 -0000
+Received: (qmail 6065 invoked by uid 225); 31 May 2005 20:28:11 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 6057 invoked by alias); 31 May 2005 20:28:10 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 31 May 2005 13:28:07 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j4VKS4ZG015574
+	for <jobs@perl.org>; Tue, 31 May 2005 13:28:04 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j4VKS4dW015572;
+	Tue, 31 May 2005 13:28:04 -0700
+Date: Tue, 31 May 2005 13:28:04 -0700
+Message-ID: <200505312028.j4VKS4dW015572@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Perl Developer with Data Warehousing experience needed (onsite), United States, CA, Los Angeles
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2680
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 31, 2005
+
+Job title:
+Perl Developer with Data Warehousing experience needed
+
+Company name: Citysearch
+
+Internal ID: LA Perl J
+
+Location: United States, CA, Los Angeles
+
+Pay rate: Depends on experience
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+This Perl Developer position in on the Business Intelligence team, which is
+part of our Technology group.  We are responsible for developing and
+maintaining the Citysearch click stream and financial data warehouses and
+for collecting, processing, and analysis of the web and advertising
+traffic.  We support and develop everything from the weblogs/ETL process up
+to executive reporting applications.  
+The Business Intelligence team plays a major role in supporting the
+business, analyzing new products, and managing the data processing that
+runs Citysearch.com.
+With such a wide variety of work in our team you are sure to be challenged
+and at the same time learn a lot of new skills.  You will be working
+closely with both product and technology teams, and learning from them in
+the process.
+
+We are looking at both, bright fast starters that know perl and sql and can
+grasp the bigger concepts quickly, as well as seasoned developers who would
+bring their own expertise and ideas to the team.  We have a wide range of
+projects within our team, the complexity of projects and responsibility
+increases with experience.  We believe strongly in cross training and
+developing our team members.
+
+
+Your responsibilities will include, but not be limited to:
+
+- Developing applications for the reporting system, including design, data
+loading scripts and interfaces.
+- Data mining of the data warehouse and web logs using Perl and SQL
+- Developing custom ETL tools, and scripts as required for the data
+warehouse and reporting requests
+- Developing our new data warehouse for both click stream and financial
+system
+
+
+Required skills:
+Programming knowledge:
+- Perl, Perl DBI, OO Perl
+- At least 1 year experience developing in Perl Database Knowledge:
+- At least 1 year experience developing db scripts and applications
+- expert knowledge of SQL, including writing procedures
+- experience with Oracle or SQL Server
+- understanding of relational databases
+General:
+- BS in computer science or equivalent experience
+- OS: comfortable in either Windows or Linux
+- ability to translate business needs to specs
+
+
+Desired skills:
+- ASP, DHTML, Javascript
+- Familiarity with fundamentals of web or financial reporting
+- Knowledge of OLAP reporting tools
+- Familiarity with Apache and IIS
+- Knowledge of Perl sockets
+- admin, mySQL
+- Statistics, financial knowledge
+- data warehousing experience
+- data modeling experience
+
+
+URL for more information: http://citysearch.com/
+
+Contact information at:
+http://jobs.perl.org/job/2680#contact
+
+

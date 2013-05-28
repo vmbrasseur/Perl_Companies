@@ -1,0 +1,122 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10085
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 27354 invoked from network); 23 Apr 2010 07:26:45 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 23 Apr 2010 07:26:45 -0000
+Received: (qmail 20513 invoked by uid 225); 23 Apr 2010 07:26:45 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 20415 invoked by alias); 23 Apr 2010 07:26:45 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS,T_FRT_PROFILE2
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 23 Apr 2010 00:26:40 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 979A72AFD6; Fri, 23 Apr 2010 00:26:37 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20100423072637.979A72AFD6@x3.develooper.com>
+Date: Fri, 23 Apr 2010 00:26:37 -0700 (PDT)
+Subject: Sr. Software QA Engineer (onsite), United States, MA, Cambridge (Boston)
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/12148
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 22, 2010
+
+Job title: Sr. Software QA Engineer
+
+Company name: Riverbed
+
+Internal ID: WH
+
+Location: United States, MA, Cambridge (Boston)
+
+Pay rate: Open
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Length of employment: Perm
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Sr. Software QA Engineer – Cambridge, MA
+
+We're looking for a Sr. Software QA Engineer to develop tests and test
+tools to verify the proper functioning of Riverbed’s Cascade appliance. The
+ideal candidate will have significant experience with networking
+technologies (like TCP/IP, managed switches, routers) as well as software
+development methodologies. 
+
+We believe that delivering a quality product requires an investment in good
+software tools and automation, and we want to hire people who share this
+belief. Riverbed has an excellent quality-oriented engineering environment
+with a high ratio of QA to development engineers.
+
+Responsibilities:
+Create and extend tools to analyze the performance of Riverbed Cascade
+network appliance. 
+Utilize understanding of networks and network protocols, as well as
+programming skills, to analyze TCP/IP network traces to find implementation
+problems, compliance problems, and performance problems with the network
+integration components of the Riverbed Cascade appliance. 
+Develop automated test cases to exercise 3rd party applications and devices
+using application APIs to induce behaviors that exercise the Riverbed
+Cascade appliance functionality. 
+Design and implement test plans to test various features of Riverbed
+Cascade network appliance.
+Requirements:
+Experience writing scripts in Perl or any script language (Python, Ruby,
+PHP, bash, etc) is a plus.
+Must have a solid understanding of TCP/IP protocols.
+Proficient in using traffic generators at both Layer3 and higher
+(Ixia/Smartbits/etc)
+WAN network emulation strong plus
+Must have strong programming and debugging skills.
+Experience working with Linux or FreeBSD on PC-based hardware is strongly
+desired.
+Must have good written communication and documentation skills. 
+B.S. in CS or EE is preferred.
+
+If interested, Email wayne.harris@riverbed.com
+
+
+Required skills:
+QA Engineer   (Browser Based Appliances)
+•	5+ Years QA Experience with Browser Based Appliances 
+•	Unix/LInux
+•	Experience automating test cases in the following languages
+1.	Perl
+2.	Python
+3.	Bash/Shell
+
+•	Ability to understand complex features, break them down into
+logical sub components, design and implement thorough test cases
+•	Modeling Layers 3 through 7 Traffic generation experience with
+Ixia, Smartbits, etc
+•	Web based UI Automation experience using Selenium
+•	Experience using/qualifying/reporting against Netflow/Sflow/IPFix
+•	Success automating test cases in Windows and Internet Explorer
+•	WAN Network Emulation
+•	Designed and Implemented automated test harnesses/frameworks
+
+
+URL for more information: http://www.riverbed.com/
+
+Contact information at:
+http://jobs.perl.org/job/12148#contact
+
+

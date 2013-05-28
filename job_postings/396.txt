@@ -1,0 +1,60 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:396
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 80944 invoked by uid 1016); 18 Apr 2002 05:22:21 -0000
+Date: 18 Apr 2002 05:22:21 -0000
+Message-ID: <20020418052221.80943.qmail@onion.perl.org>
+To: jobs@perl.org
+Subject: Perl script for mail application needed urgent ! (telecommute), Pakistan, Fedrel, Islamabad
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/291
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 17, 2002
+
+Job title:
+Perl script for mail application needed urgent !
+
+Location: Pakistan, Fedrel, Islamabad
+
+Pay rate: 100
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: 3 days
+
+Onsite: no
+
+Description:
+I need a perl script which will  
+
+1 ) retrive  mail messages from any mail server pop3/imap   
+2 ) extract  all the headres info  ( to , bcc, cc etc ) 
+3 ) and save all the headers info  into variables 
+4 ) also decode the attacments	and then save the attached file in a newly
+created directory 
+5 ) your perl script must work on  IIS server 
+6 ) all the varibale must be in asp format ,  you must use perl with asp   
+
+
+7) and i want it  ASAP !  in maximum 3 three days no more than that 
+
+only serious coders contact me 
+ thanks 
+
+
+Required skills: Perl master
+
+Contact information: Suhail_kaleem@hotmail.com
+
+

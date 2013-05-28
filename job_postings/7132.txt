@@ -1,0 +1,139 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7132
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 17214 invoked from network); 18 Oct 2007 02:50:42 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 18 Oct 2007 02:50:42 -0000
+Received: (qmail 22758 invoked by uid 225); 18 Oct 2007 02:50:41 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 22749 invoked by alias); 18 Oct 2007 02:50:41 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 17 Oct 2007 19:50:37 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id A42EF2AFE3; Wed, 17 Oct 2007 19:50:34 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20071018025034.A42EF2AFE3@x3.develooper.com>
+Date: Wed, 17 Oct 2007 19:50:34 -0700 (PDT)
+Subject: Sr. Software Dev Engineer (onsite), United States, CA, Sunnyvale
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/7031
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 17, 2007
+
+Job title: Sr. Software Dev Engineer
+
+Company name: Yahoo
+
+Internal ID: Req ID # 8695
+
+Location: United States, CA, Sunnyvale
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Position: Sr. Software Engineer 
+Location: Sunnyvale, CA 
+
+About Yahoo! 
+The Internet is a big, busy place, and we at Yahoo! are proud to stand out
+in the crowd. As the world’s number one Internet brand, servicing over a
+half billion people, we’re determined to maintain our commitment to
+delivering news, entertainment, information and fun… each and every day. 
+
+In order to maintain our position as one of the world’s most trafficked
+Internet destinations, we’re always on the lookout for people with big
+ideas and big talent to help us provide our visitors with the innovative
+products and services they’ve come to expect from Yahoo!. We’re looking for
+people like you. 
+
+How Big Can You Think? 
+About SDS 
+Strategic Data Solutions (SDS) uses one of the world's largest data sources
+and a consumer-centric data platform to improve Yahoo! products, deliver
+business insights, and enable innovative marketing solutions. 
+Did you know that: 
+• Yahoo! collects over 10 terabytes of click stream behavioral data each
+day (the equivalent of all the information stored in the Library of
+Congress). 
+• Yahoo!'s user data warehouse is the largest in the world--in the order of
+`petabytes.’ 
+• Yahoo! serves half a billion unique users. 
+• Yahoo! is one of Fortune's ''100 Best Companies to Work For.'' 
+• Yahoo! is looking for key hires to leverage all of this data for
+actionable strategies and systems. 
+
+About Product/Project 
+The Data Systems team has been charged with deploying a new business
+systems data pipeline. We will be building and deploying a new instance of
+a low latency, high transaction, high volume operational data store using
+Data Systems Platform components. 
+
+Job Responsibilities 
+We are looking for a talented and motivated software engineer to work on
+the design and implementation of Yahoo! data processing infrastructure.
+Challenges include designing high-performance multi-parallel algorithms and
+building their fault-tolerant implementations that can scale to handle
+petabytes of data, and meet the requirements of various Yahoo! businesses.
+You must be a quick learner, have good communication skills, and be able to
+maintain ownership of large engineering projects throughout their
+lifecycle: architecture/design, implementation, testing, and post-release
+maintenance. 
+
+In this position, you will be responsible for the following: 
+• Build and deploy custom data aggregation processes 
+• Integrate with upstream data systems and downstream data consumers,
+including to other Data System platform infrastructure and business systems
+
+• Collaborate with cross-functional teams for data capture, data
+processing, data aggregation, and data validation. 
+• Interact with business users to understand and implement business
+specific rules. 
+
+
+
+Yahoo! Inc. is an equal opportunity employer. For more information or to
+search all of our openings please visit http://careers.yahoo.com. 
+
+Required skills:
+Minimum Job Qualifications 
+• The candidate must have BS/MS in computer science (or equivalent) 
+• 5+ years of experience in software engineering industry 
+• Strong and proven skills with SQL, relational databases 
+• Strong and proven skills with Perl, C++, Shell Scripting and UNIX. 
+
+
+Desired skills:
+Preferable Job Qualifications 
+
+• Knowledge of Distributed Systems, 
+• Network monitoring & TCP/IP 
+• A good understanding of algorithms, data structures, performance
+optimization techniques and object-oriented programming. 
+• Experience with data processing/ETL tools and exposure to large-scale
+systems development projects strongly preferred. 
+• Knowledge of Data Warehouse technology is a plus. 
+
+URL for more information: http://careers.yahoo.com/
+
+Contact information at:
+http://jobs.perl.org/job/7031#contact
+
+

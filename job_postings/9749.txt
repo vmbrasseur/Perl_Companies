@@ -1,0 +1,96 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9749
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 22696 invoked from network); 8 Jan 2010 17:56:16 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 8 Jan 2010 17:56:16 -0000
+Received: (qmail 22195 invoked by uid 225); 8 Jan 2010 17:56:16 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 22190 invoked by alias); 8 Jan 2010 17:56:15 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 08 Jan 2010 09:56:13 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 87E762AFDE; Fri,  8 Jan 2010 09:56:10 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20100108175610.87E762AFDE@x3.develooper.com>
+Date: Fri,  8 Jan 2010 09:56:10 -0800 (PST)
+Subject: Senior Software Engineer (telecommute), United States, CA, San Ramon
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/11538
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January  8, 2010
+
+Job title: Senior Software Engineer
+
+Company name: Nextrials, Inc
+
+Internal ID: Job 5113
+
+Location: United States, CA, San Ramon
+
+Pay rate: Very Competitive, DOE
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+Nextrials has an immediate opening for a highly-skilled, enthusiastic,
+creative, senior software engineer to join our small, geographically
+dispersed, highly-productive Agile team in a successful San Francisco Bay
+Area software company.	Our award-winning, flagship application, Prism, is
+an Electronic Data Capture (EDC) web application for managing clinical
+research data.	Prism is a robust, full-featured, modular, object-oriented,
+mod_perl application running on Linux against a PostgreSQL database, with
+heavy use of XML technologies including XSLT, XPath and XQuery.  Newer
+tools are typically written in some combination of Java, a dynamic
+language, or Flex.  You will contribute to improvements to Prism and our
+suite of tools, including scalability and performance improvements as well
+as new functionality.  The right candidate is not married to a particular
+language or technology, but is open-minded, uses the best tools for the job
+and has experience working with heterogeneous technologies. This position
+is a full-time telecommute position with 10-15% travel, mostly to the San
+Francisco Bay Area.  Applicants must be located in North America.  For
+details on our company and product, see our website at
+http://www.nextrials.com.
+
+Required skills:
+Skills and experience you must have: at least 5 years working as a
+professional developer in a collaborative team environment; experience
+building multi-tiered web applications; fluency in one or more
+object-oriented programming languages, including object-oriented Perl;
+relational database management experience (PostgreSQL preferred); knowledge
+of Web 2.0 technologies; proficiency writing object-oriented JavaScript;
+strong XML experience (DOM, Schema, XPath, XQuery, XSLT); enthusiasm, the
+ability to learn quickly, and an open mind.
+
+Desired skills:
+Skills and experience that would be nice to have, but are not required:
+experience with enterprise architecture design; Java; Flex; HTML::Mason,
+test-driven development and unit testing; experience improving scalability
+and performance of web applications; experience working in an Agile Scrum
+environment, especially with a dispersed team; knowledge of the EDC or
+eHealth spaces, including CDISC and HL7 standards.
+
+URL for more information: http://www.nextrials.com/
+
+Contact information at:
+http://jobs.perl.org/job/11538#contact
+
+

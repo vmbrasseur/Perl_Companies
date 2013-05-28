@@ -1,0 +1,92 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:610
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 14110 invoked by uid 1016); 14 Oct 2002 05:01:18 -0000
+Date: 14 Oct 2002 05:01:18 -0000
+Message-ID: <20021014050118.14109.qmail@onion.perl.org>
+To: jobs@perl.org
+Subject: Perl/CGI Web Dev - Freelance Job - Bids take till 10/18/02 (telecommute), United States, IL, Chicago
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/492
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 13, 2002
+
+Job title:
+Perl/CGI Web Dev - Freelance Job - Bids take till 10/18/02
+
+Company name: Triad Holding LCC
+
+Location: United States, IL, Chicago
+
+Pay rate: Open
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: 15 Days
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+We are currently in the final stages of developing a web site and have 6
+pages that need to either update or display dynamic data.  We have a
+Database Administrator that will write the scripts to pass the needed data
+to and from the tables.  We need someone to write the display to the web
+site and / or capture data and pass it to the scripts that will update the
+tables.  We would like to be consistent and have the code written in
+Perl/CGI.
+
+One of the trickier aspects will be working with pages that display lists
+that could be thousands of items.  We are looking for someone that can
+suggest efficient methods of doing this.  An example would be a list of all
+members that displays contact information. There may be 3 people on the
+list or 3,000.
+
+We will also like to be able to sort the list so that if I have a large
+list I might only want to see the people that joined recently (or in the
+last month / 2 weeks / etc.). 
+{This could be a simple parameter passed into the stored procedure that
+attaches itself to the query.}
+
+We are developing this project on a Windows 2000 Server, SQL Server 2000,
+ActiveState Perl, and IIS.
+
+
+Required skills:
+Requirements:
+1 – Must be able to provide references.
+2 – Must be able to supply sample of structured code.
+3 – Must have enough experience to take what we give you and run with it. 
+The ability to make suggestions (or improvements) to the overall process.
+4 – Must be available for consultation in the evenings and or weekends (the
+key players have full-time gigs and are working on this project on off
+hours).
+5 – All 6 pages need to be completed in no more than 15 business days.
+6 – Must be able to work within the stated environment.  Familiar with
+Windows, etc.
+7 – Must communicate clearly via Email.  And check Email regularly.
+8 – Won’t mind using Yahoo IM for online conversations, etc.
+9 – Must be able to telecommute.  Meaning, you must be able to work
+remotely and have the resources to get the work accomplished (which
+includes the software).
+10 – Must be W9 eligible.
+
+
+Contact information:
+Traid Holding LLC
+Greg Younger
+Managing Partner
+Email: Greg@mail.MLMBigDog.com
+
+
+

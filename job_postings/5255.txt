@@ -1,0 +1,114 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5255
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 7261 invoked from network); 8 Nov 2006 17:04:45 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 8 Nov 2006 17:04:45 -0000
+Received: (qmail 12780 invoked by uid 225); 8 Nov 2006 17:04:45 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 12769 invoked by alias); 8 Nov 2006 17:04:44 -0000
+X-Spam-Status: No, hits=-2.5 required=8.0
+	tests=ALL_TRUSTED,BAYES_20
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 08 Nov 2006 09:04:40 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 646982AFEA; Wed,  8 Nov 2006 09:04:13 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20061108170413.646982AFEA@x3.develooper.com>
+Date: Wed,  8 Nov 2006 09:04:13 -0800 (PST)
+Subject: Perl/ETL Developer (onsite), United States, CA, Beverly Hills
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4924
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November  8, 2006
+
+Job title: Perl/ETL Developer
+
+Company name: eQuest Solutions
+
+Location: United States, CA, Beverly Hills
+
+Pay rate: Open (DOE)
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: permanent
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+As a result of increased business, a successful leading Internet Company is
+looking for a Perl ETL Backend Systems/Database Developer on/into Oracle to
+join a growing Data Operations team of Perl/Oracle ETL Developers. 
+
+The Sr Perl ETL Systems Developer on Oracle will be responsible for
+developing, enhancing, troubleshooting and maintaining the company’s
+backend ETL applications, in a UNIX (RH Linux) environment, using OO Perl,
+ETL Tools, SQL, PL/SQL, SQL Loader, Oracle and Unix shell scripts.  Company
+is running several instances of Oracle 9i/10g databases on Linux, loading
+100,000’s transactions/day of sensitive and mission critical data into a
+100+ terabyte Data Warehouse. Transaction processing and reporting systems
+are developed in OO Perl, ETL Tools, Unix Shell Scripts, PL/SQL, SQL Loader
+and SQL. Candidate will be responsible for developing and optimizing the
+backend ETL systems for stability, scalability and efficiency.	The
+developer will also be responsible for designing and optimizing database
+schemas, queries, and complex stored procedures under Oracle 9i/10g,
+locating and fixing bugs in the existing Perl, SQL and PL/SQL code base in
+a timely manner, creating and modifying Unix shell scripts. Candidate will
+provide technical assistance by responding to inquires from users regarding
+errors, problems or questions about programs, ensure availability of data
+in a timely manner, consult with users to design and code reports/programs
+to meet their needs.  
+Developer will report to the Database Manager.
+
+Company consistently works with bleeding edge technology in order to
+maintain the highest performing database environment.
+
+Company offers stock options, matching 401(k), Medical Insurance, Dental
+Insurance, Vision Insurance, Life Insurance, Long Term Disability, Employee
+Assistance Program, Supplemental Insurance, Paid Holidays and Sick leave
+
+
+Required skills:
+REQUIREMENTS
+MUST HAVE 3-4+ years developing large high-volume (50-100K
+transactions/day) backend ETL Systems in OO Perl 
+Experience with SQL, SQL Plus, SQL Loader, PL/SQL and Unix shell scripts on
+Oracle
+MUST HAVE OO Perl and Unix Shell Scripting experience, preferably on Linux
+Ability to understand and create very complex SQL statements
+Experience applying optimization methods, including Oracle Hints, to SQL
+statements
+Must have experience creating stored procedures and triggers with PL/SQL
+Should have experience with multiple storage techniques (flat files, web
+log, DB Berkeley, etc.)
+Ability to extract unique records from Oracle using SQL and PL/SQL
+Ability to define and document meta data and rules for ETL 
+Plus:
+Any ETL Tool (a MUST HAVE) (i.e. DataStage, Cognos, Ab Initio, Informatica,
+Business Objects Data Integrator, Oracle Warehouse Builder)
+DBA experience is a plus, but not necessary.
+Experience in Database logical and physical design is a plus, but not
+necessary.
+Experience with Netezza
+
+
+Contact information at:
+http://jobs.perl.org/job/4924#contact
+
+

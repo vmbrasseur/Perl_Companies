@@ -1,0 +1,71 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9079
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 21430 invoked from network); 21 Mar 2009 21:19:15 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 21 Mar 2009 21:19:15 -0000
+Received: (qmail 7355 invoked by uid 225); 21 Mar 2009 21:19:15 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 7351 invoked by alias); 21 Mar 2009 21:19:15 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 21 Mar 2009 14:19:12 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id B349A2AFE4; Sat, 21 Mar 2009 14:19:08 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20090321211908.B349A2AFE4@x3.develooper.com>
+Date: Sat, 21 Mar 2009 14:19:08 -0700 (PDT)
+Subject: regex queries on large mysql dbs using perl (telecommute), United States, IL, Telecommute
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/10378
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 20, 2009
+
+Job title:
+regex queries on large mysql dbs using perl
+
+Company name: Total Care Rewards
+
+Internal ID: 20090320
+
+Location: United States, IL, Telecommute
+
+Pay rate: USD - negotiable
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: indefinite
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+We need to access large mysql db data to simulate natural language
+processing user experience using regex expressions. Experience in creating
+regex objects and working with serialized binary database objects - a huge
+plus. For a possible use - see totalcarenetwork.com
+
+Required skills: as above
+
+Desired skills: PERL, DBI, REGEX
+
+URL for more information: http://totalcarerewards.com/
+
+Contact information at:
+http://jobs.perl.org/job/10378#contact
+
+

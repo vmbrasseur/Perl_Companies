@@ -1,0 +1,98 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12002
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 19546 invoked from network); 6 Jan 2012 03:28:53 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 6 Jan 2012 03:28:53 -0000
+Received: (qmail 11891 invoked by uid 225); 6 Jan 2012 03:28:53 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11887 invoked by alias); 6 Jan 2012 03:28:53 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 05 Jan 2012 19:28:50 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 9B7732AFDE; Thu,  5 Jan 2012 19:28:47 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 5 Jan 2012 19:28:47 -0800
+Message-ID: <20120106032847.9B7732AFDE@x3.develooper.com>
+Subject: Core Infrastructure Strat-(New York, NY) (onsite), New York, NY
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15350
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January  5, 2012
+
+Job title: Core Infrastructure Strat-(New York, NY)
+
+Company name: Goldman Sachs
+
+Location: New York, NY
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+GOLDMAN SACHS FIRM OVERVIEW 
+The Goldman Sachs Group, Inc. is a leading global investment banking,
+securities and investment management firm that provides a wide range of
+financial services to a substantial and diversified client base that
+includes corporations, financial institutions, governments and
+high-net-worth individuals. Founded in 1869, the firm is headquartered in
+New York and maintains offices in London, Frankfurt, Tokyo, Hong Kong and
+other major financial centers around the world. 
+
+DIVISIONAL OVERVIEW 
+Goldman Sachs’ Strats business unit is a world leader in developing
+quantitative and technological techniques to solve complex business
+problems. Working side by side with the firm’s trading, sales, banking and
+investment management professionals, members of the business unit use their
+mathematical and scientific training to create financial products, advise
+clients on transactions, measure risk and identify market opportunities.
+
+Core Infrastructure Strats is a global team (NYC/LDN/TKO) whose primary
+focus is revenue-generating activities centered on analytics and
+technology.  The team is responsible for the Management and design of 3
+core technologies for the firm’s risk management and pricing system:
+-	The build, deployment and runtime environment for many millions of
+lines of C++ / java / python / perl / c#
+-	A schedule based cross platform distributed computing system
+-	An on demand cross platform distributed computing system
+
+Required skills:
+Required Skills:
+-	Highly knowledgeable in Perl or Python, ideally both
+-	Deep theoretical and practical OS skills, in either Unix or Windows
+
+-	Knowledgeable of many other areas of technology (networking,
+hardware, etc)
+
+Desired skills:
+Desired Skills:
+-	Experience at a top tier firm (financial institutions, tech firms)
+-	Some systems administration experience
+-	BSc / MSc / PhD in relevant field (Comp Sci, Maths, Physics)
+-	1-5 years experience in a Software development (Perl preferred)
+role
+-	Highly entrepreneurial and motivated
+-	Good communication & presentation skills
+-	Highly organized
+
+Goldman Sachs, an equal opportunity employer, does not discriminate in
+employment on any basis that is prohibited by federal, state or local laws.
+
+Contact information at:
+http://jobs.perl.org/job/15350#contact

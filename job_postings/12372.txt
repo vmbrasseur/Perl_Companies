@@ -1,0 +1,94 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12372
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 6420 invoked from network); 27 Apr 2012 10:10:59 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 27 Apr 2012 10:10:59 -0000
+Received: (qmail 8519 invoked by uid 225); 27 Apr 2012 10:10:58 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 8515 invoked by alias); 27 Apr 2012 10:10:58 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 27 Apr 2012 03:10:54 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 87A212AFE1; Fri, 27 Apr 2012 03:10:50 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 27 Apr 2012 03:10:50 -0700
+Message-ID: <20120427101050.87A212AFE1@x3.develooper.com>
+Subject: Perl Web Engineer, Columbia, Maryland
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15918
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 27, 2012
+
+Job title: Perl Web Engineer
+
+Company name: OmniTI
+
+Location: Columbia, Maryland
+
+Pay rate: Depends on experience
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Description:
+The OmniTI Web Engineering team works within a wide variety of projects,
+solving existing problems or enabling new business objectives, empowered to
+use (or build) the tools that ensure security and scalability, while not
+sacrificing time to deployment. We believe the best technology experts are
+also software generalists; able to build your own environments, and
+unafraid to jump up and down the stack to solve the problems that come our
+way.
+
+ABOUT THE JOB:
+- Building new web functionality, sometimes from scratch, other times
+augmenting what's there.
+- Finding website bottlenecks and improving website performance, both up
+and down the stack.
+- Building back-end systems, internal support, and business communications
+tools
+- Scaling data and web systems, and automating as much as possible.
+- Improving deployment, monitoring, and operability in everything you do.
+
+We are a company of engineers, and we are empowered and expected to be
+ourselves, sharing our ideas and figuring out what we can each do to keep
+OmniTI improving.
+
+Required skills:
+YOU SHOULD HAVE:
+- 3-5 years experience programming in Perl with a programming language
+agnostic mindset.
+- Familiarity with DHTML/JavaScript Programming.
+- Good understanding of Web Standards (HTML, XML, CSS).
+- Working knowledge of SQL (Oracle, Postgres or MySQL).
+- Experience working in Solaris, Linux, BSD or another UNIX-like
+environment.
+- Intelligence with a sense of humor.
+- Exposure to Version Control Systems (git or Subversion).
+
+Desired skills:
+BONUS POINTS FOR:
+- Working knowledge of Apache Web Server.
+- Working knowledge of messaging systems (AMQP, Rabbit, Kafka).
+- Experience building web applications from distributed data sources.
+- Experience developing Open Source code, in public (github, cpan,
+sourceforge).
+
+Website for more information: http://omniti.com
+
+Contact information at:
+http://jobs.perl.org/job/15918#contact

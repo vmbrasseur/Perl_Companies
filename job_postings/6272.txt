@@ -1,0 +1,95 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6272
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 427 invoked from network); 11 May 2007 00:14:47 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 11 May 2007 00:14:47 -0000
+Received: (qmail 5379 invoked by uid 225); 11 May 2007 00:14:46 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 5374 invoked by alias); 11 May 2007 00:14:46 -0000
+X-Spam-Status: No, hits=-2.6 required=8.0
+	tests=BAYES_00,DKIM_POLICY_SIGNSOME,DK_POLICY_SIGNSOME,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 10 May 2007 17:14:11 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 62D9C2AFD8; Thu, 10 May 2007 17:14:08 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070511001408.62D9C2AFD8@x3.develooper.com>
+Date: Thu, 10 May 2007 17:14:08 -0700 (PDT)
+Subject: Senior Web Application Developer (Perl) - Yahoo! (onsite), United States, CA, Sunnyvale
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5776
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 10, 2007
+
+Job title:
+Senior Web Application Developer (Perl) - Yahoo!
+
+Company name: Yahoo!
+
+Internal ID: RX1000020035
+
+Location: United States, CA, Sunnyvale
+
+Pay rate: 90K-120K DOE
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+This is an exciting opportunity within the Yahoo! Developer Tools
+organization.
+
+We are looking for a senior perl developer tools with LAMP skills to be
+responsible for new feature development and performance/scalability
+enhancements in several key web applications.
+
+You will be working on some of the most widely used internal applications
+at Yahoo!, based on open source technologies like TWiki, MySQL, Apache, DBI
+and Perl. The features you build can be used by thousands of engineers
+every day.
+
+Join an elite group of perl hackers who build  high-visibility applications
+that power Yahoo! from the inside out.
+
+Required skills:
+* Experience building and/or extending large perl applications
+* Perl DBI
+* Perl CGI and/or mod_perl
+* familiarity with unit testing
+* familiarity with the Apache web server
+* Unix/Linux expertise
+* Good communication and planning skills
+
+
+Desired skills:
+* cgi to mod_perl conversions
+* relational object mapper like Rose::DB::Object or Class::DBI
+* Template Toolkit (TT)
+* Javascript/AJAX a plus
+* PHP a plus
+
+URL for more information:
+http://hotjobs.yahoo.com/jobseeker/jobsearch/job_detail.html?job_id=JJANNKR
+IL
+
+Contact information at:
+http://jobs.perl.org/job/5776#contact
+
+

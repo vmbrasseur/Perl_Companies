@@ -1,0 +1,125 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10233
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 23226 invoked from network); 18 Jun 2010 16:23:06 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 18 Jun 2010 16:23:06 -0000
+Received: (qmail 8501 invoked by uid 225); 18 Jun 2010 16:23:06 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 8495 invoked by alias); 18 Jun 2010 16:23:05 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 18 Jun 2010 09:23:04 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id B449B2AFE1; Fri, 18 Jun 2010 09:23:00 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20100618162300.B449B2AFE1@x3.develooper.com>
+Date: Fri, 18 Jun 2010 09:23:00 -0700 (PDT)
+Subject: Senior Software Engineer (Webservices, Catalyst, Perl) for Cable MSO (onsite), Germany, Berlin, Berlin
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5871
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 18, 2010
+
+Job title:
+Senior Software Engineer (Webservices, Catalyst, Perl) for Cable MSO
+
+Company name: Tele Columbus
+
+Location: Germany, Berlin, Berlin
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Die Tele Columbus Gruppe zählt zu den größten Kabelnetzbetreibern in
+Deutschland und ist seit 1985 als Multimedia- und
+Telekommunikationsanbieter erfolgreich. Rund 2,5 Millionen angeschlossene
+Haushalte werden von Tele Columbus mit dem TV-Signal und immer mehr Kunden
+mit digitalen Programmpaketen, Internet-Zugang und Telefonanschluss über
+das leistungsstarke Breitbandkabel versorgt. Als nationaler Anbieter mit
+regionalem Fokus und als Partner der Wohnungswirtschaft ist die Gruppe im
+gesamten Kerngebiet Berlin, Brandenburg, Sachsen, Sachsen-Anhalt und
+Thüringen sowie auch in zahlreichen westdeutschen Schwerpunktregionen
+präsent.
+
+Die Tele Columbus Kundenservice GmbH, ein Unternehmen der Tele Columbus
+Gruppe, ist der zentrale Dienstleister des Konzerns für die Breitband-,
+Internet- und Telefondienste.
+
+Zur Verstärkung unseres Bereiches IP-Engineering suchen wir ab sofort einen
+ 
+
+  System-Entwickler (Webservices, Perl) (w/m)
+
+für unseren Standort Berlin.
+
+Die Position:
+
+* Weiterentwicklung und Pflege der bestehenden Service-Provider-Plattform
+für IP-basierte Dienste auf Breitbandkabelnetzen
+* Plattform-Erweiterungen im Hinblick auf neue Dienste, Technologien oder
+Partner
+* Technische Schwerpunkte:
+      o Programmierung in Perl
+      o Webbasierte User/Admin Interfaces
+      o Standardisierte Schnittstellen über Webservices (SOAP)
+      o Datenhaltung in zentralen Backends (MySQL-DB, LDAP)
+      o Management technischer Geräte mittels SNMP
+* Dokumentation Ihrer Arbeit und der Plattform
+
+Required skills:
+* Erfolgreich abgeschlossenes Studium der Informatik, Wirtschaftsinformatik
+oder vergleichbare Ausbildung
+* Grundlagenkenntnisse Software Engineering
+* Mehrjährige Erfahrung in professioneller Software-Entwicklung im Team
+* Exzellente Kenntnisse und Erfahrungen in objektorientierter
+Perl-Programmierung
+* Sehr gute Kenntnisse in der Implementierung von Webservices (SOAP, WSDL)
+* Sehr gute Kenntnisse in Datenbankmodellierung und -zugriff (SQL) sowie
+Umgang mit Verzeichnisdiensten (LDAP)
+* Sehr gute Kenntnisse in aktuellen Technologien für Webanwendungen (z.B.
+AJAX)
+* Erfahrung in Entwurf, Realisierung und Prüfung umfassender
+Sicherheitsmechanismen im webbasierten Applikationen
+* Gute Kenntnisse in TCP/IP und SNMP Standards
+* Erfahrung mit Software-Versionsverwaltung (z.B. SVN)
+* Bereitschaft zur Einarbeitung in bestehende komplexe Plattformen
+* Sicherer Umgang mit Linux
+* Teamfähigkeit, Kommunikationsstärke, effektives Stressmanagement
+* Eigenständige Arbeitsweise und hohe Einsatzbereitschaft
+* Fachspezifische Englisch-Kenntnisse in Wort und Schrift
+
+Desired skills:
+* Erfahrungen mit dem Catalyst-Framework (Perl)
+* Kenntnisse und Programmiererfahrungen in anderen gängigen
+Programmiersprachen (PHP, Java, C, C++ etc.)
+* Kenntnisse und Erfahrungen bzgl. IP-basierter Dienste in der
+Telekommunikationsbranche
+* Grundkenntnisse Kabelmodem- und VoIP-Technologien, speziell EuroDOCSIS
+und EuroPacketCable
+* Aktive Mitarbeit in einem Open-Source-Projekt von Vorteil
+
+URL for more information:
+http://www.unternehmen.telecolumbus.de/index.php?id=69
+
+Contact information at:
+http://jobs.perl.org/job/5871#contact
+
+

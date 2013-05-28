@@ -1,0 +1,96 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7188
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 29519 invoked from network); 26 Oct 2007 14:11:12 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 26 Oct 2007 14:11:12 -0000
+Received: (qmail 10018 invoked by uid 225); 26 Oct 2007 14:11:12 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 10011 invoked by alias); 26 Oct 2007 14:11:11 -0000
+X-Spam-Status: No, hits=-2.6 required=8.0
+	tests=BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 26 Oct 2007 07:10:55 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id CFED92AFD8; Fri, 26 Oct 2007 07:10:51 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20071026141051.CFED92AFD8@x3.develooper.com>
+Date: Fri, 26 Oct 2007 07:10:51 -0700 (PDT)
+Subject: OOP Perl/DBi programmer (onsite), Denmark, Copenhagen
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/7133
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 26, 2007
+
+Job title: OOP Perl/DBi programmer
+
+Company name: Sketenty a/s
+
+Location: Denmark, Copenhagen
+
+Pay rate: DKK 550-600
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 12 month
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+
+Det drejer sig om færdiggørelse af en intern web-baseret
+forskningsapplikation med en database backend.
+
+
+Det er vigtigt at de har professionel erfaring med objektorienteret Perl.
+
+ 
+
+Vores primære udviklingsplatform ser således ud:
+
+* Catalyst (http://www.catalystframework.org/)
+
+* DBIx::Class (http://search.cpan.org/~ash/DBIx-Class-0.08007/)
+
+* Mason (http://masonhq.com/)
+
+Vi bruger PostgreSQL som database backend.
+
+ 
+
+Hvis fremragende Perl-kompetancer kan kombineres med erfaring i dele af
+nedenstående vil det være en fordel:
+
+* PosgreSQL
+
+* CSS and xhtml
+
+* Java script and AJAX.
+
+ 
+
+opstart er pr. 1. Nov.
+
+
+Required skills: se above
+
+Desired skills: se above
+
+Contact information at:
+http://jobs.perl.org/job/7133#contact
+
+

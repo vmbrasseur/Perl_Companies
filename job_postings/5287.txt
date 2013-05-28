@@ -1,0 +1,109 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5287
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 9717 invoked from network); 14 Nov 2006 16:17:13 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 14 Nov 2006 16:17:13 -0000
+Received: (qmail 16298 invoked by uid 225); 14 Nov 2006 16:17:13 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 16282 invoked by alias); 14 Nov 2006 16:17:11 -0000
+X-Spam-Status: No, hits=-1.8 required=8.0
+	tests=ALL_TRUSTED
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 14 Nov 2006 08:17:09 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 8D70B2AFE6; Tue, 14 Nov 2006 08:17:04 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20061114161704.8D70B2AFE6@x3.develooper.com>
+Date: Tue, 14 Nov 2006 08:17:04 -0800 (PST)
+Subject: Perl Team Lead -- Sr Software Engineer (onsite), United States, California, Santa Clara
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4951
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 13, 2006
+
+Job title: Perl Team Lead -- Sr Software Engineer
+
+Company name: Infoblox
+
+Internal ID: catomaso-infoblox
+
+Location: United States, California, Santa Clara
+
+Pay rate: highly competitive
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Infoblox is seeking a well rounded Senior Software Engineer to join our
+team. The successful candidate must have a strong sense of accountability
+and a "can-do" attitude with willingness to take the necessary steps to
+deliver great results. It is critical the candidate be accustomed to
+working with deadlines, work independently with little direction, capable
+of creative problem solving, interacts well with team members and documents
+their work and code well and habitually.
+
+Required skills:
+    *  Senior developer with 5 or more years of experience.
+    * Background and experience working across the C / scripted language
+boundary.
+	  o Prior experience extending perl by linking against C libraries
+with XS highly desirable but experience extending other scripting languages
+such as python or ruby with C could do as well
+    * 2+ yrs experience writing production quality perl and a desire to
+write more of it
+    * 2+ yrs experience with C in a Unix environment, including basic Unix
+shells, make, version control, compilers, interpreters.
+    * Team lead skills:
+	  o 3+ years experience leading small development teams
+	  o Capable of converting customer requirements into software
+design into production code.
+    * Familiarity with some of the following is highly desirable:
+databases, embedded, relational, object-oriented; distributed computing,
+network programming, IPC; grid computing, cluster computing.
+    * Excellent English written and verbal communication skills are
+required, as this person will be working with several cross-function teams.
+
+
+    * Full software development life-cycle experience, with a proven track
+record of shipping software.
+    * Flexible and has the ability to absorb new technologies quickly.
+    * Results oriented, product focused with excellent attention to detail
+and quality.
+
+
+Desired skills:
+Responsibilities:
+ 
+
+    * Design, develop, document and maintain the public API that forms the
+basis of our integration strategy
+    * Focus primarily on management software, smart upgrades, protocol
+technologies
+    * Participate in the diagnosis and debugging of defects in new and
+existing products
+
+
+URL for more information: http://infoblox.com/
+
+Contact information at:
+http://jobs.perl.org/job/4951#contact
+
+

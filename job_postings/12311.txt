@@ -1,0 +1,116 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12311
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 6155 invoked from network); 7 Apr 2012 15:04:40 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 7 Apr 2012 15:04:40 -0000
+Received: (qmail 3801 invoked by uid 225); 7 Apr 2012 15:04:39 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 3797 invoked by alias); 7 Apr 2012 15:04:39 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 07 Apr 2012 08:04:36 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id B4AC42AFCB; Sat,  7 Apr 2012 08:04:32 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 7 Apr 2012 08:04:32 -0700
+Message-ID: <20120407150432.B4AC42AFCB@x3.develooper.com>
+Subject: Perl Software Developer (onsite), Cambridge, MA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15802
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April  7, 2012
+
+Job title: Perl Software Developer
+
+Company name: CIDC
+
+Location: Cambridge, MA
+
+Pay rate: DOE
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+If you want the official HR-approved blurb, it's below.  I'm giving you a
+less formal take first.
+
+The primary duty of this team is to support and enhance the affiliate
+advertising software systems.  We work with an excellent, highly clueful
+business representative who knows the ins and outs of the business side of
+affiliate advertising and referral tracking.  We have a project owner and a
+management team that shield us from a great deal of business BS so we can
+focus on our work -- but we have adopted Scrum as a methodology, so you
+will be expected to participate in planning and you will be held
+accountable for your commitments and for the quality of your work.  
+
+We have a few interesting new projects coming up, and we're also looking at
+writing better test suites on some older software so that we can refactor
+it.  There's a lot of interesting stuff coming up for sure.
+
+Do note that this is an on-site job in Cambridge, MA.  
+
+And now, the official job description:
+
+Duties and Responsibilities
+ 
+This position will contribute to the development of critical applications
+for player acquisition and retention. This position focuses mainly on the
+back end of our web applications but is involved in the entire stack. This
+position is on a team using an Agile development approach, where you will
+work closely with a Product Owner, and software engineering tasks are
+broken out and assigned by the members of the team. The team participates
+in regular reviews with stakeholders and is involved in the complete
+software development life.
+ 
+Responsibilities include:
+Developing new features and maintaining existing functionality on a variety
+of Perl web applications, both internal and customer facing
+Writing unit and integration tests, both front and back-end
+Participating in story-boarding, planning software development tasks and
+estimating work
+Maintaining system frameworks, configuration tools, and installation
+utilities to ensure stability and to improve release and distribution
+Participate in research, technical discussions and prototype development
+experiments
+The bulk of the work for this position is in Perl, with some SQL, HTML and
+JavaScript depending on your role and skills. We will consider skilled
+developers with experience doing similar work in another dynamic language
+with an interest in learning Perl.
+
+Required skills:
+Developing web applications involving Perl, Apache and Database tools in a
+Linux environment
+Object-oriented problem decomposition and programming, preferably using
+Moose
+A proven self starter that is standards and best practices driven
+Test-driven development
+Solid analytical and problem-solving skills
+Effective communication and organizational skills
+
+Desired skills:
+Experience with SQL a plus
+Experience with HTML and JavaScript a plus
+Linux shell scripting or system administration experience a plus
+Knowledge of  internationalization and localization a plus
+
+Website for more information: http://jobvite.com/m?3FHmifwK
+
+Contact information at:
+http://jobs.perl.org/job/15802#contact

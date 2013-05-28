@@ -1,0 +1,97 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8551
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 22223 invoked from network); 14 Aug 2008 22:15:34 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 14 Aug 2008 22:15:34 -0000
+Received: (qmail 18007 invoked by uid 225); 14 Aug 2008 22:15:34 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 18003 invoked by alias); 14 Aug 2008 22:15:33 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 14 Aug 2008 15:15:30 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 7BB8C2AFE2; Thu, 14 Aug 2008 15:15:26 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080814221526.7BB8C2AFE2@x3.develooper.com>
+Date: Thu, 14 Aug 2008 15:15:26 -0700 (PDT)
+Subject: Mid level Mod_perl/DBIx::Class Systems Architect (onsite), United Kingdom, London, Southwark
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/9422
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 13, 2008
+
+Job title:
+Mid level Mod_perl/DBIx::Class Systems Architect
+
+Company name: Slando
+
+Location: United Kingdom, London, Southwark
+
+Pay rate: £35-40k per annum
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are looking for an experienced mod_perl Developer who is looking to move
+up to the level of Systems Architect/guru.. 
+
+Day to day you will work directly with the Head of Technology and our
+Senior Systems Architect, designing and developing the core backend web
+infrastructure. This role carries a large amount of responsibility, and
+candidates will be expected to be able to communicate their ideas
+effectively to the technical team. 
+
+Our working environment is a high load, enterprise level Linux / Apache /
+MySQL / mod_perl platform. Slando is undergoing a major overhaul of its
+core systems, all with an emphasis on scalability and reliability. Stage
+one is nearing completion, but there is much still to do.
+
+For this challenging role you will already be a competent commercial Mod
+Perl developer, with several years experience of MySQL database
+administration & Design. Candidates should have experience developing
+large, structured, object-oriented Perl applications within a team,
+preferably working with large, varied datasets within MySQL (or similar). 
+
+Good communication skills as well as technical ability are essential for
+this role, as is fluency in English, as you will be working with our remote
+development team in the Ukraine, as well as our IT team in the London
+office. This role doesn’t involve people management, but the successful
+candidate will be expected to mentor the junior members of the team on all
+things technical.
+
+This role is based in our London Office.
+
+Required skills:
+Fluent English, Perl, mod_perl, Apache, Testing,  DBIx::Class (or similar),
+ HTML::Mason (or Template::Toolkit),  HTML (strong knowledge of W3C
+standards),  Basic CSS,  JavaScript,  MySQL,  Linux (Red Hat) sysadmin, 
+Strong understanding of how e-commerce websites work,  Strong Requirements
+Analysis & design.
+
+Desired skills:
+Fluent Russian,  CPAN Author,  AJAX (Prototype.js or similar)
+
+URL for more information: http://www.slando.com/
+
+Contact information at:
+http://jobs.perl.org/job/9422#contact
+
+

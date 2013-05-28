@@ -1,0 +1,62 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12
+Return-Path: <keith.hansen@usa.net>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 25520 invoked from network); 1 Apr 2001 10:10:02 -0000
+Received: from femail13.sdc1.sfba.home.com (24.0.95.140)
+  by tmtowtdi.perl.org with SMTP; 1 Apr 2001 10:10:02 -0000
+Received: from C1352653B ([65.4.84.203]) by femail13.sdc1.sfba.home.com
+          (InterMail vM.4.01.03.20 201-229-121-120-20010223) with ESMTP
+          id <20010401100957.XSIM14080.femail13.sdc1.sfba.home.com@C1352653B>
+          for <jobs@perl.org>; Sun, 1 Apr 2001 03:09:57 -0700
+Reply-To: <keith.hansen@usa.net>
+To: <jobs@perl.org>
+Date: Sun, 1 Apr 2001 03:08:43 -0700
+Message-ID: <009701c0ba93$bbb4efd0$cb540441@C1352653B>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook CWS, Build 9.0.2416 (9.0.2911.0)
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+Importance: Normal
+Subject: Offered: Perl LWP Consulting.
+Approved: news@nntp.perl.org
+From: keith.hansen@usa.net ("Keith Hansen")
+
+Perl Mongers,
+Would anyone in the community be interested in consulting for a limited
+scope project for a day or two.
+The project is for a well known Corporation that would look great on any one
+of our resumes.
+
+The technical objectives are fairly straight forward:
+
+	1) Connect to a fixed URI to pickup an authentication cookie.
+	2) Assemble a second URI with fields derived from an Oracle table.
+	3) Submit the second URI (using the cookie from step 1) to a static HTTP
+server.
+	4) Query the static HTTP session id (returned in step 3) for status
+feedback of request.
+
+	Misc. Details:
+	- The environment is Solaris and Oracle Web Application Server (and maybe
+Apache.)
+	- The wrapping logic is not needed. Only need the specific routines for the
+Connect, Assemble, Submit, and Query.
+
+If you are interested in more information and are well versed in the LWP
+module of perl, please reply right away.  This is an immediate need.
+I look forward to hearing from you.
+Regards,
+
+Keith Hansen.
+
+
+
+

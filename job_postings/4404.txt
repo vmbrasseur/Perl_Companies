@@ -1,0 +1,96 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4404
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13296 invoked from network); 28 May 2006 15:09:47 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 28 May 2006 15:09:47 -0000
+Received: (qmail 24390 invoked by uid 225); 28 May 2006 15:09:46 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 24383 invoked by alias); 28 May 2006 15:09:46 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 28 May 2006 08:09:16 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 7421C2AFC2; Sun, 28 May 2006 08:09:12 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060528150912.7421C2AFC2@x3.develooper.com>
+Date: Sun, 28 May 2006 08:09:12 -0700 (PDT)
+Subject: Perl Contractor (various) (telecommute)
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4157
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 28, 2006
+
+Job title: Perl Contractor (various)
+
+Company name: Phase N
+
+Pay rate: Various
+
+Travel: 0%
+
+Length of employment: various
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+We are looking for people who are interested in small to medium sized
+chunks of consulting work.
+
+This aren't full-time long-term, they represent various work that is
+currently falling between the crack or isn't being done because the current
+staff are overworked.
+
+We aren't ready to hire a full timer yet, but we need people looking for
+either some night-weekend work to supplement their income, or people
+willing to do a couple of days work here and there, decent coders who are
+still at uni, and so on.
+
+Rates vary, but are mostly at good hourly rates, although because the work
+originates in Australian dollars, people in high-price currencies such as
+the UK may not see them as good as someone in Australia or another
+lower-currency country.
+
+As well as the immediate work, we'd also like to collect names of people
+interested in this sort of thing in the future as additional work comes up.
+
+Required skills:
+Perl, obviously. The items of work immediately to hand that need doing
+require 1) Template Toolkit, 2) Some light XML, FTP, DBI and 3) POE 4)
+LWP/WebScraping/Exceptions
+
+Absolutely every piece of work we possibly can is built in the form of
+CPAN-compatible distributions, so if you are a CPAN author you should feel
+absolutely at home. While the POD/test standards might be a little more lax
+than CPAN would be, that varies.
+
+Projects live in structured self-contained SVN repositories that generally
+can auto-release once you are done.
+
+
+Desired skills:
+You probably need to be able to issue us invoices for the work, in
+compliance with your local tax regulations.
+
+If in Australia, this means you probably need an ABN.
+
+URL for more information: http://www.phase-n.com/
+
+Contact information at:
+http://jobs.perl.org/job/4157#contact
+
+

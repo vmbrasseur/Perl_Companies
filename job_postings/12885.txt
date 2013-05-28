@@ -1,0 +1,76 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12885
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28926 invoked from network); 6 Nov 2012 01:36:59 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 6 Nov 2012 01:36:59 -0000
+Received: (qmail 29967 invoked by uid 225); 6 Nov 2012 01:36:59 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 29963 invoked by alias); 6 Nov 2012 01:36:59 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 05 Nov 2012 17:36:56 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 15C972AFCE; Mon,  5 Nov 2012 17:36:45 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 5 Nov 2012 17:36:44 -0800
+Message-ID: <20121106013645.15C972AFCE@x3.develooper.com>
+Subject: Big Data Developer (onsite), Chicago (telecommute possible)
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16676
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November  5, 2012
+
+Job title: Big Data Developer
+
+Company name: Blosm Inc.
+
+Internal ID: blosm_bdd1
+
+Location: Chicago (telecommute possible)
+
+Pay rate: $70K-$120K/year
+
+Terms of employment: Salaried employee
+
+Length of employment: indefinite
+
+Hours: Flexible
+
+Onsite: yes
+
+Description:
+The mission for the Unix Systems Engineer / Big Data Developer is to
+perform hands-on development for one of the core products, Blosm. An
+effective Unix Systems Developer / Engineer will collaborate well with the
+established engineering team, be forward looking to help plan for future
+issues, and have a customer first mentality and a persistent desire to help
+our customers succeed using our products. A desire to learn and a passion
+for solving problems are a must.
+
+Required skills:
+* Expert Perl developer with experience interfacing C/C++ code. 
+ * Experience working with "big data" (we have projects processing many
+tera bytes of data every day).
+ * Linux
+ * Bash scripting
+ * IPC Programming: Sockets, Pipes, etc.
+
+Desired skills: Hadoop, Python, Java, C/C++, web-crawling
+
+Website for more information: http://www.thanxmedia.com
+
+Contact information at:
+http://jobs.perl.org/job/16676#contact

@@ -1,0 +1,76 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:855
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 23991 invoked by uid 1016); 13 Apr 2003 08:05:47 -0000
+Date: 13 Apr 2003 08:05:47 -0000
+Message-ID: <20030413080547.23990.qmail@onion.perl.org>
+To: jobs@perl.org
+Subject: Custom software project, PERL. (telecommute), U.S., California, Los Angeles
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/740
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 12, 2003
+
+Job title: Custom software project, PERL.
+
+Location: U.S., California, Los Angeles
+
+Pay rate: negotiable
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: Project to project
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+I am looking for a perl programmer, preferably in the Los Angeles area, to
+write a custom inventory management package.  The software will have to
+interrogate an online database through a password-protected web-page
+interface and extract certain information fields. With that information,
+the software must interrogate a different web-page interface and perform
+updates, and possibly send alerts. Once both online databases are
+interrogated, results must be stored in a local database, probably based in
+Excel, to maintain inventory control, and to create and send customer
+mailouts.
+
+Ideally, the software would have a Windows GUI, but this is not absolutely
+required, and the software could  run based on control information stored
+in files. Some means of monitoring the software's progress is desirable,
+either command line output, to a Windows GUI, or html output to a browser.
+
+The package must run on Windows XP Pro. Perl 5.6 and a web server which are
+all installed.
+
+
+Required skills: Perl
+
+Desired skills:
+Prior experience in creating inventory management software or interrogating
+& extracting data from websites.
+Also a fairly good amount of knowledge relating to email programming.
+
+Contact information:
+For a more detailed list of the steps to be performed, please contact:
+Jason @ einnovations@sbcglobal.net.
+
+Please also include your resume and list of prior projects you have worked
+on. Also mention where you are located.
+
+References and sample code may be requested in the future.
+
+
+

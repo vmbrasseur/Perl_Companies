@@ -1,0 +1,80 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12691
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 26011 invoked from network); 27 Aug 2012 23:34:54 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 27 Aug 2012 23:34:54 -0000
+Received: (qmail 7971 invoked by uid 225); 27 Aug 2012 23:34:54 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 7967 invoked by alias); 27 Aug 2012 23:34:54 -0000
+X-Spam-Status: No, hits=-1.7 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,SARE_LWSHORTT
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 27 Aug 2012 16:34:51 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 843BB2AFDF; Mon, 27 Aug 2012 16:34:48 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 27 Aug 2012 16:34:48 -0700
+Message-ID: <20120827233448.843BB2AFDF@x3.develooper.com>
+Subject: Senior Perl developer (telecommute), Zurich, Switzerland
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16384
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 27, 2012
+
+Job title: Senior Perl developer
+
+Company name: Energy Fundamentals
+
+Location: Zurich, Switzerland
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+Energy Fundamentals is looking to expand its development team with 2 senior
+Perl developers - one focussed more on the backend, and one more on
+frontend (Javascript). Our web-based platform provides clients with data
+and simulation tools focussed on the power sector, to enable them to
+analyse long and short term development of supply/demand fundamentals. The
+initial platform is now running and we are expanding the team to tackle a
+substantial expansion of functionality (which will involve re-structuring)
+and a re-work of the interface. New team members may be located either at
+our central office in Zurich, or working from home (provided they are
+European-based).
+
+Required skills:
+- Experience in software development 5+ years
+- Good math background
+- Languages and components: Perl, CGI::Application, Plack, DBIx::Simple
+- UI development and optimisation: JavaScript, JQuery, JQuery UI
+- Database architecture and development: SQL, MySQL
+- Development practices: Unit testing, Refactoring
+- Version control tools: Git
+- Issue tracking tools: e.g. Jira, Redmine, VersionOne
+- Good knowledge of Agile development approach
+
+Desired skills:
+- Experience in development relating to simulation
+ area and linear programing optimization
+- Linux usage & administration experience 
+- Experience with Test-Driven development
+
+Website for more information: http://www.energyfundamentals.com
+
+Contact information at:
+http://jobs.perl.org/job/16384#contact

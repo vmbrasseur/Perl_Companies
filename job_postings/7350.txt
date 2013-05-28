@@ -1,0 +1,105 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7350
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 19497 invoked from network); 28 Nov 2007 21:43:54 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 28 Nov 2007 21:43:54 -0000
+Received: (qmail 12362 invoked by uid 225); 28 Nov 2007 21:43:54 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 12355 invoked by alias); 28 Nov 2007 21:43:53 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 28 Nov 2007 13:43:35 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id C09C12AFE5; Wed, 28 Nov 2007 13:43:31 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20071128214331.C09C12AFE5@x3.develooper.com>
+Date: Wed, 28 Nov 2007 13:43:31 -0800 (PST)
+Subject: Perl Systems Developer for Mobile Startup (onsite), United Kingdom, London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/7410
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 28, 2007
+
+Job title:
+Perl Systems Developer for Mobile Startup
+
+Company name: Trutap Ltd
+
+Location: United Kingdom, London
+
+Pay rate: negotiable
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: indefinite
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+trutap is an easy-to-use free mobile service that for the first time,
+globally, combines all the elements of a young person's social life into
+one application. With trutap users can easily connect and converse with
+friends and family, wherever they are, whenever they want. trutap currently
+operates in over 200 countries across the world and will operate in more
+shortly.
+
+Trutap Limited is an independent company, which is revolutionising mobile
+messaging. We have no commercial relationship with any mobile network
+operator, and we have developed the company from start-up through seed
+investment from a number of leading technology entrepreneurs and a major US
+investment fund.
+
+We're looking for skilled Perl developers to help grow the business, and
+the job is to help build and support the next generation of mobile
+applications!
+
+More specifically, the candidate would help develop the core messaging
+infrastructure, integrate the system with third party services, and develop
+ancillary services to add value to the product. This involves working
+closely with the Product, Design, Marketing and Operations teams to gather
+and confirm requirements in an end-to-end product development process.
+
+
+Required skills:
+* Demonstrable experience of working with and developing large-scale, high
+availability distributed systems.
+* Ability to work with complex data models from conception through to
+database schema definition and implementation.
+* Strong skills using OO Perl, Linux, Subversion, and experience with Web
+Services (REST, SOAP, XML-RPC).
+* Required extensive experience with one of MySQL, Postgres, Oracle, Sybase
+or any major DB server
+* Knowledge of Apache and mod_perl, including tuning and best-practices.
+* Must be capable of providing technical support and consultation to the
+business as well as external 3rd parties.
+* Must be able to demonstrate a sound understanding of business metrics and
+statistics gathering and processing.
+* Interest in test-driven development, team development best-practices,
+good communication skills a requirement. 
+
+Desired skills:
+* Experience with POE and memcached preferred but not essential. 
+* Additional languages (other than English) a bonus.
+
+URL for more information: http://trutap.com/careers
+
+Contact information at:
+http://jobs.perl.org/job/7410#contact
+
+

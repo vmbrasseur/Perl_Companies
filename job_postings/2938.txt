@@ -1,0 +1,86 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2938
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 6264 invoked from network); 3 Jul 2005 21:37:47 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 3 Jul 2005 21:37:47 -0000
+Received: (qmail 6100 invoked by uid 225); 3 Jul 2005 21:37:46 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 6096 invoked by alias); 3 Jul 2005 21:37:46 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 03 Jul 2005 14:37:44 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j63LbfPA000877
+	for <jobs@perl.org>; Sun, 3 Jul 2005 14:37:41 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j63Lbfoo000874;
+	Sun, 3 Jul 2005 14:37:41 -0700
+Date: Sun, 3 Jul 2005 14:37:41 -0700
+Message-ID: <200507032137.j63Lbfoo000874@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: traffic.com (onsite), United States, PA, Wayne
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2815
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July  3, 2005
+
+Job title: traffic.com
+
+Location: United States, PA, Wayne
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+This is a DBA job with emphasis on enterprise and system and architectural
+skills.  We are responsible for all oracle db servers and their tuning. 
+All Storage arrays and their deployment and maintenance.  We have EMC and
+Adaptec SATA.  All fibre SAN deployments and architecture and maintenance. 
+All tape backup and their deployment and maintenance.  So as  you can see I
+need a well rounded pretty experienced guy to join our dba group.  We have
+everything semi-automated with Perl and some shell and some C and java.  No
+real weekend or nighttime work unless there is an outage for a hardware or
+software reason.  We are the SA group for all of our db servers.  We are
+running Dell servers with Linux and oracle RAC in QA and in production.  We
+also have a RAC set for the data warehouse. Everything is a 24 X 7
+operation.
+There is little or no money for relocation for this position. 
+
+Required skills:
+I need very solid baseline oracle skills and OCP would be very cool.  In
+addition I need excellent Perl skills with exposure to DBI and enterprise
+environments.  Some shell experience is required.  Self starting and done't
+bring your  ego to work is a requirement.  Able to work harmoniously and
+take responsibility and run with it is a requirement.
+
+Desired skills:
+Oracle 9i OCP DBA.
+Good Perl skills.
+Good programming skills.
+Decent shell skills.
+Enterprise skills -> Storage Arrays, Tapedecks, fibre SAN
+7 X 24 experience.
+
+Contact information at:
+http://jobs.perl.org/job/2815#contact
+
+

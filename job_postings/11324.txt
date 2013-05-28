@@ -1,0 +1,90 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11324
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28697 invoked from network); 20 May 2011 08:19:18 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 20 May 2011 08:19:18 -0000
+Received: (qmail 4802 invoked by uid 225); 20 May 2011 08:19:18 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 4798 invoked by alias); 20 May 2011 08:19:18 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS,T_LOTS_OF_MONEY
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 20 May 2011 01:19:15 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 6C8EE2AFEA; Fri, 20 May 2011 01:19:12 -0700 (PDT)
+To: jobs@perl.org
+Date: Fri, 20 May 2011 01:19:12 -0700
+Message-ID: <20110520081912.6C8EE2AFEA@x3.develooper.com>
+Subject: Software Developer (Perl), United Kingdom, London, London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14186
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 20, 2011
+
+Job title: Software Developer (Perl)
+
+Company name: Zoopla
+
+Internal ID: Zoopla11
+
+Location: United Kingdom, London, London
+
+Pay rate: £45,000 - £55,000
+
+Terms of employment: Salaried employee
+
+Length of employment: indefinite
+
+Hours: Full time
+
+Description:
+We are looking to recruit Perl developers to help us build new features and
+enhancements to our platform - this includes the APIs that drive our
+website, back-end tools, intensive/distributed data processing, search
+technology, complex valuation algorithms, and server control functionality.
+
+
+Our development team builds the platform behind all aspects of the
+business, including our websites, data processing, analysis, reporting, CRM
+and finance.
+Our platform architecture is based on Linux, Apache, Perl (/Mason), MySQL,
+Amazon's Web Services (EC2/S3/RDS), gearmand, memcached and other
+technologies.
+
+
+Required skills:
+You will need to understand the importance of building structured code that
+is highly-scalable, reliable and robust.
+
+You will need to thrive in a challenging and rewarding environment where
+you may need to work with all aspects of our systems - software
+engineering, server configuration, software evaluation, scripting, QA.
+Required skills:
+●	Perl platform development
+●	Database / data-processing experience
+
+
+Desired skills:
+Desired skills:
+●	Linux, Apache, mod_perl, MySQL, HTML::Mason
+●	Amazon's Web Services (EC2/S3/RDS/...)
+●	Large-scale data processing, distributed systems,
+●	Solr/Lucene
+●	Javascript / AJAX
+●	Basic systems administration
+
+Website for more information: http://www.zoopla.co.uk/
+
+Contact information at:
+http://jobs.perl.org/job/14186#contact

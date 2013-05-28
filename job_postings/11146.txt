@@ -1,0 +1,77 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11146
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8336 invoked from network); 27 Mar 2011 08:53:05 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 27 Mar 2011 08:53:05 -0000
+Received: (qmail 26998 invoked by uid 225); 27 Mar 2011 08:53:05 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 26993 invoked by alias); 27 Mar 2011 08:53:04 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 27 Mar 2011 01:53:02 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 971CE2AFE0; Sun, 27 Mar 2011 01:52:59 -0700 (PDT)
+To: jobs@perl.org
+Date: Sun, 27 Mar 2011 01:52:59 -0700
+Message-ID: <20110327085259.971CE2AFE0@x3.develooper.com>
+Subject: Perl Developer, London - assist with/take over maintenance of
+ existing project (part onsite), United Kingdom, London, London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13924
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 25, 2011
+
+Job title:
+Perl Developer, London - assist with/take over maintenance of existing
+project
+
+Company name: Hansford Associates
+
+Location: United Kingdom, London, London
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Flexible
+
+Onsite: some
+
+Description:
+I'm looking for a freelance perl developer to assist with and potentially
+take over an existing project for that legendary "large media company in
+west London".
+
+The system is based on TT, DBIC/DBI, much XML and CSV parsing of
+occasionally shonky data coming via API or file download. Version control
+is SVN. Task and time tracking through JIRA. There is a fair degree of
+battling with release management and pushing changes through the syste to
+live.
+
+The user-facing system is PHP with CSS and jQuery, and the backend is
+Java/Spring/Hibernate/mvn so familiarity with either of these is useful.
+
+This will be mostly remote working although working with me in NW1 will be
+often useful. Meetings in W1 and W12 are also likely occasionally.
+
+There is the strong possibility that in the coming months this project will
+spring back to life in interesting ways.
+
+CVs to david.hodgkinson@hansfordassociates.com
+
+Required skills: DBI, DBIx::Class, XML, LWP.
+
+Desired skills: Use of RESTful API's
+
+Contact information at:
+http://jobs.perl.org/job/13924#contact

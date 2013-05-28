@@ -1,0 +1,128 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11160
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 32119 invoked from network); 30 Mar 2011 19:57:54 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 30 Mar 2011 19:57:54 -0000
+Received: (qmail 23493 invoked by uid 225); 30 Mar 2011 19:57:54 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 23488 invoked by alias); 30 Mar 2011 19:57:54 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS,T_FILL_THIS_FORM_SHORT
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 30 Mar 2011 12:57:52 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id CA1232AFE0; Wed, 30 Mar 2011 12:57:48 -0700 (PDT)
+To: jobs@perl.org
+Date: Wed, 30 Mar 2011 12:57:48 -0700
+Message-ID: <20110330195748.CA1232AFE0@x3.develooper.com>
+Subject: Perl Web Programmer (telecommute), United States, CA, Santa Monica
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13432
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 30, 2011
+
+Job title: Perl Web Programmer
+
+Company name: JST Software, Inc.
+
+Location: United States, CA, Santa Monica
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+A new startup based in downtown Santa Monica, CA is looking for a great
+Perl web programmer. Someone deeply familiar with web programming from the
+front-end to the back-end. The more experience with Linux and the
+server-side of things the better, but it's not required.
+
+For the time being we're hiring on a contract basis, with potential for a
+full-time position that includes salary and equity.
+
+Candidates in Santa Monica or Los Angeles are preferred, but working
+remotely is also possible for the right programmer.
+
+Please do not send your resume without code samples. We're looking for Perl
+programmers, not PERL programmers and we need a way to filter. We think
+code is the best filter.
+
+
+We are *much* more likely to be interested if you complete this small
+programming exercise:
+
+====================================================
+  Perl Programming Exercise #1 (jobs.perl.org)
+====================================================
+
+Write a module that fetches the jobs listed on the front page of
+http://jobs.perl.org.
+
+It should implement the following API:
+
+-- SNIP --
+use PerlJobs;
+
+my $perl_jobs = PerlJobs->new;
+
+my @current_jobs = $perl_jobs->current_jobs;
+
+-- SNIP --
+
+If the 'current_jobs' method fails @current_jobs should be empty, and
+if successful it should look like this:
+
+@current_jobs = (
+  {
+      title => 'Perl Software Engineer - Search Products',
+      company => 'CBS Interactive',
+      location => 'United States, CA, San Francisco',
+      job_url => 'http://jobs.perl.org/job/13438',
+      company_url =>
+'http://jobs.perl.org/redirect?url=http://cbsinteractive.com/jobsearch.php?
+mode=single&SID=%5Eu49K7KlGuuxFf7Di0ykm_slp_rhc_FcS41AzLArn/8F',
+      date => '2011-01-06',
+  }, {
+      title => 'Perl Sr Developer,  JMS, Web Technologies,
+Experience in SQL, develop in Linux OS',
+      company => 'WSP International',
+      location => 'Mexico, Nuevo Leon, Monterrey',
+      job_url => 'http://jobs.perl.org/job/13436',
+      company_url =>
+'http://jobs.perl.org/redirect?url=http://www.wsp.com.mx/',
+      date => '2011-01-06',
+  },
+  ...
+);
+
+1) Your code should not use regular expressions to parse the HTML.
+2) Your code should be as robust as possible to changes of the HTML.
+3) Using appropriate CPAN modules is *highly* encouraged.
+4) For an extra challenge split location into country, city, and
+state_or_province.
+
+
+====================================================
+
+
+Required skills:
+Expert knowledge of Perl, HTTP, DNS, HTML, CSS, JavaScript, the DOM, RDBMS.
+
+Desired skills:
+Catalyst, DBIx::Class, Linux, MySQL/PostgreSQL, Redis, Memcached
+
+Contact information at:
+http://jobs.perl.org/job/13432#contact

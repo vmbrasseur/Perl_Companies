@@ -1,0 +1,105 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11619
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 12784 invoked from network); 30 Aug 2011 16:26:19 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 30 Aug 2011 16:26:19 -0000
+Received: (qmail 5065 invoked by uid 225); 30 Aug 2011 16:26:19 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 5061 invoked by alias); 30 Aug 2011 16:26:19 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=LOTS_OF_MONEY,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 30 Aug 2011 09:26:16 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 210FD2AFDE; Tue, 30 Aug 2011 09:26:11 -0700 (PDT)
+To: jobs@perl.org
+Date: Tue, 30 Aug 2011 09:26:11 -0700
+Message-ID: <20110830162613.210FD2AFDE@x3.develooper.com>
+Subject: SR Perl Developer (onsite), USA, NY, Clifton Park
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14744
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 30, 2011
+
+Job title: SR Perl Developer
+
+Company name: Internet Marketing Ninjas
+
+Internal ID: PerlDev
+
+Location: USA, NY, Clifton Park
+
+Pay rate: $60000-$150000 DOE
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We Build Pages is becoming Internet Marketing Ninjas.  We are a full
+service Internet marketing company who strives to have the best tools in
+the industry.  
+
+We're looking for passionate Perl developers who are looking to do what
+they love on a daily basis.  We embrace new technology, love problem
+solving, and don't get scared by large data sets.  We do all of this inside
+of a fast paced environment developing tools and reports for a quickly
+growing team of Internet Marketers.  
+
+We work as part of a cross functional team which includes System
+Administrators, Designers, and Perl and Ruby developers.  We all wear
+several hats and are quick to help members each other out.  As our team
+grows, we are identifying new ways to cross train.  We are doing p2p
+training sessions in house, but know when we need to send people out to
+quickly bootstrap a new technology.
+
+We're beginning to find ways where we can give back to the Open Source
+development community that we leverage so heavily.  Some of us work on Open
+Source projects, and we try and are finding ways to send fixes, ideas, and
+soon new pieces of code upstream.  
+
+Benefits 
+* $60,000 - $150,000 DOE 
+* $10,000 Signing Bonus for Relocation, or anything else you want 
+* Health, Vision, and Dental Insurance 
+* 3 Weeks Paid Vacation 
+* Holiday and Personal Days 
+* 401k Contributions 
+* Profit Sharing 
+* Company Sponsored Outings
+
+Required skills:
+3-5+ years of Perl Development experience - Should have experience with
+Internet protocols, a database extraction layer (we use dbix::class), CGI
+programming (we use Template::Tookit) and lots of pattern matching.
+
+Database Skills - You don't need to be a DBA, but should be comfortable
+with complex and large MySQL environments.  We're also using MongoDB for
+several even larger projects, and some experience there is preferred.
+
+Desired skills:
+Front End Skills - We have a design team to polish the cornerstone
+projects, but for the most part we do layout ourselves.  Experience with
+javascript (jQuery), and a templating system is desirable.
+
+Sysadmin Skills - Again, we have an Operations Team, but if you know
+Puppet, Debian based Linux distributions, and have played with cloud
+computing topologies, all the better
+
+Website for more information: http://www.internetmarketingninjas.com
+
+Contact information at:
+http://jobs.perl.org/job/14744#contact

@@ -1,0 +1,82 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12268
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13102 invoked from network); 25 Mar 2012 09:24:04 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 25 Mar 2012 09:24:04 -0000
+Received: (qmail 12497 invoked by uid 225); 25 Mar 2012 09:24:04 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 12492 invoked by alias); 25 Mar 2012 09:24:04 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 25 Mar 2012 02:23:58 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id C23812AFDF; Sun, 25 Mar 2012 02:23:54 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sun, 25 Mar 2012 02:23:54 -0700
+Message-ID: <20120325092354.C23812AFDF@x3.develooper.com>
+Subject: System developer (onsite), Oslo, Norway
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15742
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 25, 2012
+
+Job title: System developer
+
+Company name: ABC Startsiden AS
+
+Internal ID: 1371947397
+
+Location: Oslo, Norway
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+ABC Startsiden is one of the largest internet companies in Norway. We are
+in dire need of excellent developers to maintain and expand our product
+portfolio. 
+
+We have been a mostly Perl based shop for years, and we are now looking for
+two more senior developers to join two of our new teams.
+
+All our teams are cross functional, consisting of developers, frontends,
+product owners etc.
+
+We also like to experiment and use new technology.
+
+See the website link for more detailed requirements and information.
+
+Required skills:
+Please note that this position requires you to talk and write norwegian.
+
+Of other skills we require:
+
+* Perl (naturally :p)
+* Moose, Catalyst, DBIx::Class, Template Toolkit
+
+Desired skills:
+* Some understanding of javascript, css, html(5) is a good thing to have
+
+Website for more information:
+https://www.webcruiter.no/wcmain/AdvertViewPublic.aspx?oppdragsnr=137194739
+7&amp%3Bculture_id=NB-NO&amp%3Bcompany_id=22305000&amp%3Blink_source_id=#.T
+2uwa7Qcyro.google
+
+Contact information at:
+http://jobs.perl.org/job/15742#contact

@@ -1,0 +1,88 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13037
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 3787 invoked from network); 9 Jan 2013 20:01:43 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 9 Jan 2013 20:01:43 -0000
+Received: (qmail 13980 invoked by uid 225); 9 Jan 2013 20:01:43 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 13976 invoked by alias); 9 Jan 2013 20:01:43 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 09 Jan 2013 12:01:39 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id DC1272AFE1; Wed,  9 Jan 2013 12:01:35 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 9 Jan 2013 12:01:35 -0800
+Message-ID: <20130109200135.DC1272AFE1@x3.develooper.com>
+Subject: Scientific Programmer - HGNC (onsite), Cambridge, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16860
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January  9, 2013
+
+Job title: Scientific Programmer - HGNC
+
+Company name: EMBL-EBI
+
+Internal ID: EBI_00270
+
+Location: Cambridge, UK
+
+Terms of employment: Salaried employee
+
+Length of employment: 3 years
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are seeking a motivated and capable bioinformatician/programmer to join
+the HGNC (HUGO Gene Nomenclature Committee) at the European Bioinformatics
+Institute (EBI) on the prestigious Wellcome Trust Genome Campus in Hinxton,
+Cambridge in the UK.
+ 
+HGNC (www.genenames.org) is the only worldwide authority assigning
+standardised human gene symbols and names,  and has three key goals;
+providing unique standardised nomenclature for every human gene; ensuring
+this information is freely available, widely disseminated and universally
+used; and most recently, ensuring this nomenclature is expanded and
+utilised across vertebrate genomes. This third aim will be the focus on
+this role, creating a relational database and web portal for curating and
+displaying standardised gene names across multiple vertebrate species.
+ 
+For further information please go to www.ebi.ac.uk
+
+Required skills:
+The ideal candidate will have a proven track record in bioinformatics and
+be educated to MSc or PhD level (or equivalent) in biological science or a
+related subject, preferably with knowledge of phylogenetics and existing
+bioinformatic tools such as BLAST. An excellent working knowledge of
+relational databases and website design is required and experience of some
+or all of the following would be a distinct advantage: MySQL, PostgreSQL,
+Perl CGI, CMS (Drupal), jQuery.
+ 
+The post holder will enjoy working in a team environment and ideally have
+experience of collaborating with external groups, and will possess
+excellent communication, organisational and interpersonal skills. This post
+may involve international travel.
+
+Website for more information:
+http://ig14.i-grasp.com/fe/tpl_embl01.asp?s=LktVsYDaNlCOtQqCli&jobid=50310,
+2398763434&key=52917094&c=339933340288&pagestamp=segxgrwvkthwvymffd
+
+Contact information at:
+http://jobs.perl.org/job/16860#contact

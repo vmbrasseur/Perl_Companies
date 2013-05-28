@@ -1,0 +1,101 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7969
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 32729 invoked from network); 13 Apr 2008 05:06:54 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 13 Apr 2008 05:06:54 -0000
+Received: (qmail 28712 invoked by uid 225); 13 Apr 2008 05:06:54 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 28706 invoked by alias); 13 Apr 2008 05:06:53 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 12 Apr 2008 22:06:50 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 18AC12AFCD; Sat, 12 Apr 2008 22:06:46 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080413050647.18AC12AFCD@x3.develooper.com>
+Date: Sat, 12 Apr 2008 22:06:46 -0700 (PDT)
+Subject: MySql Table Builder Perl Expert (telecommute), United States, TX, Houston
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8410
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 12, 2008
+
+Job title: MySql Table Builder Perl Expert
+
+Company name: HRN
+
+Internal ID: HRN03
+
+Location: United States, TX, Houston
+
+Pay rate: $17/hr
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: permanent
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+MUST HAVE:
+a) Strong MySql skills
+b) Good working knowledge of PERL
+c) Understand GIS/geocoding
+
+Our company integrates data from multiple sources into a database and has
+pre-defined table structures for the end-product.
+
+The data integration must be done on a market-by-market basis. We have
+implemented the solution on four markets.
+
+We are looking to add a fifth market. All of the data sets have been
+gathered.
+
+The Winning bidder will work with the company DBA to understand data
+structure, and with the company Business Analyst to understand how to
+translate the data sources into the proper fields.
+
+Further specifics:
+
+a) Calculating centroid points from GIS shapefiles
+b) Placing centroid points on to other data layers to gather information,
+such as "zip code", or "school district"
+c) Creating a process for automatically uploading the same (but updated)
+dataset
+d) Creating data exports
+
+
+We use Skype to chat, which is a must for questions.  If you are
+uncomfortable on Skype, then this is the wrong position for you.
+
+
+Required skills:
+MySql
+English
+Perl
+
+Desired skills:
+Active Communication
+Asks Questions
+Overdelivers
+
+Contact information at:
+http://jobs.perl.org/job/8410#contact
+
+

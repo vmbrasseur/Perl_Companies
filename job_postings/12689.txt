@@ -1,0 +1,100 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12689
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 11299 invoked from network); 26 Aug 2012 02:20:41 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 26 Aug 2012 02:20:41 -0000
+Received: (qmail 18139 invoked by uid 225); 26 Aug 2012 02:20:41 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 18135 invoked by alias); 26 Aug 2012 02:20:40 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 25 Aug 2012 19:20:37 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 5E00A2AFE1; Sat, 25 Aug 2012 19:20:34 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 25 Aug 2012 19:20:34 -0700
+Message-ID: <20120826022034.5E00A2AFE1@x3.develooper.com>
+Subject: Perl Developer (onsite), Nashville, TN
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16380
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 25, 2012
+
+Job title: Perl Developer
+
+Company name: Dobie Media, Inc
+
+Internal ID: perljob
+
+Location: Nashville, TN
+
+Terms of employment: Independent contractor (hourly)
+
+Onsite: yes
+
+Description:
+Dobie Media, a Nashville-based leader in the online event and entertainment
+listings industry is looking for an experienced perl developer.
+
+About the job:
+
+We're searching for a perl programmer to work on our events aggregation
+product. Our stack is perl via the catalyst framework, nginx, mysql, sphinx
+for indexing, varnish for caching, and a few other odds and ends all
+deployed in the cloud and project-managed in an agile(ish) way. Familiarity
+with those systems - especially the catalyst framework - would obviously be
+beneficial, but not necessary. We're really just looking for a great perl
+dev who understands the importance of shipping code, and has the creativity
+and drive to help us build a better platform.
+
+The work environment at Dobie Media is casual, we offer flexible schedules,
+and we have the utmost respect for work-life balance. In short, we like to
+work hard and then kick you out of the office at a reasonable time. There
+are no 50 or 60 hour work week expectations!
+
+This position will begin as a contract position, but will convert to a
+full-time role with benefits (health and paid vacation) no later than two
+months.
+
+If interested, please reply to this post with your resume and the best
+times to contact you.
+
+PLEASE DO NOT CALL OUR OFFICE ABOUT THIS JOB. While you may reach our
+receptionist, the only guidance offered will be to reply to the job posting
+via email.
+
+About the company:
+
+Dobie Media aggregates content so people can find out what is happening in
+their area. We provide an events platform for online media companies. Our
+clients range from small newspapers in rural communities, to television
+stations in major markets, and some of the largest newspaper holding
+companies in the United States. We have a small dedicated staff that has
+built the company from the ground up, over our first five years of
+operation.
+
+Required skills: Perl
+
+Desired skills:
+Catalyst
+MySQL
+Sphinx
+nginx
+
+Website for more information: http://www.eviesays.com/
+
+Contact information at:
+http://jobs.perl.org/job/16380#contact

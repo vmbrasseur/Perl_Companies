@@ -1,0 +1,69 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:815
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 92634 invoked by uid 1016); 22 Mar 2003 17:26:32 -0000
+Date: 22 Mar 2003 17:26:32 -0000
+Message-ID: <20030322172632.92633.qmail@onion.perl.org>
+To: jobs@perl.org
+Subject: Network Specialist Needed (telecommute), United States, Texas, Dallas
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/697
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 22, 2003
+
+Job title: Network Specialist Needed
+
+Company name: Jeff
+
+Location: United States, Texas, Dallas
+
+Pay rate: negotiable
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: a few hours
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+I need a TCP/IP network expert to troublshoot a problem I have with a perl
+client.  
+
+I am connecting to a remote SSL servier (using a perl client) along with 80
+other clients using TCP/IP. Once connected, I send a high volume of data (3
+MB per second). The server has recently implemented(presumably on their
+router) throttling, and has increased latency, and even drops packets. Now
+I can only send/receive 100K/second before they drop my packets. 
+
+Since my success is dependant on fast throughput, I need to find a solution
+to this. 
+
+Some of my competitors have found a workaround, and now experience 3
+MB/Second, but I don't know how they accomplished this. I imagine they
+discovered a way to change the priority or size of the packets, but I don't
+know how. 
+
+
+Thanks 
+
+
+Required skills: TCP/IP, router experience, perl
+
+Contact information:
+Jeff Baron
+jeffb9@ureach.com
+
+

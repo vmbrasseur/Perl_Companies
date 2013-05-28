@@ -1,0 +1,89 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9588
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 14221 invoked from network); 3 Nov 2009 15:52:35 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 3 Nov 2009 15:52:35 -0000
+Received: (qmail 3258 invoked by uid 225); 3 Nov 2009 15:52:35 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 3254 invoked by alias); 3 Nov 2009 15:52:35 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 03 Nov 2009 07:52:33 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 432DF2AFDF; Tue,  3 Nov 2009 07:52:29 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20091103155230.432DF2AFDF@x3.develooper.com>
+Date: Tue,  3 Nov 2009 07:52:29 -0800 (PST)
+Subject: Software Engineering Intern (onsite), United Kingdom, Central London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/10534
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November  3, 2009
+
+Job title: Software Engineering Intern
+
+Company name: Lokku
+
+Location: United Kingdom, Central London
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: 3+ Months
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Lokku is the company behind the property search engines Nestoria and
+Gartoo. We are looking for talented interns to join us for 3 or more
+months.
+
+You will be expected to work with a small team of talented software
+developers on a large code base written almost entirely in Perl and MySQL.
+The code you write will be used in production systems, and from day one you
+will be a part of a small and highly efficient team.
+
+You should have some Perl knowledge already, but also be prepared to learn
+a lot in a short amount of time.
+
+This is a paid internship. Salary will be discussed during the interview.
+
+If you're interested please contact us via email to request an interview.
+
+Required skills:
+In order of importance:
+   * Perl
+   * Bash
+   * Linux
+   * MySQL
+
+Desired skills:
+In order of importance:
+   * use strict
+   * regular expressions
+   * CPAN
+   * Perl Best Practices
+   * Subversion (svn)
+   * Mac OSX
+
+URL for more information: http://lokku.com/jobs/intern.html
+
+Contact information at:
+http://jobs.perl.org/job/10534#contact
+
+

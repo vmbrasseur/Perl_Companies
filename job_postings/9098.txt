@@ -1,0 +1,113 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9098
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 7158 invoked from network); 2 Apr 2009 06:49:12 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 2 Apr 2009 06:49:12 -0000
+Received: (qmail 8153 invoked by uid 225); 2 Apr 2009 06:49:12 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 8149 invoked by alias); 2 Apr 2009 06:49:11 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 01 Apr 2009 23:49:10 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id E067E2AFE1; Wed,  1 Apr 2009 23:49:06 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20090402064906.E067E2AFE1@x3.develooper.com>
+Date: Wed,  1 Apr 2009 23:49:06 -0700 (PDT)
+Subject: Application Developer (onsite), Canada, ON, Toronto
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/10406
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April  1, 2009
+
+Job title: Application Developer
+
+Company name: Raybec Communications
+
+Location: Canada, ON, Toronto
+
+Pay rate: commensurate with experience
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+As a member of our team, you will be working on our web applications based
+on existing design templates.  We are sales and marketing automation
+experts – we bring marketing process and expertise to our clients through
+elegant web-based tools.  We are innovative and constantly creating new
+ways of doing business for the sales and marketing community.
+
+We are always looking for ways to innovate and you will be given freedom to
+explore new methods, approaches and technologies. You are equally
+comfortable working closely with others or willing to do what it takes to
+get the job done yourself.  You are familiar with Perl Best Practices and
+document your code.  We offer you a flexible development environment with
+respect to platform and editor.
+
+
+Primary Responsibilities:
+
+• Develop.  Development and enhancement of our web-based applications,
+simplifying the maintenance, and extending integration capabilities
+• Participate.	Chart the course for future development, and roll-up your
+sleeves to make it happen.
+• Be Proactive.  Identify performance optimization opportunities and
+implement solutions
+
+
+Required skills:
+If you are the right candidate, you:
+
+• live in the Toronto area
+• are flexible about hours of work and location (some onsite, some
+telecommute)
+• have a minimum of 3 years experience developing web-based applications in
+a commercial setting
+• handle multiple projects at one time
+• like to use the right tools for the right job
+• value a test-driven environment
+
+
+Your technical skills should include:	
+
+• Object Oriented Perl
+• mod_perl, Apache::Registry
+• CGI::Application (or other MVC framework), HTML::Template, Template
+Toolkit
+• DBI, DBIx::Class, MySQL
+• Strong familiarity with HTML, JavaScript (jQuery) and CSS
+• Familiarity with *nix based operating systems (Redhat, Ubuntu)
+• Converting project/client requirements into technical tasks and providing
+estimates for these tasks 
+• Drafting of Technical Architecture and Test Plans 
+
+
+Desired skills:
+Other desired technical skills include:
+
+• Basic sysadmin skills
+• Some familiarity with version control systems (SVN, Git)
+
+
+Contact information at:
+http://jobs.perl.org/job/10406#contact
+
+

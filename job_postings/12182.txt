@@ -1,0 +1,87 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12182
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 11919 invoked from network); 4 Mar 2012 05:33:22 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 4 Mar 2012 05:33:22 -0000
+Received: (qmail 25064 invoked by uid 225); 4 Mar 2012 05:33:22 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 25060 invoked by alias); 4 Mar 2012 05:33:22 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 03 Mar 2012 21:33:19 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 424F52AFE2; Sat,  3 Mar 2012 21:33:16 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 3 Mar 2012 21:33:16 -0800
+Message-ID: <20120304053316.424F52AFE2@x3.develooper.com>
+Subject: Perl Engineer (onsite), Los Angeles, CA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15478
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March  3, 2012
+
+Job title: Perl Engineer
+
+Company name: BigChampagne
+
+Internal ID: BC-LA
+
+Location: Los Angeles, CA
+
+Pay rate: $60-75,000 depending on experience
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+BigChampagne, a media measurement and data analytics company recently
+acquired by Live Nation, is seeking a highly skilled Perl developer to
+build new data ingestion, processing and reporting tools. 
+
+BigChampagne receives multiple, disparate data feeds from an ever-growing
+list of partners and clients. These data come in a variety of formats, in
+great volume, and at high frequency. BigChampagne ingests, identifies, and
+analyzes these data, then combines them with other information and
+ultimately makes them available to clients in an online business analytics
+tool and via API.
+
+Responsibilities include:
+
+- Examine prospective data sources and provide analysis to the team
+- Develop tools to collect data from remote sources and APIs
+- Work with existing framework to automate processing of data
+- Assist in developing additional processing tools and methods
+
+Required skills:
+The positions available require strong OO Perl knowledge, experience with
+Linux, advanced experience with MySQL, at least a working understanding of
+MongoDB.
+
+Understanding of multiple data formats, such as CSV, XML, JSON, YAML, etc.,
+is required. 
+
+Must have excellent attention to detail and work well in a collaborative
+team environment.
+
+Desired skills: Familiarity with HTTP and parsing HTML.
+
+Website for more information: http://www.bigchampagne.com
+
+Contact information at:
+http://jobs.perl.org/job/15478#contact

@@ -1,0 +1,68 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10009
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 15760 invoked from network); 6 Apr 2010 21:31:25 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 6 Apr 2010 21:31:25 -0000
+Received: (qmail 414 invoked by uid 225); 6 Apr 2010 21:31:24 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 410 invoked by alias); 6 Apr 2010 21:31:24 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 06 Apr 2010 14:31:20 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 002AE2AFE1; Tue,  6 Apr 2010 14:31:16 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20100406213117.002AE2AFE1@x3.develooper.com>
+Date: Tue,  6 Apr 2010 14:31:16 -0700 (PDT)
+Subject: short-term contract: bug fixes to perl module on CPAN (telecommute), United States, Maine
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/12028
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April  6, 2010
+
+Job title:
+short-term contract: bug fixes to perl module on CPAN
+
+Location: United States, Maine
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: 1 week
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+Looking for a perl developer to supply patches and tests for Net::Flow
+module.
+
+Details of the bugs can be found in RT.
+https://rt.cpan.org/Public/Dist/Display.html?Name=Net-Flow
+
+Required skills: Experience developing in Perl
+
+Desired skills:
+networking
+protocols
+NetFlow / IPFIX
+wireshark
+
+Contact information at:
+http://jobs.perl.org/job/12028#contact
+
+

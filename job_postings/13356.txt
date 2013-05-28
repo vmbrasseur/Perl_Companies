@@ -1,0 +1,76 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13356
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 32217 invoked from network); 28 Apr 2013 08:02:48 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 28 Apr 2013 08:02:48 -0000
+Received: (qmail 26104 invoked by uid 225); 28 Apr 2013 08:02:48 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 26100 invoked by alias); 28 Apr 2013 08:02:48 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 28 Apr 2013 01:02:42 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id D8A492AFE1; Sun, 28 Apr 2013 01:02:38 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sun, 28 Apr 2013 01:02:38 -0700
+Message-ID: <20130428080238.D8A492AFE1@x3.develooper.com>
+Subject: Small Project $400 Bot Creation scraping SERPs (telecommute), SF
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17321
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 27, 2013
+
+Job title: Small Project $400 Bot Creation scraping SERPs
+
+Company name: Silver Fox
+
+Location: SF
+
+Pay rate: $400
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+Im looking to have a bot created that would be built in perl that would use
+search engines to look up products. The specifics of the project are below:
+
+
+1. import from a csv input file, a query 
+2. perform the query on the first search engine
+3. parse the results page(SERP) for specific data elements
+4. output the resulting data 
+5. perform a calculation to compare two numbers, one from the input file
+and one from the parsed results of the SERP.
+6. output the results from the parsing the SERP and the calculation in #5
+above to an output CSV file
+7. Name the file date stamp.csv
+
+
+Im only looking for developers who have scraped SERPS before and know their
+way around using Proxies. This script needs to be installed on a linux box.
+Please only bid if you have the time to work on this to have it done by
+Friday May 3rd. 
+
+Thanks fellow Perl enthusiasts.
+
+Desired skills: Experience scraping SERPs
+
+Contact information at:
+http://jobs.perl.org/job/17321#contact

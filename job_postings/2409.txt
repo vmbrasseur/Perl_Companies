@@ -1,0 +1,124 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2409
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 23413 invoked from network); 1 Mar 2005 01:16:14 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 1 Mar 2005 01:16:14 -0000
+Received: (qmail 12483 invoked by uid 225); 1 Mar 2005 01:16:14 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 12478 invoked by alias); 1 Mar 2005 01:16:13 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 28 Feb 2005 17:16:04 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j211G25v011575
+	for <jobs@perl.org>; Mon, 28 Feb 2005 17:16:02 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j211G2Z5011573;
+	Mon, 28 Feb 2005 17:16:02 -0800
+Date: Mon, 28 Feb 2005 17:16:02 -0800
+Message-ID: <200503010116.j211G2Z5011573@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: OO Perl / MySQL Web App Developer (onsite), Canada, Ontario, Toronto
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2317
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 28, 2005
+
+Job title: OO Perl / MySQL Web App Developer
+
+Company name: The Octane Group
+
+Location: Canada, Ontario, Toronto
+
+Pay rate: 30,000 -> 35,000 CAD
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The Octane Group is currently looking for an additional Perl programmer to
+assist in the design, development and deployment of their extensive suite
+of e-marketing tools.
+
+The successful candidate would be expected to work with tools within the
+field of content management, email deployment and response tracking,
+consumer loyalty programs, contact database management, online contests and
+much more.
+
+Additionally a significant amount of time will be dedicated web site
+implementation and customer service.
+
+Our client list and descriptions of past projects can be found at
+www.octane.to
+Some of the projects we've worked on lately include:
+http://www.insideeonline.com
+http://www.esselteworldofrewards.com
+http://www.myrogersrewards.com
+http://www.neighbourhoodwatchregistry.com
+http://www.playsbg.com
+
+
+Required skills:
+The ideal candidate would possess a *STRONG* background in the following
+items:
+ - Object Oriented Perl
+ - MySQL / DBI
+ - HTML / CSS
+ - JavaScript
+ - Application design, development and deployment process
+ - Web Application development in Perl using modules such as
+CGI::Application, HTML::Template, Template::Toolkit, etc.
+ - The successful candidate would posess at least three years of experience
+in a simalar environment.
+
+Desired skills:
+Additionally, they must be comfortable working with or have a working
+knowledge of the following:
+ - PHP
+ - Sendmail
+ - Apache
+ - Linux / FreeBSD
+ - XML
+
+Experience in the following items would be considered an asset:
+ - Interface design / Usability
+ - Adobe suite of products (Photoshop / Acrobat)
+ - Macromedia Flash Development
+ - Search Engine Indexing / Optimization
+
+The ideal candidate would also possess the following interpersonal skills:
+- Well developed problem-solving skills 
+- Self-motivated. Exceptional creativity and productive energy. 
+- Excellent time management skills to meet demanding timelines. 
+- Excellent planning and documentation skills. 
+- Strong sense of ownership
+- Desire to stay up-to-date with current developments in trends in the web
+industry.
+
+URL for more information: http://www.octane.to/
+
+Contact information:
+Please send resumes to careers@octane.to along with 1-3 Perl code samples
+(approx 200-500 lines) or links to web applications you have built.
+
+
+

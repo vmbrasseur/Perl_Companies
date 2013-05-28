@@ -1,0 +1,110 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6194
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 15205 invoked from network); 27 Apr 2007 23:49:29 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 27 Apr 2007 23:49:29 -0000
+Received: (qmail 31368 invoked by uid 225); 27 Apr 2007 23:49:29 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 31360 invoked by alias); 27 Apr 2007 23:49:29 -0000
+X-Spam-Status: No, hits=-2.6 required=8.0
+	tests=BAYES_00,DK_POLICY_SIGNSOME
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 27 Apr 2007 16:49:26 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 8A1F32AFD8; Fri, 27 Apr 2007 16:49:23 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070427234923.8A1F32AFD8@x3.develooper.com>
+Date: Fri, 27 Apr 2007 16:49:23 -0700 (PDT)
+Subject: LAMP Developer and Architect at Africa-focused media company (part onsite), United States, District of Columbia, Washington
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5714
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 27, 2007
+
+Job title:
+LAMP Developer and Architect at Africa-focused media company
+
+Company name: AllAfrica Global Media
+
+Internal ID: LAMPArchitect
+
+Location:
+United States, District of Columbia, Washington
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Flexible
+
+Onsite: some
+
+Description:
+AllAfrica Global Media is a work place for people who want to make a
+difference in the world and be part of a small but expanding international
+operation on the leading edges of information services and web
+technologies.
+
+In partnership with over 100 news organizations across Africa, AllAfrica
+reaches a large and diverse global audience - ranging from grass-roots NGOs
+to heads of state and from small enterprises to multinational institutions
+- through the web site allAfrica.com and feeds to international
+distributors.
+
+Read more at http://allafrica.com/whoweare.html
+
+AllAfrica is currently expanding its presence into new areas, including
+work on an Africa-focused, community-driven travel-site, as well as an
+innovative, not-for-profit project aggregating and visualizing
+health-related projects and issues in Africa.
+
+AllAfrica's innovative technology knits together offices in Cape Town,
+which manages the web site, with news processing centers in Washington, DC
+and Dakar and a Lagos-based team that produces and broadcasts news, culture
+and health programs. Technology development and architecture is coordinated
+from Copenhagen. Jobs are fast-paced and demanding, with opportunities for
+learning, growth and advancement.
+
+AllAfrica's technology team is committed to using Free and Open Source
+software, and to giving back our developments to the FLOSS community. Our
+core technologies include Linux, Apache, MySQL/PostgreSQL and Perl as well
+as extensions such as XML::Comma and HTML::Mason.
+
+Our technology efforts are centered around Washington D.C. and Copenhagen;
+we are also open to applicants willing to work remotely with regular trips
+to our offices.
+
+Required skills:
+Key Responsibilities:
+* Programming in perl, HTML::Mason, XML::Comma
+* Configuring and maintaining Apache with mod_perl, mod_proxy, mod_rewrite
+* Database development with PostgreSQL and/or MySQL
+* System Architecture for advanced 3-tier web platform
+
+Candidates should have strong skills in Perl/Python/Ruby/PHP programming,
+SQL and web-based templating systems. Familiarity with 3 tier web
+architecture, including the use of mod_rewrite and mod_proxy and preferably
+some knowledge of the Apache API required.
+
+Desired skills:
+Network architecture, *nix system administration, Javascript/AJAX,
+XHTML/CSS.
+
+URL for more information: http://allafrica.com/whoweare/jobs.html
+
+Contact information at:
+http://jobs.perl.org/job/5714#contact
+
+

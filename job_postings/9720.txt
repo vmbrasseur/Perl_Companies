@@ -1,0 +1,111 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9720
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 15200 invoked from network); 1 Jan 2010 05:01:38 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 1 Jan 2010 05:01:38 -0000
+Received: (qmail 1126 invoked by uid 225); 1 Jan 2010 05:01:38 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 1122 invoked by alias); 1 Jan 2010 05:01:38 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 31 Dec 2009 21:01:36 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 2D59D2AFE0; Thu, 31 Dec 2009 21:01:33 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20100101050133.2D59D2AFE0@x3.develooper.com>
+Date: Thu, 31 Dec 2009 21:01:33 -0800 (PST)
+Subject: Perl programmer for data aggregation & analysis project (telecommute), Canada, BC, Vancouver
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/11524
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 31, 2009
+
+Job title:
+Perl programmer for data aggregation & analysis project
+
+Company name: Pixelmade
+
+Location: Canada, BC, Vancouver
+
+Pay rate: open to fair offers
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 3-6 months
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+We are looking for a Perl and postgreSQL expert to complete a complex data
+aggregator and data analysis system (it is 60% completed).
+
+Timeline
+
+- Start in January 2010
+- Completion of June 2010
+- Estimated time commitment is 2-3 months full-time, or 4-6 months on/off
+- Estimated time commitment after launch for ongoing monitoring and
+upgrades: TBD
+
+Type of work
+
+- Preference will be given to independent freelancers
+- Telecommuting is ok
+- We are flexible on when/how you work
+
+Project Summary
+
+1. Data Aggregator: Aggregation of a list of domain names from multiple
+sources.  Estimated 2-4M domains aggregated per day, and a total of 30M
+domains in the system at any given time.
+2. Data Analysis: Analysis of domain names against ~15 metrics using
+internal data sources.	Analysis of domain names against ~25 metrics using
+external data sources.
+3. Frontend: For presenting analyzed data in report format; searchable;
+downloadable.
+
+The developer we select will receive a full functional specification. You
+will be required to sign an NDA prior to receiving the specification.
+
+Deployment
+
+- 2 dedicated servers (CentOS)
+
+Technical
+
+- Perl, some C, some PHP
+- postgreSQL, some MySQL
+- Some shell scripting
+
+Required skills:
+- Perl expert
+- PSQL expert
+- strong knowledge of MySQL
+- strong knowledge of PHP
+- understanding of C
+- CentOS expert
+- understanding of proxies (we are NOT running a proxy server)
+- experience with multithreading
+- experience with screen scraping
+- experience tuning / optimizing large databases
+
+Contact information at:
+http://jobs.perl.org/job/11524#contact
+
+

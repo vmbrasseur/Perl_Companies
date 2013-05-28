@@ -1,0 +1,103 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11527
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 4837 invoked from network); 2 Aug 2011 06:07:15 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 2 Aug 2011 06:07:15 -0000
+Received: (qmail 1907 invoked by uid 225); 2 Aug 2011 06:07:15 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 1903 invoked by alias); 2 Aug 2011 06:07:14 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 01 Aug 2011 23:07:12 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 0FAD02AFDD; Mon,  1 Aug 2011 23:07:08 -0700 (PDT)
+To: jobs@perl.org
+Date: Mon, 1 Aug 2011 23:07:08 -0700
+Message-ID: <20110802060709.0FAD02AFDD@x3.develooper.com>
+Subject: Software Developer (onsite), United States, DC, Washington
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14580
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August  1, 2011
+
+Job title: Software Developer
+
+Company name: Media Matters for America
+
+Location: United States, DC, Washington
+
+Pay rate: Negotiable
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Media Matters for America -- a progressive, Washington-based, nonprofit
+research and information center dedicated to comprehensively monitoring,
+analyzing, and correcting conservative misinformation in the U.S. media --
+seeks a Software Developer to assist the Technology Department. This
+position is based in our Washington, D.C., office. Applicants must be
+prepared to relocate if not living within commuting distance of downtown
+D.C.
+
+Working with our current team of developers, the Software Developer will
+develop new applications, troubleshoot and bugfix existing tools, and
+extend the capabilities of existing software. The Software Developer will
+not only work on website features, but also develop and extend internal
+applications that include our video acquisition and archival systems,
+workflow management software and a variety of internally developed research
+tools. Additionally, the Software Developer will be called on to develop
+reports on our datasets for various departments within the organization.
+The majority of our existing and planned software development uses Perl
+with some Ruby (RoR). Experience in Perl is a must, with a preference for
+those knowing both Perl and RoR. Occasionally projects may involve other
+languages (C, Python, etc.), but prior professional experience in these
+languages is not necessary.
+
+The Software Developer will be expected to write and maintain documentation
+for any code produced, as well as contribute to processes documentation for
+the department. Database-driven development experience is highly desirable,
+though extensive database experience is not a requirement. Applicants must
+at least be familiar with relational database concepts. All software
+development is done within a Linux-based environment, so experience with
+that platform is a must.
+
+Required skills:
+- Professional experience developing software in Perl. C/C++, Python,
+Ruby/RoR and other languages a plus.
+- Development experience on Linux platforms.
+- Web development experience using HTML, CSS and JavaScript (including AJAX
+frameworks such as jQuery).
+- Familiarity with relational databases, such as PostgreSQL.
+- Experience with version control tools (e.g. Git).
+
+Desired skills:
+- Ability to take full ownership of projects and work independently or as
+part of a team.
+- Strong organizational skills, and ability to keep track of a wide range
+of disparate tasks.
+- Ability to jump into new technologies and quickly learn how to use them.
+- Willingness to occasionally perform work on evenings and weekends as the
+situation warrants.
+- Bachelor's degree in Computer Science or similar program, or equivalent
+work experience.
+
+Website for more information: http://mediamatters.org/
+
+Contact information at:
+http://jobs.perl.org/job/14580#contact

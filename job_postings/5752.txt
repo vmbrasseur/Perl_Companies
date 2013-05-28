@@ -1,0 +1,119 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5752
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 30313 invoked from network); 12 Feb 2007 22:51:52 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 12 Feb 2007 22:51:52 -0000
+Received: (qmail 1763 invoked by uid 225); 12 Feb 2007 22:51:52 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 1756 invoked by alias); 12 Feb 2007 22:51:51 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 12 Feb 2007 14:51:49 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 7AB832AFF9; Mon, 12 Feb 2007 14:51:45 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20070212225145.7AB832AFF9@x3.develooper.com>
+Date: Mon, 12 Feb 2007 14:51:45 -0800 (PST)
+Subject: Perl developer for a web 2.0 startup (part onsite), United States, NY, New York
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5351
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 12, 2007
+
+Job title: Perl developer for a web 2.0 startup
+
+Company name: Magnify.net
+
+Location: United States, NY, New York
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+Magnify.net is expanding its Perl posse. 
+
+You will work closely with Magnify's core team to design and implement
+features, solutions and deploy them to our live service. 
+
+This is an outstanding opportunity for the fearless Perl professional to
+join an industry that is totally happening, flexible working conditions,
+and the chance to join a team that is building something really unique
+while having great times doing so. 
+Terms: This is a permanent, full-time position will initially be filled on
+an independent contractor basis, After a few months of contracting,
+successful hires will be given an opportunity to move to a salary basis
+with benefits and options. 
+
+Setting: We are based at 27th in Manhattan, although some of the work can
+be done off-site, periodical participation of on-site development meeting
+will be require, so the candidate will have to be within a commutable
+range. 
+
+Required skills:
+* Significant knowledge of and experience in Perl programming. (Exposure to
+standard Perl idioms, the ability to create your own class hierarchies, and
+familiarity with CPAN are required.) 
+
+* Prior experience in server-side web application development. (You should
+have worked with multiple page templating systems, session data storage,
+relational databases, caching, and inter-process communication.) 
+
+* Understanding of professional software development processes. (Including
+familiarity with the cycles of requirements definition, issue tracking,
+version control, automated testing, deployment and maintenance.) 
+
+* Clear and articulate communication, both written and spoken. (Our team
+collaborates extensively by email, IM, and phone, and you will need to be
+able to read specs and write documentation)
+
+Desired skills:
+* Web service operation, scaling, and fault-tolerance using Linux, Apache,
+MySQL, and Perl. 
+
+* Our server-side tools include mod_perl, HTML::Mason, 
+DBIx::SQLEngine, Cache::Memcached, and other modules from CPAN. 
+
+* User interfaces are constructed in HTML with CSS and JavaScript (using
+Prototype and Scriptaculous for Ajax and client-side effects),RSS feeds,
+XML APIs, and client-side Flash widgets. 
+
+* Project support tools including RT, SVN, and automated web testing.
+Contact information: Contact us by email at yoav (at) Magnify.net with the
+following 
+information: 
+
+* Please attach or link to your resume or portfolio, in HTML, PDF, or plain
+text format. 
+
+* If you've released modules on CPAN, are a poster on Perl Monks, or have a
+stash of sample code somewhere on your web site, please include a link to
+the relevant pages. 
+
+* If you have an established contracting rate or a target salary range,
+please pass that along. 
+
+* Include your phone number and a good time to call, so 
+that we can follow-up with you in more detail.
+
+Contact information at:
+http://jobs.perl.org/job/5351#contact
+
+

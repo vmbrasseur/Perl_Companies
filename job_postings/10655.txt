@@ -1,0 +1,72 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10655
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 2738 invoked from network); 22 Oct 2010 19:54:59 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 22 Oct 2010 19:54:59 -0000
+Received: (qmail 9432 invoked by uid 225); 22 Oct 2010 19:54:59 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 9427 invoked by alias); 22 Oct 2010 19:54:58 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 22 Oct 2010 12:54:57 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 55A1F2AFE1; Fri, 22 Oct 2010 12:54:54 -0700 (PDT)
+To: jobs@perl.org
+Date: Fri, 22 Oct 2010 12:54:54 -0700
+Message-ID: <20101022195454.55A1F2AFE1@x3.develooper.com>
+Subject: Object Oriented Perl Developer, CA, Santa Clara
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13100
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 21, 2010
+
+Job title: Object Oriented Perl Developer
+
+Company name: Top Bay Area Tech Company
+
+Location: CA, Santa Clara
+
+Length of employment: Contract to Hire
+
+Hours: Full time
+
+Description:
+Responsibilities:
+•	Build functional applications to support internal processes and
+applications
+•	Collaborate with team members to plan and design innovative web
+applications
+•	Develop prototypes rapidly for evaluation and validation purposes
+•	Document code and system designs
+•	Keep abreast of latest technologies and trends
+
+Reason for hire;
+The NGD Forecasting project relies on a solid and comprehensive integration
+of GD and NGD raw data and metadata components. The required data is
+captured on and off the grid. The off-grid data needs to be copied to
+specific grid locations on a daily/hourly basis, and the following aspects
+need to be considered:
+1. Daily analysis and statistics gathering of data volumes, annotations
+2. Alert mechanism
+3. Automated BCP support in case of failures
+4. Full integration into the new grid ops method of data archiving,
+retention, removal.
+
+This person will specifically focus on enhancing existing processes to
+cover full grid ops integration.
+
+
+Contact information at:
+http://jobs.perl.org/job/13100#contact

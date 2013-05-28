@@ -1,0 +1,84 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10467
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 12685 invoked from network); 26 Aug 2010 00:58:57 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 26 Aug 2010 00:58:57 -0000
+Received: (qmail 17035 invoked by uid 225); 26 Aug 2010 00:58:57 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 17030 invoked by alias); 26 Aug 2010 00:58:57 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 25 Aug 2010 17:58:56 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id AE5432AFE0; Wed, 25 Aug 2010 17:58:52 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20100826005852.AE5432AFE0@x3.develooper.com>
+Date: Wed, 25 Aug 2010 17:58:52 -0700 (PDT)
+Subject: Contract mod_perl / CGI programmer (part onsite), United States, NH, Durham
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/12780
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 24, 2010
+
+Job title: Contract mod_perl / CGI programmer
+
+Company name: Madberry.com
+
+Location: United States, NH, Durham
+
+Pay rate: $4k - $6k / month USD
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 3 months
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+Seeking 40 hr / week contract Perl programmer with substantial web
+development experience.  Successful candidate will work on end-user facing
+web applications, data entry interfaces, unit tests, data scrubbing /
+loading scripts, and more.  The position begins in September.
+
+It's important that you be comfortable with a development process that
+begins with a light spec and a chat about features.  You would then develop
+the first version, and expect to iterate that version based on feedback. 
+You will NOT be handed a detailed 20-page spec and asked to implement it
+exactly.  I believe strongly in the importance of unit tests, and I would
+expect you to develop a strong suite of tests with each application.
+
+The position is located in Durham, NH, though there is a possibility that
+the successful candidate could telecommute two or more days a week after
+the first month.  
+
+Required skills:
+Perl (please don't bother to apply unless you have several years full-time
+experience with Perl)
+Confidence with HTML::Mason, Class::DBI, HTML::Template, CGI::Application,
+Test::More and AJAX
+Attention to detail
+
+Desired skills:
+Familiarity with CVS and/or SVN
+Experience coding to Mechanical Turk's API
+
+Contact information at:
+http://jobs.perl.org/job/12780#contact
+
+

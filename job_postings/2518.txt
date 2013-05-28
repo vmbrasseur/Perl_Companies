@@ -1,0 +1,100 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2518
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 31488 invoked from network); 29 Mar 2005 01:30:39 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 29 Mar 2005 01:30:39 -0000
+Received: (qmail 5773 invoked by uid 225); 29 Mar 2005 01:30:38 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 5767 invoked by alias); 29 Mar 2005 01:30:38 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 28 Mar 2005 17:30:33 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j2T1UU6S009738
+	for <jobs@perl.org>; Mon, 28 Mar 2005 17:30:30 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j2T1UUlr009736;
+	Mon, 28 Mar 2005 17:30:30 -0800
+Date: Mon, 28 Mar 2005 17:30:30 -0800
+Message-ID: <200503290130.j2T1UUlr009736@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Production Engineer, Linux/Perl/SysAdmin - Bangalore, India (onsite), India, Karnataka, Bangalore
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2414
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 28, 2005
+
+Job title:
+Production Engineer, Linux/Perl/SysAdmin - Bangalore, India
+
+Company name: Yahoo! Inc
+
+Location: India, Karnataka, Bangalore
+
+Pay rate: DOE
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Join the team responsible for the daily operations of Yahoo!'s leading
+search engine.	You will contribute to both the administration of thousands
+of (primarily) Linux machines as well as the development of tools that
+automate their deployment, management and monitoring.  The ideal candidate
+has strong Perl programming skills as well as a strong background in
+large-scale system administration.
+
+This is a full time position, located in Bangalore, India.
+
+Responsibilities:
+* Administer Linux clusters, monitor their health and performance
+* Utilize and extend a large library of Perl code responsible for the
+automation, monitoring, etc. of thousands of Linux machines
+* Participate in the build-out and deployment of new hardware to facilitate
+growth of the search engine
+* Diagnose and repair production clusters
+* Document procedures and tools used in daily operations
+* Participate in the on-call pager rotation
+* Work closely with other System Administration, Site Operations, and
+network teams, including the Production Engineering team in Sunnyvale, CA
+
+
+Required skills:
+* Fluent in written and spoken English
+* 2+ years system administration experience (preferably Linux)
+* Perl
+* BS Computer Science and/or strong System Administration background
+
+
+Desired skills:
+* Strong Perl programming skills
+* 2+ years experience administering large-scale UNIX installations in a
+tier 1 environment (ISP background a plus)
+
+
+URL for more information: http://search.yahoo.com/
+
+Contact information:
+Bruno Connelly
+bc@yahoo-inc.com
+
+

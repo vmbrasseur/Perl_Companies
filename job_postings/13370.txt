@@ -1,0 +1,110 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13370
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 24465 invoked from network); 3 May 2013 19:55:11 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 3 May 2013 19:55:11 -0000
+Received: (qmail 18970 invoked by uid 225); 3 May 2013 19:55:11 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 18966 invoked by alias); 3 May 2013 19:55:11 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 03 May 2013 12:55:04 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id B47662AFE0; Fri,  3 May 2013 12:55:00 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 3 May 2013 12:55:00 -0700
+Message-ID: <20130503195500.B47662AFE0@x3.develooper.com>
+Subject: Sr. Perl Developer (onsite), Fairfax, VA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17339
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May  3, 2013
+
+Job title: Sr. Perl Developer
+
+Company name: ThinkGeek
+
+Location: Fairfax, VA
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We're looking for a sharp and passionate software engineer to join our team
+that builds and maintains ThinkGeek's highly-successful custom e-commerce
+platform.
+
+Founded in 1999, ThinkGeek is a close-knit group of fun and enthusiastic
+people who invent the coolest geek gadgets, such as the iCade, the playable
+electronic guitar t-shirt, and the taun-taun sleeping bag.
+
+Much of our software is developed in-house, so projects will run a wide
+gamut of business areas (accounting to warehouse management, and everything
+in between). Development will be on an existing suite of software, so the
+ability to adapt to and extend an existing architecture is a must.
+
+Main job responsibilities: 
+
+    Develop highly-scalable and secure web applications designed to satisfy
+and engage both internal and external customers.
+    Create and maintain a variety of technologies from AJAX based user
+interfaces to third-party XML business integration feeds.
+    Participate in requirements and specifications gathering processes.
+    Develop tests, predict areas of risk, and coordinate with our QA staff
+to achieve the best blend of error prevention and error detection possible.
+
+    Take ownership of your projects from planning to stakeholder happiness.
+
+Required skills:
+5+ years professional programming experience with Perl 5; Experience with
+Perl Best Practices and PerlCritic; Experience or familiarity with the
+following modules: Try::Tiny, Class::Load, XML::LibXML, Test::More,
+Test::Exception; Experience with creating unit tests.
+    4+ years professional experience working with relational databases
+(SQL), MySQL a plus in a highly transactional environment.
+    General experience with MVC patterns, ORMs, Web Services
+(client/servers).
+    HTML and CSS skills to create templates for web.
+    Experience with (and troubleshooting) Javascript (jQuery specifically)
+for DOM manipulation and AJAX interactions.
+    Ability to comprehend and implement complex business requirements in an
+exacting manner.
+    Effectively able to handle multiple priorities and manage time
+efficiently to deliver projects of varying size.
+    Must have excellent communication skills both written and oral. Active
+listening is key as we more successful when we seek to understand others’
+views.
+
+Desired skills:
+Experience with Agile software development practices (e.g. Scrum,
+Lean/Kanban).
+    Experience with Template Toolkit.
+    Ability to train/mentor junior developers.
+    Experience developing automated functional and performance testing
+suites
+    Linux knowledge.
+    E-commerce experience a plus but not required.
+    Published CPAN modules.
+    Experience with a common Perl web framework, such as Catalyst, Dancer,
+or Mojolicious.
+
+Website for more information: https://www.thinkgeek.com/
+
+Contact information at:
+http://jobs.perl.org/job/17339#contact

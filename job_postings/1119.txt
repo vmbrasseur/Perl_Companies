@@ -1,0 +1,118 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:1119
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 4413 invoked by uid 1016); 7 Oct 2003 22:19:36 -0000
+Date: 7 Oct 2003 22:19:36 -0000
+Message-ID: <20031007221936.4412.qmail@onion.perl.org>
+To: jobs@perl.org
+Subject: Fill Justification Subroutine Programmer (telecommute), United States, CT, Greenwich
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1005
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October  7, 2003
+
+Job title: Fill Justification Subroutine Programmer
+
+Company name: PushButtonPress.com, Inc.
+
+Location: United States, CT, Greenwich
+
+Pay rate: negotiable
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+Help Please,
+
+I am a PERL programmer who has an immediate need for an
+algorithm/subroutine to do full fill justification of proportional width
+fonts.
+
+In other words, I need to be able to call the subroutine, pass it the
+following variables (begin string, end string, fill character, font, size,
+style, width of column) and get the ouput returned as a properly formatted
+string. The width could be specified in pixels, inches, or whatever makes
+sense.
+
+ex:
+
+&fill_justify("hello", "I am", ".", "Times Roman", "14", 
+"40");
+
+print "$output\n";
+
+&fill_justify("how are you?", "fine", "Times Roman", "14", 
+"40");
+
+print "$output\n";
+
+
+results in: 
+
+hello..............................I am
+how are you?................fine
+
+* Note that on my screen the above two lines are fully 
+justified on both sides.
+
+I've gotten this routine to work just fine with fixed-width 
+fonts like courier, but not with proportional like times or arial. WrapProp
+from CPAN didn't work right and I've tried everything else I can think of.
+My deadline is 
+overdue and I have too much riding on this so it really 
+needs to work yesterday.
+
+I would greatly appreciate any help you might be able to send my way and
+may be able to help you sometime.
+
+Let me know if you know of a quick way to do this, and if you need anything
+from me, to do so.
+
+Thanks in advance for your consideration, and for any 
+assistance you might be able to render.
+
+In hopeful expectation of a miracle,
+
+
+Donald Kubelka
+don@pushbuttonpress.com
+
+P.S. At this point it just needs to work, I don't even care if I have to
+use the system command to send the 
+parameters to a separate program. 
+
+P.P.S. I am running Linux Mandrake 8.0 with all the 
+trimmings and can configure the machine however it 
+needs to be in order for this to work.
+
+P.P.P.S. I know that this is possible as open source programs such as Star
+Office, LyX and KWord can do full justification - I don't know C and so I'd
+need someone else to find out how they do it and adapt the algorithm
+appropriately.
+
+Required skills:
+ability to do full fill justification of proportional width fonts
+
+
+
+Contact information:
+Donald Kubelka
+perl@pushbuttonrpess.com
+1-203-550-6650
+
+

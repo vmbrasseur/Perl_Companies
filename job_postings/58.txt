@@ -1,0 +1,55 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:58
+Return-Path: <adbrownlee@hotmail.com>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 39494 invoked from network); 24 May 2001 01:45:00 -0000
+Received: from f77.law14.hotmail.com (HELO hotmail.com) (64.4.21.77)
+  by onion.valueclick.com with SMTP; 24 May 2001 01:45:00 -0000
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Wed, 23 May 2001 18:44:31 -0700
+Received: from 24.28.246.55 by lw14fd.law14.hotmail.msn.com with HTTP;	Thu, 24 May 2001 01:44:31 GMT
+X-Originating-IP: [24.28.246.55]
+To: jobs@perl.org
+Bcc: 
+Date: Wed, 23 May 2001 21:44:31 -0400
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed
+Message-ID: <F77eLjCdclVXOK7S8My00002ef6@hotmail.com>
+X-OriginalArrivalTime: 24 May 2001 01:44:31.0483 (UTC) FILETIME=[13C85CB0:01C0E3F3]
+X-Spam-Rating: onion.valueclick.com 1.6.2 0/1000/N
+Subject: Seeking Telecommuting Perl Job
+Approved: news@nntp.perl.org
+From: adbrownlee@hotmail.com ("Amy Brownlee")
+
+My name is Amy Brownlee and I am seeking work as a Web Developer utilizing 
+Perl, MySQL, and HTML.  I live in Graham, North Carolina and I want to 
+telecommute 100%.  I have written a Perl script, login.pl, which take user 
+ID, pin and password info, from a HTML form and then validates that they are 
+in a MYSQL table.  Valid members will be sent to register.html to complete 
+the registration process. Members that are not in the table are taken to a 
+sorry.html page. Register.pl is another Perl script that I have written.  It 
+takes registration info from an HTML form, creates a record in a MySQL 
+table, and sends an email to an administrator.  Ordertrack.pl is another 
+Perl script that I have written that retrieves a customer's order shipping 
+info when they enter their order number into the tracking number field on an 
+HTML page.  It then searches a MYSQL table and generates an HTML page 
+display their shipping info with a link to the UPS website. If the order 
+number is not in the table then an invalid order number HTML page is 
+generated.
+
+My salary is negotiable. I can be reached by email at 
+amybrownlee@triad.rr.com or after 6pm at 336-570-0242.
+
+My resume is available here:
+http://home.triad.rr.com/amyresume/resume.html
+
+Thank you,
+
+Amy Brownlee
+
+_________________________________________________________________
+Get your FREE download of MSN Explorer at http://explorer.msn.com
+

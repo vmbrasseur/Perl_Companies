@@ -1,0 +1,91 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11374
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 30189 invoked from network); 7 Jun 2011 21:07:21 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 7 Jun 2011 21:07:21 -0000
+Received: (qmail 26718 invoked by uid 225); 7 Jun 2011 21:07:21 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 26714 invoked by alias); 7 Jun 2011 21:07:21 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 07 Jun 2011 14:07:19 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id E33A62AFE7; Tue,  7 Jun 2011 14:07:15 -0700 (PDT)
+To: jobs@perl.org
+Date: Tue, 7 Jun 2011 14:07:15 -0700
+Message-ID: <20110607210715.E33A62AFE7@x3.develooper.com>
+Subject: Jack of all trades for social networking startup (telecommute),
+ United States, GA, Atlanta
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14278
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June  7, 2011
+
+Job title: Jack of all trades for social networking startup
+
+Company name: Public Karma, Inc
+
+Internal ID: init1
+
+Location: United States, GA, Atlanta
+
+Pay rate: project (USD)
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: 25 Jun. 2011
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+I've been a Perl developer for 15 years (CPAN: RUDY) and am working on a
+start up that's looking for a sharp programmer (or few) wanting a crash
+course in building big, high-performance websites.  Rather than drop hints,
+this is a budget-restricted project, though we will be free and plentiful
+with references and potential future work, if it works out.  
+
+The project deadline is fixed 25 Jun. for a working model, and we need
+someone to furiously flesh out the web-based portion of a social networking
+site.  There should be lots of fun problems and interesting architecture
+issues to hash out.  This is not a Windows shop and someone who can work in
+a Linux/*BSD environment is a must.  Willing to consider a PHP CMS (Drupal,
+Joomla, and friends), if a convincing argument is made for speed of
+implementation and scalability.
+
+This is a remote position, so the candidate should be able to work over
+instant message and telephone.	Must also be willing to sign a
+nondisclosure agreement before receiving specifications, and must be
+authorized to work in the US on a 1099 basis (corp-to-corp preferred but
+not absolute). 
+
+Required skills:
+-understanding of relational databases (preferably
+MariaDB/MySQL/PostgreSQL)
+-Perl 
+-web development
+-basic system administration
+
+Desired skills:
+-noSQL databases (Mongo, Cassandra, Memcached, etc.)
+-front end (graphic design is not needed)
+-JavaScript (jQuery)
+
+Tell us what you've got and what you want to play with and we might be able
+to work with it.
+
+Contact information at:
+http://jobs.perl.org/job/14278#contact

@@ -1,0 +1,95 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6661
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 25117 invoked from network); 20 Jul 2007 17:43:02 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 20 Jul 2007 17:43:02 -0000
+Received: (qmail 8065 invoked by uid 225); 20 Jul 2007 17:43:02 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 8056 invoked by alias); 20 Jul 2007 17:43:01 -0000
+X-Spam-Status: No, hits=-2.6 required=8.0
+	tests=BAYES_00,DKIM_POLICY_SIGNSOME,DK_POLICY_SIGNSOME,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 20 Jul 2007 10:42:53 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 1E8952AFDA; Fri, 20 Jul 2007 10:42:49 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070720174249.1E8952AFDA@x3.develooper.com>
+Date: Fri, 20 Jul 2007 10:42:49 -0700 (PDT)
+Subject: Perl Web Application Developer for small co. (onsite), United States, CA, Berkeley
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/6221
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 19, 2007
+
+Job title:
+Perl Web Application Developer for small co.
+
+Company name: BookFinder.com
+
+Location: United States, CA, Berkeley
+
+Pay rate: $70-90k based on experience
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We're a stable, profitable, 4-person developer-driven company based in
+Berkeley, CA. We offer the pay and stability of a larger company, but with
+startup-style flexibility (low hierarchy, flexible hours, freedom to affect
+product direction). We're located downtown, right next to the Downtown
+Berkeley BART station.
+
+Not surprisingly, we're a LAMP shop: Perl/CPAN, Apache, mod_perl, Mason,
+MySQL, CVS, and Red Hat Linux / CentOS, etc. We're also powered by
+whiteboards, shared brainstorming, and the love and support of a passionate
+user base.
+
+Responsibilities:
+
+As one of the core developers of BookFinder.com, you will be involved with
+all aspects of the system: product vision, development, debugging, and
+maintenance. You'll have a hand in every part of the product lifecycle,
+working alongside two long-time Perl coders in a friendly, low-hierarchy
+workspace.
+
+Code doesn't live in a vacuum; you'll need to be able to take into account
+factors like analytics, marketing, and budgeting when making decisions
+about the product. We're looking for someone self-motivated, and willing to
+take responsibility for new ideas and initiatives.
+
+Required skills:
+-2+ years experience building large web-based applications in Perl
+-Familiarity with standard Linux command line environment, tools, servers
+(e.g. editors, source code control, Apache, etc.)
+- Experience with data processing/analysis, regular expressions, and
+Web-based APIs
+- Ability to work in an environment with rapidly changing priorities
+- Knowledge of HTML/CSS, some JavaScript
+
+
+Desired skills:
+- Database/SQL experience a plus
+- Love of books and reading a plus
+
+URL for more information: http://www.bookfinder.com/
+
+Contact information at:
+http://jobs.perl.org/job/6221#contact
+
+

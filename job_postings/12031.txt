@@ -1,0 +1,91 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12031
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13092 invoked from network); 14 Jan 2012 04:19:32 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 14 Jan 2012 04:19:32 -0000
+Received: (qmail 21527 invoked by uid 225); 14 Jan 2012 04:19:32 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 21522 invoked by alias); 14 Jan 2012 04:19:31 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 13 Jan 2012 20:19:29 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id CE35B2AFE0; Fri, 13 Jan 2012 20:19:25 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 13 Jan 2012 20:19:25 -0800
+Message-ID: <20120114041925.CE35B2AFE0@x3.develooper.com>
+Subject: Senior Perl Software Engineer (onsite), Dulles, VA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15386
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 13, 2012
+
+Job title: Senior Perl Software Engineer
+
+Location: Dulles, VA
+
+Pay rate: w2 70/hr or c2c 65/hr
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 6 months
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The client operates over a dozen Perl/CGI systems that are tightly coupled
+to stored procedures in Sybase databases. From time to time data issues pop
+up, and need to be investigated to find the source of the issue. Sometimes
+this is bad data in an upstream system, sometimes it is a bug in the way
+the data is being handled. Strong analytical, system administration, and
+database skills required.
+Fixing someone else's code, without much documentation or any guidance
+requires several years of development experience. Finding, fixing, testing
+and deploying the solutions is part of the job, as is documenting what
+happened -- so that the next person may have an easier time. Some of the
+systems need support for up to six month, until a replacement system is in
+place. Other systems need long term support and require code clean-ups and
+ports to newer platforms.
+
+Required skills:
+MUST HAVE:
+·	  2+ years of work experience with PERL.
+·	  4+ years of work experience in Object-Oriented Programming.
+·	  4+ years of work experience in use of SQL and stored procedures
+in Sybase and MySQL.
+·	  Web Services: understanding of how to build and deploy web
+services on Apache using Perl CGI. HTML, JavaScript and JQuery knowledge
+helpful. Java Servlet deployment on Tomcat also helpful.
+·	  Linux OS: comfortable editing (i.e. vi), debugging and building
+applications in Redhat/CentOS platforms. Basic Linux System Administrator
+skills helpful.
+
+Desired skills:
+SKILL MATRIX:
+·	  Bachelors degree (CS) or 4-6 years equivalent experience
+·	  Strong analytical and troubleshooting skills
+·	  Perl
+·	  SQL, Stored Procedures, Sybase
+·	  Linux, SysAdmin skills
+·	  Java
+·	  PKI, Certificates
+·	  Identity Management
+·	  Access Management, Compliance (SOX)
+
+Contact information at:
+http://jobs.perl.org/job/15386#contact

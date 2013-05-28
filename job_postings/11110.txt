@@ -1,0 +1,132 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11110
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 12131 invoked from network); 16 Mar 2011 21:15:45 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 16 Mar 2011 21:15:45 -0000
+Received: (qmail 11621 invoked by uid 225); 16 Mar 2011 21:15:45 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11617 invoked by alias); 16 Mar 2011 21:15:44 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS,T_LOTS_OF_MONEY
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 16 Mar 2011 14:15:42 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 8D8192AFE2; Wed, 16 Mar 2011 14:15:39 -0700 (PDT)
+To: jobs@perl.org
+Date: Wed, 16 Mar 2011 14:15:39 -0700
+Message-ID: <20110316211539.8D8192AFE2@x3.develooper.com>
+Subject: Server Software Engineer for Network Appliance Company (Perl, MySQL)
+ (onsite), United States, MD, Annapolis
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13860
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 16, 2011
+
+Job title:
+Server Software Engineer for Network Appliance Company (Perl, MySQL)
+
+Company name: Infoblox
+
+Location: United States, MD, Annapolis
+
+Pay rate: $80,000 - $110,000 USD
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The Company:
+Infoblox is a 12 year old, privately held company that is the leader in
+Network Automation and Control.  We have shipped more than 40,000
+appliances to more than 4,000 clients worldwide including more than 1/3 of
+the Fortune 500.  Our client base uses our integrated hardened appliance
+based software for business continuity, availability and compliance.
+
+The Annapolis office is the headquarters for the NetMRI product line.  This
+network automation and configuration management software helps users
+automate and control change and network configuration for multi-vendor
+layer 2 and 3 network devices.	Customers use it for:
+* Change control and network simulation
+* Building and enforcing standards and compliance
+* Task automation, configuration and troubleshooting
+Supporting virtualization, consolidation and cloud computing
+
+The Product:
+
+NetMRI focuses on innovative ways to deliver network configuration and
+change management to the enterprise.  The user experience is a highly
+interactive Rich Internet Application implemented with JavaScript/JSON,
+Flash, Flex and HTML. The server side is Linux / MySQL with a Ruby on Rails
+framework served up by Apache / Passenger. The backend consists of numerous
+Perl-based engines that collect, model and analyze network data and
+automate network operations. The development methodology centers around
+Agile Scrum, using lightweight processes focused on delivering tangible
+results quickly and often.
+
+
+The Challenge:
+
+The Server Engineer is responsible for the development, design, coding and
+testing of network analysis and management features in the “back-end” of
+the company’s “NetMRI” Linux-based appliance.
+
+
+Key Responsibilities:
+•	Create software written in Perl and other languages on occasion as
+needed.
+•	Develop automated unit tests for continuous integration and
+regression testing.
+•	Work closely with other engineers in Agile teams to accomplish
+shared objectives.
+•	Work with QA to help define effective system and performance test
+plans.
+
+
+Required skills:
+Skills & Experience:
+•	5+ years experience in software development with demonstrated
+experience in delivering quality code
+•	3+ years’ experience in Perl development required; OO Perl
+experience a strong plus
+•	3+ years’ experience of networking experience preferred; CCNA or
+higher a strong plus
+•	3+ years of working knowledge of Linux required; engineer level
+experience is a strong plus
+•	2+ years of SQL development required; administrator level
+experience is a strong plus
+•	Experience with network management and SNMP is a strong plus.
+•	Full software development life-cycle experience, with proven track
+record of shipping quality software products on time
+•	Results oriented, solid work ethic with excellent attention to
+detail and quality
+•	Excellent verbal and written communication skills
+•	Four year degree in CS, CE, EE, or other technical field such as
+math, physics or engineering is required.  
+•	Graduate Degree in CS, CE, EE a plus
+
+
+Desired skills:
+•	Graduate Degree in CS, CE, EE a plus
+
+PLEASE NOTE, THERE ARE NO RELOCATION FUNDS FOR THIS ROLE.  We can consider
+out of state (not out of country) applicants, but you must be willing to
+self relocate.	Company WILL sponsor employment visa's, when possible.
+
+Website for more information: http://www.infoblox.com/
+
+Contact information at:
+http://jobs.perl.org/job/13860#contact

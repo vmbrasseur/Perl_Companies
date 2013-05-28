@@ -1,0 +1,152 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3170
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 5705 invoked from network); 7 Sep 2005 04:28:13 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 7 Sep 2005 04:28:13 -0000
+Received: (qmail 14779 invoked by uid 225); 7 Sep 2005 04:28:12 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 14775 invoked by alias); 7 Sep 2005 04:28:11 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 06 Sep 2005 21:28:09 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j874S6E9002689
+	for <jobs@perl.org>; Tue, 6 Sep 2005 21:28:06 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j874S6wT002687;
+	Tue, 6 Sep 2005 21:28:06 -0700
+Date: Tue, 6 Sep 2005 21:28:06 -0700
+Message-ID: <200509070428.j874S6wT002687@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Software Development Oracle 9i, PL/SQL, Perl (onsite), United States, WA, Seattle
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3029
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September  6, 2005
+
+Job title:
+Software Development Oracle 9i, PL/SQL, Perl
+
+Company name: Volt Technical Resources
+
+Internal ID: 124267JP
+
+Location: United States, WA, Seattle
+
+Pay rate: D.O.E.
+
+Travel: 0%
+
+Terms of employment: Hourly employee
+
+Length of employment: 60-90 days
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+There is a Content Platform Services team, in Seattle, Washington which is
+a part of Media Application Platform Service who is looking for a Software
+Development Engineer (SDE) to help build the database tier for its state of
+the art content management system (CMS), user data services and media
+authorization/authentication systems. The Software Development Engineer
+will design and develop data models, develop ETL processes using PL/SQL and
+shell/perl scripts for related applications running on Oracle databases and
+perform data migrations.
+
+The Software Development Engineer will also be responsible for tuning SQL
+and providing back-end support for web-applications, developed in Java and
+running on Linux, Apache and Tomcat as well as carry out data migrations
+and create ad-hoc reports. This person will play a key role in the
+technical architecture of Content Platform Services and focus on quality,
+performance and delivery of the best web services available on the
+Internet. 
+
+The Software Development Engineer should have ability to work independently
+as well as be able to be part of a team as they will be involved in all
+phases of product development from review of functional specifications
+through assisting with test plans and final QA cycle as well as provide
+Tier 1 support to Services, Tools and products built on Media Application
+Platform. 
+ 
+PLEASE NOTE: Please send in your resume to us and then call in about this
+position and inform the Receptionist that you would like to be in contact
+with the Recruiter responsible for this posting. Give the Receptionist the
+job number of 124267 to check who the Recruiter is to connect you with. 
+
+Volt is an Equal Opportunity Employer and dedicated to fostering diversity
+in the workplace.
+
+
+Required skills:
+Key technical requirements include: 
+
+Oracle 9i or higher 
+Data Modeling 
+PL/SQL, SQL Tuning 
+Case tools like Oracle Designer/ERWIN, Shell Programming/Perl. 
+Experience with large Databases, high volume and availability transactional
+systems, is highly desirable. 
+Experience with Java/J2EE platform and/or E-commerce systems and/or content
+management systems, is a plus. 
+Candidate must enjoy a fast-paced environment and possess strong software
+engineering skills. 
+Extensive knowledge of RDBMS, OLTP and back-end systems in multi-tier
+application environment is a must, along with strong experience in database
+administration.
+
+Minimum Job Requirements: Knowledge, Skills and Abilities: 
+
+Proven track record of successfully delivering high volume and availability
+transactional applications under tight time constraints. 
+Ability to lead code reviews and technical design meetings. 
+Ability to work on multiple projects with tight deadlines. 
+4-5 years with Oracle (PL/SQL & SQL) development experience. Strong
+software engineering skills. 
+2 years experience in Unix (Shell/Perl development experience. 
+Experience with Data Modeling and case tools like Oracle Designer/ERWIN. 
+Thorough understanding of software development lifecycle and methodologies
+including code reviews and version control software such as CVS or Visual
+SourceSafe. 
+Detailed knowledge of Oracle Databases. 
+Experience with software performance and load testing and SQL tuning and
+data debugging in a high volume and availability environment. 
+Strong verbal and written communication skills. 
+
+Preferred Job Requirements: Knowledge, Skills and Abilities: 
+
+Experience as a DBA for Oracle databases. Knowledge of Oracle features such
+as data replication (Advanced Queues/Streams), RAC etc. 
+Experience with Java/J2EE platform. 
+Experience with e-commerce, authentication or authorization systems a plus.
+
+Experience with 24/7 applications. 
+
+Minimum Education, Certification and/or Training: Bachelor’s degree in
+Computer Science or computing related discipline. 
+
+Preferred Education, Certification and/or Training: Master’s degree in
+Computer Science. 
+
+URL for more information:
+http://jobs.volt.com/jobcart/job_details.cfm?JobID=124267
+
+Contact information at:
+http://jobs.perl.org/job/3029#contact
+
+

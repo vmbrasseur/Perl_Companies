@@ -1,0 +1,116 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8489
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 14283 invoked from network); 24 Jul 2008 07:15:26 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 24 Jul 2008 07:15:26 -0000
+Received: (qmail 20986 invoked by uid 225); 24 Jul 2008 07:15:26 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 20982 invoked by alias); 24 Jul 2008 07:15:25 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 24 Jul 2008 00:15:23 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id A858C2AFEA; Thu, 24 Jul 2008 00:15:19 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080724071519.A858C2AFEA@x3.develooper.com>
+Date: Thu, 24 Jul 2008 00:15:19 -0700 (PDT)
+Subject: Handful of scripts for newsletter site (telecommute), United States, NY, New York
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/9276
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 23, 2008
+
+Job title: Handful of scripts for newsletter site
+
+Company name: Investor DNA
+
+Internal ID: idna
+
+Location: United States, NY, New York
+
+Pay rate: 20 USD per hour
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 20 hours initial project - the
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+The http://investordna.net site is a wordpress site with a related
+newsletter.  We want to read in articles from emails, allow the editor to
+format, sort, and delete them.
+
+Then, overnight, we will have cron jobs to update the outgoing newsletter
+on iContact using their perl API, and to import the articles into wordpress
+to be the new front page of investordna.net.
+
+The scripts have already been started (http://investordna.net/scripts.zip).
+ Here is a summary:
+
+CURRENT SCRIPTS (to finish)
+
+The following scripts have already been developed:
+
+editor.cgi
+
+DESC: this script reads all of the received emails into a
+"consolidated.xml" file, then allows the user to delete articles, change
+their text, change the order, etc.  It uses editor.tmpl template to display
+the data.
+
+TODO: The page loads, but the re-writing of the consolidated.xml file
+doesn't work yet.  Must add the ability to change the category associated
+with the article.  
+
+parseMails.pl
+
+DESC: This reads in emails from the incoming mailbox, parses out articles
+and writes out the results as XML
+
+TODO: About 15 more parser methods need to be written - one for each type
+of incoming message
+
+uploadMessage.pl
+
+DESC: This uses Net::iContact to upload a message to iContact.	
+
+TODO: You will need to create a free iContact trial account and get the
+newsletter to upload properly using this script.
+
+NEEDED SCRIPTS
+
+updateSite.pl 
+
+This script must convert that day's consolidated.xml into a format that can
+be imported by WordPress, then import it.  It will run at 1am to make sure
+it loads the articles for the correct day.
+
+Required skills:
+perl
+email parsing via regexp
+
+Desired skills:
+WordPress integration
+iContact integration
+
+Contact information at:
+http://jobs.perl.org/job/9276#contact
+
+

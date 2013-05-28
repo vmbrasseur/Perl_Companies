@@ -1,0 +1,112 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6941
+Return-Path: <Lauren.Brockie@gmail.com>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 5221 invoked from network); 12 Sep 2007 00:30:34 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 12 Sep 2007 00:30:34 -0000
+Received: (qmail 27706 invoked by uid 225); 12 Sep 2007 00:30:34 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 27699 invoked by alias); 12 Sep 2007 00:30:33 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_NEUTRAL
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x6.develooper.com (HELO lists.develooper.com) (63.251.223.186)
+    by la.mx.develooper.com (qpsmtpd/0.28) with SMTP; Tue, 11 Sep 2007 17:30:13 -0700
+Received: (qmail 5024 invoked by uid 515); 12 Sep 2007 00:30:09 -0000
+To: jobs@perl.org
+MBOX-Line: From news@google.com Wed Sep 12 00:30:09 2007
+Delivered-To: colobus-nntpmod@lists.develooper.com
+Received: (qmail 5008 invoked from network); 12 Sep 2007 00:30:08 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 12 Sep 2007 00:30:08 -0000
+Received: (qmail 27469 invoked by uid 225); 12 Sep 2007 00:30:08 -0000
+Delivered-To: news-moderator-perl.jobs@perl.org
+Received: (qmail 27461 invoked by alias); 12 Sep 2007 00:30:07 -0000
+Received: from moderators.individual.net (HELO moderators.individual.net) (130.133.4.7)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 11 Sep 2007 17:29:53 -0700
+Received: from proxy.google.com ([64.233.177.4])
+          by moderators.individual.net (Exim 4.67)
+          for perl-jobs@moderators.isc.org with esmtp
+          (envelope-from <news@google.com>)
+          id <1IVG72-0002iG-1n>; Wed, 12 Sep 2007 02:29:48 +0200
+Received: from AR020007
+	by proxy.google.com with ESMTP id l8C0TlV7006286
+	for <perl-jobs@moderators.isc.org>; Tue, 11 Sep 2007 17:29:47 -0700
+Received: (from news@localhost)
+	by Google Production id l8C0TlTl021133
+	for perl-jobs@moderators.isc.org; Tue, 11 Sep 2007 17:29:47 -0700
+Date: Wed, 12 Sep 2007 00:29:47 -0000
+Organization: http://groups.google.com
+Lines: 48
+Message-ID: <1189556987.200070.109570@o80g2000hse.googlegroups.com>
+NNTP-Posting-Host: 65.205.225.66
+Mime-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+X-Trace: posting.google.com 1189556987 21130 127.0.0.1 (12 Sep 2007 00:29:47 GMT)
+X-Complaints-To: groups-abuse@google.com
+NNTP-Posting-Date: Wed, 12 Sep 2007 00:29:47 +0000 (UTC)
+User-Agent: G2/1.0
+X-HTTP-UserAgent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6,gzip(gfe),gzip(gfe)
+Complaints-To: groups-abuse@google.com
+Injection-Info: o80g2000hse.googlegroups.com; posting-host=65.205.225.66;
+   posting-account=ps2QrAMAAAA6_jCuRt2JEIpn5Otqf_w0
+X-Posted-By: 63.251.223.186
+X-Old-Spam-Check-By: la.mx.develooper.com
+X-Old-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_NEUTRAL
+Subject: TokBox Inc. looking for a LAMP Developer! [Palo Alto, CA]
+Approved: news@nntp.perl.org
+From: Lauren.Brockie@gmail.com
+
+TokBox Inc. is looking to hire! We are seeking a highly skilled LAMP
+Developer (preferably PHP) to join the team.
+
+TokBox Inc. has created a product which enables video conferencing in
+the browser. To start a video conference, participants simply go to
+www.tokbox.com, and our Flash-based application takes care of
+everything. No software download, install, or configuration is
+necessary! People can start video chatting within seconds of coming to
+TokBox.com.
+
+We are looking to hire a full-time PHP Developer based in Palo Alto,
+CA. We offer competitive compensation / equity packages and benefits.
+
+Want to learn more? Check out what Tech Crunch had to say about us:
+http://www.techcrunch.com/2007/08/14/use-tokbox-to-set-up-instant-video-chat#comments
+
+The ideal candidate will have:
+
+    * BS, MS or PhD in Computer Science
+    * 3 - 5 years of experience with LAMP (PHP preferred)
+          o Will consider applicants with less experience
+    * Familiarity with AJAX/DHTML
+    * Scalable web development interest and experience
+    * Interest in feature development to accomodate user needs
+
+Key Responsibilities:
+
+    * Creatively think about user behavior and optimize flows
+    * Lead work on developing the website based on a LAMP stack + AJAX
+    * Rapidly develop new features based on user feedback and
+statistical data
+    * Creatively think about massive-scalability challenges
+    * Work on weekly and bi-weekly deadlines
+
+Key Success Factors:
+
+    * Independently motivated + enjoys learning from user feedback
+    * Learns and moves very fast
+    * Obsessed about rapid execution
+    * Communicates well with rest of team
+
+
+If you are interested in applying for this position, please email me
+with (1) resume and (2) availability. I look forward to hearing from
+you!
+
+- Lauren
+

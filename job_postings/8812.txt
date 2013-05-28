@@ -1,0 +1,109 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8812
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 25166 invoked from network); 9 Nov 2008 20:09:46 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 9 Nov 2008 20:09:46 -0000
+Received: (qmail 28476 invoked by uid 225); 9 Nov 2008 20:09:46 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 28469 invoked by alias); 9 Nov 2008 20:09:45 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 09 Nov 2008 12:09:42 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 0DE312AFD4; Sun,  9 Nov 2008 12:09:38 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20081109200939.0DE312AFD4@x3.develooper.com>
+Date: Sun,  9 Nov 2008 12:09:38 -0800 (PST)
+Subject: Perl CGI developer (lx-office-erp) (telecommute), Germany, Thuringia, Erfurt
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/9886
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November  8, 2008
+
+Job title: Perl CGI developer (lx-office-erp)
+
+Company name: Stardawn Consulting
+
+Internal ID: lxoffice
+
+Location: Germany, Thuringia, Erfurt
+
+Pay rate: 300 EUR
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+I need to outsource some of my work.
+
+The subject is Lx-office, an accounting application based on Perl and
+PostgreSQL.
+
+The next task in line (and the subject of this job posting) is adding
+dynamic support for multiple locales/languages. Currently the
+locale/language of the system is set in a configuration file. The goal is
+making it possible to switch the locale/language on a per-user basis at
+runtime. Additionally a link needs to be offered in each document (or the
+menu frame) to switch the language.
+
+The budget for this is 300 EUR (~384 USD at current xch rates) and there’s
+more lxoffice-related work in line.
+
+Please name a price that is really acceptable to you (it needs to be below
+the budget line, though). More details are available if you need them. I
+will not choose the cheapest partner but the one that seems most apt to do
+the job.
+
+I can give some guidance on setting up Lx-office, on generating the diff
+and on possible ways to solve the problem.
+
+
+=== General conditions ===
+
+Payment will be delivered via Moneybookers, Paypal or whatever suits you
+best.
+
+Due to time constraints I’m only going to reply to applications that seem
+promising and fitting; I’m sure you’re all going to understand this. :)
+
+Required skills:
+ * The applicant must know enough about Perl and CGI to understand the
+relevant portions of the system.
+
+ * They also need to be able to set up the software on their own machine;
+they therefore need a GNU/Linux system (or possibly MacOS X) and some
+proficiency with it.
+
+ * The work is to be delivered as a git-style unified diff at the end. You
+will be working with a Mercurial repository (you don't need to be
+proficient with it).
+
+ * Patience and persistence are crucial to be successful at this task.
+
+
+Desired skills:
+Experience in finding your way around in a large system.
+
+URL for more information: http://www.linkedin.com/in/polzer
+
+Contact information at:
+http://jobs.perl.org/job/9886#contact
+
+

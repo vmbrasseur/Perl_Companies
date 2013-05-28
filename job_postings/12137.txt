@@ -1,0 +1,106 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12137
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 4992 invoked from network); 19 Feb 2012 09:57:29 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 19 Feb 2012 09:57:29 -0000
+Received: (qmail 23837 invoked by uid 225); 19 Feb 2012 09:57:28 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 23833 invoked by alias); 19 Feb 2012 09:57:28 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 19 Feb 2012 01:57:26 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 4316C2AFDF; Sun, 19 Feb 2012 01:57:22 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sun, 19 Feb 2012 01:57:21 -0800
+Message-ID: <20120219095722.4316C2AFDF@x3.develooper.com>
+Subject: Perl Developer (onsite), New York,  NY
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15556
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 19, 2012
+
+Job title: Perl Developer
+
+Company name: Magnify.net
+
+Location: New York,  NY
+
+Terms of employment: Salaried employee
+
+Hours: Flexible
+
+Onsite: yes
+
+Description:
+Perl Developer
+
+Magnify.net is looking for a Perl Develop to to join our technical team. 
+The Perl Developer will build new product features as well as maintain
+existing software and provide technical assistance to customers integrating
+with the Magnify platform.  As part of our team you will have the
+opportunity to work on a high performance, highly available, highly visible
+SaaS platform and gain critical experience developing and maintaining
+software deployed in a multi-server, multi-platform environment. The ideal
+candidate will have experience with the Perl programming language, the LAMP
+environment as well as exposure to Java and distributed computing
+technologies such as web services, message queues and data grids.
+
+Required skills:
+Qualifications
+
+• The minimum of a Bachelors degree in Computer Science or a related field
+or demonstrated relevant technical experience is required
+• Experience working in a LAMP environment is required
+• Experience writing Perl in a web application environment is required
+• Experience with SQL is required
+• Experience working with version control systems such as Subversion or GIT
+is required
+• Experience working in a Linux environment using the command line is
+required, some experience with Linux system administration is strongly
+preferred
+• Exposure to data caching technologies like memcached or EHCache is
+preferred
+• Exposure to HTTP caching technologies like Varnish or Squid is preferred
+• Exposure to Java is preferred
+• Exposure to distributed computing technologies, such as web services,
+message queues and data grids is highly desirable
+• Exposure to Amazon Web Services like EC2 and S3 is desirable
+• A working knowledge of basic HTML, CSS, JavaScript, AJAX and JSON is
+desirable
+• Excellent written and verbal communication skills
+• The ability and desire to work in a very fast paced team environment and
+adhere to both internal and external deadlines
+
+Desired skills:
+Responsibilities
+
+• Working with the technical team to design, develop and maintain a highly
+available web-based application platform built using Perl, MySQL and Java
+in a Linux environment
+• Developing, maintaining and monitoring custom-built technical solutions
+that facilitate customer integration with our platform
+• Integrating third-party data sources with the Magnify platform and
+helping to monitor and maintain those integrations
+• Aiding the technical team in fixing bugs and participating in the QA
+process for new feature deployments
+• Communicating with the customer service team regarding bugs, project
+timelines and deliverables and customer implementation tasks
+
+Website for more information: http://www.magnify.net
+
+Contact information at:
+http://jobs.perl.org/job/15556#contact

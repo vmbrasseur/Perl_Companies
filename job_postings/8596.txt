@@ -1,0 +1,87 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8596
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 10849 invoked from network); 23 Aug 2008 20:47:41 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 23 Aug 2008 20:47:41 -0000
+Received: (qmail 21662 invoked by uid 225); 23 Aug 2008 20:47:40 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 21657 invoked by alias); 23 Aug 2008 20:47:40 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 23 Aug 2008 13:47:37 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id AC9B82AFE8; Sat, 23 Aug 2008 13:47:33 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080823204733.AC9B82AFE8@x3.develooper.com>
+Date: Sat, 23 Aug 2008 13:47:33 -0700 (PDT)
+Subject: Perl/SOAP/MySQL programmer - Work From Home (telecommute), United States, anystate, Work From Home anywhere
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/9488
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 22, 2008
+
+Job title:
+Perl/SOAP/MySQL programmer - Work From Home
+
+Company name: Set You Free Enterprises
+
+Location:
+United States, anystate, Work From Home anywhere
+
+Pay rate: Open for discussion
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+We need a perl programmer to work under me. I am the Project Manager and
+lead perl programmer for the company. I have several to-do lists that the
+company would like accomplished pretty fast. They have asked if I would
+like to hire some one to work under me and help me accomplish all that I
+have to do and then some. we can keep you busy. Here are what I will be
+asking of the person we hire:
+
+1) I will not have you login to the server or anything, but will ask you to
+program everything as a module. If you can find a module already rogrammed
+to use on Cpan, that would be fine if you can make it work for what we
+need. For instance... I need a working module that can be kept up to do
+what will utilize SOAP to communicate with UPS and USPS to calculate
+postage on the fly. How I have this envisioned is that I will pass the
+weight, dimensions, from zip and to zip to the module and you have the
+module return to me a hash that has the name of the method and the price of
+it. I will then present to them in the ecommerce the choices they will
+have.
+
+We can accomplish everything that way. What I need, you can build a module
+for it and then I can access it that way.
+
+Required skills:
+Perl (for a unix machine)
+MySQL
+SOAP
+
+Desired skills:
+ASP.NET
+Oracle
+
+Contact information at:
+http://jobs.perl.org/job/9488#contact
+
+

@@ -1,0 +1,122 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10208
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 6463 invoked from network); 5 Jun 2010 18:42:24 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 5 Jun 2010 18:42:24 -0000
+Received: (qmail 11037 invoked by uid 225); 5 Jun 2010 18:42:23 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11026 invoked by alias); 5 Jun 2010 18:42:23 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 05 Jun 2010 11:42:21 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 1E4AE2AFE1; Sat,  5 Jun 2010 11:42:18 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20100605184218.1E4AE2AFE1@x3.develooper.com>
+Date: Sat,  5 Jun 2010 11:42:18 -0700 (PDT)
+Subject: Perl/CGI Web Developer Contract (telecommute), United States, CA, Oakland
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/12356
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June  5, 2010
+
+Job title: Perl/CGI Web Developer Contract
+
+Company name: Webscheduler LLC
+
+Location: United States, CA, Oakland
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+Webscheduler is looking for an *experienced* perl developer to inherit the
+code base of webscheduler.net, a 12 year old profitable business to
+business subscription-based web application.
+
+You will be paid for the opportunity to get familiar with the code base.
+We're looking to establish a long-term relationship that requires
+occasional part-time development work.
+Understanding the existing code is more important than the impulse/ability
+to rewrite it.
+Months may pass between assignments.
+
+The existing app has a solid structure. You will be modifying the existing
+app, not rewriting it wholesale (until it makes business sense to do so).
+To date we have not outgrown the original design.
+
+New customers can be added and configured without developer involvement.
+If a new customer requests (and is willing to pay for the mods) features
+not present in the app, you would be called on to estimate the extent of
+the modification before performing them.
+
+The application runs on a single FreeBSD 7.2 server in a managed hosting
+account
+
+There are 4 mysql databases with a total 400MB of data in the databases.
+The largest db has 200 MB of data and the largest table has 400k rows with
+most tables under 10k rows. There are 20 database tables per customer.
+
+You will work with an experienced sysadmin.
+
+You will be expected to setup a local dev site for your personal
+development and testing.
+Choice of source control and development tools are left to you.
+We use git for producing daily diffs of what changed in the customer
+database tables.
+
+Webscheduler is a virtual company with the principals located in the SF bay
+area (East Bay) and you will be required to travel for an initial meeting
+with the Managing Partner. After that initial meeting, telecommuting is OK
+and the norm.
+
+Required skills:
+perl CGI
+
+DBI::mysql
+
+knowledge anonymous hashes and dereferencing them
+
+Web 1.0 application techniques
+
+CGI::Sessions
+
+creating custom perl modules
+
+HTML/CSS/JS
+
+Desired skills:
+patience and good debugging skills are a plus.
+
+jQuery - some of the user interface has been refreshed recently by using
+jQuery.
+
+knowledge of BSD is a plus (mostly awareness of the differences between
+command line options of BSD utilities and GNU versions) but not a
+requirement
+
+git version control
+
+URL for more information: http://webscheduler.net/
+
+Contact information at:
+http://jobs.perl.org/job/12356#contact
+
+

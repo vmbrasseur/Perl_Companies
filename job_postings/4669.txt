@@ -1,0 +1,131 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4669
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13709 invoked from network); 22 Jul 2006 13:40:00 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 22 Jul 2006 13:40:00 -0000
+Received: (qmail 24818 invoked by uid 225); 22 Jul 2006 13:40:00 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 24814 invoked by alias); 22 Jul 2006 13:39:59 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 22 Jul 2006 06:39:57 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id C33D02AFE2; Sat, 22 Jul 2006 06:39:52 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060722133952.C33D02AFE2@x3.develooper.com>
+Date: Sat, 22 Jul 2006 06:39:52 -0700 (PDT)
+Subject: Systems Architect (onsite), United States, California, Glendale
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4399
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 21, 2006
+
+Job title: Systems Architect
+
+Company name: DreamWorks Animation, SKG
+
+Location: United States, California, Glendale
+
+Pay rate: Dependent on experience
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Responsibilities:
+_ Designs/implements management tools for complex local and wide-area
+networks of machines
+_ Designs/implements and automates administration of network services
+_ Works under general direction from senior management.
+_ Recommends policies on system use, services, and procedures
+_ Provides technical leadership to system administrators, system
+programmers, or others of equivalent seniority
+
+Required skills:
+Required Skills:
+_ Strong interpersonal and communications skills; capable of writing
+proposals or papers, acting as a vendor liaison, making presentations to
+client audiences or professional peers, and working closely with upper
+management
+_ Ability to solve problems quickly and automate processes
+_ A solid understanding of an operating system; understands paging and
+swapping, inter-process communications, devices and what device drivers do,
+filesystem concepts (inode, clustering, logical partitions), can use
+performance analysis to tune systems
+_ A solid understanding of networking/distributed computing environment
+concepts; understands principles of routing, client/server programming, and
+the design of consistent network-wide filesystem layouts
+_ Extensive programming experience in Perl, shell, and C
+_ Ability to find and correct defects in existing C code repositories
+affecting system performance
+_ Ability to create new operating-system-level services and/or modifying
+existing services
+_ Experience programming in an Oracle and PL/SQL environment
+_ Experience designing, building, configuring, and managing NFS and autofs
+environments
+_ Experience designing, building, configuring, and managing an LDAP
+infrastructure
+_ Experience with TCP/IP networking protocols. Ability to debug (tcpdump,
+etherpeek, netstat, lsof ) and program at the network level
+_ Experience installing/configuring and automating maintenance of DNS/BIND
+_ Experience with network security (e.g., configuring firewalls, deploying
+authentication systems, or applying cryptography to network applications)
+_ Experience with host security (e.g., passwords, uids/gids, SIDs, file
+permissions, ACLs, filesystem integrity, use of security packages)
+_ Experience with Kerberos
+_ Experience installing/configuring server hardware, peripherals, and
+storage systems
+_ Experience coordinating multiple independent computer facilities (e.g.,
+working for the central group at a large company)
+_ Experience at sites with over 1,000 computers, over 1,000 users, and over
+a 100 terabytes of disk space
+_ Ability to apply statistical analysis techniques for performance analysis
+or debugging purposes for 1000+ concurrently operating systems
+
+Required Background:
+_ More than ten years of previous UNIX and/or Linux system administration
+experience
+_ More than five years of UNIX and/or Linux programming experience
+_ Last-tier service support experience in an on-call pager rotation
+
+Desired skills:
+_ A degree in computer science or a related field.
+_ Extensive programming background in any applicable language
+_ Publications within the field of system administration.
+_ Experience as postmaster of a site
+_ Experience programming in a TCP/IP multicast networking environment
+_ Experience implementing and developing to a single-sign on authentication
+environment
+_ Experience with X and OpenGL software development.
+_ Experience as a database administrator
+_ Experience installing/configuring load balancers, packet shapers, or
+proxies
+_ Experience with administration of charge-back accounting for service
+consumption
+_ Experience with Network Appliance file servers and/or development with
+NetApp API's and protocols
+
+URL for more information: http://www.dreamworksanimation.com/
+
+Contact information at:
+http://jobs.perl.org/job/4399#contact
+
+

@@ -1,0 +1,99 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:1398
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 60567 invoked by uid 76); 4 Mar 2004 17:41:44 -0000
+Received: from x1.develooper.com (HELO x1.develooper.com) (63.251.223.170) by onion.perl.org (qpsmtpd/0.26) with SMTP; Thu, 04 Mar 2004 09:41:44 -0800
+Received: (qmail 30653 invoked by uid 225); 4 Mar 2004 17:41:42 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 30590 invoked by alias); 4 Mar 2004 17:41:27 -0000
+Received: from [63.251.223.166] (HELO onion.perl.org) (63.251.223.166)  by la.mx.develooper.com (qpsmtpd/0.27-dev) with SMTP; Thu, 04 Mar 2004 09:41:27 -0800
+Received: (qmail 60419 invoked by uid 1016); 4 Mar 2004 17:41:24 -0000
+Date: 4 Mar 2004 17:41:24 -0000
+Message-ID: <20040304174124.60418.qmail@onion.perl.org>
+To: jobs@perl.org
+X-Spam-Checker-Version: SpamAssassin 2.63 (2004-01-11) on x1.develooper.com
+X-Spam-Status: No, hits=-4.9 required=8.0 tests=BAYES_00 autolearn=ham 	version=2.63
+X-SMTPD: qpsmtpd/0.26, http://develooper.com/code/qpsmtpd/
+Subject: Small perl /majordomo job (telecommute), United Kingdom, Glasgow
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1288
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March  4, 2004
+
+Job title: Small perl /majordomo job
+
+Company name: IRW Solutions
+
+Internal ID: IGW
+
+Location: United Kingdom, Glasgow
+
+Pay rate: tba
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: deliver asap
+
+Hours: Part time
+
+Onsite: no
+
+Description:
+EMAIL SERVICE CHANGES
+1. How the current service works
+A user function within Mediasurface (Large Java based Content Management
+package system) sends information from it to the 
+Majordomo software running on one of the clients’s servers.
+
+Editing options of email subscribers (subscription web site page)
+- When a user adds or modifies their details on the subscription page, the 
+
+Majordomo database of subscribers is altered.
+
+Maintaining categories of email (Java client function)
+- Through the Mediasurface Java client, we edit the navigation branches 
+through which the different categories of emails are defined.
+
+Defining a mail to be sent (Mediasurface field)
+- Some (but not all) of the web content authored in Mediasurface includes 
+the field ‘include in mailshot’. When published with this field set to 
+‘yes’, a message is sent to Majordomo causing the URL of this item to be 
+sent to the appropriate group(s) of users.
+
+Reporting
+- Majordomo sneds a weekly report of numbers of users subscribed.
+
+2. Requirements for other facilities
+We would like to be able to :
+- modify the content of emails (including sending a newsletter comprising 
+html);
+- add new categories of subscription groups;
+- modify the subject line and sender of the mail sent;
+- maintain the subscriber base (e.g. to delete old categories of user);
+- modify data capture to be able to gather and store more extensive info 
+about
+users when they subscribe;
+- modify Majordomo report content and names it is sent to ;
+- make further changes (as yet unspecified) more easily.
+
+
+Required skills:
+Perl, Majordomo, maybe some Mediasurface and Java
+
+Contact information:
+Ian at ianw@irw.co.uk
+
+Tel 00 44 141 842 1142
+
+

@@ -1,0 +1,81 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8528
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 4598 invoked from network); 6 Aug 2008 13:56:13 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 6 Aug 2008 13:56:13 -0000
+Received: (qmail 10275 invoked by uid 225); 6 Aug 2008 13:56:13 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 10271 invoked by alias); 6 Aug 2008 13:56:12 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 06 Aug 2008 06:56:10 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id D52D82AFE9; Wed,  6 Aug 2008 06:56:06 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080806135606.D52D82AFE9@x3.develooper.com>
+Date: Wed,  6 Aug 2008 06:56:06 -0700 (PDT)
+Subject: IT Engineer, Sr. (onsite), CA, San Diego
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/9348
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August  5, 2008
+
+Job title: IT Engineer, Sr.
+
+Company name: Qualcomm, Inc.
+
+Internal ID: N1816973 
+
+Location: CA, San Diego
+
+Pay rate: DOE
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Develop perl scripts, modules, and OO programs and any associated Unix
+shell scripts, makefiles, etc. for the purpose of enhancing the distributed
+computing cluster environment for our EDA engineers.
+
+Required skills:
+- Proven OO Perl applications programming experience.
+- Experience with perldoc and perl test harness
+- Experience with Unix/Linux operating systems
+- Experience with development of shell scrips and makefiles
+- Experience with software version control systems
+- Experience with software development methodologies.
+
+
+Associate's degree in Computer Science/Computer Engineering required.
+Bachelor's degree in Computer Science/Computer Engineering preferred.
+
+Desired skills:
+- Experience with resource management software such as LSF, PBS, Condor, or
+SGE.
+- Experience with FlexLM
+- Experience with XML, XML parsers
+- Experience with UML diagramming
+- Experience in development of web services using LAMP
+
+URL for more information: http://www.qualcomm.com/careers
+
+Contact information at:
+http://jobs.perl.org/job/9348#contact
+
+

@@ -1,0 +1,169 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11469
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8920 invoked from network); 12 Jul 2011 07:14:29 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 12 Jul 2011 07:14:29 -0000
+Received: (qmail 4363 invoked by uid 225); 12 Jul 2011 07:14:29 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 4359 invoked by alias); 12 Jul 2011 07:14:28 -0000
+X-Spam-Status: No, hits=-4.8 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SARE_RMML_Stock19,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 12 Jul 2011 00:14:26 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 1E5EE2AFD6; Tue, 12 Jul 2011 00:14:23 -0700 (PDT)
+To: jobs@perl.org
+Date: Tue, 12 Jul 2011 00:14:23 -0700
+Message-ID: <20110712071423.1E5EE2AFD6@x3.develooper.com>
+X-Virus-Checked: Checked
+Subject: Senior Quality Assurance Engineer, United States, Ca, Hollywood
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14468
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 11, 2011
+
+Job title: Senior Quality Assurance Engineer
+
+Company name: Live Nation Entertainment / Ticketmaster
+
+Location: United States, Ca, Hollywood
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Description:
+Who are we?
+Live Nation Entertainment is the world’s leading live entertainment and
+eCommerce company, comprised of four market leaders: Ticketmaster.com, Live
+Nation Concerts, Front Line Management Group and Live Nation Network. 
+Ticketmaster.com is the global event ticketing leader and one of the
+world’s top five eCommerce sites, with over 26 million monthly unique
+visitors.  Live Nation Concerts produces over 20,000 shows annually for
+more than 2,000 artists globally.  Front Line is the world’s top artist
+management company, representing over 250 artists.  These businesses power
+Live Nation Network, the leading provider of entertainment marketing
+solutions, enabling over 800 advertisers to tap into the 200 million
+consumers Live Nation delivers annually through its live event and digital
+platforms. For additional information, visit www.livenation.com/investors.
+
+Who are you?
+Passionate and motivated.  Driven, with an entrepreneurial spirit. 
+Resourceful, innovative, forward thinking and committed. At Live Nation
+Entertainment, our people embrace these qualities, so if this sounds like
+you then please read on!  
+
+The Role:
+Live Nation Entertainment is looking for a Senior QA Engineer  who can
+thrive in this intellectually challenging environment. We are seeking
+candidates who are proactive, self-starters, and have a proven track record
+to work independently with minimal supervision and collaboratively with a
+team as required.
+
+We are building world-class products to help our clients serve their
+customers better. We are looking for additional innovative solutions which
+will contribute towards these next generation initiatives. This includes
+development for a core set of next generation of applications while
+creatively pushing the envelope using cutting edge technologies. The
+candidate will participate in specification and design reviews, work
+closely with product & other non-technical staff, write test plans/cases,
+create automated test, perform heads down testing, work with developers and
+technical operations to isolate and solve problems, and create necessary
+documentation.
+
+Above all else, candidates must have the proven ability to be
+problem-solvers.  If you are a passionate technologist who can get a lot
+done while having fun, come join a team of like-minded, skilled
+professionals where you can learn and share your knowledge!
+
+Qualifications:
+•	5 - 7 years hands on QA/Testing Experience 
+•	2 - 3 years test automation experience
+•	Excellent written and oral communication skills
+•	Excellent critical thinking and problem solving abilities
+
+
+Required skills:
+Requirements:
+
+Test Definition:
+•	Plan, write, and execute test plans
+•	Write, maintain, and verify test cases
+•	Develop test matrixes, identify test data and use case requirements
+
+•	Proven experience writing test plans and test cases
+•	Experience analyzing the needs of internal/external clients
+
+Test Execution:
+•	Black Box/Grey Box Testing: Including testing against large-scale
+database systems.
+•	Proven experience with black box/gray box testing
+•	Extensive experience testing web applications
+•	Extensive experience writing SQL queries to identify and verify
+data used by code.  
+•	Must be comfortable with relational database technology, concepts
+and tools
+•	Must be able to work in an environment with short development and
+release cycles
+
+Bug Tracking:
+•	Experience using a bug tracking tool (e.g., Bugzilla, Jira), and
+associated processes
+•	Responsible for identifying, logging, tracking and escalating bugs 
+
+•	Verifying bug fixes, through regression testing
+•	Updating & maintaining related QA documentation
+•	Ability to write concise bug reports.
+
+Automation:
+•	Experience with programming/scripting language(s) (e.g., Perl, UNIX
+shell)
+•	Experience with setting up and maintaining an automated testing
+environment
+•	Experience using automation test tools (Selenium, Watir, QTP)
+
+Mentoring:
+•	Provide guidance to more junior team members in developing testing
+& technical skills.  
+•	Provide guidance on establishing & maintaining a library of
+automated tests.
+•	Document all stages of the QA process and work with QA
+Leads/Director to define & improve best practices in QA.
+
+Server Knowledge:
+•	Experience with basic server administration, including server
+starts/stops
+•	Experience with basic modifications to web server config files
+•	Experience with Apache on Linux
+
+
+Desired skills:
+Preferred:
+•	Experience testing applications developed using Open Source
+Technologies in a large scale transaction environment (Linux, Apache, Perl,
+MySQL – LAMP)
+•	Experience using test case management tools (e.g., Testlink, Test
+Director)
+•	Prior experience with open-source test automation tools (e.g.
+Selenium)
+•	Experience with Linux/Unix Environments 
+•	Experience with MySQL and Oracle.
+•	Experience with Configuration Management (i.e., SVN)
+•	Experience with Release Management process/methodology.
+
+
+Website for more information: http://www.livenation.com/careers/index.html
+
+Contact information at:
+http://jobs.perl.org/job/14468#contact

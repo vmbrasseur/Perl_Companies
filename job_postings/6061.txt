@@ -1,0 +1,90 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6061
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 368 invoked from network); 5 Apr 2007 23:19:27 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 5 Apr 2007 23:19:27 -0000
+Received: (qmail 21429 invoked by uid 225); 5 Apr 2007 23:19:27 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 21421 invoked by alias); 5 Apr 2007 23:19:27 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,DK_POLICY_SIGNSOME
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 05 Apr 2007 16:19:25 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 0A4822AFFB; Thu,  5 Apr 2007 16:19:22 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070405231922.0A4822AFFB@x3.develooper.com>
+Date: Thu,  5 Apr 2007 16:19:22 -0700 (PDT)
+Subject: Senior Perl/Linux Web Application Developer (onsite), United States, MA, Boston
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3486
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April  5, 2007
+
+Job title:
+Senior Perl/Linux Web Application Developer
+
+Company name: MaxMind LLC
+
+Internal ID: perljobs
+
+Location: United States, MA, Boston
+
+Pay rate:
+Competitive salary based on experience, bonus, health insurance
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+MaxMind is a five-year-old technology startup that enables businesses to
+locate their Internet Visitors and detect online credit card fraud.
+
+We offer a great work environment of a growing, profitable startup, where
+creativity and innovation are encouraged.  We are located near Copley
+Square in Boston, about a 5 minute walk from the Copley T stop.
+
+We are looking for a talented programmer who has experience with developing
+web applications on Perl and Linux.
+
+Job function:
+Enhance maxmind.com website to enable
+clients to interact with our system more effectively.
+Build distributed framework using servers over multiple data centers for
+load-balancing and redundancy.	Synchronize MySQL databases over multiple
+machines.
+
+Required skills:
+3+ years programming in Perl on a Linux environment 
+SQL experience (we use MySQL)
+
+Desired skills:
+- mod_perl / Apache / C
+- Web Programming / DHTML / CSS / XML / SOAP / WSDL
+- Linux System Administration
+- Background with Object-oriented design
+- Contributions made to Open Source projects.
+
+URL for more information: http://www.maxmind.com/
+
+Contact information at:
+http://jobs.perl.org/job/3486#contact
+
+

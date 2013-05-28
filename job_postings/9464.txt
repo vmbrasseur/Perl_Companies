@@ -1,0 +1,124 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9464
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 24722 invoked from network); 12 Sep 2009 07:44:42 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 12 Sep 2009 07:44:42 -0000
+Received: (qmail 21393 invoked by uid 225); 12 Sep 2009 07:44:42 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 21389 invoked by alias); 12 Sep 2009 07:44:41 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 12 Sep 2009 00:44:36 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 2EDDF2AFD3; Sat, 12 Sep 2009 00:44:32 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20090912074432.2EDDF2AFD3@x3.develooper.com>
+Date: Sat, 12 Sep 2009 00:44:32 -0700 (PDT)
+Subject: Software Engineer (onsite), United States, MO, St. Louis
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/11056
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 11, 2009
+
+Job title: Software Engineer
+
+Company name: Beck Automation
+
+Location: United States, MO, St. Louis
+
+Pay rate: tbd
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Job Environment:
+
+Beck Automation is a small factory automation company based near WestPort
+Plaza.	You will be working in the Engineering department with several
+other people who are responsible for developing and enhancing products for
+automating and scheduling metalforming factory equipment. 
+
+Job Benefits:
+	- paid vacation
+	- flexible time
+	- 401k with tiered contribution matching
+	- medical, dental, and prescription insurance
+	- competitive pay
+
+Job Description:
+
+As a member of our Engineering department your primary responsbility
+will be updating and enhancing our current scheduling software.  The
+software is a web application that communicates with controllers on the
+factory floor to schedule jobs for the machines and collect production
+data for generating reports.  This project tends to consist of 75% Perl,
+10% ActionScript/JavaScript, 10% C++, 5% SQL.  You will also have the
+opportunity to help to design, develop, deploy, and troubleshoot new
+embedded control systems and various other products.
+
+Required skills:
+    - Perl
+	- Experience with the Catalyst Framework
+	- Experience with Template Toolkit
+	- Experience with DBIx::Class
+	- Knowledge of various testing packages, including Test::More &
+Test::Exception
+    - SQL Experience
+	- At least basic experience with SQL
+	- Ability to design new schemas
+	- Understanding of the purpose and design of Snowflake and Star
+schemas
+    - HTTP
+	- Understanding of HTTP protocol in regards to possible actions and
+a familiarity with the options that go with them
+	- Understanding of REST and knowledge of how it plays out on the
+current web
+    - ActionScript
+	- familiarity with ActionScript 3.0 and MXML to develop, debug, and
+deploy new and enhanced UIs
+    - JavaScript
+	- Experience with and understanding of developing browser
+	  independent, interactive UIs using JavaScript
+	- familiarity with jQuery
+	- familiarity with using FireBug or a similar JavaScript
+	  debugger
+    - Fedora
+	- ability to install, uninstall, and rebuild drivers
+	- general troubleshooting abilities
+	- peripheral understanding of creating RPMs
+	- knowledge or experience with creating init scripts for daemons
+and assigning them to runlevels
+    - Experience with C++
+	- Experience with template programming
+	- Understanding of socket programming, both TCP/IP and serial
+	- Familiarity with GNU compiling tools
+
+
+Desired skills:
+    - Experience with Boost libraries for C++, including ASIO, Spirit, and
+smart pointers
+    - Experience with Moose and some familiarity with the MOP
+    - Familiarity with Mercurial
+
+Contact information at:
+http://jobs.perl.org/job/11056#contact
+
+

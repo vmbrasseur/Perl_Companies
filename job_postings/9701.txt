@@ -1,0 +1,126 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9701
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 27313 invoked from network); 16 Dec 2009 09:28:03 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 16 Dec 2009 09:28:03 -0000
+Received: (qmail 22680 invoked by uid 225); 16 Dec 2009 09:28:03 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 22676 invoked by alias); 16 Dec 2009 09:28:02 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 16 Dec 2009 01:28:00 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 3B9202AFE7; Wed, 16 Dec 2009 01:27:57 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20091216092757.3B9202AFE7@x3.develooper.com>
+Date: Wed, 16 Dec 2009 01:27:57 -0800 (PST)
+Subject: Senior Software Architect/Engineer (onsite), United States, Washington, Seattle
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/11474
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 15, 2009
+
+Job title: Senior Software Architect/Engineer
+
+Company name: Shiftboard
+
+Location: United States, Washington, Seattle
+
+Pay rate: 100k++/yr USD
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Shiftboard is an advanced, open source friendly Software as a Service
+company in Seattle that provides valuable, online scheduling and community
+workforce management services to both a fast growing and diverse base of
+businesses, non-profits, municipal and healthcare-related organizations
+around the country.
+
+Please check out http://www.shiftboard.com for case studies and more about
+what we are doing.
+
+Shiftboard is growing. We have open positions for qualified and dedicated,
+senior level software developers with several years experience working
+within Open Source Software environments.
+
+Please Note: We ALSO have one paid-internship position available for a
+highly-motivated, entry-level software developer with one or more of the
+skill-sets described below.
+
+Current openings are: Long-term, on-site, full-time, contract-to-hire.
+
+We will offer this role to a senior level, open-source/mod_perl/LAMP
+systems developer
+with significant, real world experience within 1 or more challenging
+environments.
+
+The right candidate is comfortable and has worked professionally within all
+levels of development/engineering and systems architecture; from back-end
+to front-end, caching, firewalls, load-balancing, database optimization,
+segmentation strategies, automated testing, and other areas.
+
+Permanent positions at Shiftboard provide significant long-term incentives
+that include equity and other employee benefits.
+
+
+Required skills:
+Must have several years of applicable open-source web architecture and
+development experience including:
+
+ - modperl/Apache2 handlers, performance tuning
+ - mysql/postgres database design/performance/replication
+ - caching, scaling, segmentation
+ - one or more linux/bsd/unix flavors and SCM (Git or SVN).
+ - solid production/web services, messaging operations, JSON-RPC, REST
+ - well-rounded and practiced skill set and comfort level working on
+multiple
+   platforms, virtualization is highly desirable.
+ - solid understanding of front end technologies (DOM/DHTML/JS/AJAX, etc.)
+ - interest and willingness to utilize a variety of technologies and
+software
+   languages to deliver the most effective, tailored and relevant
+application
+   services and content outside of a traditional web platform (e.g.  mobile
+
+   applications, API's, content feeds and other syndication and
+collaborative
+   services).
+ - automated test tools including Selenium
+
+
+Desired skills:
+ - Experience with setting up automated testing using tools such as
+Selenium
+ - Large-Scale Development/Operations Management, Benchmarking,
+Load-testing
+ - Extensive, Efficient Client-Side/Javascript Development
+ - Computer Science/Masters-Level or Equivalent
+ - API development and API client test tool design, test and development
+ - Mobile platforms: Interface design, test and development
+
+
+URL for more information: http://www.shiftboard.com/
+
+Contact information at:
+http://jobs.perl.org/job/11474#contact
+
+

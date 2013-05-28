@@ -1,0 +1,137 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:1615
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 21985 invoked from network); 25 May 2004 20:33:29 -0000
+Received: from x1.develooper.com (63.251.223.170)
+  by onion.develooper.com with SMTP; 25 May 2004 20:33:29 -0000
+Received: (qmail 32373 invoked by uid 225); 25 May 2004 20:33:28 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 32365 invoked by alias); 25 May 2004 20:33:28 -0000
+X-Spam-Status: No, hits=0.0 required=7.0
+	tests=
+X-Spam-Check-By: la.mx.develooper.com
+Received: from onion.develooper.com (HELO onion.perl.org) (63.251.223.166)
+  by la.mx.develooper.com (qpsmtpd/0.27.1) with SMTP; Tue, 25 May 2004 13:33:27 -0700
+Received: (qmail 21968 invoked by uid 1016); 25 May 2004 20:33:26 -0000
+Date: 25 May 2004 20:33:26 -0000
+Message-ID: <20040525203326.21967.qmail@onion.perl.org>
+To: jobs@perl.org
+X-Spam-Rating: onion.develooper.com 1.6.2 0/1000/N
+Subject: SQL Database Developer/Perl Programmer (onsite), United States, Washington, Seattle
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1511
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 25, 2004
+
+Job title: SQL Database Developer/Perl Programmer
+
+Company name: Volt Computer Services
+
+Internal ID: 96516P
+
+Location: United States, Washington, Seattle
+
+Pay rate: D.O.E.
+
+Travel: 0%
+
+Terms of employment: Hourly employee
+
+Length of employment: 6 months
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Volt Computer Services has a 6 month contract position open for SQL
+Database Developer/Perl Programmer who will focus on writing reports
+against their data warehouse.
+The Developer will be responsible for creating and maintaining custom
+database reports generated from their consumer database. Their team is
+responsible for all of their company's consumer division reporting. For
+example, the group produces sales and subscription activity. The group also
+produces reports related to demographic tracking and customer segmentation.
+They do not use 3rd-party reporting tools. 
+
+The database is a large AIX/Oracle database. The Developer will be
+responsible for creating cron jobs to schedule recurring reports and
+correcting problems if and when they occur. Some older reports are written
+in Perl, so Perl experience will be absolutely necessary for maintaining or
+re-engineering older reports. 
+
+The Developer will be required to prepare written technical specs. and
+design documents to be reviewed by the database development team for new
+development projects. In addition to processing on-going reporting
+workload, the team will be starting up on a project to implement database
+schema changes to support more efficient reporting. This Developer will
+participate in the design process for database schema changes and will
+contribute to development. 
+
+
+Required skills:
+At least 4 years as a database developer or database report developer for a
+large-scale Oracle OLAP database, preferably AIX OS--just not Windows.(
+Solaris or HP is Ok.)
+
+We are not interested in candidates who's primary database experience has
+been with databases other than Oracle on OS's other than Unix or Linux. 
+
+•	Strong knowledge of SQL and SQL*Plus 
+•	Perl and Unix shell programming; cron experience are required 
+•	PL/SQL, Stored procedures 
+•	Good understanding of explain plans 
+•	Oracle 9i, 8i, on AIX or Solaris. (Oracle on Windows doesn't
+count). 
+•	Oracle 9i experience is key since we will be migrating from 8i to
+9i in May '04. 
+•	Unix, Linux experience is required. 
+•	Database application design, custom report design using SQL and
+stored procedures. (not reporting tools) 
+•	Strong experience writing custom database reports (without the help
+of 3rd-party tools) on large-scale Oracle databases. 
+•	Development of reporting and analysis solutions in data warehouses
+is required. 
+•	ETL development experience is required. 
+•	Strong experience designing/creating data models specifically for
+reporting applications is required.
+
+
+
+Desired skills:
+Other Attributes: 
+Motivated; very smart; fast learner; able to work independently (without
+close test lead supervision); good communication and problem solving
+skills.
+
+Education: BS in Information Systems, Computer Science, or engineering
+discipline is required.
+
+URL for more information: http://jobs.volt.com/
+
+Contact information:
+PLEASE NOTE: Call in at 800-253-9605 about this position and inform the
+Receptionist that you would like to be in contact with the Doug Dillon who
+is the Recruiter responsible for this posting.	Give the Receptionist the
+job number of 96516 so that Doug will be aware of the Perl position you are
+inquiring about. You can also email your resume to resume1@volt.com and
+please mention the job number 96516 in the subject line of your email so
+your resume can be given directly to Doug.  Thank You!!
+
+Volt offers competitive compensation and benefits, a talented and upbeat
+staffing team focused on the quality of your career and goals and the solid
+security of a company trusted by Fortune 500 companies for over 50 years.
+
+Volt is an Equal Opportunity Employer and dedicated to fostering diversity
+in the workplace.
+
+

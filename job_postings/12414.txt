@@ -1,0 +1,98 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12414
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 1518 invoked from network); 11 May 2012 03:05:38 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 11 May 2012 03:05:38 -0000
+Received: (qmail 18727 invoked by uid 225); 11 May 2012 03:05:38 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 18723 invoked by alias); 11 May 2012 03:05:37 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 10 May 2012 20:05:35 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id C77A32AFE0; Thu, 10 May 2012 20:05:31 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 10 May 2012 20:05:31 -0700
+Message-ID: <20120511030531.C77A32AFE0@x3.develooper.com>
+Subject: Solutions Development (Perl) Software Engineer (onsite), Mountain
+ View, CA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15974
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 10, 2012
+
+Job title: Solutions Development (Perl) Software Engineer
+
+Company name: Cariden Technologies, Inc.
+
+Location: Mountain View, CA
+
+Pay rate: DOE - USD
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Cariden Technologies, Inc. has an opening for a developer on the Solutions
+Engineering Team. Our goal is to write addons/plugins to our products;
+reporting, network discovery, and data manipulation tools; and new product
+feature prototypes. This position will be responsible for both new and
+maintenance projects, working alone or with small teams. Development is
+done primarily in Perl and is expected to be portable to interpreters on
+Solaris, Linux, MacOS, and Windows platforms. Additionally, solutions are
+customer-visible, so professionally developed source code using good style
+and best practices is a must. Ideal candidates will not only be capable
+developers, excellent problem solvers, and skilled communicators, but will
+also have experience, or at least a strong interest in, network tools,
+protocols, and architecture.
+Responsibilities
+•	Assist in maintaining existing solutions released to customers and
+partners
+•	Help in development of new reporting, network discovery and
+analysis, data manipulation tools and feature prototypes
+•	Provide next tier support for field engineers working with product
+installations
+
+Required skills:
+Requirements
+•	Moderate experience with Perl on Unix/Linux platforms
+•	Experience with SQL, especially complex queries
+•	Experience with the SDLC and RAD methodologies
+•	Excellent communication and problem-solving skills
+•	Candidates must provide a programming sample for submission with
+resume
+
+Desired skills:
+Preferred Skills
+•	Perl development for portability, especially Windows
+•	Customer-facing, open-sourced software development
+•	Command-line interface, inter-process control, systems, and POSIX
+programming
+•	Object-oriented design and programming
+•	Familiarity with sqlite, make, git, and svn
+•	Familiarity with IP/MPLS networking
+•	Familiarity with routing vendors, their products and operating
+systems
+•	Familiarity with essential network tools such as Ping, Traceroute,
+and SNMP
+
+Website for more information: https://www.cariden.com/about/careers/
+
+Contact information at:
+http://jobs.perl.org/job/15974#contact

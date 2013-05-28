@@ -1,0 +1,73 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10448
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 7300 invoked from network); 18 Aug 2010 07:18:15 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 18 Aug 2010 07:18:15 -0000
+Received: (qmail 10605 invoked by uid 225); 18 Aug 2010 07:18:15 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 10601 invoked by alias); 18 Aug 2010 07:18:14 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 18 Aug 2010 00:18:13 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 4C6E42AFDE; Wed, 18 Aug 2010 00:18:10 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20100818071810.4C6E42AFDE@x3.develooper.com>
+Date: Wed, 18 Aug 2010 00:18:10 -0700 (PDT)
+Subject: Custom qpsmtpd/Postfix Plugin Development (telecommute), United States, Texas, Houston
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/12746
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 18, 2010
+
+Job title:
+Custom qpsmtpd/Postfix Plugin Development
+
+Location: United States, Texas, Houston
+
+Pay rate: Flexible
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+I am looking for an individual to create a custom plugin for qpsmtpd. The
+plugin will be used to parse incoming email and manipulate selected parts
+of the email. The pieces of the email that are parsed will need to be
+stored on the filesystem in unique folders.
+
+Required skills:
+The individual will need to be comfortable using the following technologies
+
+
+Postfix
+qpsmtpd
+Perl
+
+Desired skills:
+Postfix
+qpsmtpd
+Perl
+
+
+Contact information at:
+http://jobs.perl.org/job/12746#contact
+
+

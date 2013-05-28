@@ -1,0 +1,103 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13117
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 18167 invoked from network); 5 Feb 2013 05:26:50 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 5 Feb 2013 05:26:50 -0000
+Received: (qmail 11893 invoked by uid 225); 5 Feb 2013 05:26:50 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11885 invoked by alias); 5 Feb 2013 05:26:49 -0000
+X-Spam-Status: No, hits=-1.3 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,SUBJECT_NEEDS_ENCODING,SUBJ_ILLEGAL_CHARS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 04 Feb 2013 21:26:47 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id D1C1E2AFE0; Mon,  4 Feb 2013 21:26:43 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 4 Feb 2013 21:26:43 -0800
+Message-ID: <20130205052643.D1C1E2AFE0@x3.develooper.com>
+Subject: Software Engineer – Perl, Python & C/C++ (onsite),
+ Kitchener-Waterloo, Ontario Canada
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16969
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February  4, 2013
+
+Job title: Software Engineer – Perl, Python & C/C++
+
+Company name: LookSmart
+
+Location: Kitchener-Waterloo, Ontario Canada
+
+Pay rate: TBD
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Looksmart is a San Francisco-based online advertising company that is
+establishing a new software engineering team in the Waterloo area. While we
+maintain the foundations and resources of a large organization and public
+company, we are undergoing exciting new growth and we are, in many ways,
+more like an early stage start-up.
+As a dedicated, entrepreneurial-minded software professional, you’ll expand
+and evolve our existing products and platforms, and work on developing new
+and industry-leading applications.
+The position is located in Waterloo region, Ontario, Canada.
+Responsibilities
+•	Evolve our high-performance, high-availability platform that get
+billions of requests per day 
+•	Work in agile, rapid-release cycles that rely heavily on automated
+testing and quality-gating
+•	Collaborate with team & stakeholders to define, design, estimate,
+and build great software
+•	Continually improve and evolve yours and our engineering
+capability, technologies and tools
+•	Produce and maintain accurate, high-quality technical & system
+documentation
+
+Required skills:
+Qualifications
+•	Excellent Perl, Python and/or C/C++ skills and strong UNIX system
+programming skills
+•	Experience developing scalable, high-performance applications
+•	Experience with relational databases, DB design, writing queries
+and other DB objects
+•	Experience developing data/ETL applications against very large
+relational databases (esp. Oracle)
+•	Experience with code quality gating factors like Perltidy and
+Perl::Critic
+•	Excellent analytical, problem-solving, and communication skills
+•	Experience with source code management tools like SVN & git
+•	Experience with test automation, UNIX admin, and distributed
+systems
+
+Desired skills:
+Preferred Qualifications
+•	Experience with NoSQL data stores (e.g. Berkeley DB, Couch,
+Cassandra, Mongo)
+•	Experience with very large data sets and high-volume transactions
+•	Experience with web/click stream analysis
+•	Experience in one or more of the following is ideal: online
+advertising, search, website click-stream analysis, data mining, 
+information retrieval techniques
+•	Experience with Python
+
+Website for more information: http://www.looksmart.net
+
+Contact information at:
+http://jobs.perl.org/job/16969#contact

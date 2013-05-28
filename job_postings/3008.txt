@@ -1,0 +1,97 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3008
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 15664 invoked from network); 23 Jul 2005 02:48:22 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 23 Jul 2005 02:48:22 -0000
+Received: (qmail 21577 invoked by uid 225); 23 Jul 2005 02:48:21 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 21573 invoked by alias); 23 Jul 2005 02:48:21 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 22 Jul 2005 19:48:18 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j6N2mG3k008410
+	for <jobs@perl.org>; Fri, 22 Jul 2005 19:48:16 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j6N2mGAr008408;
+	Fri, 22 Jul 2005 19:48:16 -0700
+Date: Fri, 22 Jul 2005 19:48:16 -0700
+Message-ID: <200507230248.j6N2mGAr008408@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Part-time Perl web development consultant (part onsite), Canada, ON, Toronto
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2879
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 22, 2005
+
+Job title:
+Part-time Perl web development consultant
+
+Company name: contractor.com
+
+Internal ID: p4
+
+Location: Canada, ON, Toronto
+
+Pay rate: $35-$45/hour
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+Here at Contractor.com we have a need for a Perl
+consultant with lots of web development experience to
+help us launch and maintain a new website and various
+other web applications.
+
+Contractor.com/contractors.com is North America's
+largest building contractor directory with 1.1 million
+listings and 30,000 member companies. We are rapidly
+growing and are in need for some talented developers
+to help our IT infrastructure keep up with the growth
+of the company.
+
+This could be a telecommuting job but we will require
+the successful candidate to be on site once a week
+(weekend or evening OK). We are located at College and
+Yonge area in downtown Toronto.
+
+Our servers are running Red Hat Linux, MySQL InnoDB
+and Apache. Our apps are written in OO Perl using
+framework called Querry (to be available on CPAN in
+October).
+
+If interested send a summary of your qualifications or
+resume to igor@contractor.com
+
+Required skills:
+OO Perl
+SQL
+HTML
+Web applications development
+CVS
+Linux
+
+Contact information at:
+http://jobs.perl.org/job/2879#contact
+
+

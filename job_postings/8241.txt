@@ -1,0 +1,79 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8241
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 17985 invoked from network); 4 Jun 2008 20:41:54 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 4 Jun 2008 20:41:54 -0000
+Received: (qmail 4988 invoked by uid 225); 4 Jun 2008 20:41:53 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 4983 invoked by alias); 4 Jun 2008 20:41:53 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 04 Jun 2008 13:41:21 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 273012AFF3; Wed,  4 Jun 2008 13:41:18 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080604204118.273012AFF3@x3.develooper.com>
+Date: Wed,  4 Jun 2008 13:41:18 -0700 (PDT)
+Subject: Perl Asterisk Developer (onsite), United States, CA, San Diego
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8882
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June  4, 2008
+
+Job title: Perl Asterisk Developer
+
+Company name: Digium, Inc.
+
+Location: United States, CA, San Diego
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+About the Company
+Digium Inc. is the maker of the revolutionary Asterisk open-source
+PBX.  Switchvox is a subsidiary of Digium that creates a commercial PBX
+product based on Asterisk targeted at businesses.
+
+About the Position
+Switchvox is looking for a linux hacker to help develop our
+asterisk-based PBX appliance.  This position encompases a variety of
+development tasks, all focused on the back-end inter-workings of the
+PBX.  Most development will be done in perl, but good system
+administration skills and knowledge of C will always come in handy.
+
+
+Required skills:
+* Extensive knowledge of linux operating system and distributions
+* Extensive knowledge of the perl programming language
+
+
+Desired skills:
+* Familiarity with the C programming language.
+* Experience with Asterisk PBX
+* Experience with Apache and mod_perl
+* Knowledge of SIP or other VoIP protocols
+* Deep knowledge of open-source software
+
+
+Contact information at:
+http://jobs.perl.org/job/8882#contact
+
+

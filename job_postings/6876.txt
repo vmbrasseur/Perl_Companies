@@ -1,0 +1,87 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6876
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 7686 invoked from network); 30 Aug 2007 15:02:33 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 30 Aug 2007 15:02:33 -0000
+Received: (qmail 16196 invoked by uid 225); 30 Aug 2007 15:02:33 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 16185 invoked by alias); 30 Aug 2007 15:02:32 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 30 Aug 2007 08:02:16 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 50C682AFDA; Thu, 30 Aug 2007 08:02:13 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070830150213.50C682AFDA@x3.develooper.com>
+Date: Thu, 30 Aug 2007 08:02:13 -0700 (PDT)
+Subject: Perl Web Spider Developer, Brazil, Sao Paulo, Sao Paulo
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/6613
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 30, 2007
+
+Job title: Perl Web Spider Developer
+
+Company name: Dnd
+
+Internal ID: Perl Programmer Sao Paulo - BRAZIL
+
+Location: Brazil, Sao Paulo, Sao Paulo
+
+Pay rate: R$ 3000,00 CLT
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: indeterminate
+
+Hours: Full time
+
+Description:
+We are a company who gives services in the informatics sector since 1997.
+Currently the main focus we are the site of comparison of prices, the
+“Jacotei” (http://www.jacotei.com.br). The company is in expansion and
+looks a professional to take care of the increasing demand of service, and
+to give continuity in the projects of the company.
+
+The job basically consists of construction and maintenance of web spiders
+(scripts of extration of data of the Internet), and involves Perl OO
+projects too. The location of job is 509, Paulista Av., Sao Paulo - SP -
+Brazil.
+
+The professional must have a good capacity of communication, good knowledge
+in logic, beyond programming Perl off course(good mood is desirable also). 
+
+Required skills:
+Strong required:
+
+Object Oriented Programming in Perl, internet programming, XHTML, XML,
+Linux(Ubuntu/Debian is preferable), SVN(user level, not administration),
+UML(basics - Class, State, Activity and Sequence Diagrams), DBI,
+DBD::Oracle, CPAN
+
+Desired skills:
+MVC(Model View Controller design pattern), Catalyst(MVC Framework for
+Perl), Oracle 10g(advanced knowledge - but also user level, tunning,
+optimization, database modeling etc.), LWP, WWW::Mechanize, DBIx::Class
+
+
+URL for more information: http://www.jacotei.com.br/
+
+Contact information at:
+http://jobs.perl.org/job/6613#contact
+
+

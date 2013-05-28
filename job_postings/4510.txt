@@ -1,0 +1,98 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4510
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 17648 invoked from network); 21 Jun 2006 09:24:20 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 21 Jun 2006 09:24:20 -0000
+Received: (qmail 7589 invoked by uid 225); 21 Jun 2006 09:24:20 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 7577 invoked by alias); 21 Jun 2006 09:24:19 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 21 Jun 2006 02:24:04 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id A35FC2AFC2; Wed, 21 Jun 2006 02:23:47 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060621092347.A35FC2AFC2@x3.develooper.com>
+Date: Wed, 21 Jun 2006 02:23:47 -0700 (PDT)
+Subject: Script / Build Developer, Perl and Shell Scripting (onsite), United States, TX, Dallas Area
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4262
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 20, 2006
+
+Job title:
+Script / Build Developer, Perl and Shell Scripting
+
+Location: United States, TX, Dallas Area
+
+Pay rate: 75k - 100k
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+-Six years in business. 
+-Fortune 100 clients, enterprise wide firms. 
+-Strong growth in the past year, 75% of client base. 
+-VC funded, solid and successful firms. 
+-Major strategic relationship which will enhance growth potential. 
+-Leading provider of an enterprise network product
+
+Job Description
+-Work with team in the support and management of the development source and
+build environment, especially as it relates to Windows. 
+-Aid in the development of scripts to help with the installation,
+maintenance, and upgrade scenarios associated with the product line -
+especially as it relates to our new Windows support. 
+-Serve as a background Windows technical resource for the customer support
+department, and core engineering. 
+Diagnose and fix issues associated with migrations and installations.
+
+***Candidate must live in the Dallas area.  No relocation.  
+
+Required skills:
+-Requires a Bachelor's degree or higher in Computer Science. 
+-Must have 2 years of programming skills experience in: 
+Perl and shell scripting (bash, etc.). 
+-Source control experience (does not have to be build experience) - CVS and
+or Sourcesafe (Windows source control system). 
+-System Administration - Windows administration experience and installation
+development experience on Windows (Installshield or Installanywhere),
+understanding of registry, understanding of system accounts/security and
+Windows services. 
+
+
+Desired skills:
+-Experience with a release/patch process. For example, an understanding of
+the issues that typically occur doing releases and patches. 
+-Networking experience. For example, knowledge about the various user level
+tools such as ssh, telnet, http, SNMP/MIBs, ping, encryption libraries,
+etc. 
+-Experience with Ant and/or Makefiles (C++ Builds). 
+-Cross-platform build and deployment environment - Windows; Linux, Solaris,
+etc. Preferred candidate would be very strong with Windows. 
+-Scripting on Unix. 
+
+
+Contact information at:
+http://jobs.perl.org/job/4262#contact
+
+

@@ -1,0 +1,101 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11697
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 3853 invoked from network); 22 Sep 2011 00:08:20 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 22 Sep 2011 00:08:20 -0000
+Received: (qmail 20893 invoked by uid 225); 22 Sep 2011 00:08:19 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 20889 invoked by alias); 22 Sep 2011 00:08:19 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 21 Sep 2011 17:08:17 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id A127A2AFE0; Wed, 21 Sep 2011 17:08:13 -0700 (PDT)
+To: jobs@perl.org
+Date: Wed, 21 Sep 2011 17:08:13 -0700
+Message-ID: <20110922000813.A127A2AFE0@x3.develooper.com>
+Subject: Perl Engineer (onsite), Waterloo, Ontario, Canada
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14868
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 21, 2011
+
+Job title: Perl Engineer
+
+Company name: LookSmart Canada
+
+Internal ID: Perl-Engineer-2011-09
+
+Location: Waterloo, Ontario, Canada
+
+Pay rate: DOE
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Looksmart is a San Francisco-based online advertising company that is
+establishing a new software engineering team in the Waterloo area. While we
+maintain the foundations and resources of a large organization and public
+company, we are undergoing exciting new growth and we are, in many ways,
+more like an early stage start-up.
+As a dedicated, entrepreneurial-minded software professional, you’ll expand
+and evolve our existing products and platforms, and work on developing new
+and industry-leading applications.
+The position is located in Waterloo region, Ontario, Canada.
+
+Responsibilities
+• Evolve our high-performance, high-availability online advertising
+platform that get billions of requests per day 
+• Work in agile, rapid-release cycles that rely heavily on automated
+testing and quality-gating
+• Collaborate with team & stakeholders to define, design, estimate, and
+build great software
+• Continually improve and evolve yours and our engineering capability,
+technologies and tools
+• Produce and maintain accurate, high-quality technical & system
+documentation
+
+Required skills:
+• Excellent Perl skills and strong UNIX system programming  skills (in Perl
+or C/C++)
+• Experience developing scalable, high-performance applications
+• Experience with relational databases, DB design, writing queries and
+other DB objects
+• Experience developing and operating Perl-based data-warehousing/ETL
+applications against very large relational databases, especially Oracle
+• Experience with code quality gating factors like Perltidy and
+Perl::Critic
+• Excellent analytical, problem-solving, and communication skills
+• Experience with source code management tools like SVN & git
+• Experience with test automation, UNIX admin, and distributed systems
+
+Desired skills:
+• Experience with NoSQL data stores (e.g. Berkeley DB, Couch, Cassandra,
+Mongo)
+• Experience with very large data sets and high-volume transactions
+• Experience with web/click stream analysis
+• Experience in one or more of the following is ideal: online advertising,
+search, website click-stream analysis, data mining,  information retrieval
+techniques
+• Experience with Python
+
+Website for more information: http://www.looksmart.com/
+
+Contact information at:
+http://jobs.perl.org/job/14868#contact

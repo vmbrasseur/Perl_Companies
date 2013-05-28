@@ -1,0 +1,135 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12623
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 4714 invoked from network); 31 Jul 2012 00:20:05 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 31 Jul 2012 00:20:05 -0000
+Received: (qmail 22501 invoked by uid 225); 31 Jul 2012 00:20:04 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 22489 invoked by alias); 31 Jul 2012 00:20:03 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,LOTS_OF_MONEY
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 30 Jul 2012 17:19:59 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 6BC0C2AFE0; Mon, 30 Jul 2012 17:19:56 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 30 Jul 2012 17:19:56 -0700
+Message-ID: <20120731001956.6BC0C2AFE0@x3.develooper.com>
+Subject: Experienced Perl Developer sought by successful and established
+ internet start-up (onsite), London, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16280
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 30, 2012
+
+Job title:
+Experienced Perl Developer sought by successful and established internet
+start-up
+
+Company name: Lokku
+
+Location: London, UK
+
+Pay rate: c. £40,000
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Lokku is seeking an experienced, talented and forward-thinking Perl
+professional to add seniority and expertise to their thriving and ambitious
+team.  If you'd like a key role in an exciting and evolving internet
+company, and have enthusiasm and dedication in abundance, then please keep
+reading.
+
+	  
+The Role:
+ 
+We have a closely-knit engineering team that builds and maintains the
+software that runs our primary brand, Nestoria, and drives our product
+evolution forwards.  Never a company to sit back and enjoy the status quo,
+we have an abundance of exciting projects and product developments sitting
+in our pipeline crying out to be brought into fruition.  By adding another
+experienced Perl Developer to the team, we will be increasing our capacity
+to drive forward with our ambitious development roadmap.
+
+Your role will not be restricted to any one part of the code base; you will
+work on projects which range from backend processing and internal tools to
+the interactive website and its heavily customised search-time code. 
+Additionally you will be encouraged to work closely with the more junior
+members of the team and to share your knowledge and experience with them.
+
+
+About Lokku:
+
+Lokku is a small web company based in Clerkenwell, central London.  Our
+primary brand Nestoria is a vertical search engine in the real estate
+market.  We work to deliver a great user experience to house hunters in
+eight countries and in six languages.  
+
+We like to give something back to the technology communities we're involved
+in, and are especially keen on contributing to the Perl (CPAN) and
+Geo-spatial open source development communities. We make our API available
+to developers, are frequent sponsors of relevant events and operate Geomob
+London, a quarterly meetup for geo and mobile enthusiasts.
+
+Required skills:
+Maybe you are looking to make the move to a tech team which embraces the
+principles of clean code, best practice development methodologies, and
+user-centred product planning.	Perhaps you crave a senior role in a
+smaller, tightly-knit team which affords you a higher degree of
+responsibility and a more diverse range of juicy projects to work on.  Or
+maybe you’re a start-up junkie, or have always wondered what life would be
+like in a thriving tech start-up.  
+
+We are relaxed about your personal motivations, as long as you have the
+following:
+      
+•	2+ years’ experience as a professional Perl programmer
+•	Strong knowledge of Perl best practices and modern Perl development
+practices
+•	Experience with SQL databases and accessing them in Perl (we use
+MySQL and DBI)
+•	Knowledge of Apache, mod_perl, and web frameworks (we use
+HTML::Mason)
+•	Experience developing on and for Linux platforms (we use Debian
+Linux)
+•	Good understanding of test-driven development and the Perl Test::
+module namespace
+•	Experience using  version control systems in a team environment (we
+use Subversion)
+•	Excellent technical communication skills and a desire to coach,
+mentor and share your experience with junior team members
+
+Desired skills:
+It is also desirable but not essential that you have the following:
+
+•	Knowledge of modern client-side web technologies (JavaScript,
+jQuery, AJAX, CSS)
+•	Ability to write and maintain C code (parts of our search system
+are written in C)
+•	Experience with writing systems which have to scale to large
+numbers of users, database rows, etc.
+•	Experience with internationalization and character encoding in Perl
+and MySQL
+•	Knowledge of Moose, Devel::NYTProf, CHI
+
+Website for more information: http://www.lokku.com/
+
+Contact information at:
+http://jobs.perl.org/job/16280#contact

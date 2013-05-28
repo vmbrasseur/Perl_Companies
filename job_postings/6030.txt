@@ -1,0 +1,123 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6030
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 19157 invoked from network); 4 Apr 2007 20:00:35 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 4 Apr 2007 20:00:35 -0000
+Received: (qmail 23304 invoked by uid 225); 4 Apr 2007 20:00:34 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 23295 invoked by alias); 4 Apr 2007 20:00:33 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,DK_POLICY_SIGNSOME
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 04 Apr 2007 13:00:25 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 0FF5F2AFEC; Wed,  4 Apr 2007 13:00:22 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070404200022.0FF5F2AFEC@x3.develooper.com>
+Date: Wed,  4 Apr 2007 13:00:22 -0700 (PDT)
+Subject: Perl Professionals for User Generated Video Site needed (part onsite), United States, NY, New York
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5577
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April  4, 2007
+
+Job title:
+Perl Professionals for User Generated Video Site needed
+
+Company name: Magnify.net
+
+Location: United States, NY, New York
+
+Pay rate: Commiserate with experience /US Dollars
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: Various contracts available -
+
+Hours: Flexible
+
+Onsite: some
+
+Description:
+Thanks to our great write-up on TechCrunch* we’re growing fast and need
+fearless Perl professionals to join us in this outstanding opportunity as
+we continue to grow something really unique while having great times doing
+so.
+
+You will work closely with our core team to design and implement features
+and deploy them to our live service.
+
+*http://www.techcrunch.com/2007/03/31/magnifynet-different-than-the-video-c
+rowd/
+
+
+* If you have an established contracting rate or a target salary range,
+please pass that along.
+
+Setting:
+
+* Telecommuting is OK, however periodical participation of on-site
+development meeting will be require, so the candidate will have to be
+within a commutable range of NYC.
+
+Required skills:
+* Significant knowledge of and experience in Perl programming. (Exposure to
+standard Perl idioms, the ability to create your own class hierarchies, and
+familiarity with CPAN are required.)
+
+* Prior experience in server-side web application development. (You should
+have worked with multiple page templating systems, session data storage,
+relational databases, caching, and inter-process communication.)
+
+* Understanding of professional software development processes. (Including
+familiarity with the cycles of requirements definition, issue tracking,
+version control, automated testing, deployment and maintenance.)
+
+* Clear and articulate communication, both written and spoken. (Our team
+collaborates extensively by email, IM, and phone, and you will need to be
+able to read specs and write documentation)
+Applications:
+
+* Please apply by email and attach or link to your resume or portfolio, in
+HTML, PDF, or plain text format.
+
+* If you've released modules on CPAN, are a poster on Perl Monks, or have a
+stash of sample code somewhere on your web site, please include a link to
+the relevant pages.
+
+Desired skills:
+(not required, but would be a plus)
+
+* Web service operation, scaling, and fault-tolerance using Linux, Apache,
+MySQL, and Perl.
+
+* Experience with our server-side toolset, including mod_perl, HTML::Mason,
+DBIx::SQLEngine, Cache::Memcached, and other modules from CPAN.
+
+* User interfaces are constructed in HTML with CSS and JavaScript (using
+Prototype and Scriptaculous for Ajax and client-side effects),RSS feeds,
+XML APIs, and client-side Flash widgets.
+
+* Project support tools including RT, SVN, and automated web testing.
+
+
+URL for more information: http://www.magnify.net/
+
+Contact information at:
+http://jobs.perl.org/job/5577#contact
+
+

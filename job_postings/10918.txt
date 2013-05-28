@@ -1,0 +1,81 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10918
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8250 invoked from network); 25 Jan 2011 23:01:09 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 25 Jan 2011 23:01:09 -0000
+Received: (qmail 18726 invoked by uid 225); 25 Jan 2011 23:01:08 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 18719 invoked by alias); 25 Jan 2011 23:01:06 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS,T_LOTS_OF_MONEY
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 25 Jan 2011 15:01:04 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id F23362AFE2; Tue, 25 Jan 2011 15:01:00 -0800 (PST)
+To: jobs@perl.org
+Date: Tue, 25 Jan 2011 15:01:00 -0800
+Message-ID: <20110125230100.F23362AFE2@x3.develooper.com>
+Subject: Perl / Catalyst / Moose Developer (onsite), United States, NY, New
+ York
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13516
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 25, 2011
+
+Job title: Perl / Catalyst / Moose Developer
+
+Company name: SocialFlow
+
+Location: United States, NY, New York
+
+Pay rate: 110,000 USD
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+When someone mentions Moose, do you think of Sarah Palin? If the answer is
+no, then we should talk. 
+
+We're looking for experienced Moose, Catalyst, and DBIx:Class developers
+who can work in a fast-paced and highly scalable environment. 
+
+SocialFlow is a betaworks company located in New York City's meatpacking
+district. We're a fun and fast moving culture that rewards hard work and
+new ideas. 
+
+
+Required skills:
+Perl
+Moose
+DBIx::Class
+Catalyst
+Experience with large datasets 
+MySQL
+Postgresql
+Hadoop
+Amazon EC2 or other cloud-based architecture 
+
+Desired skills:
+CPAN contributors preferred 
+C 
+Git
+
+Website for more information: http://socialflow.com/
+
+Contact information at:
+http://jobs.perl.org/job/13516#contact

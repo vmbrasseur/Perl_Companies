@@ -1,0 +1,81 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7842
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 21135 invoked from network); 13 Mar 2008 07:17:03 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 13 Mar 2008 07:17:03 -0000
+Received: (qmail 13326 invoked by uid 225); 13 Mar 2008 07:17:03 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 13320 invoked by alias); 13 Mar 2008 07:17:02 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 13 Mar 2008 00:16:59 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 94E9C2AFCA; Thu, 13 Mar 2008 00:16:56 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080313071656.94E9C2AFCA@x3.develooper.com>
+Date: Thu, 13 Mar 2008 00:16:56 -0700 (PDT)
+Subject: Billing System Developer (telecommute), United States, PA, Philadelphia
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8190
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 12, 2008
+
+Job title: Billing System Developer
+
+Company name: Quonix Networks
+
+Location: United States, PA, Philadelphia
+
+Pay rate: $40 per hour
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: 1 month
+
+Hours: Part time
+
+Onsite: no
+
+Description:
+Quonix Networks is currently looking for a telecommute contract Perl
+developer to assist our staff in building a custom automated billing
+system. 
+
+High level over of the billing system being built is as follows. Monthly
+recurring billable accounts will be stored in a Postgres database. At the
+end of the month, a job will create PDF files for each customers invoice.
+These PDF files will be used to print a copy of the bill for paper mailing.
+Key feature of the system is for our staff to be able to add/delete/edit
+invoices in a web interface format.
+
+Our development staff can handle web front-end and database, however, we
+are looking for an individual who has the experience needed to make the PDF
+and print functionality work properly.
+
+Required skills:
+Perl, DBI with Postgres, basic SQL understanding, and solid experience in
+creating and manipulating PDF files via Perl.
+
+Desired skills:
+Any experience in building automated billing systems is a plus.
+
+URL for more information: http://www.quonix.net/
+
+Contact information at:
+http://jobs.perl.org/job/8190#contact
+
+

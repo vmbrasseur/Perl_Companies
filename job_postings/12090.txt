@@ -1,0 +1,78 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12090
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 20075 invoked from network); 3 Feb 2012 06:31:36 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 3 Feb 2012 06:31:36 -0000
+Received: (qmail 9250 invoked by uid 225); 3 Feb 2012 06:31:36 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 9246 invoked by alias); 3 Feb 2012 06:31:36 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 02 Feb 2012 22:31:33 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 88E182AFE0; Thu,  2 Feb 2012 22:31:30 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 2 Feb 2012 22:31:30 -0800
+Message-ID: <20120203063130.88E182AFE0@x3.develooper.com>
+Subject: Perl Uber-hacker for consumer electronics product / project (part
+ onsite), Marin County, CA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15482
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February  2, 2012
+
+Job title:
+Perl Uber-hacker for consumer electronics product / project
+
+Company name: Vox Systems, LLC
+
+Internal ID: perl1
+
+Location: Marin County, CA
+
+Pay rate: USD$4000 / mo
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: 6 mos+
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+I need a Perl programmer who knows AnyEvent (at least) to work on an
+entertainment hardware product (running on ARM) for a well-financed
+consumer electronics company.
+
+It's a fun project, and you'll be contributing real code to a product that
+will likely be in the hands of hundreds of thousands of customers.
+
+Bay Area required, some amount of f2f is needed.  I'm based in the North
+Bay (Marin), but you could be as far south as San Jose or north to Santa
+Rosa.
+
+Please respond via email.
+
+Required skills:
+5+ years Perl
+AnyEvent knowledge
+good general CPAN knowledge
+
+Desired skills: Web services development
+
+Contact information at:
+http://jobs.perl.org/job/15482#contact

@@ -1,0 +1,79 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7309
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 17727 invoked from network); 20 Nov 2007 23:23:28 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 20 Nov 2007 23:23:28 -0000
+Received: (qmail 6201 invoked by uid 225); 20 Nov 2007 23:23:28 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 6196 invoked by alias); 20 Nov 2007 23:23:27 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 20 Nov 2007 15:23:25 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id D227C2AFE2; Tue, 20 Nov 2007 15:23:21 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20071120232321.D227C2AFE2@x3.develooper.com>
+Date: Tue, 20 Nov 2007 15:23:21 -0800 (PST)
+Subject: Web application developer for historical research project platform (telecommute), Austria, Innsbruck
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/7342
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 20, 2007
+
+Job title:
+Web application developer for historical research project platform
+
+Company name:
+Institute for Contemporary History at the University of Innsbruck
+
+Location: Austria, Innsbruck
+
+Pay rate: Negotiable
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: ~1 month
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+The Institute for Contemporary History at the University of Innsbruck is
+looking for a web application developer to finish the re-launch of the
+“Zeitgeschichte Informations System” (ZIS) project platform.
+
+The ZIS project platform has been online since 1995 and provides an
+annotated link database, primary sources and timelines focusing on
+Contemporary History related subjects. The software platform is currently
+being re-implemented as a “Virtual Library” module on the basis of the XIMS
+Web-CMS.
+
+Required skills:
+* Object Oriented Perl and mod_perl
+* Relational Databases and SQL
+* XML and XSLT
+* XHTML and CSS
+* JavaScript/AJAX
+
+Desired skills:
+Experience with the XIMS Web content management system
+
+Contact information at:
+http://jobs.perl.org/job/7342#contact
+
+

@@ -1,0 +1,142 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9332
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 6463 invoked from network); 12 Jul 2009 23:20:03 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 12 Jul 2009 23:20:03 -0000
+Received: (qmail 28685 invoked by uid 225); 12 Jul 2009 23:20:02 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 28651 invoked by alias); 12 Jul 2009 23:20:00 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 12 Jul 2009 16:19:55 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 468062AFDF; Sun, 12 Jul 2009 16:19:52 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20090712231952.468062AFDF@x3.develooper.com>
+Date: Sun, 12 Jul 2009 16:19:52 -0700 (PDT)
+X-Virus-Checked: Checked
+Subject: SR MTS - AutoInstalls Group (onsite), United States, CA, Palo Alto
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/10824
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July  6, 2009
+
+Job title: SR MTS - AutoInstalls Group
+
+Company name: VMware
+
+Location: United States, CA, Palo Alto
+
+Pay rate: Salary
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The AutoInstalls Group is part of our Core Platforms Group which is
+responsible for ESX and our Core Virtualization Infrastructure.
+
+Virtualization is the technology that is poised to change the way we think
+about computing. VMware (NYSE: VMW) is the global leader in virtualization
+solutions from the desktop to the datacenter. Customers of all sizes rely
+on VMware to reduce capital and operating expenses, ensure business
+continuity, strengthen security and go green. With 2008 revenues of $1.9
+billion, more than 130,000 customers and more than 22,000 partners, VMware
+is one of the fastest-growing public software companies. VMware’s
+award-winning technology, market-leading position and culture of excellence
+provide the more than 6,600 passionate people we employ in 40 locations
+worldwide with a platform for professional growth and the excitement of
+being an early-stage innovator.
+
+The Virtual Machine Group (VMG) is at the core of VMware R&D.  VMG is
+responsible for the creation and functional verification of anything
+related to a virtual machine (VM) most importantly the ability to run any
+x86 operating system (OS)  and supporting the virtual devices (VD’s) needed
+by the VM.  The operating systems include all current and legacy x86 OS’s
+whether officially supported or not.  This includes MS Windows, Linux,
+Solaris and BSD in all their variations along with many other OS’s.
+
+The AutoInstall Team within the VMG is the most significant development
+team contributing to the functional verification of the VM by automatically
+(Auto) installing (Install) all variations of these OS’s using their
+complex and constantly evolving system software infrastructure written in
+C, Perl and Java leveraging proprietary and non-proprietary API’s across
+all VMware products.  The AutoInstall team is a highly motivated group of
+system software engineers dedicated to supporting the development of the
+AutoInstall infrastructure and the R&D staff that depends on it.  The ideal
+team member is the engineer who drives to complete in an environment which
+requires continuous contribution in the areas of system software
+development, evolution of x86 operating system, x86 virtualization, VMware
+product internals and the support of one of Silicon Valley’s most
+aggressive development environments.
+
+Performance Objectives:
+•	Architect, design, develop and automate test framework using
+distributed programming and OO constructs in PERL and Java in a dynamic
+system environment
+•	Address user issues with high degree of responsiveness
+•	Opportunity to work with and to solve problems for world-class and
+discriminating R&D engineers who constitute our valued internal customers
+•	Actively participate in peer code reviews
+•	Work on complex system software problems that often involve
+conducting primary research by running self-directed and precise
+experiments on multiple VMware platforms. Results of the experiments are
+used as basis to implement functionality in automated scripts
+•	Participate in architecture & design discussions within R&D’s core
+development community
+•	Extend test coverage by implementing for new 32 bit/64 bit
+operating system automated installs or by introducing new product feature
+support
+•	Improve test methodologies and processes
+
+
+Required skills:
+Competencies:
+•	MS in CS or related field and 5+ years experience or equivalent
+•	Strong ability to explore code nuances, devise intelligent test
+cases to selectively exercise code paths and help isolate root cause by
+executing tests and analyze volumes of log data
+•	Expert-level core PERL programming and unit test experience,
+including OO constructs, regexps, file operations, data-structures, and
+debugging complex multi-layer software stacks
+•	Hands on experience in distributed programming in C, Java and/or
+Perl – socket programming, algorithms, data structures and working with low
+level API
+•	Experience developing automated test harnesses on a Linux platform
+that utilize understanding of elements such as sockets, IPC, system calls,
+LILO/GRUB and Linux troubleshooting
+
+
+Desired skills:
+Desired Skills:
+•	Operating system specific knowledge depth in one or more OS
+families of Windows, Linux and MAC OSX
+•	Linux & Windows system administration, PXE booting, building from
+source, makefiles, SCons, BIOS settings
+•	Knowledge of VGA/SVGA graphical modes and screen comparison
+•	Familiarity with VMware products WS6, ESX 3.x
+•	Software Engineering (QA methodologies)
+•	Exceptional communication skills (verbal & written) in English
+
+
+Contact information at:
+http://jobs.perl.org/job/10824#contact
+
+

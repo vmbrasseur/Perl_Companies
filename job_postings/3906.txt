@@ -1,0 +1,74 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3906
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 15968 invoked from network); 21 Feb 2006 23:11:54 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 21 Feb 2006 23:11:54 -0000
+Received: (qmail 30965 invoked by uid 225); 21 Feb 2006 23:11:54 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 30961 invoked by alias); 21 Feb 2006 23:11:53 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 21 Feb 2006 15:11:51 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id k1LNBkg5012144
+	for <jobs@perl.org>; Tue, 21 Feb 2006 15:11:46 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id k1LNBk1g012142;
+	Tue, 21 Feb 2006 15:11:46 -0800
+Date: Tue, 21 Feb 2006 15:11:46 -0800
+Message-ID: <200602212311.k1LNBk1g012142@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Perl/SQL/Linux for music start up (telecommute), United States, CA, Hayward
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3723
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 21, 2006
+
+Job title: Perl/SQL/Linux for music start up
+
+Company name: stealth
+
+Location: United States, CA, Hayward
+
+Pay rate: neg
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Onsite: no
+
+Description:
+o Develop and maintain Perl applications that will generate both web
+pages and XML data files based on users' preferences.
+o Develop a Perl-based system for exchanging media data (text, audio,
+and picture files) with desktop clients using HTTP protocols. All media
+must be able to be displayed, searched and shared in the context of a
+community web site.
+o Generating system usage reports to be displayed on a secure web page.
+o Systems administrations duties.
+
+
+Required skills: Perl, SQL, XML, Linux
+
+Desired skills:
+DBI, PostgreSQL, CGI::Application, and a love of music
+
+Contact information at:
+http://jobs.perl.org/job/3723#contact
+
+

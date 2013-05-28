@@ -1,0 +1,87 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12399
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 20899 invoked from network); 4 May 2012 23:25:59 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 4 May 2012 23:25:59 -0000
+Received: (qmail 32200 invoked by uid 225); 4 May 2012 23:25:59 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 32196 invoked by alias); 4 May 2012 23:25:59 -0000
+X-Spam-Status: No, hits=-2.3 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,LOTS_OF_MONEY,SARE_RMML_Stock17
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 04 May 2012 16:25:55 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 66DCF2AFDF; Fri,  4 May 2012 16:25:51 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 4 May 2012 16:25:51 -0700
+Message-ID: <20120504232552.66DCF2AFDF@x3.develooper.com>
+Subject: Senior Perl Developer (onsite), San Francisco, CA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15964
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May  4, 2012
+
+Job title: Senior Perl Developer
+
+Company name: ChargeSmart/Verifone
+
+Location: San Francisco, CA
+
+Pay rate: DOE
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+ChargeSmart is a thriving and innovative payments company within Verifone
+(NYSE: PAY). We're seeking multiple senior Perl developers to build
+advanced web applications.
+
+What we use:
+* Clean, modern OO Perl - Moose, PSGI/Plack, Dancer, DBIx::Class,
+Perl::Tidy
+* Linux, Apache/mod_perl 2, svn, mysql/postgresql, memcached
+
+We've got a strong team of Perl developers including several prolific CPAN
+authors.
+
+Our office is conveniently located on Market St in downtown San Francisco
+near Montgomery St BART. Ping pong table, comfy beanbags and free Friday
+lunches. We're primarily seeking locally based permanent employees though
+we're open to contract-to-hire.
+
+ChargeSmart has three main products:
+* Bill Payments - on pace to process $250 million dollars of consumer
+payments in the coming year
+* Direct - providing merchants a turnkey e-commerce solution for accepting
+credit card payments on their site
+* Mobile - poised to make a huge impact in the disruptive mobile payments
+space
+
+ChargeSmart recently became part of the Verifone family, which gives us
+greater market opportunities and the resources to offer competitive
+benefits and salaries.
+
+Please reply with resume (text format is fine) and details about your Perl
+and software engineering experience. Code samples from CPAN or github a
+plus. Look forward to hearing from you!
+
+Website for more information: http://www.chargesmart.com/
+
+Contact information at:
+http://jobs.perl.org/job/15964#contact

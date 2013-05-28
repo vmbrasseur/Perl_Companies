@@ -1,0 +1,109 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6737
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 9981 invoked from network); 6 Aug 2007 23:42:51 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 6 Aug 2007 23:42:51 -0000
+Received: (qmail 1312 invoked by uid 225); 6 Aug 2007 23:42:50 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 1292 invoked by alias); 6 Aug 2007 23:42:49 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,DKIM_POLICY_SIGNSOME,DK_POLICY_SIGNSOME,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 06 Aug 2007 16:42:35 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id B1A1F2AFDA; Mon,  6 Aug 2007 16:42:31 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070806234231.B1A1F2AFDA@x3.develooper.com>
+Date: Mon,  6 Aug 2007 16:42:31 -0700 (PDT)
+Subject: Tools Developer (onsite), United States, CA, Oakland
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5685
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August  6, 2007
+
+Job title: Tools Developer
+
+Company name: Ask.com (IAC Search and Media)
+
+Location: United States, CA, Oakland
+
+Pay rate: competitive
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are a small group of Perl and C developers that deals with logging,
+parsing, and analysis of all activity on Ask.com and related properties. 
+Real-time feeds, huge databases, logging, parsing, loading, and analysis
+clusters, database summary, out-of-database summary, incoming and outgoing
+xml feeds, you name it.     
+
+You have loads of Perl experience, some C or Java, solid SQL (we use
+Oracle, but if you know MySQL or PG, that's all right too), and you think
+getting paid to play with all that data might be nice.
+
+
+
+Official description: 
+
+Ask.com is seeking qualified candidates for the position of Software
+Engineer to join a team responsible for business critical data capturing
+and reporting systems company-wide for all web properties and syndication
+customers in a fast-paced multi-tasking environment. The successful
+candidate must enjoy working in a fast-paced environment and use
+disciplined best practices to ensure high-quality, well-designed code
+deployed at a rapid rate. Candidate must have excellent knowledge of Perl,
+C, and shell scripting in a Linux environment.
+
+Responsibilities
+
+    * Design and build software that implements click stream tracking for a
+collection of web sites accessed by 10’s of millions of people.
+    * Develop and maintain internal tools designed to aid productivity.
+    * Handle production issues on a system that stretches across the globe.
+
+    * Maintain/Expand existing reporting systems and analysis tools.
+    * Work on ad-hoc information requests from groups world-wide.
+    * Participate in third-party software evaluation.
+    * Serve as a resource for development on other team projects and
+products as needed. 
+
+Required skills:
+    * Perl expertise, specifically in relation to: regular expressions,
+intercommunications with databases (Oracle) using DBI, XML, and module
+development.
+    * SQL
+    * Experience using C.
+    * UNIX shell scripting (bash).
+
+
+Desired skills:
+    * Understanding of PL/SQL.
+    * Java/C++ programming a plus. 
+
+URL for more information:
+http://www.askcareers.com/askjeeves/jobboard/JobDetails.aspx?__ID=*42C8DEB4
+FAABFEA1
+
+Contact information at:
+http://jobs.perl.org/job/5685#contact
+
+

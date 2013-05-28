@@ -1,0 +1,102 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12843
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 23241 invoked from network); 19 Oct 2012 17:52:58 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 19 Oct 2012 17:52:58 -0000
+Received: (qmail 20801 invoked by uid 225); 19 Oct 2012 17:52:58 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 20797 invoked by alias); 19 Oct 2012 17:52:58 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 19 Oct 2012 10:52:53 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 6E64A2AFE0; Fri, 19 Oct 2012 10:52:50 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 19 Oct 2012 10:52:50 -0700
+Message-ID: <20121019175250.6E64A2AFE0@x3.develooper.com>
+Subject: Sysadmin / devops / BOFH (onsite), Edinburgh, Scotland, UK.
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16628
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 19, 2012
+
+Job title: Sysadmin / devops / BOFH
+
+Company name: theregister.co.uk
+
+Location: Edinburgh, Scotland, UK.
+
+Pay rate: depends on experience
+
+Terms of employment: Salaried employee
+
+Length of employment: indefinite
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The Register, the leading UK website for IT pros, is looking for a
+full-time junior or mid-level dev-ops / sysadmin to join its tech team
+based in central Edinburgh.
+
+You will work on physical and virtualised servers, and will be responsible
+for package management (we run our own local apt repo), system setup,
+configuration, on-going support (applying security updates, monitoring and
+proactively responding to system health) as well as helping with our code
+deployment and improving reliability and quality through increased testing.
+
+
+We favour open source: Debian/Ubuntu, Perl, Apache, MySQL & Postgres. We
+rely heavily on Git for process and revision control.
+
+Perl isn't a requirement, but we are a Perl shop and we would like to stay
+that way.  Aka, it would be well suited to someone wanting to learn more
+Perl and could demonstrate they had the right grounding.  That said,
+existing Perl experience isn't a bad thing either, it's just not a
+requirement to already know it.
+
+You will be wrangling Perl.
+
+No end-user desktop support is involved, beyond ensuring our virtualised
+development environments are usable by the rest of our dev team.
+
+Required skills:
+● a tenacious eye for detail, good systems design and “working smarter”
+pragmatic solutions
+● solid Debian/Ubuntu experience and be comfortable with the shell, package
+management and day to day sysadmin tasks
+● Good knowledge of Apache, modern software revision control (e.g., Git or
+similar) and be comfortable with basic SQL
+● a good familiarity with at least one modern scripting language (Perl,
+Python, Ruby, Bash etc) and a willingness to learn and use Perl
+● excellent English and the legal right to work in the UK.
+
+Our Edinburgh tech team is small, focused and has a good degree of
+autonomy, so you need to be able to produce great work without a carrot or
+stick and be comfortable communicating with the wider business via email,
+phone, IM and online tools such as Wikis and Google Drive.
+
+Desired skills:
+HTML, JavaScript, CSS skills are not required,	but a basic appreciation is
+desirable, as our business is based on the Web.  Your coding will be
+primarily for sysadmin, rather than public web-app tasks.
+
+Website for more information: http://www.theregister.co.uk
+
+Contact information at:
+http://jobs.perl.org/job/16628#contact

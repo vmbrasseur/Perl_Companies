@@ -1,0 +1,75 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11823
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 23641 invoked from network); 2 Nov 2011 06:56:44 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 2 Nov 2011 06:56:44 -0000
+Received: (qmail 11986 invoked by uid 225); 2 Nov 2011 06:56:44 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11982 invoked by alias); 2 Nov 2011 06:56:44 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 01 Nov 2011 23:56:41 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 46C692AFD2; Tue,  1 Nov 2011 23:56:38 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Tue, 1 Nov 2011 23:56:38 -0700
+Message-ID: <20111102065638.46C692AFD2@x3.develooper.com>
+Subject: Software Engineer/Contractor (part onsite), Ann Arbor, MI, USA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15066
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November  1, 2011
+
+Job title: Software Engineer/Contractor
+
+Company name: Geek.net
+
+Internal ID: slashdot-cont
+
+Location: Ann Arbor, MI, USA
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: 2-3 months
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+Software engineer with a strong background in Perl, Apache and mod_perl
+needed to assist in porting large high volume website from mod_perl
+1/Aapche1.3 to mod_perl2/Aapche2.2. Experience with high volume web sites
+and LAMP programming required, must be self motivated and comfortable
+working in with a distributed team. Experience with Agile/Scrum prefered.
+
+Required skills:
+MySQl
+Linux
+Apache
+Perl
+Varnish
+
+Desired skills:
+HTML
+CSS
+Javascript/Ajax
+jQuery
+
+Website for more information: http://geek.net
+
+Contact information at:
+http://jobs.perl.org/job/15066#contact

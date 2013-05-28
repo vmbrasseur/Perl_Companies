@@ -1,0 +1,90 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6244
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 5740 invoked from network); 7 May 2007 18:51:50 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 7 May 2007 18:51:50 -0000
+Received: (qmail 28132 invoked by uid 225); 7 May 2007 18:51:49 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 28121 invoked by alias); 7 May 2007 18:51:49 -0000
+X-Spam-Status: No, hits=2.0 required=8.0
+	tests=BAYES_50,DKIM_POLICY_SIGNSOME,DK_POLICY_SIGNSOME,KARMA_CONNECT_NEGATIVE,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 07 May 2007 11:49:56 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id BEDE52AFD5; Mon,  7 May 2007 11:49:50 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070507184950.BEDE52AFD5@x3.develooper.com>
+Date: Mon,  7 May 2007 11:49:50 -0700 (PDT)
+Subject: Production Engineer (Linux sysadmin + Perl) (onsite), United States, CA, Santa Clara
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5048
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May  7, 2007
+
+Job title:
+Production Engineer (Linux sysadmin + Perl)
+
+Company name: Yahoo! Inc
+
+Location: United States, CA, Santa Clara
+
+Pay rate: DOE
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Join the team responsible for the operation of Yahoo!'s sponsored search
+back-end. You will contribute to both the administration of thousands of
+Linux machines as well as the development of tools that automate their
+deployment, management and monitoring.
+
+The ideal candidate has strong Perl programming skills as well as an
+extensive background in large-scale system administration.
+
+This is a full time position located in Santa Clara, CA.
+
+Responsibilities:
+
+* Administer Linux clusters, monitor their health and performance
+* Develop tools to automate the deployment, administration and monitoring
+of a large-scale Linux environment
+* Gain deep application-level knowledge of the sponsored search back-end
+systems as well as contributing to their overall design
+* Assist in the configuration/build-out of new deployments to facilitate
+our constant growth
+* Contribute to the documentation of our complex environment
+* Participate in a 12x7 (daylight hours) on-call pager rotation
+
+Required skills:
+* Extensive system administration background
+* Strong Perl programming skills
+* Excellent written and verbal communication skills
+
+Desired skills:
+* 4+ years experience with Linux (RHEL a plus)
+* 4+ years experience administering large-scale UNIX installations (ISP
+background a plus)
+* BS Computer Science
+
+Contact information at:
+http://jobs.perl.org/job/5048#contact
+
+

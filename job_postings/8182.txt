@@ -1,0 +1,72 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8182
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 12639 invoked from network); 23 May 2008 04:54:25 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 23 May 2008 04:54:25 -0000
+Received: (qmail 961 invoked by uid 225); 23 May 2008 04:54:25 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 933 invoked by alias); 23 May 2008 04:54:24 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 22 May 2008 21:54:20 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 8B7002AFE9; Thu, 22 May 2008 21:54:17 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080523045417.8B7002AFE9@x3.develooper.com>
+Date: Thu, 22 May 2008 21:54:17 -0700 (PDT)
+Subject: perl, Mason, DBI, AWS programmer (telecommute), United States, ME, Portland
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8770
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 22, 2008
+
+Job title: perl, Mason, DBI, AWS programmer
+
+Company name: Foneshow, Inc.
+
+Location: United States, ME, Portland
+
+Travel: 0-25%
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+We are looking for 2-3 experienced Perl programmers to help us enhance and
+maintain our mobile content service, which integrates a Mason-driven Web
+site, an Asterisk-based interactive-telephony application, and a
+message-queue-driven content-processing engine running in Amazon's EC2
+server cloud. 
+
+This can be a telecommuting contract, or you could use this as a chance to
+move to stunning, affordable Portland, Maine - it's the Portland, Oregon of
+the Northeast! We're a VC-backed, Silicon Valley-type startup with an airy
+loft in the funky, busy Old Port area. Skiing, kayaking, hiking and
+camping, sailing, hunting and fishing are just a short ride away.
+
+Required skills: perl, Mason, DBI
+
+Desired skills:
+object-oriented Perl, Amazon Web Services, Asterisk AGI, git, AJAX
+
+URL for more information: http://foneshow.com/about/jobs
+
+Contact information at:
+http://jobs.perl.org/job/8770#contact
+
+

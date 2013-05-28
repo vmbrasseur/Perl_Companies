@@ -1,0 +1,124 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9864
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 25529 invoked from network); 11 Feb 2010 01:21:45 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 11 Feb 2010 01:21:45 -0000
+Received: (qmail 2039 invoked by uid 225); 11 Feb 2010 01:21:45 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 1897 invoked by alias); 11 Feb 2010 01:21:44 -0000
+X-Spam-Status: No, hits=-0.0 required=8.0
+	tests=SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 10 Feb 2010 17:21:10 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id C67A52AFE5; Wed, 10 Feb 2010 17:20:58 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20100211012058.C67A52AFE5@x3.develooper.com>
+Date: Wed, 10 Feb 2010 17:20:58 -0800 (PST)
+Subject: Sr. Linux System Engineer (LAMP) (onsite), United States, MA, Cochituate
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/11746
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February  9, 2010
+
+Job title: Sr. Linux System Engineer (LAMP)
+
+Company name: CareerEncore (search firm)
+
+Internal ID: Sr.SysEng
+
+Location: United States, MA, Cochituate
+
+Pay rate: $120,000 USD
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Our client, a tier-one venture backed SaaS company located west of Boston,
+has exclusively engaged us to help them hire a passion Linux Systems
+Engineer to bridge the gap between the middle and web application tiers
+within their high volume, highly available, high transaction
+customer-facing web environment.  If you passionate about Perl scripting to
+solve very cool performance and optimization problems, please take a few
+minutes to briefly describe your experience as it relates the skills listed
+within the "Desired Skills" section. 
+
+Required skills:
+• 5+ years of UNIX/Linux systems administration in a mid-size server
+environment supporting highly available, customer-facing services 
+• Extensive Perl or PHP scripting experience
+• Deep understanding of Linux internals, including kernel and tcp stack
+tuning 
+• Extensive experience with the following applications: MySQL, Apache and
+JBoss 
+• Experience scaling web applications in a highly available environment
+(OS, application and web tier clustering) 
+• Experience optimizing and tuning the Java Virtual Machine in a high
+volume production environment
+• Experience with SNMP monitoring using tools similar to Cacti, Nagios, or
+Groundwork 
+• In depth knowledge of Storage Area Networks (iSCSI) 
+• Experience with virtualization technology (VMware) is desired 
+• Experience migrating from Windows to Linux platform highly desirable 
+• Solid understanding of programming and software development to the level
+necessary to interface with and guide software development groups from a
+systems and infrastructure perspective 
+• Must be a self starter with the ability to multitask, work independently,
+as well as positively participate on a team 
+
+Desired skills:
+Please take a few minutes to briefly describe your experience as it relates
+to the following:
+• Linux
+• Apache
+• Perl scripting to solve complex operational problems 
+• JBoss (or Weblogic, Glassfish, Websphere)
+• Hibernate
+• Jdmp
+• Bridging the gap between the middle and web application tiers
+• High volume
+• Highly available
+• High transaction 
+• Customer-facing web environment
+• Middleware clustering
+• Troubleshooting performance issues
+• Solving tough infrastructure architectural technical problems 
+• Experience migrating from a Windows to a Linux operating system
+• Linux kernel 
+• Scripting automatic deployments
+• Hard core administration – clustering and performance
+• JBPM
+• A very heavy workflow engine
+• Solving middle tier problems
+• Fiber Channel or iSCSI
+• Virtualization
+• Storage
+• Exposure to system recovery (failover to secondary site – doubleclick)
+• Nagios and Groundwork
+• Java Virtual Machine or JMX – tuning and optimizing
+• Passion for technology (do you have a home lab set up?)
+• Identify problems, find solutions and implement
+
+URL for more information: http://bostontechjobs.blogspot.com/
+
+Contact information at:
+http://jobs.perl.org/job/11746#contact
+
+

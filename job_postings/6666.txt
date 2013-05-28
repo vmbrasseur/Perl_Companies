@@ -1,0 +1,107 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6666
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 32360 invoked from network); 24 Jul 2007 08:06:16 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 24 Jul 2007 08:06:16 -0000
+Received: (qmail 17169 invoked by uid 225); 24 Jul 2007 08:06:16 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 17160 invoked by alias); 24 Jul 2007 08:06:15 -0000
+X-Spam-Status: No, hits=-2.6 required=8.0
+	tests=BAYES_00,DKIM_POLICY_SIGNSOME,DK_POLICY_SIGNSOME,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 24 Jul 2007 01:06:12 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 4B3FB2AFF1; Tue, 24 Jul 2007 01:06:08 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070724080608.4B3FB2AFF1@x3.develooper.com>
+Date: Tue, 24 Jul 2007 01:06:08 -0700 (PDT)
+Subject: Web UI / Perl Developer (onsite), United States, CA, San Jose
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/6247
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 23, 2007
+
+Job title: Web UI / Perl Developer
+
+Company name: eBay Inc.
+
+Internal ID: ROW - Web Dev UI
+
+Location: United States, CA, San Jose
+
+Pay rate: DOE
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 3 Months
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+** This is a contract-to-hire position **
+
+If this candidate works out for the contract duration, we intend to hire
+this person full-time.	You will also be required to use one of eBay's
+approved contracting firms for this position, during the contract phase, no
+exceptions.
+
+We are looking for a Web developer who is a specialist in front-end
+presentation engineering while also comfortable with server-side
+application development.  You will be developing applications on a very
+high-traffic LAMP platform, built on a Linux/Apache/mod_perl architecture,
+with HTML::Mason and HTML::Template utilized for a multi-lingual
+presentation tier.  The application layer utilizes XML-based messaging over
+HTTP to communicate with enterprise systems.  Development will be done in
+English (UTF-8), and then localized for testing and release.  You must be
+familiar with source control (preferably ClearCase) and bug tracking
+systems, as well as full Product Development Life-Cycles (PDLC).  The ideal
+candidate must have a responsible, diligent work ethic, self-starter, be
+willing to ask questions, and have a desire to do things "the right way"
+rather than "just make it work".  Also, must be comfortable in a Unix/Linux
+environment, using BASH, SSH, Vi(Vim), etc.
+
+Our team's major tasks include numerous custom or "tailored" shopping
+experiences for eBay.  This platform also runs two of the current
+international eBay sites (extra points if you guess which ones); we get
+100's of millions of page views per month.
+
+Required skills:
+- 4+ yrs overall experience with high-availability web applications
+- HTML DOM, CSS, Java Script (Cross-browser),
+- AJAX (familiarity with prototype.js is a plus)
+- Web Graphic production (manipulation of gif, animated gif, jpeg images)
+- Perl scripting (CGI or mod_perl)
+- XML
+- Unix-or-Linux platforms, SSH, basic shell commands: ps, find, rsync, etc.
+
+- Unicode (UTF-8)
+
+Desired skills:
+- Apache web server configuration, internals, modules, performance tuning
+- Perl:  OO Perl, mod_perl, HTML::Mason, HTML::Template, XML::Simple, DBI,
+performance tuning, profiling, creating and installing modules
+- Localization processes, character encoding (ISO*, UTF-16, UTF-8, Big5
+...)
+- Database skills, SQL92
+- General Unix/Linux sysadmin skills
+
+Contact information at:
+http://jobs.perl.org/job/6247#contact
+
+

@@ -1,0 +1,76 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6479
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 16467 invoked from network); 19 Jun 2007 22:11:44 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 19 Jun 2007 22:11:44 -0000
+Received: (qmail 9019 invoked by uid 225); 19 Jun 2007 22:11:43 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 9008 invoked by alias); 19 Jun 2007 22:11:42 -0000
+X-Spam-Status: No, hits=-2.6 required=8.0
+	tests=BAYES_00,DKIM_POLICY_SIGNSOME,DK_POLICY_SIGNSOME,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 19 Jun 2007 15:11:39 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 32C7C2B000; Tue, 19 Jun 2007 15:11:36 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070619221136.32C7C2B000@x3.develooper.com>
+Date: Tue, 19 Jun 2007 15:11:36 -0700 (PDT)
+Subject: CRUD Form Developer for Catalyst Application (telecommute), NJ, Freehold
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5983
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 19, 2007
+
+Job title:
+CRUD Form Developer for Catalyst Application
+
+Company name: Walker's Manual, Inc.
+
+Location: NJ, Freehold
+
+Pay rate: Negotiable
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+Walker's Manual is currently developing a Perl application using the
+Catalyst web framework and the DBIx::Class ORM. The database itself is
+PostgreSQL, but this is hidden behind the ORM.
+
+We are looking for a programmer to implement approximately six data entry
+forms for the application. Some forms have already been developed using
+HTML::Widget; however, HTML::Widget does not provide the validation
+capabilities we need. Specifically, we need to validate consistency between
+fields: does field a - field b = field c, for instance.
+
+Required skills:
+*Catalyst Web Framework
+*DBIx::Class ORM
+*DBIx::Class currency and date inflators.
+*A deep understanding of a form validation framework that can be used
+within Catalyst. We would consider FormBuilder with Data::Validator,
+HTML::FormFu, or any suggested system that accomplishes our validation
+goals.
+
+Contact information at:
+http://jobs.perl.org/job/5983#contact
+
+

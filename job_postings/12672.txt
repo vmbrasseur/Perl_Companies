@@ -1,0 +1,89 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12672
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 22121 invoked from network); 17 Aug 2012 22:43:47 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 17 Aug 2012 22:43:47 -0000
+Received: (qmail 12372 invoked by uid 225); 17 Aug 2012 22:43:46 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 12367 invoked by alias); 17 Aug 2012 22:43:46 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,LOTS_OF_MONEY
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 17 Aug 2012 15:43:44 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id DA4C72AFE0; Fri, 17 Aug 2012 15:43:40 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 17 Aug 2012 15:43:40 -0700
+Message-ID: <20120817224340.DA4C72AFE0@x3.develooper.com>
+Subject: Senior Systems Analyst/Developer (onsite), Philadelphia, PA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16354
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 17, 2012
+
+Job title: Senior Systems Analyst/Developer
+
+Company name: American College of Physicians
+
+Location: Philadelphia, PA
+
+Pay rate: $63,000-$69,000
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The American College of Physicians (ACP), a prestigious medical membership
+association for doctors of internal medicine located on Independence Mall
+in Center City, Philadelphia, is seeking a Senior Systems
+Analyst/Developer.
+
+This position is responsible for the analysis, technical design and web
+systems development related to ongoing production and development of web
+infrastructure for a large portfolio of web applications and properties.
+
+Specific responsibilities include:
+•	Developing complex web applications ensuring adherence to Software
+Development Lifecycle Management (SDLC)
+•	Collaborating with other technical staff to plan and implement
+system enhancements and upgrades.
+
+Required skills:
+A strong candidate will have the following qualifications:
+•	Bachelor’s degree in computer science preferred or equivalent work
+experience required
+•	Demonstrated ability to create and maintain tools to be used by
+non-technical staff by writing clean, manageable code in functional and
+high-level languages
+•	Server-Side Skills including Perl (functional and OO), FastCGI,
+mod_perl, Ruby, .NET, C#, ASP.NET, ASP/VBScript, Web Services, and WSDL are
+all a plus, MySql, Berkeley DB, SQL Server,  SQL, stored procedures. 
+Experience with Agile methodologies, a source control tool
+o	Operating systems: Linux, Solaris
+•	Client-side Skills including XHTML / CSS standards-based
+development, JavaScript / DHTML / Ajax, XML / XSLT and experience with a
+browser-based testing framework (i.e. Selenium, Cucumber, Webrat) is a plus
+
+•	Content Management System: Knowledge of concepts and capabilities
+as well as experience in development preferred.
+
+Website for more information:
+http://www.acponline.org/career_connection/acp/#ssad
+
+Contact information at:
+http://jobs.perl.org/job/16354#contact

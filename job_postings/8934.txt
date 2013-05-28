@@ -1,0 +1,75 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8934
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 12704 invoked from network); 14 Jan 2009 02:52:08 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 14 Jan 2009 02:52:08 -0000
+Received: (qmail 23277 invoked by uid 225); 14 Jan 2009 02:52:08 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 23271 invoked by alias); 14 Jan 2009 02:52:07 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 13 Jan 2009 18:52:02 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 4F4D02AFDD; Tue, 13 Jan 2009 18:51:58 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20090114025159.4F4D02AFDD@x3.develooper.com>
+Date: Tue, 13 Jan 2009 18:51:58 -0800 (PST)
+Subject: Perl & Mechanize Guru Needed (telecommute), United States, VT, South Burlington
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/10092
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 12, 2009
+
+Job title: Perl & Mechanize Guru Needed
+
+Company name: SchoolSpring
+
+Location: United States, VT, South Burlington
+
+Pay rate: Negotiable
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+This is just a short-term project, but hopefully a fun challenge for an
+experienced programmer. We're willing to pay per hour or for the project
+based on a time estimate.
+
+We need help setting up a spider to crawl a site that requires
+authentication and uses javascript redirects and who knows what else. We
+just need a mechanize guru to help us get into the site, we can do the
+actual pulling of content.
+
+The intent is to provide a sort of data aggregation service to our users.
+They will provide us their credentials so that we can import information
+from their account into our database to make their lives much easier.
+
+Required skills:
+Perl
+use of Mechanize module to crawl sites requiring authentication and heavy
+use of javascript
+
+URL for more information: http://www.schoolspring.com/
+
+Contact information at:
+http://jobs.perl.org/job/10092#contact
+
+

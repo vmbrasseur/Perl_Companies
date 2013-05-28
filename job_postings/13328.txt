@@ -1,0 +1,72 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13328
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 24483 invoked from network); 21 Apr 2013 02:30:24 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 21 Apr 2013 02:30:24 -0000
+Received: (qmail 22905 invoked by uid 225); 21 Apr 2013 02:30:24 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 22901 invoked by alias); 21 Apr 2013 02:30:24 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 20 Apr 2013 19:30:18 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 81F132AFD1; Sat, 20 Apr 2013 19:30:14 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 20 Apr 2013 19:30:14 -0700
+Message-ID: <20130421023015.81F132AFD1@x3.develooper.com>
+Subject: text parsing script (telecommute)
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17281
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 20, 2013
+
+Job title: text parsing script
+
+Company name: Silver Fox
+
+Pay rate: bid
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+I need someone to build a text comparison and text manipulation script. The
+script creates a few files and does some adjustments to the data inorder to
+create a final new file. Here are the generic steps to the script. I will
+give more details once we decided on a developer. 
+
+1.	At 5 am every day download a csv file via ftp
+2.	Parse the CSV file to remove any items from the file that have less
+than 5 in the quantity field. Save the file as input.csv
+3.	Open input.csv and export certain columns from input.csv to another
+file called upload.txt
+4.	Once this new file has been made then trigger another perl script
+to be run, called secondary_process.pl. 
+5.	secondary_process.pl produces a file called transform.csv, do a
+comparison between a column in upload.txt and transform.csv so that certain
+results in transform.csv change the values in upload.txt
+
+The script will be run on a linux box and part of your job is to install
+script and get it working correctly. Please email me a bit about your
+skills and also how much you bid to do this project. Please only bid if you
+have the time to start this project and finish it by 4/26. Thanks fellow
+Perl enthusiasts!
+
+Contact information at:
+http://jobs.perl.org/job/17281#contact

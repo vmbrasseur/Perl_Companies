@@ -1,0 +1,108 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4768
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 27754 invoked from network); 11 Aug 2006 06:36:39 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 11 Aug 2006 06:36:39 -0000
+Received: (qmail 19694 invoked by uid 225); 11 Aug 2006 06:36:39 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 19688 invoked by alias); 11 Aug 2006 06:36:38 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 10 Aug 2006 23:36:36 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id DE8DE2AFE2; Thu, 10 Aug 2006 23:36:31 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060811063631.DE8DE2AFE2@x3.develooper.com>
+Date: Thu, 10 Aug 2006 23:36:31 -0700 (PDT)
+Subject: Web developer for nonprofit, online environmental news magazine (onsite), United States, WA, Seattle
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4482
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 10, 2006
+
+Job title:
+Web developer for nonprofit, online environmental news magazine
+
+Company name: Grist Magazine, Inc.
+
+Location: United States, WA, Seattle
+
+Pay rate: Salary
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Grist is seeking an experienced web developer with solid Perl skills to
+help implement our ambitious expansion plans. In the coming months, Grist
+will begin to redesign its website and start introducing exciting new
+features and enhanced functionality, and needs a talented web programmer to
+make it happen.
+
+This is a full-time position located in our downtown Seattle office. The
+web developer will report to Grist's web production manager.
+
+Responsibilities will include:
+
+* Development of new website features and functionality
+* Integration between Grist's Perl-based content management systems
+(Bricolage and Scoop), as well as with ASPs and third-party websites
+* CGI scripting
+* Database development
+* Template authoring for Grist's website, blog, HTML emails, and RSS feeds
+* Ensuring cross-browser compatibility and standards compliance
+* Keeping Grist informed about best practices and latest developments
+
+
+Required skills:
+Candidates should have two to four years of experience with:
+
+* Perl and CGI scripting
+* MySQL and PostgreSQL
+* XHTML/HTML and CSS
+* JavaScript
+* PHP
+* XML
+
+The successful candidate will be proactive in learning new skills and
+possess superior organizational and time-management skills; excellent
+verbal and written communication skills; an ability to multitask and thrive
+under deadlines; and an affinity for open source software.
+
+
+Desired skills:
+And it sure would be nice if you also had experience with:
+
+* Bricolage
+* Scoop
+* Mason
+* Flash
+* Ajax
+* Web 2.0 concepts
+* API, LDAP and/or other type of system integration
+
+
+URL for more information: http://www.grist.org/
+
+Contact information at:
+http://jobs.perl.org/job/4482#contact
+
+

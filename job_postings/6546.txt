@@ -1,0 +1,92 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6546
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 4027 invoked from network); 29 Jun 2007 21:56:14 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 29 Jun 2007 21:56:14 -0000
+Received: (qmail 26091 invoked by uid 225); 29 Jun 2007 21:56:14 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 26087 invoked by alias); 29 Jun 2007 21:56:13 -0000
+X-Spam-Status: No, hits=-2.6 required=8.0
+	tests=BAYES_00,DKIM_POLICY_SIGNSOME,DK_POLICY_SIGNSOME,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 29 Jun 2007 14:56:08 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 5C91E2AFF1; Fri, 29 Jun 2007 14:56:02 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070629215602.5C91E2AFF1@x3.develooper.com>
+Date: Fri, 29 Jun 2007 14:56:02 -0700 (PDT)
+Subject: bioinformatics analyst (onsite), United States, NY, Ithaca
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/6034
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 29, 2007
+
+Job title: bioinformatics analyst
+
+Company name: Cornell University
+
+Location: United States, NY, Ithaca
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+A system administrator/programmer position is open effective immediately at
+the Sol Genomics Network (SGN, http://sgn.cornell.edu) at Cornell
+University. We are looking for an enthusiastic person with a strong
+interest in system, cluster, HPC (high performance computing) and network
+administration. The successful candidate will work in a multidisciplinary
+environment with biologists and programmers. On the programming side, the
+successful candidate will be involved in creating, implementing and
+documenting algorithms, relational databases and advanced bioinformatics
+tools.
+
+Bachelors with 3-5 years experience or equivalent combination. Bachelor's
+degree in bioinformatics, computer science, biology or related fields
+preferred. Three or more years of related IT/web experience, solid
+knowledge of web/database technologies, extensive and in-depth Linux server
+administration (Debian distribution), relational database design
+methodology, network management and network security, XML, object-oriented
+Perl are desired. Excellent written and oral communication, effective
+problem solving and strong organizational skills are required.
+
+The job is in beautiful Ithaca, NY. Unfortunately we can't provide
+relocation assistance.
+
+Required skills:
+perl 
+network & linux systems administration
+sql/database experience
+
+
+Desired skills:
+biology or bioinformatics experience
+sql/database experience (we use postgresql)
+apache/mod_perl
+web technologies including html, javascript, ajax
+
+
+URL for more information:
+http://sgn.cornell.edu/forum/posts.pl?topic_id=2
+
+Contact information at:
+http://jobs.perl.org/job/6034#contact
+
+

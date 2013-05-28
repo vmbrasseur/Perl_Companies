@@ -1,0 +1,100 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2838
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 11315 invoked from network); 9 Jun 2005 22:47:25 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 9 Jun 2005 22:47:25 -0000
+Received: (qmail 10615 invoked by uid 225); 9 Jun 2005 22:47:24 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 10611 invoked by alias); 9 Jun 2005 22:47:24 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 09 Jun 2005 15:47:22 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j59MlJWc030494
+	for <jobs@perl.org>; Thu, 9 Jun 2005 15:47:19 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j59MlJ0L030492;
+	Thu, 9 Jun 2005 15:47:19 -0700
+Date: Thu, 9 Jun 2005 15:47:19 -0700
+Message-ID: <200506092247.j59MlJ0L030492@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: LAMP (Perl) Developer for e-Publishing (onsite), United States, MA, Southborough
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2723
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June  9, 2005
+
+Job title: LAMP (Perl) Developer for e-Publishing
+
+Company name: Texterity, Inc
+
+Location: United States, MA, Southborough
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are looking for an experienced Perl programmer with extensive
+knowledge of Linux, Apache, mod_perl and MySQL to help continue the
+development of our core products.  As part of the development team, you
+will design, develop, debug and test code for both new and existing
+systems.  You will be given a great deal of freedom to exercise your
+knowledge and experience.  In return, we will expect high quality,
+elegant, well engineered solutions that meet the needs of our staff and
+customers and are delivered on time.
+
+Texterity is a mature company that retains the focus and energy of a
+start-up.  We have a long record of delivering successful solutions to
+our customers.	Our recent growth and success in the magazine
+e-publishing area has required that we focus on scalability as well as
+functionality.	Our Published Web Format (PWF) is based on core
+technology that has been proven over many years of use.  Customers use
+PWF to provide digital distribution of consumer and business magazines
+(e.g.  Machine Design, Bon Appetit, Esquire, ...) to their readers.
+
+
+Required skills:
+    - Advanced knowledge of Perl with emphasis on OOP, mod_perl, and
+      MySQL integration
+    - Fundamental knowledge of web application architecture, database
+      design (MySQL), web servers (Apache), JavaScript, HTML
+    - Experience with XML, DOMs, Schemas, and parsers
+    - Experience building web user interfaces for technical
+      tools/workflows
+    - Working knowledge of Linux
+    - Working knowledge of web application authentication and security
+      methods
+    - BS and 4-8 years of experience in software engineering
+    - Sense of humor
+
+
+Desired skills:
+    - Knowledge of web server load balancing, caching and optimization
+      techniques 
+    - Knowledge of network architecture
+    - Knowledge/experience in Java, C, VBScript, DHTML, CSS
+
+
+Contact information at:
+http://jobs.perl.org/job/2723#contact
+
+

@@ -1,0 +1,127 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3465
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 7277 invoked from network); 15 Nov 2005 23:57:19 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 15 Nov 2005 23:57:19 -0000
+Received: (qmail 19594 invoked by uid 225); 15 Nov 2005 23:57:19 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 19590 invoked by alias); 15 Nov 2005 23:57:18 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 15 Nov 2005 15:57:11 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id jAFNv9ua016507
+	for <jobs@perl.org>; Tue, 15 Nov 2005 15:57:09 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id jAFNv9up016505;
+	Tue, 15 Nov 2005 15:57:09 -0800
+Date: Tue, 15 Nov 2005 15:57:09 -0800
+Message-ID: <200511152357.jAFNv9up016505@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Software Engineer/Programmer (part onsite), United States, IL, Chicago
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3309
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 15, 2005
+
+Job title: Software Engineer/Programmer
+
+Company name: BeFreer.com, Inc.
+
+Location: United States, IL, Chicago
+
+Pay rate: $15-20
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Flexible
+
+Onsite: some
+
+Description:
+BeFreer.com, Inc. is offering Internships and Part-time software
+programming positions (leading to Full-time positions) to help develop and
+support highly innovative desktop & server applications in the Chicago
+metropolitan area. Product line areas include mobile messaging, mobile
+productivity tools, P2P file-sharing, audio & video streaming, podcasting,
+etc… Candidates will be working in team environments to complete product
+designs, interfaces, and testing. They will be involved in all stages of
+product development, delivery, and support. These positions offer excellent
+opportunities to gain professional experience in several areas, and grow
+along with a rapidly developing company to achieve top, long-term technical
+positions.  
+
+We are looking for skilled and motivated programmers who are highly
+familiar with network, CGI, and database programming in Perl. Experience in
+building wireless applications for cell phones and PDA’s is also highly
+desirable. Other beneficial, but not required languages include:  Java,
+C/C++, and .Net. Basic knowledge of HTML, XML, and SQL is required.
+
+Additional areas of interest include:
+
+-Socket programming for clients and servers
+-Wireless Application Protocol (WAP): xHTML, WML, HDML, cHTML
+-User interface design for small screens
+-Programming for Pocket PC and/or Palm operating systems
+-Windows and Linux programming and server administration
+
+Courses in the following subject areas would provide some of the above
+skills:
+
+Server-side Programming & Scripting, or CGI
+Operating Systems
+Object-Oriented Programming
+Database Concepts
+Distributed Systems
+Software Development for PDA or Mobile Systems
+
+Successful candidates will meet as many as the above skill and knowledge
+areas as possible, and/or have strong interest and willingness to learn the
+others.
+
+Hours are flexible and some work may be performed remotely. Rates are from
+$15-$20 initially, depending on experience or skill level. University
+credit may be available as an Internship or Co-op, in addition to
+satisfying work experience requirements towards degree programs. Assistance
+with meeting VISA’s requirements may also be discussed.
+
+Please email your résumé to careers@befreer.com (no calls or faxes). Thank
+you.
+
+Required skills:
+-Extensive programming experience with Perl on Win32 systems
+-Basic experience with Perl on Unix/Linux systems
+-Extensive experience writing CGI scripts
+-Network and Socket programming experience
+
+
+Desired skills:
+-Webserver administration for Apache on Linux and Win32 systems
+-Webserver administration for IIS on Win32 systems
+-MySQL
+-XML
+-WAP (xHTML, WML, HDML, cHTML)
+-CVS or WinCVS (or other source code revision)
+
+URL for more information: http://www.befreer.com/
+
+Contact information at:
+http://jobs.perl.org/job/3309#contact
+
+

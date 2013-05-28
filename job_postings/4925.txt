@@ -1,0 +1,85 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4925
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 1679 invoked from network); 11 Sep 2006 01:55:40 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 11 Sep 2006 01:55:40 -0000
+Received: (qmail 21721 invoked by uid 225); 11 Sep 2006 01:55:38 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 21698 invoked by alias); 11 Sep 2006 01:55:35 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 10 Sep 2006 18:55:31 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 493DF2AFE1; Sun, 10 Sep 2006 18:55:27 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060911015527.493DF2AFE1@x3.develooper.com>
+Date: Sun, 10 Sep 2006 18:55:27 -0700 (PDT)
+Subject: System Administrator/DBA (onsite), United States, PA, Wayne
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4295
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 10, 2006
+
+Job title: System Administrator/DBA
+
+Company name: traffic.com
+
+Internal ID: 01
+
+Location: United States, PA, Wayne
+
+Pay rate: N/A
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Looking for a Linux RH 4.0 SysAdmin with good perl and shell experience. 
+We also do some DBI work. This is a position for mid -> senior person with
+at least 5 good Linux years working through 3.4 -> 3.6.  You may also learn
+Oracle skillsets to the extent you want.  Will get good exposure to SAN
+design, installation, and maintenance. Also tape backup control and
+maintenance.  DR and restore testing a plus. EMC Storage array control and
+maintenance. As much responsibility as you wish to take on at the pace you
+are capable of taking it.  This position is fulltime but we have no funding
+for interview travel expenses or moving expenses if the job is obtained.
+We cannot at this time sponsor H1.
+
+Required skills:
+Linux RH 3.0 4.0  
+Perl 5
+bash shell or other
+motivation (good)
+work ethic (good)
+
+Desired skills:
+DBI
+64bit Opteron exposure
+hardware SAN, IP, PC, Storage Array EMC
+Oracle exposure 9i/10
+
+
+URL for more information: http://traffic.com/
+
+Contact information at:
+http://jobs.perl.org/job/4295#contact
+
+

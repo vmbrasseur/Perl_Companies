@@ -1,0 +1,95 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2744
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 1384 invoked from network); 20 May 2005 11:07:35 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 20 May 2005 11:07:35 -0000
+Received: (qmail 2462 invoked by uid 225); 20 May 2005 11:07:34 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 2455 invoked by alias); 20 May 2005 11:07:33 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 20 May 2005 04:07:30 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j4KB7RnC015953
+	for <jobs@perl.org>; Fri, 20 May 2005 04:07:27 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j4KB7RaW015951;
+	Fri, 20 May 2005 04:07:27 -0700
+Date: Fri, 20 May 2005 04:07:27 -0700
+Message-ID: <200505201107.j4KB7RaW015951@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Perl/mod_perl programmer for web services co. (onsite), Australia, NSW, Sydney
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2633
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 20, 2005
+
+Job title:
+Perl/mod_perl programmer for web services co.
+
+Company name: SiteSuite
+
+Location: Australia, NSW, Sydney
+
+Pay rate: Commensurate with skills and experience
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+SiteSuite (http://www.sitesuite.com.au) is a leading developer of web based
+applications and Content Management Systems with a client base ranging from
+small retailers through to industry leaders such as Yahoo! and MelbourneIT.
+In our eighth year, we continue to grow at a rapid pace and are seeking a
+skilled, intelligent programmer to join our Sydney based development team.
+You will be working with some well known names in the Perl community on a
+wide and varied range of projects for internal and external clients as well
+as dealing with some of the day-to-day maintenance of our current software
+and management systems. Our teams of developers, designers and systems
+administrators are among the best in the business so you can be assured of
+support in your role.
+
+We offer a challenging work environment where you will be expected to
+provide innovative solutions to sometimes complex problems, so a can-do
+approach is essential. Our offices are located on the fringe of the CBD
+close to all major transport hubs and every other service you could
+imagine. 
+
+Required skills:
+Perl/mod_perl/Object-Oriented programming
+MySQL/PostgreSQL
+Experience developing web applications for high volume sites
+Some Linux admin skills (you need to be able to set up and run your Linux
+(Debian) workstation).
+Apache configuration
+Commercial experience in a simliar role.
+
+Desired skills:
+Experience using any of the tools/modules we use: CGI-Application,
+Class-DBI, Template-Toolkit, HTML-Template.
+Experience with Qmail or similar MTAs
+Javascript/DOM programming gets you extra points
+
+Contact information at:
+http://jobs.perl.org/job/2633#contact
+
+

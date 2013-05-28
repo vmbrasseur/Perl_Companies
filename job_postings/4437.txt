@@ -1,0 +1,148 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4437
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 27280 invoked from network); 6 Jun 2006 10:54:06 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 6 Jun 2006 10:54:06 -0000
+Received: (qmail 17205 invoked by uid 225); 6 Jun 2006 10:54:06 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 17199 invoked by alias); 6 Jun 2006 10:54:06 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 06 Jun 2006 03:53:51 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 75AE02AFE3; Tue,  6 Jun 2006 03:53:47 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060606105347.75AE02AFE3@x3.develooper.com>
+Date: Tue,  6 Jun 2006 03:53:47 -0700 (PDT)
+X-Virus-Checked: Checked
+Subject: QA III (onsite), 98101, WA, Seattle
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3955
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June  6, 2006
+
+Job title: QA III
+
+Company name: Whitepages.com
+
+Internal ID: 288013
+
+Location: 98101, WA, Seattle
+
+Pay rate: Market US Dollars
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+WhitePages.com, Inc. is a profitable, diverse, and rapidly growing company
+that is a leader in providing online directory assistance and data
+services. We serve millions of users each month from our top-ranked Web
+properties including WhitePages.com and WhitePages.ca. Our offices are
+located in downtown Seattle, and we provide a work environment that is
+casual, yet challenging, fun and fast-paced.
+
+What We Do: 
+We develop Perl-based technologies for leading Open Source, high-volume
+websites and applications in the directory services space. Our developers
+aid in the architecture, design, and implementation of our core
+technologies.  
+
+The Quality Assurance Engineer III is responsible for writing, implementing
+and executing manual and automated test cases to exercise our product
+components, APIs, proprietary data and search layer as well as our in-house
+data sets. The Quality Assurance Engineer III will be expected to find,
+isolate and enter bug reports in a bug database (including difficult to
+isolate bugs requiring creative investigations and persistence), organize
+larger investigations to isolate bugs, and work directly with Development
+and Program Management to get bugs fixed. Quality Assurance III will help
+design quality assurance processes and related testing activities.
+
+Responsibilities:
+
+    * Writing, implementing and executing manual test cases to exercise our
+websites, products, APIs and data and search layer, as well as new products
+as they are defined.
+    * Write, document and maintain test plans, test cases and test scripts
+in support of QA activities and initiatives.
+    * Analyze datasets for validity and consistency
+    * Analyze and communicate the impact of code changes across our various
+products.
+    * Meet development milestones and business objectives on schedule.
+    * Communicate closely and effectively with Engineering, Product
+Management and general business management.
+    * Write and track software defect reports using bug tracking software.
+    * Track and communicate test results.
+    * Create and update test automation scripts to support test cases and
+test plans.
+    * Document test and/or test automation process and test approach for
+assigned areas of responsibility.
+    * Create and maintain QA documentation so it is up-to-date and
+accurate.
+    * Work with the QA team to maintain a test repository.
+    * Provide complete and accurate release notes.
+    * Assist with training, mentoring and recruiting as necessary.
+    * Work with functional specifications, market requirements documents
+and other source materials as needed in support of QA efforts. 
+
+
+Required skills:
+Education and Experience required:
+
+    * BS or advanced degree in computer science, electrical engineering, or
+related technical field.
+    * At least 5 years of experience in software and web-based QA using a
+variety of tools and techniques.
+
+    * Knowledge of standard QA process and procedures, test tools and
+methodologies and product life cycle.
+    * Prior experience leading and mentoring QA teams or groups.
+    * Strong interpersonal skills and demonstrated ability to work
+effectively with other engineering units and business lines.
+    * Working knowledge of Perl, HTML, XML, XSLT, Linux, Apache, SQL,
+Oracle and related technologies.
+    * Experience developing test cases from business requirements and
+functional specifications.
+    * Experience developing test scripts for the online environment within
+a Perl framework.
+    * Desire to work in a fast-paced environment and experience in working
+independently and coordinating efforts in such an environment.
+    * Experience scripting in an open source environment for test
+automation.
+    * Experience creating and executing complex product test plans.
+    * Experience mentoring and training junior QA engineers and staff.
+    * Experience with Directory Assistance, Marketing Lists, or similar
+data *names, phone numbers, addresses, demographic profile, etc.)
+    * Communicate effectively and professionally with Product Managers,
+business management, Product Development engineers, technical leads and
+other QA staff.
+    * Ability to work independently in a fast paced environment.
+    * Ability to successfully manage multiple projects simultaneously.
+    * Proactive approach to learning new skills and gaining appropriate
+knowledge to be successful in changing technical and QA environment.
+    * Good customer service orientation. 
+
+URL for more information: http://www.whitepagesinc.com/
+
+Contact information at:
+http://jobs.perl.org/job/3955#contact
+
+

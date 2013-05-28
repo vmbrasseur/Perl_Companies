@@ -1,0 +1,102 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:1587
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 351 invoked from network); 13 May 2004 21:47:25 -0000
+Received: from x1.develooper.com (63.251.223.170)
+  by onion.develooper.com with SMTP; 13 May 2004 21:47:25 -0000
+Received: (qmail 18351 invoked by uid 225); 13 May 2004 21:47:24 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 18338 invoked by alias); 13 May 2004 21:47:24 -0000
+X-Spam-Status: No, hits=1.9 required=7.0
+	tests=PORN_4,US_DOLLARS_3
+X-Spam-Check-By: la.mx.develooper.com
+Received: from onion.develooper.com (HELO onion.perl.org) (63.251.223.166)
+  by la.mx.develooper.com (qpsmtpd/0.27.1) with SMTP; Thu, 13 May 2004 14:47:23 -0700
+Received: (qmail 337 invoked by uid 1016); 13 May 2004 21:47:22 -0000
+Date: 13 May 2004 21:47:22 -0000
+Message-ID: <20040513214722.334.qmail@onion.perl.org>
+To: jobs@perl.org
+X-Spam-Rating: onion.develooper.com 1.6.2 0/1000/N
+Subject: Senior Perl, Apache, MySQL developer (onsite), United States, D.C., Washington
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1478
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 13, 2004
+
+Job title: Senior Perl, Apache, MySQL developer
+
+Company name: Plus Three
+
+Internal ID: Senior Developer
+
+Location: United States, D.C., Washington
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Want to make a difference? Work with us.
+
+Our efforts have helped raise $44,000,000 dollars in contributions this
+year alone. We work with the Democratic National Committee, John Kerry for
+President, Democratic GAIN and other political and non-profit
+organizations.
+
+Plus Three develops tools that combine web, phone, mail and email campaigns
+into a single strategic solution. Our efforts support fund raising,
+building activist communities and increasing the communication between our
+clients and their constituents.
+
+We are a small, profitable start up committed to using Open Source and Free
+Software to deliver better, more robust solutions to our clients. You will
+work on all aspects of the development life-cycle from requirements
+gathering to quality assurance and ongoing maintenance.
+
+Plus Three requires the candidate to be a United States citizen or resident
+alien living in the Washington D.C. area.
+
+
+
+Required skills:
+Required experience 3 - 5 years of web development experience.
+
+Perl	 - Excellent knowledge of Perl required, including Object Oriented
+design and using CPAN modules.
+Apache	 - Experience with configuration, tuning and use of Apache 1.3.
+mod_perl - Knowledge of the Apache/mod_perl API.
+MySQL	 - Experience with MySQL and SQL in general.
+Linux	 - Experience developing and deploying on Linux.
+
+
+Desired skills:
+CVS or Subversion,
+HTML::Template, Template::Toolkit
+DBI, Class::DBI
+Test::More
+PostgreSQL and other RDBMS systems
+XML and XSLT
+Test driven development
+Communication Skills
+
+URL for more information: http://www.plusthree.com/
+
+Contact information:
+Please send your resume -- in ASCII text, HTML, or PDF format -- and one or
+more code samples to jobs@plusthree.com. CODE SAMPLES ARE MANDATORY to be
+considered for this job.
+
+

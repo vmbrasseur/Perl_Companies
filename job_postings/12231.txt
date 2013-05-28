@@ -1,0 +1,94 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12231
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 30871 invoked from network); 12 Mar 2012 20:21:16 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 12 Mar 2012 20:21:16 -0000
+Received: (qmail 22074 invoked by uid 225); 12 Mar 2012 20:21:16 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 22070 invoked by alias); 12 Mar 2012 20:21:16 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,LOTS_OF_MONEY
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 12 Mar 2012 13:21:11 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 7C2192AFE0; Mon, 12 Mar 2012 13:21:08 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 12 Mar 2012 13:21:07 -0700
+Message-ID: <20120312202108.7C2192AFE0@x3.develooper.com>
+Subject: PROGRAMMER/BIOINFORMATICIAN (onsite), Edinburgh, UK.
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15686
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 12, 2012
+
+Job title: PROGRAMMER/BIOINFORMATICIAN
+
+Company name: Edinburgh University
+
+Internal ID: 3015436
+
+Location: Edinburgh, UK.
+
+Pay rate: £30,122 - £35,938
+
+Terms of employment: Salaried employee
+
+Length of employment: Until 31/12/2014
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Professor Seth Grant and his research group have extensive experience with
+genetic and biochemical studies of synapse proteins and form a world
+leading program on the molecular basis of behaviour. The Genes to Cognition
+Program (www.genes2cognition.org) directed by Seth Grant is an
+international collaborative research program integrating multiple methods
+for the study of basic brain mechanisms and disease. The research team
+includes geneticists, molecular and cell biologists, biochemists,
+computational biologists and collaborations in electrophysiology and
+behaviour.
+
+We are seeking to appoint a programmer/bioinformatician to provide
+informatics support for the research activities of Professor Seth Grants
+research group (including the Genes2Cognition programme,
+www.genes2cognition.org), with particular responsibility for generating
+code and performing analysis that facilitates the programme.
+
+Work will be discussed with the line manager or other PIs within the group
+to jointly define the project priorities. The job holder will determine the
+priority of own work, plan and manage their own programme of work activity
+on an ongoing basis, in agreement with the principal investigator, to
+ensure that the research is conducted in accordance with the research
+timetable and the available resources. They will be expected to contribute
+intellectually to the design and to attend conferences to gain knowledge
+and to disseminate the Genes2Cognition programme to a wider audience.
+
+Required skills:
+Experience should include object-orientated programming in Perl (or
+equivalent), relational database development and web development (Apache,
+Javascript, jQuery).
+
+Desired skills:
+Version control systems
+Server admin and security
+
+Website for more information:
+http://www.jobs.ed.ac.uk/vacancies/index.cfm?fuseaction=vacancies.detail&va
+cancy_ref=3015436
+
+Contact information at:
+http://jobs.perl.org/job/15686#contact

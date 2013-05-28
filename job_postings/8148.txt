@@ -1,0 +1,109 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8148
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 27232 invoked from network); 15 May 2008 06:37:39 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 15 May 2008 06:37:39 -0000
+Received: (qmail 9405 invoked by uid 225); 15 May 2008 06:37:39 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 9398 invoked by alias); 15 May 2008 06:37:38 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 14 May 2008 23:37:33 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id EEE892AFE6; Wed, 14 May 2008 23:37:29 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080515063729.EEE892AFE6@x3.develooper.com>
+Date: Wed, 14 May 2008 23:37:29 -0700 (PDT)
+Subject: Perl Test Automation Engineer (onsite), United States, CA, San Jose 
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8700
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 13, 2008
+
+Job title: Perl Test Automation Engineer
+
+Company name: Ocarina Networks
+
+Location: United States, CA, San Jose 
+
+Pay rate: Minimum $120,000 + benefits/stock
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: ongoing
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Job Summary:
+Ocarina Networks has a newly created position for a Test Automation
+Engineer for its line of storage optimization appliances. This engineer
+will plan, develop, and execute test cases. Responsibilities include
+developing test plans and test strategies; writing test scripts in Perl to
+automate functional and system test scenarios, and execution of manual and
+automated functional and system test scenarios. This position’s
+responsibilities also include reporting concise and complete defects in
+Bugzilla and Testopia for all issues found during tests, configuring
+testbeds with various storage devices, Linux, and Windows hosts, and
+setting up NAS and SAN test environments, and debugging of test issues
+found during test execution and the driving those issues to closure with
+development engineers.
+
+
+Required skills:
+This position requires:
+
+Strong Perl scripting experience. 
+
+Hands-on experience in development and test lab environments and
+demonstrated understanding of product architecture for component testing. 
+
+Storage testing experience, especially with NAS, but also with any or all
+of SAN, clustering, replication, RAID, and backup strategies. The
+successful candidate will understand clustering and know its typical
+issues. 
+Experience configuring, troubleshooting and operating storage in a Linux
+environment. 
+
+Ability to write and troubleshoot Perl scripts along with other shell
+scripting and programming experience.
+ 
+Ability to conduct disciplined automation testing of product versions in
+multiple storage environments. 
+
+Travel required: none
+Telecommute: no
+
+
+Desired skills:
+Additional attributes which would be attractive, and useful in this role,
+include:
+
+File system testing experience. 
+Performance testing experience. 
+Other operating systems: Solaris, Windows 2000. 
+L2 and L3 networking (routing, VLANs). 
+
+
+URL for more information: http://www.ocarinanetworks.com/
+
+Contact information at:
+http://jobs.perl.org/job/8700#contact
+
+

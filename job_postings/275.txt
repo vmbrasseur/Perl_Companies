@@ -1,0 +1,43 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:275
+Return-Path: <pariss@efn.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 43535 invoked by uid 76); 12 Dec 2001 23:05:17 -0000
+Received: from root@clavin.efn.org (HELO clavin.efn.org) (206.163.176.10)
+  by onion.perl.org (qpsmtpd/0.05) with SMTP; Wed Dec 12 23:05:17 2001 -0000
+Received: from garcia.efn.org (daemon@garcia.efn.org [206.163.176.5])
+	by clavin.efn.org (8.11.6/8.11.6) with ESMTP id fBCN5E211117
+	for <jobs@perl.org>; Wed, 12 Dec 2001 15:05:14 -0800 (PST)
+Received: from localhost (pariss@localhost)
+	by garcia.efn.org (8.11.6/8.11.6) with ESMTP id fBCN5DB11549
+	for <jobs@perl.org>; Wed, 12 Dec 2001 15:05:13 -0800 (PST)
+X-Authentication-Warning: garcia.efn.org: pariss owned process doing -bs
+Date: Wed, 12 Dec 2001 15:05:11 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <Pine.GSU.4.21.0112121444140.27120-100000@garcia.efn.org>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Subject: Consultant Available
+Approved: news@nntp.perl.org
+From: pariss@efn.org (Paris Sinclair)
+
+I am now available for new contract work involving Perl or UNIX.
+My areas of experience are Perl, Linux, Apache, PostgreSQL, OOD, FreeBSD.
+My specialties are mod_perl performance tuning and "firefighting."
+
+Please view my resume at:
+	http://www.efn.org/~pariss/resume.pdf
+
+I am currently located in Portland, OR, and I am willing to travel on
+contracts not exceeding 6 months.
+
+--
+  Paris Sinclair <pariss@efn.org>
+    Perl, UNIX, Databases, Apache
+
+
+
+

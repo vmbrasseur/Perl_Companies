@@ -1,0 +1,90 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8230
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 26007 invoked from network); 3 Jun 2008 16:27:52 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 3 Jun 2008 16:27:52 -0000
+Received: (qmail 15717 invoked by uid 225); 3 Jun 2008 16:27:52 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 15713 invoked by alias); 3 Jun 2008 16:27:51 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 03 Jun 2008 09:27:49 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 140B52AFEE; Tue,  3 Jun 2008 09:27:45 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080603162746.140B52AFEE@x3.develooper.com>
+Date: Tue,  3 Jun 2008 09:27:45 -0700 (PDT)
+Subject: Perl Hacker (part onsite), Japan, Tokyo
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8288
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June  3, 2008
+
+Job title: Perl Hacker
+
+Company name: Orinoco KK
+
+Location: Japan, Tokyo
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+We're looking for a Perl hacker in Tokyo to extend and improve our C2C
+digital content platform. Currently the codebase is Catalyst/DBIC/Mason and
+100% Perl. We're still a small shop  and we do about 2 days a week in the
+office together and then work offsite for the remainder. Ideally we'd like
+to hire someone with experience working remotely who can deliver well
+thought-out, well crafted code with minimal supervision. Compensation will
+depend on experience but we pay better than most development shops in
+Tokyo. We're still small so we can't offer relocation. sorry!
+
+Required skills:
+You must: 
+Be able to talk with people about your code and explain the process you
+went through to create it
+
+Know perl well, very well 
+
+Understand perl guts and be able to use them to your advantage 
+
+Have a solid understanding of scalable architecture, software,
+infrastructure and otherwise
+
+have a business understanding of the Japanese language
+
+Desired skills:
+exposure to Mason
+exposure to Catalyst
+experience writing unit tests
+experience with operations
+understanding of MySQL and database scalability issues
+interest in architecture and design of applications
+a desire to write eloquent code
+exposure to or interest in agile development
+a deep hatred for Java
+conversational English 
+Experience with at least two of the following: shell, Python, JavaScript,
+SQL, C/C++, 
+
+Contact information at:
+http://jobs.perl.org/job/8288#contact
+
+

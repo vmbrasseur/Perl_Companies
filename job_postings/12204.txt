@@ -1,0 +1,79 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12204
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 7464 invoked from network); 8 Mar 2012 06:49:41 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 8 Mar 2012 06:49:41 -0000
+Received: (qmail 5120 invoked by uid 225); 8 Mar 2012 06:49:41 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 5115 invoked by alias); 8 Mar 2012 06:49:40 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,LOTS_OF_MONEY
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 07 Mar 2012 22:49:38 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 607452AFE9; Wed,  7 Mar 2012 22:49:35 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 7 Mar 2012 22:49:34 -0800
+Message-ID: <20120308064935.607452AFE9@x3.develooper.com>
+Subject: Perl Expert: API and Web Scraping (onsite), S California Ave, Palo
+ Alto, CA, USA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15650
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March  7, 2012
+
+Job title: Perl Expert: API and Web Scraping
+
+Company name: Boopsie Inc
+
+Location: S California Ave, Palo Alto, CA, USA
+
+Pay rate: $75,000-$150,000
+
+Terms of employment: Salaried employee
+
+Length of employment: indefinite
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Computer-to-Computer Communications Specialist: Our product interacts with
+many other computer systems, sometimes via API, and sometimes via other
+techniques.
+
+The position involves maintaining existing connections as well as
+implementing new ones.
+
+Required skills:
+Perl - the entire system is written in perl
+You understand:
+HTTP, SSL, cookies, SSO
+socket programming
+Linux, git, emacs
+Good communications skills
+
+You must have familiarity with various debugging tools, including tcpdump
+and fiddler2.
+
+Desired skills:
+Ruby on Rails
+Javascript/Ajax
+
+Website for more information: http://www.boopsie.com/
+
+Contact information at:
+http://jobs.perl.org/job/15650#contact

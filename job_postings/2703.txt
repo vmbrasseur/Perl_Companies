@@ -1,0 +1,119 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2703
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 6741 invoked from network); 12 May 2005 19:30:47 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 12 May 2005 19:30:47 -0000
+Received: (qmail 11958 invoked by uid 225); 12 May 2005 19:30:46 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11954 invoked by alias); 12 May 2005 19:30:46 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 12 May 2005 12:30:43 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j4CJUfDl018918
+	for <jobs@perl.org>; Thu, 12 May 2005 12:30:41 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j4CJUfsd018916;
+	Thu, 12 May 2005 12:30:41 -0700
+Date: Thu, 12 May 2005 12:30:41 -0700
+Message-ID: <200505121930.j4CJUfsd018916@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Sr. Product Verification Engineer (onsite), United States, California, Sunnyvale
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2595
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 12, 2005
+
+Job title: Sr. Product Verification Engineer
+
+Company name: SkyStream Corp
+
+Internal ID: Sr QA Engineer
+
+Location: United States, California, Sunnyvale
+
+Pay rate: 85k - 95k
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+SkyStream Corp (www.skystream.com), a leader in Video and IP delivery
+products is looking for a candidate to fill another position (fist postion
+filled thanks jobs.perl.org) within our Product Verification Group.
+
+You will join a team of highly skilled individuals, working to automate the
+testing of companies different products. 80% of the time is spent writing
+and automating test cases, with the rest of the time spent documenting and
+running manual test.
+
+About SkyStream
+SkyStream provides IP video delivery solutions that enable service
+providers to transform their business. With SkyStream products, they can
+better manage their existing services and generate new revenues from
+broadcast TV, Movies On Demand and multimedia. By taking IP closer to the
+edge, SkyStream's software and hardware products lower op-ex and cap-ex
+costs to provide services by 40 - 50% and optimize video delivery in any
+network. SkyStream's Mediaplex-20 Video Delivery Platform features advanced
+IP video compression and the industry's most flexible transport technology.
+Mediaplex-20 allows service providers in telco, cable, and satellite to
+easily deliver video to their subscribers in any format that integrates
+easily with their existing network infrastructure. SkyStream's upgradeable
+platform makes it very simple for them to migrate to future services, like
+MPEG-4 video delivery, video-on-demand and HDTV, without requiring
+expensive upgrades. SkyStream is the leader in IP video with over 250
+customers. For more information, please visit our website:
+www.skystream.com
+SkyStream's customers include Safeway, Reuters, Globecast (a division of
+France Telecom), EchoStar Communications Corporation, Comcast, BT Broadcast
+Services, Belgacom, Clear Channel, Convergent Media, eutelsat, Gilat, New
+Skies Satellites, ViaSat, Loral Skynet, EMS, Rural Telephone, CCTV,
+Shanghai Stock Exchange and Telecom Italia.
+Founded in 1996 with headquarters in Sunnyvale, California and sales and
+technical support offices located worldwide, SkyStream works with a growing
+customer base of more than 250 service provider, government and enterprise
+customers.
+
+
+Required skills:
+MUST haves:
+MUST have QA experience
+MUST have demonstrable networking skills 
+MUST have demonstrable Perl skills (must be able to write quick, functional
+and legible code, using complex data structures and OOP modules created by
+other team members)
+MUST have Linux skills
+MUST be a team player
+
+
+Desired skills:
+Bonus skills:
+Actuall experience in testing network equipment
+TCL/Expect experience
+Video experience
+
+URL for more information: http://www.skystream.com/
+
+Contact information at:
+http://jobs.perl.org/job/2595#contact
+
+

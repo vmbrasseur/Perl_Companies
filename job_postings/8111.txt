@@ -1,0 +1,155 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8111
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 27243 invoked from network); 8 May 2008 16:21:54 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 8 May 2008 16:21:54 -0000
+Received: (qmail 6196 invoked by uid 225); 8 May 2008 16:21:54 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 6190 invoked by alias); 8 May 2008 16:21:53 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 08 May 2008 09:21:50 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 816762AFEC; Thu,  8 May 2008 09:21:46 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080508162147.816762AFEC@x3.develooper.com>
+Date: Thu,  8 May 2008 09:21:46 -0700 (PDT)
+X-Virus-Checked: Checked
+Subject: Systems Administrator & Web Architect (onsite), United States, WA, Seattle
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8640
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May  7, 2008
+
+Job title: Systems Administrator & Web Architect
+
+Company name: Geospiza, Inc
+
+Location: United States, WA, Seattle
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Geospiza, a leading producer of information systems for the management and
+analysis of data for the Life Sciences, is looking for a Systems
+Administrator & Web Architect to join our growing development team of Life
+Science technologists.
+
+Geospiza's out-of-the-box laboratory workflow management solutions for
+Genetic Analysis can simplify laboratory management, increase throughput,
+reduce errors and support real-time data distribution to researchers and
+can deploy within 24 hours. Best practices are built into the products to
+jump start research, yet are flexible enough to adapt to specialized
+requirements without a programmer.  Our hosted model significantly lowers
+upfront capital costs that are typical with commercial enterprise LIMS
+systems. Labs can scale capacity predictably and manage their costs
+effectively as their business grows.
+
+The successful candidate will have significant working technical experience
+with leading computing platforms integrated with a variety of proprietary
+and open source databases and matched with bio-informatics life science
+data handling experience.  The candidate must have the ability to lead
+projects and provide architectural guidance for our Software as a Service
+product line. We are looking for somebody who can both support our current
+systems infrastructure and contribute to the continual development of our
+web application architecture. 
+
+Primary Responsibilities:
+•	Design and deploy development and customer-facing production
+systems, including platform hardware and software.
+•	Provide requirements to both development and delivery teams that
+drive strategic direction for business, application, information, and
+technology architectures.
+•	Help establish and build relationships with vendors in conjunction
+with development, product management, and operations department heads. 
+•	Perform scalability/capacity planning to support business growth.
+•	Participate in technical reviews and close the loop with our
+developers to help with design recommendations for software and hardware
+projects.
+•	Define system, quality and analysis on systems, networks, and
+applications, translating requirements into functional specifications and
+effective processes.
+•	Develop systems that continually monitor the health of networks,
+servers and applications.
+•	Adhere to change control process for all production hardware and
+software changes.
+•	Maintain hosted web applications, ensuring uptime and site
+responsiveness.
+•	Troubleshoot problems and issues, escalating issues within the
+organization.
+•	Maintain system and network procedure documentation.
+•	Work with the Production Operations Manager in the data center and
+provide consultation and strategic direction in systems and hosting
+technology.
+•	Assist in the development and maintenance of security best
+practices.
+•	Plan and support the implementation of major architectural changes.
+
+•	Develop back-up and recovery procedures, including testing back-ups
+and data integrity for production systems.
+•	Assist Business functions on delivery of weekly business metrics
+data.
+
+Desired Profile:
+•	Proven leader with a breadth of systems architecture, system
+administration and computing skills across multiple programming languages,
+platforms, and database architectures.
+•	Ability to find creative, cost effective, open source solutions to
+complex problems.
+•	Previous Life Science database and data handling experience.
+•	Referenced successful development projects that include IT
+infrastructure, data base development, and code integration, compilation,
+builds, and security.
+•	Strong work ethic for completing work during business and
+non-business hours.
+•	Responsible individual that has proven teamwork experience.
+•	Experience producing architectural and technical documentation and
+specifications.
+•	Good diagnostic and communication skills.
+•	Ability to multi-task and manage technically diverse projects.
+•	Ability to articulate technical concepts to a variety of audiences
+including developers, engineers, and sales representatives.
+
+
+Required skills:
+•	4+ years of experience designing and operating a large-scale,  24x7
+web application environment.
+•	4+ years experience with Linux or other Unix based operating
+system.
+•	4+ years experience with Web tools (Apache, mod_perl) and
+configuration for database connectivity
+•	2-4 years of relational database administration (PostgreSQL
+preferred) on a Linux platform, 4+ years preferred.
+•	2+ years programming with Perl or other languages.
+•	Working knowledge of core Internet protocols and services (e.g. IP,
+TCP, UDP, NTP, DNS, HTTP, SMTP, SSH, syslog) required.
+•	Hands-on experience with CVS or other source-code control tools
+desired.
+•	Experience in the development and rollout of operations processes.
+•	Previous experience in an online business is essential.
+•	Experience in designing and implementing solutions for a large
+installed base of servers.
+•	Working knowledge of biotech lab workflows and processes.
+
+Contact information at:
+http://jobs.perl.org/job/8640#contact
+
+

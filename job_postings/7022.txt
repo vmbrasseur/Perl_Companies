@@ -1,0 +1,108 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7022
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 21305 invoked from network); 26 Sep 2007 23:26:53 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 26 Sep 2007 23:26:53 -0000
+Received: (qmail 20578 invoked by uid 225); 26 Sep 2007 23:26:53 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 20571 invoked by alias); 26 Sep 2007 23:26:52 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 26 Sep 2007 16:26:39 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id A92152AFDE; Wed, 26 Sep 2007 16:26:34 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070926232634.A92152AFDE@x3.develooper.com>
+Date: Wed, 26 Sep 2007 16:26:34 -0700 (PDT)
+Subject: perl programmer to help save US healthcare sytem (onsite), MA, Watertown
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/6833
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 26, 2007
+
+Job title:
+perl programmer to help save US healthcare sytem
+
+Company name: athenahealth
+
+Location: MA, Watertown
+
+Pay rate: Market
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We’re looking for hackers who want to make a social difference.
+
+Our company, athenahealth, is growing at a meteoric rate, and we’re
+aggressively hiring at all levels. Our goal is to bring order to the chaos
+of U.S. healthcare, in which hundreds of thousands of medical practices
+navigate a Byzantine set of clinical and business processes wrought by
+decades of managed care. We do this by offering a software-as-service
+solution that embeds insurance rules and clinical processes directly into
+our practice management & electronic medical platform. In essence, we are
+building an operating system for the medical office that abstracts away
+administrative complexity, leaving doctors free to practice medicine.
+ 
+The development team here is among the best you’d find at any company in
+the world. The working environment is friendly and open. The folks that you
+will be working with are top-notch, and will probably be some of the best
+and brightest folks you’ve ever worked with regardless of where you’re
+coming from—folks who would otherwise work at Google, Oracle, hedge funds,
+or startups, but have decided to come here because they want to help change
+healthcare at a fundamental level and believe that we honestly have a shot.
+
+
+In terms of the technology platform-- you'll likely be working on Linux
+with Oracle, perl/modperl, and Apache, with plenty of Web 2.0 techniques
+thrown into the mix. But that's not why you'd be coming here; we believe
+any hacker worth his/her salt can pick this stuff up in a matter of a
+couple of months. We're more interested in folks with raw talent and a
+burning desire to succeed. The types of problems you might work on are
+wide-ranging—from core performance tuning to optimizing paper-based
+processes using OCR to writing AJAX widgets in complicated (yet simple!)
+user interfaces.
+
+We’re aggressively growing at all levels. Compensation is competitive, and
+as long as you get stuff done, we’re flexible about work schedules. If
+you’d like to apply, shoot over a resume. The only real technical
+requirement for applying is being able to make a computer do what you want
+it to do.
+
+
+Required skills:
+We are looking for raw talent.	Knowing some perl is nice, but we believe
+any hacker worth his/her salt can learn perl in a couple of months.
+
+To that point, some formal training in CS is preferred but if you're a
+self-taught hacker we'll give you a shot.  Or maybe you've been stuck in a
+psychics lab or proving some cool math proof and want to do something else
+with your coding skills.   
+
+Desired skills:
+Linux with Oracle, perl/modperl, and Apache
+
+URL for more information: http://www.athenahealth.com/techjobs
+
+Contact information at:
+http://jobs.perl.org/job/6833#contact
+
+

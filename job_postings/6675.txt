@@ -1,0 +1,97 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6675
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 743 invoked from network); 24 Jul 2007 08:08:42 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 24 Jul 2007 08:08:42 -0000
+Received: (qmail 18576 invoked by uid 225); 24 Jul 2007 08:08:41 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 18569 invoked by alias); 24 Jul 2007 08:08:41 -0000
+X-Spam-Status: No, hits=-2.6 required=8.0
+	tests=BAYES_00,DKIM_POLICY_SIGNSOME,DK_POLICY_SIGNSOME,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 24 Jul 2007 01:08:38 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 2E06E2AFEA; Tue, 24 Jul 2007 01:08:35 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070724080835.2E06E2AFEA@x3.develooper.com>
+Date: Tue, 24 Jul 2007 01:08:35 -0700 (PDT)
+Subject: Software QA Engineer, Platforms (onsite), United States, CA, Mountain View
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5611
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 24, 2007
+
+Job title: Software QA Engineer, Platforms
+
+Company name: GOOGLE
+
+Location: United States, CA, Mountain View
+
+Pay rate: TBD
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Google Platforms is the collection of teams that design and manufacture
+Google's computing platform (everything below the end-user application all
+the way down to the power utility) and help build the world's largest and
+most cost-efficient computing infrastructure. The System Software team
+drives all Google's system software efforts, including firmware, kernel,
+O.S. distribution, and tools. This team also has large responsibilities for
+overall platform stability, testing/qualification, and plays key roles in
+designing Google's server platforms.
+
+Google QA Engineers will search for, investigate, report, and track
+software defects. Utilize your software skills to develop the test
+environment, create test automation, execute functional tests, deliver in
+depth defect reports. 
+
+Depending on your skills you might also be involved in more technical
+aspects of software quality. If you love testing and are a quick learner, a
+great team player, and able to work independently, this is your chance to
+join us in our quest to provide software excellence.  
+
+Required skills:
+Mandatory Requirements:
+.Working knowledge of Unix/Linux
+.Working knowledge of shell scripting
+.Working knowledge of Perl or other scripting language
+.Knowledge of C/C++, Java or Python a plus 
+.Knowledge of Internet/Web technologies, such as web browsers, http, and
+html a plus
+.Excellent analytical and problem solving skills
+.Excellent oral and written communication skills
+.2+ years of software and/or hardware testing experience 
+.BS in CS or equivalent
+
+Desired skills:
+In addition, strong candidates will have one or more of the following:
+.Testing and Automation experience
+.Experience leading and managing engineering teams 
+.Open source test automation tools
+.Testing software in a distributed networking environment
+.Linux kernel, OS design, and clustering systems
+.Security Testing
+
+Contact information at:
+http://jobs.perl.org/job/5611#contact
+
+

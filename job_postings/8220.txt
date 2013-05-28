@@ -1,0 +1,73 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8220
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 977 invoked from network); 30 May 2008 21:09:51 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 30 May 2008 21:09:51 -0000
+Received: (qmail 29633 invoked by uid 225); 30 May 2008 21:09:51 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 29627 invoked by alias); 30 May 2008 21:09:51 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 30 May 2008 14:09:47 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 588AC2AFF3; Fri, 30 May 2008 14:09:44 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080530210944.588AC2AFF3@x3.develooper.com>
+Date: Fri, 30 May 2008 14:09:44 -0700 (PDT)
+Subject: mod_perl programmer for local information website (part onsite), United Kingdom, London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8832
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 30, 2008
+
+Job title:
+mod_perl programmer for local information website
+
+Company name: state51
+
+Location: United Kingdom, London
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Flexible
+
+Onsite: some
+
+Description:
+The Knowhere Guide might well be the UK's longest serving UGC website,
+having been online since 1994. It's running on rusty old code now and needs
+a complete rebuild, and then ongoing development to keep it competitive now
+everyone has copied the concept.
+
+It's currently a mix of mod_perl handlers, with some old Embperl, and
+DBI/MySQL. We have an open mind about the best tools to carry it forward.
+
+This is a part-time onsite position.
+
+Required skills:
+Perl, mod_perl, HTML/CSS, DBI, and familiarity with the principles and
+techniques of db driven templated websites.
+
+Desired skills:
+A very good sense of humour - it's a UGC site after all.
+
+URL for more information: http://www.knowhere.co.uk/
+
+Contact information at:
+http://jobs.perl.org/job/8832#contact
+
+

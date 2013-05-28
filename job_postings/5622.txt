@@ -1,0 +1,81 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5622
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 29847 invoked from network); 22 Jan 2007 20:45:16 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 22 Jan 2007 20:45:16 -0000
+Received: (qmail 20376 invoked by uid 225); 22 Jan 2007 20:45:16 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 20338 invoked by alias); 22 Jan 2007 20:45:12 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 22 Jan 2007 12:45:06 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id D0B322B022; Mon, 22 Jan 2007 12:45:02 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20070122204502.D0B322B022@x3.develooper.com>
+Date: Mon, 22 Jan 2007 12:45:02 -0800 (PST)
+Subject: mod_perl/DBI programmer for social networking site (part onsite), United States, WA, Seattle
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5239
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 22, 2007
+
+Job title:
+mod_perl/DBI programmer for social networking site
+
+Company name: ZoeCity
+
+Location: United States, WA, Seattle
+
+Pay rate: DOE
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Flexible
+
+Onsite: some
+
+Description:
+We're looking for a skilled programmer with a solid OO background to help
+us re-architect our site.  We're especially interested in people who can
+work onsite, but we will consider telecommuting for qualified candidates.
+
+Required skills:
+- Strong knowledge of Perl, especially OOP
+- Experience with DBI programming
+- Solid understanding of SQL, particularly MySQL's implimentation
+- Experience with CGI programming
+- Some familiarity with *NIX
+- Some experience with version control tools
+- Ability to work from specifications
+- Good written and oral communication skills
+
+Desired skills:
+- Experience working with the mod_perl API
+- Javascript (esp. AJAX), using MochiKit a big plus
+- Experience writing screen scrapers and/or daemons
+- Experience with the DOM, not necessarily in Perl
+- Ability to read PHP a plus
+- Ability to write good documentation
+
+URL for more information: http://www.zoecity.com/
+
+Contact information at:
+http://jobs.perl.org/job/5239#contact
+
+

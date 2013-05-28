@@ -1,0 +1,116 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4356
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 22508 invoked from network); 19 May 2006 02:08:24 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 19 May 2006 02:08:24 -0000
+Received: (qmail 23248 invoked by uid 225); 19 May 2006 02:08:24 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 23244 invoked by alias); 19 May 2006 02:08:24 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 18 May 2006 19:07:48 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id B81992AFDF; Thu, 18 May 2006 19:07:43 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060519020743.B81992AFDF@x3.develooper.com>
+Date: Thu, 18 May 2006 19:07:43 -0700 (PDT)
+Subject: Engineer for cool embedded linux appliances (onsite), United States, CA, San Mateo
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4116
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 18, 2006
+
+Job title:
+Engineer for cool embedded linux appliances
+
+Company name: Fabrik, Inc.
+
+Internal ID: EmbEng
+
+Location: United States, CA, San Mateo
+
+Pay rate: Salary Commensurate with Experience
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are looking for talented, creative, clever, and intelligent engineers to
+join our team.	This role is as diverse as you are.  Since we are a small
+company, applicants with a broad range of experience are valued.  Your
+primary responsibility would be developing and maintaining our applications
+for use on appliances.	The platform is Linux on x86 and ARM.  You would be
+writing these applications in perl, using mod_perl for the most part.  You
+will be involved in the full gamut of the creation of our appliances,
+including defining requirements, addressing design issues, prototyping,
+implementation, testing, and support.  You would be working very closely
+with other engineers in a close-knit 3 to 4 person engineering team.
+
+Responsibilities
+- Development of Perl applications
+- Build and maintain embedded Linux platform
+- Build and maintain perl applications on embedded ARM and x86 platforms
+- Design of appliance's system architecture
+- Manage and track the resolution of bugs
+
+
+Required skills:
+- Mod_perl
+- Perl module authoring
+- OO Perl skills
+- Linux platform expertise ( iptables, iproute, init/rc scripts )
+- Familiarity with networking ( TCP/IP, DHCP, DNS, ethernet, routing,
+firewalls )
+- Design/Architecture expertise
+- Common sense
+
+
+Desired skills:
+- Cross platform experience ( ARM ports, cross compilation, sensitivity to
+limited resources )
+- "AJAX" ( javascript, dojo, prototype, script.aculo.us, etc.)
+- P2P technologies ( Bittorrent, gnutella, zeroconf, UPNP )
+- Advanced networking ( LVS, load balancing, multicast, IDS, traffic
+shaping, NAT traversal )
+- Knowledge of Mail/Messaging ( SMTP, IMAP, XMPP )
+- Knowledge of Databases ( PostgreSQL, MySQL, SQLite, BDB, SQL )
+- Knowledge of Network File Systems ( Samba, NFS, Coda, AFS, WebDAV )
+- Knowledge of Identity storage ( LDAP, NIS, CalDAV, GroupDAV )
+- Knowledge of VOIP Telephony ( SIP, H.323, IAX, Asterisk )
+- Knowledge of Network services ( ssh, NIS )
+- Clustering experience ( spread toolkit, whackamole, heartbeat,
+ultramonkey )
+- Contribution to open-source projects
+- Event-based network programming ( danga::socket, libevent, epoll, kqueue,
+poll )
+- Threaded Perl
+- Fondness of qmail, djbdns, daemontools, djb-like software ( runit, ipsvd
+)
+- Open source software contributor
+
+
+URL for more information:
+http://fabrikinc.com/jobs/Embedded_Engineer.txt
+
+Contact information at:
+http://jobs.perl.org/job/4116#contact
+
+

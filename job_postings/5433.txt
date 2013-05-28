@@ -1,0 +1,105 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5433
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 25083 invoked from network); 11 Dec 2006 19:33:20 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 11 Dec 2006 19:33:20 -0000
+Received: (qmail 398 invoked by uid 225); 11 Dec 2006 19:33:20 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 386 invoked by alias); 11 Dec 2006 19:33:18 -0000
+X-Spam-Status: No, hits=-2.0 required=8.0
+	tests=ALL_TRUSTED,BAYES_40
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 11 Dec 2006 11:33:15 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 35FB52AFE4; Mon, 11 Dec 2006 11:33:11 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20061211193311.35FB52AFE4@x3.develooper.com>
+Date: Mon, 11 Dec 2006 11:33:11 -0800 (PST)
+Subject: Software Release/Build Engineer (onsite), United States, California, Burbank
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4588
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 11, 2006
+
+Job title: Software Release/Build Engineer
+
+Company name: Yahoo! Search Marketing
+
+Internal ID: RX1000017298
+
+Location: United States, California, Burbank
+
+Pay rate: DOE
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Senior Software Engineer (Ad Serv)
+Location: Burbank
+Job No. RX1000017298
+
+Online advertising is currently undergoing exponential growth, and Yahoo
+Search Marketing is one of the market leaders in both contextual and
+sponsored-search online advertisement. We are currently looking for a
+senior developer to maintain and sustain the tools that our ad-serving
+development teams rely on to support our industry-leading products.
+
+The Sustaining Engineering team acts as a repository for system-wide and
+integration knowledge, and is expected to provide a broad perspective to
+problem-solving for large, systemic problems. The Sustaining Build
+Developer will work on system-wide build and deploy tools that aid in such
+activities as build and deploy automation, sanitization, modularization.
+You will also champion YSM's next generation deployment process.
+Our very large builds currently include Java, C, and Perl on the Linux
+platform and are deployed to thousands of servers.
+
+
+Yahoo! Inc. is an equal opportunity employer. For more information or to
+search all of our openings, please visit http://careers.yahoo.com
+
+Required skills:
+Required Skills:
+
+* Analytic mind
+* Strong problem solving skills
+* 4+ years experience with Perl
+* 1+ years experience with shell scripting
+* Build management experience
+* Experience with Linux
+* CVS
+* Strong written and verbal communication skills
+
+
+Desired skills:
+Desired Skills:
+
+* Masters or Bachelors degree in Computer Science or an applicable field
+* 1+ years experience with C
+* 1+ years experience with Java
+* Experience developing multi-tiered applications
+* Experience deploying large-scale applications
+* Web-based application experience
+* Catalyst/Template Tookit/Web UI design
+
+Contact information at:
+http://jobs.perl.org/job/4588#contact
+
+

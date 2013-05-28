@@ -1,0 +1,102 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3052
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 30431 invoked from network); 3 Aug 2005 19:04:25 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 3 Aug 2005 19:04:25 -0000
+Received: (qmail 5464 invoked by uid 225); 3 Aug 2005 19:04:25 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 5458 invoked by alias); 3 Aug 2005 19:04:24 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 03 Aug 2005 12:04:21 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j73J4JPM012852
+	for <jobs@perl.org>; Wed, 3 Aug 2005 12:04:19 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j73J4Jja012850;
+	Wed, 3 Aug 2005 12:04:19 -0700
+Date: Wed, 3 Aug 2005 12:04:19 -0700
+Message-ID: <200508031904.j73J4Jja012850@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Intranet CGI web application developer for hospital emergency room software (onsite), United States, IL, Rosemont
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2918
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August  3, 2005
+
+Job title:
+Intranet CGI web application developer for hospital emergency room software
+
+Company name: Picis
+
+Location: United States, IL, Rosemont
+
+Pay rate:
+55000-65000 + quarterly bonuses + 401K match
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+ibex PulseCheck is the premier Emergency Department System for patient
+tracking and documentation. Our product is live in over 130 hospitals. The
+product is approximately 5 years old. We need several Web CGI Perl
+programmers to continue our rapid growth and development agendas. Three
+development positions are currently open. The current team is eleven. This
+is not a public internet application. This is an OLTP web application that
+runs on servers installed at the hospital. No healthcare industry
+experience required.
+
+Responsibilities:
+• Assists in developing specifications for user requirements.
+• Analyzes specifications and designs efficient software application
+solutions.
+• Codes (develops) software that adheres to ibex Healthdata Systems
+software development standards as well as best practices in development.
+• Assists in developing test plans (based on specifications) and test new
+and updated software programs to ensure specifications and standards are
+met.
+• Supports, troubleshoots, and maintains existing software applications.
+
+Education & Experience:
+• Minimum of three years of software application programming/analysis
+experience in a web-based environment. Experience with Perl programming
+language in a database environment is required.
+• Bachelor’s degree (B.A.) from a four- year college or university or
+equivalent combination of education and experience.
+
+Required skills:
+Intermediate Perl. Fluent in HTML and basic JavaScript. Understanding of
+XML. Intermediate to advanced level in at least one other programming
+language. Fluent in ANSI SQL.
+
+Desired skills:
+Java or VB is a plus. TCP/IP Socket programming knowledge would be
+beneficial. Healthcare programming experience (HL7) a plus.
+
+URL for more information:
+http://www.picis.com/products/ed_management.asp
+
+Contact information at:
+http://jobs.perl.org/job/2918#contact
+
+

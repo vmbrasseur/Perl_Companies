@@ -1,0 +1,155 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8143
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 27087 invoked from network); 15 May 2008 06:37:10 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 15 May 2008 06:37:10 -0000
+Received: (qmail 9178 invoked by uid 225); 15 May 2008 06:37:10 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 9173 invoked by alias); 15 May 2008 06:37:09 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 14 May 2008 23:37:06 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id BB4262AFE6; Wed, 14 May 2008 23:37:02 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080515063702.BB4262AFE6@x3.develooper.com>
+Date: Wed, 14 May 2008 23:37:02 -0700 (PDT)
+Subject: Hands-on OO Perl Developers - Commercial Software Development (onsite), United States, NY, NewYork
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8710
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 14, 2008
+
+Job title:
+Hands-on OO Perl Developers - Commercial Software Development
+
+Company name: GridApp Systems
+
+Location: United States, NY, NewYork
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+***WE WILL RELO WITHIN NORTH AMERICA AND WE WILL SPONSOR***
+
+GridApp Systems is a leader in database automation and management. Our
+Clarity™ software provides companies with the ability to simplify and
+manage critical database operational tasks such as deployment, patch
+management, auditing, and replication across the enterprise.
+
+We are privately held and headquartered in New York City. Located in the
+Flatiron District of New York, easily accessible from many directions, we
+are transforming the way organizations manage their database infrastructure
+through the use of automation.
+
+The culture is inquisitive, collaborative, energized, and highly programmer
+casual. This is what you're looking for, right?
+
+Looking to three more very experienced OO Perl developers to focus on
+severely complex backend object-oriented Perl development in Linux/Unix
+(many flavors). Client side is OO PHP, Perl, JavaScript, SOAP, AJAX, Flash,
+dojo, etc.
+
+Oldest version of Perl supported is 5.8.7 (although we might migrate to
+5.10 on all supported platforms once it is burned in).
+
+As Open Source fans, we’ve incorporated many CPAN modules (is your’s here?)
+including:
+
+Algorithm-C3-0.06
+AppConfig-1.63
+Carp-Assert-0.18
+Carp-Clan-5.8
+Class-Accessor-0.27
+Class-Accessor-Chained-0.01
+Class-C3-0.14
+Class-Data-Accessor-0.03
+Class-Inspector-1.16
+Data-Page-2.00
+DateManip-5.44
+DBD-Oracle-1.18
+DBD-Pg-1.49
+DBD-SQLite-1.13
+DBI-1.53
+DBIx-Class-0.07005
+Error-0.17008
+File-Copy-Recursive-0.29
+File-HomeDir-0.58
+Filesys-DfPortable-0.85
+Lchown-1.00
+Log-Dispatch-2.16
+Log-Dispatch-FileRotate-1.16
+Log-Log4perl-1.07
+Log-Log4perl-Layout-XMLLayout-0.03
+Module-Build-0.2806
+Module-Find-0.05
+Net-Netstat-Wrapper
+Net-SSH-0.08
+Net-Telnet-3.03
+Params-Validate-0.87
+Proc-ProcessTable-0.41
+SQL-Abstract-1.22
+SQL-Abstract-Limit-0.12
+Sub-Uplevel-0.13
+Sys-Filesystem-1.22
+Sys-MemInfo
+Template-Toolkit-2.15
+TermReadKey-2.30
+Test-Exception-0.24
+Test-Simple-0.64
+Tie-Hash-Indexed-0.04
+TimeDate-1.16
+version-0.68
+Want-0.12
+XML-LibXML-1.63
+XML-LibXML-Common-0.13
+XML-LibXSLT-1.62
+XML-NamespaceSupport-1.09
+XML-SAX-0.14
+XML-Simple-2.16
+XML-Xerces-2.7.0-0
+
+As far as coding conventions, we use PBP and peer review (use strict; and
+use warnings; are mandatory). Warnings are fatal (causing a die to occur).
+All code must compile on all supported platforms prior to commit (Linux,
+Solaris, Win32, HP-UX, AIX, others).
+
+Required skills:
+* Current hands-on experience in OO PERL with emphasis on multithreading,
+multitasking, and TCP/IP networking and/or distributed systems programming
+
+* DATABASE experience with one or more of Oracle/DB2/Sybase/MSSQL
+
+* FLUENCY in Linux (flavors of UNIX – Solaris, HP/UX, AIX, etc. - receive
+bonus points)
+
+* If you have TEAM LEAD experience in addition to the above, you'll receive
+bonus points...lots of them
+
+Desired skills:
+Simply, an unbridled love of coding – especially using Perl.
+
+URL for more information: http://jobs.gridapp.com/
+
+Contact information at:
+http://jobs.perl.org/job/8710#contact
+
+

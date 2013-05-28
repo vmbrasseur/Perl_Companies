@@ -1,0 +1,96 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4315
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 2625 invoked from network); 13 May 2006 00:25:23 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 13 May 2006 00:25:23 -0000
+Received: (qmail 22295 invoked by uid 225); 13 May 2006 00:25:22 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 22269 invoked by alias); 13 May 2006 00:25:22 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 12 May 2006 17:24:31 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 47B322AFE2; Fri, 12 May 2006 17:24:27 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060513002427.47B322AFE2@x3.develooper.com>
+Date: Fri, 12 May 2006 17:24:27 -0700 (PDT)
+Subject: Senior Web Application and Database Developer (telecommute), United Kingdom, London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4075
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 12, 2006
+
+Job title:
+Senior Web Application and Database Developer
+
+Company name: Karmasphere
+
+Internal ID: minion02
+
+Location: United Kingdom, London
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+A senior developer is required to architect, produce and manage
+product lines in Perl, including web sites, databasing tools,
+statistical packages and control software.
+
+The senior Perl developer will work very closely with the head of
+engineering and other developers within the company to bring products
+into existence according to agreed specifications and timelines.
+
+The existing codebase has been subject to the company quality assurance
+procedures. The job will include an element of process management,
+including maintaining quality assurance for code produced by other
+Perl programmers within the company.
+
+The company addresses the spam problem with a reputation approach.
+
+Required skills:
+The company develops software using Catalyst, Class::DBI, DBIx::Class
+and SOAP::Lite, and makes very heavy use of standard CPAN modules. The
+candidate must also be familiar with the standard Perl APIs for
+networking and databasing. SQL is required. Some knowledge of other
+languages, possibly C and Java, would be useful, as would a basic
+understanding of testing and coverage. XS is not required.
+
+Familiarity with opensource development methodologies, cvs/svn/svk, emacs
+or vi, and Linux are required.
+
+
+Desired skills:
+Ideally, you have experience working in a startup environment, with
+distributed teams, and within the culture of opensource.  You should have
+already developed a previous database-backed web application.  You should
+have some experience with managing mail servers on a hobby or professional
+basis, and with antispam approaches and technologies such as SpamAssassin.
+
+You may be anywhere in the world, as long as you have a broadband
+connection at home and the ability to chat on Skype.  Preference will be
+given to UK applicants as much of the development team is already based
+there.
+
+Contact information at:
+http://jobs.perl.org/job/4075#contact
+
+

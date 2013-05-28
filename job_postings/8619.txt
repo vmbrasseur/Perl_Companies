@@ -1,0 +1,90 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8619
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 18693 invoked from network); 31 Aug 2008 20:10:32 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 31 Aug 2008 20:10:32 -0000
+Received: (qmail 15449 invoked by uid 225); 31 Aug 2008 20:10:31 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 15229 invoked by alias); 31 Aug 2008 20:10:17 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 31 Aug 2008 13:10:14 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 6E4E72AFE5; Sun, 31 Aug 2008 13:10:00 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080831201000.6E4E72AFE5@x3.develooper.com>
+Date: Sun, 31 Aug 2008 13:10:00 -0700 (PDT)
+Subject: NMS Integration Developer for Telecommunications (onsite), United States, NM, Albuquerque
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/9516
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 28, 2008
+
+Job title:
+NMS Integration Developer for Telecommunications
+
+Internal ID: NMS-015
+
+Location: United States, NM, Albuquerque
+
+Pay rate: DOE
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are in need of a perl application developer / NMS team member, with
+Network Management systems experience. Responsibilities will be development
+of middleware (glue) and application support for critical NMS applications.
+Must be able to take direction from senior members of the team, and follow
+consistent coding and management sytles already in place. Position in 50%
+development, 50% existing application management. This will be a contract
+for potential hire in Albuquerque, NM USA. Please do not respond if you do
+not possess the required skills. No third party or recruitment responses
+will be considered. Must be able to write and communicate clearly.
+
+Required skills:
+perl application development utilizing custom packages.
+Class::DBI
+HTML::Mason
+Unfortunately some advanced JavaScript knowledge is required.
+CVS
+Solaris 10
+Linux
+GNUMakefile
+Postgresql Schema Development w/ Class::DBI
+Oracle Schema Development w/ Class::DBI
+Apache 1.3 and 2.x 
+SunStudio Compilers
+gcc
+SNMP 1 and 2c
+
+Desired skills:
+Netcool
+Proviso
+Solaris 10 zones
+PHP conversion to HTML::Mason
+Apache::Session
+SOAP::Lite
+
+Contact information at:
+http://jobs.perl.org/job/9516#contact
+
+

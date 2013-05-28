@@ -1,0 +1,83 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13384
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28247 invoked from network); 6 May 2013 23:07:16 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 6 May 2013 23:07:16 -0000
+Received: (qmail 14216 invoked by uid 225); 6 May 2013 23:07:16 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 14212 invoked by alias); 6 May 2013 23:07:15 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 06 May 2013 16:07:07 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id F31A32AFE1; Mon,  6 May 2013 16:07:03 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 6 May 2013 16:07:03 -0700
+Message-ID: <20130506230703.F31A32AFE1@x3.develooper.com>
+Subject: Sr. Full Stack Perl/Python Applications Engineer (onsite), Berkeley,
+ CA, USA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17361
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May  6, 2013
+
+Job title: Sr. Full Stack Perl/Python Applications Engineer
+
+Company name: bepress
+
+Internal ID: SE2013
+
+Location: Berkeley, CA, USA
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are looking for experienced application developers to expand the
+capacity of our team.  We are growing beyond expectations and need
+engineers who are excited by the challenges of improving existing products
+while developing new ones. At some point in your career you’ve been called
+a rock star, ninja, guru, etc. but would never say it about yourself.  You
+have at least 5 years of proven application development with strong
+knowledge of Perl and familiarity with some of our other technologies.
+
+At bepress we believe in continuous improvement so you’ll have an immediate
+impact on both our subscribers and your coworkers.   Our development
+process and environment is as important to us as our products.	Plus, we
+have a feel-good mission serving academia.  Our flagship product, Digital
+Commons, is a CMS and publishing platform used by academic and research
+institutions to showcase and share their work.
+
+Required skills: Perl, mod_perl, Object-oriented Perl
+
+Desired skills:
+•	Python/Django
+•	Linux/Apache/Postgres
+•	HTML/AJAX/JavaScript
+•	Solr
+•	Redis
+•	MogileFS
+•	RabbitMQ
+•	statsD
+•	Puppet
+
+Website for more information: http://digitalcommons.bepress.com/
+
+Contact information at:
+http://jobs.perl.org/job/17361#contact

@@ -1,0 +1,79 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12349
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28763 invoked from network); 23 Apr 2012 09:37:43 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 23 Apr 2012 09:37:43 -0000
+Received: (qmail 1073 invoked by uid 225); 23 Apr 2012 09:37:43 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 1069 invoked by alias); 23 Apr 2012 09:37:42 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,SUBJECT_NEEDS_ENCODING
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 23 Apr 2012 02:37:40 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id C170F2AFE0; Mon, 23 Apr 2012 02:37:36 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 23 Apr 2012 02:37:36 -0700
+Message-ID: <20120423093736.C170F2AFE0@x3.develooper.com>
+Subject: Perl-Entwickler  Nähe Stuttgart (onsite), Schorndorf, Germany
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15300
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 23, 2012
+
+Job title: Perl-Entwickler  Nähe Stuttgart
+
+Company name: plusW GmbH
+
+Location: Schorndorf, Germany
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Unsere Firma plusW GmbH entwickelt und vertreibt Web-Shops im Bereich
+Web-2-Print.
+
+* Perl Entwickler: sollte OO-Perl (Moose) und im Idealfall HTML::Mason
+kennen
+
+
+Die plusW GmbH gibt es seit 2008 mit Sitz in Schondorf bei Stuttgart. 
+
+English version:
+===================================
+Our comapny is developing web-solutins for the printing industry. Our
+solution currently runs in Germany, Switzerland, Austria and Spain. we ar
+looking for a
+
+* Perl Developer with knowldge in web development. We use HTML::Mason,
+Moose, DBIx::Class and lots of other CPAN modules. 
+
+Our company plusW GmbH was founded in 2008 and is located east Stuttgart in
+Schondorf. In 2004 and 2009 we had the German PerlWorkshop in our city. 
+
+Candidates from other EU countries are welcome.  Please send your cv in
+German or English to jobs@plusw.de.
+
+Desired skills:
+Perl, SQL, PostgreSQL , mod_perl
+Moose, HTML::Mason
+HTML, CSS, Jquery
+
+Contact information at:
+http://jobs.perl.org/job/15300#contact

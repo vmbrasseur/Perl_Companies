@@ -1,0 +1,101 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12445
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 32326 invoked from network); 21 May 2012 16:54:19 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 21 May 2012 16:54:19 -0000
+Received: (qmail 3475 invoked by uid 225); 21 May 2012 16:54:18 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 3469 invoked by alias); 21 May 2012 16:54:18 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,SUBJECT_NEEDS_ENCODING
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 21 May 2012 09:54:15 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 2A4922AFE0; Mon, 21 May 2012 09:54:12 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 21 May 2012 09:54:12 -0700
+Message-ID: <20120521165412.2A4922AFE0@x3.develooper.com>
+Subject: Web Developer Perl (m/w) (onsite), Köln / Cologne, NRW, Germany
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13534
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 21, 2012
+
+Job title: Web Developer Perl (m/w)
+
+Company name: urbia.com AG - ein Unternehmen von Gruner+Jahr
+
+Location: Köln / Cologne, NRW, Germany
+
+Pay rate: competitive
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Gruner + Jahr ist Europas führendes Magazinhaus und der umsatzstärkste
+deutsche Verlag. Rund 13.300 Mitarbeiter erreichen mit mehr als 500
+Magazinen und digitalen Angeboten Leser und Nutzer in über 30 Ländern.
+
+www.urbia.de ist mit derzeit 6,2 Millionen Visits und 46,0 Millionen Page
+Impressions pro Monat (laut IVW, Stand: Januar 2012) das beliebteste und
+reichweitenstärkste Onlineangebot für junge Familien im deutschsprachigen
+Internet. Dies macht uns auch zu einer der größten deutschen
+Web-Communities. Seit Oktober 2011 ist die urbia.com AG ein Unternehmen der
+Gruner + Jahr AG & Co KG.
+
+Für unseren Standort Köln suchen wir ab sofort eine(n) "Web Developer
+Perl", der/die unser Entwicklungsteam bei der agilen Weiterentwicklung
+unserer Plattform unterstützt.
+
+Wir bieten:
+* Eine sehr abwechslungsreiche Aufgabe bei Deutschlands größter
+Online-Community für junge Familien
+* Die Möglichkeit das Portal durch eigene Projekte verantwortlich
+mitzugestalten
+* Enger Austausch mit den Kollegen in Community Management, Redaktion und
+Werbevermarktung
+* Sehr gute Arbeitsatmosphäre mit netten Kollegen, flachen Hierarchien und
+flexiblen Arbeitszeiten
+* Genügend Freiraum, sich eigenverantwortlich mit aktuellen Trends und
+Entwicklungen auseinanderzusetzen
+* Open Source wann und wo immer möglich
+* Regelmäßige Besuche internationaler Fachkonferenzen (YAPC, Perl Workshop
+etc.)
+* Zentrale Lage im Herzen von Köln
+
+Required skills:
+* Nachweislich mehrjährige Berufserfahrung im Betrieb von mittleren bis
+großen datenbankbasierten Webapplikationen.
+* Sehr gute Kenntnisse der Programmiersprache Perl und des damit
+verbundenen Ökosystems (CPAN).
+* Hohe Webaffinität.
+* Erfahrung mit komplexen objektorientierten Systemen (Moose).
+* Umfangreiche Kenntnisse im Umgang mit MVC-Frameworks und ORMs.
+* Begeisterung für Open-Source-Software
+
+Desired skills:
+* Kenntnisse in den Frameworks Catalyst und DBIx::Class
+* Solide (X)HTML, CSS, Javascript (jQuery) und (My)SQL Kenntnisse.
+* Erfahrung im Umgang mit Test-driven development
+* Sicher im Umgang mit Debian Linux
+
+Website for more information: http://www.urbia.de/allgemein/jobs
+
+Contact information at:
+http://jobs.perl.org/job/13534#contact

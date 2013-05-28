@@ -1,0 +1,84 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7212
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 29817 invoked from network); 2 Nov 2007 08:03:23 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 2 Nov 2007 08:03:23 -0000
+Received: (qmail 10007 invoked by uid 225); 2 Nov 2007 08:03:19 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 9982 invoked by alias); 2 Nov 2007 08:03:17 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 02 Nov 2007 01:03:05 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 8A1752AFE1; Fri,  2 Nov 2007 01:02:59 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20071102080259.8A1752AFE1@x3.develooper.com>
+Date: Fri,  2 Nov 2007 01:02:59 -0700 (PDT)
+Subject: mod_perl developer (onsite), Canada, BC, Vancouver
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/7197
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November  2, 2007
+
+Job title: mod_perl developer
+
+Company name: Gossamer Threads Inc.
+
+Location: Canada, BC, Vancouver
+
+Pay rate: TBD
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Gossamer Threads Inc. is a dynamic, small group of programmers that develop
+a wide range of web based software, and manage over 250 servers in our
+Vancouver data center. We currently have need for more talented Perl
+developers to help work on a variety of projects including several fortune
+100 websites.
+
+The ideal candidate will be project oriented, have excellent written and
+oral communication skills, and a strong attention to detail. Occasional
+travel opportunities are also available.
+
+This is a full time salaried position, including benefits, working out of
+our downtown Vancouver office. Our office takes up the 9th floor in the
+historic Suntower, conveniently located a block from skytrain. 
+
+Required skills:
+* At least 2 years of development experience in Perl including OO design.
+* Experience developing web based applications and mod_perl
+* Experience with CPAN modules (CPAN author a plus)
+* Experience in developing applications in clustered and high availability
+environments.
+* Database experience - MySQL/Postgres/Oracle/MSSSQL, query optimizing,
+replication, profiling.
+* CSS/XHTML - able to implement design changes and hand craft validated
+pages.
+* Javascript - able to work with xml requests and other web2.0
+technologies.
+
+URL for more information: http://www.gossamer-threads.com/
+
+Contact information at:
+http://jobs.perl.org/job/7197#contact
+
+

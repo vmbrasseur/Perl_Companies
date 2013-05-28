@@ -1,0 +1,118 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10869
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 25147 invoked from network); 11 Jan 2011 00:28:12 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 11 Jan 2011 00:28:12 -0000
+Received: (qmail 4156 invoked by uid 225); 11 Jan 2011 00:28:11 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 4150 invoked by alias); 11 Jan 2011 00:28:11 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 10 Jan 2011 16:28:08 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id E7D142AFE1; Mon, 10 Jan 2011 16:28:04 -0800 (PST)
+To: jobs@perl.org
+Date: Mon, 10 Jan 2011 16:28:04 -0800
+Message-ID: <20110111002804.E7D142AFE1@x3.develooper.com>
+Subject: Perl / Catalyst programmers for contract work (telecommute), United
+ States, CO, Fort Collins
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13444
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January  9, 2011
+
+Job title: Perl / Catalyst programmers for contract work
+
+Company name: Ionzero 
+
+Internal ID: CatalystPerl
+
+Location: United States, CO, Fort Collins
+
+Pay rate: DOE
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 3 months to perm
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+Interested in Modern Perl programming including tools such as Moose,
+DBIx::Class and Catalyst? We are looking for one or two developers to join
+our
+team on a 3 month contract basis, with the possibility of extension, after
+the
+initial contract.
+
+Ionzero is a software development consultancy company. We have customers
+around the US and around the world. Our job is to figure out how our
+customers' software can be better, and then make it so. We set out to
+create
+the kind of company we always wanted to work for where there were good
+people,
+interesting projects, solid software and flexible (and reasonable) hours.
+We've accomplished that for the last 6 years and now our business is
+expanding
+faster than ever before.
+
+We work in many languages (Perl, PHP, Java, whatever our customers need)
+but
+right now we are looking for programmers with Perl experience, preferably
+using modern tools such as Moose, Catalyst and DBIx::Class. CPAN knowledge
+is
+a must. Published modules on CPAN are a BIG plus.
+
+Our clients are all over the place, so you need to be able to work well via
+
+email and our project management system. You must be self motivated and we
+expect that if you say you will do something, you will. You won't last in
+this
+job if you don't. But if you CAN do that and write good solid code, we want
+to
+talk to you. Knowledge of Spanish a HUGE plus.
+
+This is a contract three month telecommute position. We have staff all over
+
+the world. If you're nearby, all the better. The position is contract to
+start, with the possibility go permanent.
+
+If this all sounds good to you, send a resume along with sample code and
+your salary requirements.
+
+Required skills:
+* Modern Perl (and Object Oriented tools like Moose)
+
+* Catalyst web framework
+
+* SQL databases (particularly MySQL and Postgresql)
+
+* Familiarity with CPAN
+
+* Web technologies such as HTML / CSS / Javascript
+
+* Version control (SVN / Git / etc.)
+
+
+Desired skills:
+DBIx::Class a big plus. Plack, other web technologies.	Fluency in Spanish
+and English are a huge benefit.
+
+Website for more information: http://ionzero.com/
+
+Contact information at:
+http://jobs.perl.org/job/13444#contact

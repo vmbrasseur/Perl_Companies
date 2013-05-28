@@ -1,0 +1,158 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13044
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 3711 invoked from network); 9 Jan 2013 20:01:08 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 9 Jan 2013 20:01:08 -0000
+Received: (qmail 13898 invoked by uid 225); 9 Jan 2013 20:01:07 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 13894 invoked by alias); 9 Jan 2013 20:01:07 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,T_FRT_PROFILE2
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 09 Jan 2013 12:01:04 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 24D472AFE1; Wed,  9 Jan 2013 12:01:01 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 9 Jan 2013 12:01:01 -0800
+Message-ID: <20130109200101.24D472AFE1@x3.develooper.com>
+Subject: Senior Catalyst Web Developer (onsite), Ashburn, VA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16854
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January  9, 2013
+
+Job title: Senior Catalyst Web Developer
+
+Company name:
+Howard Hughes Medical Institute (HHMI) - Janelia Farm Research Campus
+
+Internal ID: 093296-001
+
+Location: Ashburn, VA
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Job Summary:
+
+The HMMER project applies state-of-the-art algorithms for the searching of
+biological sequence data in a web framework and also is responsible for the
+production of widely used resources such as the protein families database,
+Pfam. The candidate will work with project managers, project scientists,
+and the wider scientific community to produce software that furthers the
+research goals of the Janelia Farm Research Campus HMMER Project. Strong
+proficiency with years of experience in producing intuitive, production
+quality websites using modern web technologies. Experience with large
+volume data visualization in a web client is essential (e.g. Canvas, SVG),
+a molecular biology background is desirable, but not essential.
+
+Principal Responsibilities:
+
+1. Project Scope
+
+The candidate will be proactive and initiate discussions with researchers
+to understand the needs and scope of the project in relation to the
+scientific domain. The candidate will work closely with Scientific
+Computing and HMMER management to prioritize tasks. 
+
+2. Software Development
+
+Will work closely with project managers, project scientists, and external
+scientists to develop software tools and methodologies that scale and
+interoperate with widely used web browsers. Will program in web client
+technologies, such as HTML5, JavaScript, JSON, AJAX and CSS.  Employ
+appropriate technologies for dynamic data visualization such as HTML5
+Canvas, SVG.  Will be used to working in an agile development environment.
+
+3. Software Engineering
+
+The candidate will have a thorough knowledge of all phases of the software
+development process, from requirements analysis to deployment. Will have
+experience with use of configuration management/version control
+applications (Subversion/Git preferred) and the practice of continuous
+integration.
+
+3. Software Maintenance
+
+Will maintain standards for all phases of the software development
+lifecycle, from standards for capture and documentation of requirements to
+acceptable testing practices and deployment/production support procedures. 
+
+
+3. Software Architectures
+
+Will work closely with other groups in the project and Scientific Computing
+Department to design, architect, and maintain software/hardware
+architectures and frameworks that are robust, cost-effective and reliable.
+
+4. Project Management
+
+Will work closely with management and the researchers to juggle tasks and
+priorities. Will be flexible about dynamically shuffling priorities to
+accommodate a very rapidly changing research environment.
+
+5. Communication
+
+Will have to communicate effectively both orally and through written
+reports and memos. Will have to communicate regularly and maintain a
+positive working relationship with other groups, the end user and senior
+Scientific Computing management. 
+
+Preferred Qualifications:
+
+Education:
+
+     BS in an engineering or scientific discipline, MS is preferred. 
+Others will be considered.
+
+  Experience:
+
+     Minimum of 5 years experience in web application client software
+development.
+    Deployment of dynamic visualization of large datasets via a web client
+in a production environment.
+    Experience working closely with scientists in a pure research
+environment a plus.
+
+Required skills:
+Skills and Abilities:
+
+    Experience using web frameworks, such as Catalyst, Django, Ruby on
+Rails.
+    Experience with Perl, MySQL, CSS, HTML5.
+    Experience with Javascript programming, jQuery, and AJAX.
+    Experience with web-based graphics (HTML5 Canvas, SVG) is essential.
+    Unix/Linux working knowledge, Apache, Lighttpd and/or similar
+
+    Experience using version control as part of a group project.
+    Experience writing and maintaining unit and/or acceptance tests a big
+plus (e.g. JUnit, Selenium)
+    A good knowledge of web security approaches is desirable
+
+     Acquaintance of molecular biology and/or bioinformatics.
+    Good written and verbal communication skills for communicating with
+peers and non-technical users Willingness to learn new skills as the
+demands of the project evolve.
+    Self-motivated, enthusiastic and able to work independently, but also
+good at collaboration, taking direction and working with others.
+
+Website for more information: http://www.hhmi.org/janelia/
+
+Contact information at:
+http://jobs.perl.org/job/16854#contact

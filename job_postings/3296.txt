@@ -1,0 +1,108 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3296
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 1556 invoked from network); 11 Oct 2005 18:55:19 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 11 Oct 2005 18:55:19 -0000
+Received: (qmail 18961 invoked by uid 225); 11 Oct 2005 18:55:19 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 18955 invoked by alias); 11 Oct 2005 18:55:18 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 11 Oct 2005 11:55:09 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j9BIt6hR010619
+	for <jobs@perl.org>; Tue, 11 Oct 2005 11:55:06 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j9BIt6bG010616;
+	Tue, 11 Oct 2005 11:55:06 -0700
+Date: Tue, 11 Oct 2005 11:55:06 -0700
+Message-ID: <200510111855.j9BIt6bG010616@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Senior Perl/DB Developer (onsite), United States, CA, Sunnyvale
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3147
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 11, 2005
+
+Job title: Senior Perl/DB Developer
+
+Company name: oDesk
+
+Location: United States, CA, Sunnyvale
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+oDesk is looking for a talented, senior Perl developer with deep RDBMS
+expertise. As a member of our engineering staff you will be working with
+the rest of the team to implement key features of our product. The majority
+of our elite team of Perl developers are remote individuals located in
+Eastern Europe. Our development process resembles that of a distributed
+open source group where the bulk of the discussions takes place in mailing
+lists, where people use Bugzilla to assign to each other tasks and bugs,
+and use an integrated SVN to work in a common repository. If that
+environment attracts you, if you believe that you can command the respect
+of expert programmers, then we are the right company for you.
+ 
+Your responsibilities will be to 
++ work together with our local and remote engineering team to build and
+improve our world class service 
++ work with Product Management to capture functional specifications and
+understand user requirements 
++ become the architect of the database layer of our 3-tier application	 
++ own and evolve the DB schema and resolve performance optimization,
+migration etc issues 
++ design and implement core features of our product 
++ produce clearly defined tasks that drive the development of features by
+the rest of the team's members and manage them to completion
+
+
+Required skills:
+Needed expertise for the position:
+
++ Expert with at least one established (open source or not) RDBMS (ideally
+experience with PostgreSQL as well) 
++ Expert in Perl 
++ Worked as a key developer/architect for any of the following 
+  - ASPs - (e.g. salesforce.com, netsuite.com, sugarcrm.com)	
+  - Internet Companies (e.g., eBay, Yahoo, Amazon) 
+  - Significant open source web-based project.
+
+
+Desired skills:
++ Experience building and working with distributed or offshore teams 
++ Experience in an all-open source technology environment
+(Linux/Apache/PostgreSQL/Perl/PHP/SVN/Bugzill 
++ Experience working in an environment with weekly server pushes, short
+release cycles and rapidly evolving specifications. 
++ Experience building scalable apps that run on large server farms
++ Experience with PHP, C++ is a plus : there are many additional components
+in our service, some in PHP others in C++ 
+
+
+URL for more information: http://www.odesk.com/
+
+Contact information at:
+http://jobs.perl.org/job/3147#contact
+
+

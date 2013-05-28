@@ -1,0 +1,93 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:1372
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 19092 invoked by uid 76); 23 Feb 2004 03:45:48 -0000
+Received: from x1.develooper.com (HELO x1.develooper.com) (63.251.223.170) by onion.perl.org (qpsmtpd/0.26) with SMTP; Sun, 22 Feb 2004 19:45:48 -0800
+Received: (qmail 18433 invoked by uid 225); 23 Feb 2004 03:45:47 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 18407 invoked by alias); 23 Feb 2004 03:45:30 -0000
+Received: from [63.251.223.166] (HELO onion.perl.org) (63.251.223.166)  by la.mx.develooper.com (qpsmtpd/0.27-dev) with SMTP; Sun, 22 Feb 2004 19:45:30 -0800
+Received: (qmail 18980 invoked by uid 1016); 23 Feb 2004 03:45:29 -0000
+Date: 23 Feb 2004 03:45:29 -0000
+Message-ID: <20040223034529.18979.qmail@onion.perl.org>
+To: jobs@perl.org
+X-Spam-Checker-Version: SpamAssassin 2.63 (2004-01-11) on x1.develooper.com
+X-Spam-Status: No, hits=-4.9 required=8.0 tests=BAYES_00 autolearn=ham 	version=2.63
+X-SMTPD: qpsmtpd/0.26, http://develooper.com/code/qpsmtpd/
+Subject: Perl/SQL/CGI/DBI programmer for soft. related to journal publishing (PRINCIPALS ONLY), United States, Maryland, Bethesda
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1258
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 22, 2004
+
+Job title:
+Perl/SQL/CGI/DBI programmer for soft. related to journal publishing
+(PRINCIPALS ONLY)
+
+Company name: eJournalPress
+
+Internal ID: 02222004
+
+Location: United States, Maryland, Bethesda
+
+Pay rate: $50k/annual
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: Full Time / 1 year minimum
+
+Hours: Full time
+
+Description:
+In search of an extremely intelligent perl programmer who excels in a rapid
+application development environment.  A typical task will start with an
+enhancement request, 10-20 minutes of requirements analysis & design and
+your off on your own.  If you are used to 100+ page requirements tatements
+and weeks of design/analysis, please do NOT apply.
+
+The work is straight forward Perl/SQL/CGI/DBI coding for a web based online
+manuscript peer review system.	There are coding standards that programmers
+are expected to follow. 
+Currently the system comprises 400,000+ lines of perl code, 75 Modules,
+mainly procedural - NOT object oriented.  The code is platform independent:
+Unix or Windows 2000, 
+MS SQL Server or Oracle, Apache or IIS, etc.  
+
+If you do not know what a reference to a hash looks like, you need not
+apply.
+
+Required skills:
+Perl
+SQL (MS SQL or Oracle knowledge)
+Formal software design and programming education.  [History majors need not
+apply.]
+Comfortable talking to some end users/customers, as needed.
+
+Should (already) live in MD/DC/VA area.
+
+Desired skills:
+High IQ.  Fast programmer who knows how to QA their own code and work in a
+relaxed enviroment.  (Yeh, still have a pool table & provide Klondike
+bars.)
+
+2+ years experience, prefered.
+
+
+URL for more information: http://www.ejournalpress.com/
+
+Contact information:
+Joel Plotkin
+jobs@ejpress.com
+
+

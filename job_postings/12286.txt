@@ -1,0 +1,84 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12286
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 1879 invoked from network); 1 Apr 2012 03:22:31 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 1 Apr 2012 03:22:31 -0000
+Received: (qmail 28484 invoked by uid 225); 1 Apr 2012 03:22:30 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 28479 invoked by alias); 1 Apr 2012 03:22:30 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 31 Mar 2012 20:22:27 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 4A0042AFE1; Sat, 31 Mar 2012 20:22:24 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 31 Mar 2012 20:22:24 -0700
+Message-ID: <20120401032224.4A0042AFE1@x3.develooper.com>
+Subject: Web Developer (onsite), Washington, DC
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15774
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 31, 2012
+
+Job title: Web Developer
+
+Company name: Zurka Interactive
+
+Location: Washington, DC
+
+Pay rate: Commensurate to experience
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Join a sharp, fun team doing challenging work supporting world class
+science and technology. As part of the Center for Computational Science at
+the US Naval Research Laboratory, you will be building web based
+applications at the Naval Research Laboratory (NRL) in Washington, DC. The
+position has responsibility planning, implementing and maintaining web
+applications in support of NRL.
+
+Bring your passion for building applications. This is a group that values
+new ideas and creative solutions. You'll be joining a team that designs and
+implements a variety of web-based applications to automate processes and
+support research. Experience should include the creation of web
+applications with database back-ends and hundreds or thousands of users.
+Preference is given to candidates with a Bachelors Degree in Computer
+Science, Engineering or other technical field.
+
+Required skills:
+Our apps run on a Linux platform with MySQL as the database. Some are Perl,
+others are PHP based.
+
+Perl/Catalyst/DBIC/Template Toolkit
+PHP/Drupal
+MySQL/Linux
+JavaScript/CSS/HTML
+
+Desired skills:
+Familiarity with some or all of the following is desired:
+Plack, Moose, jQuery, FastCGI, Apache, SSL client verification, REST
+principals, Git/SVN.
+
+Website for more information:
+http://www.startuphire.com/job/web-developer-washington-dc-164546
+
+Contact information at:
+http://jobs.perl.org/job/15774#contact

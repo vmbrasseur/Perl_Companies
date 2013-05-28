@@ -1,0 +1,102 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6302
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 5993 invoked from network); 15 May 2007 22:48:17 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 15 May 2007 22:48:17 -0000
+Received: (qmail 32296 invoked by uid 225); 15 May 2007 22:48:17 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 32292 invoked by alias); 15 May 2007 22:48:17 -0000
+X-Spam-Status: No, hits=-1.1 required=8.0
+	tests=BAYES_05,DKIM_POLICY_SIGNSOME,DK_POLICY_SIGNSOME,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 15 May 2007 15:47:59 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 005772AFD5; Tue, 15 May 2007 15:47:55 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070515224755.005772AFD5@x3.develooper.com>
+Date: Tue, 15 May 2007 15:47:55 -0700 (PDT)
+Subject: Perl developer - mason, Catalyst, DBI (onsite), United States, Pennsylvania, Philadelphia
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5802
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 15, 2007
+
+Job title: Perl developer - mason, Catalyst, DBI
+
+Company name: IC Group
+
+Location:
+United States, Pennsylvania, Philadelphia
+
+Pay rate: DOE
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+IC Group (www.pobox.com, www.listbox.com) needs a Perl programmer
+experienced in building and maintaining database-backed web applications.
+
+A lot of people trust us with sending and receiving their email, and we
+want to make it easy for them to trust us (by being reliable) and easy for
+them to use us (by having a great interface).
+
+We're a small company that's been around since 1995.  We tend to be pretty
+casual and try to work closely together without a lot of overhead.
+
+We like open source; it runs our business.  As much as possible, we try to
+write our code so that we can release it -- it's easier to write good code
+when you know other people will see it.  Ask for our CPAN ids if you're
+interested.
+
+Feel free to sign up for a trial account of either service to see more
+about what we do.
+
+http://www.pobox.com -- lifetime email forwarding
+http://www.listbox.com -- mailing lists
+
+Required skills:
+* Perl, specifically:
+** HTML::Mason -- we use it for most web things
+** DBI -- particularly an ORM (we've used Class::DBI, but any ORM
+experience is useful)
+** modular, object-oriented design
+** a habit of writing automated tests
+* experience with SQL generally and MySQL and/or PostgreSQL in particular
+(both? even better)
+* development on and comfort with unix (any is fine, we use linux and
+solaris)
+
+Desired skills:
+* Catalyst -- we like it and want to use it more
+* Email:: and Mail:: modules generally
+* familiarity with high-volume web environments
+* Javascript, especially using a framework or library 
+(Dojo,	Prototype, etc.)
+* refactoring ugly code into slightly less ugly code (everyone has
+skeletons in their closet)
+
+
+URL for more information: http://www.pobox.com/
+
+Contact information at:
+http://jobs.perl.org/job/5802#contact
+
+

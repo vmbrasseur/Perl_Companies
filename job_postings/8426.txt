@@ -1,0 +1,91 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8426
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 10242 invoked from network); 9 Jul 2008 23:03:22 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 9 Jul 2008 23:03:22 -0000
+Received: (qmail 17870 invoked by uid 225); 9 Jul 2008 23:03:21 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 17866 invoked by alias); 9 Jul 2008 23:03:21 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 09 Jul 2008 16:03:18 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 9FB652AFE0; Wed,  9 Jul 2008 16:03:14 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080709230314.9FB652AFE0@x3.develooper.com>
+Date: Wed,  9 Jul 2008 16:03:14 -0700 (PDT)
+Subject: Perl Developer - OO Perl, MySQL for Web 2.0 data storage application (onsite), United Kingdom, West Yorkshire, Leeds
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/9174
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July  9, 2008
+
+Job title:
+Perl Developer - OO Perl, MySQL for Web 2.0 data storage application
+
+Company name: humyo.com
+
+Location: United Kingdom, West Yorkshire, Leeds
+
+Pay rate: up to £45,000 pa
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+humyo.com is a Web 2.0 data storage service which enables users to store
+their files online, access them from anywhere and keep multiple devices
+synchronised. We seek skilled perl developers with experience of large,
+modular OO perl applications to join our development team of 5 working on
+our server-side APIs and storage technologies.
+
+Our wholly object orientated code base is less than 2 years old, having
+been thoughtfully designed by some of the best perl developers in the UK.
+We adhere keenly to best practice perl methodologies including extensive
+unit testing. Open source software is utilised extensively within our
+application and our developers regularly commit to numerous open source
+perl projects and modules.
+
+The successful candidate will work from our relaxed office in the beautiful
+UNESCO world heritage site of Saltaire. We have ample parking and are 2
+minutes from Saltaire rail station, with parks, shops and bars all close
+by.
+
+Required skills:
+- OO Perl in large structured applications
+- SQL (ideally MySQL)
+- not phased by new problems, and adept at using resources such as CPAN and
+mailing lists to solve them
+
+Desired skills:
+- mod_perl
+- Subversion/CVS
+- Test-driven Development
+- Template Toolkit
+- SOAP, XML
+- ORMs
+- Linux
+
+URL for more information: http://www.humyo.com/jobs
+
+Contact information at:
+http://jobs.perl.org/job/9174#contact
+
+

@@ -1,0 +1,103 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11329
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 26641 invoked from network); 24 May 2011 03:29:33 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 24 May 2011 03:29:33 -0000
+Received: (qmail 14888 invoked by uid 225); 24 May 2011 03:29:33 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 14884 invoked by alias); 24 May 2011 03:29:32 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS,T_LOTS_OF_MONEY
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 23 May 2011 20:29:29 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 3407F2AFDE; Mon, 23 May 2011 20:29:26 -0700 (PDT)
+To: jobs@perl.org
+Date: Mon, 23 May 2011 20:29:26 -0700
+Message-ID: <20110524032926.3407F2AFDE@x3.develooper.com>
+Subject: Student Intern $5,000 12 weeks  (part onsite), United States, MA,
+ Lowell 
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14196
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 23, 2011
+
+Job title: Student Intern $5,000 12 weeks 
+
+Company name: Community Software Lab
+
+Location: United States, MA, Lowell 
+
+Pay rate: $5,000 / 12 weeks 
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: 12 weeks
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+MVHub is a web based database for social services. Contacts for agencies
+and programs can maintain their own records and are encouraged to do so
+with periodic email reminders. Searchers can use natural language search
+terms like "food" or "shelter". Two sites are running MVHub software,
+MVHub.com and NorthShorePort.org
+
+We seek a summer intern to do web development in Perl , SQL , HTML and (a
+tiny bit) of Javascript to improve the MVHub software.
+
+To be eligible for this internship, you must:
+a. Have been a student on April 25th
+b. Be willing to be paid for accomplishing specific results instead of by
+the hour.
+
+Given the vagaries of software project estimating and the relatively low
+wage (b) is problematic for many people. Your judgment may be influenced by
+knowing that this internship exists in large part to provide a paid
+learning opportunity.
+
+Full details at:
+
+http://wiki.thecsl.org/mediawiki/index.php/Pseudo_GSOC
+
+Please don't blindly send a resume, that is not how we want you to apply.
+
+
+Required skills:
+We work mostly in Perl. You can probably get by with some small training or
+experience in one of the other scripting languages. (Python, PHP, LISP,
+Ruby, TCL, etc)
+
+Our software is web based. Ideally you will have experience in web
+development with Perl. At a minimum, you need to read the HTML reference
+and understand the difference between an <hr> tag and a <ul> tag.
+
+If you don't have or can't get enough knowledge of Launchpad.net to submit
+a merge request adding yourself to the appropriate place in the
+CONTRIBUTORS file, you will not be able to get up to speed quickly enough
+to be productive with this summer and we will (reluctantly) reject your
+application. 
+
+Desired skills:
+CGI::Application 
+HTML::Template
+
+
+Website for more information:
+http://wiki.thecsl.org/mediawiki/index.php/Pseudo_GSOC
+
+Contact information at:
+http://jobs.perl.org/job/14196#contact

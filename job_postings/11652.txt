@@ -1,0 +1,110 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11652
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 14857 invoked from network); 8 Sep 2011 17:22:51 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 8 Sep 2011 17:22:51 -0000
+Received: (qmail 13817 invoked by uid 225); 8 Sep 2011 17:22:51 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 13813 invoked by alias); 8 Sep 2011 17:22:50 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 08 Sep 2011 10:22:48 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 4E8962AFE0; Thu,  8 Sep 2011 10:22:45 -0700 (PDT)
+To: jobs@perl.org
+Date: Thu, 8 Sep 2011 10:22:45 -0700
+Message-ID: <20110908172245.4E8962AFE0@x3.develooper.com>
+Subject: Software Tools Developer (onsite), USA, CA, Peninsula
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14798
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September  8, 2011
+
+Job title: Software Tools Developer
+
+Company name: GroupA
+
+Internal ID: GRPASTD
+
+Location: USA, CA, Peninsula
+
+Pay rate: 40-60 + Medical Benefits
+
+Terms of employment: Hourly employee
+
+Length of employment: Ongoing Contract/Possible Contract to Perm
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Design, develop and deploy high quality Perl / Web based software solutions
+that provide access to data and services for our internal staff and
+external partners. 
+
+-	Development of web based tools to allow both  staff and outside
+customers access to company data in an efficient and clear manner.  This
+will include both textual web UI as well as graph generation where
+appropriate
+-	Development of scripts / dashboards that will allow company to
+view, share, migrate and process key manufacturing data
+-	Creation of simple reports (text and graphs) based on data
+retrieved from MySQL databases that relate to the manufacturing process
+-	Other tasks as directed
+
+Skills / Qualifications : 
+
+-	Perl programming;  using the CGI, GD and DBI modules as well as
+creating their own new modules as needed
+-	Understanding of Perl intrinsic properties and how it impacts
+program efficiency (ie: why looking things up using an Array takes longer
+than looking them up in a Hash)
+-	MySQL, using the Command Line MySQL Client ( PHP Admin is fine for
+daily use, but there needs to be core competency using the MySQL Command
+line tools )
+-	Linux / Apache for use as a development platform
+-	Understanding of HTTP and CGI 
+-	Understanding of the MySQL Dump command and its applications 
+-	Familiarity with best-practices for the creation of clear and easy
+to use User Interfaces 
+-	Basic understanding of ipv4 Networking and ports
+-	Strong math skills 
+-	Familiarity with MS Windows Office Suite ( Outlook, Excel , Word )
+-	Basic project planning skills
+
+Required skills:
+Requirements :
+
+-	5+ years experience in Perl 
+-	5+ years working with Linux
+-	3+ years experience using and Administering MySQL databases 
+-	5+ years experience with HTTP / CGI programming 
+-	Strong understanding of Apache / http services – knowledge of the
+basic principles of web server operation and function
+-	Strong communication and organizational skills
+
+Desired skills:
+This person should …
+
+Have strong organizational skills
+Be strongly motivated and ready to work in a very busy and task driven
+environment 
+Be analytical with the ability to critically evaluate their work
+Be able to function with minimal supervision
+Be familiar with basic self QA steps
+
+Contact information at:
+http://jobs.perl.org/job/14798#contact

@@ -1,0 +1,90 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4084
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13890 invoked from network); 30 Mar 2006 10:45:56 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 30 Mar 2006 10:45:56 -0000
+Received: (qmail 7530 invoked by uid 225); 30 Mar 2006 10:45:56 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 7525 invoked by alias); 30 Mar 2006 10:45:55 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 30 Mar 2006 02:45:50 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 766EA2AFE2; Thu, 30 Mar 2006 02:45:46 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20060330104546.766EA2AFE2@x3.develooper.com>
+Date: Thu, 30 Mar 2006 02:45:46 -0800 (PST)
+Subject: Senior Software Engineer (onsite), United States, CA, Walnut Creek
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3875
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 29, 2006
+
+Job title: Senior Software Engineer
+
+Location: United States, CA, Walnut Creek
+
+Pay rate: DOE
+
+Travel: 0%
+
+Terms of employment: Hourly employee
+
+Length of employment: 2 years
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Statement of Work:
+This resource will provide software development services in the area of
+server side web development in a UNIX (Solaris/Linux) environment.  The
+individual needs to be an expert on web software development technologies
+using Perl, CGI, Java, and shell scripts, with experience working with UNIX
+device drivers.  The resource will develop and enhance a web-based
+application attached to an Oracle database. The emphasis of the work will
+be to display statistics, and developing and supporting workflow logic for
+an end-to-end, automated testing tool running on Linux/Solaris.
+	
+Deliverables:
+Under the guidance of two existing senior developers this resource will
+develop software that displays data pulled from various sources via device
+drivers, Oracle, and display it on a web page using tables, charts and
+graphs in a web-based, server side environment. A mixture of languages will
+be used (such as Perl, CGI, HTML, Java, Java applets, JavaScript, C/C++,
+and SQL), depending on what is most appropriate for the task. Database
+schema design and optimal utilization of Oracle storage methods will also
+be required.
+
+Key Information:	
+Server-side GUI web and applications development using Perl, CGIs, HTML,
+Java applets, JavaScript, C/C++ in a Linux environment.
+
+Required skills:
+Mid-level (3-5 years) or Senior (6+ years) Developer
+Required: Perl, CGIs
+
+
+Desired skills:
+Preferred: Java, JSP, JavaScript, HTML, XHTML, shell scripting (ksh),
+C/C++, SQL, http, java applets,
+Swing
+
+Contact information at:
+http://jobs.perl.org/job/3875#contact
+
+

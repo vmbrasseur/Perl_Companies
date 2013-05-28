@@ -1,0 +1,121 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3151
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 32057 invoked from network); 31 Aug 2005 23:16:07 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 31 Aug 2005 23:16:07 -0000
+Received: (qmail 7512 invoked by uid 225); 31 Aug 2005 23:16:06 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 7508 invoked by alias); 31 Aug 2005 23:16:05 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 31 Aug 2005 16:15:59 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j7VNFvcx030873
+	for <jobs@perl.org>; Wed, 31 Aug 2005 16:15:57 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j7VNFvlW030871;
+	Wed, 31 Aug 2005 16:15:57 -0700
+Date: Wed, 31 Aug 2005 16:15:57 -0700
+Message-ID: <200508312315.j7VNFvlW030871@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Publishing Content Management (part onsite)
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3014
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 31, 2005
+
+Job title: Publishing Content Management
+
+Company name: White light publications
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: Depends on Project Estimate
+
+Hours: Flexible
+
+Onsite: some
+
+Description:
+We are looking for someone who could create this system in a short time
+frame. Parts of the system are already completed using perl, postgres, and
+mason. We require someone to build the dhtml application and tie the pieces
+together. We are looking for an quality solution in a short time and would
+like quotes on approximate time and cost to finish the project.
+
+This is a web application that allows a user to build a used car display ad
+by dragging vehicle images onto a grid in a web application. The user drags
+vehicle images from a history palette (generated from the database) to a
+build template. Once the user has completed placement of the images, they
+can edit the text which accompanies each image, if needed, via some sort of
+popup window. The user then submits that ad to the system for building in
+our publishing system.
+
+Ads for dealers generally run week to week with very few graphic changes,
+except for the vehicles themselves. Ads can run with some new cars, all new
+cars or a dealer may choose to run a previous ad with no vehicle changes at
+all. An ad format (number of images per page) can sometimes change,
+although the grid formats (number of rows/columns) are predefined.
+
+Details
+
+The user selects a template to use as a basis for the current week's ad
+(usually the previous ad). The screen shows the "template" on the left side
+of the screen, with images (and accompanying short text tags) arranged in a
+grid (row/column order). Since a dealer's ad could have multiple pages,
+only one of those pages can be seen at a time. A method, such as a popup
+menu should allow the user to select other pages.
+
+On the right side of the screen are representations of other pages from
+previous weeks, typically we only allow a dealer to re-advertise a vehicle
+from an issue that ran in the past 5 weeks. This too may have multiple
+pages, so another popup menu for selecting those pages is needed as well.
+
+Using DHTML drag and drop, the user can drag images to the template on the
+left side to build a representation of a new ad. Images dropped onto an
+existing position will be replaced by the dragged image. Some image
+positions are a different size than the image being dragged (and vice
+versa) so the representation should be able to have its size changed
+(again, the sizes are few and predefined). As the user drags the images,
+the application would talk to the backend database (via AJAX) to record
+placement and enforce constraints (such as warning of duplicate images).
+Once the image placement is complete, the user can edit the data for
+individual vehicles to correct spelling errors, update prices, etc.
+
+When the image layout is completed, the user submits the "ad" to the system
+where it is processed. Submission can consist of setting a flag in the
+database that can be picked up by a cron job or a .
+
+Application should work in Windows/IE 6, Mozilla/Firefox and Safari
+(1.2/1.3).
+
+Onsite work is not strictly required, but some face-to-face interaction is
+needed for design and testing, so you should live in the Seattle area.
+
+See URL below for a screen mockup.
+
+Required skills: Perl, mod_perl, dhtml
+
+Desired skills: Postgres, Ajax, Catalyst (a big plus)
+
+URL for more information:
+http://www.northwestcarsandtrucks.com/images/mockup.jpg
+
+Contact information at:
+http://jobs.perl.org/job/3014#contact
+
+

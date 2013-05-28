@@ -1,0 +1,139 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11210
+Return-Path: <MMertel@dataram.com>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 31718 invoked from network); 13 Apr 2011 15:16:09 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 13 Apr 2011 15:16:09 -0000
+Received: (qmail 17898 invoked by uid 225); 13 Apr 2011 15:16:09 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 17894 invoked by alias); 13 Apr 2011 15:16:08 -0000
+X-Spam-Status: No, hits=-0.0 required=8.0
+	tests=HTML_FONT_SIZE_HUGE,HTML_MESSAGE,T_RP_MATCHES_RCVD
+X-Spam-Check-By: la.mx.develooper.com
+Received: from mail0.dataram.com (HELO mail01.dataram.com) (216.91.111.207)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 13 Apr 2011 08:16:06 -0700
+X-TM-IMSS-Message-ID: <7d4f13490000a3c1@dataram.com>
+Received: from wwmx01.dataram.net ([216.91.111.204]) by dataram.com ([216.91.111.207]) with ESMTP (TREND IMSS SMTP Service 7.1) id 7d4f13490000a3c1 ; Wed, 13 Apr 2011 11:16:01 -0400
+X-TM-IMSS-Message-ID: <a3f26ee80000ebe3@dataram.com>
+Received: from webmail.dataram.com ([172.24.19.21]) by dataram.com ([172.24.19.25]) with ESMTP (TREND IMSS SMTP Service 7.1) id a3f26ee80000ebe3 ; Wed, 13 Apr 2011 11:15:56 -0400
+Received: from [127.0.0.1] ([192.168.225.106]) by webmail.dataram.com over TLS secured channel with Microsoft SMTPSVC(6.0.3790.4675);
+	 Wed, 13 Apr 2011 11:16:00 -0400
+Message-ID: <4DA5BE31.4080000@dataram.com>
+Date: Wed, 13 Apr 2011 08:16:01 -0700
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.2.15) Gecko/20110303 Lightning/1.0b2 Thunderbird/3.1.9
+MIME-Version: 1.0
+To: jobs@perl.org
+Content-Type: multipart/alternative;
+ boundary="------------020400010500080704020904"
+X-OriginalArrivalTime: 13 Apr 2011 15:16:00.0911 (UTC) FILETIME=[B298B9F0:01CBF9ED]
+X-TM-AS-Product-Ver: IMSS-7.1.0.1394-6.5.0.1024-18072.000
+X-TM-AS-Result: No--16.502-7.0-31-1
+X-imss-scan-details: No--16.502-7.0-31-1
+Subject: Seattle perl developer needed
+Approved: news@nntp.perl.org
+From: mmertel@dataram.com (Mark Mertel)
+
+--------------020400010500080704020904
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 7bit
+
+Greetings,
+
+my company - I hired on with them as a FTE about a year ago - is looking 
+to add a perl developer to its Seattle office. We are building a network 
+appliance -  hardware and software -  which will greatly improve access 
+times and throughput to data storage. My manager says we would prefer 
+FTE, but will consider contract. Here's some bullets on what we're 
+looking for:
+
+    * Number 1 requirement is smart and self-motivated. We need someone
+      who can take the ball and run with it, but isn't shy about asking
+      for help when they run into a problem or something they are not
+      familiar with.
+    * Detail-oriented
+    * Good problem solver
+    * Willingness to learn
+    * UNIX/Linux systems programming experience
+    * Knowledge of Perl (preferred) or similar languages like Python and
+      Ruby
+    * Background in high-reliability, high-performance, and/or real-time
+      systems (networking, telecommunications, storage, HPC, etc) is a plus
+    * UNIX/Linux system administration experience is a plus
+
+If you are interested and would like to apply, send my your resume and 
+I'll pass it on. I'm not the hiring manager, just another perl hacker.
+
+-- 
+Mark Mertel
+mmertel@dataram.com
+
+
+
+--------------020400010500080704020904
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+
+    <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+  </head>
+  <body bgcolor="#ffffff" text="#000000">
+    Greetings,<br>
+    <br>
+    my company - I hired on with them as a FTE about a year ago - is
+    looking to add a perl developer to its Seattle office. We are
+    building a network appliance -&nbsp; hardware and software -&nbsp; which will
+    greatly improve access times and throughput to data storage. My
+    manager says we would prefer FTE, but will consider contract. Here's
+    some bullets on what we're looking for:<br>
+    <ul type="disc">
+      <li class="MsoNormal" style=""><font size="3"><span
+            style="font-size: 12pt;">Number 1 requirement is smart and
+            self-motivated. We need someone who can take the ball and
+            run with it, but isn't shy about asking for help when they
+            run into a problem or something they are not familiar with.</span></font></li>
+      <li class="MsoNormal" style=""><font size="3"><span
+            style="font-size: 12pt;">Detail-oriented</span></font></li>
+      <li class="MsoNormal" style=""><font size="3"><span
+            style="font-size: 12pt;">Good problem solver</span></font></li>
+      <li class="MsoNormal" style=""><font size="3"><span
+            style="font-size: 12pt;">Willingness to learn</span></font></li>
+      <li class="MsoNormal" style=""><font size="3"><span
+            style="font-size: 12pt;">UNIX/Linux systems programming
+            experience</span></font></li>
+      <li class="MsoNormal" style=""><font size="3"><span
+            style="font-size: 12pt;">Knowledge of Perl (preferred) or
+            similar languages like Python and Ruby</span></font></li>
+      <li class="MsoNormal" style=""><font size="3"><span
+            style="font-size: 12pt;">Background in high-reliability,
+            high-performance, and/or real-time systems (networking,
+            telecommunications, storage, HPC, etc) is a plus</span></font></li>
+      <li class="MsoNormal" style=""><font size="3"><span
+            style="font-size: 12pt;">UNIX/Linux system administration
+            experience is a plus</span></font></li>
+    </ul>
+    <big><big><big><big><big><big><big><big><big><big><font size="3"><big><big><big><big><big><big><big><big><big><big><span
+                                                style="font-size: 12pt;">If
+                                                you are interested and
+                                                would like to apply,
+                                                send my your resume and
+                                                I'll pass it on. I'm not
+                                                the hiring manager, just
+                                                another perl hacker.</span></big></big></big></big></big></big></big></big></big></big></font></big></big></big></big></big></big></big></big></big></big><font
+      size="3" face="Times New Roman"><span style="font-size: 12pt;"><br>
+      </span></font>
+    <pre class="moz-signature" cols="72">-- 
+Mark Mertel
+<a class="moz-txt-link-abbreviated" href="mailto:mmertel@dataram.com">mmertel@dataram.com</a>
+
+</pre>
+  </body>
+</html>
+
+--------------020400010500080704020904--

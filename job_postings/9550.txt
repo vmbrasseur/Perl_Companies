@@ -1,0 +1,113 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9550
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 17177 invoked from network); 27 Oct 2009 16:47:21 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 27 Oct 2009 16:47:21 -0000
+Received: (qmail 4853 invoked by uid 225); 27 Oct 2009 16:47:21 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 4848 invoked by alias); 27 Oct 2009 16:47:20 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 27 Oct 2009 09:47:19 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 7EB992AFE2; Tue, 27 Oct 2009 09:47:16 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20091027164716.7EB992AFE2@x3.develooper.com>
+Date: Tue, 27 Oct 2009 09:47:16 -0700 (PDT)
+Subject: Modern Perl programmer (onsite), United States, PA, Philadelphia
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/11217
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 26, 2009
+
+Job title: Modern Perl programmer
+
+Company name: IC Group
+
+Location: United States, PA, Philadelphia
+
+Pay rate: Negotiable
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+
+=head1 WHO WE ARE
+
+We are Pobox.  (We are also Listbox).  We've been around since before the
+Internet was cool, offering all kinds of email-related services.
+
+We're a small company located in Center City Philadelphia.  It would be
+awesome if you're in our neighborhood, but we'll consider telecommuting for
+the right person.  It's a pretty comfortable and casual office, so don't
+panic.
+
+We like open source; it runs our business. As much as possible, we try to
+write our code so that we can release it -- it's easier to write good code
+when you know other people will see it.
+
+Feel free to sign up for a trial account of either service to see more
+about what we do.
+
+  http://www.pobox.com -- lifetime email addresses
+
+  http://www.listbox.com -- email marketing and listservs
+
+...or ask about us on IRC.  You're on IRC, right?
+
+=head1 WHO YOU ARE
+
+You are a programmer who loves Perl.  You might likehorrible one-offs that
+make your Python-loving friends wince once in a while, but mostly you like
+writing well-designed, easy to maintain modern Perl programs.  You like
+objects, and you build them with Moose.  You build your web services with
+Catalyst and PSGI.  You publish code to the CPAN and other people use it.
+
+Ideally, you're familiar with DBIx::Class, jQuery, Mason, and maybe Python
+and PHP.  Ruby would be great, too.
+
+=head1 WHAT'S THE JOB?
+
+Some of it is maintenance: we have a big code base written across many
+years. We want it to be smaller, modern modern, and more cohesive.  Every
+time you delete more code than you commit, an angel gets his wings.
+
+Some of it is new development:	we have lots of ideas about where we want
+to go next, and that means writing more, modern, maintainable systems. 
+Lots of this
+would be web and web services, lots would be email handling code, and there
+are plenty of other problem domains, too.
+
+Required skills:
+Here's an unordered list of things you'd be working with:
+
+  * Moose	  * Postfix	  * RoundCube
+  * Catalyst	  * MySQL	  * Git
+  * jQuery	  * SQLite	  * Lighttpd
+  * Mason	  * Zope	  * Email::MIME::Kit
+  * Python	  * FreeSide	  * Rx Schema
+
+URL for more information: http://www.pobox.com/
+
+Contact information at:
+http://jobs.perl.org/job/11217#contact
+
+

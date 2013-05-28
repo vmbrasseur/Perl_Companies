@@ -1,0 +1,97 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5940
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 7468 invoked from network); 20 Mar 2007 00:09:06 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 20 Mar 2007 00:09:06 -0000
+Received: (qmail 10477 invoked by uid 225); 20 Mar 2007 00:09:06 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 10464 invoked by alias); 20 Mar 2007 00:09:05 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,DK_POLICY_SIGNSOME
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 19 Mar 2007 17:08:57 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 352F02AFDD; Mon, 19 Mar 2007 17:08:54 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070320000854.352F02AFDD@x3.develooper.com>
+Date: Mon, 19 Mar 2007 17:08:54 -0700 (PDT)
+Subject: Sr. Software Engineer (Perl) (onsite), United States, CA, West Los Angeles or San Diego
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5251
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 19, 2007
+
+Job title: Sr. Software Engineer (Perl)
+
+Company name: Shopzilla.com (Bizrate)
+
+Internal ID: SrSWE
+
+Location:
+United States, CA, West Los Angeles or San Diego
+
+Pay rate: DOE
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Length of employment: Full-time
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+As Senior Software Engineer you will: 
+
+* Share responsibility and ownership of the Shopzilla.com website
+* Work closely with R&D and business analytics teams
+* Dream up and design new products and functionality
+* foreach(@day){next if /^(sat|sun)/i;goto WORK; write CODE; goto BAR if
+/^(th|fr)/i; sleep;}
+* Write code used by millions of people per day
+* Not compromise on quality
+* Work closely with other brilliant engineers on a daily basis 
+* Develop core technology, including the design/architecture of new
+solutions and the refactoring and refinement of existing systems 
+* Mentor junior members of the team 
+* Serve as key architect for many key classes, protocols, and APIs
+* Help shape the future of online shopping 
+
+Required skills:
+* Perl/mod_perl 
+* RDBMS fundamentals
+* Proficient in Object Oriented design and development
+* Ability to formally communicate architectural designs and plans 
+* Experience working with developers and project/business owners 
+* Experience integrating open source technologies in application
+development 
+
+Desired skills:
+* Test-driven development
+* Fundamentals in design patterns 
+* Participation in Agile development environment
+* Template Toolkit experience 
+* BS in Computer Science or comparable experience 
+* Domain experience in n-tier web application development 
+* Working experience with web and networking protocols and concepts 
+
+URL for more information: http://www.shopzilla.com/
+
+Contact information at:
+http://jobs.perl.org/job/5251#contact
+
+

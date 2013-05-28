@@ -1,0 +1,92 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3960
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 26932 invoked from network); 4 Mar 2006 00:25:38 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 4 Mar 2006 00:25:38 -0000
+Received: (qmail 21906 invoked by uid 225); 4 Mar 2006 00:25:38 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 21901 invoked by alias); 4 Mar 2006 00:25:37 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 03 Mar 2006 16:25:35 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id k240PVuM032591
+	for <jobs@perl.org>; Fri, 3 Mar 2006 16:25:31 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id k240PVjM032589;
+	Fri, 3 Mar 2006 16:25:31 -0800
+Date: Fri, 3 Mar 2006 16:25:31 -0800
+Message-ID: <200603040025.k240PVjM032589@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Seeking full time mod_perl/DBI programmer (onsite), Canada, Ontario, Toronto
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3778
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March  3, 2006
+
+Job title:
+Seeking full time mod_perl/DBI programmer
+
+Company name: Wilder & Associates
+
+Location: Canada, Ontario, Toronto
+
+Pay rate: Negotiable
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are currently seeking a full-time Web Developer to create
+customer-specific database-enabled applications in Perl, and to maintain,
+extend and support our existing applications.
+
+* Highly organized problem solver able to prioritize tasks
+* A team player with excellent written and verbal communication skills in
+English.
+* This job requires an individual who has the ability to communicate
+effectively with both technical and non-technical end users.
+
+
+Required skills:
+* Professional experience with a minimum of 2 years experience in web
+development
+* Strong Perl skills
+* Knowledge of and interest in web development "best practices" (e.g.
+templating/MVC, security, scalability)
+* Knowledge of and interest in Perl "best practices" (CPAN modules,
+object-orientation, automated testing)
+* Familiarity with other internet technologies (e.g. CSS, Javascript,
+DHTML)
+
+Desired skills:
+* Experience with the Template Toolkit, Class::DBI and CGI::Application
+* Experience with PHP or other web development environments would be an
+asset.
+
+
+URL for more information: http://www.wilder.ca/
+
+Contact information at:
+http://jobs.perl.org/job/3778#contact
+
+

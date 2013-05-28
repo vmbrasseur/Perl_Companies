@@ -1,0 +1,146 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4229
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 7524 invoked from network); 26 Apr 2006 06:22:04 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 26 Apr 2006 06:22:04 -0000
+Received: (qmail 21804 invoked by uid 225); 26 Apr 2006 06:22:03 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 21783 invoked by alias); 26 Apr 2006 06:22:01 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 25 Apr 2006 23:21:32 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 732582AFDF; Tue, 25 Apr 2006 23:21:28 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060426062128.732582AFDF@x3.develooper.com>
+Date: Tue, 25 Apr 2006 23:21:28 -0700 (PDT)
+Subject: System Reliability Engineer (onsite), CA, Burbank
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3995
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 25, 2006
+
+Job title: System Reliability Engineer
+
+Company name: Yahoo, Inc
+
+Location: CA, Burbank
+
+Pay rate: OPEN
+
+Terms of employment: Salaried employee
+
+Length of employment: Fulltime
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+System Reliability Engineer
+
+Yahoo! Search Marketing, a division of Yahoo! Inc., offers essential
+marketing services for companies doing business online. The group's
+search-based products and tools help businesses connect with highly
+motivated customers. 
+
+We are seeking a senior system reliability engineer to manage the dynamic
+Yahoo! Search Marketing enterprise wide software application suite. Yahoo!
+Search Marketing Software Operations Engineers work on a team dedicated to
+addressing application performance, security, and stability issues.
+Engineers work in a cross-functional environment including development,
+networking, hosting systems, database, application servers and web serving.
+Knowledge and understanding of each layer, especially software design, is a
+critical factor for success.
+
+Responsibilities include the following:
+
+* Work in a team to categorize, prioritize and resolve software application
+issues, dealing with all levels of Yahoo! Search Marketing's corporate and
+enterprise infrastructure. 
+* Develop appropriate applications architecture that sustains Yahoo! Search
+Marketing's high standards of availability and performance. 
+* Responsible for working with and coordinating the necessary development
+and technical operations teams to solve application performance, security,
+and stability issues. 
+* Function as 3rd tier escalation team for enterprise application 
+issues and manage the resolution of issues.
+
+Requirements include the following:
+
+* Minimum 6 years demonstrated software development and/or architecture
+experience.
+* Excellent development skills and experience in OO Perl, C, and C++. 
+* Detailed knowledge tuning and instrumenting Apache and mod_perl.
+* In-depth understanding of TCP/IP networking and troubleshooting,
+networking architecture and design.
+* Excellent knowledge of modern software systems engineering and experience
+in building and operating distributed component-based software solutions.
+* Experience with data management, relational and object-oriented data
+systems required. 
+* Outstanding interpersonal and communication skills. 
+* Strong research, investigation and evaluation skills.
+
+Highly desirable qualifications include the following:
+
+* Experience with web services.
+* Unix System administration experience or equivalent knowledge (Solaris,
+Linux, BSD).
+* Experience with network programming and IPC.
+* Oracle and MySQL experience.
+* Consulting experience.
+* Experience with successful implementations of complex, highly scalable
+and highly available systems in a multi-tier environment.
+* Technical or business operations experience in a 24x7 environment.
+
+
+Required skills:
+Requirements include the following:
+
+* Minimum 6 years demonstrated software development and/or architecture
+experience.
+* Excellent development skills and experience in OO Perl, C, and C++. 
+* Detailed knowledge tuning and instrumenting Apache and mod_perl.
+* In-depth understanding of TCP/IP networking and troubleshooting,
+networking architecture and design.
+* Excellent knowledge of modern software systems engineering and experience
+in building and operating distributed component-based software solutions.
+* Experience with data management, relational and object-oriented data
+systems required. 
+* Outstanding interpersonal and communication skills. 
+* Strong research, investigation and evaluation skills.
+
+
+Desired skills:
+Highly desirable qualifications include the following:
+
+* Experience with web services.
+* Unix System administration experience or equivalent knowledge (Solaris,
+Linux, BSD).
+* Experience with network programming and IPC.
+* Oracle and MySQL experience.
+* Consulting experience.
+* Experience with successful implementations of complex, highly scalable
+and highly available systems in a multi-tier environment.
+* Technical or business operations experience in a 24x7 environment.
+
+
+URL for more information: http://careers.yahoo.com/
+
+Contact information at:
+http://jobs.perl.org/job/3995#contact
+
+

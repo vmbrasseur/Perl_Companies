@@ -1,0 +1,106 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6342
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 1272 invoked from network); 26 May 2007 00:14:41 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 26 May 2007 00:14:41 -0000
+Received: (qmail 4331 invoked by uid 225); 26 May 2007 00:14:41 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 4326 invoked by alias); 26 May 2007 00:14:40 -0000
+X-Spam-Status: No, hits=0.0 required=8.0
+	tests=BAYES_50,DKIM_POLICY_SIGNSOME,DK_POLICY_SIGNSOME,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 25 May 2007 17:14:28 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 23C072AFDF; Fri, 25 May 2007 17:14:24 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070526001424.23C072AFDF@x3.develooper.com>
+Date: Fri, 25 May 2007 17:14:24 -0700 (PDT)
+Subject: Senior PL/SQL and Perl ETL Developer (onsite), United States, IL, Chicago
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5862
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 25, 2007
+
+Job title: Senior PL/SQL and Perl ETL Developer
+
+Company name: DoubleClick/Performics
+
+Location: United States, IL, Chicago
+
+Pay rate: Competitive
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: Permanent
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The data warehouse team at DoubleClick/Performics [beta] is looking for a
+senior developer to help create a company-wide data warehouse.	We are in
+need of someone who is an expert PL/SQL and Perl programmer, preferably
+someone with ETL experience.  The job entails extracting data from multiple
+sources using a mix of SQL and Perl and loading into an Oracle database
+using PL/SQL.  The project is still in it's early development days, so this
+is a good time to enjoy green-field programming in an environment that
+demands quality and well tested code.  You will have the opportunity to
+work on a small team in a mid-sized company, so you get the fun and
+fast-paced feel of a small group, but the security and benefits of a
+larger, more established, company.
+
+This is a full-time on-site position in downtown Chicago.  Don't let that
+scare you though, this is a great place to work.... we have all of the
+goodies like a lax dress code, flexible work hours, the ability to work
+from home, free soda, and tons of 'events'.
+
+Required Skills:
+• SQL (Oracle)
+• PL/SQL (expert)
+• Perl (intermediate to expert)
+• Linux
+• Unit testing (Test::More, Test::Class)
+
+Desirable Skills:
+• SQL (DB2)
+• Cognos
+• Java
+• Scrum
+
+Benefits:
+• Competitive Salary 
+• Four weeks of paid vacation and personal time 
+• Casual work environment 
+• Medical, Dental and Prescription benefits through Cigna 
+• 401K with company match 
+• Extensive training and opportunities for career growth 
+• Optional pet insurance 
+• Tuition reimbursement
+
+
+Required skills:
+Oracle SQL, PL/SQL, Perl, Linux, Unit Test (Test::More, Test::Class)
+
+Desired skills: DB2 SQL, Cognos, Java, Scrum
+
+URL for more information: http://www.performics.com/
+
+Contact information at:
+http://jobs.perl.org/job/5862#contact
+
+

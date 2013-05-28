@@ -1,0 +1,138 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12752
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 861 invoked from network); 20 Sep 2012 19:16:08 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 20 Sep 2012 19:16:08 -0000
+Received: (qmail 6343 invoked by uid 225); 20 Sep 2012 19:16:07 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 6339 invoked by alias); 20 Sep 2012 19:16:07 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 20 Sep 2012 12:16:04 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 72E402AFDE; Thu, 20 Sep 2012 12:16:01 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 20 Sep 2012 12:16:01 -0700
+Message-ID: <20120920191601.72E402AFDE@x3.develooper.com>
+Subject: Senior Perl Programmer for full-time, telecommuting, long term
+ interesting work on a large website (telecommute), Sydney, NSW, Australia
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16476
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 20, 2012
+
+Job title:
+Senior Perl Programmer for full-time, telecommuting, long term interesting
+work on a large website
+
+Company name: Start Local
+
+Location: Sydney, NSW, Australia
+
+Pay rate: $20-25USD per hour depending on skill level
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+We're looking for a new programmer to join our development team on a
+full-time basis, working from home.
+
+We run one of the largest business directories in Australia and currently
+get more than 1.5-1.7 million visitors each month. We have been developing
+our system for more than 4 years so this is an opportunity to join a
+sophisticated team that is doing exciting things and solving complex
+problems with technologies around local search, Perl, Solr, API creation,
+jQuery and ajax.
+
+The Senior Perl Developer that we are looking for will help the evolution
+of functionality of our site and help the expansion of the site across
+vertical local directories and internationally. We are looking for an
+exceptional individual that wants to push the boundaries of Local Search in
+Australia and across the world.
+
+Our team workflow is well thought out and solid with individual development
+servers, a group staging environment, redmine ticketing system and version
+control.
+
+You would be working directly under our lead developer and your
+responsibilities in this position may include:
+
+- Overcome tough, technically oriented challenges in the local search
+market.
+- Work with Javascript and jQuery for the UI.
+- Working with varnish caching servers and other methods to help speed up
+the system and manage load.
+- Discuss, design and develop large scale search solutions in Perl, HTML
+and SOLR.
+- Utilise MySQL, sql programming, stored procedures and database design.
+- Work within an English speaking, team based environment.
+
+--Important--
+1. You must be willing to be online and available to text chat during some
+of the Sydney, Australia working hours (GMT+10) each week day.
+2. You should be available at least 40 hours each week.
+3. At this time we are looking for individuals, not agencies.
+4. You should be looking to have a single client (us) as your focus going
+forwards. It is too hard to build long term relationships with people who
+are working for many different clients.  
+5. You are ready to get started asap or shortly.
+
+Although the pay rate is listed as an hourly rate, there won't be any weeks
+that are planned at less than 40 hours for the week. It's a full-time
+position that we are looking to fill. 
+
+In your response, please particularly provide your experience with Perl as
+well as any example scripts that you have which you've written that provide
+a good indication of your coding skills.
+
+We are looking for a long term arrangement with the right developer(s).
+
+If you have any questions around the position please feel free to ask.
+
+Thank you for your time. 
+
+Regards,
+Robin
+
+Required skills:
+**Strong programming skills in object-oriented Perl - this is the most
+important thing. If you are not a strong perl coder, this position isn't
+for you**
+
+- At least 3-4 years of solid experience developing web applications,
+preferably in Perl.
+- Ability and willingness to learn new skills
+- Demonstrated technical troubleshooting, deployment and application
+performance tuning experience
+- Experience in a high-volume production service environment
+- Ability to work well with other people and
+- Superior analytical skills and a strong sense of ownership in your work
+and an enjoyment of producing great results
+- Experience with MySQL, relational databases, indexing and creation/
+management of stored procedures
+
+Desired skills:
+- Previous experience with Varnish caching servers
+- Experience or exposure to SOLR, Lucene or related systems
+- Expertise in Unix or Linux system administration
+- Other HTML, XML, Web UI toolkits (jQuery particularly) and CSS experience
+
+Contact information at:
+http://jobs.perl.org/job/16476#contact

@@ -1,0 +1,103 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11466
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8795 invoked from network); 12 Jul 2011 07:13:59 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 12 Jul 2011 07:13:59 -0000
+Received: (qmail 4292 invoked by uid 225); 12 Jul 2011 07:13:59 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 4288 invoked by alias); 12 Jul 2011 07:13:58 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 12 Jul 2011 00:13:56 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id F125B2AFD6; Tue, 12 Jul 2011 00:13:52 -0700 (PDT)
+To: jobs@perl.org
+Date: Tue, 12 Jul 2011 00:13:52 -0700
+Message-ID: <20110712071352.F125B2AFD6@x3.develooper.com>
+Subject: Perl Software Developer (onsite), United States, Massachusetts,
+ Cambridge
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14462
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 12, 2011
+
+Job title: Perl Software Developer
+
+Company name: CIDC
+
+Location: United States, Massachusetts, Cambridge
+
+Pay rate: DOE, very competative
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Duties and Responsibilities
+ 
+This position will contribute to the development of critical applications
+for our affiliate marketing program and player acquisition and retention.
+This position focuses mainly on the back end of our web applications but is
+involved in the entire stack. This position is on a team using an Agile
+development approach, where you will work closely with a Product Owner, and
+software engineering tasks are broken out and assigned by the members of
+the team. The team participates in regular reviews with stakeholders and is
+involved in the complete software development life.
+ 
+Responsibilities include:
+
+    * Developing new features and maintaining existing functionality on a
+variety of Perl web applications, both internal and customer facing
+    * Writing unit and integration tests, both front and back-end
+    * Participating in story-boarding, planning software development tasks
+and estimating work
+    * Maintaining system frameworks, configuration tools, and installation
+utilities to ensure stability and to improve release and distribution
+    * Participate in research, technical discussions and prototype
+development experiments
+
+The bulk of the work for this position is in Perl, with some SQL, HTML and
+JavaScript depending on your role and skills. We will consider skilled,
+productive developers with experience doing similar work in another dynamic
+language with an interest in learning Perl.
+
+We have three open positions and are interested in a range of skills and
+experience levels, from entry to senior. We want smart people interested in
+solving problems, getting work done and having fun.
+
+Required skills:
+    * Developing large-scale web applications involving Perl, Apache and
+Database tools in a Linux environment
+    * Object-oriented problem decomposition and programming, preferably
+using Moose
+    * A proven self starter that is standards and best practices driven
+    * Test-driven development
+    * Solid analytical and problem-solving skills
+    * Effective communication and organizational skills
+
+
+Desired skills:
+    * Experience with SQL a plus
+    * Experience with HTML and JavaScript a plus
+    * Knowledge of financial applications a plus
+    * Knowledge of  internationalization and localization a plus
+
+Website for more information: http://jobvite.com/m?3mxZ5fwH
+
+Contact information at:
+http://jobs.perl.org/job/14462#contact

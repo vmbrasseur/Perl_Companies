@@ -1,0 +1,131 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11459
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 7940 invoked from network); 12 Jul 2011 07:12:03 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 12 Jul 2011 07:12:03 -0000
+Received: (qmail 4069 invoked by uid 225); 12 Jul 2011 07:12:03 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 4063 invoked by alias); 12 Jul 2011 07:12:03 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 12 Jul 2011 00:12:00 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 19AE62AFD6; Tue, 12 Jul 2011 00:11:56 -0700 (PDT)
+To: jobs@perl.org
+Date: Tue, 12 Jul 2011 00:11:56 -0700
+Message-ID: <20110712071157.19AE62AFD6@x3.develooper.com>
+Subject: Lead Engineer - modperl/LAMP/jQuery/python (onsite), United States,
+ Washington, Seattle
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14428
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 12, 2011
+
+Job title: Lead Engineer - modperl/LAMP/jQuery/python
+
+Company name: Shiftboard
+
+Location: United States, Washington, Seattle
+
+Pay rate: DOE - Competitive
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+This is not a bureaucracy. We are seeking a technologically passionate,
+motivated engineer with significant real-world experience (in at least a
+few areas below) to dive in, head-first.
+
+If you want to build very new, relevant products used by a lot of people
+around the world, keep reading.
+
+We experiment with new techniques and technologies, and we think a lot
+about efficient mobile access. We implement exotic caching strategies, ship
+tools to various app exchanges, and work to automate all areas of
+administration. For customers, we have a solid, JSON-oriented API and we
+use it ourselves.  We do things like OpenID, virtualization, and at least
+some of us have fun squeezing the last bits of efficiency by doing client
+and server-side caching tricks. We build for Chrome, Firefox and webkit,
+but know that we must still respect IE 8.
+
+Sound interesting?  Experience matters: A qualified, software engineer will
+need to have at least 5 (if not 10 or more) years of experience working
+within open source-oriented web architectures.
+
+Above all else, the right engineer will have solid Unix shell, scripting,
+networking, and systems administration experience.
+
+If you have at least a few of the qualities listed below and are looking to
+join a tightly-focused team working on a highly engaging product serving
+hundreds of industries with millions of transactions around the world, this
+could be the perfect job.
+
+-------------
+Who are we
+-------------
+
+Shiftboard is an advanced, open source friendly Software as a Service
+company in Seattle that provides online scheduling, community and workforce
+management services to a diverse base of organizations around the world:
+Businesses, Non-profits, Events and Festivals, municipal/government,
+healthcare institutions, and call centers.
+
+Please check out http://www.shiftboard.com for case studies and more about
+what we are doing.
+
+Permanent positions at Shiftboard provide great long-term incentives
+including equity, commuter passes and a range of employee benefits.
+
+Compensation is competitive based on position and real-world experience.
+
+We have comfortable offices in downtown Seattle where most of our work is
+takes place - whiteboard, etc.
+
+Working from home or telecommuting is sometimes possible, but this is not a
+telecommuting position.
+
+Required skills:
+Must have solid open-source experience including many of the following:
+
+ - perl/modperl and/or python: Apache, handlers, performance
+ - mysql,postgres: database design/replication/segmentation strategies
+ - scaling, segmentation, networking and/or distributed filesystems
+ - caching technologies, memcached, couchdb/couchbase
+ - one or more Linux/bsd/unix flavors and SVN/Git.
+ - web services: JSON-RPC, REST, Security, Sessions, Metrics
+ - virtualization experience is desirable.
+ - solid grasp of front end technologies (DOM/DHTML/JS/AJAX/JQuery)
+ - interest, willingness to research and utilize multiple technologies and
+software
+   languages to deliver high-availability platform for
+mobile/iPhone/android, APIs.
+
+Desired skills:
+ - Experience with automated testing using tools such as Selenium
+ - Large-Scale Development/Operations Management, Analysis
+ - Efficient client-side/browser development
+ - Computer Science/Masters-Level (or Equivalent!)
+ - API Development: test tool design and development
+ - Mobile platforms: Interface design, test tools and development
+ - Python/Django, ReportLab experience
+
+Website for more information: http://www.shiftboard.com/
+
+Contact information at:
+http://jobs.perl.org/job/14428#contact

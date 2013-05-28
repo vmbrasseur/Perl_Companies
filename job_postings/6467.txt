@@ -1,0 +1,88 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6467
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 17187 invoked from network); 18 Jun 2007 19:56:38 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 18 Jun 2007 19:56:38 -0000
+Received: (qmail 4500 invoked by uid 225); 18 Jun 2007 19:56:38 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 4495 invoked by alias); 18 Jun 2007 19:56:37 -0000
+X-Spam-Status: No, hits=0.4 required=8.0
+	tests=BAYES_50,DKIM_POLICY_SIGNSOME,DK_POLICY_SIGNSOME,SPF_PASS,URI_HEX
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 18 Jun 2007 12:56:28 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 8BDBC2AFF4; Mon, 18 Jun 2007 12:56:25 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070618195625.8BDBC2AFF4@x3.develooper.com>
+Date: Mon, 18 Jun 2007 12:56:25 -0700 (PDT)
+Subject: Application Developer (onsite), United States, New Jersey, New Brunswick
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5844
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 18, 2007
+
+Job title: Application Developer
+
+Company name:
+Rutgers University Department of Continuing Education and Outreach
+
+Internal ID: 1235RUNJ
+
+Location: United States, New Jersey, New Brunswick
+
+Pay rate: 52-65K, commensurate with experience
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Length of employment: permanent
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Reports to the Consulting System Administrator. Is responsible for the
+applications and application security in the DCEO Technology Environment
+and the communication process with external vendors and partners. Is
+responsible for servicing the needs for applications and tools for all
+university staff; continuous education faculty, staff, and students; and
+third party tools that use the infrastructure. Users number more than 500
+active faculty and more than 90,000 students per year. The technology
+environment includes multiple database systems and MySQL, PostgresSQL, and
+MS SQL servers. The applications must talk to the databases in the
+environment and reach out to internal and external data sources, which
+requires integration with external Oracle, MySQL, PostgreSQL data sources.
+The major applications in this area are the Continuous Education
+Registration System, eCollege fulfillment services, Continuous Education
+Data Warehouse, Departmental Interactive Course Editing System, and
+Off-Campus Budget Database. 
+
+Required skills:
+Perl scripting experience is essential to this position.  Applicants must
+be proficient in Catalyst dispatch systems, understand
+Model/View/Controller design, Class::DBI, Template Toolkit, CPAN, PIP,
+Subversion, and have solid SQL and relational database knowledge. Other
+skills/knowledge should include Perl modules, HTML/CSS/Javascript fluency,
+XML, Linux, MySQL and PostgreSQL. Applicants must be self-motivated problem
+solvers with excellent written and oral communication skills.
+
+URL for more information: http://ce1766.rutgers.edu/
+
+Contact information at:
+http://jobs.perl.org/job/5844#contact
+
+

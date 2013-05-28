@@ -1,0 +1,74 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12696
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 26615 invoked from network); 27 Aug 2012 23:35:43 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 27 Aug 2012 23:35:43 -0000
+Received: (qmail 8539 invoked by uid 225); 27 Aug 2012 23:35:43 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 8533 invoked by alias); 27 Aug 2012 23:35:42 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 27 Aug 2012 16:35:40 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id AF8902AFDF; Mon, 27 Aug 2012 16:35:36 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 27 Aug 2012 16:35:36 -0700
+Message-ID: <20120827233536.AF8902AFDF@x3.develooper.com>
+Subject: Web Developer (telecommute), Wheaton, IL
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16390
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 27, 2012
+
+Job title: Web Developer
+
+Company name: Highgate Cross+Cathey, LTD
+
+Location: Wheaton, IL
+
+Pay rate: $25-50/hour
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+Developer for Web applications that primarily interact with MySQL databases
+for creating typical BREAD and ecommerce environments. You would use
+established company frameworks and tools to shorten development cycles and
+standardize practices, styles, and behaviors.  
+
+We work under set budgets and deadlines for end-user clients.
+
+Required skills:
+Perl, obviously, and competency with CGI::Application, it's plugins,
+HTML::Template, and other popular CPAN modules, MySQL and it's query
+language including typical selects and joins. Familiar and comfortable on
+the command line of MySQL and of Linux with knowledge of basic and
+intermediate functions.
+
+Desired skills:
+We welcome creative thinking and anything that will add value to what we
+are offering our customer.
+
+Vigilant about online security.
+
+Website for more information: http://www.highgatecross.com
+
+Contact information at:
+http://jobs.perl.org/job/16390#contact

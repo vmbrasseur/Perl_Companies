@@ -1,0 +1,79 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5253
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 7204 invoked from network); 8 Nov 2006 17:04:39 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 8 Nov 2006 17:04:39 -0000
+Received: (qmail 12745 invoked by uid 225); 8 Nov 2006 17:04:38 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 12728 invoked by alias); 8 Nov 2006 17:04:37 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_05
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 08 Nov 2006 09:04:29 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 6A5652AFE9; Wed,  8 Nov 2006 09:03:59 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20061108170359.6A5652AFE9@x3.develooper.com>
+Date: Wed,  8 Nov 2006 09:03:59 -0800 (PST)
+Subject: mod-perl/DBI programmer for CMS (part onsite), Canada, Quebec, Montreal
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4925
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November  8, 2006
+
+Job title: mod-perl/DBI programmer for CMS
+
+Company name: Zone-Office
+
+Location: Canada, Quebec, Montreal
+
+Pay rate: project-based
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Flexible
+
+Onsite: some
+
+Description:
+Je cherche un programmeur Perl/mod_perl pour reprendre un développement
+d'un CMS propriétaire afin de finaliser la V2 du logiciel, lu but à moyen
+terme est de faire migrer la solution de gestion de contenu vers un bureau
+virtuel complet, avec gestion de document, de fichier ainsi que d'y inclure
+des fonctions de CRM. La personne devra être capable de développer un
+cahier des charges techniques de la solution
+
+Required skills:
+linux
+perl (orienté objet)
+perl:DBI
+perl:GD
+mysql
+apache
+javascript - Ajax
+DOM
+xml
+html
+xhtml
+
+
+Desired skills:
+Beaucoup d'humour et capacité de conseille, capable de travailler sur un
+code déjà existant sans vouloir tout mettre à terre, pro actif
+
+Contact information at:
+http://jobs.perl.org/job/4925#contact
+
+

@@ -1,0 +1,80 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:992
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 65841 invoked by uid 1016); 1 Aug 2003 19:50:40 -0000
+Date: 1 Aug 2003 19:50:39 -0000
+Message-ID: <20030801195039.65840.qmail@onion.perl.org>
+To: jobs@perl.org
+Subject: Identity Management architect/engineer, United States, NJ, Bedminster
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/600
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August  1, 2003
+
+Job title: Identity Management architect/engineer
+
+Company name: Entology, Inc.
+
+Internal ID: 005
+
+Location: United States, NJ, Bedminster
+
+Pay rate: flexible
+
+Travel: 25-50%
+
+Terms of employment: Salaried employee
+
+Length of employment: permanent
+
+Hours: Full time
+
+Description:
+We're looking for a smart, flexible generalist with specific experience in
+designing and working with directories (LDAP in general, replication,
+schema/DIT, etc.), network authentication and web single sign-on (SSO and
+policy tools, PKI, krb5), and metadirectory tech.  To this end a strong
+knowledge of Perl for interacting with directory services and porting and
+analyzing data is essential.
+
+The work: From high-level presentation and strategy to hands-on
+implementation and problem solving.  We're a small but growing team, so you
+should be comfortable working directly with clients, tackling technical
+problems, designing an implementation plan, and the other responsibilities
+of the self-sufficient, patient IM expert.
+
+Required skills:
+Perl, of course.
+LDAP and directory fundamentals.
+Some combination of iPlanet DS, Secureway/IBM DS, openldap
+Good general networking knowledge - TCP/IP, UDP, HTTP(S), DNS.
+A foundation in 2000/NT4 and at least one UNIX-like operating system.
+_Very_ strong writing ability in English.
+
+Desired skills:
+Metadirectory (any).
+Perl CGI; Net::LDAP; Mozilla LDAP.  Perhaps ADSI.
+SiteMinder, Oblix, et al.
+High-availability and load-balancing solutions.
+Development with Java (JNDI), C(++), and other languages would be a plus,
+and/or application-server experience.
+Presentation skills.
+
+URL for more information: http://www.entology.com/
+
+Contact information:
+Carissa Palmieri
+908-333-2331
+fax 908-333-2345
+cpalmieri@entology.com
+
+

@@ -1,0 +1,137 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:1042
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 47753 invoked by uid 1016); 26 Aug 2003 00:02:29 -0000
+Date: 26 Aug 2003 00:02:29 -0000
+Message-ID: <20030826000229.47752.qmail@onion.perl.org>
+To: jobs@perl.org
+Subject: PerlBill Modifications (telecommute), United States, CA, El Granada
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/930
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 25, 2003
+
+Job title: PerlBill Modifications
+
+Location: United States, CA, El Granada
+
+Pay rate: $100-$300
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: Length of Project
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+Extremely URGENT!!!
+
+========================
+Recode of billing system
+++++++++++++++++++++++++
+
+
+
+1. Existing authorize.net section needs rebuild.
+a. Failed invoices need line added to the admin of the reason that
+they failed.
+b. Possible Domain name additional field passed in to Authorize.net
+for authoeize.net receipts to customer
+
+
+
+2. PayPal and 2checkout need integration and callbacks need to update
+pending invoices to paid status. 
+
+
+
+Existing pending 2checkout and Paypal invoices marked as pending are
+added to a queue geared for authorize.net when they should be a seperate
+module. 
+
+
+
+Paypal needs subscriptions set up on the fly, with callbacks updating
+the database every time the subscription cycles.
+
+
+
+3. Automatic Forum logins.
+
+
+
+4. Some plans come with a free domain name. These plans need validation.If
+a customer requests a free domain, let them continue the transaction,then
+auto reply that their plan doesn't come with a domain. This needs a delay
+of 10 minutes if possible, and also an editable text file with variables
+for {domain ordered} {planordered} {first name} 
+
+
+
+5. Domain registration done from the admin section for approved
+domainnames. Checkbox to register the domain under the same details left
+for hosting or can fill out a sperate form for the domain registration
+under a different name.
+
+
+
+API documents will be included.Existing user area needs are for DNS
+updtaes 
+added that will talk to the same API
+
+
+
+6. Automatic email reminders of domains that will be expiring on 30, 15
+and 0 days till expiration. Copy to admin and end-users email on file,
+Script validates the end user email address and 
+notifys admin of any bounce of attempt to notify end user.
+
+
+
+7. Customer login area needs place for customer to update their credit
+card information to their accounts. 
+
+
+
+8. Existing affiliate system needs a web based signup form for would-be
+affiliates.
+
+
+
+9. Existing reminder system sends only one reminder of overdue/failed
+invoices. It needs to send indefinate reminders until the invoice is
+marked as paid
+
+
+
+10. Server name needs added to the account that the domain has been
+assigned to.
+
+
+
+11. Active server module needs recoded so upun approval the admin
+canspecify the server to add the domain to.
+=========================
+
+
+Required skills: Perl
+
+Contact information:
+E-Mail:  kensandell@comcast.net
+AIM:  ksandelll
+MSN:  kensandell@hotmail.com
+
+

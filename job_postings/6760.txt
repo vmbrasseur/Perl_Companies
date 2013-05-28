@@ -1,0 +1,119 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6760
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 25146 invoked from network); 8 Aug 2007 20:31:22 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 8 Aug 2007 20:31:22 -0000
+Received: (qmail 18890 invoked by uid 225); 8 Aug 2007 20:31:22 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 18886 invoked by alias); 8 Aug 2007 20:31:22 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,DKIM_POLICY_SIGNSOME,DK_POLICY_SIGNSOME,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 08 Aug 2007 13:29:07 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 310782AFDA; Wed,  8 Aug 2007 13:29:02 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070808202902.310782AFDA@x3.develooper.com>
+Date: Wed,  8 Aug 2007 13:29:02 -0700 (PDT)
+Subject: Senior Perl Developer (onsite), United States, MA, Boston
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/6397
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August  8, 2007
+
+Job title: Senior Perl Developer
+
+Company name: Shoebuy.com, Inc.
+
+Location: United States, MA, Boston
+
+Pay rate: Based on experience
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Shoebuy.com, Inc., located in the Boston Financial District, seeks a Senior
+Perl Developer who will thrive on working with a focused leader in the
+business-to-consumer space; has technical skills and development
+experience; and will be quick, motivated, and direct in finding the right
+solutions and building upon existing ones to increase the speed of delivery
+already achieved.
+
+Shoebuy.com (http://www.shoebuy.com) already has significant presence
+online; is one of the most heavily visited Internet sites in the world; and
+is owned by IAC (Nasdaq: IACI), the same company that owns many of the most
+successful online companies, including Ticketmaster, Lendingtree, Evite,
+Match.com, and Ask.com.
+
+Responsibilities:
+- Work closely with project managers and the development team to implement
+new features and functionality, encompassing both web-based and backend
+scripts.
+- Revise, refactor, and maintain existing code with an emphasis on
+improving performance, security, and readability.
+- Collaborate with user interface and graphic designers to apply appealing
+and intuitive front-ends to Perl, web-based functionality. 
+- Aid in the creation of clear and carefully planned specifications that
+address all business requirements, user interfaces, process flow,
+performance, and scalability.
+- Participate in all stages of the development life-cycle including
+architecture, design, implementation, and unit testing.
+- Recommend and implement new open source frameworks, toolkits, modules,
+development processes, standards or related material with the ability to
+mentor other developers in these areas.
+
+
+Required skills:
+- Bachelor's degree CS/Engineering or related field.
+- 5+ yrs. developing Perl-based web applications and scripts, running in a
+UNIX environment.
+- 3+ yrs. experience with Apache web server, Perl interoperability, and
+associated communication nuances (CGI, FastCGI, mod_perl).
+- 5+ yrs. SQL experience (Oracle 8+ preferred) including efficient query
+writing, prepared statements, and database access with DBD/DBI.
+- 2+ yrs. UNIX shell experience (Solaris preferred).
+- Thorough understanding of object-oriented design concepts, and
+Model-View-Controller (MVC) paradigm, and experience building reusable
+modules.
+- Strong understanding of HTML 4.0/XHTML 1.0, CSS 2.1+, DHTML, and
+JavaScript.
+- Experience with version control software including CVS, SVN, or Git.
+- Proven experience as a team leader and self-starter, possessing excellent
+technical and organizational skills.
+- Possess the ability to manage time, meet sensitive deadlines, and assume
+ownership of responsibilities. 
+
+
+Desired skills:
+- Experience with AJAX and Web 2.0 technologies.
+- Knowledge of Web Services technologies (XML-RPC, SOAP, WSDL, REST).
+- Proven experiencing designing and implementing robust, secure e-commerce
+functionality such as shopping carts, session management (login/logout),
+checkout, payment, etc.
+
+
+URL for more information:
+http://www.shoebuy.com/contact/employment.jsp
+
+Contact information at:
+http://jobs.perl.org/job/6397#contact
+
+

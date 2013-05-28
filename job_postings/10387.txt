@@ -1,0 +1,123 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10387
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 6273 invoked from network); 30 Jul 2010 06:01:47 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 30 Jul 2010 06:01:47 -0000
+Received: (qmail 28476 invoked by uid 225); 30 Jul 2010 06:01:46 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 28472 invoked by alias); 30 Jul 2010 06:01:46 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 29 Jul 2010 23:01:45 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id BC6982AFD3; Thu, 29 Jul 2010 23:01:41 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20100730060141.BC6982AFD3@x3.develooper.com>
+Date: Thu, 29 Jul 2010 23:01:41 -0700 (PDT)
+Subject: Perl/mod_perl web developer (onsite), United States, CA, Berkeley
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/12634
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 29, 2010
+
+Job title: Perl/mod_perl web developer
+
+Company name: bepress
+
+Internal ID: SE2010
+
+Location: United States, CA, Berkeley
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: indefinite
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The Berkeley Electronic Press (www.bepress.com) provides cutting-edge,
+Web-based solutions for the academic and scholarly community. We have a
+number of products and services, including 42 (and counting) high-quality
+peer-reviewed journals, as well as the world's leading hosted institutional
+repository service -- "Digital Commons".
+
+We are a successful Berkeley-based company with 50+ employees.	We have a
+collaborative environment where technical and non-technical colleagues work
+together to create great software, serve our customers and steer the future
+of academic publishing and scholarly communications.
+
+We are currently looking for an experienced applications developer with
+significant Perl experience that can help bring our products to the next
+level.	You'll be involved in making architectural decisions, putting new
+systems and protocols in place, implementing new and exciting dynamic
+in-page workflow using JavaScript and Perl as well as owning significant
+pieces of the existing platform.  
+
+Your primary responsibility will be user facing tools but as a key member
+of the team you will also regularly work on the core services platform.
+This means that you should be well-rounded and ready to debug JavaScript in
+Firebug, develop complex CGI apps in Perl, build highly dynamic user
+interfaces in JavaScript as well as knowing your way around the command
+line and being able to jump in and help during emergencies, often in the
+same day.
+
+Required skills:
+4+ years Perl experience 
+
+Minimum of 4 years proven software development experience with at least 2
+developing high traffic web applications. Preference for experience in a
+LAMP environment. 
+
+Demonstrated experience in developing software in a web application
+environment. 
+
+Significant experience developing web applications using Perl and Linux.
+Mod_perl a plus. 
+
+Experience with SQL, preferably in a Postgres environment. 
+
+Understanding of deployment issues in a multi-tiered/multi-tenant hosted
+environment. 
+
+Ability to code in JavaScript. 
+
+Ability to code in at least one additional language from the following
+list: Java, Python, PHP, C, C++, .Net, C#, Ruby. 
+
+Experience with CSS/HTML (in order to support client side developers, not
+as a primary client side developer) 
+
+Experience with object oriented programming, MVC and multi-tiered
+architectures. 
+
+Experience with CVS and SVN. 
+
+Effective technical communication skills 
+
+Willingness to join the on-call rotation. 
+
+Comfort using vi, emacs, or other non-IDE editing tools and general comfort
+at the command line. 
+
+CS Degree 
+
+Contact information at:
+http://jobs.perl.org/job/12634#contact
+
+

@@ -1,0 +1,105 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8246
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 19086 invoked from network); 5 Jun 2008 01:26:59 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 5 Jun 2008 01:26:59 -0000
+Received: (qmail 21554 invoked by uid 225); 5 Jun 2008 01:26:59 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 21550 invoked by alias); 5 Jun 2008 01:26:58 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 04 Jun 2008 18:26:56 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id E3D6F2AFF3; Wed,  4 Jun 2008 18:26:52 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080605012652.E3D6F2AFF3@x3.develooper.com>
+Date: Wed,  4 Jun 2008 18:26:52 -0700 (PDT)
+Subject: Experienced Web Developer for Perl/MySQL custom CMS. No Gantt Charts on this project! (telecommute), United Kingdom, not given
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8872
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June  4, 2008
+
+Job title:
+Experienced Web Developer for Perl/MySQL custom CMS. No Gantt Charts on
+this project!
+
+Company name: n/a
+
+Internal ID: n/a
+
+Location: United Kingdom, not given
+
+Pay rate: negotiable
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: initially 2/3 months
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+Technically, this is a classic CMS upgrade gig - you'll need to get to
+grips with an existing custom Perl and MySQL powered CMS, build in new
+functionality, along with optimising the existing codebase where necessary.
+The application is focused around the delivery of online assessments to
+thousands of users at a time.
+
+The site is heavily templated, with existing visual designs, and along with
+excellent Perl and MySQL skills, you'll need a decent grasp of css, html
+and in particular javascript, so classic web developer territory. 
+
+Project wise, This will be a fixed deliverable project initially, but my
+client base for this application is rapidly expanding, so there's the
+opportunity for continuing development work on the application.
+
+You'll work directly with me, the business owner, where we'll spec out
+functionality together and build in an iterative process. No heavy project
+management stuff, just good old coding and problem solving.
+
+While experience and skill is important, I'm particularly looking for
+someone who is very comfortable with loose specs, a loose project style and
+can take the lead on this project and make it their own.
+
+You'll need to be superbly self-organised, and be the sort of person that
+tends to find themselves managing clients, not the other way around!
+
+If you like pre-existing detailed specs, absolute deadlines, and detailed
+task-led projects up front, this won't be the gig for you! 
+
+However, if you can turn a set of conversations, a 'poke around' at a
+codebase, and some visual sketches into a detailed spec, sets of tasks and
+work to a self-imposed deadline, then this project is *definitely* for you!
+
+Required skills:
+Experienced Web Development skillset: a high level of experience with Perl,
+MySQL, DBI, Apache config, Javascript, general Unix (Debian preferred) *nix
+chops to manage deployments etc.
+
+Desired skills:
+I'd expect you to have several years experience of working with custom
+CMSs. 
+
+As I'm looking for the classic 'self starter', CPAN contributions, or
+similar code contributions will be of interest.
+
+Contact information at:
+http://jobs.perl.org/job/8872#contact
+
+

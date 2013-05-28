@@ -1,0 +1,88 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7932
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13816 invoked from network); 4 Apr 2008 15:15:07 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 4 Apr 2008 15:15:07 -0000
+Received: (qmail 21554 invoked by uid 225); 4 Apr 2008 15:15:07 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 21549 invoked by alias); 4 Apr 2008 15:15:06 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 04 Apr 2008 08:15:02 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 6C8682AFCB; Fri,  4 Apr 2008 08:14:59 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080404151459.6C8682AFCB@x3.develooper.com>
+Date: Fri,  4 Apr 2008 08:14:59 -0700 (PDT)
+Subject: Senior Computer Programmer (onsite), United Kingdom, Cambridge
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8346
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April  4, 2008
+
+Job title: Senior Computer Programmer
+
+Company name: The Wellcome Trust Sanger Institute
+
+Internal ID: PERL1600
+
+Location: United Kingdom, Cambridge
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: 3 year fixed term contract
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The Wellcome Trust Sanger Institute uses large-scale sequencing,
+informatics and analysis of genetic variation to understand gene function
+in health and disease and to generate resources of lasting value.
+
+
+Required skills:
+Pfam (http://pfam.sanger.ac.uk) is a world leading protein families
+database and its use in the scientific community is widespread.  The deluge
+of genomic and metagenomics sequencing data has resulted in a substantial
+increase in available data that needs to be annotated and made available to
+the community.
+
+Desired skills:
+The position involves expanding and developing the range of web services
+provided by the Pfam database, particularly using DAS.	In particular the
+role will develop a platform for integrating these web services to empower
+novel approaches to protein bioinformatics.
+The successful candidate should have a degree in a biological science with
+relevant experience in the field of Bioinformatics, be computer literate in
+a unix environment and have an excellent knowledge of database design and
+optimisation (preferably in MySQL), programming skills and Perl and OO
+Perl, XML, XSD, Javascript, AJAX, Experience in web services, particularly
+RESTful and/or DAS and understand the principles of web security.
+
+Knowledge of standard bioinformatics tools, production software
+development, ontologies, Catalyst and DBIx::Class  and protein biochemistry
+are desirable, but not essential. 
+
+
+URL for more information: http://www.sanger.ac.uk/Teams/Team120/
+
+Contact information at:
+http://jobs.perl.org/job/8346#contact
+
+

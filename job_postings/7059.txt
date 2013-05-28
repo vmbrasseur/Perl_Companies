@@ -1,0 +1,103 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7059
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 32416 invoked from network); 4 Oct 2007 15:25:13 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 4 Oct 2007 15:25:13 -0000
+Received: (qmail 24552 invoked by uid 225); 4 Oct 2007 15:25:12 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 24540 invoked by alias); 4 Oct 2007 15:25:12 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 04 Oct 2007 08:25:00 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 447D32AFEA; Thu,  4 Oct 2007 08:24:57 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20071004152457.447D32AFEA@x3.develooper.com>
+Date: Thu,  4 Oct 2007 08:24:57 -0700 (PDT)
+Subject: Perl Web developer for health-focused startup (onsite), United States, Virginia, McLean
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/6905
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October  3, 2007
+
+Job title:
+Perl Web developer for health-focused startup
+
+Company name: Inspire
+
+Location: United States, Virginia, McLean
+
+Pay rate: TBD
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+#!/usr/bin/perl -wT
+use strict;
+use warnings;
+
+You: Perl developer with a positive, can-do attitude. You're a quick study,
+love problem solving and want to build systems that help people.
+
+Us: Two-year-old company building online communities to help people find
+health and wellness support. Our motto, "Together We're Better," keeps us
+focused on building a product we're proud of.
+
+Join us and help inspire the lives of your friends, family and people
+around the world.
+
+Skills:
+
+- Perl programming (comprehensive, including objects)
+- Web coding (XHTML, W3C DOM)
+- Apache (configuration, session management, mod_perl, mod_ssl)
+- MySQL
+- Debian system administration
+- Demonstrated ability to build accessible, usable, standards-compliant Web
+sites
+- Understanding of security principles (Web/Database server, network, end
+user privacy/security)
+- Bonus points if there's a copy of Perl Best Practices on your desk
+- Double bonus points for experience with BIND9, BigIP, LVM, Xen, SNMP,
+LDAP
+
+Benefits:
+
+- Competitive salary
+- Health insurance
+- Stock
+- Talented, creative co-workers (if we must say so ourselves)
+- Work for a company where you're helping the people you care about
+
+This is a full-time, staff position in the Washington, DC area (McLean to
+be precise). To be considered, send the following to jobs@inspire.com:
+
+- Resume
+- Portfolio and description of your work
+
+We look forward to hearing from you.
+
+URL for more information: http://www.inspire.com/
+
+Contact information at:
+http://jobs.perl.org/job/6905#contact
+
+

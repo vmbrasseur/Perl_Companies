@@ -1,0 +1,116 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5250
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 4526 invoked from network); 7 Nov 2006 19:29:33 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 7 Nov 2006 19:29:33 -0000
+Received: (qmail 15805 invoked by uid 225); 7 Nov 2006 19:29:33 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 15798 invoked by alias); 7 Nov 2006 19:29:32 -0000
+X-Spam-Status: No, hits=-1.8 required=8.0
+	tests=ALL_TRUSTED,BAYES_50
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 07 Nov 2006 11:29:21 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id A3E1D2AFE5; Tue,  7 Nov 2006 11:28:55 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20061107192855.A3E1D2AFE5@x3.develooper.com>
+Date: Tue,  7 Nov 2006 11:28:55 -0800 (PST)
+Subject: Freelance PERL programmers for web development (LAMP) (telecommute), Spain, Barcelona
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4912
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November  7, 2006
+
+Job title:
+Freelance PERL programmers for web development (LAMP)
+
+Company name: iAgora
+
+Internal ID: PerlFreelance
+
+Location: Spain, Barcelona
+
+Pay rate: 10-30$/hour
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Part time
+
+Onsite: no
+
+Description:
+
+We are currently seekin Perl programmers to complete a small project within
+the 'www.iagora.com' website. The budget for this project is 500 Euros and
+the project should take less than 20 hours for completion. We expect bids
+varying in number of hours required and total cost. 
+
+We will retain the best bids and assess the quality of the programming to
+turn it into an on-going, long-term participation in the maintainance and
+further development of the website.
+
+iAgora.com is a large website written in the LAMP (Linux-Apache-Mysql-Perl)
+platform, using an open-source templating system running on
+Apache/mod_perl. ( http://www.iagora.com/about/software/iact/index.html). 
+Our main service is providing listings of job offers for students and
+recent graduates.
+
+We will select a freelancer by the end of next week and will need to get
+the project completed the week after. If you are interested please read the
+below and send us your proposal as soon as you can, mentionning:
+- Total cost
+- Number of hours required (our estimate is around 20 hours)
+- Whether you will be able to complete the task during the week of Nov,
+13th.
+
+Project description:
+
+To create a system of pre-paid Premium codes, which users can enter to
+access our Premium services. This ties into an existing system of Affiliate
+management.  Each code can be: new, used or revoked.
+
+The operator forms allow the following actions:
+ - Generate a new batch of codes.  All the codes in a batch share the
+fields:
+   + Start date and expiration date
+   + Which affiliate (if any) these codes are related to
+   + Length of time
+ - Show existing batches of codes, and their statuses
+ - Revoke unused codes in a batch
+
+Entering a Premium Code will be an additional option in our payment page.
+The code will be validated (vs. start date, expiration and new/used/revoked
+status), and if ok, the user will be given a Premium subscription for the
+right length of time, and will be associated with the right Affiliate.
+
+To be able to work on this, you will need to install a working development
+environment for iAgora on a Linux x86 PC.  Detailed instructions will be
+provided for this.  You will be supervised by our main programmer (
+http://www.iagora.com/~espel/index.html).
+
+
+Required skills:
+- Strong skills in Linux/Apache/MySQL/mod_perl web application development
+- Ability to learn and work with a large pre-existing codebase.
+
+
+URL for more information: http://www.iagora.com/
+
+Contact information at:
+http://jobs.perl.org/job/4912#contact
+
+

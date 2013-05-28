@@ -1,0 +1,81 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10714
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8249 invoked from network); 10 Nov 2010 05:08:12 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 10 Nov 2010 05:08:12 -0000
+Received: (qmail 10611 invoked by uid 225); 10 Nov 2010 05:08:12 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 10512 invoked by alias); 10 Nov 2010 05:08:11 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS,T_FRT_PROFILE2
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 09 Nov 2010 21:08:09 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 82B2F2AFDA; Tue,  9 Nov 2010 21:08:06 -0800 (PST)
+To: jobs@perl.org
+Date: Tue, 9 Nov 2010 21:08:06 -0800
+Message-ID: <20101110050806.82B2F2AFDA@x3.develooper.com>
+Subject: Senior Perl Engineer (onsite), United States, CA, Los Angeles
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13198
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November  9, 2010
+
+Job title: Senior Perl Engineer
+
+Company name: Nami Media
+
+Location: United States, CA, Los Angeles
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Senior Software Engineer - Perl
+
+	We're looking for a very senior engineer to join our team of Perl
+programmers.  Work involves maintaining an extremely high-volume LAMP-based
+architecture serving billions of web requests per day relating to online
+advertising.  A range of experience from nuts-and-bolts solid architecture
+to intelligent applications systems is ideal.  Extremely high proficiency
+in Perl is required and will be tested for during the interview process. 
+We value a combination of speed and rigor.  Both an ability to architect
+effective solutions and engage in code archeology are useful.  Familiarity
+with online advertising systems is useful, but not required.
+	Most of the following ideas should be within your comfort zone:
+
+* Expert usage of Perl
+
+* Comfort working in a Linux environment
+
+* OOP
+
+* MVC
+
+* Web architecture such as mod_perl, MySQL usage, Memcached, FastMMap, etc.
+
+
+* Experience with statistics and algorithms
+
+* Profiling, tuning and optimization
+
+* Various parallelization strategies
+
+Website for more information: http://www.namimedia.com/
+
+Contact information at:
+http://jobs.perl.org/job/13198#contact

@@ -1,0 +1,93 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7068
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 22445 invoked from network); 5 Oct 2007 16:37:09 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 5 Oct 2007 16:37:09 -0000
+Received: (qmail 458 invoked by uid 225); 5 Oct 2007 16:37:09 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 454 invoked by alias); 5 Oct 2007 16:37:09 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 05 Oct 2007 09:36:56 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id D7F5F2AFE5; Fri,  5 Oct 2007 09:36:52 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20071005163652.D7F5F2AFE5@x3.develooper.com>
+Date: Fri,  5 Oct 2007 09:36:52 -0700 (PDT)
+Subject: Perl Developers/Software Release Engineers (Financial Firm) (onsite), United States, NY, New York
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/6919
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October  5, 2007
+
+Job title:
+Perl Developers/Software Release Engineers (Financial Firm)
+
+Company name: Pencom Systems Inc.
+
+Internal ID: AR071005
+
+Location: United States, NY, New York
+
+Pay rate: OPEN
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The Production Build and Release Team of our client, a major financial
+firm, is engaged in several major projects involving the management of
+source code, build
+systems, and the global software release cycle. They are seeking for Perl
+developers to work on new and exciting projects that will create the new
+architecture to manage their large-scale C/C++ code bases. These are more
+software engineering positions than as developers. 
+Candidates should be experienced Perl developers with knowledge of software
+configuration and build engineering to develop and support existing build
+and release environment, as well as engineer brand new infrastructure to
+support the next generation of software development lifecycle (SDLC) tools
+and processes. The successful candidates should have a desire to design and
+deploy serious Perl infrastructure in a large-scale industrial environment.
+
+Required skills:
+- Bachelor's Degree in Computer Science, Engineering or Related or
+Equivalent Experience 
+- 4+ years experience writing reusable Perl libraries 
+- Good working knowledge of C and C++, in particular the use and
+configuration of compilers and linkers 
+- An understanding of software design and architecture as well as the
+ability to render designs in code 
+- Experience with source control (e.g. CVS, Subversion) 
+- Experience with Unix platforms, especially Solaris, AIX, and Linux 
+- Excellent written and verbal communication skills 
+- Team player
+
+Desired skills:
+- Plus: Familiarity with the concept of physical design with refactoring
+large libraries, and with the basics of compiling and linking a large code
+base 
+- Object-oriented Perl 
+
+URL for more information: http://www.pencom.com/
+
+Contact information at:
+http://jobs.perl.org/job/6919#contact
+
+

@@ -1,0 +1,72 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11191
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 3767 invoked from network); 8 Apr 2011 00:47:10 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 8 Apr 2011 00:47:10 -0000
+Received: (qmail 17481 invoked by uid 225); 8 Apr 2011 00:47:10 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 17477 invoked by alias); 8 Apr 2011 00:47:09 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 07 Apr 2011 17:47:08 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 25DAC2AFE9; Thu,  7 Apr 2011 17:47:05 -0700 (PDT)
+To: jobs@perl.org
+Date: Thu, 7 Apr 2011 17:47:05 -0700
+Message-ID: <20110408004705.25DAC2AFE9@x3.develooper.com>
+Subject: Remote developer half time (telecommute)
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13982
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April  4, 2011
+
+Job title: Remote developer half time
+
+Pay rate: $1000/mo
+
+Terms of employment: Salaried employee
+
+Hours: Part time
+
+Onsite: no
+
+Description:
+I am looking for a developer willing to work remotely on a project. It has
+a complex code base and needs someone who can learn the existing code and
+take it over on an ongoing basis.
+
+The project requires knowledge of Class::DBI & Moose frameworks.  For a
+good programmer, it should not take more than a few days to master both.
+However, your knowledge of perl needs to be good enough to be able to
+figure it out. 
+
+Hours are completely flexible and the only requirement is results
+
+This project is ideal for an overseas developer. I speak Russian and do not
+mind time difference.
+
+Required skills:
+Perl, OOPerl
+Any ORM, such as Class::DBI, DBIx::Class, Rose::DB, etc
+mysql
+
+
+Desired skills:
+Moose
+Class::DBI
+
+
+Contact information at:
+http://jobs.perl.org/job/13982#contact

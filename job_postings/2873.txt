@@ -1,0 +1,106 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2873
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 12396 invoked from network); 17 Jun 2005 18:55:55 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 17 Jun 2005 18:55:55 -0000
+Received: (qmail 9677 invoked by uid 225); 17 Jun 2005 18:55:54 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 9671 invoked by alias); 17 Jun 2005 18:55:54 -0000
+X-Spam-Status: No, hits=3.0 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,RAZOR2_CF_RANGE_51_100,RAZOR2_CHECK,SUBJ_ILLEGAL_CHARS
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 17 Jun 2005 11:55:51 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j5HItn3V020520
+	for <jobs@perl.org>; Fri, 17 Jun 2005 11:55:49 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j5HItnfx020518;
+	Fri, 17 Jun 2005 11:55:49 -0700
+Date: Fri, 17 Jun 2005 11:55:49 -0700
+Message-ID: <200506171855.j5HItnfx020518@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Programmer (onsite), Canada, Québec, Montréal
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2753
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 17, 2005
+
+Job title: Programmer
+
+Company name: Look Communications
+
+Location: Canada, Québec, Montréal
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: permanent
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+•	Develop software/prototypes (coding, testing and software
+documentation)	
+•	Prepare tested data and methodologies used
+•	Interpret systems requirements and define systems procedures
+•	Define and develop systems plans, models and solutions
+•	Communicate with users and other departments
+•	Monitor the progress and quality of the work 
+•	Plan, establish the schedule and review the systems implementation
+•	Review and recommend systems improvements and verification tools
+•	Work closely with the other department members to identify the
+company’s information technology needs and ensure that their needs are met
+•	Establish testing standards 
+•	Support the Projects managers by co-ordinating testing for users
+•	Develop users manuals and training materials 
+
+
+Required skills:
+•	Advanced/mastered Perl 5 programming,  especially OO, web/CGI, and
+utilizing CPAN
+•	Strong experience writing raw and standard-protocol-based TCP/IP
+clients + servers
+•	Extremely strong unix experience (Security, software, services,
+access control, automation & provisioning)
+•	Extremely strong web CGI interface experience, especially
+code/content separation
+•	Extremely strong knowledge of web languages (HTML, XHTML, CSS,
+JavaScript, XML)
+•	Strong SQL skills
+•	Good C and C++ skills
+•	Bilingual (verbal and written)
+
+
+Desired skills:
+•	3 to 5 years of Delphi programming and VB
+•	Experience with LDAP
+•	Experience with Portal Infranet software
+•	Publicly reviewable open source contributions
+•	Familiarity with the Net::EasyTCP and CGI::Framework perl modules
+•	Open to lean new technologies
+•	Familiar with MS Project and Visio
+•	Work well under stress
+
+
+URL for more information: http://www.look.ca/
+
+Contact information at:
+http://jobs.perl.org/job/2753#contact
+
+

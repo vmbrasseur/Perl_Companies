@@ -1,0 +1,103 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8738
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 29095 invoked from network); 9 Oct 2008 23:44:17 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 9 Oct 2008 23:44:17 -0000
+Received: (qmail 10094 invoked by uid 225); 9 Oct 2008 23:44:17 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 10090 invoked by alias); 9 Oct 2008 23:44:16 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 09 Oct 2008 16:44:13 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id D9F932AFE4; Thu,  9 Oct 2008 16:44:09 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20081009234409.D9F932AFE4@x3.develooper.com>
+Date: Thu,  9 Oct 2008 16:44:09 -0700 (PDT)
+Subject: Object Oriented Perl Software Developer (onsite), United States, MA, Maynard
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/9748
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October  9, 2008
+
+Job title: Object Oriented Perl Software Developer
+
+Company name: IBA Software Technologies
+
+Internal ID: 2103
+
+Location: United States, MA, Maynard
+
+Pay rate: 100,000
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: Permanent
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We have exciting Software Engineering opportunities in our client's
+headquarters in MASS.
+
+Seeking: a creative and talented Software developer with object oriented
+coding skills to join our small dynamic team. We are looking for someone
+who is capable of contributing to a complex and innovative verification
+effort with substantial programming content in order to automate the test
+and validation of our fault tolerant product. This is an elaborate
+environment with a goal to reach 100% automation in the verification of our
+product from system imaging, to fault insertion, system administration,
+stress, and initial triage.
+
+The responsibilities for this position are divided into three roughly equal
+parts:
+
+First, shared responsibility for maintaining and enhancing our automation
+framework written in OI Perl.
+
+Second, the candidate will be responsible for extending our regression
+suite to enhance automated test coverage especially in the area of faults -
+this work requires system level knowledge and often involves programmatic
+interaction with leading edge test equipment.
+
+And last, the candidate will spend time triaging of difficult issues that
+involve cross-functional software components including stacks developed by
+client as well as open-source software. This work generally requires
+intense interaction with the product development team, 3rd-party
+development partners, and occasionally end customers as well.
+
+Educational Background Required:
+Bachelor of Science / Master of Science degree in Electrical Engineering or
+Computer Science. with 1-5 years of experience.
+
+Required skills:
+SKILLS:
+• Benchmarks • XML • Complex data structures • CPAN • Databases (mySql,
+RDB) • Ruby • Webdav
+
+The job requires solid skills in:
+• Object-oriented design• Agile SW development practices • Contributing to
+large software projects • Linux development and installation • Working in a
+test-driven environment • Verbal and written communication
+
+
+Contact information at:
+http://jobs.perl.org/job/9748#contact
+
+

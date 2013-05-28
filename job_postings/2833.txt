@@ -1,0 +1,85 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2833
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 18682 invoked from network); 9 Jun 2005 03:00:43 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 9 Jun 2005 03:00:43 -0000
+Received: (qmail 18891 invoked by uid 225); 9 Jun 2005 03:00:40 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 18887 invoked by alias); 9 Jun 2005 03:00:40 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 08 Jun 2005 20:00:30 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j5930Qpu006582
+	for <jobs@perl.org>; Wed, 8 Jun 2005 20:00:27 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j5930QB4006580;
+	Wed, 8 Jun 2005 20:00:26 -0700
+Date: Wed, 8 Jun 2005 20:00:26 -0700
+Message-ID: <200506090300.j5930QB4006580@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Contract Perl/CGI/Modperl/DBI Engineer (part onsite), United States, CA, San Francisco
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2718
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June  8, 2005
+
+Job title: Contract Perl/CGI/Modperl/DBI Engineer
+
+Company name: GreatSchools.net
+
+Location: United States, CA, San Francisco
+
+Pay rate: $45/hr
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 3-6 months
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+The GreatSchools.net Contract Software/Data Engineer is a 3-6 month 1099
+contract position working closely with both the engineering and data
+departments. This individual will participate in data loading and web
+display of school and test score data on the GreatSchools.net website. The
+successful candidate will possess strong technical and analytical skills.
+The hourly rate for this contract is $45/hr.
+
+Primary Responsibilities:
+• Data file conversion and loading using MySQL and Perl
+• Updating Perl based (Modperl/CGI/FastTemplate) web pages to display newly
+loaded data
+
+Required skills:
+ • BS in Computer Science or equivalent degree
+• 3+ years working with Perl DBD/DBI, ModPerl, CGI, Regular Expresssions,
+and Perl based Web applications
+• Experience with Apache, MySQL, and CVS
+• Ability to work with a combination of command line Unix and Perl tools to
+adapt text files from one format to another. Note, you may be given a test
+file during the interview to manipulate.
+• Comfortable working in a Unix (Linux/FreeBSD) environment 
+
+Contact information at:
+http://jobs.perl.org/job/2718#contact
+
+

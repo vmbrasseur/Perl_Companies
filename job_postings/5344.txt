@@ -1,0 +1,103 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5344
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 6123 invoked from network); 24 Nov 2006 23:13:38 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 24 Nov 2006 23:13:38 -0000
+Received: (qmail 20106 invoked by uid 225); 24 Nov 2006 23:13:38 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 20102 invoked by alias); 24 Nov 2006 23:13:37 -0000
+X-Spam-Status: No, hits=-1.0 required=8.0
+	tests=ALL_TRUSTED,BAYES_50,DATE_IN_PAST_06_12
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 24 Nov 2006 15:13:31 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 7368C2AFF3; Fri, 24 Nov 2006 07:36:46 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20061124153646.7368C2AFF3@x3.develooper.com>
+Date: Fri, 24 Nov 2006 07:36:46 -0800 (PST)
+Subject: Perl auction software customizing, Germany, NRW, Cologne
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4727
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 24, 2006
+
+Job title: Perl auction software customizing
+
+Company name: W.I.S
+
+Location: Germany, NRW, Cologne
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: 4 - 6 Weeks
+
+Hours: Part time
+
+Description:
+We are customizing an Auction Software which it is originally from Mewsoft
+and which it is written in Perl using a MySQL  database. We have already
+introduced some further features and improvements on it but still need some
+work to be done. Due to other commitments we want to subcontract this job
+to an experienced and well versed Perl programmer acquainted with his type
+of projects (PLEASE DO NOT APPLY IF YOU PERSONALLY DO NOT FULILL THIS
+REQUIREMNT).
+You may see the orininally software at www.mewsoft.com and our development
+at http://www.printeverywhere.com/auction_dev/cgi/auction.cgi?
+After finishing this phase and going online we need to keep the development
+and maintenance of this system on steady bases and it is our intention to
+keep working with same partner we choose for this job.
+
+
+1)	Implement a „My Messages“ (“My Folders”)  where to administrate the
+incoming and out going messages from users and administration. 
+2)	Extend the existing one level administration to a three tier level
+with lowered control and access privileges for additional administrators.  
+									   
+
+3)	When submitting and item for selling, to have the possibility to
+suggest a new category at any path level. The administrators can view and
+act upon suggested categories.
+4)	When registering the user should have to possibility to set up the
+calendar format (dd.mm.yyyy) or (mm.dd.yyyy) and time zone he wants to be
+displayed at the Site 
+5)	To integrate the existing Advertisers Accounts and Billing System
+so that we can generate automatically invoices for their campaigns. (paying
+per Klick or per exposure)
+6)	Finish the already started “Cross Promotion” chargeable function.
+When a user sees an item from a seller some other items should be displayed
+at the end of the items page (eBay similar). 
+7)	Windows / Excel Bulk Lister  which enables the user to list items
+to the system without having to visit the site. 
+8)	PayPal integrated end of auction checkout:  Buyers and sellers with
+a PayPal account can seamlessly conclude the sales of items with the end of
+auction combined PayPal checkout.
+9)	Improve the existing internal messaging system with a better
+outlook and adding some extra information about other ongoing auctions,
+extending this to items I am watching and current auctions status.
+10)	Finish the already started shop feature.
+11)	We have introduced some new functions and features to the original
+current version from Mewsoft, and there are still some bugs which has to be
+fixed or functions to be 
+Improved, complete or tuned-up. Besides this there are a couple of software
+updates from Mewsoft which has to be added to the running version.
+
+
+URL for more information:
+http://www.printeverywhere.com/auction_dev/cgi/auction.cgi?
+
+Contact information at:
+http://jobs.perl.org/job/4727#contact
+
+

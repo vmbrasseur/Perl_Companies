@@ -1,0 +1,96 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7455
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 31667 invoked from network); 28 Dec 2007 15:57:12 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 28 Dec 2007 15:57:12 -0000
+Received: (qmail 1030 invoked by uid 225); 28 Dec 2007 15:57:12 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 1026 invoked by alias); 28 Dec 2007 15:57:11 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 28 Dec 2007 07:57:03 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id D551A2AFD7; Fri, 28 Dec 2007 07:56:58 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20071228155658.D551A2AFD7@x3.develooper.com>
+Date: Fri, 28 Dec 2007 07:56:58 -0800 (PST)
+Subject: Perl Engineer (onsite), United States, California, San Jose
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/7593
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 27, 2007
+
+Job title: Perl Engineer
+
+Company name: KnowledgePlex, Inc.
+
+Location: United States, California, San Jose
+
+Pay rate: Competitive
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+KnowledgePlex, Inc. is seeking experienced Perl programmers for front-end
+(web) and back-end (systems) development of multiple co-brandable web
+products.
+
+We are a small non-profit, located in San Jose, CA, with a growing
+engineering team, tackling challenges such as web scraping, news
+aggregation, automated semantic analysis and classification, multi-sourced
+data assimilation and warehousing, geospatial analysis, real-time
+multi-layer mapping, and statistics.
+
+We prefer developers who are comfortable with Unix-like operating systems,
+revision control systems (Subversion), bug/task ticketing systems (Trac),
+Model-View-Controller (MVC) design patterns, agile development methods, and
+short release cycles.
+
+We offer competitive salaries, good benefits, paid vacations, and a casual,
+collaborative work environment.
+
+
+Required skills:
+Experience with Perl, HTML, CSS, and JavaScript required.
+
+Affinity for embracing and exploiting open-source projects to reduce
+development time imperative.
+
+
+Desired skills:
+Experience with automated data normalization and importation useful.
+
+Familiarity with HTML::Mason, Catalyst, and/or Rose::DB::Object a big plus.
+
+
+Familiarity with PostGIS spatial database extension for PostgreSQL,
+mapserver, mapnik, and/or ka-map a big, big plus.
+
+Familiarity with prototype.js also a plus.
+
+Familiarity with web performance optimization and caching strategies also
+useful.
+
+
+Contact information at:
+http://jobs.perl.org/job/7593#contact
+
+

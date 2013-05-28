@@ -1,0 +1,214 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4136
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13048 invoked from network); 10 Apr 2006 18:19:21 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 10 Apr 2006 18:19:21 -0000
+Received: (qmail 14184 invoked by uid 225); 10 Apr 2006 18:19:20 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 14180 invoked by alias); 10 Apr 2006 18:19:20 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 10 Apr 2006 11:19:07 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id A46C82AFC2; Mon, 10 Apr 2006 11:19:02 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060410181902.A46C82AFC2@x3.develooper.com>
+Date: Mon, 10 Apr 2006 11:19:02 -0700 (PDT)
+X-Virus-Checked: Checked
+Subject: Senior Technology Engineer (Application Developer) (onsite), United States, VA, Herndon
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3929
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 10, 2006
+
+Job title:
+Senior Technology Engineer (Application Developer)
+
+Company name: Time Warner Cable
+
+Internal ID: 58469BR
+
+Location: United States, VA, Herndon
+
+Pay rate:
+commensurate with experience and bonus eligible
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+A pioneer in the cable industry, Time Warner Cable owns and manages the
+most advanced, best-clustered cable television operations in the country,
+with more than 90% of its 10.9 million customers in systems serving 100,000
+people or more. Through technological innovation, a fully upgraded
+fiber-based network and a commitment to increasing choice and value for our
+customers, Time Warner Cable brings the digital age into America's
+communities, transforming the way Americans receive information and
+entertainment. 
+
+The Time Warner Cable Corporate office currently seeks a Senior Technology
+Engineer for our Systems Engineering Department. Below please find a brief
+description of the essential duties and responsibilities required to
+function successfully in this position.
+
+Essential Job Functions:
+Customized application development in C, C++, and Perl from scratch. 
+Candidate must have experience working as part of a team to develop high
+quality software solutions.  Ideal candidate would have experience
+developing high-performance, redundant, and scalable software solutions
+without significant external guidance.
+
+Operate as a member of a specialized development oriented Engineering team.
+ Share responsibility for project development with other engineers.  Act
+independently when developing small scope projects.  Work as part of a
+small team when requirements dictate more complex solutions.  Candidate
+must be comfortable sharing ideas, discussing solutions, and receiving
+feedback throughout the entire product development process.  
+
+Develop software to integrate COTS applications within the existing Time
+Warner Cable infrastructure.  Support other teams within Systems
+Engineering when specific development oriented assistance is requested.  
+
+Analyze ISP and VoIP product requirements and engineer solutions to meet
+them.  Determine most appropriate solution for addressing requirements be
+it in-house development or integration of COTS software.  Solutions must
+meet both time and cost constraints and stand up to peer review.  Majority
+of projects revolve around High Speed Data (ISP) and Digital Phone (VoIP)
+product offerings.
+
+Contribute to project planning, architecture specification, and
+implementation planning for application development tasks.  Determine
+accurate level of effort and timeframe for project completion. 
+
+Thoroughly document solutions including authoring of functional
+specifications, design documentation, installation, and operations guides. 
+Provide guidance to QA to ensure sufficient testing occurs during the
+product test cycle.  Support Systems Operations when issues arise in
+production to provide troubleshooting assistance and solutions.  Maintain
+documentation for software development projects and
+implementation/deployment planning.
+
+Conduct product evaluations, test new potential solutions, and report on
+results.
+
+
+Required skills:
+Job Requirements:
+Successful candidate must possess 5+ years experience in designing,
+developing, debugging and deploying ISP class Unix based applications.	
+
+
+Expert level experience with Unix, C, and Perl.  Ability to participate in
+the definition of software architecture, including research of new
+technologies and proof of concepts projects. 
+
+
+A thorough understanding of various network protocols (TCP, UDP, SMTP,
+POP3, DHCP, DNS, LDAP, SNMP) and how each of these protocols communicates. 
+Unix socket programming (network based, IPC, etc).  
+
+Candidate must have excellent oral and written communication skills and
+strong collaboration skills.  Understanding of software/system development
+life cycles.
+
+Education:
+Bachelor's degree (BA or BS) from four-year college or university; or
+equivalent training, education and experience.
+
+
+Desired skills:
+Preferred Qualifications:
+The successful candidate must be willing to work in an entrepreneurial
+environment requiring broad experience, adaptability, and excellent problem
+solving skills.  
+
+Candidate must be a team player, with an inherent ability to work well
+under tight timelines, and have strong systems architecture experience. 
+Candidate will also be required to share experience, skill, and talents
+with associates and mentor others.  
+
+Candidates with some or all of the following skills and experience are
+preferred:  
+
+•	The physical and logical elements, interfaces, and configurations
+of Sun hardware, Solaris operating system and x86 hardware.  Hands on
+experience with Solaris 10 on both Sparc and AMD64 based platforms. 
+Experience with networking and storage hardware is a plus.
+
+•	Understand of IP networking technologies with specific knowledge of
+network addressing, routing, IP filtering, network based load balancing,
+etc.
+
+•	LDAP, specifically experience with the standard C API, schema
+design, best practices 
+
+•	Relational databases such as Oracle and MySQL, specifically schema
+design, query optimization, data normalization 
+
+•	Expert level knowledge of C/C++ and another high level dynamic
+language (Perl strongly preferred).  Thorough understanding of object
+oriented programming models and concepts.  Ideal candidate would be an
+experienced developer of object oriented applications in Perl or C++. 
+Expert level knowledge of Python, Ruby, or other OO languages is valuable
+in lieu of Perl or C++. 
+
+•	POSIX Threads and familiarity with thread models of other
+interpreted or virtual machine based languages.
+
+•	XML and SOAP
+
+•	SNMP
+
+•	Ideal candidate would be well versed in the concepts contained
+within Advanced Programming in the Unix Environment by W. Richard Stevens.
+
+•	Automated network based Unix installation such as Solaris Jumpstart
+and SUSE AutoYAST.  
+
+•	Solaris and RPM packaging systems.  Experience building packages
+with either system.
+
+•	Understanding of common application performance issues.  Ideal
+candidate would have significant experience designing and developing high
+performance applications.
+
+•	High availability software and hardware solutions.  Experience with
+Veritas products preferred.
+
+•	Familiarity with open source tools, applications, and libraries and
+the ability to leverage them during the development process.  
+
+•	Thorough knowledge of secure coding practices and common
+application security issues.
+
+•	Experience with Cable industry high speed data infrastructure
+including familiarity with DOCSIS, PacketCable, and device provisioning
+models.  
+
+
+URL for more information:
+https://sjobs.brassring.com/1033/ASP/TG/cim_home.asp?partnerid=391&siteid=5
+161&Codes=WOTR58469BR
+
+Contact information at:
+http://jobs.perl.org/job/3929#contact
+
+

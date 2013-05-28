@@ -1,0 +1,46 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:135
+Return-Path: <farber@cpan.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 2529 invoked from network); 31 Jul 2001 09:29:38 -0000
+Received: from albatross-ext.wise.edt.ericsson.se (194.237.142.116)
+  by onion.valueclick.com with SMTP; 31 Jul 2001 09:29:38 -0000
+Received: from eed.ericsson.se (mailhost.eed.ericsson.se [164.48.133.33])
+	by albatross.wise.edt.ericsson.se (8.11.0/8.11.0/WIREfire-1.3) with ESMTP id f6V9TaN12744
+	for <jobs@perl.org>; Tue, 31 Jul 2001 11:29:36 +0200 (MEST)
+Received: from cpan.org (maas34 [164.48.247.34])
+	by eed.ericsson.se (8.8.8+Sun/1.2.mit) with ESMTP id LAA13631
+	for <jobs@perl.org>; Tue, 31 Jul 2001 11:29:35 +0200 (MET DST)
+Sender: eedalf@eed.ericsson.se
+Message-ID: <3B667A7E.2CC2774F@cpan.org>
+Date: Tue, 31 Jul 2001 11:29:34 +0200
+X-Mailer: Mozilla 4.75 [en] (X11; U; SunOS 5.6 sun4u)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: jobs@perl.org
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-Spam-Rating: onion.valueclick.com 1.6.2 0/1000/N
+Subject: Looking for job in Cologne, Duesseldorf, Berlin (Perl, Sybase, C/C++, 
+ awk, shell)
+Approved: news@nntp.perl.org
+From: farber@cpan.org ("Alexander Farber (EED)")
+
+Hi,
+
+I'm looking for a freelance or permanent job in Cologne, 
+Duesseldorf or Berlin starting with November 2001. I have
+5 years experience developing CGI-scripts and utilities
+in Perl, mostly with Sybase as backend. I use Solaris at
+work and OpenBSD (earlier Debian Linux) at home. Please
+see my C.V. at 
+
+   http://home.t-online.de/home/Alexander.Farber/
+
+Regards
+Alex
+
+PS: Non web- or Perl-related work is welcome as well.

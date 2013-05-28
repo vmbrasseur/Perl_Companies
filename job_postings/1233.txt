@@ -1,0 +1,75 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:1233
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 58657 invoked by uid 76); 12 Dec 2003 22:24:27 -0000
+Received: from x1.develooper.com (HELO x1.develooper.com) (63.251.223.170) by onion.perl.org (qpsmtpd/0.26) with SMTP; Fri, 12 Dec 2003 14:24:27 -0800
+Received: (qmail 10402 invoked by uid 225); 12 Dec 2003 22:24:26 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 10396 invoked by alias); 12 Dec 2003 22:24:26 -0000
+Received: from onion.develooper.com (HELO onion.perl.org) (63.251.223.166) by la.mx.develooper.com (qpsmtpd/0.27-dev) with SMTP; Fri, 12 Dec 2003 14:24:14 -0800
+Received: (qmail 58585 invoked by uid 1016); 12 Dec 2003 22:24:12 -0000
+Date: 12 Dec 2003 22:24:12 -0000
+Message-ID: <20031212222412.58584.qmail@onion.perl.org>
+To: jobs@perl.org
+X-Spam-Check-By: la.mx.develooper.com
+X-Spam-Status: No, hits=1.8 required=7.0 tests=CARRIAGE_RETURNS,SPAM_PHRASE_03_05,TO_BE_REMOVED_REPLY version=2.44
+X-SMTPD: qpsmtpd/0.26, http://develooper.com/code/qpsmtpd/
+Subject: Experienced Perl Programmer Needed (onsite), United States, PA, Malvern
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1126
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 12, 2003
+
+Job title: Experienced Perl Programmer Needed
+
+Company name: USA Technologies
+
+Location: United States, PA, Malvern
+
+Pay rate: Send salary requirments
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: 6 - 9 months
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are looking for a programmer to take over the development of a
+middleware application.  The middleware is a passthru application between
+remote clients and a centralized server/database.  A proprietary protocol
+that is optimized for fast transmission is used for the communication.
+
+Required skills:
+Perl / Mod Perl
+Unix
+DBI/DBD:Oracle
+Socket Knowledge
+
+Desired skills:
+SSL
+PGP
+
+
+URL for more information: http://www.usatech.com/
+
+Contact information:
+Matthew D. Heilman
+100 Deerfield Lane
+Malvern, PA 19355
+mheilman@usatech.com
+
+

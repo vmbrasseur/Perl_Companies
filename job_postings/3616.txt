@@ -1,0 +1,152 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3616
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 23833 invoked from network); 23 Dec 2005 17:17:39 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 23 Dec 2005 17:17:39 -0000
+Received: (qmail 31814 invoked by uid 225); 23 Dec 2005 17:17:39 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 31809 invoked by alias); 23 Dec 2005 17:17:39 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 23 Dec 2005 09:17:36 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id jBNHHUN0027348
+	for <jobs@perl.org>; Fri, 23 Dec 2005 09:17:30 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id jBNHHU9Z027346;
+	Fri, 23 Dec 2005 09:17:30 -0800
+Date: Fri, 23 Dec 2005 09:17:30 -0800
+Message-ID: <200512231717.jBNHHU9Z027346@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Senior QA/Test Engineer (onsite), United States, MD, Columbia
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3452
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 23, 2005
+
+Job title: Senior QA/Test Engineer
+
+Company name: OmniTI
+
+Internal ID: qa-test-eng
+
+Location: United States, MD, Columbia
+
+Pay rate: DOE, Competitive
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: permanent
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are looking for a driven and experienced test engineer to head up and
+formalize our QA efforts.
+
+Responsibilities include:
+
+•	Product Test Engineering
+o	Develop test plans and test cases to ensure product quality and
+performance
+o	Automate tests to be executed in our Automated Test Framework
+(written in Perl, based off Test::More and Apache::Test)
+o	Test development and execution at all levels (unit, component,
+system, and white box)
+o	Set testing standards in the development group
+o	Develop and maintain testing tools
+o	Report product defects and track defects to closure
+o	Work closely with development to resolve escalated issues.
+•	Work with developers to review test cases for accuracy and
+coverage.
+•	Documentation Assessment
+o	Help review and contrbute to product documentation
+•	Source Tree Management
+o	Be responsible for ensuring controlled and tested migration of
+features and bugfixes from development to release branches and release
+tags.
+•	Release Management
+o	Certify releases on all supported platforms
+o	Manage tagging and packaging of production releases
+o	Manage customer-facing release information, changelogs, etc
+
+About OmniTI
+
+OmniTI is a global leader in email infrastructure products and services.
+OmniTI solutions enable organizations worldwide to maximize their email
+messaging performance while reducing operational costs and optimizing
+network resources. Since 1997, OmniTI has brought to market a family of
+software and hardware solutions that address the ever expanding email
+infrastructure needs of today's businesses as well as deliver a unique
+combination of email security, spam protection, anti-virus and content
+control to organizations ranging from regional businesses to the Global
+2000. OmniTI's flagship product is Ecelerity, an email application server
+solution powered by a high performance message transfer agent and a
+component-based architecture designed to incorporate complex policies and
+scale to the demand of today's mission critical email systems.
+
+
+Required skills:
+•	5+ years experience testing systems products
+•	Understanding of TCP/IP protocols, specifically SMTP
+•	Comprehensive knowledge and application of Software Quality
+ASsurance methodologies
+•	Experience developing automated test cases
+•	Strong development experience in programming languages,
+particularly Perl and C
+•	Experience testing and developing automated tests in a
+cross-platform enviromnent (*nix and Windows)
+•	Experience with software development tools
+o	Build tools like autoconf and make
+o	Version control software like CVS or Subversion
+o	Code coverage tools like gcov
+o	Memory testing tools like valgrind
+o	Defect tracking tools like bugzilla or trac
+o	Knowledge of at least one automated test tool
+•	Excellent written and verbal communication skills
+
+
+Desired skills:
+•	Experience developing with Test, Test::More, or Apache::Test a huge
+plus.
+•	Able to independently translate high-level specifications into
+detailed test plans.
+•	Takes pride in shipping defect free code and sees defects through
+to resolution.	  
+•	Champions quality within the organization.  Willing to engage
+engineers and management on bug resolution.
+•	Able to gauge the importance of defects and escalate aggressively
+when appropriate.
+•	Should be comfortable communicating and working in a team
+enviroment to achieve company goals.
+•	Should be able to switch gears quickly and maintain both composure
+and work standards in various high-stress situations.
+•	Should be driven to self-improvement, always looking to master new
+technologies and expanding knowledge.
+
+
+URL for more information:
+http://www.omniti.com/about/careers/QAEngineer
+
+Contact information at:
+http://jobs.perl.org/job/3452#contact
+
+

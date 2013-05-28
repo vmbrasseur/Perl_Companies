@@ -1,0 +1,106 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7357
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 32027 invoked from network); 29 Nov 2007 16:05:22 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 29 Nov 2007 16:05:22 -0000
+Received: (qmail 14889 invoked by uid 225); 29 Nov 2007 16:05:22 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 14879 invoked by alias); 29 Nov 2007 16:05:22 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 29 Nov 2007 08:05:06 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id C20592AFF2; Thu, 29 Nov 2007 08:05:00 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20071129160500.C20592AFF2@x3.develooper.com>
+Date: Thu, 29 Nov 2007 08:05:00 -0800 (PST)
+Subject: eBay - Staff Software Web Engineer (onsite), United States, Ca, San Jose
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/7422
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 28, 2007
+
+Job title: eBay - Staff Software Web Engineer
+
+Company name: eBay
+
+Internal ID: 23028BR
+
+Location: United States, Ca, San Jose
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+eBay is one of the largest, most complex web applications in existence. Our
+team inside eBay is responsible for an agile, scalable solutions platform
+where many new, innovative and original ideas are executed or put to the
+test, and we want YOU to help out!
+ 
+We are looking for a staff software engineer who is a specialist in
+server-side application development, but also somewhat comfortable with
+front-end presentation. You will be developing applications on a very
+high-traffic LAMP platform, built on a Linux/Apache/mod_perl architecture,
+with HTML::Mason and HTML::Template utilized for a multi-lingual
+presentation tier. The application layer utilizes XML-based messaging over
+HTTP to communicate with enterprise systems. Development will be done in
+English (UTF-8), and then localized for testing and release. You must be
+familiar with source control (preferably ClearCase) and bug tracking
+systems, as well as full Product Development Life-Cycles (PDLC). The ideal
+candidate must have a responsible, diligent work ethic, be a self-starter,
+be willing to ask questions, and have a desire to do things "the right way"
+rather than "just make it work". Also, must be VERY comfortable in a
+Unix/Linux environment, using BASH, SSH, Vi(Vim), etc. You may be asked to
+perform sysadmin tasks from time-to-time.
+
+Some projects may also require managing development and integration across
+mulitple third-party applications and teams. 
+
+Required skills:
+*   8+ years overall experience with high-availability web applications,
+performance tuning, profiling
+*   5+ years Web application development (in any language or platform,
+preferably Perl)
+*   4+ years Perl experience including: scripts, CGI, mod_perl, OO Perl,
+HTML::Mason, HTML::Template, XML::Simple, DBI, creating and installing
+modules
+*   4+ years experience with a relational DB, SQL, Transactions
+*   3+ years Unix/Linux, SSH, shell programming
+*   3+ years Apache web/app server internals, configuration, modules
+*   XML
+*   Unicode (UTF-8)
+*   HTML, JavaScript experience
+
+Desired skills:
+*   8+ years overall experience with high-availability web applications,
+performance tuning, profiling
+*   5+ years Web application development (in any language or platform,
+preferably Perl)
+*   4+ years Perl experience
+
+Education: Bachelors Degree Required
+
+URL for more information:
+http://www.ebaycareers.com/jobsearch/index.html
+
+Contact information at:
+http://jobs.perl.org/job/7422#contact
+
+

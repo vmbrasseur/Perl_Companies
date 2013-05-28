@@ -1,0 +1,144 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8712
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 14387 invoked from network); 2 Oct 2008 00:41:09 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 2 Oct 2008 00:41:09 -0000
+Received: (qmail 7174 invoked by uid 225); 2 Oct 2008 00:41:09 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 7170 invoked by alias); 2 Oct 2008 00:41:08 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 01 Oct 2008 17:41:03 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 4D2892AFE2; Wed,  1 Oct 2008 17:41:00 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20081002004100.4D2892AFE2@x3.develooper.com>
+Date: Wed,  1 Oct 2008 17:41:00 -0700 (PDT)
+Subject: Software Developer 3/4 Production Sequencing (onsite), United States, CA, Walnut Creek
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/9700
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 30, 2008
+
+Job title:
+Software Developer 3/4 Production Sequencing
+
+Company name: DOE Joint Genome Institute
+
+Internal ID: 22253
+
+Location: United States, CA, Walnut Creek
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Help in the Fight Against Global Warming!
+
+The Department of Energy's Joint Genome Institute (DOE JGI) is a
+state-of-the-art sequencing center dedicated to advancing genomics research
+in support of the DOE missions related to clean energy generation and
+environmental characterization and cleanup. The DOE JGI is currently
+seeking a talented Software Developer to design, improve and support the
+information systems that manage institutional and laboratory operations at
+the Production Genomics Facility in Walnut Creek, CA. The selected
+candidate will be hired at the Software Developer 3 or 4 classification
+level depending upon the candidate's level of experience and
+qualifications. Position reports to the Production Informatics Group Lead.
+
+Specific Job Duties
+
+Essential - 
+- Work as part of a team to address the needs of the production sequencing
+department. This involves a wide range of activities, primarily software
+development; but additionally, software quality assurance, modeling
+laboratory processes and interacting closely with scientific staff,
+supervisors and laboratory workers.
+- Integrate new system components with existing facilities and frameworks,
+following local and industry standard practices to minimize training and
+maintenance costs, ensuring that user interfaces exhibit good usability
+characteristics, with particular emphasis on ergonomics. 
+- Perform relational database schema design and performance tuning applying
+industry practices. 
+- Create and maintain database-backed web applications to track, control
+and review laboratory and institutional operations. 
+- Train customers on the use of new and existing features, individually and
+in groups; create supporting materials for training presentations. 
+- Provide responsive customer support, assisting users with the prompt
+resolution of data entry errors, software malfunctions and other system
+needs. 
+- Mentor and cross-train other team members in software development and
+design. 
+- Communicate regularly with customers and supervisory staff about plans,
+designs and progress. 
+- Follow prescribed practices for software version control, testing and
+release engineering. 
+
+Marginal - 
+- Propose consolidation and replacement of legacy features with poor
+maintainability or usability characteristics demonstrating good judgment
+and initiative. 
+- Provide recommendations to customers about potential process improvements
+or software enhancements that would enhance efficiency, productivity or
+safety. 
+
+
+Required skills:
+Essential - 
+- B.S. in Computer Science or a related scientific or technical field (or
+equivalent experience) and a minimum of five years related experience.
+- Working knowledge of Perl, SQL, Oracle PL/SQL and Javascript. 
+- Demonstrated experience developing database-backed applications and
+experience with web development including: Apache, CGI programming, HTML,
+CSS, and AJAX.
+- In-depth understanding of principles and practices for effective use of
+relational databases particularly Oracle 10g.
+- Demonstrated success designing and implementing systems and software in a
+scientific or technical environment, e.g., University, National Laboratory,
+corporate R&D center or automated manufacturing facility.
+- Ability to effectively learn and apply new technology concepts to
+troubleshoot and solve problems and challenges of a diverse scope.
+- Effective interpersonal communication, public speaking, and presentation
+skills. 
+- Effective time management, organization, and planning skills. 
+- Talent for working well under short deadlines and handling multiple tasks
+simultaneously. 
+- Ability to work effectively in a diverse team environment. 
+
+
+Desired skills:
+Desired - 
+- Working knowledge of UNIX operating systems. 
+- Familiarity with Prototype, Yahoo User Interface Library, Scriptaculous
+or other common Javascript libraries. 
+- Experience with SOAP and web services. 
+- Understanding of Oracle mod_plsql, OC4J, and other Oracle application
+server technologies. 
+- Working knowledge of the Python and Java programming languages. 
+- Experience with bioinformatics and genomic science. 
+- Understanding of basic statistics.
+
+
+URL for more information: http://www.jgi.doe.gov/
+
+Contact information at:
+http://jobs.perl.org/job/9700#contact
+
+

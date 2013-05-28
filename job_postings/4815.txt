@@ -1,0 +1,77 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4815
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 23189 invoked from network); 19 Aug 2006 09:29:55 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 19 Aug 2006 09:29:55 -0000
+Received: (qmail 3936 invoked by uid 225); 19 Aug 2006 09:29:54 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 3931 invoked by alias); 19 Aug 2006 09:29:54 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 19 Aug 2006 02:29:52 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 37A652AFE4; Sat, 19 Aug 2006 02:29:48 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060819092948.37A652AFE4@x3.develooper.com>
+Date: Sat, 19 Aug 2006 02:29:48 -0700 (PDT)
+Subject: 3 scripts invloving ebay api/paypal api- small job (telecommute), United States, ca, Carmichael
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4535
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 18, 2006
+
+Job title:
+3 scripts invloving ebay api/paypal api- small job
+
+Location: United States, ca, Carmichael
+
+Pay rate: please bid
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+Our job requires working knowledge of the Paypal API and Ebay API.
+
+
+We are looking for a perl developer to write us 3 scripts:
+
+
+1. Post random feedback for us on ebay if
+- an items payment has cleared via paypal
+- the customer has left us positive feedback.
+2. Send the customer a reminder email to pay:
+- once 5 days have passed since item close date without payment 
+- send another email at 10 days
+- send a final reminder email at 15 days
+3. Initiate Unpaid Item Dispute process for the ebay item when:
+- buyer has not paid for the item
+- after the15th day since the auction close.
+
+
+Required skills:
+perl
+knowledge of paypal api and ebay pai
+
+Contact information at:
+http://jobs.perl.org/job/4535#contact
+
+

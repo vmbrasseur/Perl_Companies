@@ -1,0 +1,120 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4334
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28399 invoked from network); 16 May 2006 15:20:28 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 16 May 2006 15:20:28 -0000
+Received: (qmail 923 invoked by uid 225); 16 May 2006 15:20:28 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 919 invoked by alias); 16 May 2006 15:20:27 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 16 May 2006 08:20:17 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 5D3872AFDA; Tue, 16 May 2006 08:20:12 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060516152012.5D3872AFDA@x3.develooper.com>
+Date: Tue, 16 May 2006 08:20:12 -0700 (PDT)
+Subject: Linux / Apache / MySQL / Perl (LAMP) Developer, United States, FL, Ft. Lauderdale
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4094
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 16, 2006
+
+Job title:
+Linux / Apache / MySQL / Perl (LAMP) Developer
+
+Company name: WireSpring Technologies, Inc
+
+Internal ID: WS2006-Q203
+
+Location: United States, FL, Ft. Lauderdale
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Description:
+Do you love Linux / Apache / MySQL / Perl (LAMP) and have serious DHTML,
+HTML and JavaScript skills? Were you writing asynchronous JavaScript and
+XML applications before AJAX was even an acronym? If so, WireSpring has an
+immediate opening for a LAMP Developer, and you might be the right person
+for the job!
+
+Our candidate should have experience using Perl to do everything from
+hacking together system administration scripts to developing beautiful,
+complex, high-level applications, to writing interactive AJAX web sites --
+and must be comfortable doing it all in a Linux environment (we don't do
+Windows).
+
+Working with our close-knit and highly seasoned technical staff, our
+candidate will get the opportunity to work on a number of exciting projects
+for our remotely managed Linux-based operating system and web-based central
+administration platform. Our candidate's job will be about 60% application
+design & development, 20% system administration (or building tools for
+system administration) and 20% troubleshooting. The skills that we're
+looking for are:
+
+Required skills:
+# Strong knowledge of Perl (though we'll consider great PHP, Python or Java
+programmers who are willing to learn). Work with object-oriented Perl is a
+big plus, but not required. Ditto for mod_perl.
+
+# Strong knowledge of HTML, CSS and JavaScript (our web application
+interfaces use a lot of DHTML, so this is a must!)
+
+# Strong knowledge of SQL (we're using MySQL right now, but your knowledge
+should be portable to other relational database systems)
+
+# Experience using Perl to interact with XML (SOAP or XMLRPC), especially
+for writing Perl back-ends for AJAX processes.
+
+# Linux/BSD/UNIX server administration skills like configuring/optimizing
+Apache and MySQL, writing cron jobs, troubleshooting system problems, etc.
+
+# Experience designing and writing web-based applications, since that's
+obviously what we're talking about here.
+
+# Experience using CVS or some other version control system.
+
+# Ability to learn new things -- quickly.
+
+# Sense of humor. (Yes, it's required.)
+
+Desired skills:
+# Graphic arts abilities - Photoshop, Illustrator, Flash, etc. to make our
+web apps pretty
+
+# Experience writing Apache modules in C or Perl
+
+# Experience writing and documenting software APIs.
+
+# Experience with lower-level system programming in C or C++
+
+# Experience working on large projects (many developers/lots of code)
+
+# Experience working on open-source projects (large or small)
+
+# Experience writing user-facing applications (browser-based or traditional
+client apps), especially for self-service devices like interactive kiosks.
+
+URL for more information: http://www.wirespring.com/
+
+Contact information at:
+http://jobs.perl.org/job/4094#contact
+
+

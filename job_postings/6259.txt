@@ -1,0 +1,99 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6259
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 23600 invoked from network); 8 May 2007 22:18:14 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 8 May 2007 22:18:14 -0000
+Received: (qmail 30745 invoked by uid 225); 8 May 2007 22:18:14 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 30740 invoked by alias); 8 May 2007 22:18:14 -0000
+X-Spam-Status: No, hits=-0.7 required=8.0
+	tests=BAYES_20,DKIM_POLICY_SIGNSOME,DK_POLICY_SIGNSOME,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 08 May 2007 15:17:14 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 7A96B2AFD5; Tue,  8 May 2007 15:17:10 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070508221710.7A96B2AFD5@x3.develooper.com>
+Date: Tue,  8 May 2007 15:17:10 -0700 (PDT)
+Subject: Perl Programmer (telecommute), United States, TX, Austin
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5764
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May  8, 2007
+
+Job title: Perl Programmer
+
+Location: United States, TX, Austin
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+I'm looking for someone with a pretty solid understanding of perl and
+regular expressions, as well as a basic knowledge of HTML.  This job
+involves scraping 4 text fields off a site using regular expressions and
+populating a hash table.  This will be repeated across dozens and dozens of
+sites (right now I have a queue of something like 80+ sites to scrape). 
+For an expert, a typical website scrape implementation should take about 5
+mins.
+
+I will provide a perl package for every site you need to scrape, minus the
+regular expressions (which is what you'll need to add).  I will also
+provide an environment through which you can test your expressions.  All I
+need is for you to fill in the contents of the regexps for each site.
+
+In terms of pay, I would like to pay on a per-site basis via some means
+like paypal if possible, and the rate is negotiable.  The best thing for us
+to do is discuss the situation and, if you're interested, go through a
+trial run where I provide the perl code to you and you can scope out the
+amount of work.  Afterwards, if all goes well, we can discuss a rate on a
+per-site basis.
+
+Also, you will be responsible for your own work environment, as I'm looking
+for someone who can work remotely and/or from home.  Since I'm using the
+WWW:Mechanize perl package from cpan, so you'll need to have this installed
+to perform the work (not included with a standard perl installation to my
+knowledge).
+
+FYI, in terms of the future, if all goes well, there is definitely the
+potential for more work based on your experience.  Since this is my own
+business and my own site, I'm hoping to offload some of my tasks to another
+capable, competent perl programmer in a contract role.
+
+Please email me if you're interested with contact information (phone #,
+email address, or AIM/ICQ/Gmail/YIM id).
+
+Thanks!
+-Dustin
+
+Required skills:
+Perl
+HTML
+regular expressions
+
+Desired skills:
+Perl
+HTML
+regular expressions
+
+Contact information at:
+http://jobs.perl.org/job/5764#contact
+
+

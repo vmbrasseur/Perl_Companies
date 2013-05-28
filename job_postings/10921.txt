@@ -1,0 +1,100 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10921
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 14458 invoked from network); 27 Jan 2011 02:23:25 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 27 Jan 2011 02:23:25 -0000
+Received: (qmail 21689 invoked by uid 225); 27 Jan 2011 02:23:25 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 21685 invoked by alias); 27 Jan 2011 02:23:24 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 26 Jan 2011 18:23:23 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id AC07D2AFE0; Wed, 26 Jan 2011 18:23:19 -0800 (PST)
+To: jobs@perl.org
+Date: Wed, 26 Jan 2011 18:23:19 -0800
+Message-ID: <20110127022319.AC07D2AFE0@x3.develooper.com>
+Subject: QA Engineer (onsite), United States, CA, Culver City
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13532
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 26, 2011
+
+Job title: QA Engineer
+
+Company name: Media Temple
+
+Location: United States, CA, Culver City
+
+Terms of employment: Salaried employee
+
+Length of employment: Permanent
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+For years, we've taken complex technology and simplified it for the
+everyday website owner. (mt) Media Temple, Inc. is a web hosting and
+virtualization service provider headquartered in Los Angeles, California.
+Since 1998, the company has provided businesses around the world with
+reliable, professional-class services to host websites, email, business
+applications, and other rich Internet content.
+
+We’re on the hunt for a skilled QA Engineer with a relentless passion for
+breaking things for all the right reasons. Your goal here will be to
+mercilessly test and scrutinize products and applications in the ongoing
+pursuit of bringing them to a state of public readiness. You’ll be counted
+on to produce concise and accurate defect reports as well as communicate
+and collaborate seamlessly with Developers and Product Owners.
+
+
+Required skills:
+Core Skills:
+
+    * Significant experience testing web based applications, including
+AJAX/Javascript containing apps
+    * Good experience with a variety of UNIX systems and basic to advanced
+System Administration skills
+    * Troubleshooting skills (scientific method: propose hypothesis, prove
+or disprove)
+    * Ability to write, test and debug Perl
+    * Ability to write INSERTS and SELECTS via MySQL
+    * Experience with TAP Harness, Selenium, JMeter
+    * VCS (Git/SVN) knowledge (commit, add, up, branch, merge)
+    * Bugzilla / Jira / Rally
+    * Experience working in an Agile environment
+    * Exceptional written and verbal communications skills
+    * UNIX Administration and/or shell scripting experience
+    * Ability to prioritize an remain focused in a dynamic environment
+
+Desired skills:
+Specific Experience:
+
+    * Experience with Test Plan and Case writing.
+    * Familiar with the ideals behind regression, acceptance and smoke
+testing.
+    * Experience with automation and developing automation and associated
+tools.
+    * Thorough understanding of SDLC
+    * Experience creating test plans
+    * Experience conducting load and stress tests
+
+
+Website for more information: http://mediatemple.net/company/employment.php
+
+Contact information at:
+http://jobs.perl.org/job/13532#contact

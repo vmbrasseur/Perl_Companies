@@ -1,0 +1,89 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12616
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 19499 invoked from network); 27 Jul 2012 04:35:05 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 27 Jul 2012 04:35:05 -0000
+Received: (qmail 14737 invoked by uid 225); 27 Jul 2012 04:35:05 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 14723 invoked by alias); 27 Jul 2012 04:35:04 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 26 Jul 2012 21:35:01 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 44A232AFE1; Thu, 26 Jul 2012 21:34:50 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 26 Jul 2012 21:34:49 -0700
+Message-ID: <20120727043450.44A232AFE1@x3.develooper.com>
+Subject: Contract Perl Developer (onsite), Southlake, TX
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16272
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 26, 2012
+
+Job title: Contract Perl Developer
+
+Company name: Travelocity
+
+Location: Southlake, TX
+
+Pay rate: Market
+
+Terms of employment: Hourly employee
+
+Length of employment: 1yr+
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Travelocity is the most popular travel service on the web. Global teams of
+employees work together to connect people with the world's greatest travel
+possibilities through airline reservations, hotel rooms, cruises, vacation
+packages, car rentals, last-minute deals, as well as other related products
+and services.
+ 
+We are looking for a Senior Perl & Java Engineer who will be responsible
+for building, supporting and enhancing web based (SOA type) services for a
+high-transaction volume web application.  The Senior Developer will work
+with indexing and database technologies building services that extract
+relevant content and inventory from backend systems so that they can be
+consumed by the UI layer for formatting and presentation to web consumers. 
+Experience with travel industry technology and knowledge of industry
+terminology, such as GDS, consolidators, merchant inventory, and booking
+reservations is highly desirable.
+
+Required skills:
+At least 2 years experience with PERL (MOD PERL experience advantageous)
+    At least 2 years experience developing with Java/J2EE and web
+environment.
+    At least 2 years experience building SOAP or REST based web services
+(SOA style services)
+    Strong knowledge in search and indexing technologies (SOLR/Lucene)
+    Strong understanding of database technologies (MySQL preferred),
+experience working with SQL
+    Familiarity with caching approaches and technologies (such as
+memCached)
+    Experience working with external clients and cross-functional, matrixed
+organizations
+    Excellent communication skills, written and verbal
+    Ability to handle multiple issues simultaneously.
+
+Website for more information:
+http://sabre.hodesiq.com/jobdescription.aspx?JobID=3003467&search=n
+
+Contact information at:
+http://jobs.perl.org/job/16272#contact

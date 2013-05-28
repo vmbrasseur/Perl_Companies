@@ -1,0 +1,103 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12075
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 2796 invoked from network); 30 Jan 2012 18:27:30 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 30 Jan 2012 18:27:30 -0000
+Received: (qmail 9092 invoked by uid 225); 30 Jan 2012 18:27:29 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 9086 invoked by alias); 30 Jan 2012 18:27:29 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS,T_FRT_PROFILE2
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 30 Jan 2012 10:27:26 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 3CDE82AFE0; Mon, 30 Jan 2012 10:27:23 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 30 Jan 2012 10:27:23 -0800
+Message-ID: <20120130182723.3CDE82AFE0@x3.develooper.com>
+Subject: Software Engineer (onsite), Rockville, MD United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15462
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 30, 2012
+
+Job title: Software Engineer
+
+Company name: Systems Plus Inc.
+
+Location: Rockville, MD United States
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Knowledge of speech-to-text and text-oriented research infrastructures and
+at least 2 years of experience in building tools, corpora, and research
+infrastructure for recognition technology projects.
+Detailed knowledge of audio and text recognition technology evaluation and
+at least 2 years of experience in implementing protocols and metrics for
+evaluation of recognition technologies
+Sufficient knowledge of the language technology research domains to be able
+to converse fluently with the research communities to transform research
+requirements into concrete formalisms
+At least 2 years’ experience in object-oriented analysis and design and
+software engineering in the C++ environment, to include the ability to
+maintain existing programs that use the entire language.
+Detailed knowledge of graph-based computer search algorithms
+Proficient in spreadsheet usage, such as with Microsoft Excel
+Proficient in XML design and implementation
+Proficient in the MS-Windows and Apple OS environments, to include Unix
+shell programming
+Proficient in Java, C++, and PERL program languages and environments, and
+with the QT library
+
+Good ability to communicate in written and spoken English
+Ability to travel to domestic and international meetings, workshops, and
+conference at least 2-3 times per year
+
+Required skills:
+Develop, enhance, and maintain tools that implement the metrics for project
+evaluations using C++, Perl and Excel.	The scoring tools will include
+creating/modifying graphical user interfaces.
+Manipulate data by providing support in test set selection and development,
+developing file format requirements, providing data validation for training
+data sets, and development of test and evaluation data sets.  Require
+assembling, modifying, and maintaining large text and audio datasets in
+human languages expected to include English, Chinese, and multiple dialects
+of Arabic.
+Support  the administration of project machine translation evaluations
+Load evaluation data onto project systems and download system outputs for
+scoring
+Follow performer provided instructions to run project systems
+Support the administration of project information retrieval evaluations
+Organize/monitor panels of human system operators/evaluators
+Develop documentation for all software developed and all procedures to
+support project evaluations.
+Setup data and scoring software for panels of human judges to assess system
+output quality
+Assist with analyzing results of the evaluations, organizing, processing
+and scoring the human judgments.  This will include statistical analyses.
+Assist in preparing presentation/reports of the results of the evaluation.
+
+Desired skills:
+Reasonable knowledge of the meaning of basic statistics (e.g., mean,
+median, std-dev, quartiles, histograms, one-tailed vs. two-tailed tests,
+confidence intervals, t-tests, paired vs. unpaired observations, etc.)
+
+Website for more information: http://www.sysplus.com
+
+Contact information at:
+http://jobs.perl.org/job/15462#contact

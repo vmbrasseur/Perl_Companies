@@ -1,0 +1,160 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12598
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 17700 invoked from network); 24 Jul 2012 01:41:56 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 24 Jul 2012 01:41:56 -0000
+Received: (qmail 9389 invoked by uid 225); 24 Jul 2012 01:41:56 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 9384 invoked by alias); 24 Jul 2012 01:41:55 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 23 Jul 2012 18:41:53 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 3AEA32AFE1; Mon, 23 Jul 2012 18:41:42 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 23 Jul 2012 18:41:42 -0700
+Message-ID: <20120724014142.3AEA32AFE1@x3.develooper.com>
+Subject: LAMP/Perl Web Developer (onsite), Watertown, MA, United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5231
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 23, 2012
+
+Job title: LAMP/Perl Web Developer
+
+Company name: Liaison International, LLC
+
+Internal ID: PERL Programmer
+
+Location: Watertown, MA, United States
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Liaison International, a stable and fast growing company that specializes
+in providing state-of-the-art information technology products and services
+to educational associations, accrediting agencies, institutions of higher
+education and health professions, is seeking a candidate with skills and
+experience in database-driven Web application development to join our
+talented team of developers.
+
+Web application development experience on a LAMP stack is a must. Perl
+knowledge and proven experience is a requirement, as Perl is our main
+development language. Perl's Catalyst MVC framework is becoming a core part
+of our architecture, and we are doing experimentation with Ruby on Rails
+for several projects. HTML/Javascript/CSS/AJAX are used for the front-end
+of our applications. Microsoft SQL Server is used as the primary database
+technology, but MySQL and Postgres are being explored as alternatives.
+
+Solid background in another language, be it .NET, Java, Python, PHP, or
+Ruby on Rails, is a plus. Familiarity with a variety of open-source
+technologies is a plus. 
+
+A successful candidate will be enthusiastic and open to acquiring new
+skills.
+
+Responsibilities:
+
+The candidate will be working on a variety of projects, including:
+
+    * Maintaining and extending existing Perl-based CGI applications
+    * Creating new applications in Perl, Catalyst, and potentially Ruby on
+Rails
+    * Contributing standardized modules and tools to our code library
+    * Helping develop a solid release/deployment management framework 
+
+Join us to participate in our continuous growth and develop the next
+generation of centralized application and accreditation services.
+
+Job Description
+
+We are looking for someone with skills and experience in database-driven
+Web application development to join our talented team of Perl developers.
+
+Perl knowledge is preferred as Perl is our main language but if you have a
+strong background in another language, be it .NET, Java, Python, or Ruby, a
+deep understanding of database-driven Web application development, you are
+enthusiastic and open to acquiring new skills, we will teach you Perl.
+
+You will be working in a variety of projects including maintaining and
+extending existing applications, creating new applications, and
+contributing to our code library.
+
+
+Required skills:
+    * 2–5 years of Web Application Development experience using Perl and
+Templating systems, including but not limited to:
+	  o CGI::Application
+	  o HTML::Template, Template::Toolkit
+	  o Catalyst or other Perl MVC web framework 
+    * 2–5 years of SQL Experience with MS SQL Server and TSQL/ANSI SQL
+    * Solid experience with the Apache/Linux environment
+    * Working knowledge/experience with HTML/Javascript/CSS
+    * Understanding of source control systems (Subversion a plus)
+    * Experience working in a dynamic, fast-paced application development
+environment
+    * Ability to work well independently and within a team
+    * Excellent written and verbal communication skills 
+
+* Experience with Apache/Linux
+* Understanding of source control systems
+* Experience working in a dynamic, fast-paced application development
+environment
+* Ability to work well independently and within a team
+* Excellent written and verbal communication skills
+
+Desired Skills 
+* Perl programming or scripting
+* CGI::Application, MVC Framework
+* HTML::Template, Template::Toolkit
+* MS SQL Server, TSQL
+* Subversion
+
+Benefits
+
+* Medical, dental, and vision plan
+* IRA with a company match
+
+Salary Commensurate with experience
+
+
+Desired skills:
+Desired Skills 
+* Perl programming or scripting
+* CGI::Application, MVC Framework
+* HTML::Template, Template::Toolkit
+* MS SQL Server, TSQL
+* Subversion
+
+Benefits
+
+* Medical, dental, and vision plan
+* IRA with a company match
+
+Salary Commensurate with experience
+
+
+Website for more information:
+http://www.liaison-intl.com/careers/sd_softappdev.html
+
+Contact information at:
+http://jobs.perl.org/job/5231#contact

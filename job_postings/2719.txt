@@ -1,0 +1,83 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2719
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 25326 invoked from network); 16 May 2005 17:24:42 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 16 May 2005 17:24:42 -0000
+Received: (qmail 19056 invoked by uid 225); 16 May 2005 17:24:42 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 19051 invoked by alias); 16 May 2005 17:24:41 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 16 May 2005 10:24:38 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j4GHOZBL016222
+	for <jobs@perl.org>; Mon, 16 May 2005 10:24:35 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j4GHOZYl016220;
+	Mon, 16 May 2005 10:24:35 -0700
+Date: Mon, 16 May 2005 10:24:35 -0700
+Message-ID: <200505161724.j4GHOZYl016220@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Cluster System Administrator, United States, California, Mountain View or Dublin
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2329
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 16, 2005
+
+Job title: Cluster System Administrator
+
+Company name: Google
+
+Location:
+United States, California, Mountain View or Dublin
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Description:
+Google's Cluster Operations team is looking for talented system
+administrators to help administer Google's complex, proprietary clustering
+technologies. Literally thousands of Linux servers power the technology
+behind Google.com, and it's a real challenge to administer these
+effectively. Google's Cluster Operations team needs seasoned system
+administrators to automate complex tasks across a huge cluster.
+
+Responsibilities: 
+Automation of tasks as much as possible through the development of scripts
+and administration tools. 
+Configuration of system and network parameters. 
+Monitoring of system stability and performance. 
+Ensuring 24x7 operation of our cluster. 
+Comprehensive documentation of our procedures. 
+
+Required skills:
+Perl Coding/Scripting
+BA/BS in Computer Science or a related technical discipline. 
+Experience in a high-volume or critical production service environment. 
+Proven technical troubleshooting experience.   
+In-depth knowledge of Linux, networking, and shell scripting. 
+Experience with MySQL a plus.  
+Excellent written and verbal communication skills. 
+Ability to handle periodic on-call duty as well as out-of-band requests. 
+
+Contact information at:
+http://jobs.perl.org/job/2329#contact
+
+

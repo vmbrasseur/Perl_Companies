@@ -1,0 +1,74 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11706
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8256 invoked from network); 23 Sep 2011 17:34:01 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 23 Sep 2011 17:34:01 -0000
+Received: (qmail 15878 invoked by uid 225); 23 Sep 2011 17:34:01 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 15858 invoked by alias); 23 Sep 2011 17:34:00 -0000
+X-Spam-Status: No, hits=-4.1 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SARE_MLH_Stock1,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 23 Sep 2011 10:33:57 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 43CF62AFE2; Fri, 23 Sep 2011 10:33:54 -0700 (PDT)
+To: jobs@perl.org
+Date: Fri, 23 Sep 2011 10:33:54 -0700
+Message-ID: <20110923173354.43CF62AFE2@x3.develooper.com>
+Subject: Sysadmin/Operations with Perl skills for Financial Institute
+ (onsite), Stockholm, Sweden
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14886
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 23, 2011
+
+Job title:
+Sysadmin/Operations with Perl skills for Financial Institute
+
+Company name: Glue Finance AB
+
+Location: Stockholm, Sweden
+
+Pay rate: negotionable
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We're looking for a sysadmin/operator to assist our developers and CTO in
+running and improving our systems.
+
+You'll be working with tasks such as fixing immediate problems,
+investigating errornous transactions, installing, building and configuring
+things such as log-aggregation and test-environments, monitoring and much
+more. We belive it's a very varied position but will also requires quite a
+lot of skill and willingness to learn.
+
+Required skills:
+at least 2-3 years of professional system administration / operations
+strong knowledge of UNIX and Linux
+Perl for system administration
+good communication skills in Swedish and English
+
+Desired skills:
+Python/Ruby/bash
+Postgres
+
+Website for more information: http://www.gluefinance.com/jobs/sysop.html
+
+Contact information at:
+http://jobs.perl.org/job/14886#contact

@@ -1,0 +1,107 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10486
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 31878 invoked from network); 28 Aug 2010 07:59:20 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 28 Aug 2010 07:59:20 -0000
+Received: (qmail 26491 invoked by uid 225); 28 Aug 2010 07:59:20 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 26487 invoked by alias); 28 Aug 2010 07:59:19 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 28 Aug 2010 00:59:18 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id D5B752AFE0; Sat, 28 Aug 2010 00:59:14 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20100828075914.D5B752AFE0@x3.develooper.com>
+Date: Sat, 28 Aug 2010 00:59:14 -0700 (PDT)
+Subject: Sr. Software Engineer - Test Automation (onsite), United States, CA, Glendale
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/12806
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 28, 2010
+
+Job title: Sr. Software Engineer - Test Automation
+
+Company name: AT&T Interactive
+
+Location: United States, CA, Glendale
+
+Pay rate: DOE
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+AT&T Interactive, a subsidiary of AT&T Inc, is an industry leader in
+creating local search products that encourage consumers to discover and
+engage with local businesses across three screens - online, mobile, and TV.
+YP.com attracts over 36 million monthly online unique visitors. YP.com is
+also accessed by millions of users each month via the mobile web. AT&T
+Interactive consumer apps have a pre-activation presence or have been
+downloaded through digital app stores on over 40 million mobile phones.
+
+Helping advertisers grow their business, AT&T Interactive’s local ad
+network, one of the industry’s most robust, distributes ads to a
+distinguished list of top publishers whose presence spans online, mobile
+and TV platforms. AT&T Interactive’s wide range of local ad products such
+as premium listings, performance-based advertising, and search engine
+marketing provides advertisers an opportunity to reach consumers who are
+looking for a local business.
+ 
+AT&T Interactive products are supported by more than 5,000 media
+consultants from AT&T Advertising Solutions.
+ 
+Join our dedicated and talented team of individuals all focused on creating
+the best products in the marketplace. We currently have an opportunity for
+a Sr. Software Engineer – Test Automation in our Glendale, CA office.
+
+We are looking for a brilliant software engineer for test automation with a
+main focus on Perl. This role is expected to perform the following duties:
+- Understand and analyze up-stream systems use-cases in effort of
+simulating them using various automation frameworks.
+- Build test automation frameworks using Perl as the language of choice to
+validate the data going through the various phases of our data pipelines.
+- Perform moderate complexity DB queries/operations in effort of setting up
+test data and validating it.
+- Bottom line, this position is for someone to test data E-2-E.
+
+Required skills:
+- Minimum of 8 years of IT experience.
+- 5+ years experience in Perl developing applications and/or test
+frameworks. 
+- 3+ years experience in moderate/high complexity SQL.
+- 3+ years experience in software quality engineering building data driven
+test frameworks. NO MANUAL TESTERS WILL BE CONSIDERED.
+- Strong experience in Unix/Linux and shell scripting.
+- Capable of performing research and analysis to find out needs and
+possibilities.
+- Able to multi-task, triage issues, react well to changes, work
+independently in a fast paced environment.
+
+Desired skills:
+- Past experience with an online Ad platform is a BIG plus.
+- Experience working with the following technologies is a HUGE plus:
+Hadoop, Hive, Oozie, Grid Computing, and Vertica.
+
+
+Contact information at:
+http://jobs.perl.org/job/12806#contact
+
+

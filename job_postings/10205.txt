@@ -1,0 +1,78 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10205
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 26097 invoked from network); 2 Jun 2010 22:16:04 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 2 Jun 2010 22:16:04 -0000
+Received: (qmail 4586 invoked by uid 225); 2 Jun 2010 22:16:03 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 4579 invoked by alias); 2 Jun 2010 22:16:02 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 02 Jun 2010 15:16:01 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id E4B2C2AFDE; Wed,  2 Jun 2010 15:15:57 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20100602221557.E4B2C2AFDE@x3.develooper.com>
+Date: Wed,  2 Jun 2010 15:15:57 -0700 (PDT)
+Subject: Performance Engineer - Automation , CA, Palo Alto
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/12350
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June  2, 2010
+
+Job title: Performance Engineer - Automation 
+
+Company name: VMware
+
+Location: CA, Palo Alto
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Description:
+Engineers interested in understanding the behavior of complex software
+systems, optimizing performance and characterizing applications get to
+analyze and improve the performance of key components of virtualization
+software for industry-standard computer systems. 
+
+Responsibilities: 
+
+• Automate tracking of the performance and scalability characteristics of
+the VMware vSphere product suite 
+• Build and maintain a comprehensive suite of tests and tools to monitor
+the performance and scalability of the VMware vSphere platform across a
+wide range of software and hardware configurations 
+• Identify performance regressions 
+• Work with development teams to analyze and address performance 
+
+Required skills:
+• In-depth knowledge of scripting, Shell and Perl
+• System administration experience a must (both Linux and Windows);
+experience in managing large clusters of systems
+• Knowledge of operating system internals (Linux or Windows) 
+
+
+Desired skills:
+• Practical knowledge of processor architectures (Intel, AMD), storage
+concepts (SANs, NAS, FC, iSCSI, FCoE) and/or networking concepts (TCP, UDP,
+socket API, drivers) highly desirable 
+
+Contact information at:
+http://jobs.perl.org/job/12350#contact
+
+

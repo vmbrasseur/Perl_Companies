@@ -1,0 +1,213 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3530
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 3689 invoked from network); 30 Nov 2005 19:23:00 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 30 Nov 2005 19:23:00 -0000
+Received: (qmail 10385 invoked by uid 225); 30 Nov 2005 19:22:59 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 10380 invoked by alias); 30 Nov 2005 19:22:59 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 30 Nov 2005 11:22:51 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id jAUJMjUp010810
+	for <jobs@perl.org>; Wed, 30 Nov 2005 11:22:45 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id jAUJMjvR010808;
+	Wed, 30 Nov 2005 11:22:45 -0800
+Date: Wed, 30 Nov 2005 11:22:45 -0800
+Message-ID: <200511301922.jAUJMjvR010808@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+X-Virus-Checked: Checked
+Subject: Software Engineers (onsite), United Kingdom, London, White City
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3372
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 30, 2005
+
+Job title: Software Engineers
+
+Company name: BBC
+
+Internal ID: 79905
+
+Location: United Kingdom, London, White City
+
+Pay rate: £28 - £33 pa
+
+Terms of employment: Salaried employee
+
+Length of employment: 18 Months
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+AIMS OF THE JOB
+To develop, manage and document high quality components for interactive web
+sites, data processing pipelines and a content production framework.
+
+To contribute to the provision of a content production and software
+development infrastructure.
+
+To support the Software Engineering Team Leader in ensuring that Learning &
+Interactive makes the best use of available technology in the planning,
+preparation and presentation of its internet site and related media.
+
+To contribute to the long-term development and sharing of skills within the
+Software Engineering team.
+
+To communicate technical information to the rest of the department in a
+concise and understandable manner.
+
+ORGANISATION
+Reports to the Software Engineering Team Leader, Learning & Interactive. 
+
+All team members perform a core software development role; systems and
+database administration and user documentation duties are distributed
+amongst members of the team.
+
+CONTEXT
+The Software Engineers together with the Webmasters, Client-side Developers
+and Technical Project Managers form a technical team working alongside the
+graphic designers and content producers.
+
+Learning & Interactive seeks to be at the forefront of internet and
+interactive TV developments. This is an area where the future direction of
+technology is not always clear and therefore it is essential that the
+department keeps itself up-to-date and is constantly seeking the best ways
+to deliver its services.
+
+The Learning & Interactive technical teams provide the infrastructure for
+Interactive F&L output (in particular the department’s increasing need for
+content production and management) and also pilot new approaches and
+contribute components to other parts of the BBC.
+
+KEY RESPONSIBILITIES
+Core Role:
+1. To develop perl scripts and modules in a unix environment using tools
+such as cvs and make.
+
+2. To create highly scalable and secure interactive Web components and
+applications using CGI, mod_perl, SQL etc.
+
+3. To develop a content production framework for Learning & Interactive
+using XML and relational database technologies on a mixture of Windows and
+Unix platforms.
+
+4. To contribute to the development of a toolkit of reusable components.
+
+5. To document all modules and scripts for a technical audience.
+
+6. To maintain and improve software components using organisational tools
+such as cvs, wiki and MS Outlook.
+
+7. To contribute to improvement of the software development cycle.
+
+8. To keep abreast of new developments and develop expertise in scripting
+and programming languages, databases, data exchange protocols, internet
+standards and share knowledge with the Software Engineering and other
+technical teams.
+
+9. To represent Learning & Interactive on technical issues within the wider
+BBC.
+
+10. To be self-organised and work effectively in a team as well as
+individually.
+
+11. To advise the Software Development Team Leader and others on resources
+and time scales associated with projects.
+
+Plus some of the following (the full range of these responsibilities will
+be spread through the technical team so individuals will not be expected to
+cover all of these):
+
+1. To administer Unix development and content production servers.
+
+2. To maintain departmental databases.
+
+3. To write documentation of applications and components for an audience
+with a wide range of technical knowledge.
+
+4. To manage the library of source code, documentation and other associated
+resources.
+
+5. To assist in monitoring and provision of statistics for technical teams.
+
+
+6. To advise Technical Project Managers working with external developers in
+ensuring interactive applications they supply are to the technical
+specifications provided.
+
+
+Required skills:
+SKILLS, ABILITIES AND EXPERIENCE
+
+1. Considerable experience programming (modular and object-oriented) Perl.
+This is our primary programming language.
+
+2. Good software engineering skills - writing clean, modular code with good
+API documentation and unit test coverage.
+
+3. Strong unix systems skills (ideally with Solaris and Red Hat Linux).
+
+4. Familiarity with SQL and relational databases. Experience of perl DBI.
+
+5. Detailed knowledge of CGI and mod_perl programming (including security &
+scalability).
+
+6. Familiarity with a broad range of CPAN modules.
+
+7. Knowledge of HTML and JavaScript with an awareness of
+cross-browser/platform compatibility.
+
+
+Desired skills:
+The following skills and experience are very useful. (We do not expect each
+individual member of the engineering team to have experience in all these
+areas. However, these skills should be present within the team):
+
+Experience with Oracle 9i, MySQL or MS Access.
+
+Writing perl modules for CPAN.
+
+Experience of porting CGI applications to mod_perl.
+
+Familiarity with XML, DTDs and XML Schemas, and XSLT.
+
+Unix Systems Administration, networking and hardware upgrading.
+
+Experience with Apache web server configuration.
+
+Familiarity with CVS, make, Devel::Cover, Devel::DProf etc.
+
+Experience with Activestate perl, PPM etc on Windows.
+
+VB or VBA programming.
+
+Writing perl extensions (XS or SWIG) in C/C++.
+
+Knowledge of wxWidgets / wxPerl and the Win32 API.
+
+
+URL for more information: http://www.bbc.co.uk/jobs
+
+Contact information at:
+http://jobs.perl.org/job/3372#contact
+
+

@@ -1,0 +1,96 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7099
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 9668 invoked from network); 11 Oct 2007 15:33:57 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 11 Oct 2007 15:33:57 -0000
+Received: (qmail 29106 invoked by uid 225); 11 Oct 2007 15:33:56 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 29097 invoked by alias); 11 Oct 2007 15:33:55 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 11 Oct 2007 08:33:46 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 9CACA2AFE4; Thu, 11 Oct 2007 08:33:42 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20071011153342.9CACA2AFE4@x3.develooper.com>
+Date: Thu, 11 Oct 2007 08:33:42 -0700 (PDT)
+Subject: Quantitative Equity Research -- Developer / Programmer (onsite), United States, New York, New York
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/6967
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 11, 2007
+
+Job title:
+Quantitative Equity Research -- Developer / Programmer
+
+Company name: Continuity Partners
+
+Location: United States, New York, New York
+
+Pay rate: $250,000 +
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+This group is responsible for the development of domestic and global
+quantitative equity strategies and equity based risk models. 
+We are looking for a programmer / developer who will take an active role in
+the building and maintaining of our proprietary quantitative research and
+production platforms. These research platforms will be used to understand
+the core driver of equity returns whereas the production platform will be
+the system under which our models are updated nightly. Specifically, the
+person be responsible for: 
+•	Participate in building the research platform financial data
+warehouse.  The warehouse will store all the equity related financial data,
+with some of the source data going back to 1920s. The platform will be
+evolving as the group expands its research effort. The initial system will
+be about 1.0 TB and will grow rapidly. 
+•	Participate in building the production platform, both the
+production financial data warehouse and nightly production process system. 
+
+•	Participate in building the distributed backtest and optimization
+system.  The backtest/optimization will allows us to simulate our model and
+measure its efficacy.
+
+
+Required skills:
+Minimum of 3 years of working experience with data warehouses
+5 + years of Unix, Perl and Korn shell scripting
+2+ years of UDB database experience - experience with data and batch
+loading processes
+Solid skills in multiple programming languages, systems, as well as systems
+design	
+Knowledge of the overall business operating models and underlying technical
+architecture  
+Understanding of relevant technologies and development life cycles
+Strong written and verbal communication skills
+Java experience preferred 
+Strong attention to details
+
+
+Desired skills: Industry Experience
+
+URL for more information: http://www.cpi-search.com/openings.php
+
+Contact information at:
+http://jobs.perl.org/job/6967#contact
+
+

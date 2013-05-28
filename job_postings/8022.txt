@@ -1,0 +1,104 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8022
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 29675 invoked from network); 23 Apr 2008 15:03:16 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 23 Apr 2008 15:03:16 -0000
+Received: (qmail 6819 invoked by uid 225); 23 Apr 2008 15:03:16 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 6813 invoked by alias); 23 Apr 2008 15:03:15 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 23 Apr 2008 08:03:07 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 705592AFE4; Wed, 23 Apr 2008 08:03:03 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080423150303.705592AFE4@x3.develooper.com>
+Date: Wed, 23 Apr 2008 08:03:03 -0700 (PDT)
+Subject: Web Developer for Healthcare ASP (telecommute), United States, NY, New York
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8498
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 22, 2008
+
+Job title: Web Developer for Healthcare ASP
+
+Company name: Medikin Incorporated
+
+Location: United States, NY, New York
+
+Pay rate: $20
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: long term
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+If you are looking for a long-term position which gives you the flexibility
+to work from your current location, this could be a good opportunity for
+you.
+
+Medikin Incorporated is a Healthcare IT company based in New York City.
+More specifically we are a TASP or Transcription ASP. Our software
+automates the daily workflow for more than 100 medical transcription
+companies. We've been in business since 2002. 
+
+We have a number of projects which we would like to implement in the near
+future, so we are looking for a few eager developers to become an integral
+part of our development team. The technical requirements for the positions
+are as follows:
+
+
+Required skills:
+
+   1. PERL / CGI - the more experience the better since the application is
+written almost entirely in PERL.
+   2. Familiarity with best practices in application development,
+documentation, etc.
+   3. Ability to understand and unwind spaghetti code. See number 2 above.
+We are working towards that.
+
+Desired skills:
+A. Project management in software development. We are looking for a team
+leader who has demonstrated skills in this area.
+B. Familiarity with PHP and Javascript is useful.
+C. A bigger plus would be familiarity with Windows interfacing technologies
+and programming including ASP.NET and Java as we have some component
+development projects which would require those skills
+D. Familiarity with PostgreSQL is a plus. Advanced DBA skills would be
+great so that we can optimize queries and keep the database well tuned.
+E. Sysadmin skills with the LAMP stack. See number 1 and item C above –
+replace mySQL and PHP with PostgreSQL and PERL. If you don't know it all
+but have admin'd linux boxes in production environments you get the idea.
+We have a full-time sysadmin so we're not expecting the candidate to stray
+too much from development work. This is more for backup and occasional
+loadbalancing of our sysadmin.
+F. Speaking of backup and loadbalancing, we're aiming to build our app into
+a bulletproof ASP, so we're investigating various high availability and
+scalability solutions such as replication and clustering. If you have
+familiarity with these tools and could help us devise and build the
+solution that would be a major plus.
+
+URL for more information: http://www.medikin.com/
+
+Contact information at:
+http://jobs.perl.org/job/8498#contact
+
+

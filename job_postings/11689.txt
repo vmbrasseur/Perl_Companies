@@ -1,0 +1,98 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11689
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 7623 invoked from network); 19 Sep 2011 23:03:23 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 19 Sep 2011 23:03:23 -0000
+Received: (qmail 16447 invoked by uid 225); 19 Sep 2011 23:03:23 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 16443 invoked by alias); 19 Sep 2011 23:03:23 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS,T_FRT_PROFILE2
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 19 Sep 2011 16:03:20 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 141222AFD6; Mon, 19 Sep 2011 16:03:16 -0700 (PDT)
+To: jobs@perl.org
+Date: Mon, 19 Sep 2011 16:03:16 -0700
+Message-ID: <20110919230317.141222AFD6@x3.develooper.com>
+Subject: Perl ETL Developer (onsite), Austin, TX     ** ON SITE ONLY / South
+ Austin **
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14578
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 19, 2011
+
+Job title: Perl ETL Developer
+
+Company name: AMD (Advanced Micro Devices)
+
+Location: Austin, TX     ** ON SITE ONLY / South Austin **
+
+Pay rate: $50+/hour, doe
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 6 months (possible subsequent renewal or FTE hire)
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We're still seeking a Perl developer with experience in backend analytics
+systems and reporting.
+
+** PLEASE NOTE: THIS IS AN ON SITE OPPORTUNITY ONLY **
+Please do not apply for this position if you do not live in the greater
+Austin, TX vicinity.
+
+We are looking for a seasoned developer (NOT a scripter!) to join a team of
+three other Perl developers that's responsible for maintaining and
+enhancing a legacy ETL system that loads engineering microchip test data to
+a MySQL database. The idea candidate will have a minimum of 5 years of
+experience with Perl in addition to at least 1 year working in an OLAP data
+warehousing environment.
+
+Much of this system was developed by others and is in bad need of
+refactoring. Comfort with both refactoring legacy code and fluency with SQL
+queries are important.
+
+Since stabilizing and scaling this system is of primary concern, there may
+be opportunity to port code to, and work with newer tools in this space
+such as Hadoop.
+
+Required skills:
+You MUST have solid Perl development skills. In addition to familiarity
+with Version Control concepts, editors/IDEs, and an understanding of Perl
+Best Practices, you must also have concrete experience writing modular
+code; be proficient with the ins and outs of Perl's OO system; be
+comfortable in a Linux server environment; and have a good grasp of SQL
+queries and optimization strategies.
+
+A code sample is REQUIRED from any serious candidates. If you do not have a
+code sample handy please inquire for our standard coding task that can be
+used in lieu of a code sample.
+
+Desired skills:
+Pluses: MySQL administration/tuning, and experience with query optimized
+analytic Data Warehouse schemata such as the star and snowflake patterns.
+Also, experience with Java, PHP, or the R statistical language.
+
+BIG Pluses: Perl Unit Testing literacy, Agile (Scrum, XP, TDD), 'Modern
+Perl' conventions and modules, and being a CPAN author.
+
+Website for more information: http://www.amd.com/us/Pages/AMDHomePage.aspx
+
+Contact information at:
+http://jobs.perl.org/job/14578#contact

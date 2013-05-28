@@ -1,0 +1,111 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11875
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 15149 invoked from network); 18 Nov 2011 18:00:37 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 18 Nov 2011 18:00:37 -0000
+Received: (qmail 1732 invoked by uid 225); 18 Nov 2011 18:00:37 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 1725 invoked by alias); 18 Nov 2011 18:00:36 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 18 Nov 2011 10:00:31 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 310E52AFE0; Fri, 18 Nov 2011 10:00:27 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 18 Nov 2011 10:00:27 -0800
+Message-ID: <20111118180028.310E52AFE0@x3.develooper.com>
+Subject: Perl/PHP Developer (part onsite), United Kingdom
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15150
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 18, 2011
+
+Job title: Perl/PHP Developer
+
+Company name: Radian IT Ltd
+
+Location: United Kingdom
+
+Pay rate: DOE
+
+Terms of employment: Salaried employee
+
+Hours: Flexible
+
+Onsite: some
+
+Description:
+Perl Developer
+East Yorkshire, United Kingdom
+Part/Full time/Telecommute/Home/Flexible
+Salary dependent on experience and skills
+ 
+We are a web development and systems management company based in East
+Yorkshire and have the immediate need for a perl developer.  Must have
+experience with the full web stack including perl, MySQL, HTML, CSS,
+Javascript/Jquery.  Reliability, positive attitude, and good communication
+skills are a must.  You will work on a variety of projects for clients in
+Europe and North America, and must be able to take on new technologies in
+your stride.  You can work from home with on-site training as needed.  If
+you are a motivated, intelligent developer who can make a significant
+contribution to our business with a smile then please contact ryan [at]
+radianit.com ASAP.
+
+Required skills:
+To succeed in this role you must have the following skills:
+ 
+•	Develop perl in structured applications.  Familiar with OOP,
+preferably Moose.
+•	Familiar of MVC frameworks such as Catalyst, CodeIgnitor, CakePHP
+etc.
+•	Familiar with a templating system such as Smarty or Template
+Toolkit
+•	MySQL: advanced queries/joins, create/alter tables, create indexes,
+etc.
+•	Experience with Linux or Unix-like OS, familiar with shell, ssh,
+scp
+•	Web 2.0 concepts such as AJAX, XML, JSON, etc.
+•	Source code control with SVN, Mercurial, Git, etc.
+•	Team player, familiar with agile methodologies, organized,
+excellent written and verbal.
+•	Good customer facing skills.
+•	Understanding of HTTP Protocol, client/server communication
+ 
+
+ 
+You must be in the United Kingdom with permission to work for a minimum of
+12 months to apply.  Applications from candidates outside the United
+Kingdom, from outsourcing companies and enquiries from recruiters will be
+ignored.  No agencies please.
+
+Desired skills:
+Although not essential, skills in any of the following would be beneficial
+to your application:
+ 
+•	Systems administration, managing servers, shell scripting
+•	PHP development
+•	Testing: Unit testing, test frameworks, Selenium, etc
+•	Caching layers with APC, Memcached
+•	NoSQL – MongoDB, Cassandra, Tokyo Cabinet, Hadoop, Hypertable, etc.
+
+•	Ruby/Rails
+•	Design, Photoshop, Illustrator, Flash
+•	Email systems such as Qmail, Sendmail, Postfix, Exim
+•	DNS
+•	Apache, mod rewrite, nginx, lighthttpd, etc
+
+Contact information at:
+http://jobs.perl.org/job/15150#contact

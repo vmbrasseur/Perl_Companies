@@ -1,0 +1,90 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5437
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 25505 invoked from network); 13 Dec 2006 06:16:49 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 13 Dec 2006 06:16:49 -0000
+Received: (qmail 12365 invoked by uid 225); 13 Dec 2006 06:16:47 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 10306 invoked by alias); 13 Dec 2006 06:14:27 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 12 Dec 2006 22:14:24 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id A34112AFE6; Tue, 12 Dec 2006 19:40:34 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20061213034034.A34112AFE6@x3.develooper.com>
+Date: Tue, 12 Dec 2006 19:40:34 -0800 (PST)
+Subject: Perl contractor for XML to HTML/PDF workflow system (part onsite), United States, CA, Cupertino
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5085
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 12, 2006
+
+Job title:
+Perl contractor for XML to HTML/PDF workflow system
+
+Company name: Apple Computer, Inc
+
+Location: United States, CA, Cupertino
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: Six months (possible extension
+
+Hours: Flexible
+
+Onsite: some
+
+Description:
+I manage a Technical Publications tools team at Apple, and am  
+coordinating the search for a contract position.  This position will  
+help another publications team transition to using the technology  
+provided by my team.  The role involves:
+
+- Helping a team new to XML/CSS/Formatting Objects come up to speed  
+on these formats; in particular, working with production people to  
+help them become self-sufficient.
+
+- Customizing a Perl-based toolchain to meet this team's needs for  
+HTML, PDF, and print production.
+
+- Helping define the future publication strategy for the team.
+
+
+Required skills:
+People skills are an important factor.	You should have a strong grounding
+in these technologies:
+
+- Object-oriented Perl
+- XML
+- HTML/CSS
+- Template-driven development
+
+Desired skills:
+You will need to use these technologies, but as long as you have a proven
+ability to come up to speed or familiarity with similar technologies,
+previous experience with them is not a requirement:
+
+- Twig (Perl XML library)
+- Template Toolkit
+- RELAX NG
+- Formatting Objects
+
+
+Contact information at:
+http://jobs.perl.org/job/5085#contact
+
+

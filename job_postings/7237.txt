@@ -1,0 +1,116 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7237
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 18459 invoked from network); 6 Nov 2007 19:35:05 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 6 Nov 2007 19:35:05 -0000
+Received: (qmail 29656 invoked by uid 225); 6 Nov 2007 19:35:03 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 29590 invoked by alias); 6 Nov 2007 19:34:56 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 06 Nov 2007 11:34:46 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 496A02AFD8; Tue,  6 Nov 2007 11:34:31 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20071106193431.496A02AFD8@x3.develooper.com>
+Date: Tue,  6 Nov 2007 11:34:31 -0800 (PST)
+Subject: Senior Perl Developer (onsite), United States, MI, Lansing
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/7217
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November  6, 2007
+
+Job title: Senior Perl Developer
+
+Company name: Liquid Web Inc.
+
+Location: United States, MI, Lansing
+
+Pay rate: $50,000-$70,000 USD
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Since 1997, Liquid Web Incorporated has experienced tremendous growth in
+Lansing Michigan. With the opening of our 2nd state of the art 32,000
+square foot datacenter we are expecting to add 100 new high tech jobs in
+the next several months.
+
+Liquid Web Inc, an Equal Employment Opportunity (EEO) employer, offers a
+challenging and supportive work environment, competitive salaries, and
+opportunities for professional growth.
+
+Liquid Web offers a comprehensive benefit package that includes health,
+dental, short and long-term disability coverage, and paid time off. We also
+have flexible scheduling, casual dress, free Friday lunches, and free food!
+
+
+Liquid Web Inc. is looking for an experienced Perl developer to assist in
+the development of the internal applications that help run our daily
+operations. These areas include Billing, Helpdesk, Workflow Management,
+Monitoring and more. The successful candidate will be detail-oriented, and
+must be able to deliver software projects from start to finish.
+
+    *	Assist in the planning, development, testing, debugging,
+documenting and deploying of our internal software.
+	  o Gather requirements and plan for future software development.
+	  o Develop structured code that is easy to use, reliable, and
+maintainable.
+	  o Develop testing procedures, and use those procedures for
+verifying software development.
+	  o Help with the software debugging process. (Verifying,
+recording, patching, communicating).
+	  o Provide adequate documentation for other developers and users.
+	  o Deploy software in a 24/7 environment with minimal impact.
+    * Work primarily on development but also perform DBA tasks and systems
+administration duties as needed.
+    * Provide support for internal operations.
+    * Help develop tools needed to integrate new products into our systems.
+
+Required skills:
+    *  Proficient in Perl, and OO Perl Techniques.
+    * Experience developing relational databases.
+    * Familiarity with web architectures.
+    * Some JavaScript knowledge.
+    * System administration with strong Linux/Unix familiarity.
+    * Able to work effectively with minimal supervision
+    * Self motivated, goal oriented.
+    * Strong communication skills.
+
+
+Desired skills:
+    *  Familiar with HTML::Mason, Database ORM's such as DBIx::Class,
+Class::DBI
+    * Familiar with AJAX, C, and Perl XS
+    * Experience in the web hosting industry.
+    * RPM Package development and repository knowledge
+    * Understanding of IPC (Signals, Unix domain sockets, message queues,
+etc.).
+    * Familiar with version control systems (CVS, SVN, etc.)
+
+
+URL for more information:
+http://www.liquidweb.com/about/jobs.html#004
+
+Contact information at:
+http://jobs.perl.org/job/7217#contact
+
+

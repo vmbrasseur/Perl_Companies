@@ -1,0 +1,123 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13350
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 22374 invoked from network); 26 Apr 2013 06:41:24 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 26 Apr 2013 06:41:24 -0000
+Received: (qmail 26649 invoked by uid 225); 26 Apr 2013 06:41:24 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 26644 invoked by alias); 26 Apr 2013 06:41:23 -0000
+X-Spam-Status: No, hits=-1.3 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,LOTS_OF_MONEY,SUBJECT_NEEDS_ENCODING,SUBJ_ILLEGAL_CHARS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 25 Apr 2013 23:41:15 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 6506A2AFE0; Thu, 25 Apr 2013 23:41:12 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 25 Apr 2013 23:41:12 -0700
+Message-ID: <20130426064112.6506A2AFE0@x3.develooper.com>
+Subject: Web Developer – Perl | Python | Ruby + JavaScript (onsite),
+ Clerkenwell, London, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17313
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 25, 2013
+
+Job title: Web Developer – Perl | Python | Ruby + JavaScript
+
+Company name: Lokku
+
+Location: Clerkenwell, London, UK
+
+Pay rate: £25,000 - £35,000 (dependent on experience)
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Lokku is seeking an intelligent, motivated and forward thinking Web
+Developer to work on the front end of our primary product, the Nestoria
+property search engine, and to help us continue serving millions of house
+hunters in eight countries and six languages.
+
+The challenges we face at Lokku are similar to those faced by larger search
+engines such as Google. On the one hand we have a very popular website that
+needs to remain be lightning fast and deliver a fantastic search
+experience. On the other hand we have a huge amount of data that we need to
+analyse, clean up, extract keywords from, geocode and de-duplicate.
+
+As a member of the development team your primary focus will be our
+user-facing systems, which encompasses our highly customized search
+backend, our templates and HTML generation code, up to and including the
+client-side JavaScript that gives Nestoria its unique user experience.
+However you will not be restricted to any one part of the code base; we
+expect our development team to pitch in on every system and to work
+together to make Nestoria the best it can be.
+
+More about Lokku:
+
+Lokku is a small web company based in Clerkenwell, central London. Our
+primary brand, Nestoria is a vertical search engine in the real estate
+market.
+
+We like to give something back to the technology communities we're involved
+in, and are especially keen on contributing to the Perl (CPAN) and
+Geo-spatial open source development communities. We make our API available
+to developers, are frequent sponsors of relevant events and operate Geomob
+London, a quarterly meet-up for geo and mobile enthusiasts.
+
+We also like to give back to our team members. We invest time into
+expanding our collective knowledge through attending conferences and
+training days, and through our own internal tech talk where each week one
+engineer presents to the team about any subject. Each developer in the team
+has a training budget allocated to them and is expected to search out and
+suggest training opportunities.
+
+Required skills:
+Maybe you are looking to make the move to a tech team which embraces the
+principles of clean code, best practice development methodologies, and
+user-centred product planning. Perhaps you crave a role in a smaller,
+tightly-knit team which affords you a higher degree of responsibility and a
+more diverse range of juicy projects to work on. Or maybe you can't wait to
+get your hands on our frontend and make it work even more smoothly on Opera
+on Android on your Nexus 7.
+
+We are relaxed about your personal motivations, as long as you have the
+following:
+
+•Experience with Perl…
+•     … or with other scripting languages such as Python, Ruby, or PHP
+•Experience with web development including JavaScript and jQuery
+•Experience developing on a Linux platform
+•Excellent technical communication skills
+•A pragmatic and practical approach to solving problems
+
+Desired skills:
+It is also desirable but not essential that you have some of the following:
+
+
+•Experience with internationalization and character encoding
+•Good understanding of test-driven development
+•Time spent using version control systems in a team environment
+•Experience with writing systems which have to scale to large numbers of
+users, database rows, etc.
+•Ability to write and maintain C code
+
+Website for more information: http://www.lokku.com
+
+Contact information at:
+http://jobs.perl.org/job/17313#contact

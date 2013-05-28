@@ -1,0 +1,94 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9448
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 7374 invoked from network); 3 Sep 2009 19:03:22 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 3 Sep 2009 19:03:22 -0000
+Received: (qmail 19906 invoked by uid 225); 3 Sep 2009 19:03:21 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 19898 invoked by alias); 3 Sep 2009 19:03:20 -0000
+X-Spam-Status: No, hits=-6.8 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_NEUTRAL
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 03 Sep 2009 12:03:15 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 5D5002AFDF; Thu,  3 Sep 2009 12:03:11 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20090903190311.5D5002AFDF@x3.develooper.com>
+Date: Thu,  3 Sep 2009 12:03:11 -0700 (PDT)
+Subject: System Administrator for a Wiki-CMS-Groupware-Staging-System (telecommute), Austria, Vienna, Vienna
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/11010
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September  3, 2009
+
+Job title:
+System Administrator for a Wiki-CMS-Groupware-Staging-System
+
+Company name: Panther Consult
+
+Location: Austria, Vienna, Vienna
+
+Pay rate: market price per hour, $ or €
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: Initially 2-4 month up to inde
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+•	Developing Perl scripts for a perfect backup environement
+•	system maintenance and engineering of our staging system
+•	We use: Apache, LDAP, MySQL, Postgres, Citadel, TWiki/FosWiki,
+Typo3/Drupal, Trac, Subversion, Perl, FastCGI, Nagios, Cacti, Ntop, 
+•	We operate Debian/XEN, all servers are virtualized
+•	We have split the filesystem in system and data image to support
+easy staging
+•	We expect you to design and implement a professional operations
+process (based on notifying lists and automated as much as possible using
+PERL-scipts) and simply keep the system up and running
+•	For customer specific projects we need special support like setting
+up new servers using the components described above
+•	Helping us to test and document our applications/workflows
+•	Validate trouble tickets and formulate bugfixing-tickets for
+application developers
+•	Maintenance of system documentation
+
+
+Required skills:
+•	English language
+•	LAMP, LDAP, Nagios, Cacti ... all the other stuff will be easy to
+learn
+•	you are fond of Open Source software but disciplined in following
+your tasks you have committed to
+•	being a reliable team player in an eXtreme programming environment 
+
+•	able to write a useful documentation
+•	following the process (commit on tasks from our project management
+tool, report when it’s done, report your effort on a daily basis
+
+
+Desired skills:
+•	German language
+•	you like to work independently
+•	you have analytical strength
+
+Contact information at:
+http://jobs.perl.org/job/11010#contact
+
+

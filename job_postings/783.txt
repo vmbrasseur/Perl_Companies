@@ -1,0 +1,92 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:783
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 44704 invoked by uid 1016); 4 Mar 2003 17:41:27 -0000
+Date: 4 Mar 2003 17:41:27 -0000
+Message-ID: <20030304174127.44703.qmail@onion.perl.org>
+To: jobs@perl.org
+Subject: Programmer (Perl + MySQL on Linux) for an Online Travel Agency (onsite), Italy, Florence, Empoli
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/666
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March  3, 2003
+
+Job title:
+Programmer (Perl + MySQL on Linux) for an Online Travel Agency
+
+Company name: WorldBy.Com
+
+Internal ID: LAMP
+
+Location: Italy, Florence, Empoli
+
+Pay rate:
+25-35k depending on skills (cost of life here il much lower than in US or
+UK so please don't expect US-leveled figures)
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: 2 years
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The programmer will manage our LAMP application along with our Senior
+Programmer. Working Environment is fully english (and only english)
+speaking.
+
+No need to know italian. And if you don't know english you can't work here.
+
+
+We are developing a reservation management System "only".
+
+We are 100% OpenSource: Linux, Apache, MySQL (Sinisa Milivojevic from MySQL
+helps us to optimize the structure and architecture, from time to time...),
+and of course, Perl (not mod_perl, just CGI).
+
+Figures (huge, this is not a "toy application")
+
+30,000 reservations a year
+1 million e-mail messages a year
+thousands of Perl scripts
+hundreds of tables (some of them of about 1 GB in size) some 3 million
+queries a day on our MySQL DataBase.
+
+We are located in Empoli, Florence (check location on www.multimap.com).
+
+A Job assigned "remotely" (and regularly paid as freelance job)is required
+in order to be evaluated (first a freelance job, then we enter in the long
+term, onsite partnership).
+
+We accept on-site only candidates.
+
+Please write only to jobs@worldby.com with Ref. "LAMP"
+
+Please do NOT send partnership offers if you are not interested in working
+onsite (florence, italy), full time, and exclusively for our Company.
+
+Thanks!
+
+Required skills:
+Perl (CGI, not mod_perl), MySQL, JavaScript, HTML.
+
+Desired skills: Linux Systems
+
+URL for more information: http://www.worldby.com/
+
+Contact information: Stefano Galastri
+
+

@@ -1,0 +1,113 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11488
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 11872 invoked from network); 20 Jul 2011 06:12:54 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 20 Jul 2011 06:12:54 -0000
+Received: (qmail 4442 invoked by uid 225); 20 Jul 2011 06:12:54 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 4438 invoked by alias); 20 Jul 2011 06:12:54 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 19 Jul 2011 23:12:49 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id A7A162AFDD; Tue, 19 Jul 2011 23:12:45 -0700 (PDT)
+To: jobs@perl.org
+Date: Tue, 19 Jul 2011 23:12:45 -0700
+Message-ID: <20110720061245.A7A162AFDD@x3.develooper.com>
+Subject: Perl Product Developer (onsite), United Kingdom, Reading
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14506
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 19, 2011
+
+Job title: Perl Product Developer
+
+Company name: Opsera Limited
+
+Internal ID: 150711
+
+Location: United Kingdom, Reading
+
+Pay rate: Negotiable, Subject to experience 
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Opsera helps companies take advantage of high quality Open Source software
+to achieve their business vision. We are Open Source experts, providing
+products and services to deliver an overall solution at lower cost than
+proprietary approaches. Our flagship product is Opsview, the award-winning
+open source system monitoring and management application software.
+
+Opsview is used by our clients to manage their complex IT environments
+across multiple locations, delivering high availability, improved service
+levels and better management information. Opsview is sold both directly by
+Opsera and through our growing list of approved resellers worldwide. We
+have many blue chip clients, such as Allianz, Ericsson, Electronic Arts,
+Microsoft, Irish Revenue, NHS, Trinity Mirror, Yale University and many
+more. We have ambitious growth plans and need highly motivated individuals
+to help improve our product.
+
+Role Description
+
+We are seeking a Perl Developer who is capable of delivering new features
+in our Opsview product suite. This new role provides a real opportunity at
+the start of an exciting period of growth where your dynamism and vision
+could have a direct influence on the success of our Opsview business.
+
+You will be responsible for developing the product and assisting clients
+with requests for specific feature development whilst providing expert
+technical guidance and dealing with technical issues and queries.
+Occasionally you will also assist in pre-sales and post-sales support
+activities working with the Product Manager and Architect, as well as
+providing input to the Opsview development process. You will report to the
+Product Architect. 
+
+Training will be provided in Opsview and other open source tools, but prior
+knowledge of these or similar products would be advantageous.
+
+
+Required skills:
+Required skills
+> Minimum of 2 years experience in Perl
+> Minimum of 2 years experience in either Perl Catalyst web framework or
+DBIx::Class 
+> Computer Science, Mathematics or similar degree
+> Experience in other browser based technologies such as HTML, CSS, AJAX,
+REST, JSON
+
+
+Desired skills:
+ Desired skills 
+> Prior experience of working for a small, high-growth company
+> Experience in version control systems, such as Subversion or Git
+> Experience in Nagios
+> Experience with SQL for MySQL or Oracle 
+> Experience in writing test scripts
+> Experience in testing with Selenium
+> Experience in C programming
+> Contributions to open source projects, especially CPAN modules
+
+
+Website for more information:
+http://www.opsview.com/company/careers/technical/09-05-11/perl-product-deve
+loper
+
+Contact information at:
+http://jobs.perl.org/job/14506#contact

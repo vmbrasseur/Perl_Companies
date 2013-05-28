@@ -1,0 +1,123 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8244
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 18866 invoked from network); 5 Jun 2008 01:25:42 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 5 Jun 2008 01:25:42 -0000
+Received: (qmail 21276 invoked by uid 225); 5 Jun 2008 01:25:42 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 21271 invoked by alias); 5 Jun 2008 01:25:41 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 04 Jun 2008 18:25:39 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id E88562AFF3; Wed,  4 Jun 2008 18:25:32 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080605012532.E88562AFF3@x3.develooper.com>
+Date: Wed,  4 Jun 2008 18:25:32 -0700 (PDT)
+Subject: Developer Tools Engineer (onsite), United States, CA, Sunnyvale
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8862
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June  3, 2008
+
+Job title: Developer Tools Engineer
+
+Company name: Yahoo!
+
+Internal ID: 16235
+
+Location: United States, CA, Sunnyvale
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The Internet is a big, busy place, and we at Yahoo! are proud to stand out
+in the crowd. As the world's number one Internet brand, servicing over a
+half billion people, we're determined to maintain our commitment to
+delivering news, entertainment, information and fun... each and every day.
+
+In order to maintain our position as one of the world's most trafficked
+Internet destinations, we're always on the lookout for people with big
+ideas and big talent to help us provide our visitors with the innovative
+products and services they've come to expect from Yahoo!. We're looking for
+people like you.
+
+How Big Can You Think?
+
+Welcome to the Developer Tools team at Yahoo! The DevTools team already
+provides source code management, deployment, bug tracking, build tools and
+documentation systems to thousands of fellow engineers.
+
+As we further integrate our developer infrastructure, we want to provide a
+best-in-class reports solution. The reports solution will draw data from
+our bug-tracking system (Bugzilla) and from our source code repositories
+(Subversion and CVS). The reports solution will better inform engineers and
+managers about the state of their products.
+
+This is a rare opportunity to design and implement a best-in-class modern
+workflow for optimized software development.
+
+We aim to release much of our technology to the open source community. A
+passion for open source, and experience in contributions, is therefore very
+welcome.
+
+It goes without saying that we need highly motivated, self-starters with
+excellent technical expertise. We're a growing yet cohesive team, so
+attitude and experience count for a lot. DevTools is a fun group to be a
+part of. We look forward to meeting you!
+
+Personal Note:
+
+Based on a similar posting on perl-jobs in November, 2006, I started my
+Yahoo! career in January 2007.	I couldn't be happier.	Yahoo! is a great
+place to work, and working in DevTools is greater still.  I can't summarize
+why I love working here in just a quick blurb, so check it out for
+yourself!  No company is perfect, but you might be surprised at how much
+you'll like ours.
+
+Required skills:
+- Perl 4 years
+- mysql 3 years
+- 4 years professional experience
+- strong html, js
+- strong analytical skills
+- strong inter-personal skills and great communication
+- passion for solving tough problems.
+
+
+Desired skills:
+- Perl 7+ years
+- mysql 5 years
+- Perl Template Toolkit - 2 years
+- Exposure to Yahoo's open source YUI libraries.
+- Experience in designing and implementing web services.
+- Bugzilla development experience is a strong advantage.
+- Experience in building or using other reports systems is also very
+helpful.
+
+
+URL for more information:
+http://careers.yahoo.com/jdescription.php?frm=jsres&oid=16235
+
+Contact information at:
+http://jobs.perl.org/job/8862#contact
+
+

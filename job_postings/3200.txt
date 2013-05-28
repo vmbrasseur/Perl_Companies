@@ -1,0 +1,170 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3200
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 1156 invoked from network); 13 Sep 2005 23:12:48 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 13 Sep 2005 23:12:48 -0000
+Received: (qmail 10694 invoked by uid 225); 13 Sep 2005 23:12:47 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 10681 invoked by alias); 13 Sep 2005 23:12:45 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 13 Sep 2005 16:12:31 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j8DNCSM7001187
+	for <jobs@perl.org>; Tue, 13 Sep 2005 16:12:28 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j8DNCS8v001185;
+	Tue, 13 Sep 2005 16:12:28 -0700
+Date: Tue, 13 Sep 2005 16:12:28 -0700
+Message-ID: <200509132312.j8DNCS8v001185@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Your Chance to Learn Perl "On the Job" (onsite), United States, CA, West Hollywood
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3056
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 13, 2005
+
+Job title: Your Chance to Learn Perl "On the Job"
+
+Company name: Ticketmaster
+
+Internal ID: TMO-PJ
+
+Location: United States, CA, West Hollywood
+
+Pay rate: Commensurate with Skills
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: Regular Hire
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+As many of you know, Ticketmaster is a big perl/mod_perl company. In fact,
+some of you may have read our job postings over the years. I want to point
+out that there are some important changes in our "ideal" candidate for our
+current openings. Ticketmaster has historically interviewed people based
+very much on their perl expertise and that makes sense given our rapid
+growth and our focus on perl. However, I have a number of new open
+positions for our core engineering team where proficiency in perl is
+**NOT** a requirement.
+
+    Why bring this to the attention of a perl jobs list?
+
+To be totally honest, if you get a job here, you'll be coding in perl. It's
+what we do. In order for this to work, we do expect you to have a
+background in software development and object-oriented coding skills. We'd
+also expect that you would feel very comfortable in a linux/unix
+development world. The last and perhaps most important requirement is
+"spark!" We're searching out those people who have the unquenchable desire
+to absorb and learn. If you have this skill, you know it. You're the one
+who just naturally rises to the top. Come to Ticketmaster and we'll give
+you the environment where you can become an uber-geek of perldom if that's
+what you really want!
+
+[If you're already a perl wizard, well then "yeah!" of course I'd always
+like to talk with you too!]
+
+Ticketmaster has excellent benefits (Medical/Dental/Vision, 401K, FSA,
+etc.) and we foster a work hard/play hard attitude (in fact, I just got
+back from a company sponsored night at the King Tut exhibit!).
+
+We have new positions available for associate, mid, and senior-level
+engineers. Please contact me directly if you have any questions. Appended
+below is our "CANNED" or generic mid-level job description. Call for more
+details.
+
+NOTE: I will _not_ entertain calls or emails from recruiting agencies… it's
+the best way to get on my blacklist ;)
+
+Todd Cranston-Cuebas
+
+tcc@ticketmaster.com
+Ticketmaster (NASDAQ: IACI)
+8800 sunset blvd, west hollywood, ca . 90069
+voice 310-360-2436
+
+Required skills:
+-------------CANNED JOB DESCRIPTION-------------
+Develop core back-end technologies for a leader in open-source ,
+high-volume, high-transaction web systems. As part of Ticketmaster product
+development group, you will be responsible for integrating new
+functionality into our existing code base, with an emphasis on perl
+development, as well as aiding in the implementation of new core
+technologies.
+
+Title: Software Engineer
+Location: West Hollywood, California
+Department: Product Development
+
+ESSENTIAL FUNCTIONS:
+
+75%: Coding/Development: Primarily perl development in a
+     Linux/UNIX environment, however, C/C++ skills
+     highly valued.
+
+10%: Design: Design and architecture of solutions and
+     enhancements to the Ticketmaster.com code base.
+
+15%: Troubleshooting: code review/debugging/troubleshooting
+
+Education/Experience:
+
+* 2+ years professional software engineering experience
+* "Classic" engineering skills, ideally C/C++,
+  other Object-oriented development, perl, operating systems.
+* Strong Linux or Unix background
+* Exposure to web architectures
+* RDBMS experience
+
+Desired skills:
+Preferred Education/Experience/Knowledge:
+
+* Perl!
+* C/C++ programming for the web (specifically apache 2.0,
+  apache API, C module development)
+* Significant RDMS systems (Oracle and mySQL ideal)
+* Exposure to algorithm/data structure
+  design and implementation
+* Past experience as a system administrator
+* Degree in Computer Science or Mathematics
+
+Competitive compensation and benefits package offered. Qualified applicants
+should send their resume and salary history to tcc@ticketmaster.com with
+"TMO-PJ" indicated in the subject line.  To learn more about other
+Ticketmaster and IAC career opportunities, visit the IAC/InterActiveCorp
+job board at http:jobsearch.iac-careers.com.
+ 
+Ticketmaster is committed to creating a diverse work environment and proud
+to be an equal opportunity employer. Due to the high volume of responses,
+we will only respond to those candidates that most closely match our
+requirements.  
+
+Thank you for your interest in Ticketmaster, an operating business of
+InterActiveCorp (NASDAQ: IACI).
+
+URL for more information: http://aboutticketmaster.com/careers/
+
+Contact information at:
+http://jobs.perl.org/job/3056#contact
+
+

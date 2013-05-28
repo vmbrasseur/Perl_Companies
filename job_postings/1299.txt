@@ -1,0 +1,87 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:1299
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 61470 invoked by uid 76); 16 Jan 2004 17:02:55 -0000
+Received: from x1.develooper.com (HELO x1.develooper.com) (63.251.223.170) by onion.perl.org (qpsmtpd/0.26) with SMTP; Fri, 16 Jan 2004 09:02:55 -0800
+Received: (qmail 4292 invoked by uid 225); 16 Jan 2004 17:02:50 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 4283 invoked by alias); 16 Jan 2004 17:02:49 -0000
+Received: from onion.develooper.com (HELO onion.perl.org) (63.251.223.166) by la.mx.develooper.com (qpsmtpd/0.27-dev) with SMTP; Fri, 16 Jan 2004 09:02:37 -0800
+Received: (qmail 60366 invoked by uid 1016); 16 Jan 2004 17:02:09 -0000
+Date: 16 Jan 2004 17:02:09 -0000
+Message-ID: <20040116170209.60365.qmail@onion.perl.org>
+To: jobs@perl.org
+X-Spam-Check-By: la.mx.develooper.com
+X-Spam-Status: No, hits=1.8 required=7.0 tests=CARRIAGE_RETURNS,SPAM_PHRASE_03_05,TO_BE_REMOVED_REPLY version=2.44
+X-SMTPD: qpsmtpd/0.26, http://develooper.com/code/qpsmtpd/
+Subject: LDAP/Perl Expert-NJ Consulting Firm, United States, NJ, Bedminster
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1004
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 16, 2004
+
+Job title: LDAP/Perl Expert-NJ Consulting Firm
+
+Company name: Entology, Inc
+
+Location: United States, NJ, Bedminster
+
+Pay rate: flexible
+
+Travel: 25-50%
+
+Terms of employment: Salaried employee
+
+Length of employment: full-time
+
+Hours: Full time
+
+Description:
+We're looking for a smart, flexible generalist with specific experience in
+designing and working with directories (LDAP in general, replication,
+schema/DIT, etc.), network authentication and web single sign-on (SSO and
+policy tools, PKI, krb5), and metadirectory tech.  To this end a strong
+knowledge of Perl for interacting with directory services and porting and
+analyzing data is essential.
+
+The work: From high-level presentation and strategy to hands-on
+implementation and problem solving.  We're a small but growing team, so you
+should be comfortable working directly with clients, tackling technical
+problems, designing an implementation plan, and the other responsibilities
+of the self-sufficient, patient IM expert.
+
+Required skills:
+Perl, of course.
+LDAP and directory fundamentals.
+Some combination of iPlanet DS, Secureway/IBM DS, openldap
+Good general networking knowledge - TCP/IP, UDP, HTTP(S), DNS.
+A foundation in 2000/NT4 and at least one UNIX-like operating system.
+_Very_ strong writing ability in English.
+
+Desired skills:
+Metadirectory (any).
+Perl CGI; Net::LDAP; Mozilla LDAP.  Perhaps ADSI.
+SiteMinder, Oblix, et al.
+High-availability and load-balancing solutions.
+Development with Java (JNDI), C(++), and other languages would be a plus,
+and/or application-server experience.
+Presentation skills.
+
+URL for more information: http://www.entology.com/
+
+Contact information:
+Carissa Palmieri
+Staffing Specialist
+908-333-2331
+cpalmieri@entology.com
+
+

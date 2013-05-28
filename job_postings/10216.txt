@@ -1,0 +1,105 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10216
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 25044 invoked from network); 14 Jun 2010 20:28:57 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 14 Jun 2010 20:28:57 -0000
+Received: (qmail 19295 invoked by uid 225); 14 Jun 2010 20:28:57 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 19290 invoked by alias); 14 Jun 2010 20:28:56 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 14 Jun 2010 13:28:54 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 4CC962AFDE; Mon, 14 Jun 2010 13:28:51 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20100614202851.4CC962AFDE@x3.develooper.com>
+Date: Mon, 14 Jun 2010 13:28:51 -0700 (PDT)
+Subject: Data Engineer (onsite), United States, CA, Santa Clara
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/12378
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June  8, 2010
+
+Job title: Data Engineer
+
+Company name: WhiteHat Security
+
+Internal ID: WTHT-DE-UHP
+
+Location: United States, CA, Santa Clara
+
+Pay rate: competitive
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Do you desire to work on Terabyte-sized datasets, cutting-edge web security
+in the cloud? Come join our team at WhiteHat Security to extend our highly
+successful SaaS Web application to scale our business, serve our security
+engineers and secure the most prominent web sites on the Net. WhiteHat
+developers use agile methodologies and have deep experience in enterprise
+software development, Web application security, data mining, database and
+network security.  Data is critical to our business, and this position is
+an opportunity to be a primary contributor to scale our systems
+architecture, extend our warehouse design, and optimize systems
+performance. You will primarily be a hands-on contributor with ownership of
+design, implementation, and deployment.
+
+
+
+WhiteHat Security provides a comprehensive solution to the rapidly growing
+problem of website security and is the leading provider of website security
+testing services. WhiteHat develops comprehensive, easy-to-use and
+cost-effective solutions that enable companies to secure production web
+applications such as healthcare, auctions, shopping, finance sites, meet
+PCI standards and maintain customer confidence. Our experienced team has
+backgrounds ranging from Symantec to VeriSign to Tripwire to Yahoo!.
+WhiteHat executives are also frequent speakers at premier security industry
+events such as BlackHat, HackInTheBox, OWASP, RSA, SANS, WASC, and more. We
+are growing at an impressive pace and are the right place for bright,
+creative, energetic people looking to get in on the ground floor of a
+fantastic opportunity. 
+
+Required skills:
+Your success will depend on prior hands-on experience with:
+
+    * Perl, Perl, Perl
+    * Familiarity with Class::DBI or DBIx::Class
+    * Unit Testing with Test::More
+    * PostGres or other SQL
+    * BS or MS in Computer Science or Engineering
+    * Effective written and oral communications
+
+Desired skills:
+    * Bonus: Hadoop, Map-Reduce or Grid Frameworks
+    * Test::Class
+    * Selenium
+    * Linux, VMWare, Memcached
+    * TCP/IP, NFS, HTTP, SSL
+    * Javascript, especially jQuery
+    * HTML
+
+URL for more information: http://www.whitehatsec.com/
+
+Contact information at:
+http://jobs.perl.org/job/12378#contact
+
+

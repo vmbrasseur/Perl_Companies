@@ -1,0 +1,74 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4494
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 27863 invoked from network); 16 Jun 2006 22:59:14 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 16 Jun 2006 22:59:14 -0000
+Received: (qmail 14805 invoked by uid 225); 16 Jun 2006 22:59:14 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 14801 invoked by alias); 16 Jun 2006 22:59:13 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 16 Jun 2006 15:59:01 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 151A22AFDF; Fri, 16 Jun 2006 15:58:57 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060616225857.151A22AFDF@x3.develooper.com>
+Date: Fri, 16 Jun 2006 15:58:57 -0700 (PDT)
+Subject: King of PostgreSQL (onsite), United States, UT, Park City
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3993
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 16, 2006
+
+Job title: King of PostgreSQL
+
+Company name: BackCountry.com
+
+Location: United States, UT, Park City
+
+Pay rate: DOE
+
+Travel: 0-25%
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Backcountry.com is still growing at a rate somewhere between 'strong' and
+'wacko'. As such, our PostgreSQL Db needs are becoming more and more
+complex, and we need a DBA who knows PostgreSQL like the back of his/her
+hand.
+
+Our environment is pretty straightforward: webservers talk to an order
+conglomerator, which talk to the back-end, which then shoves things out to
+the warehouse for shipping. Okay-- it's more complex than that, but I am
+trying to describe a straight-up ecommerce site with a ton of traffic.
+
+
+Desired skills:
+Do you have the chops?
+- Can you tell me about how you would sync across multiple environments?
+- How about triggers?
+- What is the most complex PostgreSQL deployment that you've done?
+- What was the coolest PostGreSQL deployment you've done?
+- What ecommerce have you done?
+- How have you dealt with Perl environments connecting to a db before?
+
+Contact information at:
+http://jobs.perl.org/job/3993#contact
+
+

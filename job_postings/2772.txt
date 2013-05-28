@@ -1,0 +1,97 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2772
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 2356 invoked from network); 25 May 2005 16:12:40 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 25 May 2005 16:12:40 -0000
+Received: (qmail 28903 invoked by uid 225); 25 May 2005 16:12:39 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 28899 invoked by alias); 25 May 2005 16:12:38 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 25 May 2005 09:12:35 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j4PGCXPA009518
+	for <jobs@perl.org>; Wed, 25 May 2005 09:12:33 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j4PGCX6D009516;
+	Wed, 25 May 2005 09:12:33 -0700
+Date: Wed, 25 May 2005 09:12:33 -0700
+Message-ID: <200505251612.j4PGCX6D009516@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Perl Web Developer (onsite), United States, Virginia, Arlington
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2661
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 25, 2005
+
+Job title: Perl Web Developer
+
+Company name: System Planning Corporation
+
+Internal ID: Web 05
+
+Location: United States, Virginia, Arlington
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We're looking for a Perl Web Developer- We're currently building a team of
+perl web developers, and we're looking for people with Perl as their
+primary programming language.
+
+The position is for a mid to upper level programmer- someone who is capable
+of picking up the pieces of a project and turning out a complete system.
+
+We're really trying to build an open source friendly environment, and those
+who appreciate such things will enjoy working here.
+
+Required skills:
+Strong Perl skills- must be a competent programmer.
+Strong Database skills- Preferrably PostgreSQL, but MySQL is also welcome.
+Strong Web Development skills- good command of HTML 4.01 strict, XHTML,
+java, CSS, and the CGI perl module.
+Strong Linux skills- we use Debian as our server platform of choice, but
+development environments are up to you.
+
+
+Desired skills:
+Subversion- Code management is done in subversion, so familiarity with it
+is a plus.
+
+XML- when apropriate, it's used. knowledge of XML::Simple is a plus.
+
+Java, Asp, Php- We're in the process of replacing legacy systems in these
+languages, so familiarity is a plus.
+
+Flash- We don't really expect anyone to have flash experience for this
+position, but hey, it would be nice.
+
+Web Design- We have several graphic designers for print media, but any web
+design abilities would be welcome.
+
+URL for more information: http://www.sysplan.com/
+
+Contact information at:
+http://jobs.perl.org/job/2661#contact
+
+

@@ -1,0 +1,90 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12248
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 2524 invoked from network); 19 Mar 2012 19:12:53 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 19 Mar 2012 19:12:53 -0000
+Received: (qmail 27633 invoked by uid 225); 19 Mar 2012 19:12:52 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 27629 invoked by alias); 19 Mar 2012 19:12:52 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 19 Mar 2012 12:12:50 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 9ED142AFE8; Mon, 19 Mar 2012 12:12:46 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 19 Mar 2012 12:12:46 -0700
+Message-ID: <20120319191246.9ED142AFE8@x3.develooper.com>
+Subject: Perl Expert in Berlin (onsite), Berlin, Berlin, Germany
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/12770
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 19, 2012
+
+Job title: Perl Expert in Berlin
+
+Company name: Idealo Internet GmbH
+
+Location: Berlin, Berlin, Germany
+
+Pay rate: monthly
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Idealo Internet GmbH, is one of the most popular and successful price
+comparison services in Germany.
+
+- Development of applications ( command line tools) for automatic
+processing of offer and product data.
+- Data retrieval with existing interfaces (web services, reading XML files,
+...)
+- Implementation of processes of information retrieval and data-mining for
+data recognition and mapping.
+- Further development of the existing processing algorithms ( optimization
+of speed, caching),
+- Development of applications for statistic analysis of offer or product
+related data.
+- optimization of existing data structures, database queries concerning
+execution time and efficiency.
+
+Required skills:
+- Degree of informatics or comparable job training with several years of
+experience.
+- Perfect knowledge in Perl programming, especially in 
+    processing of text based data for example CSV or XML,
+    use of regular expressions
+- Excellent knowledge in efficient use of SQL databases ( MySQL,InnoDB),
+- practical experience with use of Linux
+- technical English
+- independent working, team player, highly motivated
+
+Desired skills:
+- Experience with web service and processing of csv and xml files.
+- Knowledge in the field of information retrieval and data mining
+- Experience with development environment eclipse as well as with
+versioning system cvs.
+- A competent level of written and spoken German
+
+Website for more information: http://www.idealo.de/preisvergleich/Jobs.html
+
+Contact information at:
+http://jobs.perl.org/job/12770#contact

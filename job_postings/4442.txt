@@ -1,0 +1,120 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4442
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 9893 invoked from network); 7 Jun 2006 06:34:51 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 7 Jun 2006 06:34:51 -0000
+Received: (qmail 28209 invoked by uid 225); 7 Jun 2006 06:34:51 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 28201 invoked by alias); 7 Jun 2006 06:34:50 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 06 Jun 2006 23:33:58 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 097D42AFE7; Tue,  6 Jun 2006 23:33:53 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060607063353.097D42AFE7@x3.develooper.com>
+Date: Tue,  6 Jun 2006 23:33:53 -0700 (PDT)
+Subject: Perl Software Testing Engineer (onsite), United States, WA, Seattle
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4196
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June  6, 2006
+
+Job title: Perl Software Testing Engineer
+
+Company name: Geospiza, Inc.
+
+Location: United States, WA, Seattle
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: Permanent
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Geospiza, a leading developer of information systems for the management and
+analysis of data for the life sciences, is looking for an experienced
+quality assurance software engineer to join our growing software
+development team. The position reports to the Development Program Manager
+and is responsible for the development of regression tests for Geospiza's
+flagship product, the Finch-Suite.
+
+Duties Include:
+* Create and maintain a regression test suite
+  * Work with QA lead and development managers to develop a framework for
+automated regression testing of a web/database application
+  * Generate a series of unit tests for the regression suite that test
+existing stable application functionality
+  * Maintain the regression test suite by modifying the suite for new and
+modified functionality
+* Execute testing
+  * Execute multiple software configurations against multiple hardware
+systems, operating systems, and databases
+  * Perform functional, performance, and regression testing 
+  * Identify and report defects and product improvements
+  * Collect, analyze and report quality metrics to management
+* Maintain an automated data population suite
+  * Assist the continual development of standard operating procedures
+(SOPs) for software development and validation
+
+Desired Profile:
+We are seeking a motivated individual to join our software development
+team. The ideal candidate will have solid experience with Perl and unit
+test development, be detail and precision-oriented, have good verbal and
+written communication skills, and have the capability and desire to
+initiate and follow through on a significant QA project. The QA engineer
+will work within our team as well as independently. An interest in genomic
+biology and a love of Perl will greatly enhance the individual's experience
+on our team.
+
+Required skills:
+* At least 3 years of experience writing software tests.
+* Experience testing web-based applications.
+* At least 3 years of experience working with Perl.
+* Solid experience in functional, integration, regression, and user
+interface testing.
+* Ability to write automated test scripts for unit testing from UI to
+database. 
+* Understanding of software testing methodology.
+* Experience with source code management systems, CVS preferred. 
+* Experience with relational databases.
+* Experience working within a software development life cycle 
+* Experience communicating and documenting technical concepts, procedures,
+and processes.
+* Ability to document tests and steps to reproduce, as well as to repeat
+tests efficiently.
+
+
+Desired skills:
+* Experience working with bug/request tracking systems. 
+* Experience in the production of web applications on the
+Unix/mod_perl/Apache framework
+* Experience in Linux, Solaris, and MacOSX operating systems
+* Experience with PostgreSQL
+* Experience with Oracle
+
+
+URL for more information: http://www.geospiza.com/
+
+Contact information at:
+http://jobs.perl.org/job/4196#contact
+
+

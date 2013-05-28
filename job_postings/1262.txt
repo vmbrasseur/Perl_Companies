@@ -1,0 +1,93 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:1262
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 74068 invoked by uid 76); 2 Jan 2004 22:02:21 -0000
+Received: from qmailr@one.develooper.com (HELO ran-out.mx.develooper.com) (64.81.84.115) by onion.perl.org (qpsmtpd/0.26) with SMTP; Fri, 02 Jan 2004 14:02:21 -0800
+Received: (qmail 1755 invoked by uid 225); 2 Jan 2004 22:02:19 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 1749 invoked by uid 507); 2 Jan 2004 22:02:19 -0000
+Received: from onion.develooper.com (HELO onion.perl.org) (63.251.223.166) by one.develooper.com (qpsmtpd/0.27-dev) with SMTP; Fri, 02 Jan 2004 14:01:48 -0800
+Received: (qmail 73908 invoked by uid 1016); 2 Jan 2004 22:01:46 -0000
+Date: 2 Jan 2004 22:01:46 -0000
+Message-ID: <20040102220146.73907.qmail@onion.perl.org>
+To: jobs@perl.org
+X-Spam-Check-By: one.develooper.com
+X-Spam-Status: No, hits=1.2 required=7.0 tests=CARRIAGE_RETURNS,SPAM_PHRASE_01_02,TO_BE_REMOVED_REPLY version=2.44
+X-SMTPD: qpsmtpd/0.26, http://develooper.com/code/qpsmtpd/
+Subject: Scientific/Astronomy Perl Programmer (onsite), Canada, British Columbia, Vancouver
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1155
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January  2, 2004
+
+Job title: Scientific/Astronomy Perl Programmer
+
+Company name: University of British Columbia
+
+Internal ID: DR/1
+
+Location: Canada, British Columbia, Vancouver
+
+Pay rate: CA$50-60k depending on experience
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Length of employment: 3 years
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+SCUBA-2 is a highly innovative wide-field camera designed to replace SCUBA
+and be operational on the James Clerk Maxwell Telescope in 2006. With over
+9,000 pixels in two arrays, SCUBA-2 will map the submillimetre sky up to a
+thousand times faster than SCUBA, and is expected to have a huge impact on
+many areas of astronomy from studies of galaxy formation and evolution in
+the early Universe to understanding star and planet formation in our own
+Galaxy.
+									   
+				       
+We are seeking a skilled software developer to join a small team based at
+UBC and at the JAC in Hawaii, working on the pipeline infrastructure and
+algorithms required to convert the raw data into scientifically meaningful
+images.
+
+The position will begin as soon as it can be filled after the deadline of
+January 31st 2004, and is expected to be for 3 years. Work will be based in
+Vancouver, but the successful candidate must be able to travel to Hawaii
+and the Edinburgh as the need arises. The ability to occasionally perform
+work at 14000 feet elevations also required. The successful candidate will
+be responsible for new code development, code maintenance and, when the
+instrument is delivered, user support.
+
+
+Required skills:
+The position requires a minimum of a B.Sc. in Physics, Computer Science or
+a related field. Preference will be given to candidates with a background
+or experience in Astronomy, particularly submillimetre astronomy or related
+astronomical data reduction or software development. Candidates should have
+at least three years of software development experience overall, including:
+Object-Oriented Perl, C and Unix/Linux.
+
+Desired skills: Perl XS, Java
+
+URL for more information: http://scuba2.jach.hawaii.edu/
+
+Contact information:
+Tim Jenness <t.jenness@jach.hawaii.edu> or Janos Molnar
+<jmolnar@physics.ubc.ca>
+
+
+

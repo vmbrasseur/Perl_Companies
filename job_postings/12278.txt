@@ -1,0 +1,73 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12278
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 5216 invoked from network); 28 Mar 2012 22:36:40 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 28 Mar 2012 22:36:40 -0000
+Received: (qmail 14896 invoked by uid 225); 28 Mar 2012 22:36:39 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 14892 invoked by alias); 28 Mar 2012 22:36:39 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 28 Mar 2012 15:36:36 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 431802AFDF; Wed, 28 Mar 2012 15:36:33 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 28 Mar 2012 15:36:33 -0700
+Message-ID: <20120328223633.431802AFDF@x3.develooper.com>
+Subject: Backend Perl Developer (onsite), London, Englands
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15760
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 28, 2012
+
+Job title: Backend Perl Developer
+
+Company name: Ingenium ITS
+
+Location: London, Englands
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Exclusive requirement with our client, they have some very intresting
+technical problems for those looking for a challenge. 
+Back-end developers are primarily responsible for writing quality code for
+the web to meet the business needs.  They have a critical eye for good
+markup and client-side code and an eye for building interfaces that work as
+closely as possible across different browsers and device restrictions. In
+so doing, they may work in a peer programming fashion with other developers
+or testers or work more independently.
+
+Required skills:
+●	 Linux – knowledge of Linux systems down to kernel level. 
+●	 Perl – at least 5 years experience of OO Perl, with application in
+web development
+●	 Database design and administration – particularly with MySQL
+●	 Scalability through the use of Caching e.g. CDNs mcached, site/db
+optimization techniques
+●	 Domain knowledge: Perl, CPAN, SQL, XML, Linux
+
+Desired skills:
+●	 Mason – or working knowledge of some other web framework
+●	 php (especially Zend framework)
+●	 Developing for mobile platforms
+
+Contact information at:
+http://jobs.perl.org/job/15760#contact

@@ -1,0 +1,103 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12962
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 30320 invoked from network); 6 Dec 2012 19:09:26 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 6 Dec 2012 19:09:26 -0000
+Received: (qmail 25410 invoked by uid 225); 6 Dec 2012 19:09:25 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 25406 invoked by alias); 6 Dec 2012 19:09:25 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,T_FRT_PROFILE2
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 06 Dec 2012 11:09:22 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id D26012AFCE; Thu,  6 Dec 2012 11:09:18 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 6 Dec 2012 11:09:18 -0800
+Message-ID: <20121206190918.D26012AFCE@x3.develooper.com>
+Subject: Perl Developer (part onsite), Palo Alto, CA, United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16768
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December  6, 2012
+
+Job title: Perl Developer
+
+Company name: International Technical Solutions
+
+Internal ID: 14112012
+
+Location: Palo Alto, CA, United States
+
+Pay rate: DOE
+
+Terms of employment: Hourly employee
+
+Length of employment: 6 Months
+
+Hours: Flexible
+
+Onsite: some
+
+Description:
+My client is looking for a front end (Client side) application developer to
+join our world class team responsible for extremely high-profile products. 
+
+
+Job Location: Palo Alto, CA. 
+•Candidate not willing to relocate can also apply, they can work remotely 
+•This position requires that the candidate shall be: Designing, developing
+social media and mobile applications that are focused on Client-side
+technologies. 
+•Gathering functional requirements and developing technical specifications.
+
+•Solving challenging problems in social and collaborative software with
+exceptional peers. 
+•Working independently with minimum supervision. 
+•Delivering high quality code using industry best practices. 
+•Resolving code bugs, performing unit tests, working on code reviews and
+application documentation
+
+Required skills:
+•5+ years of professional software development experience. 
+•5+ years of Perl programming using modern techniques; knowledge of Moose,
+Coro,Catalyst,Plack 
+•Strong Experience with programming in JavaScript. 
+•JavaScript and jQuery; familiarity with building ReST based web UIs 
+•Knowledgeable about ReST interfaces, both writing and using 
+•Perl packages, application packaging full cycle development from
+specification to development to QA to release to maintenance 
+•Linux environment proficiency, using various Linux tools including screen
+and vim. 
+•Intimate knowledge of browser intricacies, including experience working
+with Internet Explorer browsers. 
+•Experience with SQL databases. 
+•Experience creating highly scalable systems, including clustered and/or
+distributed applications. 
+•Strong oral and written communication skills.
+
+Desired skills:
+•PostgreSQL experience, primarily writing SQL but some schema management as
+well 
+•Experience working in an Agile shop is a plus; a dislike of Agile is a no
+go; we follow Kanban 
+•TDD experience; we write tests for our code and expect everyone to do so 
+•Willingness to work with the story customer to iron out requirements and
+then code them
+
+Website for more information: http://www.i-tecsol.com/
+
+Contact information at:
+http://jobs.perl.org/job/16768#contact

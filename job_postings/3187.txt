@@ -1,0 +1,91 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3187
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 1753 invoked from network); 10 Sep 2005 06:40:05 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 10 Sep 2005 06:40:05 -0000
+Received: (qmail 3668 invoked by uid 225); 10 Sep 2005 06:40:05 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 3662 invoked by alias); 10 Sep 2005 06:40:02 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 09 Sep 2005 23:39:58 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j8A6dt41026311
+	for <jobs@perl.org>; Fri, 9 Sep 2005 23:39:55 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j8A6dt43026309;
+	Fri, 9 Sep 2005 23:39:55 -0700
+Date: Fri, 9 Sep 2005 23:39:55 -0700
+Message-ID: <200509100639.j8A6dt43026309@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: LAMP programming for Online Educational Virtual World (telecommute), United States, California, Pasadena
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3043
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September  9, 2005
+
+Job title:
+LAMP programming for Online Educational Virtual World
+
+Company name: Numedeon, Inc. Whyville.net
+
+Location: United States, California, Pasadena
+
+Pay rate: $20/hour USD
+
+Travel: 0-25%
+
+Terms of employment: Hourly employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+Whyville.net is an online educational virtual world for 8-12 year olds. 
+Our goal is to make an online world so enjoyable that kids love playing in
+it and so educational that they end up learning a lot while they play.
+
+We use a combination of Perl CGI and Java servlets on the back-end.  We
+need a programmer who can support the website in many ways: designing and
+implementing online games and activities, writing utilities, generating
+statistics, etc.
+
+We are a small, mostly virtual organization, but we try to meet once a week
+in Pasadena, California, so being able to join us in person for that
+meeting would increase your attractiveness.
+
+If you enjoy working with children, education, and online worlds, and you
+have the skills we seek, we'd love to have you join us.
+
+Required skills:
+* Perl/DBI, HTML, SQL, Java, and CVS are required skills.
+
+* Moderate Linux experience:  You should be able to install a Linux
+distribution and set up a LAMP stack yourself.
+
+* Must be self-motivated.  We are a small and very busy team, so we have
+little time for managing.  We need a programmer who can quickly understand
+requirements and satisfy them with minimal supervision.
+
+* Excellent English writing and speaking skills are important.
+
+
+Contact information at:
+http://jobs.perl.org/job/3043#contact
+
+

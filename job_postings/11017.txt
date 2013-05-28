@@ -1,0 +1,80 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11017
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 10700 invoked from network); 18 Feb 2011 22:19:34 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 18 Feb 2011 22:19:34 -0000
+Received: (qmail 25145 invoked by uid 225); 18 Feb 2011 22:19:34 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 25141 invoked by alias); 18 Feb 2011 22:19:33 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 18 Feb 2011 14:19:32 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id E78C82AFDF; Fri, 18 Feb 2011 14:19:28 -0800 (PST)
+To: jobs@perl.org
+Date: Fri, 18 Feb 2011 14:19:28 -0800
+Message-ID: <20110218221928.E78C82AFDF@x3.develooper.com>
+Subject: Deployment of MusicBrainz Server on to BBC infrastructure (part
+ onsite), United Kingdom, London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13694
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 18, 2011
+
+Job title:
+Deployment of MusicBrainz Server on to BBC infrastructure
+
+Company name: BBC
+
+Location: United Kingdom, London
+
+Pay rate: negotiable
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: 2 months
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+I am looking for an experienced perl developer to work on a fixed term
+contract to deploy the MusicBrainz Next Generation Schema code base on to
+the BBC's Forge Platform servers.
+
+This will involve some development work to bundle the perl module
+dependancies into the application and build and deploy using
+HudsonMaven/RPM/dedicated apache instance.
+
+Required skills:
+- Redhat Linux
+- Apache and mod_perl
+- Bundling perl modules into perl applications
+- Packaging code using RPMs
+
+
+Desired skills:
+- BBC's Forge Platform
+- GIT and Subversion
+- Catalyst Framework
+- Shipwright or similar
+- Continuous integration systems (such as Hudson)
+- Maven
+- Java Lucene
+
+
+Contact information at:
+http://jobs.perl.org/job/13694#contact

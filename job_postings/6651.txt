@@ -1,0 +1,110 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6651
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 19370 invoked from network); 18 Jul 2007 22:12:50 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 18 Jul 2007 22:12:50 -0000
+Received: (qmail 29617 invoked by uid 225); 18 Jul 2007 22:12:50 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 29610 invoked by alias); 18 Jul 2007 22:12:49 -0000
+X-Spam-Status: No, hits=-2.6 required=8.0
+	tests=BAYES_00,DKIM_POLICY_SIGNSOME,DK_POLICY_SIGNSOME,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 18 Jul 2007 15:12:41 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 953C32AFDE; Wed, 18 Jul 2007 15:12:37 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070718221237.953C32AFDE@x3.develooper.com>
+Date: Wed, 18 Jul 2007 15:12:37 -0700 (PDT)
+Subject: Perl professionals for growing video platform (telecommute), United States, NY, New York
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/6199
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 18, 2007
+
+Job title:
+Perl professionals for growing video platform
+
+Company name: Magnify.net
+
+Location: United States, NY, New York
+
+Pay rate: Commiserate with experience
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: Ongoing
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+Magnify.net's unique community-building service continues to grow, with
+over 10,000 sites served by our multi-server mod_perl application, so we’re
+looking for experienced Perl professionals to join our fast-moving team in
+this outstanding opportunity.
+
+You will work closely with our core team to design and implement features
+and deploy them to our live service.
+
+* This is an ongoing full-time contract position.
+
+* All work can be done offsite, via SSH, email, and Skype. (A fully remote
+arrangement is acceptable, although if you're close enough to NYC to
+commute in for occasional face-to-face meetings, please let us know that as
+well.)
+
+
+Required skills:
+* Significant knowledge of and experience in Perl programming. (Exposure to
+standard Perl idioms, the ability to create your own class hierarchies, and
+familiarity with CPAN are required.)
+
+* Prior experience in server-side web application development. (You should
+have worked with page templating systems, session data storage, relational
+databases, caching, and inter-process communication.)
+
+* Understanding of professional software development processes. (Including
+familiarity with the cycles of requirements definition, issue tracking,
+version control, automated testing, deployment and maintenance.)
+
+* Clear and articulate communication, both written and spoken. (Our team
+collaborates extensively by email, IM, and phone, and you will need to be
+able to read specs and write documentation)
+
+
+Desired skills:
+* Web service operation, scaling, and fault-tolerance using Linux, Apache,
+MySQL, and Perl.
+
+* Experience with our server-side toolset, including mod_perl, HTML::Mason,
+DBIx::SQLEngine, Cache::Memcached, and other modules from CPAN.
+
+* Familiarity with building rich web interfaces in HTML with CSS and
+JavaScript (using Prototype and Scriptaculous for Ajax and client-side
+effects), RSS feeds, XML APIs, and client-side Flash widgets.
+
+* Comfort with project support tools including RT, SVN, and automated web
+testing.
+
+
+URL for more information: http://magnify.net/
+
+Contact information at:
+http://jobs.perl.org/job/6199#contact
+
+

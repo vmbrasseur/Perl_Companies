@@ -1,0 +1,76 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13342
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 22545 invoked from network); 24 Apr 2013 17:50:04 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 24 Apr 2013 17:50:04 -0000
+Received: (qmail 9652 invoked by uid 225); 24 Apr 2013 17:50:04 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 9642 invoked by alias); 24 Apr 2013 17:50:02 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,T_FRT_PROFILE2
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 24 Apr 2013 10:49:54 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 3A8132AFE0; Wed, 24 Apr 2013 10:49:51 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 24 Apr 2013 10:49:51 -0700
+Message-ID: <20130424174951.3A8132AFE0@x3.develooper.com>
+Subject: API developer (Mojolicious) (onsite), Provo, Utah
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16754
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 24, 2013
+
+Job title: API developer (Mojolicious)
+
+Company name: BetterServers, Inc.
+
+Location: Provo, Utah
+
+Pay rate: $90k+
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We've got a beautiful little API to provision and manage an entire
+(virtual) data center and all of its resources (think CloudStack, but more
+RESTful). It's 100% Perl (we use Mojolicious for our web framework). We
+need help to maintain, extend, and come up with even better ways of
+managing this API, including scaling, hardening, and testing.
+
+We've used mainly TDD to this point, the entire API is fully documented
+(using a mishmash of POD, JSON, and Mojo templates). This is a quality Perl
+development site! We're not interested in 90's Perl--you must be familiar
+and happy with modern Perl (perhaps you can teach us a few things).
+
+Required skills:
+- modern Perl
+- proficient written English
+- experience with advanced algorithms and data structures
+
+Desired skills:
+- enjoys test-driven development
+- previous Mojolicious, Catalyst, or Dancer experience
+- event programming (AnyEvent, POE, etc.)
+- some table tennis and/or foosball skills
+
+Website for more information: https://www.betterservers.com/
+
+Contact information at:
+http://jobs.perl.org/job/16754#contact

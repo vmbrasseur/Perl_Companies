@@ -1,0 +1,107 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13345
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 21825 invoked from network); 26 Apr 2013 06:39:25 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 26 Apr 2013 06:39:25 -0000
+Received: (qmail 26487 invoked by uid 225); 26 Apr 2013 06:39:25 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 26483 invoked by alias); 26 Apr 2013 06:39:24 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 25 Apr 2013 23:39:13 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id B596C2AFE0; Thu, 25 Apr 2013 23:39:09 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 25 Apr 2013 23:39:09 -0700
+Message-ID: <20130426063909.B596C2AFE0@x3.develooper.com>
+Subject: System Administrator (telecommute), Gatwick, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17307
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 25, 2013
+
+Job title: System Administrator
+
+Company name: Thermeon
+
+Location: Gatwick, UK
+
+Pay rate: £40-60k
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+Thermeon are looking for an experienced system administrator to join its
+team.
+As a market leading technology company providing software and services
+globally to the car rental industry, we take pride in our long history of
+innovation and excellent customer service.
+Thermeon has offices in the UK, Australia and USA, with sales and support
+staff, developers and system administrators around the world. In support of
+our systems we run a global network of servers and infrastructure. A wide
+range of services and solutions means candidates must be adaptable, quick
+learners, and able to handle diverse and complex infrastructures. You'll be
+working with other system adminstrators globally to maintain and grow our
+systems, and develop new solutions to scale our services to meet new
+challenges and growth.
+The successful candidate should have at least 4 years experience managing
+networks of linux servers. A strong understanding of virtualisation,
+replication and redundancy is important.
+You should enjoy learning and exploring new technologies and applying them
+to real world problems. Candidates must be able to plan, document, test and
+implement solutions either in isolation or as part of a team. Clear
+communication and a helpful attitude are important for candidates to work
+with the rest of the company. You must take pride in the systems you
+manage, and the solutions you deliver.
+You should be used to working to deadlines, manage your time, and report
+project statuses to interested parties.
+Candidates should be experienced with working in conjunction with a
+development team to help deploy, manage and scale web applications, and the
+databases, caches and related services which support them. You should have
+experience writing scripts and programs to help with all your
+responsibilities.
+
+This role is based in our UK Gatwick office, but telecommuting is an option
+for candidates in the UK with a track record of successfully working
+remotely in the past, have a suitable environment free from distractions,
+and are available to travel to the Gatwick based UK office when necessary.
+
+Required skills:
+Linux administration (Both Debian and Redhat)
+Network and VPN administration
+LDAP authentication
+Distributed configuration management (cfengine, chef, puppet, deb/rpm
+packages)
+Virtualisation (Both KVM and openvz)
+Replication (DRBD or alternatives)
+Log aggregation and management
+Monitoring and alerting solutions (servers, services, networks)
+Mail servers
+Database server admin and scaling (postgresql)
+Web service deployment and management
+Web servers (lighttpd/nginx) and Load balancing
+Documentation
+Scripting experience (perl, ruby, python, etc)
+VOIP (Asterisk/FreePBX)
+
+Website for more information: http://www.thermeon.com/
+
+Contact information at:
+http://jobs.perl.org/job/17307#contact

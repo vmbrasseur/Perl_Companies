@@ -1,0 +1,151 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2161
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13793 invoked from network); 10 Dec 2004 23:33:38 -0000
+Received: from x1.develooper.com (63.251.223.170)
+  by lists.develooper.com with SMTP; 10 Dec 2004 23:33:38 -0000
+Received: (qmail 12551 invoked by uid 225); 10 Dec 2004 23:33:37 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 12546 invoked by alias); 10 Dec 2004 23:33:36 -0000
+X-Spam-Status: No, hits=-4.9 required=8.0
+	tests=BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.dev) (63.251.223.163)
+  by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 10 Dec 2004 15:33:33 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.dev (8.12.11/8.12.11) with ESMTP id iBANXUp5009656
+	for <jobs@perl.org>; Fri, 10 Dec 2004 15:33:30 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id iBANXUDH009654;
+	Fri, 10 Dec 2004 15:33:30 -0800
+Date: Fri, 10 Dec 2004 15:33:30 -0800
+Message-ID: <200412102333.iBANXUDH009654@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+X-Virus-Checked: Checked
+Subject: Anti-Spam Software Engineer (onsite), United States, CA, San Bruno
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2072
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 10, 2004
+
+Job title: Anti-Spam Software Engineer
+
+Company name: IronPort Systems
+
+Location: United States, CA, San Bruno
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+IronPort Systems is looking for an experienced server software engineer
+with expertise in anti-spam and e-mail processing to help maintain and
+extend our anti-spam and anti-virus offerings with services including
+SpamCop, SenderBase, Virus Outbreak Filters, and Bonded Sender. 
+As a part of our development team, you will be focused on maintaining and
+improving anti-spam and anti-virus techniques. You will be developing from
+specifications, testing code, and integrating your work into existing
+services. 
+
+We are looking for a person with strong communication skills and excellent
+analytical skills. We need someone able to work on their own or within a
+team to come up with workable and elegant solutions. You should be able to
+give and receive feedback and be able to distill technical information and
+prepare it so it can be delivered in a form that non-technical people can
+readily understand. 
+Development will be in Perl, Python, and MySQL on FreeBSD. You will own and
+drive the engineering aspects of the projects you work on, which are
+central to our corporate strategy. You will work with engineering and
+operations team members to plan and improve scalability and operability of
+our products. You will be part of a first-rate engineering organization and
+must be ready to contribute. The ideal candidate will have a messaging
+background and a firm understanding of issues currently facing mail
+administrators in the field.
+
+Why IronPort:
+We have closed $50M in funding and have top-tier partners such as Symantec
+(BrightMail), Sophos, and Microsoft. IronPort is a one of a kind
+opportunity. You'll work with great people, exciting technologies, and help
+run a cutting edge internet service. These skills will make you invaluable
+now and in the future, but the opportunities at IronPort are so excellent
+you won't want to go anywhere else.
+
+Relevant links:
+www.ironport.com - Email Infrastructure Products and Services 
+www.bondedsender.com - Guaranteed Delivery of Legitimate Email 
+www.senderbase.org - The Leading Email Reputation Service 
+www.spamcop.net - The Leading Spam Reporting Service 
+
+
+Required skills:
+* College degree in Computer Science or equivalent experience 
+* Expert level Perl skills, minimum of 5 years experience
+* Experience programming in Python, C++, or another modern OO language 
+* 5 years of software engineering experience in a production environment 
+* Technical proficiency with email and related infrastructure 
+* Knowledge of protocols: HTML, SMTP, FTP, SSH, IMAP, POP
+* Strong Unix shell scripting skills
+* Strong verbal, written, analytical, and persuasive skills. 
+
+
+Desired skills:
+* Solid experience with anti-spam and anti-virus code
+* Experience developing public database-backed web applications
+* Experience developing client mail application plug-ins for Outlook,
+Eudora, etc. (MAPI, C++, VB) 
+* Working knowledge of networking and DNS, especially on Unix platforms 
+* FreeBSD experience 
+* Experience with highly available internet systems 
+
+Personal Characteristics: 
+* Independent: Able to grasp high level product requirements and translate
+these to robust software designs. Capable of gathering required information
+from product management and internal customers. 
+* Strong sense of ownership: Sees software throughout its lifecycle; from
+concept to implementation, deployment, operation, and upgrades. 
+* Assertive: Champions causes that will benefit the company. Is not afraid
+to voice opinions that may contradict those of management. Willing to
+engage product managers and senior management in discussions.
+* Communicative: Proactive and concise. Keeps others in the company
+informed and up to date on his or her priorities, current tasks and work
+completed. Encourages constructive criticism on his or her work. 
+* Indomitable work ethic: The successful candidate will reject setbacks and
+will enthusiastically persist until ambitious goals are achieved. He or she
+will be resourceful and innovative at tackling complex technical challenges
+in a sustainable, proactive fashion 
+* Accountable: He or she should be a results-oriented team player who leads
+by example, holds themselves accountable for performance, takes absolute
+ownership, and champions all aspects of engineering initiatives. 
+* Sense of urgency: escalates issues when appropriate; maintains a sense of
+project ownership to see all issues through to a successful resolution.
+Strives to turn around issues with an efficient and effective approach. 
+* Flexible and adaptable: should be able to switch gears in various
+high-stress situations and apply themselves to quickly learning new
+technologies and adopting new methodologies.
+
+
+URL for more information:
+http://www.ironport.com/about/careers.html
+
+Contact information:
+Forward your resume to jobs@ironport.com with "Anti-Spam Software Engineer
+(jobs.perl.org)" in the subject line or fax to 650-989-6543. 
+
+
+

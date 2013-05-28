@@ -1,0 +1,80 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12161
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 31839 invoked from network); 29 Feb 2012 08:52:37 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 29 Feb 2012 08:52:37 -0000
+Received: (qmail 27422 invoked by uid 225); 29 Feb 2012 08:52:36 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 27416 invoked by alias); 29 Feb 2012 08:52:36 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 29 Feb 2012 00:52:33 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 691A22AFE2; Wed, 29 Feb 2012 00:52:30 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 29 Feb 2012 00:52:30 -0800
+Message-ID: <20120229085230.691A22AFE2@x3.develooper.com>
+Subject: Perl Developer (onsite), Bedford/St Neots, England
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15594
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 29, 2012
+
+Job title: Perl Developer
+
+Company name: Online Galleries Ltd
+
+Location: Bedford/St Neots, England
+
+Pay rate: Competitive salary
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+A developer is required to join Online Galleries Ltd to support our
+existing system and to help with the development of our new hosting
+environment.
+
+Online Galleries Ltd specialises in solutions for the Art & Antiques trade,
+dealing directly with the worlds major trade associations all around the
+world.
+
+We build and host websites, iOS apps and any other solutions for our
+customers (currently 120+ clients).
+
+The job entails supporting our existing clients, creating solutions for new
+ones and maintaining /developing our software.
+
+We are currently based in Bedford, but will be moving to St Neots in the
+near future.
+
+Required skills:
+mod_perl
+Template Toolkit (HTML,CSS)
+JS (mainly using jquery)
+MySQL
+Catalyst
+Good customer service skills
+Apache
+
+Website for more information: http://www.onlinegalleries.com
+
+Contact information at:
+http://jobs.perl.org/job/15594#contact

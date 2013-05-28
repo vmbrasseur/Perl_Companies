@@ -1,0 +1,103 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3721
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 2500 invoked from network); 16 Jan 2006 21:01:13 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 16 Jan 2006 21:01:13 -0000
+Received: (qmail 20749 invoked by uid 225); 16 Jan 2006 21:01:13 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 20742 invoked by alias); 16 Jan 2006 21:01:12 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 16 Jan 2006 13:01:09 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id k0GL16Tf012722
+	for <jobs@perl.org>; Mon, 16 Jan 2006 13:01:06 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id k0GL16sA012720;
+	Mon, 16 Jan 2006 13:01:06 -0800
+Date: Mon, 16 Jan 2006 13:01:06 -0800
+Message-ID: <200601162101.k0GL16sA012720@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Ops Engineer, CA, San Francisco
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3546
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 16, 2006
+
+Job title: Ops Engineer
+
+Company name: Six Apart
+
+Location: CA, San Francisco
+
+Pay rate: market
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Description:
+Responsibilities
+
+    * Proactive monitoring of Six Apart services.
+    * Work closely with Engineering, QA and vendors on deployment,
+rollback, etc.
+    * Aggressively automate to increase quality and and scale. Develop and
+document repeatable operational procedures.
+    * Participate in the on-call pager rotation along with all other
+members of the team.
+    * Plan and execute routine maintenance while minimizing risk and
+application downtime.
+    * Plan and execute capacity and capabilities growth. Assist with
+planning the overall strategy for the Operations team
+
+Required skills:
+
+
+Required Experience and Skills
+
+    * Passion and drive for operational excellence. Very strong sense of
+responsibility and commitment.
+    * Significant (2-10 years) experience operating a large-scale 7x24 web
+environment.
+    * Extensive Unix systems administration and automation experience.
+    * Knowledge of Apache web servers, Unix shell scripting and Perl.
+    * 2+ years experience with Linux
+    * Extensive understanding of web application development and
+architecture
+    * Excellent debugging and troubleshooting skills
+    * Strong analytical and problem solving skills
+    * Demonstrated willingness and ability to work in a fast-moving dynamic
+team-oriented environment.
+    * BS or MS in Computer Science or similar discipline, or equivalent
+experience
+
+Desired skills:
+    * While not required, we prefer candidates with as much of the
+following background as possible.
+    * Experience with site monitoring (Nagios, Sitescope etc) and
+performance measuring tools.
+    * Experience with CVS and Subversion.
+    * Experience with Build or Release Engineering.
+    * Experience with database administration, SQL, MySQL and Postgres.
+
+Contact information at:
+http://jobs.perl.org/job/3546#contact
+
+

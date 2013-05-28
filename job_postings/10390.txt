@@ -1,0 +1,93 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10390
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 6323 invoked from network); 30 Jul 2010 06:02:01 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 30 Jul 2010 06:02:01 -0000
+Received: (qmail 28541 invoked by uid 225); 30 Jul 2010 06:02:00 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 28533 invoked by alias); 30 Jul 2010 06:02:00 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 29 Jul 2010 23:01:59 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 1A01F2AFD3; Thu, 29 Jul 2010 23:01:55 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20100730060156.1A01F2AFD3@x3.develooper.com>
+Date: Thu, 29 Jul 2010 23:01:55 -0700 (PDT)
+Subject: Perl Programmer (onsite), United States, California, Fremont
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/12628
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 29, 2010
+
+Job title: Perl Programmer
+
+Company name: Agile Informatics
+
+Internal ID: PP-M10
+
+Location: United States, California, Fremont
+
+Pay rate: $50
+
+Travel: 0%
+
+Terms of employment: Hourly employee
+
+Length of employment: 6+ Months
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Position:		  UI/Perl/DB/C++/Email Consultant
+Type:			    Contract
+Location:		 Bay Area, CA
+Description:
+ 
+We need Perl skills for Admin Console and user management. This is not very
+much UI at all and is mostly maintenance so there is actually very little
+UI development, and our UI is very simple HTML with nothing fancy (no
+client side JavaScript coding). It will be primarily Perl and working with
+existing features that include user management, user sync between systems
+including some SSO, security related changes, reporting, bug fixes, etc. A
+mix of the usual tasks of these types of systems. 
+ 
+I wouldn't require significant HTML or UI experience, it's mostly Perl and
+the ability to jump into existing code and make enhancements, fix bugs and
+add some features. For a talented individual they could work on a more
+substantial new feature.
+ 
+If they have some email experience that would help, but generally this
+position is more about users/orgs configuration & reporting data than email
+flow. Grit and determination are just as important for this position, I
+just need someone willing to take on a variety of things and get them
+accomplished quickly. 
+ 
+A position for C++/email is probably separate, but if someone has these
+additional skills that would allow more flexibility, but I wouldn't focus
+on this combo and can get this more easily in-house than the Perl skills. 
+
+
+Required skills:
+Advance Perl, OO Perl, C++ , Email protocols, UI, DB
+
+URL for more information: http://www.agile-informatics.com/
+
+Contact information at:
+http://jobs.perl.org/job/12628#contact
+
+

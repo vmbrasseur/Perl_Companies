@@ -1,0 +1,114 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6508
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 11164 invoked from network); 25 Jun 2007 19:37:32 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 25 Jun 2007 19:37:32 -0000
+Received: (qmail 9834 invoked by uid 225); 25 Jun 2007 19:37:32 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 9827 invoked by alias); 25 Jun 2007 19:37:31 -0000
+X-Spam-Status: No, hits=-2.6 required=8.0
+	tests=BAYES_00,DKIM_POLICY_SIGNSOME,DK_POLICY_SIGNSOME,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 25 Jun 2007 12:37:21 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 666E42AFEA; Mon, 25 Jun 2007 12:37:18 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070625193718.666E42AFEA@x3.develooper.com>
+Date: Mon, 25 Jun 2007 12:37:18 -0700 (PDT)
+Subject: Senior Perl Software Developer (onsite), Canada, BC, Vancouver
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/6006
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 25, 2007
+
+Job title: Senior Perl Software Developer
+
+Company name: MailChannels Corporation
+
+Location: Canada, BC, Vancouver
+
+Pay rate:
+We will pay what it takes to get a great candidate
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: permanent
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are looking for someone who wants to change the world. Simply put,
+our mission is to create email protection solutions that are baked
+into the fabric of every email delivery platform on the planet. Our
+ultra scalable email delivery system processes hundreds of millions of
+email messages each day for major corporations worldwide and is
+helping to put to rest the "botnet" problem that is currently the
+number one issue facing IT managers.
+
+Our product, Traffic Control, is a transparent SMTP proxy, designed to
+withstand denial of service attacks and to create a financial friction
+for spammers. It provides a shield for the existing spam threat and it
+discourages spammers from sending spam email to servers running
+Traffic Control.
+
+We need your help improving Traffic Control by developing better
+spammer identification algorithms, improving traffic shaping
+techniques and providing a better end-user experience.
+
+MailChannels' motto is "do more with less":
+
+ - We have a small team of highly efficient and pragmatic developers
+   who wear several hats through the day.
+
+ - We don't write much code. We do write a lot of tests.
+
+ - We don't work extra hours, as we believe that having personal and
+   family time is essential for a good quality of life. Though we work
+   very hard during the normal working hours.
+
+ - We all read Fred Brooks' "The Mythical Man-Month", and as a result
+   we hardly waste any of our time on boring meetings, we brainstorm
+   instead.
+
+
+We'd like to add you, if you are committed to excellence in software
+and want to change the world.
+
+
+Required skills:
+- 5+ years of experience as a Perl software developer
+- Must have familiarity with CPAN modules
+ + What work have you contributed to CPAN?
+- Regression test writing and code debugging experience is essential
+- Scalable application design and implementation is required
+- Good knowledge of Linux is required (other Unixes is a plus)
+ + We target Solaris, FreeBSD, and Linux
+- gcc compilation and linking knowledge is a plus
+- Proven track record of delivering high quality software applications.
+- Strong communication skills.
+- It's important to be a good team player
+- Strong background in systems design concepts
+
+
+URL for more information: http://www.mailchannels.com/
+
+Contact information at:
+http://jobs.perl.org/job/6006#contact
+
+

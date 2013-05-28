@@ -1,0 +1,129 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4126
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 22933 invoked from network); 7 Apr 2006 01:33:36 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 7 Apr 2006 01:33:36 -0000
+Received: (qmail 22859 invoked by uid 225); 7 Apr 2006 01:33:36 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 22855 invoked by alias); 7 Apr 2006 01:33:35 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 06 Apr 2006 18:33:31 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id E067F2AFEB; Thu,  6 Apr 2006 18:33:26 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060407013326.E067F2AFEB@x3.develooper.com>
+Date: Thu,  6 Apr 2006 18:33:26 -0700 (PDT)
+Subject: Research Scientist – Machine Learning (onsite), United States, MN, St. Paul
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3916
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April  6, 2006
+
+Job title: Research Scientist – Machine Learning
+
+Company name: Thomson Legal & Regulatory
+
+Internal ID: TEC0001329
+
+Location: United States, MN, St. Paul
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The Research & Development department for Thomson Legal and Regulatory
+would like to invite qualified applicants to apply for an open Research
+Scientist position in their Eagan, MN offices. The Research & Development
+department performs applied research in natural language processing,
+document retrieval, information extraction, text classification,
+summarization, and named entity recognition. The ideal candidate would have
+significant expertise in one or more of these research areas.
+
+Preference will be given to candidates with research and work related
+experience in the area of statistical machine learning for text processing
+applications.
+
+Please note that this is not *necessarily* a Perl-centric job, because our
+Research Scientists usually have the freedom to use whichever tools they
+deem appropriate for the research task.  We do tend to use a lot of Perl
+because it's often appropriate.
+
+Principal duties:
+
+* Conducting applied research in information retrieval, information
+extraction, text categorization, text mining, or related areas in the
+context of large online delivery environments, such as Westlaw
+
+* Execution of such projects, including:
+
+ - implementation of prototypes and the design of experiments to evaluate
+them
+
+ - performing of experiments to validate key algorithms and architectures
+associated with such prototypes, followed by written reports
+
+ - liaison with other departments concerning transition of prototypes into
+production
+
+ - collaboration with software engineers engaged in the construction of
+prototypes
+
+* Custom development for other TLR departments on key projects with a
+research component
+
+* Monitoring of research literature through reading
+
+
+Thomson Legal & Regulatory (TLR) is a leading provider of integrated
+information solutions to legal, tax, accounting, intellectual property,
+compliance, business and government professionals around the world. With
+17,000 employees, TLR has business operations in 24 countries.	The
+technology organization within TLR is a centralized unit providing shared
+software and services to TLR business units across the globe.
+
+The Thomson Corporation is proud to be an Equal Employment
+Opportunity/Affirmative Action Employer. 
+
+
+Required skills:
+* Graduate degree in Computer Science or a related discipline
+
+* Relevant experience in one or more of the following areas: natural
+language processing, machine learning, information retrieval, information
+extraction, document classification, summarization, and named entity
+extraction and resolution (Applicants with Masters degree must have some
+additional work related experience)
+
+* Substantial experience with UNIX or Windows environment
+
+* Proficiency in a programming language such as Perl, Java or C++
+
+* Good oral and written communication skills (as demonstrated through prior
+technical publications)
+
+Desired skills:
+* Relevant publications in Journals and (refereed) conferences
+
+Contact information at:
+http://jobs.perl.org/job/3916#contact
+
+

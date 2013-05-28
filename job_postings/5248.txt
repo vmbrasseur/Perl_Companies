@@ -1,0 +1,88 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5248
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 21820 invoked from network); 7 Nov 2006 19:06:24 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 7 Nov 2006 19:06:24 -0000
+Received: (qmail 5492 invoked by uid 225); 7 Nov 2006 19:06:22 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 5466 invoked by alias); 7 Nov 2006 19:06:21 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 07 Nov 2006 11:06:17 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 8F9522AFE8; Tue,  7 Nov 2006 08:57:53 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20061107165753.8F9522AFE8@x3.develooper.com>
+Date: Tue,  7 Nov 2006 08:57:53 -0800 (PST)
+Subject: Perl/DBI/TT2 Contractor for Medical Company (part onsite), United Kingdom, Hampshire, Basingstoke
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4906
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November  7, 2006
+
+Job title:
+Perl/DBI/TT2 Contractor for Medical Company
+
+Internal ID: IVAN01
+
+Location: United Kingdom, Hampshire, Basingstoke
+
+Pay rate: Negotiable
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: one small project
+
+Hours: Flexible
+
+Onsite: some
+
+Description:
+We MAY require a contractor to build a simple web application for our
+corporate intranet. The platform is Linux/Apache, and we need a Perl CGI
+application to manage data in a database (independent, may be SQLite,
+MySQL, PostresSQL) via a set of web forms.
+
+This is a one-off project, though there may be more project work at a later
+date.
+
+The work can mostly be done off-site, but we would prefer some on-site
+attendance to initiate the project and for deployment.
+
+Payment would be for the completion of the project. At the moment we are in
+an exploratory phase, the requirement does not formally exist yet. We wpuld
+like the project completed sooner rather than later, but the delivery date
+is negotiable.
+
+Required skills:
+Perl 5.6/5.8
+Template Toolkit 2
+DBI
+Apache/CGI
+
+Desired skills:
+Linux (Red Hat)
+xhtml
+Javascript
+Database (MySQL, SQLite or PostgreSQL)
+CSV_XS
+
+Contact information at:
+http://jobs.perl.org/job/4906#contact
+
+

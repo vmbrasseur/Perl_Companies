@@ -1,0 +1,77 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:1355
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 15192 invoked by uid 76); 13 Feb 2004 14:31:17 -0000
+Received: from x1.develooper.com (HELO x1.develooper.com) (63.251.223.170) by onion.perl.org (qpsmtpd/0.26) with SMTP; Fri, 13 Feb 2004 06:31:17 -0800
+Received: (qmail 30203 invoked by uid 225); 13 Feb 2004 14:31:15 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 30191 invoked by alias); 13 Feb 2004 14:31:12 -0000
+Received: from [63.251.223.166] (HELO onion.perl.org) (63.251.223.166)  by la.mx.develooper.com (qpsmtpd/0.27-dev) with SMTP; Fri, 13 Feb 2004 06:31:12 -0800
+Received: (qmail 15169 invoked by uid 1016); 13 Feb 2004 14:31:11 -0000
+Date: 13 Feb 2004 14:31:11 -0000
+Message-ID: <20040213143111.15168.qmail@onion.perl.org>
+To: jobs@perl.org
+X-Spam-Checker-Version: SpamAssassin 2.63 (2004-01-11) on x1.develooper.com
+X-Spam-Status: No, hits=-4.9 required=8.0 tests=BAYES_00 autolearn=ham 	version=2.63
+X-SMTPD: qpsmtpd/0.26, http://develooper.com/code/qpsmtpd/
+Subject: Programmer (telecommute), Australia, New South Wales, Sydney
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1240
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 13, 2004
+
+Job title: Programmer
+
+Location: Australia, New South Wales, Sydney
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: 2 months
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+Straight forward file-management project to write a series of scripts to
+monitor local directories for the creation of new files.  From
+pre-formateed xml information provided with each group of new files, the
+system will populate an sql database with order data and transfer the files
+to configurable network locations.  (Files are not modified, just moved)
+
+Primary scripts are to be Perl, executing regular status updates to a
+database as well as outputting order data to html as the files are
+processed throught the system.
+
+PHP5 will be used to create forms and pages for status to be viewed by
+external parties.
+
+Project expeceted time 6 weeks, 3 weeks testing.
+
+Committment:  All code must be presented for peer review at each stage. 
+Good commenting and detailed documentation is expected and willingness to
+work remotely is expected.  Facilities in an great technical facility in
+central Sydney can also be provided.
+
+Required skills: perl, sql, php, apache, shell scripting
+
+Desired skills:
+sqlite, php4/5, cups, xml, scp, java, operational knowledge of suse or
+redhat linux
+
+Contact information:
+feel free to drop me a mail at spdynic[AT]yahoo.com or call (within
+Austrlaia) 041 1475 0139
+
+

@@ -1,0 +1,83 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7443
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 4295 invoked from network); 21 Dec 2007 17:33:28 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 21 Dec 2007 17:33:28 -0000
+Received: (qmail 22041 invoked by uid 225); 21 Dec 2007 17:33:28 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 22034 invoked by alias); 21 Dec 2007 17:33:27 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 21 Dec 2007 09:33:12 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id DCE602AFE3; Fri, 21 Dec 2007 09:33:08 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20071221173308.DCE602AFE3@x3.develooper.com>
+Date: Fri, 21 Dec 2007 09:33:08 -0800 (PST)
+Subject: Perl Developer (onsite), United Kingdom, London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/7583
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 21, 2007
+
+Job title: Perl Developer
+
+Company name: ITN
+
+Location: United Kingdom, London
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+DEVELOPING AND MAINTAINING THE METADATA DATABASE (NADS) AND NADS SERVERS
+USED BY ITN SOURCE TO MANAGE ITS FILM AND VIDEO ARCHIVE.
+
+Required skills:
+•	Supporting and developing the import of data from external sources
+into NADS.
+•	With colleagues, support and develop the Shotlisting and Keyworder
+applications.
+•	Manage data backup and integrity
+•	Optimise database performance
+•	Working with database integration with our digital asset management
+system.
+•	Integration with Salesforce.com
+
+Desired skills:
+Essential:
+•	OOP, Perl, Class::DBI. Template Toolkit; SQL::Translator
+•	Database development: DBI/ODBC/mysql/SQLServer/Access
+•	Database administration/query optimisation
+•	XML/SOAP/RPC/REST, Apache, mod-perl, CVS/subversion
+•	Project management; requirements analysis; testing/documentation,
+pragmatic/extreme programming
+•	JavaScript
+
+Desirable:
+•	C/C++, QT, C#, .NET
+•	Video encoding/video formats
+•	Video server technology (Quantel); omnibus automation
+•	AVID/iNews
+
+Contact information at:
+http://jobs.perl.org/job/7583#contact
+
+

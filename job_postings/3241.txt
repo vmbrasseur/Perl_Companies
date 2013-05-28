@@ -1,0 +1,81 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3241
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 26903 invoked from network); 25 Sep 2005 17:38:24 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 25 Sep 2005 17:38:24 -0000
+Received: (qmail 11347 invoked by uid 225); 25 Sep 2005 17:38:24 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11343 invoked by alias); 25 Sep 2005 17:38:23 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 25 Sep 2005 10:38:21 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j8PHcHjl018384
+	for <jobs@perl.org>; Sun, 25 Sep 2005 10:38:17 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j8PHcHWm018382;
+	Sun, 25 Sep 2005 10:38:17 -0700
+Date: Sun, 25 Sep 2005 10:38:17 -0700
+Message-ID: <200509251738.j8PHcHWm018382@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: mod_perl developer with FreeBSD admin experience (telecommute), Australia, Queensland, Brisbane
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3092
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 24, 2005
+
+Job title:
+mod_perl developer with FreeBSD admin experience
+
+Company name: VPS Solutions
+
+Location: Australia, Queensland, Brisbane
+
+Pay rate: open
+
+Travel: 0%
+
+Terms of employment: Hourly employee
+
+Length of employment: open
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+I am wanting to expand in to the VPS hosting market, and require a Perl
+developer to help implement a web site to provide this service.
+
+You should be experienced with mod_perl development and know your way
+around the FreeBSD environment.
+
+Initially I would like to hire you to implement the web site for this
+project, and assist with the back-end tools which run the system.  Further
+work may be required after the initial implementation, depending on the
+success of the service, and feature requests from customers.
+
+
+Required skills:
+mod_perl, TemplateToolkit, MySQL, FreeBSD
+
+Desired skills: Python, XEN virtual machine monitor
+
+Contact information at:
+http://jobs.perl.org/job/3092#contact
+
+

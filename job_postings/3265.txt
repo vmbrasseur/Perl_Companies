@@ -1,0 +1,144 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3265
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 25526 invoked from network); 3 Oct 2005 19:15:27 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 3 Oct 2005 19:15:27 -0000
+Received: (qmail 11116 invoked by uid 225); 3 Oct 2005 19:15:27 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11105 invoked by alias); 3 Oct 2005 19:15:27 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 03 Oct 2005 12:15:23 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j93JFKSO020126
+	for <jobs@perl.org>; Mon, 3 Oct 2005 12:15:20 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j93JFKEQ020124;
+	Mon, 3 Oct 2005 12:15:20 -0700
+Date: Mon, 3 Oct 2005 12:15:20 -0700
+Message-ID: <200510031915.j93JFKEQ020124@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Perl Wizard for E-Commerce Music Gear Site (onsite), United States, Oregon, Medford
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2871
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October  3, 2005
+
+Job title:
+Perl Wizard for E-Commerce Music Gear Site
+
+Company name: Musician's Friend, Inc.
+
+Location: United States, Oregon, Medford
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+This position is for a Junior or Senior level Programmer who will join a
+professional development team that maintains and enhances the ever-growing
+open-source based e-commerece engine behind musiciansfriend.com.
+
+
+Required skills:
+To perform the job successfully, an individual must be able to execute each
+essential duty satisfactorily. The requirements listed below are
+representative of the knowledge, skill and ability required.  Reasonable
+accommodations may be made to enable individuals with disabilities to
+perform the essential functions.
+
+ - Must have at least 2 years experience using Linux as
+   your desktop/development platform.
+
+ - Must have at least 2 years experience with Perl in a
+   web development environment, and
+   a solid understanding of Perl's OOP techniques.
+
+ - Must live and breath open source solutions
+
+ - Must have strong analytical and problem solving skills
+
+ - Must have strong troubleshooting and discovery skills
+
+ - Must be able to work both independently and in a team
+   environmment.
+
+ - Must be able to work with a development process, and 
+   experience with source control systems.
+
+ - Must enjoy writing clear, concise, descriptive 
+   documentation for the cool application you enhance or 
+   create.
+
+ - Must have a good understanding of e-commerce concepts 
+   including architecture, relevant features and 
+   functionality, and knowledge of front, middle, and 
+   back-end systems development.
+
+ - Must have at least 1 year experience programming in 
+   ANSI C or Standard C++
+
+These things should come naturally:
+
+    * Uses initiative and independent judgment within 
+      established procedural guidelines.
+
+    * Demonstrates strategic thinking and problem solving 
+      to assist in meeting the company's
+      goals and the department deadlines.
+
+    * Organizes, prioritizes, and coordinates multiple 
+      work activities.
+
+    * Highly productive in a fast-paced environment.
+
+    * Excellent verbal and written communication skills
+
+Desired skills:
+The technologies below are some of the common technical platforms used at
+Musician's Friend. Experience with any or all of the below tools is
+helpful:
+
+ - Centos/Redhat EL4/Linux Kernel 2.6 Fundementals
+ - mod_perl 1.x, mod_perl 2.0, Mason, Ruby/Rails, C, Shell 
+   Scripts (bash, etc.)
+ - Java/J2EE, BEA Weblogic, Apache Axis
+ - XML, XSLT, XML RPC, SOAP
+ - APIs and Tools: Aegis, CVS, make, gdb, lex, yacc
+ - Daemons & Protocols: Apache 1.x, Apache 2.0, sendmail,
+   Tomcat App Server
+ - Databases: Oracle 8i-10g, BerkeleyDB, Postgres, Mysql,
+   PL/SQL
+
+ - Other: 
+    * Apache Module Development using mod_perl and C
+    * Shell Scripts
+    * Perl XS Development, SWIG
+    * Corba
+
+URL for more information:
+http://www.musiciansfriend.com/srs7/g=home/content/doc_id=97954
+
+Contact information at:
+http://jobs.perl.org/job/2871#contact
+
+

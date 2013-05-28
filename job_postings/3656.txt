@@ -1,0 +1,103 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3656
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 12564 invoked from network); 5 Jan 2006 22:56:23 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 5 Jan 2006 22:56:23 -0000
+Received: (qmail 24824 invoked by uid 225); 5 Jan 2006 22:56:23 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 24819 invoked by alias); 5 Jan 2006 22:56:22 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 05 Jan 2006 14:56:19 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id k05MuG4n010563
+	for <jobs@perl.org>; Thu, 5 Jan 2006 14:56:16 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id k05MuGta010561;
+	Thu, 5 Jan 2006 14:56:16 -0800
+Date: Thu, 5 Jan 2006 14:56:16 -0800
+Message-ID: <200601052256.k05MuGta010561@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Senior Software Developer for the Life Sciences (onsite), United States, WA, Seattle
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3487
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January  5, 2006
+
+Job title:
+Senior Software Developer for the Life Sciences
+
+Company name: Geospiza
+
+Internal ID: Senior Software Developer
+
+Location: United States, WA, Seattle
+
+Pay rate: DOE
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Geospiza, a leading developer of information systems for the management and
+analysis of data for the Life Sciences, is looking for a senior Perl
+software developer to join our growing core development software team. The
+position reports to the Chief Software Architect and will be responsible
+for software development on Geospiza's flagship product, the Finch Suite.
+
+•	Design and implementation of APIs for Scientific Data management
+•	Web application software development projects
+•	Work with management, developers, and QA to manage the development
+of new features, improvements, and bug fixes on multiple development
+branches
+•	Assist with customer support troubleshooting
+•	Provide technical experience to customer services team
+•	Help the continual development of internal standard operating
+procedures (SOP) for software development
+
+
+Required skills:
+•	At least 5 years of software development experience
+•	Experience in the production of web applications on the
+Unix/mod_perl/Apache framework
+•	Experience in Linux, Solaris, and MacOSX operating systems
+•	Experience with CVS, Shell programming, HTML, and Make
+•	Experience with relational database, especially postgreSQL, Oracle
+and Solid
+•	Experience with Perl a must
+
+
+Desired skills:
+•	Responsible, hard working individual that has a good team
+personality
+•	Good diagnostic and communication skills
+•	Strong customer service orientation
+•	Ability to multi-task and manage multiple ongoing projects
+•	Ability to work independently as well as with others
+
+
+URL for more information: http://www.geospiza.com/jobs.htm
+
+Contact information at:
+http://jobs.perl.org/job/3487#contact
+
+

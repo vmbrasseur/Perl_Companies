@@ -1,0 +1,85 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3297
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 1592 invoked from network); 11 Oct 2005 18:55:41 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 11 Oct 2005 18:55:41 -0000
+Received: (qmail 19148 invoked by uid 225); 11 Oct 2005 18:55:41 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 19142 invoked by alias); 11 Oct 2005 18:55:41 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 11 Oct 2005 11:55:34 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j9BItUKZ010624
+	for <jobs@perl.org>; Tue, 11 Oct 2005 11:55:30 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j9BItUEo010622;
+	Tue, 11 Oct 2005 11:55:30 -0700
+Date: Tue, 11 Oct 2005 11:55:30 -0700
+Message-ID: <200510111855.j9BItUEo010622@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Mid-level Test/QA Engineer (onsite), United States, VA, Herndon
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3148
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 11, 2005
+
+Job title: Mid-level Test/QA Engineer
+
+Company name: Paxfire, Inc
+
+Internal ID: Mid-Test
+
+Location: United States, VA, Herndon
+
+Pay rate: Based on experience
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Mid Level Test and Quality Assurance engineer to support the testing and
+operations of linux-based systems.
+- Plan, develop and execute system test (including in the future both
+from-scratch and update scenarios)using perl/shell scripts
+- Subject matter expert on CVS and Bugzilla 
+- Ensure that changes to the source are all tied to Bug IDs, have been
+inspected, and that corresponding installation and/or usage documentation
+exists and has been updated as needed
+- Temporary operations support of linux-based applications
+- create applications to process log files
+
+
+Required skills:
+-	perl and shell scripting experience a must (4+years)
+-	experience with Linux admin – 3+ years
+-	experience developing and executing system tests
+-	experience with Bugzilla and CVS or with similar change management
+and source management systems
+
+
+Desired skills: -	C/C++ programming experience a plus
+
+Contact information at:
+http://jobs.perl.org/job/3148#contact
+
+

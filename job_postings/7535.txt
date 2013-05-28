@@ -1,0 +1,89 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7535
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 17443 invoked from network); 15 Jan 2008 15:12:12 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 15 Jan 2008 15:12:12 -0000
+Received: (qmail 24494 invoked by uid 225); 15 Jan 2008 15:12:12 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 24486 invoked by alias); 15 Jan 2008 15:12:11 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 15 Jan 2008 07:12:02 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 05EA42AF88; Tue, 15 Jan 2008 07:11:57 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20080115151158.05EA42AF88@x3.develooper.com>
+Date: Tue, 15 Jan 2008 07:11:57 -0800 (PST)
+Subject: frontend and/or backend developer for startup, exciting web-based solutions (onsite), Hungary, Budapest, Budapest
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/7722
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 15, 2008
+
+Job title:
+frontend and/or backend developer for startup, exciting web-based solutions
+
+Company name: Infomatix Ltd.
+
+Location: Hungary, Budapest, Budapest
+
+Pay rate: 800-3000 EUR
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Flexible
+
+Onsite: yes
+
+Description:
+We are looking for experienced developer to support our team, already built
+of 6 Perl developers, preferably full time. 
+
+The primarily goal of the project is building server-side solutions for
+web-based portals. Perl/DBI is a must, AJAX is a good-to-have solution.
+
+90% of the work is to be done from Budapest, with some traveling to Vienna.
+
+Required skills:
+Frontend developer:
+- good CSS
+- good AJAX
+- Tempalte.pm (optional)
+- Google maps api (optinal)
+
+Backend developer:
+- good in perl
+- familiar with MVC model (Catalyst - optional)
+- DBIx::Class (optional)
+- Template.pm (optional)
+
+
+ability to work independently, in a team
+
+fitting into a startup environment, enthusiasm about the job.
+
+Desired skills:
+Catalyst
+Google maps API
+good command of English
+
+URL for more information: http://www.infomtaix.hu/
+
+Contact information at:
+http://jobs.perl.org/job/7722#contact
+
+

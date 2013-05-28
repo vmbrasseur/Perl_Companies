@@ -1,0 +1,86 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9801
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 3679 invoked from network); 29 Jan 2010 00:28:23 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 29 Jan 2010 00:28:23 -0000
+Received: (qmail 3114 invoked by uid 225); 29 Jan 2010 00:28:23 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 3044 invoked by alias); 29 Jan 2010 00:28:22 -0000
+X-Spam-Status: No, hits=-0.0 required=8.0
+	tests=SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 28 Jan 2010 16:27:48 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id EF7FA2AFDF; Thu, 28 Jan 2010 16:27:36 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20100129002736.EF7FA2AFDF@x3.develooper.com>
+Date: Thu, 28 Jan 2010 16:27:36 -0800 (PST)
+Subject: Pipelines Web Developer (onsite), Canada, Ontario, Toronto
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/11650
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 26, 2010
+
+Job title: Pipelines Web Developer
+
+Company name: Holophrastic Enterprises Inc.
+
+Location: Canada, Ontario, Toronto
+
+Pay rate: negotiable
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Length of employment: long-term, career-oriented
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Pipelines is our internal and proprietary web development platform --
+written on top of Perl, of course.  Call it a template language if you
+must, but basically it automates away 90% of typical web development --
+connecting to the database, user logins, security, user preferences, et
+cetera.  It also throws umbrella features over everything.  It's really
+cool.
+
+As most of pipelines pulls from the world of Perl, and it's perl core is
+constantly upgraded, Perl developers are particularly suited to this job --
+actually a career.  Pipelines includes dozens of sub-syntax languages of
+natures similar to regular expressions, so if you can parse a regular
+expression in your head, cryptic as it may be, pipelines becomes crazy
+easy.
+
+Work is explosive now, so we're hiring immediately.  It is expected that
+you'll take  afew months to get up to speed -- the learning curve is quite
+steep, but the work itself is really easy, and we have a lot of fun with
+it.
+
+Required skills:
+raw perl (no modules), javascript, mysql, html, css.  An understanding of
+the general flow of a web-site from database, to backend server, to output
+stream, to browser client and back again.  An understanding of the general
+problems in web development like caching and speed and security.
+
+Desired skills:
+jscript, english writing, regular expressions, basic graphic work
+(cropping, colour correction, sizing, compressing)
+
+Contact information at:
+http://jobs.perl.org/job/11650#contact
+
+

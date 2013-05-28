@@ -1,0 +1,116 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9155
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 31008 invoked from network); 27 Apr 2009 21:11:02 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 27 Apr 2009 21:11:02 -0000
+Received: (qmail 4437 invoked by uid 225); 27 Apr 2009 21:11:01 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 4429 invoked by alias); 27 Apr 2009 21:11:01 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 27 Apr 2009 14:10:25 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 7ECAD2AFE2; Mon, 27 Apr 2009 14:10:22 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20090427211022.7ECAD2AFE2@x3.develooper.com>
+Date: Mon, 27 Apr 2009 14:10:22 -0700 (PDT)
+Subject: Entry Level Web Developer (mostly in Perl) (onsite), United States, MA, Lowell
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/10512
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 25, 2009
+
+Job title:
+Entry Level Web Developer (mostly in Perl)
+
+Company name: Community Software Lab
+
+Location: United States, MA, Lowell
+
+Pay rate: 16K / yr + basic health insurance
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: 1 year
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We have a successful directory of community services: MVHub.com
+
+The site is written using CGI::Application , Test::More ,
+Test::WWW:Mechanize , etc
+
+We'd like to reproduce this success at North Shore Portal and in other
+places around the state and country.
+
+To this end we want to:
+
+  1. Improve our process for making software.
+
+  2. Improve the software
+
+SOFTWARE PROCESS IMPROVEMENT
+Our software engineering process is pretty typical. We score a between 4
+and 5 on on the Joel test. Joel test. We'd like to score an 11. For example
+we've used and benefited from version control software for years, but we
+don't use bug tracking software.
+
+EXAMPLE SOFTWARE FEATURE IMPROVEMENT
+Right now our software sucks less than the competition. We'd like it to
+actually be good. One place we can improve is to make it easier for google
+and our competitors to grab our data.
+
+If we provide data dumps at zero $ cost and without licenses that prohibit
+competition, our organization will gain many partners. People who want to
+build better directories will have the tools to do this.
+
+
+To apply for this position you need:
+
+  1) to be a citizen or a permanent resident (have a green card)
+
+  2) to be willing to work fulltime for $16,000 per year and basic health
+insurance
+
+This is an Americorps/VISTA spot, you give a year of service and get
+(barely) enough to money to live on, the satisfaction of improving the
+world and some experience.
+
+If you are finding it hard to find work because you don't have that crucial
+first year of experience, or if you want to avoid the stigma of a gap in
+employment during the recesion, we can be a good fit for you.
+
+To apply see: 
+
+Required skills:
+Perl or the willingness to learn it. 
+
+
+Desired skills:
+Testing
+Design
+Project Estimating
+
+URL for more information: http://thecsl.org/go/vista
+
+Contact information at:
+http://jobs.perl.org/job/10512#contact
+
+

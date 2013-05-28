@@ -1,0 +1,87 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8279
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28918 invoked from network); 14 Jun 2008 08:39:55 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 14 Jun 2008 08:39:55 -0000
+Received: (qmail 7829 invoked by uid 225); 14 Jun 2008 08:39:55 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 7824 invoked by alias); 14 Jun 2008 08:39:55 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 14 Jun 2008 01:39:52 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 0D88C2AFF5; Sat, 14 Jun 2008 01:39:48 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080614083949.0D88C2AFF5@x3.develooper.com>
+Date: Sat, 14 Jun 2008 01:39:48 -0700 (PDT)
+Subject: Sr. Software Engineer (onsite), United States, WA, Seattle
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8942
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 11, 2008
+
+Job title: Sr. Software Engineer
+
+Company name: Spry.com
+
+Internal ID: dev
+
+Location: United States, WA, Seattle
+
+Pay rate: BOE (60-90k)
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: indefinite
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Spry is a web hosting provider. The position is primarily developing and
+coding the backend systems that provide our clients with interfaces and
+control panels for managing their VPS and hosting accounts with us. 
+
+We have a 1.0 provisioning system written in perl that needs to be
+rewritten with a number of new features. There are existing control panels
+written in PHP and they all need to be replaced by one unified control
+panel and account management interface. Integration with PHP applications
+will be required as the billing system is a PHP app.
+
+The candidate we're looking for is going to impress us with not just how
+well the code works, but also with how easy it is for the rest of us to
+grok and tweak it without breaking stuff. 
+
+Required skills:
+Perl, PHP, AJAX, SOAP, REST, HTML, CSS.  Must be familiar with functional
+and OOP styles and comfortable with both. Must be so familiar with at least
+one test framework that you can whiteboard out several tests for a hunk of
+code and barely have to think about it.
+
+Desired skills:
+Experience with modernbill, WHMCS, and various web hosting control panels
+such as Plesk, cPanel, webmin, etc. Experience with Xen and Virtuosso are a
+plus.
+
+URL for more information:
+http://seattle.craigslist.org/see/eng/708850812.html
+
+Contact information at:
+http://jobs.perl.org/job/8942#contact
+
+

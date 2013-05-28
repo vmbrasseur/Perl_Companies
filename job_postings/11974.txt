@@ -1,0 +1,83 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11974
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 16584 invoked from network); 22 Dec 2011 19:11:24 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 22 Dec 2011 19:11:24 -0000
+Received: (qmail 16530 invoked by uid 225); 22 Dec 2011 19:11:23 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 16525 invoked by alias); 22 Dec 2011 19:11:22 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 22 Dec 2011 11:11:20 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id D89612AFDD; Thu, 22 Dec 2011 11:11:16 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 22 Dec 2011 11:11:16 -0800
+Message-ID: <20111222191116.D89612AFDD@x3.develooper.com>
+Subject: 3 Perl Programmers - Local to DC or willing to relocate (onsite),
+ Washington DC
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15102
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 22, 2011
+
+Job title:
+3 Perl Programmers - Local to DC or willing to relocate
+
+Company name: Liquidity Services, Inc.
+
+Location: Washington DC
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+LSI is hiring an experienced software developer. The successful candidate
+will work independently and as part of a team including other developers,
+system and network administrators, business leads, and project managers.
+The developer/analyst will participate in all aspects of the software
+development life cycle, including: requirements gathering from business
+leads, implementation, testing, documentation, and support. The candidate
+may be a point of contact for business leads, help to classify and triage
+incoming tickets, document requirements from the business, and perform
+general support duties. We primarily develop in a LAMP environment (Perl),
+but are increasingly using Java as well. This position is located at LSI's
+headquarters in Washington, DC.
+
+Required skills:
+* Extensive software development experience in a professional environment.
+* Ability to write idiomatic Perl.  Knowledge of and experience with a
+variety of CPAN modules.
+* Proven experience writing scalable, high performance code with efficient
+utilization of server resources.
+* Strong verbal and written communication skills.
+
+Desired skills:
+* Knowledge of other languages, particularly Java and related technologies
+(Spring, Struts, Hibernate, Maven, etc.) a plus.
+* Use of software engineering best practices to maximize code
+maintainability (for example, those in Damian Conway's "Perl Best
+Practices").
+
+Website for more information:
+http://www.liquidityservicesinc.com/careers/perl-developersoftwareanalystdc
+949871/
+
+Contact information at:
+http://jobs.perl.org/job/15102#contact

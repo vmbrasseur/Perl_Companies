@@ -1,0 +1,85 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3106
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 12542 invoked from network); 17 Aug 2005 23:30:58 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 17 Aug 2005 23:30:58 -0000
+Received: (qmail 12145 invoked by uid 225); 17 Aug 2005 23:30:57 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 12140 invoked by alias); 17 Aug 2005 23:30:57 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 17 Aug 2005 16:30:52 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j7HNUncI029580
+	for <jobs@perl.org>; Wed, 17 Aug 2005 16:30:49 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j7HNUnBY029578;
+	Wed, 17 Aug 2005 16:30:49 -0700
+Date: Wed, 17 Aug 2005 16:30:49 -0700
+Message-ID: <200508172330.j7HNUnBY029578@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Perl programmer needed for large refactoring effort (onsite), United States, OR, Portland
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2972
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 17, 2005
+
+Job title:
+Perl programmer needed for large refactoring effort
+
+Company name: MiraLink
+
+Location: United States, OR, Portland
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 3-4 months
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Perl Contractor in Downtown Portland Oregon
+
+Perl programmer needed for large refactoring effort.
+
+Required skills:
+-Should have experience with cleaning up at least one large code base,
+willingness to unit test extensively.
+- Must be able to read and understand complex existing code in order to
+refactor.
+- Should have good documentation/pod skills.
+- Extensive experience with Perl 5.X under a UNIX based OS is required.
+- Should understand and be capable of explaining and implementing daemon
+wrapper restart and monitoring applications.
+- Should have experience with integrating Perl modules and C libraries
+(XS).
+- Should have some experience with generating HTML and maintaining a web
+GUI under Perl.
+
+
+Desired skills:
+- Pair-programming experience would also be nice to have.
+- Experience with FreeBSD 4.11 and 4.8 is desirable, but not required.
+
+Contact information at:
+http://jobs.perl.org/job/2972#contact
+
+

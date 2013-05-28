@@ -1,0 +1,81 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8670
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 15395 invoked from network); 15 Sep 2008 02:47:28 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 15 Sep 2008 02:47:28 -0000
+Received: (qmail 25852 invoked by uid 225); 15 Sep 2008 02:47:27 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 25843 invoked by alias); 15 Sep 2008 02:47:26 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 14 Sep 2008 19:47:03 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id D04092AFE9; Sun, 14 Sep 2008 19:46:59 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080915024659.D04092AFE9@x3.develooper.com>
+Date: Sun, 14 Sep 2008 19:46:59 -0700 (PDT)
+Subject: Web developer for a project (telecommute), Denmark, Auning
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/9628
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 14, 2008
+
+Job title: Web developer for a project
+
+Company name: Datagraf A/S
+
+Location: Denmark, Auning
+
+Pay rate: competitive
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: 250 hours
+
+Onsite: no
+
+Description:
+We need a perl webdeveloper - or a team of developers - for a project. The
+project involves construction of a system to create documents from
+templates through a webinterface.
+
+The system is to run on a Windows 2003 server, using the latest ActivePerl
+8xx (PerlEx) and a MS SQL Server 2005.
+
+Content is to be entered in a WYSIWYG editor with a limited number of
+styles. Images are pulled from an asset management system.
+
+Focus is on performance, ease of use and integration to existing systems.
+
+The project starts in the beginning of October and ends in the second half
+of November.
+
+Required skills:
+Perl, preferably PerlEx (ActivePerl) on Windows
+JavaScript and AJAX
+
+Desired skills:
+Web development on Windows
+Class::DBI or equivalent
+Active Directory
+Cumulus (v. 7.5.2)
+Pectora
+
+Contact information at:
+http://jobs.perl.org/job/9628#contact
+
+

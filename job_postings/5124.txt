@@ -1,0 +1,140 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5124
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 29019 invoked from network); 17 Oct 2006 22:49:56 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 17 Oct 2006 22:49:56 -0000
+Received: (qmail 29245 invoked by uid 225); 17 Oct 2006 22:49:55 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 29227 invoked by alias); 17 Oct 2006 22:49:54 -0000
+X-Spam-Status: No, hits=-2.5 required=8.0
+	tests=ALL_TRUSTED,BAYES_20
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 17 Oct 2006 15:49:47 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 402D42AFE8; Tue, 17 Oct 2006 15:49:18 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20061017224918.402D42AFE8@x3.develooper.com>
+Date: Tue, 17 Oct 2006 15:49:18 -0700 (PDT)
+Subject: Experienced mod_perl/DBI/FastCGI developer for small NZ company (onsite), New Zealand, Auckland (Albany area)
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4800
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 17, 2006
+
+Job title:
+Experienced mod_perl/DBI/FastCGI developer for small NZ company
+
+Company name: Rixington Group Holding Company
+
+Location: New Zealand, Auckland (Albany area)
+
+Pay rate: 80k NZD
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We’re looking for an experienced and enterprising hacker with a desire to
+work on "Web 2.0" projects for the New Zealand (and wider) market. (Yes, we
+know that "Web 2.0" means different things to different people.)
+
+We’re about to launch a nationwide beta of our first NZ-targeted product,
+and we have several other projects in mind. That is where you come in.
+
+This is the classic start-up experience, involving dedicated people who
+live, think and dream technology. It will involve solving interesting
+problems in new ways, doing a lot of work, and hopefully having a lot of
+fun, while bringing new products to market in a very fast-paced
+environment.
+
+We're also flexible with compensation (equity vs. salary slider), and we'll
+tailor a package to meet your experience and expectations.
+
+
+Who Will I Be Working With?
+--------------------------------------------------
+
+You'll be the fourth member of our team, which currently numbers three: one
+developer, one designer, and the guy who pays the bills.
+
+As well as this senior position, we’re adding a more junior developer in
+the next month or so as well.
+
+We’re a seasoned team and are very serious about the business – the first
+two people are imports from the USA, who’ve put in time at some of the
+oldest and best known companies on the www. The guy who pays the bills has
+successfully founded, built and subsequently sold web
+companies in New Zealand going into the last millennium.
+
+We've got a top team here, and are looking for top talent to expand it. If
+you are the go-to guy (or gal) in your organisation who enjoys making
+decisions as well as executing on them, isn't afraid to speak your mind,
+and likes playing with new technologies, you'll fit right in.
+
+
+What Technologies?
+--------------------------------------------------
+
+Our current environment is typical LAMP, consisting primarily of perl 5
+programs running via FastCGI and SpeedyCGI on Apache 2.0.x. We use MySQL to
+manage our data store. All of this runs on top of CentOS, which is
+essentially RedHat Linux.
+
+We are open to other options and technology, if they solve more problems
+than they cause.
+
+
+Am I The One?
+--------------------------------------------------
+
+Only time and scrutiny will tell. Our ideal candidate will have some of
+these attributes:
+
+- Speaks, reads and writes English fluently. A second language would be
+advantageous, but isn't a requirement.
+
+- Has 5-10 years of experience developing and/or operating commercial web
+applications based on Linux, MySQL and Apache. Experience with well-known,
+high-traffic, 24x7 sites is a huge plus.
+
+- Has 5 or more years experience with Perl 5, especially in a CGI.pm,
+mod_perl, or HTML::Mason environment. Don't worry about Fast/SpeedyCGI --
+you'll pick that up quickly. Some expertise with the perl DBI interface is
+a big plus (but we'd be surprised if you had 5 years of perl without it).
+
+- Has some skill with HTML, Javascript, AJAX and/or PHP.
+
+- Has at least a passing interest in Ruby, Rails and/or Python.
+
+- Reads techcrunch, mashable, slashdot and similar websites on a regular
+basis to keep on top of news and information. Bonus points if you're tuned
+into OnStartups, Ventureblog, Paul Graham's essays, and other content aimed
+at startups and the people who love them.
+
+- Can pick up and start using new technology quickly.
+
+- Isn't afraid to work outside of their job description.
+
+You must be eligible to work in NZ to apply for this role.
+
+Contact information at:
+http://jobs.perl.org/job/4800#contact
+
+

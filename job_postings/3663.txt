@@ -1,0 +1,140 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3663
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 30253 invoked from network); 7 Jan 2006 01:55:09 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 7 Jan 2006 01:55:09 -0000
+Received: (qmail 17145 invoked by uid 225); 7 Jan 2006 01:55:09 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 17141 invoked by alias); 7 Jan 2006 01:55:08 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 06 Jan 2006 17:55:04 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id k071t2hw009675
+	for <jobs@perl.org>; Fri, 6 Jan 2006 17:55:02 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id k071t2Yt009673;
+	Fri, 6 Jan 2006 17:55:02 -0800
+Date: Fri, 6 Jan 2006 17:55:02 -0800
+Message-ID: <200601070155.k071t2Yt009673@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Perl Programmer w great data manipulation skills (onsite), United States, Maryland, Bethesda
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3494
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January  6, 2006
+
+Job title:
+Perl Programmer w great data manipulation skills
+
+Company name: CONNECT Resource Group
+
+Internal ID: Perl Programmer
+
+Location: United States, Maryland, Bethesda
+
+Pay rate: market
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: Permanent position
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Integration Engineer (Perl developer with great data manipulation skills)
+Reports to VP, Client Services
+
+Permanent position at a cool, technically progressive leading provider of
+cutting edge technology solutions for medical coding. Use technologies like
+Statistical Natural Language Processing engine and web-based technologies.
+Located in Bethesda, MD right at red line Metro stop.
+
+Looking for strong perl developer / integrator to create programs and
+repeatable procedures to extract information from transcribed medical
+records and store them for use in downstream processes, then to format
+results to client specifications for closed loop processing. 
+
+Need strong perl developer who has done lots of data manipulation (data
+loading, data integration, data mining, data modeling, etc.) Experience
+with Oracle, MySQL or Postgres databases / Linux platform. MySQL is the
+main database but it is not a light MySQL database; it has replication,
+etc. Want kind of person who delights in coming up with creative solutions,
+who wants to work in an open source environment with creative energy, with
+outstanding management that shares information and knowledge. 
+
+You will be taking a lot of free form text from medical dictations (The
+incoming data feeds arrive in many forms - print captures, Word Perfect
+docs, Word docs, HL7, OCR feeds) and you will be squishing into the
+database, into the company's format via perl. Write parsing files,
+extracting text, loading them through ....
+
+SKILLS REQUIRED
+Perl development; some Java development
+Intensive parsing experience
+Experience with "regular expressions" / pattern matching.
+Database interaction, data extraction, data mining, data modeling, etc. 
+Familiarity with UNIX editors EMACS or Vi 
+Experience in healthcare arena - highly desirable but not necessary
+XML experience
+Database programming in SQL
+Source control of enterprise level stuff
+Basic database skills like basic updates and deletes to database. 
+Ability to interact with clients for requirements validation and QA
+purposes
+Strong problem-solving skills and attention to detail
+Good verbal / communication / organizational skills
+High level of creative energy and fascination with all things techie. 
+
+You should be an expert at writing parsing files to assimilate incoming
+data. And then, you should understand how this will affect the data that
+they return to their clients.
+
+All qualified and interested candidates should contact Helen Lewis at
+CONNECT Resource Group (202) 244.9343 and e-mail resume to
+hlewisconnect@starpower.net
+
+
+Required skills:
+SKILLS REQUIRED
+Perl development; some Java development
+Intensive parsing experience
+Experience with "regular expressions" / pattern matching.
+Database interaction, data extraction, data mining, data modeling, etc. 
+Familiarity with UNIX editors EMACS or Vi 
+XML experience
+Database programming in SQL
+Source control of enterprise level stuff
+Basic database skills like basic updates and deletes to database. 
+Ability to interact with clients for requirements validation and QA
+purposes
+Strong problem-solving skills and attention to detail
+Good verbal / communication / organizational skills
+High level of creative energy and fascination with all things techie. 
+
+
+Desired skills:
+Experience in healthcare arena - highly desirable but not necessary
+
+Contact information at:
+http://jobs.perl.org/job/3494#contact
+
+

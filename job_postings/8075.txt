@@ -1,0 +1,171 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8075
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 5779 invoked from network); 2 May 2008 15:58:07 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 2 May 2008 15:58:07 -0000
+Received: (qmail 23615 invoked by uid 225); 2 May 2008 15:58:07 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 23611 invoked by alias); 2 May 2008 15:58:06 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 02 May 2008 08:58:03 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 8ED942AFE0; Fri,  2 May 2008 08:57:59 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080502155759.8ED942AFE0@x3.develooper.com>
+Date: Fri,  2 May 2008 08:57:59 -0700 (PDT)
+X-Virus-Checked: Checked
+Subject: Lead Web Developer (onsite), United States, MI, Detroit
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8584
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May  2, 2008
+
+Job title: Lead Web Developer
+
+Company name: Crain Communications
+
+Location: United States, MI, Detroit
+
+Pay rate: negotiable
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+CRAIN’S CHICAGO BUSINESS – ChicagoBusiness.com, the award-winning local
+business website powered by Crain’s Chicago Business, is seeking candidates
+for the position of Lead Web Developer.  Along with its sister site,
+ChicagoRealEstateDaily.com, ChicagoBusiness.com delivers approximately 2
+million monthly page views, and boasts a user base of over 200,000
+registered users and subscribers.  In addition to serving as the online
+home of Crain’s Chicago Business, continuous breaking news items, daily
+multimedia features, and over 3 million monthly email alerts help to cement
+ChicagoBusiness.com’s status as the nation-wide leader in the local
+business publishing space.
+
+Job Title:		 Lead Web Developer
+
+Job Responsibilities:
+Assist in the design, development, and implementation of online initiatives
+for ChicagoBusiness.com and ChicagoRealEstateDaily.com.  Day-to-day
+responsibilities include:
+
+1.  Consulting with internal business units in defining technical
+requirements and possibilities in order to achieve business and editorial
+goals and implementing those requirements;
+2. Continued expansion of our custom built content-management system.
+3. Integration with technical partners, fulfilling such mission critical
+functions as ad serving, print circulation, traffic analytics, email
+delivery,  and content mobilization.
+4.  Insuring the timely delivery of major business and editorial
+initiatives;
+5.  Assist with ad inventory projections and management;
+6.  Project and personnel management of contractors and 3rd party vendors.
+7.  Staying abreast of current and emerging technologies, and the best
+practices of implementation thereof.
+8.  Manage simultaneous initiatives of varying scope and priority.
+9. Develop and manage long-range projects involving new business
+opportunities and new editorial offerings.
+10. Knowledge of industry best practices for Web user interface and user
+experience processes. General design qualities thereof.
+
+Job Requirements:
+The environment is a standard perl-based LAMP stack running on CentOs
+(Apache 2.052 / MySql 5.0.54 / Perl5.8.8).  Production architecture
+consists of one database server and three application servers load-balanced
+across a network storage appliance.
+
+Required technical skills include:
+1. Expert perl knowledge, including OO perl, regular expressions, list
+idioms (map, grep, Schwartzian Transform, etc), and deeply-nested data
+structures.
+2. Advanced knowledge of MySQL operations, including  inner/outer joins,
+database indexing, schema development, and data optimization and
+optimization troubleshooting.
+3. Client-side coding, including HTML, css, javascript, and ajax. 
+Experience with javascript frameworks (prototype, scriptaculous, dojo,
+jquery, etc) is an asset.
+4. HTTP protocols and communications, including custom apache
+configuration.	SOAP/REST is desirable, and those candidates with mod_perl
+expertise are highly sought. 
+5. Unix operation and shell scripting.
+6. Version Control (CVS/SVN)
+7. Mod_rewrite in addition to mod_perl
+8. Upcoming needs such as caching and performance tuning
+9. Issue tracking in addition to SCM
+
+User Experience and Design skills required. Here are some examples of that:
+
+
+1. Expertise in Information Architecture, including the ability to
+implement and measure IA changes which have a positive business and
+usability impact
+2. Consulting with all stakeholders in the maintenance of a flexible and
+extensible site taxonomy
+3. Understanding of web analytics including the ability to create, define
+and measure metrics that are directly correlated with business and
+editorial objectives
+4. Experience with the design and implementation of A/B testing programs
+related to advertising and circulation initiatives
+5. Extensive knowledge of web standards, including best practices for cross
+platform web development; experience with mobile platforms desirable
+6. Web design experience, including an understanding of the effective use
+of such elements as color, typography, and whitespace.
+7. Wireframe and mockup creation
+8. Understanding of the creative workflow including such topics as color
+management and video encoding; familiarity with Adobe software helpful
+9. SEO implementation and tracking
+
+Previous experience with publishing and content management highly
+desirable.
+
+Crain Communications Inc is one of the largest privately-owned business
+publishers in the U.S. with over 30 leading business, trade and consumer
+titles in North America and Europe. As an authoritative source of vital
+news and information to industry leaders and consumers worldwide, each of
+the company's newspapers, magazines and electronic news sites have become
+required reading in their respective sector of business and consumer
+market. Providing unmatched value and award-winning editorial excellence,
+the company is respected for its dependable journalism which readers have
+relied upon for over 90 years. 
+
+Crain Communications offers a competitive salary, a generous benefits
+package, profit sharing, and a friendly work environment. This is a great
+time to join our organization -- a profitable, well established publishing
+leader.  
+
+To apply for this position please visit our website at www.crain.com and
+search under the employment section.
+
+We thank you for your interest in Crain Communications and invite you to
+visit our website as positions are updated regularly.  Crain Communications
+is an Equal Opportunity Employer.
+
+
+Required skills:
+Please see job description for specifice perl is one of the required skills
+
+Desired skills: Please see job description
+
+URL for more information: http://www.crain.com/apply.htm
+
+Contact information at:
+http://jobs.perl.org/job/8584#contact
+
+

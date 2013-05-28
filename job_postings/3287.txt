@@ -1,0 +1,128 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3287
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 401 invoked from network); 10 Oct 2005 16:32:25 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 10 Oct 2005 16:32:25 -0000
+Received: (qmail 23033 invoked by uid 225); 10 Oct 2005 16:32:24 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 23026 invoked by alias); 10 Oct 2005 16:32:23 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 10 Oct 2005 09:32:12 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j9AGWAtf007575
+	for <jobs@perl.org>; Mon, 10 Oct 2005 09:32:10 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j9AGWA4l007573;
+	Mon, 10 Oct 2005 09:32:10 -0700
+Date: Mon, 10 Oct 2005 09:32:10 -0700
+Message-ID: <200510101632.j9AGWA4l007573@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: mod_perl w/ linux apache & mysql for yahoo (onsite), United States, CA, Pasadena
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3142
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 10, 2005
+
+Job title:
+mod_perl w/ linux apache & mysql for yahoo
+
+Company name:
+Yahoo Inc, Yahoo Search Marketing Engineering
+
+Internal ID: jeremylanghans
+
+Location: United States, CA, Pasadena
+
+Pay rate: DOQ
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Yahoo! Search Marketing, a division of Yahoo! Inc., offers essential
+marketing services for companies doing business online. The group's
+search-based products and tools help businesses connect with highly
+motivated customers. 
+
+Title: Senior Technical Yahoo
+Location: Pasadena, CA
+
+We are seeking a senior enterprise application engineer to manage the
+dynamic Yahoo! Search Marketing enterprise wide software application suite.
+Yahoo! Search Marketing Software Operations Engineers work on a team
+dedicated to addressing application performance, security, and stability
+issues. Engineers work in a cross-functional environment including
+development, networking, hosting systems, database, application servers and
+web serving. Knowledge and understanding of each layer, especially software
+design, is a critical factor for success.
+
+Responsibilities include the following:
+
+* Work in a team to categorize, prioritize and resolve software application
+issues, dealing with all levels of Yahoo! Search Marketing's corporate and
+enterprise infrastructure. 
+* Develop appropriate applications architecture that sustains Yahoo! Search
+Marketing's high standards of availability and performance. 
+* Responsible for working with and coordinating the necessary development
+and technical operations teams to solve application performance, security,
+and stability issues. 
+* Function as 3rd tier escalation team for enterprise application 
+issues and manage the resolution of issues.
+
+
+Required skills:
+Requirements include the following:
+
+* Minimum 6 years demonstrated software development and/or architecture
+experience.
+* Excellent development skills and experience in OO Perl, C, and C++. 
+* Detailed knowledge tuning and instrumenting Apache and mod_perl.
+* In-depth understanding of TCP/IP networking and troubleshooting,
+networking architecture and design.
+* Excellent knowledge of modern software systems engineering and experience
+in building and operating distributed component-based software solutions.
+* Experience with data management, relational and object-oriented data
+systems required. 
+* Outstanding interpersonal and communication skills. 
+* Strong research, investigation and evaluation skills.
+
+Desired skills:
+Highly desirable qualifications include the following:
+
+* Experience with web services.
+* Unix System administration experience or equivalent knowledge (Solaris,
+Linux, BSD).
+* Experience with network programming and IPC.
+* Oracle and MySQL experience.
+* Consulting experience.
+* Experience with successful implementations of complex, highly scalable
+and highly available systems in a multi-tier environment.
+* Technical or business operations experience in a 24x7 environment.
+
+URL for more information:
+http://www.contingentworkforce.org/jla/talentnetwork/default.asp
+
+Contact information at:
+http://jobs.perl.org/job/3142#contact
+
+

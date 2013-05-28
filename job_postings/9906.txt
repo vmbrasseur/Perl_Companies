@@ -1,0 +1,71 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9906
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28477 invoked from network); 28 Feb 2010 08:04:03 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 28 Feb 2010 08:04:03 -0000
+Received: (qmail 1614 invoked by uid 225); 28 Feb 2010 08:04:03 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 1610 invoked by alias); 28 Feb 2010 08:04:02 -0000
+X-Spam-Status: No, hits=-0.0 required=8.0
+	tests=SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 28 Feb 2010 00:03:28 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 215432AFE1; Sun, 28 Feb 2010 00:03:16 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20100228080317.215432AFE1@x3.develooper.com>
+Date: Sun, 28 Feb 2010 00:03:16 -0800 (PST)
+Subject: short-term contract: perl-driven selenium harness for javascript library, United States, MA, Natick
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/11804
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 20, 2010
+
+Job title:
+short-term contract: perl-driven selenium harness for javascript library
+
+Company name: Vivox, Inc.
+
+Location: United States, MA, Natick
+
+Pay rate: negotiable
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Part time
+
+Description:
+We need a test harness framework for our javascript library. We can use
+Selenium's perl driver, but we need that basic web page framework that
+allows us:
+
+1) to make javascript calls directly (Selenium's get_eval())
+2) a framework webpage that instantiates our web plugin and allows Selenium
+to make javascript calls
+3) a history mechanism that pulls out events that the plugin receives
+(another javascript call on the web end and a perl history structure)
+4) example code for making calls and getting events back from the plugin
+
+Currently, in-house we have an open job position where this is the first
+target project, but since people have probably done this before, I would
+love to buy an existing harness from someone who's made one.
+
+A detailed RFP will be sent to interested parties.
+
+Contact information at:
+http://jobs.perl.org/job/11804#contact
+
+

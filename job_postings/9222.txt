@@ -1,0 +1,91 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9222
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 25391 invoked from network); 17 May 2009 04:46:44 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 17 May 2009 04:46:44 -0000
+Received: (qmail 13429 invoked by uid 225); 17 May 2009 04:46:43 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 13425 invoked by alias); 17 May 2009 04:46:43 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 16 May 2009 21:46:38 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 11AB82AFE1; Sat, 16 May 2009 21:46:34 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20090517044635.11AB82AFE1@x3.develooper.com>
+Date: Sat, 16 May 2009 21:46:34 -0700 (PDT)
+Subject: Senior Perl Engineer (onsite), United Kingdom, London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/10634
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 15, 2009
+
+Job title: Senior Perl Engineer
+
+Company name: Mercator IT
+
+Internal ID: JT/Perl/PerlJobs
+
+Location: United Kingdom, London
+
+Pay rate: UK Pounds
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 3 Months
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+My Client is looking for a Senior Perl Engineer to work with a complete set
+of product requirements (this has already been produced by a non technical
+manager) from the requirements you will generate software, system design
+and carry out the implementation. 
+
+You will have the assistance of a in-house Technical team but you will
+carry out the bulk of the design and coding, depending on the design this
+project will involve formal mathematical methods and may involve "cloud" or
+grid technologies like Amazon EC2 or similar. 
+
+This will be a opportunity to build a complete, re-usable technology
+component that will be deployed in many different contexts, the plan for
+this system will require a solution that can be scaled up easily as it is
+applied to larger and larger problem sets and narrow the runtime
+requirement from days down to hours.
+
+Required skills:
+Essential Skills 
+* Strong experience of writing software in Perl for UNIX-like operating
+systems. 
+* Experience of designing large Object Oriented (OO) software libraries.
+* Experience of coding using formal mathematics, Bioinformatics or Genome
+algorithms.
+* Experience of working with distributed systems and large scale data sets.
+
+* Experience of writing test cases and unit testing.
+
+Desired skills:
+Desirable Skills 
+* Knowledge of data-warehouse systems, Amazon EC2 and distributed
+computing.
+
+Contact information at:
+http://jobs.perl.org/job/10634#contact
+
+

@@ -1,0 +1,143 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12072
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 2410 invoked from network); 30 Jan 2012 18:26:55 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 30 Jan 2012 18:26:55 -0000
+Received: (qmail 9033 invoked by uid 225); 30 Jan 2012 18:26:55 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 9029 invoked by alias); 30 Jan 2012 18:26:54 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 30 Jan 2012 10:26:52 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id CDD962AFE0; Mon, 30 Jan 2012 10:26:48 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 30 Jan 2012 10:26:48 -0800
+Message-ID: <20120130182648.CDD962AFE0@x3.develooper.com>
+Subject: Junior Perl Developer (onsite), Gloucester, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15456
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 30, 2012
+
+Job title: Junior Perl Developer
+
+Company name: Symantec
+
+Location: Gloucester, UK
+
+Pay rate: As per the industry
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Job Title:		     Senior Software Engineer
+Location:		     Gloucester, UK.
+Full/Part Time: 	 Full-Time
+Regular/Temporary: Regular
+ 
+Company Overview 
+Symantec is a global leader in providing security, storage and systems
+management solutions to help our customers – from consumers and small
+businesses to the largest global organizations – secure and manage their
+information-driven world against more risks at more points, more completely
+and efficiently. Our software and services protect completely, in ways that
+can be easily managed and with controls that can be enforced automatically
+– enabling confidence wherever information is used or stored. 
+ 
+Department Overview 
+Symantec.cloud is the market leader in cloud security. More than 11 million
+end users spanning 102 countries, rely on Symantec.cloud services and we
+are proud of an unprecedented 98% client retention rate demonstrating the
+high value of our services. Our clients trust Symantec.cloud to protect
+them from online threats and other content management challenges, leaving
+them free to focus on their business without interruption. As the SaaS
+(Software as a Service) Business Unit within Symantec, we pride ourselves
+on being forward thinking, entrepreneurial and passionate about what we do.
+So these are exactly the qualities that we are looking for when people join
+us. 
+
+The Anti-Spam development team are responsible for providing tools and
+heuristics for the Anti-Spam operations team in order to allow that team to
+stop spam getting through to our customers. This responsibility extends to
+the maintenance and development of the in house Anti-Spam scanner, Cynic,
+and the various support systems that make up a complex, multi-tier
+anti-spam solution. It is a fast paced, vibrant environment where we
+typically roll out new software and heuristics across the scanning
+infrastructure many times a day in order to protect our customers.
+
+Responsibilities 
+ 
+Contributing to the maintenance of the Services SLAs by maintaining and
+developing systems and tools to meet those objectives. 
+• Producing design specifications as required from functional
+specifications, identifying all sub tasks, estimating their duration and
+feeding back to the Technical Architect, Technical Lead and Project
+Manager. 
+• Participating in planning, providing specific estimates and justification
+for own areas of work. 
+• Completing all tasks as defined and prioritised in the project plan,
+ensuring all code is written, tested and integrated with the rest of the
+project code base and version control system. 
+• Responsible for working with the System Test Engineers throughout the
+project lifecycle. 
+• Investigating bug reports, fixing defects and re-releasing the fixed
+software to System Test Engineers. 
+• Writing, monitoring and revising all installation, rollback,
+configuration and support documentation and ensuring that this is up to
+date at all times. 
+• Provide post release support in all instances, including training where
+necessary to internal customers, and occasionally with external customers..
+
+Required skills:
+Qualifications 
+ 
+Essential 
+• Educated to degree level or equivalent in a computer related subject, and
+have experience in a software development role. 
+• Or have proven experience in an IT/programming role. 
+• Experience of Perl as a development tool 
+• 5 or more years experience of software development in a commercial
+environment 
+• Experience working with, training and guiding junior staff members with
+regard to code quality and software best practices. 
+• Knowledge of OO concepts and their application 
+• Development level experience of Linux or UNIX. 
+• Experience of working in a quality-driven engineering process. 
+
+Desirable 
+• Experience of C++ as a development tool. 
+• Knowledge of SMTP and RFC2821. 
+• Knowledge of email, particularly MIME and RFC2822. 
+• Knowledge of HTTP and RFC2616. 
+• Knowledge of HTML, XML, WSDL and SOAP web technologies. 
+• Experience of System Administration on Linux/Unix. 
+• Working knowledge of internet protocols such as FTP, TCP/IP and POP3. 
+• Knowledge of internet systems, particularly DNS and SSH. 
+• Knowledge of RPM creation and installation. 
+• Knowledge of at least one version control system. 
+• Experience of working within an internet security or service delivery
+environment. 
+• Experience of developing zero-downtime internet-scale systems.
+
+Website for more information: http://www.symantec.com//
+
+Contact information at:
+http://jobs.perl.org/job/15456#contact

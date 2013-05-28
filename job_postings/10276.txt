@@ -1,0 +1,98 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10276
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 27641 invoked from network); 29 Jun 2010 21:43:23 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 29 Jun 2010 21:43:23 -0000
+Received: (qmail 6624 invoked by uid 225); 29 Jun 2010 21:43:22 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 6613 invoked by alias); 29 Jun 2010 21:43:21 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 29 Jun 2010 14:43:19 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 435392AFE2; Tue, 29 Jun 2010 14:43:15 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20100629214316.435392AFE2@x3.develooper.com>
+Date: Tue, 29 Jun 2010 14:43:15 -0700 (PDT)
+Subject: Perl developers for funded online startup (telecommute), United States, NY, Brooklyn
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/12454
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 29, 2010
+
+Job title:
+Perl developers for funded online startup
+
+Company name: Naama Networks
+
+Internal ID: PTC
+
+Location: United States, NY, Brooklyn
+
+Pay rate: TBD
+
+Travel: 0-25%
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+Naama Networks is a early stage startup building a scalable marketplace for
+online food ordering.  We're looking for developers that can rattle off
+regexes, know when deciding not to use Moose isn't premature optimization
+and aren't afraid to dirty their hands with some timely denormalization.We
+love open source software. Any work done on CPAN modules we gladly will
+contribute back. If we do something that we think will be useful to others,
+we'll definitely consider pushing up to CPAN. We get so much from the
+community, we would like to return what we can.If you've got proven
+experience or if you don't but you've got something to prove, we want to
+hear from you.
+
+What we need:- solid understanding of perl and object oriented programming
+- work with a relational database, mysql in particular
+- understand working in a unix environment- a love of programming and an
+affinity for creative problem solving
+
+Any of these would be gravy:
+
+- Moose experience
+- Experience with AWS, EC2 and SQS especially
+- NoSql experience, MongoDB especially
+- knowledge of linux administration
+- knowledge of apache and mod_perl administration
+- experience with git
+- experience with serialization methods like json, protocol buffers and
+thrift
+
+As young as we are we've experienced surprising enthusiasm for our product
+on both sides of the market and we're charging ahead. We need your help. If
+you live and breath Perl and Linux, get in touch with us.
+
+Please email your resume to us, the subject should say [perl developer].
+jobs@naamanetworks.com
+
+
+Required skills: perl, oo, mysql, linux
+
+Desired skills:
+moose, aws, ec2, sqs, nosql, mongodb, git, apache, mod_perl, json
+
+Contact information at:
+http://jobs.perl.org/job/12454#contact
+
+

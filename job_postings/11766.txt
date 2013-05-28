@@ -1,0 +1,123 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11766
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 21010 invoked from network); 17 Oct 2011 22:22:12 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 17 Oct 2011 22:22:12 -0000
+Received: (qmail 19024 invoked by uid 225); 17 Oct 2011 22:22:12 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 19020 invoked by alias); 17 Oct 2011 22:22:11 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 17 Oct 2011 15:22:09 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 856992AFDA; Mon, 17 Oct 2011 15:22:06 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 17 Oct 2011 15:22:06 -0700
+Message-ID: <20111017222206.856992AFDA@x3.develooper.com>
+Subject: Sr. Software Engineer (onsite), Seattle
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14978
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 17, 2011
+
+Job title: Sr. Software Engineer
+
+Company name: Shiftboard
+
+Location: Seattle
+
+Pay rate: DOE - Competitive
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are seeking a passionate, motivated engineer with the discipline and the
+desire to lead and grow our product development team.
+
+If you want to build new, relevant products used by lots of people around
+the world every day, keep reading.
+
+We experiment with new technologies, mobile, and efficient cross-platform
+access.
+
+Experience matters: A qualified, software engineer will need to have at
+least 5 (if not 10 or more) years of experience working within open
+source-oriented web architectures.
+
+Above all else, the right engineer will have solid Unix shell, scripting,
+networking, and systems administration experience.
+
+If you have at least a few of the qualities listed below and are looking to
+join a small yet tightly-focused team working on a highly-engaging product,
+this could be the perfect job.
+
+-------------
+Who are we
+-------------
+
+Shiftboard is an advanced, open source friendly Software as a Service
+company in Seattle that provides online scheduling, community and workforce
+management services to a diverse base of organizations around the world:
+Businesses, Non-profits, Events and Festivals, municipal/government,
+healthcare institutions, and call centers.  
+
+Please check out http://www.shiftboard.com for case studies and more about
+what we are doing.
+
+Permanent positions at Shiftboard provide great long-term incentives
+including equity, commuter passes and a range of employee benefits.
+
+Compensation is competitive based on position and real-world experience.
+
+We have comfortable offices in downtown Seattle where most of our work is
+takes place.
+
+Working from home or telecommuting is often possible and makes great sense,
+but this is not a telecommute-oriented position.
+
+Required skills:
+Must have solid open-source experience including many of the following:
+
+- perl/modperl and/or python: Apache, handlers, performance
+- mysql,postgres: database design/replication/segmentation strategies
+- scaling, segmentation, networking and/or distributed filesystems
+- caching technologies, memcached, couchdb/couchbase
+- one or more Linux/bsd/unix flavors and SVN/Git.
+- web services: JSON-RPC, REST, Security, Sessions, Metrics
+- virtualization experience is desirable.
+- solid grasp of front end technologies (DOM/DHTML/JS/AJAX/JQuery)
+- interest, willingness to research and utilize multiple technologies and
+software
+languages to deliver high-availability platform for mobile/iPhone/android,
+APIs
+
+Desired skills:
+- Experience with automated testing using tools such as Selenium
+- Large-Scale Development/Operations Management, Analysis
+- Efficient client-side/browser development
+- Computer Science/Masters-Level (or Equivalent!)
+- API Development: test tool design and development
+- Mobile platforms: Interface design, test tools and development
+- Python/Django, ReportLab experience
+
+Website for more information: http://www.shiftboard.com
+
+Contact information at:
+http://jobs.perl.org/job/14978#contact

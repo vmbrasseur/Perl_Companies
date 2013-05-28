@@ -1,0 +1,129 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2851
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 24092 invoked from network); 13 Jun 2005 20:12:13 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 13 Jun 2005 20:12:13 -0000
+Received: (qmail 5870 invoked by uid 225); 13 Jun 2005 20:12:13 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 5866 invoked by alias); 13 Jun 2005 20:12:12 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 13 Jun 2005 13:12:09 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j5DKC7hi028610
+	for <jobs@perl.org>; Mon, 13 Jun 2005 13:12:07 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j5DKC728028608;
+	Mon, 13 Jun 2005 13:12:07 -0700
+Date: Mon, 13 Jun 2005 13:12:07 -0700
+Message-ID: <200506132012.j5DKC728028608@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Image Processing Technician (Stock Photo) (onsite), Canada, ON, Toronto
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2735
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 13, 2005
+
+Job title:
+Image Processing Technician (Stock Photo)
+
+Company name: Masterfile Corporation
+
+Location: Canada, ON, Toronto
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Image Processing Technician
+
+Masterfile is a visual content provider -- a stock image agency which
+licenses a growing collection of images, photos and illustrations for
+controlled use around the world. With a head office located in Toronto,
+business development offices in Seattle, New York and Chicago, and a
+network of strategic alliances in 35 other countries, we are the largest
+stock library in Canada and a major player internationally.
+
+As Masterfile's image collection grows, and we integrate and process a
+large volume of images from a variety of sources, we need to efficiently
+manage an increasingly complex workflow.
+
+We are seeking a detail-oriented, motivated and adaptable individual for
+the position of Image Processing Technician. Working with the Production
+Manager and Project Coordinator, the successful candidate will operate,
+maintain and improve various automated image processing workflows, running
+on Mac OS X, and held together primarily with Perl.
+
+Responsibilities:
+
+- operate and maintain various digital image processing workflows which
+handle a large volume of image files daily
+	
+- monitor image quality to ensure correct colour and data integrity
+	
+- improve, adapt and optimize image processing workflows
+	
+- manage metadata in databases and text files
+	
+- handle ad hoc image processing requests
+	
+- communicate and work with Masterfile staff, image suppliers and
+distributors regarding image processing and content syndication
+		
+- research image processing and workflow technology and practices to
+further improve quality and efficiency
+
+
+Required skills:
+- at least 1 year experience writing scripts for workflow automation, using
+Perl (preferred), AppleScript, or other scripting languages
+
+- basic knowledge of Unix and shell scripting (we are using Mac OS X); must
+be comfortable on the command line
+	
+- at least 2 years experience with production workflows, e.g. pre-press
+workflows
+	
+- an excellent understanding of colour management (e.g. ICC profiles),
+image files formats and image compression is essential
+	
+- good knowledge of Adobe Photoshop - especially colour management and
+automation
+	
+- good understanding of Internet protocols: HTTP, FTP, SSH
+
+- excellent interpersonal skills are required
+
+
+Desired skills:
+- knowledge of SQL and Microsoft SQL Server or MySQL would be an asset
+	
+- experience with command line image processing tools, such as sips or
+Image Magick, would be an asset
+
+
+URL for more information: http://www.masterfile.com/
+
+Contact information at:
+http://jobs.perl.org/job/2735#contact
+
+

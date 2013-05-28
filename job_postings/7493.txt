@@ -1,0 +1,122 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7493
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 32259 invoked from network); 10 Jan 2008 04:36:55 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 10 Jan 2008 04:36:55 -0000
+Received: (qmail 17297 invoked by uid 225); 10 Jan 2008 04:36:55 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 17290 invoked by alias); 10 Jan 2008 04:36:54 -0000
+X-Spam-Status: No, hits=-2.6 required=8.0
+	tests=BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 09 Jan 2008 20:36:53 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id BE0E52AF8F; Wed,  9 Jan 2008 20:36:49 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20080110043649.BE0E52AF8F@x3.develooper.com>
+Date: Wed,  9 Jan 2008 20:36:49 -0800 (PST)
+Subject: Perl Software Developer: Back-end and front-end (onsite), United States, WA, Bellevue
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/7654
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January  9, 2008
+
+Job title:
+Perl Software Developer: Back-end and front-end
+
+Company name: G2 Web Services
+
+Location: United States, WA, Bellevue
+
+Pay rate: DOE
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: Ongoing
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are seeking an experienced Perl Developer to collaborate with business
+and technical staff to design, develop and maintain G2’s applications and
+internal systems. Who are we? G2 Web Services is a fast growing leader in
+Internet Compliance monitoring, located in Bellevue, WA. We're profitable,
+not bound by venture capitalists, and actively extending existing
+infrastructure. G2 believes that happy employees create better products, so
+we work with you on tools you need, provide snacks and drinks for free, and
+give you a choice of OS X, Windows, or Linux on your desktop before you
+come to work. 
+
+You would assist our extraordinary development team in creating and
+extending cool technologies scouring data all over the Internet and
+attempting to make sense of it. The ideal person knows how to work by
+themselves as well as with others, and works well in a fast-paced
+environment. You should know how to build modules in Perl, have experience
+in object oriented programming, and be able to talk about it as a human
+being, not as a textbook. 
+
+Your responsibilities include: 
+* Implementing scalable, robust, parallel systems interacting with very
+large data sets 
+* Working on new ways to parse, mine, and otherwise deal with completely
+unstructured data 
+* Optimizing, profiling and debugging existing software to make it
+stronger, better, and faster 
+* Writing, optimizing and maintaining fast, intelligent interfaces between
+distributed components and systems over multiple locations 
+
+
+
+If you feel like this job description is general in spots, you’re right, it
+is. G2 has a number of sensitive clients, many projects on the go, and we
+can’t give it all away here. If you’re the kind of developer who loves
+tackling hard problems and dealing with complex systems: we’ve got them. As
+a progressive employer, we offer a competitive salary based on your
+experience and fit, with a complete benefits package as well as growth
+opportunities in a flexible work environment. If you're interested, forward
+a cover letter, resume, and code examples if you have them to
+jobs@g2llc.com.
+
+Required skills:
+Skills you must have: 
+* A very strong foundation in Object Oriented Perl and object oriented
+methodologies 
+* Experience and some ability in other object oriented languages, such as
+C++, Ruby, Python, PHP, or Java 
+* Familiarity and extensive use of CPAN modules -- Especially if you've
+ever contributed 
+* Experience and familiarity with MySQL or PostgreSQL 
+* Proven problem solving and analytical ability 
+
+
+Desired skills:
+What we'd like to see: 
+* Experience with concurrent computing, using multithreading or other types
+of parallel processing 
+* Work in start-up like environments, and/or commercial software
+development 
+* Bachelor's degree in Computer Science or equivalent experience preferred 
+
+* Understanding, and preferably experience with, socket programming or web
+protocols with Perl 
+
+
+Contact information at:
+http://jobs.perl.org/job/7654#contact
+
+

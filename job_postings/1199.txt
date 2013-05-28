@@ -1,0 +1,76 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:1199
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 71365 invoked by uid 76); 25 Nov 2003 16:36:48 -0000
+Received: from x1.develooper.com (HELO x1.develooper.com) (63.251.223.170) by onion.perl.org (qpsmtpd/0.26) with SMTP; Tue, 25 Nov 2003 08:36:48 -0800
+Received: (qmail 31487 invoked by uid 225); 25 Nov 2003 16:36:47 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 31480 invoked by alias); 25 Nov 2003 16:36:46 -0000
+Received: from onion.develooper.com (HELO onion.perl.org) (63.251.223.166) by la.mx.develooper.com (qpsmtpd/0.27-dev) with SMTP; Tue, 25 Nov 2003 08:36:35 -0800
+Received: (qmail 71240 invoked by uid 1016); 25 Nov 2003 16:36:33 -0000
+Date: 25 Nov 2003 16:36:33 -0000
+Message-ID: <20031125163633.71239.qmail@onion.perl.org>
+To: jobs@perl.org
+X-Spam-Check-By: la.mx.develooper.com
+X-Spam-Status: No, hits=1.2 required=7.0 tests=CARRIAGE_RETURNS,SPAM_PHRASE_01_02,TO_BE_REMOVED_REPLY version=2.44
+X-SMTPD: qpsmtpd/0.26, http://develooper.com/code/qpsmtpd/
+Subject: Stock Market Game (telecommute), United States, CA, san jose
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1092
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 25, 2003
+
+Job title: Stock Market Game
+
+Company name: none
+
+Internal ID: none
+
+Location: United States, CA, san jose
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: one week
+
+Onsite: no
+
+Description:
+We are developing Stock Market Game for students. The game will be web
+based and developed in Perl, PHP and mySQL to be run on FreeBSD (or another
+derivate of Linux/Unix).
+
+The game would include sign-up process, ability to place trades, check
+portfolio and history, generate performance graph (and apply it against
+another index, such as Dow). The system should also generate top 10 (or
+another number) players and winners.
+
+The script must be well written and clean and must be well commented. The
+delivery would include both PHP files as well as the .sql file.
+
+If you can do the project please let us know and we can discuss the full
+details. Please quote us the rate for the entire project (not an hourly
+rate) and tell us how much time you would need to finish the project.
+
+Thanks
+
+Ray
+
+
+Required skills: Perl, PHP, mySQL
+
+Contact information:
+Ray Masa
+raymasa@hotmail.com
+
+

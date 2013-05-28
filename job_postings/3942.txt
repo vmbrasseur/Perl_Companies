@@ -1,0 +1,92 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3942
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 5033 invoked from network); 1 Mar 2006 19:11:41 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 1 Mar 2006 19:11:41 -0000
+Received: (qmail 32283 invoked by uid 225); 1 Mar 2006 19:11:41 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 32277 invoked by alias); 1 Mar 2006 19:11:40 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 01 Mar 2006 11:11:38 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id k21JBXeP028555
+	for <jobs@perl.org>; Wed, 1 Mar 2006 11:11:33 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id k21JBX3p028553;
+	Wed, 1 Mar 2006 11:11:33 -0800
+Date: Wed, 1 Mar 2006 11:11:33 -0800
+Message-ID: <200603011911.k21JBX3p028553@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Senior Perl Expert (mod_perl, security) (onsite), United States, CA, Foster City
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3763
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March  1, 2006
+
+Job title: Senior Perl Expert (mod_perl, security)
+
+Company name: C2K Technologies
+
+Internal ID: 6411
+
+Location: United States, CA, Foster City
+
+Pay rate: OPEN
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Company specializing in fighting fraudulent credit card chargebacks. 
+
+Core duties involve assisting in the design and development of our
+SOAP-based client/server architecture.
+
+Candidates MUST have a strong Perl/Unix background, including
+object-oriented Perl. The ideal candidate will have three or more
+years experience in software development in a team environment and be
+familiar with producing and shipping a product. 
+
+We are not interested in candidates who will work remotely.
+
+Required skills:
+Unix (preferably Linux)
+Perl (preferably including mod_perl and DBI)
+SQL Experience
+
+Desired skills:
+We have a need for people who can "moonlight" on some
+specific tasks. Solid experience in one (or more) of the following is
+a big plus, but not necessary:
+
+PHP
+Java
+Mason
+Strong Javascript / AJAX Development
+Windows Programming (C/C++, .NET, COM)
+
+
+Contact information at:
+http://jobs.perl.org/job/3763#contact
+
+

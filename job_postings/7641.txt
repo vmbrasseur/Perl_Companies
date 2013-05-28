@@ -1,0 +1,107 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7641
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 18158 invoked from network); 7 Feb 2008 02:13:37 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 7 Feb 2008 02:13:37 -0000
+Received: (qmail 18093 invoked by uid 225); 7 Feb 2008 02:13:37 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 18084 invoked by alias); 7 Feb 2008 02:13:36 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 06 Feb 2008 18:13:33 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 4ECAD2AFCC; Wed,  6 Feb 2008 18:13:30 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20080207021330.4ECAD2AFCC@x3.develooper.com>
+Date: Wed,  6 Feb 2008 18:13:30 -0800 (PST)
+Subject: Senior Software Developer (onsite), United Kingdom, London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/7880
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February  6, 2008
+
+Job title: Senior Software Developer
+
+Company name: MECS Europe
+
+Location: United Kingdom, London
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: Permanent
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The position is for a Senior Software Developer working to develop,
+enhance, maintain and support the company’s hosted services. The
+applications delivering the services generally have an interactive user
+interface component delivered as dynamic web pages over the Internet as
+well as a series of significant server based data processing components.
+Candidates will be expected to work on all aspects of the application and
+will be required to provide technical support on a rostered basis. The role
+offers the opportunity to work in a small company setting with other
+skilled developers to produce high quality software where good work is both
+recognised and rewarded.
+Role &#61623; The role if for a Perl guru, Genie of the LAMP Design,
+development, testing and release of new features and enhancements for the
+services delivered to our clients Development of tools to facilitate the
+development and system management processes Investigation, problem solving
+and fixing of software issues in existing systems Data Integration of new
+banking clients Reconciliation configuration, testing, release and
+management User telephone support and systems monitoring on a rota basis
+Working autonomously, within a multifunction team environment Scope for
+increased responsibility
+
+Required skills:
+The key challenge in this role, will be to rapidly learn new technologies
+and operational aspects of financial markets, in order to produce top
+quality software in a timely fashion, meeting complex requirements. A very
+wide range of technical skills based around the LAMP stack is required,
+including: design, development, testing, deployment, support, data analysis
+and integration, problem solving and fixing in both server based data
+processing and interactive web-content software environments. The
+specialist services offered will result in gaining an in-depth
+understanding of financial markets in securities lending, collateral
+trading, equity finance and REPO operations and trading. Specific
+mini-projects and tasks will be assigned, in accordance with ability and
+increasing experience, with scope to step up into a Senior Developer / Team
+Leading role.
+
+Technologies and Tools:
+* Linux
+* Apache
+* MySQL
+* Perl / PHP / Mod_Perl 
+* GnuPG, CVS, IPTABLES
+
+Desired skills:
+*SQL and relational data modelling skills
+*OO design skills, including the ability to apply appropriate OO patterns 
+*Good communication skills and the ability to liaise with technical
+contacts at clients, and to provide telephone support to end users 
+*Experience in developing for financial markets –or– experience developing
+in the LAMP stack
+
+URL for more information: http://www.mecseurope.com/
+
+Contact information at:
+http://jobs.perl.org/job/7880#contact
+
+

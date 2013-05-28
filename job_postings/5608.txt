@@ -1,0 +1,88 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5608
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 25806 invoked from network); 19 Jan 2007 16:41:29 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 19 Jan 2007 16:41:29 -0000
+Received: (qmail 31571 invoked by uid 225); 19 Jan 2007 16:41:28 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 31555 invoked by alias); 19 Jan 2007 16:41:27 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 19 Jan 2007 08:41:22 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id EDF0C2AFE5; Fri, 19 Jan 2007 08:41:18 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20070119164118.EDF0C2AFE5@x3.develooper.com>
+Date: Fri, 19 Jan 2007 08:41:18 -0800 (PST)
+Subject: Object oriented Perl consultant for hedge fund (part onsite), 10019, NY, New York
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5232
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 19, 2007
+
+Job title:
+Object oriented Perl consultant for hedge fund
+
+Company name: OZ Capital
+
+Internal ID: risk consultant
+
+Location: 10019, NY, New York
+
+Pay rate: tba
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: 3-6 months
+
+Hours: Flexible
+
+Onsite: some
+
+Description:
+We are a large financial firm, using Object Oriented Perl to develop
+quantitative applications for risk management and trading.  We periodically
+need extra hands for the more data-centric projects.
+
+We'd like a consultant to work on a per-project basis, possibly as a
+telecommuter.
+
+The initial project is to create a module for efficiently retrieving
+timeseries data from multiple data sources.
+The module will be extensible (to accomodate new data sources) and will
+hide the multiplicity of sources from the caller.
+Environment is Cygwin (runs on top of Windows) so a UNIX/LINUX background
+is preferable to a Windows background.
+
+Required skills:
+Solid Object Oriented design/programming; SQL knowledge and experience with
+DBI.
+
+This is NOT a Web-application or a "scripting" job -- we use Perl as a true
+object-oriented language.
+
+Desired skills:
+Familiarity with Inline and PDL would be useful.  Agile programming or
+rapid development experience helpful.
+Experience in finance a plus.
+
+
+Contact information at:
+http://jobs.perl.org/job/5232#contact
+
+

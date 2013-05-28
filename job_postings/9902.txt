@@ -1,0 +1,122 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9902
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 26749 invoked from network); 28 Feb 2010 08:00:04 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 28 Feb 2010 08:00:04 -0000
+Received: (qmail 21815 invoked by uid 225); 28 Feb 2010 08:00:04 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 21811 invoked by alias); 28 Feb 2010 08:00:04 -0000
+X-Spam-Status: No, hits=-0.0 required=8.0
+	tests=SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 27 Feb 2010 23:59:29 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id A42DD2AFCE; Sat, 27 Feb 2010 23:59:18 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20100228075918.A42DD2AFCE@x3.develooper.com>
+Date: Sat, 27 Feb 2010 23:59:18 -0800 (PST)
+Subject: Experienced Unix Perl developer for advanced network monitoring (onsite), Denmark, Copenhagen, Bagsvaerd
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/11834
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 26, 2010
+
+Job title:
+Experienced Unix Perl developer for advanced network monitoring
+
+Company name: nnit A/S
+
+Internal ID: Network
+
+Location: Denmark, Copenhagen, Bagsvaerd
+
+Pay rate: To be negotiated
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+You will be designing, documenting, implementing and maintaining UNIX/Linux
+applications, which your colleagues use in their day-to-day work in the
+network and monitoring group. You will be an important part of a network
+team with 24 other specialists who develop, operate, monitor and maintain
+our clients' worldwide networks.
+
+You can develop yourself here
+You enjoy working in a team where collaboration, helping each other,
+initiative and knowledge sharing are keywords. We have room for differences
+and give you the space you need if a colleague needs a hand or tight
+deadlines have to be met.
+
+In NNIT we work with a special conscience, where we take on the
+responsibility for our clients' IT as if it were our own. We live our
+values every day, so you should be able to see yourself in them. We are
+conscience driven, value adding, open and honest.
+
+
+Required skills:
+Your base is broad Unix (Linux) experience, preferably from a large
+installation or a career as a consultant. 
+
+You have at least two years' experience with developing, documenting and
+maintaining Linux applications (SUSE, Red Hat, etc.) with Apache,
+PostgreSQL and MySQL and network tools such as SNMP, traceroute, Nmap and
+others.
+You master one or more programming languages with the emphasis on Perl, PHP
+and possibly C/C++. We also expect you to have knowledge of CGI
+programming.
+You are good at written and spoken Danish and English.
+Qualified applicants will be called for interview as applications are
+received.
+
+
+Desired skills:
+You will be supporting the monitoring of our clients' networks using a
+large number of applications, mostly based on UNIX (Linux) and open-source
+applications. 
+
+The monitoring applications communicate with a central PostgreSQL database,
+which contains the status for all the network units and a number of
+servers. Any alarms are presented on a dynamic PHP-generated web page,
+which is one of the tools used by our 24x7 monitoring.
+
+You will need your good analytical sense when you take on the
+responsibility for these complicated tasks. You manage to structure the
+abstract and turn it into solutions which work well. You are also a good
+teamworker and have a good sense of humour.
+
+You should be prepared to deliver very high quality in everything you do,
+as we work according to the rules for regulated industries in many of our
+environments. We therefore document all our work, and you should agree with
+us that documentation and quality control are fundamental for successful
+teamwork.
+
+We invest heavily in your skills development. You will receive ongoing
+training in the newest technologies in the network field, and you will be
+certified in Unix and networks (Cisco) if you are not already.
+
+
+URL for more information:
+http://www.nnit.com/EN/Careers/Vacancies/Pages/vacancies.aspx?VacancyId=385
+606&DepartmentId=58602
+
+Contact information at:
+http://jobs.perl.org/job/11834#contact
+
+

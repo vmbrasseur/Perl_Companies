@@ -1,0 +1,93 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6704
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 16323 invoked from network); 27 Jul 2007 21:35:31 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 27 Jul 2007 21:35:31 -0000
+Received: (qmail 26467 invoked by uid 225); 27 Jul 2007 21:35:31 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 26455 invoked by alias); 27 Jul 2007 21:35:30 -0000
+X-Spam-Status: No, hits=-2.6 required=8.0
+	tests=BAYES_00,DKIM_POLICY_SIGNSOME,DK_POLICY_SIGNSOME,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 27 Jul 2007 14:35:21 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 0F7312AFDE; Fri, 27 Jul 2007 14:35:18 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070727213518.0F7312AFDE@x3.develooper.com>
+Date: Fri, 27 Jul 2007 14:35:18 -0700 (PDT)
+Subject: Tools Developer Architect (onsite), United States, CA, San Jose-95110
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/6233
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 20, 2007
+
+Job title: Tools Developer Architect
+
+Company name: Ocarina Networks
+
+Location: United States, CA, San Jose-95110
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: indefinite
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Job Title:
+Tools Developer Architect
+
+Job Summary:
+Ocarina is looking for someone to build hardcore performance and stress
+measurement tools. If you think you can write a C network program to
+generate enough load to bring down a supercomputer, come prove it.
+
+Job Responsibilities:
+
+Develop and adapt C load generator to drive diverse network filesystem
+stress and load situations.
+Create API’s and user interfaces to view realtime metrics from load
+generator and device-under-test.
+Provide diagnostics and resolution of bugs to isolate product issues from
+stress application issues.
+Execute and produce metrics from load generator stress and performance
+tests.
+Design and develop robust Fault Injection framework for simulating
+environmental, hardware, and component failures. 
+
+
+Required skills:
+Demonstrable Perl rockstar scripter status. 
+Experience with Subversion, Bugzilla, autoconf, automake. 
+Experience with multiple operating systems (Linux, Unix, W2K-W2K3) 
+Demonstrable C/Linux network application development skills.
+Strong knowledge of L2, L3, L4 Networking.
+Preferred - Knowledge of CIFS or NFS functionality. 
+Preferred – Experience developing network applications using Win32 API.
+Preferred – Some storage experience. NAS, SAN, Clustering, Replication,
+RAID, Backup / Restore strategies.
+BS in CS, EE or related field. MS preferred.
+
+
+URL for more information: http://www.ocarinatech.com/
+
+Contact information at:
+http://jobs.perl.org/job/6233#contact
+
+

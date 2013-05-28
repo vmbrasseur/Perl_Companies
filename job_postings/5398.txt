@@ -1,0 +1,91 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5398
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 24979 invoked from network); 4 Dec 2006 06:38:34 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 4 Dec 2006 06:38:34 -0000
+Received: (qmail 17106 invoked by uid 225); 4 Dec 2006 06:38:33 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 17089 invoked by alias); 4 Dec 2006 06:38:33 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_05
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 03 Dec 2006 22:38:31 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id C282A2AFED; Sun,  3 Dec 2006 22:38:27 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20061204063827.C282A2AFED@x3.develooper.com>
+Date: Sun,  3 Dec 2006 22:38:27 -0800 (PST)
+Subject: mod_perl/Template Toolkit programmer for loyalty marketing company (telecommute), United States, CA, Venice
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5051
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December  3, 2006
+
+Job title:
+mod_perl/Template Toolkit programmer for loyalty marketing company
+
+Company name: Crossroads Access
+
+Internal ID: TT1
+
+Location: United States, CA, Venice
+
+Pay rate: $50-75/hr USD
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: 3-4 weeks
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+We work on several internally developed systems for managing marketing
+programs online.  The systems are all LAMP (mostly Template Toolkit w/ some
+php).  The marketing functions range from user management to sweepstakes to
+ad serving to email campaign management.
+
+The projects currently in the queue involve implementing and developing our
+systems further for a large global credit card issuer, several non profits
+and cable operators.
+
+We work project by project, as each project has different scope size based
+on traffic projections and member database size.
+
+More specific project information provide upon request
+
+Required skills:
+Must be able to develop fluently in mod_perl and implement web systems with
+template toolkit.
+
+Good use of mysql is required as well.
+
+Ability to refactor old code a must or make do with what exists (you know
+the drill!)
+
+
+Desired skills:
+Apache configuration and management
+Technical specifications writing
+Front end GUI skills a big plus (javascript and XML -yes, ajax stuff)
+
+
+Contact information at:
+http://jobs.perl.org/job/5051#contact
+
+

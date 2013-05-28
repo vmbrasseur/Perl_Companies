@@ -1,0 +1,88 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11293
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 20667 invoked from network); 9 May 2011 06:11:26 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 9 May 2011 06:11:26 -0000
+Received: (qmail 21853 invoked by uid 225); 9 May 2011 06:11:26 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 21844 invoked by alias); 9 May 2011 06:11:25 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 08 May 2011 23:11:24 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 0DF722AFDE; Sun,  8 May 2011 23:11:20 -0700 (PDT)
+To: jobs@perl.org
+Date: Sun, 8 May 2011 23:11:20 -0700
+Message-ID: <20110509061121.0DF722AFDE@x3.develooper.com>
+Subject: Sr. Perl Developer - Plack / Mason / Moose / jQuery / backbone
+ (onsite), United States, CA, Westlake Village
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14132
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May  8, 2011
+
+Job title:
+Sr. Perl Developer - Plack / Mason / Moose / jQuery / backbone
+
+Company name: ValueClick
+
+Internal ID: 11248
+
+Location: United States, CA, Westlake Village
+
+Pay rate: Extremely competitive
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+As we continue to create better ways to provide value to our customers, we
+have a rare opportunity for you to join a small team within one of our
+fastest-growing divisions. Translation: start-up feel without the start-up
+hours. You’ll be on a team with very large revenue per capita that’s small
+enough to be nimble yet backed by a profitable, publicly-traded company.
+
+In this role, you’ll be a part of a team that architects, develops and
+maintains customer-facing applications. You’ll be tasked to migrate legacy
+Perl code to more cutting-edge frameworks such as Plack (similar to Ruby’s
+Rack), Mason and Mouse. You’ll also be developing Javascript-based widget
+application frameworks using jQuery and backbone. We are looking for
+candidates capable of taking a technological idea from inception to
+production. We're passionate about web performance development and we
+strive to stand out among the best of the best. Join the team and we’ll
+expect nothing less from you.
+
+
+Required skills:
+In your toolkit will be: 
+• PERL: OO Perl, plus Plack, Mason and Moose
+• javaScript: Modern libraries such as JQuery, underscore.js, backbone.js 
+• SQL for MySQL/Oracle backend database storage/access 
+
+
+Desired skills:
+• HTML5, AJAX, DOM, JSON, CSS
+• Understanding of data driven API’s
+• Linux including Apache web server
+• MVC – Model View Controller based architecture 
+• Module Based Architecture
+
+Website for more information: http://www.valueclick.com/careers
+
+Contact information at:
+http://jobs.perl.org/job/14132#contact

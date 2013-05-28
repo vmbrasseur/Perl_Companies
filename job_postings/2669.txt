@@ -1,0 +1,135 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2669
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13409 invoked from network); 3 May 2005 19:33:51 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 3 May 2005 19:33:51 -0000
+Received: (qmail 26557 invoked by uid 225); 3 May 2005 19:33:50 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 26551 invoked by alias); 3 May 2005 19:33:49 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 03 May 2005 12:33:44 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j43JXeXR019493
+	for <jobs@perl.org>; Tue, 3 May 2005 12:33:40 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j43JXeca019491;
+	Tue, 3 May 2005 12:33:40 -0700
+Date: Tue, 3 May 2005 12:33:40 -0700
+Message-ID: <200505031933.j43JXeca019491@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Senior Web Applications Engineer (onsite), United States, CA, Dublin
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2561
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May  3, 2005
+
+Job title: Senior Web Applications Engineer
+
+Company name: AvantGo/iAnywhere
+
+Internal ID: 010014
+
+Location: United States, CA, Dublin
+
+Pay rate: TBD
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: Permanent
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+AvantGo is the world's largest mobile Internet service for PDA's, Wireless
+PDA's, RIM, and SmartPhone Devices. The service delivers rich, personalized
+content and applications to mobile PDA, wireless PDA, and Smartphone users.
+Today, more major media brands, including Business Week, Forbes, CNET,
+Reuters, The New York Times, Golf Online, RollingStone, etc., deliver their
+online content through the AvantGo Mobile Internet service. In addition,
+over 200 major marketing brands leverage AvantGo to target and reach a
+trendsetter audience of over 7 million unique users. To learn more about
+AvantGo visit: http://www.ianywhere.com/avantgo/advertising/index.html.
+
+We are currently looking for a Senior Web Applications Engineer to join
+iAnywhere Solutions' AvantGo engineering team. Web applications engineers
+at AvantGo are responsible for maintaining and adding to the applications
+that drive the AvantGo service, built using Perl, Mason, C, PHP, Ruby,
+Apache, and MySQL, and running on FreeBSD and Linux.
+
+Major Duties and Responsibilities:
+
+    * Provides support for the design, development, testing, technical
+documentation and roll-out of new web-based applications for the AvantGo
+service that directly interface end users to AvantGo content and services.
+    * In some cases, these applications will be developed using third-party
+components; responsibilities will then include evaluation, installation,
+configuration and troubleshooting of these components.
+    * Participates in requirements analysis, design reviews, code reviews
+and other team-development processes.
+    * Keeps abreast of new and emerging web site technologies.
+    * Develops tools and scripts for on-going maintenance of web
+components.
+    * Develops processes that simplify and automate maintenance activities. 
+
+Required skills:
+    * Education in Computer Science or related field of knowledge
+    * At least five years related industry experience
+    * Work on a similarly architected, high-volume, public Internet site
+(portal, application service provider, retail e-commerce)
+    * Practical database-driven dynamic web content development using Perl
+    * Familiarity with high-level server-side scripting
+    * Expertise with SQL and integrating web pages with back-end databases
+    * Demonstrated success writing applications that scale across a cluster
+of web servers
+    * Proficiency in a structured engineering build cycle (scoping,
+development, staging, Q/A and release) driven by a source code revision
+system
+    * Excellent code troubleshooting and testing skills
+    * Experience using Unix and Apache, along with shell scripting
+    * Familiarity with the Internet and supporting protocols and API's
+(TCP/IP, HTTP, DNS, CGI)
+    * Ability to learn new technologies quickly
+    * Excellent code and documentation writing skills
+    * Excellent technical research and analysis skills
+    * Excellent communication and interpersonal skills
+    * Working well within a team and following directions
+    * System administration (unix) and network administration experience
+
+
+Desired skills:
+    * Practical server development using C/C++ with sockets
+    * Experience using MySQL databases and DBI
+    * Experience with Apache module writing (mod_perl or C)
+    * Experience using Mason or PHP
+    * Experience writing DHTML (Javascript and CSS)
+    * Experience with HTML parsing
+    * Experience with XML parsing
+    * Experience using CVS
+    * Familiarity with mobile devices (PDA's, Smartphones, etc.) 
+
+URL for more information:
+http://www.ianywhere.com/avantgo/advertising/index.html
+
+Contact information at:
+http://jobs.perl.org/job/2561#contact
+
+

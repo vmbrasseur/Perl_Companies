@@ -1,0 +1,103 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3315
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 24181 invoked from network); 12 Oct 2005 21:43:04 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 12 Oct 2005 21:43:04 -0000
+Received: (qmail 18165 invoked by uid 225); 12 Oct 2005 21:43:03 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 18160 invoked by alias); 12 Oct 2005 21:43:02 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 12 Oct 2005 14:42:52 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j9CLgoHm010961
+	for <jobs@perl.org>; Wed, 12 Oct 2005 14:42:50 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j9CLgoH2010959;
+	Wed, 12 Oct 2005 14:42:50 -0700
+Date: Wed, 12 Oct 2005 14:42:50 -0700
+Message-ID: <200510122142.j9CLgoH2010959@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Perl Developer for Web Applications (onsite), United States, IL, Justice
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3164
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 12, 2005
+
+Job title: Perl Developer for Web Applications
+
+Company name: HBS Labs
+
+Location: United States, IL, Justice
+
+Pay rate: $40,000 - $50,000
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Job Purpose:
+Design, develop and maintain IT systems and software-based business
+solutions and doing so while utilizing the most budget and technically
+sound technologies.
+
+In this position you will maintain two pre-existing web applications and
+work on implementing new functionality within both systems based on
+business requirements. You will also be involved in developing new web
+applications.
+
+Functional Responsibilities:
+- Provide development frameworks in support of major applications and IT
+systems
+- Identify, analyze, and automate business processes relevant to company
+needs
+- Design and implement networked multi-user applications in an
+enterprise-scale environment
+- Track and report project development to department manager
+- Identify and resolve project development requirements through regular
+communication with project managers and team members
+
+
+Required skills:
+- Perl (utilizing perl as the backbone for web-based application design,
+implementation and maintenance)
+- mod_perl, CGI
+- XML-RPC
+- SQL/DB Structures (Oracle, MySQL, Postgres)
+- Linux-based systems / servers (No Windows please)
+- Apache web server setup
+- Understanding of HTTP and HTTPS protocols
+- Minimum 2 years experience in a production environment
+- Ability to follow system design processes and documentation of code 
+
+Desired skills:
+- HTML, xHTML, CSS, Javascripts, PHP
+- Shell scripts, CRON
+- XML and XML-based web services (SOAP)
+- VoIP knowledge
+- PBX knowledge
+- Debian and Red Hat Advanced Server 
+
+Contact information at:
+http://jobs.perl.org/job/3164#contact
+
+

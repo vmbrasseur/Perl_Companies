@@ -1,0 +1,82 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9657
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 20144 invoked from network); 30 Nov 2009 22:09:57 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 30 Nov 2009 22:09:57 -0000
+Received: (qmail 620 invoked by uid 225); 30 Nov 2009 22:09:57 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 615 invoked by alias); 30 Nov 2009 22:09:56 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 30 Nov 2009 14:09:55 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id ED1452AFE0; Mon, 30 Nov 2009 14:09:51 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20091130220951.ED1452AFE0@x3.develooper.com>
+Date: Mon, 30 Nov 2009 14:09:51 -0800 (PST)
+Subject: Community Platform Developer (part onsite), Germany, Hamburg
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/11374
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 30, 2009
+
+Job title: Community Platform Developer
+
+Company name: getPraised
+
+Location: Germany, Hamburg
+
+Travel: 0-25%
+
+Hours: Flexible
+
+Onsite: some
+
+Description:
+getPraised is a new and unique community platform. Your job is to continue
+the development and administration of the platform and the administration
+development system. One of the first tasks will be to set up and modify a
+new instance of the platform for a new target audience.
+
+Required skills:
+You know Perl, of course. You know Perl's OOP, closures, references,
+hashes, and operator overloading. You see the taint mode as the only way to
+run a program exposed to the internet. You know why input validation is
+important and how it's done right.
+
+You know DBI, Rose::DB::Object, Template::Toolkit and the other major Perl
+Modules, and you have used them often in your own projects.
+
+You can install, administrate, and use PostgreSQL, Slackware Linux, Apache
+Webserver, and Subversion on your own, without someone holding your hand.
+
+You are a native german speaker, or at least are able to speak german like
+a native speaker. And you are able to communicate in written english.
+
+You are fluent in HTML 4, basic CSS, and Javascript. You naturally create
+valid, semantic HTML without layout tables and without div soup, and style
+it using valid, semantic CSS. Your pages work perfectly without Javascript,
+but your Javascript can greatly enhance them.
+
+Desired skills:
+It would be nice if you have some graphics skills, sufficient to create a
+design prototype in GIMP or Photoshop, and to create some supporting
+graphic files for the platform.
+
+
+Contact information at:
+http://jobs.perl.org/job/11374#contact
+
+

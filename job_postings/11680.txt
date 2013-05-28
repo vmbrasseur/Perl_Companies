@@ -1,0 +1,163 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11680
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8742 invoked from network); 14 Sep 2011 06:00:31 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 14 Sep 2011 06:00:31 -0000
+Received: (qmail 5037 invoked by uid 225); 14 Sep 2011 06:00:31 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 5033 invoked by alias); 14 Sep 2011 06:00:31 -0000
+X-Spam-Status: No, hits=-3.9 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS,TVD_DOLLARS_US
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 13 Sep 2011 23:00:28 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 3870C2AFDF; Tue, 13 Sep 2011 23:00:25 -0700 (PDT)
+To: jobs@perl.org
+Date: Tue, 13 Sep 2011 23:00:25 -0700
+Message-ID: <20110914060025.3870C2AFDF@x3.develooper.com>
+X-Virus-Checked: Checked
+Subject: Sr Software Engineer (onsite), Dallas, TX USA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14838
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 13, 2011
+
+Job title: Sr Software Engineer
+
+Company name: The Brown Group, LLC
+
+Location: Dallas, TX USA
+
+Pay rate: 90,000USD
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The end client is a telecom company near downtown Dallas.  They provide a
+generous benefits package which includes a generous profit sharing
+plan(approx 20%) and company paid health insurance for the employee and
+dependents.  The client has some flexibility with regard to work hours and
+telecommuting.
+
+This Senior Software Engineer will handle the full life-cycle development
+of corporate information systems, and may be required to learn and maintain
+automated equipment polling systems, back-end integration pathways with
+customers and vendors, and other systems-related challenges as they arise.
+
+Essential Job Functions, Duties and Responsibilities
+
+    This job description reflects management’s assignment of essential
+functions; it does not prescribe or restrict the tasks that may be
+assigned.
+    
+    Meet with internal customers and/or senior developers to identify their
+information systems needs and requirements.
+    Implement solutions that fit with the client’s overall technology
+policy, infrastructure, and company guidelines. This may require working
+with specifications from management, senior engineers or self-designed
+solutions.
+    Efficiently and accurately implement the designed solution, and work
+with senior engineers and the customer to verify that it meets design
+requirements.
+    Successfully test the solution to insure no negative impact to existing
+functionality.
+    Work with senior engineers to implement the solution.
+    Work with the customer to identify issues, deficiencies, or further
+needs and respond in a timely and professional manner.
+    Implement systems in a manner that reasonably balances the company’s
+needs:
+
+	Elegant, maintainable code
+	Development speed
+	System performance
+	Fulfillment of customer objectives
+
+    Follow existing technology and code standards, and assist in the
+development of new standards as required.
+    Perform substantial self-testing of developed code to ensure maximum
+initial quality and minimal negative impact of deployed system
+enhancements.
+
+    Document code in a reasonable and appropriate manner to assist other
+programmers who may later need to quickly understand said code.
+    Read, understand, and apply complex technical specifications related to
+published telecom standards or other technology integration standards.
+    Adapt to new technology quickly and have a range of existing technical
+knowledge.
+    Manage customers, both internal and external, to deliver maximum
+satisfaction for a given level of resources.
+    Provide general administrative support to the organization as required.
+
+    Other responsibilities such as may arise and be assigned by the
+management team.
+    Perform all of these duties with minimal oversight.
+    This position may require extended hours or weekend work to meet
+project deadlines.
+
+Required skills:
+Ability to identify problems and solve them quickly and completely.
+    Thorough grounding in computer science principles, for example:
+	Estimation of the order of magnitude of searching and sorting
+routines
+	Understanding of dynamic list, tree, and graph data structures
+	Knowledge of underlying computer architecture issues
+	Ability to create multi-threaded logic without deadlocks or
+resource stalls
+	Development of efficient algorithms to approach difficult problems
+    Have a positive attitude and react flexibly and favorably to changes
+and challenges.
+    Possess good communication skills and provide excellent customer
+service.
+    Effectively translate between customer’s plain-English needs and
+detailed technological plans of action (and back, to validate that the plan
+meets the customer’s needs).
+    Ability to effectively multi-task and maintain a reasonable “stack” of
+tasks as interrupts and emergencies arise.
+    Ability to train users in the proper use of systems created by you or
+the department.
+    Ability to learn new programming languages, design paradigms, and
+database architectures quickly and accurately.
+    Possess basic to advanced knowledge of: computer logic, programming
+languages, workflow models, software design, data structures, operating
+systems, development tools, and standard user-level computer tools (word
+processing, spreadsheets, etc).
+    Be comfortable working with live, critical software systems, and be
+able to operate on those systems without disruption to the user community.
+    Have a flexible attitude towards specific operating systems,
+programming languages, web browsers, and other tools.  (We have a blended
+IT environment, with users on Mac, Windows, and UNIX systems.)
+    5-7+ years of full-time professional experience with full-lifecycle
+software engineering (requirements gathering, analysis, architecture and
+design, implementation, testing, deployment, maintenance).
+    Substantial RDBMS experience including database architecture,
+normalization, optimization, complex queries and use of stored procedures
+and triggers.
+    Extensive Web, client-server, and back-end (automated/daemon)
+programming experience.
+    Experience programming on UNIX-like systems using vi or other
+server-side editors.
+    Experience using the technologies the client's systems are currently
+utilizing including: MySQL, Apache 2.x, FreeBSD/LINUX, Perl, HTML 4.01, CSS
+1 & 2, GD, XML, over HTTP (SOAP), Oracle, awk, CORBA ,Java
+    The core required skills are Perl and MySQL.  
+    Some telecom experience is preferred, but not required
+
+Website for more information: http://www.browngroupllc.com/
+
+Contact information at:
+http://jobs.perl.org/job/14838#contact

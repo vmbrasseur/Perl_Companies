@@ -1,0 +1,81 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7626
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 24749 invoked from network); 5 Feb 2008 18:23:24 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 5 Feb 2008 18:23:24 -0000
+Received: (qmail 21787 invoked by uid 225); 5 Feb 2008 18:23:23 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 21781 invoked by alias); 5 Feb 2008 18:23:23 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 05 Feb 2008 10:23:21 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id B39C02AFCA; Tue,  5 Feb 2008 10:23:17 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20080205182317.B39C02AFCA@x3.develooper.com>
+Date: Tue,  5 Feb 2008 10:23:17 -0800 (PST)
+Subject: mod_perl/DBI programmer for small interactive agency (telecommute), United States, New Jersey, Aberdeen
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4795
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February  5, 2008
+
+Job title:
+mod_perl/DBI programmer for small interactive agency
+
+Company name: Barkani
+
+Location: United States, New Jersey, Aberdeen
+
+Pay rate: Negotiable
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+Need senior developer. Responsibilities include 
+1. (data, file, mail) server configuration, maintenance, and backup. 
+2. Programming and debugging - existing projects and new ones. 
+
+You will not be responsible for design. You will either be working from
+existing sites or creating a new application from an existing template.
+
+My company does interactive programming for pharmaceutical marketing
+agencies. You will be working alone with only minor support from other
+developers. There is no "on-the-job-training" for this position. You must
+be able to give at least 10 hours per week. Hours are flexible but you must
+be able to meet deadlines and be generally available for emergencies. 
+
+Required skills:
+Server Configuration - Linux (debian), apache
+Database - Oracle, MySQL, Postgres
+Programming - mod_perl, html, cgi, javascript
+
+
+Desired skills:
+(Only for minor maintenance and development of an existing project)
+Server Configuration - Linux (Red Hat)
+Programming - PHP 
+
+
+Contact information at:
+http://jobs.perl.org/job/4795#contact
+
+

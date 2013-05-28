@@ -1,0 +1,72 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4373
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 3768 invoked from network); 23 May 2006 14:45:30 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 23 May 2006 14:45:30 -0000
+Received: (qmail 22447 invoked by uid 225); 23 May 2006 14:45:29 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 22440 invoked by alias); 23 May 2006 14:45:29 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 23 May 2006 07:44:40 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id A1E802AFE4; Tue, 23 May 2006 07:44:23 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060523144423.A1E802AFE4@x3.develooper.com>
+Date: Tue, 23 May 2006 07:44:23 -0700 (PDT)
+Subject: Discrete job - cron based XML processing to Oracle (telecommute), Australia, NSW, Sydney
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4128
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 23, 2006
+
+Job title:
+Discrete job - cron based XML processing to Oracle
+
+Company name: News Interactive
+
+Location: Australia, NSW, Sydney
+
+Pay rate: quote on job
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+Require a perl developer to processing high volumes of XMLin to a Oracle
+database. XML data to be retrieved from a monitored directory, processed
+and written. Archiving of files a requirement.
+The XML is complex both in terms of the number of files and the differing
+formats.
+
+Delivery of completed work must be by July 1 at the latest.  Full
+requirements and all sample data/docs will be provided as part of quoting
+process.  A warranty period following delivery is also expected.
+
+Ideally the developer will be Australia based for ease of payment and
+support. Australian developers must have an ABN etc.
+
+Required skills: perl, XML processing, Oracle
+
+Contact information at:
+http://jobs.perl.org/job/4128#contact
+
+

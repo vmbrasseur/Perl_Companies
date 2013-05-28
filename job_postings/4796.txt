@@ -1,0 +1,71 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4796
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 10765 invoked from network); 17 Aug 2006 00:53:57 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 17 Aug 2006 00:53:57 -0000
+Received: (qmail 3239 invoked by uid 225); 17 Aug 2006 00:53:56 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 3235 invoked by alias); 17 Aug 2006 00:53:56 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 16 Aug 2006 17:53:54 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 68DC22AFD8; Wed, 16 Aug 2006 17:53:50 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060817005350.68DC22AFD8@x3.develooper.com>
+Date: Wed, 16 Aug 2006 17:53:50 -0700 (PDT)
+Subject: Senior/Principal Software Engineer (onsite), United States, PA, Philadelphia
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4522
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 16, 2006
+
+Job title: Senior/Principal Software Engineer
+
+Location: United States, PA, Philadelphia
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Design, maintain, and debug extremely complicated interacting software
+systems for a telecom related application.
+
+Required skills:
+1. Strong perl and shell in a quality software production environment.
+2. Strong Linux or Unix
+3. Experience with any kind of networking protocol
+4. Experience with any complicated system involving many levels of
+hierarchy and numerous interacting entities
+
+Desired skills:
+Bonus points for each of...
+* Telecom protocols SS7, Lb, SCTP
+* C, C++, Java
+* Various SQL databases
+* SNMP managment
+* TCP/IP routing
+* Experience with release management/configuration management
+
+Contact information at:
+http://jobs.perl.org/job/4522#contact
+
+

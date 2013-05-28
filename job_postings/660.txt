@@ -1,0 +1,80 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:660
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 90018 invoked by uid 1016); 2 Dec 2002 22:29:56 -0000
+Date: 2 Dec 2002 22:29:56 -0000
+Message-ID: <20021202222956.90017.qmail@onion.perl.org>
+To: jobs@perl.org
+Subject: Website Migration Engineer for Networking Company, United States, CA, San Jose
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/538
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December  2, 2002
+
+Job title:
+Website Migration Engineer for Networking Company
+
+Company name: Mindsource, Inc.
+
+Internal ID: 3756
+
+Location: United States, CA, San Jose
+
+Pay rate: neg
+
+Travel: 0%
+
+Terms of employment: Hourly employee
+
+Length of employment: 3 months
+
+Hours: Full time
+
+Description:
+We've got multiple openings for a project we are deploying to manage the
+conversion of some 6 TB of data from an old website to a new, modern
+design. All of the conversions are arranged 'by directory' and after
+following procedures certain trees do not port to the new environment and
+require manual review and repair. 
+
+Your role in this project is to migrate specific directories to the new QA
+systems, and run through debug to production. You will serve as third line
+support for team leads who do not have the technical ability to complete
+the migrations. 
+
+Most of your work will be boiler-plate and template-based. If you are
+unable to complete the directory with a given level of effort the task will
+be handed off to the fourth-level tier support. 
+
+Your ability to follow instructions, maintain a concerted effort for
+quality and consistency in this effort is absolutely essential. 
+
+
+
+
+Required skills:
+2-3 years industry experience (perl / solaris) 
+Mastery of Perl 5 as it relates to dynamic web content 
+SQL knowledge is required, no database work is expected 
+Knowledge of commonly used unix command line utilities 
+vi/emacs, awk, sed and rudimentary shell tools essential 
+Expert with CVS 
+Intimate knowledge of httpd and related protocols 
+Toolsmith experience, ability to automate 
+Excellent writing/documentation skills 
+Ability to interface with stubborn/non-technical customers 
+
+URL for more information: http://www.mindsource.com/
+
+Contact information: Email resume to:  cindy@mindsource.com
+
+

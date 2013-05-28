@@ -1,0 +1,95 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2552
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 23740 invoked from network); 5 Apr 2005 22:57:29 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 5 Apr 2005 22:57:29 -0000
+Received: (qmail 5711 invoked by uid 225); 5 Apr 2005 22:57:28 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 5707 invoked by alias); 5 Apr 2005 22:57:28 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 05 Apr 2005 15:57:25 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j35MvMp6001341
+	for <jobs@perl.org>; Tue, 5 Apr 2005 15:57:22 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j35MvMwg001339;
+	Tue, 5 Apr 2005 15:57:22 -0700
+Date: Tue, 5 Apr 2005 15:57:22 -0700
+Message-ID: <200504052257.j35MvMwg001339@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Perl Software Engineer (multiple) (onsite), United States, CA, Palo Alto
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2446
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April  5, 2005
+
+Job title: Perl Software Engineer (multiple)
+
+Company name: Topix.net
+
+Location: United States, CA, Palo Alto
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We're a growing SF Bay Area startup automating the collection, editing and
+distribution of online news.
+
+Our platform is heavy perl with web crawling, document clustering, a
+massive Knowledge Base, subject and geo-categorization AI, and a fast
+modperl/mmap based presentation engine.  In addition to our website traffic
+we're also serving over 2 million RSS feed fetches/day.  Our group
+previously built the Open Directory Project at Netscape/AOL.
+
+We need help building out the HAL-9000 of news. We're looking to hire
+coders fluent in C and Perl in the Bay Area, as well as a network/system
+administrator.	You can get a sense of our development philosophy on our
+blog, e.g.  http://blog.topix.net/archives/000045.html
+
+We have a full benefits package, options, and a great office environment. 
+If you think you might be interested, shoot us an email and we can have a
+quick call or set up an informal chat to see if we both think it would be a
+good fit.
+
+Resumes and inquiries should be sent to jobs@topix.net.
+
+
+Principals only, please.
+
+
+Required skills: Perl, mod_perl, C
+
+URL for more information: http://www.topix.net/
+
+Contact information:
+jobs@topix.net
+
+Topix.net
+4074 Fabian Way
+Palo Alto, CA 94303
+(650) 493-9100
+fax: (650) 493-9101
+
+
+

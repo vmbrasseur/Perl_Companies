@@ -1,0 +1,82 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12587
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 26388 invoked from network); 18 Jul 2012 10:31:27 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 18 Jul 2012 10:31:27 -0000
+Received: (qmail 18014 invoked by uid 225); 18 Jul 2012 10:31:26 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 18010 invoked by alias); 18 Jul 2012 10:31:26 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 18 Jul 2012 03:31:23 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 2D3FB2AFE0; Wed, 18 Jul 2012 03:31:20 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 18 Jul 2012 03:31:20 -0700
+Message-ID: <20120718103120.2D3FB2AFE0@x3.develooper.com>
+Subject: Perl Web App Developer (telecommute), San Francisco, CA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16244
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 18, 2012
+
+Job title: Perl Web App Developer
+
+Company name: VeriFone, Inc.
+
+Location: San Francisco, CA
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+This is a full-time position based in San Francisco, CA.
+Responsible US-based telecommuters also welcomed.
+
+We are looking for a talented developer to join our team at VeriFone.  You
+will help to build and expand the web-based components of the VeriFone SAIL
+payment system.  The primary focus will be the SAIL web application, which
+lives at www.sailpay.com.  This is a central tool for merchants and
+resellers, supporting enrollment, reporting, account management, etc.
+
+Duties and Responsibilities
+
+* Enhance product functionality according to business requirements
+* Maintain existing functionality by fixing bugs and writing unit tests
+* Turn web designs (visuals, HTML, CSS) into functional web applications
+* Work with other teams both inside and outside VeriFone
+* Coordinate with partners for customization and integration
+* Architect solutions independently
+
+Required skills:
+* Bachelor's degree in software engineering or related field, or equivalent
+experience
+* 5+ years relevant Perl experience
+* Strong knowledge of HTML, CSS, and jQuery
+* Experience using a Perl framework such as Dancer or Catalyst
+* Comfortable working with Template Toolkit and DBIx::Class
+* Able to write clean code and follow best practices
+
+Desired skills:
+Bonus points for experience with Twitter's Bootstrap
+
+Website for more information: https://www.sailpay.com/
+
+Contact information at:
+http://jobs.perl.org/job/16244#contact

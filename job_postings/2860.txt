@@ -1,0 +1,141 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2860
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 7743 invoked from network); 15 Jun 2005 14:13:23 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 15 Jun 2005 14:13:23 -0000
+Received: (qmail 32035 invoked by uid 225); 15 Jun 2005 14:13:22 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 32028 invoked by alias); 15 Jun 2005 14:13:22 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 15 Jun 2005 07:13:19 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j5FEDHsV014830
+	for <jobs@perl.org>; Wed, 15 Jun 2005 07:13:17 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j5FEDHsY014828;
+	Wed, 15 Jun 2005 07:13:17 -0700
+Date: Wed, 15 Jun 2005 07:13:17 -0700
+Message-ID: <200506151413.j5FEDHsY014828@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Perl/mod_perl backend system - Senior Web Development Engineer (onsite), United States, CA, Redwood City
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2657
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 15, 2005
+
+Job title:
+Perl/mod_perl backend system - Senior Web Development Engineer
+
+Company name: GlobalWare Solutions - PowerAccess
+
+Location: United States, CA, Redwood City
+
+Pay rate: DOE
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: perm
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+GlobalWare Solution’s PowerCommerce team designs, builds, and hosts
+eCommerce solutions for clients on an outsource basis.	We are in need of a
+Senior Web Development Engineer to join our talented team.  This position
+is available immediately.
+
+The Senior Web Development Engineer position within GlobalWare Solutions’
+PowerCommerce team is a unique position.  Our development philosophy
+combines the rapid development processes of a start-up with those of a more
+traditional software development team.	    PowerCommerce is built with an
+extended set of HTML tags, dynamically driven using a Perl/mod_perl backend
+system, accessing a SQL database.  This position requires a strong
+background in SQL and programming experience, preferably in Perl.
+
+
+Required skills:
+Domain Knowledge:
+
+Our Web Development Engineers are key to delivering a quality product that
+meets the client’s needs.   The ideal candidate will have real world
+experience with 24x7, industrial strength eCommerce websites.  Familiarity
+with shopping carts, cookies, credit card processing, software licensing,
+electronic software downloads (ESD), and electronic licensing is a plus.
+
+
+Communication skills:
+
+Effective verbal and written communication skills are a must. The ability
+to articulate design concepts to a variety of audiences including software
+engineers, management, sales people, and of course clients.  Documentation
+is also an integral part of our development methodology.   Web Development
+Engineers must be able to write unit test plans based on technical
+specifications.  
+
+
+Technical skills:
+·	Past experiences with systems that create dynamic web pages using
+an environment like Perl/mod_perl, JSP, ASP, and ColdFusion or similar,
+accessing a SQL database on the back end is vital.    
+·	Specific Perl experience should include: OOA/OOD leading to
+mod_perl implementations, focus on performance techniques, and use of
+common CPAN modules.
+·	Strong SQL skills should include:  optimization techniques, use of
+SQL Tools such as SQL+.
+·	Much of our file transfer technology is based on XML/SOAP.  Working
+knowledge of XML constructs, including DTD definition and XSLT validation
+would be very valuable.  
+·	We have extended the HTML tag set to support rapid deployment of
+customized web interfaces.  Knowledge of HTML required, XHTML, CSS, and
+JavaScript would be helpful.  
+·	Working knowledge of networking technologies, including security
+and encryption on the Internet, and basic networking concepts. 
+·	Hands on experience with Apache web servers is also a plus.  
+·	Knowledge of and Productivity with Solaris development environment
+is desirable.  
+·	A B.S./M.S. in Computer Science or related major, with 5+ years
+experience in Software Development rounds out our ideal benchmark for this
+position.
+
+
+Desired skills:
+Misc. Skills:
+
+The ideal candidate will posses the intangible skills as well.	They will
+have precise attention to detail; they will have the ability to multitask,
+prioritize, show initiative and respond quickly in a fast-paced
+environment; they will troubleshoot where required, reporting needed
+procedural changes where needed; they will have that can-do attitude that
+comes with a start-up mentality.  
+
+Additionally, experience with Internationalization and Localization
+efforts, especially with multi-byte languages, would be valued highly.
+
+---------------------
+
+GlobalWare Solutions offers unique opportunities and competitive benefits
+and compensation packages in our Redwood City facility for dynamic players. 
+
+Contact information at:
+http://jobs.perl.org/job/2657#contact
+
+

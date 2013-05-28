@@ -1,0 +1,98 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9998
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 22126 invoked from network); 2 Apr 2010 07:49:12 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 2 Apr 2010 07:49:12 -0000
+Received: (qmail 15567 invoked by uid 225); 2 Apr 2010 07:49:11 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 15562 invoked by alias); 2 Apr 2010 07:49:11 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 02 Apr 2010 00:49:07 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id E20102AFE1; Fri,  2 Apr 2010 00:49:03 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20100402074903.E20102AFE1@x3.develooper.com>
+Date: Fri,  2 Apr 2010 00:49:03 -0700 (PDT)
+Subject: Entry to mid-level web application developer (onsite), United States, CA, Ladera Ranch
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/12000
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 31, 2010
+
+Job title:
+Entry to mid-level web application developer
+
+Company name: IntelliSurvey, Inc.
+
+Internal ID: C25
+
+Location: United States, CA, Ladera Ranch
+
+Pay rate: DOE
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+IntelliSurvey, Inc. programs and hosts online surveys, reports and related
+applications for a variety of clients in the market research industry. We
+offer both software licensing via an SaaS model for our do-it-yourself
+clients, and we program surveys and applications using our own software on
+a project-by-project basis for clients who would rather outsource.
+
+We're looking for a bright, enthusiastic junior to mid-level developer to
+join our technical team at our office in Ladera Ranch, CA.
+
+Local candidates only please -- must be within daily commuting distance of
+Ladera Ranch, CA 92694.
+
+Required skills:
+Our core software is built using the following tools:
+
+    * Object Oriented Perl
+    * Apache/mod_perl
+    * Postgres
+    * JavaScript using AJAX and the ExtJS and YUI toolkits
+
+The ideal candidate will be familiar with these tools. Our servers run
+RedHat and/or CentOS Linux, so familiarity with these and/or the linux
+command line in general is helpful as well.
+
+Desired skills:
+More important than any particular technical knowledge is a good foundation
+in overall programming, the ability to learn and apply new skills quickly,
+and effective communication and teamwork abilities. We need people that are
+adept at sorting through a large codebase to quickly find bugs or identify
+points of entry for new features. The position will involve significant
+design work and new features evolve quickly, so we need someone who can
+take the initiative to figure out what needs to be done, and then make it
+happen.
+
+Depending on your background and experience, you may also be responsible
+for helping to monitor and manage our servers, and for providing technical
+support to our clients. Finally, because we are a relatively small company,
+everyone may be asked to wear different hats and help with whatever other
+tasks are necessary to help the company grow and prosper.
+
+Contact information at:
+http://jobs.perl.org/job/12000#contact
+
+

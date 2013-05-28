@@ -1,0 +1,75 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12338
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 16206 invoked from network); 16 Apr 2012 17:38:43 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 16 Apr 2012 17:38:43 -0000
+Received: (qmail 4488 invoked by uid 225); 16 Apr 2012 17:38:43 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 4483 invoked by alias); 16 Apr 2012 17:38:43 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 16 Apr 2012 10:38:40 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 670572AFD1; Mon, 16 Apr 2012 10:38:37 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 16 Apr 2012 10:38:37 -0700
+Message-ID: <20120416173837.670572AFD1@x3.develooper.com>
+Subject: Web Scraping Expert - PERL (telecommute), Colorado
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15614
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 16, 2012
+
+Job title: Web Scraping Expert - PERL
+
+Company name: Wunderdog Sports LLC
+
+Location: Colorado
+
+Pay rate: DOE
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: indefinite
+
+Hours: Part time
+
+Onsite: no
+
+Description:
+We are looking for a PERL developer that has ample experience in web
+scraping. We have a library of scraping code that has built over the past 5
+years that needs to maintained and debugged on a regular basis. We are also
+actively building new scrapes to collect data. This job will require 20-30
+hours a week of maintenance and production. Experience with PERL, git,
+HTTP, PHP, XML, MySQL, Web::Scraper, XPATH, JSON and Moose.
+
+Required skills:
+PERL, git, HTTP, XML, MySQL, Moose, Web::Scraper, WWW::Mechanize,
+HTML::TableExtract, HTML::TreeBuilder, HTML::TokeParser, HTTP::Cookies,
+Spreadsheet::ParseExcel, DateTime::Format::Excel,XML::Simple,JSON
+
+Desired skills:
+Date::Manip, FindBin, Getopt::Long, DBI, Sys::RunAlone, Text::ASCIITable,
+HTTP::Cookies, Spreadsheet::ParseExcel, DateTime::Format::Excel, DateTime,
+HTML::TableExtract, Storable, Class::DBI, Class::DBI::AbstractSearch,
+MIME::Lite, SQL::Abstract, Log::Log4perl, List::Util, Config::General,
+XML::Simple, JSON, Math::Round, Hash::Merge, Data::Consumer::MySQL,
+Lingua::EN::Numbers, XML::RSS, Smart::Comments, Text::CSV_XS,
+LWP::Protocol::https, Test::Compile, HTML::TreeBuilder, HTML::TokeParser
+
+Contact information at:
+http://jobs.perl.org/job/15614#contact

@@ -1,0 +1,79 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3614
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 1140 invoked from network); 22 Dec 2005 17:47:24 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 22 Dec 2005 17:47:24 -0000
+Received: (qmail 29570 invoked by uid 225); 22 Dec 2005 17:47:23 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 29563 invoked by alias); 22 Dec 2005 17:47:22 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 22 Dec 2005 09:47:20 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id jBMHlHdv000811
+	for <jobs@perl.org>; Thu, 22 Dec 2005 09:47:17 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id jBMHlH6A000809;
+	Thu, 22 Dec 2005 09:47:17 -0800
+Date: Thu, 22 Dec 2005 09:47:17 -0800
+Message-ID: <200512221747.jBMHlH6A000809@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Perl/CGI programmer for extending an already working Perl script (telecommute), Italy, Milano
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3449
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 22, 2005
+
+Job title:
+Perl/CGI programmer for extending an already working Perl script
+
+Location: Italy, Milano
+
+Pay rate: negotiable
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: as needed
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+I'm looking for a Perl/CGI programmer to extend a Perl script which is part
+of the GIFT (Gnu Image Finding Tool -
+http://www.gnu.org/software/gift/gift.html) framework.
+The script act as a one shot query client to a GIFT server.
+It is already fully functional, but I need it to be invoked from a web
+page, so it has to be called by a CGI.
+You'll find the script in the GIFT code/distribution, it is
+"gift-mrml-client.pl". I just need to perform the tasks it perform when
+callend on the CLI by passing parameters to a CGI via web page.
+
+Required skills: Perl, CGI.
+
+Desired skills: Perl, CGI.
+
+URL for more information:
+http://www.gnu.org/software/gift/gift.html
+
+Contact information at:
+http://jobs.perl.org/job/3449#contact
+
+

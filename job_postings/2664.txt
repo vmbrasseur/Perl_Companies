@@ -1,0 +1,89 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2664
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 31584 invoked from network); 1 May 2005 20:28:25 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 1 May 2005 20:28:25 -0000
+Received: (qmail 21976 invoked by uid 225); 1 May 2005 20:28:25 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 21972 invoked by alias); 1 May 2005 20:28:24 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 01 May 2005 13:28:21 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j41KSIs2025276
+	for <jobs@perl.org>; Sun, 1 May 2005 13:28:18 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j41KSIX4025274;
+	Sun, 1 May 2005 13:28:18 -0700
+Date: Sun, 1 May 2005 13:28:18 -0700
+Message-ID: <200505012028.j41KSIX4025274@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: modPerl/DBI/SOAP::Lite Programmer for Interactive Agency (telecommute), United States, WA, Kirkland (Seattle Metro)
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2556
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May  1, 2005
+
+Job title:
+modPerl/DBI/SOAP::Lite Programmer for Interactive Agency
+
+Company name: Mindcast Software
+
+Internal ID: EPZ
+
+Location:
+United States, WA, Kirkland (Seattle Metro)
+
+Pay rate: $30-$50/hour DOE
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 4-6 weeks
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+We're looking for someone to help integrate a centralized
+login/registration system for a series of affiliated websites.	The
+architecture is modPerl with a MySQL backend.  While some web pages are
+hosted locally, other frontends are external and communcate with our
+database backend using SOAP.  The successful candidate will 
+coordinate with our existing developers and with our clients to ensure that
+all the elements of the system are working together properly.  The
+successful candidate must be available during ET business hours.
+
+
+Required skills:
+Programming: modPerl, SOAP::Lite, DBI, MySQL
+Communications: Fluent English Speaker
+
+
+Desired skills:
+Project Management Skills 
+Documentation with WSDL Authoring
+Testing of Web Applications
+
+
+Contact information:
+hr-craiglist@mindcast.com
+
+
+

@@ -1,0 +1,98 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9032
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 20777 invoked from network); 4 Mar 2009 12:57:28 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 4 Mar 2009 12:57:28 -0000
+Received: (qmail 1271 invoked by uid 225); 4 Mar 2009 12:57:27 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 1260 invoked by alias); 4 Mar 2009 12:57:26 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 04 Mar 2009 04:57:24 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 7FCFC2AFDD; Wed,  4 Mar 2009 04:57:20 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20090304125720.7FCFC2AFDD@x3.develooper.com>
+Date: Wed,  4 Mar 2009 04:57:20 -0800 (PST)
+Subject: Software Engineer iPlayer (onsite), United Kingdom, London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/10288
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March  3, 2009
+
+Job title: Software Engineer iPlayer
+
+Company name: BBC
+
+Location: United Kingdom, London
+
+Pay rate: c.45k
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The BBC FM&T Online Media Group is looking for an experienced Senior
+Software Engineer (Perl Developer) to join a world-class team responsible
+for delivering the next-generation bbc.co.uk/iPlayer website and other
+online services.
+
+As Senior Software Engineer (Perl Developer) you will have an excellent
+knowledge of Perl, web frameworks (Catalyst, Mason, TT), RESTful web
+services, security, caching, designing for performance, mySql and web
+standards, along with proven experience of working in a mixed discipline
+team on large scale web application projects. Knowledge and experience with
+large scale social media applications is also an advantage.
+
+It is essential that you have significant experience working with Perl on
+high volume commercial web applications and competence in one or more
+established web frameworks for example, Catalyst, Mason, TT, Zope, Django
+or Spring. In addition you will have good knowledge of mySql, DBIx::Class
+or other ORM frameworks . You will have the ability to work in an
+unstructured, fast changing environment with rapid release cycles. Proven
+experience of commercial web development processes. You will also have
+experience of software quality practice e.g. TDD, continuous integration,
+version control, release automation, and software quality metrics. While
+not essential it would be beneficial for you to have some experience in one
+or more of the following, memcached, Lucene, OpenSocial API experience and
+PHP,Java,C#. 
+
+Required skills:
+- Demonstrable competence in one or more established web frameworks (eg
+Catalyst, Mason, TT, Zope, Django, Spring).
+- Strong familiarity with mySql and DBIx/other ORM
+- Ability to work in an unstructured, fast changing environment with rapid
+release cycles.
+- Proven experience of project working and commercial web development
+processes - particularly Agile methodologies
+- Experience of working in an environment where products have to be
+delivered to specific time-scales
+- An ability to rapidly and effectively understand and translate product
+and business requirements into technical solutions
+- Experience of software quality practice – e.g. TDD, continuous
+integration, version control automation, software metrics
+
+URL for more information:
+http://jobs.bbc.co.uk/fe/tpl_bbc01.asp?newms=jj&id=26804&aid=15716
+
+Contact information at:
+http://jobs.perl.org/job/10288#contact
+
+

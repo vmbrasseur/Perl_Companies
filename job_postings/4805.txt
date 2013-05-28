@@ -1,0 +1,83 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4805
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 9599 invoked from network); 18 Aug 2006 02:35:53 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 18 Aug 2006 02:35:53 -0000
+Received: (qmail 11781 invoked by uid 225); 18 Aug 2006 02:35:53 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11771 invoked by alias); 18 Aug 2006 02:35:51 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 17 Aug 2006 19:35:49 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 0BD772AFDA; Thu, 17 Aug 2006 19:35:44 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060818023544.0BD772AFDA@x3.develooper.com>
+Date: Thu, 17 Aug 2006 19:35:44 -0700 (PDT)
+Subject: Perl Engineer (onsite), CS, San Jose
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4533
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 17, 2006
+
+Job title: Perl Engineer
+
+Company name: Vado, Inc.
+
+Location: CS, San Jose
+
+Travel: 0%
+
+Terms of employment: Hourly employee
+
+Length of employment: 12-18 months
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The candidate will be responsible for achieving 2 important milestones
+within 6 months.  The first is to prepare a new RDBMS back-end of a current
+persistent-server IT application for a Unix/Linux production environment.  
+The second is to migrate current web reports into a production-ready
+Apache/mod_perl framework from a custom persistent-server framework.  They
+need to be extremely proficient with object-oriented perl, RDBMS, SQL,
+Apache and mod_perl.  Upon completion of the initial milestones, the
+candidate will continue work with the deployment group to prepare
+installations for production, including creation/migration of additional
+reports or minor enhancements to DB interface.	This is a global team; it
+is imperative that the candidate be accustomed to working with deadlines,
+work independently with little direction, is capable of creative problem
+solving, interacts well with team members and documents their work and code
+well and habitually.
+
+
+Required skills:
+Object-oriented Perl
+RDBMS
+mod_Perl
+Apache
+SQL
+Unix/Linux
+
+Desired skills:
+distrubuted computing, grid computing or cluster computing
+
+Contact information at:
+http://jobs.perl.org/job/4533#contact
+
+

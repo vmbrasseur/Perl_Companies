@@ -1,0 +1,104 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2724
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 27858 invoked from network); 16 May 2005 21:54:29 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 16 May 2005 21:54:29 -0000
+Received: (qmail 4864 invoked by uid 225); 16 May 2005 21:54:29 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 4859 invoked by alias); 16 May 2005 21:54:28 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 16 May 2005 14:54:24 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j4GLsMGY022647
+	for <jobs@perl.org>; Mon, 16 May 2005 14:54:22 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j4GLsMcL022645;
+	Mon, 16 May 2005 14:54:22 -0700
+Date: Mon, 16 May 2005 14:54:22 -0700
+Message-ID: <200505162154.j4GLsMcL022645@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Software Engineer, Yahoo! Web Search Content Classification (onsite), United States, CA, Sunnyvale
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2614
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 16, 2005
+
+Job title:
+Software Engineer, Yahoo! Web Search Content Classification
+
+Company name: Yahoo! Inc
+
+Internal ID: RX1000008254
+
+Location: United States, CA, Sunnyvale
+
+Pay rate: negotiable
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: Permanent
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Are you a Perl hacker? Do you understand HTTP and the Web in a deep way?
+Can you make SQL jump through hoops? Can you build interfaces with simple
+front ends that hide back-end complexity? Does the thought of writing apps
+to talk to clusters of thousands of machines turn you on?
+
+The Yahoo! Web Search Content Classification group is looking for an
+experienced engineer to build tools to inject human input into our
+crawling, indexing, and query-serving systems. These tools will support
+detective work on what is really out there on the web, as well as managing
+very large amounts of data that control our massively clustered
+applications.
+
+Yahoo! Web Search, is passionate about building the best search engine on
+the planet! As Inktomi, AltaVista and All The Web we have powered the
+largest portals on the Web since 1996. Search is one of the most vital and
+dynamic technologies behind the Internet! It is full of new challenges and
+opportunities for innovation. We're looking for world-class, fun-loving
+engineers to join our team!
+
+
+Required skills:
+-BS or MS Computer Science (or equivalent), 4+ years experience.
+-Have built large-scale, complex, reliable systems or applications.
+-Experienced in: Perl, PHP, SQL, Apache, HTTP, network programming, Unix
+development tools.
+-Demonstrated ability to use all skills in a team setting.
+
+
+Desired skills:
+Extra Credit:
+-C/C++
+-Understanding of standard CS algorithms . Open source project experience
+
+
+URL for more information:
+http://careerportal.resumix.com/pljb/yahoo/yahoo_jobs/applicant/jobClick.js
+p?count=1&id=3164
+
+Contact information at:
+http://jobs.perl.org/job/2614#contact
+
+

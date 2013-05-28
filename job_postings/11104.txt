@@ -1,0 +1,101 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11104
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8803 invoked from network); 16 Mar 2011 21:11:53 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 16 Mar 2011 21:11:53 -0000
+Received: (qmail 11250 invoked by uid 225); 16 Mar 2011 21:11:53 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11245 invoked by alias); 16 Mar 2011 21:11:53 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 16 Mar 2011 14:11:51 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 30C7F2AFE2; Wed, 16 Mar 2011 14:11:48 -0700 (PDT)
+To: jobs@perl.org
+Date: Wed, 16 Mar 2011 14:11:48 -0700
+Message-ID: <20110316211148.30C7F2AFE2@x3.develooper.com>
+Subject: Perl Developer for mobile content delivery platform (onsite), United
+ Kingdom, Berkshire, Central Maidenhead (5 minute walk to station)
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13530
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 16, 2011
+
+Job title:
+Perl Developer for mobile content delivery platform
+
+Company name: Gorillabox Ltd
+
+Internal ID: jobs_perl_org_2011_01
+
+Location:
+United Kingdom, Berkshire, Central Maidenhead (5 minute walk to station)
+
+Pay rate: £25k-£35k (dependent on skills/experience)
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Due to company expansion we are looking to recruit an additional Perl
+developer. Working as part of a small team, the successful candidate will
+assist with the design, development and testing of all aspects of our
+in-house software platform for delivering video and other content to mobile
+devices.
+
+Range of skills and experience are important but we will consider junior,
+intermediate and senior candidates - the most important qualities are
+enthusiasm, initiative, communication and willingness to learn.
+
+Candidates must able to attend the office 5 days a week. We are not
+considering telecommuting as an option at this time.
+
+Please note that we are unable to assist with visa applications -
+candidates must already be eligible to work in the UK.
+
+NO AGENCIES PLEASE.
+
+Required skills:
+Object Oriented Perl 5, preferably in a web application environment
+Working knowledge of Linux
+SQL
+Version control software (ideally Subversion, but others are acceptable)
+XML/XHTML
+
+Desired skills:
+Desirable (we will consider candidates with none of these, but experience
+in these areas would be highly beneficial):
+ * Catalyst
+ * DBIx::Class
+ * Moose
+ * Test Driven Development
+ * CPAN author/contributor
+ * Familiarity (and ideally interaction) with Perl community – mailing
+lists, IRC, etc
+ * Familiarity with Modern Perl practices
+
+Useful (we do not require candidates to have any of these, experience in
+these areas would merely be a bonus):
+ * video encoding/streaming
+ * SOAP/XML-RPC
+ * JavaScript/AJAX
+ * C/C++
+ * Java
+
+Contact information at:
+http://jobs.perl.org/job/13530#contact

@@ -1,0 +1,99 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12307
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28228 invoked from network); 6 Apr 2012 19:12:40 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 6 Apr 2012 19:12:40 -0000
+Received: (qmail 9063 invoked by uid 225); 6 Apr 2012 19:12:40 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 9058 invoked by alias); 6 Apr 2012 19:12:39 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 06 Apr 2012 12:12:36 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 9A7822AFE5; Fri,  6 Apr 2012 12:12:33 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 6 Apr 2012 12:12:33 -0700
+Message-ID: <20120406191233.9A7822AFE5@x3.develooper.com>
+Subject: Perl Software Developer (onsite), Cambridge, MA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15798
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April  6, 2012
+
+Job title: Perl Software Developer
+
+Company name: CIDC
+
+Location: Cambridge, MA
+
+Pay rate: Competitive; excellent benefits
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+This position focuses mainly on the back end of our web applications but is
+involved in the entire stack. This position is on a team using an Agile
+development approach. You will work closely with a Product Owner, and
+software engineering tasks are broken out and assigned by the members of
+the team. The team participates in regular reviews with stakeholders and is
+involved in the complete software development life.
+ 
+Responsibilities include:
+
+* Developing new features and maintaining existing functionality on a
+variety of Perl web applications, both internal and customer facing
+* Writing unit and integration tests, both front and back-end
+* Participating in planning software stories, development tasks and
+estimating work
+* Maintaining system frameworks, configuration tools, and installation
+utilities to ensure stability and to improve release and distribution
+* Participate in research, technical discussions and prototype development
+experiments
+
+The bulk of the work for this position is in Perl, with some SQL, HTML and
+JavaScript depending on your role and skills. We will consider skilled
+developers with experience doing similar work in another dynamic language
+with an interest in learning Perl.
+
+Some flexibility to work at home although usually in office during core
+business hours.
+___________________________________
+
+Required skills:
+* Developing web applications involving Perl, Apache and Database tools in
+a Linux environment
+* Object-oriented problem decomposition and programming, preferably using
+Moose
+* A proven self starter that is standards and best practices driven
+* Test-driven development
+* Solid analytical and problem-solving skills
+* Effective communication and organizational skills
+* Experience with SQL
+* Experience with HTML and JavaScript
+___________________________________
+
+Desired skills:
+* Linux shell scripting or system administration experience
+* Knowledge of internationalization and localization
+
+Website for more information: http://cidc.com
+
+Contact information at:
+http://jobs.perl.org/job/15798#contact

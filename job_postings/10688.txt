@@ -1,0 +1,126 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10688
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 5130 invoked from network); 3 Nov 2010 22:11:47 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 3 Nov 2010 22:11:48 -0000
+Received: (qmail 23470 invoked by uid 225); 3 Nov 2010 22:11:46 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 23465 invoked by alias); 3 Nov 2010 22:11:46 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 03 Nov 2010 15:11:43 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 6F9312AFE0; Wed,  3 Nov 2010 15:11:40 -0700 (PDT)
+To: jobs@perl.org
+Date: Wed, 3 Nov 2010 15:11:40 -0700
+Message-ID: <20101103221140.6F9312AFE0@x3.develooper.com>
+Subject: Senior Software Engineer - Kernel (Verification) (onsite), United
+ States, CA, San Mateo
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13160
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November  3, 2010
+
+Job title: Senior Software Engineer - Kernel (Verification)
+
+Company name: Akamai Technologies
+
+Internal ID: 245-129
+
+Location: United States, CA, San Mateo
+
+Pay rate: open
+
+Terms of employment: Salaried employee
+
+Length of employment: Direct Hire position
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Are you a senior level engineer that has a combination of software
+engineering and software verification skills?  Do you live and breathe
+C/C++/Perl?  Are you highly interested in releasing a high quality kernel
+for our operating system that is quite resilient?  Are you up to the task
+to create and verify a scalable and optimally performing kernel on our
+state-of-the-art distributed infrastructure?  If so then please read on and
+feel free to submit your resume to this exciting position.
+
+Your job is to validate the quality of our software components, and to
+design and develop Perl Modules for verification.  You must be a creative
+thinker with advanced technical expertise in UNIX/Linux operating systems
+and HTTP, DNS, and TCP/IP technologies as well as proxy servers, web
+servers, and caching technologies. The scope of verification will encompass
+formulating and building extensive test cases and methodologies to verify
+new functionalities and features for different releases, identifying
+defects and areas of optimizations, and applying innovative software
+testing methodologies.
+
+In this position, you are the key to:
+* Enhancing the delivery of both our kernel and Operating System offerings
+to our servers.
+
+* Evaluating system performance on a variety of hardware platforms and
+under various workloads; developing and enhancing tools which can focus on
+application performance bottlenecks with a view to eliminating them.
+
+* Implementing SQA lifecycle end-to-end : from gathering functional
+requirements, to the design and execution of automated, manual, and system
+level tests.
+
+The Kernel Verification Engineering team is responsible for the
+verification of the proprietary Debian based Linux kernel and OS, which
+handles the core functionality of more than 65,000 servers deployed across
+the globe.  You will be an integral part of this core group within Akamai’s
+Media and CDN organization.
+
+
+Required skills:
+Bachelor’s Degree in Computer Science, computer engineering, electrical
+engineering or related field with a minimum of 5 years of professional
+experience OR Master’s Degree in Computer Science, computer engineering,
+electrical engineering or related field with a minimum of 2 years
+professional experience.
+
+* Minimum of 1 year of experience in verification engineering techniques
+such as black / white box testing, identifying and formulating test cases.
+
+* Minimum of 2 years of knowledge of programming in C / C++ and perl.
+
+* Minimum of 1 year of networking and web technologies experience (such as
+HTTP, DNS, TCP / IP).
+
+* Minimum of 2 years working in a Unix/Linux environment.
+
+
+Desired skills:
+ Good understanding of Performance measurement and benchmarking experience
+for os, applications, as well as kernel.
+
+* Experience building automated test frameworks and the software product
+lifecycle is an asset.
+
+* Expertise in problem solving and technical troubleshooting, with an
+emphasis on verification engineering.
+
+* Excellent verbal and written communication skills.
+
+
+Website for more information: https://jobs-akamai.icims.com/jobs/4291/job
+
+Contact information at:
+http://jobs.perl.org/job/13160#contact

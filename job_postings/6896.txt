@@ -1,0 +1,80 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6896
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 23693 invoked from network); 4 Sep 2007 15:13:29 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 4 Sep 2007 15:13:29 -0000
+Received: (qmail 7551 invoked by uid 225); 4 Sep 2007 15:13:25 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 7404 invoked by alias); 4 Sep 2007 15:13:12 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 04 Sep 2007 08:13:02 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 840B52AFDE; Tue,  4 Sep 2007 08:12:38 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070904151238.840B52AFDE@x3.develooper.com>
+Date: Tue,  4 Sep 2007 08:12:38 -0700 (PDT)
+Subject: Lead Programmer (onsite), United Kingdom, Watford
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/6647
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September  4, 2007
+
+Job title: Lead Programmer
+
+Company name: Astor Malick
+
+Location: United Kingdom, Watford
+
+Pay rate: £38-42K
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Length of employment: Permanent
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are looking for a lead programmer to head up the web development team
+and co-ordinate with external oracle developers.  You will be responsible
+for maintaining the company's websites and delivering business identified
+enhancements to the ecommerce platform.  Knowledge of Perl essential. 
+
+We maintain two public web sites and a private administration web site
+deploying two web server hosts that run Apache, and one database server
+running an Oracle 10g instance.  All web and database servers use Linux as
+their operating system . 
+
+The Oracle instance contains one schema shared by all three web sites,
+containing the data, and low-level routines implemented in Oracle PL/SQL. 
+The web server host runs Apache 2 frontend processes that serve static
+content and pass CGI requests through to Apache/mod_perl backend processes.
+ The application layer is implemented purely in Perl, with a common code
+base used by all public and private web sites.
+
+
+Required skills:
+PERL
+Apache
+Oracle (Any SQL experience)
+
+Contact information at:
+http://jobs.perl.org/job/6647#contact
+
+

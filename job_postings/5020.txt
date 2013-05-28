@@ -1,0 +1,128 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5020
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8995 invoked from network); 28 Sep 2006 16:12:59 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 28 Sep 2006 16:12:59 -0000
+Received: (qmail 28465 invoked by uid 225); 28 Sep 2006 16:12:59 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 28460 invoked by alias); 28 Sep 2006 16:12:58 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_05
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 28 Sep 2006 09:12:54 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 7EE692AFE8; Thu, 28 Sep 2006 09:12:50 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060928161250.7EE692AFE8@x3.develooper.com>
+Date: Thu, 28 Sep 2006 09:12:50 -0700 (PDT)
+Subject: web/database programmer for biological system (part onsite), United States, NY, Cold Spring Harbor
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4712
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 28, 2006
+
+Job title:
+web/database programmer for biological system
+
+Company name: Cold Spring Harbor Lab
+
+Internal ID: 00002
+
+Location: United States, NY, Cold Spring Harbor
+
+Pay rate: $60,000-$80,000US
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+Tired of writing yet another accounting/business system?  Tired of having
+the marketing department write your "specs"?  Tired of pointy-haired bosses
+and Dilbert-like work environments with little challenge or meaningful
+work?
+
+How about a job writing Perl for plant biologists?  How about working other
+Perl nuts on completely open-source projects?  Then you should apply for a
+job with Gramene, a federally funded database that integrates and presents
+genomic data for researchers studying crop grasses (e.g., rice, wheat,
+maize, barley -- you know, grains you eat).
+
+Hacking rice desn't sound exciting?  Well, consider this:  Rice is possibly
+the oldest domesticated grain (~10,000 years) and is the staple food for
+2.5 billion people.  Cultivation of rice is the largest single use of land
+for producing food, covering 9% of the earth's arable land.  Rice provides
+21% of global human per capita energy and 15% of per capital protein.
+[http://www.gramene.org/oryza/rice_intro.html]
+
+This is no maintenance programming position.  Our small team of developers
+writes lots of new programs for everything from web-accessible databases to
+custom programs that analyze complex data for biologists.  We write just
+about everything in Perl and release just about everything under GPL.
+
+We'd like to find people who love Perl, MySQL and other open-source
+software.  It would be great if you knew some biology (you need to at least
+*like* it), but our preference is someone with good systems skills like
+tuning and maintaining MySQL, managing Linux systems, etc. 
+
+Responsibilities
+
+You will work within our group of developers and data curators to determine
+features needed to be implemented in database and software under
+development, providing feedback on feasibility, scope of work and time
+requirements, write specifications, and determine implementation timelines.
+
+
+Almost every application we write uses a database of some sort, so you will
+need to be versed in designing and working with databases and their APIs.
+
+You will develop web applications for users to access the data in
+databases.  Some of our applications present data visually, such as our
+comparative map viewer (http://www.gramene.org/cmap/) or our genome browser
+(http://www.gramene.org/Oryza_sativa/), but most are search interfaces that
+present data in HTML/XML/tab formats. 
+
+Please submit your resume and a representative code sample for
+consideration. 
+
+Required skills:
+Perl, SQL, Unix/Linux
+
+Master's degree in Computer Science, or related field plus a minimum of 4
+years experience, or Bachelor's degree plus a minimum of 5 years experience
+as a software engineer performing duties similar to those above.
+
+Database experience includes database design, development, and/or
+object-relational modeling, database adminstration.
+
+Web programming experience includes writing static and dynamic web pages,
+templates,
+
+
+Desired skills:
+CVS, Apache, Javascript, XML, CGI, web/database programming,
+familiarity with basic concepts of molecular biology and
+bioinformatics. 
+
+URL for more information: http://www.gramene.org/
+
+Contact information at:
+http://jobs.perl.org/job/4712#contact
+
+

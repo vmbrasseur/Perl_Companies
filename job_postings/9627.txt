@@ -1,0 +1,85 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9627
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 31629 invoked from network); 18 Nov 2009 20:56:23 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 18 Nov 2009 20:56:23 -0000
+Received: (qmail 12021 invoked by uid 225); 18 Nov 2009 20:56:22 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11897 invoked by alias); 18 Nov 2009 20:56:21 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 18 Nov 2009 12:56:20 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 67C1D2AFDE; Wed, 18 Nov 2009 12:56:16 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20091118205617.67C1D2AFDE@x3.develooper.com>
+Date: Wed, 18 Nov 2009 12:56:16 -0800 (PST)
+Subject: Sr. Systems Engineer / Perl Developer (onsite), United States, CA, Silicon Valley
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/11346
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 17, 2009
+
+Job title: Sr. Systems Engineer / Perl Developer
+
+Company name: a 10-year-old publicly-traded "startup"
+
+Location: United States, CA, Silicon Valley
+
+Pay rate: $130-160k+
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: permanent
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Join a team of top-notch senior systems engineers who automate the system
+administration (monitoring, repair, scaling, planning, etc) of the
+databases & web applications at our several datacenters.
+
+Superior benefits, excellent perks, and an unrivaled salary are waiting for
+the right candidate.  
+
+Required skills:
+1. Scripting Perl and other languages to support:
+- scalable & automated monitoring (logging, regression, threshold alerting)
+processes - Nagios and storage silo management
+- fine-grained disaster-recovery and capacity planning for large
+deployments (Solaris, Linux, Oracle)
+
+2. Interacting within and without your team to plan/prepare for the above.
+
+Desired skills:
+As a Senior Systems Engineer, you are expected to be able to JFDI with
+*any* software tools/languages you can find/create, but within the
+constraints of a SOX-regulated, publicly-traded (and profitable!) company.
+
+Your experience includes 5 years experience in a *n*x production
+environment, and you know the ins-and-outs of kernel tuning (Solaris and/or
+Linux), driver debugging, TCP debugging, and system crash root cause
+analysis.  You prefer to write software tools to automate your work, except
+for those tasks that you *KNOW* you will do only once. ;)  You have helped
+maintain datacenters where the storage silos number in the double digits.
+
+Contact information at:
+http://jobs.perl.org/job/11346#contact
+
+

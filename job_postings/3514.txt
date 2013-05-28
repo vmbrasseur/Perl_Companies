@@ -1,0 +1,94 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3514
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 11807 invoked from network); 28 Nov 2005 12:59:36 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 28 Nov 2005 12:59:36 -0000
+Received: (qmail 5310 invoked by uid 225); 28 Nov 2005 12:59:36 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 5297 invoked by alias); 28 Nov 2005 12:59:34 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 28 Nov 2005 04:59:26 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id jASCxJwm020965
+	for <jobs@perl.org>; Mon, 28 Nov 2005 04:59:19 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id jASCxJG6020963;
+	Mon, 28 Nov 2005 04:59:19 -0800
+Date: Mon, 28 Nov 2005 04:59:19 -0800
+Message-ID: <200511281259.jASCxJG6020963@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Perl programmer for Catalyst based project. (small, but tight deadline) (telecommute), United States, NY, New York
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3354
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 27, 2005
+
+Job title:
+Perl programmer for Catalyst based project. (small, but tight deadline)
+
+Company name: PBDG
+
+Location: United States, NY, New York
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+Small webdev shop that needs a freelancer to help out with the workload.
+
+This is a one-off project to replace shopping cart at a small existing
+website with a Catalyst based alternative under a very tight deadline.
+
+Basic specs are pretty straight forward.   
+
+Salient points for the frontend:
+-- One catgory.
+-- ~20 items total.
+-- Orders are logged to DB and email alert sent.
+-- Simple quantity discounts.
+-- No need for order tracking, user-login, etc.
+
+Salient points for the back end:
+-- Admin can add/edit/remove products. (w/ photo)
+-- Admin can adjust tax/shipping fees.
+-- Admin can download order info to CSV.
+-- Simple authentication. No need for users/roles/etc.
+
+Time frame:
+This project needs to be built and running live by Tuesday the 29th.
+
+
+Required skills:
+-- Perl, mod_fcgid, Catalyst
+-- Apache, MySQL, SQlite, Linux
+-- Extensive experience in Perl, and OO Perl.
+-- Experience working under SCM such as Subverion.
+-- Experience in templating systems, eg Template Toolkit
+-- Strong database schema design skills.
+-- HTML and related. (JS/CSS)
+-- Strong written and oral English communication skills.
+
+Contact information at:
+http://jobs.perl.org/job/3354#contact
+
+

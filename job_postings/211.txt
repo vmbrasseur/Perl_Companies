@@ -1,0 +1,119 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:211
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 3032 invoked by uid 1016); 9 Oct 2001 03:13:42 -0000
+Date: 9 Oct 2001 03:13:42 -0000
+Message-ID: <20011009031342.3031.qmail@onion.perl.org>
+To: jobs@perl.org
+Subject: Senior perl hacker - automation farm infrastructure (onsite), United States, CA, Santa Clara
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/127
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October  8, 2001
+
+Job title:
+Senior perl hacker - automation farm infrastructure
+
+Company name: Transmeta Corporation
+
+Location: United States, CA, Santa Clara
+
+Pay rate: variable with experience
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: indefinite
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Automation Expert 
+
+We're looking for a Unix-savvy programmer to develop, maintain, and extend
+the infrastructure of several large, complex, automated test facilities.
+Requires strong Linux background with Perl, C, network programming and
+basic network administration knowledge.
+
+This is a fun and challenging job which requires working with a large
+collection of PCs, heavily networked, and at several levels in computer
+systems, from application level (Perl, SQL) to OS (networking, Linux, Linux
+internals), to network debugging.  
+
+Skill Requirements:
+
+ * High proficiency with Perl and C and have designed and written complex
+programs in one or the other.  SQL programming experience would be a plus. 
+Should also be able to generate html/cgi files from Perl scripts.
+  
+ * Strong Linux/Unix systems programming and administration experience and
+skills, including familiarity with network programming, the Linux kernel,
+and systems-level details.
+ 
+ * Experience designing system infrastructures and tools.  Should be able
+to design, plan, extend existing infrastructure into new areas as needs
+change.
+ 
+ * Linux proficiency: comfortable rooting around in /proc and /etc for
+system information; happy to join together 5 shell commands with pipes to
+get a direct answer to a complicated question. Should be able to recognize
+a Linux kernel bug when they see one -- and know how to isolate it.
+
+ * Should have some experience with creating and maintaining large
+networked systems and demonstrate an appreciation of the importance of
+uptime, scalability, recoverability, debuggability etc., as design criteria
+for such systems.
+
+ * Must be "customer-oriented", willing to accept developers' needs as
+being the highest priority
+
+ * Should be team-oriented, someone who enjoys working with and in a group,
+jointly developing plans and priorities
+
+ * Also needs to be self-motivated and with skills in designing and
+extending complex systems.
+ 
+ * Strong communication and interpersonal skills required
+
+
+Work Experience:
+
+ *  Considerable Linux/Unix systems programming and administration
+experience, in a networked environment
+
+ *  Considerable Perl programming
+
+ *  A reasonable amount of Linux kernel-hacking experience
+
+ *  A computing science degree would be strongly desirable.
+
+We would generally expect a good candidate to have 4-5 years of strong work
+experience in these areas.
+
+This is not an entry-level job, nor would it appeal to someone mostly
+interested only in applications development.
+
+Required skills:
+Expert perl knowledge required.  Knowledge of DBI.pm and CGI.pm desired.
+
+Desired skills:
+All of our infrastructure is written in perl, but every once in a while you
+may be required to program in C for perl extensions.  Knowledge of xs is
+desired.  Operating system internals, system administration, and general
+linux knowledge is desired.
+
+Contact information: clintdw@netcom.com
+
+

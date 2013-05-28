@@ -1,0 +1,90 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11573
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 22846 invoked from network); 15 Aug 2011 07:51:29 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 15 Aug 2011 07:51:29 -0000
+Received: (qmail 22411 invoked by uid 225); 15 Aug 2011 07:51:29 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 22407 invoked by alias); 15 Aug 2011 07:51:29 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 15 Aug 2011 00:51:26 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 0C2DB2AFDD; Mon, 15 Aug 2011 00:51:22 -0700 (PDT)
+To: jobs@perl.org
+Date: Mon, 15 Aug 2011 00:51:22 -0700
+Message-ID: <20110815075123.0C2DB2AFDD@x3.develooper.com>
+Subject: Perl web application developer (onsite), United States, CA, Ladera
+ Ranch
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1380
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 15, 2011
+
+Job title: Perl web application developer
+
+Company name: IntelliSurvey, Inc.
+
+Internal ID: P1
+
+Location: United States, CA, Ladera Ranch
+
+Pay rate: Negotiable, DOE
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+IntelliSurvey, Inc. programs and hosts advanced online surveys and online
+reports for a variety of clients in the market research industry. We offer
+both software licensing via an SaaS model for our do-it-yourself clients,
+and we program surveys using our own software on a project-by-project basis
+for clients who would rather outsource all survey set up.
+
+Our core software is built using Perl, mod_perl, DBI, and Apache running on
+Linux servers.	Our front-end also makes use of javascript, including
+libraries such as jQuery and ExtJS.  We are currently planning a major new
+release and refactor of our core software, and so we need developers to
+join our team and help make this happen.
+
+We are primarily posting for local job in southern California.	However, we
+will consider remote employees with the right background and skill, or
+contract to hire arrangements.	In addition, even local employees will have
+flexible hours and the ability to work some of the time from home. 
+
+Required skills:
+- the ability to write clean, modular, and understandable code
+- excellent communication skills
+- the ability to work well in teams
+- Object-oriented Perl experience
+- the ability to learn quickly and apply new skills to the task at hand.
+
+Desired skills:
+Other useful skills:
+
+- experience with mod_perl
+- DBI and PostgreSQL and/or general database experience
+- Javascript, and in particular experience with the jquery and extjs
+libraries would be helpful.
+- Linux system administration skills
+
+
+Website for more information: http://www.intellisurvey.com/
+
+Contact information at:
+http://jobs.perl.org/job/1380#contact

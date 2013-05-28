@@ -1,0 +1,45 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:31
+Return-Path: <blazer@mail.nevalink.ru>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8995 invoked from network); 23 Apr 2001 00:57:13 -0000
+Received: from relay.wplus.net (195.131.52.179)
+  by tmtowtdi.perl.org with SMTP; 23 Apr 2001 00:57:13 -0000
+Received: from kernigan.wplus.net (win.wplus.net [195.131.52.178])
+	by relay.wplus.net (8.9.1/8.9.1/wplus.2) with ESMTP id EAA34632
+	for <jobs@perl.org>; Mon, 23 Apr 2001 04:53:20 +0400 (MSD)
+X-Real-To: <jobs@perl.org>
+Received: from mail.nevalink.ru (ip86-188.dialup.wplus.net [195.131.86.188])
+	by kernigan.wplus.net (8.9.1/8.9.1/wplus.2) with ESMTP id EAA07719
+	for <jobs@perl.org>; Mon, 23 Apr 2001 04:53:32 +0400 (????)
+Message-ID: <3AE37D77.46A97C76@mail.nevalink.ru>
+Date: Mon, 23 Apr 2001 04:55:19 +0400
+Reply-To: blazer@mail.nevalink.ru
+Organization: ...
+X-Mailer: Mozilla 4.05 [en] (Win95; U)
+X-No-Archive: yes
+To: jobs@perl.org
+Content-Type: text/plain; charset=koi8-r
+Content-Transfer-Encoding: 7bit
+Subject: [Perl Jobs] looking for the telecommuting contract
+Approved: news@nntp.perl.org
+From: blazer@mail.nevalink.ru (Mike Blazer)
+
+Greetings,
+
+I'm a Perl programmer (4.5-5 years) from St.-Petersburg, Russia. I developed several large projects (both CGI and non-web-related) and hundreds of small applications like data mining, B2B news feeds, encryption, console apps etc. in both Unix/Linux and Win32 environment. Have experience with MySQL, XML, LWP, libnet, HTTP(S), POP3, SMTP, FTP, DNS, Telnet, time servers, proxies, caching related apps, MakeMaker and plain batch installations, Win32 API, OLE, ODBC, registry, multithreading and multiprocessing, GUI apps (using Win32::GUI and/or API calls) etc. Modules both OO and not. Some Apache. Some C/C++ an XS (to read and fix or sometimes to port the existing CPAN modules).
+
+For the examples of my work please check my CPAN directory:
+  http://search.cpan.org/search?mode=author&query=Blazer
+
+I'm looking for the new telecommuting work either full time or contract or probably on site or travel-related in Europe.
+
+Please mail me for the MS Word resume.
+
+
+
+Mike Blazer
+blazer@mail.nevalink.ru

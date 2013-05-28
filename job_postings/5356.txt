@@ -1,0 +1,89 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5356
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 6213 invoked from network); 27 Nov 2006 21:35:50 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 27 Nov 2006 21:35:50 -0000
+Received: (qmail 21714 invoked by uid 225); 27 Nov 2006 21:35:49 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 21703 invoked by alias); 27 Nov 2006 21:35:48 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 27 Nov 2006 13:35:39 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 268392AFE7; Mon, 27 Nov 2006 13:35:35 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20061127213535.268392AFE7@x3.develooper.com>
+Date: Mon, 27 Nov 2006 13:35:35 -0800 (PST)
+Subject: Web Store Developer/Designer (telecommute), United States, MA, Arlington
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5012
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 27, 2006
+
+Job title: Web Store Developer/Designer
+
+Company name: Best Friends Cocoa
+
+Location: United States, MA, Arlington
+
+Pay rate: Bid
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: 2 weeks
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+We are building a new storefront that will use Amazon.com's store as the
+back end. It will likely be all static HTML pages generated via templates
+and simple text files. The Perl work will be in the parsing of those files
+and rendering with a templater (Template::Simple will be used). TThe HTML
+need to be clean and use CSS. There will be about 10 pages on the
+storefront. See the contact URL for the current site.
+
+Send examples of web sites you have designed and Perl code. Selected
+candidates will be asked to then submit a bid based on a more detailed set
+of requirements.
+
+There will be some ongoing work on this site as well as potentially other
+projects if there is a good match. This is an opportunity to also have a
+mentor (me) guide you through many interesting Perl projects. So this is a
+good chance for some talented but lacking in experience Perl hacker to get
+real world skills and training.
+
+Required skills:
+Solid HTML & CSS
+Perl templating (preferably Template::Simple)
+Basic parsing in Perl
+
+
+Desired skills:
+Graphic design
+Storefront design
+Amazon Store API
+
+
+URL for more information: http://bestfriendscocoa.com/
+
+Contact information at:
+http://jobs.perl.org/job/5012#contact
+
+

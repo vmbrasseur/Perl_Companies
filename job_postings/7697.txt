@@ -1,0 +1,119 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7697
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 10980 invoked from network); 19 Feb 2008 10:35:40 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 19 Feb 2008 10:35:40 -0000
+Received: (qmail 10023 invoked by uid 225); 19 Feb 2008 10:35:40 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 10018 invoked by alias); 19 Feb 2008 10:35:39 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 19 Feb 2008 02:35:36 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 71D632AFCA; Tue, 19 Feb 2008 02:35:32 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20080219103532.71D632AFCA@x3.develooper.com>
+Date: Tue, 19 Feb 2008 02:35:32 -0800 (PST)
+Subject: Open Source Application Developer for Koha Library System (telecommute), United States, OH, Athens
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/7962
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 18, 2008
+
+Job title:
+Open Source Application Developer for Koha Library System
+
+Company name: LibLime
+
+Location: United States, OH, Athens
+
+Pay rate:
+$50-$75K USD per year depending on experience
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+LibLime (http://liblime.com) is looking for a full-time application
+developer to work on the open source library automation system Koha
+(http://koha.org). Koha is a library automation system project written in
+Perl that has a thriving community of several hundred libraries around the
+world.
+
+LibLime is a small (~15 employees) US-based company providing support for
+Koha, including custom development (adding features, etc.). Writing Perl to
+support Open Source in Libraries, what could be more fun? :-)
+
+General requirements include:
+
+1. Code, test and troubleshoot programs utilizing the appropriate database,
+and programming technology.
+2. Maintain and modify programs; make approved changes by amending flow
+charts, develop detailed programming logic, and coding changes.
+3. Test and develop programming modifications.
+4. Write new program code using prescribed specifications.
+5. Evaluate simple interrelationships between programs such as whether a
+contemplated change in one part of a program would cause unwanted results
+in a related part.
+6. Analyze performance of programs and take action to correct deficiencies
+based on consultation with users and approval of supervisor.
+7. Confer with users to gain understanding of needed changes or
+modifications of existing programs. Resolve questions of program intent,
+data input, output requirements, and inclusion of internal checks and
+controls.
+8. Write and maintain programming documentation.
+9. Maintain confidentiality with regard to the information being processed,
+stored or accessed.
+10. Document programming problems and resolutions for future reference.
+11.Other duties as assigned.
+
+Required skills:
+1. Experience with web application development using Perl
+
+2. Knowledge of Perl (HTML::Template, DBI, XML::LibXML, MARC::* a plus), C,
+Javascript, SQL (MySQL experience a plus)
+
+3. Command-line knowledge of UNIX/Linux environment (Debian used internally
+on most servers).
+
+4. Ability to implement and troubleshoot programming changes and
+modifications. Knowledge of computer flow charts and of programming logic
+and codes. Ability to write technical instructions in the use of programs
+and/or program modifications. Ability to investigate and analyze
+information and to draw conclusions. Ability to learn and support new
+systems and applications. Work with users requires interpersonal skills.
+This is normally acquired through a combination of a Bachelor's Degree and
+three to five years of programming experience.
+
+Desired skills:
+Knowledge of library-specific standards/protocols such as MARC, MODS,
+Dublin Core, Z39.50, other Z39.* standards, NCIP, SIP2, or ability to
+quickly obtain such knowledge.
+
+Knowledge of library workflows in areas such as circulation, cataloging,
+acquisitions, serials, or ability to quickly obtain such knowledge.
+
+URL for more information:
+http://liblime.com/about/careers/software_engineer_koha
+
+Contact information at:
+http://jobs.perl.org/job/7962#contact
+
+

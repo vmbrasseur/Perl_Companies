@@ -1,0 +1,97 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4998
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 30529 invoked from network); 25 Sep 2006 13:34:57 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 25 Sep 2006 13:34:57 -0000
+Received: (qmail 25292 invoked by uid 225); 25 Sep 2006 13:34:57 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 25283 invoked by alias); 25 Sep 2006 13:34:56 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 25 Sep 2006 06:34:54 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 598A92AFD8; Mon, 25 Sep 2006 06:34:50 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060925133450.598A92AFD8@x3.develooper.com>
+Date: Mon, 25 Sep 2006 06:34:50 -0700 (PDT)
+Subject: Perl/XML-RPC developer for ordering/provisioning website (onsite), United Kingdom, London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4694
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 25, 2006
+
+Job title:
+Perl/XML-RPC developer for ordering/provisioning website
+
+Company name: Advantage Interactive
+
+Location: United Kingdom, London
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Initially this position requires a skilled developer with commercial
+experience working on ordering and provisioning systems.  You will be
+enhancing and re-factoring an existing Internet based system written in
+PERL, using XML RPC for the provisioning. Over time the role will expand to
+encompass working on low level back-end services, along with some front end
+integration for Internet based systems.
+
+You must be able to work on your own initiative, under pressure and meet
+deadlines. We are looking for an individual that is both flexible and
+committed.
+
+
+Main Responsibilities
+
+1.Implement features and enhancements as described by the project
+requirements
+2.Producing maintainable code (i.e. coding standards)
+3.Follow revision control system (i.e. Subversion)
+4.Testing your applications (i.e. unit/functional tests)
+5.Integrate functional changes into a web based front end
+6.Managing application database schemas
+7.Liaising with third party providers
+
+Required skills:
+1.Competent user of Linux systems
+2.Commercial PERL, XML, MySQL experience
+3.Knowledge of Apache, HTML, CSS
+4.Strong communication skills
+5.Able to work in a team, but also on own initiative
+6.Flexible, committed and punctual
+7.Able to operate under pressure and meet deadlines
+
+Desired skills:
+1.Ruby on Rails
+2.PostgreSQL
+3.Subversion
+4.PHP
+5.Agile working methodologies
+
+URL for more information:
+http://www.advantage-interactive.com/view_job/developer
+
+Contact information at:
+http://jobs.perl.org/job/4694#contact
+
+

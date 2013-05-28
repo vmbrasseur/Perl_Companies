@@ -1,0 +1,111 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12134
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 26638 invoked from network); 17 Feb 2012 11:04:31 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 17 Feb 2012 11:04:31 -0000
+Received: (qmail 1291 invoked by uid 225); 17 Feb 2012 11:04:31 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 1287 invoked by alias); 17 Feb 2012 11:04:30 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 17 Feb 2012 03:04:25 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 21F432AFE1; Fri, 17 Feb 2012 03:04:22 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 17 Feb 2012 03:04:22 -0800
+Message-ID: <20120217110422.21F432AFE1@x3.develooper.com>
+Subject: Senior Software Engineer (onsite), San Francisco, CA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15544
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 17, 2012
+
+Job title: Senior Software Engineer
+
+Company name: Say Media
+
+Internal ID: ovhcWfwE
+
+Location: San Francisco, CA
+
+Pay rate: DOE, Competitive
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+At the center of a changing media world, a new breed of independent
+creators build audience and shape opinion about the things they love. The
+delivery team helps these passionate voices monetize their content by
+building a world-class ad delivery system that smartly optimizes the ads in
+real time that get to the page. Build the code that drives a large
+distributed cluster of servers, which deliver ads that reach 400MM+ people
+monthly. The application has to meet both large volume and tight latency
+requirements. If you’re looking for a challenging opportunity to work at
+high scale we’d love to hear from you. Come join an incredibly talented
+team comprised of top engineers from SAY Media.
+
+Required skills:
+5+ years developing interactive high-volume web-based systems
+    Adaptable senior contributor drawing on extensive experience, who works
+autonomously and is capable of finding answers from the code or from other
+people
+    Experience in a platform or service-oriented environment with many
+dependencies and high uptime requirements
+    At home in a world of distributed systems at scale:  file and document
+storage, caching, locking, job processing, search, load balancing, etc.
+    Values a direct and collaborative relationship with Operations teams,
+helping to support issues escalated to engineering
+    Familiarity with Perl, MySQL, Memcached, Git, Perlbal, Gearman, and
+open source infrastructure components
+    Familiarity with Python helpful but not required
+    Experience with ad delivery, optimization and reporting helpful
+    Shows initiative through open-source contributions and personal
+projects and advocate for automated testing and test-driven development
+practices
+    Strong communication skills and desire to learn and grow with a highly
+talented engineering team
+    BS/CS or equivalent experience
+
+Desired skills:
+This engineer will need to work broadly across the ad delivery server, as
+you’ll be primarily responsible for:
+
+    Take overall responsibility for coding algorithms, framework design,
+and backend feature development of the delivery application
+    Implement new ad targeting and delivery features, such as the ability
+to better target ads based on end-user attributes
+    Partner with product management to think of creative technical
+solutions that allow for the optimal monetization of each page
+    Work with the data team to make sure the server generates the correct
+reporting data
+    Partner with mobile team to ensure the server offloads as much work as
+possible to maximize delivery to handset devices
+    Draw from extensive experience to design and implement the application
+for both large -scale applications with high availability
+    Work with the client engineers and operations team to troubleshoot
+production ad delivery issues. 
+    Like many current team members you may have an opportunity to
+contribute to opensource/CPAN projects.  If you have any publicly available
+code, we'd love to check it out!
+
+Website for more information: http://www.saymedia.com/jobs.php?jvi=ovhcWfwE
+
+Contact information at:
+http://jobs.perl.org/job/15544#contact

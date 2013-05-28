@@ -1,0 +1,85 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13255
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 21715 invoked from network); 22 Mar 2013 18:21:21 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 22 Mar 2013 18:21:21 -0000
+Received: (qmail 14650 invoked by uid 225); 22 Mar 2013 18:21:20 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 14639 invoked by alias); 22 Mar 2013 18:21:19 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,T_FRT_PROFILE2
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 22 Mar 2013 11:21:17 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 48C352AFDD; Fri, 22 Mar 2013 11:21:14 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 22 Mar 2013 11:21:14 -0700
+Message-ID: <20130322182114.48C352AFDD@x3.develooper.com>
+Subject: Software Engineer (part onsite), Bangalore,Karnataka,India
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17171
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 22, 2013
+
+Job title: Software Engineer
+
+Company name: Exceleron Software
+
+Internal ID: ESIB05032
+
+Location: Bangalore,Karnataka,India
+
+Terms of employment: Salaried employee
+
+Length of employment: indefinite
+
+Hours: Flexible
+
+Onsite: some
+
+Description:
+Requirement:
+
+We are looking for people with strong communication skills (You should be
+able to talk Technology with ease) and be someone who works well as part of
+a team and enjoys sharing ideas and debating options. You will be expected
+to provide input in the design of systems and can even venture an opinion
+on front end design issues. 
+
+Core modules used in our systems: Catalyst, DBIx::Class, Template::Toolkit,
+Plack, Test::More, Moose, PDF::API2 along with many of others. 
+
+Should have experience in writing tests and doing code reviews and
+participating in test driven development. You are also likely to have
+several CPAN modules, and follow the latest technical developments
+
+Required skills:
+1) 4-6 years experience in Perl Development with a working knowledge of the
+following web 
+2) development stack: HTML/XHTML, CSS, JavaScript, Apache/Nginx Extensive
+experience with OO Perl 
+3) Proficient with building/managing relational databases 
+4) Any perl based web frameworks ( Mojolicious, Catalyst, Dancer , CGI
+Application or any thing else)
+
+Desired skills:
+Good Communication
+Interested in Hacking
+Security
+
+Website for more information: http://www.exceleron.com
+
+Contact information at:
+http://jobs.perl.org/job/17171#contact

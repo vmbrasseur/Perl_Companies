@@ -1,0 +1,121 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3427
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 12246 invoked from network); 9 Nov 2005 22:32:29 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 9 Nov 2005 22:32:29 -0000
+Received: (qmail 8315 invoked by uid 225); 9 Nov 2005 22:32:28 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 8310 invoked by alias); 9 Nov 2005 22:32:28 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 09 Nov 2005 14:32:22 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id jA9MWKjq000696
+	for <jobs@perl.org>; Wed, 9 Nov 2005 14:32:20 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id jA9MWKSp000694;
+	Wed, 9 Nov 2005 14:32:20 -0800
+Date: Wed, 9 Nov 2005 14:32:20 -0800
+Message-ID: <200511092232.jA9MWKSp000694@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Software Architect - Site Infrastructure for e-commerce company (onsite), United States, CA, West Los Angeles
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3268
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November  9, 2005
+
+Job title:
+Software Architect - Site Infrastructure for e-commerce company
+
+Company name: Shopzilla, Inc.
+
+Location: United States, CA, West Los Angeles
+
+Pay rate: DOE
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: indefinite
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Shopzilla, formerly BizRate.com, is a leading shopping search engine on the
+Web. With an index of over 30 million products from more than 50,000
+stores, gathered, organized and presented using all proprietary
+leading-edge technology, Shopzilla provides consumers the best way to find
+virtually anything for sale, anywhere, and at the best price. In addition
+to our flagship site(http://www.shopzilla.com), Shopzilla also powers
+shopping search for many of the Web's largest consumer sites including AOL,
+Lycos, Time Warner's RoadRunner, and many others. 
+
+At Shopzilla, our goal is to build the greatest shopping service ever
+conceived by mankind. To that end, we strive very hard to hire the smartest
+people. We’re an environment where great ideas shape our vision and true
+passion drives us to the best solutions to the most challenging problems at
+the intersection of shopping and search.
+
+If that sounds like something you'd like to be involved in, please read on.
+
+
+As our Software Architect, you will:
+• Develop core technology, including the design/architecture of new
+solutions and the refactoring and refinement of existing systems
+• Serve as key architect for many key classes, protocols, and APIs (current
+and future) used throughout the organization. Assist others in using those
+APIs by writing documentation or working with technical writer.
+• Contribute to engineering implementation process in a mentoring role,
+also sometimes acting as implementation engineer.
+• Participate with Site Infrastructure management in steering future
+direction of Site Infrastructure projects
+
+
+Required skills:
+• 8+ years of experience in software engineering, OOD/OOA/OOP
+• Skilled in structured application design demonstrated by the ability to
+clearly translate business requirements into a system design
+• Ability to formally communicate architectural designs and plans (UML a
+plus)
+• Domain experience in n-tier web application development; working
+experience with web and networking protocols and concepts. Focus on system
+scalability is essential!
+• Experience working with others, both developers and project/business
+owners during the analysis, design, and execution phases of an engineering
+project is required. 
+• Excellent communication and interpersonal skills
+
+
+Desired skills:
+• Perl/mod_perl, Apache, XML, Web Services, HTML, and UNIX skills 
+• Web Application frameworks
+• RDBMS: Sybase ASE, Sybase IQ
+• Subversion VCS
+• UML modeling 
+• Ability to mentor individuals and interact as a member of an engineering
+team
+
+
+URL for more information: http://www.shopzilla.com/
+
+Contact information at:
+http://jobs.perl.org/job/3268#contact
+
+

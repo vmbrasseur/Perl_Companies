@@ -1,0 +1,97 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9298
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28332 invoked from network); 23 Jun 2009 22:32:45 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 23 Jun 2009 22:32:45 -0000
+Received: (qmail 19007 invoked by uid 225); 23 Jun 2009 22:32:45 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 19001 invoked by alias); 23 Jun 2009 22:32:45 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 23 Jun 2009 15:32:38 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 253FF2AFDA; Tue, 23 Jun 2009 15:32:34 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20090623223235.253FF2AFDA@x3.develooper.com>
+Date: Tue, 23 Jun 2009 15:32:34 -0700 (PDT)
+Subject: Systems Programmer (onsite), United States, CA, San Francisco 
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/10780
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 19, 2009
+
+Job title: Systems Programmer
+
+Company name: Topsy
+
+Location: United States, CA, San Francisco 
+
+Pay rate: DOE
+
+Travel: 0%
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Topsy is building the next generation platform for search and is looking to
+expand its team.  We recently launched http://topsy.com/search?q=topsy	and
+have immediate openings for the following position:
+
+Our Systems Programmer will be responsible for contributing to development
+and operation of an elegant distributed high-performance computing
+infrastructure. This is not a web farm.   Provide hands-on contribution in
+designing, deploying and maintaining the service.   Support Linux-based
+production systems.   Provide on-call and scheduled support for the
+production service. 
+
+
+Required skills:
+Required Skills
+•	Expertise with Linux systems administration, RH, CentOS 
+•	Perl programming for systems administration. Work with the
+production platform as a programmable entity 
+•	Ability to build a TCP/IP network, with address allocation, domain
+name services, mail services, web services, database services, file
+services, security services 
+•	Nagios with perl-based extensions 
+•	Package management (RPM, yum), kickstart 
+•	5+ years in an operations/engineering environment, contributing
+directly to systems design, deployment and administration 
+•	Operational excellence wrt processes, delivery, documentation, and
+continuous improvement 
+
+
+Desired skills:
+Desired Skills
+•	Large-scale infrastructure experience (100s – 1000s of servers,
+10K-100K processes) 
+•	IMAP, LDAP, ICAL based services (Zimbra, Postfix) 
+•	Cacti, rrdtool, SNMP-based monitoring 
+•	puppet and other configuration management/deployment systems 
+•	High-performance clustered computing 
+•	Network configuration (Cisco) 
+•	MySQL administration and SQL programming 
+•	Search engine or service provider experience 
+•	Fluency in Klingon 
+
+
+URL for more information: http://www.rockstarrecruiters.com/
+
+Contact information at:
+http://jobs.perl.org/job/10780#contact
+
+

@@ -1,0 +1,94 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3496
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 18745 invoked from network); 23 Nov 2005 02:30:48 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 23 Nov 2005 02:30:48 -0000
+Received: (qmail 2272 invoked by uid 225); 23 Nov 2005 02:30:48 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 2265 invoked by alias); 23 Nov 2005 02:30:46 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 22 Nov 2005 18:30:39 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id jAN2UaBd000936
+	for <jobs@perl.org>; Tue, 22 Nov 2005 18:30:36 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id jAN2UaOJ000934;
+	Tue, 22 Nov 2005 18:30:36 -0800
+Date: Tue, 22 Nov 2005 18:30:36 -0800
+Message-ID: <200511230230.jAN2UaOJ000934@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Build Flow Architect (onsite), United States, CA, Santa Clara
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3343
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 22, 2005
+
+Job title: Build Flow Architect
+
+Company name: Nvidia
+
+Internal ID: 709292
+
+Location: United States, CA, Santa Clara
+
+Pay rate: Negotiable
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+BUILD FLOW ARCHITECT #709292
+
+RESPONSIBILITIES/DESCRIPTION:
+- Generate build flow methodology for large C models for both Linux and
+.NET environments.  Create and maintain build scripts and build automation
+tools.	Identify and eliminate performance hurdles.
+- The successful candidate will have Make expertise and strong C++ and PERL
+programming background.  In this capacity, the architect will be expected
+to become familiar with NVIDIA current build flows and recommend areas of
+improvements.  Data should be collected from the current systems to justify
+the recommended changes.
+
+Required skills:
+MINIMUM REQUIREMENTS:
+-Exceptional C++ and PERL programming skills on large projects required. 
+-Demonstrated skill using Make
+-Object oriented programming skills required, familiarity with design
+patterns desired. 
+-Experience with Windows and Unix networking.  
+-BS in Computer Science, Engineering, Mathematics, Physics, or related
+field, with 5+ yrs relevant industry experience required. 
+
+Desired skills:
+HIGHLY DESIRED SKILLS:
+-Experience with massive distributed computing and scheduling tools (such
+as LSF or Grid Engine) strongly desired.
+
+URL for more information:
+http://careerportal.resumix.com/pljb/nvidia/nvidiaemployment/applicant/jobC
+lick.jsp?count=1&id=1369
+
+Contact information at:
+http://jobs.perl.org/job/3343#contact
+
+

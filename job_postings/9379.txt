@@ -1,0 +1,135 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9379
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 10185 invoked from network); 31 Jul 2009 02:15:37 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 31 Jul 2009 02:15:37 -0000
+Received: (qmail 12107 invoked by uid 225); 31 Jul 2009 02:15:37 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 12102 invoked by alias); 31 Jul 2009 02:15:36 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 30 Jul 2009 19:15:31 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id E27F82AFE2; Thu, 30 Jul 2009 19:15:27 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20090731021527.E27F82AFE2@x3.develooper.com>
+Date: Thu, 30 Jul 2009 19:15:27 -0700 (PDT)
+Subject: Yahoo! Senior Deployment Tools Engineer (Perl/MySQL)  (onsite), United States, CA, Sunnyvale
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/10914
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 30, 2009
+
+Job title:
+Yahoo! Senior Deployment Tools Engineer (Perl/MySQL) 
+
+Company name: Yahoo, Inc
+
+Internal ID: 23142
+
+Location: United States, CA, Sunnyvale
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Position: Yahoo! Senior Deployment Tools Engineer (Perl/MySQL) 
+Location: Sunnyvale, CA
+Job ID: 23142
+
+About Yahoo!
+
+Think about impacting 1 out of every 2 people online--in innovative and
+imaginative ways that are uniquely Yahoo!. We do just that each and every
+day, and you could too. After all, it's big thinkers like you who will
+create the next generation of Internet experiences for consumers and
+advertisers across the globe. Now's the time to show the world what you've
+got. Put your ideas to work for over half a billion people.
+
+About Business group or Product:
+Yahoo!'s Developer Tools Team provides productivity solutions to thousands
+of employees in every Yahoo! location worldwide.  Our tools portfolio
+includes open-source and homemade systems covering everything from defect
+and source-code management, through build systems, and on to packaging and
+deployment.  We also manage a large internal documentation system and
+provide language platform infrastructure, specifically in Perl and Java.
+
+Our customers are thousands of internal developers, service engineers, QA
+engineers and project managers.  We support deployment to hundreds of
+thousands of hosts, and have some of the largest developer databases in the
+world.	If you're interested in working in large-scale streamlined
+engineering solutions, the Yahoo! Developer Tools Team is the place to be.
+We're a medium-sized team that continues to grow rapidly.  We have a strong
+commitment to open source software, both as consumers and contributors.
+
+Job Responsibilities:
+We're now looking to hire a top-notch developer to work on our next
+generation deployment tools.  You'll be building systems that need to
+support deployment profiles as small as a few individual hosts up to very
+large-scale infrastructure of 10^4, ^5 or ^6 real and virtual machines.
+
+Most of our existing toolset is written in Perl, with some PHP and Java. 
+Our database solution is usually MySQL but you should have strong
+experience in memory-based caching solutions.  
+
+You'll need to have worked on large-scale distributed systems, and have a
+thorough understanding of network architecture and security needs
+
+You must have demonstrated experience in scaleable, object-oriented design.
+ You'll be passionate about delivering high-quality, maintainable code,
+with a full test suite and with the appropriate documentation. 
+
+===  Skills and Experience ===
+The system you'll be building will be the backbone of Yahoo!'s deployment
+infrastructure for many years to come.	We expect skills and experience
+that match.
+
+Minimum Job Qualifications:
+* BSc in Computer Science or related discipline
+* 8 years of development experience, including at least:
+  * 4 years Perl
+  * 6 years MySQL
+  * 2 years in one of PHP, Java or Python.
+* Demonstrated production of high-quality documentation. 
+* Excellent communication skills
+* Strong Unix skills
+
+Preferable Job Qualifications:
+* MSc in Computer Science
+* 4+ years building installers or deployment systems
+* Verifiable contributions to open source software
+* Experience in Agile software practices
+
+PLEASE APPLY DIRECTLY HERE: 
+http://careers.yahoo.com/jdescription.php?oid=23142
+
+Yahoo! Inc. is an equal opportunity employer. For more information or to
+search all of our openings please visit http://careers.yahoo.com.
+
+
+Required skills: Perl, MySql
+
+Desired skills: Perl, MySql
+
+URL for more information:
+http://careers.yahoo.com/jdescription.php?oid=23142
+
+Contact information at:
+http://jobs.perl.org/job/10914#contact
+
+

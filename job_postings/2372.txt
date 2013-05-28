@@ -1,0 +1,99 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2372
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 27683 invoked from network); 17 Feb 2005 11:07:59 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 17 Feb 2005 11:07:59 -0000
+Received: (qmail 14910 invoked by uid 225); 17 Feb 2005 11:07:59 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 14906 invoked by alias); 17 Feb 2005 11:07:58 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 17 Feb 2005 03:07:55 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j1HB7r2f026624
+	for <jobs@perl.org>; Thu, 17 Feb 2005 03:07:53 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j1HB7rV3026622;
+	Thu, 17 Feb 2005 03:07:53 -0800
+Date: Thu, 17 Feb 2005 03:07:53 -0800
+Message-ID: <200502171107.j1HB7rV3026622@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Senior Perl Programmer - Data processing (telecommute), Australia, NSW, Sydney
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2271
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 17, 2005
+
+Job title: Senior Perl Programmer - Data processing
+
+Company name: Rapid Intelligence Pty Ltd
+
+Internal ID: SPP03
+
+Location: Australia, NSW, Sydney
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: indefinite
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+Rapid Intelligence Pty Ltd is a Sydney-based web publishing company that
+builds large, popular websites using data warehousing and web mining
+techniques. One such site is NationMaster.com
+
+This is an initial project leading to full time work, if successful. The
+job will involve taking data from the web, converting it (adding value) and
+placing it into a database for viewing on websites.
+
+
+Required skills:
+* Advanced Perl 
+* Competence with regular expressions and Perl data structures. 
+* Text processing experience
+* HTML (both writing and parsing) 
+* Good communication skills in English. 
+
+Desired skills:
+Highly desirable skills: 
+
+* Experience developing web agents (bots) 
+* Ability to improvise and use initiative to deal with different data
+formats. 
+* Knowledge of statistics 
+* PHP
+* Perl OO 
+* Mysql 
+
+Desirable skills: 
+
+* System administration for Linux/Apache/Mysql/PHP&Perl 
+* High level of literacy in English
+* Javascript
+
+Contact information:
+Contact Luke Metcalfe at : 
+
+$email = 'jobseekerz@rapint.com'
+$email =~ s/z/s/;
+
+

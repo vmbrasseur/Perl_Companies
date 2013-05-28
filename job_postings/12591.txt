@@ -1,0 +1,89 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12591
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28949 invoked from network); 21 Jul 2012 16:27:30 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 21 Jul 2012 16:27:30 -0000
+Received: (qmail 16662 invoked by uid 225); 21 Jul 2012 16:27:30 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 16658 invoked by alias); 21 Jul 2012 16:27:30 -0000
+X-Spam-Status: No, hits=-1.0 required=8.0
+	tests=ALL_TRUSTED,BAYES_20
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 21 Jul 2012 09:27:27 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id D30A72AFE0; Sat, 21 Jul 2012 09:27:23 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 21 Jul 2012 09:27:23 -0700
+Message-ID: <20120721162723.D30A72AFE0@x3.develooper.com>
+Subject: Perl developer (onsite), Cape Town, South Africa
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16248
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 21, 2012
+
+Job title: Perl developer
+
+Company name: Busii
+
+Internal ID: stb20120701
+
+Location: Cape Town, South Africa
+
+Pay rate:
+R15000-R40000 pm depending on level of experience and relevant expertise
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are looking for Perl developers keen to further their careers in data
+integration, business intelligence and ETL.  Busii is a small consulting
+firm, providing BI services to some of South Africa's largest blue chip
+companies, as well as some smaller concerns. The development team is
+located in Cape Town, while the clients are situated in Johannesburg and
+Western Cape. 
+
+Your responsibilities will include:
+- Working with the rest of the team in Cape Town 
+- Communicating with business analysts to understand specifications
+- Development of SQL reports
+- Design and development of ETL and reporting scripts
+- Testing 
+- Documentation
+- Some operational support of batch jobs in production
+- Occasional travel to client sites 
+
+SA citizens or work permit holders only
+
+Required skills:
+We need someone with strong problem solving skills, who is self-motivated,
+eager to learn and has the ability to rapidly assimilate new concepts. 
+
+Technical skills:
+- Linux/Unix shell and editors
+- SQL in a reporting environment
+- SCM tools, preferably Subversion
+- Most importantly – Perl
+
+Desired skills:
+Experience with automated testing using the Perl test modules
+
+Website for more information: http://www.busii.com
+
+Contact information at:
+http://jobs.perl.org/job/16248#contact

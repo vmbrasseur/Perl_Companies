@@ -1,0 +1,89 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:1832
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 22543 invoked from network); 14 Aug 2004 02:40:00 -0000
+Received: from x1.develooper.com (63.251.223.170)
+  by lists.develooper.com with SMTP; 14 Aug 2004 02:40:00 -0000
+Received: (qmail 16964 invoked by uid 225); 14 Aug 2004 02:39:59 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 16960 invoked by alias); 14 Aug 2004 02:39:59 -0000
+X-Spam-Status: No, hits=-4.9 required=8.0
+	tests=BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.dev) (63.251.223.163)
+  by la.mx.develooper.com (qpsmtpd/0.27.1) with ESMTP; Fri, 13 Aug 2004 19:39:57 -0700
+Received: from x3.dev (localhost.localdomain [127.0.0.1])
+	by x3.dev (8.12.11/8.12.11) with ESMTP id i7E2ds2r031865
+	for <jobs@perl.org>; Fri, 13 Aug 2004 19:39:54 -0700
+Received: (from jobs@localhost)
+	by x3.dev (8.12.11/8.12.11/Submit) id i7E2dsY0031863;
+	Fri, 13 Aug 2004 19:39:54 -0700
+Date: Fri, 13 Aug 2004 19:39:54 -0700
+Message-ID: <200408140239.i7E2dsY0031863@x3.dev>
+X-Authentication-Warning: x3.dev: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Perl/MySQL programmer for job match site (telecommute), United States, California, Los Angeles
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1722
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 13, 2004
+
+Job title: Perl/MySQL programmer for job match site
+
+Company name: Table 20
+
+Location: United States, California, Los Angeles
+
+Pay rate: $800
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: 1 - 2 weeks
+
+Hours: Part time
+
+Onsite: no
+
+Description:
+I need to make some additional mods to Mojoscripts Personals software - a
+Perl/CGI script that uses MySQL. 
+
+The end product will be a job matching tool/service for the restaurant
+industry.
+
+An initial round of modifications have already been made by another. I'm
+looking for an experienced, well organized and efficient programmer to wrap
+it up.
+
+The basic gist of the changes/additions revolve around providing a specific
+user type the capability of searching candidates, selecting multiple
+candidates, creating multiple Hotlists and sending mass emails.
+
+Additional Info:
+http://www.mojoscripts.com
+http://www.mojoscripts.com/docs/classified/personalsmysql/
+http://www.mojoscripts.com/products/mojopersonals-mysql/features.shtml
+
+The Mojoscripts demo site is here -
+http://www.mojoscripts.com/demo/mojoclasssql3/mojoClassified.cgi?type=membe
+r - You will need to register.
+
+
+Required skills: MySQL, Javascript
+
+Contact information:
+mail@trevorsmith.com
+www.trevorsmith.com
+
+

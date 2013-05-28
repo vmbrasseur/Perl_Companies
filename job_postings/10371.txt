@@ -1,0 +1,134 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10371
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 31238 invoked from network); 28 Jul 2010 19:46:51 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 28 Jul 2010 19:46:51 -0000
+Received: (qmail 24005 invoked by uid 225); 28 Jul 2010 19:46:51 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 24001 invoked by alias); 28 Jul 2010 19:46:50 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS,T_LOTS_OF_MONEY
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 28 Jul 2010 12:46:49 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 32B062AFD3; Wed, 28 Jul 2010 12:46:46 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20100728194646.32B062AFD3@x3.develooper.com>
+Date: Wed, 28 Jul 2010 12:46:46 -0700 (PDT)
+Subject: Systems Availability Engineer (onsite), Malaysia, Cyberjaya
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/12576
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 23, 2010
+
+Job title: Systems Availability Engineer
+
+Company name: BetOnMarkets.com
+
+Location: Malaysia, Cyberjaya
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Join the BetOnMarkets development team in Malaysia! We are a strong
+Perl-focused team with talented developers from all over the world.
+
+History of the company
+
+Regent Markets Group was founded in 1999 as an affiliate of Regent Pacific
+Group Ltd., a company listed on the Hong Kong Stock Exchange. The Company's
+subsidiaries obtained licenses in Malta in 2000 and the Isle of Man in
+2003. In 2004, the Company set up a shared services center in Cyberjaya,
+Malaysia. The Company recently celebrated it's 10th anniversary, cementing
+the Company's position as the leading fixed-odds financial betting firm.
+
+The Website: BetOnMarkets.com
+
+BetOnMarkets is the leading financial betting service. BetOnMarkets allows
+anyone to place bets on over 100 currencies, indexes, commodities and
+stocks, from as little as $1 to as much as $25,000 per bet, and
+BetOnMarkets has bets for all market conditions and investment objectives. 
+
+
+BetOnMarkets has over ten years of operating experience, serves over
+150,000 customers from over 100 countries, and is fully licensed and
+regulated in Malta and the Isle of Man. The BetOnMarkets.com website has
+won several awards in the United Kingdom.
+
+The role: Systems Availability Engineer
+
+- Do you dream of Nagios plug-ins and response time graphs? Did you
+recently build a RAID-10 array on your Android-based phone to make sure
+that you would never lose those awesome ringtones you downloaded? Do you
+have two internet connections to your home “just in case”? Do you love
+stability and reliability and want to create more of it in the world? If
+so, then BetOnMarkets wants to talk to you about our open Systems
+Availability Engineer position.
+
+- BetOnMarkets’ world-class IT development team works hand-in-hand with an
+experienced system administration team to deliver 24x7 fixed odds betting
+on financial markets. With datacenters on four continents and real-time
+data feeds from around the world, uptime and reliability are lynchpins to
+our business success. With your experience and skills, you can contribute
+substantially as we create a client experience that is second to none.
+
+Job responsibilities:
+
+- Design and implement monitoring systems using a combination of open
+source systems and proprietary code;
+- Analyze existing and new systems for reliability and scalability;
+- Re-factor existing data storage and communication mechanisms to increase
+reliability, reduce latency, and improve system robustness;
+- In conjunction with the system administration team, evaluate existing
+networking and security designs to locate potential points of failure and
+to eradicate them;
+- Work within an Agile development environment and collaborate effectively
+with teammates.
+
+Job Benefits:
+
+- Work with very talented Perl developers from all over the world
+- Competitive salary, bonus scheme, health insurance, and other company
+benefits
+- Experience the life and culture of Malaysia
+- Work permit and relocation to Malaysia arranged by the company
+
+
+Required skills:
+- Noteworthy experience with tools such as Nagios, Zenoss, Cacti, and/or
+OpenView.
+- Experience with virtualization environments such as OpenVZ or Xen,
+particularly in the area of monitoring.
+- Working knowledge of Linux system administration, including:
+ - Disk partitioning and RAID layouts
+ - Filesystem optimization
+ - Troubleshooting I/O, network, and CPU-related performance issues. 
+ - Database performance tuning (Postgres, MySQL).
+- Solid knowledge of Perl (preferably including OO Perl) and bash.
+- Ability to write high-quality, self-documenting code.
+- Enthusiasm for Linux and open-source systems.
+- Motivation, enthusiasm and excellent communication skills.
+
+URL for more information: http://www.betonmarkets.com/
+
+Contact information at:
+http://jobs.perl.org/job/12576#contact
+
+

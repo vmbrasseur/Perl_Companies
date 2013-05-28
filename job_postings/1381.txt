@@ -1,0 +1,170 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:1381
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 98494 invoked by uid 76); 26 Feb 2004 05:05:33 -0000
+Received: from x1.develooper.com (HELO x1.develooper.com) (63.251.223.170) by onion.perl.org (qpsmtpd/0.26) with SMTP; Wed, 25 Feb 2004 21:05:33 -0800
+Received: (qmail 9854 invoked by uid 225); 26 Feb 2004 05:05:31 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 9821 invoked by alias); 26 Feb 2004 05:05:15 -0000
+Received: from [63.251.223.166] (HELO onion.perl.org) (63.251.223.166)  by la.mx.develooper.com (qpsmtpd/0.27-dev) with SMTP; Wed, 25 Feb 2004 21:05:15 -0800
+Received: (qmail 98389 invoked by uid 1016); 26 Feb 2004 05:05:14 -0000
+Date: 26 Feb 2004 05:05:14 -0000
+Message-ID: <20040226050514.98388.qmail@onion.perl.org>
+To: jobs@perl.org
+X-Spam-Checker-Version: SpamAssassin 2.63 (2004-01-11) on x1.develooper.com
+X-Spam-Status: No, hits=-4.9 required=8.0 tests=BAYES_00 autolearn=ham 	version=2.63
+X-SMTPD: qpsmtpd/0.26, http://develooper.com/code/qpsmtpd/
+Subject: Software Engineer (onsite), United States, California, West Hollywood
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1267
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 25, 2004
+
+Job title: Software Engineer
+
+Company name: Ticketmaster.com
+
+Internal ID: INTL-8
+
+Location:
+United States, California, West Hollywood
+
+Pay rate: Commensurate with Skills
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Length of employment: Regular Hire
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+OK, Here's the deal. We're looking for a perl "guru" who has extensive
+experience in development for high-volume, high-transaction web situations.
+We have monster peak loads, which are great challenges so if that peaks
+your interest, no pun intended, AND you have the experience, drop me a
+resume. Be sure to put "INT-8" in your subject line and send your resume to
+techjobs@ticketmaster.com.
+
+Now a little about our backend... We run the typical racks of linux pizza
+boxes running apache, mod_perl, etc. with big-iron Solaris boxes running
+Oracle. We're a big open-source place but pragmatic and use commercial apps
+where appropriate (e.g., Oracle). We're a leading mod_perl house and are
+also big fans of Template Toolkit (http://www.template-toolkit.com/). If
+that all sounds great, and you have the experience, you know what to do.
+BTW: We have a killer dev team so I'm sure you'd fit right in ;)
+
+Below is the more "formal" job description ----
+
+***************************************************************
+Title: Software Engineer
+Company: Ticketmaster.com
+Location: West Hollywood, California
+Recruiter: techjobs@ticketmaster.com
+Job Code: INT-8 (put in subject line of email)
+Note: You will be applying to the corporate recruiting department (not 
+a contingency agency).
+***************************************************************
+
+General Description:
+-------------------------
+The Software Engineer will be responsible for core, back-end technology
+development including the design/architecture of new solutions and the
+refinement of existing code.
+
+Organizational Culture:
+-------------------------
+Ticketmaster is a fast growth company. Candidate must thrive in a
+fast-paced, ever changing, entrepreneurial environment. Individual must be
+able to work independently as well as collaboratively. Must be resourceful
+and be able to understand the full breadth of how the company works
+together.  Individual must be a creative thinker, confident and able to
+express ideas in an articulate, well thought out manner. Ability to
+multi-task and prioritize deadlines is a must.
+
+Workflow:
+-------------------------
+Develop core back-end technologies, primarily mod_perl development for a
+leading, high-volume web organization. As part of development group, you
+will work closely with your team members, the templating/HTML programming
+group (HTML and Template Toolkit), and the UI/Strategy group. You will be
+responsible for integrating new functionality into our existing code base
+as well as aiding in the architecture, design, and implementation of new
+core technologies.
+
+Essential Functions:
+-------------------------
+75%: Coding/Development: Perl development in a
+     Linux/UNIX environment.
+
+10%: Design: Approx. design of new systems and architecture.
+
+10%: Troubleshooting: troubleshooting
+
+5%:  Documentation and communication.
+
+NOTE: While we list travel at 0-25% this really isn't an absoluter
+requirement. There is potential for some travel if we deploy an
+international site, but travel would be quite low for this position if at
+all.
+
+
+Required skills:
+Required Experience:
+-------------------------
+- Solid, proven perl "guru" status
+- 3+ yrs. experience
+- HTML
+- Apache Web Server
+- strong Linux or Unix background.
+- experience accelerating dynamic web content through caching
+- OO perl experience
+- RDBMS experience
+
+
+Desired skills:
+Preferred Experience:
+-------------------------
+- Degree in Computer Science or Mathematics
+- mod_perl coding experience (not just ModPerl::Registry)
+- Exposure to C/C++ programming (especially apache, apache API,
+  C module development)
+- Strong proficiency with RDMS systems (Oracle and mySQL ideal)
+- Java experience/exposure
+- Experience with mentoring/training of junior members
+- A strong background in algorithm/data structure design and implementation
+
+- Past experience as a system administrator
+
+Company Position:
+------------------------------
+Ticketmaster, the world's leading ticketing company, sold more than 95
+million tickets valued at more than $4 billion in 2002, through
+www.ticketmaster.com, one of the largest e-commerce sites on the Internet,
+more than 3,500 retail Ticket Center outlets and 19 worldwide telephone
+call centers. Ticketmaster serves more than 8,000 clients worldwide and
+acts as the exclusive ticketing service for hundreds of leading arenas,
+stadiums, performing arts venues, and theaters and is the official
+ticketing provider and supporter of the Athens 2004 Olympic Games.
+Ticketmaster is headquartered in West Hollywood, California and is an
+operating business of IAC/InterActiveCorp (NASDAQ: IACI).
+
+Ticketmaster is proud to be an equal opportunity employer
+
+Contact information:
+Please apply to: techjobs@ticketmaster.com
+Please put "INT-8" in the subject of your email.
+
+

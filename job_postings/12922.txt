@@ -1,0 +1,114 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12922
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 18309 invoked from network); 23 Nov 2012 23:49:05 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 23 Nov 2012 23:49:05 -0000
+Received: (qmail 442 invoked by uid 225); 23 Nov 2012 23:49:04 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 433 invoked by alias); 23 Nov 2012 23:49:04 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 23 Nov 2012 15:49:01 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 690182AFDF; Fri, 23 Nov 2012 15:48:58 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 23 Nov 2012 15:48:58 -0800
+Message-ID: <20121123234858.690182AFDF@x3.develooper.com>
+Subject: Junior Perl Developer (onsite), Fleet, Hampshire, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16734
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 23, 2012
+
+Job title: Junior Perl Developer
+
+Company name: CV-Library
+
+Internal ID: Junior Perl Developer
+
+Location: Fleet, Hampshire, UK
+
+Pay rate: Competitive
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The Role
+========
+
+Perl programmer.  You will work as part of a small, agile development
+team, to maintain and improve our various web properties.
+
+We are continuously improving our processes; we are using pair
+programming, code review (with Gerrit) and continuous integration
+(with Jenkins running our Test::Class unit tests) to increase our code
+quality.  We have daily standups, and weekly demos and retrospectives.
+
+You will have access to:
+
+ *  Quiet working conditions
+ *  High quality dual monitors
+ *  High spec PC
+ *  Laid back dress code
+ *  Generous amounts of tea/coffee
+
+The salary for this role is entirely dependent on experience.
+
+Based at the Waterfront Business Park, Fleet, you will work just a 2
+minute walk away from the mainline station with direct links to London
+Waterloo, Basingstoke, Winchester and Southampton.
+
+About You
+=========
+
+Experience with any of the following would be advantageous:
+
+ *  Moose, or OO generally
+ *  Catalyst, or other MVC web frameworks
+ *  HTML::FormHandler
+ *  Template Toolkit
+ *  Plack
+ *  mod_perl
+ *  Revision control with Subversion and/or Git
+
+About CV-Library
+================
+
+CV-Library is one of the UK's largest online job sites and attracts
+over 2 million unique jobseekers every month.  With a client list
+crammed full of the biggest brand names in recruitment and also a
+healthy mix of corporate clients who regularly use our services, we
+are rapidly evolving into one of the biggest and most dynamic online
+media organisations in the UK, and the exciting news is we're growing
+beyond all expectations!
+
+Over 140,000 people register to find jobs with us every month and make
+over 1 million job applications, making us a must have service for the
+recruitment industry and cementing our position as the "fastest
+growing job board in the UK".
+
+Required skills: Perl, MySQL
+
+Desired skills:
+Moose, HTML::FormHandler, DBIx::Class, Plack, mod_perl, Catalyst, Template
+Toolkit, git, svn
+
+Contact information at:
+http://jobs.perl.org/job/16734#contact

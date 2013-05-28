@@ -1,0 +1,87 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2675
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 32237 invoked from network); 5 May 2005 00:27:17 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 5 May 2005 00:27:17 -0000
+Received: (qmail 11732 invoked by uid 225); 5 May 2005 00:27:16 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11728 invoked by alias); 5 May 2005 00:27:16 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 04 May 2005 17:27:13 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j450RAq6023219
+	for <jobs@perl.org>; Wed, 4 May 2005 17:27:10 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j450RAfd023217;
+	Wed, 4 May 2005 17:27:10 -0700
+Date: Wed, 4 May 2005 17:27:10 -0700
+Message-ID: <200505050027.j450RAfd023217@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: unix sysadmin/perl programmer (onsite), United States, PA, Philadelphia
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2569
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May  4, 2005
+
+Job title: unix sysadmin/perl programmer
+
+Company name: IC Group
+
+Location: United States, PA, Philadelphia
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+IC Group needs a Unix sysadmin to manage our network of Linux machines. 
+Our services are based around email for both individuals and corporate
+customers.  We use Linux, Apache, MySQL, Perl, and Postfix.
+
+You would be a good fit if you
+* have 3-5 years' experience administrating Unix machines in a commercial
+setting
+* live near Philadelphia or are willing to move here
+* work efficiently without much supervision (are self-directed)
+* are lazy enough to automate common tasks so that you don't have to keep
+doing them over and over
+
+Some local travel is required as necessary to deal with remotely hosted
+travel; we will provide a car, but you will need a driver's license.
+
+Required skills:
+* Linux (especially Debian)
+* Unix fundamentals; e.g. inodes, superblocks, swap, pipes, devices,
+permissions
+* Unix security basics
+* configuration for Apache, mail servers, databases, and other third-party
+software
+* common networking protocols, e.g. smtp, http, dns, ssh
+* Bourne shell
+* well-organized Perl as glue between programs/machines/data sources
+
+URL for more information: http://www.pobox.com/
+
+Contact information at:
+http://jobs.perl.org/job/2569#contact
+
+

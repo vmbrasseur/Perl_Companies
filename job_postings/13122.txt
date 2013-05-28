@@ -1,0 +1,99 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13122
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 18312 invoked from network); 5 Feb 2013 05:27:46 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 5 Feb 2013 05:27:46 -0000
+Received: (qmail 12149 invoked by uid 225); 5 Feb 2013 05:27:46 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 12142 invoked by alias); 5 Feb 2013 05:27:46 -0000
+X-Spam-Status: No, hits=-1.3 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,LOTS_OF_MONEY,SUBJECT_NEEDS_ENCODING,SUBJ_ILLEGAL_CHARS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 04 Feb 2013 21:27:43 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 2F0FE2AFE0; Mon,  4 Feb 2013 21:27:40 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 4 Feb 2013 21:27:40 -0800
+Message-ID: <20130205052740.2F0FE2AFE0@x3.develooper.com>
+Subject: Software Developer - Perl / SQL – Ref: 81374 (onsite), Cambridge, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16983
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February  4, 2013
+
+Job title: Software Developer - Perl / SQL – Ref: 81374
+
+Company name: Wellcome Trust Sanger Institute
+
+Location: Cambridge, UK
+
+Pay rate:
+Salary: £27,589 - £38,067 per annum dependent on experience
+
+Terms of employment: Salaried employee
+
+Length of employment: 2 years
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are looking for an enthusiastic software developer/engineer with
+particular experience in Perl and SQL to join our successful COSMIC team
+located at the Sanger Institute, near Cambridge in the UK.
+COSMIC (http://cancer.sanger.ac.uk) is a large cancer genetics database &
+websystem designed to hold the world’s knowledge on DNA mutations in human
+cancer, providing multiple methods to mine complex data for new
+discoveries. We are currently looking to enhance the system by adding new
+types of information; this will require the creation of new reliable and
+automated software to pipeline biological data into our database, and novel
+tools to mine it.
+
+Working closely within the existing COSMIC team, this role will
+systematically identify genomic datasets from major international sources
+such as the ICGC and TCGA, create a relational database to store them and
+build software to automatically annotate and upload the data. 
+
+An important focus will be to ensure the efficient and precise management
+of pipelines and database systems to maximise the accuracy and speed of
+data migration. The development of analysis tools will be determined within
+the team, and also in discussion with our scientific collaborators. All the
+data curated and all the systems built will be made publicly and freely
+available to maximise the usefulness of COSMIC, with the ultimate aim of
+supporting the development of improved therapies against human cancer.
+
+Required skills:
+Good degree in Computer Science or Bioinformatics, or significant
+professional experience
+
+Familiarity with developing in UNIX/Linux environment
+
+Software engineering skills with a primary focus on using 
+PERL across large datasets and databases
+
+ORACLE/MySQL relational databases
+
+Enjoy working as part of a team.
+
+Desired skills:
+CGI Web development, experience of biological data.
+
+Website for more information:
+https://jobs.sanger.ac.uk/wd/plsql/wd_portal.show_job?p_web_site_id=1764&p_
+web_page_id=161595&p_no_apply=Y&p_show=Y&p_seo=noindex
+
+Contact information at:
+http://jobs.perl.org/job/16983#contact

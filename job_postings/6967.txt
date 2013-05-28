@@ -1,0 +1,80 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6967
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 7899 invoked from network); 18 Sep 2007 14:41:47 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 18 Sep 2007 14:41:47 -0000
+Received: (qmail 11486 invoked by uid 225); 18 Sep 2007 14:41:46 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11475 invoked by alias); 18 Sep 2007 14:41:46 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 18 Sep 2007 07:41:38 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id F27232AFD7; Tue, 18 Sep 2007 07:41:34 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070918144134.F27232AFD7@x3.develooper.com>
+Date: Tue, 18 Sep 2007 07:41:34 -0700 (PDT)
+Subject: Software Engineer (onsite), United States, Georgia, Atlanta
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/6757
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 18, 2007
+
+Job title: Software Engineer
+
+Company name: LodgeNet-StayOnline, Inc.
+
+Internal ID: LAMP02
+
+Location: United States, Georgia, Atlanta
+
+Pay rate: $60K-$90K based on exp.
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The focus will be on providing ongoing improvements and optimization to the
+company's existing broadband (wired and Wi-Fi) visitor-based network (VBN)
+server software. Upon completion of the re-factoring, there will be an
+opportunity to join the development of the next-generation technology
+platform.
+
+This position reports directly to the Software Development Manager and
+offers tremendous opportunity for professional growth. You will be highly
+skilled and well-motivated, and possess the ability to jump straight in and
+get your hands dirty without much in the way of supervision.
+
+Required skills:
+• 5+ yrs solid LAMP experience
+• Perl (w/Apache mod_perl, Class::DBI), HTML::Mason, SQL
+• Extensive Apache (modules, config, rewrite, proxy, ssl)
+• Advanced UNIX dev experience (OpenBSD 3.2 a BIG plus!)
+• Excellent written and oral communication skills
+
+Desired skills:
+• 802.11 networks, VLANs, dns, nat, snmp, cdp
+• Heavy 'pf' (OpenBSD)
+• Perl optimization
+
+Contact information at:
+http://jobs.perl.org/job/6757#contact
+
+

@@ -1,0 +1,79 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9113
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 14697 invoked from network); 6 Apr 2009 23:45:48 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 6 Apr 2009 23:45:48 -0000
+Received: (qmail 26321 invoked by uid 225); 6 Apr 2009 23:45:47 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 26316 invoked by alias); 6 Apr 2009 23:45:47 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 06 Apr 2009 16:45:45 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 18B8F2AFE1; Mon,  6 Apr 2009 16:45:41 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20090406234542.18B8F2AFE1@x3.develooper.com>
+Date: Mon,  6 Apr 2009 16:45:41 -0700 (PDT)
+Subject: OO Perl/XSLT Developer (onsite), United States, CA, Santa Clara
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/10314
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March  6, 2009
+
+Job title: OO Perl/XSLT Developer
+
+Company name: WhiteHat Security
+
+Internal ID: dev343
+
+Location: United States, CA, Santa Clara
+
+Pay rate: market
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Join our team to help build out our API using perl, XML and XSLT. We are
+looking for a dynamic team oriented developer that enjoys working in an
+agile development environment. 
+
+You will be working on extracting data from our Postgress database and
+exposing it via our RESTful API. This is a critical position as we
+re-architect the core of our data delivery infrastructure.
+
+Required skills:
+- OO Perl
+- XML/XSLT
+- Writing SQL  
+- Linux/Apache
+
+Desired skills:
+- Knowledge of Postgres
+- Knowledge of PHP
+- Experience working in an agile development environment
+- Experience writing RESTful APIs
+
+URL for more information: http://www.whitehatsec.com/
+
+Contact information at:
+http://jobs.perl.org/job/10314#contact
+
+

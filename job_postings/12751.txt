@@ -1,0 +1,69 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12751
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 843 invoked from network); 20 Sep 2012 19:15:55 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 20 Sep 2012 19:15:55 -0000
+Received: (qmail 6291 invoked by uid 225); 20 Sep 2012 19:15:54 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 6286 invoked by alias); 20 Sep 2012 19:15:54 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 20 Sep 2012 12:15:52 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id DC59E2AFDE; Thu, 20 Sep 2012 12:15:48 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 20 Sep 2012 12:15:48 -0700
+Message-ID: <20120920191548.DC59E2AFDE@x3.develooper.com>
+Subject: Senior Perl Developer (part onsite), San Francisco, CA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16474
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 20, 2012
+
+Job title: Senior Perl Developer
+
+Company name: VeriFone, Inc.
+
+Location: San Francisco, CA
+
+Pay rate: DOE
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+We’re seeking a talented software developer to join our development team at
+VeriFone.  You will work on a small team with other top-tier developers on
+exciting projects in the payments (web and mobile) space.  
+
+Our office is conveniently located on Market St in downtown San Francisco
+near Montgomery St BART.
+
+Required skills:
+* Perl (obviously)
+* Strong HTML, CSS, and jQuery
+* SQL (we use postgres and mysql)
+* json and xml
+
+Desired skills:
+* Mason, Moos, Rose
+* Linux sysadmin skills are a big plus
+
+Contact information at:
+http://jobs.perl.org/job/16474#contact

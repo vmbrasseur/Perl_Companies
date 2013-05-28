@@ -1,0 +1,212 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8292
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 1009 invoked from network); 14 Jun 2008 08:52:41 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 14 Jun 2008 08:52:41 -0000
+Received: (qmail 11504 invoked by uid 225); 14 Jun 2008 08:52:41 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11500 invoked by alias); 14 Jun 2008 08:52:40 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,WEIRD_PORT
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 14 Jun 2008 01:52:36 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id EF1A82AFF5; Sat, 14 Jun 2008 01:52:32 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080614085232.EF1A82AFF5@x3.develooper.com>
+Date: Sat, 14 Jun 2008 01:52:32 -0700 (PDT)
+X-Virus-Checked: Checked
+Subject: Perl Developer (onsite), Bulgaria, USA, California, Sofia, San Jose
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8932
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 11, 2008
+
+Job title: Perl Developer
+
+Company name: Mochanin
+
+Location:
+Bulgaria, USA, California, Sofia, San Jose
+
+Pay rate: USD, BG LEVA
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Flexible
+
+Onsite: yes
+
+Description:
+Mocha Cpanel Add-on Service
+
+Целта е добавяне на допълнителна функционалност към контролният панел 
+посредством  HTTP  комуникаця между  web  базиран application и  service
+които слуша на определен порт.
+Основни условия при направата на Deamon:
+1.	Сигурност
+a.	SSL криптиране между клиента и сървъра
+b.	Authentication	със локален потребител и парола чрез Basic Auth
+c.	Ограничаване  възможността за създаване на връзка по IP
+d.	Предаване на уникален ключ .
+
+2.	Функционалност
+a.	 Възможност за персистиране във файлова база данни (sqlite,db2)
+b.	Комуникация  чрез HTTP	POST заявки
+c.	Ползване на command factory pattern  с цел бъдещо  развиване на 
+софтуера
+Прмиерна успешна сесия:
+(за по лесно нотиране ще използваме GET заявка в случеят )
+Клиента изпращта GET от вида 
+https://test:test@server_name.tld:port/?secret=AABBCCDD&_m=tomcat&_a=restar
+t
+Сървъра би трябвало :
+If(!ssl) return error;
+If(REMOTE_IP != IP_ALLOWED) return error
+If(!Validate Input) return error;
+If(GET=>secret != Local=>secret) return error
+If(test user && test password cant auth via shadow file ) return error
+If(Tomcat module not exist) return error;
+If(can’t call restart function or function not exist) return error;
+Call Tomcat::restart(@params);
+Return result via socket
+При извикването на конкретната функция трябва да има ACL check . За момента
+имаме 3 вида достъп root user “guest”
+
+Предаването на статусите да са на базата на стандартните HTTP 1.1 status
+codes (http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html)
+Т.е  примерно при !IP_ALLOWED  code 403
+При  !GET 405
+Bad Auth 401
+Request Ok 200
+Etc
+
+
+Mocha Tomcat Cpanel Addon
+
+1.	Административна част (WHM) (функции достъпни само с root
+authentication )
+a.	Add_Package= добавяне на JVM  params(name_memory_size)
+b.	Delete_Package = изтриване на пакета params (name)
+c.	Edit Package – редактиране на пакет params (name)
+d.	List_Package  връща лист с пакетите params( null )
+e.	Add_user добавя потребител с определен пакет
+params(user,package_name)
+f.	Remove_user  - изтрива потребител params user
+g.	List_Users  params – връща лист със всички потребители (null )
+Тези данни трябва да могат да бъдат персистирани в  независима база данни
+(db2 sqlite)
+2.	Потребителска част (Cpanel)
+Потребител не може да има инсталирани повече от един instance.
+За да може потребителят да изпълни всяка една от командите трябва да
+съсшествува във персистираната база
+a.	Install_tomcat - params(tomcat_version)
+Би трябвало да провери потребителят дали има правото да инсталира собствен
+instance
+Да разархивира коректният файл във неговата  home  директория (базирано на
+tomcat_version параметър ). И да преконфигурира server.xml  (смени
+портовете, те трябва да са инкрементни за да не се дублират) и да сложи
+правилният лимит в catalina.sh според плана които му е позволено да ползва.
+Инсталира версията по подразбиране на JDK  в директорията на потребителя .
+Създава jdkhome  описващ правилният път .Също така и да създаде include фйл
+с коректният мапинг.
+
+
+b.	Remove_tomcat params( null ) – Изтрива инсталацята за конкретният
+потребител
+c.	Start_tomcat - изпълнява catalina.sh start
+d.	Stop_tomcat  - изпълнява catalina.sh stop
+e.	Restart_tomcat - изпълнява catalina.sh restart
+f.	Add Mapping    - Добавя нов мапинг  
+g.	List_Mappings  - връща лист със всички мапинги	(листа трябва да
+бъде във вида index,msg)
+h.	Delete_ Mapping  Изтива мапинг	param(index)
+i.	Map_All =  Пренасочва всички заявки да се обслужват от JVM
+j.	Change_JDK- Променя JDK версията  param  (version) разархивира	JDK
+версията в потребителската директория  промения  jdkhome  файла рестартира 
+Tomcat.
+
+Възможните версии за инсталация на tomcat са: 
+apache-tomcat-5.5.20.zip
+apache-tomcat-5.5.23.zip
+apache-tomcat-5.5.25.zip
+apache-tomcat-6.0.10.zip
+apache-tomcat-6.0.13.zip
+apache-tomcat-6.0.14.zip
+Възможни JDK  версии:
+JDK5.0_11
+JDK5.0_09
+JDK6.0
+JDK6.0_03
+
+
+Mapping файла представлява:
+ ProxyPass /iHelix http://localhost:4544/iHelix
+ProxyPassReverse /manager http://localhost:4544/manager
+Т.е параметрите които се променят а порт-а  (в зависимост от порта записан
+в server.xm) и директорията която трябва да бъде обслужена от tomcat
+application server
+Редакцията на catalina.sh се свежда до добавяне на 4 допълнителни реда
+веднага след  дефинирането на интерпретатора 
+#!/bin/sh
+export JAVA_HOME=`cat /home/vesco/appservers/jdkhome`
+export JRE_HOME=$JAVA_HOME
+export CATALINA_HOME=/home/vesco/appservers/apache-tomcat-5.5x/
+export JAVA_OPTS="-Xmx64000000 -Djava.awt.headless=true"
+
+Освен стандартните пътища важна опция която се сетва е ="-Xmx64000000
+количество памет който JVM-a може да ползва базирано на предварително
+зададеният пакет.
+В  server.xml се подменят само и единствено портове
+<Server port="4493" shutdown="SHUTDOWN">
+<Connector port="4494" maxHttpHeaderSize="8192"
+	       address="127.0.0.1" maxThreads="150" minSpareThreads="25"
+maxSpar
+eThreads="75"
+	       enableLookups="false" redirectPort="4495" acceptCount="100"
+	       connectionTimeout="20000" disableUploadTimeout="true" />
+Портовете трябва да бъдат уникални за всеки клиент.
+
+
+Структура на директорията
+След инсталация на instance  директорията би трябвало да има следният вид 
+/home/vesco/appservers/ - Home директория на потребител vesco  за
+инсталация на application server
+apache-tomcat-6x – Вътре са намира самият tomcat 
+jdk1.5.0_11 – инсталация на зададеното JDK
+jdkhome – Фаил описващ пътя до current	JDK version.
+
+FTP достъп
+Host : server-lab.net
+User : will be provided
+Pass : will be provided 
+Dir  appservers   – съдържа въпросните версии на  tomcat които могат да
+бъдат инсталирани
+Dir mochad -  съдържа примерен	deamon на perl I client  на php 
+Dir templates – съдържа templates за server.xml за различните врсии на 
+tomcat apache maping file catalina.sh 
+Dir Work – как би трябвало да изглежда крайният резултат след промяната на
+темплеитите.
+
+
+Required skills: Perl Development Experience
+
+URL for more information: http://www.mochanin.com/
+
+Contact information at:
+http://jobs.perl.org/job/8932#contact
+
+

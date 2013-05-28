@@ -1,0 +1,57 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:41
+Return-Path: <amybrownlee@triad.rr.com>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 69916 invoked from network); 15 May 2001 03:01:11 -0000
+Received: from fe5.southeast.rr.com (HELO mail5.triad.rr.com) (24.93.67.52)
+  by onion.valueclick.com with SMTP; 15 May 2001 03:01:11 -0000
+Received: from amybrolaptop ([24.28.246.56]) by mail5.triad.rr.com  with Microsoft SMTPSVC(5.5.1877.687.68);
+	 Mon, 14 May 2001 23:01:08 -0400
+To: <jobs@perl.org>
+Date: Mon, 14 May 2001 23:02:02 -0400
+Message-ID: <MABBLNGKCFGFNEBNEJFEGEAFCAAA.amybrownlee@triad.rr.com>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook IMO, Build 9.0.2416 (9.0.2910.0)
+Importance: Normal
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2615.200
+X-Spam-Rating: onion.valueclick.com 1.6.2 0/1000/N
+Subject: Seeking Perl Job -Telecommute 100%
+Approved: news@nntp.perl.org
+From: amybrownlee@triad.rr.com ("Amy Brownlee")
+
+Hello,
+
+	My name is Amy Brownlee and I am seeking work as a Web Developer utilizing
+Perl, MySQL, and HTML.  I live in Graham, North Carolina and I want to
+telecommute 100%.  I have written a Perl script, login.pl, which take user
+ID, pin and password info, from a HTML form and then validates that the user
+is in a MYSQL table.  Valid members will be sent to register.html to
+complete the registration process. Members that are not in the table are
+taken to a sorry.html page. Register.pl is another Perl script that I have
+written.  It takes registration info from an HTML form, creates a record in
+a MySQL table, and sends an email to an administrator.  Ordertrack.pl is
+another Perl script that I have written that retrieves a customer's order
+shipping info when they enter their order number into the tracking number
+field on an HTML page.  It then searches a MYSQL table and generates an HTML
+page display their shipping info with a link to the UPS website. If the
+order number is not in the table then an invalid order number HTML page is
+generated.
+My pay rate is $40-$60 per hour. I can be reached by email at
+amybrownlee@triad.rr.com or after 6pm at 336-570-0242.
+My resume is available at:
+http://home.triad.rr.com/amyresume/resume.html
+
+Thanks,
+
+Amy Brownlee
+
+
+

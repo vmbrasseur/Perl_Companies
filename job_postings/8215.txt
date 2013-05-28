@@ -1,0 +1,92 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8215
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 19264 invoked from network); 30 May 2008 02:28:03 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 30 May 2008 02:28:03 -0000
+Received: (qmail 21830 invoked by uid 225); 30 May 2008 02:28:03 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 21824 invoked by alias); 30 May 2008 02:28:03 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 29 May 2008 19:28:00 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 2D0502AFEE; Thu, 29 May 2008 19:27:56 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080530022757.2D0502AFEE@x3.develooper.com>
+Date: Thu, 29 May 2008 19:27:56 -0700 (PDT)
+Subject: Catalyst/DBIC/CGI developer for contract work (telecommute), United States, North Carolina, Greensboro
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8822
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 29, 2008
+
+Job title:
+Catalyst/DBIC/CGI developer for contract work
+
+Company name: A3 IT Solutions, LLC
+
+Internal ID: tangperl
+
+Location:
+United States, North Carolina, Greensboro
+
+Pay rate: commensurate with experience
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: as needed
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+We're in need of a mid-level Perl developer to provide "as needed" contract
+support of: a legacy CGI "intranet" application; a recently rebuilt
+Catalyst application that serves about one million requests a day; and
+their accompanying backend MySQL databases.
+
+The job involves: receiving various types of change requests (bugs,
+enhancements, promotion form builds, etc.); making and committing to
+Subversion the necessary changes; pushing the changes through a rollout
+process that involves customer verification and authorization; and finally,
+a release into the production environment.
+
+Some Linux sysadmin duties may also be required to help in the
+administration of the production environment.
+
+The position can be 100% telecommuting, however candidates local to
+Greensboro, NC will have strong consideration. Initial work load estimate
+is 20 to 40 hours per month.
+
+Required skills:
+We're looking for someone that has good experience with Perl and Catalyst
+in a Linux web application environment. This includes at least a good
+knowledge of CGI, the HTTP request life cycle, MySQL and strong knowledge
+of Catalyst and DBIx::Class.
+
+Desired skills:
+An individual with experience deploying Catalyst in a  FastCGI production
+environment will be strongly considered. Also, experience in a real
+DEV/QA/UAT/PROD life-cycle environment including Subversion and Buzilla is
+a real plus.
+
+
+Contact information at:
+http://jobs.perl.org/job/8822#contact
+
+

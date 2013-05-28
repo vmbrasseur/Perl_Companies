@@ -1,0 +1,89 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12742
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 17538 invoked from network); 17 Sep 2012 04:06:38 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 17 Sep 2012 04:06:38 -0000
+Received: (qmail 10210 invoked by uid 225); 17 Sep 2012 04:06:38 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 10206 invoked by alias); 17 Sep 2012 04:06:37 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 16 Sep 2012 21:06:35 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id C93062AFDA; Sun, 16 Sep 2012 21:06:31 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sun, 16 Sep 2012 21:06:31 -0700
+Message-ID: <20120917040631.C93062AFDA@x3.develooper.com>
+Subject: Senior Programmer (onsite), Philadelphia
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16464
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 16, 2012
+
+Job title: Senior Programmer
+
+Company name: University of Pennsylvania
+
+Location: Philadelphia
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The Center of Neuroimaging and Behavior at the University of Pennsylvania
+is seeking a full-time bright and enthusiastic research-oriented Senior
+PERL/DB Programmer to join the team immediately. The role of the Senior
+Programmer  will be to design, implement, validate, and institute quality
+assurance procedures for a web-based computerized neurocognitive testing
+system. He/She will also need to support testing, security, and change
+control for the system. S/he will assist with design and maintenance of a
+centralized relational database and will be responsible for managing
+multiple code repositories using distributed revision control tools. The
+position requires independence, self-direction with minimal supervision,
+and the ability to conscientiously set goals and timelines. CNB provides a
+challenging and dynamic environment that offers programmers the chance to
+work with state-of-the-art technology, use advanced software design and
+development techniques, and improve their coding skills while contributing
+to a better understanding of human brain and behavior.
+
+Bachelors degree in computer science or related field with minimum of 3
+years programming or systems experience or an equivalent combination of
+education and experience; masters degree preferred.
+
+Required skills:
+Skilled in Perl (minimum 5 years experience).
+
+Working Knowledge of Unix–Required.
+
+Basic System Administration Knowledge of Unix. 
+
+Web Interface Programming Skills.
+
+Working knowledge of mysql/database programming.
+
+Desired skills:
+Experience with Oracle,Java/Scala, Python, JQuery, Flash/Actionscript and
+XML, Git, or Bazaar is a plus.
+
+Website for more information:
+https://jobs.hr.upenn.edu/applicants/jsp/shared/frameset/Frameset.jsp?time=
+1347850895957
+
+Contact information at:
+http://jobs.perl.org/job/16464#contact

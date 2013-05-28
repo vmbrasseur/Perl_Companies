@@ -1,0 +1,117 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11193
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 3912 invoked from network); 8 Apr 2011 00:48:44 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 8 Apr 2011 00:48:44 -0000
+Received: (qmail 17608 invoked by uid 225); 8 Apr 2011 00:48:44 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 17604 invoked by alias); 8 Apr 2011 00:48:43 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 07 Apr 2011 17:48:42 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 063532AFE9; Thu,  7 Apr 2011 17:48:38 -0700 (PDT)
+To: jobs@perl.org
+Date: Thu, 7 Apr 2011 17:48:38 -0700
+Message-ID: <20110408004839.063532AFE9@x3.develooper.com>
+Subject: Perl Software Engineer sought to help revolutionize an industry
+ (onsite), United States, NY, New York
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13656
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April  4, 2011
+
+Job title:
+Perl Software Engineer sought to help revolutionize an industry
+
+Company name: Shutterstock Images
+
+Location: United States, NY, New York
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Shutterstock loves Perl. We're a stock photo and video company, and we see
+ourselves at the forefront of technology and research. We do fascinating
+things with search, discovery, recommendation engines, and scalability.
+We're looking for great Perl engineers to help us continue to be a leader
+in our industry.
+ 
+We're an agile shop, and we focus on close interaction, so you'll have to
+be local to the New York area. But if you're awesome enough, we'll move you
+out here!
+ 
+If that's not enough, check out these other perks:
+ 
+- All the hardware you want: Our philosophy is that hardware is cheap
+compared to your time. If you think it will increase your productivity,
+we'll buy it for you.
+- Professional development: The more you know, the more valuable you are to
+us. So you'll get any tech book you want, and we'll reimburse your tuition
+for classes.
+- Lots of free goodies: Breakfast, fruit, pizza on Fridays, and even
+massages.
+
+
+Required skills:
+A code sample is required;
+
+•We’d like to see something that shows your skill as a Perl programmer, and
+your skills as a professional programmer.
+•Your code sample should include all pieces necessary to run, including
+input files
+•Your code sample should not depend on particular directory names
+•It should be documented in the Perl style
+•You should have the rights to distribute the code to us
+•It would be nice if it was packaged as a CPAN-style module (though it need
+not be placed on CPAN). See Module::Starter if you need help setting up a
+CPAN-style module
+We’d especially like to see code that covers one or more of the following
+topics:
+
+•Image Manipulation
+•Databases
+•Batch Processing
+•Something you think is relevant to high-volume websites or large amounts
+of data.
+•Something you think is cool in a computer-science way.
+
+
+Desired skills:
+At least 2 years experience with:
+    * Perl
+    * HTML / CSS / Javascript
+    * MySQL
+    * Linux
+ 
+Optional:
+ 
+    * HTML::Mason
+    * AJAX
+    * layout / design
+    * ImageMagick (and PerlMagick)
+    * other languages (php, bash, C, etc.)
+    * mod_perl / Apache
+    * video editing
+    * MySQL replication and optimization
+
+Website for more information: http://www.shutterstock.com/
+
+Contact information at:
+http://jobs.perl.org/job/13656#contact

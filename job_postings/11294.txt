@@ -1,0 +1,101 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11294
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 22493 invoked from network); 9 May 2011 06:12:39 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 9 May 2011 06:12:39 -0000
+Received: (qmail 21972 invoked by uid 225); 9 May 2011 06:12:39 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 21968 invoked by alias); 9 May 2011 06:12:38 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 08 May 2011 23:12:36 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 5B6EC2AFDE; Sun,  8 May 2011 23:12:33 -0700 (PDT)
+To: jobs@perl.org
+Date: Sun, 8 May 2011 23:12:33 -0700
+Message-ID: <20110509061233.5B6EC2AFDE@x3.develooper.com>
+Subject: Perl Web Architect, United States, MD, Columbia
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14126
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May  8, 2011
+
+Job title: Perl Web Architect
+
+Company name: Circonus, Inc.
+
+Location: United States, MD, Columbia
+
+Pay rate: Comensurate with experience
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Description:
+Circonus, Inc, a start-up SaaS provider, is currently seeking a talented
+and ambitious Web Architect to join its team. We’re looking for someone
+with an eye for detail who is interested in working on a feature-rich site.
+We like playing with the latest technology and enjoy working on complex
+problems. 
+
+Launched in May 2010, Circonus integrates business analytics with event
+correlation analytics (ECA), uptime monitoring and web performance
+monitoring. Circonus was developed by the minds from OmniTI, an internet
+technologies consulting company.
+
+Responsibilities:
+* Create, enhance and maintain the existing web application 
+* Review and suggest improvements to the front and backend of the site 
+* Accurately estimate how long it will take to complete a variety of
+programming and database tasks 
+* Be able to quickly switch between tasks that might involve different
+languages / technology 
+* Diagnose production issues, suggest a fix to the problem, or be able to
+articulate what the problem is to your peers and collaborate with them come
+up with a fix
+* Document design and implementation decisions
+
+Required skills:
+Requirements:
+
+* 8+ years experience programming in Perl.
+* Be programming language agnostic
+ * Ability to analyze/review/design a solution with solid understanding of
+all areas below, with deep focus on at least two:
+	-systems architecture (web servers, load balancing, etc)
+	-data management: storage systems, database designs
+-software architecture: ability to choose and justify the choice of the
+right language/framework for the job, and evaluate scalability, performance
+and security of proposed architecture
+	-user interface
+* Excellent understanding of Web Standards (HTML, XML, CSS).
+* Fluency in at least two SQL database technologies (Oracle, PostgreSQL,
+MySQL, etc.).
+* Solid understanding of JavaScript, Ajax programming; use of XML/XSLT or
+JSON.
+* Experience working in Solaris, Linux, BSD and UNIX in general.
+* Basic understanding of one NoSQL database (Cassandra, Redis, Voldemort)
+* Familiarity with document-oriented databases (Solr/Lucene, CouchDB,
+MongoDB)
+* Thorough background in either traditional software engineering or agile
+development practices
+* Thorough understanding of VCS systems (at least one of Subversion, Git;
+others are helpful)
+
+Website for more information: https://circonus.com/
+
+Contact information at:
+http://jobs.perl.org/job/14126#contact

@@ -1,0 +1,148 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7158
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 9419 invoked from network); 23 Oct 2007 19:01:58 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 23 Oct 2007 19:01:58 -0000
+Received: (qmail 20836 invoked by uid 225); 23 Oct 2007 19:01:58 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 20828 invoked by alias); 23 Oct 2007 19:01:57 -0000
+X-Spam-Status: No, hits=-6.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SARE_LWACT_QUICKLY,SARE_LWSHORTT,SARE_RMML_Stock4
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 23 Oct 2007 12:01:44 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 262AF2AFDA; Tue, 23 Oct 2007 12:01:28 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20071023190128.262AF2AFDA@x3.develooper.com>
+Date: Tue, 23 Oct 2007 12:01:28 -0700 (PDT)
+Subject: Perl Programmer with Linux (onsite), United States, SC, Charleston
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/7075
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 23, 2007
+
+Job title: Perl Programmer with Linux
+
+Company name: Automated Trading Desk, LLC
+
+Location: United States, SC, Charleston
+
+Pay rate: DOE
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Automated Trading Desk, LLC is the pioneer in fully automated stock
+trading, and we are searching for expert Perl Programmers to join our
+Trading Technology Team.
+
+Job function:
+
+Using Perl, develop and maintain proprietary and customer models of the
+stock market microstructure and algorithms that trade using these models. 
+Because this software is MISSION CRITICAL, performance and reliability are
+key to success.  Work with AUTO (Automated Trading Desk Financial Services
+– a broker dealer subsidiary focused on institutional customer business) to
+analyze the behavior of systems. 
+
+Work on prioritized list of projects and tasks developed in conjunction
+with team; maintaining, developing, testing and deploying code;
+troubleshoot existing systems in response to problems, emergencies, or
+sudden changes in markets or ECN (electronic communication network);
+consults with team leader and peers to develop and refine programs and
+models.
+
+Learn about new projects; working on initial design; communicating with
+peers and team leader through email and discussion re: status reports and
+organizational priorities; keeps those in charge of a project up to date on
+progress; enhances knowledge of trading, trading systems and markets;
+working with other professionals to translate business ideas into programs.
+ Helps ATD accomplish mission of developing cutting edge software for
+trading purposes.  
+
+
+Expected short term results:
+
+•Familiarize self with ATD trading and trading systems (as noted above);
+review existing code to familiarize self with programs and systems.  
+•Pair program under guidance of team member or leader.	
+•Maintain and develop non-production-critical code.
+
+Expected Long term results:
+ 
+•Maintain existing code, constantly improving code in response to new
+information and changing market conditions and customer demands.  
+•Develop infrastructure to support efficiency of model operation and
+development of new models.
+•Develop new projects in increasingly self-directed manner
+•Watch models and analyze performance, seeking ways to improve functioning
+and profitability.  
+oIdentify new opportunities for model ideas and program ideas into
+effective, profitable models.
+oProgram new models and model ideas developed in conjunction with team
+
+
+Required skills:
+The following skills are required:
+•Perl 5.6 or higher
+•Knowledge of regular expressions 
+•Strong knowledge of Red Hat Linux/Unix/other versions of Linux
+•Knowledge of network programming (TCP/IP)
+
+Educational background/experience:
+
+•College degree in Computer Science, related field preferred or equivalent 
+
+•Real world work experience) or work in open source community (1-2 years)  
+
+
+Managerial/supervisory responsibilities:
+
+•Able to manage, organize and direct their own time and work—self-directed
+with sound project and time management skills
+
+
+Personality/interpersonal qualities:
+
+•Works well under pressure
+•Able to produce strong code in short periods of time
+•Willingness to experiment, and not easily discouraged by set-backs
+•Good analytical and problem-solving abilities
+•Ability to act quickly in response to sudden demands and do what it takes
+to get the job done
+•Flexible, with strong customer orientation
+•Plays well with others
+•Able to take and give constructive criticism
+•Focuses on work not personal ego
+•Able to share knowledge with others in a constructive, productive manner
+•Demonstrated experience working on a team
+
+
+Desired skills:
+The following skills are desirable:
+•Object Oriented Programming 
+•Market or trading knowledge (will teach if lacking this experience)
+•Knowledge of CVS, Perl/Tk, CGI programming, real time processing
+•Knowledge of C/C++
+
+URL for more information: http://www.atdesk.com/
+
+Contact information at:
+http://jobs.perl.org/job/7075#contact
+
+

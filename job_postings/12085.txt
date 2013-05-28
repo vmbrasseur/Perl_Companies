@@ -1,0 +1,78 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12085
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 18594 invoked from network); 3 Feb 2012 06:28:42 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 3 Feb 2012 06:28:42 -0000
+Received: (qmail 7929 invoked by uid 225); 3 Feb 2012 06:28:42 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 7924 invoked by alias); 3 Feb 2012 06:28:41 -0000
+X-Spam-Status: No, hits=-4.9 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS,SUBJECT_NEEDS_ENCODING
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 02 Feb 2012 22:28:38 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 8991E2AFE0; Thu,  2 Feb 2012 22:28:35 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 2 Feb 2012 22:28:35 -0800
+Message-ID: <20120203062835.8991E2AFE0@x3.develooper.com>
+Subject: Perl Consultant (onsite), Malmö, Sweden
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14730
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February  2, 2012
+
+Job title: Perl Consultant
+
+Company name: Edument AB
+
+Location: Malmö, Sweden
+
+Terms of employment: Salaried employee
+
+Hours: Flexible
+
+Onsite: yes
+
+Description:
+We are seeking a skilled Perl developer to deploy as a consultant to one of
+our Perl clients in southern Sweden. The work is varied and involves
+reviewing source code, extending source code, refactoring, as well as
+writing scripts and modules from scratch.
+
+Edument is a high-quality consulting, mentoring and training company based
+in the south of Sweden. We focus on solving the deep and challenging
+problems that our clients face, often drawing on ideas and experiences from
+agile, Test-driven development, Domain-driven design, and CQRS. Many of us
+are active in development communities, Perl 6 compiler development,
+participating in open source projects and speaking at workshops, user
+groups and conferences. If you want to work on interesting problems with
+interesting people, Edument is a good fit.
+
+Required skills:
+* Modern Perl
+* Data munging
+* SQL
+* Familiarity with CPAN
+* crontab
+
+Desired skills:
+* Moose
+* OO modeling
+* Domain-driven design
+
+Website for more information: http://www.edument.se
+
+Contact information at:
+http://jobs.perl.org/job/14730#contact

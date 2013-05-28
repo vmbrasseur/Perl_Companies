@@ -1,0 +1,86 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5828
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 30700 invoked from network); 28 Feb 2007 15:34:40 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 28 Feb 2007 15:34:40 -0000
+Received: (qmail 22133 invoked by uid 225); 28 Feb 2007 15:34:39 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 22114 invoked by alias); 28 Feb 2007 15:34:38 -0000
+X-Spam-Status: No, hits=-3.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,DK_POLICY_SIGNSOME,URIBL_PORN_MPRHS
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 28 Feb 2007 07:34:34 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 59A9F2B047; Wed, 28 Feb 2007 07:34:30 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20070228153430.59A9F2B047@x3.develooper.com>
+Date: Wed, 28 Feb 2007 07:34:30 -0800 (PST)
+Subject: Senior LAMP Developer / Architect (onsite), United States, CA, San Francisco
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5421
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 27, 2007
+
+Job title: Senior LAMP Developer / Architect
+
+Company name: SVG Inc (skinvideo.com)
+
+Location: United States, CA, San Francisco
+
+Pay rate: $110,000+
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+SVG Technology, Inc. is a small company seeking a lead software
+engineer/architect to take over development of our subscription-based adult
+video web site. You will work with our fabulously talented product manager,
+marketer, and engineering support to improve our service and take it to new
+levels of traffic and success. You will be the technical decision maker and
+implementer for the site.
+
+Our service has grown from a couple of home-built PC's serving up static
+content to more than 150 servers that store and serve up over 20TB of
+streaming video at a sustained 3Gb/s. You will grow it even further.
+
+Note that we are serving up insane amounts very adult content, and this
+should not bother you.
+
+Required skills:
+Our web site is almost completely based on top of the basic LAMP stack:
+linux, apache, mysql, perl. You must be incredibly familiar with each part
+of the stack, know to solve problems and scale each layer, and be eager to
+tackle new problems.
+
+
+Desired skills:
+We use the following perl tech: mogile, memcached, perlbal, SPOP, catalyst,
+mod_perl and log4perl. A perfect candidate has worked with each, a good
+candidate could pick them up and use them with no trouble.
+
+Some portions of our infrastructure are written in java, using spring,
+spring-mvc, and hibernate. The perfect candiate could continue developing
+those, a good candidate  could at least maintain them and fix simple bugs.
+
+Contact information at:
+http://jobs.perl.org/job/5421#contact
+
+

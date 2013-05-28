@@ -1,0 +1,99 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3382
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 23020 invoked from network); 27 Oct 2005 22:41:02 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 27 Oct 2005 22:41:02 -0000
+Received: (qmail 26972 invoked by uid 225); 27 Oct 2005 22:41:01 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 26966 invoked by alias); 27 Oct 2005 22:41:01 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 27 Oct 2005 15:40:51 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j9RMel4j010031
+	for <jobs@perl.org>; Thu, 27 Oct 2005 15:40:47 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j9RMelbE010029;
+	Thu, 27 Oct 2005 15:40:47 -0700
+Date: Thu, 27 Oct 2005 15:40:47 -0700
+Message-ID: <200510272240.j9RMelbE010029@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Programmer/Analyst (onsite), United States, VA, Fairfax
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3224
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 27, 2005
+
+Job title: Programmer/Analyst
+
+Company name: Capitol Advantage
+
+Location: United States, VA, Fairfax
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+THIS JOB MUST BE PERFORMED ON SITE AT THE COMPANY HEADQUARTERS IN FAIRFAX,
+VA -- NEAR THE DUNN LORING METRO
+
+
+Position Duties
+·	Develop reports and custom requests for internal and external users
+(OLAP / OLTP / legacy databases).
+·	Develop new stored procedures / packages to support applications.
+·	Maintain existing stored procedures for ETLs.
+·	Optimize queries, indexes, stored procedures and other to increase
+throughput, availability, scalability, redundancy, superior performance and
+quick recoverability.
+·	Analyze and fix data issues reported by clients. Write code when
+necessary to fix data irregularities.
+·	Create and maintain database objects and permissions.
+·	Support database architecture on legacy system.
+·	Maintain existing database code.
+
+
+Required skills:
+·	Experience with PL/SQL. 
+·	Experience developing back-end stored procedures, triggers, scripts
+and jobs.
+·	Experience on query and database optimization and tuning.
+·	Should be proficient in Oracle installations, database creation and
+physical object management.
+·	Experience in Data Warehousing administration and ETL development.
+·	Very familiar with design concepts for Relational Databases and
+Data Warehousing.
+·	Capable of recommending strategies to take advantage of database
+capabilities for new and existing projects.
+·	Comfortable working on a Linux environment.
+·	Knowledge of Perl or other programming languages.
+·	Knowledge of Oracle and/or MS-SQL Server.
+
+
+Desired skills: perl, Oracle, stored procedures, linux
+
+URL for more information: http://www.capitoladvantage.com/
+
+Contact information at:
+http://jobs.perl.org/job/3224#contact
+
+

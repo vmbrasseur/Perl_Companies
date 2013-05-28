@@ -1,0 +1,114 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6705
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 16463 invoked from network); 27 Jul 2007 21:36:12 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 27 Jul 2007 21:36:12 -0000
+Received: (qmail 26746 invoked by uid 225); 27 Jul 2007 21:36:12 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 26738 invoked by alias); 27 Jul 2007 21:36:11 -0000
+X-Spam-Status: No, hits=-2.6 required=8.0
+	tests=BAYES_00,DKIM_POLICY_SIGNSOME,DK_POLICY_SIGNSOME,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 27 Jul 2007 14:36:07 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 73A442AFDE; Fri, 27 Jul 2007 14:36:04 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070727213604.73A442AFDE@x3.develooper.com>
+Date: Fri, 27 Jul 2007 14:36:04 -0700 (PDT)
+Subject: QA Support Engineer (onsite), United States, CA, Mountain View
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/6271
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 25, 2007
+
+Job title: QA Support Engineer
+
+Location: United States, CA, Mountain View
+
+Pay rate: $90-110K
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Job Summary:
+
+As an early member of our Quality Organization you'll join a small
+dedicated team of engineers focused on developing an innovative new data
+center appliance. Your primary job will be to provide product
+technical support to customers during beta and product release. You will
+work closely with the test and engineering teams to insure our products
+meet customer expectations. You will also support the Quality
+campaign by building and executing test tools. Your responsibilities will
+include: 
+•	Provide customers hardware and software technical support,
+including configuration assistance and troubleshooting of server nodes and
+other peripheral networking equipment 
+•	Provide customer advocacy for documentation and timely resolution
+of issues, and for problem reproduction and escalation 
+•	Document and reproduce customer related application storage and
+networking problems, and coordinate fixes through QA and Engineering as
+required 
+•	Manage critical customer accounts and escalation requests 
+•	Work with Engineering and Technical Marketing to clearly document
+and distribute FAQs for knowledge transfer and consistently accurate
+resolutions 
+•	Document all actions taken toward resolving customer issues in
+contact tracking database 
+•	Develop common question and answer documentation to be included in
+department knowledge base 
+•	Be able to work with engineers to create sets of regression and
+correctness tests (automated) 
+•	Develop and implement new test cases from product and customer
+requirements 
+•	Manage hardware and software resources for testing
+
+Required skills:
+Essential Functions:
+
+Perl coding.
+
+The candidate will deliver high-quality technical assistance for Gear6 data
+center appliance products through phone, web/email communication.
+Independently debug broad, complex, and unique storage system and network
+issues. Support the QA test effort by designing new test cases and create
+automated test scripts in Perl, C, C++, or use internal Test Harnesses.
+Perform regression test and verify bugs fixes as required. Have knowledge
+of system performance testing. 
+
+Requirements:
+
+The candidate will have a demonstrated track record of providing
+outstanding customer service in a networked systems environment including a
+strong ability to accurately gather information and resolve technical
+product issues. You must possess excellent knowledge in NFS, CIFS, Linux,
+Microsoft Windows, file systems and browsers and have proven skills in
+supporting end-users and resolving product issues for network storage
+applications. You should also have experience in test planning and
+documentation. You must have at least 8 years of experience in networking.
+Knowledge of scripting languages (csh, perl, awk, cgi, etc.) and
+programming languages (C, C++). 
+Education:
+•	BS preferred
+
+Contact information at:
+http://jobs.perl.org/job/6271#contact
+
+

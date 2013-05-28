@@ -1,0 +1,89 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12499
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 3902 invoked from network); 11 Jun 2012 06:16:31 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 11 Jun 2012 06:16:31 -0000
+Received: (qmail 8073 invoked by uid 225); 11 Jun 2012 06:16:31 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 8069 invoked by alias); 11 Jun 2012 06:16:30 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 10 Jun 2012 23:16:28 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 18E972AFE0; Sun, 10 Jun 2012 23:16:25 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sun, 10 Jun 2012 23:16:25 -0700
+Message-ID: <20120611061625.18E972AFE0@x3.develooper.com>
+Subject: Pipelines Web Developer (onsite), Oshawa, Ontario, Canada
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/11650
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June  8, 2012
+
+Job title: Pipelines Web Developer
+
+Company name: Holophrastic Enterprises Inc.
+
+Location: Oshawa, Ontario, Canada
+
+Pay rate: 20'000 - 40'000 based on expertise
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Pipelines is our internal and proprietary web development platform --
+written on top of Perl, of course.  Call it a template language if you
+must, but basically it automates away 90% of typical web development --
+connecting to the database, user logins, security, user preferences, et
+cetera.  It also throws umbrella features over everything.  It's really
+cool.  Code repositories and version control are gone.	We work on live
+sites (Pipelines protects us from stupidity), never document code (it's
+legible, that's the point), and focus on the client's business
+requirements.  We sell them the flexibility upon which they depend.
+
+This is a home-office, small-business sort of thing, with interestingly
+flexible hours.  I'm looking for someone to start off as a protege, and
+swiftly grow to be able to handle most of the work in stride.  You'll be
+replacing someone who's just left, with big shoes to fill.
+
+With client projects booming now, I need you as soon as possible.
+
+Required skills:
+raw perl (no modules), javascript, building web-sites using some kind of
+templating language (e.g. template toolkit).  
+
+An understanding of the general flow of a web-site from database, to
+backend server, to output stream, to browser client and back again.  An
+understanding of the general problems in web development like caching and
+speed and security.  HTML, inline CSS, basic MySQL.
+
+You must hate version control systems, we won't be using any.  You must
+hate commenting and documenting code, it's redundant to anyone who can read
+the code. You must hate block-style css, it over-abstracts layout.  You
+must hate optmizing code or writing efficient code, that's not the point. 
+Everything we do here prioritizes the ability for the client to make
+changes.  That's the only speed that counts.
+
+Desired skills: english writing
+
+Contact information at:
+http://jobs.perl.org/job/11650#contact

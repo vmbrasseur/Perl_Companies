@@ -1,0 +1,97 @@
+Newsgroups: perl.jobs,perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7364 perl.jobs:7368
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 15716 invoked from network); 3 Dec 2007 19:08:15 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 3 Dec 2007 19:08:15 -0000
+Received: (qmail 16928 invoked by uid 225); 3 Dec 2007 19:08:14 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 16923 invoked by alias); 3 Dec 2007 19:08:14 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 03 Dec 2007 10:51:50 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 2D6262AFE8; Mon,  3 Dec 2007 10:51:47 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20071203185147.2D6262AFE8@x3.develooper.com>
+Date: Mon,  3 Dec 2007 10:51:47 -0800 (PST)
+Subject: Perl and C long-term/temp-to-perm contract (onsite), United States, MA, Framingham
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/7470
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December  3, 2007
+
+Job title:
+Perl and C long-term/temp-to-perm contract
+
+Company name: Vivox, Inc
+
+Location: United States, MA, Framingham
+
+Pay rate: competitive
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+What you will be doing: building a Perl-based test harness for automation
+that exercises the functions and structs in a C-based library that will be
+run/supported on Mac, Linux and Windows
+
+The two major pieces of the project are the following:
+1. An extendable, scriptable interface to a C-based library used to carry
+real-time audio and text messaging from servers to clients. The scriptable
+interface will be used to build Perl-based test automation suites
+- state machine will hold finite but dynamic set of variables and must be
+queryable
+- machine will run on Linux, Mac and Windows
+- SWIG will be used to "make" the scriptable interface into something Perl
+can digest.
+
+2. An extendable, flexible test harness that uses the scripting interface
+to the C-library and Perl to build:
+- atomic testcases for individual API call testing
+- bundles of API calls for executing end-to-end actions
+- has timers for event-based tests
+- can be easily extended to multi-client scenarios
+
+While this will be a very independent position, you will be working
+primarily with the lead developer for the library and the QA manager to
+create the tool design. This work will graduate to building multi-client
+test scenarios that test longevity and long-term stability with common
+activities. Once the harness is written, there is an endless sea of simple
+to very complex test scenarios involving anywhere from 1 to
+name-your-favorite-big-number of clients across the three main platforms.
+
+Required skills:
+- Perl Programming, experience using 
+   - Test::Simple, More, Deep
+   - SWIG to wrap C structs, functions, etc.
+- C/C++ Programming
+- making multi-client/remote client controllers
+- strong familiarity with testing methodology
+- 8-10 years of programming experience
+
+URL for more information:
+http://boston.craigslist.org/bmw/sof/494367609.html
+
+Contact information at:
+http://jobs.perl.org/job/7470#contact
+
+

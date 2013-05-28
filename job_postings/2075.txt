@@ -1,0 +1,122 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2075
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 16205 invoked from network); 11 Nov 2004 20:50:39 -0000
+Received: from x1.develooper.com (63.251.223.170)
+  by lists.develooper.com with SMTP; 11 Nov 2004 20:50:39 -0000
+Received: (qmail 27569 invoked by uid 225); 11 Nov 2004 20:50:39 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 27563 invoked by alias); 11 Nov 2004 20:50:38 -0000
+X-Spam-Status: No, hits=-4.9 required=8.0
+	tests=BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.dev) (63.251.223.163)
+  by la.mx.develooper.com (qpsmtpd/0.27.1) with ESMTP; Thu, 11 Nov 2004 12:50:35 -0800
+Received: from x3.dev (localhost.localdomain [127.0.0.1])
+	by x3.dev (8.12.11/8.12.11) with ESMTP id iABKoXU2016708
+	for <jobs@perl.org>; Thu, 11 Nov 2004 12:50:33 -0800
+Received: (from jobs@localhost)
+	by x3.dev (8.12.11/8.12.11/Submit) id iABKoXKs016706;
+	Thu, 11 Nov 2004 12:50:33 -0800
+Date: Thu, 11 Nov 2004 12:50:33 -0800
+Message-ID: <200411112050.iABKoXKs016706@x3.dev>
+X-Authentication-Warning: x3.dev: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Software Engineer - Security (onsite), United Kingdom, Gloucestershire, Gloucester
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1972
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 11, 2004
+
+Job title: Software Engineer - Security
+
+Company name: MessageLabs
+
+Location:
+United Kingdom, Gloucestershire, Gloucester
+
+Pay rate: Negotiable
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: Permanent
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+MessageLabs is looking for a Software Engineer, who has a good
+understanding of security concepts and can demonstrate an ability to
+deliver software with security in mind. You will be working within the
+Infrastructure Team, which develops the applications and tools that support
+and service the global architecture and infrastructure of MessageLabs
+operations.
+
+Salary is negotiable and the position will be full time, based in our
+offices between Gloucester and Cheltenham off M5 junction 11a,
+Gloucestershire. A regular service bus connects our offices with both
+Gloucester and Cheltenham town centres. We can offer flexitime- please ask
+for more details. We have a casual office dress code.
+
+IMPORTANT: We would like you to show us an example of a project you have
+programmed in PERL. Ideally this will be provided as a URL to a working
+example, plus source code in a zip or gz archive.
+
+Required skills:
+- Educated to at least Degree level, in a computing related subject, with 2
+years relevant commercial experience.
+  OR
+  At least 5 years experience in an IT role with programming experience.
+- Minimum 2 years experience in Perl and C programming in a Unix/Linux
+environment.
+- A sound understanding of the different elements of a security
+architecture.
+- Good knowledge of multiple authentication protocols (LDAP, radius,
+kerberos, etc.), access control principles and identity management
+- Experience with at least one directory product (e.g. Netscape Directory
+Server, OpenLDAP, Oracle OID, etc.)
+- Proven experience of designing and building secure internet-facing
+software systems.
+- Proven architecture, development and deployment skills.
+- Enthusiastic, professional, good-humoured
+
+
+Desired skills:
+- Knowledge of other programming languages, such as C++ or Java.
+- Working knowledge of programming on a Windows operating system.
+- Knowledge of IIS, HTTP, HTML, XML, .NET and SOAP web technologies.
+- Knowledge of SAML
+- Working knowledge of internet protocols such as TCP/IP, SMTP and POP3.
+- Knowledge of email systems, particularly MIME and RFC822.
+- Knowledge of email products (sendmail, qmail, postfix, etc.)
+- Good knowledge of strengths and weaknesses of security protocols and
+encryption algorithms
+- Experience in writing technical security policies and security system
+administration procedures
+- Good risk management skills
+- Good risk code review skills
+- Good technical auditing skills.
+- Initiative and self-motivation.
+
+URL for more information: http://www.messagelabs.com/
+
+Contact information:
+Please send your CV in plain text, Microsoft Word or Adobe PDF format,
+together with your Perl example URL and source code, to:
+
+Paul Hughes, Technical Architect/Development Manager (Infrastructure)
+phughes@messagelabs.com
+
+

@@ -1,0 +1,101 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4090
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 32377 invoked from network); 30 Mar 2006 21:00:37 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 30 Mar 2006 21:00:37 -0000
+Received: (qmail 11593 invoked by uid 225); 30 Mar 2006 21:00:37 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11589 invoked by alias); 30 Mar 2006 21:00:37 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 30 Mar 2006 13:00:33 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 229E32AFE0; Thu, 30 Mar 2006 13:00:29 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20060330210029.229E32AFE0@x3.develooper.com>
+Date: Thu, 30 Mar 2006 13:00:29 -0800 (PST)
+Subject: Perl Web Developer (onsite), United States, WI, Madison
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3881
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 30, 2006
+
+Job title: Perl Web Developer
+
+Company name: MegaForce LLC
+
+Internal ID: PerlWebDev
+
+Location: United States, WI, Madison
+
+Pay rate: negotiable
+
+Travel: 0%
+
+Length of employment: 9+ months
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are looking for a strong web application developer who is experienced
+with collecting and documenting end-user requirements and efficiently
+coding, testing, and delivering systems.  This person will take over
+development of an existing workflow application that tracks complex network
+integration projects from request to completion.  
+
+Specific Responsibilities:
+* Develop large system enhancements to an existing project tracking
+workflow application in Perl.
+* Troubleshoot system issues as they are discovered.
+* Collect and manage user requirements, bug reports, and feature requests.
+* Work with management to prioritize enhancements and bug fixes into a
+release schedule.
+* Coordinate and implement system testing and create technical
+documentation.
+
+Required skills:
+* Extensive Perl including:
+* Perl Module building
+* Perl Template::Toolkit module
+* Perl CGI::Appliation module
+* Perl DBI module
+* JavaScript
+* Web interface design best practices
+* Oracle 9i
+* Highly Proficient in SQL
+* Documentation tools: Visio and Word
+* Code documentation skills
+
+Desired skills:
+* Excellent communication skills, both written and verbal.
+* Ability to interact with a wide range of system end-users on a daily
+basis.
+* Experience collecting and managing user requirements, bug reports, and
+feature requests.
+* Good project and time management skills.
+* Ability to learn and adapt to a high paced changing, and challenging
+environment 
+* Candidates should be able to demonstrate the ability to work under
+pressure when necessary.
+* Candidate must be self-motivated, self-directed and able to work in a
+fast paced software development environment.
+
+Contact information at:
+http://jobs.perl.org/job/3881#contact
+
+

@@ -1,0 +1,78 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4555
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 19048 invoked from network); 29 Jun 2006 15:38:36 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 29 Jun 2006 15:38:36 -0000
+Received: (qmail 13306 invoked by uid 225); 29 Jun 2006 15:38:35 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 13300 invoked by alias); 29 Jun 2006 15:38:34 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 29 Jun 2006 08:38:22 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 86CF62AFE3; Thu, 29 Jun 2006 08:38:18 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060629153818.86CF62AFE3@x3.develooper.com>
+Date: Thu, 29 Jun 2006 08:38:18 -0700 (PDT)
+Subject: Perl Developer w/ Financial Experience (onsite), United States, MA, Wakefield
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4303
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 29, 2006
+
+Job title: Perl Developer w/ Financial Experience
+
+Company name: Computer Express, Inc.
+
+Location: United States, MA, Wakefield
+
+Pay rate: DOE (USD)
+
+Travel: 0%
+
+Terms of employment: Hourly employee
+
+Length of employment: 4+ Months
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are looking for a Perl Developer to develop scripts that will move data
+from various external systems that feed into our client's Order Management
+System.
+The database backend is Sybase. In general, the job will be parsing ASCII
+files into whatever the SQL can handle.... Comparing one ASCII file to
+another... taking a spec and loading it into Sybase.
+Our client would prefer a candidate who understands the finance industry. 
+Position is 100% "on site" during "core weekday hours" at our client's
+location in Cambridge.	
+
+
+Required skills:
+At least 4 years experience developing Perl scripts, particulary in a
+Finacial Industry environment.	SQL and Sybase also required. 
+
+Desired skills:
+Finacial Industry environment is a huge plus.
+
+URL for more information: http://n/a
+
+Contact information at:
+http://jobs.perl.org/job/4303#contact
+
+

@@ -1,0 +1,122 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8585
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 21313 invoked from network); 20 Aug 2008 09:44:58 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 20 Aug 2008 09:44:58 -0000
+Received: (qmail 11325 invoked by uid 225); 20 Aug 2008 09:44:58 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11320 invoked by alias); 20 Aug 2008 09:44:58 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 20 Aug 2008 02:44:55 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 99E582AFE7; Wed, 20 Aug 2008 02:44:51 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080820094451.99E582AFE7@x3.develooper.com>
+Date: Wed, 20 Aug 2008 02:44:51 -0700 (PDT)
+Subject: Experienced Lead Perl developer for SF startup (onsite), United States, CA, San Francisco
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/9460
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 19, 2008
+
+Job title:
+Experienced Lead Perl developer for SF startup
+
+Company name: SingleFeed
+
+Internal ID: perldev
+
+Location: United States, CA, San Francisco
+
+Pay rate: DOE
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+SingleFeed is seeking a senior lead developer with strong previous
+experience developing web and/or other applications in Perl. Come join our
+small but growing team of developers and help improve and grow SingleFeed's
+system as a major contributor. You'll be joining at a time when everyone's
+able to make a real difference.
+
+SingleFeed is a web service which enables merchants to effectively market
+their goods through shopping search engines such as Google Product Search,
+Yahoo! Shopping, Shopzilla, and PriceGrabber by managing and submitting
+high quality product data feeds. Each shopping engine has a different
+specification for how they want product data feeds to be delivered. Each
+shopping engine also has a different algorithm for how they rank products.
+SingleFeed provides merchants with a single system in which to manage and
+optimize their data feeds.
+
+We have some terrific technical challenges ahead, including large-scale
+datasets, complex data feed parsing, auto-scaling components across virtual
+servers, architecting a dynamic queueing system, populating a large data
+warehouse reporting system, and more.
+
+SingleFeed is a venture-backed start up with real customers and real
+revenue. Our office is located in downtown San Francisco. You'll work with
+a small team of very smart people who'll talk about the latest tech stuff
+one moment and obscure independent music and movies the next.
+
+What we're looking for:
+
+- Experience developing significant software for at least 8 years; you know
+about design patterns and anti-patterns, common algorithms, web application
+system architecture, and good development practices.
+- Many years spent coding substantial applications in Perl. You know all
+about Perl subroutines and objects, code re-use, how to debug and profile
+apps, and how to make code efficient yet readable and maintainable.
+- You've spent a lot of time with CPAN and know a lot of the best packages
+so you don't have to reinvent the wheel.
+- You're perfectly at home in a Linux environment, and you might even have
+reasonable experience as a sysadmin.
+- Experience working with SQL databases such as MySQL. You can do
+multi-table joins in your head and know the difference between inner and
+outer joins.
+- Experience in other languages like Java and C/C++.
+- Your previous team members know that you can take a project and it'll be
+done when you said it would be. And not only that but you've tested it
+inside and out already. The QA team really likes you.
+- You believe strongly in unit testing, good documentation, code reviews,
+and working closely with other developers, who like working with you for
+those reasons.
+- You've worked at startups before, and look forward to working at another
+one even though things can be chaotic at times.
+- If you're into front-end web development, you might have experience with
+Javascript, AJAX, DHTML, and CSS.
+
+
+If this sounds like you, send a resume and cover letter telling us some
+real information about you and what you find interesting.
+
+Visit www.singlefeed.com for more information about the company.
+
+Required skills: Perl, mod_perl, CGI, DBI, SQL, Linux
+
+Desired skills: TheSchwartz, EC2/S3, memcache, MySQL.
+
+URL for more information: http://www.singlefeed.com/
+
+Contact information at:
+http://jobs.perl.org/job/9460#contact
+
+

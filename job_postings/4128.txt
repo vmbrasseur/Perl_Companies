@@ -1,0 +1,91 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4128
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 22910 invoked from network); 7 Apr 2006 01:33:12 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 7 Apr 2006 01:33:12 -0000
+Received: (qmail 22717 invoked by uid 225); 7 Apr 2006 01:33:12 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 22705 invoked by alias); 7 Apr 2006 01:33:11 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 06 Apr 2006 18:33:09 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 2C7C32AFEB; Thu,  6 Apr 2006 18:33:05 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060407013305.2C7C32AFEB@x3.develooper.com>
+Date: Thu,  6 Apr 2006 18:33:05 -0700 (PDT)
+Subject: Experienced Perl Programmer (part onsite), United States, New York, New York City
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3915
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April  6, 2006
+
+Job title: Experienced Perl Programmer
+
+Company name: Dialog Group, Inc.
+
+Internal ID: ddi-dddm
+
+Location: United States, New York, New York City
+
+Pay rate: $1,800/week
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: up to 5 weeks
+
+Onsite: some
+
+Description:
+Process large input files/arrays and create final output files.
+
+1. File A: fixed length 830 bytes/row, 193 million rows
+2. File B: fixed length 760 bytes/row, 122 million rows
+3. File C: 10 bytes/row, 50 million rows
+4. File D: fixed length 11 bytes/row, 15 million rows
+5. File E: 4 bytes/row, 50,000 rows
+
+These tasks have to be performed:
+1. merge files A and B, dedupe and create output file - expected to be
++/- 210 million rows
+2. append files C, D and  E to this output file
+3. Collapse this output file into a smaller file (essentially group
+individual records with certain common characteristics into one record)
+4. create final output, tab del, ascii
+
+Advise on hardware/software requirements and other project-related
+specifics such as processing time and more.
+
+Developer will work closely with project manager and SQL DBA.
+
+Project will start first week of May.
+
+Required skills:
+Highly qualified Perl Programmer with at least 6 to 8 years experience.
+Must be able to show similar project experience or experience with handling
+large files.
+
+Desired skills:
+SQL and any other high-level programing language beneficial.
+
+URL for more information: http://www.dialoggroup.com/
+
+Contact information at:
+http://jobs.perl.org/job/3915#contact
+
+

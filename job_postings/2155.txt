@@ -1,0 +1,86 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2155
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 12953 invoked from network); 9 Dec 2004 21:49:40 -0000
+Received: from x1.develooper.com (63.251.223.170)
+  by lists.develooper.com with SMTP; 9 Dec 2004 21:49:40 -0000
+Received: (qmail 20248 invoked by uid 225); 9 Dec 2004 21:49:40 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 20240 invoked by alias); 9 Dec 2004 21:49:39 -0000
+X-Spam-Status: No, hits=-4.9 required=8.0
+	tests=BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.dev) (63.251.223.163)
+  by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 09 Dec 2004 13:49:37 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.dev (8.12.11/8.12.11) with ESMTP id iB9LnZj8013284
+	for <jobs@perl.org>; Thu, 9 Dec 2004 13:49:35 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id iB9LnZB3013282;
+	Thu, 9 Dec 2004 13:49:35 -0800
+Date: Thu, 9 Dec 2004 13:49:35 -0800
+Message-ID: <200412092149.iB9LnZB3013282@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Perl Programmer for Financial Institution, United States, CT, Norwalk
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2066
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December  9, 2004
+
+Job title:
+Perl Programmer for Financial Institution
+
+Company name: Wang Trading LLC
+
+Location: United States, CT, Norwalk
+
+Pay rate: USD
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Description:
+DO YOU HAVE WHAT IT TAKES?
+
+We are a leading program trading company located in Norwalk, CT. Currently
+seeking for someone with excellent communication skills (Oral & Written) to
+work in a highly dynamic position requiring quick thinking and the ability
+to work independently.
+
+Responsibilites include client interfacing, compliance database management,
+Perl scripting for database reporting and intra-day troubleshooting.
+
+The position is on the trading desk working with the operations team
+supporting day to day trading. Financial experience is a bonus!
+
+Required skills:
+Complex data structures in perl. (know your '[]' from your '{}' or '()')
+Intermediate regex (know your '.*?' from your '.+' and your '(' from your
+'(?:' ). Excellent knowledge of perl including how and when to use 'my' vs.
+'local' vs. 'our', 'map' vs 'grep', etc.
+DBI
+SQL
+Unix/Linux
+
+
+Desired skills:
+Proficiency with PostgreSQL a plus
+
+
+Contact information: perl@wangtrading.com
+
+

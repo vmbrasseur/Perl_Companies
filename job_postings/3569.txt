@@ -1,0 +1,102 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3569
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 27411 invoked from network); 12 Dec 2005 20:55:04 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 12 Dec 2005 20:55:04 -0000
+Received: (qmail 25989 invoked by uid 225); 12 Dec 2005 20:55:04 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 25976 invoked by alias); 12 Dec 2005 20:55:03 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 12 Dec 2005 12:54:56 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id jBCKsqc7002836
+	for <jobs@perl.org>; Mon, 12 Dec 2005 12:54:52 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id jBCKsqqi002834;
+	Mon, 12 Dec 2005 12:54:52 -0800
+Date: Mon, 12 Dec 2005 12:54:52 -0800
+Message-ID: <200512122054.jBCKsqqi002834@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Perl/MySQL Developer for Startup (onsite), United States, MA, Waltham
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3408
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 12, 2005
+
+Job title: Perl/MySQL Developer for Startup
+
+Company name: Yokel, Inc.
+
+Internal ID: Perl/MySQL Dev
+
+Location: United States, MA, Waltham
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Yokel, Inc. is a seed stage venture backed startup in the local shopping
+space. Yokel is building an internet directory of local stores and the
+products they carry, helping consumers find products they are looking for
+at real-world stores near them. The site is currently in beta, and can be
+seen at www.yokel.com. 
+
+Yokel was founded in 2005 by experienced industry veterans. The Company’s
+cofounder and VP of Products and Technology has over ten years of internet
+experience, having served as head of technology and products for leading
+high-traffic sites including Tripod and Lycos. The Company’s CEO has led
+leading internet companies for over ten years, including Yahoo Shopping,
+Internet Shopping Network, and most recently was founder and CEO of
+FairMarket, a leading provider of auction software that he led to an
+initial public offering. 
+
+The Company is currently building out its software engineering team, and is
+looking for qualified candidates who enjoy working in a startup environment
+and are eager to make a difference on a small team, focused on build a
+leading consumer web site.  
+
+This employee will be tasked with the ongoing development of our Perl-based
+data administration tools.  
+
+Primary Responsibilities:
+* Design, develop and deliver a large web-based workflow application that
+allows our non-technical editors to collect and edit info on local stores &
+products.
+
+
+Required skills:
+* HTML, CSS, Javascript
+* Perl
+* MySQL
+* Class::DBI
+* Template Toolkit
+* Data::FormValidator
+* HTML::Fillinform
+
+
+Desired skills: Catalyst
+
+Contact information at:
+http://jobs.perl.org/job/3408#contact
+
+

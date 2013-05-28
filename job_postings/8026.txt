@@ -1,0 +1,72 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8026
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 6706 invoked from network); 24 Apr 2008 16:16:56 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 24 Apr 2008 16:16:56 -0000
+Received: (qmail 1123 invoked by uid 225); 24 Apr 2008 16:16:56 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 1111 invoked by alias); 24 Apr 2008 16:16:55 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 24 Apr 2008 09:16:52 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id A0D362AFE6; Thu, 24 Apr 2008 09:16:48 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080424161648.A0D362AFE6@x3.develooper.com>
+Date: Thu, 24 Apr 2008 09:16:48 -0700 (PDT)
+Subject: Lead Perl developer (onsite), Russian Federation, Moscow
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8508
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 24, 2008
+
+Job title: Lead Perl developer
+
+Company name: Rambler Internet Holding
+
+Location: Russian Federation, Moscow
+
+Pay rate:
+50000-100000 RUR (actully, no top limit, we are ready to hire stars)
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We need highly skilled Perl developers to enhance our rambler.ru portal
+services. The work will be 70% web-development for >1000 req/sec pages and
+30% internal systems development (incl. POE). Products we have vacancies in
+include Mail, Social services, Specialized web searches etc.
+
+Required skills:
+Strong Perl, both OOP and not. Strong knowledge of modern web technologies.
+Knowledge of TCP/IP networks.
+
+Desired skills:
+TDD, other Agile techniques. JavaScript, FreeBSD, MySQL & PostgreSQL.
+Modern Perl (ORM & RAD frameworks like DBIx::Class and Catalyst, Moose,
+perl 5.10, etc.) Knowledge of parallel computing primitives.
+
+URL for more information: http://www.rambler.ru/doc/job.shtml
+
+Contact information at:
+http://jobs.perl.org/job/8508#contact
+
+

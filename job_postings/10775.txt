@@ -1,0 +1,109 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10775
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 24336 invoked from network); 4 Dec 2010 16:23:47 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 4 Dec 2010 16:23:47 -0000
+Received: (qmail 7640 invoked by uid 225); 4 Dec 2010 16:23:47 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 7636 invoked by alias); 4 Dec 2010 16:23:47 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 04 Dec 2010 08:23:45 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id C94CC2AFDE; Sat,  4 Dec 2010 08:23:41 -0800 (PST)
+To: jobs@perl.org
+Date: Sat, 4 Dec 2010 08:23:41 -0800
+Message-ID: <20101204162341.C94CC2AFDE@x3.develooper.com>
+Subject: Bioinformatics Developer- Sequencing Analysis (onsite), United
+ States, CA , Walnut Creek
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13290
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December  3, 2010
+
+Job title: Bioinformatics Developer- Sequencing Analysis
+
+Company name: DOE JGI / Lawrence Berkeley National Lab
+
+Internal ID: 25197
+
+Location: United States, CA , Walnut Creek
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The DOE Joint Genome Institute in Walnut Creek, CA has an exciting Software
+Developer position available to support the Quality Control (QC) and
+Analysis Team. Will work with customers and other software developers to
+support and extend the production sequence QC and analysis systems
+including a range of database-backed bioinformatics analysis pipelines for
+the automated processing of sequence data. Assignments will span the full
+software development lifecycle, including participation in requirements
+gathering, implementation, testing, and deployment existing systems.
+Position reports to the Production Informatics group lead.
+http://www.jgi.doe.gov.
+
+Specific Job Duties
+
+- Participate in the design, implementation, testing, and deployment of
+extensions of the existing production QC and analysis systems, as well as
+new versions of them.
+- Provide support of the existing production sequence QC and analysis
+systems, including the resolution of custom user and data retrieval
+requests.
+- Develop software using a mix of the following: Perl, Perl/CGI,
+Javascript, CVS, Ruby, Ruby (with Rails), Java, PL/SQL.
+- Follow prescribed practices for software version control, testing, and
+release engineering.
+- Apply analytical skills and creativity to solve diverse and challenging
+problems.
+- Communicate regularly with customers and supervisory staff about plans,
+designs and progress.
+- Follow prescribed practices for software version control, testing, and
+release engineering.
+- Attend workshops and conferences in appropriate areas.
+- Present technical and analytical status in weekly meetings and contribute
+to publications.
+
+Required skills:
+- B.S. in Computer Science or a related scientific field (or equivalent
+experience) and a minimum of five years related experience.
+- Demonstrated experience leading a team of software developers in a
+customer service oriented environment.
+- Demonstrated success designing and implementing systems and software in a
+scientific or technical environment, e.g., University, National Laboratory,
+corporate R&D center or automated manufacturing facility.
+- Full life-cycle software development experience with the ability to work
+with scientific and administrative customers to define needs and
+priorities.
+- Demonstrated experience with Perl and experience with database design and
+performance tuning in MySQL.
+- Ability to apply analytical skills and creativity to solve diverse and
+challenging problems.
+- Effective time management, organization, and planning skills with the
+ability to allocate resources and assign work to meet goals and deadlines.
+- Talent for working well under short deadlines and handling multiple tasks
+simultaneously.
+- Ability to work effectively in a diverse team environment.
+
+Website for more information:
+http://careers.crijob.com/lbnlcareers/detailsRedirect.asp?jid=25197&p=1
+
+Contact information at:
+http://jobs.perl.org/job/13290#contact

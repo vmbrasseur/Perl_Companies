@@ -1,0 +1,85 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11679
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 9150 invoked from network); 13 Sep 2011 20:01:34 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 13 Sep 2011 20:01:34 -0000
+Received: (qmail 20076 invoked by uid 225); 13 Sep 2011 20:01:34 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 20071 invoked by alias); 13 Sep 2011 20:01:33 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 13 Sep 2011 13:01:31 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id BBA9D2AFDF; Tue, 13 Sep 2011 13:01:27 -0700 (PDT)
+To: jobs@perl.org
+Date: Tue, 13 Sep 2011 13:01:27 -0700
+Message-ID: <20110913200127.BBA9D2AFDF@x3.develooper.com>
+Subject: Software Engineer (onsite), Gaithersburg, MD
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14836
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 13, 2011
+
+Job title: Software Engineer
+
+Company name: Systems Plus Inc.
+
+Location: Gaithersburg, MD
+
+Terms of employment: Salaried employee
+
+Length of employment: 5 Years
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are seeking a developer to aid the Speaker Recognition Evaluations (SRE)
+and Language Recognition Evaluations (LRE) at our customer site. The
+evaluations are designed by agency and executed by the state of the art
+systems in speaker and language recognition systems. The candidate will be
+responsible for: gathering data from outside parties, processing the data
+into uniform and easily digestible format, designing experiments for the
+registered sites to complete and assist in implementation and analyzing the
+results of the evaluation and participate in publication.
+
+Required skills:
+- Minimally a Bachelors or Master’s Degree
+- 2+ years full-time work experience
+- Experience with experimental design and/or data analysis
+- Experience with audio and/or signal processing
+- Strong math skills and at least elementary knowledge of statistics and
+probability
+- Working knowledge of computer science theory and application
+- Strong written and oral communication skills
+- Intermediate Python development
+- Intermediate Perl development
+- Intermediate to advanced Unix
+- Unix command line fluency
+- Familiarity with sampled audio formats
+- Familiarity with statistical software
+- Knowledge of CVS is a plus
+- Familiarity or experience in object-oriented analysis and design.
+- Strong problem solving skills and Detail oriented and organizational
+skills
+- A self-starter/ go getter and able to learn independently as well as w/
+guidance
+- Willing to ask questions and Eager to work
+- Dependable and Persistent in the face of difficulty
+- Work with deadlines
+
+Contact information at:
+http://jobs.perl.org/job/14836#contact

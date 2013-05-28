@@ -1,0 +1,96 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8506
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 22800 invoked from network); 30 Jul 2008 13:38:27 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 30 Jul 2008 13:38:27 -0000
+Received: (qmail 26424 invoked by uid 225); 30 Jul 2008 13:38:26 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 26409 invoked by alias); 30 Jul 2008 13:38:25 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 30 Jul 2008 06:38:14 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id D78182AFEB; Wed, 30 Jul 2008 06:38:10 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080730133810.D78182AFEB@x3.develooper.com>
+Date: Wed, 30 Jul 2008 06:38:10 -0700 (PDT)
+Subject: Junior Software Engineer, MA, Cambridge
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/9304
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 29, 2008
+
+Job title: Junior Software Engineer
+
+Company name: Harvard Law School
+
+Internal ID: 33969
+
+Location: MA, Cambridge
+
+Description:
+The Berkman Center for Internet & Society at Harvard Law School seeks a
+Junior Software Engineer to assist with its research into media. The Media
+Cloud project is building a system to collect and categorize content from a
+wide variety of traditional and new media sources online to support a range
+of research projects about the collected content. (See below for more
+project details.) We need a smart, self-motivated software engineer who
+will thrive in a dynamic, creative and fast-paced organization filled with
+a wide variety of extremely bright people who are passionate about Internet
+& society issues. Works with a distributed and often virtual team of
+researchers, including faculty, fellows, students, and other engineers. As
+with all appointments at the Berkman Center, this position is through until
+June 30, 2009, with the possibility of continuation depending on funding
+and business need. 
+
+The content will be collected by an rss crawler backed by a large database
+of feeds and media sources, a parser to convert the first page of html of
+each story into the full text content of each story, and a terming engine
+to generate a list of relevant terms for each parsed story. The database of
+these stories and terms will be used as the basis for a number of research
+projects into new media, including analysis of global attention profiles,
+selective news amplification, and media meme propagation, many of which
+will require additional work extracting and analyzing the necessary data
+from the database. The junior engineer will be responsible for the great
+bulk of the development of all of these pieces under the guidance of a
+project leader and with the advice of a lead architect. About the
+Organization: The Berkman Center for Internet & Society at Harvard Law
+School is committed to producing scholarship with impact, and is proud to
+be celebrating its tenth year as a research program founded to explore
+cyberspace, share in its study, and help pioneer its development. Founded
+in 1997, the Center now is home to an ever-growing community of faculty,
+fellows, staff, and affiliates working on projects that span the
+intersections among innovation, democracy, learning, law, technology, and
+policy. The environment at Berkman offers both an opportunity to learn new
+technologies and a unique window into the world of technology and policy. 
+
+Required skills:
+Basic qualifications: BSCS or equivalent experience with hands-on software
+engineering experience required. Additional qualifications: demonstrated
+ability to solve engineering problems and to plan, write, test, and deliver
+modules of code with little direct supervision. Must have the ability to
+research and learn new technologies quickly and often. Knowledge of the
+following areas is helpful: perl, regular expressions, rss/atom, sql, web
+crawling and scraping, browser automation, and mvc web development
+(catalyst, dbix::class, and html::formfu are most helpful). Candidates with
+a background and interest in new media specifically and Internet & society
+issues in general are preferred. Cover letters should include a description
+of a single (solved) engineering problem that best demonstrates each of
+these aspects of development (plan, write, test, deliver). 
+
+Contact information at:
+http://jobs.perl.org/job/9304#contact
+
+

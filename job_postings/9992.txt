@@ -1,0 +1,106 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9992
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 15025 invoked from network); 26 Mar 2010 16:20:47 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 26 Mar 2010 16:20:47 -0000
+Received: (qmail 23739 invoked by uid 225); 26 Mar 2010 16:20:47 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 23679 invoked by alias); 26 Mar 2010 16:20:47 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 26 Mar 2010 09:20:43 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id ABD272AFE1; Fri, 26 Mar 2010 09:20:39 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20100326162039.ABD272AFE1@x3.develooper.com>
+Date: Fri, 26 Mar 2010 09:20:39 -0700 (PDT)
+Subject: Sr. Systems Administrator and Tools Dev (onsite), CA, San Francisco
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/11988
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 26, 2010
+
+Job title: Sr. Systems Administrator and Tools Dev
+
+Company name: Quantcast
+
+Location: CA, San Francisco
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Quantcast is looking to hire a Linux/UNIX expert with extensive WAN
+experience. As we’re currently collecting data from over 8 million page
+views a day, across 10 million directly measured sites, this is a unique
+opportunity to work on one of the largest computing infrastructures in the
+world. The ideal candidate should be excited by working on a global scale,
+multi-locational WAN, in a start-up environment. Our highly skilled team is
+small and tight-knit, providing the ideal environment for someone looking
+to make a visible impact and contribute to Quantcast’s success.
+
+Quantcast provides publishers, agencies and marketers unmatched abilities
+to measure, segment, and target audiences based upon inference models that
+couple machine learning with massive quantities of directly measured
+audience and reference data. This approach overcomes the challenges and
+limitations of traditional media measurement services that rely on panels
+and expands the limited delivery of retargeting approaches to reach a
+larger, more qualified audience.  We were recently named the #3 most
+innovative web company in 2010 by FastCompany, behind Facebook and Google,
+and we are roughly 80 employees.  We offer a full benefits package.
+
+
+Required skills:
+Responsibilities:
+· Administration of existing global infrastructure
+· Management of alarm/alert systems including familiarity with standard
+alarm and monitoring software/methods and development of new
+alert/monitoring subsystems
+· “Lights out” and remote datacenter deployment and management
+· Experience with management of large compute and serving clusters and
+associated issues such as automation, configuration management, deployment,
+inventory, hardware troubleshooting, system troubleshooting, etc.
+· 24 hour on-call duty as necessary
+· Some travel required
+
+Requirements:
+· Bachelor’s in Computer Science, Networking or Electrical Engineering or
+equivalent professional experience
+· Expert knowledge of Linux administration and production operations
+· Understanding and tuning of Linux internals
+· Extensive knowledge of networking protocols on the wire and by RFC,
+especially TCP/IP, HTTP, HTTPS, and DNS.
+· Experience with package management systems like RPM for building and
+deploying custom software
+· Extensive Experience scripting in Perl, Python, or Ruby
+· Experience multi-datacenter deployments
+· Flexibility to deal with novel, and fast-paced deployment environments
+· Excellent planning and prioritization skills
+· Vendor negotiation and management background a plus
+· Experience running a production 24/7 web site
+
+URL for more information:
+http://tbe.taleo.net/NA8/ats/careers/requisition.jsp?org=QUANTCAST&cws=1&ri
+d=13
+
+Contact information at:
+http://jobs.perl.org/job/11988#contact
+
+

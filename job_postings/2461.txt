@@ -1,0 +1,117 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2461
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 2123 invoked from network); 16 Mar 2005 09:04:17 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 16 Mar 2005 09:04:17 -0000
+Received: (qmail 23628 invoked by uid 225); 16 Mar 2005 09:04:17 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 23624 invoked by alias); 16 Mar 2005 09:04:16 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 16 Mar 2005 01:04:03 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j2G941rq011227
+	for <jobs@perl.org>; Wed, 16 Mar 2005 01:04:01 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j2G941J6011225;
+	Wed, 16 Mar 2005 01:04:01 -0800
+Date: Wed, 16 Mar 2005 01:04:01 -0800
+Message-ID: <200503160904.j2G941J6011225@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: SUMMER INTERN: Perl hacker (telecommute), United States, MA, Somerville
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2361
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 15, 2005
+
+Job title: SUMMER INTERN: Perl hacker
+
+Company name: Best Practical Solutions, LLC
+
+Location: United States, MA, Somerville
+
+Pay rate: USD 15-25/hour
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: Summer (dates flexible)
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+Best Practical Solutions makes RT, the premiere open source issue tracking
+system. To find out more about what we do, check out our website at
+http://www.bestpractical.com. We're looking for a couple of summer interns
+who can help us enhance RT and work an a couple of new s00per s3kkr1t
+projects.
+
+
+Required skills:
+You should be a self-starter who has some experience with Perl, as well as
+at least a few of the following:
+
+    * Test driven development
+    * HTML::Mason templating
+    * SQL databases
+    * Documentation
+    * MVC frameworks
+    * User interface design
+    * Web Services
+    * HTML
+    * Cascading Style Sheets
+    * Subversion and SVK
+
+
+Desired skills:
+We're based in Boston, but everyone telecommutes, so you should be
+comfortable collaborating with others online.  It's ok if you don't know
+everything out of the gate, but you should be able to learn on the fly and
+be comfortable asking questions when you get in over your head.  RT is a
+large codebase to dive into (47000 lines of libraries, 27000 of templates)
+so you should be prepared to work with a project that's too big to hold in
+your head at once.  If you want to see what sort of trouble you're getting
+yourself into, download a copy of RT's source code from:
+
+   http://download.bestpractical.com/pub/rt/release/rt.tar.gz
+
+
+URL for more information: http://bestpractical.com/
+
+Contact information:
+You'll be working full time all summer (though we're flexible about exact
+dates.) Compensation depends on experience but is generally in the range of
+$15-$25/hour. 
+
+If spending the summer getting paid to hack on open source software sounds
+like fun to you, drop us a line at resumes@bestpractical.com.
+
+When you write, please include an informal cover letter telling us a bit
+about who you are and what sorts of things you're interested in as well as
+a code sample or two. In an ideal world, your code sample will include
+documentation and tests, but if it doesn't just include a good sob story
+about why it doesn't. We'd prefer to have your resume in plain text, but
+will also accept PDFs or proprietary formats if you can't send a plain text
+version.
+
+PLEASE NOTE: This is a summer internship, not a salaried position.
+
+
+

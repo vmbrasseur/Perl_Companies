@@ -1,0 +1,156 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12086
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 19684 invoked from network); 3 Feb 2012 06:30:21 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 3 Feb 2012 06:30:21 -0000
+Received: (qmail 8847 invoked by uid 225); 3 Feb 2012 06:30:21 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 8843 invoked by alias); 3 Feb 2012 06:30:20 -0000
+X-Spam-Status: No, hits=-3.8 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS,SUBJECT_NEEDS_ENCODING,SUBJ_ILLEGAL_CHARS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 02 Feb 2012 22:30:18 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 3A1AD2AFE0; Thu,  2 Feb 2012 22:30:15 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 2 Feb 2012 22:30:15 -0800
+Message-ID: <20120203063015.3A1AD2AFE0@x3.develooper.com>
+Subject: Software Architect – Open Air (onsite), Brno, Czech Republic
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15472
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February  1, 2012
+
+Job title: Software Architect – Open Air
+
+Company name: Netsuite
+
+Internal ID: Netsuite
+
+Location: Brno, Czech Republic
+
+Pay rate: negotiable
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+About NetSuite:
+
+Picture yourself building a successful career at NetSuite—working alongside
+other talented, driven individuals to help fast-growing mid-size
+organizations and larger enterprises achieve their business goals with the
+world’s #1 cloud-based business management suite for ERP/financials, CRM,
+ecommerce and more.
+
+Founded in 1998 by Oracle CEO Larry Ellison and NetSuite CTO and Chairman
+Evan Goldberg,
+NetSuite (NYSE: N) is used by more than 10,000 companies and subsidiaries
+to run mission-critical operations without the high capital costs and
+inefficiency of antiquated client/server systems. Named by Gartner as the
+world’s fastest-growing financial management vendor and winner of a
+prestigious 2011 CODiE award for Best Financial Management Solution,
+NetSuite is where business is going. 
+
+Summary:
+
+Evolve often minimally-defined client business requirements into
+professional quality NetSuite OpenAir solutions which satisfy not only that
+client, but have the flexibility and customizability to be used by clients
+with differing business processes and needs. These solutions may require
+the conceptualization, design and implementation of a full-blown NetSuite
+OpenAir Module, they may require evolving the system with architectural
+extensions or they may dictate a minimal tweak to existing functionality. 
+
+Fully scope out the impact of an implementation by considering all of the
+necessary changes and any impact they may have on other parts of the
+product.
+
+Work in the NetSuite OpenAir development environment which is defined by
+ASP deployment, a rapid release cycle and based on the “Extreme
+Programming” software development discipline combined with the NetSuite
+OpenAir operating principle of customer service orientation. This
+environment mandates that bug fixes impacting clients take precedence over
+both quick on-demand enhancements and longer term “planned” development
+initiatives. It also means that quick on-demand enhancements often take
+precedence over previously planned initiatives. The rapid release cycle
+insures that features that are pushed out past a release date because of
+this operating principle can be addressed in either the next scheduled
+release or slip-streamed in the interim. This environment insures that we
+have a high level of confidence in setting client expectations.  
+	
+Responsibilities:
+
+•Act as a technical lead on a variety of projects to drive requirements all
+the way through to implementation. Work closely with key stakeholders both
+internally and externally as needed to deliver solutions in a timely
+manner.
+
+•Work closely with management to identify issues, and solutions
+proactively.
+
+•Educate peers and staff with regards to the application as well as new
+technologies that may help drive the product forward or promote
+efficiencies
+
+•Stay abreast of new technologies and trends that may impact the product or
+company and share these with your peers.
+
+•Assist management in cross training existing and new staff so that we can
+expand the engineering department and provide growth opportunities for all
+engineering staff. 
+
+•Design and develop technical high quality solutions that promote code. 
+
+•Work closely with other members of the NetSuite OpenAir engineering team
+to look for opportunities to tune the NetSuite OpenAir architecture,
+product, and infrastructure to further increase system reliability and
+performance.
+
+•Work with large enterprise clients and their technical staff to isolate,
+diagnose, and resolve performance issues specific to their use of this
+business workflow product.
+
+•Work in the NetSuite OpenAir development environment which is defined by
+ASP deployment, a rapid release cycle and based on the “Extreme
+Programming” software development discipline combined with the NS OA
+operating principle of customer service orientation.
+
+•Fully scope out the impact of an implementation by considering all of the
+necessary changes and any impact they may have on other parts of the
+product.
+
+Required skills:
+Requirements
+Qualifications/Skills:
+Essential Technical Skills:
+•Linux
+•Perl / mod perl
+•MySQL
+•JavaScript
+
+Preferred Experiences:
+•Database
+•UE - user experience
+•Business process
+•Web/application architecture
+
+Website for more information: http://www.netsuite.com/portal/aboutus.shtml
+
+Contact information at:
+http://jobs.perl.org/job/15472#contact

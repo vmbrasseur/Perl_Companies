@@ -1,0 +1,150 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:1803
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 12328 invoked from network); 3 Aug 2004 01:40:30 -0000
+Received: from x1.develooper.com (63.251.223.170)
+  by onion.develooper.com with SMTP; 3 Aug 2004 01:40:30 -0000
+Received: (qmail 19609 invoked by uid 225); 3 Aug 2004 01:40:30 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 19604 invoked by alias); 3 Aug 2004 01:40:29 -0000
+X-Spam-Status: No, hits=-0.0 required=8.0
+	tests=BAYES_40
+X-Spam-Check-By: la.mx.develooper.com
+Received: from onion.develooper.com (HELO onion.perl.org) (63.251.223.166)
+  by la.mx.develooper.com (qpsmtpd/0.27.1) with SMTP; Mon, 02 Aug 2004 18:40:27 -0700
+Received: (qmail 12306 invoked by uid 1016); 3 Aug 2004 01:40:26 -0000
+Date: 3 Aug 2004 01:40:26 -0000
+Message-ID: <20040803014026.12305.qmail@onion.perl.org>
+To: jobs@perl.org
+X-Virus-Checked: Checked
+X-Spam-Rating: onion.develooper.com 1.6.2 0/1000/N
+Subject: Sr Database Developer with Perl, Unix and Oracle; not a DBA (onsite), CA, Pasadena
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1694
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August  2, 2004
+
+Job title:
+Sr Database Developer with Perl, Unix and Oracle; not a DBA
+
+Company name: eQuest Solutions
+
+Location: CA, Pasadena
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: full time
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Please review the description below.  If you are interested, please send me
+your updated resume (that explains in detail your Perl, PL/SQL, SQL, SQL
+Loader, Oracle and UNIX shell scripting experience/responsibilities for
+high-volume backend systems/database development at each employer that
+match the position requirements) as a word document attachment.  I will
+then call you to tell you all about the company, position and team.  Please
+note that all of your Perl, Unix Shell Scripting, Oracle and PL/SQL
+experience must be detailed in the body of your resume to be considered.
+
+If you are not interested, I was hoping you could help me out and refer me
+to a Sr Perl Backend Systems/Database Developer on Oracle (not a DBA)
+and/or a Sr Perl Developer (see Position #2 below) that you have worked
+with or know of that would be interested in the following position in
+Pasadena, CA.
+
+I would greatly appreciate any help you can provide me and would be happy
+to provide you with a $500 referral fee for any resulting placements.
+
+Location: Pasadena, CA
+Salary: $80-110K + options
+
+As a result of increased business, a leading Global Company is looking for
+yet another Sr Perl Backend Systems/Database Developer on/into Oracle to
+join a growing Data Operations team of Oracle Database Developers.  Company
+has been public for over 3 years, has been profitable for the past 6
+Quarters, has YTD Net Income of $18+ million and has $100+ million in cash.
+ Company has over 500 employees globally.
+
+The Sr Perl Backend Systems/Database Developer on Oracle will be
+responsible for developing, enhancing, troubleshooting Company’s backend
+Perl/Oracle database applications, in a UNIX (Solaris/Linux) environment,
+using Perl, SQL, PL/SQL, SQL Loader and Unix shell scripts.  Company is
+running several instances of Oracle 8i databases on Solaris/Linux, loading
+100,000’s transactions/day of financial data into a 30+ terabyte Data
+Warehouse. Transaction processing and reporting systems are developed in
+Perl, Unix Shell Scripts, PL/SQL, SQL Loader and SQL. Candidate will be
+responsible for developing and optimizing the backend systems for
+stability, scalability and efficiency.	Responsible for designing and
+optimizing database schema, queries, and complex stored procedures under
+Oracle 8. Locate and fix bugs in the existing Perl, SQL and PL/SQL code
+base in a timely manner.  Create and modify Unix shell scripts. Candidate
+will also maintain the integrity of the databases in order to provide
+accurate information.  Candidate will provide technical assistance by
+responding to inquires from users regarding errors, problems or questions
+about programs. Ensure availability of data in a timely manner. Consult
+with users to design and code reports/programs to meet their needs. 
+Candidate will be required to be on-call 1 week every 2 months.
+
+The company offers full benefits (PPO & HMO) including dental and vision,
+401K, Stock Options and Purchase Plans, 2 weeks vacation, 8 paid sick days,
+Short and Long Term Disability, Life Insurance, Employee Assistance
+Program, casual dress and flexible work hours that all start upon
+employment.
+
+
+Required skills:
+REQUIREMENTS
+MUST HAVE 2-3+ years developing large high-volume (50-100K transactions/day
+or data files of 2 Gb files)) backend Systems in Perl utilizing SQL, SQL
+Loader, PL/SQL and Unix shell scripts on Oracle.  
+MUST HAVE Perl and Unix Shell Scripting experience, preferably on Solaris
+and Linux.
+Ability to understand and create very complex SQL statements.
+Must be able to apply optimization methods, including Oracle Hints, to SQL
+statements.
+Must have experience creating stored procedures and triggers with PL/SQL.
+Should have experience with multiple storage techniques (flat files, DB
+Berkeley, etc..).
+Ability to extract unique records from Oracle using SQL and PL/SQL.
+Must be able to be on call 1 week every 2 months.
+PLUS:
+Unix System Administration or DBA experience is a plus, but not necessary.
+Experience in Database logical and physical design is a plus, but not
+necessary.
+
+Please note that all of your Perl, Unix, SQL, SQL Loader and PL/SQL
+experience, including a detailed description of the backend database
+systems (# and type of sources of data), the types of data format
+received/converted to, any converting, verifying, manipulating, cleansing,
+etc. of data, the size/volume of transactions processed
+daily/weekly/monthly (or data files of 2 Gb or greater) and the size of the
+database (total size in TB’s/# of records/table) must be in the body of
+your resume to be considered.  Furthermore, you need to discuss each of the
+technologies you used for each part of the above backend database system.
+
+Please note that this is not an Oracle DBA or Architect position and DBA's
+nor Architects will be considered.
+
+*Company is unable to sponsor or perform corp to corp for Visa holders. *
+*Company will not offer relocation assistance. *
+
+Company is in position to hire immediately.  
+
+
+Contact information: al@equestsolutions.com
+
+

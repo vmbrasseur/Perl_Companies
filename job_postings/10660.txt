@@ -1,0 +1,91 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10660
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 3601 invoked from network); 22 Oct 2010 19:56:10 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 22 Oct 2010 19:56:10 -0000
+Received: (qmail 9610 invoked by uid 225); 22 Oct 2010 19:56:09 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 9606 invoked by alias); 22 Oct 2010 19:56:09 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS,T_FRT_PROFILE2
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 22 Oct 2010 12:56:07 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 630EB2AFE1; Fri, 22 Oct 2010 12:56:04 -0700 (PDT)
+To: jobs@perl.org
+Date: Fri, 22 Oct 2010 12:56:04 -0700
+Message-ID: <20101022195604.630EB2AFE1@x3.develooper.com>
+Subject: Sr. Perl Developer (onsite), United States, New York, New YorK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13108
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 22, 2010
+
+Job title: Sr. Perl Developer
+
+Company name: SeniorBridge
+
+Location: United States, New York, New YorK
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The candidate will be responsible for web interface programming for an
+internal database driven application that connects multiple systems used
+for internal operations.  The position requires primarily Perl/web
+development work, but there is also a component of Oracle database and
+Linux system administration.  
+
+The candidate must be proficient with SQL and able to author queries for
+reporting purposes.  The candidate must be a proficient web author and be
+familiar with JavaScript programming.  The applicant should be prepared to
+participate in discussions on broader information architecture and design
+questions.
+
+
+Required skills:
+*  A very high proficiency in Perl programming for web applications and
+system administration.
+
+*  Ability to author Perl modules and subroutine packages
+
+* Solid understanding of multidimensional data structures, references,
+regular expressions
+
+* A very high proficiency in SQL
+
+* Solid understanding of database concepts: indices  subquerying, and
+triggers
+
+* Web authoring JavaScript, HTML, CSS
+
+* Extensive experience in command line Unix/Linux environments
+
+
+Desired skills:
+Plusses:
+Oracle specific experience
+Oracle database administration 
+RedHat Linux systems administration
+Experience programming for mod_perl, Apache. 
+
+
+Website for more information: http://seniorbridge.com/
+
+Contact information at:
+http://jobs.perl.org/job/13108#contact

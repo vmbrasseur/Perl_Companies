@@ -1,0 +1,100 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12119
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 16861 invoked from network); 10 Feb 2012 22:59:15 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 10 Feb 2012 22:59:15 -0000
+Received: (qmail 21132 invoked by uid 225); 10 Feb 2012 22:59:15 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 21128 invoked by alias); 10 Feb 2012 22:59:15 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 10 Feb 2012 14:59:12 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 66B822AFE1; Fri, 10 Feb 2012 14:59:09 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 10 Feb 2012 14:59:09 -0800
+Message-ID: <20120210225909.66B822AFE1@x3.develooper.com>
+Subject: Senior Software Engineer (onsite), Seattle, WA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15530
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 10, 2012
+
+Job title: Senior Software Engineer
+
+Company name: Marchex
+
+Location: Seattle, WA
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are looking for a senior or principal developer, a technologist with
+drive and initiative, to work with us in the design and creation of new
+components for our growing call advertising network.
+
+About You:
+You like working with other gifted developers in an environment where you
+can be both teacher and student. You want the impact of your work to be
+visible and recognized by your co-workers and the community. You want to
+create new, ground breaking products as well as extending existing code. 
+You want to be innovative, using the latest technology including no-sql
+solutions. You want to spend your day working on challenging problems and
+learning new things while working side-by-side with some of the best talent
+in the Seattle area.
+
+About Us:
+Calls are a big focus for us here at Marchex.  In 2009 we launched our Call
+Advertising/Network with the introduction of Pay-For-Call.  In 2010 we
+launched our Click & Call Advertising partnership with Skype.  In 2011 we
+acquired Jingle Networks and are looking to shift our calls business into
+overdrive.  We have a lot of new technology and business plans that require
+even more.  We are looking for people who see challenges as technical
+opportunities and will help design and build amazing products.	We believe
+in open source and rely heavily on Perl, Ruby, Java, Asterisk, OpenSIPS,
+Redis, Linux, Jenkins/Hudson and PosgreSQL.  We collaborate with other
+awesome developers to write stellar software with code that makes us proud.
+ We believe that smart people can solve hard problems to help us continue
+our impressive growth.
+
+Required skills:
+•	7+ years experience in software development with diverse
+programming languages, Perl preferred 
+•	Experience with high-performance in-memory solutions
+•	Experience with no-sql solutions on large data sets
+•	Experience using relational databases; Oracle, DB2, PostgreSQL and
+others
+•	Extensive experience with complex branching/merging strategies with
+source control systems; Git is a plus
+•	Passionate about working in agile SDLCs
+•	Strong understanding of OO design, algorithms, data structures,
+networking, database design & optimization
+•	Proven ability to quickly learn new technologies
+
+Desired skills:
+•	Experience with VoIP telephony a huge plus, especially Asterisk and
+OpenSIPS
+
+Website for more information:
+http://tbe.taleo.net/NA9/ats/careers/requisition.jsp?org=MARCHEX&cws=1&rid=
+1871
+
+Contact information at:
+http://jobs.perl.org/job/15530#contact

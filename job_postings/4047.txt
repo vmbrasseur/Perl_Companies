@@ -1,0 +1,117 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4047
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 5946 invoked from network); 23 Mar 2006 19:42:21 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 23 Mar 2006 19:42:21 -0000
+Received: (qmail 1151 invoked by uid 225); 23 Mar 2006 19:42:20 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 1143 invoked by alias); 23 Mar 2006 19:42:20 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ADVANCE_FEE_1,ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 23 Mar 2006 11:42:15 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 003D22AFBC; Thu, 23 Mar 2006 11:42:08 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20060323194208.003D22AFBC@x3.develooper.com>
+Date: Thu, 23 Mar 2006 11:42:08 -0800 (PST)
+Subject: mod_perl programmer for healthcare (part onsite), United States, MA, watertown
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3605
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 23, 2006
+
+Job title: mod_perl programmer for healthcare
+
+Company name: athenahealth
+
+Location: United States, MA, watertown
+
+Pay rate: $50-100+ US
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+Who are we? 
+We are a 400+ person rapidly-growing software/services company dedicated to
+improving the lives of practicing physicians in the U.S.  We are one of the
+few successful companies focused on making medical offices run more
+efficiently. Our co-founders, Todd Park (Economics, Magna Cum Laude, Lowell
+'93) and Jonathan Bush (HBS '98) both helped to found the managed care
+consulting practice at Booz Allen & Hamilton.  We have won multiple #1
+awards, enjoy revenues of $80+ million per year, and we're just getting
+started.  
+
+Why would you want to work here? 
+We hire the best of the best: software developers, business analysts,
+implementation consultants. If you're looking at Oracle/Microsoft/Google or
+McKinsey/Bain/BCG, you'll feel right at home here.  Our product development
+branch includes many alumni from Harvard and MIT, as well as former
+professors from U. Chicago and Northeastern, a Rand Institute statistician,
+and other smart folks who took the road less traveled.	We were also voted
+one of the best places to work in Massachusetts by Boston Business Journal
+(http://athenahealth.com/Home/NewsAndEvents/PressReleases/BBJBestPlaces2005
+/).  
+
+In terms of the technology platform-- you'll likely be working on Linux
+with Oracle, perl/modperl, and Apache, with plenty of DHTML, CSS, and
+JavaScript thrown into the mix. But that's not why you'd be coming here; we
+believe any hacker worth his/her salt can pick this stuff up in a matter of
+a couple of months or so. We're more interested in folks with raw talent
+and a burning desire to succeed.  
+
+
+Required skills:
+Job Requirements : The Technologist should possess the skills necessary to
+participate in the application programming of an Internet application.
+(S)he must be able to prioritize and complete multiple tasks efficiently
+and accurately. 
+
+1. Substantial expertise in at least one of the following programming
+languages: C, C++, Perl, Java, Ruby, Python.
+a. A keen and inquisitive intellect
+b. Ability to function as an integral part of the technology development
+team
+
+
+Desired skills:
+if you're interested in applying please submit your resume along with a
+solution to the following puzzle to the contact information below.
+
+
+Puzzle:
+
+You and a friend are about to eat a pizza.  You both consume pizza at
+precise rates: it always takes you X seconds to eat a slice of pizza, and
+it takes your friend Y seconds.  Once the pizza is cut, you will both start
+eating at the same time. Each person can eat only one slice at a time.	You
+cannot touch the next piece until you finish the one you’re eating.  Out of
+generosity, you have agreed in advance to allow your friend to have the
+last slice if you should both happen to reach for it at the same time. 
+Assuming that you would like as much of the pizza as possible to end up in
+your stomach, into how many equally-sized slices should the pizza be cut?  
+
+URL for more information: http://www.athenahealth.com/
+
+Contact information at:
+http://jobs.perl.org/job/3605#contact
+
+

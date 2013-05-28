@@ -1,0 +1,107 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:1445
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 76528 invoked by uid 76); 26 Mar 2004 10:20:51 -0000
+Received: from x1.develooper.com (HELO x1.develooper.com) (63.251.223.170)
+  by onion.perl.org (qpsmtpd/0.27.1) with SMTP; Fri, 26 Mar 2004 02:20:51 -0800
+Received: (qmail 23031 invoked by uid 225); 26 Mar 2004 10:20:48 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 23026 invoked by alias); 26 Mar 2004 10:20:48 -0000
+X-Spam-Status: No, hits=0.0 required=7.0
+	tests=
+X-Spam-Check-By: la.mx.develooper.com
+Received: from onion.develooper.com (HELO onion.perl.org) (63.251.223.166)
+  by la.mx.develooper.com (qpsmtpd/0.27.1) with SMTP; Fri, 26 Mar 2004 02:20:33 -0800
+Received: (qmail 76363 invoked by uid 1016); 26 Mar 2004 10:20:31 -0000
+Date: 26 Mar 2004 10:20:31 -0000
+Message-ID: <20040326102031.76362.qmail@onion.perl.org>
+To: jobs@perl.org
+Subject: Oracle Application Developer/Perl Developer (onsite), United States, CA, San Diego
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1340
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 24, 2004
+
+Job title:
+Oracle Application Developer/Perl Developer
+
+Company name: PLATO Learning
+
+Location: United States, CA, San Diego
+
+Pay rate: depends on experience
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Primary responsibility of this position is to migrate existing MySQL
+database back end to Oracle and maintain portability of the data between
+both systems. Secondary responsibility is to create, maintain and enhance
+mod_perl data access layer objects in a high volume web application. The
+application will be deployed with Oracle or MySQL back end. All systems run
+on Red Hat Linux. The developer will also act as a technical resource for
+database issues; for the development team and the deployment team. This
+position is responsible for planning and implementing a quality, reliable
+and scalable on-line educational assessment and reporting system.
+
+Essential Duties and Responsibilities:
+- Plan, design, and document Oracle implementation of existing MySQL
+database.
+- Maintain and optimize Oracle database. Must be scalable, handle high
+transaction volume, and enforce strict data integrity.
+- Plan and execute migration of data between MySQL database and Oracle.
+Develop tools/scripts as needed.
+- Design, document, implement, and maintain data access layer for web
+application in mod_perl. 
+- Integrate with concurrent development projects; including version
+control, project estimation.
+- Locate and fix bugs in Database and mod_perl application. Develop unit
+tests and documentation. Work with quality assurance team. 
+- Report on progress against project milestones, identify and manage risk. 
+
+- Review and recommend technologies. 
+
+Education and/or Experience:
+- Bachelor's degree in computer science or an equivalent combination of
+education and experience. 
+- 3-5 years of Oracle application development experience. 
+- 2-4 years experience in Apache/ mod_perl web application development. 
+- 2+ years of MySQL database development. 
+- Red Hat Linux experience preferred. 
+
+
+Required skills:
+- Experience working with large transactional Oracle databases.
+- Experience working with high volume web applications. 
+- Good understanding of databases, schemas, and access commands.
+- Experience in designing/implement applications deployed at multiple data
+centers. 
+- Experience programming in mod_perl with MySQL and Oracle as back ends.
+- In-depth knowledge of Linux/Apache/mod_perl/DBI. 
+- In-depth knowledge of Oracle on Linux. 
+
+
+Contact information:
+Emily Cates
+Sr. HR Representative
+PLATO Learning, Inc.
+www.plato.com
+952-832-1473
+952-832-1220 – fax
+ecates@plato.com
+
+
+

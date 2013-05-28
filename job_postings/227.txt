@@ -1,0 +1,137 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:227
+Return-Path: <Todd_Cranston-Cuebas@citysearch.com>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 15773 invoked from network); 25 Oct 2001 20:40:09 -0000
+Received: from electabuzz.tmcs.net (209.104.63.242)
+  by onion.valueclick.com with SMTP; 25 Oct 2001 20:40:09 -0000
+Received: from pasmail.office.tmcs (pasmail.office.tmcs [172.25.1.131])
+	by electabuzz.tmcs.net (8.9.3/8.9.3/200011111934) with ESMTP id NAA07893
+	for <jobs@perl.org>; Thu, 25 Oct 2001 13:40:07 -0700 (PDT)
+Received: by pasmail.office.tmcs with Internet Mail Service (5.5.2653.19)
+	id <49J1P936>; Thu, 25 Oct 2001 13:39:47 -0700
+Message-ID: <71D28C8451BFD5119B2B00508BE26E640D172E@pasmail3.office.tmcs>
+To: jobs@perl.org
+Date: Thu, 25 Oct 2001 13:38:53 -0700
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2653.19)
+Content-Type: text/plain;
+	charset="iso-8859-1"
+X-Spam-Rating: onion.valueclick.com 1.6.2 0/1000/N
+Subject: Ticketmaster: Looking for a few good... perl hacks
+Approved: news@nntp.perl.org
+From: Todd_Cranston-Cuebas@citysearch.com (Todd Cranston-Cuebas)
+
+Check out both jobs below! (Senior Software Engineer and Software Engineer)
+We have multiple openings, all located in mid-Wilshire, Los Angeles.
+
+We're looking for people for both our Ticketmaster.com and citysearch.com
+development teams.
+
+***************************************************************
+Title: Senior Engineer and Software Engineer Positions
+Location: Los Angeles (mid-Wilshire), California
+Company: Ticketmaster Corporation
+Contact: techjobs@ticketmaster.com
+Note: You will be applying to the corporate recruiting department (not a
+contingency agency).
+
+***************************************************************
+Only those candidates with skills outlined will be considered for this
+position. Please include the following code in the subject of your email
+depending upon which position you are applying to.
+
+Senior Engineer: 506
+Software Engineer: 507
+***************************************************************
+
+General Characteristics:
+Senior Software Engineer will be responsible for core, back-end technology
+development including, but not limited to, the design/architecture of new
+solutions, the refinement of existing code, and the
+optimization/acceleration of dynamic web content through caching.
+
+Organizational Culture:
+Ticketmaster is a fast growth company. Candidate must thrive in a
+fast-paced, ever changing, entrepreneurial environment. Individual must be
+able to work independently as well as collaboratively. Must be resourceful
+and be able to understand the full breadth of how the company works
+together.  Individual must be a creative thinker, confident and able to
+express ideas in an articulate, well thought out manner. Ability to
+multi-task and prioritize deadlines is a must.
+
+Workflow:
+Develop core back-end technologies, primarily mod_perl development utilizing
+both perl and C, for a leading, high-volume web organization. As part of
+development group, you will work closely with your team members, the
+templating/HTML programming group (HTML and Template Toolkit), and the
+UI/Strategy group. You will be responsible for integrating new functionality
+into our existing code base as well as aiding in the architecture, design,
+and implementation of new core technologies.
+
+***************************************************************
+                         SENIOR ENGINEER
+***************************************************************
+Essential Functions:
+Coding/Development: 65% C/Perl/mod_perl development in a Linux/UNIX
+environment, potential for some Java development.
+Design: Approx. 20% design of new systems and architecture.
+Troubleshooting: 10%  troubleshooting
+Leadership Experience: 5% Guiding/mentoring more junior members.
+
+Required Experience:
+- 4+ yrs. experience
+
+- HTML
+- Apache Web Server
+- mod_perl
+- C/C++ programming
+- strong Linux or Unix background.
+- experience accelerating dynamic web content through caching
+- OO perl experience
+- RDBMS experience
+- Experience as team/project lead
+
+Preferred Experience:
+-Strong proficiency with RDMS systems (Oracle and mySQL ideal)
+-Java experience/exposure
+-Experience with mentoring/training of junior members
+
+Positives:
+Great opportunity to work in a premier development team in a large-scale,
+extremely high volume, web development environment.
+
+***************************************************************
+                      SOFTWARE ENGINEER
+***************************************************************
+
+Essential Functions:
+Design, develop and maintain portions of the Ticketmaster Online web site.
+General functions performed include:
+Coding and development: 75% Perl/mod_Perl development in a Linux/Unix
+environment (Solaris specifically).
+Design: Approx. 10% design of new systems and architecture
+Troubleshooting: Integral with coding process. Approx. 10% dedication to
+code review, maintenance, support issues due to bugs and bug tracking.
+Leadership: 5% taking lead on specific development and guiding/mentoring
+team members.
+
+Required Experience:
+- 4 years experience in development
+- HTML
+- Apache Web Server
+- mod_perl/Perl
+- database experience (general RDBMS knowledge and SQL specifically)
+- strong Linux or Solaris background
+- experience with performance tuning
+- OO perl development in a web environment
+
+Preferred Experience:
+- C/C++ experience
+
+Positives:
+Great opportunity to work in a premier development team in a large-scale,
+extremely high volume, web development environment.

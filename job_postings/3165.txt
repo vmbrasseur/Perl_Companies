@@ -1,0 +1,131 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3165
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13589 invoked from network); 5 Sep 2005 19:49:15 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 5 Sep 2005 19:49:15 -0000
+Received: (qmail 32631 invoked by uid 225); 5 Sep 2005 19:49:15 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 32625 invoked by alias); 5 Sep 2005 19:49:14 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 05 Sep 2005 12:49:10 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j85Jn8Cr028627
+	for <jobs@perl.org>; Mon, 5 Sep 2005 12:49:08 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j85Jn6Zi028624;
+	Mon, 5 Sep 2005 12:49:06 -0700
+Date: Mon, 5 Sep 2005 12:49:06 -0700
+Message-ID: <200509051949.j85Jn6Zi028624@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Perl XML / HTML programmer, Germany, NRW, Koeln
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3024
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September  5, 2005
+
+Job title: Perl XML / HTML programmer
+
+Company name: TourWerk GmbH
+
+Location: Germany, NRW, Koeln
+
+Pay rate: EUR
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Description:
+We are a software company, that develops price comparison engines for the
+travel market. We are looking for a skilled perl programmer with extensive
+experience in XML and HTML parsing.  
+
+======================= German describtion =================
+
+Die TourWerk GmbH ist ein schnell wachsendes, leistungsstarkes und sehr
+gesundes Software - Unternehmen. Wir entwickeln Preisvergleichssysteme für
+den Online – Reisemarkt. Zu den von uns betreuten Projekten zählen
+billiger-mietwagen.de und billiger-reisen.de. Für unser Team in Köln suchen
+wir ab sofort eine(n) 
+
+Perl - Programmierer(in)
+
+Ihre Qualifikationen:
+
+- Sehr gute Perl Kenntnisse
+- Sicheres objektorientiertes Programmieren: Ihnen sind die
+Eigentümlichkeiten von OO Design in Perl bestens bekannt
+- Sehr gute Kenntnisse in XML: Sie beherrschen Xpath, DOM und expat 
+- Erfahrungen in XML Parsing unter Perl (XML::Parser, Xpath usw)
+- Gute Kenntnisse von regulären Ausdrücken
+- Erfahrungen mit HTML Parsing in Perl: mit regulären Ausdrücken sowie mit
+Standartmodulen wie HTML::Parser
+SOAP Erfahrungen (als Client)
+- Gute MySQL Kenntnisse
+- Grundlegende UNIX / Linux Kenntnisse
+- Idealerweise Erfahrungen mit PHP (OO)
+- Idealerweise Erfahrungen mit SVN oder ähnlichem Tool
+- Leistungsbereitschaft
+- Lernbereitschaft
+- Spaß in einer kooperativen Umgebung zu arbeiten
+
+Wir bieten:
+
+- Gute Arbeitsatmosphäre in jungem und motivierten Team
+- Interessante und verantwortungsvolle Aufgaben
+- Leistungsgerechte Bezahlung
+- Mitwirken beim Aufbau einer eigenen Unternehmenskultur, die auf Fairness
+und Ethik basiert
+- Arbeiten in attraktiver Innenstadtlage mit guter Infrastruktur
+- Sehr flexible Arbeitszeiten (Früh- und Spätaufsteher sind gleichermaßen
+willkommen :-) )
+- Sicherer Arbeitsplatz
+
+Stelle frei: ab sofort
+Art der Position: Vollzeit
+
+Interessiert? Dann senden Sie uns bitte Ihre aussagekräftigen Unterlagen
+mit Gehaltsvorstellungen per E-Mail an:
+
+TourWerk GmbH
+Friesenplatz 5
+50672 Köln 
+0221-272755900
+E-Mail: jobs@tourwerk.de
+
+Required skills:
+- extensive knowledge of OO Design in Perl
+- extensive knowledge of XML: you know XPath, DOM and expat
+- experience in XML parsing in Perl (XML::Parser, XPath ...)
+- skills in regular expressions
+- experience in HTML parsing in Perl (HTML::Parser)
+- SOAP experience
+- MySQL skills
+- basic Linux skills
+
+
+Desired skills:
+- PHP skills (OO Design)
+- SVN skills
+
+Contact information at:
+http://jobs.perl.org/job/3024#contact
+
+

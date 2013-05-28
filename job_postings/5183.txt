@@ -1,0 +1,100 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5183
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 32347 invoked from network); 27 Oct 2006 05:52:44 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 27 Oct 2006 05:52:44 -0000
+Received: (qmail 11451 invoked by uid 225); 27 Oct 2006 05:52:44 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11445 invoked by alias); 27 Oct 2006 05:52:44 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 26 Oct 2006 22:52:38 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id D32AD2AFE3; Thu, 26 Oct 2006 21:50:41 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20061027045041.D32AD2AFE3@x3.develooper.com>
+Date: Thu, 26 Oct 2006 21:50:41 -0700 (PDT)
+Subject: Sr. Systems Developer (onsite), CA, Glendale & Redwood City
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4847
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 26, 2006
+
+Job title: Sr. Systems Developer
+
+Company name: DreamWorks Animation
+
+Location: CA, Glendale & Redwood City
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+RESPONSIBILITIES:
+
+•	Engineering the support and maintenance of large numbers of Red Hat
+Linux servers and workstations, including the design and development of
+scripts and tools to assist with that maintenance. 
+
+•	Integration and/or consolidation of services between different
+business units and technologies, including the design and development of
+whatever integration tools are needed.
+ 
+•	Design and support of high-performance network topologies in local,
+metropolitan, and wide areas. 
+
+•	Design, integration, and maintenance of network services such as
+internal web services, electronic mail, LDAP directories, and Oracle
+databases. 
+
+•	Designing and developing high-performance groups of servers for
+resource-intensive network applications. 
+
+•	Designing archive and backup systems for entire animation
+production. Works closely with technical staff to insure that backup and
+archiving designs and procedures are implemented properly. 
+
+
+Required skills:
+QUALIFICATIONS: 
+
+*Must have experience with developing IT or cluster software applications
+
+•	At least 10-12 years of systems administration experience in a
+large site. This is a SAGE level 4 position.
+•	Solid understanding of a UNIX-based operating system, including
+knowledge of kernel and network services.
+•	Familiarity with journaled file systems, TCP/IP, NFS, LDAP.
+•	Experience with network-attached storage devices such as Netapp
+Filers.
+•	Experience with administration in a heterogeneous UNIX/Linux
+environment is essential.
+•	Ability to write scripts using shell or Perl.
+•	Ability to develop tools using C or C++.
+•	Strong inter-personal and communication skills.
+•	Bachelor's degree in computer science or a related technical field. 
+
+URL for more information: http://www.dreamworksanimation.com/
+
+Contact information at:
+http://jobs.perl.org/job/4847#contact
+
+

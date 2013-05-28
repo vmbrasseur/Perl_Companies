@@ -1,0 +1,95 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12169
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 31970 invoked from network); 29 Feb 2012 08:54:10 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 29 Feb 2012 08:54:10 -0000
+Received: (qmail 27647 invoked by uid 225); 29 Feb 2012 08:54:10 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 27642 invoked by alias); 29 Feb 2012 08:54:10 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 29 Feb 2012 00:54:07 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 701152AFE2; Wed, 29 Feb 2012 00:54:04 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 29 Feb 2012 00:54:04 -0800
+Message-ID: <20120229085404.701152AFE2@x3.develooper.com>
+Subject: Perl Developers *VARIED LEVELS* (5 roles) (onsite), Cornwall, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15382
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 29, 2012
+
+Job title: Perl Developers *VARIED LEVELS* (5 roles)
+
+Company name: HeadForwards
+
+Internal ID: 5-new
+
+Location: Cornwall, UK
+
+Pay rate: £25-£50k
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are looking for 5 Perl Developers (with a ranging experience, hence
+salary range) to join an existing team of 12.
+
+Within an agile project management framework (Kanban) you will be part of a
+team whose job it is to understand user requirements, design solutions, and
+develop and test multi-tier implementations to address the requirements.
+
+The work is an interesting mixture of enhancing a mature, existing codebase
+along with new projects using webservices, AJAX and system integration.
+
+The job will be based in the beautiful county of Cornwall (surf, sea, fresh
+air). Our preference is to employ the successful candidate as a permanent
+employee (although contract employment can also be offered).
+
+Required skills:
+Perl
+SQL (any flavour)
+Team Worker
+Passionate about good software
+Professional
+
+The candidate will have commercial Perl software development experience
+including database development (PostgreSQL, MySQL or other SQL).  C/C++
+Programmers should also apply, but these are Perl Developer positions. 
+Ideally the candidate will have worked in a team.  It is expected that the
+candidate will have, at least, an understanding of Agile as a philosophy,
+Agile frameworks (Scrum, Kanban, XP) and as a practice (e.g. TDD, CI etc.).
+ Agile team experience would be a significant benefit but not essential. 
+The candidates should also have commercial experience of source control
+systems and concepts.
+
+Desired skills:
+OO Perl
+Javascript (JQuery, JSON, AJAX)
+Catalyst or other MVC framework
+CPAN User/Contributor
+PostgreSQL
+GIT
+
+Website for more information: http://www.headforwards.com/perl-jobs.html
+
+Contact information at:
+http://jobs.perl.org/job/15382#contact

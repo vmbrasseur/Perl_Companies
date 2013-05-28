@@ -1,0 +1,109 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2602
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 26101 invoked from network); 15 Apr 2005 22:43:01 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 15 Apr 2005 22:43:01 -0000
+Received: (qmail 28278 invoked by uid 225); 15 Apr 2005 22:43:01 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 28274 invoked by alias); 15 Apr 2005 22:43:00 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 15 Apr 2005 15:42:52 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j3FMgn8K028901
+	for <jobs@perl.org>; Fri, 15 Apr 2005 15:42:49 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j3FMgniV028899;
+	Fri, 15 Apr 2005 15:42:49 -0700
+Date: Fri, 15 Apr 2005 15:42:49 -0700
+Message-ID: <200504152242.j3FMgniV028899@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Quality Assurance Engineer - Ad Systems (onsite), United States, WA, Seattle
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2494
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 15, 2005
+
+Job title: Quality Assurance Engineer - Ad Systems
+
+Company name: WhitePages.com, Inc.
+
+Internal ID: 0105WD-41R
+
+Location: United States, WA, Seattle
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are looking for an experienced Quality Assurance Engineer to test our
+advertising system and suite of web based applications and products.  The
+QA Engineer – Ad Systems is responsible for writing, implementing and
+executing manual and automated test cases to exercise our product
+components, API’s, and proprietary data and search layer with special focus
+on our online advertising system.  The QAE – Ad Systems will have primary
+responsibility for flighting, creating and testing online advertising for
+the verification of OAS, our third party ad serving system.  The QAE – Ad
+Systems will be expected to find, isolate and enter bug reports in a bug
+database, including difficult to isolate bugs requiring creative
+investigation and persistence.	You will work directly with development and
+product management to get bugs fixed and make sure our sites and ad system
+are responsive, scalable, secure, up-to-date, and feature-rich.  You must
+be passionate about web applications, open source technologies, and the
+end-user experience.
+
+Required skills:
+•	BS or advanced degree in computer science, engineering, or related
+technical field.
+•	2+ years of experience in software QA using a variety of tools and
+techniques.
+•	Knowledge of standard QA process and procedures, test tools and
+methodologies, and product life cycle.
+•	Working knowledge of Perl, HTML, XML, XSLT, Linux, Apache, SQL,
+Oracle, and related technologies.
+•	Experience testing advertising placements across multiple sites
+with complex restrictions and dependencies.
+•	Experience developing test cases from business requirements and
+functional specifications.
+•	Experience developing test scripts for the online environment
+within a Perl framework.
+
+
+Desired skills:
+•	Desire to work in a fast-paced team environment.
+•	Experience scripting in an open ad source environment for test
+automation.
+•	Experience creating and executing complicated product path test
+plans.
+•	Working knowledge of JavaScript.
+•	Knowledge of IAB ad units and standards.
+•	Experience implementing and maintaining campaigns through third
+party ad serving software, preferably 24/7 RealMedia OpenAdStream.
+
+
+URL for more information: http://www.whitepagesinc.com/
+
+Contact information:
+Please reply to jobs@whitepages.com.
+Please refer to ID #0105WD-41R in the subject line when replying.
+
+

@@ -1,0 +1,77 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6187
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 16810 invoked from network); 26 Apr 2007 20:09:10 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 26 Apr 2007 20:09:10 -0000
+Received: (qmail 2722 invoked by uid 225); 26 Apr 2007 20:09:09 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 2714 invoked by alias); 26 Apr 2007 20:09:09 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,DK_POLICY_SIGNSOME
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 26 Apr 2007 13:09:07 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id E2D092AFDE; Thu, 26 Apr 2007 13:09:03 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070426200903.E2D092AFDE@x3.develooper.com>
+Date: Thu, 26 Apr 2007 13:09:03 -0700 (PDT)
+Subject: mod_perl/PostgreSQL programmer for freelance work (telecommute), United States, GA, Atlanta
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5705
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 26, 2007
+
+Job title:
+mod_perl/PostgreSQL programmer for freelance work
+
+Company name: (self-employed)
+
+Location: United States, GA, Atlanta
+
+Pay rate: varies
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: varies
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+I am a PERL programmer in the Atlanta area. I am approaching a change in
+life direction and need a contractor or two that can take care of some of
+my clients.
+
+One that will need immediate attention is http://www.coreatl.com
+
+This site is based on the 'CORE' module that I have built in mod_perl 1.3
+(on apache 1.3.7). The site has a fairly limited CMS system that should
+remain intact. The database is PostgreSQL. The work, if good, can be
+completely remote, but it must be professional and documented.
+
+I have a number of other sites that I will be looking for someone to take
+over in the future, but this is the first to go.
+
+Required skills:
+PERL, Template Toolkit familiarity, an equipped server to host mod_perl
+apps and domains, extensive experience with mod_perl and Apache.
+
+Contact information at:
+http://jobs.perl.org/job/5705#contact
+
+

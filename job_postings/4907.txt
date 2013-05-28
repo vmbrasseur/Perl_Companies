@@ -1,0 +1,129 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4907
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 3327 invoked from network); 6 Sep 2006 08:45:01 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 6 Sep 2006 08:45:01 -0000
+Received: (qmail 30064 invoked by uid 225); 6 Sep 2006 08:45:00 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 29997 invoked by alias); 6 Sep 2006 08:44:55 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 06 Sep 2006 01:44:50 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id C39992AFDF; Wed,  6 Sep 2006 01:44:12 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060906084412.C39992AFDF@x3.develooper.com>
+Date: Wed,  6 Sep 2006 01:44:12 -0700 (PDT)
+Subject: Perl Developer (onsite), United States, WI, madison
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4611
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September  5, 2006
+
+Job title: Perl Developer
+
+Company name: Comprehensive Computer Consulting
+
+Location: United States, WI, madison
+
+Pay rate: negotiable
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 1 yr +
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+--Project Comments--
+Development and Maintenance of Harvest Deployment Scripts for the WAS and
+JBoss Environments
+
+--Required Skills--
+Communication Skills-Excellent verbal and written Team Player
+
+--Requisition Comments--
+This position is on the Tech Support side of our I/S Division.	AllFusion
+Harvest is the Application Lifecycle Management (ALM) tool used at American
+Family for all open systems development. Part of the ALM tool's function is
+the automated deployment of compiled source to targeted execution
+environments, primarily WAS server here, but we are moving toward JBoss on
+Linux. 
+
+The primary responsibility of the person fulfilling this position will be
+to maintain and customize the automated deployment scripts as needed. 
+
+The deployment scripts are written primarily in PERL, utilize JACL for some
+functionality, utilize the PERL DBI module and SQL to do some error
+checking and formatting, and interact with Websphere Deployment Manager and
+JBoss. 
+
+For this reason, ***extensive knowledge of PERL is required, working
+knowledge of Harvest, JBoss, and Websphere is strongly desired, and
+familiarity with the PERL DBI module and SQL is desired.***
+
+A secondary responsibility will be development and maintenance of a CVS
+repository and a "bridge" from the CVS repository to the Harvest
+repository. To this end, ***working knowledge of CVS, UNIX security, and
+UNIX filesystems is desired.*** 
+
+
+Required skills:
+Required Skills:
+
+1. Extensive knowledge of PERL
+
+2. Excellent Communication skills
+
+3. Strong teaming skills
+
+
+Desired skills:
+Desired Skills:
+
+1. Familiarity with the PERL DBI module is desired 
+
+2. SQL is desired
+
+--Other Desired Skills--
+CVS - Concurrent Versioning System
+Harvest
+SQL
+UNIX
+Websphere
+JBoss Administration
+
+
+3. Working knowledge of CVS - Concurrent Versioning System,
+
+UNIX filesystems, UNIX Security, WSAD - Websphere Application Developer is
+desired
+
+Strongly Desired Skills:
+
+1. Working knowledge of Harvest is strongly desired 
+
+2. Working knowledge of Websphere is strongly desired 
+
+
+Contact information at:
+http://jobs.perl.org/job/4611#contact
+
+

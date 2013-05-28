@@ -1,0 +1,90 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3823
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 27043 invoked from network); 3 Feb 2006 21:22:42 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 3 Feb 2006 21:22:42 -0000
+Received: (qmail 5343 invoked by uid 225); 3 Feb 2006 21:22:41 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 5322 invoked by alias); 3 Feb 2006 21:22:39 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 03 Feb 2006 13:21:52 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id k13LLfcT006368
+	for <jobs@perl.org>; Fri, 3 Feb 2006 13:21:41 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id k13LLfIr006366;
+	Fri, 3 Feb 2006 13:21:41 -0800
+Date: Fri, 3 Feb 2006 13:21:41 -0800
+Message-ID: <200602032121.k13LLfIr006366@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: SWE - Srvr Devlpr - Work w/ Major CPAN Contributors (onsite), CA, San Fancisco
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3632
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February  3, 2006
+
+Job title:
+SWE - Srvr Devlpr - Work w/ Major CPAN Contributors
+
+Company name: Six Apart
+
+Location: CA, San Fancisco
+
+Pay rate: market
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: Perm
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Six Apart (http://www.sixapart.com/), the web logging
+software and services company behind LiveJournal,
+Movable Type and TypePad, is looking for skilled and
+motivated engineers to work with us in building our
+industry leading blogging products and services. You will
+work with a world class development team building software
+used by millions every day. 
+
+Required skills:
+	 * 4+ years experience developing robust web applications.
+* Demonstrated understanding of full software life cycle.
+* Demonstrated willingness and ability to work and lead
+in a fast-moving dynamic team-oriented environment.
+* Perl web applications under Apache and mod_perl, Perl modules and Perl
+OOP extensions.
+* Understanding of relational database concepts and SQL.
+We particularly value experience with MySQL. 
+
+Desired skills:
+* CPAN modules, contributions to open source projects, etc.
+* Experience developing content-based applications such
+as blogs, photo albums, email, content management
+systems, etc.
+
+URL for more information: http://sixapart.com/
+
+Contact information at:
+http://jobs.perl.org/job/3632#contact
+
+

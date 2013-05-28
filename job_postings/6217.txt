@@ -1,0 +1,72 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6217
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 20243 invoked from network); 2 May 2007 21:32:41 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 2 May 2007 21:32:41 -0000
+Received: (qmail 11352 invoked by uid 225); 2 May 2007 21:32:41 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11346 invoked by alias); 2 May 2007 21:32:41 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,DK_POLICY_SIGNSOME
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 02 May 2007 14:32:07 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 422EA2AFD5; Wed,  2 May 2007 14:32:04 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070502213204.422EA2AFD5@x3.develooper.com>
+Date: Wed,  2 May 2007 14:32:04 -0700 (PDT)
+Subject: Perl ebay api job (telecommute), United States, CA, LA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5730
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May  2, 2007
+
+Job title: Perl ebay api job
+
+Company name: Open Network Design
+
+Location: United States, CA, LA
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Onsite: no
+
+Description:
+This is a small job that requires A good working knowledge of XML and perl
+mastery. Ebay API knowledge is not required but a working knowledge would
+help.
+
+We are looking for a perl developer to create a ebay research tool that
+uses perl and the ebay api to gain information on products currently for
+sale on Ebay.  This tool would take isbn, and/or UPC data and retrieve
+current low prices and for the associated upc. 
+
+The script will read from a txt upc file and perform the searches and
+writeout to txt file with the upc and associated low price. Please email
+with any questions and bids. 
+
+Required skills:
+perl 
+XML 
+
+
+Desired skills: Ebay API knowledge
+
+Contact information at:
+http://jobs.perl.org/job/5730#contact
+
+

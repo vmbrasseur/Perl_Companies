@@ -1,0 +1,106 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12715
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 16598 invoked from network); 5 Sep 2012 22:24:13 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 5 Sep 2012 22:24:13 -0000
+Received: (qmail 9691 invoked by uid 225); 5 Sep 2012 22:24:13 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 9687 invoked by alias); 5 Sep 2012 22:24:13 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 05 Sep 2012 15:24:09 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 269112AFD3; Wed,  5 Sep 2012 15:24:05 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 5 Sep 2012 15:24:05 -0700
+Message-ID: <20120905222406.269112AFD3@x3.develooper.com>
+Subject: Integration Developer (onsite), Houston, TX
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16416
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September  5, 2012
+
+Job title: Integration Developer
+
+Company name: cPanel, Inc
+
+Internal ID: 40
+
+Location: Houston, TX
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The Integration Developer assists external customers who want to integrate
+their software with cPanel products.  The integration developer is tasked
+with providing a good experience for the third party application developers
+who are integrating their products with cPanel & WHM, with or without our
+help.
+
+Required skills:
+Offsite and on-site consultation with partners and key application vendors
+
+Provide key business and technical communication with business people
+
+Acts as a development liason for the purpose of supporting internal and
+external integration projects
+
+Creates code used to adapt between external products and cPanel products
+
+Designs and develops tools to assist internal and external integration
+projects
+
+Contributes knowledge from personal analysis to company knowledge bases and
+public forums
+
+Assists other employees with their analysis of customer and internal
+systems
+
+Adheres to coding and development standards and practices provided by
+cPanel
+
+Adheres to the policies and procedures of the company
+
+
+Technical skills- advanced technical skills which include:
+Working knowledge of Linux / BSD / *nix based operating systems, their
+underlying components and web related services:  Web Servers (apache,
+LiteSpeed, etc), SQL Servers (MySQL, PostgreSQL, etc), Mail Servers (Exim,
+Sendmail etc), DNS Servers (BIND), and Linux Filesystems (ext3, reiser,
+etc)
+Advanced programming knowledge of:  Regular Expressions, MVC, OO or other
+organized programming practices, Perl best practices, and usage of CPAN
+modules. PEAR and PECL systems
+
+Education/Experience:
+High School diploma or equivalent
+Three years of Linux / BSD / *nix system troubleshooting or a related
+certification (RHCE)
+Two years of development experience with Perl and PHP.
+
+Desired skills:
+Special consideration will be given to candidates who have experience with
+Ruby and Python.
+
+Website for more information:
+http://job.listings.cpanel.net/x/detail/a2ldog96t3uo
+
+Contact information at:
+http://jobs.perl.org/job/16416#contact

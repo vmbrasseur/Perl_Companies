@@ -1,0 +1,110 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6445
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8806 invoked from network); 13 Jun 2007 14:59:53 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 13 Jun 2007 14:59:53 -0000
+Received: (qmail 9621 invoked by uid 225); 13 Jun 2007 14:59:53 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 9614 invoked by alias); 13 Jun 2007 14:59:52 -0000
+X-Spam-Status: No, hits=0.0 required=8.0
+	tests=BAYES_50,DKIM_POLICY_SIGNSOME,DK_POLICY_SIGNSOME,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 13 Jun 2007 07:59:47 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 4A0B42AFF9; Wed, 13 Jun 2007 07:59:44 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070613145944.4A0B42AFF9@x3.develooper.com>
+Date: Wed, 13 Jun 2007 07:59:44 -0700 (PDT)
+Subject: Perl _Systems Software Engineer -Roving Apps (onsite), United States, CA, Palo Alto
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5952
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 12, 2007
+
+Job title:
+Perl _Systems Software Engineer -Roving Apps
+
+Company name: Danger, Inc.
+
+Internal ID: 250
+
+Location: United States, CA, Palo Alto
+
+Pay rate: TBD
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Systems Software Engineer, Roving Apps
+ 
+Department: Service Engineering
+Location: Palo Alto, California
+
+Danger's Service Engineering group is seeking a talented software engineer
+to work on our highly available Database Proxy. The ideal candidate will
+possess strong programming and software design skills and the ability to
+gracefully handle a dynamic, fast-paced development environment.
+
+Responsibilities
+Work with other members of the Service Engineering group to extend, improve
+and re-architect the Database Proxy including the Desktop Interface, Data
+Storage, Messaging Dispatch
+Monitor operation of production servers and address problems in a timely
+manner should they arise (tier 3 support). 
+Work closely with the operation's groups during each release lifecycle.
+Document and test all work.  
+
+
+Required skills:
+Job Requirements:  
+Qualifications	
+
+5-8 years commercial software development experience
+BS degree required
+Strong, demonstrable programming skills with Perl (mod_Perl). You must have
+written a significant amount of production quality Perl code. 
+Java experience a big plus (or desire to, and ability to, quickly learn and
+utilize in a timely manner). 
+Ability to quickly understand and modify current codebase
+Experience with Schema: i.e. Designed and Used Database Schemas
+Experience with Protocols: HTTP and XML
+Experience in quickly adapting and assimilateing to new technologies. 
+Experience in architecture and implementation of servers in N-tier systems
+(*Apache)
+Experience building large scale, database backed systems. 
+Experience debugging distributed large-scale systems. 
+Desire and ability to work in a fast-paced environment. 
+Must have a good sense of humor about Technical Challenges and one's self
+
+
+Desired skills:
+Strong, demonstrable programming skills with Perl (mod_Perl). You must have
+written a significant amount of production quality Perl code. 
+HTTP and XML
+Distributed-large-Scale Systems: N-tier 
+
+
+URL for more information: http://www.danger.com/
+
+Contact information at:
+http://jobs.perl.org/job/5952#contact
+
+

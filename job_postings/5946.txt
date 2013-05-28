@@ -1,0 +1,77 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5946
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 7074 invoked from network); 19 Mar 2007 22:46:27 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 19 Mar 2007 22:46:27 -0000
+Received: (qmail 20758 invoked by uid 225); 19 Mar 2007 22:46:26 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 20710 invoked by alias); 19 Mar 2007 22:46:23 -0000
+X-Spam-Status: No, hits=-3.6 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,DATE_IN_PAST_06_12,DK_POLICY_SIGNSOME
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 19 Mar 2007 15:46:02 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 311C22AFE3; Mon, 19 Mar 2007 09:19:09 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070319161909.311C22AFE3@x3.develooper.com>
+Date: Mon, 19 Mar 2007 09:19:09 -0700 (PDT)
+Subject: Mason Perl Programmer/Consultant for Setting up 2 byte character Internationalization (telecommute)
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5494
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 19, 2007
+
+Job title:
+Mason Perl Programmer/Consultant for Setting up 2 byte character
+Internationalization
+
+Company name: Inblosam LLC
+
+Internal ID: 3
+
+Pay rate: 50
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+Contact me today (Monday, March 19, 2007) as I need this ASAP.
+
+I need to make an existing web application that works right now in English
+work in a 2 byte character language, Japanese. Everything is running under
+Mason Perl using Apache mod_perl. Right now when I put in Japanese
+characters I get rubbish.
+
+http://appliedcontent.com/jp/test.html
+
+But I need it to look like this, which is not running through Mason:
+
+http://appliedcontent.com/jp/test.htm
+
+I need help configuring the server to support this.
+
+Required skills:
+Knowledge of Mason Perl, mod_perl, anything else related to that
+You don't need to know Japanese.
+
+Contact information at:
+http://jobs.perl.org/job/5494#contact
+
+

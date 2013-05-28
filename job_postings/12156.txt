@@ -1,0 +1,82 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12156
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 12255 invoked from network); 26 Feb 2012 08:10:47 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 26 Feb 2012 08:10:47 -0000
+Received: (qmail 27084 invoked by uid 225); 26 Feb 2012 08:10:47 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 27075 invoked by alias); 26 Feb 2012 08:10:47 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 26 Feb 2012 00:10:45 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 772062AFE5; Sun, 26 Feb 2012 00:10:41 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sun, 26 Feb 2012 00:10:41 -0800
+Message-ID: <20120226081041.772062AFE5@x3.develooper.com>
+Subject: BiblioVault Junior Developer (onsite), Chicago, IL, United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15580
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 26, 2012
+
+Job title: BiblioVault Junior Developer
+
+Company name: University of Chicago Press
+
+Internal ID: 088406
+
+Location: Chicago, IL, United States
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+BiblioVault is a non-profit electronic book storage, management, and
+delivery system that is focused on scholarly books.  We provide services to
+our 90+ member presses through the printing lifecycle of a book, from
+preparing files to short-run digital printing, to metadata management, to
+distributing eBooks and digital comp copies.  We are a project of the
+University of Chicago Press.
+
+We're looking for a motivated web developer to work on our website and
+backend which are in Embperl/Perl on Apache+Linux.  We're a small shop and
+we need a Perl jack-of-all-trades to help us improve our public website and
+help us expand and maintain our member-press focused services.
+
+Required skills:
+At least one year of experience with Perl
+At least one year of experience with a server-side HTML embedded scripting
+language (EmbPerl much preferred but experience in PHP, ASP/ASP.Net, etc.
+will translate to our project) 
+At least one year of experience working with a SQL database (MySQL, MSSQL,
+Oracle, etc.)
+
+The ability to find good solutions to odd problems
+The ability to juggle multiple projects at the same time
+
+Desired skills:
+Experience in agile development
+Experience maintaining or working in a content management system
+
+Website for more information:
+http://jobopportunities.uchicago.edu/applicants/Central?quickFind=213178
+
+Contact information at:
+http://jobs.perl.org/job/15580#contact

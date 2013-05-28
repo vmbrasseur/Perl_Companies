@@ -1,0 +1,92 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12615
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 19234 invoked from network); 27 Jul 2012 04:34:57 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 27 Jul 2012 04:34:57 -0000
+Received: (qmail 14673 invoked by uid 225); 27 Jul 2012 04:34:56 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 14669 invoked by alias); 27 Jul 2012 04:34:56 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 26 Jul 2012 21:34:54 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id D24E22AFE0; Thu, 26 Jul 2012 21:34:42 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 26 Jul 2012 21:34:42 -0700
+Message-ID: <20120727043442.D24E22AFE0@x3.develooper.com>
+Subject: Sr. Perl Scripting Systems Integrator (onsite), Cleveland, Ohio
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16270
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 26, 2012
+
+Job title: Sr. Perl Scripting Systems Integrator
+
+Company name: Experis
+
+Internal ID: J-10-689-380
+
+Location: Cleveland, Ohio
+
+Pay rate: $75.00 - $90.00 (USD)
+
+Terms of employment: Hourly employee
+
+Length of employment: 5 Weeks
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+***Experis has an immediate opening for a SENIOR Systems Integrator
+(Complex Perl Scripting/Development), for our client in Cleveland, Ohio*** 
+
+
+PROJECT: 
+- Identity Management System - 4 - 5 enhancements for new data flows 
+
+ENVIRONMENT: 
+- Integration of Rave with SIS (Student Information System, PeopleSoft
+Human Capital Management and the Identify Mgmt System 
+- The addition of Preferred Name into the IdMS from SIS 
+- iThink MSASS and how we track virtual students
+
+Required skills:
+TECHNICAL SKILLS: 
+- Must have excellent interpersonal & communication skills 
+- Must have experience working with minimal supervision and being solely
+responsible for development of an application/enhancement. 
+- Perl - Skill level high - the entire Identity Management Systems is
+written in Perl 
+- Oracle DB and Perl integration - Skill level high - all data is stored in
+Oracle DB tables 
+- Ideal candidate must be able to work under pressure and meet tight
+deadline. 
+
+SECONDARY SKILLS: 
+- LDAP protocols and Perl integration - Skill level high - Services
+primarily set by class-of-service through the LDAP. 
+- XML - skill level moderate - Most SIS & HCM data is pulled into the
+system using XML 
+- Google Apps provisioning - Skill level moderate - usage of pre-canned
+routines to manipulate Google data.
+
+Website for more information:
+http://jobview.monster.com/getjob.aspx?JobID=112621894
+
+Contact information at:
+http://jobs.perl.org/job/16270#contact

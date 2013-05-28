@@ -1,0 +1,87 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6313
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 11537 invoked from network); 17 May 2007 07:00:50 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 17 May 2007 07:00:50 -0000
+Received: (qmail 29534 invoked by uid 225); 17 May 2007 07:00:50 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 29529 invoked by alias); 17 May 2007 07:00:49 -0000
+X-Spam-Status: No, hits=0.0 required=8.0
+	tests=BAYES_50,DKIM_POLICY_SIGNSOME,DK_POLICY_SIGNSOME,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 17 May 2007 00:00:43 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 01D2E2AFDE; Thu, 17 May 2007 00:00:38 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070517070038.01D2E2AFDE@x3.develooper.com>
+Date: Thu, 17 May 2007 00:00:38 -0700 (PDT)
+Subject: Perl Developer for Open Source coding (onsite), Brazil, Bahia, Salvador
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5811
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 16, 2007
+
+Job title: Perl Developer for Open Source coding
+
+Company name: SaferNet Brasil
+
+Location: Brazil, Bahia, Salvador
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: 1 year
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The SaferNet Brasil (http://safernet.org.br) is a non-profit,
+non-governmental organization which gathers computer scientists, teachers,
+researchers and lawyers, with the mission of defending and promoting the
+Human Rights on the Information Society in Brazil.
+
+We need to develop new softwares and customize Open Source softwares to
+make our work possible. Now we need more Perl developers. If you want to
+live in Salvador - Bahia - Brazil and hack on a very nice environment it's
+a great opportunity.
+
+Required skills:
+ - Perl and Linux environment 
+ - MySQL and PostgreSQL 
+ - OOP
+ - English language
+ - Interested to learn Portuguese
+
+Desired skills:
+Portuguese speaking and writing
+
+Good understanding about the Open Source community, CPAN (Comprehensive
+Perl Archive Network) and Debian GNU/Linux.
+
+Knowledge about using version control softwares and writing code
+documentation as well. 
+
+Experience on development for Request Tracker software.
+
+URL for more information:
+http://www.safernet.org.br/twiki/bin/view/SaferNet/TrabalheConosco
+
+Contact information at:
+http://jobs.perl.org/job/5811#contact
+
+

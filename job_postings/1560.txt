@@ -1,0 +1,91 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:1560
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 98813 invoked from network); 5 May 2004 04:23:17 -0000
+Received: from x1.develooper.com (63.251.223.170)
+  by onion.develooper.com with SMTP; 5 May 2004 04:23:17 -0000
+Received: (qmail 32525 invoked by uid 225); 5 May 2004 04:23:16 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 32509 invoked by alias); 5 May 2004 04:23:15 -0000
+X-Spam-Status: No, hits=0.0 required=7.0
+	tests=
+X-Spam-Check-By: la.mx.develooper.com
+Received: from onion.develooper.com (HELO onion.perl.org) (63.251.223.166)
+  by la.mx.develooper.com (qpsmtpd/0.27.1) with SMTP; Tue, 04 May 2004 21:23:14 -0700
+Received: (qmail 98752 invoked by uid 1016); 5 May 2004 04:23:13 -0000
+Date: 5 May 2004 04:23:13 -0000
+Message-ID: <20040505042313.98751.qmail@onion.perl.org>
+To: jobs@perl.org
+X-Spam-Rating: onion.develooper.com 1.6.2 0/1000/N
+Subject: Whitebox QA Engineer, United States, CA, Mountain View
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1452
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May  4, 2004
+
+Job title: Whitebox QA Engineer
+
+Company name: Tellme Networks
+
+Location: United States, CA, Mountain View
+
+Pay rate: competitive
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Description:
+We have several open positions at Tellme. Tellme’s web backend environment
+is mainly mod_perl based, involving externally visible, traditional web
+applications, as well as internal VoiceXML applications and XML data feeds.
+
+
+Tellme systems use HTTP and XML extensively as a generic data-passing
+mechanism, and webservers are involved in everything from dynamic
+configuration for our hundreds of production machines, to integration with
+customer billing systems.
+
+There are four QA positions open. Each QA will be responsible for
+developing test plans based on design specifications, executing test plans,
+and also writing and maintaining test scripts in PERL or a similar
+high-level language. Additionally, they will contribute towards the success
+of client projects by coordinating with project team members -- including
+integration architects, developers, and project managers -- in order to
+prevent, report, and resolve product defects.
+
+
+Required skills:
+- BS Computer Science, or an equivalent combination of education and
+experience 
+- Strong communication skills (written and verbal) 
+- Proficient knowledge of Windows and UNIX
+- Working knowledge of C/C++, HTML, XML, PERL 
+- Experience with automated testing and knowledge of performance testing
+(SilkPerformer a plus) 
+- Some knowledge of databases (Oracle, mySQL)
+
+
+URL for more information: http://www.tellme.com/
+
+Contact information:
+For more information on Tellme, visit the Tellme corporate website at
+http://www.tellme.com/. To get an idea of some of the possibilities of our
+technology, call our free voice portal at 1-800-555-TELL or get toll free
+directory assistance by dialing 1-800-555-1212.
+ 
+If you have any questions, you can e-mail me at kbretz@tellme.com
+
+
+

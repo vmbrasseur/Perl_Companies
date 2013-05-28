@@ -1,0 +1,74 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13136
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 29295 invoked from network); 12 Feb 2013 04:46:05 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 12 Feb 2013 04:46:05 -0000
+Received: (qmail 31626 invoked by uid 225); 12 Feb 2013 04:46:04 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 31622 invoked by alias); 12 Feb 2013 04:46:04 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,T_FRT_PROFILE2
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 11 Feb 2013 20:46:01 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 0F0EA2AFE0; Mon, 11 Feb 2013 20:45:57 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 11 Feb 2013 20:45:57 -0800
+Message-ID: <20130212044558.0F0EA2AFE0@x3.develooper.com>
+Subject: Test Engineer - No telecommute (onsite), Toronto
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17011
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 11, 2013
+
+Job title: Test Engineer - No telecommute
+
+Company name: Casale Media
+
+Location: Toronto
+
+Pay rate: TDB
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+As a Test Engineer, you will be responsible for designing and building test
+suites, automation tools and test infrastructure for various
+products.  This is an open ended role with a large scope, ranging from
+designing test cases to tuning the Linux kernel.  You will be working with
+Developers and Test Engineers to ensure functional correctness, optimal
+performance and resource utilisation of critical production applications.
+
+Required skills:
+* BS/MS in Computer Science or related field, or 2-3 years of relevant
+experience
+* Strong knowledge of Perl, C/C++
+* Strong knowledge of networking, web protocols and tools such as WireShark
+and tcpdump
+* SQL experience, preferrably with MySQL
+* Strong analytical thinking / problem solving skills
+* Proficient in a Linux environment with command line tools
+
+Desired skills:
+* Embedded databases such as BDB and SQLite
+* Understanding of distributed systems such as Hadoop/Hive
+* Revision control (CVS/SVN/GIT)
+
+Contact information at:
+http://jobs.perl.org/job/17011#contact

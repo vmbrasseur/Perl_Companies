@@ -1,0 +1,80 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8061
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 6399 invoked from network); 30 Apr 2008 15:32:36 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 30 Apr 2008 15:32:36 -0000
+Received: (qmail 18016 invoked by uid 225); 30 Apr 2008 15:32:35 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 18008 invoked by alias); 30 Apr 2008 15:32:35 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 30 Apr 2008 08:32:32 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 173BD2AFED; Wed, 30 Apr 2008 08:32:28 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080430153229.173BD2AFED@x3.develooper.com>
+Date: Wed, 30 Apr 2008 08:32:28 -0700 (PDT)
+Subject: LAMP developer for fantasy sports games company (onsite), United Kingdom, Bristol
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8560
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 29, 2008
+
+Job title:
+LAMP developer for fantasy sports games company
+
+Company name: ISM Games
+
+Location: United Kingdom, Bristol
+
+Pay rate: £35,000 - £45,000
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+ISM develop and operate fantasy sports games for a wide range of clients.
+We're looking for a Perl developer with 2+ years experience to join our
+growing development team. You'll be passionate about writing object
+orientated Perl to power flexible and scalable web applications. 
+
+You'll be involved in the continued development and innovation of our
+fantasy sports games. In addition to Perl coding you should be interested
+in all aspects of web technologies and the LAMP stack. The work can vary
+from MySQL optimisation to interfacing with the front end using jQuery and
+JSON.
+
+Required skills:
+OO Perl and experience with database abstraction and templating systems (we
+use Class::DBI and Mason)
+MySQL
+Apache
+Linux
+Good understanding of Scalability issues
+
+Desired skills:
+Javascript (especially JQuery)
+Memcached
+SVN
+
+Contact information at:
+http://jobs.perl.org/job/8560#contact
+
+

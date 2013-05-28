@@ -1,0 +1,125 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:1886
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 4651 invoked from network); 2 Sep 2004 03:46:57 -0000
+Received: from x1.develooper.com (63.251.223.170)
+  by lists.develooper.com with SMTP; 2 Sep 2004 03:46:57 -0000
+Received: (qmail 28247 invoked by uid 225); 2 Sep 2004 03:46:57 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 28233 invoked by alias); 2 Sep 2004 03:46:56 -0000
+X-Spam-Status: No, hits=-4.9 required=8.0
+	tests=BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.dev) (63.251.223.163)
+  by la.mx.develooper.com (qpsmtpd/0.27.1) with ESMTP; Wed, 01 Sep 2004 20:46:46 -0700
+Received: from x3.dev (localhost.localdomain [127.0.0.1])
+	by x3.dev (8.12.11/8.12.11) with ESMTP id i823khcQ002882
+	for <jobs@perl.org>; Wed, 1 Sep 2004 20:46:43 -0700
+Received: (from jobs@localhost)
+	by x3.dev (8.12.11/8.12.11/Submit) id i823kh1S002880;
+	Wed, 1 Sep 2004 20:46:43 -0700
+Date: Wed, 1 Sep 2004 20:46:43 -0700
+Message-ID: <200409020346.i823kh1S002880@x3.dev>
+X-Authentication-Warning: x3.dev: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Web Services Developer (part onsite), United Kingdom, London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1778
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September  1, 2004
+
+Job title: Web Services Developer
+
+Company name: Digital Craftsmen Ltd
+
+Location: United Kingdom, London
+
+Pay rate: 2-300GBP/day
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: 1 month
+
+Hours: Flexible
+
+Onsite: some
+
+Description:
+We need a Perl developer experienced in building client server applications
+that communicate using SOAP to join our team to work on a specific project
+for a key client.
+
+The project involves the development of an extranet authentication and
+authorisation system using mod_perl and providing hooks for Template
+Toolkit based applications.
+
+The user management side of the application will reside on the client's
+site, inside their firewall, and communicate with the externally hosted
+extranet server using SOAP.
+
+The management application will be responsible for handling events
+generated on the server-side, such as password reset requests and
+user-account lockouts.
+
+For bonus points, it should be integrated into the bricolage UI, which the
+client will be using for managing the content of this site.
+
+If you can complete that lot in short order, we have other parts of the
+project to fill your time, including developing an SVG charting
+application.
+
+Daily rates are dependent on experience and skills.
+
+Teleworking is possible but it's not something we're terribly used to so
+you'll need to convince me that you can turn our functional requirements
+into a good specification and working code at a distance.
+
+If you're interested in a permanent position rather than a contract, please
+get in touch as this may be a possibility for the right person.
+
+Digital Craftsmen specialises in content management, information
+architecture, web based applications and managed hosting.
+
+Required skills:
+Apart from an excellent grasp of object oriented perl, you will be
+comfortable working with the following technologies.
+
+Postgres
+Apache
+mod_perl
+XML/SOAP
+HTML::Mason
+Template Toolkit
+Class::DBI
+
+You will have worked on the development or maintenance of complex perl
+based applications and have demonstrable experience of working in this
+environment including a strong appreciation for, and liking of, version
+control, testing and, yes, documentation.
+
+We use bricolage (www.bricolage.cc) as the content management system for
+this project and any experience of it will be beneficial but not essential.
+You will, however, have proven experience or developing large scale
+applications using HTML::Mason and Postgres.
+
+You must be a team player and able to communicate your ideas verbally and
+in writing, doubly so if you would like to work remotely.
+
+Contact information:
+Please send CVs in pdf, html or plain text along with availability and
+salary expectations to Simon Wilcox - simon@digitalcraftsmen.net
+
+Closing date - Friday 10th September.
+
+

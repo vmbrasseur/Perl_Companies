@@ -1,0 +1,72 @@
+Newsgroups: perl.perl5.porters,perl.jobs,perl.vmsperl
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.perl5.porters:116786 perl.jobs:5034 perl.vmsperl:14119
+Return-Path: <wb8tyw@qsl.net>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 25371 invoked from network); 2 Oct 2006 15:06:40 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 2 Oct 2006 15:06:40 -0000
+Received: (qmail 19336 invoked by uid 225); 2 Oct 2006 15:06:39 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 19322 invoked by alias); 2 Oct 2006 15:06:38 -0000
+X-Spam-Status: No, hits=-1.1 required=8.0
+	tests=BAYES_00,FORGED_RCVD_HELO,SPF_SOFTFAIL
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: softfail (x1.develooper.com: transitioning domain of wb8tyw@qsl.net does not designate 161.114.21.105 as permitted sender)
+Received: from ccerelbas02.cce.hp.com (HELO ccerelbas02.cce.hp.com) (161.114.21.105)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 02 Oct 2006 08:06:32 -0700
+Received: from mailrelay01.cce.cpqcorp.net (relay.dec.com [16.47.68.171])
+	by ccerelbas02.cce.hp.com (Postfix) with ESMTP id 0A0C6341C3;
+	Mon,  2 Oct 2006 10:06:11 -0500 (CDT)
+Received: from [16.116.44.4] (dskwld.zko.hp.com [16.116.44.4])
+	by mailrelay01.cce.cpqcorp.net (Postfix) with ESMTP id 0350780E1;
+	Mon,  2 Oct 2006 10:06:08 -0500 (CDT)
+Message-ID: <45212AD0.7060302@qsl.net>
+Date: Mon, 02 Oct 2006 11:05:52 -0400
+User-Agent: Mozilla/5.0 (X11; U; OpenVMS AlphaServer_DS10_466_MHz; en-US; rv:1.7) Gecko/20040621
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: Perl 5 Porters <perl5-porters@perl.org>
+Cc: jobs@perl.org, vmsperl@perl.org
+References: <451C00E0.3060700@qsl.net>
+In-Reply-To: <451C00E0.3060700@qsl.net>
+Content-Type: text/plain; charset=us-ascii; format=flowed
+Content-Transfer-Encoding: 7bit
+Subject: Re: Goodbye for now.
+Approved: news@nntp.perl.org
+From: wb8tyw@qsl.net ("John E. Malmberg")
+
+John E. Malmberg wrote:
+> It looks like for a little while my work on Perl on OpenVMS will be 
+> interrupted.
+
+> I am now in a full time hunt for new employment, and while I would like 
+> to continue from where I left off with the improvements for the VMS 
+> handling of file specifications and other UNIX behavior, that may all 
+> depend on where I end up.
+
+I wish to thank everyone for their responses, and one of them was to 
+post a link to a resume and CC: this to the Perl jobs list.
+
+http://eisner.encompasserve.org/~malmberg/MALMBERG_CS_RESUME_2006.TXT
+
+I also received a real good job lead from my first post, and I am hoping 
+that it will work out.
+
+> In the mean time, I can not keep up with the volume of messages on this 
+> list, so I will have to unsubscribe.
+> 
+> Any job leads of course, even non-VMS ones would be appreciated.  Once I 
+> get employed again, I plan to submit a bug-fix to bash that looks like 
+> it will speed up the execution of scripts by possibly as much as 30%.
+> 
+> I can be reached at this e-mail address, but it has a very aggressive 
+> spam-filter.  For more reliable delivery, I have e-mail addresses of:
+> malmberg$(x)encompasserve.org and malmberg.family$(x)gmail.com where 
+> $(x) is an @ of course.
+
+Thanks again and regards,
+John Malmberg
+

@@ -1,0 +1,78 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5321
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 17415 invoked from network); 20 Nov 2006 16:12:33 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 20 Nov 2006 16:12:33 -0000
+Received: (qmail 30412 invoked by uid 225); 20 Nov 2006 16:12:33 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 30407 invoked by alias); 20 Nov 2006 16:12:32 -0000
+X-Spam-Status: No, hits=-3.2 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,DATE_IN_PAST_12_24
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 20 Nov 2006 08:12:26 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id F36022AFF8; Sun, 19 Nov 2006 16:11:49 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20061120001149.F36022AFF8@x3.develooper.com>
+Date: Sun, 19 Nov 2006 16:11:49 -0800 (PST)
+Subject: system administrator and web developper (onsite), France, Paris
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4987
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 19, 2006
+
+Job title: system administrator and web developper
+
+Company name: Anevia
+
+Internal ID: dev-int-061119
+
+Location: France, Paris
+
+Pay rate: 30-40 k€/year
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+You integrate video streaming applications in their run time environment,
+and develop their web interface and administration scripts. More generally,
+you fill the gap between a binary application and a complete firmware for
+embedded equipments with a complete Linux system and its web interface.
+
+You modify the firmware build system when you need to do so.
+
+The system is currently based on shell, perl, and all the web interface is
+based on PHP and javascript. Everything must be converted to perl and
+javascript in the mid term.
+
+Required skills:
+In depth knowledge of Linux administration, perl scripting and perl web
+development, javascript/AJAX, basics of PHP. Good knowledge of TCP/IP
+networks. Good written English.
+
+Desired skills:
+knowledge of one MVC perl framework,
+C language and system programming
+
+Contact information at:
+http://jobs.perl.org/job/4987#contact
+
+

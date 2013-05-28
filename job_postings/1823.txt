@@ -1,0 +1,124 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:1823
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 21863 invoked from network); 13 Aug 2004 06:57:32 -0000
+Received: from x1.develooper.com (63.251.223.170)
+  by lists.develooper.com with SMTP; 13 Aug 2004 06:57:32 -0000
+Received: (qmail 28316 invoked by uid 225); 11 Aug 2004 19:06:38 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 28301 invoked by alias); 11 Aug 2004 19:06:37 -0000
+X-Spam-Status: No, hits=-4.9 required=8.0
+	tests=BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.dev) (63.251.223.163)
+  by la.mx.develooper.com (qpsmtpd/0.27.1) with ESMTP; Wed, 11 Aug 2004 12:06:35 -0700
+Received: from x3.dev (localhost.localdomain [127.0.0.1])
+	by x3.dev (8.12.11/8.12.11) with ESMTP id i7BJ6WGX029042
+	for <jobs@perl.org>; Wed, 11 Aug 2004 12:06:32 -0700
+Received: (from jobs@localhost)
+	by x3.dev (8.12.11/8.12.11/Submit) id i7BJ6W2B029040;
+	Wed, 11 Aug 2004 12:06:32 -0700
+Date: Wed, 11 Aug 2004 12:06:32 -0700
+Message-ID: <200408111906.i7BJ6W2B029040@x3.dev>
+X-Authentication-Warning: x3.dev: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: activestate/Win32 + linux, perl + wxWindows + TCP/IP sockets(POP+SMTP proxy) new antispam application. telecommute posn. (telecommute), Telecommute, Telecommute, Telecommute
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1712
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 11, 2004
+
+Job title:
+activestate/Win32 + linux, perl + wxWindows + TCP/IP sockets(POP+SMTP
+proxy) new antispam application. telecommute posn.
+
+Company name: spamzap.com
+
+Internal ID: 1
+
+Location: Telecommute, Telecommute, Telecommute
+
+Pay rate: quote me
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: indefinite adhoc
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+Deliverables:
+A) setup_win.exe
+B) setup_lin.rpm
+C) setup_mac.tgz
+D) Full source & all necessary tools/utilities
+
+I would like you to work to my specifications on developing a standalone
+anti-spam C/R (challenge-response) email proxy application.
+
+It sits between a users email program and SMTP/POP servers, and does its
+work.  It simply has a whitelist and blacklist - dropping blacklisted
+emails, and permitting whitelisted emails, and challenging unknowns (unless
+they fail SPF - see spf.pobox.com).
+
+It needs a built-in GUI to allow users to view "pending" emails and
+whitelist/blacklist/delete them.
+
+It needs graphics ability to create custom "robot hostile" challenge
+request response-emails.
+
+It needs a database to store black and white listed email addresses, and
+the pending email contents.
+
+I own the patent on this (priority filing date mid-1995), and I'm very
+litigious.
+
+Please contact me if you're interested and want more info.  If you sound
+suitable and affordable, I'll invent a "test" for you to complete, and if
+you pass it to my satisfaction, you've got the job.
+
+This is likley to be an on-going position - there will forever be new
+features and upgrades to apply.
+
+Wage increases in line with profitability are availble in the medium to
+long term.
+
+Required skills:
+*strong* perl on Windows and Linux
+
+I personally don't like OO - so ability to lean towards "procedural style"
+programming is a non-negotiable requirement.
+
+wxWindows
+
+Strong sockets programming (eg: ability to use "select()" to handle (poll)
+multiple simultaneous connections without forking)
+
+Must sign non-disclosure statement.
+
+Desired skills:
+
+Knowledge of SMTP and POP protocols
+
+Ability to create standalone installer
+
+Understand how to code for Windows/Linux (and Mac OSX) 
+
+URL for more information: http://www.spamzap.com/job
+
+Contact information: Chris Drake - cnd@spamzap.com
+
+

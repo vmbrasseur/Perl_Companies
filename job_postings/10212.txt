@@ -1,0 +1,85 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10212
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 21619 invoked from network); 14 Jun 2010 20:19:42 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 14 Jun 2010 20:19:42 -0000
+Received: (qmail 17980 invoked by uid 225); 14 Jun 2010 20:19:41 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 17976 invoked by alias); 14 Jun 2010 20:19:40 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 14 Jun 2010 13:19:39 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 389612AFDE; Mon, 14 Jun 2010 13:19:35 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20100614201936.389612AFDE@x3.develooper.com>
+Date: Mon, 14 Jun 2010 13:19:35 -0700 (PDT)
+Subject: Sr mod_perl2, custom MVC dev/arch (part onsite), United States, Washington, Seattle
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/12386
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 10, 2010
+
+Job title: Sr mod_perl2, custom MVC dev/arch
+
+Company name: Golden Guru
+
+Internal ID: 1138a
+
+Location: United States, Washington, Seattle
+
+Pay rate: TBD
+
+Travel: 0-25%
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+We're looking for a truly senior Perl developer and architect to build and
+maintain complex web applications and back-end services in a highly custom
+mod_perl2/MVC/OOP environment. This is a predominately remote (work from
+home) position that pays 1099, typically 40+ hours per week available. Must
+be a US citizen or eligible to be paid 1099, have strong English verbal and
+written skills, and be able easily attend monthly and sometimes more
+frequent day-long meetings in Seattle and the Puget Sound. No exceptions.
+Please do not waste your time and mine submitting if you cannot attend
+these regular meetings.
+
+Required skills:
+We need someone very strong with Perl and OOP. We're a small team looking
+for someone sufficiently senior; and as I'm sure you can understand,
+vetting candidates is difficult. We recognize that many of your best code
+samples may be proprietary, and there’s only so much we can learn from a
+resume. So we have elected to test skills to give us a good idea of where
+exactly you are and if you're likely going to be a good fit with our team.
+As far as what we need to see: clear understanding of Perl idioms to write
+higher-order, maintainable, and scalable object-oriented applications.
+Viable candiates will have a track-record of self-motivation, high
+attention to detail, and ability to work very independently. Everything
+else falls under desired skills.
+
+Desired skills:
+Desired skills for the position include experience with: nginx, Apache,
+MySQL admin and replication, Debian sysadmin and networking (IP, DNS,
+etc.), Subversion, Trac, jQuery, XHTML/CSS, DBIx::Class, Template Toolkit.
+
+Contact information at:
+http://jobs.perl.org/job/12386#contact
+
+

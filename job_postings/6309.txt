@@ -1,0 +1,138 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6309
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 12977 invoked from network); 16 May 2007 16:06:28 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 16 May 2007 16:06:28 -0000
+Received: (qmail 14949 invoked by uid 225); 16 May 2007 16:06:27 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 14941 invoked by alias); 16 May 2007 16:06:27 -0000
+X-Spam-Status: No, hits=2.0 required=8.0
+	tests=BAYES_50,DKIM_POLICY_SIGNSOME,DK_POLICY_SIGNSOME,KARMA_CONNECT_NEGATIVE,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 16 May 2007 09:06:11 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id A9EB72AFDA; Wed, 16 May 2007 09:06:07 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070516160607.A9EB72AFDA@x3.develooper.com>
+Date: Wed, 16 May 2007 09:06:07 -0700 (PDT)
+Subject: mod_perl Software Engineer for leading NYC Publisher (onsite), United States, NY, New York
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5808
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 16, 2007
+
+Job title:
+mod_perl Software Engineer for leading NYC Publisher
+
+Company name: New York Magazine
+
+Internal ID: PERL1
+
+Location: United States, NY, New York
+
+Pay rate: DOE
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Content Management Software Engineer
+
+New York Magazine is pursuing an aggressive Internet expansion strategy,
+and is seeking a seasoned software engineer with strong Perl skills to join
+its on-line media team.
+
+The engineer will be developing and extending internal content management
+systems, with responsibilities ranging from working with business leaders
+to define requirements, to managing the launch process and many tasks in
+between.This is a challenging position requiring in-depth knowledge of LAMP
+technologies. The job is based in Midtown Manhattan near Rockefeller
+Center.
+
+The engineer needs to be comfortable working in a fluid environment as well
+as handling a variety of assignments and technologies. We have a very
+sharp, passionate, and fast-moving development team that prides itself on
+technical excellence and innovation. People who are used to staid corporate
+environments or heads-down focusing on one thing will not be happy here;
+people who thrive on learning new technologies, defining their jobs, having
+a direct contribution to the success of the business, and thinking
+entrepreneurially will do well. 
+
+Overall responsibilities
+
+•	Designing and developing new applications or enhancements to our
+open source content management system (Krang) or blogging system (Movable
+Type)
+•	Helping to refine the technical architecture of the site
+•	Investigating new web technologies and determining their role in
+the business
+•	Working with product management team to identify promising new
+technologies and developing proofs-of-concept
+•	Serving as development lead on projects involving contract
+development teams
+•	Refining business requirements for new site features, and working
+with editorial team to enhance site usability
+
+
+Required skills:
+This is a hands-on development position requiring the following:
+
+•	Expert-level proficiency in object-oriented Perl (minimum 7 years
+experience)
+•	Expert-level proficiency in JavaScript, with heavy experience in
+object-oriented JavaScript development
+•	Expert-level proficiency developing mod_perl compliant
+applications, with extensive experience porting CGI applications to
+mod_perl preferred.
+•	Working knowledge with CGI::Application, Catalyst or other MVC Perl
+development framework
+•	Active working knowledge of AJAX
+•	Experience with Python a strong plus
+•	At least ten years experience in software development (with at
+least five years in web application development), with exposure to the full
+development lifecycle required
+•	Solid understanding of Apache 1.3 and 2.0 operations and
+integration in a Linux/Unix environment
+•	Familiarity in basic Linux systems administration, with preference
+for RedHat Linux Enterprise Server 4 or Fedora Core
+•	Development experience with the MySQL platform (v.4.1 and v.5).
+Exposure to database clustering a plus.
+•	Experience working with open source tools and applications, with
+prior participation and contribution in open source projects a plus.
+•	At least 3 years of experience developing and extending content
+management systems (major plus for in-depth working knowledge of Krang)
+•	Experience with Autonomy or other enterprise search technologies a
+plus
+•	Expert knowledge of XML, XSLT, SOAP, CSS, DHTML, and XHTML
+•	Strong organizational, problem-solving and communications skills
+(must be able to do basic technical writing)
+•	Experience in on-line media operations or advertising highly
+desirable
+•	Ability to work in a rapidly changing environment and exhibit grace
+under pressure
+•	Ability to work independently with no hand-holding
+
+
+URL for more information: http://nymag.com/
+
+Contact information at:
+http://jobs.perl.org/job/5808#contact
+
+

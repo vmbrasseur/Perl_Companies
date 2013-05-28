@@ -1,0 +1,89 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7301
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28535 invoked from network); 20 Nov 2007 09:21:05 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 20 Nov 2007 09:21:05 -0000
+Received: (qmail 9362 invoked by uid 225); 20 Nov 2007 09:21:04 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 9353 invoked by alias); 20 Nov 2007 09:21:04 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 20 Nov 2007 01:21:02 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id C06952AFD6; Tue, 20 Nov 2007 01:20:58 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20071120092058.C06952AFD6@x3.develooper.com>
+Date: Tue, 20 Nov 2007 01:20:58 -0800 (PST)
+Subject: Perl/mod_perl Engineer for refactoring effort (Seattle, WA area) (onsite), United States, WA, Seatte area
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/7340
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 19, 2007
+
+Job title:
+Perl/mod_perl Engineer for refactoring effort (Seattle, WA area)
+
+Company name: Classmates.com
+
+Location: United States, WA, Seatte area
+
+Pay rate: BOE
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Classmates.com owns several social networking sites. We're looking for an
+experienced software engineer to maintain, develop and eventually
+re-implement a web and email production application. 
+
+The First Three Tasks:
+•	Refactor and enhance a custom daemon-oriented email processing
+system.
+•	Help architect and implement a unit testing and QA framework.
+•	Add instrumentation and enhance logging in a large, established
+social networking application.
+
+Potential Role Evolution:
+•	Refactor and potentially re-implement web, email and administrative
+applications.
+•	Drive deployment and continuous testing design.
+
+
+Required skills:
+•	Extensive Perl experience.
+•	BS/BA from an accredited college or university. Commensurate level
+of experience may waive the educational requirement.
+
+
+Desired skills:
+•	Experience with Apache and mod_perl a plus.
+•	Perl web framework experience (especially Template Tookit or
+CGI::Ex:App) a plus.
+•	PostgreSQL or Oracle experience a plus.
+•	Email application experience a plus.
+
+
+URL for more information: http://www.classmates.com/
+
+Contact information at:
+http://jobs.perl.org/job/7340#contact
+
+

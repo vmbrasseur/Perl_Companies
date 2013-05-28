@@ -1,0 +1,114 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8137
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 6586 invoked from network); 13 May 2008 14:26:51 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 13 May 2008 14:26:51 -0000
+Received: (qmail 5089 invoked by uid 225); 13 May 2008 14:26:51 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 5085 invoked by alias); 13 May 2008 14:26:51 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 13 May 2008 07:26:45 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 8B8AC2AFEB; Tue, 13 May 2008 07:26:42 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080513142642.8B8AC2AFEB@x3.develooper.com>
+Date: Tue, 13 May 2008 07:26:42 -0700 (PDT)
+Subject: perl engineer for mobile site integrations (part onsite), Netherlands, Zuid-Holland, Rotterdam
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8682
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 13, 2008
+
+Job title:
+perl engineer for mobile site integrations
+
+Company name: MoMac
+
+Internal ID: SEPO
+
+Location: Netherlands, Zuid-Holland, Rotterdam
+
+Pay rate: 40 euro/hour
+
+Travel: 50-75%
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Flexible
+
+Onsite: some
+
+Description:
+Within our software development department we have temporarily a need for
+extra perl developer. Within this year we expect to execute a number of
+small and larger projects like:
+-	Further integration of payment and identification system for UK
+portals
+-	Set-up & integration of mail functionality in mobile sites 
+-	Extension of advertising integration in mobile sites 
+-	Set up and extending new content feeds (RSS, XML) 
+-	Aid at the migration of platform components to new hardware 
+-	… more project can be defined in time as business requires..
+
+Some projects are small and can be done in a matter of days, other projects
+are larger and can take up to 3 months.
+
+We expect some good knowledge of perl, we also use perl in a object
+oriented way where most of our mobile sites and integrated (server side)
+applications are build within our framework. Besides perl knowledge we also
+expect some knowledge of open source components such as Apache, MySQL and
+Linux. 
+
+We prefer to build a good relation with one freelance worker as some
+knowledge will be required of our development, test and production
+environment and perl frameworks in order to develop solutions.
+Such knowledge can be reused then in subsequent projects.
+
+We prefer native Dutch speaking workers, but (good spoken and written)
+English is an viable alternative. 
+
+We require, especial at startup of the relation, on site availability in
+our office in Rotterdam. Much of our development is Agile and requirements
+alter frequent and are discussed in face2face meetings with our technical
+oriented project managers. Off site work will be allowed once we have a
+good feeling on the scope of the project and can make very clear agreements
+on the deliverables, test results, support during testing and deadlines.
+
+We do not want intermediate agencies to respond to this request.
+
+Our hour tariff will be max. 40 euro/hour.
+
+
+Required skills:
+2-3 years of perl development
+Object orientation in perl
+understanding of Apache, Linux, MySQL
+
+
+Desired skills:
+deeper insight in perl, cpan, mod/perl and the technical architecture
+Apache, MySQL, and Linux. 
+
+Also some of our components are also written in PHP so some PHP skills are
+a plus.
+
+
+URL for more information: http://www.momac.net/
+
+Contact information at:
+http://jobs.perl.org/job/8682#contact
+
+

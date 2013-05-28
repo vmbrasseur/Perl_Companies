@@ -1,0 +1,117 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7403
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 31354 invoked from network); 13 Dec 2007 16:48:42 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 13 Dec 2007 16:48:42 -0000
+Received: (qmail 12554 invoked by uid 225); 13 Dec 2007 16:48:38 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 12484 invoked by alias); 13 Dec 2007 16:48:33 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 13 Dec 2007 08:48:23 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id B6DAE2AFD8; Thu, 13 Dec 2007 08:48:08 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20071213164808.B6DAE2AFD8@x3.develooper.com>
+Date: Thu, 13 Dec 2007 08:48:08 -0800 (PST)
+Subject: Dark Lord of Destruction (onsite), United States, MD, Columbia
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/7525
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 12, 2007
+
+Job title: Dark Lord of Destruction
+
+Company name: Message Systems
+
+Internal ID: dld-testing
+
+Location: United States, MD, Columbia
+
+Pay rate: Competitive
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+About Message Systems
+
+Message Systems is a global leader in both outbound and inbound email
+messaging.  Our technologies help transit billions of mails per day for
+carrier and service-provider customers worldwide, while offering unmatched
+flexibility and architectural clarity.	The company combines the best
+aspects
+of Open Source, startup, and established company in our business goals and
+corporate culture.
+
+Job Responsibilities
+
+
+Do you like breaking things?  Do you enjoy finding new and innovative ways
+to push, misuse and abuse software?  If this sounds like you, then we have
+the perfect job for you!
+
+Manage and enhance our large existing distributed whitebox testing
+framework based off Test::More.
+
+Enhance, manage and automate our smoke testing setup.
+
+Design and build stress and soak testing setups.
+
+Reverse-engineer customer-reported issues into reproducing cases.
+
+Use code coverage analysis tools to ensure test coverage.
+
+Work with the rest of the engineering group to promote robust testing and
+quality.
+
+Proactively find new and innovative ways to crush, break and destroy our
+products.
+
+
+Required skills:
+3-5 years of experience in software engineering industry.
+
+Strong and proven skills in Perl
+
+Experience doing automated testing in Perl.
+
+
+Desired skills:
+Knowledge of TCP/IP.
+
+Experience dealing with email from a software development or adminstration
+standpoint.
+
+Experience with Test::More, Apache::Test.
+
+Experience with Open Source testing tools such as gcov, valgrind and
+others.
+
+Experience contributing to Open Source projects, particularly CPAN, a huge
+plus.
+
+URL for more information:
+http://www.messagesystems.com/company/companyCareers.html
+
+Contact information at:
+http://jobs.perl.org/job/7525#contact
+
+

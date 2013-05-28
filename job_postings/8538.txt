@@ -1,0 +1,89 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8538
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 25971 invoked from network); 6 Aug 2008 20:43:06 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 6 Aug 2008 20:43:06 -0000
+Received: (qmail 22098 invoked by uid 225); 6 Aug 2008 20:43:06 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 22093 invoked by alias); 6 Aug 2008 20:43:06 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 06 Aug 2008 13:43:02 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 73C342AFE9; Wed,  6 Aug 2008 13:42:59 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080806204259.73C342AFE9@x3.develooper.com>
+Date: Wed,  6 Aug 2008 13:42:59 -0700 (PDT)
+Subject: New York based FT position for Web Server Engineer / DB Administrator (onsite), United States, New York, New York City
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/9370
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August  6, 2008
+
+Job title:
+New York based FT position for Web Server Engineer / DB Administrator
+
+Company name: Magnify.net
+
+Location: United States, New York, New York City
+
+Pay rate: Pay commensurate with experience  
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Magnify.net is seeking a senior server engineer with web application and
+database administration experience to join our team and help build and
+maintain our Internet infrastructure.
+
+Candidates for this position must have prior hands-on experience with
+scaling web applications past 1 million dynamic requests per day.
+
+Responsibilities:
+	* Administer and maintain the MySQL databases backing the web
+applications.
+	* Assist with updates to existing Perl and PHP code to improve
+performance.
+	* Develop back-end tools to support routine system operations and
+maintenance.
+	* Support development environment through SVN administration and
+deployment
+	* Review server performance reports and investigate server error
+alerts.
+	* Coordinate with our managed hosting provider to provision
+additional servers as needed.
+
+
+Required skills:
+* Experience with MySQL administration, including replication and
+optimization.
+	* Experience with Apache configuration and multi-tier /
+multi-server clusters.
+	* Familiarity with Perl; strong experience with Perl and/or PHP
+would be a plus.
+
+
+URL for more information: http://magnify.net/
+
+Contact information at:
+http://jobs.perl.org/job/9370#contact
+
+

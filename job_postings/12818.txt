@@ -1,0 +1,77 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12818
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 7684 invoked from network); 11 Oct 2012 02:54:16 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 11 Oct 2012 02:54:16 -0000
+Received: (qmail 18165 invoked by uid 225); 11 Oct 2012 02:54:15 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 18161 invoked by alias); 11 Oct 2012 02:54:15 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 10 Oct 2012 19:54:05 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id A8A4A2AFE0; Wed, 10 Oct 2012 19:54:01 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 10 Oct 2012 19:54:01 -0700
+Message-ID: <20121011025401.A8A4A2AFE0@x3.develooper.com>
+Subject: Perl developer (onsite), Vienna
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16588
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 10, 2012
+
+Job title: Perl developer
+
+Company name: Sipwise GmbH
+
+Location: Vienna
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Sipwise develops and integrates highly-available and scalable telephony
+systems based on open-source software (and releases lots of its software as
+open-source). Our platforms are deployed at ISPs all over the world,
+serving up to hundreds of thousands of customers each.
+You will extend our provisioning and monitoring systems and make the
+changes visible via the SOAP and XMLRPC interfaces, review and improve
+database access and performance metrics and work closely with Sipwise
+developers and people in the open-source community to enhance system
+maintenance work-flows.
+
+Required skills:
+A minimum of 5 years of experience developing object oriented Perl under
+Linux/UNIX systems.
+Familiar with SQL databases, SOAP and XML-RPC.
+Strong communication skills in spoken and written form, English and a
+second language.
+
+Desired skills:
+Experience with Debian GNU/Linux, Apache, MySQL, Catalyst, HTML, CSS,
+Javascript, jQuery.
+Fluent German in speaking and writing.
+Laziness, Impatience, and Hubris.
+
+Website for more information:
+http://www.sipwise.com/news/jobs/sipwise-is-hiring-perl-developers-around-v
+ienna/
+
+Contact information at:
+http://jobs.perl.org/job/16588#contact

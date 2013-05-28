@@ -1,0 +1,99 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12638
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 5574 invoked from network); 3 Aug 2012 22:13:06 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 3 Aug 2012 22:13:06 -0000
+Received: (qmail 24904 invoked by uid 225); 3 Aug 2012 22:13:06 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 24896 invoked by alias); 3 Aug 2012 22:13:06 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 03 Aug 2012 15:13:02 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 8DAE32AFE0; Fri,  3 Aug 2012 15:12:59 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 3 Aug 2012 15:12:59 -0700
+Message-ID: <20120803221259.8DAE32AFE0@x3.develooper.com>
+Subject: Sr. Perl Developer - Git/SCM environment (onsite), San Jose, CA, USA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16302
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August  3, 2012
+
+Job title: Sr. Perl Developer - Git/SCM environment
+
+Company name: The Armada Group
+
+Internal ID: 6275
+
+Location: San Jose, CA, USA
+
+Pay rate: $ - dependent upon experience
+
+Terms of employment: Hourly employee
+
+Length of employment: 1+ year
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Exciting opportunity for an experienced Perl Developer to implement GIT
+based software configuration management solutions in enterprise scale
+environments. You will be responsible for assisting in defining, managing,
+implementing and maintaining the branch strategy of an end-to-end build and
+release cycle for cutting-edge software products. Your focus will be on
+advising, implementing and automating the Perl-based build and release
+process to integrate within the current development environment. 
+
+Responsibilities include:
+* Create additional tools for Git. Spec, design, code and test scripts in
+Perl.
+* Tools on-boarding: Evaluate and bring in third-party tools related to
+SCM. Conduct the evaluation, setup, customization, integration and
+documentation of these tools.
+* Monitor and respond to build and merge failures and assist development
+with resolution.
+* Provide enhancements to build infrastructure to improve developer
+productivity.
+* Integrate source code control system with defect tracking, code & unit
+test review, static analysis and daily sanity test systems.
+
+Required skills:
+* Solid experience (5+ years) writing/coding/programming/developing in
+Perl. 
+* Good system design and troubleshooting skills.
+* Strong knowledge of the software development lifecycle and frequent
+release cycles, software configuration management practices, and build and
+release management methodologies.
+
+Desired skills:
+* Good experience (8+ years) providing Software Configuration Management
+(SCM) services to large, geographically distributed teams of developers is
+a major plus. At least 6 months of this in a ClearCase UCM environment is
+preferred.
+* Understanding of build and development tools including ANT, Ivy, Bamboo,
+Maven, Hudson and/or others to maintain an automated build system, as well
+as strong knowledge of the build/release process including product
+installation/configuration and system/unit testing is highly preferred.
+
+Website for more information:
+https://search0.smartsearchonline.com/armada/jobs_build/jobdetails.asp?job_
+number=6275
+
+Contact information at:
+http://jobs.perl.org/job/16302#contact

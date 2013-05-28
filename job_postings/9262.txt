@@ -1,0 +1,145 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9262
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 20806 invoked from network); 31 May 2009 21:44:26 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 31 May 2009 21:44:26 -0000
+Received: (qmail 22874 invoked by uid 225); 31 May 2009 21:44:25 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 22867 invoked by alias); 31 May 2009 21:44:25 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 31 May 2009 14:44:20 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 7F9EF2AFE1; Sun, 31 May 2009 14:44:17 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20090531214417.7F9EF2AFE1@x3.develooper.com>
+Date: Sun, 31 May 2009 14:44:17 -0700 (PDT)
+Subject: Perl/Linux/Solaris Ninja for Scripting, Support, and Troubleshooting (onsite), United States, TX, Dallas
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/10704
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 31, 2009
+
+Job title:
+Perl/Linux/Solaris Ninja for Scripting, Support, and Troubleshooting
+
+Company name: Confidential
+
+Internal ID: perldreamjob
+
+Location: United States, TX, Dallas
+
+Pay rate: TBD
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Really unique opportunity for a serious scripting, administration, and
+troubleshooting guru with Perl, Linux, and Solaris Skills.  You'll handle
+daytime support for one of the largest websites in the world, and build
+tools that allow your peers to support the website more easily.
+
+Make sure you read the instructions. Replies that don't include the
+mandatory information won't be answered.
+
+What we need:
+
+    * Top notch perl and shell scripting skills. Really top-notch. You'll
+need to know what a closure is in perl, and how to use it. What errno is in
+unix terms, what variable it maps to in perl, and how to use it correctly
+with defensive programming skills. What a Schwartzian transform is, why you
+might want one, and how to write it.
+    * Serious Linux and Solaris Skills Understand deep unix concepts like
+sockets, how to do a non-blocking read on a socket. Expert in open source
+tools like rsync, ssh, C and Java source code build tools like make, ant,
+maven, subversion, hudson, cruise control, etc.  This isn't a comprehensive
+list, just to highlight that we're looking for a jack of all trades with
+great expertise in the Linux and Solaris space.
+    * Apache Guru Full understanding of plugins, mod-proxy, log management,
+tuning for open file descriptors, ssl, certificates, etc
+    * Great People Skills You'll be working for a small consulting company,
+but in our Fortune 200 client's headquarters. Need someone that not only
+has great technical skills, but the ability to work with, and coach, other
+developers.
+
+Optional Expertise that could seal the deal:
+
+    * Have C++ or Java/Tomcat expertise? You could work on the main website
+code as well.
+    * Logging and monitoring guru? Do you know splunk, rrd, syslogng, or
+other tools well?  Maybe have expertise with JMX? That's a definite plus.
+    * Are you a master with performance analysis? Know how to debug a core
+file with gdb? Java profiler expert? Or perhaps unix/linux performance
+expertise...like mastering dtrace, truss, strace ?
+    * ESB expert?  Can you speak ServiceMix or Mule? Understand the guts of
+the platform?
+
+What we can offer:
+
+    * Stable, W2 employment with 100% paid medical and dental.
+    * The great combo of working for a small company, but within a big
+company environment.  You'll be working on one of the 200 largest websites
+in the world.
+    * Casual work environment.	You do have to be presentable, but jeans
+and t-shirts are the norm.
+    * It's a fun environment with friendly coworkers...work hard, and
+you'll be able to play hard as well.
+    * Visibility.  Our small consulting company is led by a former Fortune
+500 CTO that can help you with your career goals.
+    * Variety.	Aside from the on-the-ground client work, our consulting
+company has other great internal opportunities.
+    * Competitive compensation, commensurate with your experience. And, the
+potential upside of being a first year em[ployee with a small growning
+company.
+
+What to send:
+
+    * Your resume. Make sure it highlights the expertise needed above.
+    * Some examples backing your expertise.  Have a profile on
+perlmonks.com?	Active on a message board that highlights your skills? Send
+me the url's
+    * Aside from your resume, send me a couple of paragraphs describing why
+you think you're a great fit for this job. Be sure to include any area of
+expertise where you feel you are a world-class expert, even if it wasn't
+mentioned here.
+
+Make sure you send all three items above.  Emails missing them will be
+discarded. Looking forward to hearing from you.
+
+Required skills:
+Advanced Perl Scripting Skills
+Shell Scripting
+Troubleshooting on Linux / Solaris
+Apache Administration and Troubleshooting
+
+Desired skills:
+Continuous Integration - Hudson, Cruise Control
+Build Skills - Make, Ant, Maven
+C/C++ Troubleshooting, Core Files, GDB, etc
+
+
+URL for more information:
+http://dallas.craigslist.org/dal/eng/1198041901.html
+
+Contact information at:
+http://jobs.perl.org/job/10704#contact
+
+

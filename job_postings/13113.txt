@@ -1,0 +1,114 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13113
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 18264 invoked from network); 5 Feb 2013 05:27:20 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 5 Feb 2013 05:27:20 -0000
+Received: (qmail 12071 invoked by uid 225); 5 Feb 2013 05:27:20 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 12067 invoked by alias); 5 Feb 2013 05:27:19 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 04 Feb 2013 21:27:16 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 569932AFE0; Mon,  4 Feb 2013 21:27:13 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 4 Feb 2013 21:27:13 -0800
+Message-ID: <20130205052713.569932AFE0@x3.develooper.com>
+Subject: Senior Software Development Engineer (onsite), Seattle, WA, USA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16977
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February  4, 2013
+
+Job title: Senior Software Development Engineer
+
+Company name: Shiftboard, Inc
+
+Location: Seattle, WA, USA
+
+Pay rate: Very High/Competitive - DOE
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Shiftboard is a small, lean-oriented, open-source friendly
+Software-as-a-Service company in Seattle.  
+
+We provide online scheduling tools, community and workforce management
+services to a diverse base of organizations around the world: businesses,
+non-profits, events and festivals, municipal/government, healthcare
+institutions, and contact centers.
+
+We are profitable and growing fast. Many of our customers are familiar
+brand names and/or influential cultural, musical, arts, and sporting
+institutions.
+
+We're looking to add a Senior Software Development Engineer to our team, to
+be responsible for the development of a wide range of products, both new
+and existing. You'll be building products for audiences as diverse as SXSW,
+the Red Cross, USOC, MLB, Harvard University, MIT, Groupon, LivingSocial,
+and hundreds of other staffing groups, contact centers, and municipal
+governments worldwide. Our clients love us and we're working to make them
+even happier each day.
+
+You'll grow your skillset by developing mobile tools, public/private API's,
+scaling web services, automating our infrastructure, and through leveraging
+virtualization, caching, and related technologies, and you'll  join a
+tightly-focused team working on a highly engaging product serving hundreds
+of industries with millions of transactions around the world.
+
+If you are looking to grow your career, there are multiple pathways to
+expand your role and responsibility level within operations,
+technology/engineering, and product management.
+
+We're small and you're able to have an immediate impact, you'll be at the
+junction of mobile and location-based services that really matter for
+people's lives, and you'll have the autonomy to get the right things done.
+
+Required skills:
+-  Play well with others, communicate clearly, demonstate a high-level of
+personal and professional integrity
+  -  Strong Linux/Unix Skills. DevOps experience, mindset or interest
+  -  5+ years commercial software development experience on open-source web
+architectures; real software shipping to end users, with a range of
+experiences you can share
+  -  Solid experience with perl and/or python in a production environment,
+including thinking about tuning and performance
+  -  Experience building and consuming web services (JSON/RPC, REST, etc.)
+and strong opinions about their design
+  -  Experience or understanding of the front-end web stack (Javascript,
+CSS/HTML) - everyone does full-stack development here
+  -  Maybe a Bachelor's (or Master's) in Computer Science. Equivalent. 
+Real world experience may be even better.
+
+Desired skills:
+-  Leading, helping, and/or mentoring others
+  -  Experience with one or more caching, scaling, and/or other noSQL
+architectures (memcached, redis, RabbitMQ, couchDB, etc.), mobile client
+platforms (iOS/Android), telephone/IVR systems (Asterix, etc.), and/or
+automated testing tools (Selenium, WatiR, etc.)
+  -  Virtualization technologies.
+  -  Success or Failure with one or more home-grown, commercial, or
+community-based web development frameworks
+
+Website for more information: http://www.shiftboard.com
+
+Contact information at:
+http://jobs.perl.org/job/16977#contact

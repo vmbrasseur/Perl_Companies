@@ -1,0 +1,88 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12724
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 10080 invoked from network); 11 Sep 2012 07:43:45 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 11 Sep 2012 07:43:45 -0000
+Received: (qmail 26175 invoked by uid 225); 11 Sep 2012 07:43:44 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 26171 invoked by alias); 11 Sep 2012 07:43:44 -0000
+X-Spam-Status: No, hits=-1.3 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,SUBJECT_NEEDS_ENCODING,SUBJ_ILLEGAL_CHARS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 11 Sep 2012 00:43:41 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 041412AFDF; Tue, 11 Sep 2012 00:43:37 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Tue, 11 Sep 2012 00:43:37 -0700
+Message-ID: <20120911074338.041412AFDF@x3.develooper.com>
+Subject: IT developer - Perl (onsite), Bagsværd, København, Denmark
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16432
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 10, 2012
+
+Job title: IT developer - Perl
+
+Company name: Novozymes
+
+Internal ID: NZDKBA2586
+
+Location: Bagsværd, København, Denmark
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Do you want to use your IT skills within Biotechnology Research?
+
+The R&D Data Management department in Bagsvaerd is extending the software
+development team for the central R&D workflow application.
+
+You will join the IT group which has built the research application by
+using a wide range of standard Perl modules and utilizing the Open Source
+eco-system.
+
+Required skills:
+* You enjoy working in a strong team working towards ambitious goals with
+high responsibility. You have a professional attitude and a structured
+working style for navigating in a highly complex environment
+ * Your technical repertoire covers:
+   * object oriented Perl programming skills using CPAN
+   * experience with Linux debugging tools, VCS/Subversion
+   * web-development
+   * Web User Interface development (HTML/CSS/Javascript)
+ * Knowledge of Relational databases
+ * Your technical interest is triggered by Mason, DBIx::Class and the
+Catalyst MVC-framework with various components like R, Grid engine and
+bioinformatics tools
+
+You enjoy working in a global research organization with people of
+different personalities and cultures.
+
+Desired skills:
+* PostgreSQL experience
+ * Molecular biology/bioinformatics an advantage
+ * You have participated in IT projects in an enterprise context.
+
+Website for more information:
+http://www.jobs.global.novozymes.com/fe/tpl_Novozymes07.asp?s=CenPmSXuHfWIn
+KkWfc&jobid=46343,4752212321&key=49402769&c=418747564656&pagestamp=sejckjon
+gpuhuqruuf
+
+Contact information at:
+http://jobs.perl.org/job/16432#contact

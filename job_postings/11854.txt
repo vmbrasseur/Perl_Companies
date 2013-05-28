@@ -1,0 +1,86 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11854
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 14059 invoked from network); 10 Nov 2011 21:35:15 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 10 Nov 2011 21:35:15 -0000
+Received: (qmail 29888 invoked by uid 225); 10 Nov 2011 21:35:15 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 29884 invoked by alias); 10 Nov 2011 21:35:14 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 10 Nov 2011 13:35:12 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 7EBED2AFDF; Thu, 10 Nov 2011 13:35:08 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 10 Nov 2011 13:35:08 -0800
+Message-ID: <20111110213508.7EBED2AFDF@x3.develooper.com>
+Subject: Systems Operations Engineer (onsite), Emeryville, CA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15118
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 10, 2011
+
+Job title: Systems Operations Engineer
+
+Company name: TubeMogul, Inc.
+
+Location: Emeryville, CA
+
+Pay rate: Competitive
+
+Terms of employment: Salaried employee
+
+Length of employment: Indefinite
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+TubeMogul is the only video marketing company built for branding. By
+integrating real-time media-buying, ad-serving, targeting, optimization and
+brand measurements into its PlayTime platform, TubeMogul simplifies the
+delivery of video ads. We are a cohesive group of overachievers determined
+to deliver the potential the internet offers to brand advertising. 
+
+TubeMogul is offering the chance to work on the ground floor of a
+fast-growing, financially strong company. Our operations team is searching
+for a fabulous team player to help manage hundreds of cloud servers, as
+well as automated build and deployment systems. Our team leverages some of
+the most cutting edge technology to simplify an otherwise complicated
+system.
+
+Required skills:
+•Linux Ubuntu, Debian, CentOS
+•Bash or other shell
+•At least one of: Perl, Python, Ruby
+•Configuration and automation of Nagios
+•Knowledge of TCP/IP, DNS (Bind), LDAP (OpenLDAP), NFS, SSH Tunnelling,
+OpenVPN, Apache httpd 2.x
+
+Desired skills:
+•Knowledge in deploying / configuring Java application (Servlet Container:
+Tomcat, Jetty, Virgo, Glassfish)
+•Ganglia / Munin plugin
+•MySQL
+•Haproxy or any other software loadbalancer solution
+•Software Raid with LVM or mdadm
+•Hadoop, Hive, Hbase, Zookeeper Administration
+
+Website for more information: http://www.tubemogul.com/
+
+Contact information at:
+http://jobs.perl.org/job/15118#contact

@@ -1,0 +1,51 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:236
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 31473 invoked by uid 1016); 6 Nov 2001 05:10:09 -0000
+Date: 6 Nov 2001 05:10:09 -0000
+Message-ID: <20011106051009.31472.qmail@onion.perl.org>
+To: jobs@perl.org
+Subject: TCP-IP Script Optimization (telecommute)
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/144
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November  4, 2001
+
+Job title: TCP-IP Script Optimization
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: a few hours
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+I have had a TCP/IP related scritp developed, but it desperately needs
+optimization. THe script connects with a multithreaded/multiprocess
+connection, but the connections get dropped. 
+
+I need a way to optimize this so that when connections are dropped, they
+are "killed" and new ones established to take their place. 
+
+TCP/IP experts only please
+
+The process is written in perl and runs on Linux
+
+Required skills: TCP-IP, Perl
+
+Contact information: mid_ohio@email.com
+
+

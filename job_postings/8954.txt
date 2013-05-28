@@ -1,0 +1,135 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8954
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 24632 invoked from network); 20 Jan 2009 19:25:27 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 20 Jan 2009 19:25:27 -0000
+Received: (qmail 16808 invoked by uid 225); 20 Jan 2009 19:25:27 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 16803 invoked by alias); 20 Jan 2009 19:25:26 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 20 Jan 2009 11:25:22 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 11E5B2AFE8; Tue, 20 Jan 2009 11:25:18 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20090120192519.11E5B2AFE8@x3.develooper.com>
+Date: Tue, 20 Jan 2009 11:25:18 -0800 (PST)
+Subject: Lead engineer - search startup - new product (onsite), United Kingdom, London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/10112
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 16, 2009
+
+Job title:
+Lead engineer - search startup - new product
+
+Company name: Lokku Ltd.
+
+Location: United Kingdom, London
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Length of employment: At least 2 years
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+This position is really three roles in one.  We need someone to head the
+technical efforts around our new product throughout its lifetime.  This can
+be considered in three phases:
+
+1. Architect.  You will work closely with a product manager to finalize
+details of the product's specification.  That done, you will create a
+detailed technical plan for the product's development.	This will include
+choosing a technology stack, designing the system and software
+architecture, and determining how to host and serve the application. This
+phase is expected to take about 3 months.
+
+2. Manager.  A important part of the planning process will include working
+out the best way to scale up our engineering resources to make the
+specification into a working product.  You will be required to survey the
+available options and make a proposal.	We are open to a variety of
+alternatives including additional full time hires in the UK, full
+outsourcing, or something in between.  Once a plan is agreed upon, you will
+recruit additional engineers or form relationships with suitable partners. 
+We expect this phase to take about 3 months.
+
+3. Lead Developer.  You will manage the development effort of our new
+product.  This includes responsibility for meeting deadlines and day to day
+management of new recruits or outsourcing partners.  You will be writing
+code with one hand and managing with the other.  Main development is
+expected to take no more than six months and includes a post launch
+refinement period as the product settles in.
+
+There will be some intersection among the phases and the timeline is not
+written in stone.  For example, recruitment can start before the design is
+complete and managerial tasks will continue during development. There will
+be limited formal structure in this position, but you will not operate
+completely without supervision.  Plans and decisions will be validated by
+other members of the Lokku team against the sometimes conflicting goals of
+low cost, ease of management, and product quality.  After the first year,
+you may continue to manage the team and product maintenance and further
+development or change to working on other initiatives within Lokku.  This 3
+phase scheme is not a one year contract, but just the first step in a long
+and productive contribution to our team.
+
+Required skills:
+The person we are looking for >must<:
+
+* have experience managing other programmers.
+* have designed a 'large' software application.
+* have at least 5 years experience writing software and at least two years
+experience building applications for the web using GNU/Linux or BSD,
+Apache, relational databases, and Perl, Ruby, Python, or PHP.
+* have a proven ability to work effectively with a minimum of structure.
+* be legally allowed to work in the UK.
+* be able to commit to work exclusively for Lokku for a minimum of two
+years.
+* be and able to work full time in Central London.
+* be able to communicate in fluent English.
+
+Desired skills:
+Bonus points go to candidates that have experience with:
+
+* managing offsite programmers.
+* selecting partners for outsourcing efforts and manging relationships with
+those partners.
+* forming and/or managing relationships with vendors and service providers.
+
+* managing a budget and project deadlines.
+* web crawling, document indexing and classification, and efficient
+searching of structured and unstructured data.
+* building user interfaces for the web with AJAX.
+* Unicode, UTF-8, and the general problem of efficient software
+localization in the context of web applications.
+* applying mathematical techniques to high-dimension optimization problems
+with variable constraints.
+
+Further bonus points if you can:
+
+* speak additional European languages.
+* are a recognized contributor to the world of free and open source
+software.
+
+URL for more information: http://www.lokku.com/
+
+Contact information at:
+http://jobs.perl.org/job/10112#contact
+
+

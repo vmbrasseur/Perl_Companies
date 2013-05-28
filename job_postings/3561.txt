@@ -1,0 +1,87 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3561
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 18909 invoked from network); 12 Dec 2005 16:02:58 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 12 Dec 2005 16:02:58 -0000
+Received: (qmail 14344 invoked by uid 225); 12 Dec 2005 16:02:57 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 14339 invoked by alias); 12 Dec 2005 16:02:57 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 12 Dec 2005 08:02:49 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id jBCG2hra027865
+	for <jobs@perl.org>; Mon, 12 Dec 2005 08:02:43 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id jBCG2huk027863;
+	Mon, 12 Dec 2005 08:02:43 -0800
+Date: Mon, 12 Dec 2005 08:02:43 -0800
+Message-ID: <200512121602.jBCG2huk027863@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Senior Software Engineer for WiFi provider, United States, GA, Atlanta
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2536
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 12, 2005
+
+Job title:
+Senior Software Engineer for WiFi provider
+
+Company name: StayOnline
+
+Internal ID: devel1205
+
+Location: United States, GA, Atlanta
+
+Pay rate: $negot.
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: Perm
+
+Hours: Full time
+
+Description:
+ As part of new customer product initiatives we have an immediate need for
+a Senior Software Developer to assist with creation of new products as well
+as integration of existing ones.
+
+ The position reports directly to the Development Manager and offers much
+opportunity for professional growth. You will be highly skilled and
+well-motivated, and possess the ability to jump straight in and get your
+hands dirty with a great deal of autonomy.
+
+ You will be joining a growing company with excellent prospects that offers
+great potential for professional and personal growth.
+
+
+Required skills:
+Perl, perl, and perl. Links to PM nodes or existing CPAN software will be
+accepted in lieu of a resume. Specifically you will need DBI experience
+(particularly Class::DBI), and knowledge of communication protocols such as
+HTTP and XML::RPC.
+
+Desired skills:
+Server-side templating tools (HTML::Mason particularly); HTML; CSS;
+javascript; XML.
+
+Contact information at:
+http://jobs.perl.org/job/2536#contact
+
+

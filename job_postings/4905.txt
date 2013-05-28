@@ -1,0 +1,251 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4905
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 3254 invoked from network); 6 Sep 2006 08:43:42 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 6 Sep 2006 08:43:42 -0000
+Received: (qmail 29321 invoked by uid 225); 6 Sep 2006 08:43:40 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 29274 invoked by alias); 6 Sep 2006 08:43:34 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_05
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 06 Sep 2006 01:43:28 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 7F6FD2AFDE; Wed,  6 Sep 2006 01:43:19 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060906084319.7F6FD2AFDE@x3.develooper.com>
+Date: Wed,  6 Sep 2006 01:43:19 -0700 (PDT)
+X-Virus-Checked: Checked
+Subject: Perl Guru, San Francisco (onsite), United States, California, San Francisco
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4615
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September  5, 2006
+
+Job title: Perl Guru, San Francisco
+
+Company name: Symantec
+
+Internal ID: 059113
+
+Location: United States, California, San Francisco
+
+Pay rate: NA
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: NA
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+# Work.pm - Your new job.
+# -------
+# See POD for details.
+
+package Work;
+use strict;
+use warnings;
+
+# CPAN requirements:
+use Bloom::Filter;
+use Algorithm::Diff;
+use Graph::AdjacencyMatrix;
+use Acme::Bleach;
+
+# Custom requirements:
+
+use lib qw(/opt/skunkworks/perl/lib);
+use Secret::Voodoo::Chicken;
+use Secret::Voodoo::Salt;
+# Ima:
+use base qw(Class::Accessor);
+# Properties:
+Work->mk_accessors(qw(position));
+Work->mk_ro_accessors(qw(company industry location pay));
+# Standard constructor.
+sub new {
+    my ( $class, $args_ref ) = @_;
+    my $self = {};
+    bless $self, $class;
+    $self->_init($args_ref) || die "Could not create new Work object!";
+    return $self;
+}
+# Initialize properties etc.
+sub _init {
+    my ( $self, $args_ref ) = @_;
+    # Set argument properties.
+    foreach my $arg ( keys %$args_ref ) {
+	$self->{$arg} = $args_ref->{$arg};
+    }
+    # Set read-only properties.
+    $self->{company}  = 'Major Software Company';
+    $self->{industry} = 'Information Security';
+    $self->{location} = 'Downtown San Francisco';
+    $self->{pay}      = 'Market Rate';
+# Set up ENV in case it's not clear.
+    $ENV{DRESS}  = 'casual';
+    $ENV{OFFICE} = '^3';
+    delete $ENV{CAFETERIA};    # cf. $self->location
+    # Hash for hires (by position).
+    $self->{_hires} = {};
+    return 1;
+}
+
+ 
+
+# Apply for work.  Returns true for hire, undef for no hire.
+
+sub apply {
+    my $self = shift;
+    my $c    = shift;
+    die "Ghosts are not technically employable" unless $c;
+    # Must apply for something.
+    unless ( defined $self->position ) {
+	warn "Sure, like we need an undef";
+	return;
+    }
+    # Already hired?
+    if ( $self->{_hires}{$c} ) {
+	warn("No double-dipping");
+	return;
+    }
+    if ( $self->_evaluate($c) ) {
+	# Hired!
+	$self->{_hires}{$c} = $self->position;
+	return 1;
+    }
+    else {
+	return;    # Sorry pal.
+    }
+
+}
+
+ 
+
+# Evaluate a candidate and return a hire/nohire recommendation (boolean).
+sub _evaluate {
+    my $self = shift;
+    my $c    = shift || die "The sound of one hand clapping";
+    no warnings 'uninitialized';
+    # Certain things are required.  Scale is 1-10 where applicable.
+    return
+      unless (
+	$c->isa('Guru')      &&    # gotta be that good.
+	$c->intelligence > 9 &&    # out of 10.
+	$c->humor > 5	     &&    # ...everyone is above average.
+	$c->creativity => 8	   # some hard problems to solve here.
+      );
+    # Experience is important but not the only thing in life.
+    if ( $c->intelligence + $c->creativity + $c->experience < 15 ) {
+	return;
+    }
+    # Looks like we have a winner!
+    return 1;
+}
+
+ 
+
+# Perform work.
+sub perform {
+    my ( $self, $args_ref ) = @_;
+    my $emp = $args_ref->{employee} || die "Ghost in the machine";
+    die "Intruder" unless $self->{_hires}{$emp};
+    # Do something interesting.
+    my $chicken = Secret::Voodoo::Chicken->new();
+    my $salt	= Secret::Voodoo::Salt->new();
+    # TODO: Show us something cool.
+    die "Candidate must complete the 'perform' method";
+}
+1;
+
+ 
+
+=head1 NAME
+Work - your new job.
+=head1 SYNOPSIS
+    my $w = Work->new( { position => 'Principal Software Engineer' } );
+    my $me = Guru->new( \%my_attributes );    # be honest!
+    if ( $w->apply($me) ) {
+	$w->perform( \%intriguing_stuff );
+    }
+    else {
+	die "No hire";
+    }
+=head1 DESCRIPTION
+Want to work with a small team of highly-motivated Perl hackers?
+Want the benefits of a large company without giving up that can-do startup
+spirit?
+Want to write code that makes the world better while also kicking the
+competition's butt?
+
+This may be a job for you.
+=head2 WE ARE
+We are part of a market-leading business unit of a Fortune 1000 software
+company with operations in 40 countries.  We work on a mission-critical
+system
+that quietly and effectively feeds oxygen to the rocket ship of our product
+line.
+
+We're smart and flexible and we get things done.
+We fight Spam.
+=head2 YOU ARE
+You are a rock-star hacker with a passion for great code and the track
+record to prove it.
+You love Perl but not to the exclusion of other things.  
+You also love being on a winning team.
+You're serious but not boring, smart but not pretentious, funny but not
+rude.  You have a life.
+You can write the C<Guru> module in your sleep, and when you wake up you
+can't help telling us (politely, of course) what's wrong with this revision
+of the C<Work> module.
+And having read this far, you're already thinking about what C<perform>
+should do.
+=head1 REQUIREMENTS
+=over
+=item Perl expertise.
+OOPerl, C<Class::*>, C<Apache::*>, C<Legacy::Complex::Voodoo>
+=item Testing experience.
+C<Test::More> or more.
+=item Solid database knowledge.
+C<DBI> and C<Class::DBI> and a strong understanding of relational database
+concepts and their application in the real world.
+=item Senior/Lead engineering experience.
+Something on the order of 10 years experience, all of it interesting.
+=item Web application development experience.
+Model-View-Controller frameworks, data providers, load balancing, etc.
+=item System programming experience.
+This position will involve B<Heavy Lifting> on the server.
+
+Candidates I<must> be fully able to geek out on difficult, esoteric
+system-level weirdness in Perl and outside it.
+=item Code sample.
+Please provide an original work that is not subject to any restrictions on
+its disclosure.
+=back
+=head1 APPLICATION
+
+To apply for this position, send the usual self-presentation package to:
+perl_guru@symantec.com
+
+
+Contact information at:
+http://jobs.perl.org/job/4615#contact
+
+

@@ -1,0 +1,95 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10646
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 21694 invoked from network); 20 Oct 2010 23:30:28 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 20 Oct 2010 23:30:28 -0000
+Received: (qmail 27889 invoked by uid 225); 20 Oct 2010 23:30:28 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 27884 invoked by alias); 20 Oct 2010 23:30:28 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 20 Oct 2010 16:30:25 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 520982AFE1; Wed, 20 Oct 2010 16:30:22 -0700 (PDT)
+To: jobs@perl.org
+Date: Wed, 20 Oct 2010 16:30:22 -0700
+Message-ID: <20101020233022.520982AFE1@x3.develooper.com>
+Subject: Application Programmer/Analyst Intermediate (onsite), 48104, MI, Ann
+ Arbor
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13074
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 20, 2010
+
+Job title: Application Programmer/Analyst Intermediate
+
+Company name: Merit Network
+
+Internal ID: 52975
+
+Location: 48104, MI, Ann Arbor
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Merit Network, Inc. is a non-profit, member-owned organization in Ann
+Arbor, formed in 1966 to design and implement a computer network between
+public universities in Michigan. Merit continues to provide
+high-performance networking and services to the research and education
+communities in Michigan and beyond. For additional information about Merit,
+please see (http://www.merit.edu).
+
+Position Summary:  
+Merit Network is seeking a highly motivated candidate to join our
+Information Technology group.  You will be part of a development team
+providing software tools and applications in support of large-scale,
+high-volume services for the higher education community.
+
+Position Description:
+Day-to-day responsibilities will include evaluating requirements, designing
+and building command-line and web-based applications, documenting systems,
+working with API's to integrate external systems, and troubleshooting new
+and existing applications.
+
+
+Required skills:
+* Fluent in Perl
+* Fundamental understanding of C, shell scripting, AWK, SED
+* Background developing in a LAMP (Linux, Apache2, MySQL, Perl) environment
+
+* Solid SQL skills (MySQL, PostgreSQL, or Oracle)
+* Ability to prioritize and multi-task many small projects in a shared code
+environment (GIT/CVS/SVN)
+* Ability to work both individually and in a group
+* Dedication to learning and advancing your skills
+* Ability to troubleshoot software and communications malfunctions
+
+
+Desired skills:
+* Object-Oriented Perl
+* DBI and DBIx::Class
+* Moose
+* Catalyst MVC framework
+
+
+Website for more information:
+http://umjobs.org/job_detail/52975/app_programmeranalyst_inter
+
+Contact information at:
+http://jobs.perl.org/job/13074#contact

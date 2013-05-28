@@ -1,0 +1,116 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2207
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 10660 invoked from network); 3 Jan 2005 23:41:37 -0000
+Received: from x1.develooper.com (63.251.223.170)
+  by lists.develooper.com with SMTP; 3 Jan 2005 23:41:37 -0000
+Received: (qmail 7296 invoked by uid 225); 3 Jan 2005 23:41:37 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 7291 invoked by alias); 3 Jan 2005 23:41:36 -0000
+X-Spam-Status: No, hits=-4.9 required=8.0
+	tests=BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+  by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 03 Jan 2005 15:41:34 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j03NfWZp025206
+	for <jobs@perl.org>; Mon, 3 Jan 2005 15:41:32 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j03NfWsi025204;
+	Mon, 3 Jan 2005 15:41:32 -0800
+Date: Mon, 3 Jan 2005 15:41:32 -0800
+Message-ID: <200501032341.j03NfWsi025204@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Software Engineer for Six Apart (onsite), United States, CA, San Francisco
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1019
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January  3, 2005
+
+Job title: Software Engineer for Six Apart
+
+Company name: Six Apart
+
+Location: United States, CA, San Francisco
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Six Apart (http://www.sixapart.com/), the company behind the Movable Type
+and TypePad weblogging systems/services, is looking for some skilled
+engineers to work with us in building the next generation of weblogging
+software. You will work on a global team to build software used by hundreds
+of thousands of individuals and businesses.
+
+The ideal candidate will have the following characteristics:
+
+  1. Ability to learn. Candidate must show they can adapt to the rapidly
+     changing technology landscape.
+
+  2. Ability to communicate. Candidate must show that they can express
+     ideas with elegance and flair.
+
+  3. Mature technical ability. Candidate must understand how the web 
+     works from a low to a high level. Candidate must also understand
+     how quality software is designed and constructed. We want you 
+     to think as much as you code.
+
+  4. Flexibility. Candidate must be comfortable with the pace of a
+     small-sized company.
+
+Required skills:
+- Four year degree or equivalent industry experience.
+
+- Previous experience developing web applications, preferably for a high
+volume web site.
+
+- Understanding and experience with object-oriented design and coding.
+
+- Experience using Perl with Apache.
+
+- Understanding of relational database concepts and SQL.
+
+- Knowledge of basic Software Engineering concepts: development models,
+testing, and documentation.
+
+Desired skills:
+- Knowledge of Six Apart's products and services.
+   
+- Experience with weblogs and weblog software, especially Movable Type.
+
+- Expert Perl programming experience including: Perl web applications under
+Apache and mod_perl, Perl modules, Perl OOP extensions 
+
+- Other Languages: Python, Ruby, PHP, C, C++
+   
+- Experience in engineering content management systems.
+
+- Technologies: XML, Web Services and XML-RPC; SMS/MMS;
+Internationalization; Search systems and concepts.
+
+URL for more information: http://www.sixapart.com/jobs/
+
+Contact information:
+Please apply with cover letter (plain text) and résumé to
+jobs+engineering@sixapart.com. Also include links to previous work, CPAN
+modules, contributions to open source projects, etc as well as salary
+expectations. 
+
+

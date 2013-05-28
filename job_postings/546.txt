@@ -1,0 +1,71 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:546
+Return-Path: <msouth@fulcrum.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 56308 invoked by uid 76); 27 Aug 2002 23:43:47 -0000
+Received: from scan.shodor.org (HELO scan.shodor.org) (168.215.132.4)
+  by onion.perl.org (qpsmtpd/0.07b) with SMTP; Tue Aug 27 23:43:47 2002 -0000
+Received: (from msouth@localhost)
+	by scan.shodor.org (8.9.3/8.9.3) id TAA08306
+	for jobs@perl.org; Tue, 27 Aug 2002 19:43:19 -0400
+Date: Tue, 27 Aug 2002 19:43:19 -0400
+Message-ID: <200208272343.TAA08306@scan.shodor.org>
+To: jobs@perl.org
+Subject: Perl Programmer Available
+Approved: news@nntp.perl.org
+From: msouth@fulcrum.org (Mike South)
+
+[Setting:  Perl Programmers Anonymous meeting]
+
+Hi,
+
+I'm Mike, and I'm a Perl programmer.
+
+[response from audience: "Hi, Mike"]
+
+I have tried to like C.  I even worked in Java for a while.
+No matter what I tried, I couldn't help it.  It was like all I
+could think about was getting a job where all I did was Perl.
+
+[sympathetic nods]
+
+I was employed as an SAP consultant, doing 4GL work for companies
+like DuPont and Owens-Corning.  At first it was interesting enough,
+but pretty soon I knew that I just coulnd't keep living the lie.
+I was a Perl programmer, I knew it, and it was just impossible
+to hide.
+
+I introduced Perl and MySQL to the company and built an internal tool
+to track their consultants, saving them a hundred thousand dollars
+on some system that they were considering purchasing.  Even when the
+job wasn't supposed to be a Perl job, it became one when I got there.
+
+[knowing looks and sighs]
+
+Then came OO Perl.  First it was just a little here and there,
+extending a module or two with a couple of extra methods.
+Then before I knew it I was doing everything with h2xs, making
+my stuff installable with "perl Makefile.PL && make && make install",
+using autoload rampantly and getting really rabid about ensuring
+inheritability.  I couldn't stop myself!  All I wanted to do was
+push it to the next level.
+
+[mutters of "boy, have I been there!"]
+
+Please help me feed my addiction!
+
+[wild applause]
+
+mike south
+
+PS Perl programmer, Adept level, available immediately.  I live in
+the Raleigh NC area, love telecommuting, but would be open to the
+possbility of relocating.  Experienced with Linux, DBI, Apache, GD,
+etd.
+
+	http://fulcrum.org/msouth/resume.txt
+	http://fulcrum.org/msouth/perl_summary.txt
+	http://fulcrum.org/msouth/perl_details.txt

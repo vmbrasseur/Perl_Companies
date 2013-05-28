@@ -1,0 +1,85 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5432
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 25026 invoked from network); 11 Dec 2006 19:32:59 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 11 Dec 2006 19:32:59 -0000
+Received: (qmail 32564 invoked by uid 225); 11 Dec 2006 19:32:58 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 32520 invoked by alias); 11 Dec 2006 19:32:51 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 11 Dec 2006 11:32:44 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id CDAE92AFE3; Mon, 11 Dec 2006 11:32:39 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20061211193239.CDAE92AFE3@x3.develooper.com>
+Date: Mon, 11 Dec 2006 11:32:39 -0800 (PST)
+Subject: Web application developers for www.heise.de (onsite), Germany, Hannover
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3998
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 11, 2006
+
+Job title:
+Web application developers for www.heise.de
+
+Company name: Heise Zeitschriften Verlag
+
+Location: Germany, Hannover
+
+Pay rate: $negotiable EUR
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+heise online is the foremost German news source for computers, IT and
+related matters, often compared to Slashdot or The Register. With over 150
+million page impressions and 24 million visits per month we are one of the
+largest German special-interest sites. You will join a team of Perl
+developers in maintaining our current web applications and creating
+exciting new ones.
+
+Required skills:
+* Perl, Perl, Perl
+* use CGI; use DBI;
+* application framework (like CGI::App, Maypole, Catalyst, Jifty)
+* SQL proficiency
+* 1-2 years experience writing database-backed web apps
+* able to communicate in German
+
+Desired skills:
+* templating system
+* Linux shell
+* web app security (SQL injection, XSS)
+* JavaScript, CSS, XHTML
+* XML, Unicode
+* OOP
+* mod_fastcgi/mod_perl experience
+* some PHP
+
+URL for more information:
+http://www.heise-medien.de/default.php/angebote,2006,10,perl/51/no
+
+Contact information at:
+http://jobs.perl.org/job/3998#contact
+
+

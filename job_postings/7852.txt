@@ -1,0 +1,79 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7852
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13275 invoked from network); 15 Mar 2008 04:47:37 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 15 Mar 2008 04:47:37 -0000
+Received: (qmail 10948 invoked by uid 225); 15 Mar 2008 04:47:37 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 10918 invoked by alias); 15 Mar 2008 04:47:35 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 14 Mar 2008 21:47:31 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id DB1072AFCA; Fri, 14 Mar 2008 21:47:27 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080315044727.DB1072AFCA@x3.develooper.com>
+Date: Fri, 14 Mar 2008 21:47:27 -0700 (PDT)
+Subject: WWW::Mechanize/DBI/MySQL Object-Oriented Perl (telecommute), United States, Any, Any
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8202
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 14, 2008
+
+Job title:
+WWW::Mechanize/DBI/MySQL Object-Oriented Perl
+
+Company name: UB
+
+Location: United States, Any, Any
+
+Pay rate: DOE
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Part time
+
+Onsite: no
+
+Description:
+We are looking for an object-oriented perl programmer to write modules that
+will interact with websites using WWW::Mechanize.  The modules will have to
+progress through a multi-step process, noting progress and/or errors.  We
+have a framework for doing this, but of course each website requires some
+custom code.  This is just the first of many projects that will be
+available, we have an on-going need for perl programmers.
+
+Required skills:
+Clear, self-documenting, modular, Object-Oriented perl programming.  
+Must be able to interact via phone and email with people in the GMT+5,
+GMT+8, and GMT+10 time zones (New York, Los Angeles, Honolulu).
+WWW::Mechanize
+DBI
+MySQL
+Linux
+
+
+Desired skills:
+Linux Server Administration
+Apache Server Administration
+mod_perl
+
+
+Contact information at:
+http://jobs.perl.org/job/8202#contact
+
+

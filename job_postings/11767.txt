@@ -1,0 +1,97 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11767
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 10759 invoked from network); 18 Oct 2011 16:35:01 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 18 Oct 2011 16:35:01 -0000
+Received: (qmail 5724 invoked by uid 225); 18 Oct 2011 16:35:01 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 5720 invoked by alias); 18 Oct 2011 16:35:00 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 18 Oct 2011 09:34:57 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 02F872AFDA; Tue, 18 Oct 2011 09:34:53 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Tue, 18 Oct 2011 09:34:53 -0700
+Message-ID: <20111018163454.02F872AFDA@x3.develooper.com>
+Subject: Regression Systems Architect (part onsite), Bangalore, India
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14980
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 18, 2011
+
+Job title: Regression Systems Architect
+
+Company name: NVIDIA Graphics Pvt Ltd
+
+Location: Bangalore, India
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+The NVIDIA Architecture group is looking for a top programmer and script
+writer to enable our next generation build and regression system. A key
+part of NVIDIA’s strength is our proprietary internal environments and
+tools for chip development and we are continuously pushing the envelope and
+needing the next generation of tools to enable the next generation of
+chips. 
+
+Our regression systems are a critical component to our development strategy
+and employ continuously improving techniques for keeping our source code at
+top quality with rapid turn around and efficient utilization of resources.
+The system itself is a large-scale, multi-tier distributed computing system
+running on 1000s of heterogeneous machines. The system is continuously
+running the check-in build and regression for 100s of engineers world-wide
+as well as the automatic QA of 100s of 1000s of tests to verify the overall
+source code.
+In this position, you will be working to improve the current systems
+ability to schedule and utilize resources, improve uptime of the system,
+make it more robust to compute farm failures, and tracking and improving
+overall throughput of the system. You will work closely with other project
+members and users to understand their build and test processes and needs.
+You will be creating environments that are stable and easy to use by
+hundreds of engineers worldwide. You will directly contribute to the
+overall stability and schedule of our next generation chips.
+
+Required skills:
+MINIMUM REQUIREMENTS: 
+- Excellent scripting skills – Perl
+- Strong Object Oriented Programming and design 
+  background: Perl, C++ or Java preferred 
+- Experience with Linux
+- BS in Computer Science with 5 years of experience 
+- Excellent communication skills
+- Flexibility/adaptability for working in a dynamic 
+  environment with different frameworks and requirements
+
+Desired skills:
+Excellent scripting skills – Perl
+- Strong Object Oriented Programming and design 
+  background: Perl, C++ or Java preferred 
+- Experience with Linux
+- BS in Computer Science with 5 years of experience 
+- Excellent communication skills
+- Flexibility/adaptability for working in a dynamic 
+  environment with different frameworks and requirements
+
+Website for more information: http://www.nvidia.co.in/
+
+Contact information at:
+http://jobs.perl.org/job/14980#contact

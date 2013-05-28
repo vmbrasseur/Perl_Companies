@@ -1,0 +1,71 @@
+Newsgroups: perl.copenhagen,perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.copenhagen:1349 perl.jobs:9050
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 3718 invoked from network); 11 Mar 2009 02:40:22 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 11 Mar 2009 02:40:22 -0000
+Received: (qmail 29646 invoked by uid 225); 11 Mar 2009 02:40:21 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 29642 invoked by alias); 11 Mar 2009 02:40:21 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 10 Mar 2009 19:40:17 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 975222AFE4; Tue, 10 Mar 2009 19:40:13 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20090311024013.975222AFE4@x3.develooper.com>
+Date: Tue, 10 Mar 2009 19:40:13 -0700 (PDT)
+Subject: Developer (onsite), Denmark, Copenhagen
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/10308
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March  6, 2009
+
+Job title: Developer
+
+Company name: DK Hostmaster A/S
+
+Location: Denmark, Copenhagen
+
+Pay rate: according to skills, but competitive
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We're looking for a developer to help us handle the data in our registry
+system and to implement our policies. More details are available on the URL
+mentioned (the top job posting).
+
+Required skills:
+Danish and English spoken and written.
+Perl, including DBI, DBD::Oracle and DBD::mysql, 
+SQL on a developer level (Oracle / MySQL), 
+Understanding of relational databases, including design of databases.
+
+Desired skills:
+Unix-systems administration, vi, make, sqlplus, sqldeveloper, php, http,
+whois, dns, pgp, md5, sha1.
+
+URL for more information: http://www.dk-hostmaster.dk/jobs
+
+Contact information at:
+http://jobs.perl.org/job/10308#contact
+
+

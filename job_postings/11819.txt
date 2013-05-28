@@ -1,0 +1,121 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11819
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 23563 invoked from network); 2 Nov 2011 06:56:09 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 2 Nov 2011 06:56:09 -0000
+Received: (qmail 11938 invoked by uid 225); 2 Nov 2011 06:56:09 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11934 invoked by alias); 2 Nov 2011 06:56:08 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 01 Nov 2011 23:56:06 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 1451D2AFD2; Tue,  1 Nov 2011 23:56:03 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Tue, 1 Nov 2011 23:56:03 -0700
+Message-ID: <20111102065603.1451D2AFD2@x3.develooper.com>
+Subject: Perl Developer - Web - Investment Banking - LAMP Stack - OO Perl /
+ SQL / Shell - Tier 1 (onsite), London, UK ( City of London )
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15058
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November  1, 2011
+
+Job title:
+Perl Developer - Web - Investment Banking - LAMP Stack - OO Perl / SQL /
+Shell - Tier 1
+
+Company name: Nicoll Curtin - Andrew Johnstone - 0207 3970191
+
+Internal ID: Perl Developer Role - Tier 1 - Investment Bank
+
+Location: London, UK ( City of London )
+
+Pay rate: GBP 450-500
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 6 Months
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Perl Developer - Web - Investment Banking - LAMP Stack - OO Perl / SQL /
+Shell 
+
+Location: London, City of London
+
+Tech Stack: Perl, SQL, Shell Scripting, OO Perl, Unix / Linux, LAMP
+
+My client, a Tier 1 investment bank, requires an experienced Perl Developer
+to join one of the banks London based engineering team responsible for
+their Unix web hosting clusters. The team run a LAMP stack for web hosting
+with an in-house developed automation layer and self-service configuration
+web portal, both written mainly in Perl.
+
+This role focuses on maintaining and extending the recently added
+high-throughput + low-latency components of the hosting platform (based on
+nginx + memcached)
+
+The role is primarily engineering, with some degree of providing 3rd level
+support for escalations from our operations and support team
+
+The ideal candidate will have some dev ops or ISP experience developing
+system automation infrastructure for large scale globally distributed web
+hosting clusters. This role focuses on maintaining and extending the
+recently added high-throughput + low-latency components of the hosting
+platform (based on nginx + memcached), so experience with these or related
+technologies and with performance tuning web servers in general is strongly
+desirable.
+
+The role is for an initial 6 months, but due to the nature of the team and
+project, this is likely to be extended.
+
+**APPLY**
+
+Please call or email Andrew Johnstone // 02073970191 //
+Andrew.Johnstone@NicollCurtin.com
+
+Non-Microsoft Recruiter
+
+Required skills:
+- Perl 
+
+- Perl, SQL, Shell scripting
+
+- OOP (especially OO Perl), unit testing
+
+- Unix/Linux
+
+- web hosting, caching and proxy software and related technologies, Apache,
+HTTP, SSL, CGI, FastCGI, performance tuning revision control systems
+(branching and merging, Subversion, Git desirable)networking fundamentals,
+TCP/IP, DNS
+
+- Ability to reverse-engineer legacy code
+
+- Application and OS security
+
+- Can build software from source; make, autoconf
+
+Website for more information:
+http://jobs.efinancialcareers.co.uk/job-4000000000904057.htm?source=AG:efc_
+eu=3179
+
+Contact information at:
+http://jobs.perl.org/job/15058#contact

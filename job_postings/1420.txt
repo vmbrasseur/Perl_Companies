@@ -1,0 +1,104 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:1420
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 60623 invoked by uid 76); 16 Mar 2004 23:55:16 -0000
+Received: from x1.develooper.com (HELO x1.develooper.com) (63.251.223.170)
+  by onion.perl.org (qpsmtpd/0.27.1) with SMTP; Tue, 16 Mar 2004 15:55:16 -0800
+Received: (qmail 2408 invoked by uid 225); 16 Mar 2004 23:55:11 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 2245 invoked by alias); 16 Mar 2004 23:54:52 -0000
+Received: from [63.251.223.166] (HELO onion.perl.org) (63.251.223.166)
+  by la.mx.develooper.com (qpsmtpd/0.27.1) with SMTP; Tue, 16 Mar 2004 15:54:52 -0800
+Received: (qmail 60444 invoked by uid 1016); 16 Mar 2004 23:54:50 -0000
+Date: 16 Mar 2004 23:54:50 -0000
+Message-ID: <20040316235450.60436.qmail@onion.perl.org>
+To: jobs@perl.org
+X-Spam-Checker-Version: SpamAssassin 2.63 (2004-01-11) on x1.develooper.com
+X-Spam-Status: No, hits=-4.9 required=8.0 tests=BAYES_00 autolearn=ham 
+	version=2.63
+Subject: Linux Sys Admin / Perl Developer (onsite), United States, DC, Washington
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1316
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 16, 2004
+
+Job title: Linux Sys Admin / Perl Developer
+
+Company name: JK Incorporated
+
+Location: United States, DC, Washington
+
+Pay rate: negotiable
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+System Admin / Technical Programmer:
+
+Our Internet team is looking for an experienced system/network
+administrator with very strong Perl
+programming skills.
+
+Your primary job will be to supervise and manage the daily
+activities of configuration and operation of web-based business systems;
+optimize system operation and resource utilization, updating security plans
+and network diagrams, adding and deleting users, upgrading software,
+configuring and installing new hardware, testing and debugging the systems,
+monitoring for problems, placing service calls, performing system capacity
+analysis, planning and monitoring the system for security
+problems using intrusion detection software; and provide
+assistance to users in accessing and using web-based systems.
+
+Secondarily, you will be a "partner in crime" working with the lead
+developer on programming solutions for our internal systems which can
+encompass financial, data integration and content management efforts in the
+campaign.
+
+You should have 5+ years of experience with Linux including 3+ years of
+hands-on experience with Red Hat Linux systems administration (RedHat 7.x
+and ES 2.1), strong experience in Apache, mySQL, Urchin, NetScreen,
+modperl, XML-comma.
+
+Operational experience in firewall and load balancing management, as well
+as hardening and securing Linux systems required.
+
+Programming in Perl and php is a must, and political
+campaign experience and savvy is a strong benefit.
+
+Work on any given day might proactive maintenance on the system clusters
+and applications, redesign of the server architecture for the systems being
+implemented, root cause analysis on server performance issues, vendor
+management, and process management and documentation for securing and
+release management.  Additionally, you will be working tightly in
+conjunction with the Technology team and can be called to perform
+programming tasks in conjunction with our lead developer.
+
+This position is a FT position in the DC office, but at
+campaign-adjusted salary.
+
+Required skills:
+- Experience with DBI including DBD::MySQL
+- Experience with standard Perl/XML packages (XML::DOM, libxml,
+etc).
+XML::Comma knowledge a plus
+- Must love data mangling
+
+
+Contact information: techjobs@johnkerry.com
+
+

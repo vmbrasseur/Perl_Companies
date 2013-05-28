@@ -1,0 +1,75 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4635
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 20960 invoked from network); 17 Jul 2006 13:10:25 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 17 Jul 2006 13:10:25 -0000
+Received: (qmail 12474 invoked by uid 225); 17 Jul 2006 13:10:25 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 12469 invoked by alias); 17 Jul 2006 13:10:24 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 17 Jul 2006 06:09:47 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 4D3E22AFDA; Mon, 17 Jul 2006 06:09:43 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060717130943.4D3E22AFDA@x3.develooper.com>
+Date: Mon, 17 Jul 2006 06:09:43 -0700 (PDT)
+Subject: Webmail/Perl/SMIME Developer (telecommute), Australia, NSW, Sydney
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4370
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 17, 2006
+
+Job title: Webmail/Perl/SMIME Developer
+
+Company name: @Mail
+
+Internal ID: A1
+
+Location: Australia, NSW, Sydney
+
+Pay rate: Project-based
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: 1 week
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+@Mail is a Webmail application built on Perl. We are searching for a
+developer to add S/MIME support to the product, allowing users to define
+S/MIME keys via a Web control panel, and to send/receive encrypted messages
+via Webmail.
+
+@Mail already has support for PGP encryption, we'd like to extend this
+support to S/MIME.
+
+Required skills:
+Perl, DBI, HTML, SMIME, encryption algorithms
+
+Desired skills: Mod-perl experience, CSS, templating
+
+URL for more information: http://atmail.com/
+
+Contact information at:
+http://jobs.perl.org/job/4370#contact
+
+

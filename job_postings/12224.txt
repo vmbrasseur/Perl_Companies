@@ -1,0 +1,77 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12224
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 3176 invoked from network); 11 Mar 2012 02:08:21 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 11 Mar 2012 02:08:21 -0000
+Received: (qmail 22993 invoked by uid 225); 11 Mar 2012 02:08:21 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 22987 invoked by alias); 11 Mar 2012 02:08:21 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 10 Mar 2012 18:08:18 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 2321D2AFDE; Sat, 10 Mar 2012 18:08:15 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 10 Mar 2012 18:08:14 -0800
+Message-ID: <20120311020815.2321D2AFDE@x3.develooper.com>
+Subject: Perl Developer (onsite), Sunnyvale, CA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15676
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 10, 2012
+
+Job title: Perl Developer
+
+Location: Sunnyvale, CA
+
+Pay rate: DOE
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are a manufacturer of fiber-based wireless repeater systems quickly
+scaling to be the #1 product in its class within North America.  The
+monitoring and maintenance of these systems is vital as they are used in
+many hospitals, high-rise buildings, campuses, arenas, and subways.  Our
+company has a growing network operations center responsible for monitoring
+and maintenance of these systems nationwide.
+
+Seeking a senior Perl engineer to join our team for further development of
+the NOC monitoring system.  This position would be responsible for further
+development and administration of the monitoring database (MySQL), custom
+report generation, changes to the customer facing web application, PERL
+applications used for sorting and filtering data, and further development
+of our existing client-side agent/monitoring interface software.
+
+Required skills:
+* 5+ years of Perl + web experience 
+* Strong MySQL background
+* SNMP experience is a MUST
+* Working knowledge of Ubuntu / Linux
+* Working with APIs and external services
+* Functional HTML + CSS skills 
+* Has a firm understanding of networking and the network stack (TCP/IP,
+HTTP, SSL etc) 
+* Good communication skills 
+* Work well in a team environment 
+* Disciplined, self-driven problem solver
+
+Contact information at:
+http://jobs.perl.org/job/15676#contact

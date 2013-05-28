@@ -1,0 +1,104 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11574
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 19154 invoked from network); 14 Aug 2011 01:04:18 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 14 Aug 2011 01:04:18 -0000
+Received: (qmail 5339 invoked by uid 225); 14 Aug 2011 01:04:18 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 5335 invoked by alias); 14 Aug 2011 01:04:17 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS,T_FRT_PROFILE2
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 13 Aug 2011 18:04:15 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 071402AFE5; Sat, 13 Aug 2011 18:04:11 -0700 (PDT)
+To: jobs@perl.org
+Date: Sat, 13 Aug 2011 18:04:11 -0700
+Message-ID: <20110814010412.071402AFE5@x3.develooper.com>
+Subject: Engineer on Rubicon's automated brand protection platform --
+ anti-malware and ad quality (onsite), United States, Washington, Seattle
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14650
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 13, 2011
+
+Job title:
+Engineer on Rubicon's automated brand protection platform -- anti-malware
+and ad quality
+
+Company name: the Rubicon Project
+
+Location: United States, Washington, Seattle
+
+Pay rate: Competitive senior developer salary
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Join the Rubicon Project's fast-paced Seattle engineering office in Pioneer
+Square. We’re seeking a motivated and skilled developer who is willing to
+work hard alongside our talented Brand Protection & Security Team. Looking
+for a candidate who thrives in a complex and challenging market, this team
+performs industrial-scale automated detection of ad-borne malware and
+annoyances like autoplay audio and pop-ups.
+
+Responsibilities:
+- Extend and enhance Rubicon's automated brand protection platform, which
+detects and eradicates malicious and nuisance advertisements
+- Creatively solve hard technical problems in pragmatic, scalable,
+maintainable ways
+- Add new automated detection capabilities to further protect ad quality
+- Tune detection logic, scoring rules, and stealth capabilities to maintain
+high detection rates and low false positives
+- Improve forensics to provide additional insight into nature of threats
+- Continually work to improve system capacity, reliability, and scalability
+
+- Design and implement data models, interprocess communication mechanisms,
+and APIs
+- Integrate with other Rubicon ad-serving systems
+- Be flexible and adapt quickly to the needs of our customers and the
+market, learning on the fly
+
+
+Required skills:
+- Bachelor's degree in CS or a technical/scientific field
+- 5+ years of professional software development experience
+- Proficient in LAMP-stack, back-end development
+- Demonstrated ability to master and apply diverse new technologies rapidly
+
+- Comfortable building high-volume distributed systems in Perl or another
+dynamic language
+- Thorough understanding of mechanics of HTTP, TCP/IP, DNS, and other
+networking protocols
+- Strong SQL skills
+- Solid software development practices including writing documentation,
+unit tests, integration tests, and code reviews
+- Ability to travel
+
+Desired skills:
+- Familiarity with Windows API and C++ development on Windows is a plus
+- Familiarity with Flash development is a plus
+- Security or reverse engineering experience is a major plus
+
+
+Website for more information:
+http://therubiconproject.theresumator.com/apply/uYLZMz/Brand-Protection-Sec
+urity.html
+
+Contact information at:
+http://jobs.perl.org/job/14650#contact

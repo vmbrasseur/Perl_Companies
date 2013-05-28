@@ -1,0 +1,81 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:1313
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 90495 invoked by uid 76); 23 Jan 2004 22:13:37 -0000
+Received: from x1.develooper.com (HELO x1.develooper.com) (63.251.223.170) by onion.perl.org (qpsmtpd/0.26) with SMTP; Fri, 23 Jan 2004 14:13:37 -0800
+Received: (qmail 22026 invoked by uid 225); 23 Jan 2004 22:13:36 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 22020 invoked by alias); 23 Jan 2004 22:13:35 -0000
+Received: from onion.develooper.com (HELO onion.perl.org) (63.251.223.166)  by la.mx.develooper.com (qpsmtpd/0.27-dev) with SMTP; Fri, 23 Jan 2004 14:13:23 -0800
+Received: (qmail 90190 invoked by uid 1016); 23 Jan 2004 22:12:58 -0000
+Date: 23 Jan 2004 22:12:58 -0000
+Message-ID: <20040123221258.90189.qmail@onion.perl.org>
+To: jobs@perl.org
+X-Spam-Check-By: la.mx.develooper.com
+X-Spam-Status: No, hits=2.1 required=7.0 tests=CARRIAGE_RETURNS,SPAM_PHRASE_08_13,TO_BE_REMOVED_REPLY version=2.44
+X-SMTPD: qpsmtpd/0.26, http://develooper.com/code/qpsmtpd/
+Subject: RT Hacker (telecommute), United States, MA, Somerville
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1199
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 23, 2004
+
+Job title: RT Hacker
+
+Company name: Best Practical Solutions, LLC
+
+Internal ID: perl.org-1
+
+Location: United States, MA, Somerville
+
+Pay rate: DOE (Please send requirements)
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+Best Practical Solutions is the maker of "RT", an enterprise-grade issue
+tracking solution.  We're a growing, entirely bootstrap-funded,  opensource
+company.  We're looking for skilled contractors to work on a number of
+current and upcoming projects, both internal and for our customers.
+
+Required skills:
+RT is over 100,000 lines of object oriented perl and HTML::Mason templates.
+We need folks who can dive right into our code and build new functionality
+to spec with minimal handholding.  If you've not worked with large,
+existing codebases, html templating systems and SQL databases, this might
+not be the right job for you.
+
+Desired skills:
+Ideally, we're looking for folks who have worked with RT in the past, but
+if your experience with large perl projects doesn't include RT, that's not
+a showstopper. Tell us about what you _have_ done and what you're most
+proud of. 
+
+URL for more information: http://bestpractical.com/
+
+Contact information:
+Please send a cover letter, resume, salary requirements, pointers to sample
+code (if it's on CPAN, just tell us your CPAN author id) and all the rest
+of the usual claptrap to:
+
+   resumes (at) bestpractical.com
+
+We'd strongly prefer that your resume be in ascii text, but if all you've
+got is html, pdf or MS Word, send it along. 
+
+

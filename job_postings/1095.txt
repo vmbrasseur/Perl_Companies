@@ -1,0 +1,99 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:1095
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 63489 invoked by uid 1016); 19 Sep 2003 19:17:41 -0000
+Date: 19 Sep 2003 19:17:41 -0000
+Message-ID: <20030919191741.63488.qmail@onion.perl.org>
+To: jobs@perl.org
+Subject: Web Solutions Engineer (onsite), United States, Washington, Seattle
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/983
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 19, 2003
+
+Job title: Web Solutions Engineer
+
+Company name: UpSellUSA
+
+Internal ID: 314
+
+Location: United States, Washington, Seattle
+
+Pay rate: US$40k-85k DOE or more
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: Indefinite
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+THIS JOB WILL REQUIRE WORKING ON-SITE IN SEATTLE, WA, USA. THERE IS NO
+TELECOMMUTING OR OFF-SITE OPTION. DON'T EVEN ASK. This job is an FTE
+on-site dealing with every part of Web solution engineering. By that I mean
+you'll be doing everything from building a new Web server hardware from
+spare parts found around the office to tweeking mod_perl for improving
+performance, and probably designing Web sites, playing around with
+graphics, building database driven Web applications, etc., etc. You MUST
+know Perl and/or PHP and be REALLY, REALLY GOOD AT IT/THEM! We use DBI,
+MySQL, Apache, and various other similar tools like CGI::Application and
+HTML::Template. (NOTE: We *will* be asking for code samples. Have something
+prepared that's not totally aweful. We get impressed with nice formatting,
+consistent naming standards, and liberal CPAN use. If you don't know what
+CPAN is, you're not qualified, go away.)
+
+Required skills:
+-- Must be able to spell "Web" most of the time
+-- Have an expert or better working knowledge of Perl, mod_perl,
+HTML/XHTML, Linux administration (Debian preferably), Samba, DNS, Windows
+domain control, Windows Active Directory, and how to make coffee
+-- Actually qualify with the above skills, not just list them on your
+resume
+-- Must love coding in non-disturbing ways. If you do love coding in
+disturbing ways but you still have a good resume and good qualifications,
+then don’t sweat it too much, just don’t share your experiences at the
+office
+-- Good writting skils and gramar ussage
+-- Good technical writing ability. Trust me, you’ll be doing this a lot.
+You may even cry about it at night when no one can hear you.
+
+Desired skills:
+-- Have good working knowledge of JavaScript, XML, DHTML, CSS
+-- Have an eye for graphic design (i.e. I can assign you stuff like "build
+me a nice looking Web site for this client with good graphics and shading
+and colors and stuff and things" and you won't freak out.
+-- Willing to work hard, with or without the threat of beatings.
+-- Can endure the horror of a fun working environment where shoes are
+optional. Pants are still required at all times. And we don’t mean worn on
+your head.
+-- Ability to both have thoughts and organize them. There may be times when
+the second one is more important than the first.
+-- Can put up with teasing from posturing bosses and PMs who think they’re
+running the show. Must be willing to hide the truth of how things really
+run from them until the geek revolution begins.
+
+URL for more information: http://www.upsellusa.com/
+
+Contact information:
+If you actually qualify for this position, please send cover letter,
+resume, AND CODE SAMPLES AND URLs to job314@upsellusa.com. We will be
+looking at code samples and URLs *BEFORE* looking at resumes. So if you
+have poorly formatted samples or you just forget to send any samples,
+you'll probably get > /dev/null in the first pass. ++ for candidates who
+have CGI::Application, HTML::Template use and have functioning Web sites
+where we can see your code in action.
+
+

@@ -1,0 +1,106 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9462
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 22581 invoked from network); 10 Sep 2009 16:48:57 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 10 Sep 2009 16:48:57 -0000
+Received: (qmail 23392 invoked by uid 225); 10 Sep 2009 16:48:57 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 23385 invoked by alias); 10 Sep 2009 16:48:56 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 10 Sep 2009 09:48:51 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 9D3EE2AFE2; Thu, 10 Sep 2009 09:48:47 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20090910164847.9D3EE2AFE2@x3.develooper.com>
+Date: Thu, 10 Sep 2009 09:48:47 -0700 (PDT)
+Subject: Lead/Sr. Porting Engineer (onsite), United States, CA, Palo Alto
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/11052
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September  9, 2009
+
+Job title: Lead/Sr. Porting Engineer
+
+Company name: KBretz & Associates
+
+Location: United States, CA, Palo Alto
+
+Pay rate: Open
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Description: 
+We are looking for an experienced Lead/Senior Software Engineer with
+extensive Linux and UNIX system level development and porting experience
+and a passion for excellence in designing and developing mission critical
+software. Join a creative team in solving complex problems and providing
+solutions that the world's largest companies depend on to keep their
+sensitive information secure. Accept technical ownership for platform
+system issues when porting the secure data products. Work closely with
+other development and QA engineers porting the secure data products to
+various exotic platforms.
+
+
+Required skills:
+Requirements:
+
+* 10+ years experience programming C/C++ in Unix environments 
+* 5+ years porting, system integration and release engineering experience 
+* Strong C/C++ skills in an Object Oriented, multi-threaded,
+multi-processor, multi-client server environment 
+* Solid low-level systems programming experience in such areas as memory
+management, signal handling, multi-threading and raw io on multiple
+computing platforms, including Solaris (32 and 64 bit), Linux (32 and 64
+bit), HP-UX (32 and 64 bit), AIX (32 and 64 bit), and Windows 
+* System administration skills, including installation, configuration,
+kernel performance tuning and patch management on multiple Unix/Linux
+platforms 
+* Efficient debugging and problem solving skills with demonstrable ability
+to quickly understand and debug code written by other developers 
+* Extensive working knowledge of different build tools, compilers, linkers
+and loaders on Unix and Windows 
+* 10+ years working experience with Java and its native C++ interface (JNI)
+on multiple Unix and Windows platforms 
+* Comprehensive experience in build, test, and report automation 
+* 10+ years experience with scripting languages such as Perl, Python, ksh,
+bash, and csh 
+* Documentation experience in bug and code changes, reference and user
+manuals, product READMEs and FAQs 
+* Strong verbal and written skills, capable in diverse mediums such as
+face-to-face, conference calls, email, instant messaging and user group
+forums 
+* Practical experience in a truly agile software development organization 
+
+Education: B.S. in Computer Science or equivalent experience in a related
+field
+Additional experience includes: 
+• Experience with frameworks such as Django 
+• Experience with data encryption such as OpenSSL, BouncyCastle, JCE, and
+CAPI 
+• Understanding of Web security concepts like SSL and Kerberos
+
+
+Contact information at:
+http://jobs.perl.org/job/11052#contact
+
+

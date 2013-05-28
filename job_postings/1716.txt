@@ -1,0 +1,84 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:1716
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 73183 invoked from network); 1 Jul 2004 04:22:07 -0000
+Received: from x1.develooper.com (63.251.223.170)
+  by onion.develooper.com with SMTP; 1 Jul 2004 04:22:07 -0000
+Received: (qmail 13995 invoked by uid 225); 1 Jul 2004 04:22:06 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 13990 invoked by alias); 1 Jul 2004 04:22:06 -0000
+X-Spam-Status: No, hits=-4.9 required=8.0
+	tests=BAYES_00,CASHCASHCASH
+X-Spam-Check-By: la.mx.develooper.com
+Received: from onion.develooper.com (HELO onion.perl.org) (63.251.223.166)
+  by la.mx.develooper.com (qpsmtpd/0.27.1) with SMTP; Wed, 30 Jun 2004 21:22:03 -0700
+Received: (qmail 73159 invoked by uid 1016); 1 Jul 2004 04:22:01 -0000
+Date: 1 Jul 2004 04:22:01 -0000
+Message-ID: <20040701042201.73158.qmail@onion.perl.org>
+To: jobs@perl.org
+X-Spam-Rating: onion.develooper.com 1.6.2 0/1000/N
+Subject: Need help learning the PDF::API2 module. Will pay cash$$$ (onsite), United States, New Jersey, Hoboken
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1614
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 30, 2004
+
+Job title:
+Need help learning the PDF::API2 module. Will pay cash$$$
+
+Company name: Garrett Casey
+
+Location: United States, New Jersey, Hoboken
+
+Pay rate: $30 an Hour
+
+Travel: 75-100%
+
+Terms of employment: Hourly employee
+
+Length of employment: < 10 hours
+
+Hours: Flexible
+
+Onsite: yes
+
+Description:
+I am an experience perl programmer.  I currently have a script that
+generates a variable length text file.	I would like to update the program
+so that a PDF file is generated.  I have installed the PDF::API2 on my
+server, but I am having difficulty learning the module.  I need to
+collaborate with someone on this project so I can better learn the
+PDF::API2 module and, of course, rewrite the program to generate the
+required PDF files.
+
+I can install any version of the module on my FreeBSD server (hence I do
+not use windows).
+
+You must be experienced with using the PDF::API2 module.
+
+The resulting PDF files must include formatted paragraphs, tables, line
+charts (generated on the fly) and images.  So, obviously you should know
+how this is done.
+
+I would prefer someone that I can meet in person.  I live in the New York
+City area.  If not, we can communicate via video/telephone conferencing.  
+
+I will pay you an hourly rate for your help and guidance.
+
+
+Required skills: PDF::API2
+
+Contact information:
+Garrett Casey
+201-320-6496
+
+

@@ -1,0 +1,83 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9284
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 2168 invoked from network); 13 Jun 2009 00:07:00 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 13 Jun 2009 00:07:00 -0000
+Received: (qmail 29120 invoked by uid 225); 13 Jun 2009 00:07:00 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 29116 invoked by alias); 13 Jun 2009 00:06:59 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 12 Jun 2009 17:06:54 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 3830E2AFE1; Fri, 12 Jun 2009 17:06:51 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20090613000651.3830E2AFE1@x3.develooper.com>
+Date: Fri, 12 Jun 2009 17:06:51 -0700 (PDT)
+Subject: Automation Developer (Tool Maker) (onsite), United States, MA, Natick
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/10742
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 10, 2009
+
+Job title: Automation Developer (Tool Maker)
+
+Company name: Vivox, Inc
+
+Location: United States, MA, Natick
+
+Pay rate: negotiable
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Our company provides voice to online games and we are changing the world. 
+
+We're looking for a top-notch programmer to add to the team in QA. We're
+middleware so we test by building our own applications and writing test
+code consumed by those applications. The position would be a mix heavy on
+the side of programming and building new test tools with an occasional
+afternoon playing an online game with the rest of the company to try out a
+new plugin we've built for another game market segment.
+
+
+Required skills:
+* OOPerl and the Test modules
+* running perl-based apps across platforms
+* C and C++
+* shell scripting (Linux/Mac)
+* batch shell program (Windows)
+* SQL (postgres and mysql, preferred)
+
+
+Desired skills:
+Understanding of:
+* SWIG (opensource project that builds our perl interface)
+* perl: TCP/IP, power management (Net-Wake)
+* network layer of computing and process management
+* in-process vs. out-of-process integrations
+* running remote clients
+
+
+Contact information at:
+http://jobs.perl.org/job/10742#contact
+
+

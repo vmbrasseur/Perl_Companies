@@ -1,0 +1,85 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10841
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 31932 invoked from network); 29 Dec 2010 20:24:18 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 29 Dec 2010 20:24:18 -0000
+Received: (qmail 31678 invoked by uid 225); 29 Dec 2010 20:24:18 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 31674 invoked by alias); 29 Dec 2010 20:24:18 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 29 Dec 2010 12:24:16 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 9849C2AFD1; Wed, 29 Dec 2010 12:24:13 -0800 (PST)
+To: jobs@perl.org
+Date: Wed, 29 Dec 2010 12:24:13 -0800
+Message-ID: <20101229202413.9849C2AFD1@x3.develooper.com>
+Subject: Senior Software Engineer, Infrastructure (onsite), United States, CA
+ , Mountain View
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13390
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 28, 2010
+
+Job title: Senior Software Engineer, Infrastructure
+
+Company name: Polyvore
+
+Location: United States, CA , Mountain View
+
+Pay rate: DOE
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+About this Job
+As the lead for Polyvore's infrastructure and scalability efforts, you'll
+be responsible for improving our scalability and performance. You will own
+the architecture, design and implementation of our infrastructure. You'll
+troubleshoot scalability and performance issues that may involve hardware,
+software, applications and network. You will take part in a on-call
+rotation.
+
+About You
+You love building systems that scale. You believe that performance is not
+only a feature, but one of the most important one for a website. You are
+metrics-driven and can see the big picture of a system and come up with
+practical solutions on an end-to-end basis. You work well in a
+cross-functional environment and are able to engage in discussions with
+your peers to gather technical, operational, and business requirements. As
+a well-rounded software engineer, you have the following attributes:
++ Strong customer orientation, both internally and externally
++ Strategic thinking both technically and business-wise
++ Personal drive to achieve world-class software development
++ Desire to work in a fast-paced, evolving, growing, dynamic environment
++ Love of technical challenges and a sense of pride in solving them
+
+
+Required skills:
++ BS or MS in Computer Science or equivalent
++ Substantial experience developing large-scale websites
++ Expert knowledge of MySQL, Apache, Squid, nginx, memcached
++ Deep conceptual understanding of scalability, performance, and
+availability
++ Authorization to work in the United States
+
+Website for more information: http://www.polyvore.com/
+
+Contact information at:
+http://jobs.perl.org/job/13390#contact

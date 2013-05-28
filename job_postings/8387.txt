@@ -1,0 +1,107 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8387
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 372 invoked from network); 1 Jul 2008 21:28:46 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 1 Jul 2008 21:28:46 -0000
+Received: (qmail 23725 invoked by uid 225); 1 Jul 2008 21:28:46 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 23719 invoked by alias); 1 Jul 2008 21:28:45 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 01 Jul 2008 14:28:41 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 61F092AFE7; Tue,  1 Jul 2008 14:28:38 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080701212838.61F092AFE7@x3.develooper.com>
+Date: Tue,  1 Jul 2008 14:28:38 -0700 (PDT)
+Subject: Senior Software Developer (onsite), United Kingdom, Hinxton, Cambridge
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/9100
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July  1, 2008
+
+Job title: Senior Software Developer
+
+Company name: Wellcome trust Sanger Institute
+
+Internal ID: PERL 1697
+
+Location: United Kingdom, Hinxton, Cambridge
+
+Pay rate: £27,361 to £36,951
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Length of employment: Permanent
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The Wellcome Trust Sanger Institute leads the world in genomic research,
+with an expanding scientific programme dedicated to understanding gene
+function in health & disease.
+
+Background 
+The Cancer Genome Project (CGP) is using Next Generation sequencing
+technologies and the reference human genome sequence to screen complete
+cancer genomes to identify somatic DNA sequence variations. Using these
+technologies will help in providing a comprehensive view of the genetic
+alterations that take place in human cancer. For more details see
+http://www.sanger.ac.uk/CGP/.
+
+We are developing experimental approaches to analyse complete cancer
+genomes using the Illumina Genome Analyzer and ABI SOLiD platforms. The
+different methods employed can detect mutations of varying size, ranging
+from large scale structural rearrangements down to single base-pair
+mutations. However, these methods generate vast amounts of raw data that
+need to be efficiently processed. Therefore, it is crucial that flexible
+and scaleable IT systems are developed to analyse and mine these important
+data sets for cancer causing mutations.
+
+Opportunity 
+A Software Developer is required to take on the challenge of efficiently
+processing, analysing and displaying data from the Next Generation
+sequencing platforms. The role involves working closely with scientific/IT
+staff on the project to plan and design novel solutions for processing
+these data. Strong software engineering skills will then be required to
+implement these ideas into flexible, portable and scaleable software
+applications.
+
+The position would suit a software developer who enjoys applying their
+skills to handling and analysing large biological data sets. We are looking
+for an individual who enjoys working in multi-disciplinary team environment
+to help solve complex biological problems relating to cancer genetics.
+
+
+Required skills:
+Good degree in Bioinformatics, Computer Science or a Scientific Discipline
+and Software engineering skills (using Java, Perl, C++), ORACLE/MySQL
+databases. Enjoy working as part of a team.
+
+Desired skills:
+UNIX/LINUX development experience. Web development (Perl CGI, Java Struts).
+Experience of working on medium-sized software projects. Background and
+interest in cancer genetics.
+
+URL for more information: http://www.sanger.ac.uk/
+
+Contact information at:
+http://jobs.perl.org/job/9100#contact
+
+

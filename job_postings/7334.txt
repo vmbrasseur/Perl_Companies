@@ -1,0 +1,97 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7334
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 4130 invoked from network); 27 Nov 2007 00:12:48 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 27 Nov 2007 00:12:48 -0000
+Received: (qmail 13752 invoked by uid 225); 27 Nov 2007 00:12:48 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 13748 invoked by alias); 27 Nov 2007 00:12:47 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 26 Nov 2007 16:12:34 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id BB1A12AFE5; Mon, 26 Nov 2007 16:12:30 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20071127001230.BB1A12AFE5@x3.develooper.com>
+Date: Mon, 26 Nov 2007 16:12:30 -0800 (PST)
+Subject: Perl Developer (onsite), United States, MD, Rockville
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/7384
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 26, 2007
+
+Job title: Perl Developer
+
+Company name: Viable, Inc.
+
+Location: United States, MD, Rockville
+
+Pay rate:
+Commensurate w/ experience & qualifications
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Viable empowers deaf and hard of hearing people by providing
+next-generation technologies and quality video and text video relay
+services that allow them to communicate with their family members, friends
+and businesses. In pursuit of our goal of converging video, text and data
+into the simplest yet most robust platform yet, our innovative, scalable
+offerings include ViableVRS™, a video relay calling platform that allows
+deaf and hard of hearing persons to achieve effective communication through
+telephone systems and Viable Vision™, the most advanced VRS softphone
+currently on the market and the only one to offer dual-screen DVR
+capability and desktop viewing. Viable is seeking a Perl Developer to to
+assist Viable's senior engineer with the development of our flagship call
+center platform. The developer will be contributing greatly to the design
+and direction of our constantly-evolving platform.
+
+Responsibilities:
+
+*  Assist the senior engineer in coordinating the project's technical
+requirements.
+* Code various enhancements and features for the platform.
+* Participate in the research, architecture and implementation of
+cutting-edge VoIP technologies
+
+Required skills:
+* Proficient in Perl.
+* Bachelor's degree in Computer Science or equivalent preferred.
+* Familiarity with the Linux development environment.
+* Ability to understand/make big architectural decisions.
+* Work closely with the operations team for a smooth transition from R&D to
+ops.
+* Provide 3rd tier support.
+     o Troubleshooting and problem determination
+     o Log analysis
+     o Bug fixes
+
+
+Desired skills:
+* Experience with the Perl module "POE" a big plus.
+* Experience with VoIP protocols (SIP/H.323) a big plus.
+
+URL for more information: http://www.viable.net/
+
+Contact information at:
+http://jobs.perl.org/job/7384#contact
+
+

@@ -1,0 +1,649 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9731
+Return-Path: <amber.ibusinesssolution@gmail.com>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 11552 invoked from network); 4 Jan 2010 14:55:51 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 4 Jan 2010 14:55:51 -0000
+Received: (qmail 8323 invoked by uid 225); 4 Jan 2010 14:55:50 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 8178 invoked by alias); 4 Jan 2010 14:55:49 -0000
+X-Spam-Status: No, hits=5.0 required=8.0
+	tests=DK_SIGNED,FH_DATE_PAST_20XX,HTML_MESSAGE,MISSING_HEADERS,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from mail-px0-f183.google.com (HELO mail-px0-f183.google.com) (209.85.216.183)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 04 Jan 2010 06:55:45 -0800
+Received: by pxi13 with SMTP id 13so7072923pxi.24
+        for <jobs@perl.org>; Mon, 04 Jan 2010 06:55:41 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:mime-version:received:in-reply-to:references
+         :date:message-id:subject:from:content-type;
+        bh=fJRM9DzT+OmjMREr7KqKAT5wc+lvtSBO/RcI0JVNhxM=;
+        b=LcwWfeM38VujpCj9z3dlZG5qS4949CJadlMMBNjolbLSpoLYh7/YacYliOTOVl5D7Q
+         FxHY5M4WkejVp4GYz/yjxmkmtBnOTDMeTi7mYQvdIpQ9I0wT7qfD8A5t3j8vil1otVxy
+         FUdO0e71wJYZXC8VM0hlr/SmxGMwG7Y9l54uo=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from
+         :content-type;
+        b=f4Vdg2+BuJdZBeUdHUKCuRjgJrOvLZGBV16KIZFR5yzqgXnvVROjXsMEE2FKWqycuS
+         zNA7+eSwjNzqJ2xiiU+VurHDKzW8AygagHzlfnSKv38xAPYVqT3YXqSOEVyvfA57fxp3
+         5ExW5rOE0zPfTfHGCFfhbh7q4SkY7UohbWLsw=
+MIME-Version: 1.0
+Received: by 10.142.8.35 with SMTP id 35mt19748575wfh.30.1262616941692; Mon, 
+	04 Jan 2010 06:55:41 -0800 (PST)
+In-Reply-To: <cf0548881001040655y519d41baj9e16a2259e44406f@mail.gmail.com>
+References: <cf0548881001040653x6e7d44cdtecea246d8c44c753@mail.gmail.com>
+	 <cf0548881001040655y519d41baj9e16a2259e44406f@mail.gmail.com>
+Date: Mon, 4 Jan 2010 20:25:41 +0530
+Message-ID: <cf0548881001040655sc60e468jd131efe165592f22@mail.gmail.com>
+Content-Type: multipart/alternative; boundary=00504502adb14c93a1047c57ea66
+X-Virus-Checked: Checked
+Subject: Urgent Requirement of Technical Analyst at NYC
+Approved: news@nntp.perl.org
+From: amber.ibusinesssolution@gmail.com (Amber Srivastava)
+
+--00504502adb14c93a1047c57ea66
+Content-Type: text/plain; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+
+Dear Partners,
+
+
+
+            I have one urgent opening of Technical Analyst at NYC, NY. If
+you have any consultant available with you then please let me know ASAP=85
+
+
+
+*Candidate must possess all the skills=85..*
+
+
+
+*Position Title: Technical Analyst*
+
+*Location: NYC, NY*
+
+*Duration: 3 years*
+
+
+
+*Job Summary*
+
+=B7         This person will be part of the =93core migration=94 team which=
+ is
+CRITICAL to our Risk Finance Data Warehouse go-live strategy. Hence, we nee=
+d
+an individual who is very responsible, dedicated and willing to go beyond
+their role, and get the job done.
+
+=B7         Responsible for detailed technical execution of the data migrat=
+ion
+testing within the Warehouse Program
+
+=B7         Responsible for developing complex SQL queries, and data
+reconciliation reports  to ensure accuracy of migration
+
+=B7         Responsible for configuring the Risk Finance Data Warehouse
+application
+
+=B7         Responsible for coordinating with Development Managers and
+conducting releases of various software components required to setup Risk
+Finance Data Warehouse application.
+
+=B7         Responsible for Environment Setup of the Risk Finance Data
+Warehouse, and smoke testing.
+
+=B7         Responsible for detailed technical execution of the Automated
+Testing within the Warehouse Program
+
+=B7         Responsible for analyzing and explaining breaks in the data
+reconciliations/difference reports and recommending fixes
+
+
+
+* *
+
+*Person Requirements*
+
+-          High energy and self-motivated individual
+
+-          Strong Problem Solving Skills
+
+-          Strong Technical skills in Scripting / SQL technologies
+
+-          Excellent written & verbal communication skills required
+
+-          Detail-oriented and focused
+
+-          Pragmatic and systematic way of working
+
+-          Team player
+
+-          Entrepreneurial, flexible and hard working. "Gets things done"
+
+-          Derivative Fixed Income Product knowledge (Rates, Credit,
+Emerging Market business areas) a plus
+
+-          Understanding of data warehouse systems and architectural
+concepts a plus
+
+-          Understanding of finance accounting (sub ledger / balance sheet
+accounting) a plus
+
+
+
+* *
+
+*Technical Requirements*
+
+=B7         3-5 years experience as a Technical Analyst in an Investment
+Banking (Capital Markets / Trading) environment
+
+=B7         Strong scripting / programming skills in scripting languages,
+Shell, Perl in a Linux Environment
+
+=B7         Strong experience in writing complex SQL / Stored Procedures.
+
+=B7         Experience with MS Access Reporting Programming a plus
+
+=B7         Experience with Excel / VBA programming a plus
+
+=B7         Familiar with basic system administration of Windows and Linux =
+as
+well as shell scripting
+
+=B7         Experience with software release/build process
+
+=B7         Experience with version control / configuration management tool=
+s,
+and Test Management tools (Jira, etc)
+
+
+
+
+
+*Thanks & Regards*
+
+
+
+*Amber Srivastava*
+
+*Sourcing Specialist*
+
+iBusiness Solution LLC
+
+(Certified 8(a), MBE, WBE Business in PA, MD,VA & NJ)
+
+5000 Lenker Street
+
+Mechanicsburg, PA 15241
+
+Phone: 717-704-0062
+
+Fax: 412-202-8931
+
+Email: *amber**@ibusinesssolution.com* ,
+
+Visit us at www.ibusinesssolution.com
+
+Yahoo! IM: a_amber2007
+
+--00504502adb14c93a1047c57ea66
+Content-Type: text/html; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+
+<br><div class=3D"gmail_quote"><div><div class=3D"h5"><br><div class=3D"gma=
+il_quote"><p class=3D"MsoNormal"><font color=3D"black" face=3D"Times New Ro=
+man" size=3D"2"><span style=3D"font-size: 11pt; color: black;">Dear=20
+Partners,</span></font></p>
+<p class=3D"MsoNormal"><font color=3D"black" face=3D"Times New Roman" size=
+=3D"2"><span style=3D"font-size: 11pt; color: black;">=A0</span></font></p>
+<p class=3D"MsoNormal"><font color=3D"black" face=3D"Times New Roman" size=
+=3D"2"><span style=3D"font-size: 11pt; color: black;">=A0=A0=A0=A0=A0=A0=A0=
+=A0=A0=A0=A0 I have one urgent opening of=20
+Technical Analyst at NYC, NY. If you have any consultant available with you=
+ then=20
+please let me know ASAP=85</span></font></p>
+<p class=3D"MsoNormal"><font color=3D"black" face=3D"Times New Roman" size=
+=3D"2"><span style=3D"font-size: 11pt; color: black;">=A0</span></font></p>
+<p class=3D"MsoNormal" style=3D"text-indent: 0.5in;"><b><font color=3D"blac=
+k" face=3D"Times New Roman" size=3D"2"><span style=3D"font-weight: bold; fo=
+nt-size: 11pt; color: black;">Candidate must possess=20
+all the skills=85..</span></font></b></p>
+<p class=3D"MsoNormal"><font face=3D"Arial" size=3D"2"><span style=3D"font-=
+size: 10pt; font-family: Arial;">=A0</span></font></p>
+<p class=3D"MsoNormal"><b><font face=3D"Arial" size=3D"2"><span style=3D"fo=
+nt-weight: bold; font-size: 10pt; font-family: Arial;">Position Title:=20
+Technical Analyst</span></font></b></p>
+<p class=3D"MsoNormal"><b><font face=3D"Arial" size=3D"2"><span style=3D"fo=
+nt-weight: bold; font-size: 10pt; font-family: Arial;">Location: NYC,=20
+NY</span></font></b></p>
+<p class=3D"MsoNormal"><b><font face=3D"Arial" size=3D"2"><span style=3D"fo=
+nt-weight: bold; font-size: 10pt; font-family: Arial;">Duration: 3=20
+years</span></font></b></p>
+<p class=3D"MsoNormal"><font face=3D"Arial" size=3D"2"><span style=3D"font-=
+size: 10pt; font-family: Arial;">=A0</span></font></p>
+<p class=3D"MsoNormal"><b><font color=3D"black" face=3D"Arial" size=3D"2"><=
+span style=3D"font-weight: bold; font-size: 10pt; color: black; font-family=
+: Arial;">Job=20
+Summary</span></font></b></p>
+<p class=3D"MsoNormal" style=3D"margin-left: 0.5in;"><font color=3D"black" =
+face=3D"Symbol" size=3D"2"><span style=3D"font-size: 10pt; color: black; fo=
+nt-family: Symbol;"><span>=B7<font face=3D"Times New Roman" size=3D"1"><spa=
+n style=3D"font-family: &#39;Times New Roman&#39;; font-style: normal; font=
+-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal;=
+ font-size-adjust: none; font-stretch: normal;">=A0=A0=A0=A0=A0=A0=A0=A0=20
+</span></font></span></span></font><font color=3D"black" face=3D"Arial" siz=
+e=3D"2"><span style=3D"font-size: 10pt; color: black; font-family: Arial;">=
+This person will be=20
+part of the =93core migration=94 team which is CRITICAL to our Risk Finance=
+ Data=20
+Warehouse go-live strategy. Hence, we need an individual who is very=20
+responsible, dedicated and willing to go beyond their role, and get the job=
+=20
+done.</span></font></p>
+<p class=3D"MsoNormal" style=3D"margin-left: 0.5in;"><font color=3D"black" =
+face=3D"Symbol" size=3D"2"><span style=3D"font-size: 10pt; color: black; fo=
+nt-family: Symbol;"><span>=B7<font face=3D"Times New Roman" size=3D"1"><spa=
+n style=3D"font-family: &#39;Times New Roman&#39;; font-style: normal; font=
+-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal;=
+ font-size-adjust: none; font-stretch: normal;">=A0=A0=A0=A0=A0=A0=A0=A0=20
+</span></font></span></span></font><font color=3D"black" face=3D"Arial" siz=
+e=3D"2"><span style=3D"font-size: 10pt; color: black; font-family: Arial;">=
+Responsible for=20
+detailed technical execution of the data migration testing within the Wareh=
+ouse=20
+Program=A0 </span></font></p>
+<p class=3D"MsoNormal" style=3D"margin-left: 0.5in;"><font color=3D"black" =
+face=3D"Symbol" size=3D"2"><span style=3D"font-size: 10pt; color: black; fo=
+nt-family: Symbol;"><span>=B7<font face=3D"Times New Roman" size=3D"1"><spa=
+n style=3D"font-family: &#39;Times New Roman&#39;; font-style: normal; font=
+-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal;=
+ font-size-adjust: none; font-stretch: normal;">=A0=A0=A0=A0=A0=A0=A0=A0=20
+</span></font></span></span></font><font color=3D"black" face=3D"Arial" siz=
+e=3D"2"><span style=3D"font-size: 10pt; color: black; font-family: Arial;">=
+Responsible for=20
+developing complex SQL queries, and data reconciliation reports=A0 to ensur=
+e=20
+accuracy of migration</span></font></p>
+<p class=3D"MsoNormal" style=3D"margin-left: 0.5in;"><font color=3D"black" =
+face=3D"Symbol" size=3D"2"><span style=3D"font-size: 10pt; color: black; fo=
+nt-family: Symbol;"><span>=B7<font face=3D"Times New Roman" size=3D"1"><spa=
+n style=3D"font-family: &#39;Times New Roman&#39;; font-style: normal; font=
+-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal;=
+ font-size-adjust: none; font-stretch: normal;">=A0=A0=A0=A0=A0=A0=A0=A0=20
+</span></font></span></span></font><font color=3D"black" face=3D"Arial" siz=
+e=3D"2"><span style=3D"font-size: 10pt; color: black; font-family: Arial;">=
+Responsible for=20
+configuring the Risk Finance Data Warehouse=20
+application</span></font></p>
+<p class=3D"MsoNormal" style=3D"margin-left: 0.5in;"><font color=3D"black" =
+face=3D"Symbol" size=3D"2"><span style=3D"font-size: 10pt; color: black; fo=
+nt-family: Symbol;"><span>=B7<font face=3D"Times New Roman" size=3D"1"><spa=
+n style=3D"font-family: &#39;Times New Roman&#39;; font-style: normal; font=
+-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal;=
+ font-size-adjust: none; font-stretch: normal;">=A0=A0=A0=A0=A0=A0=A0=A0=20
+</span></font></span></span></font><font color=3D"black" face=3D"Arial" siz=
+e=3D"2"><span style=3D"font-size: 10pt; color: black; font-family: Arial;">=
+Responsible for=20
+coordinating with Development Managers and conducting releases of various=
+=20
+software components required to setup Risk Finance Data Warehouse=20
+application.</span></font></p>
+<p class=3D"MsoNormal" style=3D"margin-left: 0.5in;"><font color=3D"black" =
+face=3D"Symbol" size=3D"2"><span style=3D"font-size: 10pt; color: black; fo=
+nt-family: Symbol;"><span>=B7<font face=3D"Times New Roman" size=3D"1"><spa=
+n style=3D"font-family: &#39;Times New Roman&#39;; font-style: normal; font=
+-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal;=
+ font-size-adjust: none; font-stretch: normal;">=A0=A0=A0=A0=A0=A0=A0=A0=20
+</span></font></span></span></font><font color=3D"black" face=3D"Arial" siz=
+e=3D"2"><span style=3D"font-size: 10pt; color: black; font-family: Arial;">=
+Responsible for=20
+Environment Setup of the Risk Finance Data Warehouse, and smoke=20
+testing.</span></font></p>
+<p class=3D"MsoNormal" style=3D"margin-left: 0.5in;"><font color=3D"black" =
+face=3D"Symbol" size=3D"2"><span style=3D"font-size: 10pt; color: black; fo=
+nt-family: Symbol;"><span>=B7<font face=3D"Times New Roman" size=3D"1"><spa=
+n style=3D"font-family: &#39;Times New Roman&#39;; font-style: normal; font=
+-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal;=
+ font-size-adjust: none; font-stretch: normal;">=A0=A0=A0=A0=A0=A0=A0=A0=20
+</span></font></span></span></font><font color=3D"black" face=3D"Arial" siz=
+e=3D"2"><span style=3D"font-size: 10pt; color: black; font-family: Arial;">=
+Responsible for=20
+detailed technical execution of the Automated Testing within the Warehouse=
+=20
+Program</span></font></p>
+<p class=3D"MsoNormal" style=3D"margin-left: 0.5in;"><font color=3D"black" =
+face=3D"Symbol" size=3D"2"><span style=3D"font-size: 10pt; color: black; fo=
+nt-family: Symbol;"><span>=B7<font face=3D"Times New Roman" size=3D"1"><spa=
+n style=3D"font-family: &#39;Times New Roman&#39;; font-style: normal; font=
+-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal;=
+ font-size-adjust: none; font-stretch: normal;">=A0=A0=A0=A0=A0=A0=A0=A0=20
+</span></font></span></span></font><font color=3D"black" face=3D"Arial" siz=
+e=3D"2"><span style=3D"font-size: 10pt; color: black; font-family: Arial;">=
+Responsible for=20
+analyzing and explaining breaks in the data reconciliations/difference repo=
+rts=20
+and recommending fixes</span></font></p>
+<p class=3D"MsoNormal" style=3D"margin-left: 0.25in;"><font color=3D"black"=
+ face=3D"Arial" size=3D"2"><span style=3D"font-size: 10pt; color: black; fo=
+nt-family: Arial;">=A0</span></font></p>
+<p class=3D"MsoNormal"><b><font color=3D"black" face=3D"Arial" size=3D"2"><=
+span style=3D"font-weight: bold; font-size: 10pt; color: black; font-family=
+: Arial;">=A0</span></font></b></p>
+<p class=3D"MsoNormal"><b><font color=3D"black" face=3D"Arial" size=3D"2"><=
+span style=3D"font-weight: bold; font-size: 10pt; color: black; font-family=
+: Arial;">Person=20
+Requirements</span></font></b></p>
+<p class=3D"MsoNormal" style=3D"margin-left: 0.5in;"><font color=3D"black" =
+face=3D"Arial" size=3D"2"><span style=3D"font-size: 10pt; color: black; fon=
+t-family: Arial;"><span>-<font face=3D"Times New Roman" size=3D"1"><span st=
+yle=3D"font-family: &#39;Times New Roman&#39;; font-style: normal; font-var=
+iant: normal; font-weight: normal; font-size: 7pt; line-height: normal; fon=
+t-size-adjust: none; font-stretch: normal;">=A0=A0=A0=A0=A0=A0=A0=A0=A0=20
+</span></font></span></span></font><font color=3D"black" face=3D"Arial" siz=
+e=3D"2"><span style=3D"font-size: 10pt; color: black; font-family: Arial;">=
+High energy and=20
+self-motivated individual</span></font></p>
+<p class=3D"MsoNormal" style=3D"margin-left: 0.5in;"><font color=3D"black" =
+face=3D"Arial" size=3D"2"><span style=3D"font-size: 10pt; color: black; fon=
+t-family: Arial;"><span>-<font face=3D"Times New Roman" size=3D"1"><span st=
+yle=3D"font-family: &#39;Times New Roman&#39;; font-style: normal; font-var=
+iant: normal; font-weight: normal; font-size: 7pt; line-height: normal; fon=
+t-size-adjust: none; font-stretch: normal;">=A0=A0=A0=A0=A0=A0=A0=A0=A0=20
+</span></font></span></span></font><font color=3D"black" face=3D"Arial" siz=
+e=3D"2"><span style=3D"font-size: 10pt; color: black; font-family: Arial;">=
+Strong Problem Solving=20
+Skills </span></font></p>
+<p class=3D"MsoNormal" style=3D"margin-left: 0.5in;"><font color=3D"black" =
+face=3D"Arial" size=3D"2"><span style=3D"font-size: 10pt; color: black; fon=
+t-family: Arial;"><span>-<font face=3D"Times New Roman" size=3D"1"><span st=
+yle=3D"font-family: &#39;Times New Roman&#39;; font-style: normal; font-var=
+iant: normal; font-weight: normal; font-size: 7pt; line-height: normal; fon=
+t-size-adjust: none; font-stretch: normal;">=A0=A0=A0=A0=A0=A0=A0=A0=A0=20
+</span></font></span></span></font><font color=3D"black" face=3D"Arial" siz=
+e=3D"2"><span style=3D"font-size: 10pt; color: black; font-family: Arial;">=
+Strong Technical=20
+skills in Scripting / SQL technologies</span></font></p>
+<p class=3D"MsoNormal" style=3D"margin-left: 0.5in;"><font color=3D"black" =
+face=3D"Arial" size=3D"2"><span style=3D"font-size: 10pt; color: black; fon=
+t-family: Arial;"><span>-<font face=3D"Times New Roman" size=3D"1"><span st=
+yle=3D"font-family: &#39;Times New Roman&#39;; font-style: normal; font-var=
+iant: normal; font-weight: normal; font-size: 7pt; line-height: normal; fon=
+t-size-adjust: none; font-stretch: normal;">=A0=A0=A0=A0=A0=A0=A0=A0=A0=20
+</span></font></span></span></font><font color=3D"black" face=3D"Arial" siz=
+e=3D"2"><span style=3D"font-size: 10pt; color: black; font-family: Arial;">=
+Excellent written=20
+&amp; verbal communication skills required</span></font></p>
+<p class=3D"MsoNormal" style=3D"margin-left: 0.5in;"><font color=3D"black" =
+face=3D"Arial" size=3D"2"><span style=3D"font-size: 10pt; color: black; fon=
+t-family: Arial;"><span>-<font face=3D"Times New Roman" size=3D"1"><span st=
+yle=3D"font-family: &#39;Times New Roman&#39;; font-style: normal; font-var=
+iant: normal; font-weight: normal; font-size: 7pt; line-height: normal; fon=
+t-size-adjust: none; font-stretch: normal;">=A0=A0=A0=A0=A0=A0=A0=A0=A0=20
+</span></font></span></span></font><font color=3D"black" face=3D"Arial" siz=
+e=3D"2"><span style=3D"font-size: 10pt; color: black; font-family: Arial;">=
+Detail-oriented and=20
+focused</span></font></p>
+<p class=3D"MsoNormal" style=3D"margin-left: 0.5in;"><font color=3D"black" =
+face=3D"Arial" size=3D"2"><span style=3D"font-size: 10pt; color: black; fon=
+t-family: Arial;"><span>-<font face=3D"Times New Roman" size=3D"1"><span st=
+yle=3D"font-family: &#39;Times New Roman&#39;; font-style: normal; font-var=
+iant: normal; font-weight: normal; font-size: 7pt; line-height: normal; fon=
+t-size-adjust: none; font-stretch: normal;">=A0=A0=A0=A0=A0=A0=A0=A0=A0=20
+</span></font></span></span></font><font color=3D"black" face=3D"Arial" siz=
+e=3D"2"><span style=3D"font-size: 10pt; color: black; font-family: Arial;">=
+Pragmatic and=20
+systematic way of working</span></font></p>
+<p class=3D"MsoNormal" style=3D"margin-left: 0.5in;"><font color=3D"black" =
+face=3D"Arial" size=3D"2"><span style=3D"font-size: 10pt; color: black; fon=
+t-family: Arial;"><span>-<font face=3D"Times New Roman" size=3D"1"><span st=
+yle=3D"font-family: &#39;Times New Roman&#39;; font-style: normal; font-var=
+iant: normal; font-weight: normal; font-size: 7pt; line-height: normal; fon=
+t-size-adjust: none; font-stretch: normal;">=A0=A0=A0=A0=A0=A0=A0=A0=A0=20
+</span></font></span></span></font><font color=3D"black" face=3D"Arial" siz=
+e=3D"2"><span style=3D"font-size: 10pt; color: black; font-family: Arial;">=
+Team=20
+player</span></font></p>
+<p class=3D"MsoNormal" style=3D"margin-left: 0.5in;"><font color=3D"black" =
+face=3D"Arial" size=3D"2"><span style=3D"font-size: 10pt; color: black; fon=
+t-family: Arial;"><span>-<font face=3D"Times New Roman" size=3D"1"><span st=
+yle=3D"font-family: &#39;Times New Roman&#39;; font-style: normal; font-var=
+iant: normal; font-weight: normal; font-size: 7pt; line-height: normal; fon=
+t-size-adjust: none; font-stretch: normal;">=A0=A0=A0=A0=A0=A0=A0=A0=A0=20
+</span></font></span></span></font><font color=3D"black" face=3D"Arial" siz=
+e=3D"2"><span style=3D"font-size: 10pt; color: black; font-family: Arial;">=
+Entrepreneurial,=20
+flexible and hard working. &quot;Gets things done&quot;</span></font></p>
+<p class=3D"MsoNormal" style=3D"margin-left: 0.5in;"><font color=3D"black" =
+face=3D"Arial" size=3D"2"><span style=3D"font-size: 10pt; color: black; fon=
+t-family: Arial;"><span>-<font face=3D"Times New Roman" size=3D"1"><span st=
+yle=3D"font-family: &#39;Times New Roman&#39;; font-style: normal; font-var=
+iant: normal; font-weight: normal; font-size: 7pt; line-height: normal; fon=
+t-size-adjust: none; font-stretch: normal;">=A0=A0=A0=A0=A0=A0=A0=A0=A0=20
+</span></font></span></span></font><font color=3D"black" face=3D"Arial" siz=
+e=3D"2"><span style=3D"font-size: 10pt; color: black; font-family: Arial;">=
+Derivative Fixed=20
+Income Product knowledge (Rates, Credit, Emerging Market business areas) a =
+plus=20
+</span></font></p>
+<p class=3D"MsoNormal" style=3D"margin-left: 0.5in;"><font color=3D"black" =
+face=3D"Arial" size=3D"2"><span style=3D"font-size: 10pt; color: black; fon=
+t-family: Arial;"><span>-<font face=3D"Times New Roman" size=3D"1"><span st=
+yle=3D"font-family: &#39;Times New Roman&#39;; font-style: normal; font-var=
+iant: normal; font-weight: normal; font-size: 7pt; line-height: normal; fon=
+t-size-adjust: none; font-stretch: normal;">=A0=A0=A0=A0=A0=A0=A0=A0=A0=20
+</span></font></span></span></font><font color=3D"black" face=3D"Arial" siz=
+e=3D"2"><span style=3D"font-size: 10pt; color: black; font-family: Arial;">=
+Understanding of data=20
+warehouse systems and architectural concepts a plus</span></font></p>
+<p class=3D"MsoNormal" style=3D"margin-left: 0.5in;"><font color=3D"black" =
+face=3D"Arial" size=3D"2"><span style=3D"font-size: 10pt; color: black; fon=
+t-family: Arial;"><span>-<font face=3D"Times New Roman" size=3D"1"><span st=
+yle=3D"font-family: &#39;Times New Roman&#39;; font-style: normal; font-var=
+iant: normal; font-weight: normal; font-size: 7pt; line-height: normal; fon=
+t-size-adjust: none; font-stretch: normal;">=A0=A0=A0=A0=A0=A0=A0=A0=A0=20
+</span></font></span></span></font><font color=3D"black" face=3D"Arial" siz=
+e=3D"2"><span style=3D"font-size: 10pt; color: black; font-family: Arial;">=
+Understanding of=20
+finance accounting (sub ledger / balance sheet accounting) a=20
+plus</span></font></p>
+<p class=3D"MsoNormal"><font color=3D"black" face=3D"Arial" size=3D"2"><spa=
+n style=3D"font-size: 10pt; color: black; font-family: Arial;">=A0</span></=
+font></p>
+<p class=3D"MsoNormal"><b><font color=3D"black" face=3D"Arial" size=3D"2"><=
+span style=3D"font-weight: bold; font-size: 10pt; color: black; font-family=
+: Arial;">=A0</span></font></b></p>
+<p class=3D"MsoNormal"><b><font color=3D"black" face=3D"Arial" size=3D"2"><=
+span style=3D"font-weight: bold; font-size: 10pt; color: black; font-family=
+: Arial;">Technical=20
+Requirements</span></font></b></p>
+<p class=3D"MsoNormal" style=3D"margin-left: 0.5in;"><font color=3D"black" =
+face=3D"Symbol" size=3D"2"><span style=3D"font-size: 10pt; color: black; fo=
+nt-family: Symbol;"><span>=B7<font face=3D"Times New Roman" size=3D"1"><spa=
+n style=3D"font-family: &#39;Times New Roman&#39;; font-style: normal; font=
+-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal;=
+ font-size-adjust: none; font-stretch: normal;">=A0=A0=A0=A0=A0=A0=A0=A0=20
+</span></font></span></span></font><font color=3D"black" face=3D"Arial" siz=
+e=3D"2"><span style=3D"background: yellow none repeat scroll 0% 0%; -moz-ba=
+ckground-clip: border; -moz-background-origin: padding; -moz-background-inl=
+ine-policy: continuous; font-size: 10pt; color: black; font-family: Arial;"=
+>3-5=20
+years experience as a Technical Analyst in an Investment Banking (Capital=
+=20
+Markets / Trading) environment</span></font></p>
+<p class=3D"MsoNormal" style=3D"margin-left: 0.5in;"><font color=3D"black" =
+face=3D"Symbol" size=3D"2"><span style=3D"font-size: 10pt; color: black; fo=
+nt-family: Symbol;"><span>=B7<font face=3D"Times New Roman" size=3D"1"><spa=
+n style=3D"font-family: &#39;Times New Roman&#39;; font-style: normal; font=
+-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal;=
+ font-size-adjust: none; font-stretch: normal;">=A0=A0=A0=A0=A0=A0=A0=A0=20
+</span></font></span></span></font><font color=3D"black" face=3D"Arial" siz=
+e=3D"2"><span style=3D"background: yellow none repeat scroll 0% 0%; -moz-ba=
+ckground-clip: border; -moz-background-origin: padding; -moz-background-inl=
+ine-policy: continuous; font-size: 10pt; color: black; font-family: Arial;"=
+>Strong=20
+scripting / programming skills in scripting languages, Shell, Perl in a Lin=
+ux=20
+Environment</span></font></p>
+<p class=3D"MsoNormal" style=3D"margin-left: 0.5in;"><font color=3D"black" =
+face=3D"Symbol" size=3D"2"><span style=3D"font-size: 10pt; color: black; fo=
+nt-family: Symbol;"><span>=B7<font face=3D"Times New Roman" size=3D"1"><spa=
+n style=3D"font-family: &#39;Times New Roman&#39;; font-style: normal; font=
+-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal;=
+ font-size-adjust: none; font-stretch: normal;">=A0=A0=A0=A0=A0=A0=A0=A0=20
+</span></font></span></span></font><font color=3D"black" face=3D"Arial" siz=
+e=3D"2"><span style=3D"background: yellow none repeat scroll 0% 0%; -moz-ba=
+ckground-clip: border; -moz-background-origin: padding; -moz-background-inl=
+ine-policy: continuous; font-size: 10pt; color: black; font-family: Arial;"=
+>Strong=20
+experience in writing complex SQL / Stored=20
+Procedures.</span></font></p>
+<p class=3D"MsoNormal" style=3D"margin-left: 0.5in;"><font color=3D"black" =
+face=3D"Symbol" size=3D"2"><span style=3D"font-size: 10pt; color: black; fo=
+nt-family: Symbol;"><span>=B7<font face=3D"Times New Roman" size=3D"1"><spa=
+n style=3D"font-family: &#39;Times New Roman&#39;; font-style: normal; font=
+-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal;=
+ font-size-adjust: none; font-stretch: normal;">=A0=A0=A0=A0=A0=A0=A0=A0=20
+</span></font></span></span></font><font color=3D"black" face=3D"Arial" siz=
+e=3D"2"><span style=3D"font-size: 10pt; color: black; font-family: Arial;">=
+Experience with MS=20
+Access Reporting Programming a plus</span></font></p>
+<p class=3D"MsoNormal" style=3D"margin-left: 0.5in;"><font color=3D"black" =
+face=3D"Symbol" size=3D"2"><span style=3D"font-size: 10pt; color: black; fo=
+nt-family: Symbol;"><span>=B7<font face=3D"Times New Roman" size=3D"1"><spa=
+n style=3D"font-family: &#39;Times New Roman&#39;; font-style: normal; font=
+-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal;=
+ font-size-adjust: none; font-stretch: normal;">=A0=A0=A0=A0=A0=A0=A0=A0=20
+</span></font></span></span></font><font color=3D"black" face=3D"Arial" siz=
+e=3D"2"><span style=3D"font-size: 10pt; color: black; font-family: Arial;">=
+Experience with Excel=20
+/ VBA programming a plus</span></font></p>
+<p class=3D"MsoNormal" style=3D"margin-left: 0.5in;"><font color=3D"black" =
+face=3D"Symbol" size=3D"2"><span style=3D"font-size: 10pt; color: black; fo=
+nt-family: Symbol;"><span>=B7<font face=3D"Times New Roman" size=3D"1"><spa=
+n style=3D"font-family: &#39;Times New Roman&#39;; font-style: normal; font=
+-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal;=
+ font-size-adjust: none; font-stretch: normal;">=A0=A0=A0=A0=A0=A0=A0=A0=20
+</span></font></span></span></font><font color=3D"black" face=3D"Arial" siz=
+e=3D"2"><span style=3D"font-size: 10pt; color: black; font-family: Arial;">=
+Familiar with basic=20
+system administration of Windows and Linux as well as shell=20
+scripting</span></font></p>
+<p class=3D"MsoNormal" style=3D"margin-left: 0.5in;"><font color=3D"black" =
+face=3D"Symbol" size=3D"2"><span style=3D"font-size: 10pt; color: black; fo=
+nt-family: Symbol;"><span>=B7<font face=3D"Times New Roman" size=3D"1"><spa=
+n style=3D"font-family: &#39;Times New Roman&#39;; font-style: normal; font=
+-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal;=
+ font-size-adjust: none; font-stretch: normal;">=A0=A0=A0=A0=A0=A0=A0=A0=20
+</span></font></span></span></font><font color=3D"black" face=3D"Arial" siz=
+e=3D"2"><span style=3D"font-size: 10pt; color: black; font-family: Arial;">=
+Experience with=20
+software release/build process</span></font></p>
+<p class=3D"MsoNormal" style=3D"margin-left: 0.5in;"><font color=3D"black" =
+face=3D"Symbol" size=3D"2"><span style=3D"font-size: 10pt; color: black; fo=
+nt-family: Symbol;"><span>=B7<font face=3D"Times New Roman" size=3D"1"><spa=
+n style=3D"font-family: &#39;Times New Roman&#39;; font-style: normal; font=
+-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal;=
+ font-size-adjust: none; font-stretch: normal;">=A0=A0=A0=A0=A0=A0=A0=A0=20
+</span></font></span></span></font><font color=3D"black" face=3D"Arial" siz=
+e=3D"2"><span style=3D"font-size: 10pt; color: black; font-family: Arial;">=
+Experience with=20
+version control / configuration management tools, and Test Management tools=
+=20
+(Jira, etc)</span></font></p>
+<p class=3D"MsoNormal"><font face=3D"Arial" size=3D"2"><span style=3D"font-=
+size: 10pt; font-family: Arial;">=A0</span></font></p>
+<p class=3D"MsoNormal"><font face=3D"Arial" size=3D"2"><span style=3D"font-=
+size: 10pt; font-family: Arial;">=A0</span></font></p>
+<div>
+<p class=3D"MsoNormal"><b><font color=3D"black" face=3D"Book Antiqua" size=
+=3D"2"><span style=3D"font-weight: bold; font-size: 10pt; color: black; fon=
+t-family: &#39;Book Antiqua&#39;;">Thanks=20
+&amp; Regards</span></font></b></p>
+<p class=3D"MsoNormal"><font face=3D"Times New Roman" size=3D"3"><span styl=
+e=3D"font-size: 12pt;">=A0</span></font></p>
+<p class=3D"MsoNormal"><b><font color=3D"blue" face=3D"Book Antiqua" size=
+=3D"3"><span style=3D"font-weight: bold; font-size: 12pt; color: blue; font=
+-family: &#39;Book Antiqua&#39;;">Amber=20
+Srivastava</span></font></b></p>
+<p class=3D"MsoNormal"><b><font color=3D"#663300" face=3D"Book Antiqua" siz=
+e=3D"2"><span style=3D"font-weight: bold; font-size: 10pt; color: rgb(102, =
+51, 0); font-family: &#39;Book Antiqua&#39;;">Sourcing=20
+Specialist</span></font></b></p>
+<p class=3D"MsoNormal"><font color=3D"blue" face=3D"Book Antiqua" size=3D"2=
+"><span style=3D"font-size: 10pt; color: blue; font-family: &#39;Book Antiq=
+ua&#39;;">iBusiness=20
+Solution LLC</span></font><font color=3D"navy"><span style=3D"color: navy;"=
+></span></font></p>
+<p class=3D"MsoNormal"><font color=3D"blue" face=3D"Book Antiqua" size=3D"2=
+"><span style=3D"font-size: 10pt; color: blue; font-family: &#39;Book Antiq=
+ua&#39;;">(Certified=20
+8(a), MBE, WBE Business in PA, MD,VA &amp; NJ)</span></font></p>
+<p class=3D"MsoNormal"><font face=3D"Times New Roman" size=3D"2"><span styl=
+e=3D"font-size: 11pt;"><font color=3D"blue"><span style=3D"color: blue;">50=
+00 Lenker=20
+Street</span></font></span></font></p>
+<p class=3D"MsoNormal"><font face=3D"Book Antiqua" size=3D"2"><span style=
+=3D"font-size: 10pt; font-family: &#39;Book Antiqua&#39;;"><font color=3D"b=
+lue"><span style=3D"color: blue;">Mechanicsburg</span></font><font color=3D=
+"blue"><span style=3D"color: blue;">, </span></font><font color=3D"blue"><s=
+pan style=3D"color: blue;">PA</span></font><font color=3D"blue"><span style=
+=3D"color: blue;"> </span></font><font color=3D"blue"><span style=3D"color:=
+ blue;">15241</span></font></span></font><font color=3D"navy"><span style=
+=3D"color: navy;"></span></font></p>
+
+
+
+<p class=3D"MsoNormal"><font color=3D"maroon" face=3D"Book Antiqua" size=3D=
+"2"><span style=3D"font-size: 10pt; color: maroon; font-family: &#39;Book A=
+ntiqua&#39;;">Phone:=20
+717-704-0062</span></font></p>
+<p class=3D"MsoNormal"><font color=3D"maroon" face=3D"Book Antiqua" size=3D=
+"2"><span style=3D"font-size: 10pt; color: maroon; font-family: &#39;Book A=
+ntiqua&#39;;">Fax:=20
+412-202-8931</span></font><font color=3D"navy"><span style=3D"color: navy;"=
+></span></font></p>
+<p class=3D"MsoNormal"><font color=3D"maroon" face=3D"Book Antiqua" size=3D=
+"2"><span style=3D"font-size: 10pt; color: maroon; font-family: &#39;Book A=
+ntiqua&#39;;">Email:=20
+<u>amber</u></span></font><u><font color=3D"#993366" face=3D"Book Antiqua" =
+size=3D"2"><span style=3D"font-size: 10pt; color: rgb(153, 51, 102); font-f=
+amily: &#39;Book Antiqua&#39;;"><a title=3D"blocked::mailto:a@ibusinesssolu=
+tion.com
+mailto:a@ibusinesssolution.com
+mailto:ankur@ibusinesssolution.com"><font title=3D"blocked::mailto:a@ibusin=
+esssolution.com" color=3D"#993366"><span title=3D"blocked::mailto:a@ibusine=
+sssolution.com" style=3D"color: rgb(153, 51, 102);"><span title=3D"blocked:=
+:mailto:a@ibusinesssolution.com
+mailto:a@ibusinesssolution.com">@ibusinesssolution.com</span></span></font>=
+</a></span></font></u><font color=3D"#993366" face=3D"Book Antiqua" size=3D=
+"2"><span style=3D"font-size: 10pt; color: rgb(153, 51, 102); font-family: =
+&#39;Book Antiqua&#39;;"> ,=20
+</span></font></p>
+<p class=3D"MsoNormal"><font color=3D"maroon" face=3D"Book Antiqua" size=3D=
+"2"><span style=3D"font-size: 10pt; color: maroon; font-family: &#39;Book A=
+ntiqua&#39;;">Visit us at=20
+</span></font><font color=3D"navy"><span style=3D"color: navy;"><a title=3D=
+"http://www.ibusinesssolution.com" href=3D"http://www.ibusinesssolution.com=
+/" target=3D"_blank"><font title=3D"http://www.ibusinesssolution.com" color=
+=3D"maroon" face=3D"Book Antiqua" size=3D"2"><span title=3D"http://www.ibus=
+inesssolution.com" style=3D"font-size: 10pt; color: maroon; font-family: &#=
+39;Book Antiqua&#39;;"><span title=3D"http://www.ibusinesssolution.com">www=
+.ibusinesssolution.com</span></span></font></a></span></font></p>
+
+
+
+<p class=3D"MsoNormal"><font color=3D"blue" face=3D"Book Antiqua" size=3D"2=
+"><span style=3D"font-size: 10pt; color: blue; font-family: &#39;Book Antiq=
+ua&#39;;">Yahoo! IM:=20
+a_amber2007</span></font></p></div><br>
+</div><br>
+</div></div></div><br>
+
+--00504502adb14c93a1047c57ea66--

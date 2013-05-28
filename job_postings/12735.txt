@@ -1,0 +1,90 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12735
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 20279 invoked from network); 14 Sep 2012 06:33:21 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 14 Sep 2012 06:33:21 -0000
+Received: (qmail 6496 invoked by uid 225); 14 Sep 2012 06:33:21 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 6492 invoked by alias); 14 Sep 2012 06:33:20 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 13 Sep 2012 23:33:18 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id AFBC82AFE0; Thu, 13 Sep 2012 23:33:14 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 13 Sep 2012 23:33:14 -0700
+Message-ID: <20120914063314.AFBC82AFE0@x3.develooper.com>
+Subject: Object Oriented Perl Programmer (onsite), Greenwich, CT, USA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14088
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 13, 2012
+
+Job title: Object Oriented Perl Programmer
+
+Company name: Interactive Brokers
+
+Internal ID: 68601-CJB-0
+
+Location: Greenwich, CT, USA
+
+Pay rate: negotiable
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are looking for someone who loves to program in Perl and is great at
+working with abstractions.
+The position is for a programmer for Compliance Technology Department of a
+brokerage and trading firm at our headquarters in Greenwich, CT located 45
+minutes away from NYC. The candidate will have 3-5 years experience with
+Object Oriented Perl as well as strong software design skills.	He or she
+should be able to think in abstractions and develop class modules in perl. 
+People with only perl scripting and no object oriented design experience in
+perl should NOT apply for this position.
+
+Required skills:
+* Object Oriented Programming in Perl 5.8.x
+    * Experience using modules, writing modules, and testing modules using
+the object oriented features of perl as well as the functional features
+    * experience with DBI module.
+    * Knowledge of SQL, preferably Oracle is required
+    * Knowledge of Linux and use of the commandline
+    * Basic knowledge of desktop applications such as MS Excel
+    * Degree in Computer Science/Philosophy/Computer  Engineering/Software
+Engineering or Information Technology
+
+Desired skills:
+* Familiarity with cgi and building web based tools
+    * Familiarity with processing xml using modules such as XML::Twig
+    * Familiarity with Test::More and a general  understanding of designing
+tests for perl modules
+    * Experience with writing POD documentation for modules is a plus
+    * Familiarity with web frameworks such as Mojolicious, Dancer, or
+Catalyst is a plus
+    * Familiarity with JavaScript is a plus
+    * Ability to read some JAVA, C, Prolog, or C++ is a plus
+
+Website for more information:
+https://apply.hrmdirect.com/resumedirect/ApplyOnline/Apply.aspx?req_id=6860
+1&source=68601-CJB-0
+
+Contact information at:
+http://jobs.perl.org/job/14088#contact

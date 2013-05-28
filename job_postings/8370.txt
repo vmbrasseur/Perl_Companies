@@ -1,0 +1,105 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8370
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 16104 invoked from network); 27 Jun 2008 21:49:00 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 27 Jun 2008 21:49:00 -0000
+Received: (qmail 15681 invoked by uid 225); 27 Jun 2008 21:48:59 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 15677 invoked by alias); 27 Jun 2008 21:48:59 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 27 Jun 2008 14:48:53 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id E42AC2AFF2; Fri, 27 Jun 2008 14:48:49 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080627214849.E42AC2AFF2@x3.develooper.com>
+Date: Fri, 27 Jun 2008 14:48:49 -0700 (PDT)
+Subject: perl/mod_perl software engineer, United States, CA, Burbank
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/9078
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 27, 2008
+
+Job title: perl/mod_perl software engineer
+
+Company name: Yahoo!
+
+Internal ID: 15516
+
+Location: United States, CA, Burbank
+
+Travel: 0%
+
+Length of employment: indefinite
+
+Hours: Full time
+
+Description:
+	The Internet is a big, busy place, and we at Yahoo! are proud to
+stand out in the crowd. As the world's number one Internet brand, servicing
+over a half billion people, we're determined to maintain our commitment to
+delivering news, entertainment, information and fun... each and every day.
+
+In order to maintain our position as one of the world's most trafficked
+Internet destinations, we're always on the lookout for people with big
+ideas and big talent to help us provide our visitors with the innovative
+products and services they've come to expect from Yahoo!. We're looking for
+people like you.
+
+How Big Can You Think?
+
+About Business Information Group
+The Business Information Group (BIG) develops and manages the data
+infrastructure for the Search Advertising & Technology Group
+(SATG)division. We crunch, process and deliver massive amounts of data to
+internal customers worldwide like finance, marketing, sales.
+
+Job Responsibilities
+as a member of the infrastructure team, your main responsability will be
+working on the data delivery web interface, used by thousands of internal
+customers. This system pulls data from different technologies - Oracle,
+Hadoop and others - accessing warehouses whose size is in the Petabyte
+realm
+Responsabilities include:
+Responsabilities include:
+* Help operations team troubleshoot issues
+* New feature developement
+* Help in system and network planning
+* Application Security
+
+
+
+Preferable Job Qualifications
+* 5 years of experience on high volume systems
+* Excellent in Perl/Apache/Linux
+* Proficient in software engineering principles (OOP)
+* Good knowledge of RDBMs (Oracle)
+* Excellent knowledge of Unix systems and networking
+* Other languages helpful (C++,Java,Python, Ruby)
+* Proficient in source management (CVS, Subversion)
+* Bachelor Degree in Computer Science or related field, MS even better.
+
+
+Yahoo! Inc. is an equal opportunity employer. For more information or to
+search all of our openings, please visit http://careers.yahoo.com.   
+
+Required skills: perl, mod perl, linux , apache
+
+Desired skills: Oracle, java
+
+Contact information at:
+http://jobs.perl.org/job/9078#contact
+
+

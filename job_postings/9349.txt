@@ -1,0 +1,76 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9349
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 10236 invoked from network); 18 Jul 2009 14:08:45 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 18 Jul 2009 14:08:45 -0000
+Received: (qmail 28506 invoked by uid 225); 18 Jul 2009 14:08:45 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 28502 invoked by alias); 18 Jul 2009 14:08:44 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 18 Jul 2009 07:08:40 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 3069C2AFE4; Sat, 18 Jul 2009 07:08:36 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20090718140837.3069C2AFE4@x3.develooper.com>
+Date: Sat, 18 Jul 2009 07:08:36 -0700 (PDT)
+Subject: Perl developer (catalyst framework) (onsite), Netherlands, Amsterdam
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/10858
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 16, 2009
+
+Job title: Perl developer (catalyst framework)
+
+Company name: Ascent Sourcing
+
+Internal ID: FI
+
+Location: Netherlands, Amsterdam
+
+Pay rate: Negotiable
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: permanent
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+  * Progamming language: Perl (minimum 3 years)
+  * Framework: Catalyst
+      * Operating System: CentOS and/or Ubuntu, VMWare
+      * Database: MySQL and SQLite
+      * ORM: DBI::Class
+      * Templating: Template::Toolkit
+      * JavaScript: jQuery and Ext JS
+      * Application Server: FastCGI
+      * Web Server: Lighttpd and/or Apache
+      * Version Control: Subversion
+      * Issue Ticketing: Trac
+      * Automated Build: Buildbot
+      * Smoke Test: Smolder
+
+
+URL for more information: http://www.ascentsourcing.com/
+
+Contact information at:
+http://jobs.perl.org/job/10858#contact
+
+

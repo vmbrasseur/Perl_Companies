@@ -1,0 +1,92 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4649
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28729 invoked from network); 19 Jul 2006 22:57:40 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 19 Jul 2006 22:57:40 -0000
+Received: (qmail 26589 invoked by uid 225); 19 Jul 2006 22:57:40 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 26583 invoked by alias); 19 Jul 2006 22:57:39 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 19 Jul 2006 15:57:36 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id A2F932AFDD; Wed, 19 Jul 2006 15:57:31 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060719225731.A2F932AFDD@x3.develooper.com>
+Date: Wed, 19 Jul 2006 15:57:31 -0700 (PDT)
+Subject: Perl Systems Developer for real-time news company (onsite), United States, NY, New York City
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4386
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 19, 2006
+
+Job title:
+Perl Systems Developer for real-time news company
+
+Company name: Wall Street Source
+
+Location: United States, NY, New York City
+
+Pay rate: 60-90k DOE
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: Permenant
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Wall Street Source is searching for Developers with a background in
+database-driven applications who will play an important role in the
+continued expansion of our real-time information services.
+
+We're looking for well-rounded developers with anywhere from 2-10 years
+(Junior - Senior level) of Perl development experience.  Good candidates
+will have experience developing well-tested, well-structured OO-perl
+applications.  If your development workstation runs Linux, that's a plus. 
+If you've ever contributed to anything on CPAN, that's also a plus.
+
+
+Required skills:
+* Perl.  Experience using Perl as a real development language, and not just
+for 250-line shell scripts or CGIs.
+* A BS in computer science or relevant programming experience.
+* Linux, MySQL, experience developing applications and running systems in a
+networked environment (e.g. can you explain to me what a DNS server does,
+and how to make local changes to ignore what a DNS server tells you?).
+* Experience working on sites serving 1M+ pages/day or otherwise dealing
+with larger datasets/loads.
+* Strong written and interpersonal skills.
+
+
+Desired skills:
+* Experience with the principals of search engine technology, or experience
+with commercial search engines (e.g. Verity, Endeca, FAST).
+* Experience with messaging systems (Tibco, TAO/ACE, ActiveMQ or others)
+* Experience with commercial news feeds (DowJones, Reuters, etc).
+
+
+URL for more information:
+http://www.wssource.com/index.php?sub=careers
+
+Contact information at:
+http://jobs.perl.org/job/4386#contact
+
+

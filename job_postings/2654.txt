@@ -1,0 +1,93 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2654
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 10755 invoked from network); 27 Apr 2005 22:49:48 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 27 Apr 2005 22:49:48 -0000
+Received: (qmail 12115 invoked by uid 225); 27 Apr 2005 22:49:47 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 12109 invoked by alias); 27 Apr 2005 22:49:47 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 27 Apr 2005 15:49:38 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j3RMnZ0G003550
+	for <jobs@perl.org>; Wed, 27 Apr 2005 15:49:35 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j3RMnZlT003548;
+	Wed, 27 Apr 2005 15:49:35 -0700
+Date: Wed, 27 Apr 2005 15:49:35 -0700
+Message-ID: <200504272249.j3RMnZlT003548@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Web Spider that obeys robots.txt, talks to ms sql (telecommute), United States, tx, fort worth
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2546
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 27, 2005
+
+Job title:
+Web Spider that obeys robots.txt, talks to ms sql
+
+Company name: MyTrip LLC
+
+Location: United States, tx, fort worth
+
+Pay rate: doe
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: short term
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+Programmer needed to write package to fetch links
+from a database, put raw content in a ms sql table, strip out html tags,
+etc. place that content in another table, places links from original
+content in links table. software must have a config file with odbc dsn,
+username, password, table names and a configuration option to spider a
+page, wait a certain number of seconds and spider something else. 
+
+Software will be used to dump content in a database and does not need to be
+very intelligent. Another project will be posted when this project is done
+for a text categorizer and something to normalize and process the data from
+the spider.
+
+A search engine namely for a travel business is being written, which is
+what I intend to do with the data.
+
+Required skills:
+Perl, ability to create a program to spider websites,talk to ms sql. MUST
+obey robots.txt. Ability to talk to ms sql
+
+software must work with active perl 5.8 on windows 2003.
+
+My lawyer requires that a contract exist for the project and the contract
+states that MyTrip LLC owns all rights to the code and that it will not be
+used for anyone else, posted to the internet, etc.
+
+Contact information:
+perljobs@hearn.com
+
+You must change the subject to simply 'spider' without the quotes or I wont
+see your message. Reply with hourly rate and approximate cost of project as
+I prefer to pay per project.
+
+

@@ -1,0 +1,116 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10834
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 24862 invoked from network); 28 Dec 2010 10:00:15 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 28 Dec 2010 10:00:15 -0000
+Received: (qmail 9628 invoked by uid 225); 28 Dec 2010 10:00:15 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 9624 invoked by alias); 28 Dec 2010 10:00:14 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS,T_FILL_THIS_FORM_SHORT
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 28 Dec 2010 02:00:11 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 91F192AFDF; Tue, 28 Dec 2010 02:00:08 -0800 (PST)
+To: jobs@perl.org
+Date: Tue, 28 Dec 2010 02:00:08 -0800
+Message-ID: <20101228100008.91F192AFDF@x3.develooper.com>
+Subject: PERL Programmer (onsite), United States, TX, Houston
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/10854
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 27, 2010
+
+Job title: PERL Programmer
+
+Company name: QuestMark
+
+Internal ID: QP2011
+
+Location: United States, TX, Houston
+
+Pay rate: USD Per Experience
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Immediate opening: 
+
+Our company provides data processing, printing, on-line services, and
+mailing of various document types including plain text, XML, print image,
+PDF, and others. 
+
+We are looking for full-time programmer to work with us on writing and
+maintaining programs and scripts that extract data, format, and sort the
+above-mentioned document types. The requirements are that you can
+demonstrate knowledge and aptitude in the dealing with the above-mentioned
+areas. Where you lack knowledge, we require a willingness to learn and
+develop yourself. 
+
+You will be working closely with our team. We require a dependable
+professional to work in this role, who is a team player, and works well
+with the others in our group. 
+
+Our typical workflow is to read an input file (various formats, i.e. text,
+PDF, XML, mainframe report output, etc.), extract specific information
+(i.e. account numbers, name, addresses, etc.), and produce formatted
+PostScript output that is ready to be sent to laser printers and/or
+converted into PDF. 
+
+This is NOT a contract position. We are looking for a full-time, on-site
+employee. We are located in Houston, Texas. 
+
+When replying to this ad, interested persons should include as much of the
+following information as possible: 
+
+* Resume 
+* Desired Compensation 
+* Sample code that you have created that will demonstate your technical
+knowledge.
+
+Including these in your response will make your application stand out more
+resulting in higher consideration for this position. 
+
+NOTE: Make sure you place the code QP2011 in the subject line of your email
+so that I can easily find your email. 
+
+
+Required skills:
+Linux/Unix 
+
+PERL 
+
+MYSQL 
+
+Printing (PCL, Postscript) 
+
+PDF (able to programmatically create and manipulate pdf documents) 
+
+
+Desired skills:
+PHP 
+
+Adobe Acrobat, and Adobe Acrobat API (for extraction, manipulation) 
+
+Experience with print and mail industry 
+
+USPS procedures, barcodes, etc. 
+
+
+Contact information at:
+http://jobs.perl.org/job/10854#contact

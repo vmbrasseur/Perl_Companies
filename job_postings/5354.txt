@@ -1,0 +1,140 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5354
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 6343 invoked from network); 27 Nov 2006 21:36:44 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 27 Nov 2006 21:36:44 -0000
+Received: (qmail 22421 invoked by uid 225); 27 Nov 2006 21:36:43 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 22416 invoked by alias); 27 Nov 2006 21:36:43 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 27 Nov 2006 13:36:40 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id CAE8F2AFE7; Mon, 27 Nov 2006 13:36:36 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20061127213636.CAE8F2AFE7@x3.develooper.com>
+Date: Mon, 27 Nov 2006 13:36:36 -0800 (PST)
+Subject: Developer/Senior Developer for Small Consulting Firm (telecommute), United States, NY, New York
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5010
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 27, 2006
+
+Job title:
+Developer/Senior Developer for Small Consulting Firm
+
+Company name: Infinity Interactive, Inc.
+
+Location: United States, NY, New York
+
+Pay rate: DOE
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+We are looking for a senior level developer to help us re-architect and
+build a core system for our primary client.
+
+We are a small consulting company primarily based in the New York tri-state
+area. We are a totally virtual company, so this is telecommuting position.
+We would prefer local (NY, CT, NJ) applicants (however, this is not a hard
+requirement so don't let it discourage you from applying).
+
+We primarily use Open Source software, which allows us to build affordable
+solutions for our clients. We also believe in giving back, so we encourage
+our employees to get involved with Open Source software development
+themselves.
+
+Required skills:
+Skills you must have:
+
+- Object Oriented Perl
+
+Perl is our primary language, and OO is our primary development
+methodology, so strong OO Perl skills are required. In addition, you
+*must* know your way around the CPAN (if you are not already a module
+author, you will be after you are hired). Some of the modules we use
+heavily are; DBI, Template Toolkit, Catalyst, DBIx::Class,
+CGI::Application, YAML, Moose, Excel::Template, pdflib and GD.
+
+We are very focused on code re-usability, so if there is a chance we might
+use code again (and there almost certainly is) we spend the time to
+modularize it and build it "right". We also big on maintainability, since
+we tend to need to maintain code over long periods of time.
+
+- Apache, mod_perl and MySQL
+
+This is our current platform of choice (more specifically, Apache 2,
+mod_perl 2 and MySQL 5) but it may not stay that way. However, we will
+still need to maintain existing apps written on it, so knowledge of it is
+required. But experience with other platforms is a big plus.
+
+- HTML, Javascript and CSS
+
+Most programmers hate HTML, think Javascript is tedious and CSS is just for
+designers. We don't think that way, if the front-end doesn't look good, no
+one cares how elegant your back-end code is. We have front-end
+(HTML/CSS/JS) specialists on staff, but you do have to be comfortable
+making changes.
+
+- Self Management Skills
+
+This is a key skill, and one which you *must* have. Because we are virtual,
+no one will be looking over your shoulder all day. Because we are a small
+team, we will need you to be able to take ownership of your projects and be
+completely responsible for your work. In return for you taking on this
+responsibility, we will give you a wide range of flexibility (as long as
+the job gets done and done right).
+
+Desired skills:
+Skill we really would like you to have:
+
+- Experience in multiple programming languages and paradigms
+
+While Perl is one of our primary languages, it is not always the right tool
+for the job. You should be comfortable with other languages (HTML &
+Client-side Javascript don't count), and comfortable with jumping in and
+learning new languages and paradigms.
+
+Specifically, we are big fans of functional programming (Haskell,
+LISP/Scheme, ML/OCaml, etc.), and while we primarily use OO in practice,
+the ideas of functional programming inform much of our design philosophy.
+Experience in one or more functional languages is a big plus, and the words
+"Lambda Calculus" should not frighten you.
+
+- Web Services, SOA (Service Oriented Architecture)
+
+Just because it's a hot buzzword, doesn't mean it's a bad idea.  
+Services are just another level of modularity, and one which we are
+exploring.
+
+- Client Skills
+
+The ability to interact with the clients in a professional manner is a big
+plus. Project management skills are good too.
+
+URL for more information: http://www.iinteractive.com/
+
+Contact information at:
+http://jobs.perl.org/job/5010#contact
+
+

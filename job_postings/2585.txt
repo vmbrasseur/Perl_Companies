@@ -1,0 +1,113 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2585
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 12463 invoked from network); 13 Apr 2005 20:58:15 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 13 Apr 2005 20:58:15 -0000
+Received: (qmail 17012 invoked by uid 225); 13 Apr 2005 20:58:15 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 17004 invoked by alias); 13 Apr 2005 20:58:14 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 13 Apr 2005 13:58:11 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j3DKw8EV031978
+	for <jobs@perl.org>; Wed, 13 Apr 2005 13:58:08 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j3DKw8M2031976;
+	Wed, 13 Apr 2005 13:58:08 -0700
+Date: Wed, 13 Apr 2005 13:58:08 -0700
+Message-ID: <200504132058.j3DKw8M2031976@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Perl Developer for Quantitative Finance Group (onsite), United States, GA, Atlanta
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2478
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 13, 2005
+
+Job title:
+Perl Developer for Quantitative Finance Group
+
+Company name: Bank Of America
+
+Location: United States, GA, Atlanta
+
+Pay rate: Depends on experience
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: Permanent
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The Quantitative Finance Group at Bank of America is looking for a Perl
+developer to join our team in Atlanta, GA.  We manage a $2 billion dollar
+portfolio and provide analytical support for the Corporate Investments
+desk.  We are a Linux shop.  We write all our own code using predominantly
+Perl and C++.  We use pvm for parallel computing.  We run a nightly
+production system and respond to a variety of short-term requests.  We have
+needs ranging from web development to large-scale module design and
+implementation to end-user support to analysis and troubleshooting of
+existing systems.  We place a big emphasis on doing the right thing the
+first time and are looking for a motivated, independent person who feels
+the same way.
+
+Required skills:
+Essential: 
+- core perl skills (in the extraction, reporting and munging of text files
+  sense)
+- writing modules, object oriented code and unit tests (strict and warnings
+
+  clean) 
+- strong working knowledge of *nix commands  
+- ability to work in a time sensitive, market driven environment
+
+Must have legal right to work in the US.
+
+Desired skills:
+Preferred: 
+- degree in a quantitative field (Math, Finance, Engineering, ...)
+- familiarity with source control using SVN and/or CVS
+- familiarity with using certain perl modules: DBI,
+Spreadsheet::ParseExcel,
+  Spreadsheet::WriteExcel, Date*
+- apache/mod_perl, HTML::Mason and/or Template Toolkit
+- experience with parallel computing via pvm or mpi
+- Linux systems administration experience (RedHat Enterprise)
+- shell scripting w/ bash, zsh, ksh
+- experience writing and using Makefiles
+
+Bonus:
+- C++
+- Ruby (on Rails)
+- WML / WAP / WMLScript to get stuff into blackberries
+- experience with Mac use and administration
+- you know what "runner runner nut flush draw" means
+
+Contact information:
+Conrad Lautenbacher
+Senior Vice President
+Quantitative Finance
+Corporate Investments
+
+conrad.j.lautenbacher@bankofamerica.com
+
+

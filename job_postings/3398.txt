@@ -1,0 +1,153 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3398
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 12460 invoked from network); 1 Nov 2005 19:48:14 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 1 Nov 2005 19:48:14 -0000
+Received: (qmail 9830 invoked by uid 225); 1 Nov 2005 19:48:13 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 9825 invoked by alias); 1 Nov 2005 19:48:12 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 01 Nov 2005 11:48:09 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id jA1Jm6VJ012122
+	for <jobs@perl.org>; Tue, 1 Nov 2005 11:48:06 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id jA1Jm6rM012120;
+	Tue, 1 Nov 2005 11:48:06 -0800
+Date: Tue, 1 Nov 2005 11:48:06 -0800
+Message-ID: <200511011948.jA1Jm6rM012120@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Integration of VideoConferencing Software with our Site's User Management System (login system) (telecommute), online, online, online
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3239
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November  1, 2005
+
+Job title:
+Integration of VideoConferencing Software with our Site's User Management
+System (login system)
+
+Company name: www.ustrippoker.com
+
+Location: online, online, online
+
+Pay rate: negotiable
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: as needed it
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+We're looking for CGI/PERL programmer who can help us integrate
+CamFrogWeb's video conferencing software
+with our site's user management system (login system)
+
+
+Our site uses customized vesrion of BAC software for our backend, see 
+www.buildacommunity.com
+
+
+video chat software we license :
+http://www.camfrogweb.com/
+(see attched file "programmer's guide to the integration of camfrogweb")
+
+
+Here is the detailed description of the script's requirement:
+
+-We have licensed a videoconferencing software (camfrogweb active X
+Control) that needs to be integrated with our site's logon and password
+system.
+
+-Our goal is to integrate video chat room into our site so that our members
+would not have to login twice (first time ... to the site, second time...
+to the videochat).
+
+-The videochat software will be hosted on a separate server we lease from
+EV1Servers.Net
+- The Camfrog software will be installed by camfrog programmers on
+EV1Servers.Net server.
+- The Camfrog software will be hosted on a Windows 2003 server but our web
+page can run on buildacommunity.com's server (unix)
+- The script that you write should help CamfrogWeb software recognize who
+is
+
+1) free member (Privilege Group 0 )
+2) premium member (Privilege Group 3)
+3) free member who paid an entrance fee to participate in "pay-per-play"
+game (Privilege Group 5)
+
+
+Three above mentioned statuses can be determined depending on what
+directory the members are using to access the Camfrogweb's videochat
+software. 
+Therefore, we should have 3 directories:
+
+1) www.oursite.com/free-directory for free members
+2) www.oursite.com/premium-directory for premium members (monthly paid)
+3) www.oursite.com/pay-per-play-games-directory for free members while
+they're playing a "pay-per-play" game.
+
+-People coming from www.oursite.com/free-directory will have a "time-out"
+video features (camfrogweb's configuration is adjustable)
+
+-People coming from www.oursite.com/premium-directory will have no
+limitations on video features, 100% access to all features, all the time.
+(camfrogweb's configuration is adjustable)
+
+-People coming from www.oursite.com/pay-per-play-games-directory will have
+no "video time-out" limitations while they're playing a pay-per-play game
+(for the duration of the PPP game).
+
+When a free member pays an entrance fee for the ppp game your script would
+have to temporarily move that player (username) from
+www.oursite.com/free-directory to 
+www.oursite.com/pay-per-play-games-directory . That player will be in
+www.oursite.com/pay-per-play-games-directory for the duration of the PPP
+game. When the game is over or shortly after your script would have to move
+him back to www.oursite.com/free-directory.
+
+Basically the script upon the confirmation of payment via ccbill.com and/or
+paypal.com moves a free member from one privileged group (group zero) to
+another privilege group (group 5).
+
+Our goal is to allow free members - who normally have a restricted use of
+video feed - to have a full 100% use of video-feed during the PPP game for
+which they paid an entrance fee. Once the ppp game is over your script 
+should move them back to www.oursite.com/free-directory which allows them a
+restricted use of video (video feed times out in 60 seconds; this is
+configured via camfrogweb settings).
+
+Please, contact Greg or Alex at
+
+ggendel@shaw.ca
+
+
+Required skills: PERL CGI
+
+Desired skills: PERL CGI
+
+Contact information at:
+http://jobs.perl.org/job/3239#contact
+
+

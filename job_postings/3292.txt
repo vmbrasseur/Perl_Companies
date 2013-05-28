@@ -1,0 +1,106 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3292
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 21191 invoked from network); 10 Oct 2005 22:01:00 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 10 Oct 2005 22:01:00 -0000
+Received: (qmail 21660 invoked by uid 225); 10 Oct 2005 22:01:00 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 21653 invoked by alias); 10 Oct 2005 22:00:59 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 10 Oct 2005 15:00:52 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j9AM0nM0014422
+	for <jobs@perl.org>; Mon, 10 Oct 2005 15:00:49 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j9AM0mbT014420;
+	Mon, 10 Oct 2005 15:00:48 -0700
+Date: Mon, 10 Oct 2005 15:00:48 -0700
+Message-ID: <200510102200.j9AM0mbT014420@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: LAMP Programmer (onsite), United States, Ca, Los Angeles
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3143
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 10, 2005
+
+Job title: LAMP Programmer
+
+Company name: School Loans Corp
+
+Internal ID: lamp
+
+Location: United States, Ca, Los Angeles
+
+Pay rate: $40-$50k DOE
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+
+School Loans Corporation originates Federal and Private Student Loans for
+parents, students and graduates, on behalf of our partners in the higher
+education marketplace. Using primarily open source tools, we've developed a
+web-based admin environment and workflow for marketing, processing and
+funding student loans. 
+
+We are looking for an ambitious young programmer to join our Southern
+California office, primarily developing web interfaces using Apache +
+ModPerl + TemplateToolkit. We have a small development team, so the ideal
+candidate will be comfortable working on multiple projects as well in
+interacting with end users and partners. 
+
+
+Required skills:
+Definite Requirements for this position: 
+
+- A solid grasp of Perl is absolutely required for this position. No
+kidding, and we will ask you questions. That means that you should have no
+problem rolling complex data structures, or writing your own module to
+implement an object. 
+
+- Some experience with Apache is preferred, with extra points for
+experience with writing modules using mod_perl. You don't necessarily have
+to be comfortable unpacking Apache and compiling from source, but you
+should at least be familiar with the Apache config (bonus points for
+mod_rewrite, mod_proxy, ssl certs). 
+
+- A good grasp of HTML, with bonus points for javascript or css layers
+expertise. You won't by any means be expected to be a graphic artist, but
+having a decent eye for layout doesn't hurt. 
+
+- Good verbal and written communication skills. 
+
+
+Desired skills:
+Other skills that would be considered a plus: 
+
+- Experience with XML 
+- Experience with MVC frameworks 
+- Experience with other OO languages (Java, C++, Ada, etc.)
+
+
+Contact information at:
+http://jobs.perl.org/job/3143#contact
+
+

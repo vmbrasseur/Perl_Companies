@@ -1,0 +1,224 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:809
+Return-Path: <prowe32001@yahoo.com>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 54858 invoked by uid 76); 21 Mar 2003 01:38:03 -0000
+Received: from qmailr@one.develooper.com (HELO ran-out.mx.develooper.com) (64.81.84.115) by onion.perl.org (qpsmtpd/0.25) with SMTP; Thu, 20 Mar 2003 17:38:03 -0800
+Received: (qmail 11023 invoked by uid 225); 21 Mar 2003 01:38:00 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11014 invoked by uid 507); 21 Mar 2003 01:38:00 -0000
+Received: from gull.mail.pas.earthlink.net (HELO gull.mail.pas.earthlink.net) (207.217.120.84) by one.develooper.com (qpsmtpd/0.25) with SMTP; Thu, 20 Mar 2003 17:37:58 -0800
+Received: from sdn-ap-030njpennp0413.dialsprint.net ([209.199.129.159] helo=boxlocallinux.localdomain)	by gull.mail.pas.earthlink.net with esmtp (Exim 3.33 #1)	id 18wBTm-0001EG-00	for jobs@perl.org; Thu, 20 Mar 2003 17:37:54 -0800
+Message-ID: <3664989.1048210463279.JavaMail.boxhead@boxlocallinux.localdomain>
+Reply-To: "Paul Rowe" <prowe32001@yahoo.com>
+To: jobs@perl.org
+Mime-Version: 1.0
+Content-Type: multipart/alternative; 	boundary="----=_Part_369_8219626.1048210463267"
+X-Priority: 1
+X-Mailer: com.boxhead.framework.mail.JavaMailSenderEngine
+X-Mailer-Framework-Version: Boxhead Base Framework (com.boxhead.framework.*),  Version = 20030317 2230/Boxhead, Build #1479
+X-Mailer-Message-Id: 20030320203423229370
+X-Mailer-Source-Method2: com.boxhead.jobsearch.Resume.mail(Resume.java:233)
+Date: Thu, 20 Mar 2003 17:37:54 -0800
+X-SMTPD: qpsmtpd/0.25, http://develooper.com/code/qpsmtpd/
+X-Spam-Check-By: one.develooper.com
+X-Spam-Status: Yes, hits=7.8 required=7.0 tests=DEAR_SOMEBODY,FORGED_YAHOO_RCVD,FROM_ENDS_IN_NUMS,MORTGAGE_OBFU,RATWARE_HASH_2,RCVD_IN_MULTIHOP_DSBL,RCVD_IN_OSIRUSOFT_COM,RCVD_IN_UNCONFIRMED_DSBL,SPAM_PHRASE_01_02,SUPERLONG_LINE,X_OSIRU_DUL,X_OSIRU_DUL_FH,X_PRIORITY_HIGH version=2.44
+SPAM: -------------------- Start SpamAssassin results ----------------------
+SPAM: This mail is probably spam.  The original message has been altered
+SPAM: so you can recognise or block similar unwanted mail in future.
+SPAM: See http://spamassassin.org/tag/ for more details.
+SPAM: 
+SPAM: Content analysis details:   (7.80 hits, 7 required)
+SPAM: RATWARE_HASH_2     (1.1 points)  Bulk email software fingerprint (hash 2) found in headers
+SPAM: FROM_ENDS_IN_NUMS  (0.9 points)  From: ends in numbers
+SPAM: X_PRIORITY_HIGH    (0.4 points)  Sent with 'X-Priority' set to high
+SPAM: MORTGAGE_OBFU      (0.4 points)  BODY: Attempt at obfuscating the word "mortgage"
+SPAM: DEAR_SOMEBODY      (0.1 points)  BODY: Contains 'Dear Somebody'
+SPAM: SPAM_PHRASE_01_02  (0.5 points)  BODY: Spam phrases score is 01 to 02 (low)
+SPAM: [score: 1]
+SPAM: SUPERLONG_LINE     (0.0 points)  BODY: Contains a line >=199 characters long
+SPAM: FORGED_YAHOO_RCVD  (1.4 points)  'From' yahoo.com does not match 'Received' headers
+SPAM: RCVD_IN_MULTIHOP_DSBL (0.8 points)  RBL: Received via a relay in multihop.dsbl.org
+SPAM: [RBL check: found 84.120.217.207.multihop.dsbl.org]
+SPAM: RCVD_IN_OSIRUSOFT_COM (0.4 points)  RBL: Received via a relay in relays.osirusoft.com
+SPAM: [RBL check: found 159.129.199.209.relays.osirusoft.com., type: 127.0.0.3]
+SPAM: RCVD_IN_UNCONFIRMED_DSBL (0.8 points)  RBL: Received via a relay in unconfirmed.dsbl.org
+SPAM: [RBL check: found 84.120.217.207.unconfirmed.dsbl.org]
+SPAM: X_OSIRU_DUL        (0.6 points)  RBL: DNSBL: sender ip address in in a dialup block
+SPAM: X_OSIRU_DUL_FH     (0.4 points)  RBL: Received from first hop dialup listed in relays.osirusoft.com
+SPAM: [RBL check: found 159.129.199.209.relays.osirusoft.com., type: 127.0.0.3]
+SPAM: 
+SPAM: -------------------- End of SpamAssassin results ---------------------
+X-SMTPD: qpsmtpd/0.25, http://develooper.com/code/qpsmtpd/
+Subject: Java Development position seen on Yahoo.com
+Approved: news@nntp.perl.org
+From: prowe32001@yahoo.com (Paul Rowe)
+
+------=_Part_369_8219626.1048210463267
+Content-Type: text/plain
+Content-Transfer-Encoding: 7bit
+
+Dear Recruiting Manager:
+
+  I am a Java Developer/Architect that specializes in developing distributed e-commerce applications using Java and J2EE technologies.  I have experience in architecting and developing server side (EJB), client side (JSP/Swing), and standalone multithreaded applications.  I am also experienced in the tools that are needed to build and run these applications.
+
+  I have more than 10 years experience in the computer industry.  I worked in many different computing environments.  I graduated from the University of California near the top of my class (3.93 GPA).  My professional and academic experience contribute to the applications that I build today.  I am able to build applications quickly, accurately, and efficiently because of my prior experience.
+
+  Attached is my resume for your reference.  Samples of my work, including my resume, can be found at http://www.paulrowe.com.  An interview would give the opportunity to prove my strengths.
+
+Respectfully yours,
+
+Paul Rowe
+
+P.S.  I am considering permanent and contract positions in New York, New Jersey or Pennsylvania, but I am willing to relocate anywhere in the U.S. if needed.
+
+
+RESUME Follows (the MSWord version of my resume can be found at " http://www.paulrowe.com/resume.doc "): 
+
+TECHNICAL SKILLS
+Versed in OOP, Java (1.1 - 1.4), J2EE (Servlets, Taglibs/JSP, EJBs, JMS), JNI, JMX, AWT/Swing, C/C++, JDBC, SQL (Oracle/Sybase/MSSQL/MySQL/DB2), Windows (DOS, MSOffice, MSProject), Graphics (Pagemaker/Illustrator/Photoshop), UNIX (Solaris/Linux/AIX/Bourne Shell/Bash Shell), Weblogic (5.1 - 7.0), Jboss, Tomcat, XML (SAX/DOM), Ant, TCP/IP Protocols (Sockets/HTTP/FTP/POP), multi-threaded applications, JSSE, Web Services (WSDP, Axis, Apache SOAP), Jprobe, I18N/Localization, Struts and Log4j.
+
+Able to come up to speed quickly in any computing environment.
+
+URL(s)
+www.paulrowe.com, https://my.tivo.com/manage/TiVoController.wl, http://www.paulrowe.com/game.cgi 
+
+EXPERIENCE
+
+Bank of New York, New York, NY 10/2002 - 2/2003, Contract Assignment
+Java Developer
+
+Duties:
+* Build web applications to interface with DB2 Cobol securities trading database using Weblogic 7.0, Tomcat 4.1.12 and Struts 1.1.
+* Establish software architecture and foundation for this application.  Train and mentor other developers working on this application.
+* Performance tune application: tune sql, tune html and tune java for maximal performance.
+* Reverse engineer COBOL code to obtain business rules.
+* Help configure production Weblogic7 and Iplanet Solaris machines.
+
+Technologies used:
+Weblogic 7.0, Tomcat 4.1, JBuilder 7, Struts 1.1, Log 4j 1.2.7, Ant 1.5, JDK 1.4, Neon Shadowdirect JDBC, Castor and OQL, Javascript/HTML, DB2, CVS, JAXP, JSP 1.1, Servlet 2.3, ERWin, COBOL.
+
+TiVo, Inc., San Jose, CA 9/2000 - 8/2002 
+Java Developer/Architect/Team Lead
+
+Duties:
+* Establish java coding standards. Train/mentor existing IT staff in Java.
+* Coordinate the development of a struts-like base framework for all TiVo applications. This framework is built on the following technologies: Servlets, JSP Taglibs, JavaMail, JAXP, Swing, JMX, FTP, EJBs and I18N/Localization.  Parts of this framework are heavily dependent on sockets and multithreading.
+* Use Javacorporate's Expresso to establish office intranet. Configure DEV, QAS and PRD JVM/Weblogic Linux operating environments. Create deployment scripts. Interface with management to gain requirements for new application. Coordinate development and testing of application. Present application to management.
+* Coordinate re-development of TiVo's B2B infrastructure. As with the intranet project, configure the DEV, QAS and PRD operating environments on Windows 2000. Coordinate development, testing and maintenance of this application. Create plugins to convert variety of partner formats from XML to pipe-delimited text.
+* Coordinate the development of per sub-system modules for all sub-systems at TiVo. Create a module for each sub-system: module to interface with the TiVo Recorder, module to interface with the SAP R/3 system using VisualAge, module to interface with Tribune's Program Guide Data, module to interface with ASP web applications.
+* Coordinate and develop the customer self service application. This application allows customers to maintain their information and order new services for their TiVo unit. Configure the DEV/QAS/PRD operating environments. Coordinate maintenance, development and testing of the application. 
+* Create Swing application and database schema to help monitor usage of manage my account.  Optimize schema to perform well under heavy load situations.  
+* Coordinate the development of application to record programs via the web to TiVo Units. 
+* Create a migration path from Weblogic 5.1 environment to Weblogic 6.1
+* Interface with BEA tech support to correct WAR/EAR problems in Weblogic 6.1
+* Study secure web services.  Implement a web service using SSL and certificates for authentication (JSSE and BEA's Web Services implementation were used).  Investigated Apache Axis and SOAP as well as Sun's WSDP.
+* Create automated Cybersource reporting system that uses JSSE.
+* Setup/Standardize Linux/Solaris/Windows Weblogic5.1/6.1 DEV/QAS/PRD operating environments.  This setup included the creation of perl/bourne/FTP scripts, Ant and Kawa.
+* Create test suite that uses raw sockets to stress test web applications.  Created HTTP protocol specific classes because Sun's implementation lacked features such as Cookies, Keep-Alives, and chunking.  
+* Refactor and optimize all code on a regular basis.  Use Jprobe to eliminate leaks and bottlenecks.
+* Troubleshoot and optimize Sybase/MSSQL/Oracle queries and stored procedures.
+
+Technologies used:
+Java 1.2/1.3/1.4, IBM VisualAge adaptor for SAP, JAXP, Servlet 2.2, Tag libraries/JSP, Weblogic 5.1/6.0, WAR/EAR files, Perl/Bourne/FTP Shell Scripting, Swing, EJB, Web Services, JSSE, Solaris/Linux/Windows 2000, IIS, Ant, HTTP Protocol, Multithreaded applications, JDBC, SQL (Sybase 12, SQLServer 7, Oracle 8i), JProbe
+
+University of California, Santa Barbara, Santa Barbara, CA 8/1997 - 9/2000 
+Java Developer
+
+Duties:
+* Help develop web-based financial system for use by the billing department. This application is a distributed application that uses an EJB container, Netscape Enterprise Web Server (with Servlet Support), and Applets. My primary focus was the customer information facade and the invoicing facade.
+* Develop front end applets for various portions of the system. 
+* Develop AWT widgets to be used by the front end applets. This includes a text field that has special features such as right justification and centering that is needed for the application.
+* Experiment with Swing in Applet usage. At that time, determine that Swing was not ready for prime time.
+* Use JNI to develop an interface to the UCSB mainframe.
+* Take a process scheduling application called QueueService and make it more robust.  This involved correcting threading problems in the code, preventing polling, and using monitors for notification and process scheduling.
+* Develop EJB's for use by the applets in my facades. Develop and optimize SQL queries used within my EJB's.
+* Interface with the customers (the billing office) to get an idea of requirements and needs for my facades.
+* Start development of a generic application framework to be used by all java projects in this department.
+* Use Jprobe to eliminate memory leaks and performance bottlenecks
+
+Technologies used:
+EJB 1.0, Servlets 2.1, Applets (AWT). JDK 1.1.8, JNI. AIX, Windows NT, Netscape Enterprise Server, Java Web Server, Visual Cafe, JDBC and Sybase 11.9.2, JProbe
+
+Channel Data Systems, Santa Barbara, CA 1/1995 - 6/1997 
+Consultant/Technician
+
+Duties:
+* Perform programming jobs for staff and customers.  Applications created include: new build machine checklist in Visual Basic.  Exploding DOS Logo in C++.  C++ program to test printers and LPT ports.  Various windows batch files to run accounting reports at predefined intervals.  
+* Program and maintain MSAccess database.  Created database, forms and programs to track new and old equipment that was being built and repaired. 
+* Build and repair 80x86 machines (hardware and software). 
+* Perform network installations: Novell, Windows NT, cabling, connectors, coax/10-base-t. 
+* Printer repair: Okidata authorized, HP deskjet/laserjet experience. 
+* Perform software training: Pagemaker, Photoshop, general scanning techniques. 
+* Perform onsite repairs and network troubleshooting.
+
+Technologies used:
+DOS, Windows, Novell, IBM Hardware   
+
+Specialized, Inc., Carpinteria, CA 4/1989 - 11/1995 
+Computer Programmer/Supervisor
+
+Duties:
+* Coordinate and develop mortgage banking foreclosure software system using Silicon Office.
+* Coordinate and develop BBS Style interface system using Borland C++. 
+* Create C++ interface into Silicon Office so other programs can read/write to this program and not necessarily be Silicon Office.
+* Gain specifications and requirements from management for new foreclosure sub-systems. Attempt to automate as much as possible. 
+* Supervise programming department
+* Maintain existing 100-station Novell WAN. This includes hardware and software.
+* Travel to satellite offices to perform network installations. Coordinate installation and development of satellite office foreclosure software systems using Silicon Office.
+
+Technologies Used:
+Novell, DOS 3.3, Windows 3.0, Silicon Office   
+
+The Coupon Tabloid, Santa Barbara, CA 1/1988 - 1/1991 
+Graphic Designer
+
+Duties:
+* Typeset and paste up newspaper coupon ads using Aldus Pagemaker (now Adobe).
+* Use Macintosh Basic to automate as much as possible.
+
+Technologies used:
+Macintosh, Pagemaker, Macintosh Basic
+
+Basix Softworx, Santa Barbara, CA 1/1984 - 1/1988 
+Computer Programmer
+
+Duties:
+* Design/program disk drive "toolkit" software and graphic title screens using 6502 Assembly Code for the Commodore 64 Computer.
+* QA test disk copying software. Find bugs and report them back to the development team.
+* Analyze software copy protection schemes 
+
+Technologies used:
+6502 Assembly Language  
+
+EDUCATION
+
+University of California, Santa Barbara, Bachelor's Degree,  Computer Science 2000, GPA 3.93, Honors
+Santa Barbara City College, Vocational,  Electronics 1995 
+San Marcos High School, Santa Barbara, CA,  High School Diploma 1989 
+ 
+
+
+OTHER ACHIEVEMENTS
+
+* Built internet gaming system that runs out of my house. This is an extensible system that illustrates my J2EE skills. This system is online @ http://www.paulrowe.com/game.cgi. The architecture of this program is described @ http://www.paulrowe.com/java_samples.html#chess.  This system runs on Tomcat, Jboss, MySQL and Linux.
+
+* I wrote an NT screensaver that uses OpenGL and GLUT. This screensaver is a 3-d screensaver that similates orbits of planetary bodies. This program is described @ http://www.paulrowe.com/c_samples.html
+
+* My skills at website construction (HTML/Javascript) are illustrated @ http://www.paulrowe.com
+
+* Create JNI interface to WinRadio C++ driver. Wrote a series of Swing Applications to control the WinRadio. These applications use MySQL and JDBC for their persistence.  This program is further described at http://www.paulrowe.com/java_samples.html#winradioui.
+
+* Improve upon the stress testing application that I built at TiVo.  Rewrite it so it is more object oriented and scalable.  Use this application to crawl websites in a spider like fashion.  This code relies heavily on HTML parsing, sockets and multithreading.
+
+* Take the process scheduling application (QueueService) and rewrite it so it is more scalable, and even more robust.  Genericize this code so it can be used for other applications.  In addition to process scheduling, "Service" is now used for queued e-mail delivery and stress testing.
+
+
+
+
+
+------=_Part_369_8219626.1048210463267--
+

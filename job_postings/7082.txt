@@ -1,0 +1,91 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7082
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 11149 invoked from network); 8 Oct 2007 20:55:10 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 8 Oct 2007 20:55:10 -0000
+Received: (qmail 12173 invoked by uid 225); 8 Oct 2007 20:55:06 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 12007 invoked by alias); 8 Oct 2007 20:54:57 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 08 Oct 2007 13:51:15 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id D01722AFE6; Mon,  8 Oct 2007 13:50:05 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20071008205005.D01722AFE6@x3.develooper.com>
+Date: Mon,  8 Oct 2007 13:50:05 -0700 (PDT)
+Subject: OO Perl Developer AND Linux Administrator (telecommute), Anywhere in U.S. (100% telecommute)
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/6945
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October  8, 2007
+
+Job title:
+OO Perl Developer AND Linux Administrator
+
+Company name: eQuest Solutions
+
+Location: Anywhere in U.S. (100% telecommute)
+
+Pay rate: $40-50/hr 1099/Corp to Corp
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 6+ months
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+A new start up is looking for an OO Perl contractor that can also support
+some Linux servers. The company is in the business of credit card
+transaction processing, is fully funded and has a development staff of 5-6.
+The architecture and data model designs are complete and the initial OO
+Perl Development begun. The OO Perl developer will be responsible for the
+new development of a high volume credit card processing system from the
+ground up expected to handle 10K transactions/day. The OO Perl is currently
+developed and deployed on Debian Linux with MySQL (InnoDB) on the backend.
+The position also involves 24/7 Operations support of Linux servers. 
+The position will approximately consist of 75% Perl Development and 25%
+Linux Administration
+This position is almost 100% telecommuting as once every 3-4 months the
+company will pay all expenses for meetings in Las Vegas.
+
+
+Required skills:
+MUST have 2+ yrs of OO Perl development on Linux for high volume
+applications and/or systems
+MUST have solid database skills (preferable MySQL) including the ability to
+design relational databases, interface OO Perl code with databases and SQL
+optimization of queries. Oracle is acceptable.
+MUST have some Linux System Administration experience
+Since this is a 100% telecommuting position, good over the phone
+communication skills mandatory.
+Plus:
+MySQL InnoDB mode OR MySQL (any mode) AND either Oracle, Postgres, or
+Informix
+Familiar with using ORM (Object Relational Mapping)
+Experinence using Subversion for Configuration Management
+Experience with Rose-DB-Object 
+Any DBA skills is a plus but not necessary
+
+
+Contact information at:
+http://jobs.perl.org/job/6945#contact
+
+

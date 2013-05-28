@@ -1,0 +1,109 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9666
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 10091 invoked from network); 2 Dec 2009 23:16:31 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 2 Dec 2009 23:16:31 -0000
+Received: (qmail 17895 invoked by uid 225); 2 Dec 2009 23:16:31 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 17891 invoked by alias); 2 Dec 2009 23:16:31 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 02 Dec 2009 15:16:29 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 7FFE22AFE1; Wed,  2 Dec 2009 15:16:26 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20091202231626.7FFE22AFE1@x3.develooper.com>
+Date: Wed,  2 Dec 2009 15:16:26 -0800 (PST)
+Subject: Application Operations Engineer (onsite), United States, CA, Palo Alto
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/11418
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December  2, 2009
+
+Job title: Application Operations Engineer
+
+Company name: Facebook
+
+Location: United States, CA, Palo Alto
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Facebook has an immediate opening for a seasoned engineer to help plan,
+facilitate, and manage Facebook projects and life-cycle service changes.
+This position is full-time and located in our Palo Alto office.
+
+Responsibilities
+
+    * Transition new Facebook engineering projects from a development
+environment into an operational environment, capacity planning and
+participation in the design process
+    * Align engineering development requirements to the capabilities of the
+Technical Operation’s environment
+    * Establish the administrative protocols that Operations and
+Engineering use throughout the development and life-cycle of a service
+    * Ease the customer application into a non-stop service and introduces
+a service to the Facebook Technical Operations framework
+    * Become proficient in understanding how each software component,
+systems design, and configuration is linked together to form an end-to-end
+solution, and be the primary operations technical point of contact for an
+assigned engineering project
+    * Provide ‘Service Level' technical leadership
+    * Be heavily involved in projects that touch critical customer facing
+operational environments
+    * Provide technical solution guidance to Facebook engineering
+organizations
+
+Required skills:
+    * BS or MS degree in Computer Science, Engineering, or related
+technical discipline
+    * Minimum of 3-5 years administering Linux systems in a production
+environment. Experience with multiple Linux distributions
+    * Proven ability to quickly learn and implement unfamiliar technologies
+
+    * Configuration and maintenance of common applications such as Apache,
+memcached, Squid, MySQL, NFS, DHCP, NTP, SSH, DNS, and SNMP
+    * Strong knowledge of Linux kernel configuration, performance
+monitoring, and tuning
+    * Perl and bash scripting
+    * Experience working with load balancing technologies and large-scale
+web server farms
+    * Prefer at least 2 years of applied project management experience
+within technology fields
+    * A strong background in internet service deployment, provisioning, IP
+networking, service infrastructure, or software deployments
+    * Excellent organization skills, project tracking abilities,
+communications skills
+    * Detail oriented with excellent written and verbal communication
+skills
+    * Strong business acumen, excellent analytical and creative problem
+solving skills
+    * Demonstrated advanced understanding of business processes and risk
+management
+
+URL for more information:
+http://www.facebook.com/careers/department.php?dept=tech-ops#/careers/depar
+tment.php?dept=tech-ops&req=151885447027
+
+Contact information at:
+http://jobs.perl.org/job/11418#contact
+
+

@@ -1,0 +1,128 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9204
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 16251 invoked from network); 12 May 2009 17:10:14 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 12 May 2009 17:10:14 -0000
+Received: (qmail 21584 invoked by uid 225); 12 May 2009 17:10:14 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 21578 invoked by alias); 12 May 2009 17:10:14 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 12 May 2009 10:10:09 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id E5CA02AFE0; Tue, 12 May 2009 10:10:05 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20090512171005.E5CA02AFE0@x3.develooper.com>
+Date: Tue, 12 May 2009 10:10:05 -0700 (PDT)
+Subject: OO Perl Software Engineer (onsite), United States, CA, San Francisco
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/10592
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May  8, 2009
+
+Job title: OO Perl Software Engineer
+
+Company name: Kineticom, Inc.
+
+Internal ID: OOPerl
+
+Location: United States, CA, San Francisco
+
+Pay rate: Flexible
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 6 months+
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+This position is for a Senior Software Engineer on the Data Delivery team
+within the Enterprise Data Service organization. This team is specifically
+responsible for providing IT development for production-quality data
+acquisition, cleansing and distribution with technologies such as Sybase
+ASE, Perl and XML. 
+
+• Working closely with Business Analysts and Platform Leads, Analyze,
+Design, implement and test reusable Perl / SQL components on the production
+platform 
+• Implement Perl feeds to analyze, consume, cleanse and distribute market
+vendor data 
+• Collaborating with EDS Architecture group on design of new applications
+and components. 
+• Building strong relationships with the business through delivery,
+communication and domain knowledge. 
+• Working closely with the Support team to ensure code, documentation,
+monitoring, etc. are fit for a production environment. 
+• Providing 3rd Level support for existing production code 
+
+
+Required skills:
+• Proven track record of Perl development 
+• Demonstrated interest in finance, business or accounting; preferably,
+with investment management/securities industry experience. 
+• Excellent analytical and problem-solving skills coupled with attention to
+detail and thoroughness. 
+• Excellent communication and presentation skills with the ability to
+interact effectively with both the technical team and business users. 
+• Demonstrated ability to be a self-starter, assume greater
+responsibilities over time and work in a team-environment. 
+• Ability to work efficiently in a fast-paced environment, including
+multiple projects at any one time. 
+• Fast learner with a strong attention to detail. 
+
+Required technical skills include: 
+
+• 6 + years software development experience preferably in data centric
+environment 
+• Strong OO Perl 
+o Can write a perl distribution 
+o Has written many modules 
+o Good knowledge of CPAN 
+o Good knowledge of Test-Driven development 
+• Strong Database development skills – Sybase ASE and Oracle 
+o Has written complex stored procs and triggers 
+• Strong Database design skills - (indexes, normalization, stored
+procedures, views, entity-relationships, etc…) 
+• Strong Unix skills - at least 4 years day-to-day experience of Unix
+(Solaris, Linux, BSD, etc…)
+
+
+Desired skills:
+Candidates with the following skills will have a distinct advantage: 
+
+• Experience of mod_perl 
+• Experience with XML 
+• Experience of Powerbuilder 
+• Experience with Java/J2EE 
+• Experience working with Informatica or other ETL Tools 
+• Experience working with Data Modeling tools (e.g. E/R Studio, ERwin,
+etc.) 
+• Experience working with MQ Series 
+• Experience working with Source Code Managements systems such as
+Subversion 
+• Experience working with Autosys, Control-M or other scheduling tools 
+
+
+URL for more information: http://www.kineticom.com/
+
+Contact information at:
+http://jobs.perl.org/job/10592#contact
+
+

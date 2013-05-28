@@ -1,0 +1,192 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10481
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 16327 invoked from network); 27 Aug 2010 10:07:23 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 27 Aug 2010 10:07:23 -0000
+Received: (qmail 17725 invoked by uid 225); 27 Aug 2010 10:07:23 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 17721 invoked by alias); 27 Aug 2010 10:07:22 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 27 Aug 2010 03:07:20 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 3C50E2AFE0; Fri, 27 Aug 2010 03:07:17 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20100827100717.3C50E2AFE0@x3.develooper.com>
+Date: Fri, 27 Aug 2010 03:07:17 -0700 (PDT)
+X-Virus-Checked: Checked
+Subject: EPGY Senior Release/Performance Engineer (onsite), United States, California, Stanford
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/12798
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 27, 2010
+
+Job title: EPGY Senior Release/Performance Engineer
+
+Company name:
+Education Program for Gifted Youth - Stanford University
+
+Internal ID: 39471
+
+Location: United States, California, Stanford
+
+Pay rate: DOE
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The Education Program for Gifted Youth (EPGY) at Stanford University
+provides gifted students world wide with an opportunity to take advanced
+courses both online and through residential summer programs. Central to
+EPGY’s mission since its inception has been working with schools to ensure
+that their most advanced students are adequately challenged. 
+
+We are an energetic group of people who are committed to improving the
+quality of education and making a difference in the lives of students. 
+
+Information about EPGY and the EPGY Online High School can be found at
+http://epgy.stanford.edu and http://epgy.stanford.edu/ohs 
+
+Responsibilities: 
+
+The EPGY Senior Release Engineer will be responsible for the design and
+building of the application development and deployment infrastructure at
+EPGY associated with the effective operation of EPGY’s online courses. This
+position works cross-functionally to manage complex code builds and
+supervise day-to-day code integration activities for a team of developers
+spanning multiple courses and also provides online monitoring of the
+production system to give continuous feedback for future system performance
+improvements and immediate troubleshooting. This position will lead
+functional teams of programmers on larger projects as needed. 
+
+Responsibilities include 
+• maintaining the codebase within an established source code control
+system, 
+• designing and developing build scripts to deploy systems across
+development, QA, staging, and production environments, 
+• identifying appropriate unit and integration tests with the respective
+developers, 
+• automating testing wherever possible, 
+• working closely with the quality assurance team to determine readiness of
+the final release candidate, 
+• ensuring that schedules are met, 
+• writing server-side programs to support the EPGY course environment, 
+• writing deployment routines for EPGY’s web and application servers, 
+• deploying and maintaining content servers at remote locations (e.g.
+schools), 
+• writing programs to manage data flow between applications and databases, 
+
+• writing performance monitoring tools for all of EPGY’s servers, 
+• analyzing operational efficiency and identifying methods for maximizing
+performance, 
+• communicating orally and in writing analyses of design issues,
+alternatives, conclusions, and decisions about programming projects, 
+• developing new approaches to projects and implementing new technologies, 
+
+• documenting procedures and practices concerning server¬side programming. 
+
+
+Additionally, this position 
+• supervises EPGY’s database administrator and possibly other staff who
+support EPGY’s web and application servers, 
+• leads EPGY’s response team in the event of emergency in order to maintain
+EPGY’s goals for server availability, and 
+• participates in 24/7 on call rotation supporting the EPGY course
+environment applications and the content/proxy servers as a single point of
+contact with the ability to address problems for a remote server
+independently during an off-hours shift. 
+
+This position may also be needed to travel out of state on occasion to
+visit large school districts that are running EPGY courses for onsite
+deployment and/or troubleshooting. 
+
+Qualifications: 
+
+• a proven track record of working on complex, web-based, large-scale
+programming projects, 
+• a solid understanding of the software development and build processes,
+release engineering, and configuration management, 
+• a thorough command of Linux, 
+• experience with SVN or another source code control system 
+• a strong working knowledge of Perl (or Python or a similar scripting
+language), 
+• significant experience with Oracle or another relational database system
+including knowledge of SQL, and 
+• sufficient understanding of computer networks to monitor and analyze
+networking for EPGY's application and make improvement proposals to the
+system team. 
+
+Candidates must have 
+• demonstrated strong oral and written communication skills with an ability
+to understand and maintain technical documents; 
+• ability to work effectively with individuals and groups of diverse ethnic
+and cultural backgrounds; 
+• ability to set priorities; flexibility and ability to handle multiple
+assignments and work with minimal supervision under tight deadlines and in
+pressure situations. 
+
+Candidates must have a bachelor’s degree or equivalent experience in
+mathematics, computer science, engineering, or a similar field of study. A
+minimum of three years of relevant experience is required and more is
+desirable. 
+
+Please click on the following link and enter "39471" in the Keyword Search
+field at the bottom of the screen. Please review the job posting and apply
+on-line: 
+http://jobs.stanford.edu/find_a_job.html 
+
+
+Required skills:
+Qualifications: 
+
+• a proven track record of working on complex, web-based, large-scale
+programming projects, 
+• a solid understanding of the software development and build processes,
+release engineering, and configuration management, 
+• a thorough command of Linux, 
+• experience with SVN or another source code control system 
+• a strong working knowledge of Perl (or Python or a similar scripting
+language), 
+• significant experience with Oracle or another relational database system
+including knowledge of SQL, and 
+• sufficient understanding of computer networks to monitor and analyze
+networking for EPGY's application and make improvement proposals to the
+system team. 
+
+Candidates must have 
+• demonstrated strong oral and written communication skills with an ability
+to understand and maintain technical documents; 
+• ability to work effectively with individuals and groups of diverse ethnic
+and cultural backgrounds; 
+• ability to set priorities; flexibility and ability to handle multiple
+assignments and work with minimal supervision under tight deadlines and in
+pressure situations. 
+
+Candidates must have a bachelor’s degree or equivalent experience in
+mathematics, computer science, engineering, or a similar field of study. A
+minimum of three years of relevant experience is required and more is
+desirable. 
+
+
+URL for more information: http://jobs.stanford.edu/find_a_job.html
+
+Contact information at:
+http://jobs.perl.org/job/12798#contact
+
+

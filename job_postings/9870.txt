@@ -1,0 +1,77 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9870
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 27300 invoked from network); 12 Feb 2010 16:46:23 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 12 Feb 2010 16:46:23 -0000
+Received: (qmail 32255 invoked by uid 225); 12 Feb 2010 16:46:22 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 32149 invoked by alias); 12 Feb 2010 16:46:22 -0000
+X-Spam-Status: No, hits=-0.0 required=8.0
+	tests=SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 12 Feb 2010 08:46:08 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 1F9242AFE6; Fri, 12 Feb 2010 08:45:57 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20100212164557.1F9242AFE6@x3.develooper.com>
+Date: Fri, 12 Feb 2010 08:45:57 -0800 (PST)
+Subject: Perl Developer to create CPAN API (telecommute), United States, NY, New York
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/11768
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 12, 2010
+
+Job title: Perl Developer to create CPAN API
+
+Company name: UWT
+
+Location: United States, NY, New York
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: < 1 week
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+We are looking for a developer to write an API in Perl to a well documented
+Digital Asset Management system.  The system should be built using Moose,
+LWP, and XML::Simple (or some other XML generation module).  The API being
+integrated with uses XML requests and responses transported over HTTPS.  It
+however does not use an existing standard such as SOAP, or XML-RPC.  This
+API should be built as a CPAN module with the goal to eventually release it
+to CPAN (under your name of course).
+
+Required skills:
+- should have experience creating CPAN modules
+- should be well versed with LWP
+- should be well versed with generating XML in Perl
+- should be well versed with Moose
+- should be well versed with DBIx::Class
+- should be well versed with a test suite, and with good testing practices
+
+Desired skills:
+- should have time to start work on this immediately.  I anticipate this is
+3-4 days of work for an experienced developer.
+- should be able to demonstrate experience with all listed Perl Modules via
+code samples.
+
+Contact information at:
+http://jobs.perl.org/job/11768#contact
+
+

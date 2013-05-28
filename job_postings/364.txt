@@ -1,0 +1,85 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:364
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 53758 invoked by uid 1016); 9 Mar 2002 01:15:16 -0000
+Date: 9 Mar 2002 01:15:16 -0000
+Message-ID: <20020309011516.53757.qmail@onion.perl.org>
+To: jobs@perl.org
+Subject: object-oriented Perl / DB / mod_perl / HTML::Mason ERP app developer (part onsite), United States, MA, Quincy
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/260
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March  8, 2002
+
+Job title:
+object-oriented Perl / DB / mod_perl / HTML::Mason ERP app developer
+
+Company name: Eastern Nazarene College
+
+Internal ID: ITS-PERL1
+
+Location: United States, MA, Quincy
+
+Pay rate: negotiable
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 4 - 6 months, permanent starti
+
+Hours: Flexible
+
+Onsite: some
+
+Description:
+We are developing an ERP system, initially targetted at the needs of small
+to medium size colleges and universities.  Our initial focus is automation
+of marketing and admissions functions.
+
+Our system has a Perl object oriented backend given persistence via Tangram
+/ DBI, with a mod_perl / HTML::Mason front end.
+
+We are seeking to increase our development throughput by adding to our team
+a capable contractor who has real-world experience building object oriented
+systems with these (or similar) tools.	We will seek to permanently fill
+this positition by July.
+
+Required skills:
+Needed:  a software developer to participate in the team-based
+development of web-accessed object-oriented software systems
+
+   * can communicate effectively (with both peers and "customers")
+   * can work collaboratively
+   * is effective at writing object-oriented software with Perl
+   * has experience with database driven web apps (can handle HTML, wee bit
+o'SQL, etc.)
+   * has drive... wants to dig in and make things happen (without prodding
+or constant oversight from manager)
+
+
+
+  
+
+Desired skills:
+   * comfortable with UNIX-like operating systems and related development
+tools (CVS, emacs, etc)
+   * experience with Extreme Programming or other agile software
+development methodology
+   * experience with HTML::Mason or similar web templating system
+(preferably Perl-based)
+
+Contact information:
+owensc@enc.edu
+617-745-3725
+
+

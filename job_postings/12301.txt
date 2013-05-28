@@ -1,0 +1,89 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12301
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 30017 invoked from network); 4 Apr 2012 22:58:39 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 4 Apr 2012 22:58:39 -0000
+Received: (qmail 5807 invoked by uid 225); 4 Apr 2012 22:58:39 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 5803 invoked by alias); 4 Apr 2012 22:58:38 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 04 Apr 2012 15:58:36 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id C26602AFE4; Wed,  4 Apr 2012 15:58:32 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 4 Apr 2012 15:58:32 -0700
+Message-ID: <20120404225832.C26602AFE4@x3.develooper.com>
+Subject: Analyst Programmer (onsite), RTP, NC
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15790
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April  4, 2012
+
+Job title: Analyst Programmer
+
+Company name: GlaxoSmithKline
+
+Location: RTP, NC
+
+Pay rate: $47/hr
+
+Terms of employment: Hourly employee
+
+Length of employment: 1 yr. plus
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Analyst Programmer – Perl/Web (2-5 years): 
+Major pharmaceutical company is seeking a professional and enthusiastic
+Perl, and Oracle developer for a long term contract position. 
+
+Responsibilities: 
+• Work cooperatively with current development team on software and database
+to support work of clinical microbiology group. 
+• Develop and maintain oracle database and web frontend for use by
+researchers to study HIV, HCV, Influenza, etc … 
+• Collaborate with scientists to develop scripted tools for analysis 
+• Participate in the basic requirements collection, design review, coding,
+testing, troubleshooting and support for custom developed software
+solutions 
+• Format, QC, and loading data from clinical drug trials into databases
+
+Required skills:
+• Applicants must have a scientific degree (Computer Science, Software
+Engineering, Biology, Computational Biology, etc.) or comparable training
+with at least 2-5 years of work experience. 
+• Previous work experience in biological research is preferred 
+• Experience with ORM and Web Frameworks in Perl (Moose, DBIx::Class,
+Catalyst, Dancer), also open to possibility of using Python for development
+
+• Experience developing and optimizing schemas for Oracle 
+• Experience developing on Linux systems 
+• Ability to build web applications based on the provided design documents 
+
+• Good communication skills, both written and verbal 
+• Ability to work independently, be detail-oriented, and have excellent
+analytical skills
+
+Desired skills:
+• Experience using BioPerl, BioPython, or BioJava programming 
+• Experience with SAS programming
+
+Contact information at:
+http://jobs.perl.org/job/15790#contact

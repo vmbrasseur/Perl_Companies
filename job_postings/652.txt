@@ -1,0 +1,149 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:652
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 39476 invoked by uid 1016); 22 Nov 2002 17:40:13 -0000
+Date: 22 Nov 2002 17:40:13 -0000
+Message-ID: <20021122174013.39475.qmail@onion.perl.org>
+To: jobs@perl.org
+Subject: Content Management Production Engineer (onsite), Switzerland, Geneva
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/530
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 22, 2002
+
+Job title: Content Management Production Engineer
+
+Company name: World Health Organization
+
+Internal ID: Information Retrieval Query IRQ/3
+
+Location: Switzerland, Geneva
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The aim of the Department of Health Information Management and
+Dissemination (IMD) is to share health information that guides health
+policy and practice in countries and internationally.  Working with all
+technical departments in HQ, as well as with regional offices, the IMD Web
+Team strives to identify the health information needs of WHO’s main target
+audiences and to help deliver accurate information in timely and
+appropriate ways.  
+
+The WHO Web Site is the first point of entry for many people who are
+looking for information about or from the WHO. Therefore, it is crucial
+that the WHO Web Site reflect the high-quality image we want to portray to
+the world. The development and maintenance of such a web site requires a
+wide range of needed skills.
+
+In the context of operational support for existing web software and content
+management procedures, The Web Team in IMD has identified a need for a
+position to provide development and maintenance for existing Perl-based
+software as well as the need for creative troubleshooting and problem
+solving for the operational aspects of the Web Team and its application
+development as well as the proper functioning of the WHO Web Site.
+
+This role will work closely with the software development group within the
+Web Team by helping maintain the central Mason templates and other backend
+systems.
+
+The Production Engineer will report to the manager of the Web Team and will
+collaborate with other staff in IMD and will work closely with staff in
+Information Technology and Telecommunications (ITT) such as the Security
+and Web Architecture (SWA) team as well as Management Information System
+(MIS).	
+
+The responsibilities of this staff member will fall into the following
+areas:
+
+1. Play a key role within the Web Team to establish APIs and any other
+standards required for Web applications that have been developed inside the
+Web Team or by others outside.
+
+2. Be responsible for identifying and carrying out a wide range of the Web
+programming tasks required by the Web Team.  These tasks will include
+developing blocks of syndicated data and a standard query mechanism so that
+these may be included on internal or external Web sites. They will also
+include the development of a flexible, dynamic navigational system for the
+WHO Web site, and developing and supporting logging analysis for Web logs,
+including hits, error and search logs, as required.
+
+3. Actively contribute to the direction of the Web Team development.  This
+could include, for instance, proposing important programming tasks or
+identifying urgencies that the team needs to address. The Production
+Engineer should also advise on syndication best practices and propose
+appropriate technologies and solutions for delivery of the project. The
+Production Engineer will help develop WHO policy on such practices. This
+includes liaison work with other IMD teams in the areas of syndication and
+dissemination. 
+
+4. The Production Engineer will participate in, plan agenda and maintain
+mailing lists for the WWG, a cross cluster project that sets web policy for
+WHO.
+
+5. The Production Engineer will help foster relations across departments by
+consulting to technical focal points in need of development advice and
+expertise.
+
+6. With the Web Team, develop appropriate meta-data structures and data
+models for the site.
+
+7. Contribute, as necessary, to efforts to document Web Team applications,
+the technologies it uses, and the systems and code developed for it. This
+includes evaluating and implementing new technologies as they become
+available.
+ 
+8. Collaborate closely with the Senior Software Developer and other team
+members to provide the project deliverables within an agreed-upon
+timeframe. This includes consultation with development efforts within IMD,
+such as the IPC project.
+
+
+Required skills:
+The Production Engineer requires:
+
+* scripting language (Perl and HTML::Mason a bonus);
+* Experience with Bricolage a plus
+* familiar with XML, XSLT, CSS and SQL;
+* HTML, DHTML, JavaScript a must
+* database experience, preferably PostgreSQL and/or MS SQL 2000 
+* familiar with various Information Science theories; 
+* comfortable programming under Linux and Windows NT; 
+* knowledgeable in data modelling and data architecture techniques.
+
+
+Desired skills:
+The successful applicant will exhibit the following characteristics:
+
+* eagerness to learn new technologies;
+* good communicative skills, fluency in English;
+* an interest in exposing himself or herself to and gaining experience with
+the technology and processes of web publication, as well as the health
+technical content produced by WHO.
+
+
+Contact information:
+Email your resume to
+
+Christina Kwan - kwan@who.int
+
+Subject: Information Retrieval Query IRQ/3
+
+This must be exact subject line or they'll get thrown out!
+
+

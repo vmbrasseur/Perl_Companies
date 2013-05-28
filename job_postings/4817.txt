@@ -1,0 +1,71 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4817
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 12457 invoked from network); 19 Aug 2006 14:08:36 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 19 Aug 2006 14:08:36 -0000
+Received: (qmail 13358 invoked by uid 225); 19 Aug 2006 14:08:36 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 13353 invoked by alias); 19 Aug 2006 14:08:35 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 19 Aug 2006 07:08:33 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id EAE4A2AFE3; Sat, 19 Aug 2006 07:08:27 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060819140827.EAE4A2AFE3@x3.develooper.com>
+Date: Sat, 19 Aug 2006 07:08:27 -0700 (PDT)
+Subject: Server daemon project (telecommute), United Kingdom, London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4538
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 19, 2006
+
+Job title: Server daemon project
+
+Company name: Assanka
+
+Location: United Kingdom, London
+
+Pay rate: Bids accepted
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: 1 week or less
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+I have an outline for a server daemon that I need coded professionally in
+perl. Having no advanced perl skills in house I'm looking for someone to
+take this on and produce a robust server for us.  The server will accept
+HTTP connections in a specific known format, and send the same data to all
+connected clients, as it becomes available from a special 'event' client. 
+So the process is reading from one client and writing to multiple clients
+(possibly thousands).  Rough pseudocode available.  It's expected that the
+solution will implement multiplexing, but I'm open to suggestions.  Ideally
+the solution would be a single script (excluding standard module
+dependencies)
+
+Required skills: Perl network programming.
+
+Contact information at:
+http://jobs.perl.org/job/4538#contact
+
+

@@ -1,0 +1,188 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11791
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28252 invoked from network); 25 Oct 2011 16:28:00 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 25 Oct 2011 16:28:00 -0000
+Received: (qmail 21880 invoked by uid 225); 25 Oct 2011 16:28:00 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 21874 invoked by alias); 25 Oct 2011 16:27:59 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 25 Oct 2011 09:27:57 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id B49422AFDE; Tue, 25 Oct 2011 09:27:53 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Tue, 25 Oct 2011 09:27:53 -0700
+Message-ID: <20111025162753.B49422AFDE@x3.develooper.com>
+X-Virus-Checked: Checked
+Subject: Sr. Perl Programmer (onsite), NYC
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15014
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 25, 2011
+
+Job title: Sr. Perl Programmer
+
+Company name: Financial Services Company
+
+Location: NYC
+
+Pay rate: 850/day
+
+Terms of employment: Hourly employee
+
+Length of employment: 1 year
+
+Hours: Part time
+
+Onsite: yes
+
+Description:
+Our Client is seeking a Perl Programmer. 
+ 
+Location: New York, NY 
+Position: Contract 
+ 
+The Company
+
+Our Client, the global business and financial information and news leader,
+gives influential decision makers a critical edge by connecting them to a
+dynamic network of information, people and ideas. The company's strength
+delivering data, news and analytics through innovative technology, quickly
+and accurately - is at the core of the Professional service, which provides
+real time financial information to more than 300,000 subscribers globally. 
+Enterprise solutions build on the company's core strength, leveraging
+technology to allow customers to access, integrate, distribute and manage
+data and information across organizations more efficiently and effectively.
+Through Law, Government and New Energy Finance, the company provides data,
+news and analytics to decision makers in industries beyond finance. News,
+delivered through television, radio, mobile, the Internet and two
+magazines, BusinessWeek and Markets, covers the world with more than 2,300
+news and multimedia professionals at 146 bureaus in 72 countries.
+Headquartered in New York, employs more than 13,000 people in 185 locations
+around the world.
+
+The Role
+Our Client and R&D Network Design & Information Security (NDIS) group is
+responsible for the design, architecture, development and security of
+internal and client-facing global networks, security, and cloud
+infrastructures. The Core Network WAN Engineering team is the part of the
+NDIS Core Networks group that is focused on the architecture, development
+and escalated support of the global WAN infrastructure.
+
+Our Client private WAN is a sophisticated carrier-grade multi-vendor
+network that leverages technologies such as MPLS, MPBGP, LDP, RSVP, MVPN,
+etc. The private WAN currently connects 14,000+ customer sites via 100+
+global POP sites using 20,000+ CE network devices and 800+ core network
+devices.
+The NDIS Core Networks WAN group is seeking a dynamic, talented and
+experienced Perl programming consultant to work on network monitoring and
+reporting projects. The successful candidate must possess Perl programming
+knowledge and experience to develop, enhance and maintain the utilities
+written in Perl to monitor our key networking components.
+
+Qualifications:
+- Education: BS/MS (CS/EE preferred)
+- 3+ years Perl development experience (including object oriented Perl,
+module design, Perl XS, and DBI). Experience with Python or other
+high-level languages is a plus
+- Experience with data and information mining
+- Strong UNIX knowledge and experience
+- Knowledge of routing and switching concepts and technology is a plus
+- Knowledge of IOS and JunOS is a plus
+- Strong sense of organization and attention to detail
+- Self-starter, independent worker and enthusiastic team player
+- Excellent multi-tasking and time management skills
+- Responsible, reliable and flexible
+- Professional and ethical conduct
+
+Essential Duties and Responsibilities:
+- Design, develop and manage utilities to manage, provision and monitor
+network elements in a highly sophisticated network
+- Manage and prioritize a queue of enhancement requests and bug fixes for
+the programming utilities
+- Work closely with network operations and other programming teams to
+understand the requirements, analyze and leverage the existing code
+
+Required skills:
+Our Client is seeking a Perl Programmer. 
+ 
+Location: New York, NY 
+Position: Contract 
+ 
+The Company
+
+Our Client, the global business and financial information and news leader,
+gives influential decision makers a critical edge by connecting them to a
+dynamic network of information, people and ideas. The company's strength
+delivering data, news and analytics through innovative technology, quickly
+and accurately - is at the core of the Professional service, which provides
+real time financial information to more than 300,000 subscribers globally. 
+Enterprise solutions build on the company's core strength, leveraging
+technology to allow customers to access, integrate, distribute and manage
+data and information across organizations more efficiently and effectively.
+Through Law, Government and New Energy Finance, the company provides data,
+news and analytics to decision makers in industries beyond finance. News,
+delivered through television, radio, mobile, the Internet and two
+magazines, BusinessWeek and Markets, covers the world with more than 2,300
+news and multimedia professionals at 146 bureaus in 72 countries.
+Headquartered in New York, employs more than 13,000 people in 185 locations
+around the world.
+
+The Role
+Our Client and R&D Network Design & Information Security (NDIS) group is
+responsible for the design, architecture, development and security of
+internal and client-facing global networks, security, and cloud
+infrastructures. The Core Network WAN Engineering team is the part of the
+NDIS Core Networks group that is focused on the architecture, development
+and escalated support of the global WAN infrastructure.
+
+Our Client private WAN is a sophisticated carrier-grade multi-vendor
+network that leverages technologies such as MPLS, MPBGP, LDP, RSVP, MVPN,
+etc. The private WAN currently connects 14,000+ customer sites via 100+
+global POP sites using 20,000+ CE network devices and 800+ core network
+devices.
+The NDIS Core Networks WAN group is seeking a dynamic, talented and
+experienced Perl programming consultant to work on network monitoring and
+reporting projects. The successful candidate must possess Perl programming
+knowledge and experience to develop, enhance and maintain the utilities
+written in Perl to monitor our key networking components.
+
+Qualifications:
+- Education: BS/MS (CS/EE preferred)
+- 3+ years Perl development experience (including object oriented Perl,
+module design, Perl XS, and DBI). Experience with Python or other
+high-level languages is a plus
+- Experience with data and information mining
+- Strong UNIX knowledge and experience
+- Knowledge of routing and switching concepts and technology is a plus
+- Knowledge of IOS and JunOS is a plus
+- Strong sense of organization and attention to detail
+- Self-starter, independent worker and enthusiastic team player
+- Excellent multi-tasking and time management skills
+- Responsible, reliable and flexible
+- Professional and ethical conduct
+
+Essential Duties and Responsibilities:
+- Design, develop and manage utilities to manage, provision and monitor
+network elements in a highly sophisticated network
+- Manage and prioritize a queue of enhancement requests and bug fixes for
+the programming utilities
+- Work closely with network operations and other programming teams to
+understand the requirements, analyze and leverage the existing code
+
+Contact information at:
+http://jobs.perl.org/job/15014#contact

@@ -1,0 +1,97 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8248
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 19168 invoked from network); 5 Jun 2008 01:27:21 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 5 Jun 2008 01:27:21 -0000
+Received: (qmail 21627 invoked by uid 225); 5 Jun 2008 01:27:21 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 21621 invoked by alias); 5 Jun 2008 01:27:20 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 04 Jun 2008 18:27:18 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id BF3112AFF3; Wed,  4 Jun 2008 18:27:14 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080605012714.BF3112AFF3@x3.develooper.com>
+Date: Wed,  4 Jun 2008 18:27:14 -0700 (PDT)
+Subject: Web Developers for Financial News site, United States, NY, New York
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8880
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June  4, 2008
+
+Job title: Web Developers for Financial News site
+
+Company name: Wall Street Source
+
+Location: United States, NY, New York
+
+Pay rate: DOE
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Description:
+Seeking to fill multiple Perl developer positions:
+
+Senior, non-managerial with 5+ years experience
+Midlevel with 3-4 years experience   
+Junior with 1-2 years or related Bachelors degree
+
+You will be directly involved in the design, development, roll-out and
+support of a web based, database driven application, that handles real time
+news,  research, creation and publishing.  Ongoing responsibilities include
+end-user requirements gathering, database design, API design and
+development, working within  a small development team as well as direct end
+user support. 
+Typical tasks include:
+
+-Application design (authoring, publishing and distribution, workflow, user
+and workgroup administration, CRM system)
+-Database development, optimization and replication 
+-Web development (PERL, CGI, DBI, Apache, XML, DHTML, Javascript)
+-Implement applications in support of business initiatives, and ticket tool
+systems
+-Evaluate and implement, test and troubleshoot products for programmers and
+QA
+-Develop new database reorganization procedures to reduce data access time
+
+
+Required skills:
+Languages: Perl
+UI/Frontend: HTML, Javascript, AJAX
+Database: MySQL (with Rose::DB)
+Environment: Linux/Apache 
+
+Desired skills:
+Familiarity with other scripting languages (Python,PHP), relational DBs,
+and database abstraction layers will be considered.   
+
+Big pluses, but not required: 
+ActiveMQ
+FAST Search Engine
+Flash/FMS/Actionscript
+Memcached
+
+
+URL for more information: http://www.wssource.com/
+
+Contact information at:
+http://jobs.perl.org/job/8880#contact
+
+

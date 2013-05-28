@@ -1,0 +1,86 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12510
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 27185 invoked from network); 13 Jun 2012 17:41:33 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 13 Jun 2012 17:41:33 -0000
+Received: (qmail 31301 invoked by uid 225); 13 Jun 2012 17:41:33 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 31297 invoked by alias); 13 Jun 2012 17:41:33 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 13 Jun 2012 10:41:30 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 714942AFE0; Wed, 13 Jun 2012 10:41:27 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 13 Jun 2012 10:41:27 -0700
+Message-ID: <20120613174127.714942AFE0@x3.develooper.com>
+Subject: Perl Developer needed in Singapore (onsite), Singapore
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16128
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 13, 2012
+
+Job title: Perl Developer needed in Singapore
+
+Company name: CoreBPM Pte Ltd.
+
+Location: Singapore
+
+Terms of employment: Salaried employee
+
+Length of employment: Permanent
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are looking for a bad ass perl dev to work for us here in Singapore.
+
+About us: We are a small company doing specialized work in Perl in
+Singapore.
+
+We need a programmer capable of working independently and building
+products/solutions from scratch. Essentially we need a responsible and
+efficient person
+
+About Singapore: Singapore is a small island-nation south of malaysia
+characterised by low taxes, a cool skyline, modern infrastructure,
+cleanliness, lots of pretty little islands in the neighbourhood and direct
+air connectivity to most of the important places in the world.
+
+Required skills:
+Required skills are actually quite simple but also very specific and
+mandatory:
+
+* Higher-Order Perl. Modern Perl. We use functional programming techniques
+in many places.
+* Familiarity with event-driven programming. Extensive experience with POE.
+
+* Moose. You must know in and out of working with Moose. 
+* Test driven development. We need someone who writes tests first and codes
+later.
+* Good knowledge of SNMP.
+
+Desired skills:
+* DBIx::Class
+* Template::Toolkit
+* Catalyst
+* Some XS knowledge
+* Corosync / Pacemaker
+
+Contact information at:
+http://jobs.perl.org/job/16128#contact

@@ -1,0 +1,80 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10814
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 4702 invoked from network); 16 Dec 2010 22:31:06 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 16 Dec 2010 22:31:06 -0000
+Received: (qmail 32129 invoked by uid 225); 16 Dec 2010 22:31:06 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 32125 invoked by alias); 16 Dec 2010 22:31:05 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 16 Dec 2010 14:31:02 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 2BE862AFE4; Thu, 16 Dec 2010 14:30:59 -0800 (PST)
+To: jobs@perl.org
+Date: Thu, 16 Dec 2010 14:30:59 -0800
+Message-ID: <20101216223059.2BE862AFE4@x3.develooper.com>
+Subject: Indexation/API Developer for a web data  extraction engine (onsite),
+ France, Saint-Denis
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13352
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 16, 2010
+
+Job title:
+Indexation/API Developer for a web data  extraction engine
+
+Company name: RTGI/Linkfluence
+
+Internal ID: 1011_ing_indexation
+
+Location: France, Saint-Denis
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Linkfluence is a young innovating start-up which has received many awards
+and is active on the Social media monitoring market.
+
+The Linkfluence Engineering team (7 engineers and developers) is working on
+a web data  extraction engine (blogs, medias, forums, social networks,
+etc.) and solutions for indexation, text-mining, social network analysis
+and big data visualizations.
+
+Linkfluence is expanding and the team is hiring a new member. He will take
+part in the development of indexation systems. He will work with the data
+coming from various extraction engines and implement REST APIs allowing
+access to the indexes by internal tools and external applications. 
+
+Required skills:
+- Solid technical and theoretical formation
+- Good coding skills in *Perl* and Java
+- Familiarity with web technologies
+- Experience with indexation systems and large-scale distributed systems
+- Good knowledge of Linux (Ubuntu, Debian)
+
+Desired skills:
+- Experience with Lucene, Solr, ElasticSearch
+- Experience with data-mining
+
+Website for more information:
+http://labs.linkfluence.net/jobs/1011_ing_indexation_cdi_en.pdf
+
+Contact information at:
+http://jobs.perl.org/job/13352#contact

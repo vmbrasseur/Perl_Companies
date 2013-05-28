@@ -1,0 +1,86 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7872
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 2131 invoked from network); 22 Mar 2008 02:30:58 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 22 Mar 2008 02:30:58 -0000
+Received: (qmail 3437 invoked by uid 225); 22 Mar 2008 02:30:58 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 3432 invoked by alias); 22 Mar 2008 02:30:57 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 21 Mar 2008 19:30:54 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id D077B2AFCD; Fri, 21 Mar 2008 19:30:49 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080322023050.D077B2AFCD@x3.develooper.com>
+Date: Fri, 21 Mar 2008 19:30:49 -0700 (PDT)
+Subject: Perl Application Developer (part onsite), United States, Michigan, Grand Rapids
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8234
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 21, 2008
+
+Job title: Perl Application Developer
+
+Company name: UV Uptime
+
+Location: United States, Michigan, Grand Rapids
+
+Pay rate: Negotiable
+
+Travel: 0-25%
+
+Terms of employment: Hourly employee
+
+Hours: Flexible
+
+Onsite: some
+
+Description:
+UV Uptime has been developing a hosted third-party monitoring service for
+about a two years. It is written entirely in Perl and designed to allow for
+a fully automated web-based signup and setup procedure requiring no
+software installations on client servers.
+Similar services would be: www.alertsite.com, www.atwatch.com,
+www.alertra.com
+
+Required skills:
+We require a reliable, self-directed, productive developer. The position
+also includes working on other sister-company projects as they come up.
+Many of our projects relate to custom system maintenance programs for
+clustered hosting setups and working with e-commerce gateways and billing
+systems.
+
+Desired skills:
+Experience with the following CPAN modules:
+
+APR::URI, Apache2::AuthTicket, Apache2::ServerUtil, Apache2::URI, CGI,
+Carp, DBI, Data::Dumper, Date::Manip, DateTime, Digest::Adler32, Fcntl,
+File::Find, GD, GD::SecurityImage, HTML::HTMLDoc, HTML::LinkExtor,
+HTTP::Request::Common, IO::File, IO::Handle, IO::Select, LWP, mod_perl,
+MIME::Entity, Net::DNS, POSIX, SOAP::Lite, Socket, Template, Time::HiRes,
+Time::Local, URI, strict 
+
+Experience with clustered applications, e-commerce gateways, custom
+recurring billing solutions, parallel processing, RH Linux, Apache,
+mod_perl, and Mysql.
+
+URL for more information:
+http://www.unlimitedventures.com/jobs/UVU_Perl_Programmer_030608.pdf
+
+Contact information at:
+http://jobs.perl.org/job/8234#contact
+
+

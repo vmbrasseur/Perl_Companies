@@ -1,0 +1,81 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6834
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 26325 invoked from network); 22 Aug 2007 03:34:55 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 22 Aug 2007 03:34:55 -0000
+Received: (qmail 9993 invoked by uid 225); 22 Aug 2007 03:34:55 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 9980 invoked by alias); 22 Aug 2007 03:34:54 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 21 Aug 2007 20:34:45 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id BD4782AFE1; Tue, 21 Aug 2007 20:34:41 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070822033441.BD4782AFE1@x3.develooper.com>
+Date: Tue, 21 Aug 2007 20:34:41 -0700 (PDT)
+Subject: Senior Perl Developer / Code Guardian for Medical Information Website (part onsite), United States, NJ, Princeton
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/6541
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 21, 2007
+
+Job title:
+Senior Perl Developer / Code Guardian for Medical Information Website
+
+Company name: iGuard / Quintiles
+
+Location: United States, NJ, Princeton
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Flexible
+
+Onsite: some
+
+Description:
+iGuard is a well funded startup currently in beta testing - with a wishlist
+of function refinements and codebase tightening planned for the next 12
+months.
+
+We're looking for an expert Perl developer with proven skills in code
+optimization, system tightening (for security and speed) and migrating
+'single box' systems into a more distributed setup as load increases... And
+ideally someone interested in being part of a small but dynamic team. 
+
+We're in a highly iterative stage of development and need people who can
+keep our systems honest, stable, maintainable and scalable - but at the
+same time recognize a need to keep up with innovation... If you're up for
+the challenge, we need you!
+
+
+Required skills:
+Guru Perl/Linux Code Administration
+Expert level security (let's keep vulnerabilities closed)
+Expert level experience with load balanced systems
+Expert Perl/DBI, Mysql
+Strong CVS, software design skills
+
+
+Desired skills: Excellent communication skills
+
+URL for more information: http://www.iguard.org/
+
+Contact information at:
+http://jobs.perl.org/job/6541#contact
+
+

@@ -1,0 +1,82 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12389
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 21953 invoked from network); 3 May 2012 18:08:42 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 3 May 2012 18:08:42 -0000
+Received: (qmail 27753 invoked by uid 225); 3 May 2012 18:08:41 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 27748 invoked by alias); 3 May 2012 18:08:41 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 03 May 2012 11:08:38 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 6D8AE2AFE0; Thu,  3 May 2012 11:08:35 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 3 May 2012 11:08:35 -0700
+Message-ID: <20120503180835.6D8AE2AFE0@x3.develooper.com>
+Subject: Perl Expert in Berlin (onsite), Berlin, Berlin, Germany
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15942
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May  3, 2012
+
+Job title: Perl Expert in Berlin
+
+Company name: Idealo Internet GmbH
+
+Location: Berlin, Berlin, Germany
+
+Pay rate: monthly
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Idealo Internet GmbH, is one of the most popular and successful price
+comparison services in Germany.
+
+Responsibilities:
+• Development of applications (usually command line interface) for
+automatic processing of offer and product
+data
+• Optimization and maintenance of existing applications
+• Data exchange using existing interfaces (web services, message queues,
+XML- or CSV files, ...)
+• Application of information retrieval and data mining technologies for
+data recognition and mapping tasks
+• Development of applications for statistical analysis of offer or product
+related data
+
+Required skills:
+• Self-motivated working attitude
+• Ability to work in a team
+• Solid Perl (several years of professional experience)
+• Good knowledge of efficient database usage (e.g. MySQL and MongoDB)
+
+Desired skills:
+• Modern Perl (v5.14, Moose, DBIx::Class)
+• Information retrieval and data mining
+• Use of distributed version control (preferably git)
+• Hands-on experience using Linux
+• Fluent in German
+
+Website for more information: http://www.idealo.de
+
+Contact information at:
+http://jobs.perl.org/job/15942#contact

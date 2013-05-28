@@ -1,0 +1,145 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3158
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 14218 invoked from network); 2 Sep 2005 08:48:10 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 2 Sep 2005 08:48:10 -0000
+Received: (qmail 19638 invoked by uid 225); 2 Sep 2005 08:48:10 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 19634 invoked by alias); 2 Sep 2005 08:48:09 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 02 Sep 2005 01:48:06 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j828m3rG005812
+	for <jobs@perl.org>; Fri, 2 Sep 2005 01:48:04 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j828m3es005810;
+	Fri, 2 Sep 2005 01:48:03 -0700
+Date: Fri, 2 Sep 2005 01:48:03 -0700
+Message-ID: <200509020848.j828m3es005810@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Sr Database Developer with Perl and Oracle; not a DBA (onsite), United States, ca, Alhambra
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3018
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September  1, 2005
+
+Job title:
+Sr Database Developer with Perl and Oracle; not a DBA
+
+Company name: eQuest Solutions
+
+Location: United States, ca, Alhambra
+
+Pay rate: $85-110K + options + bonus
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: full time
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+As a result of increased business, a leading Global Company is looking for
+a Sr Perl ETL Backend Systems/Database Developer on/into Oracle to join a
+growing Data Operations team of Perl/Oracle ETL Developers. 
+
+The Sr Perl ETL Systems Developer on Oracle will be responsible for
+developing, enhancing, troubleshooting and maintaining the company’s
+backend ETL applications, in a UNIX (Solaris/Linux) environment, using
+Perl, SQL, PL/SQL, SQL Loader, Oracle and Unix shell scripts.  Company is
+running several instances of Oracle 8i/9i databases on Solaris/Linux,
+loading 100,000’s transactions/day of sensitive and mission critical
+financial data into a 120+ terabyte Data Warehouse. Transaction processing
+and reporting systems are developed in Perl, Unix Shell Scripts, PL/SQL,
+SQL Loader and SQL. Candidate will be responsible for developing and
+optimizing the backend ETL systems for stability, scalability and
+efficiency.  The developer will also be responsible for designing and
+optimizing database schemas, queries, and complex stored procedures under
+Oracle 8i/9i, locating and fixing bugs in the existing Perl, SQL and PL/SQL
+code base in a timely manner, creating and modifing Unix shell scripts.
+Candidate will also maintain the integrity of the databases in order to
+provide accurate information.  Candidate will provide technical assistance
+by responding to inquires from users regarding errors, problems or
+questions about programs, ensure availability of data in a timely manner,
+consult with users to design and code reports/programs to meet their needs.
+ Candidate will be required to be on-call 1 week every 2 months.
+
+The company offers full benefits (PPO & HMO) including dental and vision,
+401K, Stock Options and Purchase Plans, 2 weeks vacation, 8 paid sick days,
+Short and Long Term Disability, Life Insurance, Employee Assistance
+Program, casual dress and flexible work hours that all start upon
+employment.
+
+Required skills:
+REQUIREMENTS
+MUST HAVE 3-4+ years developing large high-volume (50-100K
+transactions/day) backend ETL Systems in Perl utilizing SQL, SQL Loader,
+PL/SQL and Unix shell scripts on Oracle
+MUST HAVE Perl and Unix Shell Scripting experience, preferably on Solaris
+and Linux
+Ability to understand and create very complex SQL statements
+Must be able to apply optimization methods, including Oracle Hints, to SQL
+statements
+Must have experience creating stored procedures and triggers with PL/SQL
+Should have experience with multiple storage techniques (flat files, DB
+Berkeley, etc..).
+Ability to extract unique records from Oracle using SQL and PL/SQL
+Must be able to be on call 1 week every 2 months
+PLUS:
+Unix System Administration or DBA experience is a plus, but not necessary.
+Experience in Database logical and physical design is a plus, but not
+necessary.
+
+Please do NOT apply unless you have BOTH Perl and Unix shell scripting
+experience. Please note that all of your Perl, Unix, SQL, SQL Loader,
+PL/SQL and Oracle experience, including a detailed description backend ETL
+database systems (# and type of sources of data), and/or the backend
+systems including the types of data format received/converted to, any
+converting, verifying, manipulating, cleansing, etc. of data, the
+size/volume of transactions processed daily/weekly/monthly and the size of
+the database (total size in TB’s/# of records/table) must be in the body of
+your resume to be considered.  Furthermore, you need to discuss each of the
+technologies you used for each part of the above backend database system.
+
+Please note that this is not an Oracle DBA or DB Architect position and
+DBA's nor DB Architects will be considered.
+
+*Company is unable to sponsor or perform corp to corp for Visa holders. *
+
+Company is in position to hire immediately.  
+
+Please respond to the following with your resume submittal:
+
+Are you a U.S. citizen or green card holder?
+
+What is your current base salary or contracting rate?
+
+What salary range are you currently considering for your next opportunity
+(please do not respond with “negotiable.”)
+
+Are you currently located in Southern California?
+
+
+Contact information at:
+http://jobs.perl.org/job/3018#contact
+
+

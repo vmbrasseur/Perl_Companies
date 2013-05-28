@@ -1,0 +1,94 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8389
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 14626 invoked from network); 2 Jul 2008 00:37:04 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 2 Jul 2008 00:37:04 -0000
+Received: (qmail 18680 invoked by uid 225); 2 Jul 2008 00:37:04 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 18676 invoked by alias); 2 Jul 2008 00:37:03 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 01 Jul 2008 17:37:00 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 26B942AFE8; Tue,  1 Jul 2008 17:36:57 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080702003657.26B942AFE8@x3.develooper.com>
+Date: Tue,  1 Jul 2008 17:36:57 -0700 (PDT)
+Subject: Pobox.com - Programmer, Research & Development (part onsite), United States, PA, Philadelphia
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/9104
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July  1, 2008
+
+Job title:
+Pobox.com - Programmer, Research & Development
+
+Company name: IC Group
+
+Location: United States, PA, Philadelphia
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+We're looking for a new programmer.  You might know us as Pobox.com or
+Listbox.com; we've been around since before the Internet was cool,
+offering all kinds of email-related services.  Email is our life's
+blood, so you'll need to know email, but we also do a lot of work with
+web applications and web services, automated testing, job queueing, and
+whatever other problems crop up along the way.
+
+We're a small company located in center city Philadelphia.  You'll need to
+live
+nearby and come into the office a couple times a week -- but it's a pretty
+comfortable and casual office, so don't panic.
+
+We like open source; it runs our business.  As much as possible, we try
+to write our code so that we can release it -- it's easier to write good
+code when you know other people will see it.
+
+Feel free to sign up for a trial account of either service to see more
+about what we do.
+
+  http://www.pobox.com	 -- lifetime email addresses
+  http://www.listbox.com -- mailing lists
+
+Required skills:
+  * proficiency with Perl, including OO
+  * proficiency with how email works
+  * proficiency with relational databases, the Perl DBI
+  * proficiency with working in a unix environment
+  * experience using an ORM (preferably DBIx::Class or Class::DBI)
+  * experience coding for the web, including HTML, CSS, and JavaScript
+  * proximity to Philadelphia (or willingness to move here)
+
+Desired skills:
+  * familiarity with
+    * Moose
+    * Catalyst
+    * jQuery
+    * Mason
+  * experience with the Postfix MTA
+  * experience with PHP and/or Python
+
+Contact information at:
+http://jobs.perl.org/job/9104#contact
+
+

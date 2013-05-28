@@ -1,0 +1,70 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:214
+Return-Path: <david@linkyours.com>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 36276 invoked from network); 11 Oct 2001 23:39:18 -0000
+Received: from mta6.snfc21.pbi.net (HELO snfc21.pbi.net) (206.13.28.240)
+  by onion.valueclick.com with SMTP; 11 Oct 2001 23:39:18 -0000
+Received: from groovy ([66.122.182.113])
+ by mta6.snfc21.pbi.net (iPlanet Messaging Server 5.1 (built May  7 2001))
+ with SMTP id <0GL200B5XF19WH@mta6.snfc21.pbi.net> for jobs@perl.org; Thu,
+ 11 Oct 2001 16:39:10 -0700 (PDT)
+Date: Thu, 11 Oct 2001 16:36:59 -0700
+To: jobs@perl.org
+Message-ID: <00c301c152ad$9f868e60$941ffea9@groovy>
+Organization: Link Yours Internet Software
+MIME-version: 1.0
+X-MIMEOLE: Produced By Microsoft MimeOLE V5.00.2014.211
+X-Mailer: Microsoft Outlook Express 5.00.2014.211
+Content-type: text/plain; charset=iso-8859-1
+Content-transfer-encoding: 7BIT
+X-Priority: 3
+X-MSMail-priority: Normal
+X-Spam-Rating: onion.valueclick.com 1.6.2 0/1000/N
+Subject: Seeking Quality Telecommute Web Programming Talent At A Reasonable
+ Price
+Approved: news@nntp.perl.org
+From: david@linkyours.com (David Nelson)
+
+Hello,
+
+We are looking to hire a few talented individuals to work with us on an
+independent contractor (telecommute) basis who have these skills:
+-Perl: understanding of basic data structures, logic, references, etc.
+-OO Perl: Preferably the ability to write your own objects, but at least be
+able to use an existing objects API
+-CGI: All aspects of CGI.pm
+-DBI
+-SQL
+-LWP
+-can write clean, maintainable code, using strict and warn
+-At least three years experience programming in a real CGI environment used
+by at least a few thousand people a month
+
+Pluses (ordered by importance):
+-mod_perl
+-know how to use Perl's taint option
+-Javascript
+-Internet Marketing Knowledge: search engines, PPC search engines, ezines,
+how to establish and grow a customer base, etc.
+-CSS
+-Photoshop
+-XML
+-Java, C, C++ (not terribly important, but still a plus)
+
+Please send the URL to your resume as well as code samples that illustrate
+your skills, along with your wage requirement.  We prefer that your skills
+are certified by www.brainbench.com or an equivalent certification
+authority.  The positions we have available do not include benefits, as you
+will be working as an independent contractor.
+
+Thank you for your interest,
+Regards,
+David Nelson
+Link Yours Internet Software
+http://www.linkyours.com - david@linkyours.com
+
+

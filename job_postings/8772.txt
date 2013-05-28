@@ -1,0 +1,83 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8772
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8219 invoked from network); 25 Oct 2008 07:33:36 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 25 Oct 2008 07:33:36 -0000
+Received: (qmail 30850 invoked by uid 225); 25 Oct 2008 07:33:36 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 30846 invoked by alias); 25 Oct 2008 07:33:35 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 25 Oct 2008 00:33:34 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id CF1C52AFEF; Sat, 25 Oct 2008 00:33:30 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20081025073330.CF1C52AFEF@x3.develooper.com>
+Date: Sat, 25 Oct 2008 00:33:30 -0700 (PDT)
+Subject: Short-term, immediate opportunity for Perl/Movable Type Programmer (onsite), United States, New York, New York
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/9810
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 23, 2008
+
+Job title:
+Short-term, immediate opportunity for Perl/Movable Type Programmer
+
+Company name: large interactive agency
+
+Location: United States, New York, New York
+
+Pay rate: $50-90/hour
+
+Travel: 0%
+
+Length of employment: 40 hours +
+
+Hours: Flexible
+
+Onsite: yes
+
+Description:
+We are looking for a developer to finalize programming/customization of a
+blog built on the Movable Type platform, which is based entirely on PERL.
+MT is running in a Linux environment.
+
+I am the content manager of pre-launch blog that has been partially built
+in Movable Type. The blog serves as an internal resource for our agency, a
+leading interactive house with 500+ employees. The staff programmer
+assigned to skinning this blog was re-assigned to a client priority, and
+development is 65% complete. ID and graphic elements are all in place,
+platform is up and running, but many significant bugs remain (ei, tag and
+calendar display, database access).
+
+As the platform is hosted behind a firewall, we need someone who can work
+onsite in our office in NYC.
+
+We estimate project will require 35-40 hours to complete development, push
+live, and final QA.  I would imagine that an MT expert could accomplish the
+work somewhat quicker.
+
+We are looking for someone to start immediately.
+
+Required skills:
+Perl, MySQL, CGI, Movable Type programming
+
+Desired skills:
+attention to detail, ability to jump into a new project quickly
+
+Contact information at:
+http://jobs.perl.org/job/9810#contact
+
+

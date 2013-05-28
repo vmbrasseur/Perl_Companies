@@ -1,0 +1,144 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4124
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 5354 invoked from network); 6 Apr 2006 22:34:45 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 6 Apr 2006 22:34:45 -0000
+Received: (qmail 381 invoked by uid 225); 6 Apr 2006 22:34:45 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 374 invoked by alias); 6 Apr 2006 22:34:44 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 06 Apr 2006 15:34:40 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 658E32AFEB; Thu,  6 Apr 2006 15:34:36 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060406223436.658E32AFEB@x3.develooper.com>
+Date: Thu,  6 Apr 2006 15:34:36 -0700 (PDT)
+Subject: Software Engineer, Web and Data Services for Mobile Music (onsite), United States, MA, Andover
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3918
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April  6, 2006
+
+Job title:
+Software Engineer, Web and Data Services for Mobile Music
+
+Company name: Groove Mobile
+
+Internal ID: SEWDS
+
+Location: United States, MA, Andover
+
+Pay rate: DOE
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Overview
+
+Groove Mobile is currently seeking a Software Engineer for the team
+developing our back-end services. This group is responsible for designing
+the core services and database systems for our mobile music platform. If
+you want to be challenged by working in a small, aggressive, fast-paced,
+start-up software development team where you can have an impact in many
+areas then this might be the job for you.
+Role
+
+Your role will be to design, implement, and ensure the quality of key
+components of our server system. You will provide feedback on architecture
+and feature specifications from other groups within Groove Mobile and our
+partners. You will also help define processes that will make your job
+easier and make the team more efficient. You need to be a
+jack-of-all-trades for this position because you will work on all areas of
+our server systems but the primary focus in the near future is to create
+web services and expand our database designs to scale as our business
+grows.
+Responsibilities
+
+    * Develop and maintain the back-end APIs for multiple types of in-house
+and customer applications.
+    * Design and enhance database schemas and data-flow processes to
+support operational and reporting requirements.
+    * Enhance, develop and maintain customer-facing tools for business
+report generation and presentation.
+    * Enhance, develop and maintain tools that assist technical support
+reps.
+    * Independently manage project schedules to deliver the above.
+    * Document tools and processes on the company’s internal wiki site
+
+Fit
+
+To be a good fit for our team, you need to be an excellent communicator,
+written and orally. You need to like working with others but you still must
+be someone who can work independently and take initiative to solve problems
+on their own. To succeed at Groove Mobile, you must have the ability to
+focus on several tasks at once, juggling priorities as needed, and you need
+to be able to identify functionality versus schedule tradeoffs under
+pressure.
+
+About Groove Mobile
+
+Groove Mobile is the world's leading mobile music service. Groove Mobile's
+Complete Music Gateway includes Full Track Mobile Downloads, Peer-to-Peer
+Sharing and Personalized Music Recommendations, in addition to providing
+Personalized and Programmed Streaming Radio, Music Subscriptions, and more.
+
+
+Groove Mobile powers the #1 rated mobile music service in the UK, Orange's
+Music Player and the first mobile music services in the US, Sprint Music
+Store. Groove Mobile launched the world's first secure peer-to-peer
+distribution in the mobile space, with its pioneering TELL-A-FRIEND
+feature. Groove Mobile's direct download service is available in the US,
+Canada, Europe and Asia-Pacific and provides access to music from EMI,
+Warner Music International, V2, Beggars Group, Digital Rights Agency and
+The Orchard libraries. 
+
+
+Required skills:
+    * You have non-trivial experience with Perl and are willing to grow
+that. Having Java knowledge is a plus too and you know that different
+languages are right for different tasks.
+    * You've built web services with just HTTP, Web Services with SOAP, you
+know the difference, and you know when to use one instead of the other.
+    * You've designed non-trivial database schemas, preferably to support
+e-commerce. Non-trivial means more than ~50 tables with extensive
+foreign-key relationships with some tables having millions of records.
+You've designed both operational and reporting databases and understand why
+the two have different requirements and should be designed differently.
+    * You've managed technical project schedules that involve multiple
+people from different areas of the company.
+    * You're completely comfortable with Unix/Linux operating systems.
+    * You've built dynamic web interfaces to back-end databases with HTML
+and Perl/PHP/etc.
+    * You have strong analytical and problem solving skills, multitasking,
+attention to detail
+    * You should have a BS in computer science or equivalent experience.
+For you to be good at all of this, you've probably been at it for about 5-7
+years.
+
+
+URL for more information: http://www.groovemobile.net/
+
+Contact information at:
+http://jobs.perl.org/job/3918#contact
+
+

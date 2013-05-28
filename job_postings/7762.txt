@@ -1,0 +1,108 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7762
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8802 invoked from network); 4 Mar 2008 00:04:10 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 4 Mar 2008 00:04:10 -0000
+Received: (qmail 8092 invoked by uid 225); 4 Mar 2008 00:04:10 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 8088 invoked by alias); 4 Mar 2008 00:04:10 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 03 Mar 2008 16:04:07 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id D25E62AFD0; Mon,  3 Mar 2008 16:04:03 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20080304000403.D25E62AFD0@x3.develooper.com>
+Date: Mon,  3 Mar 2008 16:04:03 -0800 (PST)
+Subject: OLAP Database & Reporting Analysis/Design Engineer (onsite), United States, CA, Sunnyvale
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8084
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March  3, 2008
+
+Job title:
+OLAP Database & Reporting Analysis/Design Engineer
+
+Company name: Orchesys, Inc.
+
+Location: United States, CA, Sunnyvale
+
+Pay rate: DOE
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+To support our rapid growth, we are seeking experienced database design and
+reporting engineers. A successful candidate will be able to work with and
+take direction from senior members of our engineering team to develop a
+high performance support automation tool set. This position will touch many
+aspects of our product design but will primarily focus on database schema
+design, data warehousing, OLAP database design, reporting and report
+infrastructure development. 
+
+Responsible for all aspects of data warehousing reporting including
+definition of initial functional requirements, maintaining project plans,
+detailed design, implementation, validation, post release sustaining
+engineering and product evolution activities.
+- Recommend strategy and tools for building a world class data analysis and
+reporting infrastructure. 
+- Analyze and design OLAP cubes on complex data warehouse schemas.
+- Design/Author reports on data warehouse OLAP cubes using various
+commercial tools.
+- Administer and own reporting solutions. 
+- Comply with team standards through participation in design and code
+reviews. 
+- Develop and manage detailed production and ad-hoc reports, dashboards and
+reporting systems.
+
+
+Required skills:
+- Expert-level data modeling and schema design. 
+- Expert-level OLAP design experience.
+- Strong practical knowledge of SQL and scripting such as PERL
+- Strong practical knowledge of analytics and reporting tools
+- Strong practical knowledge of developing advanced reports using
+commercial tools such as MS-Access, Cognos (api), MS-Excel, Crystal
+Reports, etc.
+- Ability to create innovative reports using a variety of compelling data
+representation techniques.
+- Excellent verbal and written communication skills. 
+- Previous experience working on a fast-paced development project touching
+all areas of design, development, testing and customer deployment. 
+- Ability to take direction from senior engineers and turn that into high
+quality development deliverables while adhering to an aggressive product
+delivery schedule.
+
+Please be prepared with a portfolio for your interview. The portfolio may
+comprise *either* source code snippets AND screenshots *or* live websites
+showing reports, database views, etc.
+
+Desired skills:
+- Bachelor’s degree, foreign equivalent, or any combination of education
+and experience that equates to a Bachelor’s degree in computer science,
+engineering, or a related technical field.
+
+URL for more information: http://www.orchesys.com/
+
+Contact information at:
+http://jobs.perl.org/job/8084#contact
+
+

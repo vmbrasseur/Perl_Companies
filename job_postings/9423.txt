@@ -1,0 +1,77 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9423
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 10714 invoked from network); 23 Aug 2009 18:39:08 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 23 Aug 2009 18:39:08 -0000
+Received: (qmail 2545 invoked by uid 225); 23 Aug 2009 18:39:08 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 2524 invoked by alias); 23 Aug 2009 18:39:06 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 23 Aug 2009 11:39:01 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 127072AFDF; Sun, 23 Aug 2009 11:38:57 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20090823183858.127072AFDF@x3.develooper.com>
+Date: Sun, 23 Aug 2009 11:38:57 -0700 (PDT)
+Subject: FTP Job (telecommute), United States, or, portland
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/10968
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 18, 2009
+
+Job title: FTP Job
+
+Company name: OND Inc
+
+Location: United States, or, portland
+
+Pay rate: bid
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+We are in need of a developer who can create a perl script for us to upload
+images to our website via ftp. We have a file with over 4000 images in it
+that need to be uploaded to a folder called images on our website. So the
+script will need to do the following:
+
+1. log into the site
+2. Change dir to the images folder on the site
+3. read in all the images that need to be uploaded from a csv file called
+images.csv. They will be in the format of  
+image location, image name
+/desktop/images/,image1.jpeg
+/desktop/images/,image2.jpeg
+ect
+
+4. start uploading all images.
+
+
+I tried to be as clear as possible but please email me if there is
+something else you need before bidding on this job.
+
+Thanks for your time in reading this
+
+Contact information at:
+http://jobs.perl.org/job/10968#contact
+
+

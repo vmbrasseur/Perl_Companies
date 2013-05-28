@@ -1,0 +1,102 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12285
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 1843 invoked from network); 1 Apr 2012 03:22:13 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 1 Apr 2012 03:22:13 -0000
+Received: (qmail 28463 invoked by uid 225); 1 Apr 2012 03:22:13 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 28459 invoked by alias); 1 Apr 2012 03:22:12 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 31 Mar 2012 20:22:10 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 724042AFE1; Sat, 31 Mar 2012 20:22:06 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 31 Mar 2012 20:22:06 -0700
+Message-ID: <20120401032206.724042AFE1@x3.develooper.com>
+Subject: Senior Perl Developer (onsite), Uxbridge, United Kingdom
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15770
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 31, 2012
+
+Job title: Senior Perl Developer
+
+Internal ID: VAC-10105
+
+Location: Uxbridge, United Kingdom
+
+Pay rate: £45000
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+My Client is a well-established and fast-growing web hosting company that
+provides products and services to enable companies and individuals to get
+their websites online. 
+
+Key Responsibility: Perl Developer 
+
+To research, develop, maintain & support internal and product related
+systems for my Client and all other associated brands. Manage a small team
+under product development. 
+
+Core Functions: 
+
+Develop, maintain and support software as a member of the their Product
+Development Team. 
+Ensure software under development is managed with appropriate source code
+control and release processes. 
+Ensure software adheres to relevant coding standards and is documented
+accordingly using internal systems. 
+Interact with the product managers to gather requirements, deploy and when
+relevant support our systems. 
+Work with Hosting Operations when researching & designing new products as
+well as offering support to ensure relevant SLA’s are met.
+
+Required skills:
+Minimum 3 years’ experience 
+Good knowledge of Relational Databases, especially MySQL, MS SQL etc 
+Good knowledge of source control management systems, e.g. SVN 
+Experience in designing and building complex framework and platform
+solutions using web technologies and web environments ( CGI, FastCGI,
+mod_perl etc ) 
+Good knowledge of CPAN and commonly used Perl modules 
+Excellent communication skills 
+Good knowledge & understanding of different approaches to development and
+development methodologies ( SCRUM,Xtreme programming etc.) 
+Strong knowledge of object oriented development in Perl 
+Strong knowledge of NIX operating systems ( especially GNU/Linux ) 
+Strong knowledge of MS Operating Systems
+
+Desired skills:
+Familiar with: Moose, Mouse, Moo, Class::Std, Class::Accessor 
+Understanding of Object-Relational mapping ( i.e. Class::DBI, DBIx::Class,
+etc) 
+Familiar with Perl web frameworks ( i.e. Maypole, Catalyst, Mojo, Dancer
+etc ) 
+Have an understanding of "Modern Perl" 
+Knowledge of X/HTML 
+Working knowledge of CSS / Javascript
+
+Website for more information: http://www.gabby1.com/jobs.php
+
+Contact information at:
+http://jobs.perl.org/job/15770#contact

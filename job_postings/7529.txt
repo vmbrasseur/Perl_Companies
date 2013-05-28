@@ -1,0 +1,89 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7529
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 29467 invoked from network); 14 Jan 2008 19:49:58 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 14 Jan 2008 19:49:58 -0000
+Received: (qmail 13069 invoked by uid 225); 14 Jan 2008 19:49:58 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 13065 invoked by alias); 14 Jan 2008 19:49:57 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 14 Jan 2008 11:49:54 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 327ED2AF9A; Mon, 14 Jan 2008 11:49:51 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20080114194951.327ED2AF9A@x3.develooper.com>
+Date: Mon, 14 Jan 2008 11:49:51 -0800 (PST)
+Subject: OO Perl Developer with VB/Access experience (telecommute), United States, 100% Telecommute or Westlake Village
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/7706
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 14, 2008
+
+Job title:
+OO Perl Developer with VB/Access experience
+
+Company name: eQuest Solutions
+
+Location:
+United States, 100% Telecommute or Westlake Village
+
+Pay rate: $40-50/hr 1099/Corp to Corp
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 6-12+ months
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+A new start up is looking for a candidate to migrate an existing VB/Access
+financial application to LAMP using OO Perl, CGI and MySQL. The application
+tracks commissions, account information, amortizations, etc.
+
+There will be an option to extend contract to maintain and enhance this
+application and work on other projects.
+
+This position is either 100% telecommuting or on site in Westlake Village,
+CA.
+
+
+Required skills:
+REQUIREMENTS
+MUST have 2+ yrs of OO Perl development on Linux for financial or
+transaction processing systems
+MUST have experience with CGI and MySQL
+Since this is a 100% telecommuting position, good over the phone
+communication skills
+Plus:
+Subversion
+Database skills (preferable MySQL) including the ability to design
+relational databases, interface SQL optimization of queries to MySQL or
+Oracle
+MySQL InnoDB mode OR MySQL (any mode) AND either Oracle, Postgres, or
+Informix
+Familiar with using ORM (Object Relational Mapping)
+Experience with Rose-DB-Object 
+Any DBA skills is a plus but not necessary
+
+
+Contact information at:
+http://jobs.perl.org/job/7706#contact
+
+

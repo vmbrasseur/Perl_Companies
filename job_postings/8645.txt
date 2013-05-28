@@ -1,0 +1,117 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8645
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 20917 invoked from network); 11 Sep 2008 01:45:17 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 11 Sep 2008 01:45:17 -0000
+Received: (qmail 21083 invoked by uid 225); 11 Sep 2008 01:45:17 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 21078 invoked by alias); 11 Sep 2008 01:45:17 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 10 Sep 2008 18:45:14 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id CB0A02AFE2; Wed, 10 Sep 2008 18:45:10 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080911014510.CB0A02AFE2@x3.develooper.com>
+Date: Wed, 10 Sep 2008 18:45:10 -0700 (PDT)
+Subject: Perl Software Engineer, United States, MD, Columbia
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/9606
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 10, 2008
+
+Job title: Perl Software Engineer
+
+Company name: Message Systems
+
+Location: United States, MD, Columbia
+
+Pay rate: DOE
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Description:
+The Message Systems engineering team is looking for a highly motivated
+senior-level Perl Software Engineer to help us extend the most advanced
+messaging infrastructure platform on the market. 
+
+You will enjoy in-depth exposure to all aspects of building scalable
+applications as part of a small, internationally-renowned team that helps
+our customers -- service providers and hot startups alike -- achieve their
+cutting-edge messaging goals.
+
+RESPONSIBILITIES:
+This position involves leading new feature development in our messaging
+server product line.
+
+Feature Design and Development - Work with the product team to define
+feature specifications, author technical designs and take a leading role in
+their implementation to production quality, complete with positive and
+negative test cases.
+
+Testing - Testing is a primary focus of our development process, and every
+engineer is responsible for augmenting our automated test suite to
+guarantee test coverage on new and existing features.
+
+Documentation - Ensuring documentation, code maintainability and product
+feature coherency.
+
+WHY WORK HERE:
+- We have a fun, casual, but focused development environment.
+- We offer outstanding benefits including health/vision/dental, 401(k)
+w/matching, fitness reimbursement, minimum of 3 weeks vacation, and much
+more!
+- We are a world-class team of industry thought-leaders.
+- The engineering group works in an open plan and uses the Scrum
+development methodology.
+- We focus on collaboration, automation, and testing.
+
+Required skills:
+REQUIREMENTS:
+-Current experience developing robust, high volume server software. 
+-Strong Perl and C programming skills, 
+-At least 5 years of professional programming experience, 
+
+In addition,have experience in and a good understanding of:
+
+* Software design
+* UNIX (Linux, Solaris or FreeBSD) server development in C
+* Writing multithreaded applications
+* Writing TCP/IP and UDP networking code
+* Experience writing TCP-based layer 4 protocols
+* Writing unit and regression tests
+* Experience with gdb and other command line debuggers
+* Familiarity with memory debugging tools and techniques (e.g. valgrind,
+lint, dmalloc,
+libumem, etc.)
+* Good grasp of multi-platform portability concerns
+* Familiarity with autoconf and make
+* Familiarity with event based systems
+* As a minimum, a Bachelors degree in Computer Science
+(or related field) from an accredited college or university.
+
+Desired skills:
+* Experience with one or more messaging technologies/protocols a huge plus
+
+URL for more information: http://www.messagesystems.com/
+
+Contact information at:
+http://jobs.perl.org/job/9606#contact
+
+

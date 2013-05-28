@@ -1,0 +1,86 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8441
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 6386 invoked from network); 13 Jul 2008 22:33:10 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 13 Jul 2008 22:33:10 -0000
+Received: (qmail 555 invoked by uid 225); 13 Jul 2008 22:33:10 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 550 invoked by alias); 13 Jul 2008 22:33:09 -0000
+X-Spam-Status: No, hits=-10.5 required=8.0
+	tests=BAYES_00,HTTP_ESCAPED_HOST,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 13 Jul 2008 15:33:07 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 5C6172AFEA; Sun, 13 Jul 2008 15:33:04 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080713223304.5C6172AFEA@x3.develooper.com>
+Date: Sun, 13 Jul 2008 15:33:04 -0700 (PDT)
+Subject: Systems Integration perl master subcontractor for hedge fund (onsite), United States, NY, New York - 55th + Park
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/9198
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 13, 2008
+
+Job title:
+Systems Integration perl master subcontractor for hedge fund
+
+Company name: HFSI Consulting (contracting firm)
+
+Location:
+United States, NY, New York - 55th + Park
+
+Pay rate: $800 - $1000 per day
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: at least 4 months
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+My week-old, single person company focuses on systems integration for Hedge
+Funds (I was leading Development for another fund until recently).  We
+focus on Risk, Trading, and Accounting systems.  This work is mostly
+xml/text/excel file parsing / transformation.  perl is the Right way to do
+this, as long as it's done simply, consistently, and maintainably.  I am an
+excellent perl coder and I know finance and financial workflows very well -
+I am looking to take on a subcontracting partner, not necessarily fully up
+to date on the finance side, but a fast, thorough, and accurate perl
+developer.  The fund is a top firm and this is a great opportunity.
+
+Required skills:
+perl! -mostly activeperl, this will be windows based
+DBI (SQL Server)
+XML::DOM
+presentable to management, good communication skills
+Self-Driven QA - total quality control on delivered product
+positive attitude
+
+Desired skills:
+SpreadSheet::ParseExcel
+CGI
+Template-Toolkit for HTML reporting
+Risk, Accounting or Trading System experience
+C# / .NET or Java (for API work)
+
+URL for more information: http://not%20available%20yet./
+
+Contact information at:
+http://jobs.perl.org/job/9198#contact
+
+

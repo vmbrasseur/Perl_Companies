@@ -1,0 +1,156 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7381
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 2609 invoked from network); 6 Dec 2007 17:03:38 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 6 Dec 2007 17:03:38 -0000
+Received: (qmail 7519 invoked by uid 225); 6 Dec 2007 17:03:38 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 7508 invoked by alias); 6 Dec 2007 17:03:37 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 06 Dec 2007 09:03:24 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id DF8A82AFD6; Thu,  6 Dec 2007 09:03:20 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20071206170320.DF8A82AFD6@x3.develooper.com>
+Date: Thu,  6 Dec 2007 09:03:20 -0800 (PST)
+Subject: C++/Perl Software Engineer (onsite), United States, CA, Sunnyvale
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/7496
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December  5, 2007
+
+Job title: C++/Perl Software Engineer
+
+Company name: Yahoo!
+
+Internal ID: 7744
+
+Location: United States, CA, Sunnyvale
+
+Pay rate: Competitive
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: Full Time
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+How Big Can You Think?
+
+About SDS 
+
+Yahoo! Strategic Data Solutions (SDS) uses one of the world's largest data
+sources and a consumer-centric data platform to improve Yahoo! products,
+deliver business insights, and enable innovative marketing solutions.
+
+Did you know that: 
+
+¨ Yahoo! collects over 10 terabytes of click stream behavioral data each
+day (the equivalent of all the information stored in the Library of
+Congress).
+
+¨ Yahoo!'s user data warehouse is the largest in the world--in the order of
+`petabytes.’
+
+¨ Yahoo! serves half a billion unique users.
+
+¨ Yahoo! is one of Fortune's "100 Best Companies to Work For."
+
+¨ Yahoo! is looking for key hires to leverage all of this data for
+actionable strategies and systems.
+
+ 
+
+About Product/Project	  
+
+The Data Systems team has been charged with deploying a new business
+systems data pipeline.	We will be building and deploying a new instance of
+a low latency, high transaction, high volume operational data store using
+Data Systems Platform components.
+
+ 
+
+Job Responsibilities 
+
+We are looking for a talented and motivated software engineer to work on
+the design and implementation of Yahoo! data processing infrastructure.
+Challenges include designing high-performance multi-parallel algorithms and
+building their fault-tolerant implementations that can scale to handle
+petabytes of data and meet the requirements of various Yahoo! businesses.
+You must be a quick learner, have good communication skills, and be able to
+maintain ownership of large engineering projects throughout their
+lifecycle: architecture/design, implementation, testing, and post-release
+maintenance.
+
+ 
+
+In this position, you will be responsible for the following:
+
+Build and deploy custom data aggregation processes 
+Integrate with upstream data systems and downstream data consumers,
+including to other Data System platform infrastructure and business systems
+
+Collaborate with cross-functional teams for data capture, data processing,
+data aggregation, and data validation. 
+Interact with business users to understand and implement business specific
+rules. 
+
+
+Required skills:
+Minimum Job Qualifications    
+
+·	  The candidate must have BS/MS in computer science (or equivalent)
+
+
+·	  0-15 years of experience in software engineering industry 
+
+·	  Strong and proven skills with SQL, relational databases
+
+·	  Strong and proven skills with Perl, C++, Shell Scripting and
+UNIX.
+
+
+Desired skills:
+ 
+
+Preferable Job Qualifications 
+
+ 
+
+·	  Knowledge of Distributed Systems, 
+
+·	  Network monitoring & TCP/IP 
+
+·	  A good understanding of algorithms, data structures, performance
+optimization techniques and object-oriented programming.
+
+·	  Experience with data processing/ETL tools and exposure to
+large-scale systems development projects strongly preferred.
+
+
+URL for more information:
+https://yahoo.recruitmax.com/MAIN/careerportal/Job_Profile.cfm?szOrderID=77
+44&szReturnToSearch=1&szWordsToHighlight=
+
+Contact information at:
+http://jobs.perl.org/job/7496#contact
+
+

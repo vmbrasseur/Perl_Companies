@@ -1,0 +1,89 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2876
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 21611 invoked from network); 20 Jun 2005 19:22:39 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 20 Jun 2005 19:22:39 -0000
+Received: (qmail 13616 invoked by uid 225); 20 Jun 2005 19:22:39 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 13612 invoked by alias); 20 Jun 2005 19:22:38 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 20 Jun 2005 12:22:37 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j5KJMYhr030464
+	for <jobs@perl.org>; Mon, 20 Jun 2005 12:22:34 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j5KJMYr0030462;
+	Mon, 20 Jun 2005 12:22:34 -0700
+Date: Mon, 20 Jun 2005 12:22:34 -0700
+Message-ID: <200506201922.j5KJMYr0030462@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Web Application Software Engineer (onsite), United States, MD, Bethesda
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2572
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 20, 2005
+
+Job title: Web Application Software Engineer
+
+Company name: JM & Company
+
+Internal ID: gibson
+
+Location: United States, MD, Bethesda
+
+Pay rate: Negotiable
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: Permanent
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Primary Responsibility: play a central role in enhancing capabilities of a
+large and growing software system, centered around a web-based
+transactional core; begin by learning and documenting existing system, and
+prototyping contemplated enhancements; work with others to define and
+elaborate software processes such as versioning/release management, QA,
+testing, coding standards. 
+Secondary Responsibilities: Identify and champion methodological process
+improvements appropriate for the current setting. 
+Required Skills: Perl, SQL, mature insight into s/w process. 
+Preferred Skills: Java (GUI and server side), web application programming,
+DBMS, human factors, broad familiarity with Open Source software packages 
+
+
+Required skills:
+Perl
+Apache
+Python
+SQL (MySQL)
+
+Desired skills:
+mod_perl
+Java
+XML
+
+Contact information at:
+http://jobs.perl.org/job/2572#contact
+
+

@@ -1,0 +1,126 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9280
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 1330 invoked from network); 13 Jun 2009 00:04:21 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 13 Jun 2009 00:04:21 -0000
+Received: (qmail 28600 invoked by uid 225); 13 Jun 2009 00:04:21 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 28596 invoked by alias); 13 Jun 2009 00:04:21 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 12 Jun 2009 17:04:16 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 69B7F2AFE1; Fri, 12 Jun 2009 17:04:12 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20090613000412.69B7F2AFE1@x3.develooper.com>
+Date: Fri, 12 Jun 2009 17:04:12 -0700 (PDT)
+Subject: Agile perl developer (onsite), United States, CA, Sunnyvale
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/10734
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 12, 2009
+
+Job title: Agile perl developer
+
+Company name: AirWave
+
+Location: United States, CA, Sunnyvale
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+ok( $you->enjoy_problem_solving() ); 
+ok( $you->strive_for_simplicity() ); 
+ok( $you->write_tests_first() ); 
+ok( $you->want_to_enjoy_your_job() ); 
+
+Do you pass these tests? If so, you should be writing software at Airwave 
+Wireless. Our team practices extreme programming (XP), so we spend most of
+our 
+time writing code. We believe that running code and short feedback loops
+speak 
+louder than excessive documentation and month-long design meetings. We
+practice 
+test-driven development and have a comprehensive suite of tests... over
+31,000 
+at last count. We pair program, so you'll learn the system quickly and have
+a 
+great time doing it. We have short release cycles, which means your talents
+
+won't sit idle working on projects that never see the light of day.
+Software you 
+write today will be managing enterprise networks in just a couple of 
+weeks. We've been cited as the longest running continuous XP project in the
+
+industry (six years and counting), so we have gotten quite good at
+embracing 
+XP's advantages while avoiding its pitfalls. 
+
+Personally, I enjoy working at Airwave more than any job I've ever had. I
+am 
+excited to come into work every day, I work hard for eight hours solving 
+challenging problems, and then go home to lead a well balanced life outside
+
+of work. When I'm at work I get to interact closely with a group that is 
+brilliant, funny, motivated, and inspiring. I spend most of the day
+smiling, 
+laughing, and learning. The team we've built is truly a special group, and
+I'm 
+proud and honored to be a part of it. 
+
+Excited? Good! Now to the nuts and bolts. Airwave developers write software
+in 
+several different languages, primarily object-oriented Perl on Linux
+systems. We 
+use Apache mod_perl2 for our front end UI and PostgreSQL for our back-end 
+persistence layer. Since we manage network devices, knowledge of network 
+protocols would be a plus, e.g. SNMP, TFTP, and HTTP. 
+
+Rolling out a wireless network is a daunting task, but our products help to
+ease 
+that burden. We build network management software that is used by many of
+the 
+leading IT organizations at Fortune 500 companies, major universities, 
+hospitals, and other prominent institutions. Our industry-leading software
+helps 
+plan, configure, manage, and monitor some of the largest wireless networks
+on 
+the planet. 
+
+Required skills:
+Required Skills 
+* Perl 
+* Object-oriented programming 
+* Strong refactoring and design ability 
+
+Desired skills:
+Desirable Skills 
+* Experience developing automated tests 
+* Apache mod_perl 
+* Basic SQL (PostgreSQL experience a plus) 
+* Experience with agile software development 
+* Linux application development 
+* Knowledge of TCP/IP and 802.11 wireless networking 
+
+Contact information at:
+http://jobs.perl.org/job/10734#contact
+
+

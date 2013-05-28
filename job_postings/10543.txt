@@ -1,0 +1,99 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10543
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 12468 invoked from network); 21 Sep 2010 07:42:19 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 21 Sep 2010 07:42:19 -0000
+Received: (qmail 20036 invoked by uid 225); 21 Sep 2010 07:42:19 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 20030 invoked by alias); 21 Sep 2010 07:42:18 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 21 Sep 2010 00:42:17 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 41E8E2AFE0; Tue, 21 Sep 2010 00:42:14 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20100921074214.41E8E2AFE0@x3.develooper.com>
+Date: Tue, 21 Sep 2010 00:42:14 -0700 (PDT)
+Subject: perl XS module developer (telecommute), United States, ME, Sanford
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/12888
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 21, 2010
+
+Job title: perl XS module developer
+
+Company name: Plixer International
+
+Location: United States, ME, Sanford
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+Do you know perlguts?  We are looking for someone to help speed up a perl
+application.  The application runs as a service/daemon and processes large
+volumes of structured binary data.
+
+Project overview:
+  Initial:
+    * Develop set of utility functions coded in C (spec provided)
+    * bundle functions as a module
+    * must run on Win32, Win64 and Linux (32 and 64)
+    * module must also have option to install pure perl versions of the
+functions
+      * perl versions provided
+
+  Future:
+    This project has the potential to expand depending on what we learn
+from this.  Possible additional work include
+      * Help profiling
+      * [re]design consulting (on site preferred)
+	* add parallel processing  (threads? processes?) 
+      * XS implementations of modules on CPAN (POE-XS-Loop-Select? or
+other)
+      * extensions to core perl functions (unpack needs more features...)
+
+Software:
+ActiveState perl 5.10 (or newer if required)
+C compiler
+* Windows MSVC 6
+* Linux gcc
+
+Windows and/or Linux logins can be provided if needed.
+
+Confidential:
+Details are available on this project once we have a signed NDA with
+interested contractors.
+
+
+Required skills:
+perlguts expertise
+perl XS
+C
+perl module development
+
+Desired skills:
+perl profiling
+perl threading
+MySQL
+
+
+Contact information at:
+http://jobs.perl.org/job/12888#contact
+
+

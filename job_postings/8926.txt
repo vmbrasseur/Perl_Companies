@@ -1,0 +1,89 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8926
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 16578 invoked from network); 9 Jan 2009 03:47:29 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 9 Jan 2009 03:47:29 -0000
+Received: (qmail 20470 invoked by uid 225); 9 Jan 2009 03:47:29 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 20466 invoked by alias); 9 Jan 2009 03:47:29 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 08 Jan 2009 19:47:23 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 82FB42B023; Thu,  8 Jan 2009 19:47:20 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20090109034720.82FB42B023@x3.develooper.com>
+Date: Thu,  8 Jan 2009 19:47:20 -0800 (PST)
+Subject: Sr Perl Developer (onsite), GA, Atlanta
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/9316
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January  8, 2009
+
+Job title: Sr Perl Developer
+
+Company name: Bank of America
+
+Location: GA, Atlanta
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Bank of America's Corporate Investments Group is seeking a highly skilled
+Sr Perl Developer to join our quantitative finance team in Atlanta, GA. The
+Corporate Investments Group (CIG) manages a discretionary mortgage
+portfolio of approximately $400 billion and a balance sheet of $1.5
+trillion. The Quantitative wing of CIG is responsible for model
+development, implementation, and reporting. We are a Linux shop. We write
+all our own code using predominantly Perl and C++. Our work is fast-paced
+and intellectually challenging, and we interact daily with traders,
+mathematicians, and senior bank
+management to improve our models and adapt to changing market needs. We
+have a fun atmosphere with casual dress, daily chess puzzles, and unlimited
+opportunities to learn finance as well as to challenge your technical
+skills. No knowledge of finance is necessary for this position, but
+willingness and aptitude for learning is.
+
+Required skills:
+Strong programming skills in Perl (80%) and SQL (20%) 
+3 - 7+ years of Perl experience 
+Skill in operating on flat files and databases with Perl scripts and SQL 
+Writing modules, object-oriented code, and unit tests 
+Unix or Linux experience 
+Ability to work in a time sensitive, market driven environment 
+Strong attention to detail
+
+
+Desired skills:
+Database administration 
+Strong programming skills in C++ 
+Experience using MS Excel for Windows or Mac 
+Familiarity with source-code control using SVN or git 
+Experience with parallel computing using PVM or MPI 
+Strong mathematical skills, especially coursework or experience in
+financial theory, economics, statistics, derivatives pricing, or stochastic
+calculus
+
+
+Contact information at:
+http://jobs.perl.org/job/9316#contact
+
+

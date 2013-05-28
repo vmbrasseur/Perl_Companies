@@ -1,0 +1,152 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6383
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 3256 invoked from network); 1 Jun 2007 21:37:53 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 1 Jun 2007 21:37:53 -0000
+Received: (qmail 15066 invoked by uid 225); 1 Jun 2007 21:37:52 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 15062 invoked by alias); 1 Jun 2007 21:37:52 -0000
+X-Spam-Status: No, hits=3.8 required=8.0
+	tests=BAYES_50,DKIM_POLICY_SIGNSOME,DK_POLICY_SIGNSOME,SPF_PASS,TVD_STOCK1
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 01 Jun 2007 14:36:07 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id E60EF2AFDD; Fri,  1 Jun 2007 14:36:03 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070601213603.E60EF2AFDD@x3.develooper.com>
+Date: Fri,  1 Jun 2007 14:36:03 -0700 (PDT)
+X-Virus-Checked: Checked
+Subject: Intermediate Perl Developer (onsite), Canada, NB, Bathurst
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5885
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June  1, 2007
+
+Job title: Intermediate Perl Developer
+
+Company name: IC-Agency
+
+Location: Canada, NB, Bathurst
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+IC-Agency is a cutting edge marketing consultancy company.  As a profitable
+and well established business in Geneva, Switzerland for many years,
+IC-Agency made the strategic decision of establishing a software production
+and R&D office in Bathurst, New Brunswick, Canada. 
+
+To grow our Canadian software R&D team, we are currently looking for
+Intermediate Perl Developers to participate in the production, planning,
+testing and maintenance of our web-services and applications. Much of our
+software is operated using LAMP (Linux, Apache, MySQL, Perl) on Linux
+servers, while development is conducted in a mixed Windows/Linux network. 
+You will be expected to contribute quality code using established software
+engineering methodologies to one or more projects as directed by the senior
+software architect. At times, you will be given the opportunity to lead all
+technical aspects of a project or component, as you gain seniority within
+our company. We also want you to stay abreast of developments, standards,
+and trends in the web technology sector - both server side and browser
+based - and welcome your creative input as you contribute ideas and
+innovations to our projects on an ongoing basis. You are an individual who
+takes pride in his/her accomplishments and demeanor is characterized by
+urgency, focus and discipline.
+
+The ideal candidate would possess strengths in the following areas: proven
+knowledge in the core skills, problem solving, creative, curious, fast
+learner, self managed and self sufficient, highly motivated to join a
+rapidly growing organization and share the fundamental belief that the
+Internet still holds untapped potential, team player willing to share his
+knowledge, mentor and coach junior developers, keeps current with the
+latest trends and emerging technologies, embraces technological change.
+
+About our Company:
+
+IC-Agency provides Competitive Intelligence, Customer Insight, Reputation
+Management and e-Strategies to customer-centric Fortune 500 firms. We pride
+ourselves on our client satisfaction, innovativeness and thirst for
+knowledge. We believe that top quality products and services start with a
+strong and dynamic team. As such, we offer our employees benefits, planning
+flexibilities and a level of career satisfaction that rivals any top rated
+employer in the IT and e-Marketing industry.
+
+The Bathurst office location allows close proximity to our growing North
+American operations, but also offers our growing workforce of career
+professionals the absolute best quality of life. Bathurst is an ideal
+location for a wealth of physical and leisure activities such as skiing,
+snowmobiling, fishing, canoeing and sightseeing or simply taking long walks
+on our many public beaches. Young families have the choice of French or
+English education for their children from pre-school up to college.  You
+will also benefit from very low property costs and taxes. 
+
+Specific responsibilities:
+
+You will be part of a development team working simultaneously on one or
+more projects in different phases of completion.  In your role as
+Intermediate PERL Developer, you will compliment the Senior Software
+Architect with your strong apache/mod_perl, OOPerl and MySQL skills. You
+will take an important role in the development of key software components
+that make up our web applications. You will develop scalable web-service
+components and work on key parts of our service infrastructure. You may be
+the main contributor to our system administration, automation and
+monitoring environment. You will also be responsible to train junior team
+members who will be joining us on an ongoing bases.
+
+Required skills:
+Must have or essential skills: 
+
+   1. Minimum of 4+ years of experience as a software developer.
+   2. Proven experience with web development using LAMP or WAMP.
+   3. Excellent proficiency with the PERL language and the mod_perl apache
+extension.
+   4. Experience with web development JavaScript, DHTML and mod_per based
+templating frameworks such as Mason.
+   5. Usage of MySQL at an advanced level and ability to write efficient
+SQL code.
+   6. Linux system administration and shell scripting experience.
+   7. Strong understanding of development and deployment processes of
+hosted web applications, including server configuration and optimization.
+   8. Team player with strong communications skills, verbal and written.
+
+Desired skills:
+Nice to have skills and skills which we would consider a definite plus:
+
+   1. Experience in the creation of testing documentation.
+   2. Demonstrated abilities in multitasking multiple projects at once.
+   3. Proven experience in constructing interactive web-based GUIs.
+   4. Proficiency in PHP and PHP frameworks such as Smarty.
+   5. Past usage of AJAX or AJAX-frameworks (i.e. YUI).
+   6. Experience with the implementation or usage of web services in
+SOAP/XML-RPC.
+   7. Experience with other database systems - in particular PosgresQL.
+   8. User Documentation authoring experience.
+   9. Domain knowledge of consumer behaviors and demographics.
+   10. Exposure to graphics design and image editing software (i.e.
+Photoshop).
+   11. Past experience with general open source development, LAMP related
+software and Internet resources (CPAN).
+
+URL for more information: http://www.ic-agency.com/
+
+Contact information at:
+http://jobs.perl.org/job/5885#contact
+
+

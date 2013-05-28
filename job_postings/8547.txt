@@ -1,0 +1,102 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8547
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 9879 invoked from network); 13 Aug 2008 16:58:55 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 13 Aug 2008 16:58:55 -0000
+Received: (qmail 13757 invoked by uid 225); 13 Aug 2008 16:58:55 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 13747 invoked by alias); 13 Aug 2008 16:58:54 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 13 Aug 2008 09:58:50 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 4AB122AFD1; Wed, 13 Aug 2008 09:58:47 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080813165847.4AB122AFD1@x3.develooper.com>
+Date: Wed, 13 Aug 2008 09:58:47 -0700 (PDT)
+Subject: Internal Systems Developer    (onsite), United States, Texas, Houston 
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/9376
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August  7, 2008
+
+Job title: Internal Systems Developer   
+
+Company name: cPanel Inc.
+
+Internal ID: Internal Dev
+
+Location: United States, Texas, Houston 
+
+Pay rate: Salary contingent with experience
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: Perm
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+cPanel is currently looking for an experienced perl web developer to build
+and maintain internal company systems.
+
+Required skills:
+Qualifications:
+
+    * US work eligibility.
+    * Perl web development experience
+	  o MySQL database interaction
+	  o Sessions / Cookies / Authentication
+	  o OO experience
+	  o Templating (Template Toolkit, HTML::Template)
+    * Version control experience (svn, cvs, rcs)
+    * XML parsing and interaction
+    * Strong interpersonal skills
+    * Experience with Asterisk PBX
+    * *nix environment experience (FreeBSD, CentOS, RHEL)
+    * MySQL replication experience (multi-master)
+
+
+Job Duties:
+
+    * Maintaining internal network of servers and desktop computers
+    * Building and installing new network infrastructure components
+    * Working closely with developer on proof of concept scenarios
+    * Maintaining multiple POPs across the country
+
+
+Desired skills:
+
+Benefits:
+
+    * Full Health, Vision and Dental coverage
+    * Flexible Spending Account
+    * Free on-site lunch
+    * Paid Vacation
+    * Tuition Reimbursement
+    * Casual Working Environment
+    * 401K Matching
+
+
+URL for more information: http://www.cpanel.net/
+
+Contact information at:
+http://jobs.perl.org/job/9376#contact
+
+

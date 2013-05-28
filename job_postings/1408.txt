@@ -1,0 +1,90 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:1408
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 45628 invoked by uid 76); 12 Mar 2004 08:27:41 -0000
+Received: from x1.develooper.com (HELO x1.develooper.com) (63.251.223.170)
+  by onion.perl.org (qpsmtpd/0.27.1) with SMTP; Fri, 12 Mar 2004 00:27:41 -0800
+Received: (qmail 25752 invoked by uid 225); 12 Mar 2004 08:27:39 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 25656 invoked by alias); 12 Mar 2004 08:27:22 -0000
+Received: from [63.251.223.166] (HELO onion.perl.org) (63.251.223.166)
+  by la.mx.develooper.com (qpsmtpd/0.27.1) with SMTP; Fri, 12 Mar 2004 00:27:22 -0800
+Received: (qmail 45494 invoked by uid 1016); 12 Mar 2004 08:27:20 -0000
+Date: 12 Mar 2004 08:27:20 -0000
+Message-ID: <20040312082720.45493.qmail@onion.perl.org>
+To: jobs@perl.org
+X-Spam-Checker-Version: SpamAssassin 2.63 (2004-01-11) on x1.develooper.com
+X-Spam-Status: No, hits=-4.9 required=8.0 tests=BAYES_00 autolearn=ham 
+	version=2.63
+Subject: Perl for collection,transport and publishing system (onsite), United States, California, San Francisco
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1304
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 11, 2004
+
+Job title:
+Perl for collection,transport and publishing system
+
+Company name: Systems Integration Solutions
+
+Location: United States, California, San Francisco
+
+Pay rate: $50.00/hour  USD
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 6+ months
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+CGI Perl Programmer Software Engineer
+Perl, UNIX, shell scripting, basic SQL ( Java, networking, HTML, Perl
+CGI.PM)
+*  CGI Perl Mid-level Developer/Programmer (2-5 years)	w/ Java skills
+needed to help a Network Support Systems group develop an AutoTest tool. 
+*  Will  work on a project that tests the SMS (text message), WAP (mobile
+web), 1xRTT (data) and MMS (photos) networks by controlling remotely
+located handsets and collecting statistics on the success of the tests,
+publishing the results on a web page
+*  The tool has many internal users, ranging from technicians checking
+network links to executives getting quality of service summary reports.  
+Deliverable:
+*  Expand the current collection, transport and publishing system to handle
+tests of MMS, PTT (push-to-talk), EVDO (high rate data) and other new
+features provided to their customers.
+Main deliverables:
+*   Enhance the web page where individual tests are displayed and summary
+reports are created. 
+* Create setup and management scripts for automating the maintenance of the
+system
+*  Candidates local to Northern CA only
+
+
+Required skills: Perl, UNIX, shell scripting, basic SQL 
+
+Desired skills: Java, networking, HTML, Perl CGI.PM
+
+Contact information:
+Anita Tonnessen - Technical Recruiter
+Systems Integration Solutions, Inc.
+525 Market St.; San Francisco CA 94105
+T: 415.537.7100 x 3233
+T: 800.244.4990
+F: 415/537-7117 
+atonnessen@sisinc.com; www.sisinc.com
+
+

@@ -1,0 +1,104 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10468
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 15618 invoked from network); 26 Aug 2010 01:08:27 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 26 Aug 2010 01:08:27 -0000
+Received: (qmail 18094 invoked by uid 225); 26 Aug 2010 01:08:26 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 18090 invoked by alias); 26 Aug 2010 01:08:26 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 25 Aug 2010 18:08:22 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 59DAF2AFE0; Wed, 25 Aug 2010 18:08:19 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20100826010819.59DAF2AFE0@x3.develooper.com>
+Date: Wed, 25 Aug 2010 18:08:19 -0700 (PDT)
+Subject: Full Time Web Service / Catalyst Developer  (onsite), United States, NJ, Secaucus
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/12782
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 24, 2010
+
+Job title:
+Full Time Web Service / Catalyst Developer 
+
+Company name: PRG
+
+Location: United States, NJ, Secaucus
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The right candidate will be able to design, develop, and operate highly
+scalable systems. PRG is interested in advancing our internal and external
+facing web services leveraging such technologies as Publish/Subscribe,
+NoSQL, Distributed Transactions.
+
+Please note that this position is a hands-on coding position with
+“thought-leadership” responsibilities.
+
+Requirements:
+
+    * Several years of software development experience with a leadership
+role using PERL
+    * Expertise in development using modern object oriented and functional
+languages.
+    * Significant development experience with modern MVC based frameworks
+    * Experience with web services (SOAP, REST).
+    * Experience in a high volume environment.
+    * Experience in database design, SQL, NoSQL and object relational
+mapping.
+    * Enthusiasm for solving difficult problems.
+    * Working knowledge of front-end technologies such as HTML, CSS, and
+Javascript.
+    * Experience with caching layers (Memcache, APC, Squid)
+    * Expert knowledge of source control (Git)
+    * Commitment to clean, well documented, peer reviewed code
+
+Along with a resume and please forward links to existing work with an
+explanation of your direct contribution including contributions to the open
+source projects.
+
+To apply please forward your resume and relevant information to
+jobs@prg.com
+
+Production Resource Group is an Equal Opportunity Employer
+
+Required skills:
+PERL
+Catalyst or at least MVC
+MySQL
+OO design
+
+
+Desired skills:
+Prior web service / API
+PHP 
+Javascript
+
+URL for more information:
+http://www.prg.com/careers/lead-developer
+
+Contact information at:
+http://jobs.perl.org/job/12782#contact
+
+

@@ -1,0 +1,111 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11389
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 29228 invoked from network); 10 Jun 2011 08:31:25 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 10 Jun 2011 08:31:25 -0000
+Received: (qmail 20814 invoked by uid 225); 10 Jun 2011 08:31:25 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 20810 invoked by alias); 10 Jun 2011 08:31:25 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 10 Jun 2011 01:31:22 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 7AC612AFE9; Fri, 10 Jun 2011 01:31:19 -0700 (PDT)
+To: jobs@perl.org
+Date: Fri, 10 Jun 2011 01:31:19 -0700
+Message-ID: <20110610083119.7AC612AFE9@x3.develooper.com>
+Subject: Web Front-End Developer (onsite), United States, IL, Chicago
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14306
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June  9, 2011
+
+Job title: Web Front-End Developer
+
+Company name: ServerCentral
+
+Location: United States, IL, Chicago
+
+Pay rate: negotiable
+
+Terms of employment: Salaried employee
+
+Length of employment: ongoing
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+ServerCentral provides managed datacenter solutions with a focus on high
+performance hosting environments. With datacenters strategically located
+worldwide, we serve a diverse roster of clients which include content
+delivery companies, webhosting and application service providers, and
+enterprise clients.
+ 
+We focus on providing consistent quality and personalized service to our
+clients across our entire portfolio of services. Whether hosting a
+dedicated server package, distributing gigabits of content, or maintaining
+a large-scale colocation footprint, our clients know they can count on
+ServerCentral to keep their IT infrastructure running smoothly.
+
+Server Central is seeking a senior level web front end developer for work
+on a multi-tenant customer portal. The ideal candidate would have 5+ years
+experience in web based applications development with a heavy focus on
+DOM/DHTML, javascript and CSS in a team environment and participated in all
+phases of product development. 
+
+
+Required skills:
+Basic Requirements:
+•	Strong work ethic and proactive attitude
+•	Experienced in working in small teams
+•	Strong communication skills
+•	Excellent problem solving and analytical skills
+•	Willingness to learn new skills
+•	Team player looking for challenges
+
+Desired skills:
+Skills Required:
+•	Expert level knowledge of designing and implementing widgets and/or
+application UI in javascript DHTML/DOM.
+•	Experience with implementing AJAX methods and
+multithreading/eventing issues
+•	Familiarity with one or more Javascript-based toolkits and
+frameworks, i.e. jQuery, Dojo, Script.aculo.us, etc.
+•	Experience in building highly dynamic, cross-browser compatible web
+applications.
+•	Familiarity with version control (SVN, CVS, git, etc)
+
+Pluses:
+•	Graphic design experience
+•	Perl and/or Template Toolkit
+•	Basic understanding of GNU/Linux and Apache.
+•	Knowledge of developing web services (REST, RPC, JSON, XML, SOAP,
+etc)
+•	Prior experience in the ISP, telecom, or hosting provider industry.
+
+•	Linux and Windows systems management experience
+•	Basic networking knowledge (ping, udp, tcp, snmp, routing, etc)
+•	Experience with virtualization platforms (VMware, Xen, KVM,
+Hyper-V)
+•	Experience with Cloud services (particularly IaaS) platforms.
+•	Experience with creating or integrating to billing systems
+•	Experience with RRD
+
+Website for more information: http://www.servercentral.com/
+
+Contact information at:
+http://jobs.perl.org/job/14306#contact

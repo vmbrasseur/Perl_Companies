@@ -1,0 +1,93 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8204
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13549 invoked from network); 29 May 2008 06:35:26 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 29 May 2008 06:35:26 -0000
+Received: (qmail 8228 invoked by uid 225); 29 May 2008 06:35:26 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 8224 invoked by alias); 29 May 2008 06:35:25 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 28 May 2008 23:35:20 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 608E72AFEC; Wed, 28 May 2008 23:35:17 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080529063517.608E72AFEC@x3.develooper.com>
+Date: Wed, 28 May 2008 23:35:17 -0700 (PDT)
+Subject: Improve Devel::NYTProf under mod_perl1 (telecommute), Telecommute
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8814
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 28, 2008
+
+Job title: Improve Devel::NYTProf under mod_perl1
+
+Company name: Confidential
+
+Internal ID: NYTProf
+
+Location: Telecommute
+
+Pay rate: Bid
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: 2 weeks
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+My client is using Devel::NYTProf under mod_perl1 to profile their large
+application. They want several improvements and fixes to be made to this
+module and the changes will be sent to the maintainer so they can update
+CPAN. This module was written by a developer at the New York Times but
+he doesn't have the spare time to help out.
+
+The main problem they are seeing is with the profiler output file not
+getting parsed correctly, even when running Apache in single process
+mode. They also get "Inconsistent pids in profile data (pid %d not
+introduced)", which is strange since they are running in single process
+mode. The problems happen sporadically and aren't reliably repeatable
+which makes testing difficult.
+
+They would also like to see better support for forking, specifically
+under mod_perl. They are interested in doing some load testing with the
+profiler attached to look for interesting trends, resource contention,
+etc.
+
+They're current platform is Ubuntu 6.10 (with designs to move to 7.04),
+Apache/1.3.34, mod_perl/1.29, and Perl 5.8.8.
+
+This project is should be done in under two weeks. Please submit a fixed
+price bid. You should also send a current resume and samples of your
+Perl code (CPAN id is fine).
+
+
+Required skills:
+Strong Perl
+Apache
+mod_perl1
+Profiling experience
+
+URL for more information: http://perlhunter.com/
+
+Contact information at:
+http://jobs.perl.org/job/8814#contact
+
+

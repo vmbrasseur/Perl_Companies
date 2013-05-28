@@ -1,0 +1,93 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11032
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28943 invoked from network); 23 Feb 2011 19:23:44 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 23 Feb 2011 19:23:44 -0000
+Received: (qmail 3390 invoked by uid 225); 23 Feb 2011 19:23:44 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 3386 invoked by alias); 23 Feb 2011 19:23:44 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 23 Feb 2011 11:23:40 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 952812AFE0; Wed, 23 Feb 2011 11:23:37 -0800 (PST)
+To: jobs@perl.org
+Date: Wed, 23 Feb 2011 11:23:37 -0800
+Message-ID: <20110223192337.952812AFE0@x3.develooper.com>
+Subject: Server side dev for theregister.co.uk (Edinburgh) (onsite), United
+ Kingdom, Scotland, Edinburgh
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13722
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 23, 2011
+
+Job title: Server side dev for theregister.co.uk (Edinburgh)
+
+Company name: The Register
+
+Location: United Kingdom, Scotland, Edinburgh
+
+Pay rate: Neg. based on experience
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Situation Publishing, owner of The Register and Reg Hardware is looking for
+a full time developer/sysadmin to work on server side Perl code & Debian
+based servers.
+
+You’ll work in our Edinburgh office doing a combination of development,
+on-going maintenance and tasks such as log reporting, server monitoring,
+applying software updates and system tuning to ensure the availability and
+quality of our online presence.
+
+We favour open source: Debian/Ubuntu, Perl, Apache, MySQL & Postgres. We
+rely heavily on Git for process and revision control.
+
+Our Edinburgh tech team is small, focused and has a good degree of
+autonomy, so you need to be able to produce great work without a carrot or
+stick and be comfortable communicating with the wider business via email,
+phone, IM and online tools such as Wikis and Google Docs.
+
+We offer a competitive salary based on your experience; company pension
+contribution; and 25 days annual holiday.
+
+Required skills:
+- Tenacious eye for detail, good design and “working smarter” pragmatic
+solutions.
+- Plenty of experience writing Perl (or excellent skills in a similar
+language and be happy to bend them to working with Perl).
+- Debian/Ubuntu experience & be comfortable with the shell, package
+management & day to day sysadmin tasks.
+- Good knowledge of Apache, modern software revision control (eg, Git) and
+be comfortable using SQL.
+- Excellent English & the legal right to work in the UK.
+
+
+Desired skills:
+Our business is on the web, so while HTML, JavaScript, CSS skills are not
+required they are desirable and you would be expected to become familiar
+with them over time.  Knowledge of Exim and/or server virtualisation would
+also be a bonus.
+
+
+Website for more information: http://www.theregister.co.uk/
+
+Contact information at:
+http://jobs.perl.org/job/13722#contact

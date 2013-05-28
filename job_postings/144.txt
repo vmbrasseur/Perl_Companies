@@ -1,0 +1,52 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:144
+Return-Path: <igal+work@koshevoy.com>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 66235 invoked from network); 4 Aug 2001 00:27:14 -0000
+Received: from ptlddslgw10poola147.ptld.uswest.net (HELO rheya.ebizquality.net) (65.100.32.147)
+  by onion.valueclick.com with SMTP; 4 Aug 2001 00:27:14 -0000
+Received: from koshevoy.com (rheya [127.0.0.1])
+	by rheya.ebizquality.net (8.9.3/8.9.3) with ESMTP id RAA03808
+	for <jobs@perl.org>; Fri, 3 Aug 2001 17:26:46 -0700
+Message-ID: <3B6B4145.9010303@koshevoy.com>
+Date: Fri, 03 Aug 2001 17:26:45 -0700
+User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:0.9.2) Gecko/20010628
+X-Accept-Language: en-us
+MIME-Version: 1.0
+To: jobs@perl.org
+Content-Type: text/plain; charset=us-ascii; format=flowed
+Content-Transfer-Encoding: 7bit
+X-Spam-Rating: onion.valueclick.com 1.6.2 0/1000/N
+Subject: Seeking Perl work in the Portland, Oregon metro area
+Approved: news@nntp.perl.org
+From: igal+work@koshevoy.com (Igal Koshevoy)
+
+Seeking position as project leader, architect, or senior software
+engineer. Looking for something local, but will consider telecommuting.
+
+I have 7 years of extensive Perl experience. The last two years I was
+CTO and architect developing a distributed, object-oriented system.
+The beast used 150,000 lines of Perl & SQL, and exchanged 6 GB of data
+a day between servers across the nation. It used mod_perl, Mason,
+h2xs, PlRPC, XML; Solaris, Linux; Oracle, PL/SQL, and PostgreSQL.
+
+My broad skill set lets me rapidly build systems:
+- Leadership & project management: Able to budget, plan, and manage
+  the software process.
+- Software engineer: Can do architecture, object design, and complex
+  coding.
+- DBA and data modeling: Skilled in schema design, data replication,
+  backup/recovery, and tuning.
+- System and network admin: Managed hundreds of UNIX and Windows
+  machines, LANs, WANs, etc.
+
+Interested in learning more? View my resume at
+http://koshevoy.com/igal_resume.html
+
+Thanks for your time!
+
+igal+work@koshevoy.com
+

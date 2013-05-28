@@ -1,0 +1,117 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8140
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 10887 invoked from network); 13 May 2008 19:07:01 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 13 May 2008 19:07:01 -0000
+Received: (qmail 17118 invoked by uid 225); 13 May 2008 19:07:00 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 17110 invoked by alias); 13 May 2008 19:07:00 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 13 May 2008 12:06:56 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 8F2192AFEB; Tue, 13 May 2008 12:06:53 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080513190653.8F2192AFEB@x3.develooper.com>
+Date: Tue, 13 May 2008 12:06:53 -0700 (PDT)
+Subject: Senior Software Engineer (onsite), United States, CA, San Diego
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8692
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 13, 2008
+
+Job title: Senior Software Engineer
+
+Company name: St. Bernard
+
+Internal ID: SSEI
+
+Location: United States, CA, San Diego
+
+Pay rate: >100k
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: Permanent
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The Senior Software Engineer for IGuard is responsible for design
+requirements and specification development, programming and implementation
+of the IGuard system.
+
+Duties and Responsibilities	
+•	End-to-end software development for internal customer projects and
+for system enhancement projects, including requirements collection,
+architecture, design, coding, testing, building, monitoring.
+•	Maintaining legacy systems so as to keep internal customers happy
+(working hours only)
+•	Researching legacy systems, followed by suggesting and implementing
+system improvements.
+•	Building web spidering, scraping, and analysis tools.
+•	Researching new technologies and tools to improve the team,
+products, and company.
+•	Documenting systems/applications  for developers and for internal
+customers
+
+
+Required skills:
+General:
+
+•	3 years of Perl
+•	3 years of relational database design and usage (PostgreSQL
+preferred)
+•	3 years Unix shell scripting (bash, csh)
+•	3 years of configuration and usage of Linux , FreeBSD, or Mac OSX
+systems, including basic installation and administration tasks.
+•	2 years of C
+•	Experience using source-control and bug-tracking tools (cvs and
+Bugzilla preferred)
+•	BS CS or equivalent experience
+
+Specific:
+
+•	Object-oriented systems development
+•	3 years development in at least one other high-level language
+•	Ability to define tradeoffs between application-space and
+database-space
+•	Ability to benchmark and tune programs and database queries
+•	Ability to identify problems, and to perform root-cause analysis.
+•	Ability to prioritize and organize own queue so as to solve small
+problems today while pressing on towards solution of large problems
+•	Comfortable in small team environment
+
+
+Desired skills:
+•	Scrum experience
+•	Attendance or participation in development community (e.g. pm.org,
+perlmonks)
+•	RESTful web services, Javascript, AJAX
+•	Maintenance of several small Java GUI applications, probably
+converting them to web-apps (backed by Catalyst)
+•	Maintenance of several C-based components
+
+
+URL for more information: http://www.stbernard.com/
+
+Contact information at:
+http://jobs.perl.org/job/8692#contact
+
+

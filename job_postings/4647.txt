@@ -1,0 +1,88 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4647
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 757 invoked from network); 19 Jul 2006 13:16:29 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 19 Jul 2006 13:16:29 -0000
+Received: (qmail 1838 invoked by uid 225); 19 Jul 2006 13:16:29 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 1828 invoked by alias); 19 Jul 2006 13:16:28 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_05
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 19 Jul 2006 06:15:40 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 09BA02AFDD; Wed, 19 Jul 2006 06:15:36 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060719131536.09BA02AFDD@x3.develooper.com>
+Date: Wed, 19 Jul 2006 06:15:36 -0700 (PDT)
+Subject: OO Perl programmer for algorithmic trading / market data (onsite), United States, NY, New York
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4381
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 18, 2006
+
+Job title:
+OO Perl programmer for algorithmic trading / market data
+
+Company name: Morgan Stanley
+
+Location: United States, NY, New York
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+JOB DESCRIPTION:
+
+ETL (Equity Trading Lab) proprietary traders and researchers develop
+trading strategies that are heavily dependent on a wide range of market and
+financial data, both real-time and end-of-day. ETL client researchers
+develop algorithmic trading strategies which are also highly dependent on
+market data. The Market Data/ETL (METL) team develops, maintains and
+operates processes that interact with markets around the globe in real
+time. In addition, the team develops, maintains and operates database
+systems that warehouse a wide range of financial data. The development and
+implementation of these systems is the core function of this position. In
+addition, responsibilities include turnover planning and implementation,
+testing, coordination with ETL researchers, trader supervisors and ETL team
+members in other regions. 
+
+
+EDUCATIONAL REQUIREMENTS:
+
+B.S. in Computer Science. (M.S. is desirable.)
+
+Required skills:
+OO Perl
+Sybase
+SQL
+Unix/Linux
+Strong software design practices.
+Extensive work with large relational databases.
+Solid communication skills.
+Strong team player.
+Self-starter, self-manager.
+
+Desired skills: Knowledge of financial markets.
+
+Contact information at:
+http://jobs.perl.org/job/4381#contact
+
+

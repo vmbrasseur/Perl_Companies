@@ -1,0 +1,98 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:1912
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 20250 invoked from network); 15 Sep 2004 16:02:04 -0000
+Received: from x1.develooper.com (63.251.223.170)
+  by lists.develooper.com with SMTP; 15 Sep 2004 16:02:04 -0000
+Received: (qmail 769 invoked by uid 225); 15 Sep 2004 16:02:03 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 745 invoked by alias); 15 Sep 2004 16:02:01 -0000
+X-Spam-Status: No, hits=-4.9 required=8.0
+	tests=BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.dev) (63.251.223.163)
+  by la.mx.develooper.com (qpsmtpd/0.27.1) with ESMTP; Wed, 15 Sep 2004 09:01:56 -0700
+Received: from x3.dev (localhost.localdomain [127.0.0.1])
+	by x3.dev (8.12.11/8.12.11) with ESMTP id i8FG1rIb012970
+	for <jobs@perl.org>; Wed, 15 Sep 2004 09:01:53 -0700
+Received: (from jobs@localhost)
+	by x3.dev (8.12.11/8.12.11/Submit) id i8FG1rxM012968;
+	Wed, 15 Sep 2004 09:01:53 -0700
+Date: Wed, 15 Sep 2004 09:01:53 -0700
+Message-ID: <200409151601.i8FG1rxM012968@x3.dev>
+X-Authentication-Warning: x3.dev: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Perl/mySQL Application Programmer (onsite), United States, AR, Little Rock
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1805
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 15, 2004
+
+Job title: Perl/mySQL Application Programmer
+
+Company name: Softwyre
+
+Location: United States, AR, Little Rock
+
+Pay rate: DOE
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are seeking an experienced, senior Perl/mySQL programmer to help build
+and enhance a special-purpose web application in Apache/perl/mySQL, and to
+contribute at a senior technical level on related projects.
+
+Relevant skills:
+
+* System/network administration experience in a Unix-like system,
+preferably Red HatLinux, at least several years, is required.
+* BS/CS or equivalent experience, plus 5+ solid years of Perl programming
+experience required; writing quickie scripts for system administration is
+not enough.
+* Understanding and working with complex Perl data structures, references,
+regexps, packages, objects, etc. is a basic requirement.
+* CGI programming experience is a must. Having built a complete, successful
+application server in perl, would be the best possible qualification for
+this position.
+
+*Ability to translate functional requirements specifications into code.
+*Functional familiarity with UNIX, AIX & LINUX shells as a development
+environment, including use of the 'vi' editor.
+*Familiarity with Bourne & Korn shell scripting to automate scheduled and
+other repetative tasks.
+* Work with project managers to implement features that enhance the overall
+user experience
+* Design code modules that scale well under heavy load
+* Interface with graphic designers to assist with front-end development
+* Work with QA analysts to resolve issues before going live
+* Solid mySQL and relational database knowledge
+* HTML fluency
+* Understanding how high volume and a load-balanced environment can affect
+coding approach.
+
+Required skills: Perl, mySQL, HTML, Red Hat, Apache
+
+Desired skills: Code analysis
+
+Contact information:
+resume@softwyre.com
+Phone: 501-734-0017 
+Fax: 501-851-0651
+
+

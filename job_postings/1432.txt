@@ -1,0 +1,70 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:1432
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 18958 invoked by uid 76); 21 Mar 2004 17:38:45 -0000
+Received: from x1.develooper.com (HELO x1.develooper.com) (63.251.223.170)
+  by onion.perl.org (qpsmtpd/0.27.1) with SMTP; Sun, 21 Mar 2004 09:38:45 -0800
+Received: (qmail 23164 invoked by uid 225); 21 Mar 2004 17:38:42 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 23153 invoked by alias); 21 Mar 2004 17:38:39 -0000
+X-Spam-Status: No, hits=0.0 required=7.0
+	tests=
+X-Spam-Check-By: la.mx.develooper.com
+Received: from onion.develooper.com (HELO onion.perl.org) (63.251.223.166)
+  by la.mx.develooper.com (qpsmtpd/0.27.1) with SMTP; Sun, 21 Mar 2004 09:38:23 -0800
+Received: (qmail 18808 invoked by uid 1016); 21 Mar 2004 17:38:22 -0000
+Date: 21 Mar 2004 17:38:22 -0000
+Message-ID: <20040321173822.18807.qmail@onion.perl.org>
+To: jobs@perl.org
+Subject: Perl and MySQL expert - part time project (telecommute), MA, Boston
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1329
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 21, 2004
+
+Job title:
+Perl and MySQL expert - part time project
+
+Company name: Ontri.com
+
+Location: MA, Boston
+
+Pay rate: TBD
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: 2 weeks
+
+Hours: Part time
+
+Onsite: no
+
+Description:
+A multi-tenant application for triathlon clubs and teams to post training
+schedules and events (simple group calendar), share contact info, share
+photos, simple bulliten board discussion and a personal trainer application
+to track their workouts.  Most of the code for these modules is available
+in public Perl libraries so a lot of the work would be simply aggregating
+those modules into a clean and consistant UI with the multi-tenant support.
+ The trainer application would be from scratch.  
+
+Required skills: Perl, MySQL
+
+Desired skills:
+Strong UI skills
+Experience with yahoo! hosting
+
+Contact information: founder@ontri.com
+
+

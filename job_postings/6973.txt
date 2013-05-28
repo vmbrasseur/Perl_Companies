@@ -1,0 +1,92 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6973
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 17810 invoked from network); 19 Sep 2007 15:41:37 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 19 Sep 2007 15:41:37 -0000
+Received: (qmail 18601 invoked by uid 225); 19 Sep 2007 15:41:37 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 18590 invoked by alias); 19 Sep 2007 15:41:35 -0000
+X-Spam-Status: No, hits=-2.6 required=8.0
+	tests=BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 19 Sep 2007 08:41:22 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 2FF722AFE4; Wed, 19 Sep 2007 08:41:19 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070919154119.2FF722AFE4@x3.develooper.com>
+Date: Wed, 19 Sep 2007 08:41:19 -0700 (PDT)
+Subject: Decipher Web Developer, United Kingdom, Hinxton; Cambridge
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/6775
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 19, 2007
+
+Job title: Decipher Web Developer
+
+Company name: Wellcome Trust Sanger Institute
+
+Internal ID: Ref PERL1401
+
+Location: United Kingdom, Hinxton; Cambridge
+
+Pay rate: £26,650 - £35,875
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Description:
+The Wellcome Trust Sanger Institute uses large-scale sequencing,
+informatics and analysis of genetic variation to understand gene function
+in health and disease and to generate resources of lasting value.
+The DECIPHER project - Database of Chromosomal Imbalance and Phenotype in
+Humans using Ensembl Resources is an international collaboration between
+Clinical and Medical Genetics laboratories worldwide. Its aims are to
+collect and correlate pathogenic submicroscopic chromosomal imbalances;
+namely chromosomal microdeletions/duplications/insertions, translocations
+and inversions and display this information on the human genome map with
+the aims of:
+• Increasing medical and scientific knowledge about chromosomal
+microdeletions/duplications.
+• Improving medical care and genetic advice for individuals/families with
+submicroscopic chromosomal imbalance.
+• Facilitating research into the study of genes which affect human
+development and health.
+The project is entering an exciting expansion phase and to help accommodate
+this we need to extend the website and its database presence accordingly.
+The project website (http://decipher.sanger.ac.uk/) which is hosted by the
+Wellcome Trust Sanger Institute is written in a combination of
+HTML/CSS/Javascript and PERL served over SSL with a MySQL database hosting
+the data.
+
+
+Required skills:
+To facilitate this expansion we are seeking to employ a Senior Web
+Developer. The successful candidate will work as part of the Sanger web
+team. Applicants will be expected to have a Computer Science/Bioinformatics
+degree or extensive relevant experience. 
+
+Desired skills:
+Experience of working with PERL programming language in a Unix environment,
+MySQL, Apache Webserver software, web configuration and troubleshooting,
+HTML/CSS/Javascript is essential. Experience of working with Object
+oriented software design, SSL, a good understanding of web security, web
+systems administration and web architecture design is desirable.
+
+URL for more information: http://www.sanger.ac.uk/
+
+Contact information at:
+http://jobs.perl.org/job/6775#contact
+
+

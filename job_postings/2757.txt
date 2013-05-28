@@ -1,0 +1,95 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2757
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 10648 invoked from network); 22 May 2005 03:55:43 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 22 May 2005 03:55:43 -0000
+Received: (qmail 30376 invoked by uid 225); 22 May 2005 03:55:43 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 30372 invoked by alias); 22 May 2005 03:55:42 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 21 May 2005 20:55:39 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j4M3tb8P011790
+	for <jobs@perl.org>; Sat, 21 May 2005 20:55:37 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j4M3tba3011788;
+	Sat, 21 May 2005 20:55:37 -0700
+Date: Sat, 21 May 2005 20:55:37 -0700
+Message-ID: <200505220355.j4M3tba3011788@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Perl Programmer for Mainframe to Linux Migration (onsite), United States, TX, Waco
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2645
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 21, 2005
+
+Job title:
+Perl Programmer for Mainframe to Linux Migration
+
+Company name: Cedar Creek Software
+
+Location: United States, TX, Waco
+
+Pay rate: Negotiable
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 4 - 6 moths
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are migrating mainframe applications to Linux/Perl/MySQL/PostgreSQL. The
+successful candidate for this position will be able to take loose
+descriptions of the mainframe application and build and document programs
+that interoperate with existing MySQL and PostgreSQL databases.  Though we
+use PerlQT for user interface – some user interfaces could be a CGI.
+
+Applications include  invoice printing, general ledger, inventory,
+purchasing, accounts payable,  lots of reports and data parameter
+maintenance programs.
+
+Position requires articulate, courteous, and reliable communication.
+Excellent interpersonal skills, flexibility, and a “can do” attitude are
+essential. Must be able to work in a supervised, team environment. We have
+a project deadline of 11/1/2005 - so some long weeks may be required. 
+
+We are located about 8 miles north of Waco - about an hour from south Fort
+Worth and south Dallas. 
+
+Required skills:
+3-4 years Software Development Experience
+Perl, 
+Relation Database - MySQL is what we primarily use
+Linux - we use and deploy on linux
+B.S. degree in Computer Science or demonstrable programming experience
+Excellent communication skills.
+
+
+Desired skills:
+Highly Desirable PerlQT
+Good to have PostgreSQL
+Experience with business applications
+
+
+Contact information at:
+http://jobs.perl.org/job/2645#contact
+
+

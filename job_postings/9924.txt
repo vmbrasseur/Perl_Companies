@@ -1,0 +1,118 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9924
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 2413 invoked from network); 10 Mar 2010 07:37:20 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 10 Mar 2010 07:37:20 -0000
+Received: (qmail 15383 invoked by uid 225); 10 Mar 2010 07:37:20 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 15346 invoked by alias); 10 Mar 2010 07:37:19 -0000
+X-Spam-Status: No, hits=-0.0 required=8.0
+	tests=SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 09 Mar 2010 23:36:49 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id B9AFF2AFE5; Tue,  9 Mar 2010 23:36:37 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20100310073637.B9AFF2AFE5@x3.develooper.com>
+Date: Tue,  9 Mar 2010 23:36:37 -0800 (PST)
+Subject: Software Engineer - AirWave Management System (onsite), United States, CA, Sunnyvale
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/11890
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March  9, 2010
+
+Job title:
+Software Engineer - AirWave Management System
+
+Company name: Aruba Networks
+
+Internal ID: 1025
+
+Location: United States, CA, Sunnyvale
+
+Pay rate: Market
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: Full Time
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+ARUBA NETWORKS - People Move. Networks must follow. 
+
+Founded in 2002, Aruba Networks securely delivers networks to users,
+wherever they work or roam. Our unified mobility solutions include Wi-Fi
+networks, identity-based security, remote access and cellular services, and
+centralized multi-vendor network management that enable the Follow-Me
+Enterprise that moves in lock-step with users.
+ 
+The cost, convenience, and security benefits of our unified mobility
+solutions are fundamentally changing how and where we work. Listed on the
+NASDAQ and Russell 2000 Index, Aruba is based in Sunnyvale, California, and
+has operations throughout the Americas, Europe, Middle East, and Asia
+Pacific regions.
+
+== Software Engineer ==
+
+AirWave Wireless, a division of Aruba Networks in Sunnyvale, is looking for
+a full-time Software Engineer to join our team. We develop network
+management software is used by many Fortune 500 companies, major
+universities, hospitals and other prominent institutions worldwide. Our
+industry-leading software helps customers plan, configure, manage and
+monitor some of the largest wireless networks on the planet.
+
+Our team practices extreme programming (XP) so we spend most of our time
+writing code. We believe that running code and short feedback loops speak
+louder than excessive documentation and month-long design meetings. We
+believe in test-driven development and have a comprehensive suite of tests
+to prove it – 31,000 at last count! We pair program, so you will learn the
+system quickly (and have fun while doing it), and our short release cycle
+means your code will be out in the field within a few weeks. In fact, our
+project has been cited as the longest running continuous XP project in the
+industry (six years and counting)!
+
+Airwave developers write software in several different languages, 
+primarily OO Perl on Linux. We use apache mod_perl2 for our front-end and
+PostgreSQL for back-end persistence. Since our system manages network
+devices we also have to know our way around SNMP, TFTP, HTTP, etc.
+
+Job Responsibilities:
+
+Your responsibilities will include designing, writing, testing, and
+maintaining code that is part of a shipping enterprise network management
+and monitoring software package.
+
+
+Required skills:
+Job Requirements:
+
+This role requires strong Perl, OO and refactoring and design skills.
+Additional experience should include exposure to Apache mod_perl, SQL,
+Linux and automated test development. Exposure to agile software
+development and  tcp/ip and/or wireless networking is ideal but not
+required.
+
+
+URL for more information:
+http://www.maxhire.net/cp/?E55F6E361843717B7D531C653A541C6F482C78
+
+Contact information at:
+http://jobs.perl.org/job/11890#contact
+
+

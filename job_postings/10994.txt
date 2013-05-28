@@ -1,0 +1,78 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10994
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28896 invoked from network); 14 Feb 2011 04:57:29 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 14 Feb 2011 04:57:29 -0000
+Received: (qmail 824 invoked by uid 225); 14 Feb 2011 04:57:29 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 820 invoked by alias); 14 Feb 2011 04:57:28 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 13 Feb 2011 20:57:27 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 8CF102AFE1; Sun, 13 Feb 2011 20:57:23 -0800 (PST)
+To: jobs@perl.org
+Date: Sun, 13 Feb 2011 20:57:23 -0800
+Message-ID: <20110214045723.8CF102AFE1@x3.develooper.com>
+Subject: Experienced Perl Developers (telecommute), United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13652
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 13, 2011
+
+Job title: Experienced Perl Developers
+
+Company name: FlightNetwork.com
+
+Location: United States
+
+Pay rate: Very competitive
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+Flight Network is a leading North American provider of online travel
+services.  We are curently ranked as the second most popular Canadian
+travel website by PhocusWright, and are rapidly expanding into other
+markets. Our developers will always find themselves working on exciting,
+interesting and challenging new projects. Learning opportunities and
+advantages for personal development are endless.
+
+We are looking for experienced US based Perl developers to join our team
+via 100% telecommute and participate in the creation of exciting new
+software that is redefining the online travel map. Our development
+toolchain comprises primarily of Perl, Apache/ nginx, PostgreSQL and Linux.
+Onsite presence will in general not be required.  Salary will not be a
+constraint for this position.
+
+Required skills:
+The right candidates for this position will have extensive experience in
+object oriented Perl programming on the Linux platform, as well as
+experience in JavaScript including jQuery, CSS, HTML, AJAX and with a
+database system such as PostgreSQL or MySQL. A good understanding of web
+protocols and web servers such as Apache are essential.
+
+
+Desired skills:
+Moose, Catalyst and a modern ORM such as DBIx::Class
+
+Website for more information: http://www.flightnetwork.com/
+
+Contact information at:
+http://jobs.perl.org/job/13652#contact

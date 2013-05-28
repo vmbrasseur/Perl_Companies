@@ -1,0 +1,100 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5621
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 29984 invoked from network); 22 Jan 2007 20:45:51 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 22 Jan 2007 20:45:51 -0000
+Received: (qmail 20740 invoked by uid 225); 22 Jan 2007 20:45:51 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 20730 invoked by alias); 22 Jan 2007 20:45:49 -0000
+X-Spam-Status: No, hits=-1.8 required=8.0
+	tests=ALL_TRUSTED,BAYES_50
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 22 Jan 2007 12:45:44 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 059A02B022; Mon, 22 Jan 2007 12:45:40 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20070122204540.059A02B022@x3.develooper.com>
+Date: Mon, 22 Jan 2007 12:45:40 -0800 (PST)
+Subject: Web / DB / webservice programmer (part onsite), Germany, Imsbach
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5049
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 22, 2007
+
+Job title: Web / DB / webservice programmer
+
+Company name: ECS-Solution GmbH
+
+Location: Germany, Imsbach
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Flexible
+
+Onsite: some
+
+Description:
+Because understanding of german language is one of our main require skills
+this job opening is writen in german.
+Zur Verstärkung unseres Teams suchen wir für dauerhafte Einsätze fähige
+Programmierer*.
+Wichtiger als eine tatsächliche und intensive Auseinandersetzung mit der
+Programmiersprache Perl, mit der wir unsere Software-Systeme erstellen,
+sind Ihre fachlichen Kenntnisse und Fähigkeiten als Programmierer
+unabhängig von Programmiersprachen, denn, ein guter Programmierer kann jede
+Sprache lernen.
+Derzeit beschäftigen wir uns vorwiegend mit der Ausweitung unserer
+bestehenden Geschäftsbereiche (Paymentsolutions, Inkassolösungen) zu
+komplexen und umfangreichen Online-Produkten mit entsprechender
+Vermarktung. Hier ergeben sich viele interessante Herausforderungen und
+Interaktionsmöglichkeiten für Programmierer, die “über den Tellerrand
+hinaus” sehen wollen.
+Interessenten sollten mindestens eine höhere Programmiersprache beherrschen
+und bereit sein, sich in neue Materie selbstständig einzuarbeiten.
+Erfahrung mit Datenbanken sind für die Arbeit bei uns ebenfalls wichtig.
+Wegen akuten Platzproblemen können wir Ihnen zur Zeit leider keinen
+Arbeitsplatz in unseren Geschäftsräumen anbieten. Wir erwarten daher, dass
+Sie über einen geeigneten Heimarbeitsplatz sowie Breitband
+Internetanbindung verfügen und auch für Ihre Arbeit einsetzen können.
+Für Konzeptionen und Besprechungen bevorzugen wir persönliche Anwesenheit,
+weshalb regionale Bewerber (Raum Kaiserslautern/Donnersbergkreis) bevorzugt
+werden.
+Wenn Sie sich für eine Betätigung in unserer Programmier-Abteilung
+interessieren, freuen wir uns auf Ihre Online-Bewerbung.
+
+Required skills:
+perl :-)
+xmlrpc
+soap
+SQL (postgres/mysql)
+HTML::Template
+DBI
+Class::DBI
+CGI::Application
+
+Desired skills:
+mod_perl
+javascript
+php
+CSS
+
+URL for more information: http://www.ecs-solution.de/
+
+Contact information at:
+http://jobs.perl.org/job/5049#contact
+
+

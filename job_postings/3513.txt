@@ -1,0 +1,103 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3513
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 9370 invoked from network); 28 Nov 2005 12:55:46 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 28 Nov 2005 12:55:46 -0000
+Received: (qmail 3809 invoked by uid 225); 28 Nov 2005 12:55:45 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 3803 invoked by alias); 28 Nov 2005 12:55:45 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 28 Nov 2005 04:55:37 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id jASCtWLm020927
+	for <jobs@perl.org>; Mon, 28 Nov 2005 04:55:32 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id jASCtWuF020925;
+	Mon, 28 Nov 2005 04:55:32 -0800
+Date: Mon, 28 Nov 2005 04:55:32 -0800
+Message-ID: <200511281255.jASCtWuF020925@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Contract Perl/MySQL Programmer needed to take over client base (telecommute), United States, VA, Saint Stephens Church
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3355
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 27, 2005
+
+Job title:
+Contract Perl/MySQL Programmer needed to take over client base
+
+Company name: The World Community Network
+
+Internal ID: 1
+
+Location: United States, VA, Saint Stephens Church
+
+Pay rate: $50 per hour
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Part time
+
+Onsite: no
+
+Description:
+I have a number of Perl clients that periodically need small or large
+updates to their applications. Since I now work full time (as a Perl
+programmer), I'm unable to service my former client base. I need someone to
+be available for clients on a case by case basis (based on each client's
+approval of them, with my recommendation).
+
+I'm the author of the widely used "MySQL Backup" perl script at
+http://worldcommunity.com/opensource as well as other applications. Many of
+my clients use one or more of my Perl/MySQL applications, so most of your
+work will be tweaking and adding on to the existing code base.
+
+My code is liberally commented, and I'll be available for questions and
+help on existing code and applications.
+
+I'm *NOT* looking for someone to come in and rip everything out and do it
+all over because that's your preference. Everyone has different coding
+styles; I'm looking for someone who can be flexible and not charge my
+clients unnecessary money because you like their own system better :-).
+
+You must be US based and speak fluent English - my clients will not want to
+make phone calls out of the country. You must also be willing to talk on
+the phone with the clients. These are very long term clients who need a
+consultant to pro-actively think of their needs.
+
+
+Required skills:
+Perl
+MySQL
+Some PHP
+Excellent communication skills
+The highest possible ethical standards
+Willing to work with an existing code base
+Note: my code is NOT OOP Perl, but makes heavy use of subroutines.
+
+
+Desired skills: see above
+
+URL for more information: http://worldcommunity.com/
+
+Contact information at:
+http://jobs.perl.org/job/3355#contact
+
+

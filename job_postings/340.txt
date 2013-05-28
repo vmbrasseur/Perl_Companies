@@ -1,0 +1,54 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:340
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 91724 invoked by uid 1016); 19 Feb 2002 13:49:27 -0000
+Date: 19 Feb 2002 13:49:27 -0000
+Message-ID: <20020219134927.91723.qmail@onion.perl.org>
+To: jobs@perl.org
+Subject: Perl Http:daemon/mod_perl (telecommute), COLUMBIA, At, Barranquilla
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/236
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 19, 2002
+
+Job title: Perl Http:daemon/mod_perl
+
+Company name: EonSoft
+
+Internal ID: respawn
+
+Location: COLUMBIA, At, Barranquilla
+
+Pay rate: Open
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: Open
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+Hello Perl comunity,
+I have a perl script whose process calls are killing my server.
+I need this script to be checked if it can be ported so that it does not
+create a process per call, and do the actual port itself, hopefully not
+trough mod_perl, if posible.
+
+Required skills: Perl HTTP:Daemon mod_perl
+
+Contact information: tech@fluxcenter.net
+
+

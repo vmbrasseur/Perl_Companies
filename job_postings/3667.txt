@@ -1,0 +1,75 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3667
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 31333 invoked from network); 9 Jan 2006 12:18:18 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 9 Jan 2006 12:18:18 -0000
+Received: (qmail 11353 invoked by uid 225); 9 Jan 2006 12:18:17 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11345 invoked by alias); 9 Jan 2006 12:18:15 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 09 Jan 2006 04:18:12 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id k09CI96M028383
+	for <jobs@perl.org>; Mon, 9 Jan 2006 04:18:09 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id k09CI9Hl028381;
+	Mon, 9 Jan 2006 04:18:09 -0800
+Date: Mon, 9 Jan 2006 04:18:09 -0800
+Message-ID: <200601091218.k09CI9Hl028381@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Perl/Mason/Oracle (part-time contract) (telecommute), United Kingdom, London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3497
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January  9, 2006
+
+Job title: Perl/Mason/Oracle (part-time contract)
+
+Location: United Kingdom, London
+
+Pay rate: £10/hour
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 2 months
+
+Onsite: no
+
+Description:
+To start with my requirements are very simple.	I need to make a few
+queries to an oracle database to populate 2 drop-down boxes. Depending on
+the user's selection a third drop-down box will be populated from the
+database.
+
+This is the first requirement but the project will grow larger and more
+complex (oop).
+
+To begi with there'll be a few hours here and there, not huge amounts but
+it will gradually increase.  So it would be good for someone who already is
+working full-time but can handle a few extra hours.
+
+All using Perl and Mason.
+
+Required skills:
+OOP Perl and Mason as well as Oracle.
+Good English.
+
+Contact information at:
+http://jobs.perl.org/job/3497#contact
+
+

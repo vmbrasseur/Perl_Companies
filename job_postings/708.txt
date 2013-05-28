@@ -1,0 +1,95 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:708
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 24241 invoked by uid 1016); 13 Jan 2003 19:26:22 -0000
+Date: 13 Jan 2003 19:26:22 -0000
+Message-ID: <20030113192622.24238.qmail@onion.perl.org>
+To: jobs@perl.org
+Subject: Perl/Web Developer for (short term) Web Password Managment Project. (onsite), United Kingdom, Hampshire, Basingstoke
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/583
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 13, 2003
+
+Job title:
+Perl/Web Developer for (short term) Web Password Managment Project.
+
+Company name: ALARIS Medical Systems
+
+Internal ID: WebPassword
+
+Location: United Kingdom, Hampshire, Basingstoke
+
+Pay rate: Negociable
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 2 weeks approx, possibly longe
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We require an experienced Perl/Apache developer to help implement a
+password managment application on a public web site.
+
+The project involves three components: 1) XHTML form creation, and CGI/Perl
+Processing of the form; 2) XHTML/CGI/Perl application on the server to
+allow customer services to interact with the web server and configure it's
+authentication DB; and 3) An additional process would also be required to
+synchronise production DB data with the web site.
+
+The Perl developer would be working closly with one DB/middleware
+developer, one Linux/Unix admin and one web developer (XML/Perl/Apache).
+
+We believe that the time required on site would be about 2 weeks work,
+though we may extend this if nessesary. We expect the planning stage to
+take an additional two weeks, during which time some input may be required,
+but attendance during all this time is not expected.
+
+We hope to start the project as soon as a suitable candidate is found. Time
+frame for delivery is end January 2003/start February 2003.
+
+Required skills:
+* Perl
+* CGI - Understands CGI/Perl.
+* HTML - knows basics of GUI design in HTML.
+* HTTP - understands how to use LWP or sililar in Perl
+* Apache - Must be familar with Apache, and Apache password control systems
+
+* Linux - systems are all Linux based
+
+Desired skills:
+* XML - Data will travel via XML
+* SSH - Some secure syncronisation involved
+* XSLT - know how to transform simple XML to simple XHTML
+* cron - able to schedule jobs
+* DB - MySQL or DB_File to manage passwords
+* JavaScript - useful but not essential for DHTML
+
+Contact information:
+Dr Adam Trickett (Webmaster)
+ALARIS Medical Systems
+The Crescent
+Jays Close
+Basingstoke
+Hampshire
+RG22 4BS
+United Kingdom
+
+atricket@alarismed.com 
+
+
+

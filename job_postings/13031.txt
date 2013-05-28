@@ -1,0 +1,90 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13031
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 3885 invoked from network); 9 Jan 2013 20:03:24 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 9 Jan 2013 20:03:24 -0000
+Received: (qmail 14115 invoked by uid 225); 9 Jan 2013 20:03:24 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 14111 invoked by alias); 9 Jan 2013 20:03:24 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 09 Jan 2013 12:03:22 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id B14162AFE2; Wed,  9 Jan 2013 12:03:18 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 9 Jan 2013 12:03:18 -0800
+Message-ID: <20130109200318.B14162AFE2@x3.develooper.com>
+Subject: Perl Developer (telecommute), London, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16870
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January  9, 2013
+
+Job title: Perl Developer
+
+Company name: UK2 Group
+
+Internal ID: Chimera
+
+Location: London, UK
+
+Pay rate: £neg
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+Talented perl programmers needed for an ongoing project to improve and
+build on our new group wide platform.
+
+You’ll join our back-end development team working on our shiny new
+group-wide billing and hosting engine. The backend is entirely Perl and API
+driven and you'll be working closely with our UI team developing the
+functionality and RESTful API's which are used to build the frontend
+controlpanels. 
+
+We strive towards code reuse and sane coding standards, with peer code
+reviews and discussion encouraged. There is a dedicated QA team and
+separated dev, QA and production environments. We collaborate over IRC, use
+GitHub for version control, and Redmine for project management in an agile
+environment. Flexible and remote working is fine by us.
+
+Required skills:
+•	2-3 yrs Perl programming experience 
+	•	2-3 yrs experience with Unix-based systems (systems
+administration or Perl development). 
+	•	Excellent knowledge of common Internet protocols (e.g.
+HTTP, SMTP, DNS, Whois) 
+	•	Excellent Perl programming skills, including Object
+Orientated development, debugging, test-driven development, POD
+documentation and common CPAN modules 
+	•	Good Unix skills, including shell scripting & database
+administration 
+	•	A love of things Perl
+
+Desired skills:
+•	Experience in the domain registration / web hosting market
+	•	Any of Moose, DBIx::Class or Perl Dancer experience
+	•	An encyclopedic knowledge of PHP developer jokes and/or an
+impressive beard
+
+Website for more information: http://uk2group.com
+
+Contact information at:
+http://jobs.perl.org/job/16870#contact

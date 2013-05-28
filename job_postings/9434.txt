@@ -1,0 +1,89 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9434
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 7904 invoked from network); 29 Aug 2009 03:44:05 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 29 Aug 2009 03:44:05 -0000
+Received: (qmail 8856 invoked by uid 225); 29 Aug 2009 03:44:05 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 8848 invoked by alias); 29 Aug 2009 03:44:04 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 28 Aug 2009 20:43:59 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 4E53F2AFD0; Fri, 28 Aug 2009 20:43:56 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20090829034356.4E53F2AFD0@x3.develooper.com>
+Date: Fri, 28 Aug 2009 20:43:56 -0700 (PDT)
+Subject: Text processing / database programmer for web publishing company (telecommute), Australia, Telecommute, Telecommute
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/10988
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 26, 2009
+
+Job title:
+Text processing / database programmer for web publishing company
+
+Company name: http://www.rapint.com
+
+Internal ID: PERL012
+
+Location: Australia, Telecommute, Telecommute
+
+Pay rate: Negotiable 
+
+Travel: 0%
+
+Terms of employment: Hourly employee
+
+Hours: Part time
+
+Onsite: no
+
+Description:
+We are looking for a Perl developer to maintain and create software that
+does:
+* Content aggregation and gluing our backend to our frontend
+* Text analysis: categorisation, clustering, sentence extraction
+
+We do things in large scale with minimal hardware, so good knowledge of
+speedy algorithms is much preferred to the ability to use CPAN. 
+
+You must be available at least 25 hours per week. 
+
+Required skills:
+* Web knowledge so that you can effectively extract information from pages.
+This includes working knowledge of html, javascript, ajax, etc, even though
+you won't be building frontends yourself. 
+* Intuition. We promise you, this is innovative stuff we do. We welcome
+your ideas. 
+* At least 5 years experience with Perl. 
+* Excellent communication skills 
+* Regular expressions
+* Relational DB. 
+* Pragmatic approach
+
+Desired skills:
+Knowledge of:
+* statistics
+* data mining
+* SVN 
+
+
+URL for more information: http://www.rapint.com/careers_perl.html
+
+Contact information at:
+http://jobs.perl.org/job/10988#contact
+
+

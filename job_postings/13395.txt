@@ -1,0 +1,106 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13395
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 20678 invoked from network); 8 May 2013 19:18:28 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 8 May 2013 19:18:28 -0000
+Received: (qmail 10552 invoked by uid 225); 8 May 2013 19:18:28 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 10548 invoked by alias); 8 May 2013 19:18:27 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 08 May 2013 12:18:20 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 077932AFE0; Wed,  8 May 2013 12:18:16 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 8 May 2013 12:18:16 -0700
+Message-ID: <20130508191817.077932AFE0@x3.develooper.com>
+Subject: Dev/Ops - Reliability Engineering  - Sr. Software Engineer, Irvine,
+ CA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17379
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May  8, 2013
+
+Job title:
+Dev/Ops - Reliability Engineering  - Sr. Software Engineer
+
+Company name: Kareo
+
+Location: Irvine, CA
+
+Pay rate: $80K-$140K
+
+Hours: Full time
+
+Description:
+We are Kareo, a small but fast growing software company based in sunny
+Irvine, California. We power thousands of small medical practices in the
+U.S and we’re leading our industry in the shift from traditional software
+to cloud computing (a.k.a. Software-as-a-Service) and taking today’s
+complex healthcare system and making it easy. In short, this allows doctors
+to spend less time worrying about their business and more time caring for
+patients and saving lives. Technology is revolutionizing this industry and
+Kareo is positioned to carry the torch for the 500,000 small medical office
+physicians who represent the backbone of the American healthcare system.
+
+We're looking for a kick a$$ engineer whose calling is to develop tools to
+make life of the fellow coder easier, more reliable, and more fun. You'll
+be joining a ragtag team of LEET engineers - aka the Platform team - to
+help keep our features fast, architecture moving, and infrastructure
+stable. We work hard to deliver early and often. Not only that, you’ll be
+helping to drive the engineering culture of awesome through best practices
+in testing, automation, and tooling.
+
+What you'll do:
+
+• Keep our development team honest with a reliable continuous deployment
+process. And when they're not, riddle them with Nerf darts.
+• Be the master of our development, QA, and production environments whether
+it's in the cloud or in our data center.
+• Help drive decisions on our architecture as we bring on more doctors to
+the platform and engineers to our family.
+• Read over our Puppet manifest files and tell us what we did right (or
+likely what we did wrong).
+
+Required skills:
+You'll need:
+
+• To believe that your purpose in life is to optimize the
+build-measure-learn loop with kick ass software. DevOps is not just a
+movement; it’s a state of mind.
+• "Fu Manchu style" technology wisdom, a willingness to teach, and a dash
+of irreverence.
+• Experience working in high traffic, load balanced server environments.
+• The uncanny ability to recognize code scalability, testability,
+availability, and performance characteristics when blind folded.
+• The belief in the right-tool-for-the-job, not language-as-a-religion.
+Why? Because innovation isn't tied to a language.
+
+Desired skills:
+Tools we geek over:
+
+• Team City, Jenkins, Artifactory, and Maven
+• Puppet or Chef
+• AppDynamics, New Relic, and Sumologic
+• Redis, MongoDB, memcached
+• Spring, ActiveMQ, and ServiceStack
+• Mercurial or git
+• C#, Java, Ruby, and JVM language projects like Scala
+
+Website for more information: http://www.kareo.com/
+
+Contact information at:
+http://jobs.perl.org/job/17379#contact

@@ -1,0 +1,85 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4461
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 31394 invoked from network); 9 Jun 2006 14:39:21 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 9 Jun 2006 14:39:21 -0000
+Received: (qmail 6587 invoked by uid 225); 9 Jun 2006 14:39:21 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 6578 invoked by alias); 9 Jun 2006 14:39:20 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 09 Jun 2006 07:38:29 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id C79512AFE1; Fri,  9 Jun 2006 07:38:24 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060609143824.C79512AFE1@x3.develooper.com>
+Date: Fri,  9 Jun 2006 07:38:24 -0700 (PDT)
+Subject: Software Engineer (onsite), United Kingdom, London, White City
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4218
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June  9, 2006
+
+Job title: Software Engineer
+
+Company name: BBC
+
+Internal ID: 81479
+
+Location: United Kingdom, London, White City
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: 1 year
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+You be working as part of the Interactive Drama and Entertainment
+development team consisting of software engineers, client side developers,
+graphic designers and project managers. Within this team you would also be
+working with site producers and editors to deliver functionality, games and
+interactivity on bbc.co.uk.
+
+Some of our sites include http://www.bbc.co.uk/celebdaq,
+http://www.bbc.co.uk/jamiekane and http://www.bbc.co.uk/collective
+
+Required skills:
+You would be confident in using Perl (particularly OO style), SQL databases
+and developing CGI type applications for deploying under Unix/Apache
+environments. In addition, working knowledge of some technologies used in
+internet media would be useful (XML, XSLT, JavaScript, HTML etc.) You
+should also have knowledge of good software engineering practices and be
+familiar with using test driven development and version control systems.
+
+Desired skills:
+We primarily use MySQL and Oracle databases, mod_perl application serving
+and Apache on Linux and Solaris systems for development and production, so
+specific experience of these is desirable. Some administrative experience
+of Linux would also be helpful.
+
+
+URL for more information:
+https://jobs.bbc.co.uk/jobportal/search/vacancy.aspx?id=8151
+
+Contact information at:
+http://jobs.perl.org/job/4218#contact
+
+

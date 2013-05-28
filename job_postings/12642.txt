@@ -1,0 +1,92 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12642
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 5662 invoked from network); 3 Aug 2012 22:14:11 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 3 Aug 2012 22:14:11 -0000
+Received: (qmail 25018 invoked by uid 225); 3 Aug 2012 22:14:10 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 25014 invoked by alias); 3 Aug 2012 22:14:10 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 03 Aug 2012 15:14:06 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 718012AFE1; Fri,  3 Aug 2012 15:14:03 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 3 Aug 2012 15:14:03 -0700
+Message-ID: <20120803221403.718012AFE1@x3.develooper.com>
+Subject: Full time Perl developer in Chicago (part onsite), Chicago, Illinois
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15426
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August  3, 2012
+
+Job title: Full time Perl developer in Chicago
+
+Company name: Simply Studio / Suite Setup
+
+Location: Chicago, Illinois
+
+Pay rate: DOE
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+We're building the next generation platform for small business owners to
+run their business on, and looking for amazing Perl developers to join our
+team. We currently have over 5,000 active users already, and working hard
+to grow rapidly the coming years.
+
+We use Amazon EC2 for our hosting, and Perl and MySQL for our back end. If
+you match the following qualifications, drop us a line and tell us about
+yourself and why you make a great addition  to our team.
+
+Required skills:
+- You know what it takes to build an entire web application, not just the
+back end
+
+- A minimum of 3 years of actual Perl experience. Modules contributed to
+CPAN would be a big plus.
+
+- You have working knowledge of the following modules:
+-- CGI::App or Catalyst
+-- Plack
+-- DBIx::Class
+-- Moose
+
+- Good to excellent Javascript skills
+
+- Experience with jQuery
+
+- Very good to excellent Linux administration skills including Apache and
+MySQL
+
+Desired skills:
+- We're a start-up so it is essential you can work on your own and figure
+what needs to be done next. At the same time, we're a team and we want you
+to be part of that so the ability to communicate and ask when a task is not
+clear is critically important as well.
+
+- You take pride in writing good code that can ship rather than working
+hard to produce perfect code that never ships.
+
+Website for more information: http://www.simplystudio.com/
+
+Contact information at:
+http://jobs.perl.org/job/15426#contact

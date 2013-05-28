@@ -1,0 +1,128 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8304
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 30794 invoked from network); 19 Jun 2008 23:33:00 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 19 Jun 2008 23:33:00 -0000
+Received: (qmail 25348 invoked by uid 225); 19 Jun 2008 23:32:59 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 25335 invoked by alias); 19 Jun 2008 23:32:59 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 19 Jun 2008 16:32:52 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 8851C2AFF2; Thu, 19 Jun 2008 16:32:47 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080619233248.8851C2AFF2@x3.develooper.com>
+Date: Thu, 19 Jun 2008 16:32:47 -0700 (PDT)
+Subject: Perl Developer for leading provider of database automation solutions  (onsite), United States, New York , New York 
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8990
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 17, 2008
+
+Job title:
+Perl Developer for leading provider of database automation solutions 
+
+Location: United States, New York , New York 
+
+Pay rate: $115,000
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+My client is the leading developer of database management automation
+software. The server side of Clarity is heavy on object-oriented Perl;
+5.8.7 is supported (although we might migrate to 5.10 on all supported
+platforms once it is burned in).
+
+As Open Source fans, we’ve utilized many CPAN modules:
+ 
+Algorithm-C3-0.06	Module-Find-0.05
+AppConfig-1.63	Net-Netstat-Wrapper
+Carp-Assert-0.18	Net-SSH-0.08
+Carp-Clan-5.8	Net-Telnet-3.03
+Class-Accessor-0.27	Params-Validate-0.87
+Class-Accessor-Chained-0.01	Proc-ProcessTable-0.41
+Class-C3-0.14	SQL-Abstract-1.22
+Class-Data-Accessor-0.03	SQL-Abstract-Limit-0.12
+Class-Inspector-1.16	Sub-Uplevel-0.13
+Data-Page-2.00	Sys-Filesystem-1.22
+DateManip-5.44	Sys-MemInfo
+DBD-Oracle-1.18 Template-Toolkit-2.15
+DBD-Pg-1.49	TermReadKey-2.30
+DBD-SQLite-1.13 Test-Exception-0.24
+DBI-1.53	Test-Simple-0.64
+DBIx-Class-0.07005	Tie-Hash-Indexed-0.04
+Error-0.17008	TimeDate-1.16
+File-Copy-Recursive-0.29	Version-0.68
+File-HomeDir-0.58	Want-0.12
+Filesys-DfPortable-0.85 XML-LibXML-1.63
+Lchown-1.00	XML-LibXML-Common-0.13
+Log-Dispatch-2.16	XML-LibXSLT-1.62
+Log-Dispatch-FileRotate-1.16	XML-NamespaceSupport-1.09
+Log-Log4perl-1.07	XML-SAX-0.14
+Log-Log4perl-Layout-XMLLayout-0.03	XML-Simple-2.16
+Module-Build-0.2806	XML-Xerces-2.7.0-0
+ 
+As far as coding conventions, we use PBP and peer review (use strict; and
+use warnings; are mandatory). Warnings are fatal (causing a die to occur).
+All code must compile on all supported platforms prior to commit (Linux,
+Solaris, Win32, HP-UX, etc.).
+ 
+The work environment –
+ 
+Located in the Flatiron District of New York, easily accessible from many
+directions, our mission is to transform the way organizations manage their
+database infrastructure through the use of automation. Development and QA
+are sacred at my client and occupy a very special location – our
+headquarters’ Penthouse suite. You’ll be with others who love what they do.
+In a nutshell, the culture is inquisitive, collaborative, and
+highly-energized. And the environment is programmer casual too.
+
+You will be well paid, will receive benefits and stock options, and unlike
+quite a few companies these days, we also provide relocation money for
+stellar candidates as well as sponsorships and transfer visas as needed.
+
+Even if you’re content where you are, and email us (no need to send your
+resume), letting us know that you're happy – but give us a chance to
+explain how our software developer opportunities may be superior to your
+present situations.
+
+But if you’re looking for a new place where you can expand your use of OOP
+– C++ and Perl – surrounded by recognized experts. 
+
+
+Required skills:
+Requirements – Obviously you have an unbridled love of Perl. Additionally,
+you’ll offer:
+ 
+•	Significantly skilled with Perl (C++, PHP receive bonus points) 
+•	Solid experience in TCP/IP network and/or distributed systems
+programming 
+•	Working with one or more of Oracle/DB2/Sybase/MSSQL 
+•	Fluency in Linux and/or flavors of UNIX 
+•	Team lead experience would be very nice to have 
+
+
+Contact information at:
+http://jobs.perl.org/job/8990#contact
+
+

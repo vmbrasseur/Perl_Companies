@@ -1,0 +1,72 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9862
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 29884 invoked from network); 10 Feb 2010 23:06:31 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 10 Feb 2010 23:06:31 -0000
+Received: (qmail 1110 invoked by uid 225); 10 Feb 2010 23:06:30 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 1100 invoked by alias); 10 Feb 2010 23:06:30 -0000
+X-Spam-Status: No, hits=-0.0 required=8.0
+	tests=SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 10 Feb 2010 15:06:11 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id B6F052AFE7; Wed, 10 Feb 2010 15:05:59 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20100210230559.B6F052AFE7@x3.develooper.com>
+Date: Wed, 10 Feb 2010 15:05:59 -0800 (PST)
+Subject: Senior Catalyst Consultant (telecommute), United States, NY, New York
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/11728
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February  8, 2010
+
+Job title: Senior Catalyst Consultant
+
+Company name: UWT
+
+Location: United States, NY, New York
+
+Pay rate: Negotiable
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 3-6 months
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+I am looking for a senior Perl/Catalyst consultant that can act as an
+adviser to our development team on best practices, security, and
+scalability.  We are building a robust retail web site, and need a senior
+adviser to validate our methods, and occasionally our code.
+
+Required skills:
+- Perl
+- Catalyst
+- DBIx::Class
+- JS/AJAX (best security practices specifically)
+- mod_perl/fast_cgi/apache2
+- An expert understanding of Web Scalability
+
+Desired skills: - experience with e-commerce sites
+
+Contact information at:
+http://jobs.perl.org/job/11728#contact
+
+

@@ -1,0 +1,79 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:1150
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 61442 invoked by uid 1016); 27 Oct 2003 12:40:46 -0000
+Date: 27 Oct 2003 12:40:46 -0000
+Message-ID: <20031027124046.61441.qmail@onion.perl.org>
+To: jobs@perl.org
+Subject: Intermediate/Senior Perl Developer (onsite), Austria, Vienna
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1040
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 27, 2003
+
+Job title: Intermediate/Senior Perl Developer
+
+Company name:
+Preisvergleich Internet Services AG (Geizhals.at)
+
+Internal ID: 007
+
+Location: Austria, Vienna
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We maintain one of the busiest price comparison websites in Europe (25+
+million page views / month), built with mod_perl.
+
+We're looking for an experienced Perl/mod_perl-developer who's as
+enthusiastic about building useful, fast web sites as we are. Other
+technologies/software we use include: PostgreSQL, Apache, Linux, FreeBSD,
+Resin (JSP/Servlets/...).
+
+
+Required skills:
+- 2+ years experience building web sites with mod_perl 
+- 3+ years experience developing software under Unix/Linux
+- strong CS background
+- must be able to produce correct results quickly, beautiful code has a low
+priority
+- enthusiastic about tuning and optimizing things
+- experience with performance evaluation
+- good knowledge of SQL (particularly PostgreSQL)
+- good knowledge of HTML/DHTML, esp. browser-specific issues
+- must be able to speak/read/write German fluently
+
+Desired skills:
+- CS degree
+- working knowledge of JavaScript/DHTML
+- Server-side Java/JSP
+- Template::Toolkit, Mason or similar packages
+- Vienna residents preferred
+- if you like/use Geizhals.at, that's also a plus
+
+URL for more information: http://geizhals.at/?jobs
+
+Contact information:
+e-mail: jobs@geizhals.at
+(Subject: "Perl-developer (jobs.perl.org)")
+
+Please name at least one reference project using mod_perl that is currently
+online and accessible.
+
+

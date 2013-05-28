@@ -1,0 +1,89 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2236
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 4569 invoked from network); 11 Jan 2005 01:47:17 -0000
+Received: from x1.develooper.com (63.251.223.170)
+  by lists.develooper.com with SMTP; 11 Jan 2005 01:47:17 -0000
+Received: (qmail 9368 invoked by uid 225); 11 Jan 2005 01:47:17 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 9364 invoked by alias); 11 Jan 2005 01:47:16 -0000
+X-Spam-Status: No, hits=-4.9 required=8.0
+	tests=BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+  by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 10 Jan 2005 17:47:10 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j0B1l6Ow032483
+	for <jobs@perl.org>; Mon, 10 Jan 2005 17:47:06 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j0B1l5IW032481;
+	Mon, 10 Jan 2005 17:47:05 -0800
+Date: Mon, 10 Jan 2005 17:47:05 -0800
+Message-ID: <200501110147.j0B1l5IW032481@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Perl / Application programmer with musical background (MIDI interfaces) (telecommute), Germany, Untersteinach
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2149
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 10, 2005
+
+Job title:
+Perl / Application programmer with musical background (MIDI interfaces)
+
+Company name: Star Enterprise
+
+Location: Germany, Untersteinach
+
+Pay rate: Per-project-base
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+We are looking for a programmer experienced with MIDI interface and
+application programming on Windows XP (programming language is not
+important).
+
+Job includes programming of a piece of software that reads musical
+instrument (electric guitar) data from MIDI interface, saves and edits it.
+
+Secondly the saved music tracks should be able being shared over the
+Internet using a server-sided portal (this has to be written in Perl) by
+logged in users.
+
+Payment is done on a per-project-base; detailed quote is required; no
+pre-payments before quote and at least 1/3 of software is finished.
+
+Required skills:
+Perl programming (portal on Unix/Win server)
+Other programming (Windows client application)
+Experiences in using MIDI interface of a soundcard to read in instrumental
+data
+
+Desired skills: Musical background, but not required
+
+Contact information:
+Send a cv (pdf or pure text only) to info@starenterprise.com AND provide
+some information of your recent jobs (e.g. links to websites).
+
+Please do NOT respond if you feel that you cannot meet high quality
+programming level; also do NOT respond if you cannot fulfill all
+requirements.
+
+

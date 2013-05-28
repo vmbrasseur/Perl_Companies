@@ -1,0 +1,108 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10955
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 19688 invoked from network); 1 Feb 2011 21:55:42 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 1 Feb 2011 21:55:42 -0000
+Received: (qmail 30063 invoked by uid 225); 1 Feb 2011 21:55:41 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 30058 invoked by alias); 1 Feb 2011 21:55:41 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS,T_FRT_PROFILE2
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 01 Feb 2011 13:55:39 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id AED542AFDE; Tue,  1 Feb 2011 13:55:35 -0800 (PST)
+To: jobs@perl.org
+Date: Tue, 1 Feb 2011 13:55:35 -0800
+Message-ID: <20110201215535.AED542AFDE@x3.develooper.com>
+Subject: Sr. Tools Engineer (Perl/Scripting) (onsite), United States, CA, Los
+ Gatos
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13576
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February  1, 2011
+
+Job title: Sr. Tools Engineer (Perl/Scripting)
+
+Company name: Netflix
+
+Location: United States, CA, Los Gatos
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+
+The Enterprise Applications Development team is responsible for Netflix's
+monitoring systems which monitor 1000's of systems in production, messaging
+which manages millions of messages every day, enterprise applications and
+the tools across the company used by engineering, IT, Marketing,
+distribution centers and almost all departments.
+As a member of EAD, you will be part of a team of highly skilled and
+experienced engineers who work with other teams in EVERY aspect of
+Netflix’s business. This means you won’t just be heads down in a cubicle.
+Instead, you will working very closely with cross-functional teams to
+design, develop, manage and support solutions for various functions of the
+company.
+ 
+Qualities:
+ 
+• You see the big picture delivering a 24x7 service
+• You are effective working with multiple teams
+• You have high standards in everything you do
+• You can balance multiple tasks
+• You are highly dependable and require very little mentoring
+
+Required skills:
+• 10+ years of experience in software development and prior experience
+working in IT groups
+• Strong verbal and written communication skills 
+• Desire to work in a fast paced dynamic environment 
+• Ability to take a project to timely completion with minimal oversight and
+specification 
+• Expert developer skills in many of scripting disciplines like Perl,
+Python (this should have been your primary skills in your recent past
+positions)
+• Solid expertise in SQL and database design principles (Oracle, MySQL & MS
+SQL) 
+• Proven proficiency in working with structured data (XML, JSON) 
+• Practical experience in large scale implementations handling high volume
+transactions
+• Ability to rapidly develop simple web based UIs and APIs using Apache,
+Tomcat and MySQL 
+• Solid *nix sysadmin experience (not just basic working knowledge of *nix)
+
+• Expertise in shell scripting, both Unix and Windows (expertise in shell
+is a must)
+• Understanding of SNMP, JMX 
+• Working experience with portal technologies (Liferay portal a plus)
+• Proficient understanding of the principles of Enterprise monitoring
+(Nimsoft a plus)
+• Good understand of Java and ability to fluently write code in Java is
+highly desirable 
+
+
+Desired skills:
+• Lua scripting languages
+• Experience with Groovy, Jython 
+• Windows administration experience
+• Nimsoft monitoring/enterprise monitoring
+
+Website for more information: http://www.netflix.com/Jobs?id=7563&jvi=o8UzVfwg
+
+Contact information at:
+http://jobs.perl.org/job/13576#contact

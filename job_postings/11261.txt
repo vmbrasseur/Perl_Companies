@@ -1,0 +1,109 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11261
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 31853 invoked from network); 29 Apr 2011 23:12:47 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 29 Apr 2011 23:12:47 -0000
+Received: (qmail 29561 invoked by uid 225); 29 Apr 2011 23:12:46 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 29557 invoked by alias); 29 Apr 2011 23:12:46 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS,T_FRT_PROFILE2
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 29 Apr 2011 16:12:44 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 9F2662AFE0; Fri, 29 Apr 2011 16:12:39 -0700 (PDT)
+To: jobs@perl.org
+Date: Fri, 29 Apr 2011 16:12:39 -0700
+Message-ID: <20110429231239.9F2662AFE0@x3.develooper.com>
+Subject: Perl Engineer (onsite), United States, AZ, Tucson
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13848
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 29, 2011
+
+Job title: Perl Engineer
+
+Company name: Pillar Data Systems
+
+Internal ID: PDSPERL
+
+Location: United States, AZ, Tucson
+
+Pay rate: 40h - 60h W2
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 6 months +
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Job Title: Software Engineer - Contract
+Department: Engineering
+Location: Tucson, AZ
+Req # 1918
+
+JOB RESPONSIBILITY/SUMMARY
+
+This is a contract position to work in the Tucson office on application
+integration projects.  Specific responsibilities will include:
+
+• Develop/maintain product command line interfaces  
+  written in Perl, including front end of a Web REST  
+• interface (perl, cgi, php, Apache)
+• May also include C or Java coding responsibilities in 
+  other product areas
+• Fix defects during functional test phase of projects
+• Participate in code reviews throughout development
+• Develop unit tests for code as it is implemented.  Unit 
+  test development will include working with Fanfare  
+• test automation framework to implement Web based tests
+
+REQUIRED TECHNICAL SKILLS
+
+• Must be proficient in Perl; web development expertise 
+  with Apache and cgi is also highly desirable; 
+  experience in C and/or Java is a plus
+• Must be able to read internal design documents and 
+  specifications and with reasonable clarity implement 
+  the code
+• Must be able to work constructively in a team 
+  environment with other developers and test engineers
+• Must be able to work on-site in the Tucson Pillar 
+  office during normal business hours
+• Must be a self-starter capable of producing good 
+  quantity and quality of results in timely fashion
+• Must be familiar with the use of source code management 
+  tools (perforce specifically is a plus) the use of 
+  IDE's (eclipse specifically is a plus) and the use of 
+  bug tracking systems (Mercury Quality Center 
+  specifically is a plus)
+• Must be able to follow existing lifecycle processes for 
+  Pillar and team (e.g. code reviews, source check-ins,  
+  etc)
+
+OTHER SKILLS 
+
+Minimum Education: BSCS
+Minimum Experience:  3
+
+
+Required skills: Perl, Python, REST, cgi, apache
+
+Website for more information: http://www.pillardata.com/
+
+Contact information at:
+http://jobs.perl.org/job/13848#contact

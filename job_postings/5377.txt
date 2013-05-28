@@ -1,0 +1,85 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5377
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 6002 invoked from network); 30 Nov 2006 15:30:25 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 30 Nov 2006 15:30:25 -0000
+Received: (qmail 8398 invoked by uid 225); 30 Nov 2006 15:30:24 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 8350 invoked by alias); 30 Nov 2006 15:30:22 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 30 Nov 2006 07:30:17 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 1ADCA2AFE2; Thu, 30 Nov 2006 07:30:12 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20061130153012.1ADCA2AFE2@x3.develooper.com>
+Date: Thu, 30 Nov 2006 07:30:12 -0800 (PST)
+Subject: Small file i/o project (telecommute), Telecommute
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5031
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 30, 2006
+
+Job title: Small file i/o project
+
+Company name: MyTrip LLC
+
+Location: Telecommute
+
+Pay rate: doe
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+Access a file with list of all ip addresses in decimal format and city,
+state, country, etc. 
+
+"50331648","50331903","US","UNITED
+STATES","MASSACHUSETTS","BEVERLY","42.5685","-70.8619","GENERAL ELECTRIC
+COMPANY"
+
+is an example
+
+
+write script to create new file with entire range of ip addresses in it and
+their location
+
+I would want a file like
+
+"198.6.1.1","198","6","1","1","US","UNITED
+STATES","MASSACHUSETTS","BEVERLY","42.5685","-70.8619","GENERAL ELECTRIC
+COMPANY"
+
+the first file is 500mb and the file it would output would be too.
+
+contact with hourly rate, estimated number of hours assuming I have perl
+installed on a machine that you can get into via remote desktop connection
+
+Required skills: perl, large file i/o
+
+Desired skills:
+perl, ability to read and write very large files
+
+Contact information at:
+http://jobs.perl.org/job/5031#contact
+
+

@@ -1,0 +1,93 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8240
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 17730 invoked from network); 4 Jun 2008 20:41:04 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 4 Jun 2008 20:41:04 -0000
+Received: (qmail 4667 invoked by uid 225); 4 Jun 2008 20:41:04 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 4661 invoked by alias); 4 Jun 2008 20:41:03 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 04 Jun 2008 13:40:51 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 479492AFF3; Wed,  4 Jun 2008 13:40:47 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080604204047.479492AFF3@x3.develooper.com>
+Date: Wed,  4 Jun 2008 13:40:47 -0700 (PDT)
+Subject: Sr. Software Developer (onsite), United States, CA, Los Angeles
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8342
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June  4, 2008
+
+Job title: Sr. Software Developer
+
+Company name: Oversee.net
+
+Location: United States, CA, Los Angeles
+
+Pay rate: Competitive
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Oversee.net is looking for a Senior Software Developer to work with the
+core technologies behind Domain Sponsor.  The successful candidate will be
+part of an engineering team devoted to the design and development of
+high-traffic web applications, backend processing systems, various
+supporting tools, and administrative front ends.
+
+Required skills:
+Responsibilities:
+
+Work with product to define and direct new development
+Contribute architecture input to new system components, rewrites of legacy
+systems, etc.
+Write thorough, comprehensive technical and high-level documentation
+Mentor junior engineers in company standards and development practices to
+help them become quality software developers
+Engineer and implement new product features for perl web-based applications
+
+Optimize and enhance web applications with tens of millions of page
+requests, high volume data logging and processing needs, and high
+performance requirements
+Requirements:
+
+MySQL usage, schema design
+Log parsing and basic data analysis
+Proficient test planning for Perl applications (via Test::More and/or
+Test::Unit)
+Detailed knowledge of daemons, cron jobs, and system requirements for high
+traffic, fault tolerant, 24x7 websites, supporting a service-oriented
+architecture
+4+ years perl experience developing backend and/or web-based systems
+running in a Unix environment
+Front end web experience with HTML (via Mason and/or Catalyst)
+Basic XML, TCP/IP, NFS, YML, mod_perl, and Apache application server
+knowledge
+Experience with developing web services applications
+
+URL for more information: http://www.oversee.net/
+
+Contact information at:
+http://jobs.perl.org/job/8342#contact
+
+

@@ -1,0 +1,99 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12542
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 21411 invoked from network); 26 Jun 2012 15:46:34 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 26 Jun 2012 15:46:34 -0000
+Received: (qmail 13072 invoked by uid 225); 26 Jun 2012 15:46:34 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 13068 invoked by alias); 26 Jun 2012 15:46:33 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 26 Jun 2012 08:46:31 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id B518A2AFE1; Tue, 26 Jun 2012 08:46:27 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Tue, 26 Jun 2012 08:46:27 -0700
+Message-ID: <20120626154627.B518A2AFE1@x3.develooper.com>
+Subject: Perl Developer (onsite), New York, NY
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16164
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 26, 2012
+
+Job title: Perl Developer
+
+Company name: Selectable Media
+
+Location: New York, NY
+
+Pay rate: DOE
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Selectable Media is looking for a talented engineer to be a major
+contributor to the development of its new social video platform. You should
+be a technical generalist who is eager to conquer our most challenging
+problems and is excited to learn new skills.
+
+Selectable Media is the leading video distribution network targeted at the
+Gen Y audience. We make video advertising fun as we provide advertisers
+with an efficient and effective way to reach the younger demographic. You
+will be part of a rapidly growing startup as we look to expand our
+distribution network across social networking and mobile platforms.
+
+Required skills:
+Requirements:
+
+- Strong communication and team working skills
+- Demonstrated self starter
+- Perl, Ruby & Ruby on Rails backend development
+- Debian GNU/Linux expertise
+- MySQL experience
+- Experience designing software and APIs
+- Deep understanding of web applications, REST, and HTTP
+- Knowledge of Nginx
+
+Desired skills:
+Plusses:
+
+- Knowledge of our amazing Perl stack: Dancer, PSGI/Plack, TheSchwartz,
+mod_perl, App::Cmd, DBD::MySQL, Net::Amazon::EC2, Git::Repository, etc.
+- Familiarity with Rails 2 & 3, as well as Sinatra and popular Ruby gems.
+
+We offer:
+- Competitive salary & equity
+- 401K & Full health benefits
+- Flexible work schedule
+- Opportunity to work with one of the best development teams in the
+tri-state area!
+- Computer setup of your choice
+- Friday booze!
+
+Domestic relocation available for the right candidates. Please no agencies,
+no recruiters.
+
+Candidates should reply with a resume and links to any projects they have
+contributed to.
+
+Website for more information: http://selectablemedia.com/
+
+Contact information at:
+http://jobs.perl.org/job/16164#contact

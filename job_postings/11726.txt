@@ -1,0 +1,88 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11726
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 29596 invoked from network); 3 Oct 2011 23:10:28 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 3 Oct 2011 23:10:28 -0000
+Received: (qmail 10034 invoked by uid 225); 3 Oct 2011 23:10:28 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 10028 invoked by alias); 3 Oct 2011 23:10:27 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS,T_FRT_PROFILE2
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 03 Oct 2011 16:10:25 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 8B1222AFE0; Mon,  3 Oct 2011 16:10:22 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 3 Oct 2011 16:10:22 -0700
+Message-ID: <20111003231022.8B1222AFE0@x3.develooper.com>
+Subject: PERL, LINUX DEVELOPER / SCIENTIFIC DATA MANAGEMENT SPECIALIST
+ (onsite), Bethesda, MD
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14918
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October  3, 2011
+
+Job title:
+PERL, LINUX DEVELOPER / SCIENTIFIC DATA MANAGEMENT SPECIALIST
+
+Company name: Ariadne
+
+Internal ID: 678501
+
+Location: Bethesda, MD
+
+Pay rate: Competetive
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Ariadne Genomics, Inc. seeks a Scientific Data Management Specialist
+responsible for the design, development, implementation, and management of
+high-throughput automatic data processing infrastructure for large
+biotechnical databases in a mature system at National Institute of Health.
+Tasks will include continuing the developing and improving supporting
+infrastructure. You will interface with multiple data providers to design,
+build, and maintain their customized databases, within a mature integrated
+system. You will also clarify requirements, feature requests, and bug
+reports for software developers and assist in testing code.
+
+Required skills:
+* Hands-on Perl programming experience including the use of standard Perl
+modules and Object Oriented Perl development.
+* Proficient in LINUX/UNIX scripting.
+* Experience working with automatic data processing pipelines.
+* Familiarity with high performance/grid computing.
+* Strong oral and written communication skills.
+* Experience in moving large amounts of data reliably and efficiently.
+
+Desired skills:
+* Experience with SQL.
+* Experience with SGE/LSF or similar systems.
+* Broad knowledge of biology, especially genetics, cell biology, and
+biochemistry, and associated databases, such as dbSNP and GenBank.
+* Experience with XML/XSLT.
+* C/C++ programming experience.
+* Experience with HTML, CSS, and JavaScript and related web based tools.
+
+Website for more information:
+http://ariadtech.catsone.com/careers/index.php?m=portal&a=details&jobOrderI
+D=678501
+
+Contact information at:
+http://jobs.perl.org/job/14918#contact

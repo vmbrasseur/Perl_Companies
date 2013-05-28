@@ -1,0 +1,95 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9070
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 32351 invoked from network); 20 Mar 2009 05:10:22 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 20 Mar 2009 05:10:22 -0000
+Received: (qmail 15099 invoked by uid 225); 20 Mar 2009 05:10:22 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 15070 invoked by alias); 20 Mar 2009 05:10:21 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 19 Mar 2009 22:10:19 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 173252AFDF; Thu, 19 Mar 2009 22:10:15 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20090320051016.173252AFDF@x3.develooper.com>
+Date: Thu, 19 Mar 2009 22:10:15 -0700 (PDT)
+Subject: Senior Software Engineer (Perl) (onsite), UK , SW12, London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/10354
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 16, 2009
+
+Job title: Senior Software Engineer (Perl)
+
+Company name: BBC 
+
+Internal ID: 6563609
+
+Location: UK , SW12, London
+
+Pay rate: 40-45K p.a.
+
+Travel: 0%
+
+Length of employment: Full time continuing
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Senior Software Engineer (Perl Developer)
+(Perl, developer, object orientated, OO, OOA, OOD, web, catalyst, software)
+
+
+The BBC FM&T Online Media Group is looking for an experienced Senior
+Software Engineer (Perl Developer) to join a world-class team responsible
+for delivering the next-generation bbc.co.uk/iPlayer website and other
+online services.
+
+
+Required skills:
+As Senior Software Engineer (Perl Developer) you will have an excellent
+knowledge of Perl, web frameworks (Catalyst, Mason, TT) RESTful web
+services, security, caching, architecting for performance, mySql and web
+standards, along with proven experience of working in a mixed discipline
+team on large scale web application projects. Knowledge and experience with
+large scale social media applications is also an advantage.
+
+It is essential that you have significant experience working with Perl in a
+web application context and competence in one or more established web
+frameworks for example, Catalyst, Mason, TT, Zope, Django or Spring. In
+addition you will have good knowledge of Apache API, mySql and DBIx and an
+understanding of modern debates in software engineering including dynamic
+vs static languages, ORM, SOA/ROA/WOA. You will have the ability to work in
+an unstructured, fast changing environment with rapid release cycles.
+Proven experience of project working and commercial web development
+processes, particularly Agile methodologies is a must. You will also have
+experience of software quality practice e.g. TDD, continuous integration,
+version control automation, software metrics.
+
+Desired skills:
+While not essential it would be beneficial for you to have some experience
+in one or more of the following, Memcached, Lucene, OpenSocial API
+experience and PHP,Java,C#. 
+
+URL for more information:
+http://jobs.bbc.co.uk/fe/tpl_bbc01.asp?newms=jj&id=26804&aid=15716
+
+Contact information at:
+http://jobs.perl.org/job/10354#contact
+
+

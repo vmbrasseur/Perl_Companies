@@ -1,0 +1,131 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13253
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 21663 invoked from network); 22 Mar 2013 18:21:09 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 22 Mar 2013 18:21:09 -0000
+Received: (qmail 14588 invoked by uid 225); 22 Mar 2013 18:21:09 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 14584 invoked by alias); 22 Mar 2013 18:21:09 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 22 Mar 2013 11:21:05 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 8AE0B2AFE0; Fri, 22 Mar 2013 11:21:02 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 22 Mar 2013 11:21:02 -0700
+Message-ID: <20130322182102.8AE0B2AFE0@x3.develooper.com>
+Subject: Sr. Software Engineer, Lead Mechanic (onsite), Seattle, WA, USA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16977
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 22, 2013
+
+Job title: Sr. Software Engineer, Lead Mechanic
+
+Company name: Shiftboard, Inc.
+
+Location: Seattle, WA, USA
+
+Pay rate: Competitive - DOE
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Shiftboard is a small, lean-oriented, open-source friendly
+Software-as-a-Service company in Seattle.  We work in sun-drenched offices
+overlooking Puget Sound, right downtown, and we solve real problems
+everyday. If you don't like the sun, we have shades.  If you like working
+in the dark, you can keep the lights off.
+
+We provide online scheduling tools, community and workforce management and
+optimization services to a diverse range of organizations around the world:
+By diverse, we mean both businesses and non-profits - events and festivals,
+municipal/government, healthcare institutions, staffing agencies,
+universities, and contact centers
+
+We are profitable and we are growing quickly -- Not a fly-by-night
+financial scheme. We need your help. We have a tremendous referral base
+coming from hundreds of dedicated customers; many of them are familiar
+brand names and/or highly influential, cultural, musical, educational,
+arts, and sporting institutions. 
+
+To be sure, some of our customers operations may not be so exciting, but
+our data and our scaling requirements to service them all can nonetheless,
+be incredibly fascinating when approached with a proper set of lenses.
+
+What will you do here? You'll be building products for people as diverse as
+major hospitals, the SXSW organization, MLB, Harvard University, MIT,
+Groupon, LivingSocial, the Red Cross, even Burningman, Bonnaroo, and the
+Sundance Institute. Hundreds of groups that could be described as major
+events, staffing groups, contact centers, universities, and municipal
+governments worldwide, use our products and we're working everyday to make
+them even happier -- we need your help.
+
+Right now, the next Senior Software Development Engineer joining our team
+will be responsible for the development of a wide range of products, both
+new and evolving. With the right kind of results and motivation, where you
+take this position on our team is almost limitless.
+
+You'll have your choice of tools (mostly) and you'll grow your skillset by
+developing for web, data center, mobile applications, and public/private
+API's. You'll need to think a lot about scaling our mostly web, mobile, and
+telephony-based services. You'll also be thinking about automating our
+infrastructure and leveraging virtualization, caching, and related
+technologies to get more things done. Basically, you'll join a
+tightly-focused team working to build a highly engaging product to service
+the needs of millions of people around the world.
+
+We're small and you're able to have an immediate impact, you'll be at the
+junction of mobile and location-based services that really matter for
+people's lives, and you'll have the autonomy to get the right things done.
+
+If you are looking to grow your career, there are multiple pathways here to
+expand the role and responsibility level of the right candidate.
+
+Required skills:
+-  Play well with others, communicate clearly, demonstate a high-level of
+personal and professional integrity
+  -  Strong Linux/Unix Skills. DevOps experience, mindset or interest
+  -  5+ years commercial software development experience on open-source web
+architectures; real software shipping to end users, with a range of
+experiences you can share
+  -  Solid experience with perl and/or python, with C++, Java, or a blend
+of functional languages within a production environment.
+  -  Experience building and consuming web services (JSON/RPC, REST, etc.)
+and strong opinions about their design
+  -  Experience or understanding of the front-end web stack (Javascript,
+CSS/HTML) - everyone does full-stack development here
+  -  Maybe a Bachelor's (or Master's) in Computer Science. Equivalent. 
+Real world experience might be better.
+
+Desired skills:
+-  Leading, helping, and/or mentoring others
+  -  Experience with one or more caching, scaling, and/or other noSQL
+architectures (memcached, redis, RabbitMQ, couchDB, etc.), mobile client
+platforms (iOS/Android), telephone/IVR systems (Asterix, etc.), and/or
+automated testing tools (Selenium, WatiR, etc.)
+  -  Virtualization technologies.
+  -  Success or Failure with one or more home-grown, commercial, or
+community-based web development frameworks
+
+Website for more information: http://www.shiftboard.com
+
+Contact information at:
+http://jobs.perl.org/job/16977#contact

@@ -1,0 +1,111 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6950
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 25941 invoked from network); 13 Sep 2007 20:43:07 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 13 Sep 2007 20:43:07 -0000
+Received: (qmail 13836 invoked by uid 225); 13 Sep 2007 20:43:06 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 13819 invoked by alias); 13 Sep 2007 20:43:04 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 13 Sep 2007 13:42:53 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 9C40F2AFD6; Thu, 13 Sep 2007 13:42:49 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070913204249.9C40F2AFD6@x3.develooper.com>
+Date: Thu, 13 Sep 2007 13:42:49 -0700 (PDT)
+Subject: Perl Developer (onsite), Canada, British Columbia, Vancouver
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/6731
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 13, 2007
+
+Job title: Perl Developer
+
+Company name: ActiveState Software
+
+Location: Canada, British Columbia, Vancouver
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+If you know Perl, you've probably heard of ActivePerl, ActiveState's very
+popular distribution of Perl. We're looking for an engineer who can become
+a key member of the ActivePerl team, and help take ActivePerl to the next
+level. You'll be working with some of the best minds in the business,
+including Jan Dubois, maintainer of Win32::OLE, and mod_perl developer
+Philippe (Gozer) Chiasson.
+
+If you don't love Perl, don't bother applying. Same if you only know Perl,
+or only know one or two platforms. Building the world's best Perl
+distribution takes a lot of build engineering on a wide range of platforms,
+serious C coding skills, and a willingness to dig deep to fix bugs in Perl
+and CPAN modules in order to ensure a high quality product.
+
+Millions of individuals and thousands of companies (including some BIG
+mission-critical systems) will rely on your product on a daily basis. If
+that kind of responsibility and influence makes you go "ooooh", read on:
+
+
+Required skills:
+Requirements:
+
+•	Minimum 3 years' software development experience
+•	Strong experience programming for Unix in C
+•	Intermediate or advanced Perl skills 
+•	Knowledge of CPAN
+•	Excellent debugging skills 
+•	Experience building and debugging software on Mac OS X and Windows 
+
+•	Able to independently research problems and present solutions to
+the team Excellent written and spoken communications skills
+•	Ability to help flesh out precise requirements from customer input
+•	Experience (or interest) in managing and improving a complex build
+system
+
+
+Desired skills:
+Bonus Points
+
+•	Knowledge of Perl XS programming
+•	Released a module on CPAN
+•	Experience with gdb
+•	Experience building and debugging software on AIX, HP-UX, Linux and
+Solaris 
+•	Experience building client-server applications
+•	Comfortable with version control software, especially Perforce and
+Subversion
+•	Knowledge of various Unix packaging formats (RPMs, DEBs, Solaris
+packages, Mac OS X packages)
+
+Work Environment
+We're on the top floor of the United Kingdom building in downtown
+Vancouver. We have an amazing view of the water and north shore mountains,
+and an open concept office complete with stocked kitchen, beer fridge, and
+a Nintendo Wii in the playroom!
+
+
+URL for more information: http://www.activestate.com/
+
+Contact information at:
+http://jobs.perl.org/job/6731#contact
+
+

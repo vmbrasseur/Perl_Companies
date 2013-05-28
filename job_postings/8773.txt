@@ -1,0 +1,74 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8773
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8239 invoked from network); 25 Oct 2008 07:33:47 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 25 Oct 2008 07:33:47 -0000
+Received: (qmail 30868 invoked by uid 225); 25 Oct 2008 07:33:46 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 30864 invoked by alias); 25 Oct 2008 07:33:46 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 25 Oct 2008 00:33:45 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 8F5B82AFEF; Sat, 25 Oct 2008 00:33:41 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20081025073341.8F5B82AFEF@x3.develooper.com>
+Date: Sat, 25 Oct 2008 00:33:41 -0700 (PDT)
+Subject: mod_perl Developer for Software Company (onsite), United States, IL, Chicago
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/9808
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 23, 2008
+
+Job title: mod_perl Developer for Software Company
+
+Company name: Brooksource
+
+Location: United States, IL, Chicago
+
+Pay rate: $65/hr
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: 3-6 months
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are looking for a mod_perl expert that has the skills and experience to
+guide the migration of a web-based application running on a Windows/Apache
+environment to work under mod_perl. The application is live at customer
+sites and runs off their local server. The expert analyzes encountered
+problems such as access violations and Apache restart issues and works
+closely together with the development team and assists in making the code
+compliant with mod_perl. Expert-level knowledge of Apache and mod_perl is
+required.
+
+Required skills:
+•	mod_perl 2 in production environment, preferably Windows
+•	Expert-level understanding of Apache and configuration directives
+•	Perl registry and handlers
+•	Understanding of threads and related Perl coding issues
+•	Database connection pooling with Apache::DBI
+
+
+Contact information at:
+http://jobs.perl.org/job/9808#contact
+
+

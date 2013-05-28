@@ -1,0 +1,100 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8629
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 25243 invoked from network); 4 Sep 2008 17:19:31 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 4 Sep 2008 17:19:31 -0000
+Received: (qmail 18575 invoked by uid 225); 4 Sep 2008 17:19:30 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 18570 invoked by alias); 4 Sep 2008 17:19:30 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 04 Sep 2008 10:19:27 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id E658D2AFE7; Thu,  4 Sep 2008 10:19:23 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080904171923.E658D2AFE7@x3.develooper.com>
+Date: Thu,  4 Sep 2008 10:19:23 -0700 (PDT)
+Subject: Senior Perl Developer (onsite), United Kingdom, Cambridge
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/9298
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September  4, 2008
+
+Job title: Senior Perl Developer
+
+Company name: NetBanx Limited
+
+Location: United Kingdom, Cambridge
+
+Pay rate: £40,000-45,000 p.a.
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Length of employment: Permanent
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+NetBanx's growing development team is seeking new members to support our
+rapid expansion. We're looking for people who are skilled in producing,
+managing and refactoring production perl.  A working knowledge of Catalyst
+or similar MVC frameworks, service-oriented architectures, managing legacy
+systems, unit testing, relational databases, JSON, SOAP and an
+understanding of Agile / XP methodologies is also needed.  
+
+Typical projects include:
+*Integrating new payment products into a service oriented architecture,
+being involved in designing, creating, testing and deployment with
+appropriate security, fail over, reporting and diagnostic facilities.
+*Developing SOAP / JSON based APIs for public consumption.
+*Profiling, testing and refactoring specific aspects of legacy systems.
+
+If you have at least three years' appropriate experience with demonstrable
+skills, would like to be part of a talented team and enjoy both learning
+and imparting knowledge, we'd be pleased to hear from you.
+
+Our benefits package offers 22 days holiday (rising to 25 days with
+service), private healthcare and dental treatment, travel insurance, a
+contributory pension scheme and life assurance.  We also operate childcare
+voucher and cycle to work schemes.
+
+
+Required skills:
+Excellent knowledge of Perl
+Strong written and spoken communication
+Catalyst
+Service-oriented architectures
+High availability systems
+RDBMS
+Unit testing
+Agile development
+JSON
+SOAP
+
+Desired skills:
+Agile development fundamentals
+Good working knowledge of RDBMS
+Domain knowledge
+
+URL for more information: http://netbanx.com/
+
+Contact information at:
+http://jobs.perl.org/job/9298#contact
+
+

@@ -1,0 +1,92 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11149
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8459 invoked from network); 27 Mar 2011 08:53:32 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 27 Mar 2011 08:53:32 -0000
+Received: (qmail 27027 invoked by uid 225); 27 Mar 2011 08:53:32 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 27023 invoked by alias); 27 Mar 2011 08:53:31 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS,T_LOTS_OF_MONEY
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 27 Mar 2011 01:53:29 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id E1A972AFE0; Sun, 27 Mar 2011 01:53:25 -0700 (PDT)
+To: jobs@perl.org
+Date: Sun, 27 Mar 2011 01:53:25 -0700
+Message-ID: <20110327085325.E1A972AFE0@x3.develooper.com>
+Subject: Perl Developer, United Kingdom, Oxford
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13930
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 27, 2011
+
+Job title: Perl Developer
+
+Company name: Adestra Limited
+
+Location: United Kingdom, Oxford
+
+Pay rate: £45,000 + bonus + benefits
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Description:
+Adestra was formed in 2004 as an email marketing service provider, with a
+focus on responsible and sustainable email marketing practices. Since then
+we have been successful in developing and deploying our web based email
+marketing platform, MessageFocus. We have recently released MessageFocus
+v2, a Catalyst/Moose/DBIC-based replacement for MessageFocus v1.
+
+We are looking for an experienced, enthusiastic Perl developer to join our
+Oxford-based team to assist in the ongoing development of our MessageFocus
+email marketing platform.
+
+Day to day duties are centred on designing and implementing features for
+our MessageFocus platform, as well as assisting with its ongoing
+maintenance. As a member of a small development team, you will be expected
+to take ownership of complete features (from initial concepts,
+specification and design through to implementation and deployment), and
+have the opportunity to work on many different aspects of the system from
+user interface design to scaling high-throughput, high-availability
+systems.
+
+
+Required skills:
+A strong understanding of Perl, and experience with modern Perl programming
+and development practices is essential, along with some experience of web
+interfaces and working with databases.
+
+Desired skills:
+Experience with any of the following would be advantageous:
+
+ * PostgreSQL or other modern relational database systems
+ * Catalyst or other MVC web frameworks
+ * DBIx::Class or ORM systems in general
+ * Moose
+ * JavaScript
+ * User interface design
+ * "NoSQL" databases
+ * Scaling and optimising web-based applications
+ * Designing high-availablity systems
+
+Previous experience with a Catalyst/DBIC/Moose development environment
+would be considered a significant advantage.
+
+Website for more information: http://www.adestra.com/
+
+Contact information at:
+http://jobs.perl.org/job/13930#contact

@@ -1,0 +1,95 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6269
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8265 invoked from network); 10 May 2007 14:55:38 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 10 May 2007 14:55:38 -0000
+Received: (qmail 31184 invoked by uid 225); 10 May 2007 14:55:38 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 31178 invoked by alias); 10 May 2007 14:55:37 -0000
+X-Spam-Status: No, hits=0.0 required=8.0
+	tests=BAYES_50,DKIM_POLICY_SIGNSOME,DK_POLICY_SIGNSOME,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 10 May 2007 07:52:56 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id E6D362AFD7; Thu, 10 May 2007 07:52:33 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070510145233.E6D362AFD7@x3.develooper.com>
+Date: Thu, 10 May 2007 07:52:33 -0700 (PDT)
+Subject: Dictionary Data and Resources Development Manager (onsite), United Kingdom, Oxfordshire, Oxford
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5775
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 10, 2007
+
+Job title:
+Dictionary Data and Resources Development Manager
+
+Company name: Oxford University Press
+
+Internal ID: 07/168
+
+Location: United Kingdom, Oxfordshire, Oxford
+
+Pay rate: UKP/DOE
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Data and Resources Development Manager					   
+	
+									   
+	
+Dictionaries, Academic Division, Oxford University Press		   
+	
+									   
+	
+An exciting opportunity to join the team involved in developing and shaping
+our electronic and online dictionary assets across monolingual and
+bilingual dictionaries. Responsibilities include corpus 		   
+    
+development, extension of datasets and metadata, lexicographic text
+processing, and preparation of data for electronic publication, for
+purposes ranging across online publishing, NLP data mining, external
+licensing, and dictionary editing.
+
+Required skills:
+Candidates should have experience of working with structured		   
+	
+dictionary texts and excellent text processing skills, presumably in Perl;
+and will ideally have a background in corpus, computational linguistics, or
+lexicography.
+
+Desired skills:
+Expertise in the following will be an advantage:		      
+									   
+	
+ * Perl 								   
+	
+ * XSLT 								   
+	
+ * Automated parsing/tagging						   
+	
+ * languages other than English
+
+Contact information at:
+http://jobs.perl.org/job/5775#contact
+
+

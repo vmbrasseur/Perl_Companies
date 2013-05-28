@@ -1,0 +1,57 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5
+Return-Path: <uri@sysarch.com>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 10806 invoked from network); 12 Mar 2001 23:22:33 -0000
+Received: from h002078c54f77.ne.mediaone.net (HELO home.sysarch.com.) (identd-sux@24.218.160.115)
+  by tmtowtdi.perl.org with SMTP; 12 Mar 2001 23:22:33 -0000
+Received: by home.sysarch.com. (SMI-8.6/SMI-SVR4)
+	id SAA17271; Mon, 12 Mar 2001 18:22:26 -0500
+Date: Mon, 12 Mar 2001 18:22:26 -0500
+Message-ID: <200103122322.SAA17271@home.sysarch.com.>
+To: jobs@perl.org
+Reply-to: Uri Guttman <uri@sysarch.com>
+Subject: Wanted: code and design review work
+Approved: news@nntp.perl.org
+From: uri@sysarch.com (Uri Guttman)
+
+
+i am looking for short term contracts or projects which are reviews of
+perl systems and/or designs. i have been doing software architecture and
+design for 25 years with 8 years of perl experience.
+
+my services would be examining your existing code and designs, and
+evaluating them based on many criteria including code quality,
+efficiency, maintainability, clarity of documentation, etc.  if you are
+developing a new perl based system, i can assist with its architecture,
+API design, networking issues, etc.
+
+if your system does any networking or uses any networked services, i can
+help integrate Stem into it which may speed up your development cycle
+greatly and lower your system's lifetime costs. see stemsystems.com for
+more on stem (in fact check out the site in a few days for its first
+update in a year!).
+
+i have done code review for various projects and have improved many of
+them in multiple ways. one medium sized script at akamai was reduced by
+75% of it code and also ran 4 times faster. another complex parsing
+system at northern light was rewritten by me (in OO perl) and ran 60
+times faster. those were extreme cases and results and i don't promise i
+can do that for you. but i assure you, your perl code will be much
+better for my having reviewed it.
+
+you can find my main page and resume at sysarch.com.
+
+rates will be determined by several factors including the size of the
+project, whether it uses stem (those will be discounted), etc.
+
+uri
+
+-- 
+Uri Guttman  ---------  uri@sysarch.com  ----------  http://www.sysarch.com
+SYStems ARCHitecture, Software Engineering, Perl, Internet, UNIX Consulting
+The Perl Books Page  -----------  http://www.sysarch.com/cgi-bin/perl_books
+The Best Search Engine on the Net  ----------  http://www.northernlight.com

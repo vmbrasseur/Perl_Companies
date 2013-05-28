@@ -1,0 +1,146 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6480
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 20131 invoked from network); 20 Jun 2007 09:23:35 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 20 Jun 2007 09:23:35 -0000
+Received: (qmail 9379 invoked by uid 225); 20 Jun 2007 09:23:35 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 9365 invoked by alias); 20 Jun 2007 09:23:34 -0000
+X-Spam-Status: No, hits=0.0 required=8.0
+	tests=BAYES_50,DKIM_POLICY_SIGNSOME,DK_POLICY_SIGNSOME,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 20 Jun 2007 02:23:31 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id C71832B000; Wed, 20 Jun 2007 02:23:27 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070620092327.C71832B000@x3.develooper.com>
+Date: Wed, 20 Jun 2007 02:23:27 -0700 (PDT)
+Subject: Sr. Software Engineer (Perl) (onsite), United States, CA, Burbank
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5985
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 19, 2007
+
+Job title: Sr. Software Engineer (Perl)
+
+Company name: Yahoo
+
+Internal ID: RX1000020074
+
+Location: United States, CA, Burbank
+
+Pay rate: Competitive
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Length of employment: indefinite
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Position: Senior Software Engineer - Search
+Job ID: RX1000020074
+Location: Burbank, CA
+
+Yahoo! Advertiser & Publisher Group, is a division of Yahoo! Inc. Y! APG is
+responsible for providing solutions to advertisers and publishers for all
+aspects of advertisements such as planning tools, inventory management,
+forecasting, campaign management, optimizations, reporting etc. with
+several billion transactions happening every day.  We're looking for
+world-class, fun-loving engineers to join our team!
+
+
+How Big Can You Think?
+
+Are you passionate about building and designing scalable, clustered, high
+performance software systems? Do you have an understanding of the larger
+perspective and do you enjoy building systems that deliver tangible
+business goals? Do you enjoy working in teams?	Are your verbal and written
+communication skills something you are really proud of? 
+
+The Yahoo Sponsored Search team is looking for an experienced and motivated
+Senior Software Engineer. You will be working to scale the existing
+sponsored search-serving systems and solving several performance, design
+and architecture problems working closely with other teams.   Yahoo!
+Sponsored Search is one of the biggest search marketing programs on the
+internet. It allows advertisers to reach the masses through search. The
+sponsored search advertiser and user experience is driven and accomplished
+through complex platforms, with ever-growing interesting challenges. 
+
+The sponsored search-serving system consists of several applications
+running on UNIX systems. We process millions of queries per day. It’s a
+complex system that provides opportunities for innovation and problem
+solving! Developing for this infrastructure presents many technical
+challenges in the areas of distributed and high-performance computing. It
+calls for the application of knowledge of software design principles,
+systems programming, algorithms and data structures. The focus is on
+building and enhancing scalable systems and modular software; measurement,
+optimization, and tuning of system performance and ensuring that the
+software will run reliably and is fault-tolerant in a 24/7 production
+environment
+
+You should be able to scope and define undefined problems using intuition,
+common sense, relevant data, strong academic knowledge and software
+development experience. You should be able to analyze the existing
+platforms and make and implement recommendations for improving overall
+design, scalability and modularity of the system without compromising the
+functional capabilities provided by the system. An  ideal candidate will
+also be able to analyze, contrast and compare a variety of different
+technologies, languages and protocols in the same context.
+
+
+Required skills:
+Minimum Qualifications:
+- Solid Perl coding experience
+- Proficiency in C/C++	and/or JAVA
+- Solid object-oriented programming experience
+- Experience designing and architecting clustered, high performance systems
+
+- Proficiency in UNIX/Linux tools and utilities
+- Good communication skills
+
+
+Desired skills:
+Preferred Qualifications:
+- 8+ years of software development experience 
+- B.S. or M.S. in Computer Science or a related field
+- Academic knowledge of Computer Science (i.e., algorithms, data structures
+etc)
+- Experience with Apache and mod perl
+- Experience with XML, Oracle, SQL, Python, or TCL
+About Yahoo!
+
+Yahoo! Inc. is a leading global Internet brand and one of the most
+trafficked Internet destinations worldwide. Yahoo! seeks to provide online
+products and services essential to users' lives, and offers a full range of
+tools and marketing solutions for businesses to connect with Internet users
+around the world. Yahoo! is headquartered in Sunnyvale, California.
+
+Yahoo! Inc. is an equal opportunity employer. For more information or to
+search all of our openings, please visit http://careers.yahoo.com.
+
+Principals only. Recruiters please don't contact this job poster.
+
+
+URL for more information: http://careers.yahoo.com/
+
+Contact information at:
+http://jobs.perl.org/job/5985#contact
+
+

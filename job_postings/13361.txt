@@ -1,0 +1,94 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13361
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 24021 invoked from network); 3 May 2013 19:54:50 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 3 May 2013 19:54:50 -0000
+Received: (qmail 18880 invoked by uid 225); 3 May 2013 19:54:50 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 18874 invoked by alias); 3 May 2013 19:54:50 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 03 May 2013 12:54:44 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id D81FB2AFE0; Fri,  3 May 2013 12:54:40 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 3 May 2013 12:54:40 -0700
+Message-ID: <20130503195440.D81FB2AFE0@x3.develooper.com>
+Subject: Web Developer (onsite), Chicago, IL, United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17335
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May  3, 2013
+
+Job title: Web Developer
+
+Company name: University of Chicago
+
+Internal ID: 091605
+
+Location: Chicago, IL, United States
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The Research Computing Center (RCC) at the University of Chicago seeks a
+Web Developer to build and manage the unit website, develop tools that
+enable remote account management, and tie together the RCC high-performance
+computing resources to the user facing site. The Web Developer will also
+consult with researchers to give them advice in the development of web
+interface features for their research performed on RCC resources. 
+
+Position Responsibilities 
+- Manage the development of the RCC website 
+- Interpret user-interface and functional design elements requests from a
+team of technical staff members 
+- Build tools to enable integration of the RCC website with existing and
+future resources used for high-performance computing 
+- Develop tools and interfaces to create and manage accounts and permit
+users to manage and display their account information 
+- Advise RCC on technologies that intersect high-performance computing and
+web technologies such as connecting to cloud computing interfaces with REST
+APIs 
+- Advise and/or help researchers create a web presence for research
+performed using RCC resources
+
+Required skills:
+A minimum of three years experience developing websites in a professional
+environment required. 
+Experience in web site and web-based application development and support
+required. 
+Experience with HTML/XHTML and CSS required. 
+Experience with user interface design required. 
+Web programming experience with frameworks written in languages such as
+PHP, ASP, JSP, Python, Perl, and/or Ruby required. 
+Experience developing and designing websites and web management tools in a
+Unix based operating environment required. 
+Experience with relational databases such as MySQL or PostgreSQL required. 
+
+Experience with directory services such as LDAP or Microsoft Active
+Directory required. 
+Experience with revision control software required. 
+
+Experience with web service consumption and RESTful API preferred.
+
+Website for more information: http://rcc.uchicago.edu
+
+Contact information at:
+http://jobs.perl.org/job/17335#contact

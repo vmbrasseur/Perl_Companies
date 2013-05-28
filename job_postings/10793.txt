@@ -1,0 +1,78 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10793
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28938 invoked from network); 9 Dec 2010 17:31:03 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 9 Dec 2010 17:31:03 -0000
+Received: (qmail 27511 invoked by uid 225); 9 Dec 2010 17:31:03 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 27507 invoked by alias); 9 Dec 2010 17:31:03 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 09 Dec 2010 09:31:02 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id A30EF2AFE1; Thu,  9 Dec 2010 09:30:58 -0800 (PST)
+To: jobs@perl.org
+Date: Thu, 9 Dec 2010 09:30:58 -0800
+Message-ID: <20101209173058.A30EF2AFE1@x3.develooper.com>
+Subject: Perl CGI/MySQL programmer for finance company (onsite), United
+ Kingdom, London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13320
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December  8, 2010
+
+Job title: Perl CGI/MySQL programmer for finance company
+
+Company name: Active Securities Ltd.
+
+Internal ID: 001
+
+Location: United Kingdom, London
+
+Pay rate: £TBD
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Programmer required for developing web-based intranet/customer portal
+systems in our central London office. Position may be made longer-term for
+the right applicant.
+
+Required skills:
+Perl CGI
+Perl DBI/MySQL
+Competent SQL
+Functional HTML
+Linux
+
+Desired skills:
+mod_perl experience nice, but not essential
+Javascript knowledge very helpful
+Some modules that are often used, experience with these an excellent start:
+
+HTML::Template
+MIME::Lite
+LWP
+Date::Calc
+Spreadsheet::WriteExcel
+WWW::Mechanize
+
+
+Contact information at:
+http://jobs.perl.org/job/13320#contact

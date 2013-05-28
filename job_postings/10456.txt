@@ -1,0 +1,119 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10456
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 10207 invoked from network); 21 Aug 2010 22:21:14 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 21 Aug 2010 22:21:14 -0000
+Received: (qmail 8503 invoked by uid 225); 21 Aug 2010 22:21:14 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 8497 invoked by alias); 21 Aug 2010 22:21:12 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 21 Aug 2010 15:21:10 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 8571D2AFDF; Sat, 21 Aug 2010 15:21:07 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20100821222107.8571D2AFDF@x3.develooper.com>
+Date: Sat, 21 Aug 2010 15:21:07 -0700 (PDT)
+Subject: Perl-based Software Developer for DNA Sequencing Lab, United States, CA, Walnut Creek
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/12758
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 21, 2010
+
+Job title:
+Perl-based Software Developer for DNA Sequencing Lab
+
+Company name:
+DOE Joint Genome Institute (Berkeley Lab)
+
+Internal ID: 24733
+
+Location: United States, CA, Walnut Creek
+
+Pay rate: DOE
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Description:
+The DOE Joint Genome Institute in Walnut Creek, CA has an exciting
+opportunity available for an experienced Software Developer. In cooperation
+with other members of the Production Informatics group, will identify
+client needs and gather requirements to maintain existing software systems
+that support production sequencing operations. Will work with other
+developers and analysts to maintain existing data management and QC systems
+and design, implement, test and deploy extensions to, and new versions of
+these systems. Assignments include problem definition, evaluation of
+requirements, and implementation of systems to meet goals. Position reports
+to the Production Informatics group lead.
+
+Specific Job Duties
+
+- Gather feedback and requirements to develop software to support the
+existing production data management and QC systems, including the
+resolution of custom user and data retrieval requests.
+- Design, implement, test and deploy extensions to the existing data
+management and QC systems, as well as new versions of systems when
+necessary.
+- Create, manage, and query MySQL databases.
+- Develop and utilize Perl classes, modules, and scripts for managing data
+and performing analyses; and Perl/CGI web pages for providing user access.
+- Provide responsive customer support, assisting users with the prompt
+resolution of data entry errors, software malfunctions and other system
+needs. 
+- Apply analytical skills and creativity to solve diverse and challenging
+problems.
+- Communicate regularly with customers and supervisory staff about plans,
+designs and progress. 
+- Follow prescribed practices for software version control, testing and
+release engineering.
+- Present technical and analytical status in weekly meetings and contribute
+to publications.
+
+
+Required skills:
+Key Success Factors
+
+- B.S. in Computer Science or a related scientific or technical field (or
+equivalent experience) and a minimum of five years related experience.
+- Demonstrated experience utilizing Perl.
+- Demonstrated experience with database programming and interfaces,
+preferably in MySQL or Oracle.
+- Demonstrated success designing and implementing systems and software in a
+scientific or technical environment, e.g., University, National Laboratory,
+corporate R&D center or automated manufacturing facility preferred.
+- Full life-cycle software development experience with the ability to work
+with scientific and administrative customers to define needs and
+priorities.
+- Ability to effectively learn and apply new technology concepts to
+troubleshoot and solve problems and challenges of a diverse scope
+- Effective interpersonal communication, public speaking, and presentation
+skills. 
+- Effective time management, organization, and planning skills. 
+- Talent for working well under short deadlines and handling multiple tasks
+simultaneously. 
+- Ability to work effectively in a diverse team environment.
+
+
+URL for more information:
+http://careers.crijob.com/lbnlcareers/detailsRedirect.asp?jid=24733&p=1
+
+Contact information at:
+http://jobs.perl.org/job/12758#contact
+
+

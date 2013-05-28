@@ -1,0 +1,117 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7883
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 26648 invoked from network); 26 Mar 2008 13:44:16 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 26 Mar 2008 13:44:16 -0000
+Received: (qmail 24214 invoked by uid 225); 26 Mar 2008 13:44:16 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 24207 invoked by alias); 26 Mar 2008 13:44:15 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 26 Mar 2008 06:44:13 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id E095D2AFDF; Wed, 26 Mar 2008 06:44:09 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080326134409.E095D2AFDF@x3.develooper.com>
+Date: Wed, 26 Mar 2008 06:44:09 -0700 (PDT)
+Subject: Automation Engineer (onsite), United States, MA, Framingham
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8250
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 25, 2008
+
+Job title: Automation Engineer
+
+Company name: Vivox, Inc.
+
+Location: United States, MA, Framingham
+
+Pay rate: competitive $US
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We're looking for a smart, experienced automation programmer whose also an
+MMOG enthusiast to join our Quality and Verification team. If you like to
+break things and you know the land of Perl like the back of your hand, we
+need you. Online games integrate our rich communications with a C-based SDK
+provided for Mac, Linux and Windows clients.
+
+We're building a perl harness using SWIG to interface with this SDK so that
+we can do extensive type and message checking (that's what we need Perl
+for).
+
+In the coming months, we will need to build an arm of this harness to test
+ActionScript for our browser-based clients.
+
+In addition, we're considering a GUI automation tool that records/playsback
+and supports Perl scripting for extensive testing with Perl's Test modules.
+
+
+Environment:
+* Very dynamic development framework (lots of builds, interesting tactical
+customer challenges -- we evaluate code churn to determine testing
+strategy)
+* Small development and ops team (lots of direct interaction and team
+discussion on fixes and scheduling)
+* Early stages of building QA process (little overhead to get started, lots
+of room for new ideas)
+* Wide range of technologies, platforms and networks
+
+Main responsibilities:
+* leading automation effort
+* prioritizing and designing test scripts
+* reporting, demonstrating and institutionalizing use
+* scripting test scenarios large and small
+* running scripts and reporting results
+* teaching/mentoring other QAers the use of scripts, reading results, etc.
+
+Additional responsibilities:
+* working with the existing QA team to complete and report on daily testing
+cycles
+* build automated scripts for customer reported bugs that are not easily
+reproducible by the manual testing
+* build multi-client test scripts that Ops and QA can use for stress/scale
+testing and client longevity testing
+
+
+Required skills:
+* 5+ years automation programming experience supporting on multiple
+platforms and multi-client testing
+  * Perl and Test::Simple/More/Deep, etc.
+  * SWIG or XS knowledge/experience
+* 2+ years testing APIs
+* 2+ years interfacing with C-libraries or C programming experience
+* 2+ years experience with source control (we use SVN)
+* strong familiarity with testing methodology
+* demonstrated understanding of distributed systems and protocols
+
+
+Desired skills:
+* SilkTest, Squish, or other GUI automation tools
+* Unix/Linux/Mac scripting
+* scripting remote client interactions
+* Good understanding of network protocols and/or VoIP
+
+Contact information at:
+http://jobs.perl.org/job/8250#contact
+
+

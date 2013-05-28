@@ -1,0 +1,168 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13121
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 14184 invoked from network); 5 Feb 2013 05:11:32 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 5 Feb 2013 05:11:32 -0000
+Received: (qmail 10997 invoked by uid 225); 5 Feb 2013 05:11:32 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 10993 invoked by alias); 5 Feb 2013 05:11:31 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 04 Feb 2013 21:11:29 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 7FFE42AFE0; Mon,  4 Feb 2013 21:11:25 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 4 Feb 2013 21:11:25 -0800
+Message-ID: <20130205051125.7FFE42AFE0@x3.develooper.com>
+X-Virus-Checked: Checked
+Subject: Senior Software Developer (onsite), London - United Kingdom
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16963
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February  4, 2013
+
+Job title: Senior Software Developer
+
+Company name: OSL
+
+Location: London - United Kingdom
+
+Pay rate: £55000
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Company 
+We are a small dynamic company, which provides a comprehensive and highly
+functional set of electronic services to support post-trade processing in
+the Securities Lending, and Repo markets. Our client base includes most of
+the top-tier financial institutions in these markets throughout the world. 
+
+
+Our services are recognised as the “best of breed” in this space, and our
+ability to provide services which perform faster and are more functionally
+rich, user friendly and innovative than our competitors is well known. Our
+focus on service, quality, flexibility and innovation enables us to exceed
+client expectations and we are widely regarded as the users’ service
+provider of choice. 
+
+We offer the opportunity to work in a small company with other skilled
+professionals, delivering to the highest standards and providing
+outstanding client service, where good work is both recognised and
+rewarded. 
+
+Position 
+The position is for a Senior Software Developer working to develop,
+enhance, maintain and support the company’s hosted services. The
+applications delivering the services have an interactive user interface
+delivered as secure dynamic web pages over the Internet as well as a
+significant server based data processing components and behind-the-scenes
+data transfer systems. Candidates will be expected to work on all technical
+aspects of the system – developing new services and features, resolving
+issues, enhancing functionality, integrating new financial institutions and
+providing technical support on a rostered basis.
+
+Required skills:
+Role 
+The role is for a genie of the LAMP with strong OO Perl skills; someone who
+enjoys creating a feature, component or service from conception through to
+delivery, and who then enjoys seeing their code in action on a daily basis.
+
+
+The role encompasses the following activities: 
+Design, code, test and release new features and enhancements 
+
+Undertake and manage technical data integration of new clients 
+
+Develop tools to improve internal processes and maintain quality of service
+
+
+Investigate and fix software issues in existing systems 
+Support and monitor production systems on a rota basis 
+Provide technical assistance to end users by telephone and e-mail 
+
+Document code, interfaces, services and procedures as appropriate 
+
+Administer our servers, as and when required 
+Update management with progress on assigned tasks, and identify issues /
+delays / dependencies in good time 
+Identify opportunities for system / process improvements or new features 
+
+Work autonomously or as a team member in an ad-hoc team 
+
+There is the potential for increased or additional responsibility depending
+on aptitude and experience. 
+Challenges
+
+Desired skills:
+The key challenges in this role are to: 
+Develop a comprehensive understanding of the services provided and the
+associated benefits / value proposition for clients 
+
+Gain an understanding of the complex technical structure of our services,
+starting initially at the top level, but with increasing depth over time. 
+
+Develop a clear understanding of business complexities specific to the
+Securities Lending / REPO / Equity Finance markets 
+
+Ensure we continue to deliver exceptional client service. (e.g. by being
+flexible, having a “can do” approach, making data integration easy,
+understanding client issues) 
+
+Proactively interact with colleagues – requesting and 
+providing guidance, help and mentoring as appropriate 
+
+Technologies and Tools 
+
+Perl: OO, inheritance, encapsulation, performance, complex
+multi-dimensional data structures, coupling and cohesion. 
+MySQL: SQL, data normalisation, query optimisation, database structures and
+performance, set-based data-processing 
+
+Apache: PHP, request-post-response interactive dynamic applications using
+HTML, CSS and JavaScript, client certificate generation and authentication 
+
+
+Linux: server, network and firewall administration, security update
+management, intrusion detection 
+
+Various tools - GnuPG, CVS, IPTABLES 
+
+Reporting 
+
+You will report directly to the company directors. Additional functional
+reporting lines also exist, for technical issues and project management. 
+
+Requirements: 
+
+Good degree / Academic qualifications 
+Self-motivated, pro-active and autonomous, with good team-working skills 
+Ability to absorb and retain complex business and technical information
+rapidly 
+Excellent design and software development skills, including appropriate OO
+patterns 
+SQL and relational data modelling skills 
+Experience in software development for *nix / web deployment 
+Good problem solving skills, and the ability to prioritise appropriately 
+Good communication skills, including the ability to liaise with technical
+contacts at clients and to provide telephone & e-mail support to end users
+
+Contact information at:
+http://jobs.perl.org/job/16963#contact

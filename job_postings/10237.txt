@@ -1,0 +1,98 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10237
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28714 invoked from network); 19 Jun 2010 05:34:01 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 19 Jun 2010 05:34:01 -0000
+Received: (qmail 25341 invoked by uid 225); 19 Jun 2010 05:34:00 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 25331 invoked by alias); 19 Jun 2010 05:33:59 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 18 Jun 2010 22:33:57 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 6D2582AFE0; Fri, 18 Jun 2010 22:33:54 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20100619053354.6D2582AFE0@x3.develooper.com>
+Date: Fri, 18 Jun 2010 22:33:54 -0700 (PDT)
+Subject: Software Engineer (onsite), Canada, BC, Vancouver
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/12392
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 18, 2010
+
+Job title: Software Engineer
+
+Company name: Sophos
+
+Location: Canada, BC, Vancouver
+
+Pay rate: DOE
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+    *  Design, implement and maintain a scalable distributed system for
+monitoring and analysis of malware and spam.
+    * Produce other high quality software to meet SophosLabs business
+requirements.
+    * Monitor and report on progress and exceptions to the team and
+management.
+    * Be a mentor to junior programmers, coach through formal presentations
+or when needed
+    * Participate in regular code reviews and give constructive feedback
+    * Contribute positively to technical discussions by providing solid,
+practical and achievable solutions
+    * Consistently deliver quality solutions with velocity
+
+
+Required skills:
+    *  Commercial software development experience.
+    * Experience building mission critical, scalable systems for Linux
+platform, preferably with the Perl programming language
+    * Expert knowledge of SQL databases, with a focus on MySQL.
+    * Linux OS administration experience.
+    * In-depth knowledge of Internet standards.
+    * At least 5 years of software development experience.
+    * Knowledge of industry standard methodologies, tools and processes for
+software development.
+    * A Bachelor’s degree in computer science or software engineering, or
+equivalent experience.
+
+
+Desired skills:
+    *  Experience in the IT security industry
+    * Experience building anti-spam or/and anti-malware systems
+    * Experience with distributed hash tables and NoSQL solutions
+    * Experience with distributed file systems
+    * Experience with message queue and broker technologies
+    * In-depth knowledge of SMTP, DNS and HTTP protocols
+    * Experience working with very large databases
+    * Experience building web-based applications
+    * Agile development methodologies
+
+
+URL for more information:
+http://www.sophos.com/companyinfo/careers/ca/969020792510.html
+
+Contact information at:
+http://jobs.perl.org/job/12392#contact
+
+

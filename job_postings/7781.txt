@@ -1,0 +1,112 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7781
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 12253 invoked from network); 4 Mar 2008 16:30:51 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 4 Mar 2008 16:30:51 -0000
+Received: (qmail 28682 invoked by uid 225); 4 Mar 2008 16:30:50 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 28675 invoked by alias); 4 Mar 2008 16:30:50 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 04 Mar 2008 08:30:47 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 94C162AFCC; Tue,  4 Mar 2008 08:30:42 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20080304163043.94C162AFCC@x3.develooper.com>
+Date: Tue,  4 Mar 2008 08:30:42 -0800 (PST)
+Subject: Web Software Engineer (onsite), United States, MA, Boston
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8094
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March  4, 2008
+
+Job title: Web Software Engineer
+
+Company name: Pearson Education
+
+Internal ID: CTG-161
+
+Location: United States, MA, Boston
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Educating 100 million people worldwide, Pearson Education is the global
+leader in integrated education publishing. With such renowned brands as
+Prentice Hall, Scott Foresman, Addison Wesley, Allyn & Bacon, NCS Pearson,
+and many others, Pearson Education provides quality content, assessment
+tools, and educational services in all available media to a worldwide
+marketplace, spanning the learning curve from birth through college and
+beyond. Internationally we operate in 55 countries and 27 languages and
+have more global publishing than any other competitor.
+
+Pearson Education is an Equal Opportunity Employer EOE/M/F/V/D.
+
+Technology is transforming the way we educate students. Pearson understands
+this fact, and it is committed to playing a leadership role in the
+transformation. 
+
+The software development group you would be joining, referred to internally
+at Pearson as the Mastering team, is responsible for an online homework /
+tutoring system for college science students. The specific products are
+called: MasteringPhysics, MasteringChemistry, MasteringAstronomy, and
+MasteringBiology. We are extremely proud of these products they are based
+on educational research done at M.I.T. and they have proven very effective.
+
+
+The Mastering product line is built on top of standard web technology:
+Perl, Flash, JavaScript, XML/XSLT, MySQL, and Apache. It is a
+high-throughput database application that services hundreds of thousands of
+students.
+
+We are currently looking for smart, experienced web developers who know
+Perl and are generalists who are happiest when the entire codebase is their
+playground. That is, we are not looking for specialists at this time.
+
+The office is on Arlington Street at the corner of the Boston Public
+Garden. The environment is professional, but relaxed and flexible. The
+emphasis is on getting good work done effectively rather than on adhering
+to someones idea of perfect process. It is a small development team. You
+can have a major impact on the team dynamics and the products evolution.
+
+Note that while our server-side codebase is essentially all Perl, we do not
+require you to know Perl before you get here. If you have a deep
+understanding of database driven web application architecture and consider
+yourself to be a serious software engineer, then we would be happy to have
+you join our team and learn Perl.
+
+
+Required skills:
+Perl (or equivalent) expertise
+Software Engineering Background
+Smart, Dedicated, Team Player
+Comfortable working on a large (but organized) software project
+Experience with multi-tier, high-throughput web applications
+Database programming experience, working knowledge of SQL
+
+Desired skills:
+Science, Engineering, and/or Math background is a plus
+Educational / Teaching background is a plus
+Experience with mod-perl is a plus
+Experience with the general Open Source toolset is a plus 
+
+Contact information at:
+http://jobs.perl.org/job/8094#contact
+
+

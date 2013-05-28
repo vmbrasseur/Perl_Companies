@@ -1,0 +1,69 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3577
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 31363 invoked from network); 15 Dec 2005 03:03:44 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 15 Dec 2005 03:03:44 -0000
+Received: (qmail 15923 invoked by uid 225); 15 Dec 2005 03:03:44 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 15915 invoked by alias); 15 Dec 2005 03:03:43 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 14 Dec 2005 19:03:36 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id jBF33YQE007189
+	for <jobs@perl.org>; Wed, 14 Dec 2005 19:03:34 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id jBF33Y0V007187;
+	Wed, 14 Dec 2005 19:03:34 -0800
+Date: Wed, 14 Dec 2005 19:03:34 -0800
+Message-ID: <200512150303.jBF33Y0V007187@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Perl/C++ Developer (onsite), United States, NY, NYC
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3419
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 14, 2005
+
+Job title: Perl/C++ Developer
+
+Company name: Project Resource
+
+Internal ID: OOPNYC
+
+Location: United States, NY, NYC
+
+Travel: 0%
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Must be expert in OO Perl >5.8
+Must be expert in at least one of:
+BUILD: Compilers, Linkers, Makefiles
+SCM: Clearcase, Subversion, SVS (administrator, not casual user).
+
+Basically, you should able to design and build scalable 
+C/C++ development tools in O.O.Perl. 
+
+Required skills: Perl
+
+Contact information at:
+http://jobs.perl.org/job/3419#contact
+
+

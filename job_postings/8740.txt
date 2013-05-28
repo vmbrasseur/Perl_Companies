@@ -1,0 +1,85 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8740
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 29655 invoked from network); 13 Oct 2008 17:12:14 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 13 Oct 2008 17:12:14 -0000
+Received: (qmail 28524 invoked by uid 225); 13 Oct 2008 17:12:14 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 28518 invoked by alias); 13 Oct 2008 17:12:13 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 13 Oct 2008 10:12:11 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 717502AFE4; Mon, 13 Oct 2008 10:12:06 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20081013171207.717502AFE4@x3.develooper.com>
+Date: Mon, 13 Oct 2008 10:12:06 -0700 (PDT)
+Subject: Software Engineer (onsite), United Kingdom, London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/9758
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 13, 2008
+
+Job title: Software Engineer
+
+Company name: BBC World Service
+
+Location: United Kingdom, London
+
+Pay rate: upto £300 per day
+
+Travel: 0-25%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: 6-8 months
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Maintaining and expanding a large Content Management System written in Perl
+with a JavaScript-rich GUI. The position involves writing and testing code,
+and is expected to play a role in defining requirements from stakeholders.
+
+Required skills:
+Minimum 3 years experience with Perl development in a Unix-like
+environment, proven experience writing, testing and debugging
+high-availability, web-based applications with a database backend.
+
+You should be web savvy. Experience writing JavaScript and using toolkits
+such as Dojo and Prototype are a big plus. You must be comfortable as part
+of a multi-disciplinary team working to tight deadlines, with excellent
+organisation and communication skills.
+
+Knowledge of agile development methodologies, software release cycles,
+build and release procedures and source code control are an absolute must.
+
+Desired skills:
+- Perl
+- JavaScript
+- Databases and ORMs
+- Defining, writing and automating unit and regression tests in Perl and
+JS.
+- Experience with CVS/SVN and release management.
+- Experience writing Content Management Systems.
+
+URL for more information: http://bbcworldservice.com/
+
+Contact information at:
+http://jobs.perl.org/job/9758#contact
+
+

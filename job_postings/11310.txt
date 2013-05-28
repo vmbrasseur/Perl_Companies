@@ -1,0 +1,105 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11310
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 11527 invoked from network); 13 May 2011 05:45:00 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 13 May 2011 05:45:00 -0000
+Received: (qmail 15468 invoked by uid 225); 13 May 2011 05:45:00 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 15464 invoked by alias); 13 May 2011 05:44:59 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS,T_FRT_PROFILE2
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 12 May 2011 22:44:57 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 4E05B2AFDF; Thu, 12 May 2011 22:44:54 -0700 (PDT)
+To: jobs@perl.org
+Date: Thu, 12 May 2011 22:44:54 -0700
+Message-ID: <20110513054454.4E05B2AFDF@x3.develooper.com>
+Subject: Manager, Tools (onsite), United States, CA, Sunnyvale
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14156
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 12, 2011
+
+Job title: Manager, Tools
+
+Company name: Ariba
+
+Location: United States, CA, Sunnyvale
+
+Pay rate: 130K+
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Manager, Tools
+Location:	Sunnyvale
+
+Reporting to Director of Operations Infrastructure, lead the team of 5
+Tools Engineers responsible for all tools related to deploying and managing
+Ariba’s e-commerce Software-as-a-Service enterprise operation.
+o	 Build and maintain the tools for monitoring, performance
+measurement, deployment automation utilities, and internal work flow for
+development, operations, and release control in a 7x24 mission-critical
+production environment.
+o	 Responsibilities include working with Hosting Operations team
+members and other Ariba development organizations to gather requirements,
+implement application logic and web and command line user interfaces.
+o	 Act as a point of contact for various engineering groups into
+operations.
+o	 Work with other Operations leaders to determine project
+priorities, track progress and provide project status to Operations
+leaders.
+o	 Explore new technologies for future planning and possible
+implementation.
+o	 Create and maintain an environment that encourages career growth,
+teamwork, and overall employee engagement.
+
+Required skills:
+QUALIFICATIONS
+Education / Experience
+q	B.S. Computer Science or equivalent experience.
+q	Minimum 3 years experience managing a team of 3-6 developers.
+q	Excellent communication skills, excellent team player and must be a
+quick learner and creative problem solver. Experience with team building
+and career management.
+q	Minimum 8 years of Perl experience on UNIX or Linux in an
+Internet-service environment.
+q	Good knowledge of operating system internals, file system
+structures and machine architectures in a UNIX or Linux operating
+environment.
+q	Proficient in object-oriented design principles with skills in
+Java, Perl, Objective-C or C++ nice to have.
+q	Broad Internet understanding: TCP/IP programming, basics of how
+HTTP and other major Internet protocols work.
+q	Experience building applications on top of RDBMS desired.
+q	Desired proficiency in SQL development preferably in an Oracle
+environment.
+q	Experience with web application servers (WebObjects, Tomcat,
+WebLogic) desired.
+q	Good understanding of enterprise level security best practices.
+q	Experience hosting e-commerce applications a plus.
+
+
+Desired skills:
+q	Desired experience developing release control tools in a fast-paced
+environment with well-developed practices and procedures.
+
+
+Contact information at:
+http://jobs.perl.org/job/14156#contact

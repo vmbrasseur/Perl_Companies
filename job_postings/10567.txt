@@ -1,0 +1,76 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10567
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 31543 invoked from network); 28 Sep 2010 18:31:11 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 28 Sep 2010 18:31:11 -0000
+Received: (qmail 24702 invoked by uid 225); 28 Sep 2010 18:31:11 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 24698 invoked by alias); 28 Sep 2010 18:31:10 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 28 Sep 2010 11:31:09 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 5728A2AFDE; Tue, 28 Sep 2010 11:31:06 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20100928183106.5728A2AFDE@x3.develooper.com>
+Date: Tue, 28 Sep 2010 11:31:06 -0700 (PDT)
+Subject: Freelance Catalyst Developer (telecommute), United Kingdom, Cambridgeshire, Cambridge
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/12946
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 27, 2010
+
+Job title: Freelance Catalyst Developer
+
+Location:
+United Kingdom, Cambridgeshire, Cambridge
+
+Pay rate: GBP30/HR
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+I have a client that needs a new freelancer (as I am unable to continue
+doing freelance) do support their Catalyst based web sites. It's not
+regular work (as in it comes in ad hoc), but the rates are  good and the
+work they want is pretty straightforward. The two sites, although built on
+Catalyst, are built very differently (by me).
+
+
+They are hosted on a dedicated Debian server hosted by Bytemark.
+Technologies used include Catalyst, jQuery, MySQL, DBI and Lighttpd. They
+currently have an urgent need to get a Shibboleth based authentication
+system up and running on one of the sites.
+
+
+Required skills:
+Perl
+Catalyst
+DBI
+MySQL
+Lighttpd
+
+Desired skills: Shibboleth experience
+
+Contact information at:
+http://jobs.perl.org/job/12946#contact
+
+

@@ -1,0 +1,88 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9954
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 2229 invoked from network); 17 Mar 2010 17:44:46 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 17 Mar 2010 17:44:46 -0000
+Received: (qmail 27297 invoked by uid 225); 17 Mar 2010 17:44:45 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 27288 invoked by alias); 17 Mar 2010 17:44:45 -0000
+X-Spam-Status: No, hits=-0.0 required=8.0
+	tests=SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 17 Mar 2010 10:44:11 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id EF4082AFE4; Wed, 17 Mar 2010 10:43:59 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20100317174359.EF4082AFE4@x3.develooper.com>
+Date: Wed, 17 Mar 2010 10:43:59 -0700 (PDT)
+Subject: Needed: Perl tool to create 301 Redirect / .htaccess (telecommute), United States, Kentucky, Louisville
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/11936
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 16, 2010
+
+Job title:
+Needed: Perl tool to create 301 Redirect / .htaccess
+
+Company name: Craig Law, PLLC
+
+Internal ID: Site Move
+
+Location: United States, Kentucky, Louisville
+
+Pay rate: RFP
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: As Needed
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+Craig Law, PLLC has a commercial bankruptcy website (written in static
+HTML) that we are shutting down, in favor of a more professional legal
+website.
+
+In order to move the site and keep current search engine rankings, we need
+a tool (and technical expertise) to spider the current site, map existing
+pages to the new pages, and create the .htaccess or rewrite rules necessary
+to map the old pages to the new (per Google Webmaster recommendations)
+
+We are looking for both the tool (so we can use it on other sites later),
+and someone to do the migration work - setting up the 301 redirects, as
+well as basic instructions so that I can learn to perform other migrations
+in the future.
+
+ssh is enabled (jailshell) on the virtual server, and Perl 5.8 is
+installed. .htaccess files are parsed, we do not have access to httpd.conf
+(as we are running a virtual server)
+
+
+Required skills:
+Perl, linux command line, Apache, 301 redirects .htaccess httpd.conf,
+familiarity with Google recommendations on "moving" a site, passable
+written English
+
+Desired skills: Excellent written English
+
+URL for more information: http://craiglawpllc.com/
+
+Contact information at:
+http://jobs.perl.org/job/11936#contact
+
+

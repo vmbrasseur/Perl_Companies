@@ -1,0 +1,90 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11246
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 18553 invoked from network); 22 Apr 2011 00:51:21 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 22 Apr 2011 00:51:21 -0000
+Received: (qmail 15672 invoked by uid 225); 22 Apr 2011 00:51:21 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 15668 invoked by alias); 22 Apr 2011 00:51:21 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 21 Apr 2011 17:51:19 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id DF3DA2AFD4; Thu, 21 Apr 2011 17:51:15 -0700 (PDT)
+To: jobs@perl.org
+Date: Thu, 21 Apr 2011 17:51:15 -0700
+Message-ID: <20110422005115.DF3DA2AFD4@x3.develooper.com>
+Subject: mod_perl/DBI programmer for online webshop (onsite), Germany, Hesse,
+ Frankfurt am Main/Kelsterbach/Raunheim
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13796
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 21, 2011
+
+Job title: mod_perl/DBI programmer for online webshop
+
+Company name: Dress-For-Less GmbH
+
+Internal ID: DFLPERL
+
+Location:
+Germany, Hesse, Frankfurt am Main/Kelsterbach/Raunheim
+
+Pay rate: Market Rates
+
+Terms of employment: Salaried employee
+
+Length of employment: indefinite
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+German speaking Perl developers wanted.
+Full time and Contractors wanted.
+-----------------------------------------
+Hello World,
+
+Dress For Less (http://www.dress-for-less.de) sucht dringend Perl, Php und
+Webdesigner und Linux Sysadmins für den Webshop,
+Auch DiVA  ( Microsoft Dynamics NAV) Entwickler werden gesucht.
+
+Gesucht werden Menschen vor Ort in Mönchhofallee, Kelsterbach.
+
+
+Required skills:
+Perl
+Mod Perl
+DBI
+Mysql
+
+Desired skills:
+Javascript
+Bash
+RHEL Linux 
+SSH
+iptables
+html / css 
+Apache Configuration
+Lighttpd 
+Memcached
+FastCGI
+
+Website for more information:
+http://www.dress-for-less.de/tmpl/de/se/about.tmpl?nav=job
+
+Contact information at:
+http://jobs.perl.org/job/13796#contact

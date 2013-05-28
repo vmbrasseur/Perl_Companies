@@ -1,0 +1,108 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4996
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 19717 invoked from network); 22 Sep 2006 19:43:43 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 22 Sep 2006 19:43:43 -0000
+Received: (qmail 3508 invoked by uid 225); 22 Sep 2006 19:43:43 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 3504 invoked by alias); 22 Sep 2006 19:43:43 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 22 Sep 2006 12:43:40 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 1D83F2AFE5; Fri, 22 Sep 2006 12:43:36 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060922194336.1D83F2AFE5@x3.develooper.com>
+Date: Fri, 22 Sep 2006 12:43:36 -0700 (PDT)
+Subject: CGI & mod_perl programmer (onsite), Canada, Ontario, Toronto
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4687
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 22, 2006
+
+Job title: CGI & mod_perl programmer
+
+Company name: Tucows
+
+Location: Canada, Ontario, Toronto
+
+Pay rate: Commensurate with experience
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Tucows is doing it again!  Due to the tremendous growth we’re holding
+another job fair on Saturday, September 30, 2006, on 96 Mowat Avenue, from
+10:00 am to 2:00 pm.  You'll have an opportunity to see our cool office
+space, meet members of our Product Development, QA and Usability management
+team and talk about a career at Tucows!  Be sure to bring your resume!!
+
+Visit our corporate website at http://jobs.tucows.com/workforus4.cgi to
+learn more about these challenging careers.
+
+
+
+#!/usr/bin/perl -w 
+
+    use Employee qw(:WebProgrammer); 
+    use CGI; 
+    use DBI; 
+
+    $you = new Employee; 
+    $in = new CGI; 
+    $use_mod_perl = ((exists $ENV{'GATEWAY_INTERFACE'} 
+		      and $ENV{'GATEWAY_INTERFACE'} =~ /CGI-Perl/) 
+		      or exists $ENV{'MOD_PERL'} ); 
+    $os = $in->param('os') || 'Linux' || 'Solaris' || 'BSD'; 
+    $knowledge = "/usr/local/lib/required"; 
+    open(REQUIRED, "$knowledge"); 
+    while (<REQUIRED>) { 
+	next if (/Do not understand this message/); 
+	($apache, $SQL, $HTML, $Javascript) = split; 
+    } 
+    close(REQUIRED) 
+    $knowledge = "/usr/local/lib/helpful"; 
+    open(BENEFICIAL, "$knowledge"); 
+    $nice_to_have = <BENEFICIAL>; 
+    $nice_to_have =~ m/(sendmail)(MySQL)(Oracle)(DNS\/BIND)(Java)/; 
+    close(BENEFICIAL); 
+
+    $dbh = DBI->connect('dbi:mysql:TUCOWS','you','hired') || die "can't
+connect"; 
+    $query = "SELECT the_best FROM applicants WHERE experience like 'at
+least 1-2 year%'; 
+    $sth = $dbh->prepare("$query"); 
+    $sth->execute; 
+    $sth->finish; 
+    $dbh->disconnect; 
+
+    if ($interested) { 
+	$email = 'hrdept@tucows.com'; 
+    } 
+
+
+URL for more information: http://www.tucowsinc.com/
+
+Contact information at:
+http://jobs.perl.org/job/4687#contact
+
+

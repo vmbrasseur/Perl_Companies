@@ -1,0 +1,106 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8310
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 18672 invoked from network); 20 Jun 2008 22:29:28 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 20 Jun 2008 22:29:28 -0000
+Received: (qmail 17772 invoked by uid 225); 20 Jun 2008 22:29:28 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 17768 invoked by alias); 20 Jun 2008 22:29:27 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 20 Jun 2008 15:29:23 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 605DA2AFE2; Fri, 20 Jun 2008 15:29:20 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080620222920.605DA2AFE2@x3.develooper.com>
+Date: Fri, 20 Jun 2008 15:29:20 -0700 (PDT)
+Subject: Professional Services Engineer (onsite), United States, WA, Mountlake Terrace
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8986
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 17, 2008
+
+Job title: Professional Services Engineer
+
+Company name: Message Systems
+
+Location: United States, WA, Mountlake Terrace
+
+Pay rate: starting at $80, 000 per year; DOE
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The Message Systems engineering team is looking for a highly motivated
+Professional Services Engineer to help build custom solutions on top of our
+best-of-breed messaging platform. You will work closely with our
+internationally-renowned engineering team to deliver solutions to our
+customers customers.
+
+The projects range from carrier-class deployments to support millions of
+messages per day to mass-market enterprise appliances used by Fortune 500
+companies.
+
+RESPONSIBILITIES:
+•	Project Scoping - Work closely with customers to gather
+requirements that need to be satisfied, and determine what components they
+need delivered to meet their requirements, what the level of effort is to
+deliver the needed components, as well as timelines.
+
+•	Software Development - Based on agreed upon specifications, develop
+the necessary components to satisfy the customer requirements.
+
+•	Customer Integration - Working in the customer’s integrated
+environment, assist with integration of both the custom-built components
+and the core messaging platform into the customer’s application.
+
+
+Required skills:
+•	Strong understanding of Perl
+•	Ability to develop software on a pre-arranged timeline, conforming
+to pre-defined specifications
+•	Software design
+•	UNIX (Linux, Solaris or FreeBSD) server development in C
+•	Writing multithreaded applications
+•	Writing TCP/IP and UDP networking code
+•	Writing unit and regression tests in Test::More based systems
+•	Experience with gdb and other command line debuggers
+•	Familiarity with memory debugging tools and techniques (e.g.
+valgrind, lint, dmalloc, libumem, etc.)
+•	Good grasp of multi-platform portability concerns
+•	Familiarity with autoconf and make
+•	Strong verbal and written communication skills
+•	Bachelors degree in Computer Science (or related field) from an
+accredited college or university.
+
+Desired skills:
+•	Exposure to PHP or Java a plus
+•	Experience with email technologies a huge plus
+•	Experience contributing to Open Source projects, particularly CPAN
+projects, a huge plus.
+
+
+URL for more information: http://www.messagesystems.com/
+
+Contact information at:
+http://jobs.perl.org/job/8986#contact
+
+

@@ -1,0 +1,140 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2095
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 6632 invoked from network); 19 Nov 2004 16:00:44 -0000
+Received: from x1.develooper.com (63.251.223.170)
+  by lists.develooper.com with SMTP; 19 Nov 2004 16:00:44 -0000
+Received: (qmail 9100 invoked by uid 225); 19 Nov 2004 16:00:44 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 9095 invoked by alias); 19 Nov 2004 16:00:43 -0000
+X-Spam-Status: No, hits=-4.9 required=8.0
+	tests=BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.dev) (63.251.223.163)
+  by la.mx.develooper.com (qpsmtpd/0.27.1) with ESMTP; Fri, 19 Nov 2004 08:00:40 -0800
+Received: from x3.dev (localhost.localdomain [127.0.0.1])
+	by x3.dev (8.12.11/8.12.11) with ESMTP id iAJG0cVv027321
+	for <jobs@perl.org>; Fri, 19 Nov 2004 08:00:38 -0800
+Received: (from jobs@localhost)
+	by x3.dev (8.12.11/8.12.11/Submit) id iAJG0cOs027319;
+	Fri, 19 Nov 2004 08:00:38 -0800
+Date: Fri, 19 Nov 2004 08:00:38 -0800
+Message-ID: <200411191600.iAJG0cOs027319@x3.dev>
+X-Authentication-Warning: x3.dev: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Software Architect (part onsite), United States, CA or DC, Bay Area or DC Area
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2000
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 18, 2004
+
+Job title: Software Architect
+
+Company name: Nextrials, Inc.
+
+Internal ID: 1017
+
+Location:
+United States, CA or DC, Bay Area or DC Area
+
+Pay rate: DOE
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+Are you good with software design?  Do you enjoy applying your creativity
+to complex programming projects?  Do you think of yourself as an idea
+person?
+Would you like to work in a small, stable company with a friendly working
+environment and a strong spirit of teamwork?  If so, read on:
+
+Nextrials is looking for a Software Architect experienced in Perl, Apache,
+and web-based applications for immediate full-time employment.	This
+position
+reports directly to the CTO.
+
+Responsibilities of this position include programming, taking a lead role
+in software design, coordinating with other developers and staff during the
+
+requirements-gathering, implementation, and testing process, and solving
+problems creatively.
+
+A successful applicant should have good communication skills and knowledge
+and/or prior experience with the design and implementation of
+medium-to-large
+object-oriented software projects, particularly web-based applications
+using
+relational databases.
+
+About Nextrials:
+
+  Nextrials provides integrated clinical research solutions to
+  biopharmaceutical and medical device companies, enabling them to
+  streamline their clinical research process with timely access to
+  high-quality data. To do this, we've created Prism, the most innovative
+  and easy-to-use Electronic Data Capture (EDC) software on the market.
+
+  Nextrials was founded in 1999 in the San Francisco Bay Area, where it has
+
+  become the leading EDC software and services provider in the world's
+center
+  for biotechnology. Former researchers within the oncology group at
+  Genentech, our founders have more than 60 years of combined industry
+  experience and our commitment to innovation and value has earned us 2
+  industry awards in 2004: Bio-IT World's Best of Show and Frost and
+  Sullivan's Customer Value Enhancement Award.
+
+
+Required skills:
+ur development environment is based on free Unix, Apache, and Perl, so any
+candidate must have strong experience in these areas.
+
+Specific skills desired include:
+
+  Perl
+  mod_perl
+  Apache
+  JavaScript
+  XML
+  relational database experience
+
+
+Desired skills:
+Also a plus:
+
+  CVS
+  PostgreSQL/MySQL
+  UML or similar software design documentation and modeling
+
+
+URL for more information: http://www.nextrials.com/
+
+Contact information:
+Applicants should send the following to job1017@nextrials.com:
+
+  * CV or resume in ASCII text (NOT Microsoft Word)
+  * a code sample in Perl
+  * a cover letter that describes how you may be a good fit for this
+    position.
+
+Applicants should also be available for in-person interviews at the
+Nextrials offices in the San Francisco Bay Area or the Washington, DC Area
+within the next two weeks.
+
+
+

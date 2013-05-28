@@ -1,0 +1,94 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10215
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 24976 invoked from network); 14 Jun 2010 20:28:42 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 14 Jun 2010 20:28:42 -0000
+Received: (qmail 19242 invoked by uid 225); 14 Jun 2010 20:28:41 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 19238 invoked by alias); 14 Jun 2010 20:28:41 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 14 Jun 2010 13:28:39 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 42A8E2AFDE; Mon, 14 Jun 2010 13:28:36 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20100614202836.42A8E2AFDE@x3.develooper.com>
+Date: Mon, 14 Jun 2010 13:28:36 -0700 (PDT)
+Subject: software engineer/Perl (onsite), United States, CA, SAN FRANCISCO
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/12380
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June  8, 2010
+
+Job title: software engineer/Perl
+
+Company name: Ensenda
+
+Location: United States, CA, SAN FRANCISCO
+
+Pay rate: DOE
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are seeking a skilled and driven Software Perl Engineer to join us in
+the design and development of an advanced application platform.  This is a
+very unique opportunity to work with a talented team designing and
+developing our core SaaS system. We’re looking for talent with a
+combination of great analytical and design skills, excellent software
+development skills and basic systems administration experience. If you
+believe you meet the requirements and have what it takes, please forward
+your resume for consideration..
+
+Required skills:
+Technical Skills:
+
+Our development environment:
+* Perl 5.10, Apache/mod_perl 2, Mason, Sybase, Linux, svn
+* Clean, modern OO Perl 
+* All libraries perltidied before commit
+* Large existing set of unit tests
+* Agile and project-focused development environment
+* Very few meetings :)
+
+Tasks may include:
+* Adding features to the web site and services layer
+* Optimizing performance and improving scalability (using Devel::NYTProf,
+DBIx::Profile, memcached, etc.)
+* Improving our deployment process (currently using svn and rsync)
+* Modernizing our codebase (using Moose, DBIx::Class or Rose::DB, etc.)
+
+
+Desired skills:
+Desirable skills:
+* Modern OO Perl
+* Apache/mod_perl or Catalyst
+* Mason, Template Toolkit or another templating system
+* Linux or other Unix
+* Javascript/AJAX and CSS
+
+
+URL for more information: http://www.ensenda.com/
+
+Contact information at:
+http://jobs.perl.org/job/12380#contact
+
+

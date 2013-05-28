@@ -1,0 +1,126 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3993
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 21089 invoked from network); 11 Mar 2006 21:50:32 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 11 Mar 2006 21:50:32 -0000
+Received: (qmail 2684 invoked by uid 225); 11 Mar 2006 21:50:32 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 2673 invoked by alias); 11 Mar 2006 21:50:31 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 11 Mar 2006 13:50:24 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id k2BLoKG4002010
+	for <jobs@perl.org>; Sat, 11 Mar 2006 13:50:20 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id k2BLoKVE002008;
+	Sat, 11 Mar 2006 13:50:20 -0800
+Date: Sat, 11 Mar 2006 13:50:20 -0800
+Message-ID: <200603112150.k2BLoKVE002008@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: CA-West Hollywood: Perl Engineer for High-Volume Data Warehousing Group (onsite), 90069, CA, West Hollywood
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3805
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 10, 2006
+
+Job title:
+CA-West Hollywood: Perl Engineer for High-Volume Data Warehousing Group
+
+Company name: Ticketmaster
+
+Internal ID: CRM-7
+
+Location: 90069, CA, West Hollywood
+
+Pay rate: commensurate with skills
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: full-time, regular hire
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The Software Engineer will be responsible for designing, developing, and
+implementing ETL (Extracting, Transforming, and Loading) decision support
+applications using Perl on Linux environment, with the backend database
+being Oracle. As a member of the Data Warehousing Team you will play a
+critical role in developing and maintaining the Ticketmaster transaction
+and click stream data warehouses and for collecting, processing, and
+analysis of the transaction data and web log files for statistical
+analysis. The Data Warehousing team plays a major role in supporting the
+CRM, marketing, product, executive teams by providing ticket sales analysis
+and rapidly generating usage/activity reports for Ticketmaster’s major
+online offerings.
+
+Title:	Software Engineer for High-Volume Data Warehouse
+Company: Ticketmaster
+Team: Data Warehousing Team
+Location: West Hollywood, CA
+
+Job Functions:
+
+Specifically, the software engineer will be responsible for development and
+support of custom ETL (Extract, Transform, and Load) processes for
+Ticketmaster’s Data Warehousing projects.  The software engineer will also
+research, analyze and prepare logical and physical data models for the new
+applications and optimize the data structures to enhance data load times
+and end-user data access response times.  The software engineer will be
+responsible for creating processes to ensure the data quality of the
+information collected.
+
+The role requires carrying a pager/cell phone and provide on-call after
+hours support.
+
+It would be a plus if the engineer has previous experience working in a
+consumer transactions processing environment.
+
+Q: IACI). 
+
+Required skills:
+Minimum Requirements
+---------------------------------
+•	Bachelors or Masters Degree in Computer Science or equivalent work
+experience.
+•	4+ years software development experience.
+•	1-2 years of recent experience in Perl programming (including
+object-oriented perl on UNIX or Linux platforms).
+•	Knowledge of the Unix/Linux operating system and UNIX shell
+scripting.
+•	Solid understanding of relational database concepts, SQL and
+procedural SQL in Oracle 9i or higher.
+•	Knowledge of data warehousing concepts. Experience with dimensional
+modeling a plus.
+•	Knowledge of web development, HTML, Perl/CGI programming a plus.
+•	Experience with business systems dealing with consumer ticketing
+preferred.
+•	Experience with customer transaction systems preferred
+•	Experience with artist/events/music genre categorization concepts
+preferred.
+•	Self-motivated, with strong analytical skills.
+
+URL for more information: http://www.ticketmaster.com/careers/
+
+Contact information at:
+http://jobs.perl.org/job/3805#contact
+
+

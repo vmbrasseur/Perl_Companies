@@ -1,0 +1,97 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13277
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 29117 invoked from network); 4 Apr 2013 01:43:34 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 4 Apr 2013 01:43:34 -0000
+Received: (qmail 641 invoked by uid 225); 4 Apr 2013 01:43:34 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 636 invoked by alias); 4 Apr 2013 01:43:33 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 03 Apr 2013 18:43:27 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 4CF052AFE2; Wed,  3 Apr 2013 18:43:24 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 3 Apr 2013 18:43:24 -0700
+Message-ID: <20130404014324.4CF052AFE2@x3.develooper.com>
+Subject: Senior Perl Developers x3 (onsite), United Kingdom
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17211
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April  3, 2013
+
+Job title: Senior Perl Developers x3
+
+Company name: Headforwards
+
+Internal ID: toby.parkins@headforwards.com
+
+Location: United Kingdom
+
+Pay rate: £50k+
+
+Terms of employment: Salaried employee
+
+Length of employment: Permanent
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are looking for 3 highly experienced senior Perl developers to join an
+existing team of 14. Within an agile project management framework (Kanban)
+you will be part of a team whose job it is to understand user requirements,
+design solutions, and develop and test multi-tier implementations to
+address the requirements. The work is an interesting mixture of enhancing a
+mature, existing codebase along with new projects using webservices, AJAX
+and system integration. 
+
+The job will be based in the beautiful county of Cornwall (surf, sea, fresh
+air). Our preference is to employ the successful candidate as a permanent
+employee (although contract employment can also be offered).
+
+Required skills:
+Perl
+SQL (any flavour)
+Team Worker
+Passionate about good software
+Professional
+Architectural experience
+
+The candidate will have extensive commercial Perl software development
+experience including database development (PostgreSQL, MySQL or other SQL).
+However, C/C++ Programmers can also apply although these are Perl Developer
+positions. Ideally the candidate will have worked in a team. It is expected
+that the candidate will have, at least, an understanding of Agile as a
+philosophy, Agile frameworks (Scrum, Kanban, XP) and as a practice (e.g.
+TDD, CI etc.). Agile team experience would be a significant benefit but not
+essential. The candidates should also have commercial experience of source
+control systems and concepts.PERL (CPAN, OO Perl)
+
+Desired skills:
+OO Perl
+Javascript (JQuery, JSON, AJAX)
+Catalyst or other MVC framework
+CPAN User/Contributor
+PostgreSQL
+GIT
+
+Website for more information:
+http://www.headforwards.com/careers/senior-perl-developers/
+
+Contact information at:
+http://jobs.perl.org/job/17211#contact

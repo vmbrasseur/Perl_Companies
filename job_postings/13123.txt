@@ -1,0 +1,91 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13123
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 14201 invoked from network); 5 Feb 2013 05:11:40 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 5 Feb 2013 05:11:40 -0000
+Received: (qmail 11016 invoked by uid 225); 5 Feb 2013 05:11:40 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11011 invoked by alias); 5 Feb 2013 05:11:40 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 04 Feb 2013 21:11:37 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 6DD072AFE0; Mon,  4 Feb 2013 21:11:34 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 4 Feb 2013 21:11:34 -0800
+Message-ID: <20130205051134.6DD072AFE0@x3.develooper.com>
+Subject: Product Manager (onsite), Bangalore, India
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16965
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February  4, 2013
+
+Job title: Product Manager
+
+Company name: ESPN Digital Media
+
+Internal ID: 82356
+
+Location: Bangalore, India
+
+Pay rate: Best in the Market
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The Product Manager will be responsible for the product planning and
+execution of ESPN products across multiple platforms. The right candidate
+should be hands-on on LAMP technology to build products on ESPNcricinfo
+website. This includes gathering and prioritizing product and customer
+requirements, executing the product vision, and working closely with a
+cross-functional team throughout the product lifecycle.
+
+Ideal for someone with strong passion for cricket and other sports
+
+Required skills:
+* LAMP stack of:
+- Debian Linux
+- Apache configuration
+- MySQL database design and administration
+- Object Orientated Perl and mod_perl web development
+
+* Experience of working through a SSH interface
+
+* Experience of templating system such as Template Toolkit
+
+* Excellent understanding of great user experience (UE, UX) and how it’s
+enabled by underlying technology
+
+* Strong familiarity with mobile platforms (iOS, Android and other emerging
+platforms)
+
+Desired skills:
+- HTML, CSS, JavaScript, Ajax
+- SVN
+- scalability through caching (memcached, varnish) and load balancing
+(haproxy)
+
+Website for more information:
+https://sjobs.brassring.com/tgwebhost/jobdetails.aspx?jobId=82356&PartnerId
+=25348&SiteId=5039&type=mail&JobReqLang=1&recordstart=1&JobSiteId=5039&JobS
+iteInfo=82356_5039&gqid=358
+
+Contact information at:
+http://jobs.perl.org/job/16965#contact

@@ -1,0 +1,84 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:1486
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 19767 invoked by uid 76); 8 Apr 2004 00:06:40 -0000
+Received: from x1.develooper.com (HELO x1.develooper.com) (63.251.223.170)
+  by onion.perl.org (qpsmtpd/0.27.1) with SMTP; Wed, 07 Apr 2004 17:06:40 -0700
+Received: (qmail 30145 invoked by uid 225); 8 Apr 2004 00:06:38 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 30141 invoked by alias); 8 Apr 2004 00:06:37 -0000
+X-Spam-Status: No, hits=0.0 required=7.0
+	tests=
+X-Spam-Check-By: la.mx.develooper.com
+Received: from onion.develooper.com (HELO onion.perl.org) (63.251.223.166)
+  by la.mx.develooper.com (qpsmtpd/0.27.1) with SMTP; Wed, 07 Apr 2004 17:06:37 -0700
+Received: (qmail 19726 invoked by uid 1016); 8 Apr 2004 00:06:36 -0000
+Date: 8 Apr 2004 00:06:36 -0000
+Message-ID: <20040408000636.19725.qmail@onion.perl.org>
+To: jobs@perl.org
+Subject: OO CGI/mod_perl developer (onsite), United Kingdom, London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1382
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April  7, 2004
+
+Job title: OO CGI/mod_perl developer
+
+Location: United Kingdom, London
+
+Pay rate: to £40k pa
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The position involves the ongoing development and maintenance of a leading
+web based digital content commerce platform, providing payment and other
+services to broadcasters, publishers and the music industry.  The
+application is 100% perl, using mod_perl, CGI, HTML::Template, and DBI
+access to a PostgreSQL database through an in-house developed object
+persistence layer (yes, we probably could have used Class::DBI, but it's
+too late now).
+
+You will be be involved in design and implementation of new functionality,
+bug fixing, and documentation.	There's only one other full time coder, so
+it's all hands on.
+
+Most importantly, this is a technology led organisation, where even the CEO
+knows how to code a bit, and you will get to propose and implement your own
+ideas.
+
+For the right candidate there is the possibility of heading up a
+development team within 6 months.  But if that's not what you want then
+we're still interested!
+
+Required skills:
+Linux or other *nix understanding and experience.  Pragmatic HTML and CSS. 
+Ability to use CPAN intelligently.  Proven ability to think laterally and
+independently.	Practical SQL.	Previous experience of perl web application
+development essential.	Object oriented perl experience absolutely
+essential.
+
+Desired skills:
+If you can make great coffee under extreme circumstances then that would be
+very helpful.  A proper understanding of HTTP, including caching and
+proxying, would be nice.  Squid, Wackamole, Apache, HTML::Template,
+JavaScript  
+
+Contact information: Call Matt on 0845 130 4531
+
+

@@ -1,0 +1,83 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5898
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28592 invoked from network); 12 Mar 2007 20:28:47 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 12 Mar 2007 20:28:47 -0000
+Received: (qmail 6340 invoked by uid 225); 12 Mar 2007 20:28:45 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 6266 invoked by alias); 12 Mar 2007 20:28:41 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,DK_POLICY_SIGNSOME
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 12 Mar 2007 13:28:37 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id D3F162AFE9; Mon, 12 Mar 2007 13:28:23 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070312202823.D3F162AFE9@x3.develooper.com>
+Date: Mon, 12 Mar 2007 13:28:23 -0700 (PDT)
+Subject: Senior Software Developer (onsite), United States, MO, St. Louis
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5467
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 12, 2007
+
+Job title: Senior Software Developer
+
+Company name:
+Washington University Genome Sequencing Center
+
+Location: United States, MO, St. Louis
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The Washington University Genome Sequencing Center is seeking an
+experienced software developer to fill an opening in the Annotation group.
+The position involves working with scientists to develop a wide variety of
+applications for gene prediction and annotation, from short, throw-away
+scripts to complex, object-oriented applications.
+
+Required skills:
+Applicant must be able to build high quality, scalable tools for data
+analysis. Solid design, testing, debugging, and problem solving skills are
+a must. High-level skills in abstract software design, object-oriented
+architecture, refactoring, and relational data modeling are required to do
+the job.
+
+Proficiency in Perl or other dynamically-typed languages (Ruby, Python,
+etc.) will be required to do the job effectively. Strong skills with large
+relational databases such as Oracle are a necessity. Regular work will be
+done in GNU/Linux and other UNIX-like development environments.  The
+successful candidate will self-motivated and eager to learn new things on a
+regular basis, think critically, work with a team of other skilled
+developers, and produce solutions in a production environment quickly.
+
+Desired skills:
+Familiarity with open source technologies, version control software,
+programming in a network environment, and an interest in biology are also
+assets.
+
+URL for more information: http://genome/info/jobs/index.cgi?id=7
+
+Contact information at:
+http://jobs.perl.org/job/5467#contact
+
+

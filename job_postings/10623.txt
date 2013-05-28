@@ -1,0 +1,76 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10623
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 16737 invoked from network); 15 Oct 2010 04:29:27 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 15 Oct 2010 04:29:27 -0000
+Received: (qmail 30168 invoked by uid 225); 15 Oct 2010 04:29:27 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 30164 invoked by alias); 15 Oct 2010 04:29:27 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS,T_FRT_PROFILE2
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 14 Oct 2010 21:29:25 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 3F2162AFE1; Thu, 14 Oct 2010 21:29:21 -0700 (PDT)
+To: jobs@perl.org
+Date: Thu, 14 Oct 2010 21:29:21 -0700
+Message-ID: <20101015042922.3F2162AFE1@x3.develooper.com>
+Subject: mod_perl/DBI developer (onsite), United States, NJ, Englewood Cliffs
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13026
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 14, 2010
+
+Job title: mod_perl/DBI developer
+
+Company name: Raamco International 
+
+Internal ID: perl1014
+
+Location: United States, NJ, Englewood Cliffs
+
+Pay rate: TBD
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We need a perl developer to develop our inhouse web-based property
+management software. An exciting project to replace existing paper
+processes and make a significant impact on company efficiency.
+
+Experience working in a typical LAMP static is critical, mod_perl, mysql
+and apache are our core tools. We're looking for someone who can work
+independently with broad responsibilities and who is interested in making a
+big difference in the company.
+
+
+Required skills:
+* Proven experience rolling out web based systems
+* Proficient with Perl/mod_perl/DBI and OO design
+* Experience working with Linux and Apache web server
+* Deep understanding of SQL and schema design
+
+
+Desired skills:
+* HTML::Mason
+* HTML/CSS
+* Javascript
+
+
+Contact information at:
+http://jobs.perl.org/job/13026#contact

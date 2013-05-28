@@ -1,0 +1,90 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9947
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 14357 invoked from network); 13 Mar 2010 02:32:32 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 13 Mar 2010 02:32:32 -0000
+Received: (qmail 26280 invoked by uid 225); 13 Mar 2010 02:32:32 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 26271 invoked by alias); 13 Mar 2010 02:32:31 -0000
+X-Spam-Status: No, hits=-0.0 required=8.0
+	tests=SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 12 Mar 2010 18:31:57 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id C0DC52AFE4; Fri, 12 Mar 2010 18:31:45 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20100313023145.C0DC52AFE4@x3.develooper.com>
+Date: Fri, 12 Mar 2010 18:31:45 -0800 (PST)
+Subject: REGRESSION SYSTEM ARCHITECT (onsite), India, Karnataka, Bangalore
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/11906
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 10, 2010
+
+Job title: REGRESSION SYSTEM ARCHITECT
+
+Company name: NVIDIA Graphics Pvt Ltd
+
+Location: India, Karnataka, Bangalore
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The NVIDIA Architecture group is looking for a top programmer and script
+writer	to enable our next generation build and regression system.  A key
+part of NVIDIA’s strength is our proprietary internal environments and
+tools for chip development and we are continuously pushing the envelope and
+needing the next generation of tools to enable the next generation of
+chips.	 
+
+Our regression systems are a critical component to our development strategy
+and employ continuously improving  techniques for keeping our source code
+at top quality with rapid turn around and efficient utilization of
+resources.  The system itself is a large-scale, multi-tier distributed
+computing system running on 1000s of heterogeneous machines.	The system
+is continuously running the checkin build and regression for 100s of
+engineers world-wide  as well as the automatic QA of 100s of 1000s of tests
+to verify the overall source code.
+In this position, you will be working to improve the current systems
+ability to schedule and utilize resources, improve uptime of the system,
+make it more robust to compute farm failures,  and tracking and improving
+overall throughput of the system.  You will work closely with other project
+members and  users to  understand their build and test processes and needs.
+   You will  be creating environments that are stable and easy to use by
+hundreds of engineers worldwide.  You will directly contribute to the
+overall stability and schedule of our next generation chips.
+
+
+Required skills:
+MINIMUM REQUIREMENTS: 
+- Excellent scripting skills – Perl preferred
+- Strong object-oriented programming and design background: Perl,  C++ or
+Java preferred 
+- Experience with Linux
+- BS in Computer Science with 5 years of experience 
+- Excellent communication skills
+- Flexibility/adaptability for working in a dynamic environment with
+different frameworks and requirements
+
+
+URL for more information: http://www.nvidia.co.in/
+
+Contact information at:
+http://jobs.perl.org/job/11906#contact
+
+

@@ -1,0 +1,72 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9715
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 11354 invoked from network); 26 Dec 2009 08:19:04 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 26 Dec 2009 08:19:04 -0000
+Received: (qmail 27092 invoked by uid 225); 26 Dec 2009 08:19:04 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 26961 invoked by alias); 26 Dec 2009 08:19:03 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 26 Dec 2009 00:19:02 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 12D9C2AFDA; Sat, 26 Dec 2009 00:18:59 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20091226081859.12D9C2AFDA@x3.develooper.com>
+Date: Sat, 26 Dec 2009 00:18:59 -0800 (PST)
+Subject: Need rewrite of time keeping scripts utilizing postgres (telecommute), United States, WA, Seattle
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/11494
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 19, 2009
+
+Job title:
+Need rewrite of time keeping scripts utilizing postgres
+
+Company name: N/A
+
+Internal ID: N/A
+
+Location: United States, WA, Seattle
+
+Pay rate: 50
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 4-8 hours
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+Looking to have some time keeping scripts rewritten. There are two scripts,
+one that dumps employee clock in and clock out time into postgres using
+epoch time, and the other that grabs the previous days epoch time and runs
+a diff against them to calculate hours. The scripts also send daily email
+reports of all employee hours, missing, and incorrect.
+
+It is buggy and in need of a overhaul.
+
+This is a contract gig, not to exceed $500.
+
+Required skills: perl, postgresql (pgsql)
+
+Contact information at:
+http://jobs.perl.org/job/11494#contact
+
+

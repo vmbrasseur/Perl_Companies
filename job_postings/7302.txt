@@ -1,0 +1,85 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7302
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 30528 invoked from network); 20 Nov 2007 09:22:15 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 20 Nov 2007 09:22:15 -0000
+Received: (qmail 9899 invoked by uid 225); 20 Nov 2007 09:22:14 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 9891 invoked by alias); 20 Nov 2007 09:22:14 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 20 Nov 2007 01:22:06 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id D10E32AFD6; Tue, 20 Nov 2007 01:22:02 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20071120092202.D10E32AFD6@x3.develooper.com>
+Date: Tue, 20 Nov 2007 01:22:02 -0800 (PST)
+Subject: DBI programmer for financial services company (onsite), United Kingdom, South Yorkshire, Sheffield
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/7320
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 19, 2007
+
+Job title:
+DBI programmer for financial services company
+
+Company name: Credit Style Limited
+
+Internal ID: CSL-1
+
+Location:
+United Kingdom, South Yorkshire, Sheffield
+
+Pay rate: £25-30 per hour
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 6-12 weeks
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We require a perl programmer with skills in DBI, HTML::Template, PostgreSQL
+and Apache to develop additional components for our web based debt
+collection system.
+
+Our system has already been written but there are several projects still to
+be completed which require a perl programmer.
+
+Required skills:
+You should have experience of Perl, be able to write code using the object
+oriented or structured perl. Use perl modules/packages. Understand DBI and
+be able to quickly pick up the application design of our existing software
+in order to get up to speed quickly.
+
+Desired skills:
+Perl 5.8
+SQL
+DBI
+HTML::Template
+HTML::Template::Expr
+Date::Manip
+Apache
+
+URL for more information: http://www.creditstyle.co.uk/
+
+Contact information at:
+http://jobs.perl.org/job/7320#contact
+
+

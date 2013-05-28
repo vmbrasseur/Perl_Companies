@@ -1,0 +1,132 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4440
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 27360 invoked from network); 6 Jun 2006 10:54:27 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 6 Jun 2006 10:54:27 -0000
+Received: (qmail 17376 invoked by uid 225); 6 Jun 2006 10:54:27 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 17368 invoked by alias); 6 Jun 2006 10:54:26 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 06 Jun 2006 03:54:16 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 229572AFE3; Tue,  6 Jun 2006 03:54:12 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060606105412.229572AFE3@x3.develooper.com>
+Date: Tue,  6 Jun 2006 03:54:12 -0700 (PDT)
+Subject: Network/Software Engineer (telecommute)
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4192
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June  5, 2006
+
+Job title: Network/Software Engineer
+
+Company name: Global Crossing
+
+Pay rate: commensurate with experience
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+Global Crossing, a Tier-1 Network Service Provider, is in effect looking
+for an extremely experienced and competent Perl coder; you would be one of
+the plank-owners of a new Network Efficiency group within the IP Network
+Engineering department.
+
+Generally speaking, your duties would include
+creating/supporting/refactoring automation for the various IPEng groups. 
+GX has somewhere in the neighborhood of 1000 networking devices
+in-the-field world-wide, and to that end, most of the  supported automation
+(both in-house and free-ware) solves network-centric problems.
+
+If you're still interested, and think your skills are commensurate with the
+the requirements I've attached, please simply email jab5569@yahoo.com
+
+Required skills:
+-Effective communication skills
+-Fundamental understanding of TCP/IP networking concepts (Routing,
+Switching, DN
+S, etc.)
+-2+ years systems engineering experience in a Unix environment
+-5-10 years Unix-based Perl programming experience
+   -Basic understanding of regular expressions 
+   -1+ years CGI experience
+      -1+ years HTML form creation experience
+   -1+ years modular design implementation (downloading/using modules from
+cpan)
+ 
+-Working knowledge of CVS
+-Able to construct simple MySQL queries 
+-Familiarity with pgp/gpg encryption
+-Ability to work well in groups and individually 
+
+
+Desired skills:
+-Outstanding communications skills
+  -Writing documentation on or near a technical writer level
+  -Responding to client requests in a professional manner
+-3+ years experience monitoring and managing Tier-1 TCP/IP networks 
+-3+ years of FreeBSD systems engineering experience 
+  -Responding to occasional user requests  
+  -Creating new user accounts
+  -Retrieving lost data via various backup methods
+  -Upgrading to new OS releases 
+  -Patching kernel in response to security alerts
+-10+ years Unix-based Perl programming experience creating
+reusable/scalable cod
+e
+  -Creating complex regular expressions using
+     -Back-referencing
+     -Look ahead/behind assertions
+  -3+ years CGI experience using DHTML
+     -3+ years html form creation using
+	-JavaScript input validation
+	-CGI.pm
+  -3+ years experience creating Perl modules (pm) 
+     -Thorough understanding of instantiation
+     -Familiarity with various class-type concepts such as
+       -Private methods
+       -Encapsulating class data
+      etc
+     -Working knowledge of Parse::RecDescent
+  -Experience writing POD
+  -Interacting with various relational/non-relational databases via DBI.pm,
+etc
+  -Fundamental understanding of nested data-structures such as 
+     -Hash of Hashes
+     -Array of Hashes
+     -Anonymous arrays
+   etc
+  -2+ years of network-related flat-file parsing (Rancid)
+  -Experience using GPG.pm via Perl
+  -Relevant experience comparing content against a standard, thus finding
+all un
+ique intersection and disjointed sets 
+-2+ years CVS experience, including
+  -Checking in/out existing content
+  -CVS adding new content
+  -Branching
+-2+ years experience constructing complex MySQL queries
+-Proven ability to self-manage a project autonomously 
+
+
+Contact information at:
+http://jobs.perl.org/job/4192#contact
+
+

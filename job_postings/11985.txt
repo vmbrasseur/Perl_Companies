@@ -1,0 +1,82 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11985
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 25203 invoked from network); 27 Dec 2011 23:45:14 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 27 Dec 2011 23:45:14 -0000
+Received: (qmail 17294 invoked by uid 225); 27 Dec 2011 23:45:13 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 17290 invoked by alias); 27 Dec 2011 23:45:13 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 27 Dec 2011 15:45:10 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id C762E2AFE2; Tue, 27 Dec 2011 15:45:05 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Tue, 27 Dec 2011 15:45:05 -0800
+Message-ID: <20111227234506.C762E2AFE2@x3.develooper.com>
+Subject: Senior Software QA Engineer (onsite), Brno, Czech Republic
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15322
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 27, 2011
+
+Job title: Senior Software QA Engineer
+
+Company name: NetSuite
+
+Location: Brno, Czech Republic
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Responsibilities will include: writing test plans for new product features,
+designing and implementing Perl-based automated tests using Selenium,
+executing test plans, reporting software bugs, reproducing problems
+reported by customers, and verifying software bug fixes from development.
+The candidate must be an extremely bright, articulate, and accomplished
+problem solver, capable of troubleshooting complex software application
+problems. They must be able to provide both preventive actions to avoid
+similar future problems, and to suggest innovative workarounds in order to
+resolve existing problems.
+
+Required skills:
+Qualifications/Skills:
+•	Bachelor's degree in Computer Science or equivalent
+•	Experience with Automated Testing tools such as Selenium is a plus
+•	Solid practical knowledge of Perl, JavaScript, XML, HTML and HTTP,
+RDBMS (preferably MySQL)
+•	Familiarity with n-tiered applications
+•	A minimum of 2 years experience with
+o	Software quality assurance methodologies
+o	Testing Web based business applications
+o	Writing unit tests, functional tests, performance tests and
+regression tests
+•	Ability to quickly master new technologies coupled with good
+problem solving and troubleshooting skills
+•	Superior communication skills in English and the ability to work
+well in teams
+•	Self-motivated, capable of working independently when needed
+•	Organized and reliable, able to efficiently manage multiple tasks
+•	Great attitude and work ethic
+
+Website for more information: http://.www.netsuite.com
+
+Contact information at:
+http://jobs.perl.org/job/15322#contact

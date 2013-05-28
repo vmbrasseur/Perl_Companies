@@ -1,0 +1,111 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11404
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 19919 invoked from network); 15 Jun 2011 00:45:16 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 15 Jun 2011 00:45:16 -0000
+Received: (qmail 4704 invoked by uid 225); 15 Jun 2011 00:45:15 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 4700 invoked by alias); 15 Jun 2011 00:45:15 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 14 Jun 2011 17:45:12 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 99A852AFDF; Tue, 14 Jun 2011 17:45:08 -0700 (PDT)
+To: jobs@perl.org
+Date: Tue, 14 Jun 2011 17:45:08 -0700
+Message-ID: <20110615004508.99A852AFDF@x3.develooper.com>
+Subject: Perl Hacker (onsite), United States, MA, Somerville
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14328
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 14, 2011
+
+Job title: Perl Hacker
+
+Company name: Best Practical Solutions
+
+Internal ID: 31337
+
+Location: United States, MA, Somerville
+
+Pay rate: DOE
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+About us
+
+We're Best Practical Solutions, a small software company located in
+Somerville, MA. We build software and sell support, training, consulting,
+and custom development. Our main product, RT (Request Tracker), is the
+premiere open source issue tracking system. We've been around since the
+fall of 2001 and are entirely self-funded. We're currently hard at work on
+our next new product. Things just keep getting busier.
+
+About the job
+
+We're looking for a Perl Hacker to help us enhance and refine our products,
+and help us be excellent to our customers. You'll be responsible for
+everything from implementing new features across all our products to
+testing and applying user-contributed patches to our released software. In
+a typical week, you'll probably spend about half your time working on
+customer projects and half working on internal and open source projects.
+
+The hours are flexible and we all telecommute some of the time...though we
+work from our office in the heart of Davis Sq, Somerville, most days. We do
+just about EVERYTHING online and on the phone. You should be comfortable
+using email and instant messaging systems to collaborate and get work done.
+
+Required skills:
+About you
+
+You should be a self-starter who has some experience with Perl, as well as
+a bit of experience with at least a few of the following:
+
+ * Open source development practices
+ * Distributed source control
+ * Test driven development
+ * User interface design
+ * Documentation
+ * Javascript
+ * SQL databases
+ * Optimization, profiling, and debugging
+ * UNIX systems administration
+
+It's okay if you don't know everything out of the gate, but you should be
+able to learn on the fly and be comfortable asking questions when you get
+in over your head. RT is a large codebase to dive into, so you should be
+prepared to work with a project that's too big to hold in your head at
+once. If you want to see what sort of trouble you're getting yourself into,
+you can find all of our open source code http://github.com/bestpractical/.
+We're a small company and the boss is typically overextended. You should be
+comfortable working both independently and in small teams, prioritizing
+tasks on your own, and juggling tasks and projects.
+
+
+Compensation
+
+DOE - This is a full-time salaried position, but the details are
+negotiable. We're a small, self funded company. The standard benefits
+apply, of course: health insurance, dental insurance, and junk food to make
+that dental insurance worthwhile.
+
+
+Contact information at:
+http://jobs.perl.org/job/14328#contact

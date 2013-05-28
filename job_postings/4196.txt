@@ -1,0 +1,102 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4196
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28330 invoked from network); 20 Apr 2006 22:53:12 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 20 Apr 2006 22:53:12 -0000
+Received: (qmail 15216 invoked by uid 225); 20 Apr 2006 22:53:11 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 15210 invoked by alias); 20 Apr 2006 22:53:11 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 20 Apr 2006 15:53:02 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 01F262AFE7; Thu, 20 Apr 2006 15:52:57 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060420225257.01F262AFE7@x3.develooper.com>
+Date: Thu, 20 Apr 2006 15:52:57 -0700 (PDT)
+Subject: Speech Recognition/NLP Engineer (onsite), United States, MA, Needham
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3752
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 20, 2006
+
+Job title: Speech Recognition/NLP Engineer
+
+Company name: eScription, Inc
+
+Internal ID: ASR
+
+Location: United States, MA, Needham
+
+Pay rate: USD
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: Full time
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The Automatic Speech Recognition Group is looking for an experienced
+software engineer to focus on developing and implementing algorithms and
+features that enhance capabilities, quality, automation and efficiency of
+our production system.
+
+This individual will work on a variety of research and development projects
+and will be exposed to many aspects of speech recognition, natural language
+processing and distributed computing.  
+
+This position requires broad expertise in many aspects of research and
+development:
+•Analyzing large corpora for statistics and trends. 
+•Maintaining and enhancing specific NLP components.
+•Automating responses to customer support questions. 
+•Analyzing user interaction with the product.
+•Automating monitoring, error reporting and recovery for a large farm of
+ASR hosts.
+•Optimizing the ASR code for efficiency.
+
+All of these projects will require careful written specification,
+incremental development, testing and monitoring. 
+
+
+Required skills:
+The ideal candidate will possess: 
+•A MS in Computer Science, Engineering, Math or related field
+•At least 3-4 yrs of work experience 
+•Hands on experience or academic background in either Speech Recognition,
+Natural Language Processing or other applied Statistical Modeling
+techniques.
+•Direct involvement on large corpora investigations a big plus.  
+•Extensive experience with Perl and/or shell scripting (bash) 
+•Experience with Unix/Linux 
+•Knowledge of one or more of the following: C/C++, SQL, Java, CVS/SVM
+•Excellent analytical skills 
+•Good oral and written communication skills 
+•Ability to multi-task in a fast-paced environment 
+•Desire to learn new technologies, work hard, excel and make a difference
+
+
+URL for more information: http://www.escription.com/
+
+Contact information at:
+http://jobs.perl.org/job/3752#contact
+
+

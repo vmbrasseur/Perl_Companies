@@ -1,0 +1,109 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11081
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 31609 invoked from network); 8 Mar 2011 00:42:40 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 8 Mar 2011 00:42:40 -0000
+Received: (qmail 26085 invoked by uid 225); 8 Mar 2011 00:42:40 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 26081 invoked by alias); 8 Mar 2011 00:42:39 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS,T_LOTS_OF_MONEY
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 07 Mar 2011 16:42:37 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 7426A2AFDD; Mon,  7 Mar 2011 16:42:34 -0800 (PST)
+To: jobs@perl.org
+Date: Mon, 7 Mar 2011 16:42:34 -0800
+Message-ID: <20110308004234.7426A2AFDD@x3.develooper.com>
+Subject: Senior Software Engineer, United States, WA, Camas 
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13818
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March  7, 2011
+
+Job title: Senior Software Engineer
+
+Company name: Logitech, Inc.
+
+Internal ID: 101936
+
+Location: United States, WA, Camas 
+
+Pay rate: USD 110,000 annually
+
+Terms of employment: Salaried employee
+
+Length of employment:  
+
+Hours: Full time
+
+Description:
+Company Background 
+
+Logitech is a world leader in personal peripherals, driving innovation in
+PC navigation, Internet communications, digital music, home-entertainment
+control, gaming and wireless devices.  The company's products combine
+essential core technologies, continuing innovation, award-winning
+industrial design and excellent value.	Logitech International is a Swiss
+public company traded on the SIX Swiss Exchange under the symbol LOGN and
+on the Nasdaq Global Select Market under the symbol LOGI. 
+
+Major Duties 
+
+This is a key role in the Audio Business Unit’s cloud services team.
+Responsibilities will include developing the long-term strategies to
+provide the best in the world connected device experience and hands-on
+development of the plan. 
+
+- Create strategies for product differentiation 
+- Design plans to achieve service level agreements with the internal team 
+- Design Open Source strategies and make recommendations 
+- Author state of the art code for providing world class cloud experiences
+to our customers 
+- Define architecture approaches and present those to management and key
+engineers 
+
+
+Required skills:
+The following are required: 
+Expert in Perl development on Mac/Linux 
+Object-oriented Perl 
+AnyEvent/EV/POE-style asynchronous development 
+TCP servers/clients 
+Extensived and deep understanding of Open Source - Closed Source
+development approaches and strategies 
+C/C++ 
+
+The following are highly desired: 
+Catalyst 
+XS development 
+Have released module(s) on CPAN 
+Win32 
+Linux Embedded development, especially ARM 
+Lua 
+svk 
+git 
+Experience working with audio, video, or image formats 
+autoconf/automake/libtool 
+poky build environment 
+Have provided patch(es) to open source projects 
+UPnP/DLNA
+
+
+Desired skills: audio, video or images
+
+Website for more information: http://www.logitech.com/
+
+Contact information at:
+http://jobs.perl.org/job/13818#contact

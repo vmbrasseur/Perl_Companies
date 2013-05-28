@@ -1,0 +1,116 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:1416
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 18175 invoked by uid 76); 16 Mar 2004 20:22:45 -0000
+Received: from x1.develooper.com (HELO x1.develooper.com) (63.251.223.170)
+  by onion.perl.org (qpsmtpd/0.27.1) with SMTP; Tue, 16 Mar 2004 12:22:45 -0800
+Received: (qmail 25670 invoked by uid 225); 16 Mar 2004 20:22:42 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 25488 invoked by alias); 16 Mar 2004 20:22:06 -0000
+Received: from [63.251.223.166] (HELO onion.perl.org) (63.251.223.166)
+  by la.mx.develooper.com (qpsmtpd/0.27.1) with SMTP; Tue, 16 Mar 2004 12:22:06 -0800
+Received: (qmail 17779 invoked by uid 1016); 16 Mar 2004 20:22:04 -0000
+Date: 16 Mar 2004 20:22:04 -0000
+Message-ID: <20040316202204.17778.qmail@onion.perl.org>
+To: jobs@perl.org
+X-Spam-Checker-Version: SpamAssassin 2.63 (2004-01-11) on x1.develooper.com
+X-Spam-Status: No, hits=-4.9 required=8.0 tests=BAYES_00 autolearn=ham 
+	version=2.63
+Subject: web site programmer/producer for media watchdog organization (onsite), United States, DC, Washington
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1312
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 16, 2004
+
+Job title:
+web site programmer/producer for media watchdog organization
+
+Company name: Media Matters
+
+Location: United States, DC, Washington
+
+Pay rate: US$35,000-70,000/year
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: long term
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are seeking to hire a full-time person to do web-related technical
+work for a new media monitoring organization based in Washington
+DC. Job duties include:
+
+  - working closely with an editorial/research staff to do daily
+    updates to web content
+
+  - designing new sections of and applications for a highly visible
+    web site
+
+  - monitoring servers, doing basic analysis of web traffic and
+    performance
+
+  - helping with routine office tech support
+
+Fluency in Perl and HTML are of equal importance for this job. We are
+building a large-scale web and research operation in pieces,
+prototyping content and applications, then building tools to expand
+successful prototypes.
+
+Our database and web publishing environment is built on an Apache +
+Perl + HTML::Mason + XML::Comma foundation.
+
+Several additional skills are also important, and applicants who are
+not already reasonably comfortable with the following
+tools/technologies will be asked to dive in and learn them: linux
+systems administration; basic graphics, audio and video editing;
+Microsoft Windows XP desktop support.
+
+This is not a nine-to-five job: primary responsibility for daily work
+on the web site will fall to the Web Programmer/Producer. In addition,
+we will be developing and expanding the web site rapidly, introducing
+community-oriented interactive features and multimedia content. We are
+seeking a motivated, organized person who wants to help us have an
+impact on the quality of political journalism in the United States.
+
+To apply, please send a short note about yourself, describing your
+qualifications, your experience doing web-related work, and your level
+of proficiency with the tools listed above, to Kwin Kramer
+<kwindla@allafrica.com>. Please include a plain text resume (or a link
+to an HTML resume posted on the web) in your email. Applications that
+include a resume in any format other than plain text will not be read.
+
+
+Required skills:
+Perl
+HTML
+linux systems administration
+basic graphics, audio and video editing
+Windows XP desktop tech support
+
+Desired skills:
+HTML::Mason
+XML::Comma
+mod_perl
+SQL tuning
+
+
+Contact information:
+Kwindla Hultman Kramer
+kwindla@allafrica.com
+
+

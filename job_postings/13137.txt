@@ -1,0 +1,91 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13137
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 23029 invoked from network); 13 Feb 2013 19:16:05 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 13 Feb 2013 19:16:05 -0000
+Received: (qmail 10262 invoked by uid 225); 13 Feb 2013 19:16:04 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 10258 invoked by alias); 13 Feb 2013 19:16:04 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,T_FRT_PROFILE2
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 13 Feb 2013 11:15:59 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id F06772AFE1; Wed, 13 Feb 2013 11:15:55 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 13 Feb 2013 11:15:55 -0800
+Message-ID: <20130213191555.F06772AFE1@x3.develooper.com>
+Subject: Internet Services Engineer (onsite), Sydney - Australia
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17021
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 13, 2013
+
+Job title: Internet Services Engineer
+
+Company name: Inteliment
+
+Internal ID: ISE- 13/2/13
+
+Location: Sydney - Australia
+
+Pay rate: $450- $650
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The Internet Services Engineer in the Internet Services Engineering team is
+responsible for the support, development, maintenance and enhancement of
+key Client Broadband Internet platforms and services. These platforms and
+services are focused on various ISP related technologies and protocols with
+an intensive use of the Perl scripting language in a Red Hat Linux
+environment
+
+Required skills:
+• Proficient in the Perl Scripting language in a Linux environment. The
+Internet Services Engineering Team relies on Perl as its primary scripting
+language. There is a diverse range of tasks and projects with a Perl
+component
+• Proficient in a range of open source systems and software including Red
+Hat Linux
+• Knowledge of IP and Internet Protocols as required for the platforms our
+team is responsible for and other Network and IT platforms our systems
+interact with
+• Experience with modperl and Apache
+• Extensive experience with CVS or similar source code control system
+• System administration experience in a Unix environment especially RedHat
+Linux
+• Database Experience; SQL, MySQL and/or Postgres
+• Experience in Networking basic e.g. DNS, TCP
+
+Desired skills:
+• IP and ISP Related Systems and Technologies
+• LDAP
+• Mail – sendmail, POP, SMTP. IMAP
+• Radius, BRASs
+• Routers e.g. Cisco Equipment
+• DSL related technologies, DSLAMs
+• SOAP
+• Knowledge of Test-Driven Development (esp. automated unit testing)
+• Oracle RDBMS
+
+Website for more information: http://www.inteliment.com
+
+Contact information at:
+http://jobs.perl.org/job/17021#contact

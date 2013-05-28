@@ -1,0 +1,95 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7751
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 16428 invoked from network); 29 Feb 2008 15:10:10 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 29 Feb 2008 15:10:10 -0000
+Received: (qmail 28795 invoked by uid 225); 29 Feb 2008 15:10:09 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 28786 invoked by alias); 29 Feb 2008 15:10:09 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 29 Feb 2008 07:10:06 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id B6C242AFD2; Fri, 29 Feb 2008 07:10:02 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20080229151002.B6C242AFD2@x3.develooper.com>
+Date: Fri, 29 Feb 2008 07:10:02 -0800 (PST)
+Subject: Software Tools Developer
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8056
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 28, 2008
+
+Job title: Software Tools Developer
+
+Description:
+LogLogic™ provides the world's leading enterprise-class platform for
+collecting, storing, reporting and alerting on 100 percent of IT log data
+from virtually any device, operating system or application. LogLogic R4 LX
+and ST appliances address the compliance, operations and risk mitigation
+needs of the most demanding Fortune and Times 1000 companies globally.
+LogLogic's innovations include creating the world's first search engine for
+fast moving IT log data and Compliance Suites that automate using that data
+to enforce critical controls and regulations. LogLogic has won multiple
+awards including 2006 AlwaysOn Top 100 Private Company, Best of Interop
+2005, SC Magazine's "Best Computer Forensics," Info Security's "Hot Company
+2006," and the Red Herring 100. In 2007, LogLogic was named a leader in the
+Magic Quadrant report form a leading analyst firm.
+With more than 300% year-on-year growth, LogLogic is one of Silicon
+Valley’s hottest pre-IPO companies and is backed by Sequoia Capital,
+TeleSoft Partners, WorldView Technology Partners, and Invesco. These are
+top-tier venture capital firms with long track records of success shared by
+founders and employees they have backed.  More information on LogLogic can
+be found at www.loglogic.com.
+
+Software Tools Developer
+
+This position in LogLogic’s LogLabs group is responsible for creating an
+efficient tool-assisted workflow for our team of analysts to deliver
+log-parsers to our LogAppliance.  You will rapid-prototype a
+text-retrieval, database-backed system to support an existing process, as
+well as design and implement validation and code-generation tools. You will
+be working with analysts, architects, developers, quality engineers and
+product managers to create the next generation of LogLogic products, and
+learn from the experts in log and systems management.  
+
+Responsibilities:
+• Rapid prototype Twiki-based Workflow tools for our LogLabs procedures.
+• Design and implement text analysis, source-code validation scripts and
+code-generation tools.
+• Implement text-retrieval, clustering and machine-learning algorithms on
+data and documents.
+• Support test automation using VMware with the SQA group.
+• Build a robust, database-backed workflow support system.
+
+Requirements: 
+• B.S. Computer Science (or related field), M.S. preferred.
+• 5+ years of software development in Unix/Linux environment.
+• Ability to implement web applications using Perl, Python, Ruby or Java
+frameworks, databases such as MySQL, and deployed on Linux.
+• Collaborated with architects and designers to deliver prototypes quickly.
+
+• CVS/Perforce
+• Good interpersonal and written communication.
+
+Ideal Personal Characteristics:
+• Open, pro-active communication with peers and management.
+• Commitment to quality, risk reduction, and productivity tools.
+• Enjoy the startup environment, with its high demands and high rewards.
+
+Contact information at:
+http://jobs.perl.org/job/8056#contact
+
+

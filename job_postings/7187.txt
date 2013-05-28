@@ -1,0 +1,79 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7187
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 29420 invoked from network); 26 Oct 2007 14:10:57 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 26 Oct 2007 14:10:57 -0000
+Received: (qmail 9884 invoked by uid 225); 26 Oct 2007 14:10:56 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 9873 invoked by alias); 26 Oct 2007 14:10:56 -0000
+X-Spam-Status: No, hits=-2.6 required=8.0
+	tests=BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 26 Oct 2007 07:10:40 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id C085C2AFD7; Fri, 26 Oct 2007 07:10:36 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20071026141036.C085C2AFD7@x3.develooper.com>
+Date: Fri, 26 Oct 2007 07:10:36 -0700 (PDT)
+Subject: Perl programmer for web-application (onsite), Denmark, Bagsvaerd / Copenhagen
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/7131
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 26, 2007
+
+Job title: Perl programmer for web-application
+
+Company name: Novozymes A/S
+
+Internal ID: NZDB-3
+
+Location: Denmark, Bagsvaerd / Copenhagen
+
+Pay rate: DKK negotiable
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: 1 year
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Novozymes R&D is seeking experienced Perl developers for a 
+1-year project.
+
+We need more programmers on a project building an internal 
+web-based research application with a database back-end.
+
+Required skills:
+* Expert in object oriented Perl Programming on a Linux platform
+* Prior experience in one or more of the following:
+  - Catalyst (http://www.catalystframework.org/)
+  - DBIx::Class 
+  - Mason (http://masonhq.com/)
+
+Desired skills:
+* PostgreSQL
+* CSS and xhtml
+* java script and AJAX.
+
+URL for more information: http://novozymes.com/
+
+Contact information at:
+http://jobs.perl.org/job/7131#contact
+
+

@@ -1,0 +1,131 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8122
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 25793 invoked from network); 10 May 2008 03:10:50 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 10 May 2008 03:10:50 -0000
+Received: (qmail 27856 invoked by uid 225); 10 May 2008 03:10:50 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 27852 invoked by alias); 10 May 2008 03:10:50 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 09 May 2008 20:10:47 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 9B7502AFF2; Fri,  9 May 2008 20:10:43 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080510031043.9B7502AFF2@x3.develooper.com>
+Date: Fri,  9 May 2008 20:10:43 -0700 (PDT)
+Subject: Sr. Release Engineer / Build Architect (onsite), United States, Georgia, Atlanta Metro
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8662
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May  9, 2008
+
+Job title: Sr. Release Engineer / Build Architect
+
+Company name: CMI
+
+Location: United States, Georgia, Atlanta Metro
+
+Pay rate: $75-95 hr. negotiable
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 4-6 months
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+COMPANY AND POSITION SUMMARY:  
+Our client is focused on expanding the possibilities for its customers’
+networks while reducing their cost of ownership. The company’s systems,
+software and services target and cure specific network pain points so that
+telcos, cable operators, governments and enterprises can best exploit the
+new applications that are driving their businesses forward.  The company is
+looking for an experienced toolsmith and release engineer for our next
+generation product.
+
+This position will be responsible for implementing the tools required to
+build, test, and release software for the next generation converged
+packet/TDM switch.  The target platform and the development environment is
+Linux based.  We use Perforce for configuration management, and we will be
+attempting to leverage a home grown build system based on Perl/CGI for a
+Windows environment.  We need someone to spearhead the evolution of our
+existing system to work under Linux and to add capabilities such as
+increased parallelism, triggered continuous integration, improved support
+for multi-site development, etc.  We will also be looking at off-the-shelf
+tools as options for this evolution.  The position will also be responsible
+for developing other tools to assist in development and testing of our
+product.
+
+DUTIES:
+•	Evolve home grown Windows-based build system into more advanced and
+capable Linux-based system.
+•	Evaluate 3rd party release engineering tools for possible adoption.
+
+•	Implement additional development tools for packaging builds,
+launching configured systems, etc.
+•	Assist and consult in the creation of makefiles.
+•	Perform day-to-day build and release management activities for
+Centaur product line.
+•	Continue to improve and enhance build and release engineering tools
+
+Required skills:
+Skills
+•	  Deep understanding of software build and release management
+processes and tools for large, multi-site development.
+•	  Experience with software configuration management tools such as
+Perforce and ClearCase.
+•	  Familiarity with some 3rd party release engineering tools such as
+Data-Pipes and Electric Cloud tools.
+•	  Experience with GNU make and build system (Autoconf, Automake,
+Libtool)
+•	  Experience with other build automation software, such as Jam,
+Ant, OMake, etc.
+•	  Experience with Perl, and familiarity with CGI
+•	  Some software development experience, preferably with knowledge
+of:
+•	  Unix shell programming
+•	  Other scripting languages such as Python and TCL
+•	  C/C++ and Java programming
+•	  Excellent verbal and written communication skills. 
+
+
+Desired skills:
+Desired Characteristics
+•	Independent self-starter and committed to delivering on aggressive
+deadlines. 
+•	Technologist mindset, keeping up to date on tool and process
+developments. 
+
+Education / Experience
+•	  Bachelors in Computer Science 
+•	  7+ yrs years of managing complex build/release systems
+•	  11+ years of working experience with large, multi-site software
+systems.
+
+•	Comfortable in a team environment with ability to lead 
+•	Strong commitment to product excellence.
+
+
+URL for more information: http://www.cmi.com/
+
+Contact information at:
+http://jobs.perl.org/job/8662#contact
+
+

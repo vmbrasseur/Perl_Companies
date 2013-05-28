@@ -1,0 +1,121 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5046
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 21556 invoked from network); 3 Oct 2006 20:32:48 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 3 Oct 2006 20:32:48 -0000
+Received: (qmail 23376 invoked by uid 225); 3 Oct 2006 20:32:48 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 23370 invoked by alias); 3 Oct 2006 20:32:47 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 03 Oct 2006 13:32:44 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 3F8842AFE1; Tue,  3 Oct 2006 13:32:39 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20061003203239.3F8842AFE1@x3.develooper.com>
+Date: Tue,  3 Oct 2006 13:32:39 -0700 (PDT)
+Subject: Scientific Informatics Developer (onsite), United States, New York, Cold Spring Harbor Laboratory
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4732
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October  3, 2006
+
+Job title: Scientific Informatics Developer
+
+Company name: Cold Spring Harbor Laboratory
+
+Location:
+United States, New York, Cold Spring Harbor Laboratory
+
+Pay rate: $60-80K
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+This position is open to telecommuters.
+
+The Maize Genome Project is a federally funded, multi-institutional effort
+to sequence the corn genome. Given the complexity of the genome, a team at
+CSHL has been charged with the task of automatically analyzing the genome
+as it is sequenced and providing a graphical browser of the data for the
+maize community.
+
+We are looking for a skilled software developer to engage in the design and
+development of an automated annotation pipeline that will analyze maize
+sequences on a regular basis. The position demands creative thinking and a
+top-to-bottom understanding of core software concepts. The position focuses
+on new development and requires very little maintenance.
+ 
+We are looking for people who are passionate and committed to software
+engineering principles. Ideal candidates will have solid experience with
+web technologies and databases as well as a reasonable background in
+biology.
+
+Ideal candidates must work cooperatively and productively with other team
+members. We promote personal enrichment and community involvement through
+technology exchanges, code reviews, and participation in lectures,
+workshops, and conferences, both locally and remotely. You will likely
+participate in the publication of research papers.
+
+Responsibilities:
+You will work within our team primarily on the implementation of an
+automated annotation pipeline for the Maize Genome Project. You will also
+be involved in implementing new features for the maize genome browser.
+
+As an active developer, you will engage in most aspects of the software
+life cycle, including requirements gathering, software design and analysis,
+implementation, and testing. You will be writing software documentation as
+well as technical research papers or sections therein.
+
+
+Required skills:
+A major programming language (Perl, Java, C/C++, Ruby), SQL, Unix-based
+systems. Master's degree in Computer Science (or related field) plus a
+minimum of 4 years experience, or Bachelor's degree in Computer Science (or
+related field) plus a minimum of 5 years experience as a software engineer
+performing duties similar to those above.
+
+Excellent verbal and written communication skills are a must.
+
+Database experience includes database design, development,
+object-Relational modeling, and performance tuning.  Web development
+experience includes writing static and dynamic web pages, templates, and
+server-side applications.
+
+
+Desired skills:
+General understanding of and experience with: web-related design patterns
+such as MVC; source control management software such as CVS, Subversion, or
+Perforce; software testing principles; Ensembl technologies.
+
+CVS, Subversion, Apache, JavaScript, XML, CGI, Servlets, unit-testing. 
+Familiarity with basic concepts of molecular biology and bioinformatics is
+preferred but not required. Familiarity with various bioinformatics APIs is
+also preferred.
+
+
+URL for more information: http://www.maizesequence.org/
+
+Contact information at:
+http://jobs.perl.org/job/4732#contact
+
+

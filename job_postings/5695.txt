@@ -1,0 +1,93 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5695
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 16170 invoked from network); 3 Feb 2007 01:28:24 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 3 Feb 2007 01:28:24 -0000
+Received: (qmail 24596 invoked by uid 225); 3 Feb 2007 01:28:24 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 24589 invoked by alias); 3 Feb 2007 01:28:23 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 02 Feb 2007 17:28:20 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 4EA182B00F; Fri,  2 Feb 2007 17:28:16 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20070203012816.4EA182B00F@x3.develooper.com>
+Date: Fri,  2 Feb 2007 17:28:16 -0800 (PST)
+Subject: Perl / OO Perl Developer and System Administration for Liquid Web Inc (onsite), United States, MI, Lansing
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5301
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February  2, 2007
+
+Job title:
+Perl / OO Perl Developer and System Administration for Liquid Web Inc
+
+Company name: Liquid Web Inc
+
+Internal ID: jobs.perl.org-103
+
+Location: United States, MI, Lansing
+
+Pay rate: negotiable
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Liquid Web Inc. is a rapidly expanding web hosting company which currently
+operates two Data Centers in the Lansing, MI area. Due to our rapid growth
+we are seeking a Perl software developer for internal operations and
+special projects. Internal operations include areas such as improving our
+data center operations, billing, and our support infrastructure. We are
+accepting applications for Software Developers to work directly at our
+Lansing, MI Data Centers.
+
+Required skills:
+* Proficient in Perl and OO Perl Techniques
+* Experience developing relational databases
+* Some javascript knowledge
+* Shell scripting
+* Familiarity with web architectures
+* Some system administration with strong Linux/Unix familiarity
+* Self motivated, goal oriented
+* Must be attentive to detail
+* Ability to work in a team based environment
+* Able to work alone without direct supervision
+* Strong communication skills
+* Ability to work flexible hours on occasion
+* Ability to work at our Lansing, MI Data Center required
+
+Desired skills:
+* Familiar with HTML::Mason, AJAX, C and Perl XS, DBI
+* Experience in the web hosting industry
+* RPM Package development and repository knowledge
+* Understanding of IPC (Signals, Unix domain sockets, message queues, etc.)
+
+* Familiar with version control systems (CVS, svn, etc.)
+* Familiar with IP networking
+
+URL for more information: http://www.liquidweb.com/jobs/
+
+Contact information at:
+http://jobs.perl.org/job/5301#contact
+
+

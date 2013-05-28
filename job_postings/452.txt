@@ -1,0 +1,61 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:452
+Return-Path: <sgooch@adobe.com>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 87088 invoked by uid 76); 13 Jun 2002 23:09:13 -0000
+Received: from smtp-relay-3.adobe.com (HELO smtp-relay-3.sea.adobe.com) (192.150.22.10)
+  by onion.perl.org (qpsmtpd/0.07b) with SMTP; Thu Jun 13 23:09:13 2002 -0000
+Received: from inner-relay-3.corp.adobe.com (inner-relay-3 [153.32.251.51])
+	by smtp-relay-3.sea.adobe.com (8.12.3/8.12.3) with ESMTP id g5DN6R9C014507
+	for <jobs@perl.org>; Thu, 13 Jun 2002 16:06:27 -0700 (PDT)
+Received: from mailsj-v1.corp.adobe.com (mailsj-dev.corp.adobe.com [153.32.1.192])
+	by inner-relay-3.corp.adobe.com (8.12.3/8.12.3) with ESMTP id g5DN4HQG013427
+	for <jobs@perl.org>; Thu, 13 Jun 2002 16:04:22 -0700 (PDT)
+Received: from c1652199-A.adobe.com ([153.32.43.141]) by
+          mailsj-v1.corp.adobe.com (Netscape Messaging Server 4.15 v1 Jul
+          11 2001 16:32:57) with ESMTP id GXO2VY00.5EV; Thu, 13 Jun 2002
+          16:07:10 -0700 
+Message-ID: <4.3.2.7.2.20020613160638.01dc2d58@153.32.1.135>
+X-Sender: sgooch@153.32.1.135
+X-Mailer: QUALCOMM Windows Eudora Version 4.3.2
+Date: Thu, 13 Jun 2002 16:07:05 -0700
+To: jobs@perl.org
+Cc: sgooch@adobe.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"; format=flowed
+Subject: a Perl expert (contractor) needed urgently
+Approved: news@nntp.perl.org
+From: sgooch@adobe.com (Shelley Gooch)
+
+Hi,
+
+Here is the job info:
+
+Expert in designing and working in large perl systems, either web based or 
+other.
+The person should have a minimum of 2 years experience programming in perl, 
+and be
+able to "execute" in a production atmosphere. Windows system experience
+is a requirement (especially driving windows applications from perl), and 
+Unix experience
+is a very strongly desired qualification. Mac system experience is
+a huge plus as well, as the scripts need to execute on Mac OS 10.
+Desired (not required):
+-Acrobat
+-perforce
+-OLE
+-AppleScript
+-shell scripting (tcsh, csh, DOS)
+-SOAP (esp. Soap-lite)
+-Unix system administration
+
+If you are interested, please contact Greg Christopher at gchristo@adobe.com.
+
+Thanks.
+
+Shelley
+
+

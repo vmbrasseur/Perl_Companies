@@ -1,0 +1,88 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:1557
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 47634 invoked from network); 3 May 2004 21:03:35 -0000
+Received: from x1.develooper.com (63.251.223.170)
+  by onion.develooper.com with SMTP; 3 May 2004 21:03:35 -0000
+Received: (qmail 16590 invoked by uid 225); 3 May 2004 21:03:34 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 16578 invoked by alias); 3 May 2004 21:03:34 -0000
+X-Spam-Status: No, hits=0.0 required=7.0
+	tests=
+X-Spam-Check-By: la.mx.develooper.com
+Received: from onion.develooper.com (HELO onion.perl.org) (63.251.223.166)
+  by la.mx.develooper.com (qpsmtpd/0.27.1) with SMTP; Mon, 03 May 2004 14:03:33 -0700
+Received: (qmail 47591 invoked by uid 1016); 3 May 2004 21:03:32 -0000
+Date: 3 May 2004 21:03:32 -0000
+Message-ID: <20040503210332.47590.qmail@onion.perl.org>
+To: jobs@perl.org
+X-Spam-Rating: onion.develooper.com 1.6.2 0/1000/N
+Subject: Apache+mod_perl+oracle developer for in-house application (onsite), United States, New York, New York
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1446
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May  3, 2004
+
+Job title:
+Apache+mod_perl+oracle developer for in-house application
+
+Company name: SeniorBridge Family
+
+Location: United States, New York, New York
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Length of employment: indefinite
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We're looking for a programmer to maintain and enhance an internal
+application that uses Apache, Oracle, and mod_perl.  The application does
+accounting reports, employee/client management, real-time scheduling, and
+referral management for a medium-size health care company.  The software
+manages hundreds of clients and employees nationwide, and is in continuous
+use by over one hundred users.
+
+The ideal candidate will have experience working with other programmers on
+a large software project.  Also desireable are good communications skills
+and enthusiasm for politely handling users' requests.
+
+
+Required skills:
+    - at least 3 years of perl programming experience
+    - experience with object-oriented perl and mod_perl
+    - at least 3 years of experience working in a unix/linux environment
+    - at least 2 years of experience working with an RDBMS such as mysql or
+oracle
+    - experience programming in a team environment
+
+
+Desired skills:
+Experience with :
+    - oracle tuning, configuration, and query optimization
+    - design (i.e. html), with an emphasis on usability
+    - mod_perl handlers beyond Apache::Registry
+    - mod_perl optimization techniques
+    - CVS or other source code management systems
+    - rsync, samba, HTML::Template, XML::Simple, LWP
+
+
+Contact information:
+Please send resumes in ascii text (or html) to
+<itcareer@seniorbridgefamily.com>.
+
+

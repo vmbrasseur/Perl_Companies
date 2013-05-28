@@ -1,0 +1,104 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12381
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28011 invoked from network); 30 Apr 2012 23:51:05 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 30 Apr 2012 23:51:05 -0000
+Received: (qmail 10262 invoked by uid 225); 30 Apr 2012 23:51:05 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 10258 invoked by alias); 30 Apr 2012 23:51:05 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 30 Apr 2012 16:51:02 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 56D032AFE0; Mon, 30 Apr 2012 16:50:59 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 30 Apr 2012 16:50:59 -0700
+Message-ID: <20120430235059.56D032AFE0@x3.develooper.com>
+Subject: OO Perl Developer (onsite), Flagstaff, AZ, USA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15930
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 30, 2012
+
+Job title: OO Perl Developer
+
+Company name: Norchem
+
+Internal ID: PERLDEV
+
+Location: Flagstaff, AZ, USA
+
+Pay rate: 45 - 65,000 / yr USD BOE
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Norchem Drug Testing is a nationwide provider of customized drug testing
+services, and is known for outstanding services and high quality standards.
+We are situated in beautiful northern Arizona and are surrounded by
+national forest. We enjoy clean air and access to many recreational and
+cultural opportunities.If you are looking to leave the rat race of the big
+city and have a desire to work with a talented, creative group of people,
+look to Norchem Drug Testing.
+
+We are looking for someone with strong Perl development skills to join our
+staff of developers in creating laboratory automation software and customer
+front end web apps.
+
+Norchem has two development projects ongoing that use the following
+platforms:
+
+Dev1: Ubuntu Linux (Lucid LTS), PostgreSQL 8.1, Perl 5.8.
+Dev2: Ubuntu Linux (Lucid LTS), MySQL 5.5, Perl 5.8
+
+Norchem IT is a fast paced environment using an Agile/Lean derived
+development methodology.  We custom build a lot of software for both
+internal and external use as well as custom build most of the server
+platform and infrastructure supporting the organization.
+
+Required skills:
+- Knowledge of Linux based OSs and command line usage.
+- Understanding of code repositories and version systems.
+- Able to use linux based editors such as VIM / EMACS
+- 1 to 2 years of SQL experience
+- 2 to 3 years of Perl OO experience
+- Apache web hosting experience.
+
+Desired skills:
+- Strong Debian/Ubuntu knowledge
+- Git repository experience
+- 2 to 4 years MySQL or PostgreSQL
+- 4 to 5 years Perl OO
+- Familiarity with Perl modules such as DBIx::Class, and CGI::Application
+- Knowledge and experience with data interchange formats like JSON, SOAP,
+and XML
+- CSS and HTML::Template experience
+- Apache with mod_perl maintenance and setup experience
+- Strong troubleshooting and problem solving skills
+- Able to solve the hardest problems by using the right tools to search for
+solutions
+
+There should also be a willingness and desire to learn new languages and
+tools as needed by the direction of the company and the projects.
+
+Website for more information: http://www.norchemlab.com
+
+Contact information at:
+http://jobs.perl.org/job/15930#contact

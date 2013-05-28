@@ -1,0 +1,102 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11608
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 2339 invoked from network); 24 Aug 2011 18:19:04 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 24 Aug 2011 18:19:04 -0000
+Received: (qmail 1074 invoked by uid 225); 24 Aug 2011 18:19:04 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 1070 invoked by alias); 24 Aug 2011 18:19:03 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS,T_FRT_PROFILE2
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 24 Aug 2011 11:19:01 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 8DBE62AFE4; Wed, 24 Aug 2011 11:18:57 -0700 (PDT)
+To: jobs@perl.org
+Date: Wed, 24 Aug 2011 11:18:57 -0700
+Message-ID: <20110824181857.8DBE62AFE4@x3.develooper.com>
+Subject: Perl/ETL Developer (onsite), US, Michigan, Ann Arbor
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14724
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 24, 2011
+
+Job title: Perl/ETL Developer
+
+Company name: Domino's Pizza LLC
+
+Internal ID: O-PED
+
+Location: US, Michigan, Ann Arbor
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Overview:  This individual will work on the Data Warehouse/Business
+Intelligence team to maintain and update current Perl SQL ETL.	Will be
+responsible to run ad hoc reporting as needed from a DB2 LUW data
+warehouse, will modify the data model tables and views as needed, create
+stored procedures, and support current BI tools.
+
+Responsibilities and Duties:
+
+Data Warehousing
+•	Create and populate new tables as needed
+•	Use Perl or DB2 stored procedures to populate tables daily
+•	Create regular extracts for end users, ready to send to servers or
+via email using Perl or DB2 stored procedures
+•	Support current Perl ETL, making changes as the business needs,
+stopping and restarting jobs as necessary
+•	Monitor ETL jobs, correcting errors and reloading files as needed
+•	Orchestrate and schedule jobs daily, weekly, and periodically
+•	Provide reports as needed by the business using SQL to pull from
+DB2 warehouse
+•	Tune data warehouse to make SQL reports run faster, use less
+resources, or schedule at appropriate times for the business
+
+BI Tool Support 
+•	Support BI tools (Cognos, MicroStrategy) by populating new tables
+and creating daily loads, or creating views
+
+Required skills:
+•	5-10 years work experience in technical data warehouse roles
+•	Strong knowledge of data warehousing and modeling concepts in
+relational databases
+•	Proficient in Perl and SQL
+•	Strong understanding of dimensional (star schema) data model
+•	Proficient in Unix shell scripting (Perl, Korn)
+•	Strong knowledge and experience of data movement using stored
+procedures or SQL scripting
+•	Experience in data warehouses, specifically DB2
+•	Experience in developing BI tools (Cognos, MicroStrategy) a plus
+•	Availability during after hours and weekend downtimes to suspend
+jobs during maintenance and support failed jobs
+•	High standards of customer service
+•	Bachelor’s degree
+•	Ability to collaborate in a team environment, offering vital
+information where necessary
+•	Ability to communicate effectively to both technical and business
+leaders, working well with Developers, Managers, and DBAs
+•	Experience in restaurant/retail IT environment a plus
+
+Apply online at www.careers.dominos.com
+
+Website for more information: http://www.dominos.com
+
+Contact information at:
+http://jobs.perl.org/job/14724#contact

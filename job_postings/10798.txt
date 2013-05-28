@@ -1,0 +1,86 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10798
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 423 invoked from network); 11 Dec 2010 02:06:46 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 11 Dec 2010 02:06:46 -0000
+Received: (qmail 24029 invoked by uid 225); 11 Dec 2010 02:06:46 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 24024 invoked by alias); 11 Dec 2010 02:06:46 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 10 Dec 2010 18:06:43 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 926202AFD4; Fri, 10 Dec 2010 18:06:40 -0800 (PST)
+To: jobs@perl.org
+Date: Fri, 10 Dec 2010 18:06:40 -0800
+Message-ID: <20101211020640.926202AFD4@x3.develooper.com>
+Subject: Software Engineer for a Mobile Technology Start-up (onsite), United
+ States, NY, New York
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13326
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 10, 2010
+
+Job title: Software Engineer for a Mobile Technology Start-up
+
+Company name: DOTGO
+
+Location: United States, NY, New York
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Are you a talented Software Engineer looking to join an innovative start-up
+in a hot space? We’re a small but revolutionary mobile messaging technology
+startup backed by Google’s Eric Schmidt. This is a great opportunity to get
+involved on the ground floor of a new company and personally influence how
+our products evolve by working closely with our management team and
+customers.  We are looking for a Software Engineer/Tech Lead to lead the
+backend development of our mobile publishing platform.	
+
+Responsibilities:
+ * Lead back-end software development of the DOTGO platform
+ * Implementing new features as well as code refactoring and bug fixes 
+
+Qualifications: 
+* Bachelors degree in Computer Science and/or Information Systems
+disciplines 
+* Minimum of 3 years experience in software development (Perl) 
+* Experience scaling web services
+
+
+Required skills:
+Required Skills:
+ * Perl, C, C++, Java, python
+ * MySQL
+ * Linux administration
+ * XML parsing and manipulation from Perl (LibXML2, XPath, XSLT, etc.)
+ * Source control administration (Git/Subversion)
+ * Familiarity with the mobile industry and platforms a plus
+
+Desired skills:
+Additional useful skills:  HTML/CSS, PHP, Ruby/Ruby on Rails, JQuery,
+Amazon AWS, Ubuntu, apache, mod_perl, debian, pound, squid, subversion
+(svn), git, arch, darcs,
+mobile development experience (web, iPhone, Android, SMS, etc.)
+
+Website for more information: http://www.dotgo.com/
+
+Contact information at:
+http://jobs.perl.org/job/13326#contact

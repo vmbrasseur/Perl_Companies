@@ -1,0 +1,93 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12314
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 6738 invoked from network); 7 Apr 2012 15:05:17 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 7 Apr 2012 15:05:17 -0000
+Received: (qmail 3894 invoked by uid 225); 7 Apr 2012 15:05:16 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 3889 invoked by alias); 7 Apr 2012 15:05:16 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 07 Apr 2012 08:05:13 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 35A332AFCB; Sat,  7 Apr 2012 08:05:10 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 7 Apr 2012 08:05:10 -0700
+Message-ID: <20120407150510.35A332AFCB@x3.develooper.com>
+Subject: Perl Developer - Freeside billing (telecommute), Truckee, CA, United
+ States (Telecommute - Social Security # or Tax ID)
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15574
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April  6, 2012
+
+Job title: Perl Developer - Freeside billing
+
+Company name: Freeside Internet Services, Inc.
+
+Location:
+Truckee, CA, United States (Telecommute - Social Security # or Tax ID)
+
+Pay rate: DOE
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+Hi,
+
+We're Freeside Internet Services, a small software company.  We write and
+support an open-source billing and CRM application for ISPs and VoIP
+providers.
+
+We're looking for developers to help us extend our open-source application
+for our customers.  The work consists of designing and implementing new
+features both small and large, as well as maintaining the code, incremental
+refactoring, documentation and providing assistance to our support folks.
+
+We're a small, distributed company.  Our employees and contractors work
+remotely.  We're looking for folks who are comfortable working
+independently, and who can be a responsible and communicative part of our
+team.
+
+In your response, I'm looking for:
+
+A CPAN ID, github URL or other code examples.  A few words about how you
+think you'll be a good fit.  Don't bother just fishing your resume - if
+this sounds like a good position for you, take a few minutes to tell me why
+and we can start a conversation about it.  :)
+
+Ivan Kohler, President and Head Geek
+
+Required skills:
+Perl, obviously
+SQL
+HTML/Javascript
+
+Desired skills:
+Freeside
+Request Tracker (RT)
+HTML::Mason
+Linux/Unix system administration
+Familiarity with the ISP/WISP or VoIP provider industries
+
+Website for more information: http://freeside.biz/freeside/
+
+Contact information at:
+http://jobs.perl.org/job/15574#contact

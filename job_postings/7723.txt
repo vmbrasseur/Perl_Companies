@@ -1,0 +1,82 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7723
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 22751 invoked from network); 25 Feb 2008 15:24:52 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 25 Feb 2008 15:24:52 -0000
+Received: (qmail 25187 invoked by uid 225); 25 Feb 2008 15:24:51 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 25178 invoked by alias); 25 Feb 2008 15:24:51 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 25 Feb 2008 07:24:46 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 30CC42AFD1; Mon, 25 Feb 2008 07:24:43 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20080225152443.30CC42AFD1@x3.develooper.com>
+Date: Mon, 25 Feb 2008 07:24:43 -0800 (PST)
+Subject: ETL Perl Dev eloper (Energy Trading Division) (onsite), United States, IL, Chicago 
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8002
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 23, 2008
+
+Job title:
+ETL Perl Dev eloper (Energy Trading Division)
+
+Company name: Citadel Investment Group, L.L.C.
+
+Location: United States, IL, Chicago 
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+This role involves support and development of market data needs for the
+Energy trading division.  This data comes from a variety of sources ranging
+from email/webscrapes/ftp in a variety of formats (HTML/CSV/EXCEL/XML). 
+This role will work with users to evaluate data feeds and design efficient
+ETL processes using our Perl libraries.  This role will also be involved
+with troubleshooting and resolving data related issues on a real-time
+basis.
+
+
+Required skills:
+ETL (Extract/Translate/Load) experience
+Unix/Perl Programming experience (DBI/FTP/LWP a plus)
+Experience working with data from 3rd party
+vendors(ICE/Nymex/Reuters/Bloomberg/etc)
+
+Data skills should include:
+SQL/database experience (preference for Sybase) data modeling experience
+experience with large datasets & timeseries data a plus
+
+Plus points:
+Experience using a job scheduler, ie: TWS (major plus)
+Matlab experience (plus)
+C++ programming experience (plus)
+Understands data quality processes (plus)
+Task Management – ability to develop and manage work plans for initiatives
+High level of self motivation/ proactive.
+
+
+URL for more information: http://www.citadelgroup.com/
+
+Contact information at:
+http://jobs.perl.org/job/8002#contact
+
+

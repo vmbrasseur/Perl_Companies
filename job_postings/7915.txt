@@ -1,0 +1,124 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7915
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 4813 invoked from network); 1 Apr 2008 18:01:16 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 1 Apr 2008 18:01:16 -0000
+Received: (qmail 32641 invoked by uid 225); 1 Apr 2008 18:01:15 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 32586 invoked by alias); 1 Apr 2008 18:01:11 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 01 Apr 2008 11:01:04 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id A25E92AFCB; Tue,  1 Apr 2008 11:01:00 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080401180100.A25E92AFCB@x3.develooper.com>
+Date: Tue,  1 Apr 2008 11:00:59 -0700 (PDT)
+Subject: Perl Development Engineer -ISP (onsite), U.K, London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8302
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April  1, 2008
+
+Job title: Perl Development Engineer -ISP
+
+Company name: PSC
+
+Location: U.K, London
+
+Pay rate: £37-£45k
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The objectives of this role are:
+
+·	   They will have a good understanding of software development
+life-cycles, experience of Agile methods, source control and basic project
+management methodologies.
+
+·	   Extensive knowledge of development infrastructure in support off
+LLU, EMP and IPTV BSS/OSS systems.
+
+·	   Experience of integration with COTS applications such as Billing
+(Geneva / generic billing systems) and CRM Systems (Siebel, Remedy etc.),
+and ISP Services ( RADIUS, apache), and databases (Oracle, MySQL).
+
+·	   Good technical understanding of programming methodologies used
+in today’s environment as well as being aware of future emerging
+technologies.  
+Capable of reverse engineering undocumented legacy systems, business data
+models and code, dealing with problems, queries and requests for change
+relating to LLU, EMP and IPTV BSS/OSS systems. Operating to an agreed time
+line for resolution.
+Areas of key responsibility are:
+
+·	   Technical responsibility for several stages of the life cycle
+for software development of systems covering: investigation, analysis,
+specification, design, construction, testing, implementation and
+maintenance.
+
+·	   Provide 4th line support to other areas of the business,
+including Application Support when the need arises.
+
+·	   Adherence to departmental processes and policies.
+
+·	   Maintain a high standard of code production and documentation,
+and ensure code is checked into Tiscali's source control system.
+Documents all work using appropriate standards, methods and tools,
+including prototyping tools where required.
+
+Required skills:
+We are looking for:
+
+·	   We require at least 3 years perl development experience with a
+minimum of 2 years preferably gained in an enterprise UNIX environment.
+
+·	   This development skill should include heavy involvement with an
+RDMS, oracle preferable but will acept othe SQL based systems
+
+·	   knowledge of CPAN and implementation of it modules. Working
+experience of some standard modules will be expected, i.e DBI, DBD. XML
+parsing, CSV parsing
+
+
+Desired skills:
+Desirable skills include:
+
+·	   Experience of application frameworks (MVC's) such as Catalyst.
+
+·	   Ability to manage multiple strands of activity.
+
+·	   Demonstrates good communications skills and can handle client,
+supplier and end user contact effectively.
+
+·	   Knowledge of quality management system processes related to the
+design and delivery of software solutions.
+
+·	   Change Management & Process Management experience, as well as
+effective documentation skills.
+Shows a systematic, disciplined and analytical approach to problem solving
+with good attention to detail.
+
+Contact information at:
+http://jobs.perl.org/job/8302#contact
+
+

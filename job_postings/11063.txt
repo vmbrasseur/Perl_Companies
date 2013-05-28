@@ -1,0 +1,87 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11063
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28087 invoked from network); 4 Mar 2011 19:01:11 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 4 Mar 2011 19:01:11 -0000
+Received: (qmail 32488 invoked by uid 225); 4 Mar 2011 19:01:10 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 32484 invoked by alias); 4 Mar 2011 19:01:10 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 04 Mar 2011 11:01:08 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id A54712AFE1; Fri,  4 Mar 2011 11:01:04 -0800 (PST)
+To: jobs@perl.org
+Date: Fri, 4 Mar 2011 11:01:04 -0800
+Message-ID: <20110304190104.A54712AFE1@x3.develooper.com>
+Subject: Software Engineer for Agile Startup (onsite), United States, Oregon,
+ Portland
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13790
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March  4, 2011
+
+Job title: Software Engineer for Agile Startup
+
+Company name: AboutUs
+
+Internal ID: aboutus
+
+Location: United States, Oregon, Portland
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+About Us
+--------
+
+We're one of the top 10 Rails sites on the internet with an Alexa traffic
+rank around 1500. We've developed technologies that serve thousands of
+requests per minute backed by scrapers that download and parse millions of
+sites per hour.
+
+Our team consists of a half dozen developers with specialties ranging from
+the art of user experience to the science of modern datacenter
+administration. We work in an open office with awesome views, following a
+refined agile process drawing on Kanban, Extreme Programming, and Scrum.
+Ward Cunningham (Wiki inventor and Agile pioneer) is a collaborator,
+advisor, and pair-programming partner. Our desks have wheels. We have
+meetings around a ping pong table. We pair, test, iterate, and all that
+jazz.
+
+About You
+---------
+
+We're looking for someone to impress us. We want developers who can jump in
+and start creating value immediately. A strong drive to get things done is
+important. Resilience in the face of hard problems is a must. In addition
+it won't hurt to have experience with some or all of these:
+
+* Ruby/Rails
+* Programming in Perl or other languages
+* Working with high traffic or big data
+* Linux and Systems Administration
+* UX and Front-End Development
+* Agile and TDD
+
+Website for more information:
+http://www.aboutus.org/careers/agile-software-developer
+
+Contact information at:
+http://jobs.perl.org/job/13790#contact

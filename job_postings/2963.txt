@@ -1,0 +1,85 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2963
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 15396 invoked from network); 13 Jul 2005 21:32:33 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 13 Jul 2005 21:32:33 -0000
+Received: (qmail 25594 invoked by uid 225); 13 Jul 2005 21:32:32 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 25588 invoked by alias); 13 Jul 2005 21:32:31 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 13 Jul 2005 14:32:28 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j6DLWOjw008507
+	for <jobs@perl.org>; Wed, 13 Jul 2005 14:32:24 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j6DLWOqS008504;
+	Wed, 13 Jul 2005 14:32:24 -0700
+Date: Wed, 13 Jul 2005 14:32:24 -0700
+Message-ID: <200507132132.j6DLWOqS008504@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: mod_perl/DBI programmer for e-commerce site (part onsite), United States, WA, Bellevue
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2839
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 13, 2005
+
+Job title:
+mod_perl/DBI programmer for e-commerce site
+
+Company name: CollegeGear.com
+
+Location: United States, WA, Bellevue
+
+Pay rate: 65,000
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: regular basis
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+We are looking for an experienced web/e-commerce developer with a proven
+track record using object-oriented mod_perl, Apache, MySQL and Linux.
+Experience with the following CPAN modules is a definite plus: DBI, CGI,
+CGI::Application, HTML::Template, and Apache::Session. Your tasks will
+include maintaining legacy code, implementing new features, and redesigning
+current features with speed, security, and scalability in mind. Experience
+with CVS and HTML is a must; experience with JavaScript is not required but
+is a plus. Linux system administration experience is highly desired. Please
+provide a resume and be sure to include work references and code samples.
+
+
+Required skills:
+QUALIFICATIONS:
+At least 3 years of experience with the following:
+perl, mod_perl, MySQL, DBI, Apache, Linux
+
+This is not an entry-level position, only highly qualified applicants will
+be considered.
+
+URL for more information: http://www.collegegear.com/
+
+Contact information at:
+http://jobs.perl.org/job/2839#contact
+
+

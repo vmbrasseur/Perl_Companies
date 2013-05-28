@@ -1,0 +1,81 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10736
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 19251 invoked from network); 17 Nov 2010 03:26:58 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 17 Nov 2010 03:26:58 -0000
+Received: (qmail 15360 invoked by uid 225); 17 Nov 2010 03:26:58 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 15356 invoked by alias); 17 Nov 2010 03:26:58 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 16 Nov 2010 19:26:56 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 043B72AFE4; Tue, 16 Nov 2010 19:26:52 -0800 (PST)
+To: jobs@perl.org
+Date: Tue, 16 Nov 2010 19:26:52 -0800
+Message-ID: <20101117032653.043B72AFE4@x3.develooper.com>
+Subject: (Modern::)Perl Software Engineer - web startup (part onsite),
+ Israel, Tel Aviv
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/12420
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 16, 2010
+
+Job title: (Modern::)Perl Software Engineer - web startup
+
+Company name: Reask
+
+Location: Israel, Tel Aviv
+
+Terms of employment: Salaried employee
+
+Hours: Flexible
+
+Onsite: some
+
+Description:
+Web startup seeks developers to join at early stage.  CEO has track record
+of successful projects, now we're looking to revolutionize web search.
+
+Seeking a self-motivating team-player who:
+o thinks about design as well as implementation
+o understands objects, design patterns, Modern::Perl
+o sees tasks through with an eye for detail
+o is reliable.
+
+Even if your modern Perl isn't up to scratch, but you know and love Perl,
+and you're a dynamic software engineer who can learn fast, we'd still like
+to talk.
+
+Preferably based in Israel and willing to work at our office in Tel Aviv,
+but all possibilities considered.
+
+Required skills: Perl
+
+Desired skills:
+Apache Solr
+Catalyst
+CSS
+DBIx::Class
+AJAX
+JQuery
+Moose
+PostgreSQL
+Linux sysadmin (Debian)
+
+Website for more information: http://www.reask.com/
+
+Contact information at:
+http://jobs.perl.org/job/12420#contact

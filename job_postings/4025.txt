@@ -1,0 +1,111 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4025
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8674 invoked from network); 20 Mar 2006 16:42:23 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 20 Mar 2006 16:42:23 -0000
+Received: (qmail 19625 invoked by uid 225); 20 Mar 2006 16:42:23 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 19621 invoked by alias); 20 Mar 2006 16:42:22 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 20 Mar 2006 08:42:20 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id k2KGgFj5020023
+	for <jobs@perl.org>; Mon, 20 Mar 2006 08:42:15 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id k2KGgFoi020020;
+	Mon, 20 Mar 2006 08:42:15 -0800
+Date: Mon, 20 Mar 2006 08:42:15 -0800
+Message-ID: <200603201642.k2KGgFoi020020@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Senior Perl developer (onsite), The Netherlands, NH, Amsterdam
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3830
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 20, 2006
+
+Job title: Senior Perl developer
+
+Company name: Blinck International
+
+Location: The Netherlands, NH, Amsterdam
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Flexible
+
+Onsite: yes
+
+Description:
+Blinck International
+
+Blinck International is one of the worldwide leading providers of mobile
+entertainment such as games, ringtones, wallpapers and video. At this
+moment we operate in 24 countries worldwide. Our headquarter is based in
+Amsterdam and we have an office in Dublin. Currently 52 highly skilled
+specialist in areas such as ICT, Media and Content Production are being
+employed by Blinck International.
+
+Technical Environment
+
+The Blinck multi-media services platform defines a vital network component
+for the efficient distribution of mobile service content, forming an
+inter-connection hub to all major gateways worldwide. At present there are
+24 countries supporting these mobile services, and this number is growing.
+The platform is built at a solid framework of interconnected Perl modules
+and scripts within a distributed network of powerful Unix servers.
+High-performance, robustness, redundancy and scalability are key. Currently
+the development team is designing the second generation version of this
+platform, using state of the art open-source technology like Perl/CGI,
+mod_perl, Apache2, Unix (Linux/FreeBSD), C/C++, XML, MySQL, SMPP,
+CPAN-style packaging, etc. Object-oriented programming, continuous
+integration, module testing and version control guide development. 
+
+The Position
+
+The senior developer will work and play within an exciting and vibrant team
+of software specialists, playing a vital role as system
+architect/programmer guiding the overall software development process. Are
+you ready for this challenge?
+
+Tasks include:
+
+-Research
+-System architecture
+-Functional and technical design
+-Software development (object-oriented)
+-Module and system testing
+-Documentation, packaging and deployment 
+
+
+Required skills:
+A university or similar degree, at least 5 years experience in software
+engineering, and an amazing love and respect for Perl, Unix, and Open
+Source. Experience with software version control like CVS and/or SVN,
+familiarity with C/C++ and Unix system administration is an advantage. Can
+lead middle-sized projects to timely completion. Dutch language is not
+needed. 
+
+
+URL for more information: http://www.blinck.com/
+
+Contact information at:
+http://jobs.perl.org/job/3830#contact
+
+

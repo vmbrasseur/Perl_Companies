@@ -1,0 +1,105 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8265
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 22984 invoked from network); 10 Jun 2008 22:13:25 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 10 Jun 2008 22:13:25 -0000
+Received: (qmail 4222 invoked by uid 225); 10 Jun 2008 22:13:25 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 4218 invoked by alias); 10 Jun 2008 22:13:25 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 10 Jun 2008 15:13:23 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id A625B2AFEA; Tue, 10 Jun 2008 15:13:19 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080610221319.A625B2AFEA@x3.develooper.com>
+Date: Tue, 10 Jun 2008 15:13:19 -0700 (PDT)
+Subject: frontend and/or backend developer for startup, exciting web-based solutions (onsite), Hungary, Budapest, Budapest
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/7722
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 10, 2008
+
+Job title:
+frontend and/or backend developer for startup, exciting web-based solutions
+
+Company name: Infomatix Ltd.
+
+Internal ID: 42
+
+Location: Hungary, Budapest, Budapest
+
+Pay rate: 800-3000 EUR
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Flexible
+
+Onsite: yes
+
+Description:
+What we really need urgently is a decent frontend coder who has extensive
+perl/catalyst/DBIx::Class experience paired with decent knowledge of the
+client side js/ajax framework dojo/dijit
+
+AKA
+
+We are looking for experienced developer to support our team, already built
+of 6 Perl developers, preferably full time. 
+
+The primarily goal of the project is building server-side solutions for
+web-based portals. Perl/DBI is a must, AJAX is a good-to-have solution.
+
+90% of the work is to be done from Budapest, with some traveling to Vienna.
+
+
+Please be preparred moving to Budapest in case of applying. We're happy to
+assist you in relocation, accommodation, etc.
+
+Required skills:
+Frontend developer:
+- good CSS
+- good AJAX
+- Tempalte.pm (optional)
+- Google maps api (optinal)
+
+Backend developer:
+- good in perl
+- familiar with MVC model (Catalyst - optional)
+- DBIx::Class (optional)
+- Template.pm (optional)
+
+
+ability to work independently, in a team
+
+fitting into a startup environment, enthusiasm about the job.
+
+Desired skills:
+Catalyst
+Google maps API
+good command of English
+
+extensive Perl/catalyst/DBIx::Class experience
+
+decent web frontend coder with js/ajax framework dojo/dijit.
+
+URL for more information: http://www.infomtaix.hu/
+
+Contact information at:
+http://jobs.perl.org/job/7722#contact
+
+

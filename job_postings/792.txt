@@ -1,0 +1,116 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:792
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 56684 invoked by uid 1016); 7 Mar 2003 03:15:50 -0000
+Date: 7 Mar 2003 03:15:50 -0000
+Message-ID: <20030307031550.56683.qmail@onion.perl.org>
+To: jobs@perl.org
+Subject: MySQL Database Engineer - Perl & C++ (onsite), United States, California, Menlo Park
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/677
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March  6, 2003
+
+Job title: MySQL Database Engineer - Perl & C++
+
+Company name: There, Inc.
+
+Internal ID: MySQL
+
+Location: United States, California, Menlo Park
+
+Pay rate: 80-100K
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Summary 
+We are seeking an experienced software engineer to join There's Core
+Engineering Team, to work on MySQL related aspects of our product. We have
+a highly scalable, state-of-the-art data center cluster that runs on Linux
+on the Intel architecture; many machines in the cluster run MySQL
+databases. The cluster is expected to be larger than Yahoo or the NYSE. The
+ideal candidate has significant hands-on experience with MySQL in a
+cluster-based high-availability production environment; has made
+significant contributions to the MySQL open source community; has
+world-class C++, database, perl, Linux, and shell-scripting skills; and is
+excited by the challenge of delivering cutting-edge technology in a
+fast-paced, entrepreneurial environment. 
+
+Responsibilities 
+Responsible for the design, implementation, debugging, delivery, and
+maintenance of enhancements to MySQL for our high-availability clustered
+environment. 
+Work closely with other software engineers, QA, artists, and designers to
+develop and extend the core software components of our product. 
+Contribute to the MySQL open source community. 
+Requirements. Work with the Operations and business teams to ensure that
+requirements are clearly understood and documented. 
+Design. Actively ensure effective application design, database layout, and
+network usage. Identify and address potential deployment, operational and
+performance issues. 
+Coding. Responsible for delivery of clean, well-documented code that
+complies with There standards. 
+QA partnership. Review QA test plans and provides input when appropriate.
+Assist and advise QA in developing and running white box tests to support
+MySQL modifications we develop. Work effectively with QA to deliver
+top-quality results. Track and resolve bugs effectively. 
+Operations liaison. Work closely with the operations team to ensure that
+all database related systems have well documented, streamlined, and
+supportable operational processes. Able and available to diagnose critical
+operations problems as they occur. 
+Project management. Work with producers/program managers to ensure that
+projects are well-planned, accurately tracked, and developed in accordance
+with There processes. Ensure that code and documentation is well organized. 
+
+
+Required skills:
+Delivered production quality database services that have been used in
+high-volume situations. Must have a strong understanding of operational
+issues (backup, recovery, security, monitoring, serviceability) and be able
+to build applications that take them into consideration. 
+3-5 years of C++ software engineering experience. 
+3+ years experience working with MySQL internals, including disk layout and
+network protocol related issues. 
+Extensive experience working in the open source community for MySQL. 
+Solid experience with MySQL performance measurement and optimization. 
+Experience with database replication. 
+3-5 years of hands-on UNIX, Perl, DBI and shell scripting experience. 
+Excellent oral and written communication skills. This includes excellent
+documentation and commenting habits for code, and the ability to explain
+complex technical subject matter (such as read consistency, rollback,
+database recovery, and point-in-time recovery) to other engineers. 
+Must have a customer-centric attitude towards end users and stakeholders of
+the database systems. 
+Must be comfortable working in a small, fast-paced, entrepreneurial
+environment and have a passion for doing what it takes to build an
+outstanding product.
+
+URL for more information: http://www.there.com/
+
+Contact information:
+Please send your resume by email to: 
+jobs@thereinc.com 
+
+
+There Inc. 
+165 Jefferson Drive
+Menlo Park, CA 94025
+
+
+

@@ -1,0 +1,83 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13284
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 18877 invoked from network); 5 Apr 2013 21:19:38 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 5 Apr 2013 21:19:38 -0000
+Received: (qmail 19000 invoked by uid 225); 5 Apr 2013 21:19:38 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 18996 invoked by alias); 5 Apr 2013 21:19:37 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 05 Apr 2013 14:19:32 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id E92352AFE0; Fri,  5 Apr 2013 14:19:28 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 5 Apr 2013 14:19:28 -0700
+Message-ID: <20130405211928.E92352AFE0@x3.develooper.com>
+Subject: Speed Test/Monitoring/Testing Application (telecommute), UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17227
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April  5, 2013
+
+Job title: Speed Test/Monitoring/Testing Application
+
+Location: UK
+
+Pay rate: Negotiable
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: 2-3 weeks
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+Hello,
+
+I am planning on doing a small website to do some tests between a client (
+website visitor ) and servers on different locations. The tests will be:
+
+PING/PING response
+
+TRACEROUTE BOTH WAYS
+
+ANOMALIES CHECK ON TRACEROUTE PERFORMED
+
+PACKET LOSS CHECK
+
+UPLOAD A FILE SPEED
+
+DOWNLOAD A FILE SPEED
+
+It will be nice to perform some graphs as well and also some reports.
+
+Required skills:
+PERL
+PHP
+HTML
+CSS
+
+Desired skills:
+PERL
+PHP
+HTML
+CSS
+
+Contact information at:
+http://jobs.perl.org/job/17227#contact

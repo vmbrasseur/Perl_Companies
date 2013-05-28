@@ -1,0 +1,91 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12630
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 24155 invoked from network); 1 Aug 2012 19:13:29 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 1 Aug 2012 19:13:29 -0000
+Received: (qmail 799 invoked by uid 225); 1 Aug 2012 19:13:29 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 795 invoked by alias); 1 Aug 2012 19:13:29 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 01 Aug 2012 12:13:26 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 313202AFDD; Wed,  1 Aug 2012 12:13:22 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 1 Aug 2012 12:13:22 -0700
+Message-ID: <20120801191323.313202AFDD@x3.develooper.com>
+Subject: Senior Perl Developer, Amsterdam City Center (onsite), Amsterdam,
+ The Netherlands
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16290
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August  1, 2012
+
+Job title: Senior Perl Developer, Amsterdam City Center
+
+Company name: Cliq Digital
+
+Location: Amsterdam, The Netherlands
+
+Length of employment: Definite
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The CLIQ multi-media services platform defines a vital network component
+for the efficient distribution of mobile service content, forming an
+inter-connection hub to all major gateways worldwide. At present there are
+24 countries supporting these mobile services, and this number is growing.
+The platform is built on top of a solid framework of interconnected Perl
+modules and scripts within a distributed network of powerful Unix servers.
+High-performance, robustness, redundancy and scalability are important.
+Currently the development team is designing the second generation version
+of this platform, using state of the art open-source technology like
+Perl/CGI, mod_perl, Apache2, Unix (Linux/FreeBSD), C/C++, XML, MySQL, SMPP,
+CPAN-style packaging, object-oriented programming, continuous integration,
+module testing and version control guide development. The senior developer
+will work and play within an exciting and vibrant team of software
+specialists, playing a vital role as system architect/programmer guiding
+the overall software development process. Are you ready for this challenge?
+
+
+Core responsibilities: 
+-	Research
+-	System architecture
+-	Functional and technical design
+-	Software development (object-oriented)
+-	Module and system testing
+-	Documentation, packaging and deployment
+
+Required skills:
+A university or similar degree, at least 5 years experience in software
+engineering, and an amazing love and respect for Perl, Unix, and Open
+Source. Experience with software version control like CVS and/or SVN,
+familiarity with C/C++ and Unix system administration is an advantage. Can
+lead middle-sized projects to timely completion.
+
+Desired skills:
+You are a technical visionary that aims for results that inspire others, is
+exceptionally independent and able to plan and organize his/her own work.
+As an involved team player you can prioritize your own tasks as they relate
+to the general planning. You are able to work occasionally under pressure
+in order to meet important deadlines in an international and dynamic
+environment.
+
+Contact information at:
+http://jobs.perl.org/job/16290#contact

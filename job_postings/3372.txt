@@ -1,0 +1,99 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3372
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 10259 invoked from network); 25 Oct 2005 23:50:16 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 25 Oct 2005 23:50:16 -0000
+Received: (qmail 6562 invoked by uid 225); 25 Oct 2005 23:50:16 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 6557 invoked by alias); 25 Oct 2005 23:50:15 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 25 Oct 2005 16:50:01 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j9PNnw1R003172
+	for <jobs@perl.org>; Tue, 25 Oct 2005 16:49:58 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j9PNnwH6003170;
+	Tue, 25 Oct 2005 16:49:58 -0700
+Date: Tue, 25 Oct 2005 16:49:58 -0700
+Message-ID: <200510252349.j9PNnwH6003170@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Sr. Perl Developer - Investment Firm (onsite), United States, IL, Chicago
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3214
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 25, 2005
+
+Job title: Sr. Perl Developer - Investment Firm
+
+Company name: PKSI
+
+Location: United States, IL, Chicago
+
+Pay rate: Open
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The position is responsible for developing software to load, transform and
+extract high volume tick data from internal and purchased data
+repositories.
+
+Duties/Responsibilities:
+
+-Design and implement code in C++ and Perl to load high volume data from
+static and realtime sources into timeseries containers, which may include
+flat files, relational and timeseries databases
+-Develop API's to extract large datasets from timeseries containers
+-Work with various IT staff to consolidate enterprise-wide tick data assets
+
+-Design and implement interfaces to retrieve data sets based on
+user-defined intervals and transformations
+-Build reusable utilities to enable business users and IT to extract and
+transform tick data repositories 
+-Develop high volume data loaders that interface directly to high speed
+market feeds and ftp-sources
+-Support research groups in their analysis of data patterns, developing
+automation as needed to perform specific analyses 
+
+
+Required skills:
+-Thorough understanding of both C++ and Perl, with demonstrated
+accomplishments developing applications and API's for interfacing to
+relational and non-relational database systems
+-Track record of designing and implementing custom API's for generic
+ETL/data extraction 
+-Expert level understanding of Unix/Linux, especially in the areas of
+scripting and data management utilities
+-5+ years advanced C++ development on a Unix platform
+-Solid experience in Perl data loading and extraction techniques
+-5+ years SQL programming, preferably Sybase ASE/TSQL
+-Expert knowledge of Perl DBI is desirable
+-Previous development experience working with tick-based market data such
+as SIAC CTS/CQS, OPRA, NASDAQ, Reuters is desirable
+-Understanding of statistics and numerical analysis is desirable
+
+Contact information at:
+http://jobs.perl.org/job/3214#contact
+
+

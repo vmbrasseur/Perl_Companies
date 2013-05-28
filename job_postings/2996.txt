@@ -1,0 +1,80 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2996
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 2592 invoked from network); 19 Jul 2005 19:07:38 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 19 Jul 2005 19:07:38 -0000
+Received: (qmail 14064 invoked by uid 225); 19 Jul 2005 19:07:37 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 14058 invoked by alias); 19 Jul 2005 19:07:37 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 19 Jul 2005 12:07:31 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j6JJ7SHb029451
+	for <jobs@perl.org>; Tue, 19 Jul 2005 12:07:28 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j6JJ7Sxo029449;
+	Tue, 19 Jul 2005 12:07:28 -0700
+Date: Tue, 19 Jul 2005 12:07:28 -0700
+Message-ID: <200507191907.j6JJ7Sxo029449@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Publisher Needs Perl DBI/MySQL Developer to Lead Team (onsite), United States, VA, Falls Church
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2710
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 19, 2005
+
+Job title:
+Publisher Needs Perl DBI/MySQL Developer to Lead Team
+
+Location: United States, VA, Falls Church
+
+Pay rate: US $45K-$60K, depending on experience
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Trade publisher with expanding range of web projects needs well-rounded
+developer with 3+ years experience and must-have Perl proficiency to lead a
+two-person team. Nearly all current and legacy programming has been written
+in Perl. Development work hands-on: Write, modify, and maintain code base.
+Make site updates. Reports to CEO, and coordinates with sales staff on
+projects. Translate big-picture ideas into live pages. Sites a mix of
+primarily static and some dynamically-served pages (PHP on these).
+Audio/video streaming project experience also helpful. Future projects will
+be heavy on web databasing and registered-user session state maintenance. 
+
+Required skills:
+Perl, CGI, HTML, basic Apache/Redhat admin and config of off-site server,
+SSH, PHP, MySQL database front/backend design and maintenance (Perl DBI
+used on much of code)
+
+Desired skills:
+A/V streaming experience; homegrown or 3rd party opt-in email list
+maintenance for readership communication; direct experience interfacing
+with advertisers and sales/mktg. team.
+
+Contact information at:
+http://jobs.perl.org/job/2710#contact
+
+

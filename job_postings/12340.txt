@@ -1,0 +1,76 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12340
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 2356 invoked from network); 16 Apr 2012 20:52:19 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 16 Apr 2012 20:52:19 -0000
+Received: (qmail 18722 invoked by uid 225); 16 Apr 2012 20:52:19 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 18714 invoked by alias); 16 Apr 2012 20:52:19 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 16 Apr 2012 13:52:16 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 1607D2AFD1; Mon, 16 Apr 2012 13:52:13 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 16 Apr 2012 13:52:13 -0700
+Message-ID: <20120416205213.1607D2AFD1@x3.develooper.com>
+Subject: Perl Developer (telecommute), Indianapolis, IN
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15864
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 16, 2012
+
+Job title: Perl Developer
+
+Company name: Capitol Commodity Services, Inc.
+
+Location: Indianapolis, IN
+
+Pay rate: DOE
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: indefinite
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+Capitol Commodity Services, Inc., a commodity futures & options brokerage
+located in Indianapolis, Indiana, is currently seeking a Perl programmer
+for development and maintenance.  The successful candidate will be able to
+write and maintian perl based programs in several environments including
+system administration, data and text parsing, XML, DBI/PgSQL and mod_perl.
+
+Required skills:
+* Strong literacy in Perl. 
+ * SQL and DBI experience.  PostgreSQL preferred. 
+ * Experience working with Perl, mod_perl, XML/XSLT and other
+   web-based environments.
+
+Desired skills:
+* BSD, Linux or Unix variants. 
+ * XS, C
+ * HTML 5 familiarity
+ * Javascript (YUI, jquery)
+ * CSS
+ * Python
+
+Website for more information: http://www.ccstrade.com/
+
+Contact information at:
+http://jobs.perl.org/job/15864#contact

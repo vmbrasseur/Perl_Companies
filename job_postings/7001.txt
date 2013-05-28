@@ -1,0 +1,76 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7001
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 24900 invoked from network); 24 Sep 2007 18:59:06 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 24 Sep 2007 18:59:06 -0000
+Received: (qmail 18460 invoked by uid 225); 24 Sep 2007 16:13:30 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 18442 invoked by alias); 24 Sep 2007 16:13:30 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 24 Sep 2007 09:13:14 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id A3F122AFDE; Mon, 24 Sep 2007 09:13:11 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070924161311.A3F122AFDE@x3.develooper.com>
+Date: Mon, 24 Sep 2007 09:13:11 -0700 (PDT)
+Subject: Senior Systems Administrator, United Kingdom, Hinxton, Cambridge
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/6801
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 24, 2007
+
+Job title: Senior Systems Administrator
+
+Company name: Wellcome Trust Sanger Institute
+
+Internal ID: PER1389
+
+Location: United Kingdom, Hinxton, Cambridge
+
+Pay rate: £26.650 - £35,350
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Description:
+The Wellcome Trust Sanger Institute boasts a world class high performance
+compute environment, consisting of a large network, a SAN with over 1PB of
+storage and a large compute farm of over 1000 nodes.
+We are looking for an experienced Unix/Linux systems administrator with a
+scientific computing / beowulf clustering background to join an established
+Systems Support Group. The group is primarily responsible for designing and
+administering the scale compute clusters at the institute as well as
+advising scientific users on how to make best use of our computational
+resources.
+
+Required skills:
+Ideally you will have a Bioinformatics/Biology related degree and/or
+knowledge of computational biology. You will have experience of running a
+linux cluster, good user support skills and be familiar with bioinformatics
+codes such as Blast. Strong shell/Perl scripting skills is a must.
+
+Desired skills:
+Familiarisation some of the following would also be advantageous: Clustered
+file systems, high availability systems, database administration (mysql or
+oracle), automated systems management and deployment tools.
+
+URL for more information: http://www.sanger.ac.uk/
+
+Contact information at:
+http://jobs.perl.org/job/6801#contact
+
+

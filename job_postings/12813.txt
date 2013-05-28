@@ -1,0 +1,134 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12813
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 7459 invoked from network); 11 Oct 2012 02:51:06 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 11 Oct 2012 02:51:06 -0000
+Received: (qmail 17910 invoked by uid 225); 11 Oct 2012 02:51:05 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 17906 invoked by alias); 11 Oct 2012 02:51:05 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 10 Oct 2012 19:51:02 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 698082AFE0; Wed, 10 Oct 2012 19:50:59 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 10 Oct 2012 19:50:59 -0700
+Message-ID: <20121011025059.698082AFE0@x3.develooper.com>
+Subject: Lead Web Developer (onsite), London, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16572
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 10, 2012
+
+Job title: Lead Web Developer
+
+Company name: Omnicom Media Group UK
+
+Internal ID: SB/1
+
+Location: London, UK
+
+Pay rate: Competitive
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Lead Web Developer 
+ 
+About Omnicom Media Group
+
+Omnicom Media Group (OMG) is the media division of Omnicom Group Inc.  Its
+businesses include leading media service companies OMD Worldwide and PHD
+Network, as well as a number of specialized companies in areas including
+sports marketing, branded entertainment, econometric modeling,	search
+engine marketing, branded content production, asset barter, out-of-home
+media, insert media and discount newspaper.
+
+Role Summary
+
+Your job will be to carry out development projects both big and small. You
+may work on link research tools, competitive data collection and analysis,
+working with APIs for services such as Facebook, Twitter and Google
+Analytics, or developing an entirely new set of tools. We're looking for an
+enthusiastic, pragmatic and confident developer who can make good technical
+design decisions, write tests and documentation, and communicate well with
+non-developers.
+The vast bulk of our code base is written in PHP & Perl using MySQL and
+Linux. We're trying to improve the way we do development, and we expect you
+to participate in that process. We are working to add more tests and
+documentation to our code base, and all new work will go through code
+review.
+
+Skills Required
+•Strong Perl skills; Demonstrable knowledge of modern	Perl development
+best practices
+•Good knowledge of CPAN and the advantages it offers 
+Experience with: 
+•PHP, MySQL, Apache 
+•Zend experience a plus, but not required
+•Excellent written and spoken communication skills. 
+•Web development experience using HTML, CSS, JavaScript & jQuery 
+•Agile development methodology (we follow Scrum Alliance)
+
+Nice to have
+•Experience working with a version control system. 
+•Experience with web scraping, crawling and search  engines 
+•Some understanding of Python & Ruby, and a practical approach to which
+language is best to use for the task in hand 
+•Experience using continuous integration models. 
+•Strong mind set for test-driven development to build tools that last and
+stand up to use by diverse sets of people across an international company 
+•Data analysis, number crunching, and maths skills are a plus. 
+•Examples of any of your own projects or contributions to open source
+projects that you have participated in on your own time 
+
+•Experience using modern Perl frameworks such as Plack, Moose,
+Catalyst/Mojolicious/Dancer 
+•Experience using JIRA, or similar agile task management software. 
+
+Person description
+•Enthusiastic
+•Flexible
+•Pragmatic
+•Always looking to learn new things
+•Willing to take the initiative
+
+Required skills:
+•Strong Perl skills; Demonstrable knowledge of modern Perl development best
+practices
+•Good knowledge of CPAN and the advantages it offers 
+•Web development experience using HTML, CSS, JavaScript & jQuery
+
+Desired skills:
+•Experience working with a version control system. 
+•Experience with web scraping, crawling and search engines 
+•Some understanding of Python & Ruby, and a practical approach to which
+language is best to use for the task in hand 
+•Experience using continuous integration models. 
+•Strong mind set for test-driven development to build tools that last and
+stand up to use by diverse sets of people across an international company 
+•Data analysis, number crunching, and maths skills are a plus. 
+•Examples of any of your own projects or contributions to open source
+projects that you have participated in on your own time
+
+Website for more information: http://www.omnicommediagroup.com/
+
+Contact information at:
+http://jobs.perl.org/job/16572#contact

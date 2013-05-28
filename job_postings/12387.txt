@@ -1,0 +1,92 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12387
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13556 invoked from network); 3 May 2012 02:14:51 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 3 May 2012 02:14:51 -0000
+Received: (qmail 16324 invoked by uid 225); 3 May 2012 02:14:50 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 16320 invoked by alias); 3 May 2012 02:14:50 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 02 May 2012 19:14:47 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 328EA2AFDF; Wed,  2 May 2012 19:14:44 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 2 May 2012 19:14:44 -0700
+Message-ID: <20120503021444.328EA2AFDF@x3.develooper.com>
+Subject: Senior Perl Developer (onsite), Seattle, WA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15940
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May  2, 2012
+
+Job title: Senior Perl Developer
+
+Company name: Marchex
+
+Location: Seattle, WA
+
+Pay rate: TBD
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+About Marchex:
+
+Marchex is a mobile and online advertising company. We provide the leading
+technology platform that helps consumers connect with businesses over the
+phone and enables the in-depth analysis of those connections.
+
+Call Analytics is one of the leading strategic initiatives for Marchex.  We
+have achieved strong growth and new partnerships.  We created our platform
+from the ground-up on open source technologies.  We utilize Perl, Ruby,
+PostgreSQL, MySQL, Solr, OpenSIPS, Asterisk, AWS and Linux in an Agile
+development environment.
+
+
+About the Role:
+
+Marchex Call Analytics is looking for a senior or principal Perl developer,
+a technologist with drive and initiative, to work with us in the design and
+creation of new components for our growing call advertising network.
+
+Required skills:
+•	7+ years experience in software development with diverse
+programming languages including C++, Ruby, Java, Scala; Perl preferred
+(willingness to code in Perl required)
+•	Experience with high-performance in-memory solutions
+•	Experience using relational databases; Oracle, DB2, PostgreSQL and
+others
+•	Extensive experience with complex branching/merging strategies with
+source control systems; Git is a plus
+•	Passionate about working in Agile SDLCs
+•	Strong understanding of OO design, algorithms, data structures,
+networking, database design & optimization
+•	Proven ability to quickly learn new technologies
+
+Desired skills:
+•	Experience with no-sql solutions on large data sets 
+•	Experience with VoIP telephony a huge plus, especially Asterisk and
+OpenSIPS
+
+Website for more information: http://www.marchex.com/careers
+
+Contact information at:
+http://jobs.perl.org/job/15940#contact

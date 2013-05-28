@@ -1,0 +1,93 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11722
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 31103 invoked from network); 30 Sep 2011 09:19:41 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 30 Sep 2011 09:19:41 -0000
+Received: (qmail 28629 invoked by uid 225); 30 Sep 2011 09:19:41 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 28625 invoked by alias); 30 Sep 2011 09:19:40 -0000
+X-Spam-Status: No, hits=-4.9 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS,SUBJECT_NEEDS_ENCODING
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 30 Sep 2011 02:19:33 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 40B4C2AFE0; Fri, 30 Sep 2011 02:19:30 -0700 (PDT)
+To: jobs@perl.org
+Date: Fri, 30 Sep 2011 02:19:30 -0700
+Message-ID: <20110930091930.40B4C2AFE0@x3.develooper.com>
+Subject: Software Developer Perl (m/w) (onsite), Köln / Cologne, NRW, Germany
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13534
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 30, 2011
+
+Job title: Software Developer Perl (m/w)
+
+Company name: urbia.com AG
+
+Location: Köln / Cologne, NRW, Germany
+
+Pay rate: competitive
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Mit derzeit knapp 6 Millionen Visits und gut 50 Millionen Page Impressions
+pro Monat (laut IVW/AGOF, Stand: Januar 2011) ist www.urbia.de das
+beliebteste und reichweitenstärkste Onlineangebot für junge Familien im
+deutschsprachigen Internet. Seit 1998 setzen wir dabei auf Perl und gehören
+zu den größten deutschen, ausschließlich mit Perl betriebenen
+Webcommunities.
+Für unseren Standort Köln suchen wir ab sofort eine(n) "Software Developer
+Perl", der/die unser Entwicklungsteam bei der agilen Weiterentwicklung
+unserer Plattform unterstützt.
+
+Wir bieten:
+* Eine sichere und abwechslungsreiche Stelle bei Deutschlands größter
+Online-Community für junge Familien, die ausschließlich mit "Modern Perl"
+betrieben wird
+* Entspannte Arbeitsatmosphäre mit netten Kollegen, flachen Hierarchien und
+flexiblen Arbeitszeiten
+* Keine "Crunch-zeiten" und genügend Freiraum, sich eigenverantwortlich mit
+aktuellen Trends und Entwicklungen auseinanderzusetzen
+* Open Source wann und wo immer möglich
+* Regelmäßige Besuche internationaler Fachkonferenzen (YAPC, Perl Workshop
+etc.)
+* Zentrale Lage im Herzen von Köln
+
+Required skills:
+* Mehrjährige Erfahrung im Aufbau und Betrieb von mittleren bis großen
+datenbankbasierten Webapplikationen
+* Sehr gute Kenntnisse der Programmiersprache Perl und des damit
+verbundenen Ökosystems (CPAN)
+* Solide (X)HTML, CSS, Javascript und (My)SQL Kenntnisse.
+* Sinn für elegantes objektorientiertes Design (Moose)
+* Ausgeprägtes analytisches und abstraktes Denkvermögen und strukturierte
+Vorgehensweise
+* Spaß an der Lösung von komplexen Problemen
+* Begeisterung für Open-Source-Software (Debian GNU/Linux, Apache und
+MySQL)
+
+Desired skills:
+* Kenntnisse in den Frameworks Catalyst und DBIx::Class
+* Erfahrung im Umgang mit Test-driven development
+
+Website for more information: http://www.urbia.de/allgemein/jobs
+
+Contact information at:
+http://jobs.perl.org/job/13534#contact

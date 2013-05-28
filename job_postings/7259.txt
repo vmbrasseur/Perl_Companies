@@ -1,0 +1,154 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7259
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 2575 invoked from network); 12 Nov 2007 20:23:38 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 12 Nov 2007 20:23:38 -0000
+Received: (qmail 17740 invoked by uid 225); 12 Nov 2007 20:23:36 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 17692 invoked by alias); 12 Nov 2007 20:23:32 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 12 Nov 2007 12:23:28 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id ED3E92AFE4; Mon, 12 Nov 2007 12:23:09 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20071112202309.ED3E92AFE4@x3.develooper.com>
+Date: Mon, 12 Nov 2007 12:23:09 -0800 (PST)
+Subject: Perl Programmer for State of Texas Team for Texas Project (onsite), United States, Texas, Austin
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/7249
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 12, 2007
+
+Job title:
+Perl Programmer for State of Texas Team for Texas Project
+
+Company name: Stellargy Services
+
+Internal ID: 10021
+
+Location: United States, Texas, Austin
+
+Pay rate: DOE
+
+Travel: 0-25%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 12 months
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Current Tasks and Responsibilities
+
+Perform morning checklist on the network servers to verify that all the
+servers are up and running.  If there is a problem or an error message that
+appears on the server notification to the on-call System Administrator is
+required.
+
+Perform a scheduled reboot for the servers on a daily, weekly and  monthly
+basis.
+
+Perform installation of Windows update for the servers if any were deployed
+by Microsoft.
+
+Verify that all daily, weekly and monthly back ups  were successfully
+completed. If a daily back up  failed, re-run if possible. If there is not
+a successful re-run notify the Net Back Up System Administrator.
+
+Execute Oratest to check all Oracle databases to ensure that they are all
+up and running. If one of the Oracle database is down or there is an error,
+then the on-call Oracle DBA needs to be notified.
+
+Verify Hot Back up log on Oracle Application servers such as Mercury and
+Saturn. If any hot back up failed then the Oracle DBA needs to be notified.
+
+
+Verify the URL’s on Mercury and Saturn servers to make sure that they are
+up and running. If one of the URL is not running or there is no response
+then troubleshoot by restarting these Oracle services.
+
+Perform scheduled weekly stop and restart Oracle services on Mercury and
+Saturn.
+ 
+Perform agency Check-In to promote file(s), module(s), and/or application
+to Staging and/or Production using TDI Component Management Association and
+Check-In tools.
+
+Create/develop batch processing testing job(s) on the test server, Venus,
+in Development and/or Staging environment. Coordinate with the customer to
+inform them that the request is performed and ask them to verify the
+request. Assist the customer in troubleshooting batch processing job if any
+were unsuccessful. If the test was successful, process the request and
+schedule it to run on Production on Mars.
+
+Monitor Batch processing jobs throughout the day. Perform analysis if any
+job(s)	fail then notify:
+The  DBA if the job is related to the DBA task
+Open a Help Desk ticket if the job is related to a Application Development
+error
+
+Rerun the job if it failed due to the network connection by following the
+documentation/procedures.
+ 
+Modify, create, develop, test, and debug script(s) to clean-up and modify
+data between the legacy system and the Oracle database using Perl or Oracle
+SQL language.
+
+Test the job in Opalis Job Scheduler on Venus. If the test is successful,
+then schedule it to run in the Opalis Job Scheduler on the Mars server to
+run daily, weekly, or monthly depending on the request.
+
+Create and develop analog configuration script to generate agency web
+statistic reports using Analog Web Statistic software. The script is in the
+Analog configuration file with the extension of .cfg.
+
+ This script also needs to schedule run on the Opalis Job Scheduler to run
+either daily or monthly depend on the request.
+
+
+Required skills:
+Programming Skills:
+  - Basic understanding of HTML and Java.
+  - Solid skill in programming Perl language for batch
+    processing job(s).
+  - Skill in programming Oracle SQL such as ability to
+    analyse and troubleshoot
+  - Batch processing job. 
+  - Knowledge of Opalis Job Scheduler for batch
+    processing job with ability to create/develop and
+    schedule new batch processing job(s) with including
+    File 
+  - Management task.
+  - Skill in understanding Analog Web Statistic tool and
+    able to create Analog configuration file to generate
+    web statistic reports.
+
+
+Desired skills:
+Batch Operations and Programming (PERL)
+
+If you have any experience in creating a Perl library package and if you
+have ever used Perl to run a telnet or ftp session, we want to talk to you
+about this opportunity.
+
+
+Contact information at:
+http://jobs.perl.org/job/7249#contact
+
+

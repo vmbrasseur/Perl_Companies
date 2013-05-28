@@ -1,0 +1,87 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7057
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 21422 invoked from network); 3 Oct 2007 21:35:22 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 3 Oct 2007 21:35:22 -0000
+Received: (qmail 8504 invoked by uid 225); 3 Oct 2007 21:35:21 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 8499 invoked by alias); 3 Oct 2007 21:35:21 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 03 Oct 2007 14:35:11 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 929FE2AFE5; Wed,  3 Oct 2007 14:35:08 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20071003213508.929FE2AFE5@x3.develooper.com>
+Date: Wed,  3 Oct 2007 14:35:08 -0700 (PDT)
+Subject: Lead Perl Programmer (onsite), United Kingdom, Hertfordshire, Watford
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/6901
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October  3, 2007
+
+Job title: Lead Perl Programmer
+
+Company name: Tuskerdirect Limited
+
+Location: United Kingdom, Hertfordshire, Watford
+
+Pay rate: £40,000 - £50,000
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are a Contract Hire and Leasing company with a slight difference. Our
+e-commerce offering is considered to be at the forefront within our
+industry sector and we want to ensure that we stay there. 
+
+We are looking for a lead programmer to head up our small web development
+team and co-ordinate with our external oracle developers.  You will be
+responsible for maintaining the company's websites and delivering business
+identified enhancements to our award winning ecommerce platform.  Knowledge
+of Perl is essential.
+
+We maintain two public web sites and a private administration web site
+deploying two web server hosts that run Apache, and one database server
+running an Oracle 10g instance.  All web and database servers use Linux as
+their operating system.
+
+The Oracle instance contains one schema shared by all three web sites,
+containing the data, and low-level routines implemented in Oracle PL/SQL. 
+The web server host runs Apache 2 frontend processes that serve static
+content and pass CGI requests through to Apache/mod_perl backend processes.
+ The application layer is implemented purely in Perl, with a common code
+base used by all public and private web sites.
+
+Required skills:
+A very good knowledge of Perl is essential and the ability to interact with
+the Senior Management Team to develop and improve the system is required. 
+
+Desired skills:
+Management skills would be a bonus as it is envisaged that the successful
+candidate will manage the entire IT function in due course.
+
+URL for more information: http://www.tuskerdirect.com/
+
+Contact information at:
+http://jobs.perl.org/job/6901#contact
+
+

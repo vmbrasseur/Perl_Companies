@@ -1,0 +1,91 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8493
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 4580 invoked from network); 24 Jul 2008 18:52:25 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 24 Jul 2008 18:52:25 -0000
+Received: (qmail 5079 invoked by uid 225); 24 Jul 2008 18:52:24 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 5071 invoked by alias); 24 Jul 2008 18:52:24 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 24 Jul 2008 11:52:20 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 307EA2AFE2; Thu, 24 Jul 2008 11:52:17 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080724185217.307EA2AFE2@x3.develooper.com>
+Date: Thu, 24 Jul 2008 11:52:17 -0700 (PDT)
+Subject: Senior Perl Developer - zoopla.co.uk (onsite), United Kingdom, N Acton, London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/9284
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 24, 2008
+
+Job title: Senior Perl Developer - zoopla.co.uk
+
+Company name: Zoopla.co.uk
+
+Internal ID: SRPERLDEV
+
+Location: United Kingdom, N Acton, London
+
+Pay rate: £40k->55k
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Zoopla is an exciting, fast-growing startup that aims to transform the
+provision of property information to consumers and professionals. Backed by
+leading venture capital firm Atlas Venture, our team has a great deal of
+experience in building fast-growing internet businesses, with backgrounds
+that include Amazon, Gumtree, eBay, Lovefilm, and Multimap.
+
+Our platform architecture is based on Linux, Apache, Perl (/Mason), MySQL,
+EC2/S3 as well as nginx, solr/lucene, memcached, gearmand. We are also
+evaluating other technologies such as Erlang/CouchDB/SimpleDB.
+
+We are looking to recruit several Perl developers to help us build new
+features and enhancements to our platform - this includes the APIs that
+drive our website, intensive/distributed data processing, search
+technology, complex valuation algorithms, and server control functionality.
+
+Required skills:
+* 2+ yrs of structured Perl development on Linux for high volume
+applications (preferably website software).
+* Solid database skills (preferably MySQL).
+* Understanding of scaling challenges and solutions.
+
+
+Desired skills:
+* Linux, Apache, mod_perl, Mason
+* Website API development
+* MySQL, large-scale data processing
+* Distributed systems
+* gearmand, memcached
+* Solr/Lucene
+* Javascript / AJAX
+
+
+URL for more information: http://www.zoopla.co.uk/
+
+Contact information at:
+http://jobs.perl.org/job/9284#contact
+
+

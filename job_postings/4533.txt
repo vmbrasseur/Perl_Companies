@@ -1,0 +1,112 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4533
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 10174 invoked from network); 24 Jun 2006 03:17:48 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 24 Jun 2006 03:17:48 -0000
+Received: (qmail 26247 invoked by uid 225); 24 Jun 2006 03:17:48 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 26241 invoked by alias); 24 Jun 2006 03:17:48 -0000
+X-Spam-Status: No, hits=-2.5 required=8.0
+	tests=ALL_TRUSTED,BAYES_20
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 23 Jun 2006 20:17:36 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 320F72AFC1; Fri, 23 Jun 2006 20:17:32 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060624031732.320F72AFC1@x3.develooper.com>
+Date: Fri, 23 Jun 2006 20:17:32 -0700 (PDT)
+Subject: Perl / mod_perl engineer. Join a top perl team! (onsite), 90069, CA, West Hollywood
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4283
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 23, 2006
+
+Job title:
+Perl / mod_perl engineer. Join a top perl team!
+
+Company name: Ticketmaster
+
+Internal ID: BJ-SE
+
+Location: 90069, CA, West Hollywood
+
+Pay rate: commensurate with skills
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Length of employment: full-time, regular hire
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The Company:
+Ticketmaster is the world's leading ticketing company, providing ticket
+sales and distribution through www.ticketmaster.com, one of the largest
+e-commerce sites on the Internet; approximately 6,500 retail Ticket Center
+outlets; 19 worldwide telephone call centers; and a broad online and
+offline marketing network.  Celebrating its 30th anniversary in 2006,
+Ticketmaster serves more than 9,000 clients worldwide across multiple event
+categories, providing exclusive ticketing services for hundreds of leading
+arenas, stadiums, performing arts venues, museums, and theaters, and sold
+119 million tickets valued at $6 billion in 2005.  Ticketmaster is
+headquartered in West Hollywood, California and is an operating business of
+IAC/InterActiveCorp (NASDAQ: IACI).
+
+Job Description:
+Design and build the guts of ticketmaster.com.	You will have heavy
+influence on complex parts of the ticketmaster.com application. 
+
+You may be called upon to develop new servers from scratch, facilitate
+design meetings about core code modules, or refactor code that cuts across
+multiple applications.
+
+You will code primarily using Perl but may occasionally be required to
+write C modules for Apache.
+
+In a typical workday you'll work on a project coding new functionality, fix
+a few bugs, eat some lunch, write some unit tests, and meet with your team
+to design developing projects. 
+
+Required skills:
+Required Skillset:
+• Enthusiastic effective communication style
+• Deep understanding of Perl
+• Desire to mentor and help others to learn
+• Mastery of Perl objects and general Object-Oriented concepts
+• Flexibility - our business has rapidly changing priorities
+• Linux/Unix fluency - it's our desktop OS
+• Thrive in a team-based environment
+• SQL inserting, updating, retrieving, and optimization skills
+• Understanding of common design patterns
+• Solid grasp of Apache and mod_perl
+• Ability to communicate tech concepts and designs across the organization 
+
+Desired skills:
+Bonus points and +2 to your Saving Throw:
+• C/C++ wizardry
+• Degree in Computer Science, Information Systems, or similar
+• Database design experience
+• CPAN, Apache, mod_perl, or other community involvement
+
+URL for more information: http://www.ticketmaster.com/careers/
+
+Contact information at:
+http://jobs.perl.org/job/4283#contact
+
+

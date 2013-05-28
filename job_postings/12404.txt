@@ -1,0 +1,67 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12404
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 6565 invoked from network); 8 May 2012 17:51:08 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 8 May 2012 17:51:08 -0000
+Received: (qmail 10481 invoked by uid 225); 8 May 2012 17:51:07 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 10477 invoked by alias); 8 May 2012 17:51:07 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 08 May 2012 10:51:04 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 2FDAC2AFE2; Tue,  8 May 2012 10:51:01 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Tue, 8 May 2012 10:51:01 -0700
+Message-ID: <20120508175101.2FDAC2AFE2@x3.develooper.com>
+Subject: SystemTray::Applet Start/Stop Feature (telecommute), Irvine, CA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15970
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May  8, 2012
+
+Job title: SystemTray::Applet Start/Stop Feature
+
+Company name: Candela Corporation
+
+Location: Irvine, CA
+
+Pay rate: $80/hr USD
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 3 Hours
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+We have a POE app that runs by way of a Windows system tray applet.  The
+applet works fine, but we tried to implement a Start/Stop feature and can't
+seem to get that up and running.  If you can help us fix that, that'd be
+great!
+
+Required skills: Perl
+
+Desired skills:
+Some familiarity with SystemTray::Applet or another module that does
+something similar.
+
+Website for more information: http://www.candelacorp.com
+
+Contact information at:
+http://jobs.perl.org/job/15970#contact

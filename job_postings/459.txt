@@ -1,0 +1,74 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:459
+Return-Path: <sgooch@adobe.com>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 52792 invoked by uid 76); 19 Jun 2002 21:16:13 -0000
+Received: from smtp-relay-1.adobe.com (HELO smtp-relay-1.adobe.com) (192.150.11.1)
+  by onion.perl.org (qpsmtpd/0.07b) with SMTP; Wed Jun 19 21:16:13 2002 -0000
+Received: from inner-relay-2.corp.adobe.com (inner-relay-2 [153.32.1.52])
+	by smtp-relay-1.adobe.com (8.12.3/8.12.3) with ESMTP id g5JLF81C015937
+	for <jobs@perl.org>; Wed, 19 Jun 2002 14:15:08 -0700 (PDT)
+Received: from mailsj-v1.corp.adobe.com (mailsj-dev.corp.adobe.com [153.32.1.192])
+	by inner-relay-2.corp.adobe.com (8.12.3/8.12.3) with ESMTP id g5JLB0BA015899
+	for <jobs@perl.org>; Wed, 19 Jun 2002 14:11:04 -0700 (PDT)
+Received: from c1652199-A.adobe.com ([153.32.43.155]) by
+          mailsj-v1.corp.adobe.com (Netscape Messaging Server 4.15 v1 Jul
+          11 2001 16:32:57) with ESMTP id GXZ1LL00.0J8; Wed, 19 Jun 2002
+          14:12:57 -0700 
+Message-ID: <4.3.2.7.2.20020619140042.0335f8d0@153.32.1.135>
+X-Sender: sgooch@153.32.1.135
+X-Mailer: QUALCOMM Windows Eudora Version 4.3.2
+Date: Wed, 19 Jun 2002 14:12:49 -0700
+To: jobs@perl.org
+Cc: sgooch@adobe.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"; format=flowed
+Subject: need a Perl (contractor) urgently
+Approved: news@nntp.perl.org
+From: sgooch@adobe.com (Shelley Gooch)
+
+Hi,
+
+If you are interested, please contact Greg Christopher at 
+gchristo@adobe.com. If you have sent resume to Greg previously and you are 
+out of town and are willing to work in San Jose, California, please send it 
+again to him (not me, please).
+
+Here is the job info (updated):
+
+Expert in designing and working in large perl systems, either web based or 
+other.
+The person should have a minimum of 2 years experience programming in perl, 
+and be
+able to "execute" in a production atmosphere. Windows system experience
+is a requirement (especially driving windows applications from perl), and 
+Unix experience
+is a very strongly desired qualification. Mac system experience is
+a huge plus as well, as the scripts need to execute on Mac OS 10.
+Desired (not required):
+-Acrobat
+-perforce
+-OLE
+-AppleScript
+-shell scripting (tcsh, csh, DOS)
+-SOAP (esp. Soap-lite)
+-Unix system administration
+
+(NEW INFO)
+
+- Contract is initially set up for a full 6 months, and  it's not 
+necessarily "long term".
+- Need to work in San Jose.
+- The job does involve HTML creation and some CGI work, but the main thrust 
+of the
+   work is driving the execution of our Acrobat desktop products through 
+perl and IAC
+   to achieve automated testing results. The person should have familiarity 
+with object perl,
+   and should be fluent in Unix and familiar with the Mac OSX platform.
+
+Shelley
+

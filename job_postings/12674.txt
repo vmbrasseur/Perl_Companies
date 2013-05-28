@@ -1,0 +1,97 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12674
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13767 invoked from network); 21 Aug 2012 15:25:36 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 21 Aug 2012 15:25:36 -0000
+Received: (qmail 28819 invoked by uid 225); 21 Aug 2012 15:25:36 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 28815 invoked by alias); 21 Aug 2012 15:25:35 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 21 Aug 2012 08:25:32 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 573AD2AFE1; Tue, 21 Aug 2012 08:25:29 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Tue, 21 Aug 2012 08:25:28 -0700
+Message-ID: <20120821152529.573AD2AFE1@x3.develooper.com>
+Subject: Ensembl Core Developer - Vertebrate Genomics (onsite), HInxton near
+ Cambridge, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16358
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 21, 2012
+
+Job title: Ensembl Core Developer - Vertebrate Genomics
+
+Company name: EMBL-EBI
+
+Internal ID: EBI_00223(2)
+
+Location: HInxton near Cambridge, UK
+
+Pay rate: GBP
+
+Terms of employment: Salaried employee
+
+Length of employment: 3 years
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are looking for an enthusiastic software developer to join the
+Vertebrate Genomics team at the European Bioinformatics Institute (EBI)
+located on the Wellcome Trust Genome Campus near Cambridge in the UK.
+ 
+The successful candidate will participate in the maintenance and
+development of the databases and software that underpins the Ensembl
+(http://www.ensembl.org)  project. Ensembl is one of the leaders in genome
+annotation providing open human reference annotation (and other vertebrate
+species) for over 10 years.
+ 
+The EBI, part of the European Molecular Biology Laboratory (EMBL) provides
+cutting-edge research, service and training in the field of bioinformatics
+with expertise in data storage, analysis and representation.
+
+Required skills:
+The ideal candidate should hold a Masters degree or higher in Computer
+Science or Physical Science or a Ph.D in Biological Science and should have
+evidence of their ability to write, understand and maintain complex code.
+Previous experience of working on a large, established but
+continually-evolving codebase would be a distinct advantage.
+ 
+The post holder must have strong programming skills in a scripting language
+and experience of SQL database development. Prior experience of Perl, MySQL
+and the Ensembl infrastructure would be advantageous as would knowledge of
+molecular biology and/or bioinformatics. (S)he should be comfortable
+developing software in a primarily Unix-based environment, be familiar with
+source control development tools (CVS) and understand development
+techniques such as unit testing.
+ 
+We are looking for highly motivated candidates with good communication and
+interpersonal skills. Furthermore, candidates should demonstrate solid
+problem solving skills, excellent attention to detail, and a desire to work
+within an international environment. English language skills are a
+requirement.
+
+Desired skills: Perl, MySQL
+
+Website for more information:
+http://ig14.i-grasp.com//fe/tpl_embl01.asp?newms=jj&id=48945&aid=15470
+
+Contact information at:
+http://jobs.perl.org/job/16358#contact

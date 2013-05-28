@@ -1,0 +1,96 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12373
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 29469 invoked from network); 27 Apr 2012 11:26:32 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 27 Apr 2012 11:26:32 -0000
+Received: (qmail 15051 invoked by uid 225); 27 Apr 2012 11:26:32 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 15046 invoked by alias); 27 Apr 2012 11:26:32 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,T_FRT_PROFILE2
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 27 Apr 2012 04:26:29 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 40A122AFE1; Fri, 27 Apr 2012 04:26:26 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 27 Apr 2012 04:26:26 -0700
+Message-ID: <20120427112626.40A122AFE1@x3.develooper.com>
+Subject: perl/java programmer, Boulder, CO, USA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15920
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 27, 2012
+
+Job title: perl/java programmer
+
+Company name: DataSource Corp.
+
+Location: Boulder, CO, USA
+
+Pay rate: $20/hr.
+
+Terms of employment: Hourly employee
+
+Hours: Full time
+
+Description:
+Our company was established 24 years ago, specializing in the collection
+and sale of data published by local governments. In the interest of
+maximizing the efficiency of data entry we undertook a software development
+project to automate large portions of the data collection process. The
+approach has been so effective we are now in desperate need of an
+additional programmer for our team.
+
+The current project requires the development and maintenance of thousands
+of programs, one for each website with the data we seek. The challenge is
+not in the complexity of the individual programs but in the analysis needed
+to write them. Because of the uniqueness of our requirements, our need is
+not for someone with advanced programming skills but rather a willingness
+to problem solve and acquire skills as necessary. You will also be expected
+to grow beyond the initial role, developing more elegant solutions and
+working on new projects as they arise.
+
+Because this is a long term development project, we are only interested in
+candidates willing to be long term, full time employees. We are investing
+the time to teach you the advanced skills unique to our project and we want
+you to stick around and use them. While you will be expected to have
+reasonable availability for phone calls with various members of our team,
+developers work remotely which allows for a fair amount of flexibility in
+your schedule.
+
+We are currently developing in Perl and you must be proficient with the
+basic language features. Extensive knowledge of CPAN modules is nice but we
+use very few and so this is not necessary. We may be switching languages
+for a large portion of the project and knowledge of Java (particularly
+experience with deploying to a Java application server) is desirable though
+not strictly necessary. And while we would never require you to develop in
+Perl on a Windows machine, at the moment our production environment is
+Windows 7 with MS Access. Not having access to a machine with that set up
+may exclude you from consideration.
+
+Of particular interest are candidates with experience writing client side
+web applications. Especially if you have dealt with the complexities of
+HTTP requests and managed to work around executing javascript for site
+navigation.
+
+In order to be considered for the position, you will need to submit a code
+sample so in addition to the normal interview process, be prepared to
+commit about an hour to our programming test. Though we hope it takes you
+half that time.
+
+Required skills: PERL, Java, Windows, MS Access/SQL
+
+Contact information at:
+http://jobs.perl.org/job/15920#contact

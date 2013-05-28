@@ -1,0 +1,100 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8787
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 7489 invoked from network); 31 Oct 2008 18:35:07 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 31 Oct 2008 18:35:07 -0000
+Received: (qmail 18860 invoked by uid 225); 31 Oct 2008 18:35:07 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 18855 invoked by alias); 31 Oct 2008 18:35:06 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 31 Oct 2008 11:35:02 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 330182AFE0; Fri, 31 Oct 2008 11:34:59 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20081031183459.330182AFE0@x3.develooper.com>
+Date: Fri, 31 Oct 2008 11:34:59 -0700 (PDT)
+Subject: Perl Developer - Apache, MySQL, Linux, ... (onsite), United Kingdom, Middlesex, Uxbridge, near London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/9844
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 30, 2008
+
+Job title:
+Perl Developer - Apache, MySQL, Linux, ...
+
+Company name: WebFusion
+
+Location:
+United Kingdom, Middlesex, Uxbridge, near London
+
+Pay rate: Up to 45k + pension + healthcare
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Webfusion Hosting, based near Uxbridge, is seeking an experienced Perl
+developer to join their existing development team to work on new products
+for one of their market-leading brands. Candidates should have a
+demonstrable ability in Perl and SQL development, an understanding of OO
+design and strong problem-solving skills. General Linux sysadmin/networking
+and trouble shooting skills are a bonus but not a prerequisite. The role
+covers the whole product lifecycle from design to maintenance and working
+with operational staff and support to constantly improve products and
+systems. Specific technologies/platforms used include: Apache, MySQL, SVN,
+mod_perl, Template Toolkit, FreeBSD, Linux, SOAP, JSON. We do not require
+any academic qualification, simply proficiency in perl and SQL.
+
+Webfusion Hosting is the UK's largest webhost, running brands such as
+123-reg.co.uk, donhost.co.uk and webfusion.co.uk. We provide domain
+registration, shared hosting and dedicated servers along with loads of
+other services.
+
+Webfusion Hosting development offers a chance to work in relaxed
+surroundings with the ability to shape your role beyond your job title.
+Successful candidates will be joining a development team of 18 in new
+offices between Uxbridge and Heathrow in West London, with easy access to
+public transport and road links.  Webfusion Hosting benefits from a loose
+dress code and flexible working hours are possible.
+
+Required skills:
+* OO Perl
+* SQL (we use MySQL)
+* Web development
+* Template Toolkit
+
+Desired skills:
+* Experience of writing scalable, high-volume web applications
+* Familiarity with automated testing
+* mod_perl
+* Developing using a version control system (we use subversion)
+* Linux, windows or BSD sysadmin skills
+* Apache
+* Experience with networking (Cisco/F5 etc)
+* JSON/JSONRPC
+* SOAP
+
+URL for more information: http://www.webfusion.co.uk/
+
+Contact information at:
+http://jobs.perl.org/job/9844#contact
+
+

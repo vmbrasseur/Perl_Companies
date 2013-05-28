@@ -1,0 +1,82 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11112
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 20398 invoked from network); 18 Mar 2011 15:46:32 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 18 Mar 2011 15:46:32 -0000
+Received: (qmail 11322 invoked by uid 225); 18 Mar 2011 15:46:32 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11318 invoked by alias); 18 Mar 2011 15:46:31 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 18 Mar 2011 08:46:29 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 868412AFDE; Fri, 18 Mar 2011 08:46:26 -0700 (PDT)
+To: jobs@perl.org
+Date: Fri, 18 Mar 2011 08:46:26 -0700
+Message-ID: <20110318154626.868412AFDE@x3.develooper.com>
+Subject: Sr. Perl Developer (onsite), United States, CA, Los Angeles
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13864
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 18, 2011
+
+Job title: Sr. Perl Developer
+
+Company name: Confidential
+
+Location: United States, CA, Los Angeles
+
+Pay rate: DOE
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Come join a fast growing profitable start-up with a successful business
+model.	The development team has been recruited from the best Perl shops in
+the LA area.
+
+If you enjoy working with top-notch Perl developers in a flat organization,
+where management are hands-on coding with you side by side, then this is
+the company for you to join.
+
+The company is located near Downtown Los Angeles, CA
+
+- Gather and understand business requirements, design/architect, and then
+implement new scalable features from beginning to end.
+
+- Understand and predict possible performance issues associated with high
+web traffic and architect and code accordingly.
+
+- Understand and execute best practices to gather, parse thru, and process
+large data sets.
+
+
+Required skills:
+- Developing scalable LAMP web apps.
+- 5+ yrs of exp with Perl, SQL, Linux.
+
+
+Desired skills:
+- Exp with mod_perl, DBIx::Class, Test::Most, Catalyst, Template Toolkit,
+Moose, Dancer, Interchange, Mason, Maypole, or Reactionetc
+- Exp with Amazon's EC2 cloud.
+- Exp with memcached, Hadoop, Puppet, etc.
+
+Contact information at:
+http://jobs.perl.org/job/13864#contact

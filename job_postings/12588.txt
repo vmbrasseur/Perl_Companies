@@ -1,0 +1,99 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12588
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 26363 invoked from network); 18 Jul 2012 10:31:14 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 18 Jul 2012 10:31:14 -0000
+Received: (qmail 17994 invoked by uid 225); 18 Jul 2012 10:31:13 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 17990 invoked by alias); 18 Jul 2012 10:31:13 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 18 Jul 2012 03:31:10 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 5D2B82AFE1; Wed, 18 Jul 2012 03:31:07 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 18 Jul 2012 03:31:07 -0700
+Message-ID: <20120718103107.5D2B82AFE1@x3.develooper.com>
+Subject: Web Scraping Expert - Perl (telecommute), Colorado
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15614
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 17, 2012
+
+Job title: Web Scraping Expert - Perl
+
+Company name: Wunderdog Sports LLC
+
+Location: Colorado
+
+Pay rate: DOE
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: indefinite
+
+Hours: Part time
+
+Onsite: no
+
+Description:
+Looking for a Perl developer with basic understanding of XML, SQL, and the
+DOM. You should consider yourself experienced in web scraping.
+
+* One to three years production experience with Perl
+* At least one "serious" project around XML.  Plus points for XML::LibXML
+and friends.
+* At least one "serious" project around SQL - We happen to use MySQL, but a
+background in any SQL variant would be acceptable.
+* Close familiarity with DOM.
+
+You will need to hit the ground running making changes to numerous programs
+that are built around the following modules, for which demonstrable
+experience is indispensable:
+   Moose
+   XML::LibXML::*
+   WWW::Mechanize
+   HTML::TreeBuilder
+   XML::Simple
+   Web::Scraper
+   Class::DBI (or any ORM, e.g. Rose::DB, DBIx::Class)
+   DateTime (and using its formatters)
+   Date::Manip
+   SQL::Abstract
+
+When replying to this job posting please provide a resume, hourly rate and
+your current location. At least 6 of your working hours MUST be between
+17:00 and 00:00 UTC. If you do not send a resume, hourly rate and current
+location, you will immediately be removed from consideration. If you meet
+the desired modules requirements, experience and working hours, you will be
+contacted and asked to give at least three references. In addition, we will
+ask you to complete a simple Perl programming task that will take between
+1-2 hours to complete without compensation.
+
+Required skills:
+Moose
+   XML::LibXML::*
+   WWW::Mechanize
+   HTML::TreeBuilder
+   XML::Simple
+   Web::Scraper
+   Class::DBI (or any ORM, e.g. Rose::DB, DBIx::Class)
+   DateTime (and using its formatters)
+   Date::Manip
+   SQL::Abstract
+
+Contact information at:
+http://jobs.perl.org/job/15614#contact

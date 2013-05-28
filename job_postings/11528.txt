@@ -1,0 +1,124 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11528
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 5095 invoked from network); 2 Aug 2011 06:10:04 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 2 Aug 2011 06:10:04 -0000
+Received: (qmail 2136 invoked by uid 225); 2 Aug 2011 06:10:04 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 2122 invoked by alias); 2 Aug 2011 06:10:03 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 01 Aug 2011 23:10:01 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 65B9B2AFDD; Mon,  1 Aug 2011 23:09:58 -0700 (PDT)
+To: jobs@perl.org
+Date: Mon, 1 Aug 2011 23:09:58 -0700
+Message-ID: <20110802060958.65B9B2AFDD@x3.develooper.com>
+Subject: Spam Fighting Software Developer (Perl) (onsite), United States,
+ California, San Francisco
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14582
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August  1, 2011
+
+Job title: Spam Fighting Software Developer (Perl)
+
+Company name: Cloudmark
+
+Location: United States, California, San Francisco
+
+Pay rate: Competitive
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Cloudmark, Inc. is a global leader in carrier-grade messaging
+infrastructure and security solutions, delivering the industry’s fastest,
+most accurate and most scalable messaging platform for fixed, mobile and
+social networks. 
+
+Cloudmark’s patented solutions combine Advanced Message Fingerprinting™
+technology based on innovative, highly efficient algorithms, a Global
+Threat Network™ consisting of trusted reporters across the globe,
+real-time, automated analysis of traffic and content patterns, along with
+security research expertise, to provide real-time security intelligence and
+filtering across carrier networks. 
+
+Cloudmark solutions protect 1.6 billion subscribers for the world’s largest
+networks, including AT&T, Comcast, MySpace, NTT, Swisscom and Time Warner
+Cable. Cloudmark is a privately held company headquartered in San Francisco
+with offices in London, Paris, Tokyo, and Singapore.
+
+This position involves maintaining and improving our software while
+responding to constantly evolving threats. 
+
+We currently use a combination of technologies including a large MySQL
+databases and servers, daemons, and tools written primarily in Perl and C.
+
+
+RESPONSIBILITIES:
+
+Ø Writing software in Perl and C against a MySQL database.
+ 
+Ø Data analysis to serve as input to automating the real-time detection and
+identification of abuse trends and anomalies in the message stream with a
+high degree of accuracy and few false positives.
+ 
+Ø Maintaining an awareness of new technologies and trends in security,
+keeping an eye open for new ways to stop emerging security threats in spam.
+
+Required skills:
+REQUIRED:
+
+Have solid experience writing software in Perl in a UNIX environment. 
+(Solid experience in C is also a plus.)
+ 
+Ø Have an Undergraduate or Graduate degree in computer science,
+mathematics, statistics, engineering or a related field or equivalent years
+of work experience.
+ 
+
+Ø Be very comfortable with fundamental Computer Science concepts such as
+algorithms, data structures, memory usage etc.
+ 
+Ø Be very comfortable writing regular expressions.
+ 
+Ø Have a reasonably good understanding of SQL and relational databases 
+ 
+Ø Enjoy developing software with a security mindset in an environment with
+an active adversary.
+ 
+Ø Be able to think clearly under pressure.
+ 
+Ø Excellent written and oral communication skills.
+
+Desired skills:
+
+OPTIONAL:
+
+Ø Experience writing email related software.
+Ø Experience in the security industry.
+
+
+Website for more information:
+http://www.cloudmark.com/en/careers/apply/o1XNVfwq/Spam+Fighting+Software+E
+ngineer++~++Perl-C?jvs=cl
+
+Contact information at:
+http://jobs.perl.org/job/14582#contact

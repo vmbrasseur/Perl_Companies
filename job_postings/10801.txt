@@ -1,0 +1,89 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10801
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 504 invoked from network); 11 Dec 2010 02:07:13 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 11 Dec 2010 02:07:13 -0000
+Received: (qmail 24070 invoked by uid 225); 11 Dec 2010 02:07:12 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 24066 invoked by alias); 11 Dec 2010 02:07:12 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS,T_FRT_PROFILE2
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 10 Dec 2010 18:07:10 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 34B392AFE1; Fri, 10 Dec 2010 18:07:07 -0800 (PST)
+To: jobs@perl.org
+Date: Fri, 10 Dec 2010 18:07:07 -0800
+Message-ID: <20101211020707.34B392AFE1@x3.develooper.com>
+Subject: Senior Perl/Database Programmer, United States, CA, Sunnyvale
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13332
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December  9, 2010
+
+Job title: Senior Perl/Database Programmer
+
+Company name: FriendFinder Networks
+
+Location: United States, CA, Sunnyvale
+
+Pay rate: DOE
+
+Length of employment: Full time Permanent
+
+Hours: Full time
+
+Description:
+The Financial Reporting and Trending team is responsible for monitoring,
+measuring, and forecasting the revenue stream of FriendFinder Networks and
+related entities; engineering data-warehousing and automation systems to
+support same; and provide both low- and high-level reporting to Financial
+Operations and Corporate Executives.
+
+This position will require very sophisticated SQL skills for data-mining,
+data aggregation and summarization, and data-warehousing. The candidate is
+expected to be familiar with techniques for gathering data from multiple
+sources and consolidating disparate schemas to provide a holistic view of
+revenue-related data activity.
+
+The candidate is expected to be proficient in a Linux environment,
+experienced with large-scare MySQP implementations, and capable with Perl.
+Familiarity with accounting concepts such as EBITDA, GAAP, and accrual
+versus cash methods is a plus.
+
+Required skills:
+Job Description:
+
+The Perl Software Developer will be responsible for architecting,
+developing, and working on a wide array of projects written in
+object-oriented Perl/mod_perl/Javascript. The ideal developer will have
+broad knowledge of web development technologies and be well-versed in
+software development processes, methodologies, and concepts.
+
+In addition, the ideal candidate should also be familiar with XML, mod_perl
+and SSH/SSL in a LAMP environment.
+Skills and Qualifications:
+
+    * 5+ years of Perl (OO, DBI, CGI/mod_perl, data-processing)
+    * 5+ years of MySQL or similar relational databases systems
+    * Familiarity with PL/SQL
+    * Familiarity with Microsoft Excel
+    * Familiarity with Linux, shell scripting, cron jobs
+    * Excellent communication skills
+    * MUST BE COMFORTABLE WITH ADULT CONTENT
+
+Applicants should forward their resume and cover letters to careers@ffn.com 
+
+Contact information at:
+http://jobs.perl.org/job/13332#contact

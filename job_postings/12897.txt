@@ -1,0 +1,122 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12897
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 26111 invoked from network); 14 Nov 2012 03:37:00 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 14 Nov 2012 03:37:00 -0000
+Received: (qmail 26578 invoked by uid 225); 14 Nov 2012 03:37:00 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 26572 invoked by alias); 14 Nov 2012 03:37:00 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 13 Nov 2012 19:36:56 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 902042AFE0; Tue, 13 Nov 2012 19:36:53 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Tue, 13 Nov 2012 19:36:53 -0800
+Message-ID: <20121114033653.902042AFE0@x3.develooper.com>
+Subject: QA Automation Engineer (onsite), London, United Kingdom
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16700
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 13, 2012
+
+Job title: QA Automation Engineer
+
+Company name: DEY Storage Systems
+
+Location: London, United Kingdom
+
+Pay rate: Competitive, GB£
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+DEY Storage Systems is looking for QA Automation Engineers. You will work
+as part of a team responsible for delivering industry leading enterprise
+storage software. You will work within a team that develops, modifies and
+executes test plans; automates our testing and works closely with our
+development team in resolving issues.
+
+We have openings for junior and senior candidates.
+
+Responsibilities
+
+- Working as a member of a cross functional team comprised of Developers
+and QA Engineers to ensure enterprise level quality in the product
+- Designing test cases, both manual and automated, to cover new
+functionality being developed
+- Creating, reviewing and maintaining robust automation tests
+- Reporting and managing defects through to successful resolution
+- Improving the maturity of the team’s quality assurance tools and
+processes
+
+This role is focused on test automation, both via testsuite development and
+automation of the testing infrastructure. We heavily use both perl and
+python within our test environment.
+
+Required skills:
+- An understanding of Test Driven Development and/or Business Driven
+Development
+- An understanding of API testing
+- Solid experience in Unix (Solaris preferred) and/or Linux
+- Solid knowledge of at least one scripting knowledge (Python or Perl
+preferred)
+- An understanding of enterprise storage concepts (Raid, NAS, SAN etc)
+- Virtualization experience with with tools such as VMWare, Xen and
+VirtualBox
+- An understanding of cloud computing concepts
+- Experience in the development and usage of test automation and
+performance benchmarking tools and frameworks (e.g STAF, jMeter)
+- Experience of test automation for web applications using Selenium or a
+similar framework
+
+Desired skills:
+- Experience with enterprise storage protocols such as iSCSI, CIFS, NFS
+- Practical systems integration experience
+- Understanding of C, JavaScript (node.js) and other programming languages
+- Exposure to Solaris functionality and tools such as ZFS, mdb, dtrace
+- Message Queueing Software such as ZeroMQ
+- Configuration Management (chef, puppet) and exposure to DevOPS
+methodologies
+- Exposure to Microsoft Windows in a multi OS environment
+- Experience in collaborating with product management, field personnel and
+development in defining test scenarios and plans
+- Contributions to Open-source projects 
+
+About You
+
+- Minimum of 3 to 5 years of experience, with a Bachelors in Computer
+Science/Electrical Engineering/IT or equivalent preferred. 
+- You have a working knowledge of testing methodologies and testing tools
+- You are a detail orientated QA professional with a passion for great
+software
+- You are comfortable juggling priorities in a dynamic collaborative
+environment
+- You are driven and motivated, always striving for improvement both
+personally and in how we approach quality
+- You have strong communication skills and the ability to develop effective
+working relationships
+- You are legally entitled to work in the UK
+
+Website for more information:
+http://www.linkedin.com/jobs?viewJob=&jobId=4155487
+
+Contact information at:
+http://jobs.perl.org/job/16700#contact

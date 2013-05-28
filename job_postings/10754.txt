@@ -1,0 +1,92 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10754
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 27269 invoked from network); 24 Nov 2010 08:10:22 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 24 Nov 2010 08:10:22 -0000
+Received: (qmail 17080 invoked by uid 225); 24 Nov 2010 08:10:22 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 17075 invoked by alias); 24 Nov 2010 08:10:21 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 24 Nov 2010 00:10:19 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 8F83A2AFE6; Wed, 24 Nov 2010 00:10:16 -0800 (PST)
+To: jobs@perl.org
+Date: Wed, 24 Nov 2010 00:10:16 -0800
+Message-ID: <20101124081016.8F83A2AFE6@x3.develooper.com>
+Subject: QA Automation Engineer (Perl) (onsite), United States, CA, San Jose
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13258
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 24, 2010
+
+Job title: QA Automation Engineer (Perl)
+
+Company name: Nimble Storage
+
+Internal ID: QAAutomation
+
+Location: United States, CA, San Jose
+
+Pay rate: Market rate
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are a successful startup developing a iSCSI storage appliance. Great
+work environment, very experienced team, successful product.
+
+The QA Automation Engineer will be responsible for managing, extending and
+maintaining our Perl-based test automation infrastructure, for creating
+test management and execution tools, and for designing and implementing
+automated tests for storage systems.
+
+Responsibilities
+
+    * Extend and maintain Perl-based test automation infrastructure
+    * Design and implement automated end-to-end tests for storage systems
+    * Create and maintain tools for test and defect management (such as
+reporting on code coverage)
+
+
+Required skills:
+    * Very good programming skills: ability to design, implement and
+analyze algorithms
+    * Expert knowledge of Perl highly desirable, good working knowledge
+required
+    * Experience developing test automation infrastructure and/or
+automating tests that operate across multiple server and client machines
+    * Experience administering Linux systems
+    * Sound understanding of networking
+
+    * Ability to work independently in a startup environment and take on a
+variety of roles as needed
+
+Desired skills:
+    * Working knowledge of build and continuous integration processes and
+tools
+    * Experience testing or developing test tools for storage systems
+    * UI automation skills, e.g. Selenium
+    * VMware ESX
+
+Website for more information:
+http://www.nimblestorage.com/qa-automation-engineer/
+
+Contact information at:
+http://jobs.perl.org/job/13258#contact

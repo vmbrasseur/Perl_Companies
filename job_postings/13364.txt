@@ -1,0 +1,88 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13364
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 22900 invoked from network); 3 May 2013 19:45:04 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 3 May 2013 19:45:04 -0000
+Received: (qmail 18319 invoked by uid 225); 3 May 2013 19:45:03 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 18308 invoked by alias); 3 May 2013 19:45:01 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 03 May 2013 12:44:54 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id D42062AFE1; Fri,  3 May 2013 12:44:46 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 3 May 2013 12:44:46 -0700
+Message-ID: <20130503194446.D42062AFE1@x3.develooper.com>
+Subject: Senior Perl Engineer (onsite), Los Angeles, CA, United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16935
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May  3, 2013
+
+Job title: Senior Perl Engineer
+
+Company name: Rent.com
+
+Internal ID: PE-FTE
+
+Location: Los Angeles, CA, United States
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Rent.com is the leading online apartment rental listing service nationwide.
+ We are headquartered in a beautiful Santa Monica class A office complex,
+not far from the sunny Southern California beaches.  We have over 300 days
+of sunshine within a region that encompasses ocean beaches, deserts and
+mountains.  With just over 100 employees we are light on bureaucracy and
+operate nimbly.
+
+As a senior software engineer at Rent.com, you will write server-side code
+for web-based applications.  We are looking for well-rounded engineers to
+create robust high-volume production applications.  You should also have a
+strong understanding of, and practical experience developing, web apps in
+Perl.  We are looking for someone who is interested in making a big impact
+as part of a small, dynamic team and is looking to have broad
+responsibilities.
+
+Rent.com engineers relish the freedom to create the next generation of our
+offerings, in an environment designed to foster collaboration, creativity,
+health, and happiness.	We are an agile shop utilizing scrum, story points,
+and encouraging (but not dictating) TDD.
+
+We currently have several open contracting positions, and one open FTE
+position.  The full-time position is on-site only; we will consider
+full-time telecommuting contractors, but the bar is correspondingly higher.
+ We can only consider US residents at this time.
+
+Required skills:
+Advanced Perl, reasonable SQL, general hard core software development, and
+decent Linux system administration.  You should have experience with
+version control (we use Git) and be able to work effectively alone and as
+part of a team.
+
+Desired skills:
+Moose, Catalyst, Template Toolkit, OOP.  Javascript a bonus.
+
+Website for more information: http://www.rent.com
+
+Contact information at:
+http://jobs.perl.org/job/16935#contact

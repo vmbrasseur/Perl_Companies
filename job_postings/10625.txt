@@ -1,0 +1,95 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10625
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 16777 invoked from network); 15 Oct 2010 04:29:51 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 15 Oct 2010 04:29:51 -0000
+Received: (qmail 30207 invoked by uid 225); 15 Oct 2010 04:29:51 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 30202 invoked by alias); 15 Oct 2010 04:29:51 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 14 Oct 2010 21:29:49 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id F06A52AFE1; Thu, 14 Oct 2010 21:29:45 -0700 (PDT)
+To: jobs@perl.org
+Date: Thu, 14 Oct 2010 21:29:45 -0700
+Message-ID: <20101015042945.F06A52AFE1@x3.develooper.com>
+Subject: Senior Perl Developer (onsite), United States, New York, New York
+ City
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13030
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 14, 2010
+
+Job title: Senior Perl Developer
+
+Company name: Nielsen Business Media
+
+Internal ID: Senior Perl Developer
+
+Location: United States, New York, New York City
+
+Pay rate: $50/hr+ depending on experience
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 3 months +
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+A great opportunity with a great company! 
+
+We are looking for a Senior Perl Developer who has a knack for technology,
+seeks to promote best practices, loves to develop in Perl, and has
+excellent soft skills.
+
+You will be working in a small team where your ideas are heard,
+implemented, and where your work has an immediate impact on the end-user.
+
+This opportunity gives great creative freedom for the die-hard developer
+within a dynamically structured environment.
+
+You will be working on a system that serves stock photography, processes
+accounting information, client/server programming, multi-threaded systems,
+and much more.	You will play an integral role to our team and we will be
+looking to you for input on improving our systems, rapidly code
+well-engineered solutions, and contribute to our growth.
+
+Required skills:
+- Object Oriented Programming
+- DBI/DBD
+- Apache
+- Perl
+- UN*X
+- (my)SQL
+- Creative thinking
+- Excellent communication
+- Great inter-personal skills
+
+Desired skills:
+- DBIx
+- mod_perl 1/2
+- Template Toolkit 2
+- MVC
+- AWS (EC2, S3)
+- JavaScript
+- SVN/CVS
+- Test driven development
+
+Contact information at:
+http://jobs.perl.org/job/13030#contact

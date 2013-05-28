@@ -1,0 +1,112 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3686
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8689 invoked from network); 12 Jan 2006 00:00:30 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 12 Jan 2006 00:00:30 -0000
+Received: (qmail 14398 invoked by uid 225); 12 Jan 2006 00:00:30 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 14389 invoked by alias); 12 Jan 2006 00:00:28 -0000
+X-Spam-Status: No, hits=-2.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,URIBL_SBL
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 11 Jan 2006 16:00:26 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id k0C00NTZ002390
+	for <jobs@perl.org>; Wed, 11 Jan 2006 16:00:23 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id k0C00NY4002388;
+	Wed, 11 Jan 2006 16:00:23 -0800
+Date: Wed, 11 Jan 2006 16:00:23 -0800
+Message-ID: <200601120000.k0C00NY4002388@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Perl Developer with strong MySQL, Email and Linux (onsite), United States, MA, Cambridge
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3337
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 11, 2006
+
+Job title:
+Perl Developer with strong MySQL, Email and Linux
+
+Company name: Cambridge Interactive Development, Corp.
+
+Location: United States, MA, Cambridge
+
+Pay rate: salary, bonus, and benefits
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Perl Developer with strong MySQL, Email and Linux.  PHP a plus.
+
+Cambridge Interactive Development Corp. (CIDC) is a software development
+company specializing in localized products for international e-commerce,
+multi-player gaming, social networking, affiliate portals and other web
+verticals, with offices in Cambridge, Massachusetts.
+
+We're have an opening for a Perl developer with strong MySQL, Email and
+Linux skills to work onsite in Cambridge, MA.  We're seeking a programmer
+with the ability to customize and maintain large scale open source and
+home-grown applications for enterprise use.
+
+
+Required skills:
+Requirements
+
+•	Perl, Perl, Perl. Large-scale Perl application development,
+including OO Perl, DBI, large data sets, distributed computing protocols
+(e.g.XML-RPC or SOAP).	(Note: if your Perl experience is limited to CGI
+scripts or reports, you don't have the experience we're looking for).
+
+•	Thorough knowledge of MySQL or major Unix/Linux-based RDMBS
+
+•	Linux and/or Unix systems and Apache experience.  Open systems,
+open source approach to systems deployment and software development.
+
+•	Email processing.
+
+•	Strong knowledge of Javascript and XML.  HTML::Mason experience is
+a huge plus.
+
+•	Superior written and verbal communications skills.  Ability to
+interface directly with non-technical end-users.  
+
+•	Very valuable:	A strong background integrating open source and
+proprietary systems to create enterprise business solutions.  If you have
+experience integrating systems such as RT, open source CRM, chat and VOIP,
+please indicate this.  
+
+•	Four year degree or equivalent experience.
+
+We will consider candidates local to Cambridge Massachusetts only!  No
+Recuiter Calls will be accepted.
+
+Desired skills:
+•	Other plusses:	PHP, multilingual development (e.g. Unicode,
+conversions), prior experience creating web services.  
+
+URL for more information: http://cidc.com/
+
+Contact information at:
+http://jobs.perl.org/job/3337#contact
+
+

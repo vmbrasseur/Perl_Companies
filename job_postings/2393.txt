@@ -1,0 +1,83 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2393
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 12709 invoked from network); 22 Feb 2005 22:31:05 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 22 Feb 2005 22:31:05 -0000
+Received: (qmail 32259 invoked by uid 225); 22 Feb 2005 22:31:04 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 32253 invoked by alias); 22 Feb 2005 22:31:04 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 22 Feb 2005 14:30:54 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j1MMUqB3003914
+	for <jobs@perl.org>; Tue, 22 Feb 2005 14:30:52 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j1MMUq5u003912;
+	Tue, 22 Feb 2005 14:30:52 -0800
+Date: Tue, 22 Feb 2005 14:30:52 -0800
+Message-ID: <200502222230.j1MMUq5u003912@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Perl Expect/Networking Developer (onsite), United States, CA, Pleasanton
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2299
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 22, 2005
+
+Job title: Perl Expect/Networking Developer
+
+Company name: Hewlett Packard
+
+Location: United States, CA, Pleasanton
+
+Pay rate: $50.00/$65.00  (US-Dollar)
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 3-6 months
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Build a library to interface with network switches’s CLI (Command Line
+Interface) and the RISS (Reference Information Storage System) installer
+system.
+
+Required skills:
+- Expert Perl developer with 4+ year experience: candidate will have to
+show and comment on source code he wrote during the interview
+- Perl object oriented programming is required
+- Fluent with Perl modules and CPAN
+- Experience with Expect to manage interaction with CLI
+- Experience with network programming client/server
+- Good team communication
+
+Desired skills: - Linux experience
+
+URL for more information:
+http://h18006.www1.hp.com/storage/highlights/ilm.html
+
+Contact information:
+Kimon Papahadjopoulos
+kimonp@hp.com
+(925)-474-2100 ext 2211
+
+

@@ -1,0 +1,115 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6738
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 10014 invoked from network); 6 Aug 2007 23:43:00 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 6 Aug 2007 23:43:00 -0000
+Received: (qmail 1394 invoked by uid 225); 6 Aug 2007 23:42:59 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 1385 invoked by alias); 6 Aug 2007 23:42:59 -0000
+X-Spam-Status: No, hits=-2.6 required=8.0
+	tests=BAYES_00,DKIM_POLICY_SIGNSOME,DK_POLICY_SIGNSOME,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 06 Aug 2007 16:42:46 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 3F5D92AFDE; Mon,  6 Aug 2007 16:42:43 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070806234243.3F5D92AFDE@x3.develooper.com>
+Date: Mon,  6 Aug 2007 16:42:43 -0700 (PDT)
+Subject: ETL Software Engineer (onsite), United States, CA, Oakland
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5682
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August  6, 2007
+
+Job title: ETL Software Engineer
+
+Company name: Ask.com (IAC Search and Media)
+
+Internal ID: *3DF1E279E25A35D7
+
+Location: United States, CA, Oakland
+
+Pay rate: competitive
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Every now and then, you get the itch to grab a few terabytes of data and
+run it through a wood chipper, apply a few regular expressions, and find
+frequent patterns the mess that remains. 
+
+You download CPAN modules just to see how that guy did it. 
+
+You think that reading a book on multi-dimensional search tree sounds like
+a nice way to spend an evening. 
+
+You would never, ever, change a hash while inside a while each loop, except
+that one time when it was funny. 
+
+You are not afraid of databases. Really, really big databases. The kinds
+that make Oracle throw up its hands and go home.  Matter of fact, you might
+just go ahead and write a better database. Over the weekend. 
+
+You think a fire hose of clickstream data is sexy, and playing with a
+real-time traffic multicast of a top-tier search engine is something you’d
+like to get paid for. 
+
+Ask.com is looking for an experienced Software Engineer to join a team
+responsible for business critical data capturing and reporting. We develop
+tools that make sense of a never-ending stream of data, slice, dice, and
+summarize it all. We write in C and very tight Perl, and SQL is our puppy.
+Bits of Java and Ruby lying around, too, if you want to play with those.
+
+Responsibilities
+
+    * Design and build software that implements click stream tracking for a
+collection of web sites accessed by 10’s of millions of people.
+    * Build, and maintain an ETL system used for reporting on business
+critical site metrics.
+    * Develop and maintain internal tools designed to aid productivity.
+    * Handle production issues on a system that stretches across the globe.
+
+    * Maintain/Expand existing reporting systems and analysis tools.
+    * Work on ad-hoc information requests from groups world-wide.
+    * Participate in third-party software evaluation.
+    * Serve as a resource for development on other team projects and
+products as needed. 
+
+Required skills:
+Perl expertise, specifically in relation to: regular expressions,
+intercommunications with databases (Oracle) using DBI, XML, and module
+development.
+
+Experience using C
+
+Desired skills:
+UNIX shell scripting (bash).
+UNIX administration skills a plus.
+Java/C++ programming a plus. 
+
+URL for more information:
+http://www.askcareers.com/askjeeves/jobboard/JobDetails.aspx?__ID=*3DF1E279
+E25A35D7
+
+Contact information at:
+http://jobs.perl.org/job/5682#contact
+
+

@@ -1,0 +1,73 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5477
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 12327 invoked from network); 27 Dec 2006 15:31:45 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 27 Dec 2006 15:31:45 -0000
+Received: (qmail 15497 invoked by uid 225); 27 Dec 2006 15:31:45 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 15492 invoked by alias); 27 Dec 2006 15:31:44 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 27 Dec 2006 07:31:42 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 114542B02D; Wed, 27 Dec 2006 07:31:39 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20061227153139.114542B02D@x3.develooper.com>
+Date: Wed, 27 Dec 2006 07:31:39 -0800 (PST)
+Subject: Threads expert (telecommute)
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5115
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 26, 2006
+
+Job title: Threads expert
+
+Company name: Finn
+
+Internal ID: 0001
+
+Pay rate: $US500
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: week
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+This is an exploratory/feasibility project to create a skeleton with basic
+mechanisms for a distributed object simulation program where threads
+exchange/broadcast messages.
+
+Each thread has an "internal" data structure (i.e. queue) where messages
+are stored and processed for distribution based on one (for this phase)
+algorithm. 
+
+More specific details for the exact mechanism will be provided.
+
+Required skills:
+Perl 5.8.* 
+Threads
+
+
+Contact information at:
+http://jobs.perl.org/job/5115#contact
+
+

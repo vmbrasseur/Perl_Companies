@@ -1,0 +1,89 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7494
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 32278 invoked from network); 10 Jan 2008 04:37:01 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 10 Jan 2008 04:37:01 -0000
+Received: (qmail 17326 invoked by uid 225); 10 Jan 2008 04:37:01 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 17320 invoked by alias); 10 Jan 2008 04:37:01 -0000
+X-Spam-Status: No, hits=-2.6 required=8.0
+	tests=BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 09 Jan 2008 20:36:59 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 4CFC52AF8F; Wed,  9 Jan 2008 20:36:56 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20080110043656.4CFC52AF8F@x3.develooper.com>
+Date: Wed,  9 Jan 2008 20:36:56 -0800 (PST)
+Subject: Senior Perl Web App Dev (part onsite), United States, WA, Seattle
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/7652
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January  9, 2008
+
+Job title: Senior Perl Web App Dev
+
+Company name: Golden Guru
+
+Internal ID: 113802
+
+Location: United States, WA, Seattle
+
+Pay rate: DOE (1099)
+
+Travel: 0-25%
+
+Terms of employment: Hourly employee
+
+Length of employment: Indefinite
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+Senior Perl developer to assist with the rearchitecture, rewriting, and
+ongoing support for a "Web 2.0" application. Additional apps over 2008. The
+position requires between 40-45 hours per week on average and is 1099.
+Support and add functionality to an existing Mason site and build new
+Template::Toolkit apps. MySQL schema development, implementation, and
+administration. While the majority of the work may be done telecommute,
+candidates must be able to attend monthly meetings in Seattle WA.
+
+
+Required skills:
+Perl (must be advanced, will be tested)
+Apache2/mod_perl2 (stacked handlers, filters)
+MySQL/Apache::DBI (persistent connections, connection pool)
+
+If you are not a testable senior-level Perl developer, please don't apply.
+Hands-on ability to take ownership of apps and projects. Some system
+administration skill/experience (Linux/Debian) required.
+
+
+Desired skills:
+Template Toolkit
+Subversion
+Mason
+Trac
+HTML, DHTML
+CSS
+Javascript, AJAX,
+XML/XSL, REST
+
+
+Contact information at:
+http://jobs.perl.org/job/7652#contact
+
+

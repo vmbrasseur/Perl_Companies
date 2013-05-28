@@ -1,0 +1,64 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8801
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 11620 invoked from network); 3 Nov 2008 23:03:30 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 3 Nov 2008 23:03:30 -0000
+Received: (qmail 1215 invoked by uid 225); 3 Nov 2008 23:03:30 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 1207 invoked by alias); 3 Nov 2008 23:03:29 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 03 Nov 2008 15:03:28 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id ADEE42AFD3; Mon,  3 Nov 2008 15:03:24 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20081103230324.ADEE42AFD3@x3.develooper.com>
+Date: Mon,  3 Nov 2008 15:03:24 -0800 (PST)
+Subject: FTP 20,000 files (telecommute), or, clakmas 
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/9856
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November  3, 2008
+
+Job title: FTP 20,000 files
+
+Company name: Clakmas paper
+
+Location: or, clakmas 
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+We need to have a perl script built for us that will upload about 20,000
+files to our server from a computer here at the office. The computer has a
+folder called upload that has 20,000 files on it. We need to have a
+developer write a script that will use net::FTP or something like it to
+move all 20,000 files to our server via ftp. The files are small in size
+4-20kb.
+
+Required skills: perl
+
+Desired skills: perl
+
+Contact information at:
+http://jobs.perl.org/job/9856#contact
+
+

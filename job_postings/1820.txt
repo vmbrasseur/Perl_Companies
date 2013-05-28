@@ -1,0 +1,142 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:1820
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 6847 invoked from network); 13 Aug 2004 06:31:52 -0000
+Received: from x1.develooper.com (63.251.223.170)
+  by lists.develooper.com with SMTP; 13 Aug 2004 06:31:52 -0000
+Received: (qmail 5519 invoked by uid 225); 13 Aug 2004 04:25:00 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 5515 invoked by alias); 13 Aug 2004 04:25:00 -0000
+X-Spam-Status: No, hits=-0.0 required=8.0
+	tests=BAYES_44
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.dev) (63.251.223.163)
+  by la.mx.develooper.com (qpsmtpd/0.27.1) with ESMTP; Thu, 12 Aug 2004 21:24:57 -0700
+Received: from x3.dev (localhost.localdomain [127.0.0.1])
+	by x3.dev (8.12.11/8.12.11) with ESMTP id i7D4OtU5023055
+	for <jobs@perl.org>; Thu, 12 Aug 2004 21:24:55 -0700
+Received: (from jobs@localhost)
+	by x3.dev (8.12.11/8.12.11/Submit) id i7D4Ot9l023053;
+	Thu, 12 Aug 2004 21:24:55 -0700
+Date: Thu, 12 Aug 2004 21:24:55 -0700
+Message-ID: <200408130424.i7D4Ot9l023053@x3.dev>
+X-Authentication-Warning: x3.dev: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Perl Internet Application Developer (onsite), United States, VT, Burlington
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1719
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 12, 2004
+
+Job title: Perl Internet Application Developer
+
+Company name: Bock Interactive
+
+Location: United States, VT, Burlington
+
+Pay rate: Based on skills/experience
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are looking for a Perl developer to help us create and improve a variety
+of Internet based applications.  The work environment is fast-paced but
+also relaxed and congenial.  Projects might involve one or all of the
+following types of services we provide for our clients:
+
+1.  Shopping cart:  Supports a full electronic commerce experience
+including the hosting in a load-balanced cluster for a variety of merchants
+including:
+
+http://www.magazinecity.com
+http://www.anchorexpress.com/
+http://www.whiteflowerfarm.com/
+
+2.  Inventory Management:  Supports the real-time management of a store's
+inventory, including the dynamic drawing of the appropriate size color
+options based upon the current inventory levels.
+Example:  http://www.lakersstore.com/
+
+3.  Multi-attribute search:  Supports multi-attribute search form as well
+as custom search results to show section pages, number or results,
+ordering, synonym tables and it can always show results.
+Example http://www.ehobbies.com/
+
+4.  Wish list:	Provides an alternative to the shopping cart, can help to
+organize items and allow the list to be shared with other individuals which
+can be public or private.
+Example:  http://www.myknobs.com/
+
+5.  Gift registry:  A more full featured version of a wish list to be used
+as a registry for events such as wedding or baby shower registry.  Supports
+multiple addresses, i.e. before/after event, supports the emailing of
+registry information to friends.
+Example http://www.blueberrybabies.com/
+
+The position is for a full-time, salaried employee, the rate would depend
+on the responsibilities you would assume, your skill level and relevant
+project experience.
+
+We also cover the full cost of medical insurance and we have an allowance
+for dental and vision care.  We have a Simple IRA program through Fidelity
+Investments where the company will match up to 3% of your pre-tax salary.
+
+Travel would be occasional if at all, may be asked to visit a client
+onsite; likely locations would be New York or Los Angeles.
+
+Bock Interactive is a 14 person consulting firm based in Burlington,
+Vermont in a restored woolen mill along the Winooski River.  The company
+was started 8 years ago and we help our merchants develop electronic
+commerce applications using our own platform as well as Yahoo! Store.
+
+The company is family owned by Brian and Heidi Bock.  Brian has over 15
+years of experience developing electronic commerce applications.  Prior to
+starting Bock Interactive, Brian worked for AT&T, Ziff-Davis, Citibank and
+J.C. Penney.  
+
+Bill Cronin, the company's technical lead, has 10 years of information
+systems experience in the wholesale and retail industries.  After studying
+computer science at the University of Vermont, Bill worked in the
+information systems department for Nordica, the sporting goods wholesaler. 
+Prior to joining the staff at Bock Interactive, Bill was Director of
+Information Systems at Cornell Trading.
+
+Required skills:
+3+ years implementing web based applications with the following
+technologies:
+
+Perl
+Database; MySQL preferred
+Unix; Linux preferred
+Apache; under mod_perl preferred
+JavaScript
+Cascading Style Sheets
+XML
+HTML
+
+URL for more information: http://www.bock.com/
+
+Contact information:
+Brian Bock
+Bock Interactive Inc.
+One Mill Street, Suite 203
+Burlington, Vermont  05401
+brian@bock.com
+802.862.2000 x.15
+
+

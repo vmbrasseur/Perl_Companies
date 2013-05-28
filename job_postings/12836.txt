@@ -1,0 +1,104 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12836
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 32417 invoked from network); 16 Oct 2012 18:00:21 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 16 Oct 2012 18:00:21 -0000
+Received: (qmail 18247 invoked by uid 225); 16 Oct 2012 18:00:21 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 18242 invoked by alias); 16 Oct 2012 18:00:21 -0000
+X-Spam-Status: No, hits=-1.0 required=8.0
+	tests=ALL_TRUSTED,BAYES_20
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 16 Oct 2012 11:00:14 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 872482AFE0; Tue, 16 Oct 2012 11:00:10 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Tue, 16 Oct 2012 11:00:10 -0700
+Message-ID: <20121016180010.872482AFE0@x3.develooper.com>
+Subject: Perl Developer (onsite), Lansing, MI, USA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15564
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 16, 2012
+
+Job title: Perl Developer
+
+Company name: Liquid Web Inc.
+
+Location: Lansing, MI, USA
+
+Pay rate: DOE
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We're looking for talented developers to join our growing team and to
+deliver quality software. We have a focus on modern best practices such as
+automated testing, rapid releases, distributed version control, and
+object-oriented code. The growing need for automated deployment in the
+hosting industry means we get to interact with burgeoning technologies like
+virtualization, distributed systems, and automated network configuration.
+We're looking for more smart people to help us build out our Infrastructure
+as a Service (IaaS) offerings and customer portals, as well as maintain and
+modernize our existing internal applications.
+
+We leverage open source technologies (Perl, PostgreSQL, CPAN, CentOS) and
+are working towards a culture of contributing back to the community. Liquid
+Web still maintains a lot of its startup roots, so self-starters with a
+get-it-done attitude thrive. We want people who strive to push things
+forward on the team and who aren't afraid to tackle a project head-on
+without a lot of hand-holding. The ability to juggle multiple projects
+simultaneously and prioritize them effectively is a must.
+
+Required skills:
+We have need for developers at all experience levels and with various skill
+sets. Our ideal applicant would have many of these skills:
+
+* Solid development fundamentals with a good understanding of
+object-oriented programming
+* Thorough experience in Perl or a proven track record of strong
+development in other languages with the ability to quickly learn and
+embrace Perl.
+* Confidence with distributed version control systems (We use git)
+* Experience with unit testing and a recognition of the immense value it
+provides
+* Familiarity with CPAN and the plethora of quality packages it provides.
+(We use HTML::Mason, DateTime, Log::Log4perl, DBIx::Class, Test::Class,
+Devel::NYTProf and much more)
+* In-depth understanding of LAMP or similar application stacks
+* Experience with optimizing code through profiling
+* Understanding of Unix/Linux fundamentals and system administration
+* Experience with virtualization (Xen, KVM, LXC, etc)
+* Knowledge of networking, sockets, filesystems, etc
+* Experience utilizing high performance relational databases (experience
+with NoSQL systems is a plus!)
+* Web centric user interface design (HTML, CSS)
+* Understanding of JavaScript and JS frameworks (Events, Closures, AJAX,
+jQuery)
+
+Whether you are a specialist working on network code, or a generalist
+reaching across various skill sets, as long as you are willing to learn, we
+want to hear from you.
+
+Website for more information:
+http://liquidweb.theresumator.com/apply/9z6NSy/Software-Developer.html?sour
+ce=jobs.perl
+
+Contact information at:
+http://jobs.perl.org/job/15564#contact

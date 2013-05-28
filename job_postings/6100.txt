@@ -1,0 +1,98 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6100
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 2824 invoked from network); 12 Apr 2007 19:04:29 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 12 Apr 2007 19:04:29 -0000
+Received: (qmail 28322 invoked by uid 225); 12 Apr 2007 19:04:28 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 28296 invoked by alias); 12 Apr 2007 19:04:27 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,DK_POLICY_SIGNSOME
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 12 Apr 2007 12:04:24 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 115A22AFE8; Thu, 12 Apr 2007 12:04:21 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070412190421.115A22AFE8@x3.develooper.com>
+Date: Thu, 12 Apr 2007 12:04:21 -0700 (PDT)
+Subject: Senior perl/mod_perl software engineer (onsite), United States, California, West Hollywood
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5635
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 12, 2007
+
+Job title: Senior perl/mod_perl software engineer
+
+Company name: Ticketmaster
+
+Location:
+United States, California, West Hollywood
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Ticketmaster is looking for a Senior Software Engineer to join our Client
+Tools team. Our charter is to replace legacy desktop applications with
+cutting-edge web applications.	It’s a fun and exciting opportunity to push
+the limits of web technology.
+
+You may be called upon to develop new servers from scratch, lead design
+meetings about core code modules, or refactor code that cuts across
+multiple applications.
+
+You will code primarily using Perl but may occasionally be required to
+write C modules for Apache.
+
+In a typical workday you'll work on a project coding new functionality, fix
+a few bugs, eat some lunch, write some unit tests, and meet with your team
+to design developing projects.
+
+Required skills:
+* Understanding of common design patterns
+* Proficiency with Perl objects and object-oriented concepts
+* Solid grasp of Apache and mod_perl
+* SQL inserting, updating, retrieving, and optimization skills
+* Thrive in a team-based environment
+* Ability to clearly communicate technical concepts and designs to
+non-developers
+* Experience with version control, ideally CVS or Subversion
+
+Desired skills:
+* Community involvement with CPAN, Apache, mod_perl, or other open source
+projects
+* Experience building dynamic web applications with Javascript and Ajax
+* Data design and modeling
+* Experience with other languages such as C/C++, Lisp, Ruby, or Python
+* Knowledge of agile methodologies such as Test Driven Development or Scrum
+
+* Familiarity with development best practices, such as code reviews and
+unit testing
+* As your user base will be spread out across the globe, experience
+developing international sites is a plus
+* Experience with MySQL and Oracle
+
+URL for more information:
+http://jobsearch.iac-careers.com/getjob.asp?JobID=56159718
+
+Contact information at:
+http://jobs.perl.org/job/5635#contact
+
+

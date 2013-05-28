@@ -1,0 +1,79 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7669
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 22382 invoked from network); 12 Feb 2008 17:30:23 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 12 Feb 2008 17:30:23 -0000
+Received: (qmail 8669 invoked by uid 225); 12 Feb 2008 17:30:23 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 8648 invoked by alias); 12 Feb 2008 17:30:21 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 12 Feb 2008 09:30:18 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id F04972AFCA; Tue, 12 Feb 2008 09:30:14 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20080212173014.F04972AFCA@x3.develooper.com>
+Date: Tue, 12 Feb 2008 09:30:14 -0800 (PST)
+Subject: optimization specialist (telecommute), Kuwiat, Kuwait
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/7912
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 11, 2008
+
+Job title: optimization specialist
+
+Location: Kuwiat, Kuwait
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+I have a website designed in Perl based on LAMP architecture. I need an
+optimization expert to go through it and improve performance issues.
+Hosting, proxy, directory structure, scripts, DB performance, memory,
+CSS/HTML will have to be looked into with a fine-tooth comb.
+
+Before starting, I will need a "current state" assessment. I will also need
+comparative reports after the optimization is done.
+
+Bottom line is that any page on my website should load within 4ms and my
+website should load faster than 99.95% sites out there on the internet.
+
+It goes without saying that all this has to be done within the confines of
+the existing hardware/software. Any new financial investments are out of
+the question.
+
+
+Required skills:
+Linux - Apache - MySQL - Perl
+
+Networking, proxy, memory, CSS/HTML
+
+Reporting (there is a difference between reports and data...I need reports
+that I can make sense out of...not mountains of data that I need to sift
+through)
+
+
+Desired skills: Designing skills
+
+URL for more information: http://www.urood.com/
+
+Contact information at:
+http://jobs.perl.org/job/7912#contact
+
+

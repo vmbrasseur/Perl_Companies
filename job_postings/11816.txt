@@ -1,0 +1,108 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11816
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 23394 invoked from network); 2 Nov 2011 06:55:36 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 2 Nov 2011 06:55:36 -0000
+Received: (qmail 11867 invoked by uid 225); 2 Nov 2011 06:55:36 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11863 invoked by alias); 2 Nov 2011 06:55:36 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 01 Nov 2011 23:55:33 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 5E6E92AFD2; Tue,  1 Nov 2011 23:55:30 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Tue, 1 Nov 2011 23:55:30 -0700
+Message-ID: <20111102065530.5E6E92AFD2@x3.develooper.com>
+Subject: Android Mobile E-Wallet / Closed Loop Gift Card (telecommute), El
+ Salvador, Central America
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15050
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 31, 2011
+
+Job title: Android Mobile E-Wallet / Closed Loop Gift Card
+
+Company name: 2kms
+
+Location: El Salvador, Central America
+
+Pay rate: open
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+Hello:
+
+Seems that lately people are getting brave enough to experiment using perl
+for mobile applications.
+
+I run into some examples at:
+http://szabgab.com/blog/2010/05/perl-on-android.html
+http://www.perlmonks.org/?node_id=874223
+http://code.google.com/p/perldroid
+http://code.google.com/p/perl-mobile-wurfl
+https://www.socialtext.net/perl5/android
+http://glasnost.itcarlow.ie/~pnb/mobileagents.pdf
+
+I have also seen how some developers are creating ways of including perl
+and your scripts into a compiled exe file, which could be ported to other
+OS besides Linux.
+
+http://www.indigostar.com/microweb.php
+
+I'm really not a perl expert myself neither a java or mobile app developer,
+so attempting to create a Mobile App using perl might be totally off the
+wall.. but perhaps is feasible.
+
+If you have already experimented with some kind of success.. here is your
+chance to make a buck.
+
+I'm looking to create an app that will do transactions via a cell phone
+using QR barcode but it won't echange real money, instead we will exchange
+loyalty points, as in a Closed Loop Gift Card Program.
+
+Here is a quick example of a similar app:
+
+http://www.youtube.com/watch?v=r2IJUGvujCw
+
+If you are bored and you are a cell phone, tablet enthusiast, here is
+essentially what is needed, which is very simple beacuse we don't have to
+tye up to banks or credit cards for top-ups, withdrawals or transfers:
+
+1) Create a database in a webserver
+2) Code a "Create User Account" function in mobile app.
+3) Code a "Credit Account" function in mobile app.
+4) Code a "Debit Account" function in mobile app.
+5) Code an "Account to Account Transfer" function in mobile app.
+
+That's it. Send me a nice quote, this is for telecommuting, offsite,
+freelance paid per project not hourly.
+
+I'm online most days from 7:00 am Eastern Time for a Skype chat.
+
+Lets do it..
+
+Required skills: mobile OS knowledge
+
+Desired skills: able to work with online emulators
+
+Contact information at:
+http://jobs.perl.org/job/15050#contact

@@ -1,0 +1,148 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10742
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 26458 invoked from network); 18 Nov 2010 01:07:39 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 18 Nov 2010 01:07:39 -0000
+Received: (qmail 6638 invoked by uid 225); 18 Nov 2010 01:07:39 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 6631 invoked by alias); 18 Nov 2010 01:07:39 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS,T_FRT_PROFILE2
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 17 Nov 2010 17:07:37 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id C03802AFE4; Wed, 17 Nov 2010 17:07:33 -0800 (PST)
+To: jobs@perl.org
+Date: Wed, 17 Nov 2010 17:07:33 -0800
+Message-ID: <20101118010733.C03802AFE4@x3.develooper.com>
+Subject: Perl Development Team Manager (onsite), United Kingdom, London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13240
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 17, 2010
+
+Job title: Perl Development Team Manager
+
+Company name: NET-A-PORTER
+
+Internal ID: perl-dev-mgr
+
+Location: United Kingdom, London
+
+Pay rate: competitive
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are seeking a talented and technically proficient Development Manager to
+lead a team of talented Perl Developers.  Reporting to the Head of
+Technical Development, you will lead and manage the team responsible for
+the design, development and maintenance of the company’s business
+management systems that drive NET-A-PORTER.COM, theOutnet.com, and future
+sales channels.
+
+Responsibilities
+
+* Provide pragmatic technical leadership to the Development Team – be a
+"can
+  do" catalyst for optimum business development; inspire, engage and
+  motivate them to "Be the best". 
+
+* Line-manage developers proactively to develop the performance of both the
+
+  team and individuals.
+
+* Work closely with other Development, Technical Architecture, Technical
+  Operations, and Management Information Systems teams to define the
+optimum
+  technical approach, standards, development guidelines and direction of
+the
+  team.
+
+* Determine and clearly communicate the objectives of the team.
+
+* Technical owner of the business management systems.  Works with the
+  Product Owner to plan technical enhancements and provides input into the
+  product roadmap for the systems.
+
+* Provide input into the Technical Development Team’s methodology,
+processes
+  and supporting policies, ensuring that the correct priorities are
+  established and that stakeholders are kept informed.
+
+* Develop and adapt plans for resourcing projects and product backlogs with
+
+  the Technical Development management team, ensuring the right skill-sets
+  and personalities are distributed to an optimum effect.
+
+* Find and recruit new talent as agreed with the Head of Technical
+  Development.
+
+* Liaise with the wider NET-A-PORTER business to provide relevant
+  information that helps them make the best decisions.
+
+* Liaise with the Perl development community to uphold the reputation of
+  NET-A-PORTER as a leader in the industry.
+
+
+Required skills:
+* Proven perl development experience in a fast-paced enterprise environment
+
+   o  Working with the business from the concept stage through to delivery.
+
+   o  Produce technical specifications and cost estimations.
+   o  Appraisal, selection and integration of third-party frameworks,
+      libraries & services.
+   o  Enterprise development of database-driven web applications in Perl.
+   o  Release management & deployment.
+   o  Profiling and optimising applications.
+* Effective line management of developers, reviewing performance and
+  managing professional development. 
+* Experience defining and evolving development processes to improve
+  efficiency and quality.
+* Experience with Agile Development methodologies.
+* Full SDLC experience, with an understanding of the strengths &
+  weaknesses of different development methodologies.
+* Able to discuss technical solutions, options & issues with a non-
+  technical audience.
+
+We are looking for candidates with the following:  
+ 
+* Articulate with good writing skills 
+* Healthy dose of common sense and initiative. 
+* Great sense of humour and attitude
+
+
+Desired skills:
+* Experience in B2C e-commerce 
+* Experience in Warehouse Management Systems 
+* Experience building Business Workflow Systems 
+* Experience with as many of the following (or equivalent technologies)
+  as possible:
+   o  Postgres & MySQL 
+   o  Apache / Catalyst / FastCGI / mod_perl
+   o  DBIx::Class ORM-DBMS framework
+   o  TT / HTML / CSS / JavaScript / JSON / AJAX & JS frameworks (jQuery)
+   o  Web Services & Messaging frameworks (ActiveMQ)
+   o  Linux / Unix & shell scripting
+   o  Caching strategies & tools
+   o  Exposure to Data Warehousing & Reporting 
+
+
+Website for more information: http://www.net-a-porter.com/careers/vacancies
+
+Contact information at:
+http://jobs.perl.org/job/13240#contact

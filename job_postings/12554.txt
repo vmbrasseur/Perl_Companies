@@ -1,0 +1,106 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12554
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 31458 invoked from network); 28 Jun 2012 19:38:35 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 28 Jun 2012 19:38:35 -0000
+Received: (qmail 7975 invoked by uid 225); 28 Jun 2012 19:38:35 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 7971 invoked by alias); 28 Jun 2012 19:38:34 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,T_FRT_PROFILE2
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 28 Jun 2012 12:38:32 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 31A5F2AFDF; Thu, 28 Jun 2012 12:38:28 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 28 Jun 2012 12:38:28 -0700
+Message-ID: <20120628193829.31A5F2AFDF@x3.develooper.com>
+Subject: Perl Developer (part onsite), Minneapolis, MN, USA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16182
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 28, 2012
+
+Job title: Perl Developer
+
+Company name: BEI Services
+
+Internal ID: 201206
+
+Location: Minneapolis, MN, USA
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 9+ months
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+BEI Services, Inc, the document management industry's leader in
+benchmarking and reporting, has an immediate opening for :
+
+"Perl Developer"
+
+As a perl developer, you will be a key contributor to the continued
+technical advancement of BEI Services, Inc.  The ideal candidate must
+demonstrate strong written and oral communication skills, easily grasp new
+concepts, excel at working independently, and posses a desire for personal
+growth as an integral asset of the company.
+
+This is a `contract` position; period of contract is 9-12 months. (Contract
+may renew or position may be migrated towards full-time employment in the
+future.)
+
+Responsibilities (included but not limited to) :
+
+- Learn, maintain and support existing web system (perl-cgi, w/dbi &
+templates)
+- Assist in the design and development of replacement web system (Catalyst,
+DBIx::Class)
+- Learn and assist in `backend` system development and maintenance
+(ETL,Datawarehousing,BI,etc)
+- Work independently or as part of a team, on large and small scale
+projects
+- Web technology research
+- 3rd party app support (some php, mysql)
+
+Required skills:
+The ideal candidate must be an English speaking, U.S. Citizen and posses a
+2-4 year degree in Computer Science, MIS or related field and reside in the
+Twin Cities metro area.*  
+
+This self motivated team player will also possess the following skill sets
+:
+
+- Object oriented programming methodologies
+- SQL proficiency, preferably in MySQL and or Postgres.
+- Knowledge of (X)HTML, CSS and JavaScript
+- Knowledge of subversion or git
+- Familiarity with LAMP Environment
+
+Desired skills:
+-- Mathematics / Statistics background
+-- Familiarity with other dynamic programming languages (perl,php,python),
+MVC frameworks / methodologies and *nix systems
+-- Familiarity with JQuery, Prototype, ExtJs or other javascript / ajax DOM
+framework
+-- Familiarity with RESTful architecture (HTTP, HATEOS,etc)
+
+Website for more information: http://beiservices.com
+
+Contact information at:
+http://jobs.perl.org/job/16182#contact

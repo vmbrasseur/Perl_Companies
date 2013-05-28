@@ -1,0 +1,82 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12206
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 7541 invoked from network); 8 Mar 2012 06:49:57 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 8 Mar 2012 06:49:57 -0000
+Received: (qmail 5161 invoked by uid 225); 8 Mar 2012 06:49:57 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 5157 invoked by alias); 8 Mar 2012 06:49:57 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 07 Mar 2012 22:49:54 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id E6ED82AFE8; Wed,  7 Mar 2012 22:49:50 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 7 Mar 2012 22:49:50 -0800
+Message-ID: <20120308064950.E6ED82AFE8@x3.develooper.com>
+Subject: Perl Programmer (onsite), Sydney, NSW, Australia
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15654
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March  7, 2012
+
+Job title: Perl Programmer
+
+Company name: SiteSuite
+
+Location: Sydney, NSW, Australia
+
+Pay rate: DOE
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+SiteSuite is a leading developer of web based applications and Content
+Management Systems with a client base ranging from small retailers through
+to industry leaders. Currently in our twelfth year, we continue to grow at
+a rapid pace and are seeking a skilled, intelligent programmer to join our
+development team. You will be working on a wide and varied range of
+projects for internal and external clients as well as dealing with some of
+the day-to-day maintenance of our current software and management systems.
+Our teams of developers, designers and systems administrators are among the
+best in the business so you can be assured of support in your role.
+
+We offer a challenging work environment where you will be expected to
+provide innovative solutions to sometimes complex problems, so a can-do
+approach is essential.	Our offices are located on the fringe of the CBD,
+close to all major transport hubs and every other service you could
+imagine.
+
+Required skills:
+* Object-Oriented programming in Perl
+* 2+ years experience developing for the web
+* 2+ years experience working with SQL databases (MySQL/PostgreSQL/other)
+* Comfortable working within a Linux systems environment
+
+Desired skills:
+* Experience with any of the following: mod_perl, CGI::Application,
+Rose::DB::Object, Template::Toolkit, HTML::Template, JavaScript, jQuery,
+SOAP
+* Experience building code that will run in a clustered environment
+
+Website for more information: http://www.sitesuite.com.au
+
+Contact information at:
+http://jobs.perl.org/job/15654#contact

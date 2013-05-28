@@ -1,0 +1,103 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11322
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28663 invoked from network); 20 May 2011 08:19:09 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 20 May 2011 08:19:09 -0000
+Received: (qmail 4784 invoked by uid 225); 20 May 2011 08:19:08 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 4780 invoked by alias); 20 May 2011 08:19:08 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 20 May 2011 01:19:06 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 4BFD22AFEA; Fri, 20 May 2011 01:19:03 -0700 (PDT)
+To: jobs@perl.org
+Date: Fri, 20 May 2011 01:19:03 -0700
+Message-ID: <20110520081903.4BFD22AFEA@x3.develooper.com>
+Subject: Backend Engineer (telecommute), United States, PA, Ardmore
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14182
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 20, 2011
+
+Job title: Backend Engineer
+
+Company name: Double Prime
+
+Location: United States, PA, Ardmore
+
+Pay rate: DOE
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: Long Term
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+Double Prime, Inc., a 10-year old ecommerce company, has built and
+maintains approximately 80 global e-commerce and marketing websites for
+major Fortune 500 companies. The application layer is apache/mod_perl, with
+an oracle back end managed by another group. We have datacenters in the US,
+Korea, and China, e-commerce sites in the US, UK, France, Japan, and
+Australia, and are rapidly expanding into other markets.
+
+We have a team of 45 full-time engineers, responsible for application
+development, network infrastructure, security, reporting, and other aspects
+of the business.
+
+We are looking for 4-6 full-time engineers to join our team. The position
+will start as a 1099 contract with the possibility to become a full-time W2
+employee with benefits. Some roles are available as work-from-home
+(tele-commute from within the US) and others will be on site in NYC. No
+travel is required for this position.  We are only currently hiring in the
+following states: Pennsylvania, New Jersey, New York, Connecticut,
+Massachusetts, Oregon and California.
+
+Roles will include:
+
+- day-to-day interaction with the our group, client management, and design
+firms, maintaining and developing websites - new application development -
+systems and network administration (solaris, linux, cisco)
+
+Most importantly, a thorough knowledge of OO perl is required. Beyond that,
+since we are looking for people to fulfill multiple roles, specifics are
+listed below.
+
+
+Required skills:
+*You need not fit all required skills in order to secure a position with
+our company - just one or more of them.* - development and support of
+existing applications built in mod_perl - experience with client-side
+database operations via the perl DBI - technical management and related
+tools (e.g. bugzilla, RT, wiki) - knowledge of front end technologies (e.g.
+html, css, javascript, ajax, flash) - systems administration functions such
+as unix account and groups, shell scripting, patching - network
+infrastructure, e.g. cisco switches and firewalls, IPS, VPN - multiple
+language support in perl (also the ability to speak multiple languages
+including German, French, Japanese, Chinese (Mandarin and Cantonese),
+Korean, and others) - 5 years experience with object-oriented Perl - strong
+html, css, and javascript skills - ability to lead engineering efforts on
+sizable website development projects - strong interpersonal and client
+relationship management skills - apache/mod_perl and the perl debugger -
+experience with international language support in perl, unicode, utf-8,
+etc.
+
+Website for more information: http://www.doubleprime.com/
+
+Contact information at:
+http://jobs.perl.org/job/14182#contact

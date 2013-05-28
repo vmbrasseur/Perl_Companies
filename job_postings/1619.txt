@@ -1,0 +1,128 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:1619
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 51236 invoked from network); 27 May 2004 04:18:06 -0000
+Received: from x1.develooper.com (63.251.223.170)
+  by onion.develooper.com with SMTP; 27 May 2004 04:18:06 -0000
+Received: (qmail 11473 invoked by uid 225); 27 May 2004 04:18:06 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11468 invoked by alias); 27 May 2004 04:18:05 -0000
+X-Spam-Status: No, hits=0.0 required=7.0
+	tests=
+X-Spam-Check-By: la.mx.develooper.com
+Received: from onion.develooper.com (HELO onion.perl.org) (63.251.223.166)
+  by la.mx.develooper.com (qpsmtpd/0.27.1) with SMTP; Wed, 26 May 2004 21:18:04 -0700
+Received: (qmail 51221 invoked by uid 1016); 27 May 2004 04:18:03 -0000
+Date: 27 May 2004 04:18:03 -0000
+Message-ID: <20040527041803.51220.qmail@onion.perl.org>
+To: jobs@perl.org
+X-Spam-Rating: onion.develooper.com 1.6.2 0/1000/N
+Subject: OO/mod_perl wizard, code generation software (onsite), Australia, NSW, Sydney
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1297
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 26, 2004
+
+Job title:
+OO/mod_perl wizard, code generation software
+
+Company name: Phase N Australia Pty Ltd
+
+Location: Australia, NSW, Sydney
+
+Pay rate: Neg
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We produce a large (50k+ SLOC), artificially intelligent, automated perl
+web software code generation product. The system is sophisticated enough
+that it now writes and maintains it's own codebase on a daily basis.
+
+If a candidate of sufficient quality can be found, an offer will be made to
+join the company as a core programmer. Your work would involve modification
+and improvement of the system itself, the code it creates, and significant
+project post-generation customisations. You will be working largely
+alongside the author of the system.
+
+A portion of your time will be allocated to experiment with new
+developments as you see fit.
+
+We expect this to be a long search, and the odds are you are probably
+working for another company already. This is an international search,
+applicants from overseas will be accepted. In this case, you should be
+willing to move to Australia, and have confirmed your ability to get a
+working Visa before applying. Companies in Australia often are able to do
+little to assist with obtaining a Visa, so you should probably be able to
+get one independantly.
+
+This is an open long term search. We will be leaving this job posted until
+such time as the position is is filled. If this post is visible, it is NOT
+stale. Please contact if interested.
+
+Pay and conditions are linked to ability. For this position, we are using
+80k - 100k as a rough operating range, but the details of the package would
+be negotiated, including stock or other benefits.
+
+Be aware that due to the highly sensitive nature of the position, you are
+likely to be expected to undergo a background check.
+
+Required skills:
+You are a perl master, you consider yourself to be a world class perl
+programmer, no project too difficult.
+You are probably known to the Perl community, you almost certainly have a
+CPAN account.
+You have designed, built, and maintained large scale object orientated perl
+codebases ( 50+ classes, 10k+ SLOC )
+
+You are _highly_ experienced in all or most of
+- mod_perl
+- regular expressions
+- Template Toolkit
+- DBI, Class::DBI et al
+- MySQL, Postgres, Oracle, SQLite
+- multiple inheritance ( widget systems etc )
+- Testing ( Test::More and friends )
+- Documentation ( POD, autodocumentation )
+- CVS ( branching schemes etc )
+- The intricacies of Date and Time
+
+
+Desired skills:
+- JavaScript
+- XML
+- Other databases
+- C/XS coding
+- Code Generation
+- Artificial Intelligence
+
+Surprise us...
+
+URL for more information: http://phase-n.com.au/
+
+Contact information:
+Initial contact emails should be directed to adam@ali.as
+
+The ability to read is required. As an initial test of intelligence and to
+protect against resume spamming, anyone sending their resume/CV will be
+ignored. We expect to be able to find information about you without needing
+your resume.
+
+Contacts from agents may be accepted if you have someone in mind already.
+
+

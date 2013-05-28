@@ -1,0 +1,183 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8978
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 12113 invoked from network); 3 Feb 2009 06:05:53 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 3 Feb 2009 06:05:53 -0000
+Received: (qmail 6978 invoked by uid 225); 3 Feb 2009 06:05:52 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 6974 invoked by alias); 3 Feb 2009 06:05:51 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 02 Feb 2009 22:05:40 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id CB4F82AFE8; Mon,  2 Feb 2009 22:05:36 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20090203060536.CB4F82AFE8@x3.develooper.com>
+Date: Mon,  2 Feb 2009 22:05:36 -0800 (PST)
+X-Virus-Checked: Checked
+Subject: seasoned mod_perl/DBI/Mason coder for search startup (onsite), United Kingdom, London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/10162
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February  2, 2009
+
+Job title:
+seasoned mod_perl/DBI/Mason coder for search startup
+
+Company name: Lokku Ltd.
+
+Location: United Kingdom, London
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are looking for an experienced Perl developer to join our team.
+
+** About Us
+
+Lokku Ltd. was started in April 2006 by two founders and has grown to a
+team of 10 including 4 full time software engineers.  Our primary product
+is the Nestoria property search engine which we operate in the UK, Spain,
+Italy, and Germany.  Lokku Global HQ is in London's Covent Garden.  Our
+team very international in outlook and composition.  Many of us have worked
+previously for big internet names like Yahoo and Amazon as well as other
+startups in the US and Europe.	Lokku is a strong believer in free and open
+source software and is an active sponsor and contributor to several groups
+and projects including the London Perl Mongers, YAPC::Europe, and
+OpenStreetMap.
+
+** The Role
+
+All of our development to date has been in Perl hosted on Debian and served
+up using a combination of MySQL and Apache.  This may change over time,
+but, for the first year, you should expect to work almost exclusively with
+this technology stack.	Beyond that, there may be opportunities to change
+or expand the stack as we evolve as a business.
+
+Your primary job in this role is to write and maintain the code that makes
+up our vertical search engine.	We are a small team, so we cannot afford to
+over-specialized.  You will be expected to work on many components of the
+product.  Some of these components include:
+
+* ETL System.  We refresh almost our entire database of property listings
+every day.  Our ETL system accepts input in a variety of formats.  That
+input must be normalized, filtered, analyzed, geocoded, and transformed
+before it can be safely accepted into our database of listings.
+
+* Natural Language Processing (NLP).  Not all listing content is discretely
+structured, so we use NLP techniques to extract and classify features from
+text content.
+
+* Geographic Information Systems (GIS).  Location is key to the property
+world. We have used large commercial geodata sets to construct our own
+geocoder and geodata management system.
+
+* Deduplicate Detection Engine.  Listing content is not exclusive to every
+source and rarely has a clear identifier across sources.  We have used
+statistical techniques and modern scaling approaches to build a system that
+can quickly and accurately identify duplicate content.
+
+* Search Engine.  We use careful testing to optimize our core search
+algorithms or relevance and have developed systems for real-time
+behavioural targeting that help us get closer to giving users exactly what
+they want.  Performance optimization of this system is an ongoing
+challenge.
+
+* AJAX Driven Web UI.  The greatest search engine in the world is nothing
+without a great interface for users.  We are keeping pace with the changes
+in technology and user expectation.
+
+* Metrics and Reporting Pipeline.  We like to argue about data, not
+opinions.  Our internal customers are very demanding consumers of numbers. 
+We are always scaling up and enhancing our data analysis system to handle
+more and more complex reporting needs and the increase
+in data caused by a long term increase in users.
+
+* Automated SEM Management.  Modern search advertising systems present APIs
+for managing advertising campaigns.  We have taken advantage of this to
+fully automate our paid traffic acquisition.
+
+We do have a lot of moving parts to look after, but this is by no means a
+"maintenance only" position.  We have plans to expand in improve every one
+of these software components - not least to meet the scaling demands that
+are brought on by increased usage and further expansion.  You should expect
+to work on current systems for the first 3 to six months as you learn the
+ropes.	After that, there will be opportunities for taking the lead on new
+development as we take the product in new directions.
+
+We have a very open, collaborative, and test-drive development environment.
+ We are not looking for people that cannot work effectively as part of a
+team or prefer to write code in isolation.  You must be ready to present
+and defend designs before writing code, listen to and discuss the ideas of
+others, admit from time to time that you were wrong, and subject your work
+to review.  Nobody works on their own in the corner.  That said, we are not
+in need of robots that will submit always to the Lokku Way.  We need
+someone who can bring new experiences to the table and advocate them
+effectively.
+
+** Compensation
+
+Lokku believes that compensation should reflect the market value of the
+individual and that employees should be financially rewarded for the
+overall success of the company.  We will discuss all aspects of
+compensation during the interview process.
+
+
+Required skills:
+The person we are looking for >must<:
+
+* have at least 5 years of experience writing software in Perl for
+UNIX-like operating systems.
+* have at least 2 years experience building applications for the web.
+* have at least 2 years experience working with relational databases.
+* have a proven ability to work effectively with a minimum of structure.
+* be legally allowed to work in the UK.
+* be able to commit to work exclusively for Lokku for a minimum of two
+years.
+* be able to work full time in Central London.
+* be able to communicate in fluent English.
+
+Desired skills:
+Bonus points go to candidates that have experience with:
+
+* MySQL.
+* optimizing GNU/Linux server installations for performance.
+* web crawling, document indexing and classification, and efficient
+searching of structured and unstructured data.
+* managing large data sets.
+* building user interfaces for the web with AJAX.
+* Unicode, UTF-8, and the general problem of efficient software
+localization in the context of web applications.
+* applying mathematical techniques to high-dimension optimization problems
+with variable constraints.
+
+Further bonus points if you:
+
+* can communicate in other European languages.
+* are a recognized contributor to the world of free and open source
+software.
+
+URL for more information: http://www.lokku.com/
+
+Contact information at:
+http://jobs.perl.org/job/10162#contact
+
+

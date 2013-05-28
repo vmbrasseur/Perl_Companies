@@ -1,0 +1,106 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4219
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 5436 invoked from network); 28 Apr 2006 07:22:50 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 28 Apr 2006 07:22:50 -0000
+Received: (qmail 28919 invoked by uid 225); 28 Apr 2006 07:22:50 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 28911 invoked by alias); 28 Apr 2006 07:22:49 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 28 Apr 2006 00:22:46 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id C5B812AFE2; Fri, 28 Apr 2006 00:22:41 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060428072241.C5B812AFE2@x3.develooper.com>
+Date: Fri, 28 Apr 2006 00:22:41 -0700 (PDT)
+Subject: Perl Developer with focus on ISP/Hosting industry (part onsite), United States, IL, Chicago
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4010
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 27, 2006
+
+Job title:
+Perl Developer with focus on ISP/Hosting industry
+
+Company name: Reflected Networks
+
+Location: United States, IL, Chicago
+
+Pay rate: $30-60/hr USD
+
+Travel: 0-25%
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+Reflected Networks is a managed hosting provider, providing managed
+dedicated server hosting to a wide variety of clientel.  We are currently
+expanding, and require more in-house development staff to work on our
+backend customer support and billing systems.
+
+We currently are looking to fufill a need for a full time,
+contract-to-hire, Perl developer who has a strong understanding of the ISP
+or Hosting industry.  Development projects include a tightly-integrated
+billing system, inventory systems, IP management databases, network
+automation, sys-admin automation, and other wide-variety work pertaining to
+this industry.
+
+Pay will start out hourly via telecommuting.  Should we prove to be a
+mutually beneficial fit, we are looking to hire on a full time developer
+who is willing to re-locate to our Chicago offices.  However, for the right
+candidate we would be willing to explore other options.
+
+Required skills:
+* Ability to quickly read and understand pre-existing Perl code, written in
+a wide variety of styles.
+* Strong understanding of the MVC development model
+* Strong experience working with Template::Toolkit
+* Willingness to code User Interfaces via Template::Toolkit (no, we don't
+expect you to be a graphics artist, but basic HTML skills would be nice)
+* Strong knowledge of common ISP technical terms/protocols (CIDR, TCP/IP,
+SNMP, DNS, HTTP, etc.)
+* Some experience with mod_perl, or at least a willingness and ability to
+learn quickly.
+* Understanding of CVS
+* Ability to work with other developers on the same project
+* Able to code well-defined projects quickly and efficiently, as well as
+offer useful input during the design and specification process
+* A strong sense of humor!
+
+Desired skills:
+* Basic HTML/CSS skills (enough to get the idea across to a designer to
+fill in later!)
+* Basic Javascript/AJAX skills (used rarely, but neccessary for some UI
+widgets)
+* Experience with DBI/MySQL
+* Basic understanding of PHP - not required, but could prove helpful
+* Basic understanding with common billing system terminology/logic and how
+it relates to both business and technical logic
+* Basic sys-admin skills as relating to a hosting shop (Apache, Bind,
+Qmail, etc.) - No, we're not hiring a sysadmin, but some of your tasks will
+me making their lives easier!
+
+URL for more information: http://www.reflected.net/
+
+Contact information at:
+http://jobs.perl.org/job/4010#contact
+
+

@@ -1,0 +1,107 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10425
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 22098 invoked from network); 12 Aug 2010 06:28:32 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 12 Aug 2010 06:28:32 -0000
+Received: (qmail 31150 invoked by uid 225); 12 Aug 2010 06:28:31 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 31145 invoked by alias); 12 Aug 2010 06:28:31 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 11 Aug 2010 23:28:30 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id A54652AFE5; Wed, 11 Aug 2010 23:28:26 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20100812062826.A54652AFE5@x3.develooper.com>
+Date: Wed, 11 Aug 2010 23:28:26 -0700 (PDT)
+Subject: BI Developer (onsite), United States, NJ, Princeton
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/12700
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 11, 2010
+
+Job title: BI Developer
+
+Company name: IntegriChain, Inc
+
+Internal ID: BI002
+
+Location: United States, NJ, Princeton
+
+Pay rate: Competitive
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+IntegriChain is a next generation commercial insight provider supporting
+the pharmaceutical industry.  IntegriChain delivers actionable intelligence
+at a low total cost by combining a customer’s own data with IntegriChain
+domain expertise and a proprietary platform for rapid analytics deployment.
+
+
+Reporting to the Vice President of Advanced Analytics, this individual will
+be responsible for development of newly created visualizations within
+IntegriChain’s DNA: Dynamic NextGen Analytics™ platform.  The BI Developer
+will work closely with IntegriChain’s product managers, developers, and
+operations team to lead efforts in developing Business Intelligence
+applications that meet functional specifications and market requirements.
+Specific responsibilities will include: 
+  -- Development and delivery of advanced analytics including data model
+definition, ETL and visualizations from functional requirements and
+specification documentation
+  -- Research and Development of novel implementation methods that leverage
+existing and newly identified means of building advanced analytics
+  -- Leadership of efforts to enable operations and engineering support for
+developed DNA visualizations
+  -- Interaction with the test team to provide guidance in reviewing new
+ETL for data accuracy and load time/responsiveness for new DNA
+visualizations
+  -- Working as part of a highly collaborative and supportive Product team
+and work to support the company’s overall objectives
+
+
+Required skills:
+5+ years experience as a BI developer; 3+ years hands on data model and ETL
+development; preferred experience in scalability and performance focus at
+Enterprise scale.
+  -- Strong Perl skills, including experience with DBI
+  -- Experience defining, developing and implementing ETL processes
+  -- Strong SQL skills
+  -- Experience working in an Agile development environment
+  -- Experience in development within at least one business intelligence
+platform such as Spotfire, Cognos, etc.
+  -- Experience with developing technical specification documentation to
+define methods of implementation
+  -- A self-starter mentality with excellent team work and organizational
+skills
+  -- Strong interpersonal and communication skills
+  -- Undergraduate degree or equivalent required.
+
+
+Desired skills:
+PHP, Python, MySQL, Linux, SQL Server, and .NET experience
+
+URL for more information: http://www.integrichain.com/
+
+Contact information at:
+http://jobs.perl.org/job/12700#contact
+
+

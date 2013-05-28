@@ -1,0 +1,94 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3449
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 1330 invoked from network); 14 Nov 2005 23:13:10 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 14 Nov 2005 23:13:10 -0000
+Received: (qmail 9509 invoked by uid 225); 14 Nov 2005 23:13:10 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 9504 invoked by alias); 14 Nov 2005 23:13:09 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 14 Nov 2005 15:13:00 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id jAENCvYh016456
+	for <jobs@perl.org>; Mon, 14 Nov 2005 15:12:57 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id jAENCvuN016454;
+	Mon, 14 Nov 2005 15:12:57 -0800
+Date: Mon, 14 Nov 2005 15:12:57 -0800
+Message-ID: <200511142312.jAENCvuN016454@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Short-term contracting: scientific/testing GUI (part onsite), United States, Colorado, Denver
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3293
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 14, 2005
+
+Job title:
+Short-term contracting: scientific/testing GUI
+
+Company name: GX Technology
+
+Location: United States, Colorado, Denver
+
+Pay rate: to be negotiated
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: 2+ months (maintenance later)
+
+Hours: Flexible
+
+Onsite: some
+
+Description:
+Existing: a set of modules implementing a regression testing platform and
+results database, written in reasonably clean, well documented
+object-oriented fashion.
+
+Your task is to write a GUI over these modules. In general this involves
+instantiating an object and then querying and modifying it. The GUI should
+be written in Tk or Qt.
+
+The work is both onsite to collect our requirements and test the GUI with
+the users and offsite when you work on your own.
+
+The end result will integrate well with the existing framework and style,
+be well documented, portable and maintainable.
+
+The project will start in Q1 2006.
+
+
+Required skills:
+excellent perl (5+ years), knowledge of best coding practices, pitfalls and
+all the main tools and modules
+
+perlTk or PerlQt
+
+Unix / Linux knowledge
+
+
+Desired skills:
+Being a major contributor to the perl community - a member of the
+perlmonks, teaching classes or writing books
+
+Contact information at:
+http://jobs.perl.org/job/3293#contact
+
+

@@ -1,0 +1,105 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12738
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 14686 invoked from network); 14 Sep 2012 10:03:39 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 14 Sep 2012 10:03:39 -0000
+Received: (qmail 22070 invoked by uid 225); 14 Sep 2012 10:03:39 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 22062 invoked by alias); 14 Sep 2012 10:03:38 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 14 Sep 2012 03:03:35 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id B61FE2AFD6; Fri, 14 Sep 2012 03:03:31 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 14 Sep 2012 03:03:31 -0700
+Message-ID: <20120914100331.B61FE2AFD6@x3.develooper.com>
+Subject: Software Engineer- Front Office (onsite), Las Vegas, NV, USA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16452
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 14, 2012
+
+Job title: Software Engineer- Front Office
+
+Company name: Zappos IP inc.
+
+Location: Las Vegas, NV, USA
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Hello future Zappos Software Engineer! Look down at your resume. Now back
+to this job description. Now back to your resume. Now think about your
+current job. Sadly, your job doesn’t sound like this job, and it’s not
+Zappos IP, Inc. But if you apply for this job, it could be.
+ 
+Look down. Now back up. Where are you? Your team doesn’t build, integrate
+and maintain all the systems to support a 1600-person company including the
+website, warehouse management, order management, and customer service
+systems? Well we do. We can do this because along with our ability to speak
+in a commanding and suave manner, each person on our team has the power to
+make things happen.  Now look down again, you’re not on a boat but you are
+sitting in a chair when you could be on a plane flying to your interview at
+Zappos for the job your job could be.
+
+Experience and skills needed to do that thing you love at Zappos:
+
+Experience with multiple programming languages: Perl, Java, Ruby, Python,
+C/C++ are preferred. 
+Understanding of PSGI and experience with Plack 
+Experience with Mojolicious is a plus! 
+3-5 years experience programming in an open source environment. 
+BS in Computer Science or Engineering (or equivalent combination of
+education and experience). 
+Have either a most or least-favorite web framework (bonus points if you
+have written your own MVC framework). 
+Ability to perform a SQL minus operation without using a sub-select. 
+Ability to understand the above bullet point. 
+Experience with large-scale ERP or eCommerce systems. 
+Experience developing apps with the Zappos API (Just kidding. No, but
+seriously http://developer.zappos.com). 
+Have at least 3 unfinished personal projects scattered around the
+Internets. 
+Experience with high-volume transactional systems
+grep –i ‘linux’ yourresume.doc | wc –l > 0. 
+Can picture yourself writing algorithms while horseback riding in white
+linen pants with a button-down tied around your neck. 
+Anything is possible when you work with Zappos IP, Inc. If you love
+building complex enterprise systems and want the fun and feel of a start-up
+company, but the solid management and resources of an established business,
+we are the place for you. 
+ 
+Relocation is available to qualified candidates!
+ 
+Need more reasons to consider us? In January 2012, Zappos.com, Inc. and its
+subsidiaries were named #11 on the 2012 Fortune: 100 Best Companies to Work
+For List. Why else? We offer an extensive benefits package for all
+full-time employees, including medical, dental, vision, and 401k! And…
+we’re hiring like crazy right now, and looking for smart, forward-thinking
+problem solvers to join our world-class, and fairly wacky team.
+ 
+Zappos IP, Inc. is an equal opportunity employer and drug free workplace.
+
+Website for more information:
+http://hire.jobvite.com/j/?cj=oaQjWfwZ&s=jobs.perl.org
+
+Contact information at:
+http://jobs.perl.org/job/16452#contact

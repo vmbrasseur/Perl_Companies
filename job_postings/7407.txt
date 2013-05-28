@@ -1,0 +1,100 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7407
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 31735 invoked from network); 13 Dec 2007 16:50:15 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 13 Dec 2007 16:50:15 -0000
+Received: (qmail 13541 invoked by uid 225); 13 Dec 2007 16:50:11 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 13478 invoked by alias); 13 Dec 2007 16:50:07 -0000
+X-Spam-Status: No, hits=-9.4 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SARE_LWSHORTT
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 13 Dec 2007 08:49:53 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 64D2E2AFD8; Thu, 13 Dec 2007 08:49:33 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20071213164933.64D2E2AFD8@x3.develooper.com>
+Date: Thu, 13 Dec 2007 08:49:33 -0800 (PST)
+Subject: Mod_perl/mason programmer in North Carolina needed (part onsite), United States, North Carolina, Raleigh
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/7527
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 12, 2007
+
+Job title:
+Mod_perl/mason programmer in North Carolina needed
+
+Company name:
+Alliance of Professionals & Consultants Inc
+
+Location: United States, North Carolina, Raleigh
+
+Pay rate: depends on experience
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 1 month +
+
+Hours: Flexible
+
+Onsite: some
+
+Description:
+Seeking a person with Mod_perl and Mason experience for a short term
+contract initially.  If I find the right person the contract could be
+possibly extended.
+
+Position will require some onsite work although a portion of the work can
+be done offsite.
+
+The position requires the contractor to work with a web application that is
+a database back CMS.  The person will fix bugs, revise the application to
+use standard templates, remove/add functionalities,match current
+programming practices (rename program files to match current naming
+convention and update application files to work with new filenames) and
+provide user documentation.
+
+The second project is to create a database-backed, Web application to allow
+members of the public to manage their electronic newsletter subscriptions.
+The application has several parts:
+
+1) Design a solid, relational database to house subscription data,including
+maintaining subscription history information.
+2) Design and implement a Web-based front end to all users to manage their
+subscriptions: add and remove newsletters, update their e-mail address,
+sign up with multiple e-mail addresses.
+3) Design and implement a system for using the database information to
+populate Mailman mailing lists on at least a daily basis.
+
+Contractor will also be responsible for producing documentation for end
+users, and program maintainers and follow on programmers.
+
+
+Required skills:
+Mod_perl
+HTML:Mason
+
+Desired skills:
+Strong documentation skills
+Strong communication skills
+Candidate close enough to drive to the Raleigh area for meetings
+
+URL for more information: http://apc-services.com/
+
+Contact information at:
+http://jobs.perl.org/job/7527#contact
+
+

@@ -1,0 +1,124 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13363
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 24004 invoked from network); 3 May 2013 19:54:43 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 3 May 2013 19:54:43 -0000
+Received: (qmail 18861 invoked by uid 225); 3 May 2013 19:54:43 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 18857 invoked by alias); 3 May 2013 19:54:42 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 03 May 2013 12:54:36 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 664ED2AFE1; Fri,  3 May 2013 12:54:33 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 3 May 2013 12:54:33 -0700
+Message-ID: <20130503195433.664ED2AFE1@x3.develooper.com>
+Subject: E-Commerce Perl Developer (telecommute), Telecommute
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17333
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May  3, 2013
+
+Job title: E-Commerce Perl Developer
+
+Company name: Double Prime
+
+Location: Telecommute
+
+Pay rate: DOE
+
+Terms of employment: Salaried employee
+
+Length of employment: long term
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+Double Prime, Inc., a 12-year old ecommerce company, has built and
+maintains approximately 80+ global e-commerce and marketing websites for
+major Fortune 500 companies. The application layer is apache/mod_perl, with
+an oracle back end managed by another group. We have datacenters in the US,
+Korea, and China with ecommerce sites in the US, UK, France, Japan,
+Germany, China, Russia, Korea, Brazil, and Australia, and are rapidly
+expanding into other markets.
+
+We have a team of 90 full-time engineers responsible for application
+development, network infrastructure, security, reporting, and other aspects
+of the business.
+
+We are looking for 5 - 6 full-time engineers to join our team. This is a
+full-time W2 position with medical / dental benefits and a 401k plan.*
+Although this is a telecommuting position, the candidate must live in PA,
+NJ, NY, MA, OR, CA, CO, WI, FL or CT and is required to maintain their
+residence in those states to continue employment.
+
+Required skills:
+Role will include:
+Developing, maintaining, and supporting existing applications and websites
+built in mod_perl with client-side database operations via the perl DBI,
+using Double Prime coding standards and philosophies
+Technical support of client-based business requirements or enhancement
+requests through development or modification
+Must be able to effectively communicate on a daily basis with the client,
+other third parties, and other Double Prime engineers.
+Client-facing personality is a must.
+
+This includes using your coordination, communication, time management, and
+relationship-building skills in order to maintain a positive working
+relationship with the client during normal and stressful times.
+This includes an attitude of technical ownership to develop and drive
+execution based on Double Prime standards as well as inform the client--in
+non-technical terms--the current status and hurdles.
+
+Must be aware of a daily flexible schedule. Most days will be 9 - 5, but
+you must understand that tasks such as pushing files later in the day, or
+getting up early for international calls are required occasionally and as
+needed.
+
+Most importantly, a thorough knowledge of OO perl is required and a
+moderate understanding of Drupal preferred. More specifics are listed
+below.
+
+Desired skills:
+You do not need to fit all required skills in order to secure a position
+with our company - just one or more of them.
+Knowledge of front-end web languages and technology (e.g. html, css,
+javascript, ajax, flash) systems administration functions such as unix
+account and groups, shell scripting, patching network infrastructure, e.g.
+cisco switches and firewalls, IPS and VPN.
+At least 2 years experience with object-oriented Perl.
+
+ Physical Demands and Working Conditions:
+The physical demands and work environment characteristics described here
+are representative of those an employee encounters while performing the
+essential functions of this job. Reasonable accommodations may be made to
+enable individuals with disabilities to perform the essential functions.
+Use of computer hardware, including keyboard data entry and other office
+equipment. Extended amounts of time sitting. Visual acuity to perform job
+requirements. Ability to maintain mental focus on complex logic.
+This candidate must be authorized to work in the US.
+
+** TO BE CONSIDERED FOR THIS POSITION, PLEASE INCLUDE A SAMPLE OF YOUR OWN
+PERL CODE OF AT LEAST 200 LINES AND DEMONSTRATING AN UNDERSTANDING OF
+OBJECT ORIENTED PERL.**
+
+Website for more information: http://www.doubleprime.com
+
+Contact information at:
+http://jobs.perl.org/job/17333#contact

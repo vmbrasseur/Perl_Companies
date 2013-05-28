@@ -1,0 +1,92 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12439
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 11930 invoked from network); 18 May 2012 16:07:00 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 18 May 2012 16:07:00 -0000
+Received: (qmail 6353 invoked by uid 225); 18 May 2012 16:07:00 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 6348 invoked by alias); 18 May 2012 16:07:00 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 18 May 2012 09:06:57 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 437C42AFD6; Fri, 18 May 2012 09:06:54 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 18 May 2012 09:06:54 -0700
+Message-ID: <20120518160654.437C42AFD6@x3.develooper.com>
+Subject: Experienced Perl Developer (onsite), Macclesfield, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16006
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 18, 2012
+
+Job title: Experienced Perl Developer
+
+Company name: SpareRoom.co.uk
+
+Location: Macclesfield, UK
+
+Pay rate: £30k plus dependent on experience
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+SpareRoom.co.uk is the UK's leading Flatshare website and is growing
+fast.  With over 2 million visits per month we have high traffic but the
+site is owner managed and run by a small friendly team from our offices
+in Macclesfield.  We are looking for an experienced Perl developer to
+join the team.
+
+Responsibilities:
+* Refactoring legacy Perl code
+* Implementing tests
+* Bug fixing
+* Developing new features
+* Developing and maintaining coding standards
+
+Essential qualities:
+* Ability to work as part of a small team
+* An understanding of the importance of uptime for a busy web site
+* Attention to detail
+* Good communication skills
+
+Required skills:
+Required skills:
+* Perl 5 procedural programming in a web application environment
+* Software testing
+* MySQL
+* Version control software (ideally Subversion)
+
+Desired skills:
+Desirable skills:
+* Apache & mod_perl
+* OO Perl
+* Javascript
+* HTML
+* CSS
+* Selenium
+* Experience with busy websites
+* Linux sysadmin
+* Mac OS X usage
+
+Website for more information: http://www.SpareRoom.co.uk
+
+Contact information at:
+http://jobs.perl.org/job/16006#contact

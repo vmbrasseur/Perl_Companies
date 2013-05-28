@@ -1,0 +1,113 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2170
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 30502 invoked from network); 14 Dec 2004 22:14:42 -0000
+Received: from x1.develooper.com (63.251.223.170)
+  by lists.develooper.com with SMTP; 14 Dec 2004 22:14:42 -0000
+Received: (qmail 18714 invoked by uid 225); 14 Dec 2004 22:14:42 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 18708 invoked by alias); 14 Dec 2004 22:14:41 -0000
+X-Spam-Status: No, hits=-4.9 required=8.0
+	tests=BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.dev) (63.251.223.163)
+  by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 14 Dec 2004 14:14:37 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.dev (8.12.11/8.12.11) with ESMTP id iBEMEZDO016975
+	for <jobs@perl.org>; Tue, 14 Dec 2004 14:14:35 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id iBEMEZc9016973;
+	Tue, 14 Dec 2004 14:14:35 -0800
+Date: Tue, 14 Dec 2004 14:14:35 -0800
+Message-ID: <200412142214.iBEMEZc9016973@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Perl Developer, United States, CA, Westlake Village
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2079
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 14, 2004
+
+Job title: Perl Developer
+
+Company name: ValueClick
+
+Location: United States, CA, Westlake Village
+
+Hours: Full time
+
+Description:
+ValueClick, the Internet's fastest growing pay for results advertising
+company, seeks a Perl Developer to join our Technology Department.
+
+Overview of Position Objectives:
+This position is a member of the ValueClick Core System Development Team.
+The objective of this team is to assure ValueClick's primary ad delivery /
+tracking system remains state of the art. Several new features have been
+identified which this team is responsible for implementing in the near
+future. The team is also responsible for assuring the existing system
+remains operational and deployment of new features is done without service
+interruption.
+
+The ValueClick ad delivery / tracking system operates 24 hours a day, 7
+days a week. No downtime is permitted and high fault tolerance is required.
+In our busiest peaks we have served more than 4,000 dynamic requests per
+second on one system.
+
+The system must support the delivery of information to a diverse global
+customer base. Currently ValueClick has operations in North America, Europe
+and Japan.
+
+The position is in ValueClick's Westlake Village office about 30 miles
+north west of Los Angeles. Candidate must be located within commuting
+distance, relocation is not available.
+
+
+Required skills:
+Description of Responsibilities:
+- Maintain and enhance ValueClick's primary internet banner serving system.
+
+- Master comprehensive understanding of existing system architecture.
+- Identify and remove system performance bottlenecks.
+- Design and write high-performance, reliable, and maintainable code.
+
+Skills / Education Requirements:
+- 4-5 years software development experience.
+- Perl / mod_perl application development.
+- Familiarity with Object Oriented development techniques.
+- Relational Database experience (MySQL or Oracle preferred).
+- Apache on Unix experience.
+- Experience with scalable architecture for internet systems.
+- Unix based development environment.
+- B.S. Degree in Computer Science / Mathematics preferred.
+
+
+Desired skills:
+Work Environment:
+- Work closely with a team of core developers.
+- Several team participants widely recognized in the Perl development
+community as experts in their field (Graham Barr, Tim Bunce).
+- Fast paced results oriented work environment.
+
+Since 1999 ValueClick has been providing facilities for all the perl.org
+mailing lists and numerous Perl sites; including http://www.perl.org/ and
+http://www.cpan.org/ 
+
+We offer an excellent compensation package including stock options, 401(k),
+medical and an excellent working environment. ValueClick is an equal
+opportunity employer.
+
+
+Contact information: hr@valueclick.com
+
+

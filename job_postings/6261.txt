@@ -1,0 +1,87 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6261
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 18172 invoked from network); 9 May 2007 14:01:11 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 9 May 2007 14:01:11 -0000
+Received: (qmail 24329 invoked by uid 225); 9 May 2007 14:01:11 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 24322 invoked by alias); 9 May 2007 14:01:11 -0000
+X-Spam-Status: No, hits=0.0 required=8.0
+	tests=BAYES_50,DKIM_POLICY_SIGNSOME,DK_POLICY_SIGNSOME,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 09 May 2007 07:01:00 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 84E8E2AFDA; Wed,  9 May 2007 07:00:56 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070509140056.84E8E2AFDA@x3.develooper.com>
+Date: Wed,  9 May 2007 07:00:56 -0700 (PDT)
+Subject: Perl Developer (telecommute), United Kingdom, Fulham, London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5768
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May  9, 2007
+
+Job title: Perl Developer
+
+Location: United Kingdom, Fulham, London
+
+Pay rate: £25-30,000
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: 1 year
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+The company is one of the UK's leading advertising networks. They currently
+buy and sell over half a billion advertising impressions per month from UK
+websites and are expanding quickly both in the UK and in Europe. The role
+will be project based with the individual projects lasting a few weeks to a
+few months. Projects will cover all areas of their system including the ad
+serving software itself, data processing, arhchiving and warehousing,
+reporting and financial systems as well as work on the systems web-based UI
+
+Required skills:
+Perl
+* DBI
+* Complex data structure handling
+* Performance analysis and optimisation
+* Debugging techniques
+* Regular expressions
+
+MySQL
+* An understanding of database setup and table design
+* Database and table maintenance
+* Indexing
+* Query analysis and optimisation
+
+Linux
+* Basic command line knowledge
+
+
+Desired skills:
+* mod_perl
+* Basic Linux system administration
+* CVS or other versioning systems
+
+Contact information at:
+http://jobs.perl.org/job/5768#contact
+
+

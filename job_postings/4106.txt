@@ -1,0 +1,104 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4106
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 15994 invoked from network); 4 Apr 2006 12:30:35 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 4 Apr 2006 12:30:35 -0000
+Received: (qmail 15630 invoked by uid 225); 4 Apr 2006 12:30:34 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 15621 invoked by alias); 4 Apr 2006 12:30:33 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 04 Apr 2006 05:30:29 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 433D52AFE7; Tue,  4 Apr 2006 05:30:20 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060404123020.433D52AFE7@x3.develooper.com>
+Date: Tue,  4 Apr 2006 05:30:20 -0700 (PDT)
+Subject: Perl developer for TV News company (onsite), United Kingdom, London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3894
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April  4, 2006
+
+Job title: Perl developer for TV News company
+
+Company name: ITN
+
+Location: United Kingdom, London
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: 12 months
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+An opportunity has arisen for a perl developer to develop groundbreaking
+video news services for mobile, web and interactive TV. Based in ITN's New
+Media Development team, the successful candidate will work on a variety of
+projects, and will be working to demanding timetables in a fast moving news
+environment. The core activity will be to take ownership of an in house
+content production and management system, and develop and enhance it (e.g.
+adding a web based content authoring interface). The position may also
+involve working an project developing a cataloguing database for ITN
+Archive. ITN Archive is undertaking a major project to digitize its 300,000
+hours of film and video footage, and to update and improve its website
+(http://www.itnarchive.com/) to support digital media and e-commerce. The
+work includes:
+
+* developing new multimedia (mobile, broadband, etc.) services
+* improved integration of video production and encoding workflow
+* supporting and developing the import of data from external sources for
+other archives that ITN archive sales acts on behalf of (Granada, Channel
+4, Fox News, Reuters TV)
+* integration of a new ITN archive website (http://www.itnarchive.com/) to
+support digitized content / e-commerce / workspaces
+
+There will also be some responsibilty for database administration,
+including: 
+
+* management of backup and data integrity
+* optimising database performance
+
+The position will initially be for a 12 month fixed period.
+
+Required skills:
+* development: OOP, perl, mysql, Class::DBI, Template Toolkit
+* video: video encoding formats (MPEG-4/H263/WM/QT/Real) and tools (ffmpeg,
+VirtualDub)
+* project management: testing / documentation, pragmatic programming /
+extreme programming, cvs / subversion
+* database development; DBI, mysql
+* database administration / query optimization
+* other technologies; XML, SOAP / XML/RPC / REST, apache, mod_perl, cvs
+/subversion 
+
+
+Desired skills:
+* video server technology (Quantel), C/C++, javascript / DHTML, QT, apache
+/ mod_perl, XML/XSLT
+* C/C++, QT
+* video encoding / video formats
+
+
+Contact information at:
+http://jobs.perl.org/job/3894#contact
+
+

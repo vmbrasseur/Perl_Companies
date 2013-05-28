@@ -1,0 +1,118 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11642
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28816 invoked from network); 7 Sep 2011 03:53:21 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 7 Sep 2011 03:53:21 -0000
+Received: (qmail 30032 invoked by uid 225); 7 Sep 2011 03:53:21 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 30028 invoked by alias); 7 Sep 2011 03:53:21 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=LOTS_OF_MONEY,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 06 Sep 2011 20:53:18 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 6E4A12AFE0; Tue,  6 Sep 2011 20:53:15 -0700 (PDT)
+To: jobs@perl.org
+Date: Tue, 6 Sep 2011 20:53:15 -0700
+Message-ID: <20110907035315.6E4A12AFE0@x3.develooper.com>
+Subject: Senior Modern OO Perl Developer (part onsite), United States of
+ America, Nevada, Las Vegas
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14782
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September  6, 2011
+
+Job title: Senior Modern OO Perl Developer
+
+Company name: CBN LLC
+
+Internal ID: LOGICMERC01
+
+Location: United States of America, Nevada, Las Vegas
+
+Pay rate: $100,000 - $135,000
+
+Terms of employment: Salaried employee
+
+Length of employment: 2+ years
+
+Hours: Flexible
+
+Onsite: some
+
+Description:
+We need a confident perl programmer to help us expand our operations
+throughtout the world. 
+
+The code base is currently approximately 12,000 lines of perl, in addition
+to some test code, and documentation. 
+
+It uses gearman to manage several workers that hit various APIs and perform
+some screen scraping to interact with our vendors and storefronts. There is
+also a small, but growing internal web-based administrative interface. It's
+written in rather modern perl, making use of modules such as DBIx::Class,
+WWW::Mechanize, Plack, and some Moose. It runs on a rather large PostgreSQL
+database, so a working knowledge of PostgreSQL and how to tune it would be
+very useful. 
+
+Our team is quite small, so you would be expected to fill several roles in
+addition to perl programming. You would perform some linux system
+administration and database administration in addition to the typical
+administrative work associated with managing your own part of a software
+project. We're spread out around the country, so we communicate through
+email, phone, and text messages. 
+
+The ideal candidate will have extensive perl programming experience, not
+only on web-based systems but also on stand-alone applications. Much of the
+code runs outside of a webserver. You will have worked alone or as a senior
+member of a significant programming project so that you're comfortable
+working from a specification, estimating the time required for a task,
+reporting on progress periodically, and delivering tested, usable code. 
+
+Since much of the work will be in adapting a current system to interact
+with some new vendors and sites, you must be willing to work with an
+existing code base. You will tailor it to work for the new markets while
+allowing its current use. 
+
+You will also be responsible for the operation of the code, so ability to
+occasionally respond to urgent matters off-hours is necessary. You may also
+occasionally interact with customers or vendors. 
+
+Must be U.S. Citizen and currently reside in the U.S.
+
+Required skills:
+* use of "Modern Perl" tools like DBIx::Class and Moose 
+* writing test code for perl 
+* history of working with Webservice, SOAP, XML, and/or JSON APIs
+
+Desired skills:
+* writing gearman bots 
+* linux system administration 
+* API knowledge 
+* WWW::Mechanize 
+* PostgreSQL administration 
+* git
+
+If you have any of the following, please include links to them, too: 
+
+* modules on CPAN 
+* perlmonks profile 
+* personal website or blog 
+* profile on github or other public source repository 
+* ohloh.net profile 
+* sourceforge profile 
+* profile on stackoverflow, quora, or other question and answer site
+
+Contact information at:
+http://jobs.perl.org/job/14782#contact

@@ -1,0 +1,66 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:718
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 14991 invoked by uid 1016); 17 Jan 2003 08:07:14 -0000
+Date: 17 Jan 2003 08:07:14 -0000
+Message-ID: <20030117080714.14990.qmail@onion.perl.org>
+To: jobs@perl.org
+Subject: Perl, SQL & Widgets (telecommute), America, Florida, Palm Coast
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/594
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 16, 2003
+
+Job title: Perl, SQL & Widgets
+
+Company name: InnerSpace
+
+Location: America, Florida, Palm Coast
+
+Pay rate: Negotiable
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: < 30 days
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+I need web development that would allow a site visitor to specify multiple
+criteria about an item, do a SQL query of a database and return a list of
+matching items. Example: "I want to see all of your widgets that are red,
+triangular and have between 2 and 4 holes in them." A list would be
+returned to the visitor who could then pick any one of the widgets returned
+and have a descriptive page displayed fot that particularr widget. That
+detail page would necessarily contain one or more .jpg's and would also
+contain links to one or more .jpg's. This is not at all unlike numerous
+ecommerce sites that allow you to refine search criteria via combo boxes
+and the they return a page that shows you all the "hits." Also, the site is
+hosted on unix boxes but I would like to use MS Excel or Access to maintain
+the database. A fianl note, this site will *not* be used for ecommerce.
+
+Required skills:
+Perl, SQL, ASP (unless this can all be done using perl??), ODBC
+connectivity.
+
+Contact information:
+T. Randy Jones
+InnerSpace
+Sixty Langdon Drive
+Palm Coast, FL 32137
+(386) 447-0607 FAX
+
+

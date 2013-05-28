@@ -1,0 +1,77 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11687
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 27524 invoked from network); 15 Sep 2011 22:37:47 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 15 Sep 2011 22:37:47 -0000
+Received: (qmail 18084 invoked by uid 225); 15 Sep 2011 22:37:47 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 18080 invoked by alias); 15 Sep 2011 22:37:47 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 15 Sep 2011 15:37:43 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 47D1E2AFDE; Thu, 15 Sep 2011 15:37:40 -0700 (PDT)
+To: jobs@perl.org
+Date: Thu, 15 Sep 2011 15:37:40 -0700
+Message-ID: <20110915223740.47D1E2AFDE@x3.develooper.com>
+Subject: Web Developer (Perl, HTML, CSS, JavaScript) (telecommute), USA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14850
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 15, 2011
+
+Job title: Web Developer (Perl, HTML, CSS, JavaScript)
+
+Internal ID: Perl360
+
+Location: USA
+
+Pay rate: $50/hour USD
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Part time
+
+Onsite: no
+
+Description:
+A few successful entrepreneurs want you to build web applications.  We've
+got a start on things, but we need more help!
+
+This is a very casual work arrangement.  Work at home, keep the hours that
+work best for you.  No travel necessary.  Payments are made quickly and via
+wire transfer to your bank.
+
+This group is stable and already has stable income.  Help us build the next
+big thing and use some cutting-edge technology in the process.
+
+Required skills:
+We use Ubuntu Linux, Apache, MySQL and Perl.
+
+You should be able to login via ssh, connect to the database and restart
+apache.
+
+Some past experience programming with Perl, PHP, Python or Ruby.
+
+You should be competent using HTML, CSS and JavaScript.  Nothing fancy, but
+we do layout with divs and css, not tables.  We use jQuery but aren't
+overly-fanatical about it.
+
+Desired skills:
+We use the Amazon Cloud (AWS) so if you have checked it out that would be
+great.	Otherwise we'll bring you up to speed.
+
+Contact information at:
+http://jobs.perl.org/job/14850#contact

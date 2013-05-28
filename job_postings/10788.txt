@@ -1,0 +1,91 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10788
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 27906 invoked from network); 9 Dec 2010 17:28:33 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 9 Dec 2010 17:28:33 -0000
+Received: (qmail 26528 invoked by uid 225); 9 Dec 2010 17:28:33 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 26522 invoked by alias); 9 Dec 2010 17:28:32 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 09 Dec 2010 09:28:31 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 3BA192AFE0; Thu,  9 Dec 2010 09:28:28 -0800 (PST)
+To: jobs@perl.org
+Date: Thu, 9 Dec 2010 09:28:28 -0800
+Message-ID: <20101209172828.3BA192AFE0@x3.develooper.com>
+Subject: Linux / Windows Development Environment Architect (onsite), United
+ States, Ca, Santa Clara
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13310
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December  7, 2010
+
+Job title: Linux / Windows Development Environment Architect
+
+Company name: NVIDIA
+
+Internal ID: 1306347
+
+Location: United States, Ca, Santa Clara
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The NVIDIA Architecture group is looking for top programmers that are
+black-belts in Linux programming development environments. A key part of
+NVIDIA's strength is our proprietary internal environments and tools for
+chip development and we are looking for help in architecting the next
+generation of our Linux development environment. This will include but is
+not limited to creating the Linux/Windows development environments in which
+we efficiently build and run very large chip simulations on farms of
+thousands of machines. This task involves designing the compute
+infrastructure to allow very large scale distributed, cross-platform runs
+of mission critical proprietary applications, creating or integrating
+integrated development and debugging environments (such as Eclipse),
+implementing software engineering methodologies to improve code quality,
+creating and driving quality build and release processes, and driving the
+performance improvement of these applications. We are continuously pushing
+the envelope and needing the next generation of development environment to
+enable the next generation of chips. 
+
+In this position, you will, work closely with other project members and
+users to specify systems, create schedules, and manage ongoing feedback and
+enhancement releases. You will be creating environments that are stable and
+easy to use by hundreds of engineers worldwide. You will learn and greatly
+improve the daily workflows of the world's top chip modelers and designers.
+
+Required skills:
+MINIMUM REQUIREMENTS: 
+- Expert in Linux development programming tools required, experience with
+Eclipse highly desired
+- Experience with Windows development environments also highly desired
+- Strong object-oriented programming background with Java or C++ required 
+- Strong Perl / interpreted language skills 
+- Strong build process experience with Make and related tools
+- MS (preferred) or BS in Computer Science with at least 3 years of
+experience 
+- Excellent communication skills
+- Flexibility/adaptability for working in a dynamic environment with
+different frameworks and requirements 
+
+Website for more information: http://careers.nvidia.com/
+
+Contact information at:
+http://jobs.perl.org/job/13310#contact

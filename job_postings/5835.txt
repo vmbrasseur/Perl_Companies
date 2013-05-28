@@ -1,0 +1,102 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5835
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 16038 invoked from network); 1 Mar 2007 01:09:23 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 1 Mar 2007 01:09:23 -0000
+Received: (qmail 18022 invoked by uid 225); 1 Mar 2007 01:09:23 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 18014 invoked by alias); 1 Mar 2007 01:09:22 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,DK_POLICY_SIGNSOME
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 28 Feb 2007 17:09:18 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 1D0262B04E; Wed, 28 Feb 2007 17:09:15 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20070301010915.1D0262B04E@x3.develooper.com>
+Date: Wed, 28 Feb 2007 17:09:15 -0800 (PST)
+Subject: Hot web 2.0 startup is looking to expand our Perl team (telecommute), United States, NY, New York
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5422
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 28, 2007
+
+Job title:
+Hot web 2.0 startup is looking to expand our Perl team
+
+Company name: Magnify.net
+
+Location: United States, NY, New York
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+You will work closely with Magnify's core team to design and implement
+features, solutions and deploy them to our live service.
+
+This is an outstanding opportunity for the fearless Perl professional to
+join an industry that is totally happening, flexible working conditions,
+and the chance to join a team that is building something really unique
+while having great times doing so.
+Terms: This is a permanent, full-time position will initially be filled on
+an independent contractor basis, successful hires will be given an
+opportunity to move to a salary basis with benefits and options.
+
+Setting: We are based at 27th in Manhattan, For the right candidate a
+telecommute position is a possiblity.
+
+
+Required skills:
+* Significant knowledge of and experience in Perl programming. (Exposure to
+standard Perl idioms, the ability to create your own class hierarchies, and
+familiarity with CPAN are required.)
+
+* Prior experience in server-side web application development. (You should
+have worked with multiple page templating systems, session data storage,
+relational databases, caching, and inter-process communication.)
+
+* Understanding of professional software development processes. (Including
+familiarity with the cycles of requirements definition, issue tracking,
+version control, automated testing, deployment and maintenance.)
+
+* Clear and articulate communication, both written and spoken. (Our team
+collaborates extensively by email, IM, and phone, and you will need to be
+able to read specs and write documentation)
+
+Desired skills:
+* Web service operation, scaling, and fault-tolerance using Linux, Apache,
+MySQL, and Perl.
+
+* Our server-side tools include mod_perl, HTML::Mason,
+DBIx::SQLEngine, Cache::Memcached, and other modules from CPAN.
+
+* User interfaces are constructed in HTML with CSS and JavaScript (using
+Prototype and Scriptaculous for Ajax and client-side effects),RSS feeds,
+XML APIs, and client-side Flash widgets.
+
+* Project support tools including RT, SVN, and automated web testing.
+
+URL for more information: http://www.magnify.net/
+
+Contact information at:
+http://jobs.perl.org/job/5422#contact
+
+

@@ -1,0 +1,102 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3007
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 30930 invoked from network); 22 Jul 2005 19:00:34 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 22 Jul 2005 19:00:34 -0000
+Received: (qmail 29763 invoked by uid 225); 22 Jul 2005 19:00:34 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 29759 invoked by alias); 22 Jul 2005 19:00:33 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 22 Jul 2005 12:00:28 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j6MJ0Q81031272
+	for <jobs@perl.org>; Fri, 22 Jul 2005 12:00:26 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j6MJ0QSc031270;
+	Fri, 22 Jul 2005 12:00:26 -0700
+Date: Fri, 22 Jul 2005 12:00:26 -0700
+Message-ID: <200507221900.j6MJ0QSc031270@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Perl Developer - Field Services (telecommute), United States, CA, Palo Alto
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2878
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 22, 2005
+
+Job title: Perl Developer - Field Services
+
+Company name: Socialtext, Inc.
+
+Location: United States, CA, Palo Alto
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+Socialtext is looking for Perl developers to install and adapt our
+award-winning enterprise wiki/blog application into customers' enterprise
+computing environments. The ideal candidate will have both excellent
+technical credentials and a friendly, consultative approach to solving
+customer needs.
+
+Responsibilities
+
+* Install Perl application within enterprise computing environments
+* Create deployment plans for installation
+* Adapt installer, shell scripts and Perl scripts to effect installation or
+fixes
+* Document exceptions and field customizations for inclusion into core
+product
+* Advise enterprise customers on data and network integration with our
+hosted service
+* Provide feedback from customer users to product team
+* Work with customer employees and consultants, including business
+managers, project managers, software engineers, security analysts, data
+center engineers, and customer NOC
+* Diagnose and fix bugs
+
+Required skills:
+* 5+ years experience with Unix, including Debian GNU/Linux
+* 3+ years programming experience, including object-oriented Perl -
+Candidates with some Perl experience but a strong dynamic language
+background are encouraged to apply as well
+* 5+ years experience solving deployment issues with x86 servers, Linux,
+Perl, TCP/IP networking, firewalls, interprocess communication, cron jobs,
+etc.
+* Good consulting and problem-solving skills
+* Excellent spoken and written communication skills
+* Able to work in the face tight deadlines and tough technical challenges
+* Likes to interact directly with customers to achieve customer
+satisfaction
+
+Desired skills:
+* Participation in open source projects
+* Savvy about online collaboration
+* Knowledge of a variety of server hardware
+* Sysadmin automation experience
+* Debian packaging experience
+
+Contact information at:
+http://jobs.perl.org/job/2878#contact
+
+

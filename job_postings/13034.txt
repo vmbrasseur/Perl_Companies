@@ -1,0 +1,108 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13034
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 3409 invoked from network); 9 Jan 2013 20:00:09 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 9 Jan 2013 20:00:09 -0000
+Received: (qmail 13706 invoked by uid 225); 9 Jan 2013 20:00:09 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 13701 invoked by alias); 9 Jan 2013 20:00:09 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 09 Jan 2013 12:00:02 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id EE1912AFE1; Wed,  9 Jan 2013 11:59:58 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 9 Jan 2013 11:59:58 -0800
+Message-ID: <20130109195958.EE1912AFE1@x3.develooper.com>
+Subject: Senior System Administrator, Boston, MA USA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16858
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January  9, 2013
+
+Job title: Senior System Administrator
+
+Company name: Tufts University
+
+Internal ID: req #1692
+
+Location: Boston, MA USA
+
+Pay rate: competitive
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Description:
+TUSK, the Tufts University Sciences Knowledgebase, is a comprehensive open
+source educational system serving health sciences graduate education.
+Started in 1995, TUSK is now used in 6 US medical schools and 11
+universities in the developing world. As part of the USAID funded REPOND
+project in conjunction with the Cummings School of Veterinary Medicine, the
+Office of Technology for Learning in the Health Sciences, TLHS, which
+produces TUSK is helping universities to respond to emerging pandemic
+threat. TLHS has many service agreements to assist in the installation and
+training of TUSK which brings occasional foreign travel.
+The Senior System Administrator is responsible for building and maintaining
+the TUSK servers in a manner consistent with the application. The key
+responsibilities include:
+•	Installing/upgrading the hardware and server software, 
+•	Occasional travel to international sites to install and train staff
+
+•	Planning and making recommendations for future hardware and space
+needs, 
+•	Designing and implementing a disaster recovery plan, 
+•	Troubleshooting system problems, 
+•	Working with the development staff to keep software versions
+current, 
+•	Installing and maintaining TUSK systems at our partner schools
+domestically and internationally, 
+The Sr. Systems Administrator must understand the TUSK application and
+consider the developers and other TUSK staff as his/her clients by
+consulting and providing documentation on all systems. The administrator
+must be able to work with other TUSK administrators in a coordinated manner
+to serve the needs of the TUSK application, and work with the Tufts
+departments including UIT and its divisions, as appropriate
+
+Required skills:
+Bachelor's Degree with a minimum of 5 years of experience or High School
+Diploma and equivalent with 10+years of experience. Must have Linux Systems
+administration experience and experience with open source tools, including
+virtualization with KVM and libvert. Have expertise in MySQL; Apache; and
+Perl. Technical background in a multi-platform, multi-protocol production
+environment. Demonstrated experience in the following areas installation,
+configuration, tuning, security, backup and recovery. Demonstrated
+experience with programming and scripting languages, especially perl.
+Excellent problem resolution, analytical and, verbal and written
+communication skills particularly with respect to creating and maintaining
+documentation. Ability to work with people at all levels within the
+university; ability to work with vendors; and ability to work independently
+and in groups. 
+Preferred Qualifications: 
+MS in a related field. Experience with database administration. Experience
+with Eucalyptus, OpenStack or Cloudstack. In-depth expertise with puppet or
+chef.
+Special Work Schedule Requirements: 
+May be asked to perform occasional server maintenance, upgrades, and
+problems during non-business hours. 
+Tufts University is an AA/EO employer and actively seeks candidates from
+diverse backgrounds.
+
+Website for more information: http://www.tufts.edu/
+
+Contact information at:
+http://jobs.perl.org/job/16858#contact

@@ -1,0 +1,93 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11753
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 7378 invoked from network); 13 Oct 2011 21:18:27 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 13 Oct 2011 21:18:27 -0000
+Received: (qmail 22338 invoked by uid 225); 13 Oct 2011 21:18:26 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 22334 invoked by alias); 13 Oct 2011 21:18:26 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 13 Oct 2011 14:18:24 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 462AA2AFE6; Thu, 13 Oct 2011 14:18:21 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 13 Oct 2011 14:18:21 -0700
+Message-ID: <20111013211821.462AA2AFE6@x3.develooper.com>
+Subject: Senior Perl Programmer (onsite), Dulles, VA, USA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14742
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 13, 2011
+
+Job title: Senior Perl Programmer
+
+Company name: AOL
+
+Internal ID: 121912BR
+
+Location: Dulles, VA, USA
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Few teams have as broad an exposure to the AOL back office as we do. We're
+the glue that integrates systems, automates processes, and simplifies user
+experiences. We support legal, HR, identity management, access management,
+compliance, corporate communications, help desk, and a host of other
+customers with global web applications for AOL employees.
+
+AOL employees are more mobile than ever, and one of our challenges is to
+develop mobile, yet secure versions of internal applications. We're also
+challenged with making complex back-ends look surprisingly simple for our
+users.
+
+Your role is to help evolve the process and systems that keep AOL in legal
+and regulatory compliance, and help keep data flowing between systems as
+efficiently as possible. All the while keeping a pleasant user experience
+in mind
+
+Required skills:
+- 1 persistent. Some stuff is hard to figure out. We need someone who
+doesn't give up until we understand the problem and fix it.
+
+- 2 honest. Tell it like it is. We can handle the truth.
+
+- 3 Perl: primary language for the systems we support. 1+ years of work
+experience.
+
+- 4 Object-Oriented Programming: many systems leverage an object-oriented
+framework. 5+ years of work experience.
+
+- 5 SQL applications: heavy use of SQL and stored procedures in Sybase and
+MySQL. 4+ years of work experience.
+
+- 6 Web Services: understanding of how to build and deploy web services on
+Apache using Perl CGI. HTML, Javascript and JQuery knowledge helpful. Java
+servlet deployment on Tomcat also helpful.
+
+- 7 Linux OS: comfortable editing (i.e. vi), debugging and building
+applications in Redhat/CentOS platforms. Basic Linux System Administrator
+skills helpful.
+
+Website for more information: http://corp.aol.com/careers/current-job-openings
+
+Contact information at:
+http://jobs.perl.org/job/14742#contact

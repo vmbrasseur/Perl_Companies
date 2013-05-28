@@ -1,0 +1,111 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:317
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 71026 invoked by uid 1016); 3 Feb 2002 21:30:29 -0000
+Date: 3 Feb 2002 21:30:29 -0000
+Message-ID: <20020203213029.71025.qmail@onion.perl.org>
+To: jobs@perl.org
+Subject: 3rdkind Virtual Office Project (telecommute), United Kingdom, Manchester
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/215
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February  3, 2002
+
+Job title: 3rdkind Virtual Office Project
+
+Company name: 3rdkind Music Production
+
+Internal ID: Lorenz Kirchner
+
+Location: United Kingdom, Manchester
+
+Pay rate: Contract
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+THE FOLLOWING IS WRITTEN FROM THE USER'S PERSPECTIVE:
+
+3rdkind needs a (PERL driven) database for accounts payable, accounts
+receivable,jobs, clients, schedules, staff and suppliers. Additionally, a
+diary function is required. It is necessary to be able to import
+spreadsheet data to enter multiple records created offline. Data can also
+emailed to the database. all financial data must go through a verifying
+process where an administrator checks and compares the accounts with
+statements and receipts etc...
+The databases will be accessed via a web browser including  palmOs based
+browsers.
+
+Accounts payable
+users can add an entry	specifying an amount, time due, time received, a
+category (it must also be possible to add categories) a note, a tax rate
+and an invoice reference. The user can link the entry to an entry in one of
+the other database. It must be possible to specify a repeat date and
+frequency, and link those to the schedule file
+
+Accounts receivable
+users can add an entry	specifying an amount, time due, time paid, a
+category (it must also be possible to add categories) a note,  a tax rate
+and an invoice reference. The user can link the entry to an entry in one of
+the other database. It must be possible to specify a repeat date and
+frequency, and link those to the schedule file
+
+Jobs file
+users can add an entry specifying a client (from client file) a category, a
+budget (from accounts receivable) a description. The user must be able to
+link entries for expenses from accounts payable, entries for work schedules
+to schedules, entries for staff employed from staff
+and entries for suppliers (i.e. Studios) to suppliers
+
+Client file
+The user can add an entry specifying a name, an address & contact, a
+company or band, a category and a note. It must be possible to show a job
+history, a history (link to schedule file) of accounts payable/receivable.
+
+Schedule file
+users can add an entry	specifying a date, a time from, a time to, a
+location (i.e. home or at a studio -> link to supplier file), staff (from
+staff file) a category and a note. It must be possible to link to jobs
+file.
+
+Staff file
+The user can add an entry specifying a name, address & contact, account
+details, standard hourly rates, tax code. It must be possible to view a
+history (link to schedule file) of accounts payable, and jobs 
+
+Suppliers file
+The user can add an entry specifying a name, company, address & contact,
+description, category, rate, note.  It must be possible to view a history
+of accounts payable, schedule and jobs
+
+
+
+Required skills: MySQL, PERL, HTML, LINUX, ...
+
+Desired skills: XML, FLASH, ...
+
+URL for more information: http://www.3rdkind.net/
+
+Contact information:
+Lorenz Kirchner
+3rdkind Music Production
+Tel.: ++44(0)161 798 0456
+lorenz@3rdkind.net
+
+
+

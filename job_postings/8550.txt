@@ -1,0 +1,140 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8550
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 19331 invoked from network); 14 Aug 2008 22:09:33 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 14 Aug 2008 22:09:33 -0000
+Received: (qmail 16493 invoked by uid 225); 14 Aug 2008 22:09:33 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 16489 invoked by alias); 14 Aug 2008 22:09:33 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 14 Aug 2008 15:09:27 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id BF5652AFE2; Thu, 14 Aug 2008 15:09:23 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080814220923.BF5652AFE2@x3.develooper.com>
+Date: Thu, 14 Aug 2008 15:09:23 -0700 (PDT)
+Subject: Linux/Perl Application Developer  (onsite), United States, WA, Seattle
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/9380
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August  7, 2008
+
+Job title: Linux/Perl Application Developer 
+
+Company name: McKesson
+
+Location: United States, WA, Seattle
+
+Pay rate: TBD USD
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+As the world's largest healthcare services company with more than $90
+billion in annual sales, McKesson Corporation (McKesson) is a Fortune 18
+Corporation that provides pharmaceutical supply management and information
+technologies across the entire continuum of healthcare. 
+
+Information management so powerful that it supports peace of mind. Being
+part of a Fortune 18 company with over $90 billion in revenue doesn't
+happen just because you have good business sense. And it doesn't happen
+overnight. At McKesson Provider Technologies, it takes knowledge and
+experience. And people like you. People with the passion to make a
+difference. People with the power to provide comprehensive information
+systems solutions for the entire continuum of healthcare. And to eliminate
+inefficiencies and obstacles in healthcare. That's the power to build your
+future.
+
+Linux/Perl Application Developer 
+Are you a talented Perl application developer with industry experience
+developing complex database-backed web applications? Are you ready to take
+on ownership of an enterprise Web 2.0 application and carry it through its
+next major release? If so, we need you. 
+
+We are looking for another Linux guru to join the team to help with
+everything from application development to system administration. This is a
+unique and comprehensive role for a talented individual. 
+
+We are continuing to develop a CMS based on the Catalyst MVCC framework
+that makes heavy use of Javascript in the front-end for its AJAX
+functionality. Fluency in both OO Perl and Javascript are critical.
+
+This position will involve taking a central role in the development of the
+product. Bug fixes, new features, documentation, and design of the next
+major release are aspects of this role. The ideal candidate will be able to
+take business requirements and translate them directly into code as well as
+acting as an advocate for the end-user in order to drive the product's
+direction. The position involves a great deal of independence, which means
+strong communication skills and enthusiasm are imperative. 
+
+
+Required skills:
+RESPONSIBILITIES:
+* Application development in Perl and Javascript/AJAX
+* Design and development of tools for developers
+* Debugging, developing features for web applications
+* Tier-3 support role for identifying and resolving difficult issues
+* Point of contact for tier-2 support training
+* Developing performance, monitoring, and alerting tools
+* Working with customers to establish VPN connections
+* Working with customers to identify product features/bugs
+* Administration of Linux systems for our team and public website
+* Remote administration of customer boxes world-wide
+* May be assigned the roles of Technical Lead, Implementation/Feature Lead,
+or Project Lead.
+* Responsible for advanced architectural design of system software (both
+client & server side) requiring a mastery of more than one language or
+operating system and a knowledge of many cross product dependencies.
+* Performs structural and logical/algorithmic design for self and
+frequently for others and readily adapts to new languages or environments. 
+
+* Develops, documents, debugs and maintains software in accordance with
+requirements and design.
+* Conducts design and code reviews with other project team members.
+* Works closely with other project team members to ensure requirements are
+clearly understood and communicated and ensure that test plans and
+procedures adequately test delivered software.
+* Provides the technical contents of Product Documentation including
+Technical Release Notes and the installation, configuration and upgrade
+guides.
+* Works closely with Customer Service and Support to investigate and fix
+complex product defects.
+
+QUALIFICATIONS:
+* Minimum 5 years in a software engineering position
+* Superior technical and communication skills
+* Object-oriented Perl and Javascript/AJAX fluency
+* Catalyst, Mason, or other MVC framework experience
+* Apache webserver management experience
+* Linux System Administration experience, preferably in RedHat or CentOS
+* Database experience with MySQL or Postgres
+* Networking experience with SSL, SSH, IPSec, VPNs
+* Some Java experience preferred
+* Dojo, YUI, jQuery experience preferred
+
+
+URL for more information: http://www.mckesson.com/
+
+Contact information at:
+http://jobs.perl.org/job/9380#contact
+
+

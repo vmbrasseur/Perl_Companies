@@ -1,0 +1,92 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12803
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 1875 invoked from network); 10 Oct 2012 02:33:50 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 10 Oct 2012 02:33:50 -0000
+Received: (qmail 4946 invoked by uid 225); 10 Oct 2012 02:33:49 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 4942 invoked by alias); 10 Oct 2012 02:33:49 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,LOTS_OF_MONEY
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 09 Oct 2012 19:33:47 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id AE4202AFE0; Tue,  9 Oct 2012 19:33:43 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Tue, 9 Oct 2012 19:33:43 -0700
+Message-ID: <20121010023343.AE4202AFE0@x3.develooper.com>
+Subject: Junior Perl Developer (onsite), Oxford, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16372
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October  9, 2012
+
+Job title: Junior Perl Developer
+
+Company name: Adestra
+
+Location: Oxford, UK
+
+Pay rate: £20,000 - £35,000 (depending on experience)
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are looking for an enthusiastic, hard working junior developer to join
+our small team, on-site in our Oxford offices. As this is a junior role we
+are willing to consider those with little Perl experience and will provide
+training and guidance - however the right candidate will demonstrate an
+ability to learn on their own and take an active interest in their own
+development and career progression.
+
+We are a small team working on a web-based application with a relatively
+new, clean codebase with very little legacy code, using modern Perl
+programming and development practices. You will be responsible for
+maintenance and adding new features to our platform, and will eventually be
+expected to be able to design and implement new features in their entirety.
+Successful candidates will have the opportunity to work on diverse areas of
+the system from user interfaces to large scaling projects.
+
+The position is full-time, and on-site in our Oxford offices. Unfortunately
+we are not able to consider telecommuters.
+
+Required skills:
+Some commercial programming experience with Perl or a similar language.
+
+Desired skills:
+Some commercial programming experience with Perl would be extremely
+beneficial, as would experience with any of the following:
+
+ * Perl or other dynamic/scripting languages
+ * CPAN
+ * Object oriented programming practices
+ * Moose
+ * ORM systems, particularly DBIx::Class
+ * Familiarity with Modern Perl programming practices
+ * Catalyst, or other MVC web frameworks
+ * SQL, particularly PostgreSQL
+ * Working in a UNIX environment
+ * Web design and related technologies such as HTML, CSS, JavaScript, etc
+ * Version control systems, particularly Subversion and Git
+ * Test-driven development
+
+Website for more information: http://www.adestra.com
+
+Contact information at:
+http://jobs.perl.org/job/16372#contact

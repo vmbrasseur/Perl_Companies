@@ -1,0 +1,92 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12170
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 31986 invoked from network); 29 Feb 2012 08:54:18 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 29 Feb 2012 08:54:18 -0000
+Received: (qmail 27657 invoked by uid 225); 29 Feb 2012 08:54:18 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 27653 invoked by alias); 29 Feb 2012 08:54:17 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 29 Feb 2012 00:54:15 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 3D6A12AFDF; Wed, 29 Feb 2012 00:54:11 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 29 Feb 2012 00:54:11 -0800
+Message-ID: <20120229085412.3D6A12AFDF@x3.develooper.com>
+Subject: Pipelines Web Developer (onsite), Oshawa, Ontario, Canada
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/11650
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 29, 2012
+
+Job title: Pipelines Web Developer
+
+Company name: Holophrastic Enterprises Inc.
+
+Location: Oshawa, Ontario, Canada
+
+Pay rate: negotiable
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Length of employment: long-term, partner-oriented
+
+Hours: Flexible
+
+Onsite: yes
+
+Description:
+Pipelines is our internal and proprietary web development platform --
+written on top of Perl, of course.  Call it a template language if you
+must, but basically it automates away 90% of typical web development --
+connecting to the database, user logins, security, user preferences, et
+cetera.  It also throws umbrella features over everything.  It's really
+cool.
+
+As most of pipelines pulls from the world of Perl, and it's perl core is
+constantly upgraded, Perl developers are particularly suited to this job --
+actually a career.  Pipelines includes dozens of sub-syntax languages of
+natures similar to regular expressions, so if you can parse a regular
+expression in your head, cryptic as it may be, pipelines becomes crazy
+easy.
+
+It is expected that you'll take a few months to get up to speed -- the
+learning curve is quite steep, but the work itself is really easy, and I
+have a lot of fun with it.
+
+This is a home-office, small-business sort of thing, with interestingly
+flexible hours.  I'm looking for someone to start off as a protege, and
+swiftly grow to be able to handle most of the work in stride.  You'll be
+replacing someone who's just left, with big shoes to fill.
+
+The job officially starts June 1st.
+
+Required skills:
+raw perl (no modules), javascript, mysql, html, css.  An understanding of
+the general flow of a web-site from database, to backend server, to output
+stream, to browser client and back again.  An understanding of the general
+problems in web development like caching and speed and security.  HTML,
+inline CSS, basic MySQL.
+
+Desired skills:
+javascript, jscript, english writing, regular expressions, basic graphic
+work (cropping, colour correction, sizing, compressing)
+
+Contact information at:
+http://jobs.perl.org/job/11650#contact

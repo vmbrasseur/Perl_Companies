@@ -1,0 +1,98 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11462
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8725 invoked from network); 12 Jul 2011 07:13:23 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 12 Jul 2011 07:13:23 -0000
+Received: (qmail 4237 invoked by uid 225); 12 Jul 2011 07:13:22 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 4233 invoked by alias); 12 Jul 2011 07:13:22 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 12 Jul 2011 00:13:20 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id A2AAA2AFD6; Tue, 12 Jul 2011 00:13:16 -0700 (PDT)
+To: jobs@perl.org
+Date: Tue, 12 Jul 2011 00:13:16 -0700
+Message-ID: <20110712071316.A2AAA2AFD6@x3.develooper.com>
+Subject: Senior Perl developer with experience in web development (part
+ onsite), UK, Spain, London, Barcelona
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14454
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 12, 2011
+
+Job title:
+Senior Perl developer with experience in web development
+
+Company name: iAnnounce
+
+Internal ID: iannounce-dev
+
+Location: UK, Spain, London, Barcelona
+
+Pay rate: DOE
+
+Terms of employment: Salaried employee
+
+Length of employment: Permanent
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+iAnnounce is the largest provider of an online family notices platform for
+newspapers in Europe, based in London and Barcelona.
+
+We are looking to recruit a Perl developer to help us scale, design new
+features and prepare our site for the mobile web.
+
+You will be working with everything from the databases through to the
+front-ends, and will need strong overall skills. In particular, we are
+looking for a developer who understands UI design and/or NoSQL
+technologies, and who is able to translate high level concepts into well
+structured OO code.
+
+Our systems use Linux, Apache, Perl, MySQL, ElasticSearch, memcached. Our
+application framework is homegrown but has much in common with modern Perl
+technologies.
+
+You will need to communicate directly with our clients, and must have good
+spoken and written English.
+
+This position is full-time and on-site, although some telecommuting will be
+allowed. Flexible benefits and working arrangements.
+
+Applicants must live either near London or Barcelona, and must have the
+required work permits.
+
+
+Required skills:
+ - OO Perl
+ - HTML, CSS, Javascript, AJAX
+ - MySQL
+
+
+Desired skills:
+ - Knowledge of Catalyst, Plack, DBIx, Moose etc
+ - UI skills
+ - Large scale data processing, distributed systems
+ - Linux system admininstration
+
+
+Website for more information: http://corp.iannounce.co.uk/
+
+Contact information at:
+http://jobs.perl.org/job/14454#contact

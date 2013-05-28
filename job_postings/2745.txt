@@ -1,0 +1,103 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2745
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 11862 invoked from network); 20 May 2005 15:01:09 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 20 May 2005 15:01:09 -0000
+Received: (qmail 10690 invoked by uid 225); 20 May 2005 15:01:09 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 10683 invoked by alias); 20 May 2005 15:01:08 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 20 May 2005 08:00:59 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j4KF0ulf021002
+	for <jobs@perl.org>; Fri, 20 May 2005 08:00:56 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j4KF0ufC021000;
+	Fri, 20 May 2005 08:00:56 -0700
+Date: Fri, 20 May 2005 08:00:56 -0700
+Message-ID: <200505201500.j4KF0ufC021000@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Senior Perl Programmer (onsite), United States, VA, Quantico
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2428
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 20, 2005
+
+Job title: Senior Perl Programmer
+
+Company name:
+Personal and Family Readiness Division, HQMC
+
+Internal ID: Information Technology Branch (MRI)
+
+Location: United States, VA, Quantico
+
+Pay rate: $55,000 - $65,000 USD
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Length of employment: Permanent
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Designs and implements high performance Perl applications in a modular
+architecture using CPAN and in-house developed Perl modules.  Interfaces
+with various databases and web interfaces.  Designs database schemas and
+maintain existing source code.	  Tests and debugs software.  Gathers
+software requirements and defines system specifications.  Serves as member
+of the MCCS Research, Development and Integration team by contributing to
+the development of MCCS business analysis tools, hosted on an open platform
+leveraging web based technologies and open source utilities.
+
+Performs routine and recurring assignments in applications software. 
+Identifies and resolves issues and problems.  May prepare and update
+manuals, instructions, and operating procedures.  Provides information and
+assistance to customers.  Evaluates established methods and procedures and
+prepares recommendations for changes in methods and practices where
+appropriate. Ensures the application of appropriate security measures to
+the assignment.  
+
+Identifies system objectives, functions and customer requirements. 
+Evaluates hardware and software alternatives and systems design strategies
+based on need and availability.  Analyzes existing systems capabilities,
+compatibility, and interoperability.  Prepares technical specifications,
+monitors development, designs and monitors testing and conducts post
+installation evaluation.
+
+
+Required skills:
+Three to five years development using Perl.  Ability to develop customer
+packages using Object Oriented techniques, build complex data structures
+using references, hashes and arrays.  Demonstrated experience working in a
+Unix environment.  Experience using UNIX based text editors and development
+tools.	Skill to perform routine and recurring assignments, and identify
+and resolve issues and problems in application software.  Skill to evaluate
+and analyze existing systems capabilities, compatibility, and
+interoperability.    Familiarity with the following technologies is a plus:
+ MySQL, Apache, mod_perl, Mason, XHTML, XML and associated technologies,
+CSS, Javascript and SQL.
+
+Contact information at:
+http://jobs.perl.org/job/2428#contact
+
+

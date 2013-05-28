@@ -1,0 +1,126 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11649
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 14757 invoked from network); 8 Sep 2011 17:21:50 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 8 Sep 2011 17:21:50 -0000
+Received: (qmail 13718 invoked by uid 225); 8 Sep 2011 17:21:50 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 13714 invoked by alias); 8 Sep 2011 17:21:50 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS,T_FRT_PROFILE2
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 08 Sep 2011 10:21:46 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 9AC412AFE0; Thu,  8 Sep 2011 10:21:43 -0700 (PDT)
+To: jobs@perl.org
+Date: Thu, 8 Sep 2011 10:21:42 -0700
+Message-ID: <20110908172143.9AC412AFE0@x3.develooper.com>
+Subject: Software Engineer - Interoperability - Rosemont, Illinois  #362183
+ (onsite), 60018, Illinois, Rosemont
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14788
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September  8, 2011
+
+Job title:
+Software Engineer - Interoperability - Rosemont, Illinois  #362183
+
+Company name: Picis Inc., a division of UnitedHealth Group
+
+Location: 60018, Illinois, Rosemont
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+About UnitedHealth Group
+UnitedHealth Group is a diversified health and well-being company dedicated
+to helping people live healthier lives. We are currently seeking a Software
+Engineer for our Interoperability team, in our Picis division of UHG.  The
+Software Engineer - Interoperability will be working on TouchPoint ED, the
+interface engine for ED PulseCheck, a web-based application used in
+Emergency Departments. The developer will be part of the interface
+programming group  which is migrating to a single third party interface
+engine. The developer will also help bridge the gap between .Net and Perl
+applications and assist in the realization of a SOA-based solution. The
+ideal candidate has strong troubleshooting and debugging skills to go along
+with their technical abilities.
+
+
+Summary of Responsibilities:
+• Reviews and develops services written in .NET Windows Communication
+Foundation (WCF).
+• Develops new models for TouchPoint ED, written in Perl using POE.
+• Develops using Ensemble, a commercial product from InterSystems.
+• Develops service packs which include defect resolution and product
+sustaining development.
+• Creates technical documentation relevant to new development and service
+packs.
+• Analyzes specifications and designs efficient software application
+solutions.
+• Develops software that adheres to company software development standards
+as well as best practices in development.
+• Assists in developing test plans (based on specifications), unit tests,
+and tests new and updated software programs to ensure specifications and
+standards are met.
+• Will help bridge the development gap between Perl and .Net based
+applications.
+• Supports, troubleshoots, and maintains existing software applications.
+ 
+
+About Picis	  
+Picis has recently joined Optum, a subsidiary of UnitedHealth Group. Picis
+is now a part of the UnitedHealth Group family of companies. Picis is a
+global provider of innovative information solutions that enable rapid and
+sustained delivery of clinical, financial and operational results in the
+acute care areas of the hospital. For more information about Picis, visit
+www.picis.com/solutions. Follow Picis on Twitter at
+http://twitter.com/PicisInc.
+
+Diversity creates a healthier atmosphere: equal opportunity employer
+M/F/D/V
+
+UnitedHealth Group is a drug-free workplace. Candidates are required to
+pass a drug test before beginning employment. In addition, employees in
+certain positions are subject to random drug testing.
+
+Required skills:
+Required:
+• 5+ years of software application programming/analysis experience in a
+web-based environment, developing/sustaining high end applications
+• Proficiency with Perl programming language in a database environment
+• Proficiency with .Net using C# programming language in a database
+environment
+• Bachelor's degree or similar experience
+
+Desired skills:
+Assets:
+• Prior experience working with HTML, XML, SQL, Apache, Ensemble and/or
+Object Script
+• Previous work experience with SOA-based solution
+• Previous experience working in a health-care oriented, regulated
+environment is preferred
+• Prior experience troubleshooting and debugging
+
+• Knowledge of HL7 protocols,  knowledge of CCD CCR CCA data structures
+
+Website for more information:
+http://careers.unitedhealthgroup.com/job%20search/search%20jobs.aspx?Free%2
+0Text=362183&Job%20Field=All&sqid=4705838b-7780-4ec0-b09d-8d39e7628e6f
+
+Contact information at:
+http://jobs.perl.org/job/14788#contact

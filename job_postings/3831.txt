@@ -1,0 +1,88 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3831
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 6782 invoked from network); 6 Feb 2006 15:52:19 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 6 Feb 2006 15:52:19 -0000
+Received: (qmail 10865 invoked by uid 225); 6 Feb 2006 15:52:19 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 10845 invoked by alias); 6 Feb 2006 15:52:18 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 06 Feb 2006 07:52:06 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id k16Fq1nS017846
+	for <jobs@perl.org>; Mon, 6 Feb 2006 07:52:01 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id k16Fq1u5017844;
+	Mon, 6 Feb 2006 07:52:01 -0800
+Date: Mon, 6 Feb 2006 07:52:01 -0800
+Message-ID: <200602061552.k16Fq1u5017844@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Perl Programmer Required Immediately (onsite), Canada, Ontario, Oakville
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3641
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February  6, 2006
+
+Job title: Perl Programmer Required Immediately
+
+Company name: B2B Logic.net
+
+Internal ID: perl3
+
+Location: Canada, Ontario, Oakville
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We have an immediate opening for someone with strong Perl experience to
+continue work on a web application with us. You will be responsible for
+modifying and enhancing an existing code base, meeting agreed upon
+deadlines and handling deployment of new versions of the software. Ideally
+we are
+looking for someone who can start immediately. The ideal candidate will be
+comfortable jumping right in to an existing source base and will be able to
+
+hit the ground running. 
+
+Required skills:
+Technical Requirements
+
+* Minimum 3 years experience programming in Perl.
+* Knowledge of CGI, HTML-Template and Class-DBI.
+* Strong familiarity with Object Oriented concepts and design patterns.
+* Comfortable writing Object Oriented Perl.
+* Strong familiarity with Database design concepts.
+* Experience working with MySQL.
+* Strong Linux experience.
+* Experience administering an Apache http Server (Virtual Hosts, etc.)
+* Fundamental Knowledge of Internet / Web technologies.
+* Experience with Spreadsheet::WriteExcel is an asset.
+* Familiar with CVS / Source Control.
+* Ability to read code and understand medium sized applications.
+* Experience working with an MVC type framework. 
+
+Contact information at:
+http://jobs.perl.org/job/3641#contact
+
+

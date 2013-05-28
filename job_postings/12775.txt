@@ -1,0 +1,117 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12775
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 17537 invoked from network); 29 Sep 2012 04:24:57 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 29 Sep 2012 04:24:57 -0000
+Received: (qmail 20570 invoked by uid 225); 29 Sep 2012 04:24:57 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 20566 invoked by alias); 29 Sep 2012 04:24:56 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 28 Sep 2012 21:24:53 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 2F3452AFE0; Fri, 28 Sep 2012 21:24:48 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 28 Sep 2012 21:24:48 -0700
+Message-ID: <20120929042448.2F3452AFE0@x3.develooper.com>
+Subject: Perl Developer (onsite), Chicago, IL
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16518
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 28, 2012
+
+Job title: Perl Developer
+
+Location: Chicago, IL
+
+Pay rate: Open
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Since its founding in 1990, Citadel has grown into one of the world's most
+sophisticated alternative investment institutions. Our team of
+professionals allocates investment capital across a highly diversified set
+of proprietary investment strategies in nearly every major asset class.
+Through a combination of world-class talent and the use of advanced
+technology to support them, we relentlessly seek to initiate and capitalize
+on change in the global financial markets with the goal of remaining at the
+forefront of the industry. 
+
+
+General Job Responsibilities:
+
+Augment and support a perl based software platform that does the following:
+
+1 .Procure and load data in numerous formats, from disparate data sources
+on a regular basis.
+2. Load data into database, normalizing data into common structure as
+needed (not to be confused with Relational Database normalization).
+3. Match data sources by key fields or heuristic matches using multiple
+near matching criteria.
+4. Systematically deliver data to downstream systems as well as present
+matched off results to end users via web based reports generated in Perl
+and vended via a Mod-Perl based web site.    
+
+ Summary
+
+The successful candidate will be a self-starter who has demonstrated the
+ability to function independently in a fast-paced, dynamic, and demanding
+trading environment.  This person will be intellectually curious,
+intuitive, rigorous, trustworthy and have the highest ethical standards. 
+In addition, (s)he will be affective addressing a number of internal and
+external audiences in a professional manner.  This person will add value by
+working on a number of simultaneous projects with minimal supervision and
+exemplary follow-through.
+
+Required skills:
+Technical Skill Summary:
+
+-     1 year minimum experience of working on a software development team
+of 3 individuals or more, handling full-cycle development
+
+-     Experience developing ETL.
+
+-     2 years of experience with Perl required.
+
+-     2+ years experience using UNIX (Linux, Solaris, or AIX with Linux
+being preferred)
+
+-     Experience working with RDBMS (Sybase preferred).
+
+-     Optionally, experience with Apache Mod-Perl, OO Perl.
+
+-     Experience within financial services, or in one or more Middle/Back
+Office function preferred (Reconciliations, Clearing, etc.) Though not
+required, would prefer a candidate familiar with capital markets with hands
+on knowledge in one or more Middle/Back-Office function (e.g.
+Reconciliations, Clearing, Derivatives Confirmations).
+
+ Education:
+
+•     Bachelor degree in Computer Science, Electrical Engineering, or
+equivalent.
+
+Desired skills: Perl development, ModPerl, Moose
+
+Website for more information: http://www.citadelgroup.com
+
+Contact information at:
+http://jobs.perl.org/job/16518#contact

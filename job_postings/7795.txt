@@ -1,0 +1,90 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7795
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 2999 invoked from network); 6 Mar 2008 20:42:40 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 6 Mar 2008 20:42:40 -0000
+Received: (qmail 25746 invoked by uid 225); 6 Mar 2008 20:42:40 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 25733 invoked by alias); 6 Mar 2008 20:42:39 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 06 Mar 2008 12:42:34 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 9B54E2AFCC; Thu,  6 Mar 2008 12:42:26 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20080306204226.9B54E2AFCC@x3.develooper.com>
+Date: Thu,  6 Mar 2008 12:42:26 -0800 (PST)
+Subject: Senior Systems and Middle Tier Developer - Perl/UNIX (onsite), United States, NY, New York City - Downtown
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8120
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March  5, 2008
+
+Job title:
+Senior Systems and Middle Tier Developer - Perl/UNIX
+
+Company name: Morgan Stanley
+
+Internal ID: 42088
+
+Location:
+United States, NY, New York City - Downtown
+
+Pay rate: DOE - US Dollars
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The person will be the team lead for the middle tier. As part of the
+responsibility, will be the lead for 3-5 developers in creating and
+building APIs and processes to support the applications. This set of middle
+layer processes and APIs contains the business logic for the system and is
+accessed by the UI written in C# .net. The backend is primarily Sql Server
+and Sybase database. The middle tier is written primarily in Perl with
+extensive use of Apache web server and SOAP services. The middle layer also
+has some Java code base as well.
+
+The ideal candidate will have at least 8-10 years experience in the
+industry with proven skills in Perl, Apache, Sql Server and SOA based
+systems. We are using Perl as a system development environment. The person
+must have used Perl in object oriented architecture to build enterprise
+applications and not just as a scripting language. He/she should have at
+least 3-4 years experience in managing small to medium size teams. He/she
+will be spending at least 50% of the time in hands on coding and other 50%
+in system architecture and team management.  There will some client
+interactions as well, so candidates should have good client facing skills.
+
+
+Required skills:
+Perl, Apache, Java, Unix, Sql Server, Sybase
+
+Desired skills:
+Good client facing skills; Financial experience, specifically experience in
+the Private Equity space, would be a major plus in this role.	
+
+URL for more information:
+http://careers.peopleclick.com/jobposts/Client40_MS/BU1/External/115-27020.
+htm
+
+Contact information at:
+http://jobs.perl.org/job/8120#contact
+
+

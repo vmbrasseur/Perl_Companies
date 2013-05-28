@@ -1,0 +1,94 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12701
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 24455 invoked from network); 29 Aug 2012 07:20:51 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 29 Aug 2012 07:20:51 -0000
+Received: (qmail 23072 invoked by uid 225); 29 Aug 2012 07:20:51 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 23068 invoked by alias); 29 Aug 2012 07:20:51 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 29 Aug 2012 00:20:49 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id D6B702AFE0; Wed, 29 Aug 2012 00:20:45 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 29 Aug 2012 00:20:45 -0700
+Message-ID: <20120829072045.D6B702AFE0@x3.develooper.com>
+Subject: Software Developer (onsite), North Vancouver, BC
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16398
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 29, 2012
+
+Job title: Software Developer
+
+Company name: Lions Bay Media Inc.
+
+Location: North Vancouver, BC
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+OPPORTUNITY:
+Lions Bay Media is looking for a full time Software Developer to join our
+team. We offer a casual, professional work environment and corporate
+culture. We strive to take advantage of the latest state-of-the art tools
+and techniques to deliver superior technology. Our systems are powered by
+advanced open source components.
+
+RESPONSIBILITIES:
+-Design, develop, and deploy software in a production environment
+-Write technical documentation
+-Integrate systems with third-party APIs
+-Manage multiple tasks simultaneous and meet tight deadlines
+-Write unit tests, perform manual testing
+-Work closely with QA
+-Software maintenance, diagnostics and bug fixing
+-Front end development including HTML/CSS and user interface design
+-Some PC maintenance and troubleshooting
+
+REQUIREMENTS:
+-Degree or diploma in Computer Science (or a related field) or equivalent
+education/experience
+-One or more years of previous professional programming experience
+-Familiar with various design/development methods including OOP,
+event-driven programming, etc.
+-Knowledge of several programming languages such as Perl, JavaScript, PHP,
+Ruby, Java, C++, Python
+-Skilled with web technologies including HTML and CSS
+-Knowledge of SQL/noSQL, key-value stores, database design, and software
+such as PostgreSQL, MySQL, MongoDB, Redis
+-Familiar with web application frameworks such as Mojolicious, Rails,
+Struts, etc.
+-Knowledge of web service technologies including SOAP/WSDL, JSON-RPC, REST
+-Familiar with user interface libraries such as SmartClient/SmartGWT,
+ExtJS, KendoUI, etc.
+-Knowledge of test driven development
+-Comfortable using version control systems such as Subversion and Git
+-Competent with Linux/Unix shell
+-Strong theoretical knowledge including software engineering principles,
+algorithms, data structures, etc.
+
+COMPENSATION:
+-Compensation will depend on qualifications. Please indicate your salary
+expectations within your cover letter.
+
+Contact information at:
+http://jobs.perl.org/job/16398#contact

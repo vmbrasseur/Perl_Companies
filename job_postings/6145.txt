@@ -1,0 +1,123 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6145
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28121 invoked from network); 19 Apr 2007 16:56:06 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 19 Apr 2007 16:56:06 -0000
+Received: (qmail 4645 invoked by uid 225); 19 Apr 2007 16:56:06 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 4638 invoked by alias); 19 Apr 2007 16:56:05 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,DK_POLICY_SIGNSOME
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 19 Apr 2007 09:56:02 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id D00A32AFEA; Thu, 19 Apr 2007 09:55:58 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070419165558.D00A32AFEA@x3.develooper.com>
+Date: Thu, 19 Apr 2007 09:55:58 -0700 (PDT)
+Subject: Software Engineer (onsite), United Kingdom, Gloucester
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5668
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 19, 2007
+
+Job title: Software Engineer
+
+Company name: Messaglabs
+
+Location: United Kingdom, Gloucester
+
+Pay rate: £25 - 34k per annum
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: Permanent
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are looking for a Software Engineer within R&D to develop high quality,
+innovative software products and services for MessageLabs, from
+specifications and requirements defined by Technical Architects and
+Technical Leads. 
+
+The R&D department of MessageLabs is responsible for building the
+technology that underpins the MessageLabs business.  This includes the
+services / products offered to our customers today: (Anti virus, Anti spam,
+Content Control, Image Control & Managed Encryption) as well as new
+services that will broaden the portfolio of offerings we can provide to our
+customers in the future.
+
+PRINCIPAL ACCOUNTABILITIES:
+
+1. Contributing to the maintenance of MessageLabs Services SLAs by
+maintaining and developing systems and tools to meet those objectives.
+2. Producing design specifications as required from functional
+specifications, identifying all sub tasks, estimating their duration and
+feeding back to the Technical Architect, Technical Lead and Project
+Manager.  
+3. Participating in planning, providing specific estimates and
+justification for own areas of work.
+4. Completing all tasks as defined and prioritised in the project plan,
+ensuring all code is written, tested and integrated with the rest of the
+project code base and version control system.
+5. Responsible for working with the System Test Engineers throughout the
+project lifecycle, Writing detailed instructions on installation & rollback
+procedures
+6. Investigating bug reports, fixing defects and re-releasing the fixed
+software to System Test Engineers.
+7. Writing, monitoring and revising all installation, configuration and
+support documentation and ensuring that this is up to date at all times.
+8. Provide post release support in all instances, including training where
+necessary to internal customers, and occasionally with external customers.
+
+
+Required skills:
+• Educated to degree level or equivalent in a computer related subject, and
+have experience in an IT/programming role OR have solid proven experience
+in an IT/programming role
+• Experience in C++ as a development tool.
+• Professional experience of Perl
+• Development level experience of Linux or UNIX.
+• Experience of working in a quality driven engineering process.
+
+
+Desired skills:
+• Knowledge of SMTP and RFC2821
+• Knowledge of email, particularly MIME and RFC2822.
+• Knowledge of HTTP and RFC2616
+• Experience of development on Windows.
+• Knowledge of HTML, XML, WSDL and SOAP web technologies.
+• Experience of System Administration on Linux/Unix.
+• Working knowledge of internet protocols such as FTP, TCP/IP and POP3.
+• Knowledge of an assembly level language or intermediate code
+• Knowledge of internet systems, particularly DNS and SSH.
+• Knowledge of RPM creation and installation.
+• Knowledge of at least one version control system.
+• Experience of working within an internet security or service delivery
+environment.
+• Experience of developing zero-downtime internet-scale systems 
+
+
+URL for more information: http://www.messagelabs.com/careers
+
+Contact information at:
+http://jobs.perl.org/job/5668#contact
+
+

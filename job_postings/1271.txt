@@ -1,0 +1,80 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:1271
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 42896 invoked by uid 76); 6 Jan 2004 16:51:13 -0000
+Received: from x1.develooper.com (HELO x1.develooper.com) (63.251.223.170) by onion.perl.org (qpsmtpd/0.26) with SMTP; Tue, 06 Jan 2004 08:51:13 -0800
+Received: (qmail 11104 invoked by uid 225); 6 Jan 2004 16:51:09 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11099 invoked by alias); 6 Jan 2004 16:51:09 -0000
+Received: from onion.develooper.com (HELO onion.perl.org) (63.251.223.166) by la.mx.develooper.com (qpsmtpd/0.27-dev) with SMTP; Tue, 06 Jan 2004 08:50:57 -0800
+Received: (qmail 42738 invoked by uid 1016); 6 Jan 2004 16:50:55 -0000
+Date: 6 Jan 2004 16:50:55 -0000
+Message-ID: <20040106165055.42737.qmail@onion.perl.org>
+To: jobs@perl.org
+X-Spam-Check-By: la.mx.develooper.com
+X-Spam-Status: No, hits=2.5 required=7.0 tests=CARRIAGE_RETURNS,MAILTO_TO_SPAM_ADDR,SPAM_PHRASE_03_05,TO_BE_REMOVED_REPLY version=2.44
+X-SMTPD: qpsmtpd/0.26, http://develooper.com/code/qpsmtpd/
+Subject: perl/cgi/php script technician (onsite), United States, NC, Wilson
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1163
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January  6, 2004
+
+Job title: perl/cgi/php script technician
+
+Company name: BannerBeans
+
+Location: United States, NC, Wilson
+
+Pay rate: USD
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: approx 4 days/in the future by
+
+Hours: Flexible
+
+Onsite: yes
+
+Description:
+I have a custom script that needs reworking for security reasons.  The vast
+majority of it is perl, however there is some cgi and php involved.  It was
+originally designed to be automatic, but now I need parts of it to be
+manual.  The mysql database is already there, all of the code is already
+there, I just need parts of it moved around to post data to various tables
+in a different way.  I have a basic form already designed, I need a
+programmer to write the code that will send the data from the form to the
+database.  The rest of the script should remain on automatic, but it is not
+currently working 100% and I need someone to fix it.  The auto part of the
+script deals with the egold sci script.
+
+Required skills:
+perl (please know your perl!) some cgi, html and php
+
+Desired skills:
+please speak fluent english!  this a light-duty job, if you are very
+familiar with perl then you should have no problems with it.  i do not have
+time to learn it right now.  i would like to be able to have contact
+information if i need you in the future.  if you can do this then please
+send me your rates and desired method of payment.  i have never minded
+paying for a job well done.
+
+URL for more information: http://www.bannerbeans.com/
+
+Contact information:
+debbie guthrie
+admin@bannerbeans.com OR
+eaglecc112@nc.rr.com
+
+

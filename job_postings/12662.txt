@@ -1,0 +1,96 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12662
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 645 invoked from network); 13 Aug 2012 17:27:37 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 13 Aug 2012 17:27:37 -0000
+Received: (qmail 20318 invoked by uid 225); 13 Aug 2012 17:27:37 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 20314 invoked by alias); 13 Aug 2012 17:27:37 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 13 Aug 2012 10:27:34 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 5A5312AFDD; Mon, 13 Aug 2012 10:27:31 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 13 Aug 2012 10:27:31 -0700
+Message-ID: <20120813172731.5A5312AFDD@x3.develooper.com>
+Subject: Software Engineer (onsite), St Louis, MO, USA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16336
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 13, 2012
+
+Job title: Software Engineer
+
+Location: St Louis, MO, USA
+
+Pay rate: dependent on experience, etc.
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The St. Louis based leader in breath alcohol detection is looking for a
+talented developer to join a small team charged with building the next
+generation of web-based tools to help lower incidents related to
+intoxication. This team is currently focused on developing and supporting
+an application used to lower drunk driving recidivism, and will continue to
+grow with opportunities to build new related data management systems.
+
+Since we are building web applications, a solid understanding of HTTP,
+REST, and the surrounding concepts are a plus. Additionally, while not all
+of the code we've adopted has been written using test-driven / test-first
+development, we are adopting it moving forward.
+
+We are currently re-architecting portions of the system and need a person
+who can learn new languages and systems and contribute to discussions and
+plans to that end. Because several of the technologies we are currently
+using are under review, pre-existing knowledge of them all is of lesser
+importance than being able to learn and grow with the team and the
+requirements. However, this is a short list of some of what we are using:
+	• Perl
+	• Catalyst
+	• Moose
+	• Oracle Database Server 
+	• Git
+	• JavaScript, CSS, and HTML5
+	• jQuery, jQueryUI
+	• DBIx::Class for our ORM
+	• RedHat Enterprise Linux
+
+In the future the REST API we design will be used by embedded systems as
+well as consumer mobile devices. Experience or interest working with this
+is a plus.
+
+Required skills:
+Experience with:
+	• a healthy interest in learning and exploring new technologies
+	• Perl (and modern web development components, e.g. Catalyst or
+Dancer (though we use Catalyst), Moose DBIC)
+	• JavaScript, CSS, and HTML5
+
+Desired skills:
+Experience with:
+	• Git
+	• PL/SQL for Oracle DB 11g
+	• jQuery, jQueryUI
+	• modern deployment strategies
+
+Contact information at:
+http://jobs.perl.org/job/16336#contact

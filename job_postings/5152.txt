@@ -1,0 +1,106 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5152
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 3275 invoked from network); 23 Oct 2006 17:28:08 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 23 Oct 2006 17:28:08 -0000
+Received: (qmail 3605 invoked by uid 225); 23 Oct 2006 17:28:06 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 3581 invoked by alias); 23 Oct 2006 17:28:05 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 23 Oct 2006 10:28:01 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 3071A2AFDD; Mon, 23 Oct 2006 10:27:32 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20061023172732.3071A2AFDD@x3.develooper.com>
+Date: Mon, 23 Oct 2006 10:27:32 -0700 (PDT)
+Subject: Senior Linux System Administrator/LiveJournal (onsite), United States, CA, San Francisco
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4599
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 23, 2006
+
+Job title:
+Senior Linux System Administrator/LiveJournal
+
+Company name: Six Apart
+
+Location: United States, CA, San Francisco
+
+Pay rate: Negotiable
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Six Apart, the weblogging software and services company behind LiveJournal,
+Movable Type and TypePad, is looking Senior Unix Systems Administrators to
+help us ensure the health, uptime and performance of our hosted services,
+which rely on an infrastructure of 250+ Unix (primarily RedHat Linux,
+Debian, and CentOS) hosts requiring 24x7 uptime. 
+
+###Responsibilities### 
+
+* Define system, quality and analysis on systems, networks, and
+applications, translating requirements into functional specifications and
+effective processes. 
+* Provide second-tier oncall support for production services. 
+* Improve the build and release management for all online services. 
+* Ensure reliable code pushes and work with Development and QA on
+validation of new versions. 
+* Adhere to changelog process for all production hardware and software
+changes. 
+* Work with the Site Operations Manager in the data center and provide
+consultation and strategic direction in systems and hosting technology. 
+* Define and deliver optimal system architecture projects within
+agreed-upon timeframe. 
+* Assist in the development and maintenance of security best practices. 
+* Own projects for product changes and improvements. 
+* Develop tools and scripts to assist with routine maintenance tasks. 
+* Mentor the Site Operations team in the usage of tools and scripts and
+work with them to develop and deliver optimal solutions for service
+recovery and business resumption. 
+* Provide recommendations for scalability and performance improvement in
+selected areas of discipline. 
+
+
+Required skills:
+* 5+ years of systems administration experience in a large scale production
+Linux environment 
+* 3-5 years scripting with shell, perl, or other languages 
+* Ability to architect high-availability systems and services in a hosting
+environment 
+* Experience with NetApp, EMC, SANs, or other high-performance storage
+systems 
+* Experience with large scale DNS and Mail systems 
+* Experience in the development and rollout of operations processes 
+* Previous experience in an online business is essential. 
+* Experience in designing and implementing solutions for a large installed
+base of servers 
+* BSCS or equivalent experience 
+
+
+URL for more information: http://www.sixapart.com/
+
+Contact information at:
+http://jobs.perl.org/job/4599#contact
+
+

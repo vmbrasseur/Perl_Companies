@@ -1,0 +1,126 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3232
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 15581 invoked from network); 21 Sep 2005 22:11:01 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 21 Sep 2005 22:11:01 -0000
+Received: (qmail 31529 invoked by uid 225); 21 Sep 2005 22:11:01 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 31525 invoked by alias); 21 Sep 2005 22:11:00 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 21 Sep 2005 15:10:54 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j8LMAqV7007737
+	for <jobs@perl.org>; Wed, 21 Sep 2005 15:10:52 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j8LMAqW2007735;
+	Wed, 21 Sep 2005 15:10:52 -0700
+Date: Wed, 21 Sep 2005 15:10:52 -0700
+Message-ID: <200509212210.j8LMAqW2007735@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Sr. Software Engineer (Perl) (part onsite), United States, CA, Redwood City
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3085
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 21, 2005
+
+Job title: Sr. Software Engineer (Perl)
+
+Company name: PyramidST
+
+Internal ID: POST002R
+
+Location: United States, CA, Redwood City
+
+Pay rate: Competitive
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+Postini, the industry's leading provider of Email Security and Management,
+is seeking a Sr. Software Engineer.
+
+Postini protects the email communications infrastructure by providing
+comprehensive email intrusion prevention that prevents spam, viruses and
+SMTP attacks from ever reaching the enterprise gateway. 
+
+Title: Sr. Software Engineer
+Location: Redwood City, California 94063
+Salary: Commensurate with experience
+
+Key responsibilities include: 
+- Develop high availability, high volume components of the Postini product
+line, primarily in Perl
+- Work with product management to define requirements 
+- Write functional and technical specifications
+
+Description:
+Postini seeks an expert Perl developer to join the engineering team. The
+senior software engineer leads technical development efforts and is
+responsible for technical design decisions and for the technical success of
+the system. Specifically, this position is responsible for API and
+framework design and coding. The job includes writing technical
+specifications, reviewing work of other programmers, presenting design
+approaches to other groups within the company.
+
+This position requires heavy lifting in Perl including DBI, regular
+expressions, performance tuning, and network communication. Proven track
+record designing, developing, and maintaining mission critical internet
+applications written in Perl. Strong leadership skills and initiative are
+required. Must be able to troubleshoot and drive technical problems to
+resolution. The qualified candidate can expect a high profile position in a
+great team environment with many challenges and rewards. The environment is
+entirely UNIX.
+
+Required skills:
+- 3+ years experience programming in Perl. 
+- This position requires a deep understanding of Perl, including network
+communications, regular expressions, DBI, packages and the guts of Perl. 
+- Experience writing fault tolerant, high performance, scalable database
+driven Perl is a must. 
+- Solid experience in Java/J2EE and C.
+- Struts preferred
+- Demonstrated ability to debug complex code in a production environment
+and strong communications skills are also critical.
+- Must also have experience with gnu make tools and cvs. 
+
+Desired skills:
+- Proven ability to design API code 
+- Experience with Oracle 
+- Experience leading projects and mentoring other engineers 
+- Prior architecture and technical leadership is important 
+- Solid understanding of Apache, especially with ssl and mod_perl 
+- Knowledge of utilities for monitoring system performance is also strongly
+desired 
+- Understanding of SMTP and HTTP protocols and MIME encoding 
+- Knowledge of multi byte character encoding a plus 
+- Prior startup experience a plus
+- BA/BS or equivalent
+
+URL for more information:
+http://tekapplicant.tekgriller.com/signup.asp?reqid=2177
+
+Contact information at:
+http://jobs.perl.org/job/3085#contact
+
+

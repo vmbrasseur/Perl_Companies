@@ -1,0 +1,125 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7450
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 27397 invoked from network); 27 Dec 2007 18:27:52 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 27 Dec 2007 18:27:52 -0000
+Received: (qmail 24554 invoked by uid 225); 27 Dec 2007 18:27:52 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 24546 invoked by alias); 27 Dec 2007 18:27:51 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAD_CREDIT,BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 27 Dec 2007 10:27:37 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 7F44A2AFDE; Thu, 27 Dec 2007 10:27:33 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20071227182733.7F44A2AFDE@x3.develooper.com>
+Date: Thu, 27 Dec 2007 10:27:33 -0800 (PST)
+Subject: Perl Developer for Fixed Income Trading Applications (mod_perl, DBI, etc.) (onsite), United States, NY, New York
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/6809
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 27, 2007
+
+Job title:
+Perl Developer for Fixed Income Trading Applications (mod_perl, DBI, etc.)
+
+Company name: TheMuniCenter
+
+Internal ID: Perl2007
+
+Location: United States, NY, New York
+
+Pay rate: Open
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: Permanent
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+TMC creates an optimized fixed income marketplace by blending electronic
+trading with voice brokerage and cutting-edge tools for traders and
+advisors. TMC offers commingled dealer and buy-side inventory from hundreds
+of anonymous liquidity providers. Live inventory is comprised of over
+30,000 daily taxable and tax-exempt line items averaging $17 billion par
+value. For municipal bonds alone, we have considerably more unique content
+than other leading alternative platforms. TMC's current executable
+inventory includes Agencies, Corporates, CDs, MTNs, Municipals, Structured
+Products and Treasuries. This year, TMC is expanding into Auction Rates,
+CMOs, and Whole Loans.
+
+Co-founded in 2000 by "major" Wall Street firms, TMC offers the industry's
+premier live, two-sided (i.e., bid and offer), and executable marketplace
+for both odd-lot and round-lot trades. Electronic trading is complemented
+by a fully staffed Voice Brokerage Desk. Each broker averages 18 years of
+experience. Since TMC is your trading counterparty, we can assist with any
+settlement questions. This eliminates handling credit and clearing details
+with potentially hundreds of counterparties-a major drawback of "fully
+disclosed" competitor platforms.
+
+The main focus of this position is to support the development of our Broker
+Workstation product. We service our client firms by developing customized
+private-label websites. This position will be involved in all phases of
+application development. You must be flexible, dedicated, and a team
+player!
+
+Trading hours are from 8 AM to 5 PM; candidate must be available during
+these hours, as well as the occasional after-hours work involved in
+software releases. Also, as part of the nature of a small company,
+candidates will be expected to "wear multiple hats", and will be working on
+a variety of projects. Every day presents new challenges, and each member
+of our team is exposed to all aspects of the business… you will not be
+pigeonholed here! We seek people who think creatively and find solutions
+where others would merely panic.
+
+We offer an exciting, casual work environment dedicated to delivering real
+results in aggressive time frames. We are offering very competitive
+salaries to the right candidates. TMC has a comprehensive benefits package. 
+
+Required skills:
+TheMuniCenter seeks a talented, thorough, highly communicative application
+developer with about 3+ years experience in Perl and the following skills:
+
+    * Perl development in large, complex applications with many modules
+    * mod_perl development is a plus
+    * solid understanding of SQL and database programming (via DBI)
+    * experience with Sybase is a plus
+    * familiarity with CSS, DHTML, JavaScript
+    * good visual design skills are a plus
+    * CVS and other source code management and build tools
+    * ability to keep track of several projects at once
+    * ability to work under time pressure and respond to changes
+    * clear, well documented coding style
+    * high intelligence and strong analytical problem-solving abilities
+    * good written communication skills
+    * a solid understanding of regular expressions and their usage
+    * an ability to coordinate and communicate with clients on both a
+technical
+    * support and development/integration capacity 
+
+Financial industry experience is not required. Any experience with Java,
+PHP, or financial trading systems would be a definite plus. 
+
+URL for more information: http://www.themunicenter.com/
+
+Contact information at:
+http://jobs.perl.org/job/6809#contact
+
+

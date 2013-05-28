@@ -1,0 +1,71 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11335
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 23762 invoked from network); 26 May 2011 04:35:06 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 26 May 2011 04:35:06 -0000
+Received: (qmail 26321 invoked by uid 225); 26 May 2011 04:35:06 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 26308 invoked by alias); 26 May 2011 04:35:05 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 25 May 2011 21:35:03 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id E1C032AFE2; Wed, 25 May 2011 21:34:59 -0700 (PDT)
+To: jobs@perl.org
+Date: Wed, 25 May 2011 21:34:59 -0700
+Message-ID: <20110526043459.E1C032AFE2@x3.develooper.com>
+Subject: LAMP Web Developer (telecommute), United States, OR, Portland
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14204
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 25, 2011
+
+Job title: LAMP Web Developer
+
+Company name: Super Top Secret Startup
+
+Location: United States, OR, Portland
+
+Terms of employment: Salaried employee
+
+Length of employment: indefinite
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+We're looking for an experienced web developer to join our Portland team
+(think Tumblr meets Facebook); someone looking for a great startup
+opportunity who's both passionate and knowledgeable in the following areas:
+
+Required skills:
+- Experienced LAMP developer [where the "p" is any modern scripting
+language: perl, php, python, ruby].
+- Comfortable with the command line and basic shell scripting, cron, etc.
+- Strong OOP skills.
+- Strong understanding of the RESTful model, working knowledge of
+mod_rewrite.
+- MySQL schema design and performance-tuning [indexing, denormalization,
+EXPLAIN].
+- Front-end stuff like cross-browser JavaScript [jQuery, prototype, etc],
+standards-compliant HTML [xhtml / html5], SEO and CSS.
+
+Desired skills:
+- Experience with caching layers like memcache and redis.
+- Search engine [Solr, Sphinx, Lucene, etc], svn / git experience a plus.
+
+Contact information at:
+http://jobs.perl.org/job/14204#contact

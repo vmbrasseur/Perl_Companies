@@ -1,0 +1,73 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:88
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 63916 invoked by uid 1016); 13 Jun 2001 00:04:09 -0000
+Date: 13 Jun 2001 00:04:09 -0000
+Message-ID: <20010613000409.63915.qmail@onion.perl.org>
+To: jobs@perl.org
+Subject: (OO Perl) Web Developer for niche arts dot-com (onsite), United Kingdom, London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20
+
+Posted: June 12, 2001
+
+Job title:
+(OO Perl) Web Developer for niche arts dot-com
+
+Company name: Cloudband
+
+Location: United Kingdom, London
+
+Pay rate: £25-35k
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Cloudband <http://www.cloudband.com> was set up in 1998 to provide online
+services to a niche within the international art and antiques business -
+carpets, texiles, asian and tribal art. The company has 20 employees in its
+premises in central London. Staff include a number of  prominent figures
+from the specialist marketplace as well as a software team of 5.
+
+All software development is done in-house, using tools including mod_perl,
+mason and postgres in a linux environment, using object-oriented
+methodologies.
+
+Ongoing Software Development Tasks
+----------------------------------
+- Advanced search facility
+- Enhancements to Arcade product such as Featured Items
+- Magazine content management system
+- Banner ad management system
+- Personalisation / agent systems for pushing content
+- Ecommerce transaction processing
+- Management Information Systems (Accounts, Marketing etc)
+- Online Auction software
+
+Required skills:
+- oo perl
+- mod_perl / apache internals
+- html::mason
+- sql
+- unix/linux
+
+Desired skills:
+- postgres
+- javascript
+- css
+
+Contact information: jobs.perl.org@alex.cloudband.com
+
+

@@ -1,0 +1,81 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9980
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 15171 invoked from network); 26 Mar 2010 07:09:09 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 26 Mar 2010 07:09:09 -0000
+Received: (qmail 7049 invoked by uid 225); 26 Mar 2010 07:09:09 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 7044 invoked by alias); 26 Mar 2010 07:09:09 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 26 Mar 2010 00:09:05 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 690482AFE4; Fri, 26 Mar 2010 00:09:00 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20100326070901.690482AFE4@x3.develooper.com>
+Date: Fri, 26 Mar 2010 00:09:00 -0700 (PDT)
+Subject: Perl Developer - Financial applications (onsite), United States, IL, Chicago
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/11962
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 26, 2010
+
+Job title: Perl Developer - Financial applications
+
+Company name: Citadel Investment Group
+
+Location: United States, IL, Chicago
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+About Citadel:Since its founding in 1990, Citadel has grown into one of the
+world's most sophisticated alternative investment institutions. Our team of
+professionals allocates investment capital across a highly diversified set
+of proprietary investment strategies in nearly every major asset class.
+Through a combination of world-class talent and the use of advanced
+technology to support them, we relentlessly seek to initiate and capitalize
+on change in the global financial markets with the goal of remaining at the
+forefront of the industry.  
+
+
+Description:We are a real-time action trading environment with a flat,
+collegiate and meritocratic atmosphere. We are seeking a dynamic individual
+to develop mission critical trading systems and trading system management
+applications. The candidate will develop Perl based frameworks to support
+back office and front office trade flows. The candidate will support our
+prop trading application servers with automated testing, configuration
+management, automation and trader support.The candidate will work with
+business manager and traders day in and day out.
+
+Required skills:
+Requirements:3+ years experience in core Perl (DBI, Socket, XML, TIE, CGI,
+Template Toolkit etc.) in Linux (or UNIX platforms).Extensive experience
+with compiling and installing CPAN modules.Familiarity with OO-Perl.SED,
+AWK, SH scripting.Extensive experience with HTML, DHTML, XML coding.Strong
+database skills (SQL stored procedures, ETL optimization).Extensive
+experience with Open Source. Pluses to Have:DHTML, AJAX, CSS, JavaScript,
+Perl-TK.Clearcase or CVS expertise.Linux sysadmin experience.MYSQL or
+Postgres.Exposing C++ methods via Perl.FIX protocol.Python or PHP.
+General:Must work in a fast market.Logical.Self starter.Detail oriented.
+
+Contact information at:
+http://jobs.perl.org/job/11962#contact
+
+

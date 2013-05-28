@@ -1,0 +1,64 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11418
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 31539 invoked from network); 22 Jun 2011 23:09:51 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 22 Jun 2011 23:09:51 -0000
+Received: (qmail 8110 invoked by uid 225); 22 Jun 2011 23:09:51 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 8106 invoked by alias); 22 Jun 2011 23:09:51 -0000
+X-Spam-Status: No, hits=-4.9 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS,SUBJECT_NEEDS_ENCODING
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 22 Jun 2011 16:09:48 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 883142AFE0; Wed, 22 Jun 2011 16:09:45 -0700 (PDT)
+To: jobs@perl.org
+Date: Wed, 22 Jun 2011 16:09:45 -0700
+Message-ID: <20110622230945.883142AFE0@x3.develooper.com>
+Subject: Perl, Tk, Postgresql programmer, Germany, München
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14360
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 22, 2011
+
+Job title: Perl, Tk, Postgresql programmer
+
+Company name: GeNUA mbH
+
+Location: Germany, München
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Description:
+We are looking for a programmer to help with the development and in-house
+support of an internal CRM application, which is written in Perl with the
+TK toolkit and a PostgreSQL database.
+
+Required skills:
+- Perl
+- SQL, or at least interest to learn it
+- Perl/Tk toolkit, or at least interest to learn it
+- must be able to work in teams
+- should be able to speak fluently german
+
+Desired skills:
+experience to work with a large existing code base
+
+
+Website for more information: http://www.genua.de/jobs
+
+Contact information at:
+http://jobs.perl.org/job/14360#contact

@@ -1,0 +1,118 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9449
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 7416 invoked from network); 3 Sep 2009 19:03:28 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 3 Sep 2009 19:03:28 -0000
+Received: (qmail 19920 invoked by uid 225); 3 Sep 2009 19:03:28 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 19915 invoked by alias); 3 Sep 2009 19:03:26 -0000
+X-Spam-Status: No, hits=-6.8 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_NEUTRAL
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 03 Sep 2009 12:03:22 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id AB9562AFE0; Thu,  3 Sep 2009 12:03:18 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20090903190318.AB9562AFE0@x3.develooper.com>
+Date: Thu,  3 Sep 2009 12:03:18 -0700 (PDT)
+Subject: Lead Perl Engineer for profitable and growing dot.com (onsite), United States, CA, Los Angeles, 90056
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/11012
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September  3, 2009
+
+Job title:
+Lead Perl Engineer for profitable and growing dot.com
+
+Company name: PriceGrabber.com
+
+Location: United States, CA, Los Angeles, 90056
+
+Pay rate: Full-time salary + bonus & benefits
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+RESPONSIBILITIES:
+•  Coach, manage, mentor, and lead a team of 5 software engineers dedicated
+to Search Engine Marketing into the next frontier of development. 
+•  Collaborate on and contribute to a growing codebase of Search Marketing
+products and tools that serve to manage millions of dollars in revenue per
+month
+•  Come up with bleeding-edge solutions in a highly competitive and
+ever-evolving SEM landscape
+•  Define software architecture for the next generation of highly automated
+applications
+•  Have a “can-do” attitude and work closely with other bright engineers as
+well as a team of highly-motivated analysts and statisticians
+
+
+PriceGrabber.com, an Experian company, is a leading online comparison
+shopping service that revolutionized the way consumers make online
+purchasing decisions by enabling them to find the right product from the
+right retailer at the best price.  Through continued innovation and
+consistent focus on providing the best comparison shopping experience on
+the Internet, PriceGrabber.com has established itself as the most trusted
+and effective online destination for savvy shopping.  Founded in 1999,
+PriceGrabber.com continues to see growth year over year. PriceGrabber.com
+has 26 million consumers visiting the site, over 13,000 sellers on the site
+listing millions of products, and has partnerships with over 400 leading
+Internet sites.
+
+
+Required skills:
+REQUIREMENTS:
+• MUST be authorized to work in the US for any employer. 
+• Serious Perl skills; if these mean anything to you, you’re on the right
+track:
+$|++
+use Thread
+bless ($data, $class)
+%a = map {uc($_), 1}
+our @ISA = qw(Exporter)
+•  MySQL or other relevant RDBMS experience, preferably with exposure to
+optimizing queries for large-scale data sets
+•  Fluency in Linux or other *nix flavor (Visual programming?  Not here!) 
+•  Experiencing leading and growing a team
+•  Ability to work collaboratively in a shared code environment
+•  Application development fundamentals, including but not limited to
+object-oriented programming, test-driven development and automation
+•  SVN/CVS experience
+
+
+Desired skills:
+NICE-TO-HAVES
+•  B.S. (or M.S.) in Computer Science	      
+•  Experience developing SEM products on the client-facing side (i.e. major
+online retailer, agency, CSE, etc.); experience in the financial sector
+specific to yield-based optimization is also great
+•  Previous development of automated bidding systems
+•  Familiarity with working in an Agile/Scrum project management
+environment
+•  Frontend development using PHP in a LAMP paradigm
+•  User interface design for interactive web-based applications
+•  Working with offshore teams in a collaborative environment
+
+URL for more information: http://jobs.pricegrabber.com/
+
+Contact information at:
+http://jobs.perl.org/job/11012#contact
+
+

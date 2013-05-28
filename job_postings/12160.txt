@@ -1,0 +1,77 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12160
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28216 invoked from network); 29 Feb 2012 08:35:23 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 29 Feb 2012 08:35:23 -0000
+Received: (qmail 25741 invoked by uid 225); 29 Feb 2012 08:35:23 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 25736 invoked by alias); 29 Feb 2012 08:35:22 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 29 Feb 2012 00:35:19 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id DDC122AFDF; Wed, 29 Feb 2012 00:35:15 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 29 Feb 2012 00:35:15 -0800
+Message-ID: <20120229083515.DDC122AFDF@x3.develooper.com>
+Subject: Software Engineer (onsite), New York, NY
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15584
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 29, 2012
+
+Job title: Software Engineer
+
+Company name: Enigma Technologies
+
+Location: New York, NY
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Enigma is a young NYC-based startup that is coding furiously to
+transform the exploration and analysis of structured data on the web.
+We are building our core engineering team and are in need of quick
+witted and quick working Perl developers. If you are a technologist who
+feels open and comfortable tackling a large variety of complex
+problems, then we’d love to hear from you!
+
+Required skills:
+Required:
+•	Generally love data and exploring new technologies.
+•	Ability to rapidly inspect data and build prototype models.
+•	Thrive in a start-up environment and enjoy wearing many hats.
+•	Some experience in writing fast production code and code
+optimization.
+•	Comfortable with Unix and the command line.
+•	Independent problem solving skills (you know for sure which CPAN
+module to use)
+
+Desired skills:
+Nice to have:
+•	High level of comfort with the Linux environment and its various
+tools for data processing.
+•	Strong familiarity with regular expressions.
+•	Experience with data parsing, scraping, sanitization.
+•	Experience with distributed systems deployed in a cloud-based
+environment.
+
+Contact information at:
+http://jobs.perl.org/job/15584#contact

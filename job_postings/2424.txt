@@ -1,0 +1,177 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2424
+Return-Path: <hcamacho@digitalriver.com>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 5334 invoked from network); 8 Mar 2005 06:35:10 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 8 Mar 2005 06:35:10 -0000
+Received: (qmail 22121 invoked by uid 225); 8 Mar 2005 06:35:10 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 22114 invoked by alias); 8 Mar 2005 06:35:09 -0000
+X-Spam-Status: No, hits=-2.6 required=8.0
+	tests=BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from dc1mail02.digitalriver.com (HELO dc1mail02.digitalriver.com) (209.87.178.245)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 07 Mar 2005 22:35:04 -0800
+Received: from dc1mailbox01.mpls.digitalriver.com ([172.20.109.76]) by dc1mail02.digitalriver.com with Microsoft SMTPSVC(6.0.3790.211);
+	 Tue, 8 Mar 2005 00:36:14 -0600
+X-MimeOLE: Produced By Microsoft Exchange V6.5.7226.0
+Content-class: urn:content-classes:message
+MIME-Version: 1.0
+Date: Tue, 8 Mar 2005 00:36:12 -0600
+Content-Type: multipart/signed;
+	protocol="application/x-pkcs7-signature";
+	micalg=SHA1;
+	boundary="----=_NextPart_000_023B_01C52376.D2DEFF70"
+Message-ID: <84AB77B587149C4C9081E84E1EF661F20455DFE6@dc1mailbox01.mpls.digitalriver.com>
+X-MS-Has-Attach: yes
+Thread-Topic: [Perl Jobs] Mason/Perl real estate comparable sales web site (telecommute), United States, NY, New York
+Thread-Index: AcUjd22aItM5QbWbQIKtLreDHqiUVAAMaIfg
+To: "Perl Jobs" <jobs-admin@perl.org>,
+	<jobs@perl.org>
+Reply-To: <hfc@ciorent.com>
+X-OriginalArrivalTime: 08 Mar 2005 06:36:14.0618 (UTC) FILETIME=[202CCFA0:01C523A9]
+X-Virus-Checked: Checked
+Subject: RE: [Perl Jobs] Mason/Perl real estate comparable sales web site (telecommute), United States, NY, New York
+Approved: news@nntp.perl.org
+From: hcamacho@digitalriver.com ("Henry Camacho")
+
+------=_NextPart_000_023B_01C52376.D2DEFF70
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Please send him my congrats....
+
+HFC
+ 
+
+-----Original Message-----
+From: Perl Jobs [mailto:jobs-admin@perl.org] 
+Sent: Monday, March 07, 2005 3:29 PM
+To: jobs@perl.org
+Subject: [Perl Jobs] Mason/Perl real estate comparable sales web site
+(telecommute), United States, NY, New York
+
+Online URL for this job: http://jobs.perl.org/job/2324
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March  7, 2005
+
+Job title:
+Mason/Perl real estate comparable sales web site
+
+Company name: PropertyShark.com
+
+Location: United States, NY, New York
+
+Pay rate: $50-75K/year
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: Full time, long term
+
+Onsite: no
+
+Description:
+We just won the NY Metro Magazine award for best real estate resource!	And
+we're looking for a top Perl/Mason programmer to take charge of the
+comparable sales area of the site.  We're looking for someone who can:
+
+(*) Quickly learn about the real estate industry and the needs of user
+constituencies like developers, investors, brokers, appraisers, mortgage
+bankers, etc.
+
+(*) Extend our New York City functionality to other cities.
+
+(*) Create professional, visually impressive PDF reports.
+
+(*) Implement new sales trend analytical functions.
+
+To appy for this job, please have a look at the comparable sales area of
+pshark.com, do a 'radius search' for 104 w 113th st, manhattan (the example
+property), and include the most recent sale price for 104 w 113th in the
+subject line of your email.  All responses that include the dollar amount of
+the sale price will receive thoughtful attention and a response.
+
+Required skills: Perl, Linux, Apache, MySQL, Mason.
+
+URL for more information: http://www.pshark.com/
+
+Contact information: matthew@propertyresearchpartners.com
+
+
+
+
+------=_NextPart_000_023B_01C52376.D2DEFF70
+Content-Type: application/x-pkcs7-signature;
+	name="smime.p7s"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment;
+	filename="smime.p7s"
+
+MIAGCSqGSIb3DQEHAqCAMIACAQExCzAJBgUrDgMCGgUAMIAGCSqGSIb3DQEHAQAAoIIJWjCCAoIw
+ggHroAMCAQICAQQwDQYJKoZIhvcNAQEEBQAwUzELMAkGA1UEBhMCVVMxHDAaBgNVBAoTE0VxdWlm
+YXggU2VjdXJlIEluYy4xJjAkBgNVBAMTHUVxdWlmYXggU2VjdXJlIGVCdXNpbmVzcyBDQS0xMB4X
+DTk5MDYyMTA0MDAwMFoXDTIwMDYyMTA0MDAwMFowUzELMAkGA1UEBhMCVVMxHDAaBgNVBAoTE0Vx
+dWlmYXggU2VjdXJlIEluYy4xJjAkBgNVBAMTHUVxdWlmYXggU2VjdXJlIGVCdXNpbmVzcyBDQS0x
+MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDOLxm8F7d33pOpX1oNF080GgyY9CLZWdTEaEbw
+tDXFhQMgxq9FpSFRRUHrFlg2Mm/iUGJk+f1RnKok2fSdgyqHCiHTEjg0bI0Ablqg2ULuGiGV+VJM
+VVrFDzhPRvpt+C411h186+LwsHWAyKkTrL6I7zpuq18qOGICsBJ7/o+mAwIDAQABo2YwZDARBglg
+hkgBhvhCAQEEBAMCAAcwDwYDVR0TAQH/BAUwAwEB/zAfBgNVHSMEGDAWgBRKeDJSEdtZFjZe38EU
+NkBqR3xMoTAdBgNVHQ4EFgQUSngyUhHbWRY2Xt/BFDZAakd8TKEwDQYJKoZIhvcNAQEEBQADgYEA
+dVuomwMR5ulWTM35qUzADZrzzGVp5iV2zFm31lTDHc2ZrBndtIXV4D38YiCnhEtYZfHi+ZUhP/XU
+flgeR4dUPlihtbX4Ku9x57zD9rFJRuLXoGvlVnqaJ5h8RmIU58n8bgMSeYA4HUiCjfwX/iqWK7Vi
+pqY9vX+SWc1aKoKyN3kwggK3MIICIKADAgECAgEbMA0GCSqGSIb3DQEBBAUAMFMxCzAJBgNVBAYT
+AlVTMRwwGgYDVQQKExNFcXVpZmF4IFNlY3VyZSBJbmMuMSYwJAYDVQQDEx1FcXVpZmF4IFNlY3Vy
+ZSBlQnVzaW5lc3MgQ0EtMTAeFw0wMjEwMDcxNDU0NDVaFw0yMDA2MjEwNDAwMDBaME4xCzAJBgNV
+BAYTAlVTMRYwFAYDVQQKEw1HZW9UcnVzdCBJbmMuMScwJQYDVQQDEx5HZW9UcnVzdCBUcnVlIENy
+ZWRlbnRpYWxzIENBIDIwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALKXLKWSEqWF/2ialqGH
+EsshqhW8tzr7HqUcy0VNBDQyUcCaOw8BaYq0RTlEJE5Cl7GOgUM1/wngka5/YuJ8uYHF7iNiUsq0
+pg8KG28Jedp+XDxGxxnHm8m1nSnwH/L75MWFJ05g2T7bdqG+UTaSU3k4qvTKTQgf+RuznK9YRJY3
+AgMBAAGjgZ8wgZwwDgYDVR0PAQH/BAQDAgHGMB0GA1UdDgQWBBQig0tNIAIMMfR8WrAaTRXIeF0R
+STAPBgNVHRMBAf8EBTADAQH/MDkGA1UdHwQyMDAwLqAsoCqGKGh0dHA6Ly9jcmwuZ2VvdHJ1c3Qu
+Y29tL2NybHMvZWJpemNhMS5jcmwwHwYDVR0jBBgwFoAUSngyUhHbWRY2Xt/BFDZAakd8TKEwDQYJ
+KoZIhvcNAQEEBQADgYEAS0UrSRY3GX4HrsbxzC9NZpmNSISuQ1YAKqUIrDD+VTXlBd30dCkP3fwM
+nC8Eslfv9jSPgWS5WhBWdQCqFA0GnSN62e6ZsfwWOEGM6lnLQDZGKFnpaJI7y2X/4tWkqylK7/j2
+HzCrGd4Vlk942lATIpForpw61GsxNY4ZGmvdZJ4wggQVMIIDfqADAgECAgMQI9UwDQYJKoZIhvcN
+AQEEBQAwTjELMAkGA1UEBhMCVVMxFjAUBgNVBAoTDUdlb1RydXN0IEluYy4xJzAlBgNVBAMTHkdl
+b1RydXN0IFRydWUgQ3JlZGVudGlhbHMgQ0EgMjAeFw0wNDEwMjcxOTA4NTlaFw0wNTExMTAyMDA4
+NTlaMIIByzFJMEcGA1UEChNAR2VvVHJ1c3QgVHJ1ZSBDcmVkZW50aWFscyBDdXN0b21lciAtIE9y
+Z2FuaXphdGlvbiBub3QgdmFsaWRhdGVkLjE/MD0GA1UECxM2Q1BTIHRlcm1zIGluY29ycG9yYXRl
+ZCBieSByZWZlcmVuY2UgbGlhYmlsaXR5IGxpbWl0ZWQuMUkwRwYDVQQLE0BTZWUgVHJ1ZSBDcmVk
+ZW50aWFscyBFeHByZXNzIENQUyB3d3cuZ2VvdHJ1c3QuY29tL3Jlc291cmNlcy9DUFMuMS0wKwYD
+VQQLEyRFbWFpbCBjb250cm9sIHZhbGlkYXRlZCBieSBHZW9UcnVzdC4xPzA9BgNVBAsTNklkZW50
+aXR5IGF1dGhlbnRpY2F0ZWQgYnkgUmVnaXN0cmF0aW9uIEF1dGhvcml0eSAoUkEpLjFAMD4GA1UE
+CxQ3UmVnaXN0cmF0aW9uIEF1dGhvcml0eSAoUkEpIC0gam1vcnRydWRAZGlnaXRhbHJpdmVyLmNv
+bTEWMBQGA1UEAxMNSGVucnkgQ2FtYWNobzEoMCYGCSqGSIb3DQEJARYZaGNhbWFjaG9AZGlnaXRh
+bHJpdmVyLmNvbTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAk/O6G/919B1j8kd0N6aBo571
+puEaTKK/aSZjpwRyxNV2KJIjvvl95kq4pUVpLdCJD/+a1Y3iktzUc/utJvyFO6EQ9S2HvOl7x1s5
+r34OV+zFFH2Gse7uORBIiLJzHZTl8QwHxXy8BFeQAJuQ0XaJZLr7aRWfVtE2U/oBprlyHYECAwEA
+AaOBgTB/MBEGCWCGSAGG+EIBAQQEAwIFoDAOBgNVHQ8BAf8EBAMCBeAwOQYDVR0fBDIwMDAuoCyg
+KoYoaHR0cDovL2NybC5nZW90cnVzdC5jb20vY3Jscy9ndHRjY2EyLmNybDAfBgNVHSMEGDAWgBQi
+g0tNIAIMMfR8WrAaTRXIeF0RSTANBgkqhkiG9w0BAQQFAAOBgQBlL9p6z4yrZuNaKVk55n9ZErjR
+vDS0sqQ6D7Od1cCATPGSiLhAOErBOCgkulrCFhrj/bCYyJqr55WfLuzdU69u1MBWl6kN7WRSCFa5
+BYleC7Du7Y3AS4tz8V39JC2i+Ht1d1bg6BGLspOIfIhgwbp7XpeVKxlhkIJZFqlP7/aNUDGCAoQw
+ggKAAgEBMFUwTjELMAkGA1UEBhMCVVMxFjAUBgNVBAoTDUdlb1RydXN0IEluYy4xJzAlBgNVBAMT
+Hkdlb1RydXN0IFRydWUgQ3JlZGVudGlhbHMgQ0EgMgIDECPVMAkGBSsOAwIaBQCgggGFMBgGCSqG
+SIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTA1MDMwODA2MzYxMFowIwYJKoZI
+hvcNAQkEMRYEFFs3otFG7VuNiaebtXayIu+QMsc8MFgGCSqGSIb3DQEJDzFLMEkwCgYIKoZIhvcN
+AwcwDgYIKoZIhvcNAwICAgCAMAcGBSsOAwIHMA0GCCqGSIb3DQMCAgEoMAcGBSsOAwIaMAoGCCqG
+SIb3DQIFMGQGCSsGAQQBgjcQBDFXMFUwTjELMAkGA1UEBhMCVVMxFjAUBgNVBAoTDUdlb1RydXN0
+IEluYy4xJzAlBgNVBAMTHkdlb1RydXN0IFRydWUgQ3JlZGVudGlhbHMgQ0EgMgIDECPVMGYGCyqG
+SIb3DQEJEAILMVegVTBOMQswCQYDVQQGEwJVUzEWMBQGA1UEChMNR2VvVHJ1c3QgSW5jLjEnMCUG
+A1UEAxMeR2VvVHJ1c3QgVHJ1ZSBDcmVkZW50aWFscyBDQSAyAgMQI9UwDQYJKoZIhvcNAQEBBQAE
+gYAWYUfGMhDpb4HRclEA1i+xPbtujZtR1udPB+FTcavaaBXxWMBxNb/jKJahuxhW3G99q8PX4+pC
+YqL26DRrD+r5CDmERGjVabNxIregfShPIjkblBUgwF/m7bRlZdo218OJsSDYtxFS9+moTEYPtIef
+rW/2o3ocOgabve4dcrkmYgAAAAAAAA==
+
+------=_NextPart_000_023B_01C52376.D2DEFF70--

@@ -1,0 +1,106 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5021
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 20712 invoked from network); 28 Sep 2006 16:50:56 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 28 Sep 2006 16:50:56 -0000
+Received: (qmail 11066 invoked by uid 225); 28 Sep 2006 16:50:56 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11059 invoked by alias); 28 Sep 2006 16:50:55 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 28 Sep 2006 09:50:53 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 252832AFE6; Thu, 28 Sep 2006 09:50:48 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060928165048.252832AFE6@x3.develooper.com>
+Date: Thu, 28 Sep 2006 09:50:48 -0700 (PDT)
+Subject: Bioinformatics Specialist at the NIH (onsite), United States, MD, Rockville
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4714
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 28, 2006
+
+Job title: Bioinformatics Specialist at the NIH
+
+Company name:
+Kelly Scientific Resources at the National Institutes of Health
+
+Internal ID: 3157
+
+Location: United States, MD, Rockville
+
+Travel: 0-25%
+
+Terms of employment: Hourly employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Kelly Scientific Resources is currently seeking a Bioinformatics Specialist
+to work on-site at the National Institutes of Health in Rockville, MD.
+
+
+The Bioinformatics Specialist will:
+
+- Participate with other members of the Bioinformatics team in the support
+of a modern, high-throughput genomic DNA sequencing facility
+
+- Maintain existing software packages that track and process raw sequence
+data
+
+- Provide analytical tools for DNA finishing
+
+- Generate quality and progress reports, as well as package and track
+submission of data to public repositories 
+
+- Extend existing Perl programs, web-based interactive tools and Oracle
+database queries as sequence management and analysis needs evolve
+
+Required skills:
+The Bioinformatics Specialist must have:
+
+- At least 3 years of programming experience, including:
+- At least 2 years professional experience programming in object-oriented
+Perl & CGI
+- At least 2 years professional experience with relational database
+development
+- Solid knowledge of AWL, HTML, and UNIX shell scripting
+- Experience developing and deploying applications on a UNIX platform
+- Familiarity with Oracle DB querying using DBI and SQL Plus
+- Programming support on bioinformatics projects
+- Familiarity with public bioinformatics databases and tools (e.g. Entrez,
+BLAST, etc.)
+- Prior use of Versioning Control Software (VCS)
+- Some experience with object-oriented programming in Java, C, or C++
+
+- B.S. in Computer Science or related field (background in bioinformatics
+or biological sciences strongly preferred)
+
+- Strong interpersonal and communication skills
+
+- Proven critical thinking skills and a demonstrated ability to develop
+unique solutions to programming problems
+
+URL for more information:
+http://jobsearch.kellycareernetwork.com/getjob.asp?JobID=48448263&AVSDM=200
+6-09-27+14%3A36%3A06&Logo=0&lid=708&co=xkellysrkcnx
+
+Contact information at:
+http://jobs.perl.org/job/4714#contact
+
+

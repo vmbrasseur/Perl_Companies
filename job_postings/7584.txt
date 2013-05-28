@@ -1,0 +1,83 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7584
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 18991 invoked from network); 25 Jan 2008 01:30:59 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 25 Jan 2008 01:30:59 -0000
+Received: (qmail 11145 invoked by uid 225); 25 Jan 2008 01:30:59 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11140 invoked by alias); 25 Jan 2008 01:30:58 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 24 Jan 2008 17:30:50 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 20D6C2AF9C; Thu, 24 Jan 2008 17:30:45 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20080125013047.20D6C2AF9C@x3.develooper.com>
+Date: Thu, 24 Jan 2008 17:30:45 -0800 (PST)
+Subject: Perl Programmer (onsite), United States, NY, New York
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/7478
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 24, 2008
+
+Job title: Perl Programmer
+
+Company name: SelectMinds, Inc.
+
+Location: United States, NY, New York
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+SelectMinds is seeking a full-time Perl expert to enhance and maintain the
+next generation of our datafeed processing/auditing system and work with
+our product development and client service teams to support some of the
+world's most prestigious companies.  This position requires a clever,
+energetic programmer that is equal parts detective, inventor, and sentinel.
+ Individuals who demonstrate creative problem solving skills while paying
+careful attention to details will have the opportunity to work on further
+exciting projects and be a key contributor to our service offering.
+
+
+Required skills:
+* 5+ years OO Perl development
+   * Strong working knowledge of DB, Mail, LWP, Excel, XML, File IO, Socket
+Perl libraries
+   * Strong SQL experience
+   * MySQL, Oracle
+   * Linux scripting experience: awk, grep, sed, curl, wget, ftp, gpg
+   * Version control (CVS)
+   * Knowledge of common problems with Excel, csv, other file parsing
+issues
+   * Familiary with encryption and data privacy issues
+
+Desired skills:
+* Java
+   * Database performance
+   * RSS, Atom, SOAP
+
+
+URL for more information: http://www.selectminds.com/
+
+Contact information at:
+http://jobs.perl.org/job/7478#contact
+
+

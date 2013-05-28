@@ -1,0 +1,139 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11035
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 14900 invoked from network); 25 Feb 2011 03:13:37 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 25 Feb 2011 03:13:37 -0000
+Received: (qmail 2819 invoked by uid 225); 25 Feb 2011 03:13:36 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 2815 invoked by alias); 25 Feb 2011 03:13:36 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS,T_LOTS_OF_MONEY
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 24 Feb 2011 19:13:33 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 4454A2AFDE; Thu, 24 Feb 2011 19:13:30 -0800 (PST)
+To: jobs@perl.org
+Date: Thu, 24 Feb 2011 19:13:30 -0800
+Message-ID: <20110225031330.4454A2AFDE@x3.develooper.com>
+Subject: Software Development Manager (Perl, Linux) (onsite), United States,
+ MD, Annapolis
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13728
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 24, 2011
+
+Job title: Software Development Manager (Perl, Linux)
+
+Company name: Infoblox
+
+Location: United States, MD, Annapolis
+
+Pay rate: 130,000 - 145,000 USD, plus bonus and equity
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The Company:
+Infoblox is a 12 year old, privately held company that is the leader in
+Network Automation and Control.  We have shipped more than 40,000
+appliances to more than 4,000 clients worldwide including more than 1/3 of
+the Fortune 500.  Our client base uses our integrated hardened appliance
+based software for business continuity, availability and compliance.
+
+The Annapolis office is the headquarters for the NetMRI product line.  This
+network automation and configuration management software helps users
+automate and control change and network configuration for multi-vendor
+layer 2 and 3 network devices.	Customers use it for:
+* Change control and network simulation
+* Building and enforcing standards and compliance
+* Task automation, configuration and troubleshooting
+Supporting virtualization, consolidation and cloud computing
+
+The Product:
+
+NetMRI focuses on innovative ways to deliver network configuration and
+change management to the enterprise.  The user experience is a highly
+interactive Rich Internet Application implemented with JavaScript/JSON,
+Flash, Flex and HTML. The server side is Linux / MySQL with a Ruby on Rails
+framework served up by Apache / Passenger. The backend consists of numerous
+Perl-based engines that collect, model and analyze network data and
+automate network operations. The development methodology centers around
+Agile Scrum, using lightweight processes focused on delivering tangible
+results quickly and often.
+
+The Challenge:
+
+We are looking to bring on a highly technical manager to help augment our
+growth.  Culturally, this person should have a track record of leading
+teams in a highly collaborative style.	You need to have a "when in doubt,
+communicate" style of management.  You should be technical enough AND
+interested enough to learn what your team is doing to drive your learning
+curve.	In short, you should be an engineer who LIKES to manage. 
+
+Key Responsibilities:
+
+* Manage and mentor a team of software engineers (both domestic and
+offshore)
+* Own all aspects of team deliverables (e.g. requirements analysis, task
+break down and estimation, projects execution, risk mitigation and quality)
+
+* Provide design guidance and flush out bad design
+* Drive initiatives to improve quality of software, monitor quality of
+deliverables and work with QA team to define effective test plans and
+develop test standards for product development lifecycle
+* Lead and build a team that will push the boundaries of what is possible
+to create better experiences for the customer base
+* Project managing and executing current releases according to schedule as
+well as defining future projects
+
+Required skills:
+What you need to be considered as a candidate for this role:
+
+* 10 or more years of software development experience with at least 2 of
+those years managing a	team of software developers developing in any of
+the following languages - Perl, C++, Java, Python
+* Full software development life-cycle experience (prefer product
+experience, but at a minimum experience leading a team of developers
+building software on a release schedule)
+* Strong background in products built in a Linux environment
+* Demonstrated ability to build, challenge and retain strong development
+teams as well as a track record of leading those teams to high degrees of
+achievement
+* 4 year degree with technical major (e.g. CS, EE, CE, etc)
+* You must be an Engineering Manager that is comfortable with Project
+Management (not vice versa)
+
+
+* The ability to code, when practical (anywhere from 0-20% of your time
+depending on need)
+
+Desired skills:
+Competitive differentiators:
+
+* Knowledge of IP networking and/or Network Management software  and
+leading teams that build products that are network-centric
+* Strong knowledge of Perl and MySQL
+* Experience building and/or managing offshore teams
+* Graduate degree with a technical, management or business focus
+* The ability to code, when practical (anywhere from 0-20% of your time
+depending on need)
+
+Website for more information: http://www.infoblox.com/
+
+Contact information at:
+http://jobs.perl.org/job/13728#contact

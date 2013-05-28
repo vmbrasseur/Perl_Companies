@@ -1,0 +1,170 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10816
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 30599 invoked from network); 20 Dec 2010 00:30:30 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 20 Dec 2010 00:30:30 -0000
+Received: (qmail 28625 invoked by uid 225); 20 Dec 2010 00:30:29 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 28620 invoked by alias); 20 Dec 2010 00:30:29 -0000
+X-Spam-Status: No, hits=-3.8 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS,SUBJECT_NEEDS_ENCODING,SUBJ_ILLEGAL_CHARS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 19 Dec 2010 16:30:27 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 08CC62AFDD; Sun, 19 Dec 2010 16:30:23 -0800 (PST)
+To: jobs@perl.org
+Date: Sun, 19 Dec 2010 16:30:23 -0800
+Message-ID: <20101220003024.08CC62AFDD@x3.develooper.com>
+X-Virus-Checked: Checked
+Subject: Lead System Administrator – Petfinder (2822) (onsite), United
+ States, MD, Silver Spring
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13354
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 17, 2010
+
+Job title: Lead System Administrator – Petfinder (2822)
+
+Company name: Discovery Communications
+
+Location: United States, MD, Silver Spring
+
+Pay rate: DOE
+
+Terms of employment: Salaried employee
+
+Length of employment: INDEF
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Discovery Communications is the number-one nonfiction media company
+reaching more than 1.5 billion cumulative subscribers in over 170
+countries. Through TV and digital media, We are the home of:  Discovery
+Channel • TLC • Animal Planet • The Science Channel • Planet Green •
+Discovery Health • Military Channel • HD Theater • Discovery ID • Discovery
+Kids • Discovery Home Channel • Fit TV • petfinder.com • howstuffworks.com
+• treehugger.com • OWN • Antenna Audio • The Hub. 
+
+We are seeking candidates for the positions of Lead System Administrator –
+Petfinder in our Silver Spring, MD Office.
+
+POSITION SUMMARY
+Discovery Communications (Nasdaq: DISCA, DISCB, DISCK) is the world's
+number one nonfiction media company reaching more than 1.5 billion
+cumulative subscribers in over 180 countries.  Discovery empowers people to
+explore their world and satisfy their curiosity through 100-plus worldwide
+networks, led by Discovery Channel, TLC, Animal Planet, Science Channel,
+Investigation Discovery, Planet Green and HD Theater, as well as leading
+consumer and educational products and services, and a diversified portfolio
+of digital media services including HowStuffWorks.com and Petfinder.com.
+ 
+Petfinder is the #1 pet adoption website with on-line, searchable database
+of 300,000+ animals that need homes posted by over 13,000 animal shelters
+and adoption organizations across the USA, Canada and Mexico. Petfinder.com
+has over 5M unique visitors per month and 6 million page views per day.
+Most pages are dynamically generated for users searching for pets. 
+Petfinder also provides a number of other resources and tools for pet
+owners. 
+
+
+Required skills:
+RESPONSIBILITES
+1. The Lead System Administrator is an important technical leadership role
+with responsibility and accountability for the planning, design,
+documentation, engineering/implementation, and administration of an
+available, reliable, fault tolerant Online network & server infrastructure
+supporting Petfinder.com.
+2. Partners with management, PMs and leads on other teams to plan and
+implement projects.
+3. Leading training and knowledge sharing across the technical team.  
+4. In coordination with the Lead Developer, manages code configuration
+management and performs production releases.
+5. Collaborates with other team leads on process improvements to improve
+overall team efficiency.
+6. Collaborates with other Discovery Digital Media system administrators on
+planning any network and system consolidation. 
+
+
+Desired skills:
+REQUIREMENTS
+Required Leadership Skills
+* Responsible and accountable to management for system performance and
+availability.
+* Seeks opportunities to assist junior team members and prepare them to
+take on more responsibilities.
+* Tracks and seeks to improve team performance metrics
+ * Seeks to improve estimation process to better capture original estimates
+and predict future work efforts
+* Drives action items resulting from decisions made in meetings. Also keeps
+PMs and supervisor informed of decisions made and issues resulting from a
+meeting.
+* Builds relationships with project team members to effectively build and
+administer system architecture.
+* Drives process improvement initiatives.
+ 
+Required Management Skills
+* Effectively collaborates with team members and takes on challenges
+outside everyday responsibilities to accomplish a goal.
+* Communicates with business stakeholders
+* Key contributor to project plans; able to drive project plans
+ 
+Required Domain Expertise
+* End-to-end N-tier architecture expertise (including OS, server hardware,
+network appliance & storage, CDN, DBMS, middleware, web/application
+servers)
+* Champions platform technology initiatives, speaking to their benefits,
+features, and strategic business impact
+* Leads performance testing and tuning initiatives.
+* Leads troubleshooting of critical problems, propose ways to prevent
+future problems.
+* Agility focused - clear understanding of need for a system architecture
+that can accommodate change
+ 
+Required skills
+* Redhat Enterprise Linux 5
+* Apache configuration
+* MySQL server administration
+* VMware ESX 3.5 or vSphere 4
+* Perl, installing CPAN modules, familiarity with mod_perl
+* Experience building and installing open source software
+* NFS and NetApp filer administration
+* F5 BIG-IP or experience with other load balancing hardware
+* Subversion (experience with release management a plus)
+* Firewall configuration
+* Strong shell scripting skills
+ 
+Desired skills
+* Endeca
+* Akamai or other CDN
+* JBoss application server
+* cfengine or other configuration management system
+ 
+Required Qualifications
+ 
+* Requires bachelor's degree (in Computer Science or related field) or
+equivalent.
+* Ten years of related experience with at least three years in a lead or
+senior role.
+Other
+Position located at Discovery’s Silver Spring Maryland headquarters.
+Minimal travel required.
+
+
+Website for more information: http://dsc.discovery.com/
+
+Contact information at:
+http://jobs.perl.org/job/13354#contact

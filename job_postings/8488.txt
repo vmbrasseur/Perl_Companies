@@ -1,0 +1,120 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8488
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13676 invoked from network); 24 Jul 2008 07:14:56 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 24 Jul 2008 07:14:56 -0000
+Received: (qmail 20893 invoked by uid 225); 24 Jul 2008 07:14:56 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 20888 invoked by alias); 24 Jul 2008 07:14:56 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 24 Jul 2008 00:14:53 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 866E92AFEA; Thu, 24 Jul 2008 00:14:49 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080724071449.866E92AFEA@x3.develooper.com>
+Date: Thu, 24 Jul 2008 00:14:49 -0700 (PDT)
+Subject: Perl/Catalyst full-time junior web developer (onsite), Canada, Alberta, Calgary
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/9274
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 23, 2008
+
+Job title:
+Perl/Catalyst full-time junior web developer
+
+Company name: Cosbit Technologies
+
+Location: Canada, Alberta, Calgary
+
+Pay rate:
+$18-22/hr plus revenue share program after initial assessment period
+
+Travel: 0%
+
+Terms of employment: Hourly employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+- Are you becoming lost, feeling like just another number working at a
+large company?
+- Are you looking to get back to having some fun at work?
+- Are you intrigued by the opportunity to "live & learn" in an
+entrepreneurial environment, producing and delivering excellent product for
+interesting clients?
+
+Cosbit Technologies is a rapidly growing web application development firm
+with head office in Calgary, Alberta, and an office opening Fall 2008 in
+Ottawa, Ontario.
+
+This opening is for a Calgary resident (no telecommuters, please) looking
+to become an expert broad-spectrum web application developer. While the
+initial commitment is for a 90-day assessment period, we are looking to
+foster a long-term relationship. Employment can be immediate.
+
+Your workstation will include dual 20" LCD screens, since two heads are
+better than one. We develop in Perl using the Komodo IDE, and knowledge of
+Subversion and bits of SQL will certainly come in handy. Modules we use
+frequently include HTML::Mason, Catalyst, Moose, DBIx::Class,
+Image::Magick, Perl::Critic, Perl::Tidy, jQuery, and Taconite.
+
+Working with us you will learn standards-based, best-practice coding
+techniques for web application development. Our trade is our craft and our
+work is done right -- no cutting corners. Pay is based on merit. Starting
+wage for this position is $18-$22/hr. Pay review occurs every 6 months. We
+have a very competitive revenue-sharing program for full-time positions
+(after the assessment period).
+
+As we grow, if you work hard with us along the way, you will have the
+opportunity to produce more, get more money, and increase your
+responsibility to being a team leader.
+
+Our office environment is relatively informal, though clients will stop by
+from time to time (shorts, t-shirt & sandals are okay, good personal
+hygiene is requisite). Hours are flexible, though we expect the majority of
+your time to be spent between Monday to Friday, during normal office hours.
+Full-time means you are expected to commit 35-40 hours a week.
+
+
+Required skills:
+Since we're small, you should be willing to extend yourself as a "Jack of
+all trades". Ideally you have, or are working towards, a B.Sc. or
+equivalent. Any experience in web application development, or software
+development in general, is an asset. You should be willing to become an
+expert at HTML and CSS, DOM manipulation, AJAX development including
+XSS+CSRF defenses, and object-oriented Javascript. You should be
+comfortable with Photoshop basics (or being willing to learn quickly).
+While web application development will be your primary focus, your daily
+tasks will occasionally involve network, hardware, and systems
+administration, if that's what needs to get done.
+
+
+Desired skills:
+Our infrastructure includes many open-source tools such as Perl, Linux
+(Ubuntu and CentOS), Apache, FastCGI, BIND, SSH, Subversion, Pure-FTPd,
+Postfix, and PostgreSQL. Familiarity with these back-end tools as well as
+various client platforms and browsers, including Windows and Mac OS X,
+Firefox, Safari, Internet Explorer, and Opera, is a definite asset.
+
+
+URL for more information: http://cosbit.com/jobs
+
+Contact information at:
+http://jobs.perl.org/job/9274#contact
+
+

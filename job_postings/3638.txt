@@ -1,0 +1,93 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3638
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13847 invoked from network); 3 Jan 2006 13:32:27 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 3 Jan 2006 13:32:27 -0000
+Received: (qmail 9841 invoked by uid 225); 3 Jan 2006 13:32:25 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 9815 invoked by alias); 3 Jan 2006 13:32:24 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 03 Jan 2006 05:32:21 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id k03DWH9v006079
+	for <jobs@perl.org>; Tue, 3 Jan 2006 05:32:17 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id k03DWHRL006077;
+	Tue, 3 Jan 2006 05:32:17 -0800
+Date: Tue, 3 Jan 2006 05:32:17 -0800
+Message-ID: <200601031332.k03DWHRL006077@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Software Developer for Web-based Applications (Hamburg, Germany) (onsite), Germany, Elmshorn / Hamburg
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3473
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January  3, 2006
+
+Job title:
+Software Developer for Web-based Applications (Hamburg, Germany)
+
+Company name: Schaffhausen ITC Solutions GmbH
+
+Location: Germany, Elmshorn / Hamburg
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are looking for a Perl-Programmer who loves to write code. In exchange
+we can offer very interesting projects with a diverse set of technologies.
+
+######################
+# German Description #
+######################
+
+Schaffhausen ITC Solutions sucht einen Software-Entwickler im Bereich
+Web-Applikationen. Auf Sie warten anspruchsvolle Projekte und immer wieder
+neue Herausforderungen in einem jungen Team. Wenn Sie bei Dingen wie
+OR-Mappern oder MVC-Rahmenwerken keine Fragezeichen im Kopf haben und Sie
+bei der Frage nach einer bestimmten Programmiersprache antworten "Ist doch
+eh alles das gleiche (außer Prolog)", dann sind Sie genau der oder die
+Richtige für uns. Wir erwarten, dass sie viel guten Quellcode schreiben,
+dabei aber das Große Ganze nicht vergessen, so dass am Ende schnell ein
+sehr gutes Produkt abgeliefert wird.
+
+Required skills:
+- Very good knowledge of object-oriented Perl
+- Relational Databases
+- MVC-Frameworks
+- Pbject-relational mapping
+
+
+Desired skills:
+These skills are optional, but nice to have have:
+- Other dynamic language as well as Java and C++ development
+- MySQL (Cluster) - Development
+- XML-RPC, SOAP, CORBA
+
+URL for more information:
+http://www.schaffhausen.de/site/de/html/200/itc_solutions.html
+
+Contact information at:
+http://jobs.perl.org/job/3473#contact
+
+

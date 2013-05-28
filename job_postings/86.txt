@@ -1,0 +1,34 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:86
+Return-Path: <rch@richard.eu.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 35689 invoked from network); 12 Jun 2001 11:03:50 -0000
+Received: from d-128-95.banga.lt (HELO richard.eu.org) (213.226.128.95)
+  by onion.valueclick.com with SMTP; 12 Jun 2001 11:03:50 -0000
+Received: (from rch@localhost)
+	by richard.eu.org (8.11.0/8.11.0) id f5CB2Ql39206
+	for jobs@perl.org; Tue, 12 Jun 2001 13:02:26 +0200 (EET)
+	(envelope-from rch@richard.eu.org)
+Date: Tue, 12 Jun 2001 13:02:26 +0200
+To: jobs@perl.org
+Message-ID: <20010612130226.B28209@richard.eu.org>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+User-Agent: Mutt/1.3.12i
+X-OS: FreeBSD 4.3-STABLE i386
+X-Spam-Rating: onion.valueclick.com 1.6.2 0/1000/N
+Subject: Seeking telecommuting contracts
+Approved: news@nntp.perl.org
+From: rch@richard.eu.org (=?UTF-8?Q?Ri=C4=8Dardas_=C4=8Cepas?=)
+
+ 
+ I'd like to make known my availability for telecommuting work.  I have experience developing web applications/handlers/modules in mod_perl, php, DBI/MySQL on FreeBSD/Linux/Unix.  I also have sysadmin experience in Apache, Apache's ssl modules, MySQL, BIND, sendmail, postfix.  I'm available 40 hours per week.
+ I will be happy to provide more detailed information, code samples, etc.
+ Resume:
+ http://unicode.richard.eu.org/me/rch/resume.html
+ 
+         Thanks, Richard.

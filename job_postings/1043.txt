@@ -1,0 +1,114 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:1043
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 47858 invoked by uid 1016); 26 Aug 2003 00:02:37 -0000
+Date: 26 Aug 2003 00:02:37 -0000
+Message-ID: <20030826000237.47857.qmail@onion.perl.org>
+To: jobs@perl.org
+Subject: Senior mod_perl/DBI Programmer / Analyst for online Auction Website (onsite), United States, DC, Washington
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/931
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 25, 2003
+
+Job title:
+Senior mod_perl/DBI Programmer / Analyst for online Auction Website
+
+Company name: Government Liquidation
+
+Location: United States, DC, Washington
+
+Pay rate: 65,000 - 70,000 USD
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Long-standing Washington DC web-based Auction company looking for mod_perl
+and MySQL guru, to join a small-sized development team, in fast moving, 4
+year old, profitable startup-environment. Duties involve developing
+web-based applications to serve online auction buyers in searching for, and
+bidding on Government Surplus, as well as building integration tools for
+in-house inventory management systems, with AS/400 ERP systems integration,
+for high-capacity, and scalability.
+
+Environment:
+
+Platform-based code base serving multiple websites, MySQL inter-database
+replication, OO core modules, high-speed-optimized mod_perl & non-mod_perl
+applications.
+
+High availability Auction & Bidding systems, inventory management,
+barcoding, ERP integration, Unix to AS/400 gateways, XML gateways for
+inventory and collections processing, Edge-caching integration.
+
+High concentration placed on database availability, application query
+speed, concurrency, and scalability. Database architectures involve
+master/slave replication, mixed database usage, and merge tables.
+
+Architecture:
+
+Technologies include RedHat Linux, Apache, MySQL, strong Perl, strong
+mod_perl, strong DBI, OO, CVS.
+
+Design:
+
+DHTML/JavaScript-based back-end application design. Strong GUI development
+skills a plus.
+
+Required skills:
+Duties:
+
+The position involves designing, developing, testing, deploying,
+maintaining and documenting new capabilities. Must be self starter, and
+self managing. Projects may be individual or as part of a small group of
+developers. The developer may work on multiple projects at once, or be
+focused on a specific effort over a dedicated period of time. May involve
+some travel.
+
+Experience Requirements:
+
+• 5+ years experience with Perl.
+• 5+ years experience with DBMS, concentration on MySQL and DBI a plus.
+• 2-3 years experience with mod_perl.
+• Experienced with Apache. 
+• Experience with high-availability & high-scalability architectures.
+• Ability to thrive in a fast-moving, multi-tasking environment. 
+• Strong interpersonal, communication, written, organizational, and
+problem-solving skills. 
+• Ability to provide imaginative, creative solutions to technical
+challenges. 
+• Excellent understanding of Web technologies and the software lifecycle
+development process.
+• Works well as a team member, as well as having individual ability to
+develop using lifecycle processes.
+
+Compensation:
+
+• $65,000 - $70,000 plus bonus
+• 401k matching and full medical benefits  
+
+URL for more information: http://www.govliquidation.com/
+
+Contact information:
+TechJobs@govliquidation.com
+Government Liquidation, LLC
+2131 K Street NW 4th Floor
+Washington DC 20037
+Fax: 202-467-5475
+
+

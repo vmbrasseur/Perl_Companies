@@ -1,0 +1,89 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:397
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 90877 invoked by uid 1016); 20 Apr 2002 01:57:04 -0000
+Date: 20 Apr 2002 01:57:04 -0000
+Message-ID: <20020420015704.90876.qmail@onion.perl.org>
+To: jobs@perl.org
+Subject: Portal job (onsite), United States, PA, Pittsburgh
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/292
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 19, 2002
+
+Job title: Portal job
+
+Company name: Aaronsen Group, Ltd.
+
+Internal ID: EC4
+
+Location: United States, PA, Pittsburgh
+
+Pay rate: $50/hour
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: 2 months
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+I need three highly skilled developers to crank out a My Yahoo! clone for
+use as a corporate portal.
+
+You'll be slaving for 2 months to put together existing pieces of software
+as well as to create new software.  If you're not in Pittsburgh, I'll fly
+you here and put you up.  I'll provide you with working space and machines,
+and every comfort necessary to focus your brain solely on the project.	The
+caffeine will flow heavily.
+
+You'll be working under mod_perl with DBI, LDAP, probably template toolkit,
+FreeBSD, lots of modules, and other things as necessary.
+
+Note that the requirement is for skilled *developers*, not just straight
+coders/hackers.  This means you have to be able to deal with other
+developers, which are human.  You must also be able to work within a
+project framework, handle interfaces, and deal with code documentation. 
+And most importantly, you must understand that the job is not to code a
+righteous hack, but to satisfy a client.
+
+
+Required skills:
+Perl coding
+DBI (for MySQL or Postgres)
+LDAP
+LWP
+FreeBSD
+Installation and use of random modules
+You must allow nothing to get in your way.
+
+
+Desired skills:
+Perl coding
+DBI (for MySQL or Postgres)
+LDAP
+LWP
+FreeBSD
+Installation and use of random modules
+You must allow nothing to get in your way.
+
+URL for more information: http://www.aaronsen.com/
+
+Contact information:
+Email info@aaronsen.com with your pleading and your resume.  I expect to
+see direct experience with Perl and Unix.
+
+

@@ -1,0 +1,77 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:1852
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 11466 invoked from network); 21 Aug 2004 04:12:54 -0000
+Received: from x1.develooper.com (63.251.223.170)
+  by lists.develooper.com with SMTP; 21 Aug 2004 04:12:54 -0000
+Received: (qmail 1297 invoked by uid 225); 21 Aug 2004 04:12:54 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 1293 invoked by alias); 21 Aug 2004 04:12:53 -0000
+X-Spam-Status: No, hits=-4.9 required=8.0
+	tests=BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.dev) (63.251.223.163)
+  by la.mx.develooper.com (qpsmtpd/0.27.1) with ESMTP; Fri, 20 Aug 2004 21:12:52 -0700
+Received: from x3.dev (localhost.localdomain [127.0.0.1])
+	by x3.dev (8.12.11/8.12.11) with ESMTP id i7L4CmG3025487
+	for <jobs@perl.org>; Fri, 20 Aug 2004 21:12:48 -0700
+Received: (from jobs@localhost)
+	by x3.dev (8.12.11/8.12.11/Submit) id i7L4CmH7025485;
+	Fri, 20 Aug 2004 21:12:48 -0700
+Date: Fri, 20 Aug 2004 21:12:48 -0700
+Message-ID: <200408210412.i7L4CmH7025485@x3.dev>
+X-Authentication-Warning: x3.dev: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Installation/Configuration/Release Engineer (onsite), United States, CA, Palo Alto
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1742
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 20, 2004
+
+Job title:
+Installation/Configuration/Release Engineer
+
+Company name: VMware
+
+Location: United States, CA, Palo Alto
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+This engineer will assist in creating the installation and configuration of
+a Linux-like OS distribution. Most of the coding will be in Perl and
+Python. Will be responsible for releases of new OS versions, driver
+updates, compiling and building RPM's, etc.
+
+Required skills:
+BS in computer science or equivalent.
+Very experienced in Python, Perl. Please have code samples prepared.
+Very experienced in Linux administration and configuration.
+
+
+Desired skills:
+If you have built your own Linux distribution or Linux rescue disk, that
+would be the type of experience which would be very relevant.
+C and C++ a big plus. 
+Published Perl modules would be a big plus.
+
+
+Contact information:
+dlee@vmware.com
+Debbie
+650-384-4093
+
+

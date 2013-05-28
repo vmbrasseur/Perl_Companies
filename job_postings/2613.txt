@@ -1,0 +1,98 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2613
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 20935 invoked from network); 19 Apr 2005 15:22:52 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 19 Apr 2005 15:22:52 -0000
+Received: (qmail 20456 invoked by uid 225); 19 Apr 2005 15:22:52 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 20452 invoked by alias); 19 Apr 2005 15:22:50 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 19 Apr 2005 08:22:46 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j3JFMiAB017350
+	for <jobs@perl.org>; Tue, 19 Apr 2005 08:22:44 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j3JFMism017348;
+	Tue, 19 Apr 2005 08:22:44 -0700
+Date: Tue, 19 Apr 2005 08:22:44 -0700
+Message-ID: <200504191522.j3JFMism017348@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Intermediate Perl/OO/mod_perl/PostgreSQL Position (onsite), Australia, NSW, Sydney
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2506
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 19, 2005
+
+Job title:
+Intermediate Perl/OO/mod_perl/PostgreSQL Position
+
+Company name: Phase N Australia
+
+Location: Australia, NSW, Sydney
+
+Pay rate:
+Neg. $AU50-60k'ish (trial) $60-80k+ (after)
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Length of employment: Indefinite (3 month trial)
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Phase N is currently involved in a joint venture to produce a new
+(Australian) national product for the motor industry (specifically
+dealers), which will run from one central data centre and be accessed
+online.
+
+We require one competant/intermediate Perl programmer to start immediately
+and help move the product to it's first release in 1-2 months, and then
+contribute to improving the product on its monthly release cycle.
+
+Location must be in Sydney but may be flexible for the first month,
+depending on the situation. i.e. You may be hosted by a joint venture
+partner, or potentially even at home. If willing to move, you will probably
+need to do so immediately, and would have to (of course) be legal.
+
+Given the quick start, we will probably need to validate your capabilities
+quickly, so a CPAN id or sample code is a strong plus.
+
+Required skills:
+Perl, with strong OO
+Linux/Apache/mod_perl
+PostgreSQL
+Template Toolkit
+Experienced with a wide range of CPAN modules
+HTML and basic JavaScript
+
+Desired skills:
+mod_perl2
+Oracle
+XUL/Firefox Applications
+Advanced-JavaScript/DHTML/AJaX
+
+
+URL for more information: http://phase-n.com/
+
+Contact information: jobs@phase-n.com
+
+

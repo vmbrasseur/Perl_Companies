@@ -1,0 +1,92 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10207
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 26163 invoked from network); 2 Jun 2010 22:16:14 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 2 Jun 2010 22:16:14 -0000
+Received: (qmail 4622 invoked by uid 225); 2 Jun 2010 22:16:14 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 4617 invoked by alias); 2 Jun 2010 22:16:14 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS,T_FRT_PROFILE2
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 02 Jun 2010 15:16:12 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 268092AFE1; Wed,  2 Jun 2010 15:16:09 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20100602221609.268092AFE1@x3.develooper.com>
+Date: Wed,  2 Jun 2010 15:16:09 -0700 (PDT)
+Subject: Scientific Perl Programmer - High Throughput Gene Targeting (onsite), United Kingdom, Cambridge
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/12344
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June  2, 2010
+
+Job title:
+Scientific Perl Programmer - High Throughput Gene Targeting
+
+Company name: Wellcome Trust Sanger Institute
+
+Internal ID: 80336
+
+Location: United Kingdom, Cambridge
+
+Pay rate: 27.3k - 37.6k p/a
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: 2.5 years
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We do software support for three high-profile scientific projects, doing ES
+Cell mutagenesis at the Wellcome Trust Sanger Institute.
+
+We are pragmatic in the technologies we use, and we work closely with our
+lab’s molecular biologists to make our software effective. For this reason,
+we are only interested in an on-site employee (i.e. no remote work).
+
+Our software ranges from plate-tracking to sequence analysis to data marts,
+often with Ajax-driven web front ends. Some of our software is deployed
+here: 
+<url>http://www.sanger.ac.uk/htgt </url>
+and here: 
+<url>http://www.knockoutmouse.org/martsearch</url>
+
+Required skills:
+You should be proficient in object-oriented Perl programming over
+relational databases, and have a good working knowledge of SQL.
+
+Desired skills:
+A working knowledge of other OO languages and frameworks used in
+server-side development (e.g. Ruby, Rails) would be welcome. If you have
+experience with server-side frameworks (such as Catalyst and Template
+Toolkit), and / or Javascript toolkits (such as Prototype or JQuery), this
+would be an advantage. A qualification in Biological computing is not
+essential but an interest in the science and willingness to learn fast is
+key. The campus runs frequent courses to allow staff to augment their
+technical skills.
+
+URL for more information:
+https://jobs.sanger.ac.uk/wd/plsql/wd_portal.show_job?p_web_site_id=1764&p_
+web_page_id=73874
+
+Contact information at:
+http://jobs.perl.org/job/12344#contact
+
+

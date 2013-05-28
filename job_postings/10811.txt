@@ -1,0 +1,104 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10811
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 3981 invoked from network); 16 Dec 2010 22:30:43 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 16 Dec 2010 22:30:43 -0000
+Received: (qmail 32021 invoked by uid 225); 16 Dec 2010 22:30:43 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 32015 invoked by alias); 16 Dec 2010 22:30:42 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 16 Dec 2010 14:30:40 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 180982AFE4; Thu, 16 Dec 2010 14:30:37 -0800 (PST)
+To: jobs@perl.org
+Date: Thu, 16 Dec 2010 14:30:37 -0800
+Message-ID: <20101216223037.180982AFE4@x3.develooper.com>
+Subject: Scientific Programmer (Vertebrate Genomics) (onsite), United
+ Kingdom, Hinxton, Cambridge
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13346
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 15, 2010
+
+Job title: Scientific Programmer (Vertebrate Genomics)
+
+Company name: EMBL - EBI
+
+Location: United Kingdom, Hinxton, Cambridge
+
+Pay rate: £36000
+
+Terms of employment: Salaried employee
+
+Length of employment: 3 years
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are seeking a software developer/bioinformatician interested in cutting
+edge technology to join our Variation Archive Group, which is part of the
+Vertebrate Genomics team at the European Bioinformatics Institute (EBI)
+located on the Wellcome Trust Genome Campus near Cambridge in the UK.
+ 
+The Variation Archive Group is responsible for archiving all types of
+genetic variations observed in individuals of any species. The data are
+stored in MySQL database using Perl based pipeline for data integration and
+distribution. The software developer/bioinformatician will undertake the
+following duties:
+
+- Design and implementation of new data models for the submitted data.
+- Automatisation of existing submission, exchange and archiving pipelines.
+- Working within international collaborations, especially with NCBI.
+- Presenting at conferences.
+
+The EBI, part of the European Molecular Biology Laboratory (EMBL), is a
+world-leading bioinformatics centre providng biological data to the
+scientific community with expertise in data storage, analysis and
+representation. The Vertebrate Genomics Team at the EBI also includes the
+European Genome-phenome Archive (EGA), 1000 Genomes data coordination
+centre (DCC) and the Ensembl project. This environment provides access to
+an international collection of projects at the cutting edge of human
+variation research. 
+
+For further information please visit www.ebi.ac.uk
+
+Required skills:
+- High level competence in modern programming languages
+- Experience in database design
+- comfortable to work in UNIX/Linux environment 
+experience and have experience of Perl and relational databases such as
+MySQL. 
+- MSc or PhD degree in computer or science.
+- strong self motivation
+- able to work both independently and as part of a closely interacting team
+of international scientists. 
+- skills delivering a high quality product within fixed deadlines are
+essential. 
+
+Desired skills:
+- experience working with large datasets
+- experience on Ensembl code base
+- knowledge on genetics, especially structural variations such as large
+deletions or insertions   
+
+Website for more information:
+http://www.embl.de/aboutus/jobs/searchjobs/index.php?newms=jj&id=40449&newl
+ang=1
+
+Contact information at:
+http://jobs.perl.org/job/13346#contact

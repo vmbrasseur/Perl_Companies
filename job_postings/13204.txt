@@ -1,0 +1,95 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13204
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 3604 invoked from network); 7 Mar 2013 07:23:26 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 7 Mar 2013 07:23:26 -0000
+Received: (qmail 25320 invoked by uid 225); 7 Mar 2013 07:23:25 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 25316 invoked by alias); 7 Mar 2013 07:23:25 -0000
+X-Spam-Status: No, hits=-2.0 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,SARE_MLH_Stock1
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 06 Mar 2013 23:23:22 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 5CA312AFE0; Wed,  6 Mar 2013 23:23:18 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 6 Mar 2013 23:23:18 -0800
+Message-ID: <20130307072318.5CA312AFE0@x3.develooper.com>
+Subject: Experienced Backend Developer (onsite), Stockholm, Sweden
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17099
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March  6, 2013
+
+Job title: Experienced Backend Developer
+
+Company name: Vizrt
+
+Internal ID: BESTO130219
+
+Location: Stockholm, Sweden
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We want to strengthen our team in Stockholm that develops our Media Engine
+and are looking for you with a passion for developing and delivering great
+features. You will be working with a world-class team of engineers,
+designers and product managers to create the best video asset management
+system in the world, and your role would be to develop the backend parts of
+the Media Engine. This position is about:
+
+Coding in a Linux environment to continuously enhance and maintain our
+Media Engine backend. In this role you are responsible for the design,
+implementation, code review, unit testing and documentation.
+
+Vizrt creates leading-edge content production tools for the digital media
+industry – from award-winning 3D graphics & maps through integrated video
+workflow solutions and online publishing tools. As a fully-fledged digital
+media systems provider we are ready to continue enriching and simplifying
+the way our customers tell their stories for every platform on which they
+want to tell them. And we will be helping them to do that for a long time
+to come.
+
+Required skills:
+- Several years of experience in developing software for large scale
+distributed systems.
+- Perl.
+- Strong object-oriented development skills.
+- Proven experience of developing and designing REST interfaces.
+- Linux systems knowledge (Redhat and Suse based distributions preferred).
+- Strong background in algorithms and data structure.
+- Experience of working in an agile environment and agile development
+methods.
+- Experience with unit testing, code reviews, design documentation and
+other software engineering best practices.
+- A great team player!
+- MSc or PhD in Computer Science or equivalent work experience
+
+Desired skills:
+- Experience with Oracle databases for large-scale data solutions.
+- Understands performance tuning of complex systems with large datasets and
+large files.
+- Experience with Solr or other enterprise search platforms.
+- Previous work in broadcast environments.
+
+Website for more information: http://www.vizrt.com/
+
+Contact information at:
+http://jobs.perl.org/job/17099#contact

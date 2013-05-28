@@ -1,0 +1,94 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7755
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28009 invoked from network); 1 Mar 2008 06:39:57 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 1 Mar 2008 06:39:57 -0000
+Received: (qmail 30365 invoked by uid 225); 1 Mar 2008 06:39:56 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 30357 invoked by alias); 1 Mar 2008 06:39:56 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 29 Feb 2008 22:39:52 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 856D12AFD3; Fri, 29 Feb 2008 22:39:49 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20080301063949.856D12AFD3@x3.develooper.com>
+Date: Fri, 29 Feb 2008 22:39:49 -0800 (PST)
+Subject: Perl  / Sr. Perl Programmer for hot internet co. (onsite), United States, CA, LOS ANGELES                 
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8064
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 29, 2008
+
+Job title:
+Perl  / Sr. Perl Programmer for hot internet co.
+
+Company name: PriceGrabber.com
+
+Location:
+United States, CA, LOS ANGELES		       
+
+Pay rate: Great $$
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+PriceGrabber.com, an Experian Company, is the leading online comparison
+shopping site that revolutionized the way consumers make purchasing
+decisions through the Internet. Since 1999, PriceGrabber.com has received
+wide recognition as an industry leader, including “2006 Internet Company of
+the Year” (Southern California Software Council), and #1 comparison
+shopping site of choice for active Web shoppers (Forrester, 2007).
+
+If you enjoy the challenges of large scale and fast paced developments and
+love working with a dynamic and ambitious team, without the hassle of
+politics and red-tape, you have to check us out!  
+
+Responsibilities:
+•  Come up with bleeding-edge solutions in a highly competitive and
+ever-evolving internet landscape
+•  Define software architecture for the next generation of highly automated
+applications
+•  Have a “can-do” attitude and work closely with other bright engineers as
+well as a team of highly-motivated analysts and statisticians
+
+
+Required skills:
+•  Serious Perl skills; if these mean anything to you, you’re on the right
+track:
+     - $|++
+     - use Thread
+     - bless ($data, $class)
+     - %a = map {uc($_), 1}
+     - our @ISA = qw(Exporter)
+•  MySQL or other relevant RDBMS experience, preferably with exposure to
+optimizing queries for large-scale data sets
+•  Fluency in Linux or other *nix flavor (Visual programming?  Not here!) 
+•  Ability to work collaboratively in a shared code environment
+•  Application development fundamentals, including but not limited to
+object-oriented programming, test-driven development and automation
+
+URL for more information: http://jobs.pricegrabber.com/
+
+Contact information at:
+http://jobs.perl.org/job/8064#contact
+
+

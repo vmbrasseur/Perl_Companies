@@ -1,0 +1,102 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9809
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 14441 invoked from network); 29 Jan 2010 22:39:54 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 29 Jan 2010 22:39:54 -0000
+Received: (qmail 31757 invoked by uid 225); 29 Jan 2010 22:39:54 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 31660 invoked by alias); 29 Jan 2010 22:39:54 -0000
+X-Spam-Status: No, hits=-0.0 required=8.0
+	tests=SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 29 Jan 2010 14:39:20 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id E7FF12AFDF; Fri, 29 Jan 2010 14:39:08 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20100129223908.E7FF12AFDF@x3.develooper.com>
+Date: Fri, 29 Jan 2010 14:39:08 -0800 (PST)
+Subject: Senior Software Engineer (onsite), CA, Los Angeles
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/11656
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 26, 2010
+
+Job title: Senior Software Engineer
+
+Company name: Oversee.net
+
+Location: CA, Los Angeles
+
+Pay rate: Competitive
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Oversee.net is looking for a Senior Software Developer with exceptional
+experience in perl and DBI. Passion for their craft is an absolute must.
+The successful candidate will be a key contributor in an engineering team
+devoted to the design and development of high traffic web services.
+
+Responsibilities:
+
+Engineer and implement new product features for perl applications, both
+web-based and those that do offline processing. 
+Optimize and enhance web applications with tens of millions of page
+requests, high volume data logging and processing needs, and high
+performance requirements 
+Contribute perl and software engineering expertise to code reviews and
+assist in mentoring of junior developers 
+Write thorough, comprehensive technical and high-level documentation 
+Contribute architecture input to new system components, rewrites of legacy
+systems, etc. 
+
+
+Required skills:
+Requirements:
+
+Detailed knowledge of high traffic, fault tolerant, 24x7 websites 
+4+ years perl experience developing web-based systems running in a Unix
+environment 
+Experience with developing web services applications 
+Basic SQL, XML, TCP/IP, NFS, mod_perl, and Apache application server
+knowledge 
+Log parsing and basic data analysis Required Personal Skills: 
+Excellent written, verbal, and non-verbal communication skills 
+Strong initiative - capable of working on a self-sufficient basis and
+identifying areas of potential technical improvement 
+Self-management - capable of prioritizing and executing tasks 
+Problem solving - ability to diagnose and resolve technical issues
+
+Desired skills:
+Preferred:
+
+6+ years Perl 
+Expertise in: DBI, HTML::Mason, Template::Toolkit, Threads, and XS 
+Proficient Test Planning 
+MVC implementation experience 
+BS/MS degree
+
+URL for more information:
+https://home.eease.com/recruit2/?id=484999&t=1
+
+Contact information at:
+http://jobs.perl.org/job/11656#contact
+
+

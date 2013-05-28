@@ -1,0 +1,103 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12034
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 3289 invoked from network); 16 Jan 2012 22:20:41 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 16 Jan 2012 22:20:41 -0000
+Received: (qmail 21817 invoked by uid 225); 16 Jan 2012 22:20:41 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 21812 invoked by alias); 16 Jan 2012 22:20:40 -0000
+X-Spam-Status: No, hits=-3.8 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS,SUBJECT_NEEDS_ENCODING,SUBJ_ILLEGAL_CHARS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 16 Jan 2012 14:20:37 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 3E6C12AFE2; Mon, 16 Jan 2012 14:20:33 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 16 Jan 2012 14:20:33 -0800
+Message-ID: <20120116222034.3E6C12AFE2@x3.develooper.com>
+Subject: Senior Perl Developer – Core Services & Operations (onsite), Oslo,
+ Norway
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15390
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 16, 2012
+
+Job title: Senior Perl Developer – Core Services & Operations
+
+Company name: Opera Software ASA
+
+Location: Oslo, Norway
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Opera Software seeks talented, engaged developers who thrive in an
+international product development environment, where responsibility and
+freedom come hand in hand.
+
+Opera's strong developer culture and hands-on, technical managers make it a
+unique place to work. As an Opera developer, you can:
+
+- Join in and make a change – improve our products, technology and
+organization.
+ - Participate in a flat, open organization – face to face, by video
+conference, mail or XMPP.
+ - Maintain a healthy work-life balance – Opera is family-friendly.
+ - Work how you like – PC or Mac, your OS, flexible hours & locations.
+ - Enjoy many team activities, parties, social events and Opera clubs.
+ - Live centrally in a great city and enjoy the best Scandinavia has to
+offer.
+
+Due to our continuing development, we are in search of Perl Developers for
+our headquarters in Oslo, Norway. We use Perl, Apache, Nginx, mod_perl,
+Plack, Mojolicious, MySQL, Memcached, Varnish, Puppet, JavaScript, Git,
+Linux and more.
+Responsibilities
+
+Opera has over 200 million users every month, and our browsers are
+dependent on the web-based systems that we develop and operate in the Core
+Services and Operations Team. 
+
+You will lead development work on one of our key services such as our user
+account service, synchronization service or browser download service.
+
+Required skills:
+* You are pragmatic, agile and buy into the DevOps principles.
+* You like troubleshooting problems that you won't find the solution to on
+the Internet.
+* You like to be challenged.
+* You can develop complex features from scratch and optimize existing ones.
+
+* You write good, maintainable Perl programs.
+* You are a good communicator with a "can do", problem-solving attitude.
+* You can organize a few team members and coordinate with colleagues.
+* You can work independently and within a team.
+* You can prioritize and plan development of a system.
+
+Desired skills:
+* You have a University level education in IT, Engineering, Mathematics or
+Science.
+* You have 3 years' experience developing with Perl.
+* You know your way around HTML, CSS and JavaScript.
+* You have in-depth knowledge of MySQL and Linux administration.
+
+Website for more information: http://www.opera.com/company/jobs/opening/330/
+
+Contact information at:
+http://jobs.perl.org/job/15390#contact

@@ -1,0 +1,95 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5140
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 4519 invoked from network); 20 Oct 2006 19:23:55 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 20 Oct 2006 19:23:55 -0000
+Received: (qmail 24938 invoked by uid 225); 20 Oct 2006 19:23:55 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 24931 invoked by alias); 20 Oct 2006 19:23:54 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 20 Oct 2006 12:23:47 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 35AC82AFE8; Fri, 20 Oct 2006 12:23:23 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20061020192323.35AC82AFE8@x3.develooper.com>
+Date: Fri, 20 Oct 2006 12:23:23 -0700 (PDT)
+Subject: System Administrator (onsite), United States, MA, Cambridge
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4583
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 20, 2006
+
+Job title: System Administrator
+
+Company name: Harvard Division of Continuing Education
+
+Internal ID: 27289
+
+Location: United States, MA, Cambridge
+
+Pay rate: Grade 57
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Reports to Manager of Academic Computing, serves as key member of systems
+administration group supporting the busy production environment of the
+Distance Education Program at DCE, which runs Harvard Extension and Summer
+Schools. Responsible for administration of Unix (Red Hat Enterprise Linux,
+Solaris) and Windows servers as well as other server and network
+infrastructure related technologies. Configures, tunes, troubleshoots
+servers; upgrades, patches system/network hardware/software; Actively
+participates in planning, analysis and implementation of new servers and
+software to support Distance Ed program. Maintains several large RAID
+arrays on an NFS network, Tomcat application servers, Helix streaming video
+servers, and Backup Exec server. Analyzes systems operations to improve
+efficiency and monitors system operation to prevent downtime; works with
+vendors to correct problems and acts as a technical resource/advisor for
+the Academic Computing group. Creates, maintains procedural documentation.
+Provides on-call support to resolve problems by phone, remote access or on
+site. Works both independently and collaboratively with members of Academic
+Computing and Distance Ed staff. Occasional night and weekend work
+necessary to maintain and troubleshoot systems in a production environment.
+
+Required skills:
+Bachelor's degree or equivalent experience and 5+ years of administration
+of Unix & Windows Servers. Demonstrated success in planning, organizing and
+executing IT infrastructure based projects. Solid understanding of
+networking fundamentals, architecture, and security is essential.
+Experience with RAID arrays and large filesytems (1 TB or larger).
+Familiarity with the following a plus: Real Networks or Quicktime
+streaming, Perl, Java, MySQL, Apache, Tomcat, OpenSSH. Adaptable to new
+technologies.  Must have excellent written/verbal communication skills ;
+commitment to organizational success.
+
+Desired skills:
+A successful candidate will feel comfortable administrating Linux servers,
+Windows 2003 servers, large disk arrays, gigabit networks, supporting Java
+and LAMP developers, using  opensource tools, and maintaining shell and
+Perl scripts.  Past experience in commercial video production a big plus.
+
+URL for more information:
+http://jobs.harvard.edu/jobs/summ_req?in_post_id=30662
+
+Contact information at:
+http://jobs.perl.org/job/4583#contact
+
+

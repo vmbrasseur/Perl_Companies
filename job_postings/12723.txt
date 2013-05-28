@@ -1,0 +1,85 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12723
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 10044 invoked from network); 11 Sep 2012 07:43:10 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 11 Sep 2012 07:43:10 -0000
+Received: (qmail 26153 invoked by uid 225); 11 Sep 2012 07:43:09 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 26149 invoked by alias); 11 Sep 2012 07:43:08 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 11 Sep 2012 00:43:05 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 9136D2AFDF; Tue, 11 Sep 2012 00:43:02 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Tue, 11 Sep 2012 00:43:02 -0700
+Message-ID: <20120911074302.9136D2AFDF@x3.develooper.com>
+Subject: Software Engineer (part onsite), Somerville, MA (Davis Square)
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16436
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 10, 2012
+
+Job title: Software Engineer
+
+Company name: Best Practical Solutions
+
+Location: Somerville, MA (Davis Square)
+
+Pay rate: DOE
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+We are looking for a motivated, customer service oriented engineer to
+assist our clients with new product deployments and upgrades. You should be
+familiar with UNIX systems administration on a number of different
+distributions. You will be responsible for ensuring that the new or
+upgraded system is fully deployed and functioning per the clients
+specification. You will also assist us with streamlining our installation
+process and updating relevant documentation, as well as participating in
+some amount of core development on the product.
+
+Required skills:
+You should be a self-starter who has 1-3 years experience with Perl;
+previous systems administration background is highly desirable. You should
+also have some experience with at least a few of the following buzzwords:
+
+- Web servers (Apache, lighttpd, nginx)
+- Mail Servers (postfix, exim, sendmail, fetchmail)
+- SQL databases (MySQL, PostgreSQL, Oracle)
+- Open source development practices
+- Distributed source control (git, branching, patches)
+- Test driven development (smoke testing, Test::More)
+- Documentation (user-facing, API)
+
+It's okay if you don't know everything out of the gate, but you should be
+able to learn on the fly and be comfortable asking questions when you get
+in over your head. RT is a mature codebase with a diverse set of deployment
+options, and a decently large amount of code to explore -- so you should be
+prepared to work with a project that's too big to hold all of the
+implementation details of in your head all at once. If you want to see what
+sort of trouble you're getting yourself into, you can find all of our open
+source code on github.
+
+Website for more information: http://bestpractical.com/about/jobs.html
+
+Contact information at:
+http://jobs.perl.org/job/16436#contact

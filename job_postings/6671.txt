@@ -1,0 +1,116 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6671
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 32699 invoked from network); 24 Jul 2007 08:07:10 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 24 Jul 2007 08:07:10 -0000
+Received: (qmail 17643 invoked by uid 225); 24 Jul 2007 08:07:10 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 17637 invoked by alias); 24 Jul 2007 08:07:10 -0000
+X-Spam-Status: No, hits=-2.6 required=8.0
+	tests=BAYES_00,DKIM_POLICY_SIGNSOME,DK_POLICY_SIGNSOME,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 24 Jul 2007 01:06:59 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 574F32AFEF; Tue, 24 Jul 2007 01:06:56 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070724080656.574F32AFEF@x3.develooper.com>
+Date: Tue, 24 Jul 2007 01:06:56 -0700 (PDT)
+Subject: mod_perl Developer @ Jupitermedia (onsite), United States, AZ, Tucson
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5880
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 24, 2007
+
+Job title: mod_perl Developer @ Jupitermedia
+
+Company name: Jupitermedia
+
+Location: United States, AZ, Tucson
+
+Pay rate: negotiable
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Jupitermedia Corporation (Nasdaq: JUPM), (www.jupitermedia.com)
+headquartered in Darien, CT, is a leading provider of original images and
+information for creative, business and information technology
+professionals. Jupiterimages provides photos and other graphic images
+electronically while JupiterWeb is the online media division of
+Jupitermedia. 
+
+Jupiterimages has an exciting opportunity for a full time experienced Perl
+Coder with extensive knowledge of Web technologies. He or she will design,
+develop, test and deploy new components and features for our websites, and
+help maintain our large codebase. 
+
+The environment is a combination of Linux and Solaris systems using Apache,
+mod_perl, and HTML::Mason with an Oracle database backend. We're looking
+for a self-starter who can hit the ground running; an ability to rapidly
+familiarize with a complex environment is essential
+
+Required skills:
+Demonstrable object oriented Perl programming skills 
+
+2+ years experience source-code programming in a networked Unix/Linux work
+environment
+ 
+2+ years experience programming custom mod_perl handlers 
+
+Experience with a 2nd web-applicable language (other than Perl), e.g., C,
+C++, Python, etc. 
+
+2+ years experience source-code programming Oracle/SQL via Perl DBI 
+
+1+ year experience in advanced JavaScript programming 
+
+Ability to work on-site 
+
+Desired skills:
+Experience utilizing Mason (or similar) web page templating tool
+
+Experience working in a live production environment 
+
+Experience with high transaction web server programming and implications 
+
+Experience with need for and use of RCS/CVS 
+
+Ability to create scalable and modular code 
+
+Experience with query optimization 
+
+Ability to troubleshoot and resolve issues evolving from the dynamics of a
+distributed operating environment in a timely and efficient manner 
+
+Ability to work in a team programming environment 
+
+Experience working in a multi-server, load-balanced environment with
+understanding of implications on program design, implementation, and
+operation  
+
+
+URL for more information:
+http://www.jupitermedia.com/corporate/employment/jupimages/perl_dev.html
+
+Contact information at:
+http://jobs.perl.org/job/5880#contact
+
+

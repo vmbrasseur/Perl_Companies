@@ -1,0 +1,83 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10935
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 23557 invoked from network); 30 Jan 2011 17:05:29 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 30 Jan 2011 17:05:29 -0000
+Received: (qmail 23477 invoked by uid 225); 30 Jan 2011 17:05:29 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 23473 invoked by alias); 30 Jan 2011 17:05:29 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 30 Jan 2011 09:05:27 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id E3B752AFD6; Sun, 30 Jan 2011 09:05:23 -0800 (PST)
+To: jobs@perl.org
+Date: Sun, 30 Jan 2011 09:05:23 -0800
+Message-ID: <20110130170523.E3B752AFD6@x3.develooper.com>
+Subject: Perl Developer (onsite), United States, MA, Boston
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13552
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 30, 2011
+
+Job title: Perl Developer
+
+Company name: Comsys
+
+Location: United States, MA, Boston
+
+Pay rate: $50-60 USD
+
+Terms of employment: Hourly employee
+
+Length of employment: 6 Months
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Client is looking to make wholesale improvements to the flagship product in
+order to keep pace with its competitors. This is top priority for the
+company. 
+Goal is to improve the product's simplicity and usability. 
+They have a need for 2 senior Perl developers. The current tech stack they
+have is highly complex and hard to extend because it was built before there
+were any real standards for open source development. 
+The candidates would need to have qualified experience with large (100,000
+lines of code +), database-driven web projects using Perl. 
+This project will be managed in a rigid SCRUM environment with hard
+dealines for deliverables. 
+
+
+Required skills:
+Ability to learn new technologies and code bases quickly 
+Strong experience scaling high-volume web applications with large data sets
+
+Excellent verbal and written communication skills and attention to detail 
+Perl (in CGI environment) 5+ years 
+Javascript 5+ years 
+Apache/mod_perl 3+ years 
+MySQL 3+ years 
+Linux 3+ years 
+CSS 
+XHTML
+
+
+Desired skills:
+Frontend web applications Perl/Javascript development experience
+
+Contact information at:
+http://jobs.perl.org/job/13552#contact

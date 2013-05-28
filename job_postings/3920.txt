@@ -1,0 +1,124 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3920
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 22044 invoked from network); 24 Feb 2006 11:25:53 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 24 Feb 2006 11:25:53 -0000
+Received: (qmail 11329 invoked by uid 225); 24 Feb 2006 11:25:52 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11318 invoked by alias); 24 Feb 2006 11:25:50 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 24 Feb 2006 03:25:47 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id k1OBPgIE010351
+	for <jobs@perl.org>; Fri, 24 Feb 2006 03:25:42 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id k1OBPgvO010349;
+	Fri, 24 Feb 2006 03:25:42 -0800
+Date: Fri, 24 Feb 2006 03:25:42 -0800
+Message-ID: <200602241125.k1OBPgvO010349@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Windows System Engineer with PERL eCommerce (onsite), United States, CA, San Jose
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3745
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 23, 2006
+
+Job title:
+Windows System Engineer with PERL eCommerce
+
+Company name: Branta Group
+
+Location: United States, CA, San Jose
+
+Pay rate: $50/hour
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 3 to 6 months+
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Windows System Engineer
+
+The NT/Windows Systems Engineer will actively design, build, monitor and
+maintain systems in 24 X 7 Highly available production environment.
+
+The ideal candidate will be self-motivated and articulate, intimately
+familiar with Microsoft operating systems, Win NT, 2K and 2K3, Microsoft
+software technologies, and have a proven history of creating tools and
+automating routine administration tasks. Day-to-day responsibilities
+include:
+
+* Work with system architects to improve design of imaging infrastructure
+used to create Development, QA, and Production environments.
+* Implement Windows infrastructure (Active Directory, server deployment
+automation) in the Production environment.
+* Develop standardize image for production deployments.
+* Designing, administering, monitoring and troubleshooting of systems for
+supporting development activities, architectural proofs-of-concept (POCs)
+and pilots for new site designs.
+* Writing scripts for monitoring NT systems and critical applications, and
+integrating into a centralized event console.
+* Create and manage process for allocating computing resources to
+production deployments. 
+* Troubleshooting issues related to production systems, triaging as
+necessary for production and QA environments. Internal customers include
+Site operations, PD and application architects.
+* Planning, communicating and executing system change requests from
+internal customers.
+
+
+Required skills:
+* Bachelors in an engineering discipline, or Technical certification in Win
+NT or Win 2K/2K3, or equivalent work experience.
+* 6-8 years work experience as a senior NT Administrator or Architect.
+* Expert understanding of and experience with Microsoft operating systems,
+Internet Information Server, Active Directory & Domain architecture, HTTP
+protocol, SSL, DNS, WINS, OS security, CGI/ISAPI, and static/dynamic
+content.
+* Experience supporting web services on Windows required. Understandings of
+Cold Fusion and J2EE/Java/JVM a plus.
+* Must have experience creating or managing infrastructure for imaging
+systems. Experience with Unattended, RIS, Ghost or IBM Director/RDM
+products a plus.
+* Must have strong scripting skills - PERL, batch, shell, VB. 
+* Experience writing Make files and PERL build scripts, and using Ant for
+doing distributed builds a strong plus.
+* Experience supporting Microsoft SQL a plus.
+* Should have a general understanding of networking - routing, subnets,
+UDP, TCP, IP, & Vans.
+* Must have strong communication skills and ability to work individually,
+within a team, and with other groups.
+* Must have ability to communicate complex technical problems concisely and
+professionally to technical and non-technical audiences.
+* Experience using Tivoli monitoring and software distribution a plus.
+* Experience with backup software and recovery strategies a plus.
+* Linux/Solaris administration experiences a plus.
+
+
+URL for more information: http://www.brantagroup.com/
+
+Contact information at:
+http://jobs.perl.org/job/3745#contact
+
+

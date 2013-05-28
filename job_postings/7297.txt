@@ -1,0 +1,145 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7297
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 22589 invoked from network); 17 Nov 2007 05:18:46 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 17 Nov 2007 05:18:46 -0000
+Received: (qmail 30509 invoked by uid 225); 17 Nov 2007 05:18:46 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 30501 invoked by alias); 17 Nov 2007 05:18:45 -0000
+X-Spam-Status: No, hits=-2.6 required=8.0
+	tests=BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 16 Nov 2007 21:18:35 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 2ECB52AFDE; Fri, 16 Nov 2007 21:18:31 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20071117051831.2ECB52AFDE@x3.develooper.com>
+Date: Fri, 16 Nov 2007 21:18:31 -0800 (PST)
+Subject: System Administrator / PERL Hacker (onsite), United States, CA, West Los Angeles
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/7295
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 16, 2007
+
+Job title: System Administrator / PERL Hacker
+
+Company name: the Rubicon Project
+
+Location: United States, CA, West Los Angeles
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are looking for passionate, dedicated and brilliant candidates to join
+the engineering team. As part of the core engineering team you'll work in a
+fast paced challenging environment to help shape the technology landscape
+and culture of the core product. If you enjoy working on high volume
+(billions of transactions per day) platforms, architecting networks,
+configuring firewalls, managing switches, tuning systems to get optimal
+performance, securing boxes to keep intruders out, setting up data centers,
+implementing various network topologies and want to learn about how a
+startup is built from the ground floor then we want to talk to you!
+
+Responsibilities:
+
+    * Data center build outs
+    * System administration
+    * Network administration
+    * Monitor and manage network at datacenters which includes firewalls,
+routers, load balancers, switches, databases, servers, disk storage
+devices)
+    * Implement security policies
+    * Troubleshoot network/server issues
+
+Required skills:
+We are looking for passionate, dedicated and brilliant candidates to join
+the engineering team. As part of the core engineering team you'll work in a
+fast paced challenging environment to help shape the technology landscape
+and culture of the core product. If you enjoy working on high volume
+(billions of transactions per day) platforms, architecting networks,
+configuring firewalls, managing switches, tuning systems to get optimal
+performance, securing boxes to keep intruders out, setting up data centers,
+implementing various network topologies and want to learn about how a
+startup is built from the ground floor then we want to talk to you!
+
+Responsibilities:
+
+    * Data center build outs
+    * System administration
+    * Network administration
+    * Monitor and manage network at datacenters which includes firewalls,
+routers, load balancers, switches, databases, servers, disk storage
+devices)
+    * Implement security policies
+    * Troubleshoot network/server issues
+
+Requirements:
+
+    * 3+ years PERL
+    * 2+ years awk/sed/BASH scripting
+    * Ability to configure and manage world class networks
+    * 2+ years in a network or system administrator role working with
+(Linux) in a large multi vendor network
+    * Experience with configuring (firewalls, iptables, VPN’s, routers,
+load balancers, switches)
+    * Understanding of various network topologies
+    * Experience with high volume networks
+    * Kernel level system tuning experience
+    * Experience with Apache / Lighttpd
+    * Experience with MySQL
+    * Server (clustering / load balancing)
+    * Guru with various Linux flavors (Redhat / BSD / CentOS / Ubuntu /
+Debian)
+    * BGP, SATA, RAID1 and RAID5 (and software RAID)
+    * Expert understanding of network protocols
+    * Experience with local and remote backups
+    * Great troubleshooter
+    * Part of team set up to monitor and respond to network, server, and
+security problems 24x7 x 365 (on-call rotation)
+
+Pluses:
+
+    * Internet advertising experience
+    * MySQL Replication / Clustering
+    * Programming experience
+    * Rsync
+    * DNS
+    * LDAP
+    * SSH
+    * SMTP
+    * Memcache
+    * NFS
+    * SANS
+    * SNMP
+    * TCPDUMP
+    * Ethereal
+
+
+Desired skills:
+We are looking for people who are passionate technology and high volume
+infrastructures. If this is you please get in touch. We have tons of
+positions available.
+
+URL for more information: http://www.rubiconproject.com/
+
+Contact information at:
+http://jobs.perl.org/job/7295#contact
+
+

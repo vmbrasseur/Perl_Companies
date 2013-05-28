@@ -1,0 +1,97 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:1379
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 83618 invoked by uid 76); 24 Feb 2004 21:10:48 -0000
+Received: from x1.develooper.com (HELO x1.develooper.com) (63.251.223.170) by onion.perl.org (qpsmtpd/0.26) with SMTP; Tue, 24 Feb 2004 13:10:48 -0800
+Received: (qmail 28316 invoked by uid 225); 24 Feb 2004 21:10:47 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 28230 invoked by alias); 24 Feb 2004 21:10:31 -0000
+Received: from [63.251.223.166] (HELO onion.perl.org) (63.251.223.166)  by la.mx.develooper.com (qpsmtpd/0.27-dev) with SMTP; Tue, 24 Feb 2004 13:10:31 -0800
+Received: (qmail 83525 invoked by uid 1016); 24 Feb 2004 21:10:29 -0000
+Date: 24 Feb 2004 21:10:29 -0000
+Message-ID: <20040224211029.83524.qmail@onion.perl.org>
+To: jobs@perl.org
+X-Spam-Checker-Version: SpamAssassin 2.63 (2004-01-11) on x1.develooper.com
+X-Spam-Status: No, hits=-4.8 required=8.0 tests=BAYES_00,BIZ_TLD autolearn=no 	version=2.63
+X-SMTPD: qpsmtpd/0.26, http://develooper.com/code/qpsmtpd/
+Subject: Bricolage Integration Consultant (telecommute), Switzerland, BS, Basel
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1264
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 24, 2004
+
+Job title: Bricolage Integration Consultant
+
+Company name: IT assistance Ltd.
+
+Location: Switzerland, BS, Basel
+
+Pay rate: tbd
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 6 weeks from now
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+Consulting for the realization of a multi language site, where it’s content
+should be managed in Bricolage. 
+
+The site should match to real URL's using Mason's (a/d)-handler logic. Main
+issues are authentication and session creation in the beginning of a
+request cycle, before the real content is delivered via Bricolage. Content
+types must be defined and setup. 
+
+You should be able to help us in a supporting manner to set up Bricolage,
+fitting the final needs as described above. This might be also some coding,
+but it’s mainly conceptual work, just telling us how to do it without
+loosing time. 
+
+Another issue is the needed feature that content contributors can edit main
+content in a HTML editor. It would be great to use MM Contribute 2 via the
+FTP protocol, editing contents as files via the Bricolage FTP daemon. 
+
+Basically it's more conceptual & knowhow support than real coding. I do not
+expect more than a total of one week work. 
+
+Required skills:
+You need to have productive experience with Bricolage. Of course you use
+Mason (HTML::Mason) on mod_perl every day. And of course you know Perl OO
+and all the nitty-gritty aspects. 
+
+You need to speak, read and write fluently at least in German, English or
+French. 
+
+Used to dialog remotely mainly on text basis. 
+
+Desired skills:
+Please only respond if you have an online Bricolage reference used on a
+daily basis. Thanks. 
+
+URL for more information:
+http://www.itassistance.biz/Kunde/navigation.dev.meinecom.ch/
+
+Contact information:
+IT assistance GmbH
+Lange Gasse 6
+CH-4052 Basel
+
+info@itassistance.ch  
+
+tel +41-61-272 02 04
+
+

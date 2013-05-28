@@ -1,0 +1,82 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:281
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 25556 invoked by uid 1016); 26 Dec 2001 17:01:50 -0000
+Date: 26 Dec 2001 17:01:50 -0000
+Message-ID: <20011226170150.25555.qmail@onion.perl.org>
+To: jobs@perl.org
+Subject: Newbie-friendly-administrable web site creation/customization for massive user base (telecommute), United States, Utah, Vernal
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/182
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 25, 2001
+
+Job title:
+Newbie-friendly-administrable web site creation/customization for massive
+user base
+
+Company name: CreateAMag Incorporated
+
+Location: United States, Utah, Vernal
+
+Pay rate: Negotiable salary
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: Short-term, approx. two weeks
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+I am looking for highly dedicated PERL programmers to create a web site
+which will contain scripts made to allow newbie users to control the look
+and design of a personal web-based magazine they will create themselves on
+an individual basis.  Each user shall be allocated an initial amount of 10
+MB of server space.
+
+This will be a pay-based service for users, so one or more methods of
+payment must be made accessible for them.
+
+Each user shall be able to choose their own username and password, given
+that that username does not already exist.
+
+Furthermore, the user may change the design of their web site at any time
+so a function must be created where the content of their site will be
+dumped into a new design.
+
+Also, the ability to upload images in GIF and JPEG format should be made
+available as well as the option to create a link to these files with a
+resized version of the images.
+
+Naturally, a set of administration scripts must be made for the
+administrator of the entire site.  Some of these include access to
+usernames and passwords, the allocation (or revocation) of addition server
+space, the ability to limit certain users' abilities, the
+creation/modification/deletion of accounts, and the ability to send e-mail
+notices to some or all users.
+
+Required skills:
+No skills other than HTML and decent PERL programming are required.  No
+Java, Javascript, or any other non-HTML/PERL code should be used anywhere
+on this site, but support for users to add code of this type to their
+content should be allowed.
+
+Contact information:
+CreateAMag Incorporated
+ATTN: Sean Robinson
+nz17@quik.com
+
+

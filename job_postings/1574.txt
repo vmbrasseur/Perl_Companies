@@ -1,0 +1,99 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:1574
+Return-Path: <pgweiss@arity.com>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 66038 invoked from network); 10 May 2004 19:47:58 -0000
+Received: from x1.develooper.com (63.251.223.170)
+  by onion.develooper.com with SMTP; 10 May 2004 19:47:58 -0000
+Received: (qmail 24126 invoked by uid 225); 10 May 2004 19:47:57 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 24121 invoked by alias); 10 May 2004 19:47:57 -0000
+X-Spam-Status: No, hits=0.0 required=7.0
+	tests=
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web2.vanquish.com (HELO web2.vanquish.com) (66.28.181.50)
+  by la.mx.develooper.com (qpsmtpd/0.27.1) with SMTP; Mon, 10 May 2004 12:47:56 -0700
+Received: (qmail 19538 invoked from network); 10 May 2004 19:47:50 -0000
+Received: from c-233-20-96-65.ne.biz.attbb.net (HELO testmail.vanquish.com) (65.96.20.233)
+  by web2.vanquish.com with SMTP; 10 May 2004 19:47:50 -0000
+Received: (qmail 17322 invoked from network); 10 May 2004 19:47:51 -0000
+Received: from nogadom.vqoffice (HELO mail.arity.com) (192.168.1.174)
+  by mail.vqoffice with SMTP; 10 May 2004 19:47:51 -0000
+Reply-To: job-sw@vanquish.com
+To: "Perl Jobs" <jobs@perl.org>
+Date: Mon, 10 May 2004 15:47:46 -0400
+Content-Type: text/plain; format=flowed; delsp=yes; charset=iso-8859-15
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Message-ID: <opr7sulwt23rxi6c@mail.arity.com>
+User-Agent: Opera M2/7.50 (Win32, build 3768)
+X-Spam-Rating: onion.develooper.com 1.6.2 0/1000/N
+Subject: Senior Software Engineer (Email Servers)
+Approved: news@nntp.perl.org
+From: pgweiss@arity.com ("Paul G. Weiss")
+
+Vanquish, Inc.
+Senior Software Engineer (Email Servers)
+
+Send Responses to:  job-sw@vanquish.com
+
+General Description
+
+Lead developer of sender-liability email system to control spam.  The  
+Linux-based system inspects SMTP messages and verifies the validity of a  
+digitally signed bond, and also utilizes other techniques such as white  
+list, challenges, and subject match.  System incorporates QMail and  
+webmail components. Job requires thorough knowledge of Perl under Linux,  
+SMTP, POP, and IMAP protocols and working knowledge of private/public key  
+encryption, SMime and certificates.
+
+For a description of the product and other info about the company, visit  
+http://vanquish.com and review news coverage linked at bottom.
+
+Selected individual will be seventh member of a 2-year startup and the  
+senior engineer.  Reports to VP of Engineering.  Compensation includes  
+generous stock options.
+
+Skills & Experience
+
+* Perl, including object-oriented techniques
+* Linux expertise including ability to build, configure, use third party  
+software, and diagnose problems
+* Protocols: SMTP, POP, IMAP, and DNS, SMime, LDAP
+* Knowledge of MySQL and Apache servers
+* Familiarity with open source email platforms, such as qmail
+* Encryption using private key/public key ? experience using openssl.
+* Experience with XS and SOAP
+* Experience packaging Linux software for distribution
+* Web-based email clients
+* Familiarity with Windows email clients (Outlook, Outlook Express,  
+Eudora, etc)
+* Multi-server redundant systems using Unix
+
+Responsibility
+
+You will be lead developer for an advanced email server that parses,  
+routes, holds, or deletes mail according to configured rules. The server  
+adds digital signatures, performs cash accounting and verifies bond credit  
+and certificate parameters with a central server for both outgoing and  
+incoming mail.
+
+You will play a critical role in specifying additional features and  
+follow-on projects. You will work closely with other engineers, including  
+exchanging information with individuals responsible for web interface  
+design, and customer support and marketing.  In addition, you will  
+maintain and enhance a central database server (Unix, MySQL).
+
+Schedule & Location
+
+You will be expected to work on a very aggressive market driven schedule.  
+Offices are located near the intersection of Rts. 20 and 495 in  
+Marlborough, Massachusetts.
+
+Minimum: 6 years software development and/or system design.
+
+Education
+BS in EE, CS or related field

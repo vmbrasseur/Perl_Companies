@@ -1,0 +1,99 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13175
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 24057 invoked from network); 26 Feb 2013 07:47:35 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 26 Feb 2013 07:47:35 -0000
+Received: (qmail 1075 invoked by uid 225); 26 Feb 2013 07:47:34 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 1066 invoked by alias); 26 Feb 2013 07:47:34 -0000
+X-Spam-Status: No, hits=-1.3 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,SUBJECT_NEEDS_ENCODING,SUBJ_ILLEGAL_CHARS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 25 Feb 2013 23:47:26 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id BF22C2AFCD; Mon, 25 Feb 2013 23:47:22 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 25 Feb 2013 23:47:22 -0800
+Message-ID: <20130226074722.BF22C2AFCD@x3.develooper.com>
+Subject: Network Management Software Engineer – Back End (onsite), Sunnyvale,
+ CA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16356
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 25, 2013
+
+Job title: Network Management Software Engineer – Back End
+
+Company name: Aruba Networks
+
+Location: Sunnyvale, CA
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Aruba Networks is one of the half-dozen hottest companies in the valley –
+we’ve been growing our revenues at more than 40% (year-on-year) for quite
+some time.  Just last quarter we gained 5% market share in the WiFi space,
+(at the expense of a large player on Tasman Drive).  We are about 1000
+people but we still have that small company feel with lots of energy and
+excitement. Aruba is currently used by more than 10,000 organizations
+world-wide including many Fortune 500 companies and spanning education,
+government, healthcare, technology and retail markets.
+ 
+AirWave is an leading edge multi-vendor wired/wireless Network Management
+Suite. It allows to configure and monitor network devices made by Aruba and
+other leading networking manufacturers. Vast majority of Aruba's largest
+customers use AirWave. AirWave is an integral part of Aruba's Network
+Services vision.
+
+As a member of the AirWave team you will develop in LAMP and work on mostly
+back-end components of the system. Our development practices are rooted in
+Agile development.
+
+Responsibilities:
+•	Full lifecycle application development
+•	Designing, coding and debugging applications in Object Oriented
+Perl.
+•	Software analysis, code analysis, requirements analysis, software
+review.
+•	Object-oriented Design and Analysis (OOA and OOD)
+•	Software simulation
+•	Performance tuning, improvement, balancing, usability, automation.
+•	Support, maintain and document software functionality
+•	Integrate software with existing systems
+•	Evaluate and identify new technologies for implementation
+•	Practice Agile software development
+•	Implement localization or globalization of software
+
+Required skills:
+If you have a few of these and a passion for building a cutting-edge
+software, please contact us:
+•	OO programming experience
+•	Perl
+•	LAMP
+•	Agile methodologies: pair programming, test-driven development and
+iterative development cycles
+•	Network Management, Networks Sevices, Wireless
+•	Network management protocols (e.g. SNMP)
+•	Relational databases: PostgreSQL or MySQL
+
+Website for more information: http://www.arubanetworks.com/company/
+
+Contact information at:
+http://jobs.perl.org/job/16356#contact

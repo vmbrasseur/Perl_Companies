@@ -1,0 +1,103 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:1809
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 15863 invoked from network); 5 Aug 2004 03:39:56 -0000
+Received: from x1.develooper.com (63.251.223.170)
+  by onion.develooper.com with SMTP; 5 Aug 2004 03:39:56 -0000
+Received: (qmail 8602 invoked by uid 225); 5 Aug 2004 03:39:55 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 8597 invoked by alias); 5 Aug 2004 03:39:54 -0000
+X-Spam-Status: No, hits=-4.9 required=8.0
+	tests=BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from onion.develooper.com (HELO onion.perl.org) (63.251.223.166)
+  by la.mx.develooper.com (qpsmtpd/0.27.1) with SMTP; Wed, 04 Aug 2004 20:39:53 -0700
+Received: (qmail 15844 invoked by uid 1016); 5 Aug 2004 03:39:51 -0000
+Date: 5 Aug 2004 03:39:51 -0000
+Message-ID: <20040805033951.15843.qmail@onion.perl.org>
+To: jobs@perl.org
+X-Spam-Rating: onion.develooper.com 1.6.2 0/1000/N
+Subject: Perl/Mason/Alzabo Programmer (telecommute), United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1698
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August  4, 2004
+
+Job title: Perl/Mason/Alzabo Programmer
+
+Company name: Victory 2000 Inc. (non-profit)
+
+Location: United States
+
+Pay rate: To be negotiated.
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: Until new site is stable
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+Perl/Mason/Alzabo consult needed to bring up site
+
+1) Need Dave Rolsky's RegVeg-0.23.tar.gz ('vegguide.org' source) modified
+to run with CGI handler and installed on LAMP, shared hosting, site. Must
+include good documentation of procedure used and all changes made. Please
+provide estimate of time required in addition to hourly rate. Needed before
+end of 9/04. 
+
+2) Need ongoing hourly support to customize the above for new but similar
+purpose. Support needed starting ASAP to begin planning required changes.
+Another resource will prep. and integrate new content into site. 
+
+3) Need per user, private notepad integrated with above (including per user
+quota and auto-purging of stale pad's). Detailed spec. provided for final
+estimtate on completion of the above. Needed before end of 12/04.
+
+
+Required skills:
+Perl -- specifically HTML::Mason and Alzabo. Web based Perl apps. in
+general including Apache and MySQL.
+
+Desired skills:
+Ability to simplify effort involved as well as performance by making use of
+CPAN.
+
+Application of XML in creating data structures for use in Web apps..
+
+Appropriate application of relational d-bases.
+
+
+
+URL for more information: http://vision.marklink.org/
+
+Contact information:
+Tom Schmit, tpschmit@yahoo.com
+
+We are a not for profit organization concerned with presenting the daily
+Scripture-based meditation books of Mark Link, S.J. on the web, free of
+charge. See the URL below for our first site which has been in operation
+since '96.
+
+Qualified volunteers or discounts are certainly welcome. But we have some
+serious Perl programming to be done and a reasonable budget to pay for it.
+
+Our goal is to establish a solid, flexible, and maintainable foundation for
+content with a 5 year cycle.
+
+
+
+

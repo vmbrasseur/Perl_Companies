@@ -1,0 +1,123 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6529
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 961 invoked from network); 29 Jun 2007 15:07:09 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 29 Jun 2007 15:07:09 -0000
+Received: (qmail 28564 invoked by uid 225); 29 Jun 2007 15:07:09 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 28552 invoked by alias); 29 Jun 2007 15:07:08 -0000
+X-Spam-Status: No, hits=-1.1 required=8.0
+	tests=BAYES_05,DKIM_POLICY_SIGNSOME,DK_POLICY_SIGNSOME,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 29 Jun 2007 08:07:01 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id E82A12AFEF; Fri, 29 Jun 2007 08:06:54 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070629150654.E82A12AFEF@x3.develooper.com>
+Date: Fri, 29 Jun 2007 08:06:54 -0700 (PDT)
+Subject: QA Engineer in Perl (onsite), United States, Il, Champaign
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5234
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 29, 2007
+
+Job title: QA Engineer in Perl
+
+Company name: Riverbed Technology
+
+Location: United States, Il, Champaign
+
+Pay rate: $70000 - $80000/yr
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We're looking for a Sr. Software QA Engineer to develop tests and test
+tools to verify the proper functioning of Riverbed’s network appliances. 
+The ideal candidate will have significant experience with networking
+technologies (like TCP/IP, managed switches, routers) as well as software
+development methodologies. 
+
+ 
+
+We believe that delivering a quality product requires an investment in good
+software tools and automation, and we want to hire people who share this
+belief.  Riverbed has an excellent quality-oriented engineering environment
+with a high ratio of QA to development engineers.
+
+ 
+
+Responsibilities:
+
+* Create and extend tools to analyze the performance of Riverbed network
+appliances. 
+
+* Utilize understanding of networks and network protocols, as well as
+programming skills, to analyze TCP/IP network traces to find implementation
+problems, compliance problems, and performance problems with the network
+integration components of the Riverbed appliance.  
+
+* Develop automated test cases to exercise 3rd party applications and
+devices using application APIs to induce behaviors that exercise the
+Riverbed appliance functionality.  
+
+* Design and implement test plans to test various features of Riverbed
+network appliances.
+
+ 
+
+ 
+
+We are proud to be an EEO/AA employer. M/F/D/V.
+
+
+Required skills:
+Requirements:
+
+* Must have a solid understanding of TCP/IP protocols.
+
+* Must have strong programming and debugging skills.
+
+* Must have good written communication and documentation skills.
+
+* Experience working with Linux or FreeBSD on PC-based hardware is strongly
+desired.
+
+* Windows system administration experience strongly desired. 
+
+* Experience writing scripts in Perl or any script language (Python, Ruby,
+PHP, bash, etc) is a plus.
+
+
+Desired skills:
+* Cisco certification (CCNA or CCNP) is a plus.
+
+* B.S. in CS or EE is preferred.
+
+* Must be a US citizen or permanent resident.
+
+
+URL for more information: http://www.riverbed.com/
+
+Contact information at:
+http://jobs.perl.org/job/5234#contact
+
+

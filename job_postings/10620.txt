@@ -1,0 +1,99 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10620
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 16625 invoked from network); 15 Oct 2010 04:28:35 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 15 Oct 2010 04:28:35 -0000
+Received: (qmail 30088 invoked by uid 225); 15 Oct 2010 04:28:35 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 30084 invoked by alias); 15 Oct 2010 04:28:35 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS,T_FRT_PROFILE2
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 14 Oct 2010 21:28:28 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 101FB2AFE1; Thu, 14 Oct 2010 21:28:25 -0700 (PDT)
+To: jobs@perl.org
+Date: Thu, 14 Oct 2010 21:28:24 -0700
+Message-ID: <20101015042825.101FB2AFE1@x3.develooper.com>
+Subject: OO Perl Developer (onsite), United Kingdom, London, Fulham
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13020
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 14, 2010
+
+Job title: OO Perl Developer
+
+Company name: Careerjet
+
+Location: United Kingdom, London, Fulham
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+THE COMPANY
+
+Careerjet is a West London based vertical search engine business
+specialising in the international jobs market. With its search engine
+covering 90 countries in 28 languages and scanning over 70,000 websites
+daily, the company is expanding and offering an exciting long-term
+professional opportunity for 3 Perl Developers.
+
+THE TECHNOLOGY
+
+Relying on cutting-edge web crawling solutions and advanced linguistic
+search algorithms, Careerjet's proprietary technology makes extensive use
+of highly sophisticated pattern recognition and machine learning
+techniques. All of the company's technologies are UNIX-based and use
+exclusively open source software, the essential part being written in
+object-oriented Perl. The business' current growth strategy includes
+expansion into a broader range of programming languages and frameworks.
+
+THE POSITION
+
+An ideal candidate would have at least 2 years of professional experience
+in software development and a solid knowledge of the Perl language, with a
+passion for development of Web applications and UNIX-based software. He or
+she would have a high aptitude for learning new development principles and
+design patterns under the control of the company's Senior Engineers. We
+will have a strong preference for candidates looking for a long-term
+commitment, wishing to grow quickly in our highly flexible professional
+environment offering very close attention to each Team member.
+
+
+Required skills:
+- Full proficiency in OO Perl
+- Solid knowledge of Object Oriented design principles
+- Advanced understanding of modern software architecture principles (API,
+ORM, MVC, design patterns, optimisation, refactoring, etc.)
+- Solid understanding of relational database design principles, full
+command of SQL
+- Full command of UNIX
+- Overall knowledge of Web technologies (languages, protocols, browsers,
+development tools, etc.)
+
+
+Desired skills:
+- Knowledge of HTML::Mason and Template::Toolkit
+- Experience with localisation and internationalisation
+- Good command of HTML and CSS, JavaScript, in particuler jQuery would be a
+plus
+
+Website for more information: http://www.careerjet.co.uk/
+
+Contact information at:
+http://jobs.perl.org/job/13020#contact

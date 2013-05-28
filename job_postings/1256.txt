@@ -1,0 +1,84 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:1256
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 82943 invoked by uid 76); 2 Jan 2004 06:27:09 -0000
+Received: from qmailr@one.develooper.com (HELO ran-out.mx.develooper.com) (64.81.84.115) by onion.perl.org (qpsmtpd/0.26) with SMTP; Thu, 01 Jan 2004 22:27:09 -0800
+Received: (qmail 23261 invoked by uid 225); 2 Jan 2004 06:27:08 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 23254 invoked by uid 507); 2 Jan 2004 06:27:07 -0000
+Received: from onion.develooper.com (HELO onion.perl.org) (63.251.223.166) by one.develooper.com (qpsmtpd/0.27-dev) with SMTP; Thu, 01 Jan 2004 22:26:36 -0800
+Received: (qmail 82717 invoked by uid 1016); 2 Jan 2004 06:26:35 -0000
+Date: 2 Jan 2004 06:26:35 -0000
+Message-ID: <20040102062635.82716.qmail@onion.perl.org>
+To: jobs@perl.org
+X-Spam-Check-By: one.develooper.com
+X-Spam-Status: No, hits=1.8 required=7.0 tests=CARRIAGE_RETURNS,SPAM_PHRASE_03_05,TO_BE_REMOVED_REPLY version=2.44
+X-SMTPD: qpsmtpd/0.26, http://develooper.com/code/qpsmtpd/
+Subject: Perl Programmer HTML::Mason (telecommute), United States, Maine, Portland
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1149
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 31, 2003
+
+Job title: Perl Programmer HTML::Mason
+
+Company name: WebZen, Inc.
+
+Location: United States, Maine, Portland
+
+Pay rate: Negotiable
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: on and off
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+Write a spider in perl.  
+It will accept a text file as input and write a text file as output.
+Input file will be a list of URLs.
+Output file will the same URLs, plus other information the spider has
+uncovered.
+Spider will start at the home page of the site and POLITELY spider 3 pages
+deep (ie, slowly).
+Spider will run on linux but will have a wintel signature.
+
+This system must be portable, ie, easily installed in any linux/apache web
+server.
+
+We have many spiders and other projects, this is our simplest spider and an
+ideal first project.  
+
+Ideal candidate is an independent contractor who can commit to maintaining
+and upgrading the software that you write for us.
+
+Required skills:
+Candidate must be fluent in perl. 
+Experience with complex spiders. 
+Three years minimum experience writing web apps for linux/apache and
+HTML::Mason.
+
+Desired skills:
+security is important.	Your scripts should have basic security always in
+mind.  For example, scripts should not respond to IPs other than our own,
+etc.
+
+Contact information:
+Gabriel Zappia
+(207) 799-5221
+
+

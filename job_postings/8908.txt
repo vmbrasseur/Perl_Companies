@@ -1,0 +1,135 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8908
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 7869 invoked from network); 30 Dec 2008 12:09:15 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 30 Dec 2008 12:09:15 -0000
+Received: (qmail 9740 invoked by uid 225); 30 Dec 2008 12:09:15 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 9735 invoked by alias); 30 Dec 2008 12:09:15 -0000
+X-Spam-Status: No, hits=-6.5 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SARE_LWHUGE
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 30 Dec 2008 04:09:12 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 83DED2AFE0; Tue, 30 Dec 2008 04:09:09 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20081230120909.83DED2AFE0@x3.develooper.com>
+Date: Tue, 30 Dec 2008 04:09:09 -0800 (PST)
+Subject: Senior Perl Software Development Engineer (part onsite), Australia, Victoria, Melbourne
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/10042
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 29, 2008
+
+Job title:
+Senior Perl Software Development Engineer
+
+Company name: Everyone Counts Pty Ltd
+
+Internal ID: PERL-AU
+
+Location: Australia, Victoria, Melbourne
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+Everyone Counts, a small international technology company, provides highly
+secure online systems for voting in elections. We are growing our team, and
+have an immediate opening for an experienced Perl software development
+engineer in Melbourne, Australia. These are exciting times for us, as we
+are ramping up for several major new initiatives. Come help us deliver
+state-of-the-art systems for democracy.
+ 
+Our system is built on the LAMP platform: Linux, Apache, MySQL, and Perl,
+plus some Java. We use classic three-tier and four-tier architecture.
+What’s special about our software? First, we deliver democracy! Second, our
+software is completely open – customers can see all our code, so it needs
+to be really good. And third, we use powerful security techniques because
+elections are so important to do right.
+ 
+As part of a small, close-knit engineering team, your responsibilities will
+include:
+ 
+Designing and implementing new server-side features
+Performance, scalability, robustness, and fault-tolerance work
+Working with the Director of Engineering on coding standards and code
+improvements
+Implementing relational database features using MySQL
+Implementing administrative features using Web-based user interface
+Refactoring and improvement of existing Perl code, including improved
+coding practices and improved use of libraries 
+Mentoring other developers on advanced Perl techniques
+Participate in designing the next generation systems for the anticipated
+huge growth
+Developing Unit tests and working closely with the QA engineer in ensuring
+the testability of the features.
+Working with Client side Java developers to build the interfaces and
+services on the server side in ensuring a highly integrated system.
+ 
+This is a full-time position for a highly accomplished, hard-working, very
+smart, results-oriented person. You will work at our main Australian office
+in Carlton, near the Melbourne Central Business District. You will also be
+able occasionally to work from home. Flexible hours are a feature of this
+job. Occasionally you may need to be on call in case of urgent customer
+needs.
+ 
+The ideal candidate will have all or nearly all of these qualifications:
+A degree in software engineering, computer science, or a related field
+At least four years experience in professional software development in a
+team setting
+At least three to four years professional experience developing complex
+software with Perl
+At least one year professional experience developing software with Java
+Extensive experience developing software on Linux and Apache
+Experience developing software using MySQL
+Experience with using mod_perl with Apache and DBI etc, for integration
+with mySQL
+Experience with developing scalable systems. 
+Experience with using benchmarking tools for measuring performance of web
+applications.
+Good written and in-person communication skills.
+Have the drive to always improve and innovate.
+Familiarity with distributed security, including cryptography (such as DES)
+and public key certificates (RSA encryption)
+Extensive experience with professional software engineering processes such
+as Scrum, Extreme Programming, requirements analysis, bug tracking,
+automated testing, etc.
+Familiarity with localization/internationalization
+Familiarity with Asterisk, VXML, and/or other telephony technologies
+Experience mentoring other software engineers in technical skills and
+coding practices
+ 
+In addition to a competitive salary and superannuation, you will receive
+stock options and will be eligible for bonuses, promotions, and ongoing
+training and professional development.
+
+Only people with the right to work in Australia may apply for this
+position.
+
+
+Required skills: Perl, MySQL, SQL
+
+URL for more information:
+http://www.everyonecounts.com/index.php/why_everyone_counts/join_us
+
+Contact information at:
+http://jobs.perl.org/job/10042#contact
+
+

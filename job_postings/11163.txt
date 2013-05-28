@@ -1,0 +1,84 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11163
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 32260 invoked from network); 30 Mar 2011 19:58:53 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 30 Mar 2011 19:58:53 -0000
+Received: (qmail 23569 invoked by uid 225); 30 Mar 2011 19:58:53 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 23565 invoked by alias); 30 Mar 2011 19:58:52 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 30 Mar 2011 12:58:50 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 948AB2AFE0; Wed, 30 Mar 2011 12:58:47 -0700 (PDT)
+To: jobs@perl.org
+Date: Wed, 30 Mar 2011 12:58:47 -0700
+Message-ID: <20110330195847.948AB2AFE0@x3.develooper.com>
+Subject: Perl Programmers for catalyst project (onsite), United Kingdom,
+ Gatwick
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13946
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 30, 2011
+
+Job title: Perl Programmers for catalyst project
+
+Company name: Thermeon Europe Ltd
+
+Location: United Kingdom, Gatwick
+
+Pay rate: 18-40k per annum
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Thermeon are looking for self-motivated programmers to join its Gatwick 
+based UK office. Applicants should be versatile and inquisitive by nature, 
+
+able to adapt to new technologies, frameworks and languages. A personal 
+interest in computing and programming should have driven applicants to
+explore 
+frameworks and languages in the past. Thermeon provides services and
+software
+to the car rental industry, where employees find interesting challenges
+that
+stimulate innovative solutions using a diverse range of technologies.
+An engaged approach to problem solving and a self-reliance are key
+attributes for a candidate.
+
+
+Required skills:
+- Perl
+- Web interfaces (XML/HTML/CSS/Javascript)
+- Relational Databases
+- Linux experience
+- Web Servers 
+- Version Control
+- Testing
+
+Desired skills:
+- Catalyst
+- DBIx::Class
+- Moose
+- git
+- lightpd
+- JQuery
+
+Website for more information: http://www.thermeon.com/
+
+Contact information at:
+http://jobs.perl.org/job/13946#contact

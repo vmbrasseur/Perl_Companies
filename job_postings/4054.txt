@@ -1,0 +1,89 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4054
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 1912 invoked from network); 24 Mar 2006 20:54:02 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 24 Mar 2006 20:54:02 -0000
+Received: (qmail 29194 invoked by uid 225); 24 Mar 2006 20:54:02 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 29186 invoked by alias); 24 Mar 2006 20:54:01 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 24 Mar 2006 12:53:59 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 5D9AB2AFC0; Fri, 24 Mar 2006 12:53:54 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20060324205354.5D9AB2AFC0@x3.develooper.com>
+Date: Fri, 24 Mar 2006 12:53:54 -0800 (PST)
+Subject: mod_perl application builder for non-profit sector (onsite), Belgium, Antwerpen, Mechelen
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3524
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 24, 2006
+
+Job title:
+mod_perl application builder for non-profit sector
+
+Company name: Axoni
+
+Location: Belgium, Antwerpen, Mechelen
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: unlimited contract
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Axoni is a highly successful company delivering total solutions to
+associations, federations and non-profit organisations. Our products are
+used by organizations with 10 000 to 150 000 members.
+
+You will be part of the Axoni core development team. The team includes a
+project-manager, a functional analyst, 3 developers and a designer.
+
+The Axolutions is a framework based on apache/mod_perl with a back-end
+database in MySQL of about 500 tables. Modules have been developed in the
+framework to support all processes of non-profit organizations including:
+- Membership management
+- Event management
+- CRM
+- Website and knowledge-management
+- Workflow
+- Financial Management
+
+As a developer, you will:
+- develop new functionality in existing modules
+- build new modules based on functional requirements
+- extend the framework
+
+We’re looking forward to hear from you!
+
+
+Required skills:
+mod_perl, mysql, linux, apache, JavaScript
+
+Desired skills: teamplayer, flexibble attitude
+
+URL for more information: http://www.axoni.be/
+
+Contact information at:
+http://jobs.perl.org/job/3524#contact
+
+

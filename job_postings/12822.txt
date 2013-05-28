@@ -1,0 +1,98 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12822
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8293 invoked from network); 11 Oct 2012 02:56:25 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 11 Oct 2012 02:56:25 -0000
+Received: (qmail 18366 invoked by uid 225); 11 Oct 2012 02:56:25 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 18362 invoked by alias); 11 Oct 2012 02:56:25 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 10 Oct 2012 19:56:22 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id E059B2AFE0; Wed, 10 Oct 2012 19:56:18 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 10 Oct 2012 19:56:18 -0700
+Message-ID: <20121011025618.E059B2AFE0@x3.develooper.com>
+Subject: Senior Software Engineer (onsite), Greenbelt, MD, United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16594
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 10, 2012
+
+Job title: Senior Software Engineer
+
+Company name: ADNET
+
+Internal ID: SS062
+
+Location: Greenbelt, MD, United States
+
+Terms of employment: Salaried employee
+
+Length of employment: 1 year
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The Solar Data Analysis Center (SDAC) at NASA's Goddard Space Flight Center
+in Greenbelt, MD is seeking a programmer to support the development and
+maintenance of the Virtual Solar Observatory (VSO).  The VSO provides
+search and retrieval access to space- and ground-based observations of the
+Sun.  The VSO provides a SOAP API for web-based and command line clients,
+and uses SOAP internally to communicate with distributed data archives.
+
+The primary task will be integration of new datasets into the VSO. This
+task entails working closely with data providers to understand data
+products, writing connectors to make their data available via the VSO SOAP
+API, and often reconciling differences between data models.
+
+Additional tasks include monitoring, tuning, troubleshooting, and other
+general maintenance.
+
+The position will be with ADNET, under NASA's SESDA3 contract.	For more
+information, see 
+http://www.sesda3.com/careers/ss062-senior-software-engineer/
+
+Required skills:
+US Resident or Permenant Residence (ie 'green card') status (yes, I know
+that's not really a skill, but it's still required); 
+
+2+ years of Perl;
+
+2+ years of SQL (mySQL or PostgreSQL preferred);
+
+2+ years with MacOS X, Linux, BSD or other POSIX environment;
+
+1+ year of SOAP or other API experience (SOAP::Lite experience preferred)
+
+Desired skills:
+Experience coding in a security conscious environment;
+
+Familiarity with scientific data;
+
+And that long, bloated list of keywords that they didn't let me put in the
+official description: Java, Python, pgplsql, C, MacOS X, CentOS, HTML,
+JavaScript, apache, WSDL, REST, IA, data modeling, UX, ontologies, search
+engines (building, not using).
+
+Website for more information:
+http://www.sesda3.com/careers/ss062-senior-software-engineer/
+
+Contact information at:
+http://jobs.perl.org/job/16594#contact

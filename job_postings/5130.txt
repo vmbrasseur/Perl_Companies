@@ -1,0 +1,131 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5130
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 5207 invoked from network); 18 Oct 2006 20:30:55 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 18 Oct 2006 20:30:55 -0000
+Received: (qmail 15722 invoked by uid 225); 18 Oct 2006 20:30:54 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 15713 invoked by alias); 18 Oct 2006 20:30:54 -0000
+X-Spam-Status: No, hits=-1.8 required=8.0
+	tests=ALL_TRUSTED,BAYES_50
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 18 Oct 2006 13:30:47 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 9F30A2AFEA; Wed, 18 Oct 2006 13:30:16 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20061018203016.9F30A2AFEA@x3.develooper.com>
+Date: Wed, 18 Oct 2006 13:30:16 -0700 (PDT)
+Subject: Systems Developer (onsite), United States, CA, San Francisco
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4804
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 18, 2006
+
+Job title: Systems Developer
+
+Company name: Barclays Global Investors
+
+Internal ID: PS-928
+
+Location: United States, CA, San Francisco
+
+Terms of employment: Salaried employee
+
+Length of employment: Permanent
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Barclays Global Investors (BGI) is the world’s largest asset manager,
+providing structured investment strategies such as indexing,
+risk-controlled active products, and exchange traded funds (iShares) to
+investors worldwide. For 35 years, BGI has been at the forefront of
+developing innovative investment ideas, applying science and technology to
+the investment process. Headquartered in San Francisco and recently named
+one of the SF Business Times’ “Best Places to Work in the Bay Area,” the
+Barclays PLC subsidiary employs over 2,800 people globally and manages $1.6
+trillion in assets. 
+
+The Knowledge Management organization (KM) is responsible for providing the
+data and information that fuels BGI’s innovation and performance. The key
+clients of this group span the entire investment process, beginning with
+research, to portfolio management and operations. The role of the Knowledge
+Management IT group is to provide the underlying technology solutions that
+are reliable, adaptable, integrated, scalable and maintainable. 
+
+The Systems Developer in the (KM) Data Management Services team is
+responsible for providing IT development for production-quality data
+acquisition, cleansing and distribution with technologies such as Sybase
+ASE, Perl, Sybase IQ, SQL and XML. 
+
+
+Primary Responsibilities 
+
+
+The candidate will be responsible for the full software development
+lifecycle, involving the day to day interface with a global support team,
+spanning three offices. Responsibilities will include: 
+
+•Partnering with Knowledge Management Business Analysts and Clients to
+define business requirements and test plans. 
+•Implementing high quality well tested technology solutions to business
+problems using one of BGI’s agreed SDLCs. 
+•Collaborating with KM Architecture group on design of new applications and
+components. 
+•Building strong relationships with the business through delivery,
+communication and domain knowledge. 
+•Working closely with the Production Services team to ensure the code is
+fit for a production environment. 
+•Providing 2nd Level support for existing production code. 
+
+
+Required skills:
+•Min, BS degree in Computer science or equiv. 
+•Min. 5+ years of related experience 
+•Strong OO Designs skill – knowledge of OO design methodology, terminology
+and principles. 
+•OO Perl and/or Java, J2EE experience. 
+•Strong Database development skills – Sybase ASE preferable 
+•Strong Database design skills - (indexes, normalization, stored
+procedures, views, entity-relationships, etc…) 
+•Strong Unix skills - at least 4 years day-to-day experience of UNIX
+(Solaris, Linux, BSD, etc…) 
+
+
+Desired skills:
+•Experience with an ETL tool, preferably Informatica. 
+•Good XML skills 
+•Sybase IQ 
+•PowerBuilder 
+•MQ Series 
+•Autosys 
+•Asset Control 
+
+Key attributes 
+•Can work in a fast pace environment 
+•Can deliver even facing tight deadlines 
+•Financial industry domain experience or strong interest 
+•Value highly knowledge sharing and always ready to help other team members 
+
+URL for more information:
+https://barclays.recruitmax.com//main/careerportal/candidate_update.cfm?szO
+rderID=928
+
+Contact information at:
+http://jobs.perl.org/job/4804#contact
+
+

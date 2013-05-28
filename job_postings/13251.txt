@@ -1,0 +1,92 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13251
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 21679 invoked from network); 22 Mar 2013 18:21:10 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 22 Mar 2013 18:21:10 -0000
+Received: (qmail 14595 invoked by uid 225); 22 Mar 2013 18:21:10 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 14590 invoked by alias); 22 Mar 2013 18:21:09 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 22 Mar 2013 11:21:02 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 96A362AFDD; Fri, 22 Mar 2013 11:20:58 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 22 Mar 2013 11:20:58 -0700
+Message-ID: <20130322182058.96A362AFDD@x3.develooper.com>
+Subject: Perl Software Engineer (onsite), Boulder, CO, USA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17167
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 22, 2013
+
+Job title: Perl Software Engineer
+
+Company name: Qualcomm, Inc.
+
+Internal ID: G1912169
+
+Location: Boulder, CO, USA
+
+Pay rate: DOE
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Qualcomm's Windows Graphics team is looking for an experienced Perl
+developer to maintain and extend a wide variety of mission-critical Perl
+scripts used in a variety of contexts to support and enable the creation of
+DirectX drivers for Qualcomm's next-generation GPUs.
+
+Specific duties include maintaining and extending automated build
+infrastructures, creating and maintaining tools to increase developer
+quality and productivity as well as perform data analysis. Additionally,
+the candidate will work as a team member to help develop the large and
+distributed test system that we use to validate our drivers against current
+and future hardware.
+
+
+Qualcomm CDMA Technologies (QCT) is the world's largest fabless
+semiconductor producer and the largest provider of wireless chipset and
+software technology, which powers the majority of all 3G devices
+commercially available today. We are redefining the experience of wireless
+mobility by applying our unmatched legacy of wireless innovation to enable
+new generations of increasingly powerful mobile handsets, computers and
+consumer electronics devices. As a result, 3G wireless connectivity is
+being extended into an ever-wider range of products and services.
+
+Required skills:
+2 or more years of programming using the Perl language
+Familiarity with C/C++
+
+BS/MS in CS or ECE degree strongly preferred.
+
+Desired skills:
+Experience with ActiveState Perl and/or Electric Commander's ec-perl
+Experience with a 3D graphics library such as DirectX or OpenGL
+C/C++ programming skills
+Embedded programming experience
+Experience setting up and maintaining Continuous Integration systems
+
+Website for more information:
+https://jobs.qualcomm.com/public/jobDetails.xhtml?requisitionId=1912169
+
+Contact information at:
+http://jobs.perl.org/job/17167#contact

@@ -1,0 +1,86 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:1174
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 23266 invoked by uid 76); 10 Nov 2003 21:34:26 -0000
+Received: from qmailr@one.develooper.com (HELO ran-out.mx.develooper.com) (64.81.84.115) by onion.perl.org (qpsmtpd/0.26) with SMTP; Mon, 10 Nov 2003 13:34:26 -0800
+Received: (qmail 2577 invoked by uid 225); 10 Nov 2003 21:34:25 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 2571 invoked by uid 507); 10 Nov 2003 21:34:25 -0000
+Received: from onion.develooper.com (HELO onion.perl.org) (63.251.223.166) by one.develooper.com (qpsmtpd/0.27-dev) with SMTP; Mon, 10 Nov 2003 13:33:53 -0800
+Received: (qmail 23065 invoked by uid 1016); 10 Nov 2003 21:33:46 -0000
+Date: 10 Nov 2003 21:33:46 -0000
+Message-ID: <20031110213346.23064.qmail@onion.perl.org>
+To: jobs@perl.org
+X-Spam-Check-By: one.develooper.com
+X-Spam-Status: No, hits=1.2 required=7.0 tests=CARRIAGE_RETURNS,SPAM_PHRASE_01_02,TO_BE_REMOVED_REPLY version=2.44
+X-SMTPD: qpsmtpd/0.26, http://develooper.com/code/qpsmtpd/
+Subject: Senior web mod_perl  / DBI Programmer (onsite), United States, NY, NYC
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1065
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 10, 2003
+
+Job title: Senior web mod_perl  / DBI Programmer
+
+Company name: Spectrum Data Technologies, LLC
+
+Location: United States, NY, NYC
+
+Pay rate: Open, Specify Requirements
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: Minimum 1 Month
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Senior Perl web / database programmer required to assist team in building
+e-commerce distribution and fulfillment systems, tuning code. The primary
+responsibilities for this job include porting existing CGI code to mod_perl
+or enabling CGI::Fast, and transferring that knowledge to the development
+team. A second phase of the project may require HTML::Mason to be enabled,
+so the ideal candidate would also possess that skillset as well. Must be
+able to demonstrate experience with high-volume transaction systems and
+provide references. 
+Candidate must be personable and have experience with some minimal client
+interaction. Most importantly, the client must work well with the existing
+team. Must be able to provide examples of your work and ideally specify
+URLs. Senior candidates only. Recent experience with high-volume
+transaction systems required.
+
+Required skills:
+CGI, CGI.pm specifically
+DBI Experience (MySQL and Oracle)
+Recent Experience with large-scale transaction systems.
+mod_perl
+HTML
+HTML::Mason
+SQL
+SOAP
+cron and job scheduling
+javascript
+
+Desired skills:
+Nice to have, but not required ...
+MySQL Administration
+PL/SQL Development
+Query tuning
+Experience with CVS or other code management tools
+Apache Administration (Apache + SSL)
+
+Contact information:
+Please send CV * with salary requirements * to jobs@spectrumdt.com .
+
+

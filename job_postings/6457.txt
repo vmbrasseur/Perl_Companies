@@ -1,0 +1,98 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6457
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8247 invoked from network); 15 Jun 2007 16:09:14 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 15 Jun 2007 16:09:14 -0000
+Received: (qmail 14758 invoked by uid 225); 15 Jun 2007 16:09:13 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 14751 invoked by alias); 15 Jun 2007 16:09:13 -0000
+X-Spam-Status: No, hits=0.0 required=8.0
+	tests=BAYES_50,DKIM_POLICY_SIGNSOME,DK_POLICY_SIGNSOME,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 15 Jun 2007 09:09:01 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id DF8FF2AFFC; Fri, 15 Jun 2007 09:08:56 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070615160856.DF8FF2AFFC@x3.develooper.com>
+Date: Fri, 15 Jun 2007 09:08:56 -0700 (PDT)
+Subject: Configuration / Release Engineer (onsite), United States, CA, Los Angeles
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5962
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 14, 2007
+
+Job title: Configuration / Release Engineer
+
+Company name: PriceGrabber.com
+
+Location: United States, CA, Los Angeles
+
+Pay rate: doe
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Located in the heart of Westwood Village, PriceGrabber.com, an Experian
+company, is a leading online comparison shopping service that has
+revolutionized the way consumers make purchasing decisions through the
+Internet by enabling them to find the right product from the right retailer
+at the best price. PriceGrabber.com has 24 million consumers visiting the
+site per month, over 11,000 sellers listing millions of products, and has
+partnerships with over 300 leading Internet sites, including MSN Shopping,
+About.com, Comcast, USATODAY.com, iVillage.com, and PC World.
+Founded in 1999, PriceGrabber.com continues to see significant growth in
+revenues and profits year over year. Today, PriceGrabber.com is the most
+popular comparison shopping site among Active Web Shoppers, and has
+received numerous industry awards, recently being named “Internet Company
+of the Year” by the Southern California Software Council (2006).
+We are seeking a full-time software engineer to work on a framework to
+release and test software written in Perl and PHP, operating in a Linux,
+Apache, and MySQL environment. 
+
+Responsibilities:
+•  Manage the weekly release process with the ability to make minor daily
+updates.
+•  Manage the platform which will run functional, regression, performance,
+load and stress tests.
+
+
+Required skills:
+•  0 – 2 years experience in software engineering, test engineering and/or
+configuration management
+•  Good knowledge of relational databases and Perl
+•  Ability to work in a Linux shell environment
+•  Ability to work collaboratively in a shared code environment
+•  Good communication skills
+
+
+Desired skills:
+•  BS in Computer Science or related field a plus
+•  Knowledge of PHP a plus
+•  Experience with software configuration management systems such as CVS or
+Subversion is a plus
+
+URL for more information:
+http://www.pricegrabber.com/about.php/about=jobs
+
+Contact information at:
+http://jobs.perl.org/job/5962#contact
+
+

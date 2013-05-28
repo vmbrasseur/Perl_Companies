@@ -1,0 +1,91 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4825
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 16499 invoked from network); 22 Aug 2006 03:06:25 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 22 Aug 2006 03:06:25 -0000
+Received: (qmail 11184 invoked by uid 225); 22 Aug 2006 03:06:25 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11175 invoked by alias); 22 Aug 2006 03:06:24 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_05
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 21 Aug 2006 20:06:19 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 99BF52AFD7; Mon, 21 Aug 2006 20:06:15 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060822030615.99BF52AFD7@x3.develooper.com>
+Date: Mon, 21 Aug 2006 20:06:15 -0700 (PDT)
+Subject: frontend and application engineers (telecommute), United States, PA, Philadelphia
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4544
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 21, 2006
+
+Job title: frontend and application engineers
+
+Company name: Double Prime, Inc.
+
+Location: United States, PA, Philadelphia
+
+Pay rate: $35/hr+, depends on experience
+
+Travel: 0-25%
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+We seek several skilled perl programmers to support and develop websites
+for our primary client, a multinational Fortune 500 company.  We have
+approximately 50 websites throughout the world, some of which are marketing
+websites, many of which are e-commerce (in the U.S., France, U.K., and
+Australia).  Our code is built to centralize common business logic and to
+allow custom behavior for the various individual sites.
+
+Examples of the work are interacting with the client and design agencies,
+programming unique applications, and deploying sites in new countries.	It
+is a dynamic and challenging atmosphere, working with our clients and
+employees from all over the U.S.  Periodic performance reviews are
+conducted, and good work is happily encouraged and rewarded, via both
+salary increases and annual bonuses.
+
+In addition to candidates from the U.S., we would like to hear from people
+in the following countries: UK, Japan, Korea, China, Australia, Spain,
+France, and Germany.
+
+
+Required skills:
+- a thorough knowledge of perl, including OO concepts
+- perl templating engines
+- good unix skills
+- javascript and css
+- good interpersonal skills 
+
+
+Desired skills:
+- perl database interaction
+- mod_perl OO development
+- apache configuration
+- unix shell scripting
+- multilingual (see country list above)
+
+
+Contact information at:
+http://jobs.perl.org/job/4544#contact
+
+

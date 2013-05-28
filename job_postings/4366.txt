@@ -1,0 +1,97 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4366
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 5122 invoked from network); 21 May 2006 04:32:32 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 21 May 2006 04:32:32 -0000
+Received: (qmail 11274 invoked by uid 225); 21 May 2006 04:32:32 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11270 invoked by alias); 21 May 2006 04:32:31 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 20 May 2006 21:32:06 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 7BCB62AFE2; Sat, 20 May 2006 21:32:02 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060521043202.7BCB62AFE2@x3.develooper.com>
+Date: Sat, 20 May 2006 21:32:02 -0700 (PDT)
+Subject: CHRISTIAN 'bot' autofiller conversation stuff (telecommute), United States, mi, roseville
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4125
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 20, 2006
+
+Job title:
+CHRISTIAN 'bot' autofiller conversation stuff
+
+Location: United States, mi, roseville
+
+Pay rate: auction/depends
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: contract
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+must be multiplatform/autoconversation filler type 'bot'
+save conversation that i've had, and autofill that in the future with
+exactly the same conversations. ie; at first it would be almost useless,
+just recording everything i say.... but eventually, after 200 conversations
+or so, it would be incredibly useful - especially for small direct
+conversations.
+when it doesn't know what to say/autofill, it should pop up a menu, and
+either A) let me finish the conversation or B) let me put in a sentence or
+two & let me send it to another part in the conversation (shortcut) - when
+i answer conversation, it should be able to run perl/other scripts. ie;
+saying 'my name is james /key' could save the conversation as 'my name is
+james', and then /key could be an operator that could either be defined
+there or elsewhere - possibly saving the operator itself in the save file
+to be used in the future as well.
+
+i have a couple of different multiplatforms that i've been suggested to use
+- this project does not have to be from scratch :D - dont care how it's
+done as long as it gets done. 
+
+1) it should be able to be multiplatform (aim/yaho/msn/others); i have a
+multiplatform base that i think would help that is written in perl.
+2) it should be able to save conversation & autofill;  pop up a menu when
+it doesnt know what to say for input
+3) it should be able to have multiple conversations at once; ie complete
+conversations even as it's awaiting my response to a question.. even if it
+has 2 or 3 windows  up & awaiting my response.
+4) it should be able to use perl/other commands; shortcuts to parts of
+conversation in particular
+5) ease of install would be a big plus :D
+6) should have the ability to look at and edit the database; hopefully
+something fairly easy to understand
+7) it should pop up a menu when it doesnt know what to say
+8) should be able to save each conversation topic as a 'brain', and be able
+to start a new 'brain' easily as needed that can be switched between
+quickly.
+
+
+Required skills:
+perl/other language useful for the project
+
+Desired skills: Christian
+
+Contact information at:
+http://jobs.perl.org/job/4125#contact
+
+

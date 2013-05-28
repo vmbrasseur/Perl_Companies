@@ -1,0 +1,90 @@
+Newsgroups: perl.jobs,perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6696 perl.jobs:6698
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 18269 invoked from network); 27 Jul 2007 15:59:42 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 27 Jul 2007 15:59:42 -0000
+Received: (qmail 11277 invoked by uid 225); 27 Jul 2007 15:59:41 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11269 invoked by alias); 27 Jul 2007 15:59:41 -0000
+X-Spam-Status: No, hits=-2.6 required=8.0
+	tests=BAYES_00,DKIM_POLICY_SIGNSOME,DK_POLICY_SIGNSOME,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 27 Jul 2007 08:27:36 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 18CCC2AFE4; Fri, 27 Jul 2007 08:26:35 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070727152635.18CCC2AFE4@x3.develooper.com>
+Date: Fri, 27 Jul 2007 08:26:35 -0700 (PDT)
+Subject: Systems Programmer (telecommute), United States, NY, New York
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/6305
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 27, 2007
+
+Job title: Systems Programmer
+
+Company name: End Point
+
+Internal ID: Systems Programmer
+
+Location: United States, NY, New York
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+End Point Corporation is looking for a developer with a strong systems
+programming background to work with other team members in the development
+and maintenance of software for a variety of projects. The 
+successful applicant will be able to perform analysis of complex systems,
+recommend, design and implement changes to existing systems, or
+re-architect systems to meet emerging goals.
+
+One of our primary systems, Interchange, is written in Perl.  Many of our
+tools and internally-developed systems are also written in Perl.
+
+
+Required skills:
+* Strong communication skills and professionalism
+* Strong C & Unix programming experience
+* Solid understanding and experience of full product lifecycle
+* Solid understanding of TCP/IP
+* Familiarity with representative protocols, architectural, and operational
+
+issues in large, distributed systems (e.g., Kerberos, SQL, DNS, LDAP, 
+backups, monitoring, etc.)
+* Experience with at least two of: Linux, Solaris, HP-UX, AIX, BSD
+* Knowledge of at least one scripting language (awk, Perl, Python, Ruby,
+etc.)
+
+Desired skills:
+* Familiarity with distributed and/or clustered filesystems (NFS, AFS,
+CIFS, GFS, NAS, etc.)
+* Kernel level knowledge and experience with a Unix-based system
+* Familiarity with RDBMS internals (e.g., DB2, Oracle, Sybase, mySQL,
+Postgres, etc.)
+* Knowledge of Microsoft Windows internals
+
+URL for more information: http://www.endpoint.com/page/hub/jobs
+
+Contact information at:
+http://jobs.perl.org/job/6305#contact
+
+

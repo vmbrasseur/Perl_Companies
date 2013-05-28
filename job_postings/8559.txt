@@ -1,0 +1,112 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8559
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 23884 invoked from network); 14 Aug 2008 22:23:52 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 14 Aug 2008 22:23:52 -0000
+Received: (qmail 20430 invoked by uid 225); 14 Aug 2008 22:23:52 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 20423 invoked by alias); 14 Aug 2008 22:23:51 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 14 Aug 2008 15:23:47 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 205B22AFE2; Thu, 14 Aug 2008 15:23:44 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080814222344.205B22AFE2@x3.develooper.com>
+Date: Thu, 14 Aug 2008 15:23:44 -0700 (PDT)
+Subject: Software Engineer (onsite), London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/9414
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 12, 2008
+
+Job title: Software Engineer
+
+Company name: BBC World Service
+
+Location: London
+
+Pay rate: 28-36k
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: Continuing
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are looking for a Software Developer to join BBC World Service’s Future
+Media team, helping to bring a growing range of products to our global
+online audience. Primarily the role involves developing software for the
+BBC World Service website, in English and the 33 languages; among the
+products we have already brought is one of the BBC’s primary content
+management systems, Topcat 2, together with systems designed to allow the
+best of World Service’s award-winning content to be made available online.
+The vast scale of the website gives great opportunity for innovation, and
+we are looking for someone with ideas they can bring to the role, as well
+as the team skills needed to work closely with our important partners such
+as English News and Networks and the language services. You will have a
+good awareness of developments in the future media industry and be willing
+to share your thoughts as to how they may be incorporated into our online
+offer. Because our team is at the forefront of development, the role is
+expected to evolve in parallel to the overall World Service future media
+strategy. 
+
+At the BBC we respect each other and celebrate our diversity so that
+everyone gives their best. The BBC positively encourages applications from
+all parts of the community and is committed to promoting equality of
+opportunity.
+
+Required skills:
+1. A broad idea around software development process, testing practises,
+Agile methodologies and OOP.
+
+2. Knowledge of Test Driven Development, Unit testing, Regression testing.
+
+3. Experience in Perl and mod_perl or FastCGI - OR - an ability to pick up
+new languages quickly.
+
+4. Databases, SQL and normalisation. You need to understand “EXPLAIN” or
+“ANALYZE”. 
+
+Desired skills:
+
+1. We’d like you to be familiar with JavaScript – designing, writing and
+testing Objects and using frameworks such as Prototype and Dojo.
+
+2. You need to be comfortable in a Unix environment - the shell must be
+your best friend.
+
+3. An appreciation of the beneficial effect of automation on quality,
+consistency and efficiency.
+
+4. Our content is multilingual, our reader and listener-ship is worldwide.
+So you must have an appreciation of both the BBC and World Service output
+and the potential for future media technologies to broaden and enhance what
+we produce. 
+
+5. In addition, knowledge of Java, Servlets and XML will not go amiss. 
+
+URL for more information:
+https://www1.i-grasp.com/fe/tpl_bbc01.asp?newms=jj&id=23903&aid=10281
+
+Contact information at:
+http://jobs.perl.org/job/9414#contact
+
+

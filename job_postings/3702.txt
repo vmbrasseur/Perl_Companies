@@ -1,0 +1,71 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3702
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 4745 invoked from network); 13 Jan 2006 16:05:37 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 13 Jan 2006 16:05:38 -0000
+Received: (qmail 3378 invoked by uid 225); 13 Jan 2006 16:05:37 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 3373 invoked by alias); 13 Jan 2006 16:05:37 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 13 Jan 2006 08:05:35 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id k0DG5WTD000929
+	for <jobs@perl.org>; Fri, 13 Jan 2006 08:05:32 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id k0DG5WUT000927;
+	Fri, 13 Jan 2006 08:05:32 -0800
+Date: Fri, 13 Jan 2006 08:05:32 -0800
+Message-ID: <200601131605.k0DG5WUT000927@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Consuming Large Web Service Payloads in Perl (onsite), United States, NY, New York
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3525
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 13, 2006
+
+Job title:
+Consuming Large Web Service Payloads in Perl
+
+Location: United States, NY, New York
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: 2 Weeks
+
+Onsite: yes
+
+Description:
+We're currently using the open source SOAP::Lite module to interop with
+.Net applications via web services in an effort to consume large amounts of
+data (70 MB +).  We've found that the SOAP::Lite module blows-up the memory
+footprint to at least 7x the payload while processing the SOAP messages,
+and we're running in to resource issues.  This likely occurs because the
+SOAP::Lite module is building up an expensive DOM representation of the
+SOAP message.  
+
+The goal of this project is to build a streamlined web services client that
+is capable of streaming in and parsing large SOAP messages.  
+
+Required skills:
+Expertise in Perl programming with extensive experience with HTTP, SOAP,
+XML, Authentication, and all the associated open source Perl modules
+
+Contact information at:
+http://jobs.perl.org/job/3525#contact
+
+

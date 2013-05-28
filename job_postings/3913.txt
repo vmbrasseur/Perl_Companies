@@ -1,0 +1,138 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3913
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 10787 invoked from network); 22 Feb 2006 20:50:08 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 22 Feb 2006 20:50:08 -0000
+Received: (qmail 2677 invoked by uid 225); 22 Feb 2006 20:50:07 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 2668 invoked by alias); 22 Feb 2006 20:50:06 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 22 Feb 2006 12:50:03 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id k1MKnv5n011262
+	for <jobs@perl.org>; Wed, 22 Feb 2006 12:49:57 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id k1MKnvk9011260;
+	Wed, 22 Feb 2006 12:49:57 -0800
+Date: Wed, 22 Feb 2006 12:49:57 -0800
+Message-ID: <200602222049.k1MKnvk9011260@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Perl developer for consumer-facing website (telecommute), United States, VA, Williamsburg
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3736
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 22, 2006
+
+Job title:
+Perl developer for consumer-facing website
+
+Company name: Decision Help, LLC
+
+Internal ID: 2-22-06
+
+Location: United States, VA, Williamsburg
+
+Pay rate: flexible
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 100+ hours
+
+Hours: Part time
+
+Onsite: no
+
+Description:
+1.	Project description:
+1.1.	Perl, MySQL, Apache website that walks the user through an
+interview process.
+1.2.	The interview is driven by data stored in a relational database.
+1.3.	Users may or may not create an account to retain their own data. If
+they create an account, they may come back later to review/modify their
+interview answers.
+1.4.	It is very important that the website have an inviting,
+non-threatening, and user friendly feel. A dash of humor would be an asset.
+
+1.5.	Security, scalability and usability are all important.
+1.6.	A content management engine must be a part of the website.
+1.7.	You may look at www.FindYourSpot.com for an example of a similar
+website. Our purpose is different from FindYourSpot and we want to come
+across as a bit more serious, but the style is similar.
+1.8.	If successful, this website will help improve the quality of life
+of millions of people. Just about everyone will want to use it at one time
+or another. It is an exciting and rewarding project.
+
+
+Required skills:
+2.	Desired Skills and Assets (listed in order of decreasing
+importance) (Pricing will be addressed elsewhere)
+
+2.1.	Mandatory Requirements
+2.1.1.	Candidate must have at least 14+ hours a week of availability for
+this work for a total of at least 160 hours. Full-time is also acceptable.
+Upon mutual agreement, the position may be extended or grow into a
+permanent part-time or permanent full-time position. Candidate must be able
+to start ASAP.
+2.1.2.	Candidate must supply all reasonable items needed to work at a site
+of his/her choosing (computer, .Net software, high bandwidth internet
+access, development server, etc.)
+2.1.3.	Candidate must be willing to sign a standard Non Disclosure
+Agreement.
+
+2.2.	Highly Desirable Skills
+2.2.1.	General Web Experience – must have experience architecting,
+building and deploying several professional quality web sites.
+2.2.2.	References (Quantity and Quality) – Must supply at least 3
+professional references.
+2.2.3.	Perl - Must be experienced with all significant aspects of the Perl
+development environment.
+2.2.4.	Gui Design/Usability – Must be experienced with standard concepts
+of GUI design and human factors.
+2.2.5.	MySQL  – Must be experienced with MySQL, relational database
+concepts, etc.
+2.2.6.	Scalability – Must be proficient in addressing issues of web site
+scalability.
+2.2.7.	Interview Dialog Experience – Prefer experience building dynamic
+“interview” environments where the user answers a series of database driven
+questions. Answers are stored for later retrieval and/or analysis.
+2.2.8.	Security – Must be proficient in addressing issues of security.
+2.2.9.	Search Engine Optimization – Must be proficient in addressing
+search engine optimization issues.
+
+
+Desired skills:
+
+2.3.	“Nice to have” Skills
+2.3.1.	Web Services – Should be experienced in creating and consuming Web
+Services.
+2.3.2.	Mentoring – Should be able to communicate technical concepts to
+less experienced programmers 
+2.3.3.	Communication Skills – Should be good at verbal and written
+communications
+2.3.4.	Data Mining - Should be familiar with issues of data mining.
+2.3.5.	Flash experience is helpful
+
+
+URL for more information: http://www.mydecisionhelper.com/
+
+Contact information at:
+http://jobs.perl.org/job/3736#contact
+
+

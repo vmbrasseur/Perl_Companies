@@ -1,0 +1,131 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9078
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 20403 invoked from network); 21 Mar 2009 21:16:42 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 21 Mar 2009 21:16:42 -0000
+Received: (qmail 6737 invoked by uid 225); 21 Mar 2009 21:16:41 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 6733 invoked by alias); 21 Mar 2009 21:16:41 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 21 Mar 2009 14:16:38 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id C07BF2AFE4; Sat, 21 Mar 2009 14:16:34 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20090321211634.C07BF2AFE4@x3.develooper.com>
+Date: Sat, 21 Mar 2009 14:16:34 -0700 (PDT)
+Subject: OO Perl Sr Developer for Financial Institution  - Singapore (telecommute), Singapore, Singapore
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/10372
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 19, 2009
+
+Job title:
+OO Perl Sr Developer for Financial Institution	- Singapore
+
+Company name: Optimum Solutions (S) Pte Ltd.,
+
+Internal ID: OOP2
+
+Location: Singapore, Singapore
+
+Terms of employment: Salaried employee
+
+Length of employment: Long Term - Permanent
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+Role Description Summary
+
+Client’s Outsourced Service Organization (OSO) is responsible for providing
+the data and information that fuels our clients’ innovation and
+performance.  The key clients of this group span the entire investment
+process, beginning with research, to portfolio management and operations.  
+
+
+Key Job Responsibilities
+
+* This role will focus on design and delivery of migrating legacy SUMS Perl
+based code to OSO target state.
+
+* The developer would be required to do process analysis of existing SUMS
+Perl code and convert the code to equivalent Informatica mappings.
+
+* The individual is required to be a self starter and should be able to
+show initiative in wading through legacy platforms code with limited
+documentation.
+
+Responsibilities will also include:
+
+* Partnering with other OSO Engineers to provide insight into legacy
+processes and provide input to target state architecture teams around areas
+of data quality, data transformation and acquisition
+
+* Implementing high quality well tested solutions to business problems
+using one of client’s agreed SDLC.
+
+* Collaborating with OSO Data Delivery team to gain insight into SUMS
+platform
+
+* Working closely with the Support team to ensure code, documentation,
+monitoring, etc. are fit for a production environment.
+
+
+Required skills:
+Technical/Functional Specifications
+Technical
+
+5 + years software development experience preferably in data centric
+environment
+
+* Strong OO Perl: Can write a Perl distribution; Has written many modules;
+Good knowledge of CPAN
+
+* Strong Database development skills – Sybase ASE and Oracle: Has written
+complex stored procedures; has written triggers 
+
+* Strong Database design skills - (indexes, normalization, stored
+procedures, views, entity-relationships, etc…)
+
+* Strong Unix skills - at least 4 years day-to-day experience of UNIX
+(Solaris, Linux, BSD, etc…)
+
+Competencies
+* Excellent communication skills (verbal and written)
+* Attention to details and good problem solving skills
+* Used Perl and database extensively to do data transformation and delivery
+
+* Experience in using ETL tools like Informatica
+* Experience in financial domain
+* Preferred: Domain knowledge in Fixed Income, Equity
+* Good XML skills
+* MQ Series
+* Autosys
+* mod_perl
+
+Position is based in Singapore.
+Direct with bank.
+Relocation expenses will be provided.
+
+
+URL for more information: http://www.theoptimum.net/
+
+Contact information at:
+http://jobs.perl.org/job/10372#contact
+
+

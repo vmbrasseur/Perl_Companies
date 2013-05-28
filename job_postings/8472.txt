@@ -1,0 +1,96 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8472
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 25793 invoked from network); 22 Jul 2008 23:14:48 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 22 Jul 2008 23:14:48 -0000
+Received: (qmail 30842 invoked by uid 225); 22 Jul 2008 23:14:47 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 30836 invoked by alias); 22 Jul 2008 23:14:47 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 22 Jul 2008 16:14:45 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 0B8272AFE9; Tue, 22 Jul 2008 16:14:41 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080722231442.0B8272AFE9@x3.develooper.com>
+Date: Tue, 22 Jul 2008 16:14:41 -0700 (PDT)
+Subject: UNIX Tools Engineer, Hungary, Budapest
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/9242
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 21, 2008
+
+Job title: UNIX Tools Engineer
+
+Company name: Mimox Kft
+
+Location: Hungary, Budapest
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Description:
+Description
+The Development Environment team is seeking a UNIX tools Engineer. The team
+is a global group responsible for the development environment at the firm.
+The development environment includes all developer tools, build
+infrastructure, Software Development Lifecycle (SDLC) tools, best practices
+and training. It is a highly visible group working with developers across
+the firm – the team has direct impact on developer productivity. The
+primary focus of the role is integration and support of 3rd party software
+tools into the firm’s environment. This role is a mixture of engineering,
+some development and interaction with developers for consulting, support
+(specialist knowledge only) and training.
+
+Responsibilities will include 
+• Delivering, maintaining and supporting a series of widely used
+developer/tester tools used throughout the firm IT (E.g., Jira, Perforce,
+Electric Commander and QualityCenter)
+• Engineering work to integrate new vendor tools into the environment,
+performing proof of concepts and evaluations, before deploying them.
+Maintain them, upgrade them, improve performance, capacity and stability
+• Cover level 2 support escalations
+
+
+Required skills:
+• Highly organized and an experienced engineer/developer
+• Extensive engineering skills on Linux and/or Windows operating systems
+• Scripting language knowledge (Perl, Python)
+• Able to work well with people and multi-task in a highly dynamic
+environment
+• Experience of supporting users and working with vendors, managing
+conflicting priorities
+• Good communication skills are essential (the team also delivers training
+courses), as the job requires a lot of interaction with developers and
+vendors,
+
+
+Desired skills:
+• Experience with implementing vendor applications into an environment
+• Strong familiarity with HP Mercury testing tools (Quality Center,
+Performance Center, Quick Test Professional) 
+• Database knowledge, Windows administration
+• Apache, Tomcat knowledge
+• Familiarity with coding in programming languages such as Java
+• Understanding of a software development life cycle and tools is desired
+(version control, issue tracking, continuous integration, testing)
+• Managing conflicting priorities
+
+
+Contact information at:
+http://jobs.perl.org/job/9242#contact
+
+

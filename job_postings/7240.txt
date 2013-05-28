@@ -1,0 +1,94 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7240
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 32634 invoked from network); 6 Nov 2007 22:17:23 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 6 Nov 2007 22:17:23 -0000
+Received: (qmail 24335 invoked by uid 225); 6 Nov 2007 22:17:20 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 24267 invoked by alias); 6 Nov 2007 22:17:11 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 06 Nov 2007 14:17:07 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id D10B02AFD8; Tue,  6 Nov 2007 14:17:01 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20071106221701.D10B02AFD8@x3.develooper.com>
+Date: Tue,  6 Nov 2007 14:17:01 -0800 (PST)
+Subject: Perl programmer, AZ, Tucson
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/7225
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November  6, 2007
+
+Job title: Perl programmer
+
+Company name: TEKsystems
+
+Location: AZ, Tucson
+
+Travel: 0%
+
+Terms of employment: Hourly employee
+
+Length of employment: 6-10 months
+
+Hours: Full time
+
+Description:
+Mid-Level Perl Developer with 2-3 years of Object-Oriented Perl development
+experience.  Candidates will be responsible for the design, development,
+testing, and deploying of new components and features for the Jupitermedia
+websites, plus help to maintain a large codebase. This is a live production
+environment and candidates must have experience in working in this
+environment.
+
+
+Required skills:
+Candidates need to have at least 2 years knowledge of web technologies and
+object-oriented Perl environments. Must have 2+ years experience
+source-code programming in a networked Unix/Linux work environment.
+
+**The environment is a combination of Linux and Solaris systems using
+Apache, mod_perl, and HTML::Mason with an Oracle database backend. 
+Candidates for this position do NOT have to have the full package, but it
+is preferred. ** 
+
+-Must be able to provide examples object oriented Perl programming skills.
+
+-Experience utilizing Mason (or similar) web page templating tool - a big
+plus, not required.
+
+-2+ years experience programming custom mod_perl handlers-a big plus, not
+required
+
+-Experience with a 2nd web-applicable language (other than Perl), e.g., C,
+C++, Python, etc. 
+
+
+Desired skills:
+-Ability to troubleshoot and resolve issues evolving from the dynamics of a
+distributed operating environment in a timely and efficient manner 
+
+-Ability to work in a team programming environment 
+
+-Experience working in a multi-server, load-balanced environment with
+understanding of implications on program design, implementation, and
+operation.
+
+
+Contact information at:
+http://jobs.perl.org/job/7225#contact
+
+

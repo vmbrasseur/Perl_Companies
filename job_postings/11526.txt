@@ -1,0 +1,85 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11526
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 4812 invoked from network); 2 Aug 2011 06:07:03 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 2 Aug 2011 06:07:03 -0000
+Received: (qmail 1885 invoked by uid 225); 2 Aug 2011 06:07:02 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 1880 invoked by alias); 2 Aug 2011 06:07:02 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS,T_FRT_PROFILE2
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 01 Aug 2011 23:06:59 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 5DCBA2AFDD; Mon,  1 Aug 2011 23:06:56 -0700 (PDT)
+To: jobs@perl.org
+Date: Mon, 1 Aug 2011 23:06:56 -0700
+Message-ID: <20110802060656.5DCBA2AFDD@x3.develooper.com>
+Subject: Perl ETL Developer (onsite), TX, Austin
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14578
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August  1, 2011
+
+Job title: Perl ETL Developer
+
+Company name: AMD (Advanced Micro Devices)
+
+Location: TX, Austin
+
+Pay rate: $50+/hour, doe
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 6 months (possible subsequent renewal or FTE hire)
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We're seeking a Perl developer with experience in backend analytics systems
+and reporting.
+
+We are looking for a seasoned developer (NOT a scripter!) to join a team of
+three other Perl developers that's responsible for maintaining and
+enhancing a legacy ETL system that loads engineering microchip test data to
+a MySQL database. Much of this system was developed by others and is in bad
+need of refactoring.
+
+Since stabilizing and scaling this system is of primary concern, there may
+be opportunity to port code to, and work with newer tools in this space
+such as Hadoop.
+
+
+Required skills:
+You must have solid Perl development skills; have experience writing
+modular code; be proficient with the ins and outs of Perl's OO system; be
+comfortable in a Linux server environment; and have a good grasp of SQL
+queries and optimization strategies.
+
+A code sample is HIGHLY encouraged from any serious candidates.
+
+
+Desired skills:
+Pluses: experience with Java, PHP, or the R statistical language, MySQL
+administration/tuning, and experience with query optimized Data Warehouse
+schemata such as the star and snowflake patterns.
+
+BIG Pluses: Perl Unit Testing literacy, Agile (Scrum, XP, TDD), 'Modern
+Perl' conventions and modules, and being a CPAN author.
+
+
+Contact information at:
+http://jobs.perl.org/job/14578#contact

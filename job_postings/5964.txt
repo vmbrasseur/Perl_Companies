@@ -1,0 +1,120 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5964
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 2697 invoked from network); 22 Mar 2007 01:49:44 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 22 Mar 2007 01:49:44 -0000
+Received: (qmail 28738 invoked by uid 225); 22 Mar 2007 01:49:43 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 28729 invoked by alias); 22 Mar 2007 01:49:43 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,DK_POLICY_SIGNSOME
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 21 Mar 2007 18:49:39 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id AF22C2B005; Wed, 21 Mar 2007 18:49:35 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070322014935.AF22C2B005@x3.develooper.com>
+Date: Wed, 21 Mar 2007 18:49:35 -0700 (PDT)
+Subject: SOFTWARE ENGINEER – NETWORK DEVICE DRIVERS (onsite), United States, WA, Redmond
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5512
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 21, 2007
+
+Job title:
+SOFTWARE ENGINEER – NETWORK DEVICE DRIVERS
+
+Company name: Opsware
+
+Internal ID: ENG0173
+
+Location: United States, WA, Redmond
+
+Pay rate: DOE
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Length of employment: perm
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+SOFTWARE ENGINEER – NETWORK DEVICE DRIVERS – JOB DESCRIPTION
+
+Organizations around the world use the Opsware Network Automation System to
+improve network availability, enforce compliance, and ensure network
+security. Opsware NAS automates the complete operational lifecycle of
+network devices from bare-metal provisioning to policy-based change
+management, compliance, and security administration. It manages 1000’s of
+devices from more than 35 vendors including Cisco, Foundry, Juniper, Check
+Point, and Extreme. 
+
+
+DESCRIPTION:
+We are seeking an ambitious Software Engineer with working knowledge of how
+to configure routers, and other network hardware .  The Software Engineer
+will develop drivers that allow our Network Automation System to
+communicate with routers, switches, firewalls and Voice over IP Devices.  
+
+
+RESPONSIBILITIES:
+
+•	Design, implement, unit-test, maintain and document software for
+configuration of network devices
+•	Troubleshoot, bug fix, and patch existing devices.
+•	Design and develop robust, scalable, high-quality software 
+•	Work with Manager, Program Management, QA and Technical Support
+during the entire product lifecycle
+
+
+Required skills:
+REQUIREMENTS:
+•	Bachelors degree in Computer Science or  equivalent experience
+•	Experience writing scripts using Perl & TCL (Expect) programming
+languages
+•	Personal interest in networking and networking devices
+
+
+Desired skills:
+PLUS POINTS:
+•	Experience in an object oriented language like Java, C++, or C#
+•	Experience configuring routers,  switches, firewalls and other
+networking equipment from a variety of vendors, including Cisco,  Nortel, 
+Juniper, Extreme, Foundry, Checkpoint
+•	Good background Experience in networking (TCP/IP, Routing,
+Switching, VLANs, ACL, AAA, Syslog, CLI, TFTP, QoS,  Ethernet, SNMP, HSRP,
+VRRP, Access Lists)
+•	Highly reliable self-starter; can-do attitude; able to work with
+minimal supervision
+•	Excellent oral and written communication skills
+•	(Desirable) Experience with Solaris, Linux, Windows systems
+administration; experience using and configuring network management tools
+(e.g. HP Open View, CiscoWorks, etc.); knowledge of CLI and other forms of
+configuration of network elements; knowledge of Java/C programming
+languages
+•	Experience using and configuring network management tools like HP
+Open View, CiscoWorks, or Tivoli.
+
+
+URL for more information: http://www.opsware.com/
+
+Contact information at:
+http://jobs.perl.org/job/5512#contact
+
+

@@ -1,0 +1,104 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9091
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8408 invoked from network); 30 Mar 2009 07:16:23 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 30 Mar 2009 07:16:23 -0000
+Received: (qmail 1587 invoked by uid 225); 30 Mar 2009 07:16:23 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 1583 invoked by alias); 30 Mar 2009 07:16:23 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 30 Mar 2009 00:16:21 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 242DC2AFDF; Mon, 30 Mar 2009 00:16:18 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20090330071618.242DC2AFDF@x3.develooper.com>
+Date: Mon, 30 Mar 2009 00:16:18 -0700 (PDT)
+Subject: Bugzilla Developer (onsite), United States, CA, Sunnyvale
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/10398
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 27, 2009
+
+Job title: Bugzilla Developer
+
+Company name: Yahoo!
+
+Internal ID: 21406
+
+Location: United States, CA, Sunnyvale
+
+Pay rate: DOE
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+About Yahoo!
+
+Think about impacting 1 out of every 2 people online--in innovative and
+imaginative ways that are uniquely Yahoo!. We do just that each and every
+day, and you could too. After all, it's big thinkers like you who will
+create the next generation of Internet experiences for consumers and
+advertisers across the globe. Now's the time to show the world what you've
+got. Put your ideas to work for over half a billion people.
+
+=== Developer Tools at Yahoo ===
+The Developer Tools group at Yahoo aims to provide top-notch engineering
+tools to our fellow developer tools and systems to our colleagues across
+the company. These tools are big, and anyone here needs to think big too.
+Our Bugzilla and Subversion instances are among the largest and busiest in
+the world.
+
+We have a commitment to deliver not only to internal customers, but to the
+open-source world as well, so we love to hire people with a passion for
+open source.
+
+Right now, we're looking for someone to join our Bugzilla team, and help
+our product grow significantly in terms of throughput and feature-set.
+Additionally, we're looking for someone with workflow experience to build
+hooks into our ticket creation process.
+
+You'll join a small team of other engineers focusing on this particular
+problem, so you'll need to be able to work well with others, and provide
+leadership in some large components.
+
+Yahoo! Inc. is an equal opportunity employer. For more information or to
+search all of our openings please visit http://careers.yahoo.com.
+
+
+Required skills:
+Perl or PHP application development - 4 years.
+MySQL - 4 years
+Excellent problem-solving and communication skills.
+High comfort level with Unix and with deployment processes.
+
+Desired skills:
+Perl application development - 8 years
+Perl Template Toolkit - 2 years
+MySQL - 6 years
+
+URL for more information:
+http://careers.yahoo.com/jdescription.php?oid=21406
+
+Contact information at:
+http://jobs.perl.org/job/10398#contact
+
+

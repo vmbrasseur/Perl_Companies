@@ -1,0 +1,97 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6173
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 22073 invoked from network); 24 Apr 2007 18:22:22 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 24 Apr 2007 18:22:22 -0000
+Received: (qmail 25942 invoked by uid 225); 24 Apr 2007 18:22:22 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 25935 invoked by alias); 24 Apr 2007 18:22:21 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,DK_POLICY_SIGNSOME
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 24 Apr 2007 11:22:19 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 5C4712AFE5; Tue, 24 Apr 2007 11:22:16 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070424182216.5C4712AFE5@x3.develooper.com>
+Date: Tue, 24 Apr 2007 11:22:16 -0700 (PDT)
+Subject: Perl Web Application Developer (part onsite), United States, CA, Ladera Ranch
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5420
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 24, 2007
+
+Job title: Perl Web Application Developer
+
+Company name: IntelliSurvey, Inc.
+
+Internal ID: C25
+
+Location: United States, CA, Ladera Ranch
+
+Pay rate: DOE
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+IntelliSurvey, Inc. programs and hosts online surveys for a variety of
+clients in the market research industry. We offer both software licensing
+via an ASP model for our do-it-yourself clients, and we program surveys
+using our own software on a project-by-project basis for clients who would
+rather outsource all survey set up.
+
+We are currently adding major new features to our leading-edge software to
+allow us to stay ahead of the competition. Our new hire(s) will have the
+opportunity to play a significant role in the design and development of
+these new features. The programming will be done using database-backed and
+object-oriented programming, with tools such as Perl on the server and
+using JavaScript (with the YUI library and Ajax) for the front-end.
+
+Depending on your background and experience, you may also be responsible
+for helping to monitor and manage our servers, and for occasionally
+providing technical support to our clients. 
+
+Required skills:
+Our core software is built using Perl, mod_perl, DBI, and Apache running on
+Linux servers, with Javascript modules to provide dynamic scripting and web
+2.0 technologies on front-end. So our ideal candidate will be experienced
+in these tools. More important, however, is a good foundation in overall
+programming skills, and the ability to learn and apply new skills quickly.
+Furthermore, because the position will involve significant design work and
+because new features evolve quickly, we need someone who can take the
+initiative to figure out what needs to be done, and then make it happen.
+
+Desired skills:
+The following additional skills are desirable:
+
+    * Ability to set up hardware (for example, installing all necessary
+software on a new Linux server) and some level of networking expertise.
+    * The ability to understand our business and suggest ways to leverage
+our current technology. 
+
+Finally, because we are a relatively small company, everyone may be asked
+to wear different hats and help with whatever other tasks are necessary to
+help the company grow and prosper. 
+
+Contact information at:
+http://jobs.perl.org/job/5420#contact
+
+

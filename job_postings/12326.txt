@@ -1,0 +1,80 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12326
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 31986 invoked from network); 13 Apr 2012 18:36:37 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 13 Apr 2012 18:36:37 -0000
+Received: (qmail 3761 invoked by uid 225); 13 Apr 2012 18:36:37 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 3757 invoked by alias); 13 Apr 2012 18:36:36 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 13 Apr 2012 11:36:33 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 3D0282AFE2; Fri, 13 Apr 2012 11:36:29 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 13 Apr 2012 11:36:29 -0700
+Message-ID: <20120413183630.3D0282AFE2@x3.develooper.com>
+Subject: Software Engineer (onsite)
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15826
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 13, 2012
+
+Job title: Software Engineer
+
+Company name: Indigo Solutions
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 12 months
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+This is a 6  -12 months contract role.
+
+Role : Software Engineer 
+
+Demonstrated expertise developing software for automatic processing and
+generation of  design and documentation files in various formats including
+HTML, PDF, Word and text.  
+- Also requires demonstrated experience working in and creating automated
+build flows and tests in modern software development environments.   
+- Requires experience with Perl, Ruby and Linux shell scripting.  
+- Requires experience with automation of design environments,  makefiles,
+and source control systems such as CVS and Perforce.  
+- Requires excellent communication and leadership skills.  
+- Familiarity with ASIC design and verification languages such as Verilog
+is a plus.  
+- Knowledge of C/C++ and language parsers a plus.
+
+Develop automated tools to process design files in various formats to
+produce design documentation for internal and external customers and
+generated design files in different formats.   Write documentation for
+internal users of the tools and create automated tests to verify the
+quality of the tools.  Help debug and correct errors in the design
+automation infrastructure using debug tools and in-depth understanding of
+the scripting infrastructure and design environment
+
+Required skills:
+Requires experience with Perl, Ruby and Linux shell scripting.
+
+Desired skills: Semi-Conductor / Hardware Environment
+
+Contact information at:
+http://jobs.perl.org/job/15826#contact

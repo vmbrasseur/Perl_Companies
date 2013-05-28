@@ -1,0 +1,131 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10324
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 18325 invoked from network); 16 Jul 2010 00:12:56 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 16 Jul 2010 00:12:56 -0000
+Received: (qmail 5558 invoked by uid 225); 16 Jul 2010 00:12:56 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 5553 invoked by alias); 16 Jul 2010 00:12:55 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 15 Jul 2010 17:12:54 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id BF9092AFE0; Thu, 15 Jul 2010 17:12:50 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20100716001250.BF9092AFE0@x3.develooper.com>
+Date: Thu, 15 Jul 2010 17:12:50 -0700 (PDT)
+Subject: Senior Development Engineer (Portal) (onsite), United Kingdom, Reading
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/12524
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 15, 2010
+
+Job title: Senior Development Engineer (Portal)
+
+Company name: Websense UK Ltd
+
+Internal ID: 219-W16-10-003
+
+Location: United Kingdom, Reading
+
+Pay rate: Competitive
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Websense, Inc. (NASDAQ: WBSN), a global leader in integrated web, data and
+email security solutions, provides Essential Information Protection™ for
+more than 44 million employees at organizations worldwide. Distributed
+through its global network of channel partners, Websense software and
+hosted security solutions help organizations block malicious code, prevent
+the loss of confidential information and enforce Internet use and security
+policies.
+ 
+Websense is now recruiting a Senior Software Development Engineer for our
+SaaS Portal development team.
+ 
+This is a senior developer role within our engineering team. You will lead
+the definition, architecture and hands-on technical implementation of
+complex solutions and enhancements to our highly scalable, distributed SaaS
+security software service.  You will have a passion for technology and will
+be acknowledged as an expert in one or more areas of software development
+by your peers.
+ 
+You will be joining a team of world-class Linux/Unix systems software
+engineers and will be completely at home developing complex, high
+performance, distributed applications.
+ 
+Key Responsibilities:
+
+    * Architecture and design of our web-based portal to meet the growing
+demands of this rapidly expanding line of business.
+    * Work with engineering manager to provide technical leadership for our
+portal strategy and architecture.
+    * All stages of software development: requirements analysis, design,
+implementation and testing.
+    * Improve usability, extensibility, capacity and performance of our
+existing portal infrastructure.
+
+
+Required skills:
+    * Very strong software architecture skills including the ability to
+communicate designs effectively and translate them into robust, scalable
+and extensible systems.
+    * Experience in Perl development, preferably including OO Perl and Perl
+web development.
+    * Experience in Java development, preferably including Java web
+development.
+    * Extensive experience developing database applications, ideally with
+MySQL and with very large datasets.
+    * Comprehensive experience across the full software development
+lifecycle.
+    * Proven ability in the architecture, design and development of
+multi-tier software architectures.
+    * Demonstrated ability to creatively solve complex, large-scale data
+management problems.
+    * Excellent problem solving, task prioritisation, communication,
+administration and organisation skills are required, whilst working to
+deadlines and adhering to quality assurance procedures.
+
+
+Desired skills:
+    * Experience with JavaScript including JavaScript libraries such as
+jQuery.
+    * Experience developing secure web-based applications under Linux or
+Unix.
+    * Experience with web frameworks such as Spring MVC, Struts, Catalyst
+or Mason.
+    * Experience with Object Relational Mapping systems such as Hibernate
+and DBIx::Class.
+    * Experience with business intelligence systems.
+    * Development experience in a SaaS environment.
+    * Experience with Agile development methodologies.
+    * Experience with core Internet technologies/protocols including SMTP,
+DNS, HTTP and LDAP.
+
+
+URL for more information:
+http://hire.jobvite.com/j/?aj=oHThVfww&s=jobs.perl
+
+Contact information at:
+http://jobs.perl.org/job/12524#contact
+
+

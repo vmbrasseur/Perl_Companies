@@ -1,0 +1,113 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2884
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 11045 invoked from network); 21 Jun 2005 14:35:02 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 21 Jun 2005 14:35:02 -0000
+Received: (qmail 32583 invoked by uid 225); 21 Jun 2005 14:35:02 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 32579 invoked by alias); 21 Jun 2005 14:35:01 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 21 Jun 2005 07:34:58 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j5LEYtFs022864
+	for <jobs@perl.org>; Tue, 21 Jun 2005 07:34:55 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j5LEYtTP022862;
+	Tue, 21 Jun 2005 07:34:55 -0700
+Date: Tue, 21 Jun 2005 07:34:55 -0700
+Message-ID: <200506211434.j5LEYtTP022862@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Data Engineer (onsite), Canada, Quebec, Montreal
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2762
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 21, 2005
+
+Job title: Data Engineer
+
+Company name: Compuware Corporation of Canada
+
+Location: Canada, Quebec, Montreal
+
+Pay rate: negotiable
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Compuware Corporation is a leading worldwide provider of software products
+and professional services. Our continued success depends on our employees
+--a diverse employee population with a set of key attributes that is common
+to every individual. Our business objectives and guiding principles create
+a common bond of trust among information technology professionals that
+serves as the foundation for teamwork and the Compuware culture. If you
+have the communication, organization and problem-solving abilities to
+effectively develop, implement and support applications on a variety of
+platforms, you owe it to yourself to see what Compuware can offer you. 
+
+The Montreal office currently has 3 positions for Data Engineers.
+
+The Data Engineer is responsible for building distributed applications to
+collect, verify, and analyze global equity, derivative, and convertible
+bond trading data, with special focus on regulatory and compliance issues.
+We expect the candidate to have a strong interest in the equities trading
+business and the ability to understand and communicate complex concepts and
+scenarios.  The role involves:
+
+• Working with senior management and other Business Unit users to gather
+requirements to design and develop various regulatory and surveillance
+reports, applications, and tools.
+• Working with selected teams to analyze and answer inquiries from various
+exchanges and regulatory organizations.
+
+
+Required skills:
+- Strong knowledge of relational databases, SQL, and SQL tuning. 
+- Solid experience in Perl development
+- Strong knowledge of Unix/Linux operating systems. 
+- Deep working knowledge of object oriented programming with a good
+understanding of client-server applications, web-based applications, and
+distributed systems. 
+- Affinity for data is key. 
+
+The candidate should be a self-starter with strong analytical, problem
+solving, and communication skills. They should be a team player and have
+the ability to learn quickly and work collaboratively across teams. They
+should have a high degree of motivation to expand their technical and
+business knowledge and understanding.
+
+
+Desired skills:
+- DB2 UDB for Linux or Sybase experience preferred. 
+- Good understanding of multi-threaded and multi-process programming. 
+- Fluent understanding of the complete software development lifecycle. 
+- Exposure to ETL tools such as Informatica.  
+- Exposure to reporting packages such as Actimize and Crystal.
+
+
+URL for more information: http://www.compuware.com/
+
+Contact information at:
+http://jobs.perl.org/job/2762#contact
+
+

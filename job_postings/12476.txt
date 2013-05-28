@@ -1,0 +1,89 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12476
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 5308 invoked from network); 31 May 2012 21:23:51 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 31 May 2012 21:23:51 -0000
+Received: (qmail 917 invoked by uid 225); 31 May 2012 21:23:51 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 913 invoked by alias); 31 May 2012 21:23:50 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 31 May 2012 14:23:48 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id CBAC92AFD0; Thu, 31 May 2012 14:23:44 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 31 May 2012 14:23:44 -0700
+Message-ID: <20120531212344.CBAC92AFD0@x3.develooper.com>
+Subject: Software Engineer - Perl (part onsite), Colorado
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16064
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 31, 2012
+
+Job title: Software Engineer - Perl
+
+Company name: InfoArmor
+
+Internal ID: IAIT004
+
+Location: Colorado
+
+Pay rate:
+Salary, benefits and stock options dependent on education and experience
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+Seeking a dynamic, talented and experienced Perl programmer to work with
+day to day back end automation and reporting.  The successful candidate
+must posses Perl programming knowledge and experience to develop, enhance,
+and maintain the utilities written in Perl.
+
+Required skills:
+- College degree in Computer Science or equivalent education
+ - 2+ years of Perl development experience (including OOP, module design,
+and DBI)
+ - Strong SQL experience (MySQL mainly but PostgreSQL would be helpful)
+ - Experience working with large volumes of data
+ - Subversion/CVS (SVN preferred)
+ - Very comfortable within a linux environment (specifically Ubuntu and
+CentOS)
+ - Basic system administration skills 
+ - Ability to communicate verbally with both technical and non-technical
+users
+ - Familiarity with REST, JSON
+ - Knowledge of using regular expressions in Perl.
+ - Good understanding of XML (ability to process XML files)
+
+Desired skills:
+- Understanding of data normalization
+ - Familiarity with web services based on SOAP, XML, and WSDL
+ - Strong PostgreSQL experience 
+ - Shell scripting
+ - Cron
+ - HTML
+ - PHP
+ - CSS
+ - Modern Javascript experience (JQuery/JQueryMobile highly preferred)
+
+Website for more information: http://www.infoarmor.com/
+
+Contact information at:
+http://jobs.perl.org/job/16064#contact

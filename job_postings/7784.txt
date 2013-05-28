@@ -1,0 +1,95 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7784
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 23221 invoked from network); 5 Mar 2008 16:03:44 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 5 Mar 2008 16:03:44 -0000
+Received: (qmail 10883 invoked by uid 225); 5 Mar 2008 16:03:43 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 10813 invoked by alias); 5 Mar 2008 16:03:37 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 05 Mar 2008 08:03:34 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id C2A5B2AFCD; Wed,  5 Mar 2008 08:03:18 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20080305160318.C2A5B2AFCD@x3.develooper.com>
+Date: Wed,  5 Mar 2008 08:03:18 -0800 (PST)
+Subject: Integration Engineer (part onsite), United Kingdom, London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8102
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March  5, 2008
+
+Job title: Integration Engineer
+
+Internal ID: AM/02/MS
+
+Location: United Kingdom, London
+
+Pay rate: £Exceptional
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: Permanent
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+With more than 600 offices in 33 countries, the infrastructure Engineering
+function operates in a global team with the primary objective to design,
+engineer and integrate robust scalable solutions. The successful candidate
+will have a proven history of engineering / integrating 3rd party
+technologies into an enterprise environment. To maximise team collaboration
+we are seeking a thought leader responsible for implementing the next
+generation of data protection and storage technologies. 
+
+Examples of some of the PERL work performed by the team 
+
+Developed a software infrastructure for deploying a WysDM reporting
+product. The main challenges of the project were creating automatic update
+of the WysDM configuration, adding change control and simplifying report
+creation. Used OOP as well as XML::LibXML. To simplify the administrator’s
+access to thousands of reports I developed a web portal. As a pilot
+implementation it was initially built with Ruby on Rail. However due to the
+performance and integration problems it was redesigned with Perl Catalyst
+framework. I used DBIx::Class for  models and TT for views.   
+Developed a framework for adding change control to the NetBackup AutoSys
+infrastructure. The idea was to have a central configuration repository for
+all NetBackup related autosys jobs on hundreds of servers. 
+Developed several OOP modules for existing NBUconf framework. It is used
+for checking and updating NetBackup settings on hundreds of NetBackup
+servers. 
+
+
+Required skills:
+The ideal candidate will be an experienced PERL scripter to develop the
+next generation of products, a thorough understanding of Unix to solid
+system administration level (Solaris or Linux) and possess indepth
+experience of integrating 3rd party technologies into an enterprise
+environment . Strong communication skills and a sense of global ownership
+are required. High levels of motivation, initiative and a proactive or
+'self starting' approach to work is essential.
+
+
+URL for more information: http://www.haysft.com/
+
+Contact information at:
+http://jobs.perl.org/job/8102#contact
+
+

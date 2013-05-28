@@ -1,0 +1,82 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9359
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28365 invoked from network); 27 Jul 2009 18:22:01 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 27 Jul 2009 18:22:01 -0000
+Received: (qmail 2851 invoked by uid 225); 27 Jul 2009 18:22:00 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 2837 invoked by alias); 27 Jul 2009 18:21:59 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 27 Jul 2009 11:21:54 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 4E04F2AFE2; Mon, 27 Jul 2009 11:21:51 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20090727182151.4E04F2AFE2@x3.develooper.com>
+Date: Mon, 27 Jul 2009 11:21:51 -0700 (PDT)
+Subject: Perl Developer (onsite), United Kingdom, Berkshire, Langley
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/10868
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 27, 2009
+
+Job title: Perl Developer
+
+Company name: Virgin Media
+
+Internal ID: 00020414
+
+Location: United Kingdom, Berkshire, Langley
+
+Pay rate: to £400/day doe
+
+Travel: 0-25%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: 6 mths
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Hardcore Perl Developer required. We are not looking for a software
+engineer who has dabbled in Perl Development, but a highly expereienced
+Perl developer to work in a very small team that does performance
+management of the kit and hardware in the network. Cable modems and stbs'
+have components in them that continually feedback and talk to the network,
+so we can assess how well the components and kit is working, life span,
+problems, technical problems and trends are identified etc.  The database
+that holds this info is being increased and this Perl developer will work
+on it.
+
+Required skills:
+Perl 5.8 or later 
+Strong knowledge of SNMP or Net::SNMP
+Mod_Perl 
+Apache 
+DBI 
+Object Oriented (sometimes abbreviated to OO) Perl
+
+Desired skills:
+strong Oracle knowledge, 
+oracle in general, 10g or TimesTen (very desirable) 
+
+
+Contact information at:
+http://jobs.perl.org/job/10868#contact
+
+

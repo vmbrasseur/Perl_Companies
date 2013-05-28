@@ -1,0 +1,85 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4653
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 27045 invoked from network); 20 Jul 2006 09:03:39 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 20 Jul 2006 09:03:39 -0000
+Received: (qmail 22689 invoked by uid 225); 20 Jul 2006 09:03:39 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 22668 invoked by alias); 20 Jul 2006 09:03:35 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 20 Jul 2006 02:03:31 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id AEED02AFE0; Thu, 20 Jul 2006 02:03:26 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060720090326.AEED02AFE0@x3.develooper.com>
+Date: Thu, 20 Jul 2006 02:03:26 -0700 (PDT)
+Subject: Senior Perl Software Engineer - internet (onsite), United States, CA, Palo Alto
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4388
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 19, 2006
+
+Job title: Senior Perl Software Engineer - internet
+
+Company name: topix.net
+
+Location: United States, CA, Palo Alto
+
+Pay rate: negotiable
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Topix.net, the first major news site to enable local communities,
+nationwide, to talk back to the news for every article aggregated from over
+40,000 sources in mainstream news and the blogosphere, is looking for
+Software Engineers to help us build, maintain and improve the site. 
+
+We’re working on solving problems related to crawling, geo-localization and
+subject categorization of the news. Named entity disambiguation.
+About-vs-mention discrimination. Heat and tone language detection.
+Zero-configuration scalable crawling. All in-memory index serving.
+On-the-fly category merging, clustering, de-duplication, and geo-spinning.
+Auto-tuning bias weights in our robo-editor. 
+
+
+Required skills:
+Strong Perl knowledge and coding skills
+Able to work well with a talented group of engineers
+Great design skills
+Willing to do thorough testing of code before release
+Self motivated
+Experience with web technology
+Has at least 7 or more years of experience.
+
+Desired skills:
+See Job description for some of the areas we are looking for help with.
+
+
+URL for more information:
+http://blog.topix.net/archives/000103.html
+
+Contact information at:
+http://jobs.perl.org/job/4388#contact
+
+

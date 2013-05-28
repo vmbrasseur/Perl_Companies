@@ -1,0 +1,118 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6601
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 4931 invoked from network); 11 Jul 2007 05:18:03 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 11 Jul 2007 05:18:03 -0000
+Received: (qmail 4862 invoked by uid 225); 11 Jul 2007 05:18:03 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 4856 invoked by alias); 11 Jul 2007 05:18:03 -0000
+X-Spam-Status: No, hits=-2.6 required=8.0
+	tests=BAYES_00,DKIM_POLICY_SIGNSOME,DK_POLICY_SIGNSOME,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 10 Jul 2007 22:18:00 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id DB6F72AFD7; Tue, 10 Jul 2007 22:17:56 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070711051756.DB6F72AFD7@x3.develooper.com>
+Date: Tue, 10 Jul 2007 22:17:56 -0700 (PDT)
+Subject: Perl hacker with sysadmin skills (onsite), United States, CA, San Jose
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/6121
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 10, 2007
+
+Job title: Perl hacker with sysadmin skills
+
+Company name: Gaia Interactive, Inc.
+
+Internal ID: sysadmin
+
+Location: United States, CA, San Jose
+
+Pay rate: market
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+You will part of a small team that has built and scaled a website that
+attracts millions of people, has over 2 billion monthly page-views and is
+considered one of the world’s largest internet forums.	We are continually
+growing and are hence challenged daily to scale our infrastructure.  
+
+An ideal candidate must be highly motivated, have a keen interest in
+Internet technology, a love of open source software (WE DO!), and a
+fanatical attention to detail.	Not only will you work to  directly
+influence infrastructure design and implementation, you’ll work along side
+our developers to help improve our system design, security and user
+experience. 
+
+Candidates with prior experience working on a high profile, large scale
+consumer facing websites will be highly valued.
+
+
+Required skills:
+* Strong Perl programming abilities.  Must understand modules, Perl's OO
+and how to automated sysadmin tasks.
+
+* 5+ years of experience with Linux system administration. (Debian or RHEL
+preferred).
+
+* Deep and current knowledge of all aspects of MySQL, including hardware
+sizing, replication, tuning, query profiling, and other DBA duties.
+
+* Strong Networking experience – TCP/IP, Subnets, routing and switching. 
+Must be able to troubleshoot at the packet level.
+
+* A deep understanding of traffic load balancing using either software or
+hardware load balancers.
+
+* Strong and current working knowledge of modern x86 based server hardware.
+
+
+* Strong understanding of software and hardware RAID with Linux.
+
+* Experience with high traffic web servers running apache or lighttpd.
+
+* Kernel and application performance tuning and profiling.
+
+* Experience using Source code version control software (subversion, git,
+cvs).
+
+Desired skills:
+* Experience with MogleFS, Perlbal or memcached.
+
+* Experience building Linux kernels and troubleshooting kernel issues.
+
+* Experience with DNS setup and management.
+
+* Experience with collocated servers.
+
+* Experience programming with C or PHP.
+
+* Experience with RT (Request Tracker), Bugzilla, or any other open source
+issue tracking software.
+
+* Experience with open source monitoring software (nagios, cacti, etc…).
+
+Contact information at:
+http://jobs.perl.org/job/6121#contact
+
+

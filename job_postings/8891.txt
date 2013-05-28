@@ -1,0 +1,165 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8891
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 30383 invoked from network); 12 Dec 2008 23:01:33 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 12 Dec 2008 23:01:33 -0000
+Received: (qmail 5393 invoked by uid 225); 12 Dec 2008 23:01:32 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 5388 invoked by alias); 12 Dec 2008 23:01:32 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 12 Dec 2008 15:01:29 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 527DD2AFE4; Fri, 12 Dec 2008 15:01:25 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20081212230126.527DD2AFE4@x3.develooper.com>
+Date: Fri, 12 Dec 2008 15:01:24 -0800 (PST)
+X-Virus-Checked: Checked
+Subject: Senior Software Engineer (onsite), United States, California, Los Angeles
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/10008
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 12, 2008
+
+Job title: Senior Software Engineer
+
+Company name: Shopzilla.com
+
+Location: United States, California, Los Angeles
+
+Pay rate: DOE
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Create and innovate. And have fun along the way. 
+
+Zillans, as we call ourselves, work within an atmosphere where laughter is
+encouraged, dress is casual, and nobody takes him or herself too seriously.
+But we do work hard every single day to make Shopzilla the greatest
+shopping search engine in the world. To that end, we strive to hire the
+smartest, most passionate people we can find. 
+
+We currently have the following opportunity available: 
+
+Senior Software Engineer – Perl 
+
+As our Senior Software Engineer, you will: 
+• Develop core technology, including active participation in the
+design/architecture of new solutions, the refinement of existing code, and
+the optimization of dynamic web content 
+• Write design specifications, programming specifications, and
+documentation 
+• Develop and maintain applications written in a Perl platform environment,
+operating on a Linux/Apache platform 
+• Develop systems and APIs for interfacing with open and proprietary
+network services and complex business logic/algorithms 
+• Design, deliver, develop and implement features and functionalities for
+large-scale, multi-tiered, distributed software applications, tools,
+systems and services 
+• Write unit and functional tests and documentation for the projects/tools 
+
+• Gather and analyze business and functional requirements, and translate
+requirements into technical specifications for robust, scalable,
+supportable solutions that work well within the overall system architecture
+
+• Share responsibility and ownership of the search team’s backend tools and
+data flows 
+• Design and develop critical data flows feeding directly into the core
+search engine and external tools 
+• Interact with the search analytics and operations teams and generate
+information 
+• Work closely with the operations team to diagnose and provide solutions
+to issues arising on production service 
+• Serve as a resource to Software Engineers in the full development cycle,
+end-to-end, from conception, design, implementation and testing to
+documentation, delivery and maintenance 
+• Accomplish aggressive goals and meet strict deadlines 
+• Remain current on technical and professional developments affecting area
+of responsibility 
+• Provide mentoring for Software Engineering team members 
+• Assist in the growth and management of technical team members with regard
+to current technology trends 
+• Be an active participant in an Agile/SCRUM environment 
+
+
+Required skills:
+Your qualifications include: 
+• 6+ years experience of Engineering experience 
+• 4+ years experience with Perl development on Unix and/or Linux platforms 
+
+• Exposure to mentoring team members 
+• Experience with Sybase ASE databases and knowledge of SQL is a plus 
+• Strong Object Oriented Programming skills highly desirable 
+• Experience with data structures and algorithms background 
+• Distributed computing, performance analysis, and optimization experience 
+
+• Experience with Web services architectures 
+• Strong experience in all aspects of the development of dynamic and
+distributed applications including gathering requirements and feedback from
+internal customers, providing creative direction, and defining and
+implementing advanced technical solutions 
+• Working with RDBMS systems (Sybase, Oracle, MySQL) 
+• Excellent troubleshooting and problem isolation skills with a can-do,
+pro-active attitude 
+• Excellent technical analytical, debugging and problem-solving skills 
+• Self-motivated and willing to learn new concepts, technologies and
+processes 
+• Successful working with technical as well as non-technical members of the
+team 
+• Successful working in a fast-paced, technical environment 
+• BS in Computer Science or equivalent education/professional experience
+required 
+
+
+In return for your talent and dedication, you’ll enjoy excellent benefits
+including medical, dental and vision plans; life insurance; a 401(k) plan;
+a flexible spending account; and generous vacation benefits -- and to top
+it off, we provide FREE catered lunch every day! 
+
+If you're super-smart, interested in solving challenging problems, enjoy
+life and care about the people you work with, then Shopzilla is a good fit
+for you. 
+
+About us: 
+
+Founded in 1996 and formerly BizRate.com, Shopzilla is part of Scripps
+Network Interactive which also includes HGTV, Food Network and DIY, among
+others. Based in West Los Angeles, Shopzilla is the world’s fastest growing
+shopping search engine. With sites in United Kingdom, France and Germany,
+shoppers around the world are empowered with the ability to search among
+millions of products to find virtually anything! 
+
+Shopzilla is an Equal Opportunity Employer. 
+
+
+Desired skills:
+• Knowledge in Java and C/C++ is a plus 
+• Experience with Sybase ASE databases and knowledge of SQL is a plus 
+• Hands-on design, architecture and implementation experience with J2EE and
+related platform technologies (JMS, JMX, Spring, Hibernate.) 
+
+URL for more information: http://www.shopzilla.com/
+
+Contact information at:
+http://jobs.perl.org/job/10008#contact
+
+

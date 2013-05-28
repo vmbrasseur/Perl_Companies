@@ -1,0 +1,87 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12525
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 14751 invoked from network); 18 Jun 2012 19:39:53 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 18 Jun 2012 19:39:53 -0000
+Received: (qmail 26248 invoked by uid 225); 18 Jun 2012 19:39:53 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 26244 invoked by alias); 18 Jun 2012 19:39:52 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 18 Jun 2012 12:39:50 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id C8D532AFE0; Mon, 18 Jun 2012 12:39:46 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 18 Jun 2012 12:39:46 -0700
+Message-ID: <20120618193946.C8D532AFE0@x3.develooper.com>
+Subject: Catalyst Developer (telecommute), Philadelphia, Washington DC, USA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16144
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 18, 2012
+
+Job title: Catalyst Developer
+
+Company name: Libertarian Party of Pennsylvania
+
+Location: Philadelphia, Washington DC, USA
+
+Pay rate: varies
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: indefinite
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+Through a Volunteer Effort the Libertarian Party of Pennsylvania has
+developed a signature validation engine. If it is successful in
+Pennsylvania this year the application will be extended to additional
+States.
+
+We have an urgent need to fix some client side components, thus, even
+though the core of the project revolves around Catalyst and Perl, we
+absolutely need someone who is strong on CSS and Javascript.
+
+The project is a volunteer based project but we do have a small budget
+available for someone who can jump in and get the client side problems
+fixed at a pay rate of $25/hr. When the project extends to other states the
+development and maintenance of State Specific import routines, often
+substantial would be paid work. However, most of the ongoing development
+and maintenance is a volunteer effort. 
+
+This project would be ideal either as an internship opportunity or for an
+experienced programmer who would like to volunteer for the Libertarian
+Party. 
+
+This position requires that you be a Registered Voter in the United States.
+Membership in and registration affiliation to the Libertarian Party is
+preferred.
+
+Required skills:
+Perl Requirements: Modern::Perl, Catalyst, DBI, DBIx::Class,
+TemplateToolkit
+Other Requirements: HTML, JavaScript, CSS, AJAX, git
+
+Desired skills: Postgres PL/PERL, Apache Configuration.
+
+Website for more information: http://lppa.org
+
+Contact information at:
+http://jobs.perl.org/job/16144#contact

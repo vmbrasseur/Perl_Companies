@@ -1,0 +1,172 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3401
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 9631 invoked from network); 3 Nov 2005 00:22:41 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 3 Nov 2005 00:22:41 -0000
+Received: (qmail 5495 invoked by uid 225); 3 Nov 2005 00:22:41 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 5489 invoked by alias); 3 Nov 2005 00:22:41 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 02 Nov 2005 16:22:33 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id jA30MTQ1016778
+	for <jobs@perl.org>; Wed, 2 Nov 2005 16:22:29 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id jA30MT1E016776;
+	Wed, 2 Nov 2005 16:22:29 -0800
+Date: Wed, 2 Nov 2005 16:22:29 -0800
+Message-ID: <200511030022.jA30MT1E016776@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+X-Virus-Checked: Checked
+Subject: Senior Systems Developer (Perl and Linux Systems - The Ultimate Combo), United States, CA, West Hollywood
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3242
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November  2, 2005
+
+Job title:
+Senior Systems Developer (Perl and Linux Systems - The Ultimate Combo)
+
+Company name: Ticketmaster
+
+Internal ID: SysDev-PJ
+
+Location: United States, CA, West Hollywood
+
+Pay rate: Commensurate with skills/experience
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Length of employment: regular hire
+
+Hours: Full time
+
+Description:
+If you're one of those hackers who's not sure if you like sysadmin work or
+coder work more, then we have the best of both worlds. Ticketmaster's
+internet systems team is looking for a person with that unique mix of perl
+expertise and strong knowledge of systems and operations. We'll let you get
+your hands on a monstrous, high-volume, high-transaction environment and be
+part of the team building a complex, semi-autonomous configuration
+management environment. Think of this like a custom-built CFEngine-like
+environment plus a lot of unique extras. We're a laid back, work-hard,
+play-hard type environment so think "Get the job done" NOT "What tie should
+I wear this morning?" In terms of requirements, see below, but in a
+nutsell... solid perl expertise, solid knowledge of linux / unix
+high-availability environments.
+
+Title: Senior Systems Developer
+Location: West Hollywood, California
+Company: Ticketmaster.com
+
+How to Apply: Please submit resumes to:
+techjobs@ticketmaster.com
+Please include: "SysDev-PJ" in subject line.
+
+Organizational Culture:
+------------------------------
+Ticketmaster is a fast growth company. Candidate must thrive in a
+fast-paced, ever changing, entrepreneurial environment. Individual must be
+able to work independently as well as collaboratively. Must be resourceful
+and be able to understand the full breadth of how the company works
+together. Individual must be a creative thinker, confident and able to
+express ideas in an articulate, well thought out manner. Ability to
+multi-task and prioritize deadlines is a must.
+
+Workflow:
+------------------------------
+Team support is critical. Projects are driven by the Executive VP and the
+Director of Operations. The group has a loose, open relationship to discuss
+outstanding issues and their resolution.
+
+Essential Functions:
+------------------------------
+The Senior Systems Developer will be charged with the following
+responsibilities:
+
+* Design, architecture, development, and deployment of an enterprise-level
+configuration management engine.
+* Configure, install, maintain and tune OS on unix servers. Document
+configurations.
+* Maintain server and network security.
+* Manage problems dispatched by systems support analysts (NOC group).
+* 24/7 on-call duties at least once a month.
+* Travel to hosting sites if needed in emergencies.
+
+Positives:
+------------------------------
+Positives for the candidate include the option to join a team of dedicated
+UNIX professionals who strive to perfect systems in a very high-volume web
+environment. This environment allows for the continuous growth of the
+individual while implementing, learning, and building new tools meet the
+overall goals of the team and Ticketmaster.
+
+Required skills:
+Background and Experience:
+------------------------------
+The ideal Senior Systems Developer will have the following qualifications:
+
+NOTE: All requirements are ideals. If you have extensive perl coding
+experience, solid linux systems knowledge and a solid understanding of
+internet protocols, web services, and have worked in a very high-volume,
+major web hosting environment, then submit a resume.
+
+* Extensive scripting skills (perl, csh, bsh, ksh). Perl expertise is
+required! No exceptions.
+* 5+ years of unix user experience. Superior understanding of unix
+  user commands.
+* 2+ years of unix server administration experience.
+* Kernal/performance tuning.
+* Must be able to "think" like a server and resolve tricky issues.
+  A deep understanding of managing linux processes is assumed.
+* Understanding of server architectures and hardware.
+* Strong internet experience, especially web serving (Netscape, Apache,
+  etc.), load balancing devices (LocalDirector, BigIP, Alteon, etc.), 
+  switches, internet protocols (http, tcp/ip, etc.), etc.
+* NFS/NIS as well as DNS/BIND experience.
+* Strong familiarity with open source tools and actively uses these
+  resources (compilers, tools, techniques, etc.).
+* Experience with RAID devices.
+* Demonstrated project management and problem analysis/resolution skills.
+
+Personal Characteristics:
+------------------------------
+The ideal candidate should possess the following attributes:
+* Strong, creative problem solving and analytical in nature.
+* Results oriented aggressiveness in meeting commitments.
+* Ability to work independently and as part of a team.
+* Entrepreneurial, driven by a new challenge.
+* Strong communication skills.
+* Self motivated, energetic and tenacious.
+* Flexible; responsive to changing situations.
+
+Desired skills:
+Preferred Experience:
+------------------------------
+* Experience with Sun and Intel based hardware.
+* Experience with Solaris and Linux operating systems.
+* Large-scale, high-volume web experience.
+
+URL for more information: http://jobsearch.iac-careers.com/
+
+Contact information at:
+http://jobs.perl.org/job/3242#contact
+
+

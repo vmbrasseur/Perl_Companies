@@ -1,0 +1,89 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13267
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 20232 invoked from network); 2 Apr 2013 01:53:57 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 2 Apr 2013 01:53:57 -0000
+Received: (qmail 11414 invoked by uid 225); 2 Apr 2013 01:53:57 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11410 invoked by alias); 2 Apr 2013 01:53:57 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 01 Apr 2013 18:53:50 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 5D9C72AFE0; Mon,  1 Apr 2013 18:53:47 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 1 Apr 2013 18:53:47 -0700
+Message-ID: <20130402015347.5D9C72AFE0@x3.develooper.com>
+Subject: Senior Developer (onsite), Paddington, London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17197
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 27, 2013
+
+Job title: Senior Developer
+
+Company name: Photobox Limited
+
+Location: Paddington, London
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Senior developers are primarily responsible for writing quality code for
+the web to meet the business needs.  They have a critical eye for good
+markup and client-side code and an eye for building interfaces that work as
+closely as possible across different browsers and device restrictions. In
+so doing, they may work in a peer programming fashion with other developers
+or testers or work more independently. Either way they are creating code
+that meets the team’s mission.
+
+We are in the process of building a new web platform (Linux, Apache, PHP
+Symfony framework, Node.js, mongoDB)  to support Photobox’s ambitious plans
+for growth over the next few years. Our existing web platform (Linux,
+Apache, perl) remains central to our core business, and code is being
+migrated to a SOA stack and appropriate API layers over this: we need a
+strong team of developers who can maintain and extend functionality in line
+with business needs, whilst carrying out this migration. This senior role
+will form part of our Core platform team and over time the team will
+transition to and take ownership of the new web platform.
+
+Required skills:
+* Linux – knowledge of Linux systems down to kernel level.
+* Perl – at least 5 years experience of OO Perl, with application in web
+development
+* Database design and administration – particularly with MySQL
+* Scalability through the use of Caching e.g. CDNs memcached, site/db
+optimization techniques
+* Domain knowledge: Perl, CPAN, SQL, XML, Linux
+SVN, GIT, CI (Hudson / Jenkins), bash
+* Agile Development
+
+Desired skills:
+* Mason – or working knowledge of some other web framework e.g, Dancer
+php (Symfony, Zend)
+* Integration with third-party APIs
+* Exposure to NoSQL e.g. MongoDB, to Node.js, Ruby helpful
+eCommerce – payments, security, high volume transactions and public facing
+websites
+
+Website for more information: http://careers.photobox.co.uk/senior-developer/
+
+Contact information at:
+http://jobs.perl.org/job/17197#contact

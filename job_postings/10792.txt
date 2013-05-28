@@ -1,0 +1,75 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10792
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28916 invoked from network); 9 Dec 2010 17:30:59 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 9 Dec 2010 17:30:59 -0000
+Received: (qmail 27504 invoked by uid 225); 9 Dec 2010 17:30:59 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 27500 invoked by alias); 9 Dec 2010 17:30:58 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS,T_LOTS_OF_MONEY
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 09 Dec 2010 09:30:57 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id E14422AFE0; Thu,  9 Dec 2010 09:30:53 -0800 (PST)
+To: jobs@perl.org
+Date: Thu, 9 Dec 2010 09:30:53 -0800
+Message-ID: <20101209173053.E14422AFE0@x3.develooper.com>
+Subject: mod_perl/DBI programmer for genetics lab (onsite), United States,
+ California, Davis
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13318
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December  8, 2010
+
+Job title: mod_perl/DBI programmer for genetics lab
+
+Company name: UC Davis
+
+Internal ID: 03003525
+
+Location: United States, California, Davis
+
+Pay rate: $3,652.00-$6,208.00/month
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Under direction, create and support a Laboratory Information Management
+System (LIMS) within a genetic laboratory. The LIMS will integrate
+laboratory sample tracking and work flow with various instruments as well
+as process test results. Write policy and procedure manuals. Train others
+in the use and application of programs designed. Present results at
+informal meetings.
+
+Required skills:
+Demonstrated experience developing within a LAMP environment.
+Experience developing with PHP and either Perl or Python.
+Experience working with MySQL relational databases.   
+
+Desired skills:
+Experience working in a high throughput laboratory.
+Experience writing policy and procedure manuals.
+Fundamental understanding of genetics and PCR techniques.
+
+
+Website for more information:
+http://www.employment.ucdavis.edu/applicants/Central?quickFind=56574
+
+Contact information at:
+http://jobs.perl.org/job/13318#contact

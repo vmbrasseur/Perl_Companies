@@ -1,0 +1,126 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11961
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 11345 invoked from network); 17 Dec 2011 17:17:37 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 17 Dec 2011 17:17:37 -0000
+Received: (qmail 20402 invoked by uid 225); 17 Dec 2011 17:17:36 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 20398 invoked by alias); 17 Dec 2011 17:17:36 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 17 Dec 2011 09:17:32 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 28BE42AFE0; Sat, 17 Dec 2011 09:17:28 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 17 Dec 2011 09:17:28 -0800
+Message-ID: <20111217171729.28BE42AFE0@x3.develooper.com>
+Subject: Bioinformatician (onsite), London, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15278
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 17, 2011
+
+Job title: Bioinformatician
+
+Company name: Imperial College London
+
+Internal ID: NS 2011 235 DPN
+
+Location: London, UK
+
+Pay rate: 27-39kGBP/yr
+
+Terms of employment: Salaried employee
+
+Length of employment: to August 2014
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Please note that officially the job offer is only 9 months subject to
+annual funding renewal.  However, barring any major disasters the project
+is funded until 2014.
+
+Applications are invited for a skilled and motivated Bioinformatician to
+join an international team working on a highly visible web resource,
+VectorBase (http://www.vectorbase.org), serving genomic and functional
+genomic data for arthropod vectors of human pathogens.	VectorBase is
+currently responsible for five fully annotated genomes (three mosquitoes,
+tick and body louse), providing genome search and browse capability, as
+well as comparative genomics, genomic variations and gene expression data. 
+Annotations for two further species are at the community consultation
+stage, and many more vector species and strains are in the pipeline (e.g.
+fifteen Anopheles genomes
+http://www.broadinstitute.org/annotation/genome/anopheles).
+ 
+The successful candidate is expected to work closely with vector biologists
+at Imperial College and with our collaborators around the world to maintain
+and extend the functional genomics and population biology aspects of
+VectorBase including the databases, data processing pipelines and web
+applications. Experience with biological databases and web development is
+essential, and familiarity with vector biology and functional or population
+genomics would be highly advantageous.
+ 
+The project operates in a Linux environment and uses primarily open-source
+software and bioinformatics databases (e.g. Ensembl, BioMart, BASE and GMOD
+Chado). We would expect the successful candidate to both acquire and
+contribute to these collaborative efforts; prior experience in one of these
+projects would be highly advantageous.
+
+Required skills:
+Programming:
+
+SQL (MySQL/Postgres)
+Perl
+Javascript
+
+Experience:
+
+genomic, bioinformatic or related database and web development
+
+Desired skills:
+DBIx + web framework experience (ideally we'd like to port a Ruby web
+service to one based on Bio::Chado::Schema, however early attempts were 2x
+slower)
+
+Java
+
+API/ORM development
+
+EnsEMBL and/or BioMart
+
+population genetics / genomic variation
+
+next gen sequencing / high throughput genotyping
+
+R
+
+Ruby
+
+high-performance/cluster computing
+
+software development as part of a collaborative project
+
+ontologies and/or semantic web technologies
+
+Website for more information:
+https://www4.ad.ic.ac.uk/OA_HTML/OA.jsp?OAFunc=IRC_VIS_VAC_DISPLAY&p_svid=3
+1446&p_spid=1471096
+
+Contact information at:
+http://jobs.perl.org/job/15278#contact

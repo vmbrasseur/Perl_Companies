@@ -1,0 +1,162 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12829
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 15404 invoked from network); 12 Oct 2012 17:51:02 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 12 Oct 2012 17:51:02 -0000
+Received: (qmail 31288 invoked by uid 225); 12 Oct 2012 17:51:02 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 31284 invoked by alias); 12 Oct 2012 17:51:02 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 12 Oct 2012 10:50:58 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 3F6362AFE0; Fri, 12 Oct 2012 10:50:55 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 12 Oct 2012 10:50:55 -0700
+Message-ID: <20121012175055.3F6362AFE0@x3.develooper.com>
+Subject: Quality Assurance Engineer (onsite), Cambridge, MA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16608
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 12, 2012
+
+Job title: Quality Assurance Engineer
+
+Company name: Akamai Technologies
+
+Internal ID: 6496
+
+Location: Cambridge, MA
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+About the Job
+
+We are seeking an experienced software quality assurance engineer with
+proven leadership and automation skills to work with the engineering and
+quality teams to build system-level test automation and execute automated
+and manual tests. The candidate will work primarily with engineers to
+provide SQA for development. An ideal candidate will have distributed
+system testing experience, strong analytical abilities, excellent teamwork
+and communication skills, and the ability to design, implement, maintain
+and extend effective system test automation solutions.
+
+
+About the Team
+
+The Server Platforms team develops and supports communications and the data
+collection infrastructure for Akamai's distributed platform. This
+infrastructure is comprised of a kernel, an operating system, and a series
+of core components which serve as a baseline for the rest of the Akamai
+networks. These systems distribute configuration data, control information,
+and customer traffic to Akamai's distributed servers.  They also publish,
+aggregate, and deliver internal system and customer data for use by
+internal and customer-facing monitoring, alerting, and reporting
+applications.  These systems are among the largest in the world, which
+brings unique engineering challenges for developing distributed, scalable,
+and fault-tolerant systems.
+
+Responsibilities
+* In-depth understanding of the SQA life-cycle from functional requirements
+gathering to the design and execution of automated and manual system level
+tests.
+
+* Understand the developer's design spec and write unit tests against that
+spec.
+
+* Perform code reviews on developers' designs.
+* Design testing tools which includes developing scripts to enhance
+regression testing and feature testing.
+
+* Perform and participate in all aspects of verification including
+requirements gathering, feature and functional testing, unit testing,
+regression, load and performance testing.
+
+* Support and maintain the testnet infrastructure using either real
+hardware or virtual machines.
+
+* Develop creative and thorough analyses to identify root causes of
+technical problems while developing resolutions.
+
+* Design, develop, and deploy automated system tests to replicate
+real-world scenarios.
+
+* Qualify new hardware for both Akamai’s Linux systems and Windows systems
+
+Required skills:
+Basic Qualifications
+
+* Education: Bachelor's Degree in Computer Science or related technical
+area.
+
+* 2+ years work experience developing scripts and test automation with
+Perl.
+
+* Minimum 1 year of experience with C or C++.
+* Minimum of 1 year experience developing test plans for both functional
+and performance testing.
+* Minimum of 1 year experience using the Unix/Linux kernel.
+
+* Minimum of 1 year experience using a Windows based system.
+
+* Minimum of 1 year experience with routing protocols such as HTTP, DNS,
+TCP/IP, etc.
+
+Desired skills:
+Desired Qualifications
+
+* Experience supporting testing activities for multiple
+applications/releases.
+
+* Excellent oral and written communication skills.
+
+* Experience with testing large scale, distributed network systems.
+
+* Experience with Windows environments.
+
+* Strong attention to detail and excellent problem solving/troubleshooting
+skills.
+
+* Experience with proxy servers, web servers, and caching technologies is a
+plus.
+
+* Competence and self-motivation in analyzing problems and getting to the
+root cause.
+
+* Ability to review bug descriptions, functional requirements, design
+documents and code.
+
+* Ability working closely with developers to design test criteria and
+develop test plans.
+
+* Strong understanding of QA life cycle: requirements gathering, testing
+definition, QA methodologies, and test execution.
+
+* Knowledge of both the Linux and Windows kernel and their testing.
+
+* Experience with commonly available testing packages.
+
+* Experience with the use of virtual machines in testing.
+
+Website for more information: http://www.akamai.com
+
+Contact information at:
+http://jobs.perl.org/job/16608#contact

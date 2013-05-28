@@ -1,0 +1,78 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3251
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 29667 invoked from network); 28 Sep 2005 19:46:51 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 28 Sep 2005 19:46:51 -0000
+Received: (qmail 24908 invoked by uid 225); 28 Sep 2005 19:46:51 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 24903 invoked by alias); 28 Sep 2005 19:46:51 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 28 Sep 2005 12:46:48 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j8SJkkBH001663
+	for <jobs@perl.org>; Wed, 28 Sep 2005 12:46:46 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j8SJkkP7001661;
+	Wed, 28 Sep 2005 12:46:46 -0700
+Date: Wed, 28 Sep 2005 12:46:46 -0700
+Message-ID: <200509281946.j8SJkkP7001661@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Sr. Linux systems administrator (onsite), United States, NY, New York
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3100
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 28, 2005
+
+Job title: Sr. Linux systems administrator
+
+Company name: Visual Trading Systems
+
+Location: United States, NY, New York
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Candidate must be proficient in working with and maintaining Red Hat
+Enterprise Linux (RHEL 3 or 4). Applicant must also have at least 2 years
+of experience in each of the following:
+- Red Hat Linux server administration including working knowledge of mail
+servers (sendmail, postfix) bind, Apache, Tomcat, IPtables/firewalls
+- Network administration and maintenance, including switch and router
+configuration
+- Capable of on-the-fly Perl and shell scripting
+
+
+Required skills:
+enterprise-level experience with some MTA (sendmail, postfix)
+shell scripting ability
+permissions, security, shell knowledge, networking
+
+
+Desired skills:
+LDAP, cfengine, IMAP, SAN and blade servers.
+J2EE environment with weblogic
+perl scripting applied to systems administration
+
+Contact information at:
+http://jobs.perl.org/job/3100#contact
+
+

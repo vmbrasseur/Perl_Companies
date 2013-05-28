@@ -1,0 +1,91 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11359
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 29993 invoked from network); 31 May 2011 14:16:19 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 31 May 2011 14:16:19 -0000
+Received: (qmail 26443 invoked by uid 225); 31 May 2011 14:16:19 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 26439 invoked by alias); 31 May 2011 14:16:18 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 31 May 2011 07:16:14 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id A2C832AFE1; Tue, 31 May 2011 07:16:10 -0700 (PDT)
+To: jobs@perl.org
+Date: Tue, 31 May 2011 07:16:10 -0700
+Message-ID: <20110531141610.A2C832AFE1@x3.develooper.com>
+Subject: Perl Website Developer (onsite), United Kingdom, East Sussex,
+ Brighton
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14250
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 31, 2011
+
+Job title: Perl Website Developer
+
+Company name: www.skoosh.com
+
+Location: United Kingdom, East Sussex, Brighton
+
+Pay rate: £30k - £45k
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Based in central Brighton, but very much with an international focus,
+Skoosh is an ambitious and dynamic online travel agency specialising in
+hotels. Despite our relatively small size we compete directly with the
+largest travel companies in the world with an innovative range of
+technology and marketing skills. Our ambition is to set ourselves apart
+from the rest by doing 'everything better'. Indeed, in everything we do, we
+aim to improve on what's already out there.
+
+Job Description:
+Integrating our in-house booking engine with third party suppliers is core
+to our business. Doing it well has always given us a competitive advantage
+and enabled us to compete head-to-head with the largest travel companies in
+the world. 
+
+Previously a role we’ve managed offshore we now want to bring it in-house
+so that the developer can communicate directly with suppliers and
+understand and contribute better to the business potential.
+
+As well as being a talented programmer you will also have an interest in
+business generally, and ecommerce specifically, as you will be working
+directly with our suppliers to improve sales.
+
+In your covering letter please include:
+- Details of elegant solutions you've found for tricky issues.
+- An explanation of your interest in business.
+
+Required skills:
+We code in Perl, so we're looking for at least 3 years experience
+developing in Perl or similar language and object-orientated programming.
+Experience of MySQL and database design principles.
+
+Desired skills:
+We use: apache2, mod_perl2, nginx, RHEL5, bash, svn, perl5, AnyEvent, Coro,
+XHTML, CSS, JS, JQuery, MySQL, Redis/Memcached, Sphinx search engine.
+
+Hotel or travel industry knowledge useful but not essential.
+
+Website for more information: http://www.skoosh.com/
+
+Contact information at:
+http://jobs.perl.org/job/14250#contact

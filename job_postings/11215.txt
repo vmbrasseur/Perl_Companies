@@ -1,0 +1,86 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11215
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8885 invoked from network); 14 Apr 2011 15:41:20 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 14 Apr 2011 15:41:20 -0000
+Received: (qmail 10125 invoked by uid 225); 14 Apr 2011 15:41:20 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 10120 invoked by alias); 14 Apr 2011 15:41:20 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 14 Apr 2011 08:41:18 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 223312AFD1; Thu, 14 Apr 2011 08:41:15 -0700 (PDT)
+To: jobs@perl.org
+Date: Thu, 14 Apr 2011 08:41:15 -0700
+Message-ID: <20110414154115.223312AFD1@x3.develooper.com>
+Subject: Web Engineer - Perl  (onsite), United States, Maryland, Suitland
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14024
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 14, 2011
+
+Job title: Web Engineer - Perl 
+
+Company name: Quotient Inc
+
+Internal ID: Web Engineer - Perl 
+
+Location: United States, Maryland, Suitland
+
+Pay rate: Annual Salary 
+
+Terms of employment: Salaried employee
+
+Length of employment: Full Time
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The incumbent will work in a team environment supporting the design,
+development, and maintenance of federal Internet and Intranet Web sites. 
+
+1. Design and Develop Perl Applications to enhance and support the federal
+web based system.
+
+The system is designed with the MySQL database in the back-end and the Perl
+language (5.8.8) used to develop the front-end as well as several other
+administrative tasks associated with the application. 
+
+•Specific Perl language skills heavily used: 
+◦Expertise in using complex Perl data structures like arrays of hash
+references which in turn can hold further complex data structures. 
+◦Perl CGI - Common Gateway Interface
+◦Developing XML middle layer programming code which will use the existing
+data structures of the census taker system and output XML to be used by
+other programs. 
+◦Mod Perl usage and configuration to work with the Apache Webserver. 
+◦Perl Module management using CPAN and CPANPLUS. 
+◦Strong experience working with Perl DBI and DBD modules to interact with
+the MySQL database. 
+◦Experience with the Perl Web Toolkit and Template Tool Kit
+2.  In-depth knowledge of configuring and optimizing the Apache Web server.
+
+Required skills: Perl, CPAN, CGI, DBI/DBD, Apache, 
+
+Desired skills: Catalyst
+
+Website for more information:
+http://www.quotient-inc.com/careers/web-engineer-perl-1
+
+Contact information at:
+http://jobs.perl.org/job/14024#contact

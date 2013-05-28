@@ -1,0 +1,97 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2042
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 6565 invoked from network); 2 Nov 2004 21:33:52 -0000
+Received: from x1.develooper.com (63.251.223.170)
+  by lists.develooper.com with SMTP; 2 Nov 2004 21:33:52 -0000
+Received: (qmail 26821 invoked by uid 225); 2 Nov 2004 21:33:52 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 26817 invoked by alias); 2 Nov 2004 21:33:51 -0000
+X-Spam-Status: No, hits=-4.9 required=8.0
+	tests=BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.dev) (63.251.223.163)
+  by la.mx.develooper.com (qpsmtpd/0.27.1) with ESMTP; Tue, 02 Nov 2004 13:33:42 -0800
+Received: from x3.dev (localhost.localdomain [127.0.0.1])
+	by x3.dev (8.12.11/8.12.11) with ESMTP id iA2LXeZ1012649
+	for <jobs@perl.org>; Tue, 2 Nov 2004 13:33:40 -0800
+Received: (from jobs@localhost)
+	by x3.dev (8.12.11/8.12.11/Submit) id iA2LXeHr012647;
+	Tue, 2 Nov 2004 13:33:40 -0800
+Date: Tue, 2 Nov 2004 13:33:40 -0800
+Message-ID: <200411022133.iA2LXeHr012647@x3.dev>
+X-Authentication-Warning: x3.dev: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Software Engineer (onsite), United States, Illinois, Wheeling
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1940
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November  2, 2004
+
+Job title: Software Engineer
+
+Company name: Where2GetIt, Inc.
+
+Location: United States, Illinois, Wheeling
+
+Pay rate: DOE
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are looking for a reliable, seasoned Perl programmer to develop
+proprietary large scale applications to run in an open-source environment. 
+These applications will include webservice enabled interfaces along with
+Perl CGI interfaces.  Candidate must be self-motivated and able to
+multi-task.  This is a full-time, on-site position located in Wheeling. 
+Working well with a team and constant change are something you must be able
+to deal with.  This is a new position that is not entirely yet defined so
+you must be able to handle the growing pains involved in a new position. 
+Other duties will involve self-organization, task management, time line
+assessment, product release and implementation.  
+
+Required skills:
+ Perl -  Expert   (not just the syntax, but the community and interpreter
+as a whole.)
+ Object Oriented Perl/Perl Modules -  Advanced
+ CPAN - Intermediate  (knowledge of creating cpan modules)
+ CVS - Advanced  (must be familiar with revision tagging and branching)
+ Linux - Intermediate (know your way around file system, knowledge of
+libraries, binaries, and general tools, and must be able to maintain your
+own workstation)
+ Webservices/XML::RPC – Beginner (must at least know what they are!)
+ Documentation – Advanced (must be able to write clear and concise
+documentation of your products and comment your code well.
+
+
+Desired skills:
+ XML::RPC/SOAP/WSDL
+ Debian/Apt (package management and package building a plus)
+ Bugzilla (for end-use for bug-tracking, not the code itself)
+ More advance Linux experience
+ PHP
+ MySQL
+ Bash/sh
+ Vim or Emacs	(we don't use IDE's, but we are not opposed to it as long
+as it's free and/or open-source)
+
+
+Contact information:
+Ed Silva
+esilva@where2getit.com
+
+
+

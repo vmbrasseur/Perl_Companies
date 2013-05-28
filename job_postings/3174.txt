@@ -1,0 +1,242 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3174
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 5969 invoked from network); 7 Sep 2005 04:29:44 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 7 Sep 2005 04:29:44 -0000
+Received: (qmail 15291 invoked by uid 225); 7 Sep 2005 04:29:44 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 15286 invoked by alias); 7 Sep 2005 04:29:43 -0000
+X-Spam-Status: No, hits=-3.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,URIBL_SBL
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 06 Sep 2005 21:29:39 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j874TaoP002711
+	for <jobs@perl.org>; Tue, 6 Sep 2005 21:29:36 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j874TaTu002709;
+	Tue, 6 Sep 2005 21:29:36 -0700
+Date: Tue, 6 Sep 2005 21:29:36 -0700
+Message-ID: <200509070429.j874TaTu002709@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+X-Virus-Checked: Checked
+Subject: Sr. Perl Engineer-Architect mod_perl/Web (onsite), United States, CA, Redwood City
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3028
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September  6, 2005
+
+Job title: Sr. Perl Engineer-Architect mod_perl/Web
+
+Company name: MPH
+
+Location: United States, CA, Redwood City
+
+Pay rate: $95-135K
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are seeking an expert Perl developer to join the engineering team. The
+senior software engineer leads technical development efforts and is
+responsible for technical design decisions and for the technical success of
+the system. Specifically, this position is responsible for API and
+framework design and coding. The job includes writing technical
+specifications, reviewing work of other programmers, presenting design
+approaches to other groups within the company.
+
+This position requires heavy lifting in Perl including DBI, regular
+expressions, performance tuning, and network communication. Proven track
+record designing, developing, and maintaining mission critical internet
+applications written in Perl. Strong leadership skills and initiative are
+required. Must be able to troubleshoot and drive technical problems to
+resolution. The qualified candidate can expect a high profile position in a
+great team environment with many challenges and rewards. The environment is
+entirely UNIX.
+
+Required skills:
+- 3+ years experience programming in Perl. 
+- This position requires a deep understanding of Perl, including network
+communications, regular expressions, DBI, packages and the guts of Perl. 
+- Experience writing fault tolerant, high performance, scalable database
+driven Perl is a must. 
+- Solid experience in Java/J2EE and C.
+- Struts preferred
+- Demonstrated ability to debug complex code in a production environment
+and strong communications skills are also critical.
+- Must also have experience with gnu make tools and cvs. 
+
+Desired skills: 
+- Proven ability to design API code 
+- Experience with Oracle 
+- Experience leading projects and mentoring other engineers 
+- Prior architecture and technical leadership is important 
+- Solid understanding of Apache, especially with ssl and mod_perl 
+- Knowledge of utilities for monitoring system performance is also strongly
+desired 
+- Understanding of SMTP and HTTP protocols and MIME encoding 
+- Knowledge of multi byte character encoding a plus 
+- Prior startup experience a plus
+- BA/BS or equivalent
+
+Compensation: 
+A compensation package consisting of salary, equity and attractive benefits
+awaits you. No relocation.
+
+IMPORTANT
+
+
+Required skills:
+1. Do you live within commuting distance of Redwood City, California?
+  Yes
+ No, but will consider relocation
+ No, and not interesting in relocating
+ No
+
+2. Do you have at least two solid years developing applications (not
+writing scripts) in Perl/ OO_Perl/ Mod_Perl?
+  Yes
+ No, but I have up to 2 yrs
+ No, but I have up to 1 yrs
+ No
+
+3. How many years of industry experience do you have programming in Perl?
+  None
+ Up to 2 yrs
+ Up to 4 yrs
+ Up to 6 yrs
+ Up to 8 yrs
+ Over 8 yrs
+
+4. Are you proficient using DBI (database interface for Perl)?
+  Yes
+ No
+
+5. Part 1: What is the difference between 'use' and 'require'.
+Part 2: What is the 'strict' pragma good for?
+Part 3: What is the difference between @EXPORT and @EXPORT_OK?
+ Answer:
+
+
+6. Are you proficient programming in C?
+  Yes, and C++
+ Yes
+ Used to be
+ No
+
+7. How many years of industry experience do you have programming in C/C++?
+  None
+ Up to 2 yrs
+ Up to 4 yrs
+ Up to 6 yrs
+ Up to 8 yrs
+ Over 8 yrs
+
+8. How many years of industry experience do you have programming in Java?
+  None
+ Up to 2 yrs
+ Up to 4 yrs
+ Up to 6 yrs
+ Up to 8 yrs
+ Over 8 yrs
+
+9. Part 1: Breifly highlight a product that you developed from analysis &
+design through to implementation & roll-out (one that you had continued to
+support long after implementation, and upgraded through releases)?
+
+Part 2: How many version upgrades did you work on? 
+
+Part 3: Did it maintain robustness, high availability and scalability? 
+
+Part 4: What were the typical volumes of transactions per second?
+ Answer:
+
+
+10. Which of the following are you proficient in: SMTP, HTTP, MIME and SSL
+  None of 4
+ 1 of 4
+ 2 of 4
+ 3 of 4
+ All 4
+
+11. Have you built an email or messaging system?
+  Yes
+ No
+
+12. Highlight any experience you have had building email or messaging
+systems?
+ Answer:
+
+
+13. Are you well versed with algorithms and data structures?
+  Yes
+ No
+
+14. [ The Hiring Managers will review your answer to this question, so
+please answer as best you can in your own words. Please do not copy & paste
+from any source ]
+
+This is a 3-part question:
+
+(a) The bigger the ratio between the size of the hash table and the number
+of data elements, the less chance there is for collision. What is a
+drawback to making the hash table big enough so the chances of collision is
+ignorable? 
+
+(b) How could a linked list and a hash table be combined to allow someone
+to run through the list from item to item while still maintaining the
+ability to access an individual element in O(1) time? 
+
+(c) What sorting functions have you used in the past?
+ Answer:
+
+
+15. Are you proficient at writing efficient SQL code running against an
+Oracle database?
+  Yes
+ No
+
+16. Part 1: Assuming that your application was running slow due to
+inefficient SQL queries, how would you go about troubleshooting this
+problem to get optimal performance? 
+
+Part 2: What approach would you take to solve a DB read bottleneck? (That
+is, the database is overloaded responding to READ requests from the
+application)
+
+Part 3: What approach would you take to solve a DB write bottleneck?
+
+
+Desired skills:
+perl
+mod
+apache
+unix
+linux
+C++
+
+URL for more information: http://www.mphrecruiting.com/
+
+Contact information at:
+http://jobs.perl.org/job/3028#contact
+
+

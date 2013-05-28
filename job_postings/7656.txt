@@ -1,0 +1,132 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7656
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 26664 invoked from network); 10 Feb 2008 11:34:42 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 10 Feb 2008 11:34:42 -0000
+Received: (qmail 17584 invoked by uid 225); 10 Feb 2008 11:34:42 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 17575 invoked by alias); 10 Feb 2008 11:34:41 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,GUARANTEED_100_PERCENT,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 10 Feb 2008 03:34:35 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 76CBB2AF9C; Sun, 10 Feb 2008 03:34:32 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20080210113432.76CBB2AF9C@x3.develooper.com>
+Date: Sun, 10 Feb 2008 03:34:32 -0800 (PST)
+Subject: Release Tools Engineer (onsite), United States, CA, San Francisco
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/7904
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 10, 2008
+
+Job title: Release Tools Engineer
+
+Company name: Stubhub/Ebay
+
+Location: United States, CA, San Francisco
+
+Pay rate: depends on experience
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: no less than three months
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The release engineering group at stubhub (a subsidiary of
+ebay), is looking to fill a contract position.
+
+We're looking for someone to write / test / maintain perl tools and web
+interfaces to them in support of release engineering processes.  We're
+looking for candidates who have extensive perl and unix experience.  We're
+also looking for someone who can fairly easily put cgi front ends on our
+backend tools.	Platform is linux.
+
+Familiarity with perforce and/or ant is a plus.
+
+We're located a couple blocks from the Embarcadero BART station in San
+Francisco.
+
+If you're interested, and of course qualified, please send your resume to
+Cynthia Walston at <cwalston@stubhub.com>.
+
+RELEASE TOOLS ENGINEER
+
+The Company
+
+StubHub, an eBay company, is the largest ticket marketplace in the world,
+based on sales. We enable fans to buy and sell tickets at fair market value
+to a vast selection of sporting, concert, theater and other live
+entertainment events, even those that are "sold out".  StubHub offers fans
+exclusive event packages and charity auctions that no other Website offers.
+ All transactions on StubHub are 100% guaranteed and we offer FedEx
+tracking, managed logistics, and live customer service.
+
+Summary of Duties: 
+
+StubHub is seeking a talented professional for a Release Tools Engineer
+contract position.  The Release Tools Engineer will possess superior skills
+and experience in developing internal tools to automate build and
+deployment processes. The Release Tools Engineer will have a proven track
+record developing automated tools, processes, and web interfaces to deploy
+releases in a managed service environment. The Release Tools Engineer will
+work in the Release Engineering Group. 
+
+Essential Duties and Responsibilities: 
+•	Develop, maintain, and document rock solid tools to support the
+software release life cycle
+•	Design and implement robust web support systems for communicating
+build and deployment issues and status information
+•	Collaborate with Engineering Department to implement and develop
+nightly build processes (Ant, CruiseControl)
+•	Implement Perforce automation (triggers, etc.) to produce reports
+
+•	Experience as a build / release engineer is a plus
+•	Familiarity with  build, release and configuration management
+practices is a plus
+•	Experience with Open-Source development tools and systems e.g. Ant,
+Java, CruiseControl, etc. is a plus
+
+
+Required skills:
+•	Extensive Perl programming experience
+•	Web programming experience
+•	Extensive experience in a UNIX / Linux environment
+•	UNIX shell programming experience
+•	Demonstrated problem solving and troubleshooting skills
+•	Self-Starter; ability to quickly learn new tools and products
+•	Cooperative attitude and style
+•	Excellent verbal and written communication skills
+•	BSCS or other technical degree or equivalent experience
+•	Able to use Windows / Cygwin desktop in a corporate environment
+
+Desired skills:
+•	Experience as a build / release engineer is a plus
+•	Familiarity with  build, release and configuration management
+practices is a plus
+•	Experience with Open-Source development tools and systems e.g. Ant,
+Java, CruiseControl, etc. is a plus
+
+
+Contact information at:
+http://jobs.perl.org/job/7904#contact
+
+

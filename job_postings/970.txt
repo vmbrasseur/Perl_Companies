@@ -1,0 +1,123 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:970
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 87562 invoked by uid 1016); 16 Jul 2003 21:07:33 -0000
+Date: 16 Jul 2003 21:07:33 -0000
+Message-ID: <20030716210733.87561.qmail@onion.perl.org>
+To: jobs@perl.org
+Subject: Perl/Mysql Volenteer with a passion for documentary film wanted (telecommute), United States, CA, San Rafael
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/859
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 16, 2003
+
+Job title:
+Perl/Mysql Volenteer with a passion for documentary film wanted
+
+Company name: e screening room
+
+Internal ID: Jobs.perl.org -46
+
+Location: United States, CA, San Rafael
+
+Pay rate: Free coffee
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: 1 month
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+Wanted Perl mySQL programmer with a passion for documentary films.
+
+The e screening room http://escreeningroom.com	on-line website dedicated
+to the documentary film. Documentary film fans can watch full length
+unabridged films. If they like what they see they can buy a VHS copy for
+home viewing. We are awaiting non-profit status. The e screening room is
+created by volunteer work.
+
+The e screening room is dedicated to create a different distribution
+channel for documentary producers. Independent documentaries are born out
+of the passion –often compassion - for the subject of the documentary.
+Often these documentaries are self financed.  But there is little financial
+gain out of documentary film. As a result, documentary producers get
+discouraged and often leave the field. We think that’s a shame: to lose
+independent voice, is a loss for a free society. At the e screening room we
+try to change that by creating a new distribution channel for documentary
+film.
+
+The work exits out of creating a customize engine for the e screening room.
+We can do this by customizing an existing public shopping engine like
+http://www.escreeningroom.com/store/ , and expand its capability or start
+from scratch.
+ 
+These are some of the main functions that engine.
+• Facilitate searches thought the newly to be created mysql database.
+• Facilitate a shopping cart (But we will be using a third party for the
+secure payments, so you do not have to worry about the secure part)
+• Facilitate the order status system including discount coupons.
+• Facilitate a reporting system for the individual film performance by
+producer, distributor and for the whole site.
+
+Here are some of the example templates we created for the new engine.
+http://escreeningroom.com/finals/
+
+We are looking for a volunteer with a passion for documentary films and
+experience with Perl and MySQL database programming. We will rent a
+dedicated server for the project so you can play around with the mod_perl
+module and create a cool site for your resume. We can’t pay you anything
+but we will mail shade grown coffee to keep you going. 
+
+To apply send us 
+1) Why you are interested in documentary films.
+2) At least one link to a website that shows you skills and explain what
+part you created. If you are just out of collage or still in collage let me
+know which books you used.
+3) At least two references. 
+4) Your contact info. 
+
+
+This is a voluntary position.
+
+If this is something you feel as passionate about as we do, please send me
+a few lines about your experience to: 
+
+jobs46@escreeningroom.com 
+
+Ward Bouwman 
+President
+
+
+Required skills:
+must have build, or closely involved with a SQL based website.
+Must have a phone number where he/ she can be reached between 9 and 11 am
+PST.
+
+Desired skills:
+experence with phpMyAdmin
+mysql
+mod_perl
+
+URL for more information: http://escreeningroom.com/finals/
+
+Contact information:
+Ward Bouwman
+e screening room 
+415 595 8653
+jobs46@escreeningroom.com
+
+

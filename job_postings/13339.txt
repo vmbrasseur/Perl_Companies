@@ -1,0 +1,68 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13339
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 15891 invoked from network); 22 Apr 2013 23:00:47 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 22 Apr 2013 23:00:47 -0000
+Received: (qmail 26830 invoked by uid 225); 22 Apr 2013 23:00:47 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 26826 invoked by alias); 22 Apr 2013 23:00:47 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 22 Apr 2013 16:00:39 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 653A12AFE0; Mon, 22 Apr 2013 16:00:35 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 22 Apr 2013 16:00:35 -0700
+Message-ID: <20130422230035.653A12AFE0@x3.develooper.com>
+Subject: Image Capture Script (telecommute)
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17295
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 22, 2013
+
+Job title: Image Capture Script
+
+Company name: LASF
+
+Pay rate: Bid
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+We have an input file that has some URLs that we need to screen capture. We
+have a script running but its not very efficient. Im looking for a
+developer who can rewrite our image capture script. Here are the steps:
+
+1. import first URL from csv file
+2. Go to the URL using firefox
+3. screen capture the image
+4. modify the image printing onto it the date and time along with a field
+from the input file. 
+5. save the image to a directory
+6. start over from step 1 above until complete.
+
+The script will be run on a linux box or windows box either way and part of
+your job is to install script and get it working correctly. Please email me
+a bit about your skills and also how much you bid to do this project.
+Please only bid if you have the time to start this project and finish it by
+4/26. Thanks fellow Perl enthusiasts!
+
+Contact information at:
+http://jobs.perl.org/job/17295#contact

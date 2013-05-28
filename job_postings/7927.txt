@@ -1,0 +1,125 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7927
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 3850 invoked from network); 3 Apr 2008 15:10:43 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 3 Apr 2008 15:10:43 -0000
+Received: (qmail 21155 invoked by uid 225); 3 Apr 2008 15:10:42 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 21144 invoked by alias); 3 Apr 2008 15:10:42 -0000
+X-Spam-Status: No, hits=1.2 required=8.0
+	tests=BAYES_00,TVD_STOCK1
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 03 Apr 2008 08:10:33 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 2AAE02AFDD; Thu,  3 Apr 2008 08:10:30 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080403151030.2AAE02AFDD@x3.develooper.com>
+Date: Thu,  3 Apr 2008 08:10:30 -0700 (PDT)
+Subject: Web Application Senior Software Engineer (onsite), United States, MA, Boston
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8330
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April  3, 2008
+
+Job title: Web Application Senior Software Engineer
+
+Company name: Pearson
+
+Internal ID: CTG-178
+
+Location: United States, MA, Boston
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Web Application Senior Software Engineer
+Location: Boston, MA
+Company: Pearson – www.pearson.com 
+Products: MasteringPhysics, MasteringChemistry, MasteringAstronomy,
+MasteringBiology
+	
+
+POSITION SUMMARY:
+Technology is transforming the way we educate students.  Pearson
+understands this fact, and it is committed to playing a leadership role in
+the transformation.  The software development group you would be joining,
+referred to internally at Pearson as the “Mastering” team, is responsible
+for an online homework / tutoring system for college science students.	The
+specific products are called: MasteringPhysics, MasteringChemistry,
+MasteringAstronomy, and MasteringBiology.  We are extremely proud of these
+products – they are based on educational research done at M.I.T. and they
+have proven very effective.
+
+The Mastering product line is built on top of standard web technology:
+Perl, Flash, JavaScript, XML/XSLT, MySQL, and Apache.  It is a
+high-throughput database application that services hundreds of thousands of
+students.
+
+We are currently looking for a senior web developer to help with both the
+design and implementation of the our platform.	We are expecting continued
+rapid growth in usage of the platform as well as continued demands for new
+functionality.	To satisfy these demands we will need to continually
+refactor the application as well as build entirely new subsystems.
+
+We are most interested in raw intelligence, deep web application
+experience, and a go-anywhere, do-anything attitude.  We are looking for
+someone who is happiest when the entire codebase is his/her playground. 
+That is, we are not looking for a specialist at this time.  This is not to
+say that expertise in our toolset is not also important, but it takes a
+back seat to overall web application smarts and attitude.
+
+The office is on Arlington Street at the corner of the Boston Public
+Garden.  The environment is professional, but relaxed and flexible.  The
+emphasis is on getting good work done effectively rather than on adhering
+to someone’s idea of perfect process.  It is a small development team.	You
+can have a major impact on the team dynamics and the product’s evolution.  
+
+
+If you would like to know more about our products, take a look at the
+websites for each product:
+•	www.masteringphysics.com	(click on the “Listen to Dr. David
+Pritchard” link)
+•	www.masteringchemistry.com
+•	www.masteringastronomy.com,
+•	www.masteringbiology.com
+
+
+Required skills:
+QUALIFICATIONS:
+•	Web application design and implementation expertise
+•	Perl (or equivalent) expertise
+•	Software Engineering Background 
+•	Smart, Dedicated, Team Player
+•	Comfortable working on a large (but organized) software project
+•	Experience with multi-tier, high-throughput web applications
+•	Database programming experience, working knowledge of SQL
+
+•	Science, Engineering, and/or Math background is a plus
+•	Educational / Teaching background is a plus 
+•	Experience with mod-perl is a plus
+•	Experience with the general Open Source toolset is a plus
+
+
+URL for more information: http://www.pearsoned.com/careers
+
+Contact information at:
+http://jobs.perl.org/job/8330#contact
+
+

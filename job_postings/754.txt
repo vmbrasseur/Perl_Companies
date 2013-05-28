@@ -1,0 +1,49 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:754
+Return-Path: <autarch@urth.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 43420 invoked by uid 76); 19 Feb 2003 23:44:12 -0000
+Received: from qmailr@one.develooper.com (HELO ran-out.mx.develooper.com) (64.81.84.115) by onion.perl.org (qpsmtpd/0.20) with SMTP; 2003-02-19 23:44:12Z
+Received: (qmail 24336 invoked by uid 225); 19 Feb 2003 23:44:11 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 24330 invoked by uid 507); 19 Feb 2003 23:44:11 -0000
+Received: from urth.org (HELO urth.org) (65.103.28.217) by one.develooper.com (qpsmtpd/0.21-dev) with SMTP; 2003-02-19 23:44:09Z
+Received: from autarch (helo=localhost)	by urth.org with local-esmtp (Exim 3.35 #1 (Debian))	id 18ldsh-0000t6-00	for <jobs@perl.org>; Wed, 19 Feb 2003 17:44:03 -0600
+Date: Wed, 19 Feb 2003 17:44:03 -0600 (CST)
+To: jobs@perl.org
+Message-ID: <Pine.LNX.4.53.0302191740500.11907@urth.org>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+X-SMTPD: qpsmtpd/0.21-dev, http://develooper.com/code/qpsmtpd/
+X-Spam-Check-By: one.develooper.com
+X-Spam-Status: No, hits=0.3 required=7.0 tests=CARRIAGE_RETURNS,SPAM_PHRASE_02_03,SUBJECT_IS_LIST,USER_AGENT_PINE version=2.44
+X-SMTPD: qpsmtpd/0.20, http://develooper.com/code/qpsmtpd/
+Subject: Two jobs on web site not sent to list
+Approved: news@nntp.perl.org
+From: autarch@urth.org (Dave Rolsky)
+
+Because of a little server problem, there are two jobs that were recently
+approved that didn't make it to this list.
+
+They are:
+
+ETL Developer, Capstone, Inc.
+United States, Texas, Dallas (2003-02-18)
+http://jobs.perl.org/job/640
+
+
+Perl/MySQL Developer, DGI
+United States, CA, Santa Clara (2003-02-18)
+http://jobs.perl.org/job/639
+
+
+
+-dave
+
+/*=======================
+House Absolute Consulting
+www.houseabsolute.com
+=======================*/

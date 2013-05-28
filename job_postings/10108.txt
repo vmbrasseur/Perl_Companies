@@ -1,0 +1,104 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10108
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 21846 invoked from network); 7 May 2010 08:15:09 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 7 May 2010 08:15:09 -0000
+Received: (qmail 15855 invoked by uid 225); 7 May 2010 08:15:08 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 15850 invoked by alias); 7 May 2010 08:15:08 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 07 May 2010 01:15:04 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 698FE2AFCE; Fri,  7 May 2010 01:15:00 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20100507081500.698FE2AFCE@x3.develooper.com>
+Date: Fri,  7 May 2010 01:15:00 -0700 (PDT)
+Subject: Perl , PHP,MySQL developer (telecommute), India, Los Angeles
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/12208
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May  3, 2010
+
+Job title: Perl , PHP,MySQL developer
+
+Company name: DMcorp.
+
+Location: India, Los Angeles
+
+Pay rate: 15 per hour
+
+Travel: 0%
+
+Terms of employment: Hourly employee
+
+Length of employment: Permanent
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+Need a full time resource(40= hours)long term  to come on board and take
+over our reporting module which consists of file feeds that are parsed by
+Perl(some Ruby) scripts and loaded into MySQL. PHP is used to present data
+to end users.We are small company and understand that our budget is
+low.Hoping to leverage and find off shore resource.You will have
+consistent,long term employment.
+
+Reporting module is functional but need someone who can catch on quick and
+can begin
+1) Create a dev environment.Which I have the Linux(Centos) server
+online with DB and most installations but the Perl modules.Need to
+pull code and configure apache based on prod specs.
+
+2)Write a XML importer	that will parse files and drop them into our
+order tables in MySQL.Files come from our websites and will already be
+provided to us.
+
+3)Stabilization of file load processes which sometimes fail.Perl
+scripts, with some Ruby.
+  Write some fail/success messaging that will alert as	to which
+files were loaded or not.
+
+4) Longer term, rewrite load process and re-design tables in order to
+include fulfillment house data.  
+This position is going to be responsible for making sure that data feeds
+from Media Buyers, Call Centers, and Affiliates are loaded into our
+marketing reporting system, and that the data in the system has integrity
+and performs adequately. In addition, we will want this resource to be
+capable of expanding the existing set of reports by adding new pages and
+functionality to the PHP reporting portal.
+Ultimately, this person would help with suggestion on solution approach to
+streamline data feed.
+Looking for a full time resource 40+ hours a week.
+
+
+Required skills:
+* 3+ years MySQL and SQL Server DBA experience, replication, backup and
+recovery
+* 3+ years SQL and TSQL coding experience
+* 3+ years experience in writing import/export scripts in Perl, Python,
+Ruby, PHP or Shell scripting languages
+* 3+ years experience in XML data creation/manipulation
+* Proven experience in supporting mission-critical, revenue generating
+sites
+* On-time high quality work
+* Excellent communication skills
+
+Contact information at:
+http://jobs.perl.org/job/12208#contact
+
+

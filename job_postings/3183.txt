@@ -1,0 +1,107 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3183
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 16397 invoked from network); 10 Sep 2005 00:25:48 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 10 Sep 2005 00:25:48 -0000
+Received: (qmail 30103 invoked by uid 225); 10 Sep 2005 00:25:48 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 30098 invoked by alias); 10 Sep 2005 00:25:47 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 09 Sep 2005 17:25:41 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j8A0PbPu018879
+	for <jobs@perl.org>; Fri, 9 Sep 2005 17:25:37 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j8A0Pa8E018877;
+	Fri, 9 Sep 2005 17:25:36 -0700
+Date: Fri, 9 Sep 2005 17:25:36 -0700
+Message-ID: <200509100025.j8A0Pa8E018877@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: SF-based Startup Seeks Talented Lead Software Engineer (web app on LAMP/Perl) (onsite), United States, CA, San Francisco
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3040
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September  9, 2005
+
+Job title:
+SF-based Startup Seeks Talented Lead Software Engineer (web app on
+LAMP/Perl)
+
+Company name: DD
+
+Location: United States, CA, San Francisco
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+- Have you been looking for the "right" next challenge?
+
+- Have you considered working at Google, but wanted to make a bigger impact
+within a smaller organization?	
+
+- Are you interested in working closely with veteran founders who have been
+backed previously by Kleiner and Sequoia among others?
+
+We are a stealth-mode startup based in San Francisco that has a
+game-changing approach to a big consumer market.  Our prototype is already
+in closed beta among thousands of users in select cities across the
+country.
+
+We are seeking a high-caliber Lead Software Engineer to drive continuing
+development of our scalable, consumer web application based on the LAMP
+(Linux/Apache/Mysql/Perl) platform.
+
+You will:
+* Take ownership of our software architecture and codebase
+* Translate business requirements into structured application design
+* Provide technical leadership to a team of 4-5 engineers
+* Develop core components and personally tackle the hardest implementation
+challenges
+* Help establish an engineering culture that prides itself on best
+practices, efficiency, and quality delivery.
+
+You will need to take the initiative, get hands-on, learn fast, and work
+hard.
+
+Required skills:
+The ideal candidate will have the following qualifications:
+* OO Perl 5, Apache, mod_perl, MySQL, HTML, CSS, Javascript - fluency
+required
+* LAMP web application stack, object-oriented programming, web application
+design/architecture - extensive experience required
+* MVC frameworks (eg. Catalyst, Ruby on Rails, J2EE/Struts, .NET, etc.) -
+experience required
+* Perl Catalyst, Template Toolkit, MySQL transactions, Apache session
+management, SOAP web services - experience preferred
+* Working knowledge of Linux and shell scripting
+* Understanding of high-volume, load-balanced environments
+* UML, Rational, or Extreme Programming a big plus
+* Technical BA/BS or higher degree from a top-tier school preferred
+* 4+ years professional software engineering and/or software architecture
+experience on web applications
+
+Contact information at:
+http://jobs.perl.org/job/3040#contact
+
+

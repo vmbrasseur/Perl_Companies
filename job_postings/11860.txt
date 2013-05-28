@@ -1,0 +1,75 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11860
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 6013 invoked from network); 11 Nov 2011 18:54:49 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 11 Nov 2011 18:54:49 -0000
+Received: (qmail 2653 invoked by uid 225); 11 Nov 2011 18:54:48 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 2649 invoked by alias); 11 Nov 2011 18:54:48 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 11 Nov 2011 10:54:46 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 798922AFDF; Fri, 11 Nov 2011 10:54:43 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 11 Nov 2011 10:54:43 -0800
+Message-ID: <20111111185443.798922AFDF@x3.develooper.com>
+Subject: Senior Developer (onsite), Franklin, TN
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14892
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 11, 2011
+
+Job title: Senior Developer
+
+Company name: Franklin American Mortgage
+
+Location: Franklin, TN
+
+Pay rate: DOE
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+FAMC is a Franklin, TN based mortgage company seeking a Senior level Perl
+developer to maintain/develop/cleanup existing Perl scripts.
+
+The desired candidate will be writing Perl scripts to manipulate data in MS
+SQL Server, site scraping using LWP, uploading/downloading data using
+Net::SFTP.
+
+We offer a competitive salary and great benefits.
+
+Required skills:
+Senior level Perl skills.
+Mid-level or greater PHP skills
+Experience with databases writing queries and stored procedures, MS SQL
+Server a plus.
+Experience with test driven development.
+Excellent analytical, problem-solving, and communication skills.
+Collaborate with team & stakeholders to define, design, estimate, and build
+scripts to aid the business.
+
+Desired skills:
+A very desirable candidate would be one that can communicate well and take
+the Perl code at FAMC to the next level.
+
+Contact information at:
+http://jobs.perl.org/job/14892#contact

@@ -1,0 +1,93 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9035
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 22610 invoked from network); 4 Mar 2009 13:00:39 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 4 Mar 2009 13:00:39 -0000
+Received: (qmail 2846 invoked by uid 225); 4 Mar 2009 13:00:38 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 2840 invoked by alias); 4 Mar 2009 13:00:38 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 04 Mar 2009 05:00:35 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 379D62AFDD; Wed,  4 Mar 2009 05:00:32 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20090304130032.379D62AFDD@x3.develooper.com>
+Date: Wed,  4 Mar 2009 05:00:32 -0800 (PST)
+Subject: Perl Developer (onsite), United Kingdom, London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/10296
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March  4, 2009
+
+Job title: Perl Developer
+
+Company name: ITN
+
+Location: United Kingdom, London
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: Initally 6 months
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Key Tasks and Responsibilities
+
+•Supporting and developing the import of data from external sources into
+NADS.
+•With external agencies and in-house colleagues, support and develop the
+Shotlisting and Keyworder applications.
+•Manage data backup and integrity
+•Optimise database performance
+•Working with database integration with our digital asset management
+system.
+•Ongoing development of the NADS systems.
+•Working with ITN Source and external agencies on business projects.
+
+Required skills:
+Essential:
+•OOP, Perl, Class::DBI. Template Toolkit; 
+•Database development: DBI, mysql
+•Database administration, query optimisation
+•XML, SOAP, REST, Apache, mod-Perl, subversion
+•Project management; requirements analysis; testing, documentation,
+pragmatic, extreme programming
+•JavaScript
+
+
+Desired skills:
+Desirable:
+•C/C++, QT, C#, .NET
+•Video encoding/video formats
+•Video server technology (Quantel); omnibus automation
+•AVID/iNews
+•SQL::Translator
+•ODBC
+•Access
+•SQLServer
+•CVS
+
+URL for more information: http://www.itn.co.uk/
+
+Contact information at:
+http://jobs.perl.org/job/10296#contact
+
+

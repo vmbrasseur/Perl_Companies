@@ -1,0 +1,87 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5801
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 336 invoked from network); 21 Feb 2007 00:05:44 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 21 Feb 2007 00:05:44 -0000
+Received: (qmail 32432 invoked by uid 225); 21 Feb 2007 00:05:43 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 32425 invoked by alias); 21 Feb 2007 00:05:43 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,DK_POLICY_SIGNSOME
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 20 Feb 2007 16:05:39 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 51A152AFDE; Tue, 20 Feb 2007 16:05:32 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20070221000532.51A152AFDE@x3.develooper.com>
+Date: Tue, 20 Feb 2007 16:05:32 -0800 (PST)
+Subject: Release Engineer (onsite), United States, CA, Redwood City
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5395
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 20, 2007
+
+Job title: Release Engineer
+
+Company name: Currenex
+
+Location: United States, CA, Redwood City
+
+Pay rate: DOE
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Position is located in Redwood City, where you will build, install, and
+configure applications for in-house servers. Administer SCM.
+
+You must have BSD, Linux, or Solaris command line experience, and be
+comfortable using vi or Emacs style editor. You must understand branching,
+merging, and managing code lines, and be familiar with basic programming
+concepts. You need the ability to work with little supervision and take the
+initiative when problems arise.
+
+Although the position is not on-call, if available, you must be able to
+participate in an escalation team. 
+
+Required skills:
+- Prior experience as a build/release engineer, 3-5 years for junior level,
+6-10 years for intermediate. 
+- Troubleshooting application and system problems 
+- Exceptional Perl programming 
+- SCM concepts and processes 
+- Security conscious and process oriented 
+- Strong written and oral communication skills 
+- Work independently without supervision
+
+Desired skills:
+- 3+ years Unix systems in a production environment 
+- Perforce management and best practices 
+- Java, Ant, Apache 
+- PKI, Unix security concepts and tools
+
+
+URL for more information: http://www.currenex.com/
+
+Contact information at:
+http://jobs.perl.org/job/5395#contact
+
+

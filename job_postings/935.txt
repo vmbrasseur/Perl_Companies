@@ -1,0 +1,73 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:935
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 56144 invoked by uid 1016); 24 Jun 2003 14:47:31 -0000
+Date: 24 Jun 2003 14:47:31 -0000
+Message-ID: <20030624144731.56143.qmail@onion.perl.org>
+To: jobs@perl.org
+Subject: Software architect/programmer for web survey software (onsite), United States, California, Mission Viejo
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/794
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 24, 2003
+
+Job title:
+Software architect/programmer for web survey software
+
+Company name: IntelliSurvey, Inc.
+
+Location: United States, California, Mission Viejo
+
+Pay rate: Negotiable
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+IntelliSurvey, Inc. conducts and hosts online surveys for a variety of
+clients in the market research industry.  We offer both software licensing
+via an ASP model for our do-it-yourself clients, and we program surveys
+using our own software on a project-by-project basis for clients who  would
+rather outsource all survey set up.
+
+Our core software is built using mod_perl/DBI/Apache on Linux servers.	We
+need experienced software engineers to help us expand and improve on our
+core software.	As the company grows this person could also serve as a team
+leader for any new technical staff we hire.
+
+Required skills:
+The candidate must be able to learn our overall system architecture and
+write modular, clean code to help us continually improve.  Perl, mod_perl,
+DBI and PostgreSQL are the primary skills the candidate will be using day
+to day.  However the ability to learn quickly and adapt is more important
+than any particular technical skill.
+
+Desired skills:
+Ability to lead a team of developers as we grow is a plus.  Some client
+interaction for support of new features and custom development will also be
+required, so excellent communications are needed.
+
+Ability to set up hardware (for example, installing all necessary software
+on a new Linux server) is also a plus.
+
+URL for more information: http://www.intellisurvey.com/
+
+Contact information:
+Please send resume, code samples, other background information, and salary
+expectations to jobs@intellisurvey.com.
+
+

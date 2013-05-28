@@ -1,0 +1,67 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:64
+Return-Path: <lyons@nextrials.com>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 63919 invoked from network); 29 May 2001 18:38:35 -0000
+Received: from adsl-151-200-30-95.dc.adsl.bellatlantic.net (HELO chulbuli.insidenti.com) (151.200.30.95)
+  by onion.valueclick.com with SMTP; 29 May 2001 18:38:35 -0000
+Received: from nextrials.com (localhost [127.0.0.1])
+	by chulbuli.insidenti.com (8.11.0/8.11.0) with ESMTP id f4TIalY09160
+	for <jobs@perl.org>; Tue, 29 May 2001 14:36:47 -0400
+Sender: lyons@'nextrials.com'
+Message-ID: <3B13EC3F.70851E55@nextrials.com>
+Date: Tue, 29 May 2001 14:36:47 -0400
+Reply-To: jobs@nextrials.com
+Organization: Nextrials, Inc.
+X-Mailer: Mozilla 4.76 [en] (X11; U; Linux 2.2.18 i686)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: jobs@perl.org
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-Spam-Rating: onion.valueclick.com 1.6.2 0/1000/N
+Subject: Washington DC Perl Programmer/SysAdmin Position 1001
+Approved: news@nntp.perl.org
+From: lyons@nextrials.com (Bob Lyons)
+
+Perl Programmer/SysAdmin Position Available July 1 at Nextrials,
+Inc. in Washington DC. Position #1001.
+
+We're looking for a creative self-starter to help support and
+develop an Apache/mod_perl based distributed data collection
+system for clinical research. The position would be in-house at
+our Washington DC regional office, with possible occasional trips
+to our headquarters in the San Francisco Bay Area.
+
+Demonstrable skills in several of the following areas required:
+
+- Writing well-organized, object-oriented perl code
+- Apache/mod_perl/DBI web application development
+- Linux (Redhat) system/network administration (especially,
+firewalls/iptables)
+- Database administration, especially PostgreSQL
+- High Availability systems (Linux/HA, LVS, UltraMonkey, file/db
+replication)
+- Cross-browser Javascript
+- XML/XSL
+- vi ;-)
+
+Your responsibilities will include a combination of system
+configuration at our DC area colocation facility and perl module
+development at our Washington DC office to support existing and
+create new functionality in our product line.
+
+Nextrials is a small company committed to developing high quality
+web-based data management applications for biotech, device, and
+pharmaceutical companies engaged in widely distributed clinical
+research projects. If you're a creative perl developer with a
+deep knowledge of linux open-source software looking for a
+stimulating and fast-paced work environment in the DC area,
+please email us at jobs@nextrials.com and reference position
+#1001.
+
+--
+Nextrials, Inc. <http://www.nextrials.com>

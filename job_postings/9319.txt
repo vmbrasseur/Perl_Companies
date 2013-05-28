@@ -1,0 +1,122 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9319
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 27067 invoked from network); 12 Jul 2009 02:07:51 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 12 Jul 2009 02:07:51 -0000
+Received: (qmail 4742 invoked by uid 225); 12 Jul 2009 02:07:51 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 4737 invoked by alias); 12 Jul 2009 02:07:50 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 11 Jul 2009 19:07:46 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 15A7B2AFE0; Sat, 11 Jul 2009 19:07:42 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20090712020743.15A7B2AFE0@x3.develooper.com>
+Date: Sat, 11 Jul 2009 19:07:42 -0700 (PDT)
+Subject: Bioinformatics Programmer in Plant Genomics Lab (onsite), United States, MI, East Lansing
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/10800
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 11, 2009
+
+Job title:
+Bioinformatics Programmer in Plant Genomics Lab
+
+Company name: Michigan State University
+
+Location: United States, MI, East Lansing
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Multiple bioinformatics positions are available in the laboratory of C. R.
+Buell in the Department of Plant Biology at Michigan State University
+(http://buell-lab.plantbiology.msu.edu/). The Buell lab is focused on
+genomics and bioinformatics in plant and plant pathogen genomes. Current
+projects include funded projects involving annotation of the rice genome
+(http://rice.plantbiology.msu.edu/), genome sequencing of plants and plant
+pathogens, (http://solanaceae.plantbiology.msu.edu/;
+http://pythium.plantbiology.msu.edu/), comparative Solanaceae genomics
+(http://solanaceae.plantbiology.msu.edu/), and genomics of plant pathogens
+(http://cpgr.plantbiology.msu.edu/). See a select list of publications from
+the Buell lab at http://buell-lab.plantbiology.msu.edu/ more information on
+the laboratory accomplishments and activities.
+
+The bioinformaticist will be responsible for a wide range of bioinformatics
+and software development tasks on a subset of these projects. Required
+bioinformatics knowledge and skills include knowledge of the algorithms and
+tools of genome annotation, sequence alignment, and comparative genomics.
+These positions require the ability to evaluate new bioinformatics tools
+and to optimize performance of existing ones. Knowledge of bioinformatics,
+genomics, genetics, and molecular biology required.
+
+The position is also responsible for a range of data handling tasks such a
+creating and maintaining analysis pipelines and quality checking the
+results, parsing and formatting data from various sources, converting data
+formats, ensuring scalability of pipelines on large data sets in a
+distributed computing environment, using NCBI and other online
+bioinformatics databanks. Other software development tasks include creation
+of web sites, dynamic web pages and tools, and maintaining existing
+programs and pipelines.
+
+
+Required skills:
+Platforms: Experience with UNIX or a UNIX-like platform (Linux, Mac OS X,
+Solaris)
+
+Bioinformatics Programs: Experience with multiple common bioinformatics
+programs such as BLAST, GMAP, Exonerate, HMMER, CAP3, RepeatMasker, Maker,
+muscle, phred, phrap, consed, fgenesh, genscan and/or vmatch.
+
+Programming Languages: Strong knowledge of at least one scripting language
+(Perl, Python, Ruby, or PHP), Experience with C, C++, or Java is desirable.
+
+
+Web Development: PHP or CGI programming (Perl, Python, or Ruby). HTML, CSS,
+Javascript.
+
+Databases: SQL, Experience with a RDBMS such as MySQL, Postgres, Sybase, or
+Oracle.
+
+Biological Knowledge: Biochemistry, Bioinformatics, Genetics, Genomics,
+Molecular Biology
+
+Communication Skills: Ability to present project data (orally and written).
+Ability to contribute to project meetings.
+
+Other Skills: Ability to work in a team environment. Demonstrated ability
+to multi-task as required.
+Ability to read scientific literature pertinent to job. Mentoring of other
+staff required.
+
+
+Desired skills:
+Degree Requirements: B. S., M. S., or Ph.D. in Biology, Bioinformatics,
+Computer Science or related field; relevant experience preferred.
+
+URL for more information:
+http://buell-lab.plantbiology.msu.edu/index.shtml
+
+Contact information at:
+http://jobs.perl.org/job/10800#contact
+
+

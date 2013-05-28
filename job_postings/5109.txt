@@ -1,0 +1,86 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5109
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 24605 invoked from network); 13 Oct 2006 23:50:59 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 13 Oct 2006 23:50:59 -0000
+Received: (qmail 432 invoked by uid 225); 13 Oct 2006 23:50:59 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 402 invoked by alias); 13 Oct 2006 23:50:56 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 13 Oct 2006 16:50:52 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id F0DFD2AFDF; Fri, 13 Oct 2006 16:50:47 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20061013235047.F0DFD2AFDF@x3.develooper.com>
+Date: Fri, 13 Oct 2006 16:50:47 -0700 (PDT)
+Subject: Perl Developer/Server Software Engineer (onsite), United States, CA, Redwood City
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4788
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 13, 2006
+
+Job title: Perl Developer/Server Software Engineer
+
+Company name: Claria Corporation
+
+Internal ID: SF-ENG-WL-03
+
+Location: United States, CA, Redwood City
+
+Terms of employment: Salaried employee
+
+Length of employment: full time
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Want to work with a small group of talented engineers on tough,
+cutting-edge  problems?  We need a senior engineer to for our server
+applications group.  You'll be implementing complex business
+logic,designing application frameworks, and generally helping us design and
+build applications in our horizontally-scaled (hundreds of servers)
+open-source-based Linux/Perl/C/Apache/AJAX/etc environment.
+
+
+Required skills:
+·	Fluency in Perl,  including OO and mod_perl CGI.  Experience with
+XML::* a plus.
+·	5+ years experience developing high-volume Perl and Apache
+applications under Unix or Linux.
+·	Basic Linux sysadmin skills,  including experience setting up and
+tuning Apache.
+·	Ability to work closely with others in a highly cooperative
+environment.
+·	Top-notch analytical and debugging skills
+·	Excellent written and verbal English communication skills
+
+
+Desired skills:
+·	Working knowledge of any one of: Python, Java, Ruby, PHP, C, C++
+·	Basic SQL (MSSQL, mySQL, Oracle) skills
+·	BS in CS or equivalent knowledge of CS fundamentals
+·	Working knowledge of HTTP, FTP, HTML, CSS, JavaScript
+·	Experience with agile development methods a big plus
+·	Experience with Debian Linux
+
+
+Contact information at:
+http://jobs.perl.org/job/4788#contact
+
+

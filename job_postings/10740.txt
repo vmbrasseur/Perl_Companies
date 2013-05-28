@@ -1,0 +1,70 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10740
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 19419 invoked from network); 17 Nov 2010 03:27:45 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 17 Nov 2010 03:27:45 -0000
+Received: (qmail 15516 invoked by uid 225); 17 Nov 2010 03:27:44 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 15512 invoked by alias); 17 Nov 2010 03:27:44 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 16 Nov 2010 19:27:42 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 0D0202AFE4; Tue, 16 Nov 2010 19:27:39 -0800 (PST)
+To: jobs@perl.org
+Date: Tue, 16 Nov 2010 19:27:38 -0800
+Message-ID: <20101117032739.0D0202AFE4@x3.develooper.com>
+Subject: perl developer to generate PDF from HTML (telecommute), United
+ States, ME, Sanford
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13238
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 16, 2010
+
+Job title: perl developer to generate PDF from HTML
+
+Company name: Plixer International
+
+Internal ID: HTML2PDF
+
+Location: United States, ME, Sanford
+
+Terms of employment: Independent contractor (project-based)
+
+Onsite: no
+
+Description:
+Overview: 
+
+We need to convert web reports to PDF.	
+We will provide HTML, external CSS files, and images to be included.
+
+Technical Considerations:
+
+Must work with Apache web server running on Windows and Linux.
+Needs to run server-side so they can be attached to emails.
+
+Licensing Considerations:
+
+Distributable at no cost.  We are not averse to a licensing fee for
+underlying technologies, but it can not be per install.  Cannot be GPL v3.
+
+
+Required skills:
+perl
+HTML, CSS, PDF
+
+Contact information at:
+http://jobs.perl.org/job/13238#contact

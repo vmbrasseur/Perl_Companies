@@ -1,0 +1,121 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11812
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 29704 invoked from network); 30 Oct 2011 06:45:03 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 30 Oct 2011 06:45:03 -0000
+Received: (qmail 19451 invoked by uid 225); 30 Oct 2011 06:45:03 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 19437 invoked by alias); 30 Oct 2011 06:45:01 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 29 Oct 2011 23:44:58 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 8C2292AFDA; Sat, 29 Oct 2011 23:44:55 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 29 Oct 2011 23:44:55 -0700
+Message-ID: <20111030064455.8C2292AFDA@x3.develooper.com>
+Subject: Senior Systems Engineer (onsite), Dulles, VA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15048
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 29, 2011
+
+Job title: Senior Systems Engineer
+
+Company name: AOL
+
+Internal ID: 121730BR
+
+Location: Dulles, VA
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The Infrastructure Development and Operations (IDO) team is looking for
+software engineers to join the team, building cutting-edge operational
+solutions for AOL technologies, including AOL’s award winning cloud
+infrastructure. Our private cloud service, based on a range of hot open
+source technologies, is seeing dramatic expansion. AOL is a large scale
+operation, the IDO team provisions, automates, tracks and monitors all of
+it.
+ 
+We measure nodes in 10K chunks not in hundreds. Our metrics system collects
+~40M metrics a minute and provides near real time graphing and analytics to
+engineering customers across a diverse set of verticals. This position will
+be responsible for the engineering, development, testing and deployment of
+these high volume, high performance and highly visibility solutions.
+
+The ideal candidate will be a self-starter and have passion for the
+industry. We want to talk to you if you have experience implementing and
+operating highly available and distributed solutions. Also, the ideal
+candidate will welcome the challenge of wearing different hats (test
+engineer, operator/administrator, system analyst/engineer) while working to
+deliver dependable & maintainable solutions in an Agile development
+environment.
+
+In this role, you’re going to have the opportunity to:
+
+· Create/Maintain robust, scalable, operable, highly complex operational
+software solutions
+
+· Create/Maintain design artifacts and documentation that enables broad
+team participation
+
+· Collaborate verbally (day-to-day stand-ups, team meetings) and in writing
+(requirements and design specifications) with local and remote team members
+
+
+· Actively manage and own feature development beyond design &
+implementation by providing sound consultation and feedback to stakeholders
+and team members
+
+Required skills:
+· Passionate about engineering and problem solving
+
+· Excellent English communications skills, both written & verbal
+
+· Strong work ethic and can function self-sufficiently or as part of a team
+
+
+· 3 to 5 years of directly related software engineering and/or operational
+experience
+
+· Experience with Linux, Virtualization, Perl, Python, PHP
+
+· Experience with Postgresql, MySQL or Oracle
+
+Desired skills:
+· Core understanding of Unix, Apache Tomcat, and server architecture
+
+· Experience using version control, SVN, CVS, GIT
+
+· Experience with operations automation (YUM, RPM, Chef, Nagios)
+
+· Experience with the following a plus: Java, CouchDB, MongoDB, Redis,
+RabbitMQ
+
+· Open Source contributor
+
+· Agile software development practices
+
+Website for more information: http://bit.ly/oGeZFY
+
+Contact information at:
+http://jobs.perl.org/job/15048#contact

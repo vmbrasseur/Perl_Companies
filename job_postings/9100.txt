@@ -1,0 +1,91 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9100
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 11415 invoked from network); 2 Apr 2009 06:50:13 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 2 Apr 2009 06:50:13 -0000
+Received: (qmail 8500 invoked by uid 225); 2 Apr 2009 06:50:13 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 8485 invoked by alias); 2 Apr 2009 06:50:12 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 01 Apr 2009 23:50:11 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 0CB562AFE1; Wed,  1 Apr 2009 23:50:08 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20090402065008.0CB562AFE1@x3.develooper.com>
+Date: Wed,  1 Apr 2009 23:50:08 -0700 (PDT)
+Subject: Urgent Perl Developer Required (onsite), United Kingdom, London, Central London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/10410
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April  1, 2009
+
+Job title: Urgent Perl Developer Required
+
+Company name: Media
+
+Internal ID: 12345
+
+Location: United Kingdom, London, Central London
+
+Pay rate: £280 pd max
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: 6 months
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+- Supporting and developing the import of data from external sources into
+NADS.
+- With external agencies and in-house colleagues, support and develop the
+Shotlisting and Keyworder applications.
+- Manage data backup and integrity
+- Optimise database performance
+- Working with database integration with our digital asset management
+system.
+- Ongoing development of the NADS systems.
+- Working with ITN Source and external agencies on business projects.
+
+Required skills:
+- OOP, Perl, Class::DBI. Template Toolkit; 
+- Database development: DBI, mysql
+- Database administration, query optimisation
+- XML, SOAP, REST, Apache, mod-Perl, subversion
+- Project management; requirements analysis; testing, documentation,
+pragmatic, extreme programming
+- JavaScript
+
+
+Desired skills:
+- C/C++, QT, C#, .NET
+- Video encoding/video formats
+- Video server technology (Quantel); omnibus automation
+- AVID/iNews
+- SQL::Translator
+- ODBC
+- Access
+- SQLServer
+- CVS
+
+Contact information at:
+http://jobs.perl.org/job/10410#contact
+
+

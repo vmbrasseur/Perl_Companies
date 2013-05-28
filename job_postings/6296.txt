@@ -1,0 +1,84 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6296
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 6274 invoked from network); 15 May 2007 22:49:47 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 15 May 2007 22:49:47 -0000
+Received: (qmail 32658 invoked by uid 225); 15 May 2007 22:49:46 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 32653 invoked by alias); 15 May 2007 22:49:46 -0000
+X-Spam-Status: No, hits=-0.7 required=8.0
+	tests=BAYES_20,DKIM_POLICY_SIGNSOME,DK_POLICY_SIGNSOME,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 15 May 2007 15:47:52 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id DFD842AFDA; Tue, 15 May 2007 15:47:48 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070515224748.DFD842AFDA@x3.develooper.com>
+Date: Tue, 15 May 2007 15:47:48 -0700 (PDT)
+Subject: PERL GURU (SQL/DBI) (part onsite), United States, CA, Santa Clara
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5803
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 15, 2007
+
+Job title: PERL GURU (SQL/DBI)
+
+Company name: WhiteHat Security
+
+Location: United States, CA, Santa Clara
+
+Pay rate: market
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+This position provides the glue between our backend database and frontend
+UI. In this position you will provide the logic for the UI, as well as
+extracting data from the DB and all the necessary juggling and calculations
+to present it to the UI team. You'll also be responsible for some DB design
+and query maintenance.
+
+You will also work closely with the UI team integrating UI components into
+our API.
+
+Candidate must be located in the SF bay area and able to come into the
+office 3 days a week. Telecommuting Mondays and Fridays are standard for
+our dev team once you get rolling.
+
+
+Required skills:
+* Expert knowledge of SQL
+* Expert knowledge of Perl
+* Understanding of Perl Database abstraction (Class::Dbi)
+* Excellent communication skills
+
+Desired skills:
+* Understanding of HTML and JavaScript
+* Understanding of HTML::Mason
+* Experience with postgresql
+* Working knowledge of XML and Web services
+* Experience with source code control systems (SVN preferred) 
+* Experience working in an agile environment
+
+Contact information at:
+http://jobs.perl.org/job/5803#contact
+
+

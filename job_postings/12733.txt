@@ -1,0 +1,107 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12733
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 20241 invoked from network); 14 Sep 2012 06:32:44 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 14 Sep 2012 06:32:44 -0000
+Received: (qmail 6451 invoked by uid 225); 14 Sep 2012 06:32:44 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 6446 invoked by alias); 14 Sep 2012 06:32:43 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,LOTS_OF_MONEY
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 13 Sep 2012 23:32:41 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 26BF52AFE0; Thu, 13 Sep 2012 23:32:37 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 13 Sep 2012 23:32:37 -0700
+Message-ID: <20120914063238.26BF52AFE0@x3.develooper.com>
+Subject: Entry Level Web Developer (part onsite), Telecommute or London or
+ Brighton, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16328
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 13, 2012
+
+Job title: Entry Level Web Developer
+
+Company name: iAnnounce
+
+Location: Telecommute or London or Brighton, UK
+
+Pay rate: Up to £30,000 DOE
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+We are a successful company providing specialist online services generating
+millions of page views a month for newspapers across Europe. We're looking
+to bring on board an entry level web developer who wants to improve his or
+her skills and gain experience in a commercial environment.
+
+Initially the role will consist of three main responsibilities:
+
+* Providing 2nd line support for our newspaper partners and consumers.
+You'll be working directly with newspaper technical contacts to ensure the
+smooth running on the service. Typical issues include formatting issues
+with news feeds (provided in a variety of formats including XML and PDF),
+updating media assets, and configuring new features and settings for
+various sites we manage.
+
+* Creating new sites, including configuring systems; importing, reviewing,
+modifying and creating HTML, CSS, images &c.
+
+* Looking after and creating new management reports pulling data from a
+variety of source e.g. our databases, Google Analytics, advertising
+partners.
+Career Progression
+
+We're keen to help you grow as a developer. As you become more experienced
+you will become more involved in developing as well as maintaining systems.
+We like to try different technologies and approaches, and will encourage
+you to do the same as you progress. You'll learn about modern Perl and a
+variety of technologies we're playing with such as Plack, Dancer, LESS,
+SASS, ElasticSearch, Web Fonts and Responsive Web Design.
+
+We also use Template::Toolkit, mod_perl, MySQL, an in-house ORM, jQuery,
+Apache, Linux, Git, memcached, rabbitmq, and have a strong commitment
+open-source.
+
+We don't have scrums, but we do chat on IRC and Skype a fair bit.
+
+You'll	be working regular office hours with occasional out of hours cover,
+to  be agreed beforehand, and you won't have management breathing down your
+ neck. You can telecommute, or work from our London office.  
+
+As a bonus, the whole team attends YAPC::EU every year.
+
+Required skills:
+* OO Perl
+* Javascript
+* Linux, SSH, MySQL, HTML, CSS
+* Willing to learn new technologies
+* Reliable, helpful, consistent
+* Good written and spoken English
+* UK-based
+
+Desired skills:
+* Git, Apache, memcached
+* French, German, Polish, Italian or Danish
+
+Contact information at:
+http://jobs.perl.org/job/16328#contact

@@ -1,0 +1,94 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13081
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 20567 invoked from network); 24 Jan 2013 18:40:22 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 24 Jan 2013 18:40:22 -0000
+Received: (qmail 7796 invoked by uid 225); 24 Jan 2013 18:40:22 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 7792 invoked by alias); 24 Jan 2013 18:40:22 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 24 Jan 2013 10:40:16 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id B48632AFE0; Thu, 24 Jan 2013 10:40:12 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 24 Jan 2013 10:40:12 -0800
+Message-ID: <20130124184012.B48632AFE0@x3.develooper.com>
+Subject: Perl Programmer (onsite), Radnor, PA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16923
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 24, 2013
+
+Job title: Perl Programmer
+
+Company name: Stevens Capital Management LP.
+
+Location: Radnor, PA
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Stevens Capital Management L.P. ("SCM") is a registered investment adviser
+responsible for the overall portfolio management and trading of a $3.3
+billion multi-strategy hedge fund with a lengthy track record of generating
+outstanding returns.   SCM pursues a wide variety of investing and trading
+opportunities in virtually all of the world’s liquid financial markets. 
+Located in suburban Philadelphia and employing approximately 75
+professionals, we seek a talented and motivated individual for the
+following position:
+Perl Programmer: Be part of our dynamic team of financial data developers
+that are responsible for supplying financial market data to support the
+trading and research for the Fund. The successful applicant will join a
+team with responsibilities to include creation and ownership of data
+systems that span from the management and interpretation of intraday tick
+data to relational design of systems to support fundamental company data.
+You will be managing systems capturing time critical information from
+external resources to intelligent systems to manage resource risk to
+internal systems. The data group is responsible for supply and management
+of the bulk of information requirements and resources for the firm.Primary
+Responsibilities:
+	
+·	Develop, enhance and support critical financial applications. 
+·	Develop applications to organize, store, update and disseminate
+global market data.
+·	Software architecture and design issues for the database team; tool
+building.
+·	Troubleshooting issues and ensuring optimal data access across the
+platform.
+·	Work with complex financial market information.
+·	Rapid application development in a fast paced environment.
+
+Required skills:
+·	BSc in Computer Science or equivalent.
+·	High value experience in a good cross section of the languages
+below in a client/server environment.
+·	Strong application development skills in Perl & SQL.  
+·	Previous experience in C++ and Shell, Potential QT.
+·	Knowledge of Sybase or equivalent RDBMS experience.
+·	Strong working knowledge of the LINUX programming environment.
+·	Experience with financial data sets or knowledge of financial
+markets a plus.
+·	Excellent communication skills.
+
+Website for more information: http://www.scm-lp.com
+
+Contact information at:
+http://jobs.perl.org/job/16923#contact

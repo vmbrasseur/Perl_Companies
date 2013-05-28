@@ -1,0 +1,125 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12809
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 7512 invoked from network); 11 Oct 2012 02:51:35 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 11 Oct 2012 02:51:35 -0000
+Received: (qmail 17949 invoked by uid 225); 11 Oct 2012 02:51:34 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 17945 invoked by alias); 11 Oct 2012 02:51:34 -0000
+X-Spam-Status: No, hits=-1.0 required=8.0
+	tests=ALL_TRUSTED,BAYES_20,LOTS_OF_MONEY
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 10 Oct 2012 19:51:30 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 0C9732AFE0; Wed, 10 Oct 2012 19:51:26 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 10 Oct 2012 19:51:26 -0700
+Message-ID: <20121011025127.0C9732AFE0@x3.develooper.com>
+Subject: Software Developer, Graduate Research Assistant (onsite), Los
+ Alamos, NM
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16574
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 10, 2012
+
+Job title: Software Developer, Graduate Research Assistant
+
+Company name: Los Alamos National Laboratory (LANL)
+
+Internal ID: IRC11309
+
+Location: Los Alamos, NM
+
+Pay rate:
+$47,280 -- $61,990 USD, based on level of education and experience
+
+Terms of employment: Salaried employee
+
+Length of employment:
+1 year full time, can be continued afterwards part-time while pursuing
+Master or Doctor degree
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Northern New Mexico is a beautiful place to live in. Located in northern
+New Mexico, Los Alamos National Laboratory (LANL) is a multidisciplinary
+research institution engaged in strategic science on behalf of national
+security.  LANL enhances national security by ensuring the safety and
+reliability of the U.S. nuclear stockpile, developing technologies to
+reduce threats from weapons of mass destruction, and solving problems
+related to energy, environment, infrastructure, health, and global security
+concerns.
+
+Theoretical Division’s T-6 Theoretical Biology and Biophysics group is
+seeking a graduate research assistant (GRA) in bioinformatics and
+web/database developing fields. The candidate will become part of a team of
+scientists and scientific programmers who maintain, expand and do research
+on HIV sequence and immunology databases and the associated websites. 
+
+The HIV database team at Los Alamos National Laboratory has been stably
+funded for more than 20 years. The team maintains a website that gives
+access to a number of databases containing sequence and immunological
+information on the HIV virus and several other viruses. In addition, the
+team published numerous research papers and has created or provided a large
+number of tools for analysis of HIV and other viral sequence and
+immunological data. 
+ 
+The team consists of around 15 people, students, postdocs, researchers and
+developers. We currently have an opening for a GRA, who will be responsible
+for the maintenance of a number of tools, developing new tools that operate
+in the current environment, interacting with the databases, and
+participating in the research projects by creating data analysis scripts in
+close collaboration with the team scientists.
+
+Required skills:
+The job requires ability to work independently, excellent coding skills, an
+understanding of bioinformatics issues, and frequent communication with all
+other team members. 
+ 
+Required:
+-	Experience designing and creating databases and web interfaces
+-	Extensive programming experience in Perl or a similar language
+-	Interest in new database and development technology
+-	Experience with Unix/Linux
+-	Demonstrated ability to write clean, accessible, annotated code and
+documentation.
+
+Education: Bachelor’s or M.Sc degree in computer science or bioinformatics
+or equivalent combination of education and experience. A cumulative GPA of
+at least 3.2 the semester before hire is required. 
+ 
+This position is a good way to take a year to work and learn while
+considering enrolling in a graduate program towards M.Sc or Ph.D degrees;
+applicants interested in co-enrollment in a graduate program they have
+already begun are welcome.
+
+Desired skills:
+-	Background in bioinformatics
+-	Background in biology, especially virology, genetics and immunology
+
+-	Background is statistics 
+-	Knowledge of R
+-	Knowledge of biological databases, especially Genbank
+-	Knowledge of object oriented programming and object databases
+
+Website for more information:
+https://jobs.lanl.gov:443/OA_HTML/OA.jsp?OAFunc=IRC_VIS_VAC_DISPLAY&p_svid=
+11309&p_spid=451169
+
+Contact information at:
+http://jobs.perl.org/job/16574#contact

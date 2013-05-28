@@ -1,0 +1,106 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4357
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 22559 invoked from network); 19 May 2006 02:08:49 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 19 May 2006 02:08:49 -0000
+Received: (qmail 23340 invoked by uid 225); 19 May 2006 02:08:49 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 23334 invoked by alias); 19 May 2006 02:08:48 -0000
+X-Spam-Status: No, hits=-3.0 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,USERPASS
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 18 May 2006 19:07:53 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 4BCD22AFE0; Thu, 18 May 2006 19:07:48 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060519020748.4BCD22AFE0@x3.develooper.com>
+Date: Thu, 18 May 2006 19:07:48 -0700 (PDT)
+Subject: OO perl developer (onsite), United States, CA, Alviso
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4115
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 18, 2006
+
+Job title: OO perl developer
+
+Company name: TiVo Inc.
+
+Location: United States, CA, Alviso
+
+Pay rate: Negotiable
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Join the TiVo IT Tools team and help develop our open-source network
+monitoring stack, which we use to report on the health of internal systems
+and external apps such as TiVo Central Online (our online scheduling tool).
+You will also implement automation of inter/intra-business processes, and
+extend the functionality of TiVo's internal web forms in useful and
+exciting ways.
+
+Responsibilities:
+- Work as part of the team to design and implement monitoring and
+automation 
+software
+- Work with others to define and develop automation processes, and to
+fulfill monitoring requirements
+- "SWAT" troubleshooting of complex application or network issues
+- Participate in evaluation and selection of technology and software
+products
+- Assist in capacity planning and production deployments
+
+Required skills:
+Experience:
+- Object Oriented Perl
+- Solid understanding of UNIX/Linux, networking, storage, and
+distributed computing
+- Solid understanding of HTTP, HTML, XML, and web application frameworks
+- Experience with revision control systems and working on a shared
+code base
+- Self motivated and capable of independent time and task management
+- Acute awareness of information security concerns
+- Strong process and technical documentation skills
+- Strong problem-solving and troubleshooting skills
+- Strong inter-personal and communication skills
+
+Desired skills:
+Experience in one or more of the following an advantage:
+- Previous use of network monitoring tools (Net-SNMP, RRDTool, Syslog-NG)
+- Previous use of other administrative/scripting languages (Shell,
+PHP, Python, Ruby)
+- Experience implementing filesystem and/or database replication
+- Familiar with any of: HTML::Mason, Request Tracker, Bugzilla, LDAP,
+OpenSSL, Javascript, YAML
+- Familiar with SMTP and Spam prevention
+- Hands-on experience with host and network-based IDS (Snort, SamHain)
+- Hands-on experience with various relational databases
+- Familiar with Windows and Exchange 
+- Experience working in a 7x24 Operations environment
+- Experience with configuration management tools like cfengine
+- An understanding of what the TiVo Box and Service are all about!
+
+URL for more information: http://tivo_lmt@rpc.webhire.com/
+
+Contact information at:
+http://jobs.perl.org/job/4115#contact
+
+

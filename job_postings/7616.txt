@@ -1,0 +1,127 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7616
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8042 invoked from network); 2 Feb 2008 02:44:00 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 2 Feb 2008 02:44:00 -0000
+Received: (qmail 15648 invoked by uid 225); 2 Feb 2008 02:43:59 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 15642 invoked by alias); 2 Feb 2008 02:43:59 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 01 Feb 2008 18:43:57 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 968EB2AFD1; Fri,  1 Feb 2008 18:43:53 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20080202024353.968EB2AFD1@x3.develooper.com>
+Date: Fri,  1 Feb 2008 18:43:53 -0800 (PST)
+Subject: Email Infrastructure Software Engineer (onsite), United States, MD, Columbia
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/7848
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February  1, 2008
+
+Job title: Email Infrastructure Software Engineer
+
+Company name: Message Systems, Inc.
+
+Internal ID: soft-eng
+
+Location: United States, MD, Columbia
+
+Pay rate: Competitive, DOE
+
+Travel: 0%
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The Message Systems engineering team is looking for a highly motivated
+mid-level Software Engineer to help us extend the most advanced email
+messaging platform on the market.  You will enjoy in-depth exposure to all
+aspects of building scalable applications as part of a small,
+internationally-renowned team that helps our customers -- Fortune 500
+companies and hot startups alike -- achieve their cutting-edge messaging
+goals.
+
+Message Systems is a global leader in email messaging, with a global
+customer base including tier-1 telecommunications carriers, email service
+providers and online enterprises.  Our technologies help transit billions
+of mails per day for customers worldwide, while offering unmatched
+flexibility and architectural clarity.	The company combines the best
+aspects of Open Source, startup, and established company in our business
+goals and corporate culture.
+
+Message Systems believes in a fun but focused development environment.	We
+have flexible hours, outstanding benefits, and a world-class team. Our
+engineering group works in an open plan and uses the Scrum development
+methodology with a focus on collaboration, automation,
+and testing.
+
+You will be responsible for:
+
+Feature Enhancements - Work with the product team to define feature
+specifications and complete them with a production quality implementation
+including positive and negative test cases.
+
+Testing - Testing is a primary focus of our development process, and every
+engineer is responsible for augmenting our Perl Test::More-based automated
+test suite to guarantee test coverage on new and existing features.
+
+Debugging - Work with bugs originating from customer support tickets and
+internally produced bug reports. Solve functionality and stability issues
+in a timely manner. Analyze bad behavior and performance issues, develop
+test cases to reproduce issues and develop fixes for the product to address
+these issues.
+
+Source Tree Branch Management - Ensuring that as feature tickets and
+problem tickets are addressed and tested that the appropriate change-sets
+are migrated from development to release branches to release tags.
+
+Documentation - Ensuring documentation and product feature coherency.
+
+This position is full-time in Columbia, MD.  We're only considering
+candidates with existing US work eligibility.
+
+
+Required skills:
+Candidates should have strong Perl and C programming skills, at 
+least 3 years of professional programming experience, and have experience
+in and a good understanding of:
+
+* Software design
+* UNIX (Linux, Solaris or FreeBSD) server development in C
+* Strong understanding of Perl
+* Writing multithreaded applications
+* Writing TCP/IP and UDP networking code
+* Writing unit and regression tests in Test::More based systems
+* Experience with gdb and other command line debuggers
+* Familiarity with memory debugging tools and techniques
+ (e.g. valgrind, lint, dmalloc, libumem, etc.)
+* Good grasp of multi-platform portability concerns
+* Familiarity with autoconf and make
+* Exposure to PHP or Java a plus
+* Experience with email technologies a huge plus, but not required.
+* Candidate should have, as a minimum, a Bachelors degree in Computer
+Science (or related field) from an accredited college or university.
+
+URL for more information:
+http://messagesystems.com/company/companyCareers.html
+
+Contact information at:
+http://jobs.perl.org/job/7848#contact
+
+

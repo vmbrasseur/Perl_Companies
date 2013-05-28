@@ -1,0 +1,91 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11940
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 7026 invoked from network); 7 Dec 2011 18:38:42 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 7 Dec 2011 18:38:42 -0000
+Received: (qmail 31392 invoked by uid 225); 7 Dec 2011 18:38:42 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 31388 invoked by alias); 7 Dec 2011 18:38:42 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 07 Dec 2011 10:38:39 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id AB62A2AFE1; Wed,  7 Dec 2011 10:38:36 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 7 Dec 2011 10:38:36 -0800
+Message-ID: <20111207183836.AB62A2AFE1@x3.develooper.com>
+Subject: Software Developer - Compliance (onsite), Greenwich, CT, 06830  USA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15254
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December  7, 2011
+
+Job title: Software Developer - Compliance
+
+Company name: IBG LLC
+
+Location: Greenwich, CT, 06830  USA
+
+Pay rate: Competative
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Position: 
+Programmer for Legal and Compliance Department of a brokerage and trading
+firm at our headquarters in Greenwich, CT. The ideal candidate will have
+3-5 years experience. 
+
+Responsibilities: 
+
+•Develop, test and maintain object-oriented PERL modules to support
+brokerage, trading and customer account surveillance.  
+•Design perl interfaces into various brokerage database systems using DBI
+and object relational mappers.
+•Develop and maintain web-based system that supports the compliance
+supervision function.  Knowledge of LAMP development is required and
+knowledge of dotproject is desirable.
+•UML diagramming of existing production systems (including C++/C/JAVA) to
+support surveillance system design work.
+•Perform occasional QA tests on new production systems.
+
+Required skills:
+•Degree in Computer Science/Engineering or Information Technology is
+required. 
+•Knowledge of UNIX or LINUX based operating systems 
+•Knowledge of perl
+•Ability to understand JAVA, C and C++ 
+•Knowledge of SQL, preferably Oracle is required
+•Basic knowledge of MS desktop applications
+
+Desired skills:
+•Familiarity with perl testing module Test::More and an understanding of
+designing tests for perl  modules;
+•Familiarity with perl xml modules such as XML::Twig;
+•Familiarity with test driven development and other design methodologies
+for developing reliable software;
+•Experience with writing POD documentation for modules and
+•Familiarity with JavaScript and various frameworks such as prototype,
+Jquery or Dojo
+
+Website for more information: http://www.interactivebrokers.com
+
+Contact information at:
+http://jobs.perl.org/job/15254#contact

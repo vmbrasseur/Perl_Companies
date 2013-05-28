@@ -1,0 +1,106 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13128
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 1930 invoked from network); 7 Feb 2013 06:27:55 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 7 Feb 2013 06:27:55 -0000
+Received: (qmail 32102 invoked by uid 225); 7 Feb 2013 06:27:55 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 32098 invoked by alias); 7 Feb 2013 06:27:55 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,T_FRT_PROFILE2
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 06 Feb 2013 22:27:52 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 6652B2AFDE; Wed,  6 Feb 2013 22:27:49 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 6 Feb 2013 22:27:49 -0800
+Message-ID: <20130207062749.6652B2AFDE@x3.develooper.com>
+Subject: Sr. System Software Engineer (onsite), Cambridge, MA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16989
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February  6, 2013
+
+Job title: Sr. System Software Engineer
+
+Company name: Confidential
+
+Internal ID: 1002
+
+Location: Cambridge, MA
+
+Pay rate: $100-135K depending on experience
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Supporting a project for improving the kernel performance on the ESSL
+network and helping provide protection against DDOS attacks.
+
+Rebasing Kernel APIs  tailored to upstream changes in the baseline kernel,
+which often requires re-integration and functional unit testing as
+codelines change.
+
+Evaluating kernel and system performance on a variety of hardware platforms
+and under various workloads
+
+Benchmarking kernel against all variants of our hardware platform, to
+determine the correct sysctl tunings that will maximize performance on
+each.
+
+Incorporating publicly available drivers for special hardware as necessary
+and testing to ensure proper functionality and performance
+
+Tracking, evaluating, and integrating new technology
+
+Troubleshooting issues as they arise either in QA or on the production
+networks
+
+Modifying standard Linux kernel distributions to suit our business needs
+
+Required skills:
+5+ years experience developing and maintaining the Linux operating system
+
+3+ year experience with Perl
+
+3+ years experience with the Linux kernel, networking internals, and system
+programming
+
+2+ years experience using the Debian component packaging architecture
+
+2+ years experience evaluating, incorporating, and testing various Linux
+drivers
+
+3+ years experience with C/C++
+
+Experience with the differences between Linux and the Windows operating
+system
+
+Proficiency in Python and shell scripting languages
+
+Ability to design tests which measure the performance of Linux under a
+variety of loads
+
+Experience with Linux testing packages
+
+Education:  Bachelor's degree in either Computer Science or a technical
+discipline
+
+Contact information at:
+http://jobs.perl.org/job/16989#contact

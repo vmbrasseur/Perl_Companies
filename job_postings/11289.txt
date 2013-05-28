@@ -1,0 +1,88 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11289
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 19814 invoked from network); 9 May 2011 06:08:52 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 9 May 2011 06:08:52 -0000
+Received: (qmail 21584 invoked by uid 225); 9 May 2011 06:08:52 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 21580 invoked by alias); 9 May 2011 06:08:52 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 08 May 2011 23:08:50 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id CB85D2AFDE; Sun,  8 May 2011 23:08:46 -0700 (PDT)
+To: jobs@perl.org
+Date: Sun, 8 May 2011 23:08:46 -0700
+Message-ID: <20110509060846.CB85D2AFDE@x3.develooper.com>
+Subject: Catalyst/DBIC/eCommerce Developer (onsite), United States, TN,
+ Nashville
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14124
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May  8, 2011
+
+Job title: Catalyst/DBIC/eCommerce Developer
+
+Company name: Magazines.com
+
+Location: United States, TN, Nashville
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Come work in an environment where we expect developers to look to CPAN
+first, and failing that publish the work to CPAN.
+
+We are looking for talented developers to work on our Catalyst based
+eCommerce platform.  We use Moose, DBIx::Class and many other awesome Perl
+modules.
+
+If you're savvy and like the web application space, apply!
+
+Offices are located near Nashville, TN.
+
+This is an onsite position, relocation is an option. Don't let the recent
+tornadoes scare you off, come on down!
+
+
+Required skills:
+* Advanced Perl knowledge.
+* Basic HTML/CSS knowledge.
+* Desire to learn and improve.
+
+
+Desired skills:
+Interweb:
+ * Advanced HTML/CSS
+ * JavaScript (preferably YUI/YUI3)
+ * RESTful Awareness
+
+Perl:
+ * Catalyst 
+ * DBIC
+ * Moose
+
+Other Useful things:
+ * Solr
+ * MongoDB
+ * Scheduling and work Queue systems (things like Quartz)
+
+
+Contact information at:
+http://jobs.perl.org/job/14124#contact

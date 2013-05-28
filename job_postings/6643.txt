@@ -1,0 +1,114 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6643
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 24036 invoked from network); 17 Jul 2007 14:12:41 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 17 Jul 2007 14:12:41 -0000
+Received: (qmail 20302 invoked by uid 225); 17 Jul 2007 14:12:41 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 20298 invoked by alias); 17 Jul 2007 14:12:40 -0000
+X-Spam-Status: No, hits=-2.6 required=8.0
+	tests=BAYES_00,DKIM_POLICY_SIGNSOME,DK_POLICY_SIGNSOME,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 17 Jul 2007 07:12:33 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id D59312AFD7; Tue, 17 Jul 2007 07:12:28 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070717141228.D59312AFD7@x3.develooper.com>
+Date: Tue, 17 Jul 2007 07:12:28 -0700 (PDT)
+Subject: Five Perl programmers (onsite), Portugal, Lisbon
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/6181
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 17, 2007
+
+Job title: Five Perl programmers
+
+Company name: log - Open Source Consulting
+
+Location: Portugal, Lisbon
+
+Pay rate: DOE
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+log (and no, the "l" is not capitalized) is looking for some more Perl
+programmers to strenghten its ranks.
+
+The five programmers we're currently looking for have different sets of
+skills and levels of expertise, but instead of making five different ads
+that would probably go unnoticed, we're only making this one (which doesn't
+mean it will be noticed, but at least we're not making life harder for
+people trying to decide which position to apply for).
+
+And no, it's not a project involving five people, it's several distinct
+projects. Some of them are starting, some of them are already on the move
+and in need of more people. And yes, we are aware of Brook's law.
+Fortunately, we're a very organized and profissional team that doesn't have
+a record of working nights or delivering past the due date. All these
+positions were previously thought of.
+
+But speaking of nights, it is true that we sometimes stay up late. You know
+how it goes... Nobody's working, so we're not bothering anyone... We close
+the windows, turn off the lights, put on the headphones... Man,
+{Wolfenstein: Enemy Territory}++
+
+But no, not all our programmers play... Only about half.
+
+That said, check out www.log.pt. If you like what you see, if you meet the
+required skills we're listing, if you reside in Lisbon or are willing to
+move here, why don't you come talk to us?
+
+Sincerely, log's Human Development team.
+
+PS: No bots allowed.
+
+Required skills:
+The following are the required skills for these positions:
+
+	- Perl, preferably OOP, and usage of CPAN
+	- Confortable with development under Linux/UNIX
+	- Experience with databases (MySQL and PostgreSQL preferred, but
+Oracle also relevant)
+
+As you can see, we're not asking much (at least so far).
+
+Desired skills:
+We're not looking for someone with *all* these skills, but any of these
+sets are appreciated:
+
+	- CPAN author
+	- Perlmonks user (with some writeups, please)
+	- Apache, mod_perl
+	- TDD
+	- SOAP, XML
+	- Telnet, SNMPv2, TMF standards, OSS/BSS
+	- Some knowledge (even if just theoritical) on NAT, BGP, IGMP, IP,
+Ethernet
+	- Experience with other languages, such as C, Java or PHP
+	- Good written and spoken English
+
+URL for more information: http://log.pt/
+
+Contact information at:
+http://jobs.perl.org/job/6181#contact
+
+

@@ -1,0 +1,113 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:1506
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 91674 invoked by uid 76); 14 Apr 2004 17:08:33 -0000
+Received: from x1.develooper.com (HELO x1.develooper.com) (63.251.223.170)
+  by onion.perl.org (qpsmtpd/0.27.1) with SMTP; Wed, 14 Apr 2004 10:08:33 -0700
+Received: (qmail 4824 invoked by uid 225); 14 Apr 2004 17:08:26 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 4782 invoked by alias); 14 Apr 2004 17:08:25 -0000
+X-Spam-Status: No, hits=0.0 required=7.0
+	tests=
+X-Spam-Check-By: la.mx.develooper.com
+Received: from onion.develooper.com (HELO onion.perl.org) (63.251.223.166)
+  by la.mx.develooper.com (qpsmtpd/0.27.1) with SMTP; Wed, 14 Apr 2004 10:08:24 -0700
+Received: (qmail 1981 invoked by uid 1016); 14 Apr 2004 16:04:19 -0000
+Date: 14 Apr 2004 16:04:19 -0000
+Message-ID: <20040414160419.1980.qmail@onion.perl.org>
+To: jobs@perl.org
+Subject: Experienced Systems Administrator (onsite), United States, NY, New York
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1403
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 14, 2004
+
+Job title: Experienced Systems Administrator
+
+Company name: WhenU.com, Inc.
+
+Location: United States, NY, New York
+
+Pay rate: competitive
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+COMPANY
+The leader in online contextual marketing, WhenU.com is a top Web property
+with tens of millions of users worldwide. A fast-growing, profitable
+software company, WhenU works with premier advertising agencies and Fortune
+500 companies to deliver cutting-edge advertising campaigns and valuable
+offers to a broad captive audience. 
+
+JOB DESCRIPTION AND RESPONSIBILITIES
+The successful candidate will be responsible for administering a Linux,
+Apache, mod perl, and MySQL environment that spans multiple datacenters
+servicing up to 100 million requests per day.  This includes installations,
+repairs, debugging application failures, automated batch processing, and
+off hours support during outages.
+
+Required skills:
+·	At least 3 years experience administering Un*x servers in an
+Internet enabled environment.  Installation, patches, performance
+measurement, capacity planning, diagnosing application failures, compiling
+and installing software, security hardening, diagnosing hardware failures,
+rack installation and maintenance.
+·	Demonstrated experience with the administration of Un*x servers in
+a lights out remote environment using tools such as SSH and remote console
+servers.
+·	Ability to administer networking equipment such as switches, hubs,
+routers, load balancers, and firewalls (with supervision), including
+cabling.
+·	Knowledge of fundamental TCP/IP networking including basic routing.
+
+·	Healthy working knowledge of TCP/IP network application protocols
+such as HTTP/S, FTP, SMTP, and how they operate.
+·	Expertise administering network attached storage systems which
+implement NFS.
+·	Expertise administering network based backup systems.
+·	Ability to write scripts to automate tasks in Bourne or Korn shell.
+
+·	Specific experience administering Linux 2.4.x, Apache 1.3.x,
+mod_perl 1.x, and MySQL required.
+·	Excellent written and oral communication skills.
+·	A BSCS or equivalent in experience.
+
+
+Desired skills:
+·	Apache 2 (worker mpm) and mod_perl 2.
+·	Designing TCP/IP network security policies and subsequent router,
+·	firewall, or kernel packet filter creation.
+
+·	High volume HTTP servers (100m requests per day)
+·	Utilizing and administering content delivery networks.
+·	Network management tools and protocols such as SNMP.
+·	The ability to write scripts or programs in Perl 5.
+·	Solaris and Sun Hardware.
+·	Cisco PIX firewalls and Routers.
+·	Foundry load balancers.
+·	Please submit a resume and cover letter to sysadmin@whenu.com in
+either plain ASCII text, HTML, PDF, or MS Word format.
+
+
+URL for more information: http://whenu.com/
+
+Contact information:
+Please send all resumes to sysadmin@whenu.com
+
+

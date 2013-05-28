@@ -1,0 +1,102 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7880
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 14735 invoked from network); 25 Mar 2008 14:13:45 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 25 Mar 2008 14:13:45 -0000
+Received: (qmail 30557 invoked by uid 225); 25 Mar 2008 14:13:45 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 30551 invoked by alias); 25 Mar 2008 14:13:44 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 25 Mar 2008 07:13:40 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 977E72AFDA; Tue, 25 Mar 2008 07:13:37 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080325141337.977E72AFDA@x3.develooper.com>
+Date: Tue, 25 Mar 2008 07:13:37 -0700 (PDT)
+Subject: Test Engineer with Perl Scripting for an Internet Lookup Service Company (onsite), United States, VA, Sterling
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8242
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 24, 2008
+
+Job title:
+Test Engineer with Perl Scripting for an Internet Lookup Service Company
+
+Company name: TestPros
+
+Internal ID: PJKPWTELPF
+
+Location: United States, VA, Sterling
+
+Pay rate: $80-100K
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: Direct Hire or Contract to Per
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Project Overview:
+Testers - here is an overview of the product you could be testing. Our
+client has developed an Internet look-up service developed in Perl that
+tracks DNS Server Errors (i.e. If I enter a wrong URL address in my
+browser, their service will direct me to a Landing Page that **guesses**
+what URL I meant to type). The Landing Page offers the user various URL
+options to click on to land them on there desired web page.
+
+
+Skills Required:
+
+* Need good, solid full SDLC testing background.
+* Good skills with PERL automation scripting and LINUX
+  scripting (bash).
+* Skilled in setting up systems, configuring, and Admin.
+ (CentOS)
+* Experience with TCP/IP, Web protocols, DNS/BIND, Proxy
+  Servers/Squid, etc.
+* Extremely useful if they had a good knowledge of CVS.
+
+About Us:
+Established in 1988, TestPros is a test engineering organization providing
+trusted, confidential, independent testing, quality assurance,
+verification, and validation services to software and systems development
+organizations. TestPros' mission is to help our customers get the highest
+quality software possible to market quickly and efficiently. We bring the
+latest relevant software life-cycle process methodologies, test/QA
+methodologies, tools and industry best-practice testing knowledge to our
+customers. 
+
+
+Required skills:
+The customer website is built entirely in Perl.  This is a White Box System
+Testing position that requires the ability to read, modify and write
+automation scripts in Perl.  The position also requires knowledge of basic
+Unix/Linux administration and Bash scripting experience.
+
+Desired skills:
+CentOS, ICP/IP, Web Protocols, DNS/BIND, Proxy Servers/Squid and CVS.
+
+URL for more information: http://www.testpros.com/pm/careers.htm
+
+Contact information at:
+http://jobs.perl.org/job/8242#contact
+
+

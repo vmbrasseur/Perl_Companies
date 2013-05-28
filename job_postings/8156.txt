@@ -1,0 +1,72 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8156
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 25981 invoked from network); 16 May 2008 00:15:14 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 16 May 2008 00:15:14 -0000
+Received: (qmail 26123 invoked by uid 225); 16 May 2008 00:15:13 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 26116 invoked by alias); 16 May 2008 00:15:13 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 15 May 2008 17:15:08 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id A61312AFE5; Thu, 15 May 2008 17:15:04 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080516001504.A61312AFE5@x3.develooper.com>
+Date: Thu, 15 May 2008 17:15:04 -0700 (PDT)
+Subject: Rewrite of the asterisk plugin for munin graphing (onsite), Slovenia, Ljubljana
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8714
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 15, 2008
+
+Job title:
+Rewrite of the asterisk plugin for munin graphing
+
+Company name: Jan Prunk
+
+Location: Slovenia, Ljubljana
+
+Pay rate: 20 EUR
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 2 hours
+
+Hours: Flexible
+
+Onsite: yes
+
+Description:
+Hello !
+
+I would like to hire someone to do a quick fix of the asterisk perl script,
+which is used on munin http://munin.sourceforge.net graphing system. The
+script is expected to work with older asterisk release 1.2, and I allready
+have asterisk 1.4. which makes the script unusable. I think that the fix
+itself can be done in less than 2 hours by an experienced perl programmer.
+I will provide you with the asterisk plugins.
+
+Required skills: perl coding
+
+Desired skills:
+knowledge of asterisk and munin are a bonus
+
+URL for more information: http://www.prunk.si/
+
+Contact information at:
+http://jobs.perl.org/job/8714#contact
+
+

@@ -1,0 +1,154 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10516
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8992 invoked from network); 8 Sep 2010 22:25:38 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 8 Sep 2010 22:25:38 -0000
+Received: (qmail 2054 invoked by uid 225); 8 Sep 2010 22:25:38 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 2047 invoked by alias); 8 Sep 2010 22:25:38 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 08 Sep 2010 15:25:36 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 5E69B2AFE4; Wed,  8 Sep 2010 15:25:33 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20100908222533.5E69B2AFE4@x3.develooper.com>
+Date: Wed,  8 Sep 2010 15:25:33 -0700 (PDT)
+X-Virus-Checked: Checked
+Subject: Perl Webapp Developer in the exciting document compliance industry (onsite), United States, WA, Redmond
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/11267
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September  8, 2010
+
+Job title:
+Perl Webapp Developer in the exciting document compliance industry
+
+Company name: Lucidoc Corporation
+
+Internal ID: SD12
+
+Location: United States, WA, Redmond
+
+Pay rate: DOE + benefits + stock + bonus
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+If you're excited about the compliance industry (and who isn't) and have
+the qualifications, we would love to know more about you.  Even if you're
+not sure what this compliance stuff is (it does seem esoteric at times) or
+you suspect it might be extremely boring (this is true for most people),
+then you still might want to check this out. We think writing software that
+makes our customers awesome at managing documents and heroes when it comes
+to being audit-ready at the drop of a hat is fun and challenging. And
+frankly, we're warming up to all this compliance stuff.  There's documents,
+revision histories, meta-data galore, workflow (state) diagrams,
+hierarchies, pointers going every-which-way, and even a good use for
+cryptographic checksums. Managing document compliance looks a lot like a
+good distributed source code management system when you look at it that
+way. So, have a closer look. If you're self-driven, love challenges, and
+enjoy working with other geeks, then we want to hear from you.
+
+Our team is small, the job is daunting, and we need more talent to meet our
+development roadmap goals. You would be working on and using our core
+product, the Lucidoc Compliance Management Solution application; a
+web-based system largely developed in Perl, SQL, HTML, and JavaScript that
+has been in production use for ten years. Naturally, some of the work
+involves maintenance and customer support. But our primary efforts go
+toward adding new features based on customer, business, and market needs.
+Our management team is dedicated to keeping distractions to a minimum and
+roadblocks out of the way (although, they occasionally get through as I'm
+sure you're familiar with). The development team takes responsibility for
+deciding how things will be implemented within the framework of the
+development roadmap. We also have a lot of input into our future technical
+strategies.
+
+We're not just looking for another coder with the technical chops on some
+list of bullet points. We want someone who embodies The Three Great Virtues
+Of A Programmer. Someone with the fortitude to bring order to chaos,
+clarity to over-cleverness, and elegance to clumsy, brute-forced code.
+Someone fearless yet vindictive when faced with spaghetti code. Someone who
+demonstrates eternal vigilance against code entropy. Someone who strives to
+keep up with evolving development standards in web application
+infrastructure.
+
+
+Required skills:
+This list is not necessarily complete but rather intends to give one a
+concept of the kind of developer we hope to work with. We don't expect
+anyone to make a "perfect score" and prefer that we are all striving for
+some unattainable perfection. A link to a more detailed job description is
+provided below.
+
+ - Significant knowledge of and expertise in Perl programming for large
+applications.
+
+ - At least 5 years experience developing web-based applications, including
+working with session data storage, relational databases, caching, and
+inter-process communication.
+
+ - A solid understanding of the "separation of concerns" and how it relates
+to a MVC application.
+
+ - Solid experience and competence with Linux/UNIX, Subversion, Git,
+Mercurial or similar version control system, HTML & CSS, JavaScript, SQL,
+and XML.
+
+ - Understanding of professional software development processes. Including
+familiarity with the cycles of requirements definition, issue tracking,
+version control, automated testing, deployment and maintenance and Agile
+development methods.
+
+ - The ability to think and make decisions rapidly based on business
+criteria, not exclusively on technical priorities. Equally important is the
+ability to determine and understand the consequences of every change made
+in the application.
+
+ - Clear and articulate communication, both written and spoken.
+
+ - Forward thinking mindset and the ability to consider future growth and
+analyze scalability of existing systems and software, and to apply those
+insights to current development.
+
+ - The ability to quickly understand requirements, documentation and
+contribute code towards various project deliverables in a timely and
+professional manner is required.
+
+ - Taking initiative beyond minimum expectations to determine long-term
+successes of the company.
+
+ - Provide guidance and mentoring regarding best practices and software
+industry standards, code design and implementation.
+
+ - Perform code reviews.
+
+
+Desired skills:
+Expertise with: JavaScript, mod_perl2, Oracle 10g database, MS SQL Server
+
+URL for more information:
+http://www.lucidoc.com/cgi/doc-gw.pl?ref=lcorp:10606
+
+Contact information at:
+http://jobs.perl.org/job/11267#contact
+
+

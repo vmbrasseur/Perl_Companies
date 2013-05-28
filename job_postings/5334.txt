@@ -1,0 +1,93 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5334
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 7859 invoked from network); 22 Nov 2006 14:45:26 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 22 Nov 2006 14:45:26 -0000
+Received: (qmail 6591 invoked by uid 225); 22 Nov 2006 14:45:25 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 6582 invoked by alias); 22 Nov 2006 14:45:24 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 22 Nov 2006 06:45:18 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 085CF2AFE0; Wed, 22 Nov 2006 06:44:47 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20061122144447.085CF2AFE0@x3.develooper.com>
+Date: Wed, 22 Nov 2006 06:44:47 -0800 (PST)
+Subject: Ad Server/Infrastructure Engineer (onsite), United States, CA, San Francisco
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5000
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 21, 2006
+
+Job title: Ad Server/Infrastructure Engineer
+
+Company name: Six Apart
+
+Location: United States, CA, San Francisco
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Six Apart, the company behind LiveJournal, Movable Type, TypePad and Vox,
+is looking for a Software Engineer to lead the technical aspects of Six
+Apart’s advertising efforts across all its product lines, which include two
+of the most highly trafficked sites on the internet.  If you thrive in fast
+paced environments, working on a talented team, and love experimentation
+and tweaking, and have the patience to achieve greatness one step at a
+time, this might be the ideal job for you.  
+
+You will create and maintain an ad serving infrastructure, analyze the
+performance of various types of campaigns and optimize revenues from
+advertising.  You will also define the approval processes for advertising
+campaigns and work cross-functionally to review and approve campaigns. 
+
+Responsibilities
+
+•	Design, deploy and maintain Six Apart’s ad serving infrastructure.
+•	Develop A/B testing protocols and continuously improve ad revenues.
+
+•	Write/deploy web-based reporting tools allowing access to and
+analysis of advertising campaigns.
+•	Provide regular reports to company stakeholders.
+
+
+Required skills:
+•	3+ years of experience in software engineering
+•	BS/CS or equivalent
+•	Good understanding of statistics
+•	Strong programming skills with experience writing high-volume web
+applications and a good working knowledge of SQL
+•	Experience with Perl, data analysis, security considerations and/or
+advertising server software preferred
+•	Strong verbal and written communication skills
+•	An appreciation of business requirements, and the ability to work
+collaboratively with non-engineers to solve business problems
+•	Detail-oriented and highly attentive to commitments and schedules
+
+
+URL for more information: http://www.sixapart.com/
+
+Contact information at:
+http://jobs.perl.org/job/5000#contact
+
+

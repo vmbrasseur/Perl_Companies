@@ -1,0 +1,112 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10264
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 30979 invoked from network); 24 Jun 2010 21:45:15 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 24 Jun 2010 21:45:15 -0000
+Received: (qmail 25719 invoked by uid 225); 24 Jun 2010 21:45:14 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 25714 invoked by alias); 24 Jun 2010 21:45:14 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 24 Jun 2010 14:45:12 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id B2F252AFDD; Thu, 24 Jun 2010 14:45:08 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20100624214508.B2F252AFDD@x3.develooper.com>
+Date: Thu, 24 Jun 2010 14:45:08 -0700 (PDT)
+Subject: Perl Developer (onsite), DC, WASHINGTON
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/12436
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 24, 2010
+
+Job title: Perl Developer
+
+Company name:
+Liquidity Services - An Ecommerce Company
+
+Location: DC, WASHINGTON
+
+Pay rate: Competitive
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Liquidity Services, Inc. is looking for an experienced developer to join
+our team. Applicant will be working independently or as part of a team on
+various projects, and take care of all aspects of the software development
+life cycle from specification gathering, design, business process analysis,
+and implementation, to quality assurance, documentation, and ongoing
+support & maintenance. We primarily use Perl, MySQL, Apache, and Linux.
+Candidate must be a United States citizen or permanent resident, and be
+able to commute to our office in downtown Washington DC.
+
+Liquidity Services, Inc. provides online surplus asset disposition
+marketplaces via a public auction format, and pay per click services
+through four subsidiaries: Liquidation.com, a b2b marketplace for private
+buyers and sellers; GovLiquidation.com, Department of Defense US military
+surplus; UKSurplus.com, Ministry of Defense military surplus;
+GoWholesale.com, a b2b wholesale PPC search portal.
+
+Liquidity Services built its operations from the ground up, utilizing open
+source tools and technologies. Liquidity Services' long-standing,
+profitable startup-like environment provides an opportunity to work closely
+with a medium-sized team of professionals dedicated to the invention,
+construction and maintenance of its expanding infrastructure.
+
+You will be joining a talented team of perl developers, sys admins, IT
+network admins, and project managers. We're looking for fast paced
+learning, contribution, imagination, and productivity. We offer
+collaboration, a fun workplace, an awesome group of people, and an
+opportunity to make a difference. Talented co-workers, health benefits,
+401K, flexible hours & vacation schedules, casual & laid-back environment,
+occasional team outings, offsite training as needed, occasional travel, and
+occasional large project bonus incentives programs. 
+
+Required skills:
+* Perl, RDBMS (MySQL preferred), DBI module, CGI scripting
+* Understanding of software development best practices -- Modules, Don't
+Repeat Yourself, Maintainable code, etc
+* Ability to write scalable, high performance code, with efficient
+utilization of server resources
+* Strong communication skills
+* Experience working in a team environment
+
+Desired skills:
+Desired Skills:
+* mod_perl
+* CVS, Mercurial
+* HTML, CSS
+* Javascript, Ajax, jQuery
+* Core/CPAN modules: Template Toolkit, DBIx::Class, List::Util,
+List::MoreUtils, DateTime, etc
+* Object oriented programming (preferably with perl)
+* Other languages a plus (Java, PHP, Ruby, Python)
+* Apache
+* Linux
+
+URL for more information:
+http://www.liquidityservicesinc.com/careers
+
+Contact information at:
+http://jobs.perl.org/job/12436#contact
+
+

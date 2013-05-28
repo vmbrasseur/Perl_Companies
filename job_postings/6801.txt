@@ -1,0 +1,118 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6801
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 29860 invoked from network); 15 Aug 2007 14:21:50 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 15 Aug 2007 14:21:50 -0000
+Received: (qmail 18254 invoked by uid 225); 15 Aug 2007 14:21:48 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 18209 invoked by alias); 15 Aug 2007 14:21:44 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 15 Aug 2007 07:21:37 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id C26AF2AFDA; Wed, 15 Aug 2007 07:21:33 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070815142133.C26AF2AFDA@x3.develooper.com>
+Date: Wed, 15 Aug 2007 07:21:33 -0700 (PDT)
+Subject: Banking role for top Perl/database developers (onsite), Australia, NSW, Sydney
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/6483
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 14, 2007
+
+Job title:
+Banking role for top Perl/database developers
+
+Company name: Barclays Global Investors
+
+Location: Australia, NSW, Sydney
+
+Pay rate: AUD Competitive
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Length of employment: Permanent Position
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+This role is for a developer in the Production Platforms team, who are
+responsible for providing IT development for production-quality data
+acquisition, cleansing and distribution.
+
+The financial industry in Sydney is growing - this is a great chance to get
+a foot in with the worlds largest manager of assets. This development team
+is mostly based in London and San Francisco and is now growing in Sydney.
+
+The developer will be involved in the production market data platform (Perl
++ Sybase) and also with forthcoming projects in Perl, Java, Sybase, Oracle
+and Asset Control.
+
+Responsibilities will include:
+
+* Partnering with Business Analysts and Clients to define business
+requirements and test plans.
+* Implementing high quality well tested solutions to business problems
+* Collaborating with Architecture group on design of new applications and
+components.
+* Building strong relationships with the business through delivery,
+communication and domain knowledge.
+* Working closely with the Production Services team to ensure code,
+documentation, monitoring, etc. are suitable for the production
+environment.
+* Providing 3rd Level support for existing and new production code
+
+Candidates should have a proven track record of delivering high quality IT
+systems and applications, preferably within the banking or finance
+industries, and will possess at least 4 years application development
+experience.
+
+Candidates will believe in building applications the right way, and will
+not be married to technology, but be pragmatic and utilize technology as a
+tool to deliver business solutions that solve business issues on time, on
+budget, on scope.
+
+Candidate is expected to have the necessary communication skills to convey
+design and implementation details to other members of the team and to give
+clear and concise status updates. This is especially critical as the
+Developer will be located in Sydney in a global organization.
+
+Required skills:
+* Strong OO Perl 
+* Strong Database development skills – Sybase ASE preferable
+* Strong Database design skills - (indexes, normalization, stored
+procedures, views, entity-relationships, etc…)
+* Strong Unix skills - at least 4 years day-to-day experience of Unix
+(Solaris, Linux, BSD, etc…)
+* XML
+
+Desired skills:
+* Exposure to Java
+* Previous finance experience highly desirable
+* Oracle
+* MQ Series
+* Autosys
+* mod_perl 
+* Asset Control
+* BPM
+
+Contact information at:
+http://jobs.perl.org/job/6483#contact
+
+

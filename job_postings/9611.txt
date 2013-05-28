@@ -1,0 +1,88 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9611
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 17886 invoked from network); 11 Nov 2009 19:22:43 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 11 Nov 2009 19:22:43 -0000
+Received: (qmail 32379 invoked by uid 225); 11 Nov 2009 19:22:43 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 32370 invoked by alias); 11 Nov 2009 19:22:42 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 11 Nov 2009 11:22:41 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id EC9302AFE4; Wed, 11 Nov 2009 11:22:37 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20091111192237.EC9302AFE4@x3.develooper.com>
+Date: Wed, 11 Nov 2009 11:22:37 -0800 (PST)
+Subject: Senior perl/LAMP developer (onsite), Australia, NSW, Sydney
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/11299
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November  8, 2009
+
+Job title: Senior perl/LAMP developer
+
+Company name: MOB
+
+Internal ID: dev-sen-200911-01
+
+Location: Australia, NSW, Sydney
+
+Pay rate: AUD$85-90,000
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We have an opening for an experienced perl/LAMP developer.  Must be
+comfortable with an OO approach to developing modular code and while you
+should be comfortable with the popular frameworks you must NOT be a fire
+and brimstone zealot for "just" one of them!
+
+We offer a fun work environment with cool projects for high traffic live
+events like http://SculpturebytheSea.com and cool new technologies like
+Mobile and marker based Augmented Reality.
+
+We release early, release often and love to learn from watching people
+really use our applications.  
+
+If you enjoy creating reliable, scalable perl-based web applications that
+people really use then we have a home for you!
+
+Required skills:
+perl, mod_perl, DBI (and other CPAN goodness), SQL, bash and a good
+understanding of ECMAScript style languages (javascript/actionscript/etc). 
+
+
+You should be comfortable with configuring apache and not be afraid of
+administering postgres or mysql databases.
+
+You should have a love of automating things and be comfortable with
+adopting new technologies.
+
+Desired skills:
+Experience with TWiki/Foswiki would be a benefit and experience with other
+development languages like php, C/C++, Ruby, Python or non-IDE driven java
+would be useful too, but not essential.
+
+Contact information at:
+http://jobs.perl.org/job/11299#contact
+
+

@@ -1,0 +1,92 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11694
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 3626 invoked from network); 21 Sep 2011 04:03:07 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 21 Sep 2011 04:03:07 -0000
+Received: (qmail 24764 invoked by uid 225); 21 Sep 2011 04:03:06 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 24760 invoked by alias); 21 Sep 2011 04:03:06 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS,T_FRT_PROFILE2
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 20 Sep 2011 21:03:03 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 37C2C2AFDD; Tue, 20 Sep 2011 21:03:00 -0700 (PDT)
+To: jobs@perl.org
+Date: Tue, 20 Sep 2011 21:02:59 -0700
+Message-ID: <20110921040300.37C2C2AFDD@x3.develooper.com>
+Subject: OO Perl Developer (onsite), Columbus, OH
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14860
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 20, 2011
+
+Job title: OO Perl Developer
+
+Company name: Atrium
+
+Location: Columbus, OH
+
+Pay rate: open
+
+Terms of employment: Hourly employee
+
+Length of employment: 9 months
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Must work onsite M-F in Columbus, Ohio
+
+Tasks to be Assigned:
+: Perl Application maintenance and development
+: Java Application development possible
+: Web Application Maintenance
+: Make files and C/C++ compilation with strong scripting.
+
+I am not allowed to subcontract for this customer so can not do corp to
+corp but I can do a 1099 for an independent contractor.
+
+Must currently reside in the US.
+
+Required skills:
+: Object-oriented Perl, development of Perl modules and tests (*.t files)
+: CSS (Cascading Style Sheets) and DOM (Document Object Model) and
+HTML/XHTML
+: XML, its validation/parsing and basic Web Services (SOAP)
+: SQL, ORM, table relationships and database normalization
+: Excellent UNIX scripting skills in bash and ksh and proficiency in
+gcc/make/ar for compiling XS portions of non-pure Perl modules.
+: Good knowledge of networking (TCP/IP, DNS, TLS) and socket programming
+: C/C++
+: Knowledge of build release processes
+
+Desired skills:
+: ClearCase, RUP, and best practices in software development/testing.
+: Strong web development and design skills
+: Apache advanced web server configuration and additional Apache modules
+(like mod_perl, mod_mime, mod_rewrite,	CGI), Apache request/response
+cycle, HTTP/HTTPS protocol, authentication authorization and access control
+approaches
+: Popular JavaScript libraries: Ext JS (Livegrid), Tooltip, JavaScript text
+editors, Rico, jQuery, Prototype, script.aculo.us, etc
+: Advanced JavaScript programming (Ajax, JSON) and JavaScript debugging
+(e.g., with FireBug module of Firefox)
+
+Website for more information: http://www.atriumcorporation.com/
+
+Contact information at:
+http://jobs.perl.org/job/14860#contact

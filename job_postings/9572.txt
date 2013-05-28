@@ -1,0 +1,134 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9572
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 24959 invoked from network); 30 Oct 2009 17:08:02 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 30 Oct 2009 17:08:02 -0000
+Received: (qmail 27838 invoked by uid 225); 30 Oct 2009 17:08:02 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 27729 invoked by alias); 30 Oct 2009 17:08:02 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 30 Oct 2009 10:08:00 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 7C22C2AFDF; Fri, 30 Oct 2009 10:07:57 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20091030170757.7C22C2AFDF@x3.develooper.com>
+Date: Fri, 30 Oct 2009 10:07:57 -0700 (PDT)
+Subject: Software Developer- Genomic Data Analysis, United States, CA, Walnut Creek
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/11245
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 30, 2009
+
+Job title:
+Software Developer- Genomic Data Analysis
+
+Company name: DOE Joint Genome Institute
+
+Internal ID: 23598
+
+Location: United States, CA, Walnut Creek
+
+Pay rate: Depends on experience
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Length of employment: 2 year term
+
+Hours: Full time
+
+Description:
+The DOE Joint Genome Institute (JGI) is searching for an experienced
+Software Developer / Engineer to support the genomics research facility in
+Walnut Creek, CA. The mission of the JGI is applying genomic science to the
+critical fields of bioenergy, bioremediation and carbon cycle management.
+The JGI applies both the latest high-volume sequencing technology and
+classic Sanger processes to sequence and analyze thousands of large and
+small genomes. As a Software Developer within the QA / QC Group, you will
+be reponsible for developing computational tools for DNA sequence analysis
+and analyzing data for production and R&D projects. Software development
+tasks will include identifying client needs, gathering requirements,
+developing, testing, integrating and deploying new and/or existing software
+applications and working with other developers and analysts. Analysis tasks
+typically involve complex problems in the domain of DNA requiring in-depth
+evaluation of various factors and application of knowledge and expertise in
+DNA sequence technology, computer science and statistics. Assignments
+include problem definition, evaluation of requirements, and implementation
+of systems to meet goals. The candidate is expected to work with minimal
+supervision, and demonstrate creativity and initiative in developing
+methods for problem solving. 
+
+Specific Job Duties
+
+Essential -
+- Gather feedback and requirements to develop software to support analysis
+of DNA sequence data.
+- Create, manage, and query MySQL databases.
+- Develop and utilize Perl classes, modules, and scripts for managing data
+and performing analyses; and Perl/CGI web pages for providing user access.
+- Provide responsive customer support, assisting users with the prompt
+resolution of data entry errors, software malfunctions and other system
+needs. 
+- Communicate regularly with customers and supervisory staff about plans,
+designs and progress. 
+- Follow prescribed practices for software version control, testing and
+release engineering.
+- Define quality metrics for assessing library and sequencer performance.
+- Independently and proficiently utilize genome assemblers (such as
+Arachne, Newbler, PCAP etc), visualization tools, and other genome assembly
+and analysis software.
+- Provide high quality professional reports on data analysis and results.
+- Present technical and analytical status in weekly meetings and contribute
+to publications.
+
+
+Required skills:
+- B.S. in Computer Science or a related scientific or technical field (or
+equivalent experience) and a minimum of five years related experience.
+- Demonstrated experience with Perl and experience with database design and
+performance tuning.
+- Full life-cycle software development experience with the ability to work
+with scientific and administrative customers to define needs and
+priorities.
+- Demonstrated success designing and implementing systems and software in a
+scientific or technical environment, e.g., University, National Laboratory,
+corporate R&D center or automated manufacturing facility.
+- Ability to effectively learn and apply new technology concepts to
+troubleshoot and solve problems and challenges of a diverse scope.
+- Effective interpersonal communication, public speaking, and presentation
+skills. 
+- Effective time management, organization, and planning skills. 
+- Talent for working well under short deadlines and handling multiple tasks
+simultaneously. 
+- Ability to work effectively in a diverse team environment.
+
+
+Desired skills:
+Experience developing large, complex Perl based software systems and
+large-scale MySQL database experience preferred.
+- Experience developing web-based GUIs.
+- Experience utilizing bioinformatics tools and/or analysis techniques.
+- Experience analyzing scientific data
+
+
+URL for more information:
+http://jobs.lbl.gov/LBNLCareers/details.asp?jid=23598&p=1
+
+Contact information at:
+http://jobs.perl.org/job/11245#contact
+
+

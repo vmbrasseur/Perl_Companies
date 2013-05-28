@@ -1,0 +1,105 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7402
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 11490 invoked from network); 11 Dec 2007 21:11:59 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 11 Dec 2007 21:11:59 -0000
+Received: (qmail 23297 invoked by uid 225); 11 Dec 2007 21:11:59 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 23290 invoked by alias); 11 Dec 2007 21:11:58 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 11 Dec 2007 13:11:10 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id AA3CB2AFE5; Tue, 11 Dec 2007 13:11:06 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20071211211106.AA3CB2AFE5@x3.develooper.com>
+Date: Tue, 11 Dec 2007 13:11:06 -0800 (PST)
+Subject: Software Engineer for Healthcare IT (onsite), United States, Illinois, Rosemont
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/7472
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 11, 2007
+
+Job title: Software Engineer for Healthcare IT
+
+Company name: Picis
+
+Internal ID: 977
+
+Location: United States, Illinois, Rosemont
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The Software Engineer will be working on a new web-based application
+allowing users to create customizable medical forms of various complexity.
+The programmatically generated forms are used by clinicians for data entry
+within the main ED PulseCheck application. Additionally, the engineer will
+maintain and extend the experimental code base of the server-side PicisPen
+software using the Anoto API and a digital pen, which is used as an
+alternative data input device. 
+
+
+
+Typical duties will include: 
+
+
+
+
+
+Design and develop web-based software, including unit tests and
+documentation. 
+
+Maintain and improve object-oriented server-side and JavaScript/Ajax
+front-end code bases, add required features and fix identified defects. 
+
+Communicate with Requirements group, Clinical Informatics and SQA to
+understand requirements, customer needs, as well as testing strategies for
+off-handed code. 
+
+Gather feedback from internal users for early-stage applications and
+prototypes. 
+
+Research and suggest improvements to software design and UI components. 
+
+Consult with other engineering staff and take part in code reviews when
+appropriate.  
+
+
+Required skills:
+In addition to top-notch web application development skills and to
+requisite technologies (Perl, C#/.NET, MS SQL Server, HTML, JavaScript,
+Ajax), the ideal candidate will have experience with JSON, Prototype,
+Scriptaculous, or similar JavaScript libraries; interest in usability
+engineering and good eye for aesthetics; experience with health data and
+information systems
+
+Bachelor's degree (B. A.) from four-year college or university; or two to
+four years related experience and/or training; or equivalent combination of
+education and experience. Minimum of 3+ years experience developing
+web-based software, including Ajax applications
+
+URL for more information: http://www.picis.com/
+
+Contact information at:
+http://jobs.perl.org/job/7472#contact
+
+

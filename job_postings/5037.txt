@@ -1,0 +1,76 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5037
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8402 invoked from network); 2 Oct 2006 17:49:31 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 2 Oct 2006 17:49:31 -0000
+Received: (qmail 25959 invoked by uid 225); 2 Oct 2006 17:49:31 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 25942 invoked by alias); 2 Oct 2006 17:49:30 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 02 Oct 2006 10:49:27 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id AE7FE2AFE6; Mon,  2 Oct 2006 10:49:20 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20061002174920.AE7FE2AFE6@x3.develooper.com>
+Date: Mon,  2 Oct 2006 10:49:20 -0700 (PDT)
+Subject: Mason Perl for Real Estate Site (some Java too) (telecommute), United States, MO, Columbia
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4725
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October  2, 2006
+
+Job title:
+Mason Perl for Real Estate Site (some Java too)
+
+Company name: Inblosam LLC
+
+Internal ID: 2
+
+Location: United States, MO, Columbia
+
+Pay rate: $15 - $20 per hour (US)
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 3-5 weeks
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+I have a Real Estate web site I need to launch and connect to a new
+listings database through RETS (http://www.rets.org/). The basics of the
+site are complete, but I need to integrate the new listings into the
+database and onto the site. The site is already using Mason Perl, and the
+RETS system has some open source Java clients for accessing.
+
+Required skills:
+Perl, Mason module, Class::DBI module
+Java for the RETS client to access listings
+
+
+Desired skills:
+Good CSS skills a big plus (with some examples)
+Nice, friendly, dependable
+
+Contact information at:
+http://jobs.perl.org/job/4725#contact
+
+

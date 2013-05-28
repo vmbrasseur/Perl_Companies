@@ -1,0 +1,91 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9042
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 2599 invoked from network); 11 Mar 2009 02:35:30 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 11 Mar 2009 02:35:30 -0000
+Received: (qmail 28567 invoked by uid 225); 11 Mar 2009 02:35:30 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 28553 invoked by alias); 11 Mar 2009 02:35:30 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 10 Mar 2009 19:35:26 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id EAD9B2AFE4; Tue, 10 Mar 2009 19:35:22 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20090311023522.EAD9B2AFE4@x3.develooper.com>
+Date: Tue, 10 Mar 2009 19:35:22 -0700 (PDT)
+Subject: mod_perl/Mason developer for adult entertainment site (part onsite), United States, CA, Chatsworth
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/10328
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 10, 2009
+
+Job title:
+mod_perl/Mason developer for adult entertainment site
+
+Company name: AVN Media Network
+
+Location: United States, CA, Chatsworth
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+AVN is looking for a strong perl programmer to join our web team. We will
+be working with all aspects of system including content management system,
+flash gateways, streaming video, dynamic web pages, static content
+delivery, image generators, caching mechanisms, and assisting staff with
+training on new features.
+
+25% Bug fixes
+75% New Features
+
+Must be comfortable around all types of adult content. Salary TBD based on
+experience. Reports to Senior Systems Engineer.
+
+Telecommuting optional.
+
+Required skills:
+** Solid background in perl programming
+** MySQL
+** Experienced with DBI
+** Basic understanding of mod_perl and apache in a high traffic, high
+performance environment
+** Must be comfortable working with linux command line (bash)
+** must be able to learn quickly and follow directions
+
+Desired skills:
+** Class::DBI
+** HTML::Mason
+** HTML::Template
+** HTML::FillInForm
+** AJAX (prototype or similar js libraries)
+** sphinx
+** experience with AMF or XML flash gateways a plus
+** subversion
+** squid http accelerator
+** understanding of MVC and Agile concepts
+
+URL for more information: http://www.avn.com/
+
+Contact information at:
+http://jobs.perl.org/job/10328#contact
+
+

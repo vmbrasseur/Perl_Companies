@@ -1,0 +1,137 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7676
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28696 invoked from network); 14 Feb 2008 02:45:00 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 14 Feb 2008 02:45:00 -0000
+Received: (qmail 21605 invoked by uid 225); 14 Feb 2008 02:44:59 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 21598 invoked by alias); 14 Feb 2008 02:44:59 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 13 Feb 2008 18:44:56 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 9F9A42AF9C; Wed, 13 Feb 2008 18:44:52 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20080214024452.9F9A42AF9C@x3.develooper.com>
+Date: Wed, 13 Feb 2008 18:44:52 -0800 (PST)
+X-Virus-Checked: Checked
+Subject: Senior Developer on distributed system (onsite), United States, Washington, Seattle
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/7938
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 13, 2008
+
+Job title: Senior Developer on distributed system
+
+Company name: SiteScout
+
+Location: United States, Washington, Seattle
+
+Pay rate: US$60-100K (approx.)
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Are you ready to apply your passion for Perl to help build and extend a
+distributed system running 24x7 on hundreds of machines? To develop
+reliable, maintainable, cross-platform code using Perl's OO and functional
+programming capabilities, performing interesting text munging tasks and
+large-scale data manipulation and gluing together disparate technologies to
+build an automated system that makes the Web safer? To earn something like
+$60-100K per year, depending on experience, plus benefits and stock
+options? 
+
+We're looking for experienced software developers who feel a burning desire
+to take ownership and ship successful products, mastering a broad range of
+technical capabilities as necessary to get the job done effectively. You
+should strive to write maintainable, scalable, well-tested code that
+satisfies customer needs in a fluid and fast-moving market. You need the
+capacity to think big yet still sweat the details, and to be able
+communicate effectively both within a technical team and with business
+stakeholders. You should be excited by the opportunity to make the Web a
+better place -- even if you're personally a Linux junkie, we're looking for
+recognition that much of the world runs Windows and needs our help.
+
+In the near term, we expect this position to be primarily an individual
+contributor, but we're looking for someone who can has the potential to be
+a dev lead/manager within six months to a year. We want you to grow with
+us.
+
+About us: SiteScout is a startup funded by experienced and committed angel
+investors, with a working product and active engagements with prospective
+OEM partners for our technology. Our mission is to make the Web safer by
+proactively identifying malicious Web sites and helping prevent them from
+harming people's computers. We use Perl extensively at the heart of our
+automated system: to manage workflow, to analyze huge volumes of HTML
+(think billions of Web pages) and associated data like link graphs to drive
+our Web interfaces, and to glue together various other technologies
+including C# and C++ code that performs malware analysis on Windows
+systems. We use a mixture of LAMP-ish and Windows-flavored technology:
+MySQL as a data store; Apache both to support Web interfaces and as an IPC
+mechanism; Subversion for source control; Win32 API calls, OLE, and various
+other Microsoft technologies to locate and characterize Windows-based
+malware. Development and production occur both on Linux and Windows, and we
+rely extensively on virtualization technology. And yes, we track bugs
+rigorously and have extensive suites of unit and integration tests and QA
+processes to help support our development efforts. Although we're a small
+team -- just a handful of full-time developers and QA/operations folks,
+plus contractors -- we're serious about building manageable systems and
+processes, not just hacking away as individual contributors (though we’re
+not big-M Methodology addicts).
+
+We've got a great work environment (views, windows that open, fast
+multi-monitor machines, and a fun team) and are working hard to solve
+interesting problems that make a difference to people. Sound like your kind
+of challenge? Send your resume and a brief introduction explaining why you
+think you'd be a good fit.
+
+(Just a note: compensation really depends on how much value you can add. We
+believe in finding the right person and negotiating a mutually lucrative
+arrangement rather than specifying strict salary guidelines in a job
+posting. But we're serious about attracting great talent and prepared to
+pay accordingly.)
+
+
+Required skills:
+You should have been through a complete development lifecycle on at least
+two product releases. You must have very strong Perl experience and be able
+to demonstrate your ability to write OO and functional-style Perl code as
+part of a team, not just as a solo coder. You should have solid database
+experience and be able to create normalized tables, write and understand
+complex joins, and understand performance implications when dealing with
+tens of millions of data rows. (This is not predominantly a CRUD
+development effort, but everyone needs to be able to grok our data model
+and employ it effectively.)
+
+
+Desired skills:
+Solid experience in C, C++, and/or C# is also a plus, as is knowledge of
+HTTP, TCP/IP, JavaScript, and other Internet/Web technologies. If you have
+knowledge of Windows internals and/or experience in security and malware,
+that's a huge bonus. We prefer a bachelor's degree in computer science or a
+related quantitative discipline or extensive industry experience.
+
+URL for more information: http://www.sitescout.net/
+
+Contact information at:
+http://jobs.perl.org/job/7938#contact
+
+

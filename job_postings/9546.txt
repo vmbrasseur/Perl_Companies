@@ -1,0 +1,95 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9546
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 17464 invoked from network); 21 Oct 2009 07:33:23 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 21 Oct 2009 07:33:23 -0000
+Received: (qmail 7706 invoked by uid 225); 21 Oct 2009 07:33:23 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 7702 invoked by alias); 21 Oct 2009 07:33:22 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 21 Oct 2009 00:33:21 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 6C3CF2AFE1; Wed, 21 Oct 2009 00:33:18 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20091021073318.6C3CF2AFE1@x3.develooper.com>
+Date: Wed, 21 Oct 2009 00:33:18 -0700 (PDT)
+Subject: Senior daemon programmer for ISV (onsite), Australia, Victoria, Melbourne
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/11183
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 18, 2009
+
+Job title: Senior daemon programmer for ISV
+
+Company name: Remasys Pty Ltd
+
+Location: Australia, Victoria, Melbourne
+
+Pay rate: 65K to 85K AUD package
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Remasys is looking to hire a senior Perl programmer.  We need someone who
+is very comfortable with programming in a linux environment, using CPAN and
+mysql.	This is not a web/html job, instead the primary focus will be on
+improving/extending the functionality of a set of unix daemons and helping
+with the installation/setup of Remasys software at new client sites.   An
+additional responsibility will be maintaining the build environment.  
+
+Remasys is actively engaged in maintaining and selling two products, a
+systems management product and a file transfer product that you will be
+required to maintain and extend. 
+
+As part of the job, you will get exposed to a wide variety of protocols,
+rfcs and software installations and expected to get involved with
+understanding, mapping out and automating complex environments as well as
+creating tools to make it easier to carry out these processes.
+
+Our office is on flinders st opposite federation square, quite close to the
+station.  We have a small group of skilled people working in a open plan
+environment and the development model would be classified as agile. The
+director comes from a technical background, so it is easy to discuss
+requirements and make proposals for improvements.  Required overtime is
+definitely the exception rather the rule and time-in-lieu is happily
+granted on all such occasions.
+
+As an additional bonus, we host Melbourne Perl Mongers every month, so you
+don't need to travel too far if you want to attend.
+
+Required skills:
+* Perl (probably at least 2 years full time programming experience)
+* Linux
+* Australian citizenship
+
+Desired skills:
+* Familiarity with branching and tagging
+* Knowledge of the FHS
+* Familiarity with atomic filesystem operations
+* Any experience at all with Win32 gui programming
+* Experience with rpms
+
+
+Contact information at:
+http://jobs.perl.org/job/11183#contact
+
+

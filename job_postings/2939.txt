@@ -1,0 +1,94 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2939
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 30942 invoked from network); 5 Jul 2005 09:54:45 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 5 Jul 2005 09:54:45 -0000
+Received: (qmail 28415 invoked by uid 225); 5 Jul 2005 09:54:44 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 28406 invoked by alias); 5 Jul 2005 09:54:44 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 05 Jul 2005 02:54:34 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j659sVhT020356
+	for <jobs@perl.org>; Tue, 5 Jul 2005 02:54:31 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j659sVEf020354;
+	Tue, 5 Jul 2005 02:54:31 -0700
+Date: Tue, 5 Jul 2005 02:54:31 -0700
+Message-ID: <200507050954.j659sVEf020354@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Senior Developers: OO Perl, mod_perl, Web crawling, search (onsite), United States, New York, New York
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2301
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July  5, 2005
+
+Job title:
+Senior Developers: OO Perl, mod_perl, Web crawling, search
+
+Company name: Open List, Inc.
+
+Location: United States, New York, New York
+
+Pay rate: commensurate with experience
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: full time
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Rapidly-growing search technology company seeks motivated, creative SENIOR
+developer/engineers to enhance and extend our existing platform.  We're
+seeking developers who can bring a wide range of skills to the table and
+work well with a small group of smart, disciplined people.
+
+Development experience with large-scale web crawling, large datasets or
+high-traffic (5M+ pageviews/day) sites a plus.
+
+Required skills:
+* BS/MS in Computer Science or equivilent, PhD a plus.
+* 6 YEARS minimum experience with 4+ years of experience in Perl
+application development.
+* Experience building scalable and maintainable systems.
+* A strong track record in one or more of the following areas: 
+  - mod_perl on a high-traffic website
+  - processing large data sets
+  - data organization and taxonomies
+
+
+Desired skills:
+* Experience developing or contributing to CPAN modules a plus.
+* Experience building or working with search technology (home grown, open
+source or commercial).
+* Enthusiasm for solving very difficult problems, along with the discipline
+to work through the less-interesting ones.
+* The ability to think on your feet and improvise when necessary.
+* Unix/Linux System Administration experience a plus.
+
+URL for more information: http://www.openlist.com/
+
+Contact information at:
+http://jobs.perl.org/job/2301#contact
+
+

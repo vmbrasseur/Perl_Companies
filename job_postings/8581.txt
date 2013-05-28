@@ -1,0 +1,94 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8581
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 21223 invoked from network); 20 Aug 2008 09:44:15 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 20 Aug 2008 09:44:15 -0000
+Received: (qmail 11063 invoked by uid 225); 20 Aug 2008 09:44:15 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11056 invoked by alias); 20 Aug 2008 09:44:14 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 20 Aug 2008 02:44:12 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 358F52AFE8; Wed, 20 Aug 2008 02:44:09 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080820094409.358F52AFE8@x3.develooper.com>
+Date: Wed, 20 Aug 2008 02:44:09 -0700 (PDT)
+Subject: PERL Software Engineer - eCommerce Fraud Protection (onsite), Australia, NSW, Sydney
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/9454
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 18, 2008
+
+Job title:
+PERL Software Engineer - eCommerce Fraud Protection
+
+Company name: Pro-Perspective
+
+Internal ID: 1153
+
+Location: Australia, NSW, Sydney
+
+Pay rate: $70-90k
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Immediate need for a PERL software engineer!!
+Not a system administrator that hacks Perl, but rather someone who knows
+their stuff!  
+
+This opportunity is with an eCommerce, Fraud Protection provider backed by
+Australia’s #1 Venture Capitalist.  With an outstanding management team and
+an excellent product, this is an opportunity to be a core member of a
+dynamic start-up where your role will be broad in scope and multi-faceted. 
+Have fun!  Take ownership!  Work in an environment that values your
+opinion.  
+
+Required skills:
+-a high quality of PERL experience with skills in OO design 
+-Robust SQL experience (Any RDBMS will suffice as long as SQL knowledge
+will scale) 
+-Experience or understanding of client-side scripting (Flash, Javascript,
+etc)
+
+
+Desired skills:
+-Catalyst – our main web framework
+-Class::DBI
+-JQuery
+-AJAZ, JSON, MVC, HTML,  Javascript, CSS, XML, SOAP, etc
+-Passionate about Internet Security (eCommerce)
+-Web Security/Fraud Protection/Prevention
+-Vulnerabilities including:
+o	Phishing
+o	CSS attacks
+o	SQL injection
+o	Cross Site Scripting
+o	Fuzzing
+-eCommerce/Shopping cart development
+-Payment Gateway Solutions
+
+
+Contact information at:
+http://jobs.perl.org/job/9454#contact
+
+

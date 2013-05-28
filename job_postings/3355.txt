@@ -1,0 +1,126 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3355
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 16014 invoked from network); 19 Oct 2005 23:48:39 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 19 Oct 2005 23:48:39 -0000
+Received: (qmail 1596 invoked by uid 225); 19 Oct 2005 23:48:39 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 1552 invoked by alias); 19 Oct 2005 23:48:38 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 19 Oct 2005 16:48:30 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j9JNmQ3K024351
+	for <jobs@perl.org>; Wed, 19 Oct 2005 16:48:26 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j9JNmQMM024349;
+	Wed, 19 Oct 2005 16:48:26 -0700
+Date: Wed, 19 Oct 2005 16:48:26 -0700
+Message-ID: <200510192348.j9JNmQMM024349@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Software Engineer / Perl Programmer (onsite), United States, CA, Oakland
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3201
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 19, 2005
+
+Job title: Software Engineer / Perl Programmer
+
+Company name: Ask Jeeves
+
+Internal ID: 051013-02
+
+Location: United States, CA, Oakland
+
+Pay rate: DOE
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Our Data Engineering organization is seeking a Software Engineer /
+Researcher with excellent Perl skills to design, build and manage tools and
+systems for identifying Internet activity patterns.  
+
+If you enjoy looking for patterns and meaning in huge amounts of data while
+building tools to share your findings with others, this highly visible
+position will provide you with a unique opportunity and nearly endless
+possibilities.
+
+Join one of the fastest growing web search properties on the Internet: Ask
+Jeeves Inc. provides consumers and advertisers with world-class information
+retrieval products across a diverse portfolio of Web sites, portals and
+desktop search applications. Ask Jeeves' search and search-based portal
+brands include: Ask Jeeves (Ask.com and Ask.co.uk), Ask Jeeves for Kids
+(AJKids.com), Excite (excite.com), iWon (iwon.com), My Search
+(mysearch.com), My Way (myway.com), My Web Search (mywebsearch.com), and
+Teoma (teoma.com). Ask Jeeves also owns the world-class search technology
+Teoma, proprietary natural language processing technology, as well as
+portal and ad serving technologies. In addition to powering several of the
+Ask Jeeves brands, the Company syndicates its technologies to help
+companies increase revenue through powerful search.
+
+Responsibilities:
+•	Designing, building, and maintaining a system for identifying
+suspect activity patterns in syndication and proprietary property traffic. 
+
+•	Identifying key evaluation metrics, managing a testing process,
+validating the metrics over time, analyzing test results, and make
+objective recommendations to business units. 
+•	Pre-qualify potential syndication partner traffic. 
+•	Constantly be on top of new developments and trends in the click
+spamming and Internet fraud world. 
+•	Work with Research team to meet informational needs. 
+•	Maintain/Expand existing reporting systems and analysis tools. 
+•	Work on ad-hoc information requests from groups world-wide. 
+•	Participate in third-party software evaluation. 
+•	Serve as a resource for development on other team projects and
+products as needed.
+
+
+Required skills:
+•	Perl programming, specifically in relation to: regular expressions,
+intercommunications with databases (Oracle) using DBI, XML, and creating
+web-based applications, and reporting. 
+•	Skills and background in mathematics, statistical analysis, pattern
+recognition and data mining. 
+•	Solid understanding of PL/SQL. 
+•	Solid understanding of web protocols such as HTTP. 
+•	Experience developing applications in both Windows and UNIX
+networked environments. 
+•	UNIX shell scripting. 
+•	UNIX administration skills. 
+•	C/C++ programming a plus.
+
+
+Desired skills:
+•	Understanding of click spamming tricks and trends in order to
+identify and filter from metrics. 
+•	Understanding of Internet and website traffic. 
+
+
+URL for more information: http://www.askjeeves.com/
+
+Contact information at:
+http://jobs.perl.org/job/3201#contact
+
+

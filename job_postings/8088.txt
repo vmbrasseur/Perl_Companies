@@ -1,0 +1,98 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8088
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 30760 invoked from network); 5 May 2008 21:40:45 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 5 May 2008 21:40:45 -0000
+Received: (qmail 7256 invoked by uid 225); 5 May 2008 21:40:44 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 7249 invoked by alias); 5 May 2008 21:40:44 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 05 May 2008 14:40:37 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 405662AFE7; Mon,  5 May 2008 14:40:34 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080505214034.405662AFE7@x3.develooper.com>
+Date: Mon,  5 May 2008 14:40:34 -0700 (PDT)
+Subject: Experienced Web Programmer (telecommute), Indiana, Bloomington
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8606
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May  5, 2008
+
+Job title: Experienced Web Programmer
+
+Company name: Indiana University
+
+Location: Indiana, Bloomington
+
+Pay rate: 18-20/hour
+
+Travel: 0%
+
+Terms of employment: Hourly employee
+
+Length of employment: indefinite
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+A position to work on a medium sized web application along with another
+programmer. The primary objective is to optimize the code for performance. 
+ The core application is LAPP (Linux, Apache, Postgres and Perl) in nature.
+ The Perl is OO and at times functional (techniques lifted from the book
+"Higher Order Perl.  The code runs under mod_perl interacting with a
+Postgres database.  In addition, Javascript and AJAX are used to enrich the
+user interface.  The area of emphasis is to refactor the existing reports
+to run much faster and scale better.  There will also be some user
+interface refactoring.
+
+The current optimization plan includes:
+- Improving SQL queries by reducing the number of queries and speeding them
+up ( DBIC prefetch, index search fields)
+- Faster computations with two emphases: the use of triggers for
+pre-calculating report data, and the use matrix operations possibly via PDL
+(Perl Data Language) if the matrix size warrants it.
+- Streamlining some of the Javascript to make less AJAX calls.	
+- Concurrent programming be it threads in Perl or the use of actors in a
+language like Scala.  The intent here would be to perform parallel
+computations on disjoint objects.
+
+Required skills:
+* OOP Perl
+* SQL
+* ORM experience (DBIx::Class, Rose::DB::Object, Class::DBI)
+* Templating Language such as Template Toolkit.
+* Comfortable with Linux as a development/production environment.
+* Javascript
+
+Desired skills:
+* Optimization experience (Benchmarking and profiling perl code and
+database queries)
+* Design Patterns such as MVC (Catalyst, CGI::Application)
+* Database Design
+* Testing (Unit and application, WWW::Mechanize::Test)
+* Version control (CVS, subversion)
+* AJAX, Javascript libraries (jQuery, Prototype)
+* Java, C, Scala
+* Concurrent Programming
+* Knowledge of Perl Best Practices
+
+Contact information at:
+http://jobs.perl.org/job/8606#contact
+
+

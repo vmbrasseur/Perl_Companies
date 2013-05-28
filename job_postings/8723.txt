@@ -1,0 +1,76 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8723
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28481 invoked from network); 6 Oct 2008 20:15:38 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 6 Oct 2008 20:15:38 -0000
+Received: (qmail 8581 invoked by uid 225); 6 Oct 2008 20:15:38 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 8575 invoked by alias); 6 Oct 2008 20:15:38 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 06 Oct 2008 13:15:35 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id CB2002AFDD; Mon,  6 Oct 2008 13:15:31 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20081006201531.CB2002AFDD@x3.develooper.com>
+Date: Mon,  6 Oct 2008 13:15:31 -0700 (PDT)
+Subject: Mod Perl Expert (onsite), United States, Illinois, Rosemont
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/9720
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October  6, 2008
+
+Job title: Mod Perl Expert
+
+Company name: Picis
+
+Location: United States, Illinois, Rosemont
+
+Pay rate: Depends on experience
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: indefinite
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are looking for a mod_perl expert that has the skills and experience to
+guide the migration of a web-based application running on a Windows/Apache
+environment to work under mod_perl. The application is live at customer
+sites and runs off their local server. The expert analyzes encountered
+problems such as access violations and Apache restart issues and works
+closely together with the development team and assists in making the code
+compliant with mod_perl. Expert-level knowledge of Apache and mod_perl is
+required!
+
+Required skills:
+•	mod_perl 2 in production environment, preferably Windows
+•	Expert-level understanding of Apache and configuration directives
+•	Perl registry and handlers
+•	Understanding of threads and related Perl coding issues
+•	Database connection pooling with Apache::DBI
+
+
+URL for more information: http://www.picis.com/
+
+Contact information at:
+http://jobs.perl.org/job/9720#contact
+
+

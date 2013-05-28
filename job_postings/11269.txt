@@ -1,0 +1,65 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11269
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 31620 invoked from network); 2 May 2011 18:32:57 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 2 May 2011 18:32:57 -0000
+Received: (qmail 2997 invoked by uid 225); 2 May 2011 18:32:57 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 2987 invoked by alias); 2 May 2011 18:32:57 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 02 May 2011 11:32:55 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 402462AFE0; Mon,  2 May 2011 11:32:52 -0700 (PDT)
+To: jobs@perl.org
+Date: Mon, 2 May 2011 11:32:52 -0700
+Message-ID: <20110502183252.402462AFE0@x3.develooper.com>
+Subject: Senior Perl Developer (onsite), Russia, Moscow
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13856
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May  2, 2011
+
+Job title: Senior Perl Developer
+
+Company name: Crazy Panda
+
+Location: Russia, Moscow
+
+Pay rate: 80.000-120.000 RUR
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Ищем опытного программиста Perl. Работа в офисе.
+Работа над высоконагруженными игровыми проектами, а также над стартапом
+новых проектов.
+
+Required skills:
+Отличное знание Perl	      
+Опыт работы с сетевыми серверами	 
+Понимание производительности того или иного кода perl	      
+Умение работать в командной строке в Unix	   
+
+Desired skills:
+Опыт работы с системами Catalyst, DBIx::Class, use mro 'c3'		
+Умение писать модули XS
+
+Contact information at:
+http://jobs.perl.org/job/13856#contact

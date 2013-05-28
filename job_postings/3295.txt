@@ -1,0 +1,87 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3295
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 20997 invoked from network); 8 Oct 2005 07:01:34 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 8 Oct 2005 07:01:34 -0000
+Received: (qmail 21142 invoked by uid 225); 8 Oct 2005 07:01:34 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 21136 invoked by alias); 8 Oct 2005 07:01:33 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 08 Oct 2005 00:01:31 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j9871T4n014885
+	for <jobs@perl.org>; Sat, 8 Oct 2005 00:01:29 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j9871TgB014883;
+	Sat, 8 Oct 2005 00:01:29 -0700
+Date: Sat, 8 Oct 2005 00:01:29 -0700
+Message-ID: <200510080701.j9871TgB014883@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Perl programmer for OTRS.org (onsite), Germany, Bavaria, Straubing
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2899
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October  8, 2005
+
+Job title: Perl programmer for OTRS.org
+
+Company name: OTRS GmbH
+
+Location: Germany, Bavaria, Straubing
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The OTRS GmbH is the commercial part of the OTRS.org project
+(http://otrs.org). We provide support, consulting, training and
+installation CDs for the OTRS trouble ticket system. With well over 12.000
+installations in use, the OTRS is the most successful GPL trouble ticket
+system on the market.
+
+We are looking for Perl programmer for our development department.
+
+Required skills:
+o Strong experience with 
+  o LAMP
+  o MySQL
+  o PostgreSQL
+  o HTML
+  o Apache (mod_perl)
+  o LDAP 
+  o and OTRS .-)
+
+o Good written & oral German communication skills
+
+o Experience with the following is useful:
+    o OTRS architecture / Modul-Development
+    o Asset-Management
+    o Monitoring-Systems
+
+
+URL for more information: http://www.otrs.de/de/about/jobs/
+
+Contact information at:
+http://jobs.perl.org/job/2899#contact
+
+

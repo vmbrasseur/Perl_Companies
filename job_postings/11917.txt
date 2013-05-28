@@ -1,0 +1,105 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11917
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 29805 invoked from network); 6 Dec 2011 00:59:47 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 6 Dec 2011 00:59:47 -0000
+Received: (qmail 31404 invoked by uid 225); 6 Dec 2011 00:59:47 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 31400 invoked by alias); 6 Dec 2011 00:59:47 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 05 Dec 2011 16:59:45 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id BCB6B2AFE0; Mon,  5 Dec 2011 16:59:41 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 5 Dec 2011 16:59:41 -0800
+Message-ID: <20111206005941.BCB6B2AFE0@x3.develooper.com>
+Subject: ANT/Perl scripter, config manager - Pasadena CA ON-SITE (onsite),
+ Pasadena, CA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15220
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December  5, 2011
+
+Job title:
+ANT/Perl scripter, config manager - Pasadena CA ON-SITE
+
+Company name: CambridgeWebmaster.com
+
+Location: Pasadena, CA
+
+Pay rate: Please tell us your hourly rate
+
+Terms of employment: Hourly employee
+
+Length of employment: 3-6 months
+
+Hours: Flexible
+
+Onsite: yes
+
+Description:
+Please let us know your availability, hourly rates, discount hourly for an
+extended project like this that is 3-6 months, and send resume.
+
+If you have friends who are qualified, please have them submit as well. 
+
+Developers must be US based and able to commute to Pasadena, CA.
+
+Client preference is to have 2-4 people in their Pasadena office 9-5
+mon-fri for 3-6months, starting next week.  We have a system architect who
+will be there managing it, so 2 Junior levels and 2 Seniors are fine.
+
+It may be possible if the person is only there 3 or 4 days a week, and the
+people overlap the days they are there.. TBA from client.  The ideal is 9-5
+full time on site mon-fri.
+
+We are trying to see if client will let this work remotely with only 1 day
+in Pasadena a week... TBA from client, 15% chance. Client's ideal is
+full-time on site.
+
+This is a new project, it was just green-lit and contracted. Ideally they'd
+love to begin in about a week, if that is possible.
+
+Start: asap, in about a week (if possible). (I am sure that they understand
+Holidays put a break in things in 3 weeks).
+Duration: 3-6 months
+Time: 5 days per week, ideally 9-5 (flexible based on traffic ease)
+Location: Pasadena, CA.  On-site mostly, I believe some tele-commuting is
+fine.
+
+Skills needed & details of project: ANT/Perl scripting, and configuration
+/configuration management.  Will be working on highly secure servers and so
+need to know how to do high security stuff.
+
+This is large enterprise software that needs automation.  An example of a
+script the architect might ask the developer to do might be, "create a
+port, open the port, detect the items, copy what is there, move the items,
+rename the items, put items in folder, make 2 copies, push to an ip
+address, make sure they got there, have an error system if any issues, and
+report back in the end."  It is taking the current 30 hours of manual labor
+and simplifying it into a 5 minute script-run process.
+
+This deals with sensitive data, it must be highly secure.  Since it is not
+on a cloud server and no VPN access, at least some or all work will be done
+On Site.
+
+Required skills: ANT/Perl scripting, configuration management
+
+Desired skills: ANT/Perl scripting, configuration management
+
+Contact information at:
+http://jobs.perl.org/job/15220#contact

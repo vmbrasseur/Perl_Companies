@@ -1,0 +1,132 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8379
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 26175 invoked from network); 1 Jul 2008 01:13:21 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 1 Jul 2008 01:13:21 -0000
+Received: (qmail 32255 invoked by uid 225); 1 Jul 2008 01:13:20 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 32248 invoked by alias); 1 Jul 2008 01:13:20 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 30 Jun 2008 18:13:15 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 595912AFDF; Mon, 30 Jun 2008 18:13:12 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080701011312.595912AFDF@x3.develooper.com>
+Date: Mon, 30 Jun 2008 18:13:12 -0700 (PDT)
+Subject: QA Architect - (Perl Expert) (onsite), United States, CA, San Jose
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8122
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 30, 2008
+
+Job title: QA Architect - (Perl Expert)
+
+Company name: LogLogic, Inc.
+
+Location: United States, CA, San Jose
+
+Pay rate: DOQ
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+LogLogic™ provides the world's leading enterprise-class platform for
+collecting, storing, reporting and alerting on 100 percent of IT log data
+from virtually any device, operating system or application. LogLogic R4 LX
+and ST appliances address the compliance, operations and risk mitigation
+needs of the most demanding Fortune and Times 1000 companies globally.
+LogLogic's innovations include creating the world's first search engine for
+fast moving IT log data and Compliance Suites that automate using that data
+to enforce critical controls and regulations. LogLogic has won multiple
+awards including 2006 AlwaysOn Top 100 Private Company, Best of Interop
+2005, SC Magazine's "Best Computer Forensics," Info Security's "Hot Company
+2006," and the Red Herring 100. In 2007, LogLogic was named a leader in the
+Magic Quadrant report form a leading analyst firm.
+
+With more than 300% year-on-year growth, LogLogic is one of Silicon
+Valley’s hottest pre-IPO companies and is backed by Sequoia Capital,
+TeleSoft Partners, WorldView Technology Partners, and Invesco. These are
+top-tier venture capital firms with long track records of success shared by
+founders and employees they have backed.  More information on LogLogic can
+be found at www.loglogic.com.
+
+QA Architect
+
+As a member of the Quality Engineering team, you will be responsible for
+the design, development and maintenance of modular, extensible and reusable
+test automation harness and scripts.  The ideal candidate will have good
+knowledge of Software Development Life Cycle; extensive experience in QA
+process, methodologies, and best practices; hands-on skills with test
+automation tools for functional, performance and load testing.	As a QA
+architect your responsibility will be to champion both the manual and
+automation test architecture. You will work with development to understand
+Loglogic product in depth including evaluating, investigating, analyzing
+testability, proposing and developing testing solutions and techniques to
+ensure total test coverage. You will also participate in testing, writing
+tools, and automating test scenarios.
+
+Location: This position will be based at the company's headquarters,
+located in San Jose.
+
+Responsibilities:
+• Develop a testing architecture for our software suites
+• Plan implementation with clear milestones set
+• Create an integrated testing system using different testing tools and
+methodologies
+• Develop comprehensive tests that maximize code coverage
+• Develop test plans from functional specifications
+• Lead project in a distributed environment
+• Work with Open source ISVs to drive a common testing architecture
+• Define quality metrics and make decisions on release readiness
+
+
+Required skills:
+Requirements:
+• Strong programming skills in Java and/or C required
+• BSCS degree required, MS preferred
+• 10+ years experience in software engineering (software development or QA)
+
+• 8+ years experience testing software and developing test tools with a
+strong emphasis on Automation
+• 4+ years in QA architecting role
+• Knowledge of one or more commercial and open source testing tools, such
+as QTP, Mercury, selenium, Watir, Jmeter, Junit
+• Must have strong knowledge of networking fundamentals, debugging and
+troubleshooting skills
+• ***Expert in Perl and one of the following languages: Watir/Ruby, C/C++,
+Java, Python
+• Demonstrated knowledge of implementing and maintaining Test Automation
+Frameworks and Object Oriented Programming concepts such as Java, C/C++
+• Expertise with Linux, Unix, Windows, and Database
+• Experience with software development cycle and QA best practices
+• Ability to work multi-tasking with keen approach to problem solving
+• Familiar with different open-source tools and its benefits
+• Knowledge of security and vulnerability/penetration testing is desired
+• Excellent problem solving skills
+• Excellent verbal and written skills
+• Versatile in both manual and automation test
+
+
+Contact information at:
+http://jobs.perl.org/job/8122#contact
+
+

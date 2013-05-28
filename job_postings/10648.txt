@@ -1,0 +1,75 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10648
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 29842 invoked from network); 21 Oct 2010 07:08:50 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 21 Oct 2010 07:08:50 -0000
+Received: (qmail 16327 invoked by uid 225); 21 Oct 2010 07:08:50 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 16321 invoked by alias); 21 Oct 2010 07:08:50 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 21 Oct 2010 00:08:48 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 8AC9E2AFE1; Thu, 21 Oct 2010 00:08:44 -0700 (PDT)
+To: jobs@perl.org
+Date: Thu, 21 Oct 2010 00:08:44 -0700
+Message-ID: <20101021070844.8AC9E2AFE1@x3.develooper.com>
+Subject: Senior Perl Guru (onsite), Australia, Melbourne
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13080
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 21, 2010
+
+Job title: Senior Perl Guru
+
+Company name: realestate.com.au
+
+Location: Australia, Melbourne
+
+Pay rate: $700+ (AUD) per day
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: 6 months
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Based in our Melbourne offices, you will be assisting an experienced
+development team with major projects on our back-end systems.
+
+You must have some serious experience with test-driven development, pairing
+and be comfortable working in a fast paced agile (XP) environment.
+
+You should have strong experience delivering projects in Perl plus either
+Java or Ruby.
+
+With your resume/CV, please include a link to some Perl code you have
+written.
+
+Exceptional international candidates will be considered.
+
+Role includes free beer & pizza on a Friday :)
+
+
+Required skills: Perl 5.x, mod_perl, Test::More.
+
+Desired skills:
+Ruby, Java, Cucumber, RSpec, RESTful webservices, JUnit.
+
+Contact information at:
+http://jobs.perl.org/job/13080#contact

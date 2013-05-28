@@ -1,0 +1,125 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12697
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 26642 invoked from network); 27 Aug 2012 23:36:24 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 27 Aug 2012 23:36:24 -0000
+Received: (qmail 8873 invoked by uid 225); 27 Aug 2012 23:36:23 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 8869 invoked by alias); 27 Aug 2012 23:36:23 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 27 Aug 2012 16:36:20 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 98EEF2AFDF; Mon, 27 Aug 2012 16:36:17 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 27 Aug 2012 16:36:17 -0700
+Message-ID: <20120827233617.98EEF2AFDF@x3.develooper.com>
+Subject: Security Analyst IV - Sytems Programmer and Integration Specialist
+ (onsite), University Of California, Berkeley, CA 94720, USA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16392
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 27, 2012
+
+Job title:
+Security Analyst IV - Sytems Programmer and Integration Specialist
+
+Company name: University of California, Berkeley
+
+Internal ID: 14251
+
+Location: University Of California, Berkeley, CA 94720, USA
+
+Pay rate: $95580 - $116820 USD
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Departmental Overview
+
+System and Network Security (SNS) is responsible for leading IT security
+for the UC Berkeley campus.  Responsibilities include evaluating,
+designing, implementing and maintaining security programs and systems to
+enable departments to comply with campus policy, standards and best
+practices.  SNS coordinates with IT Policy, providing input on the
+development of campus policy, security exceptions, and incident response. 
+SNS provides campus leadership on IT security issues, including training
+and outreach initiatives.  SNS coordinates with peers across higher
+education institutions to share information and approaches to solve IT
+security challenges.
+
+Position Overview
+
+The primary focus for this career appointment is system integration. 
+Security operations generates or receives a vast quantity of data about
+systems, networks, and activities on these networked systems.  Bringing
+this data together to identify actionable security events and generate
+relevant security metrics is an interesting challenge we face.	This
+position will be one of the lead data wranglers to design and implement new
+and better ways to integrate this security data.  A strong combination of
+system analysis, system integration, and programming skills are required.
+The successful candidate must be able to implement well-designed, modular
+systems using all usual best practices of software development in modern
+perl. In addition, the position will be able to provide backup on
+operational areas, especially Linux system administration.  As a member of
+System and Network Security you will be part of growing team of campus
+security professionals that operate and implement security services for the
+University of California, Berkeley.
+
+Primary Responsibilities
+
+Analyze all data sources, internal and external to the group
+Design efficient and cost-effective methods for normalizing and combining
+data using modern perl
+Design, test and promote to production monitors to automatically alert on
+high-confidence alerts
+Design and implement tools to present to other security analysts all
+relevant data in order to make judgment calls for grey-area alerts
+Develop and implement tools and procedures for deploying and maintaining
+secure configurations on SNS internal systems
+Work with other SNS staff to maintain integrity and functionality of SNS
+systems and services
+Perform additional incidental IT security and operational support duties as
+assigned
+
+Required skills:
+Exceptional system design and system integration experience and ability,
+including dealing with large volumes of structured and semi-structured data
+
+Very strong programming experience in MODERN perl 
+Database development experience (PostgreSQL strongly preferred)
+Experience with system administration on linux (RHEL-derived distros
+preferred) and strong knowledge of security best practices for linux system
+administration
+Basic to intermediate networking knowledge and experience (core IPv4, IPv6
+concepts: IP protocols, firewalls, packet capture techniques)
+Basic knowledge of encryption theory and practice
+Passion for system architecture and writing clean, maintainable code 
+Strong interest in IT security
+Clear, concise writing ability
+
+Desired skills:
+Web development using Catalyst
+Experience using the RT ticketing system and the perl-based RT API
+Logging, log correlation technologies, and SIEMs (rsyslog, syslog-ng,
+Splunk, ArcSight)
+
+Contact information at:
+http://jobs.perl.org/job/16392#contact

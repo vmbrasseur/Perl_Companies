@@ -1,0 +1,132 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11121
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 2445 invoked from network); 21 Mar 2011 21:52:56 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 21 Mar 2011 21:52:56 -0000
+Received: (qmail 15889 invoked by uid 225); 21 Mar 2011 21:52:56 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 15885 invoked by alias); 21 Mar 2011 21:52:56 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 21 Mar 2011 14:52:51 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 2467C2AFE2; Mon, 21 Mar 2011 14:52:48 -0700 (PDT)
+To: jobs@perl.org
+Date: Mon, 21 Mar 2011 14:52:48 -0700
+Message-ID: <20110321215248.2467C2AFE2@x3.develooper.com>
+Subject: Perl/Web UI Developer - Investment Bank (onsite), United Kingdom,
+ London (5 days/week on-site)
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13884
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 21, 2011
+
+Job title: Perl/Web UI Developer - Investment Bank
+
+Internal ID: 630991
+
+Location: United Kingdom, London (5 days/week on-site)
+
+Pay rate: £70-90,000 + bonus + bank bens
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Role: Perl/Web UI Developer
+Location: London
+Salary: £75-90,000 + bonus + bank bens
+
+Role Description:
+Perl / Web UI Developer for a leading global investment bank. This is a new
+team formed of experienced engineers from a number of application hosting
+platforms. While successful, each hosting platform had varying levels of
+maturity in automation, self service and application management concepts.
+The goal is to standardize application hosting infrastructures through the
+implementation of a modular platform which provides a rich interface to
+service teams. In other words, putting in place a framework for software
+experts to provide their software as a service.
+
+The first release of the platform has been designed around one of the most
+complex services, and already has a high degree of separation between
+management of core service hosting processes and the software specific
+processes. They are looking to mature this and extend the core feature set
+to bring on board more services.
+
+The platform will be providing the framework as a set standard interfaces
+to service specialist teams which in turn host and manage a large number of
+applications, many of which will be business critical.
+
+Key Responsibilities:
+
+Portal Framework Engineers are responsible for designing and implementing
+the web application to meet business requirements. Working closely with the
+core system engineers to make use of and influence the direction of the
+system API for Portal requirements. 
+
+• Working closely with core system engineers in the team to make use of,
+and influence the direction of the sytem API for Portal requirements.
+• Maintain the framework within the Portal development cycle to enable
+service teams to develop service specific views.
+• Understand the business requirements to drive the hosting framework
+strategy forward.
+• Represent the services vision and present to stakeholders at all levels.
+• Collaboration with service teams at a technical level to assist them in
+utilising the framework and refining their requirements.
+• Continuously asses the security, stability and performance of the Portal.
+
+• Assist with problem escalations from support teams and service engineers.
+
+• Testing within the test framework (unit tests and end to end testing).
+• Keeping documentation up to date.
+
+Candidate requirements 
+
+You will have: 
+• Object Oriented Perl (mod_perl desirable, TemplateToolkit)
+• Web Application Development (CSS, AJAX (JSON), JS (jquery), REST, XML)
+• Security concepts (XSS, application testing, hardening)
+• Unix (Solaris / Linux)
+• SQL (Oracle / MySQL)
+• Experience in a large automated hosting environment
+• Experience in developing web based interfaces to hosting environments
+• Strong communication and presentation skills
+
+
+You will be:
+• Passionate about technology and in touch with industry trends in hosting,
+soa (saas) and web application.
+• An articulate and confident participant in all levels of collaboration.
+• A perfectionist who strives for precision and stability in their product.
+
+• A good listener who is also able to promote their vision and influence at
+all levels.
+• Able to prioritise workloads based on a good understanding of the
+business.
+• A key player in shaping the vision and functionality of the portal
+framework, and driving its adoption.
+
+Required skills:
+OO perl
+Genuine passion for the technology
+perl internals
+Portal framework development
+Javascript, AJAX, YUI, JQuery etc.
+
+Contact information at:
+http://jobs.perl.org/job/13884#contact

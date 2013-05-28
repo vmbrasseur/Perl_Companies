@@ -1,0 +1,112 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13019
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13756 invoked from network); 4 Jan 2013 13:36:25 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 4 Jan 2013 13:36:25 -0000
+Received: (qmail 7661 invoked by uid 225); 4 Jan 2013 13:36:24 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 7657 invoked by alias); 4 Jan 2013 13:36:24 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 04 Jan 2013 05:36:22 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id B1C052AFDE; Fri,  4 Jan 2013 05:36:18 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 4 Jan 2013 05:36:18 -0800
+Message-ID: <20130104133618.B1C052AFDE@x3.develooper.com>
+Subject: Perl Developer (part onsite), Duesseldorf area, Germany
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16716
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January  4, 2013
+
+Job title: Perl Developer
+
+Company name: Acctopus GmbH
+
+Internal ID: 2012_17
+
+Location: Duesseldorf area, Germany
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+About us:
+Acctopus GmbH (Kaarst, Germany) has build a combined solution for
+Authentication Server (AAA), a policy Server (PCRF) and a Data only OCS,
+interfacing customer's access technologies (CSD, 2G/3G/4G LTE), billing
+systems (IN Systmes, TopUp protals, CRM systems...) to aid the increasing
+need for flexible tariffs and ticket systems in the Mobile Operator market.
+
+Depending on the type of used systems, the Policy server and the OCS are
+capable to handle millions of subscriber, sessions and subscriptions,
+resulting in millions of tpm.
+The solution ist a AllInOneBox solution, but might also be implemented
+within an existing environment, just servind the needed gaps. It is highly
+scalable and might be installed geo-redundant over several datacenter.
+
+Additionally, Acctopus has build one of the markets most flexible test
+systems for mobile access technologies, simulating user's behaviour on
+mobile stations, connected to simulated GGSNs or PGWs in differend usecases
+like roaming or national attaches, to test AAA servers, Policy Servers and
+billing systems.
+
+About you:
+Together with your colleagues, you will design and develop new generation,
+secure, scalable and high performance services for Mobile Network Access
+technologies.
+You collaborate within your team to schedule your technical priorities
+You will answer questions regarding our current products/systems and solve
+problems and issues
+You will gather functional requirements and develop technical
+specifications.
+You turn customer's ideas to real live applications/functions/flows.
+
+Required skills:
+- 2+ years experience in Perl
+- expieriences with Event Loop programming (AnyEvent, POE, Events ...)
+- Familiarity with CPAN
+- Wide demonstrable experience with Object Oriented programming
+- Ability to architect end-to-end solutions in a high-availability
+environment
+- 1+ years MySQL experience, (pref. MySQL Cluster)
+- some Solaris and LINUX system administration skills
+- working independently with minimum supervision
+- pragmatic and pro-active work attitude
+- excellent communication skills
+- residence within commuting distance to Kaarst/Duesseldorf, or willingness
+to relocate to the area.
+- Language skills:
+-- fluent/native English,
+-- or fluent/native German
+-- or fluent/native Dutch (in that case, German or English as second
+Language is required)
+
+Desired skills:
+- Preferably University level in Math or IT
+- Experience working with Mobile operator / Industry
+- familiar with IETF RFCs and 3GPP specification
+- HTML/Javascript/CSS/PHP experience
+- MySQL Cluster
+
+Website for more information: http://www.acctopus.de
+
+Contact information at:
+http://jobs.perl.org/job/16716#contact

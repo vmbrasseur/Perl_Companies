@@ -1,0 +1,101 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8196
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 309 invoked from network); 27 May 2008 16:03:41 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 27 May 2008 16:03:41 -0000
+Received: (qmail 9669 invoked by uid 225); 27 May 2008 16:03:40 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 9663 invoked by alias); 27 May 2008 16:03:40 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 27 May 2008 09:03:36 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 5150B2AFEB; Tue, 27 May 2008 09:03:32 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080527160333.5150B2AFEB@x3.develooper.com>
+Date: Tue, 27 May 2008 09:03:32 -0700 (PDT)
+Subject: Automation Developer, United States, MA, Framingham
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8788
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 27, 2008
+
+Job title: Automation Developer
+
+Company name: Vivox, Inc.
+
+Location: United States, MA, Framingham
+
+Pay rate: depends on experience
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Description:
+We’re looking for smart, experienced Perl/C/C++ programmers/MMOG
+enthusiasts to join our Quality team. If you like to break things and you
+know the land of Perl and/or C like the back of your hand, we need you.
+Online games integrate our rich communications feature set using a C-based
+SDK provided for Mac, Linux and Windows clients. The interfaces game
+developers want to use are vast, varied and growing, so our Quality team
+must be poised to build an ever-growing number of test applications in an
+array of different environments. To do this, we need to find a few key
+innovators to build and add to our test beds, implementing with new
+interfaces as they come rolling in. The work is fun, fast and very high
+impact.
+
+Environment:
+     - Very dynamic development framework (lots of builds, interesting
+tactical customer challenges)
+     - Small development and ops team (lots of direct interaction and team
+discussion on fixes and scheduling)
+     - Early stages of building QA process  (little overhead to get
+started, lots of room for new ideas)
+     - Wide range of technologies, platforms and networks
+
+Main responsibilities:
+     - automation lead on a major project
+     - technical leadership on Perl/C test code design and implementation
+     - prioritizing and designing test scripts
+     - reporting, demonstrating and institutionalizing use
+     - scripting test scenarios large and small
+     - running scripts and reporting results
+     - teaching/mentoring other QAers the use of scripts, reading results,
+etc.
+
+
+Required skills:
+- heavy Perl experience supporting on multiple platforms
+- strong C or C++ programming experience
+- Unix/Linux/Mac scripting
+- demonstrable understanding of distributed systems,  network protocols
+and/or VoIP
+- strong familiarity with testing methodologies, particular for
+API's/parameterized testing
+
+
+Desired skills:
+- experience using SWIG to bridge between C and java, C#, Python or Perl
+- writing multi-client, remote-client and cross-platform
+scripts/applications
+- using Perl’s Test::More, Deep and Simple 
+
+Contact information at:
+http://jobs.perl.org/job/8788#contact
+
+

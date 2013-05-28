@@ -1,0 +1,87 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8536
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 22698 invoked from network); 6 Aug 2008 20:39:54 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 6 Aug 2008 20:39:54 -0000
+Received: (qmail 20463 invoked by uid 225); 6 Aug 2008 20:39:53 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 20458 invoked by alias); 6 Aug 2008 20:39:53 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 06 Aug 2008 13:39:49 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 6D06D2AFE9; Wed,  6 Aug 2008 13:39:46 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080806203946.6D06D2AFE9@x3.develooper.com>
+Date: Wed,  6 Aug 2008 13:39:46 -0700 (PDT)
+Subject: Perl Engineer (onsite), United States, CA, San Francisco
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/9366
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August  6, 2008
+
+Job title: Perl Engineer
+
+Company name: Searchme
+
+Location: United States, CA, San Francisco
+
+Pay rate: DOE
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Length of employment: fte
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Looking for a Jack-of-all-trades Perl engineer, who loves to learn new
+things, and will help to write code which will affect large numbers of
+users of our search engine, as we continue to grow and improve.
+
+Specifically: We are a search engine startup and have several systems
+developed in Perl. Some of these systems need enhancement, some need
+re-architecting, and others are yet to be created. This person will work
+with PhDs and other developers as an integral part of the search engine
+relevance group, developing and enhancing tools covering many areas of web
+search. Including: Large-scale Machine learning/Classification system (note
+– no expectation of machine learning expertise), user judgment collection
+systems, log processing, large-scale distributed URL scanning tools, web
+page parsing tools, general data mining, automatic testing and verification
+systems and others.
+
+
+Required skills:
+Exceptional Perl programmer comfortable with both small (one-off scripts)
+as well as large (dozens of modules written by multiple people) software
+design. Must have an appreciation for practical and efficient code and the
+ability to work work code written by others.
+
+
+Desired skills:
+Prefer experience with HTML parsing, large-scale data-processing, complex
+regular expressions, SQL. Having skills in C++ is also a bonus (although
+not required).
+
+URL for more information: http://www.searchme.com/
+
+Contact information at:
+http://jobs.perl.org/job/9366#contact
+
+

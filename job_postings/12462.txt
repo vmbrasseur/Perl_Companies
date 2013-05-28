@@ -1,0 +1,145 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12462
+Return-Path: <stackpopper26@gmail.com>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 23504 invoked from network); 25 May 2012 04:05:09 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 25 May 2012 04:05:09 -0000
+Received: (qmail 6306 invoked by uid 225); 25 May 2012 04:05:09 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 6301 invoked by alias); 25 May 2012 04:05:09 -0000
+X-Spam-Status: No, hits=-5.7 required=8.0
+	tests=BAYES_00,DKIM_ADSP_CUSTOM_MED,FREEMAIL_ENVFROM_END_DIGIT,FREEMAIL_FROM,NML_ADSP_CUSTOM_MED,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x6.develooper.com (HELO x6.develooper.com) (207.171.7.86)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 24 May 2012 21:05:06 -0700
+Received: from lists-nntp.develooper.com (localhost.localdomain [127.0.0.1])
+	by x6.develooper.com (Postfix) with SMTP id 14B3C1774B
+	for <jobs@perl.org>; Thu, 24 May 2012 21:05:03 -0700 (PDT)
+Received: (qmail 22992 invoked by uid 515); 25 May 2012 04:05:02 -0000
+To: jobs@perl.org
+MBOX-Line: From news@google.com Fri May 25 04:05:02 2012
+Delivered-To: colobus-nntpmod@lists-nntp.develooper.com
+Received: (qmail 22981 invoked from network); 25 May 2012 04:05:01 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 25 May 2012 04:05:01 -0000
+Received: (qmail 6265 invoked by uid 225); 25 May 2012 04:05:01 -0000
+Delivered-To: news-moderator-perl.jobs@perl.org
+Received: (qmail 6228 invoked by alias); 25 May 2012 04:05:00 -0000
+Received: from XVM-90.MIT.EDU (HELO mod-relay.xvm.mit.edu) (18.181.2.90)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 24 May 2012 21:04:56 -0700
+Received: by mod-relay.xvm.mit.edu (Postfix)
+	id B3D881F460; Fri, 25 May 2012 00:04:51 -0400 (EDT)
+Delivered-To: perl-jobs@moderators.isc.org
+Received: from mail-yw0-f69.google.com (mail-yw0-f69.google.com [209.85.213.69])
+	by mod-relay.xvm.mit.edu (Postfix) with ESMTP id 91D671F45A
+	for <perl-jobs@moderators.isc.org>; Fri, 25 May 2012 00:04:51 -0400 (EDT)
+Received: by yhgg71 with SMTP id g71so729077yhg.8
+        for <perl-jobs@moderators.isc.org>; Thu, 24 May 2012 21:04:50 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=x-authentication-warning:to:path:from:newsgroups:subject:date
+         :organization:lines:message-id:nntp-posting-host:mime-version
+         :content-type:content-transfer-encoding:x-trace:x-complaints-to
+         :nntp-posting-date:cc:complaints-to:injection-info:user-agent
+         :x-http-useragent:x-gm-message-state;
+        bh=GVw83ivZk1qULIFuHtrq2E4duOzHXwf3wEKPCUjJdJU=;
+        b=e2QmmAUhmerrFqL/2ioW00kotK374YqzXqz1udBxAfUaRrc3ANPXFl74iWIRe2Xl4Z
+         AIkGucPnxh4Bb2um4dxNVyKXW5Qc/5Xo83ijxL9m3crk4cbjWGPHP9kr8FQMqskMliWp
+         niDgnRfSL6a3fM+0EPfq0ZfY6OrnIxJSRgAZpT48Kzt1gg4ygc2j1tW+/IYkCv1wtlVe
+         0RciaxLb9qtUMUSDuFXRcwtGNcILCpsd2bI2SiVuXyEcDaX6MnKxiaZ3V+za6wSVrYhf
+         e1MwMZXIZUaaSeQO09M03Rm2Ot7xnrdJTncvkQOEgyYY89dC9ooJBrwMkX+S+rZWhh7L
+         aFLg==
+Received: by 10.224.217.200 with SMTP id hn8mr5331575qab.4.1337918690684;
+        Thu, 24 May 2012 21:04:50 -0700 (PDT)
+Received: by 10.224.217.200 with SMTP id hn8mr5331569qab.4.1337918690594;
+        Thu, 24 May 2012 21:04:50 -0700 (PDT)
+Received: from yws13.prod.google.com (yws13.prod.google.com [10.192.19.13])
+        by mx.google.com with ESMTPS id u2si3847062qct.1.2012.05.24.21.04.49
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Thu, 24 May 2012 21:04:50 -0700 (PDT)
+Received: (from news@localhost)
+	by Google Production id q4P44mSH011761
+	for perl-jobs@moderators.isc.org; Thu, 24 May 2012 21:04:48 -0700
+X-Authentication-Warning: yws13.prod.google.com: news set sender to news@google.com using -f
+Date: Thu, 24 May 2012 21:04:47 -0700 (PDT)
+Organization: http://groups.google.com
+Lines: 50
+Message-ID: <fa4ce6ff-41ef-436a-a48c-2de5ea69a9ed@j3g2000yqb.googlegroups.com>
+NNTP-Posting-Host: 76.182.122.148
+Mime-Version: 1.0
+Content-Type: text/plain; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+X-Trace: posting.google.com 1337918688 11760 127.0.0.1 (25 May 2012 04:04:48 GMT)
+X-Complaints-To: groups-abuse@google.com
+NNTP-Posting-Date: Fri, 25 May 2012 04:04:48 +0000 (UTC)
+Cc: stackpopper26@gmail.com
+Complaints-To: groups-abuse@google.com
+Injection-Info: j3g2000yqb.googlegroups.com; posting-host=76.182.122.148; posting-account=KUYwagoAAACI-U5d_s8eFkvVqZE9q50R
+User-Agent: G2/1.0
+X-HTTP-UserAgent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1;
+ Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152;
+ .NET CLR 3.5.30729; .NET4.0C; .NET4.0E; InfoPath.2),gzip(gfe)
+X-Gm-Message-State: ALoCoQn5duKy+mjXailPeuQaOKiFcwWies9fBFH8ZoSrn/QanjwUiGkLevsElCk3Lp3Qe0y6d3vpoRkvhUSdW/HMqGzSGNi0VZcrHcnyzXrwANGc1oYccBQv5Bv6kDoOrUnaNTebghEgggZI1X5BH07ylU0uRQ0syg==
+X-Posted-By: 207.171.7.86
+X-Old-Spam-Check-By: la.mx.develooper.com
+X-Old-Spam-Status: No, hits=-5.3 required=8.0
+	tests=BAYES_00,DKIM_ADSP_CUSTOM_MED,FREEMAIL_FROM,NML_ADSP_CUSTOM_MED,RCVD_IN_DNSWL_HI,SPF_SOFTFAIL
+Subject: Perl Developer - Automation Engineer. Wilson/Raleigh, NC
+Approved: news@nntp.perl.org
+From: stackpopper26@gmail.com (Tim Webb)
+
+This job has been to the Perl Jobs board because we are looking for a
+strong Perl Developer. This is a full-time position in Wilson/Raleigh,
+NC. Salary DOE/Qualifications.
+
+Qualified candidates should apply at www.bbt.com then click on
+careers, then search for jobs. Use requisition number 379242.
+
+Job Requisition Number: 379242
+
+Automation Engineer (=93Strong Software Developer=94)
+Responsibilities
+=95	Work with internal customers to develop software to meet business
+objectives
+=95	Participate in product definition phases and provide timely input on
+implementation requirements and time estimates
+=95	Creation of proof-of-concepts / prototypes
+=95	Work Entire SDLC: analysis, design, testing, implementation,
+enhancements
+=95	Make systems redundant, scalable, high performance
+=95	Willing and able to work in many areas of the software
+=95	Coordinate with other Automation Engineers working on adjacent
+functional areas
+=95	Delivery of deployment-quality code
+Education
+=95	M.S. Computer Science/Electrical Engineering or equivalent
+combination of education and experience.
+Business Requirements
+=95	Exceptional communication skills
+=95	Excellent documentation skills
+=95	Enjoys working in a team environment
+Technical Requirements
+=95	7+ Years Software Development Experience
+=95	Scripting Languages: Tcl/Expect, Perl, PHP, Ruby, VbScript,
+JavaScript, Bash
+=95	Markup Languages HTML, XHTML, XML, CSS
+=95	Database =96 MySQL, Informix, MS SQL Server 2008, MS Access
+=95	Protocols =96 IP, SOAP, SNMP, SSH, Telnet, HTTP
+=95	Language Familiarity: C, C++, or Java
+=95	Optional/Preferred
+o	HP NAS/NNM
+o	Nagios, MRTG, RRDtool
+o	Cisco Unified Communications Manager, Unity, and CER
+Previous Experience
+=95	Experience automating complex tasks in enterprise environment
+=95	Network or IP Voice Operations or Engineering experience
+=95	Proven track record of delivering solutions with little oversight
+(Entire SDLC)
+=95	Server and Desktop System Administration
+Certification
+=95	Cisco CCNP/CCNA
+

@@ -1,0 +1,117 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13376
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 22262 invoked from network); 3 May 2013 23:15:35 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 3 May 2013 23:15:35 -0000
+Received: (qmail 32582 invoked by uid 225); 3 May 2013 23:15:35 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 32578 invoked by alias); 3 May 2013 23:15:34 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,LOTS_OF_MONEY
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 03 May 2013 16:15:29 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 271532AFE0; Fri,  3 May 2013 16:15:26 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 3 May 2013 16:15:25 -0700
+Message-ID: <20130503231526.271532AFE0@x3.develooper.com>
+Subject: Senior Perl Developer (onsite), Fleet, Hampshire
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17349
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May  3, 2013
+
+Job title: Senior Perl Developer
+
+Company name: CV-Library
+
+Internal ID: 113585803
+
+Location: Fleet, Hampshire
+
+Pay rate: £45,000-55,000
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+CV-Library is looking for a an experienced and skilled Senior Perl
+Developer to help with the continuing expansion of the UK's fastest growing
+job board. 
+
+As a senior developer you will have an in depth knowledge of Modern Perl
+and object-oriented programming. You believe in best practices and tests
+(sometimes developing using TDD). You are equally happy adding new features
+or refactoring legacy code to improve the overall architecture. You enjoy
+learning new technologies and coaching/mentoring your fellow developers.
+
+Essential skills:
+
+* OO Perl with Moose and DBIx::Class
+* Apache / Nginx
+* SQL (MySQL)
+* Linux
+* Version control (ideally with Git)
+
+Experience with any following would be advantageous:
+
+* Solr
+* Template Toolkit
+* Plack
+* Javascript (JQuery)
+
+Our development team performs code review (with Gerrit) and continuous
+integration (with Jenkins running our Test::Class unit tests) to increase
+code quality. We use commit hooks with Perltidy and Perl::Critic and we
+have daily standups, and weekly demos and retrospectives.
+
+The team enjoy a quiet working environment with:
+
+* High quality dual monitors
+* High spec PC
+* Laid back dress code
+
+We are based at the Waterfront Business Park, Fleet, just a 2 minute walk
+away from the mainline station with direct links to London Waterloo,
+Basingstoke, Winchester and Southampton.
+
+CV-Library is one of the UK's largest online job sites and attracts over
+2.2 million unique users every month. Over 140,000 people register to find
+jobs with us every month and make over 1,000,000 job applications, making
+us a must have service for the recruitment industry and cementing our
+position as the fastest growing job board in the UK.
+
+Required skills:
+* OO Perl with Moose and DBIx::Class
+* Apache / Nginx
+* SQL (MySQL)
+* Linux
+* Version control (ideally with Git)
+
+Desired skills:
+* Solr
+* Template Toolkit
+* Plack
+* Javascript (JQuery)
+
+Website for more information:
+http://www.cv-library.co.uk/uk-jobs/113585803/search-perl/Fleet-Hampshire/S
+enior-Perl-Developer-Job.html
+
+Contact information at:
+http://jobs.perl.org/job/17349#contact

@@ -1,0 +1,95 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7936
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 1698 invoked from network); 4 Apr 2008 19:18:22 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 4 Apr 2008 19:18:22 -0000
+Received: (qmail 16890 invoked by uid 225); 4 Apr 2008 19:18:21 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 16882 invoked by alias); 4 Apr 2008 19:18:21 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 04 Apr 2008 12:18:17 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 4257A2AFCD; Fri,  4 Apr 2008 12:18:14 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080404191814.4257A2AFCD@x3.develooper.com>
+Date: Fri,  4 Apr 2008 12:18:14 -0700 (PDT)
+Subject: Perl Developer (part onsite), United States, MI, Southfield
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8358
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April  4, 2008
+
+Job title: Perl Developer
+
+Company name: ITRAYS INC
+
+Internal ID: ITRTA PERL
+
+Location: United States, MI, Southfield
+
+Pay rate: USD
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: 2+ Years
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+The architecture will provide a GUI framework, the ability to model and
+manipulate data, and a deployment mechanism with full version control. The
+team is looking for an experienced application build master with knowledge
+of software configuration, build engineering, and Perl applications
+development to support and improve builds and production deployments.
+
+
+Required skills:
+•Minimum four years experience as a build master
+•Identify and implement processes to strengthen, streamline, and automate
+build processes
+•Experience in software development, SCM practices, software build
+technologies, and release management methodologies
+•Strong Windows, LINUX, and UNIX experience
+•Knowledge of C/C++, JAVA, C# compilers and linkers a must
+•Troubleshoot and resolve build issues, so basic understanding of C++, C#,
+Java is necessary
+•Knowledge of ANT, MAKE, or NAnt build technologies is required
+•Manage source code version control, CVS is required
+•Experience with process automation using scripting languages. Perl is a
+must and C# is a plus.
+•Knowledge of relational databases is required with DB2 a plus
+•Create deployment tools for major/minor/patch release to customers
+•Interface with developers, quality assurance, and production support to
+ensure reliable and successful configuration management
+•Detail oriented, with strong communication, interpersonal, and
+documentation skills
+
+
+Desired skills:
+•Produce automated software build and releases using a variety of open
+source, scripting, and proprietary tools
+
+
+URL for more information: http://www.itrays.com/
+
+Contact information at:
+http://jobs.perl.org/job/8358#contact
+
+

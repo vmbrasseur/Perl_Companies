@@ -1,0 +1,71 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12299
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 29981 invoked from network); 4 Apr 2012 22:58:24 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 4 Apr 2012 22:58:24 -0000
+Received: (qmail 5775 invoked by uid 225); 4 Apr 2012 22:58:24 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 5771 invoked by alias); 4 Apr 2012 22:58:23 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 04 Apr 2012 15:58:21 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id BB5E92AFE4; Wed,  4 Apr 2012 15:58:17 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 4 Apr 2012 15:58:17 -0700
+Message-ID: <20120404225817.BB5E92AFE4@x3.develooper.com>
+Subject: Perl Software Engineer (onsite), Sheffield, South Yorkshire, United
+ Kingdom
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/10286
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April  4, 2012
+
+Job title: Perl Software Engineer
+
+Company name: Credit Style Limited
+
+Location: Sheffield, South Yorkshire, United Kingdom
+
+Pay rate: 20-25K depending upon experience
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are looking for a developer to join a small IT team for a growing credit
+control company in Sheffield. Candidates must have some formal education in
+programming as well as 1-2 years production development experience.
+
+The role will be roughly an equal mix of project work, existing system
+support and general day to day query resolution. The successful candidate
+will communicate well and have the ability to work as part of a team whilst
+contributing their own solutions to problems.
+
+Required skills: Perl, CGI, SQL.
+
+Desired skills:
+Database (postgres), javascript, templating (currently we use
+HTML::Template), version control (subversion or similar) and linux.
+Knowledge of design principles such as MVC, OO and frameworks.
+
+Website for more information: http://www.creditstyle.co.uk/
+
+Contact information at:
+http://jobs.perl.org/job/10286#contact

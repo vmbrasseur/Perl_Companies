@@ -1,0 +1,92 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6287
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 3441 invoked from network); 14 May 2007 13:41:39 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 14 May 2007 13:41:39 -0000
+Received: (qmail 12743 invoked by uid 225); 14 May 2007 13:41:38 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 12725 invoked by alias); 14 May 2007 13:41:38 -0000
+X-Spam-Status: No, hits=0.0 required=8.0
+	tests=BAYES_50,DKIM_POLICY_SIGNSOME,DK_POLICY_SIGNSOME,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 14 May 2007 06:41:21 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id CB74C2AFDA; Mon, 14 May 2007 06:41:17 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070514134117.CB74C2AFDA@x3.develooper.com>
+Date: Mon, 14 May 2007 06:41:17 -0700 (PDT)
+Subject: Perl Developer (onsite), United Kingdom, London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5788
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 14, 2007
+
+Job title: Perl Developer
+
+Company name: Online Galleries
+
+Internal ID: DEV05
+
+Location: United Kingdom, London
+
+Pay rate: £30,000 to £35,000
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Online Galleries are hiring again.  We're looking for someone to join a 3
+person team to build, extend and maintain a selection of websites for art
+and antique dealers.
+
+You'll need to know the usual sort of stuff - Perl (including TT), MySQL,
+Apache, Linux.	We're using (and extending) the Metadot CMS, so if you've
+seen it before then that's an advantage - but if you haven't then don't
+worry, it's easy to pick up.
+
+Our offices are in Hoxton Square (nearest tube is Old Street).	We have an
+hour of flexitime, so you can start at any time up to ten if mornings
+aren't your speciality.  We're offering a salary of 30-35k depending on
+ability and/or experience.
+
+There's some info about Online Galleries here:
+http://onlinegalleries.com/
+
+This is our main website project:
+http://cinoa.org/
+
+(CINOA is an international federation of national associations of art and
+antique dealers - we also run sites for some of the national associations,
+and for a rapidly increasing number of individual dealers)
+
+
+UK residents only please, and direct applicants only.  That means NO
+AGENCIES, thank you.
+
+
+Required skills:
+Perl (including Template Toolkit), MySQL, Linux, HTML
+
+Desired skills: Metadot, Subversion
+
+Contact information at:
+http://jobs.perl.org/job/5788#contact
+
+

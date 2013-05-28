@@ -1,0 +1,94 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8769
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8102 invoked from network); 25 Oct 2008 07:32:16 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 25 Oct 2008 07:32:16 -0000
+Received: (qmail 30481 invoked by uid 225); 25 Oct 2008 07:32:16 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 30477 invoked by alias); 25 Oct 2008 07:32:16 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 25 Oct 2008 00:32:14 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 849602AFEF; Sat, 25 Oct 2008 00:32:09 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20081025073210.849602AFEF@x3.develooper.com>
+Date: Sat, 25 Oct 2008 00:32:09 -0700 (PDT)
+Subject: Condor Project Open Positions (onsite), United States, Wisconsin, Madison
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/9818
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 24, 2008
+
+Job title: Condor Project Open Positions
+
+Company name: UW-Madison Condor Project
+
+Location: United States, Wisconsin, Madison
+
+Pay rate: Varied 
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Length of employment: Permanent
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The Condor Project, a cutting-edge distributed computing research project
+at the University of Wisconsin-Madison, doesn’t live in an ivory tower, but
+produces working software used around the world by scientists and industry.
+We’re hiring four positions:
+
+1) A C/C++ programmer to help us develop Condor, a distributed resource
+management system that lets users manage hundreds or thousands of jobs that
+can be distributed across computers locally or across the world. We need
+someone who enjoys systems-level programming. Most of our programming is
+done on Linux, but we also developer for Windows and a variety of other
+Unix flavors.
+
+2) A Perl/shell programmer to help us build and package the VDT, a package
+of complex “grid” software used as part of our Open Science Grid
+collaboration. The VDT is is used by scientists around the world to
+distribute their computations. OSG is a production grid that runs hundreds
+of thousands of hours of computations daily. 
+
+3) A Perl/shell programmer to help us build the Metronome build and test
+software. We run a facility that allows software developers to build and
+test their software on a wide variety of platforms. We manage the facility
+with Condor (of course!), and there is a large infrastructure on top of
+Condor to track the builds, tests, and platforms.
+
+4) A system administrator to help us maintain our systems. We deploy Condor
+in our department and across campus on thousands of computers. We need
+system administrators that feel as comfortable debugging a broken OS
+installation as they do purchasing large quantities of hardware. 
+
+
+Required skills:
+C/C++
+Perl
+
+
+URL for more information: http://www.cs.wisc.edu/condor/jobs.html
+
+Contact information at:
+http://jobs.perl.org/job/9818#contact
+
+

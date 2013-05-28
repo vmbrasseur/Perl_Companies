@@ -1,0 +1,113 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:1905
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 29820 invoked from network); 10 Sep 2004 19:40:17 -0000
+Received: from x1.develooper.com (63.251.223.170)
+  by lists.develooper.com with SMTP; 10 Sep 2004 19:40:17 -0000
+Received: (qmail 13290 invoked by uid 225); 10 Sep 2004 19:40:17 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 13286 invoked by alias); 10 Sep 2004 19:40:16 -0000
+X-Spam-Status: No, hits=-4.9 required=8.0
+	tests=BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.dev) (63.251.223.163)
+  by la.mx.develooper.com (qpsmtpd/0.27.1) with ESMTP; Fri, 10 Sep 2004 12:40:14 -0700
+Received: from x3.dev (localhost.localdomain [127.0.0.1])
+	by x3.dev (8.12.11/8.12.11) with ESMTP id i8AJeBg6002306
+	for <jobs@perl.org>; Fri, 10 Sep 2004 12:40:11 -0700
+Received: (from jobs@localhost)
+	by x3.dev (8.12.11/8.12.11/Submit) id i8AJeBGg002304;
+	Fri, 10 Sep 2004 12:40:11 -0700
+Date: Fri, 10 Sep 2004 12:40:11 -0700
+Message-ID: <200409101940.i8AJeBGg002304@x3.dev>
+X-Authentication-Warning: x3.dev: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Twiki debugging (telecommute), telecommute
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1797
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 10, 2004
+
+Job title: Twiki debugging
+
+Company name: Cubehut
+
+Internal ID: none
+
+Location: telecommute
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: short project
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+About 6 months ago, I had a developer write a "fast save" option for my
+twiki.	It simply skipped the "preview" button and saved directly.
+
+All worked well for several months.  Then we started seeing errors on
+saving.  I've had a developer spend a lot of time debugging and he came to
+the conclusion that there's a problem with the webserver.
+
+Since this was on a hosted server, we moved to a dedicated server.  The
+problem continued.
+
+We've done a fresh reinstall (several times, on both the old server, and
+the new one), and its still there.
+
+We're not sure if our data is corrupted, or if the issue is something else.
+ We're at wits end.
+
+The error only appears intermittently, and particularly happens when
+editing different twiki webs - less so on the same web.  Its almost like it
+just happens only once per session per web.
+
+This is the full error which appears:
+
+Inproper use of the save script 
+You cannot call this script directly, TWikibeta uses it internally. 
+Some browser configurations occasionally send undefined data to the server.
+Don't worry, your changes are not lost. Just click the Back button on your
+browser and then try Save again. 
+
+The other possibility is an internal error in TWikibeta configuration, or
+that you did not have write access to the directory or file that was being
+edited. 
+
+Please go back in your browser and save the topic. 
+
+If someone is interested in helping with this on a paid basis, please email
+me at twikihelp@tasdevil.com.  I am happy to work out a rate that is fair
+for your time, and can pay by paypal or however you prefer.  Additionally I
+have additional work that comes up if you're interested.
+
+redhat enterprise, kernel 2.4.22-1.2199.nptlsmp
+
+Apache: 1.3.31 (Unix)
+
+5.8.4
+
+xp
+
+
+Required skills: perl, apache
+
+Desired skills: twiki
+
+Contact information: perl.org@tasdevil.com
+
+

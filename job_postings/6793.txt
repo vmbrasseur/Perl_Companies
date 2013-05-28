@@ -1,0 +1,119 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6793
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 24507 invoked from network); 14 Aug 2007 18:53:04 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 14 Aug 2007 18:53:04 -0000
+Received: (qmail 2156 invoked by uid 225); 14 Aug 2007 18:53:02 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 2089 invoked by alias); 14 Aug 2007 18:52:58 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 14 Aug 2007 11:52:42 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id DF5AF2AFD8; Tue, 14 Aug 2007 11:52:18 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070814185218.DF5AF2AFD8@x3.develooper.com>
+Date: Tue, 14 Aug 2007 11:52:18 -0700 (PDT)
+Subject: Senior Web Developer (LAMP) (onsite), United States, CA, Berkeley
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/6473
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 14, 2007
+
+Job title: Senior Web Developer (LAMP)
+
+Company name: The Berkeley Electronic Press (bepress)
+
+Location: United States, CA, Berkeley
+
+Pay rate: DOE
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The Berkeley Electronic Press (bepress) provides cutting-edge, Web-based
+solutions for the academic and scholarly community. We have a number of
+products and services, including 36 (and counting) high-quality
+peer-reviewed journals, as well as the world's leading hosted institutional
+repository service -- "DigitalCommons". Our products are licensed by
+institutions around the world, including the University of California,
+Yale, Harvard, Columbia, Oxford, the World Bank, and the IMF.
+
+We are a successful fast-growing Berkeley-based company with 35 employees,
+a collaborative work environment where technical and non-technical
+colleagues work together to create great software, serve our customers and
+create the future of academic publishing and scholarly communications
+solutions.
+
+
+We are currently looking for an experienced Web Programmer with substantial
+Perl experience. We're looking for someone who has substantial work
+experience, but is interested in using that as a foundation to help grow a
+small development team (<= 10 people) into a bigger one. You'll be involved
+in making architectural decisions, putting new systems and protocols in
+place, and in general making bepress a better place.
+
+Your day-to-day activities will involve the following, in no particular
+order:
+
+* Provide input on architectural decisions on software (and hardware).
+* Mentor more junior programmers, including code review.
+* Assist senior programmers/management on scaling both the organizational
+and technical infrastructure.
+* Code! 
+
+Why should I even think about this job?
+
+* Competitive, market based salary
+* Collaborative atmosphere
+* Really smart co-workers (no, really!)
+* Medical and dental plans included
+* Matching IRA plan
+* Bicycle friendly
+
+Required skills:
+
+* 5+ years Perl experience
+* Experience working on a high volume production website
+* Strong Unix skills
+* Strong people skills
+* Strong non-people skills (i.e. technical)
+* Demonstrated history of strong initiative and interest in career
+development 
+* Experience in LAMP-based production environments. In our case, LAMP
+means:
+o Linux
+o Apache (currently 1.3, but we'll need to upgrade to 2.x someday)
+o mod_perl
+o Postgres
+o CVS
+
+
+Desired skills:
+* Database skills (up to and including DBA level) 
+
+URL for more information: http://www.bepress.com/
+
+Contact information at:
+http://jobs.perl.org/job/6473#contact
+
+

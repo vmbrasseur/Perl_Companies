@@ -1,0 +1,97 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2940
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 2906 invoked from network); 5 Jul 2005 20:29:57 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 5 Jul 2005 20:29:57 -0000
+Received: (qmail 24701 invoked by uid 225); 5 Jul 2005 20:29:56 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 24697 invoked by alias); 5 Jul 2005 20:29:56 -0000
+X-Spam-Status: No, hits=-3.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,URIBL_SBL
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 05 Jul 2005 13:29:50 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j65KTmWV000655
+	for <jobs@perl.org>; Tue, 5 Jul 2005 13:29:48 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j65KTmEu000653;
+	Tue, 5 Jul 2005 13:29:48 -0700
+Date: Tue, 5 Jul 2005 13:29:48 -0700
+Message-ID: <200507052029.j65KTmEu000653@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: FreeBSD/Perl/MySQL System Administrator (onsite), United States, Utah, Provo
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2816
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July  5, 2005
+
+Job title: FreeBSD/Perl/MySQL System Administrator
+
+Company name: ProHosting
+
+Location: United States, Utah, Provo
+
+Pay rate: $30k-$40k
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+ProHosting is currently looking for someone to work on-site as a full time
+unix system administrator in the Provo, Utah area.
+
+Description
+ The work will consist of the following:
+  * Maintaining, installing and upgrading web, email and admin server
+software
+  * Maintaining and developing employee and client applications
+  * Integrating systems with 3rd party API's
+  * Work with technical support department to provide support
+utilities/resources
+
+Required skills:
+Required Skills
+ * FreeBSD
+ * Perl
+ * MySQL
+ * Apache
+ * DNS
+ * SMTP/POP
+ * CGI
+ * PHP (minimal)
+
+Desired skills:
+Must be willing and capable of learning these and other similar
+applications/skills:
+ * Qmail
+ * XML
+ * SpamAssassin
+ * Linux / Gentoo
+ * Raid
+ * SOAP
+ * C (minimal)
+
+URL for more information: http://www.prohosting.com/jobs.html
+
+Contact information at:
+http://jobs.perl.org/job/2816#contact
+
+

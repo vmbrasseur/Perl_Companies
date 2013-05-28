@@ -1,0 +1,86 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8109
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 24940 invoked from network); 8 May 2008 16:20:40 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 8 May 2008 16:20:40 -0000
+Received: (qmail 5384 invoked by uid 225); 8 May 2008 16:20:40 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 5374 invoked by alias); 8 May 2008 16:20:39 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 08 May 2008 09:20:37 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id AC15E2AFEC; Thu,  8 May 2008 09:20:33 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080508162033.AC15E2AFEC@x3.develooper.com>
+Date: Thu,  8 May 2008 09:20:33 -0700 (PDT)
+Subject: Lead developer (onsite), United Kingdom, London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8632
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May  7, 2008
+
+Job title: Lead developer
+
+Company name: Outcome Technologies
+
+Location: United Kingdom, London
+
+Pay rate: up to GBP60k
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are looking for a lead developer to work in our Bloomsbury, central
+London, office.  The job will involve programming, working with clients to
+specify projects, juggling resources, and ideally providing some sysadmin
+cover for when the main sysadmin is away.  The salary is generous, up to
+60k for someone with all the "nice to have" skills.
+
+Required skills:
+Perl
+SOAP::Lite or similar
+Class::DBI or some other ORM layer
+Template Toolkit
+mod_perl and Apache
+XML::XPath or similar
+any relational database
+HTML and Javascript
+familiarity and comfort working in a Unix environment
+
+Desired skills:
+It would also be useful to have recent experience in:
+
+Microsoft SQL server admin
+ASP
+VBA
+Java
+Xen or VMware
+Linux admin (pref Debian)
+Windows Domain thingy
+MS Exchange
+basic networking
+shell scripting
+
+Contact information at:
+http://jobs.perl.org/job/8632#contact
+
+

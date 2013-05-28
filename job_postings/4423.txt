@@ -1,0 +1,128 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4423
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 24084 invoked from network); 3 Jun 2006 07:13:22 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 3 Jun 2006 07:13:22 -0000
+Received: (qmail 1167 invoked by uid 225); 3 Jun 2006 07:13:21 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 1156 invoked by alias); 3 Jun 2006 07:13:21 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 03 Jun 2006 00:13:09 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 72F432AFE6; Sat,  3 Jun 2006 00:13:05 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060603071305.72F432AFE6@x3.develooper.com>
+Date: Sat,  3 Jun 2006 00:13:05 -0700 (PDT)
+Subject: Network/Software Engineer- Perl (onsite), United States, AZ, Phoenix
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4176
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June  2, 2006
+
+Job title: Network/Software Engineer- Perl
+
+Company name: Global Crossing.com
+
+Internal ID: GL06-15496
+
+Location: United States, AZ, Phoenix
+
+Pay rate: Negotiable
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: full time permanent
+
+Hours: Full time
+
+Onsite: yes
+
+Description: Perl Programming
+
+Required skills:
+-Effective communication skills
+>-Fundamental understanding of TCP/IP networking concepts (Routing, 
+>Switching, DNS, etc.)
+>-2+ years systems engineering experience in a Unix environment
+>-5-10 years Unix-based Perl programming experience
+>   -Basic understanding of regular expressions
+>   -1+ years CGI experience
+>      -1+ years HTML form creation experience
+>   -1+ years modular design implementation (downloading/using modules 
+>from
+>cpan)
+>-Working knowledge of CVS
+>-Able to construct simple MySQL queries -Familiarity with pgp/gpg 
+>encryption -Ability to work well in groups and individually
+>
+
+
+Desired skills:
+Outstanding communications skills
+>  -Writing documentation on or near a technical writer level
+>  -Responding to client requests in a professional manner
+>-3+ years experience monitoring and managing Tier-1 TCP/IP networks 
+>-3+ years of FreeBSD systems engineering experience
+>  -Responding to occasional user requests  -Creating new user accounts  
+> -Retrieving lost data via various backup methods  -Upgrading to new OS 
+> releases  -Patching kernel in response to security alerts
+>-10+ years Unix-based Perl programming experience creating
+>reusable/scalable code
+>  -Creating complex regular expressions using
+>     -Back-referencing
+>     -Look ahead/behind assertions
+>  -3+ years CGI experience using DHTML
+>     -3+ years html form creation using
+>	 -JavaScript input validation
+>	 -CGI.pm
+>  -3+ years experience creating Perl modules (pm)
+>     -Thorough understanding of instantiation
+>     -Familiarity with various class-type concepts such as
+>	-Private methods
+>	-Encapsulating class data
+>      etc
+>     -Working knowledge of Parse::RecDescent
+>  -Experience writing POD
+>  -Interacting with various relational/non-relational databases via 
+>DBI.pm, etc
+>  -Fundamental understanding of nested data-structures such as
+>     -Hash of Hashes
+>     -Array of Hashes
+>     -Anonymous arrays
+>   etc
+>  -2+ years of network-related flat-file parsing (Rancid)
+>  -Experience using GPG.pm via Perl
+>  -Relevant experience comparing content against a standard, thus 
+>finding all unique intersection and disjointed sets
+>-2+ years CVS experience, including
+>  -Checking in/out existing content
+>  -CVS adding new content
+>  -Branching
+>-2+ years experience constructing complex MySQL queries
+>-Proven ability to self-manage a project autonomously
+>
+>
+
+
+URL for more information: http://www.globalcrossing.com/
+
+Contact information at:
+http://jobs.perl.org/job/4176#contact
+
+

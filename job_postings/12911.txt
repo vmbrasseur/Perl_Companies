@@ -1,0 +1,77 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12911
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 31341 invoked from network); 20 Nov 2012 21:15:34 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 20 Nov 2012 21:15:34 -0000
+Received: (qmail 15548 invoked by uid 225); 20 Nov 2012 21:15:34 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 15544 invoked by alias); 20 Nov 2012 21:15:34 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,LOTS_OF_MONEY,SUBJECT_NEEDS_ENCODING
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 20 Nov 2012 13:15:29 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id F2FC62AFE0; Tue, 20 Nov 2012 13:15:25 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Tue, 20 Nov 2012 13:15:25 -0800
+Message-ID: <20121120211525.F2FC62AFE0@x3.develooper.com>
+Subject: Lead Perl Developer - Based in London - up to £70k plus benefits
+ (onsite), London, United Kingdom
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16718
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 20, 2012
+
+Job title:
+Lead Perl Developer - Based in London - up to £70k plus benefits
+
+Company name: Open Select Recruitment | www.osrecruit.com
+
+Internal ID: Lead Perl
+
+Location: London, United Kingdom
+
+Pay rate: up to £70,000 plus PLC Bonus and Benefits
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We're looking for a talented Lead Perl Developer to join a team working on
+a high availability, multi-clustered, globally distributed software stack
+servicing clients across Europe and North America. This is a really
+exciting opportunity for the right individual to help shape an established
+business with a startup feel, which is moving into a challenging new phase.
+
+Required skills:
+* Sharp analytical and problem solving skills
+* Excellent oral and written communication
+* Perl
+* OO Perl, mod_perl, Plack, Mason, Moose, DBIx::Class
+* MySQL
+* Linux
+* Restful and SOAP APIs
+* Apache
+* CVS/Perforce
+* HTML, AJAX, JSON, CSS
+* Modern JavaScript libraries
+
+Website for more information: http://www.osrecruit.com
+
+Contact information at:
+http://jobs.perl.org/job/16718#contact

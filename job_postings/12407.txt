@@ -1,0 +1,121 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12407
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 30364 invoked from network); 8 May 2012 20:55:08 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 8 May 2012 20:55:08 -0000
+Received: (qmail 25328 invoked by uid 225); 8 May 2012 20:55:08 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 25324 invoked by alias); 8 May 2012 20:55:08 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 08 May 2012 13:55:04 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 350BD2AFE2; Tue,  8 May 2012 13:55:01 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Tue, 8 May 2012 13:55:01 -0700
+Message-ID: <20120508205501.350BD2AFE2@x3.develooper.com>
+Subject: Senior Software Engineer, mid-high $100K's, great work environment
+ (part onsite), West Los Angeles, CA, USA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/12432
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May  8, 2012
+
+Job title:
+Senior Software Engineer, mid-high $100K's, great work environment
+
+Company name: TigerLead Solutions
+
+Location: West Los Angeles, CA, USA
+
+Pay rate: mid-high $100K's (USD) depending on experience
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+ABOUT THE OPPORTUNITY
+As a Senior Software Engineer, you will be playing a central role in the
+design, development, and delivery of web applications for one of the most
+heavily-trafficked network of real estate sites on the web. You will work
+in a small, collaborative environment with other seasoned pros and with the
+direct support of the company’s owners and CTO.  Your canvas and raw
+materials include rich data sets totaling several million property listings
+replenished daily by hundreds of external data feeds. This data and our
+end-user tools to access it are deployed across several thousand real
+estate search sites used by more than a million home-buyer leads and
+growing by 50K+ users each month.  The 1M+ leads using our search tools are
+in turn tracked and cultivated by the several thousand real estate
+professionals using our management software. This is an outstanding
+opportunity to see your creations immediately embraced by a large community
+of users while you enjoy working within a creative and supportive
+environment.  
+
+BENEFITS
+We're offering a competitive starting salary with opportunity for growth,
+medical benefits, paid holidays and personal days, paid monthly parking, a
+casual work environment with no dress code, a well-stocked kitchen,
+frequent company lunches and dinners, and the opportunity to join a
+talented and committed team of engineers as well as extremely nice folks in
+all areas of the company.  Participation in the twice-daily Quake sessions
+is voluntary but encouraged. Relocation assistance is available.  We're
+located in sunny West Los Angeles, 10 minutes from Santa Monica and the
+beach, a short walk from UCLA and with public transportation a block away.
+
+AN ENDORSEMENT: As a fan of Perl, you may be familiar with Tim Bunce,
+author and maintainer of the Perl DBI module which has been the standard
+database interface for Perl since 1994. Tim has been part of our team for
+several years and was kind enough to say "TigerLead is a lovely company to
+work for and this is a great opportunity. Highly recommended."	      
+
+COMPANY BACKGROUND
+TigerLead Solutions is a privately held, owner-operated and thriving young
+company in its sixth year of providing residential property search portals,
+online marketing services and lead management SaaS to successful Realtors
+throughout North America.  We're seeking a talented developer to assume a
+senior role within our team of engineers.
+
+Required skills:
+-a *nix enthusiast with solid history of success in open source web
+development
+-prefer to work in all layers of the stack
+-expert level experience with Perl and frameworks such as Catalyst (Python
+and Ruby experience is relevant, but a Perl "true believer" would be the
+best fit)
+-front-end skills include the ability to hand-code HTML, JavaScript
+(preferably jQuery), and CSS
+-expert-level SQL skills (PostgreSQL is our preferred flavor)
+-strong background in OO architecture and MVC design
+-comfort with Git or Subversion
+-Excellent communication and collaboration skills
+-Demonstrable interest in learning and adopting new tools and techniques
+-enjoys an intellectually vigorous environment and contributes to that
+intensity
+-fun-loving, team-first attitude and a sense of humor
+
+Desired skills:
+-BA/BS Computer Science or a technical/quantitative degree
+-Unit testing experience and automated integration testing
+-Apache, Lighty, CentOS, and Memcached
+-experience with an ORM package such as DBIC, ActiveRecord, or Doctrine
+
+Website for more information: http://www.tigerlead.com/
+
+Contact information at:
+http://jobs.perl.org/job/12432#contact

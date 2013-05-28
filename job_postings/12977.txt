@@ -1,0 +1,113 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12977
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 20398 invoked from network); 12 Dec 2012 06:10:58 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 12 Dec 2012 06:10:58 -0000
+Received: (qmail 17089 invoked by uid 225); 12 Dec 2012 06:10:57 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 17081 invoked by alias); 12 Dec 2012 06:10:57 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 11 Dec 2012 22:10:54 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 112352AFDA; Tue, 11 Dec 2012 22:10:51 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Tue, 11 Dec 2012 22:10:51 -0800
+Message-ID: <20121212061051.112352AFDA@x3.develooper.com>
+Subject: Senior Software Engineer in Test (onsite), Cambridge MA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16798
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 11, 2012
+
+Job title: Senior Software Engineer in Test
+
+Company name: Permabit
+
+Internal ID: SRSET_PERL_ORG
+
+Location: Cambridge MA
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+I am the first Senior Software Engineer in Test hired by Permabit, who is
+looking for a second.  While the official job description does not make it
+apparent, my experience thus far has involved a lot of perl.
+
+The job is within walking distance of the Alewife T stop and the bicycle
+path.  This means one can get here with or without a car.
+
+Here is the official job posting
+http://permabit.com/careers/senior-software-engineer-in-test-set/
+
+There is also a Software Engineer in Test position for someone with less
+experience.
+---------------------------------------
+Senior Software Engineer in Test (SET)
+Permabit is a recognized leader in data efficiency technology.	We enable
+OEMs to leverage their R&D investment, increase margin, accelerate time to
+market and achieve competitive advantage.  Permabit Albireo software
+massively improves performance and efficiency of data creation,
+transmission and storage.  Solutions built with Albireo are being delivered
+by leading hardware, software and service providers.
+
+Permabit is seeking talented Software Engineers to accelerate the delivery
+and improve the quality of all software developed at Permabit.	Do you
+thrive on test-driven development?  Are you annoyed by manual processes
+that could be automated? Do you love building robust and scalable test
+automation frameworks?
+
+At Permabit, SETs work on the “software behind the software” – the vast
+array of tooling, frameworks, and automated tests that ensure our customers
+receive the highest quality software.  Our infrastructure, and our
+dedication to continually improving it, is essential to our ability to
+innovate.
+
+SETs work closely with product development engineers in small, agile
+development teams.  Development activities performed by SETs include:
+
+Enlarging the scope of our automated tests
+Improving the efficiency of existing tests
+Simplifying test development
+Enhancing our build and release processes to increase responsiveness to
+customer issues and requests
+Inventing ways of simulating and verifying complex functionality (for
+instance, simulating the IO response times of different sorts of Flash
+arrays, or programmatically generating interesting workloads)
+Finding ways to make better use of our array of test VMs running on
+Amazon’s EC2 cloud or in our private cloud of performance-centric machines
+Improving our ability to make detailed measurements of our sofware and feed
+this back into our software design process
+Refactoring product code so that it is more easily tested
+
+Required skills:
+Requirements
+BS or MS degree in Computer Science (in lieu of degree, 4 years of relevant
+working experience)
+5 + years of relevant work experience
+Strong programming skills in multiple languages, including Python, Perl, C,
+C++ or Java
+Excellent written and verbal communication skills
+
+Website for more information: http://permabit.com
+
+Contact information at:
+http://jobs.perl.org/job/16798#contact

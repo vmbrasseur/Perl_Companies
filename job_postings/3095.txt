@@ -1,0 +1,101 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3095
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 26387 invoked from network); 15 Aug 2005 19:01:57 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 15 Aug 2005 19:01:57 -0000
+Received: (qmail 32005 invoked by uid 225); 15 Aug 2005 19:01:56 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 32000 invoked by alias); 15 Aug 2005 19:01:56 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 15 Aug 2005 12:01:45 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j7FJ1gHs029563
+	for <jobs@perl.org>; Mon, 15 Aug 2005 12:01:42 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j7FJ1gAp029561;
+	Mon, 15 Aug 2005 12:01:42 -0700
+Date: Mon, 15 Aug 2005 12:01:42 -0700
+Message-ID: <200508151901.j7FJ1gAp029561@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: mod_perl / Mason / DBI Programmer for Media Distribution Project (part onsite), United States, New York, New York
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2953
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 15, 2005
+
+Job title:
+mod_perl / Mason / DBI Programmer for Media Distribution Project
+
+Company name: Spectrum Data Technologies
+
+Location: United States, New York, New York
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+Perl web / database programmer required to assist team in building
+e-commerce
+distribution and fulfillment systems, tuning code. The primary
+responsibilities for this
+job include support and enhancement of DBI, mod_perl and HTML::Mason-based
+code.
+
+Candidate must be able to write nicely formatted reports by using DBI to go
+against a MySQL
+DB. Candidate must also have previous experience with a perl-based
+templating toolkit (preferrably Mason)
+
+Must be able to demonstrate experience with high-volume transaction systems
+and provide
+references.
+
+Candidate must be personable and have experience with some experience
+workig with
+cross-functional teams.
+
+Must be able to provide examples of your work and ideally specify URLs.
+Relevant candidates
+only. Recent experience with high-volume transaction systems required.
+
+Required skills:
+DBI Experience (MySQL and Oracle) mod_perl HTML HTML::Mason SQL SOAP cron
+and job scheduling javascript Recent Experience with large-scale
+transaction systems? Candidate should also possess the ability to write
+cron jobs and possess a reasonable sense of humor. 
+
+MUST BE LOCAL TO NYC. Please do not apply if you are not local to New York
+City. 
+
+Desired skills:
+Nice to have, but not required ... MySQL Administration PL/SQL Development
+Query tuning Experience with CVS, SNV or other code management tools Apache
+Administration
+(Apache + SSL). Python experience would be a huge plus as well. 
+
+URL for more information: http://www.spectrumdt.com/
+
+Contact information at:
+http://jobs.perl.org/job/2953#contact
+
+

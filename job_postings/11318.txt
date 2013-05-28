@@ -1,0 +1,121 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11318
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 27577 invoked from network); 20 May 2011 08:16:23 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 20 May 2011 08:16:23 -0000
+Received: (qmail 4488 invoked by uid 225); 20 May 2011 08:16:23 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 4484 invoked by alias); 20 May 2011 08:16:23 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS,T_LOTS_OF_MONEY
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 20 May 2011 01:16:21 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 3A0612AFEA; Fri, 20 May 2011 01:16:18 -0700 (PDT)
+To: jobs@perl.org
+Date: Fri, 20 May 2011 01:16:17 -0700
+Message-ID: <20110520081618.3A0612AFEA@x3.develooper.com>
+Subject: Head of Technical Operations (Perl & Sysadmin) (onsite), United
+ Kingdom, Cheshire, Manchester / Macclesfield
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14172
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 20, 2011
+
+Job title: Head of Technical Operations (Perl & Sysadmin)
+
+Company name: SpareRoom.co.uk
+
+Location:
+United Kingdom, Cheshire, Manchester / Macclesfield
+
+Pay rate: £35,000 - £45,000
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+SpareRoom.co.uk, the UK's leading flatshare website - and currently the
+10th busiest property site in the UK - needs someone to take over the
+management and health of its LAMP platform. The application is entirely
+written in perl and hosted on centos servers, with a perl back-end glueing
+it all together (sending emails, performing db maintenance and other
+automated tasks). The role will primarily be focused on the back-end and
+platform and so requires sysadmin skills and perl in similar measures.
+
+This is a senior position of great responsibility but within a small team
+of 3 (who, although to a greater or lesser extent Linux competent, are not
+system administrators). The position is more of a support / coordinating
+role than management and requires an all-rounder who is as comfortable with
+higher level planning and strategy as they are with the everyday nuts and
+bolts work that might be palmed off on a junior in a bigger company.
+
+For a candidate with the right breadth of skills this position could expand
+into a fully managerial role as head of technical, managing the front end
+side as well (the front and back ends are predominantly procedural code not
+OO).
+
+Responsibilities include:
+
+* Monitoring the system, responding to and resolving problems
+* Maintaining and expanding the back-end scripts (e.g. adding DKIM to our
+email sending scripts)
+* Improving platform resilience and disaster recovery procedures (e.g.
+planning and testing a procedure for recovering from db failure)
+* Capacity planning and server deployment (we currently use dedicated
+hosting so the physical hardware is sourced and handled by the hosting
+company)
+* Managing / Coordinating the code deployment process (we're also keen to
+expand our regression testing)
+
+Why SpareRoom.co.uk?
+
+We are a small, friendly (and privately owned) company running a big site.
+SpareRoom is the leading site in its field with almost 2 million registered
+users and is growing steadily year on year. Despite our size we have the
+stability of a larger company, having been profitable for 6 years, and we
+remain 100% independent. This means your salary is not dependent on
+investment funding that could run out before the company turns a profit.
+Working in a small team means you have the opportunity to shape the success
+of the company rather than wait weeks (or months) for a committee to
+discuss and reject your ideas. 
+
+This role offers the right candidate the opportunity to work for an
+innovative and successful market leader whilst enjoying the benefits of
+being part of a small, flexible, dynamic (and highly committed) team.
+
+We are based 2 minutes walk from Macclesfield train station (the office
+overlooks the platform!), where you can get a 25 minute train to Manchester
+(passing stockport which is just 15 mins away), or 15 mins to Stoke on
+Trent, or 1 hour 40 mins to London Euston
+
+
+Required skills:
+* Perl
+* Apache
+* Mysql (inc administation and replication)
+* Linux administration, ideally on centos
+* Subversion or other version control system
+
+Desired skills:
+* mod_perl
+* Experience working on a high traffic website (ideally LAMP)
+* apple mac
+
+
+Contact information at:
+http://jobs.perl.org/job/14172#contact

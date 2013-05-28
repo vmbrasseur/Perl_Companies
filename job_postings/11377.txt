@@ -1,0 +1,108 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11377
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 30375 invoked from network); 7 Jun 2011 21:09:06 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 7 Jun 2011 21:09:06 -0000
+Received: (qmail 26823 invoked by uid 225); 7 Jun 2011 21:09:06 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 26818 invoked by alias); 7 Jun 2011 21:09:06 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 07 Jun 2011 14:09:03 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 5D5EB2AFE7; Tue,  7 Jun 2011 14:09:00 -0700 (PDT)
+To: jobs@perl.org
+Date: Tue, 7 Jun 2011 14:09:00 -0700
+Message-ID: <20110607210900.5D5EB2AFE7@x3.develooper.com>
+Subject: Perl Developer - For the Perl expert who enjoys autonomy (onsite),
+ United States, CA, Westlake Village
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14284
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June  7, 2011
+
+Job title:
+Perl Developer - For the Perl expert who enjoys autonomy
+
+Company name: ValueClick
+
+Internal ID: 11498
+
+Location: United States, CA, Westlake Village
+
+Pay rate: Extremely competitive
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+*** PLEASE SUBMIT YOUR INTEREST ONLY IF YOU CAN BE AVAILABLE TO WORK ONSITE
+AS A FULL-TIME / REGULAR EMPLOYEE ***
+
+As the sole Perl developer within a small “elite” tools teams, you will be
+the subject matter expert for existing and new software products. The core
+suite of products are responsible for managing our custom global monitoring
+and notification platform. We run an extremely large, 24x7x365 global
+production environment. Working autonomously, you'll be part of an
+incredibly powerful and robust project that enhances our ability to keep
+this environment stable and reliable. This is a high-visibility role that
+reports directly to our VP of Technology Operations.
+
+In this role, you will:
+* Develop new features and enhancements in response to requirements
+provided by the internal and external teams.
+* Troubleshoot and correct software bugs.
+* Conduct component-level, system end-to-end, regression and quality
+assurance software testing.
+* Provide internal technical support to development team and internal
+customers.
+* Create and maintain internal system documentation for software and system
+products.
+* Design and develop new software products independently.
+* Design and create ‘single-function’ daemons which can reliably run for
+long periods of time without intervention.
+
+
+Required skills:
+* Good planning, scheduling, analytical and problem solving skills
+* Strong oral and written communication skills
+* PERL: OO Perl, including Plack, Mason and Moose
+* MVC – Model View Controller based architecture
+* Module Based Architecture
+* Front End: HTML, AJAX, DOM, JSON, CSS
+* Back End: SQL for MySQL backend database storage/access
+* Understanding of data driven API’s
+* Linux including Apache web server
+* Advanced skills in Perl/Mod Perl, DBIx::Class, HTML, MySQL, Apache,
+JavaScript, CSS
+* Advanced skills in software revision and control systems (e.g. CVS,
+Perforce)
+* Knowledgeable of bug tracking systems like Bugzilla
+* Must be able to read and understand software requirements and must be
+able to write software specifications
+
+
+Desired skills:
+* Nice to have (JavaScript): Modern libraries such as jQuery,
+Underscore.js, Backbone.js
+* Nice to have (Perl): KiokuDB, Coros, Any::Event, and EV
+
+Website for more information: http://www.valueclick.com/careers
+
+Contact information at:
+http://jobs.perl.org/job/14284#contact

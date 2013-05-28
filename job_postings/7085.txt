@@ -1,0 +1,151 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7085
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 19403 invoked from network); 8 Oct 2007 21:12:59 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 8 Oct 2007 21:12:59 -0000
+Received: (qmail 28170 invoked by uid 225); 8 Oct 2007 21:12:57 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 27835 invoked by alias); 8 Oct 2007 21:12:36 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 08 Oct 2007 14:12:25 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 488BB2AFEE; Mon,  8 Oct 2007 13:51:05 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20071008205105.488BB2AFEE@x3.develooper.com>
+Date: Mon,  8 Oct 2007 13:51:05 -0700 (PDT)
+X-Virus-Checked: Checked
+Subject: Senior Systems Engineer/SysAdmin, 200+servers, Linux/Unix, NYC (onsite), United States, NY, New York
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/6032
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October  8, 2007
+
+Job title:
+Senior Systems Engineer/SysAdmin, 200+servers, Linux/Unix, NYC
+
+Company name: GridApp Systems, Inc.
+
+Internal ID: Perl.org GA 708
+
+Location: United States, NY, New York
+
+Pay rate: competitive
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+“Do not, under any circumstances, walk into your sysadmin's cubicle and
+announce "I have no problem, I just wanted to tell you what a wonderful job
+you're doing" unless you want your sysadmin to drop dead from shock” 
+~Unknown
+
+POSITION– You will work with version-current enterprise technologies
+(VMWare, Veritas, Oracle, NetApp, iSCSI, Fibre Channel) and a litany of
+operating systems from AIX to Z/OS that encompass our 200+ server (virtual
+and non-virtual) environment. Most start-ups don’t have these things but
+since our customers’ databases (Oracle, DB2, Sybase, SQL Server) reside on
+every imaginable platform, we use our internal technology infrastructure as
+a giant sandbox to develop and test our products. If you are interested in
+working with new server, storage, network, and infrastructure technologies,
+learning as you go, solving problems in real-time, and planning for the
+future, this is the job for you.
+
+It will be up to you to:
+
+**Deploy hundreds of environments in a cost effective, flexible manner
+**Incorporate new operating systems and other technologies into the
+environment
+**Manage configurations of hundreds of hosts
+**Minimize incidents and downtimes as a result of unplanned infrastructure
+changes
+**Figure out the best ways to manage, maintain, and extend the performance
+of our resources including identifying needs and purchasing new assets.
+
+While enabling our application development – primarily Perl – to continue
+at breakneck speeds.
+
+COMPANY– GridApp Systems is a leader in database automation and management.
+Our Clarity™ software and D2500 database appliance provide companies with
+the ability to simplify and manage critical database operational tasks such
+as deployment, patch management, auditing, and replication across the
+enterprise. The company is privately held and headquartered in New York
+City. For more information, visit www.gridapp.com.
+
+WORK ENVIRONMENT– Located in the Flatiron District of New York, easily
+accessible from many directions, our mission is to transform the way
+organizations manage their database infrastructure through the use of
+automation. This is not a 24/7 position; you’re here when our developers
+are here. Naturally, there may be times when you have to put in the hours
+but you won’t be married to a pager or calling in for pizza delivery at
+4:00 AM. The development team is top shelf with a myriad of personal
+interests that always seem to find their way into our daily activities.
+
+And if you do work at GridApp Systems, you will be well paid, will receive
+benefits and stock options, and unlike quite a few companies these days, we
+also provide relocation money for stellar candidates.
+
+Come visit our website and see for yourself how our products help companies
+manage their data resources smarter. Read the GridApp blog
+(http://blog.gridapp.com) and leaf through the great industry, systems,
+development, and career resources we’re assembling for you.
+
+NEXT– After you send us your resume (techjobs@gridapp.com), you will
+receive a notification of your status within 24 hours. If our team feels
+your experience meets our immediate and longer term needs, we’ll call you
+for a phone interview. If this goes well, it’s an in-house, hands-on
+session that includes a brutal technical grilling by our CIA-trained
+interview team.
+
+OTHER POSITIONS AVAILBALE– in software QA, software development (perl),
+sales engineering, and sales. Visit our jobs page at
+http://jobs.gridapp.com - you may have a friend who is a perfect fit!
+
+Required skills:
+What you must have:
+
+Ability to solve problems quickly and automate systems administration
+processes; experience in a production service environment
+
+5+ years experience as a UNIX Systems Administrator 
+
+Experience with Linux, scripting (Perl, sh), TCP/IP networks
+
+While you may not know all of the technologies we work with, your goal will
+be to figure out the best way to manage, maintain, and extend the
+performance of these resources including identifying needs and purchasing
+new assets. If you are interested in working with new server, storage,
+network, and infrastructure technologies, learning as you go, solving
+problems in real-time, and planning for the future, this is the job for
+you.
+
+Desired skills:
+Plusses...Experience with storage technologies (SAN, NAS, iSCSI); network
+installations; Solaris/AIX/HP-UX; Oracle/Sybase/DB2; sysadmin in a
+commercial software development environment; if your experience comes from
+working in a web-hosting company - BIG PLUS
+
+URL for more information: http://jobs.gridapp.com/
+
+Contact information at:
+http://jobs.perl.org/job/6032#contact
+
+

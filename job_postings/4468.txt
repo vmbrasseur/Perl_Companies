@@ -1,0 +1,88 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4468
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 18570 invoked from network); 10 Jun 2006 00:58:26 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 10 Jun 2006 00:58:26 -0000
+Received: (qmail 26391 invoked by uid 225); 10 Jun 2006 00:58:25 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 26386 invoked by alias); 10 Jun 2006 00:58:25 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 09 Jun 2006 17:58:08 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id F01212AFE3; Fri,  9 Jun 2006 17:58:02 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060610005802.F01212AFE3@x3.develooper.com>
+Date: Fri,  9 Jun 2006 17:58:02 -0700 (PDT)
+Subject: unix sysadmin/perl programmer (onsite), United States, Pennsylvania, Philadelphia
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4222
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June  9, 2006
+
+Job title: unix sysadmin/perl programmer
+
+Company name: IC Group
+
+Location:
+United States, Pennsylvania, Philadelphia
+
+Pay rate: $45k-50k/year
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+IC Group needs a Unix sysadmin to manage our network of Linux machines. 
+Our services are based around email for both individuals and corporate
+customers.  We use Linux, Apache, MySQL, Perl, and Postfix.
+
+You would be a good fit if you
+* have 3-5 years' experience administrating Unix machines in a commercial
+setting
+* live near Philadelphia or are willing to move here
+* work efficiently without much supervision (are self-directed)
+* are lazy enough to automate common tasks so that you don't have to keep
+doing them over and over
+
+Some local travel is required as necessary to deal with remotely hosted
+machines; we will provide a car (if necessary), but you will need a
+driver's license.
+
+
+Required skills:
+* Linux (especially Debian)
+* Unix fundamentals; e.g. inodes, superblocks, swap, pipes, devices,
+permissions
+* Unix security basics
+* configuration for Apache, mail servers, databases, and other third-party
+software
+* common networking protocols, e.g. smtp, http, dns, ssh
+* Bourne shell
+* well-organized Perl as glue between programs/machines/data sources
+
+
+URL for more information: http://www.pobox.com/
+
+Contact information at:
+http://jobs.perl.org/job/4222#contact
+
+

@@ -1,0 +1,46 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:50
+Return-Path: <crohlfs@yahoo.com>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 44084 invoked from network); 21 May 2001 19:17:11 -0000
+Received: from smtp4vepub.gte.net (HELO smtp4ve.mailsrvcs.net) (206.46.170.25)
+  by onion.valueclick.com with SMTP; 21 May 2001 19:17:11 -0000
+Received: from mmmbox.dog (adsl-151-196-240-224.baltmd.adsl.bellatlantic.net [151.196.240.224])
+	by smtp4ve.mailsrvcs.net (8.9.1/8.9.1) with ESMTP id TAA33729754
+	for <jobs@perl.org>; Mon, 21 May 2001 19:37:52 GMT
+To: jobs@perl.org
+Content-Type: text/plain
+X-Mailer: Evolution/0.10 (Preview Release)
+Date: 21 May 2001 15:22:15 -0400
+Message-ID: <990472936.11899.15.camel@mmmbox.dog>
+Mime-Version: 1.0
+X-Spam-Rating: onion.valueclick.com 1.6.2 0/1000/N
+Subject: Looking for job in Baltimore
+Approved: news@nntp.perl.org
+From: crohlfs@yahoo.com (Chris Rohlfs)
+
+I am looking for work in the Baltimore, MD area, preferrably using perl,
+but I'm open to anything. I would be especially interested in working as
+a sort of apprentice sysadmin or dba.
+
+As a hobby, I have been creating web sites with perl/CGI and mod_perl
+for about 3 years. I have used MySQL and PostgreSQL with DBI, and I'm
+pretty good with SQL. I've admin'd a dedicated linux server for a year,
+with apache with mod_perl and mod_ssl, postgresql, etc.
+
+Most of the sites I have built have been event registration systems, and
+they have included community systems (with personal profiles, message
+bases, matchmakers, invites) and accounting systems (edit registrant
+info, items for sale, discounts, payment tracking). The system is
+generic enought to be used simultainiously by multiple events, with most
+configuration held in the database. I'm currently implementing work and
+resource management features (being unemployed leaves lots of time for
+hobbies!). 
+
+My resume is up at http://www.seeken.org/resume.html 
+
+Chris Rohlfs
+

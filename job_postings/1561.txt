@@ -1,0 +1,95 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:1561
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 99006 invoked from network); 5 May 2004 04:23:27 -0000
+Received: from x1.develooper.com (63.251.223.170)
+  by onion.develooper.com with SMTP; 5 May 2004 04:23:27 -0000
+Received: (qmail 32613 invoked by uid 225); 5 May 2004 04:23:27 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 32603 invoked by alias); 5 May 2004 04:23:26 -0000
+X-Spam-Status: No, hits=0.0 required=7.0
+	tests=
+X-Spam-Check-By: la.mx.develooper.com
+Received: from onion.develooper.com (HELO onion.perl.org) (63.251.223.166)
+  by la.mx.develooper.com (qpsmtpd/0.27.1) with SMTP; Tue, 04 May 2004 21:23:26 -0700
+Received: (qmail 98986 invoked by uid 1016); 5 May 2004 04:23:25 -0000
+Date: 5 May 2004 04:23:25 -0000
+Message-ID: <20040505042325.98985.qmail@onion.perl.org>
+To: jobs@perl.org
+X-Spam-Rating: onion.develooper.com 1.6.2 0/1000/N
+Subject: Yahoo! Shopping Perl/Oracle Engineer (onsite), United States, CA, Sunnyvale
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1451
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May  4, 2004
+
+Job title: Yahoo! Shopping Perl/Oracle Engineer
+
+Company name: Yahoo!
+
+Internal ID: RX0400002106
+
+Location: United States, CA, Sunnyvale
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: Permanent
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Yahoo! is recruiting software engineers for positions developing and
+maintaining Yahoo! Shopping's backend.	Specific responsibilities include
+developing and enhancing software facilities to process catalog/merchant
+data feeds, normalizing and analyzing data, leveraging and enhancing the
+existing product catalog database, build & maintain internal tools &
+reports, and maintaining daily site operations.  The backend system is in
+Perl and PL/SQL, using Oracle 8i, on FreeBSD and Linux systems.  An ideal
+candidate will have experience in the necessary technology, an aptitude for
+problem-solving, a good grasp of analysis and design principles, solid
+communication skills, and a good grasp of fundamental software engineering
+practices.
+
+Required skills:
+ - Perl programming 
+   * DBI
+   * Object-oriented programming
+   * Regular expressions
+ - Oracle
+   * Basic SQL
+   * PL/SQL programming
+   * Schema design/implementation
+
+Desired skills:
+Strongly desired:
+ - Object-oriented analysis, design and implementation
+ - XML implementation, parsing, and generation
+ - Linux/FreeBSD systems programming and administration
+ - On-line transaction processing
+Would be nice:
+ - C/C++
+ - Apache
+ - Visual Basic
+ - HTML/CGI
+ - php
+ - MySQL
+
+
+Contact information:
+Please send a cover letter and a resume in ASCII format to
+mrw@yahoo-inc.com.
+
+

@@ -1,0 +1,93 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3803
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 24137 invoked from network); 1 Feb 2006 17:57:10 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 1 Feb 2006 17:57:10 -0000
+Received: (qmail 18973 invoked by uid 225); 1 Feb 2006 17:57:10 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 18964 invoked by alias); 1 Feb 2006 17:57:10 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 01 Feb 2006 09:56:39 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id k11HuVS5007115
+	for <jobs@perl.org>; Wed, 1 Feb 2006 09:56:31 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id k11HuVlE007113;
+	Wed, 1 Feb 2006 09:56:31 -0800
+Date: Wed, 1 Feb 2006 09:56:31 -0800
+Message-ID: <200602011756.k11HuVlE007113@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Perl Lead Programmer (onsite), United Kingdom, London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3614
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February  1, 2006
+
+Job title: Perl Lead Programmer
+
+Company name: dp connect
+
+Internal ID: Perl1001LB
+
+Location: United Kingdom, London
+
+Pay rate: £ (negotiable)
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+
+We are looking for a lead programmer to head up our Clients web development
+team and co-ordinate with our external oracle developers.  You will be
+responsible for maintaining the company's websites and delivering business
+identified enhancements to their award winning ecommerce platform. 
+Knowledge of Perl essential.
+
+Our Client maintains two public web sites and a private administration web
+site deploying two web server hosts that run Apache, and one database
+server running an Oracle 10g instance.	All web and database servers use
+Linux as their operating system .
+
+The Oracle instance contains one schema shared by all three web sites,
+containing the data, and low-level routines implemented in Oracle PL/SQL. 
+The web server host runs Apache 2 frontend processes that serve static
+content and pass CGI requests through to Apache/mod_perl backend processes.
+ The application layer is implemented purely in Perl, with a common code
+base used by all public and private web sites. 
+
+
+Required skills:
+Perl 
+Apache
+Oracle 10g
+Linux
+Oracle PL/SQL
+Apache/mod_perl 
+
+URL for more information: http://www.dpconnect.co.uk/
+
+Contact information at:
+http://jobs.perl.org/job/3614#contact
+
+

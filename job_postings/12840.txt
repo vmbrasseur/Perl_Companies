@@ -1,0 +1,86 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12840
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 3151 invoked from network); 19 Oct 2012 00:03:06 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 19 Oct 2012 00:03:06 -0000
+Received: (qmail 13455 invoked by uid 225); 19 Oct 2012 00:03:05 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 13451 invoked by alias); 19 Oct 2012 00:03:05 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 18 Oct 2012 17:03:02 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id A719D2AFE0; Thu, 18 Oct 2012 17:02:58 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 18 Oct 2012 17:02:58 -0700
+Message-ID: <20121019000258.A719D2AFE0@x3.develooper.com>
+Subject: Perl Developer (onsite), Hertfordshire
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16626
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 18, 2012
+
+Job title: Perl Developer
+
+Company name: Conex Europe - 01708 716 880
+
+Location: Hertfordshire
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+PERL Developer - Up to £50k 
+
+A highly skilled Perl Developer is required to join a company who have
+built and launched a ground breaking product in the automotive industry
+propelling them to the market leader. You will be working with 5 other
+developers who are extremely technical with a wealth of experience in LAMP
+development! 
+
+The reason for this requirement is due to company expansion, now is your
+chance to be part of something that is moving in the right direction with
+great scope for ongoing product development. 
+
+Maintaining two public web sites and a private administration web site
+deploying two web server hosts that run Apache, and one database server
+running an Oracle 10g instance. All web and database servers use Linux as
+their operating system . The Oracle instance contains one schema shared by
+all three web sites, containing the data, and low-level routines
+implemented in Oracle PL/SQL. The web server host runs Apache 2 frontend
+processes that serve static content and pass CGI requests through to
+Apache/mod_Perl back end processes.
+ 
+The application layer is implemented purely in Perl, with a common code
+base used by all public and private web sites. The company provide fleet
+contract hire, maintenance and administration services through various
+systems, including all financial and transaction processing.
+
+Required skills:
+You will be a crucial figure within the technical department, so strong
+skills in Perl along with either UNIX or Linux. You will be responsible for
+developing the company's websites and delivering business identified
+enhancements to the award winning eCommerce platform. Enhancements already
+identified comprise many many man months of time. Good knowledge of Perl
+and application within live commercial environments is essential.
+
+Website for more information: http://www.conexeurope.com
+
+Contact information at:
+http://jobs.perl.org/job/16626#contact

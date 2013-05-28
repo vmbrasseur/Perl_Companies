@@ -1,0 +1,73 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7652
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 7886 invoked from network); 7 Feb 2008 21:25:22 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 7 Feb 2008 21:25:22 -0000
+Received: (qmail 23620 invoked by uid 225); 7 Feb 2008 21:25:22 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 23615 invoked by alias); 7 Feb 2008 21:25:22 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 07 Feb 2008 13:25:15 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 056572AFCC; Thu,  7 Feb 2008 13:25:11 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20080207212512.056572AFCC@x3.develooper.com>
+Date: Thu,  7 Feb 2008 13:25:11 -0800 (PST)
+Subject: Unix-Scripting Expert (onsite), United States, IL, Schaumburg
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/7896
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February  7, 2008
+
+Job title: Unix-Scripting Expert
+
+Company name: Pegasus Knowledge Solutions Inc.
+
+Internal ID: 557
+
+Location: United States, IL, Schaumburg
+
+Pay rate: Depends on experience 
+
+Travel: 0%
+
+Terms of employment: Hourly employee
+
+Length of employment: 11 Months
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+In the past, the group has had to deal with testing and deployment delays
+because environment configurations were not tracked properly. The candidate
+will be responsible to improve and streamline environment management.  A
+part of this work entails updating / creating better scripts for
+deployment, patching, etc.
+
+Primary duties will involve:
+1. Re-Writting and Deploying environment management scripts and updating
+the existing ones.
+2. Smart-scripting; creating deployment/install scripts that can be
+parameterized based on environment that they are deploying on.
+
+Required skills: UNIX, ksh, Perl
+
+Contact information at:
+http://jobs.perl.org/job/7896#contact
+
+

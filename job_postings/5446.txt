@@ -1,0 +1,99 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5446
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 12408 invoked from network); 14 Dec 2006 04:37:50 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 14 Dec 2006 04:37:50 -0000
+Received: (qmail 25120 invoked by uid 225); 14 Dec 2006 04:37:50 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 25088 invoked by alias); 14 Dec 2006 04:37:48 -0000
+X-Spam-Status: No, hits=-1.8 required=8.0
+	tests=ALL_TRUSTED,BAYES_50
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 13 Dec 2006 20:37:43 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id E30452AFE5; Wed, 13 Dec 2006 20:37:39 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20061214043739.E30452AFE5@x3.develooper.com>
+Date: Wed, 13 Dec 2006 20:37:39 -0800 (PST)
+Subject: Scientific Informatics Developer (onsite), United States, New York, Cold Spring Harbor
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5091
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 13, 2006
+
+Job title: Scientific Informatics Developer
+
+Company name: Cold Spring Harbor Laboratory
+
+Location:
+United States, New York, Cold Spring Harbor
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Cold Spring Harbor Laboratory (CSHL) is a world-renowned research and
+educational institution with programs in cancer, neuroscience, plant
+biology and bioinformatics. 
+
+A team of CSHL scientists makes up the Data Coordination Center (DCC) for
+the International HapMap Project, which has been a multi-institutional
+effort to create a map of genetic variation in human populations. Such map
+has been a public resource for researchers to use to find genes affecting
+health, disease, and responses to drugs and environmental factors. 
+
+The HapMap DCC is now looking for a lead software architect with strong
+software developer skills and good understanding of human genetics. The
+successful applicant will take a forefront role in maintaining and
+enhancing the HapMap’s website content and software infrastructure. The
+portfolio of projects is aimed to support scientists in the design,
+execution and analysis phases of genetic association studies. This position
+requires writing software documentation, and entails participation in the
+publication of scientific papers. Personal enrichment and involvement with
+the scientific community is fostered through technology exchanges, code
+reviews, and participation in lectures, workshops, and conferences, both
+locally and remotely.
+
+
+Required skills:
+Master's degree in Computer Science plus 3 years experience or Bachelor's
+degree in Computer Science plus 5 years of experience as a software
+engineer (relevant experience is described below).
+
+One major programming language (Perl, Java, or C/C++), MySQL/Postgres, and
+Unix-based systems. Overall experience with Apache, XML, and CGI. Database
+experience including object-relational modeling, database administration
+and maintenance, and performance tuning; experience in maintaining high
+volume databases is highly desirable. Web development experience includes
+writing static and dynamic web pages, templates, and server-side
+applications. Experience with bioinformatics resources and tools.
+
+
+Desired skills:
+Good understanding of human genetics concepts is highly desirable.
+Familiarity with genetic analysis methods is a plus. Working knowledge of
+statistics software, such as R.
+
+URL for more information: http://www.hapmap.org/
+
+Contact information at:
+http://jobs.perl.org/job/5091#contact
+
+

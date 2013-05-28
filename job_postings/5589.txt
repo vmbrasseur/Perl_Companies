@@ -1,0 +1,100 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5589
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8180 invoked from network); 17 Jan 2007 22:34:16 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 17 Jan 2007 22:34:16 -0000
+Received: (qmail 7534 invoked by uid 225); 17 Jan 2007 22:34:16 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 7529 invoked by alias); 17 Jan 2007 22:34:15 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_05
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 17 Jan 2007 14:34:09 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 660D02AFFF; Wed, 17 Jan 2007 14:34:06 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20070117223406.660D02AFFF@x3.develooper.com>
+Date: Wed, 17 Jan 2007 14:34:06 -0800 (PST)
+Subject: C++/Perl Programmer for a financial institution (onsite), United States, GA, Atlanta
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5210
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 17, 2007
+
+Job title:
+C++/Perl Programmer for a financial institution
+
+Company name: Bank of America
+
+Internal ID: 0700001906
+
+Location: United States, GA, Atlanta
+
+Pay rate: excellent salary + bonus
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: indefinite
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The Quantitative Finance Group at Bank of America is looking for an
+experienced C++/Perl developer to hire as a Quantitative Financial Analyst
+in Atlanta, GA. This position will report to a Senior Developer and will be
+responsible for assisting in the design and improvement of the group's
+mortgage related models and data processes. No knowledge of finance is
+necessary, but there will be many opportunities to learn. 
+
+Our group manages a $3 billion dollar mortgage servicing portfolio, and we
+provide analytical support to other groups in the bank. We are a Linux
+shop, using pvm for parallel computing on clusters totalling over 1000
+processors. We write all our own code using predominantly Perl and C++. We
+run a nightly production system and respond to a variety of short-term
+requests as well as long-term projects. We have a fun atmosphere with a lot
+of technical challenges and opportunities for career growth.
+
+Required skills:
+Requirements:
+- Strong programming skills in C++ (75%) and Perl(25%)
+- Note we are interested in command-line perl, not web development
+- STL experience
+- Candidates will be expected to pass our advanced programming tests
+- Unix or Linux experience
+- Ability to work in a time sensitive, market driven environment
+- Strong attention to detail 
+- Must be willing to work full time on site in Atlanta, GA
+
+Desired skills:
+Desirable:
+- Familiarity with source-code control using SVN or RCS
+- Experience with parallel computing using PVM or MPI
+- Experience with boost or TR1
+- Coursework or experience in financial theory, economics, statistics,
+derivatives pricing, or stochastic calculus 
+
+URL for more information:
+https://bacfhrs.taleo.net/servlets/CareerSection?art_ip_action=FlowDispatch
+er&ctx=1&flowTypeNo=13&pageSeq=2&art_servlet_language=en&reqNo=121156&csNo=
+2
+
+Contact information at:
+http://jobs.perl.org/job/5210#contact
+
+

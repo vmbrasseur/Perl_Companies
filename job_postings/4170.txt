@@ -1,0 +1,101 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4170
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 16783 invoked from network); 17 Apr 2006 20:15:38 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 17 Apr 2006 20:15:38 -0000
+Received: (qmail 18350 invoked by uid 225); 17 Apr 2006 20:15:38 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 18345 invoked by alias); 17 Apr 2006 20:15:37 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 17 Apr 2006 13:14:48 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 29DD52AFDF; Mon, 17 Apr 2006 13:14:44 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060417201444.29DD52AFDF@x3.develooper.com>
+Date: Mon, 17 Apr 2006 13:14:44 -0700 (PDT)
+Subject: Integration Engineer, United States, CA, San Francisco
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3960
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 17, 2006
+
+Job title: Integration Engineer
+
+Company name: Ensenda, Inc.
+
+Location: United States, CA, San Francisco
+
+Travel: 0%
+
+Hours: Full time
+
+Description:
+The successful candidate will bring a combination of superior strategic and
+tactical skills and will have the ability to significantly contribute to
+the evolution and growth of Ensenda.  The ideal candidate will have a
+strong team orientation and will have a proven track record of creativity
+and results
+
+Required skills:
+1.	Experience developing scalable enterprise applications in Perl.
+This goes far beyond CGI and simple scripting. You will be developing the
+next-generation applications for a fast growing transaction-based business.
+
+
+2.	Familiarity with Enterprise Application Integration.  This includes
+knowledge of language, OS, and interface interoperability issues, data
+model creation/adaptation, and experience with messaging and asynchronous
+applications on any platform (MSMQ, JMS, etc.).
+ 
+3.	A history of building applications for a UNIX variant (Linux, BSD,
+etc.), object–oriented programming as well as advanced programming
+knowledge, relational database experience (SQL, joins), Apache, network
+programming and protocols (FTP, HTTP, SMTP, SSL) and at least a familiarity
+with XML and SOAP. Understanding of threads and/or UNIX processes.
+
+4.	An interest in all aspects of technology (hardware, software, and
+theory). Excellent knowledge of core concepts of software engineering and
+programming; pointers and complex data structures, regular expressions and
+objects, imperative and functional programming.
+
+5.	Superior interpersonal, as well as verbal and written
+communications skills. He/she will be interacting with partners and
+customers, and will need to maintain rapport and effective internal and
+external relationships to support business success.
+
+6.	The initiative, energy, drive and enthusiasm to succeed in this key
+position, with a great willingness to learn, and the ability to demand of
+himself/herself and others the highest level of personal and professional
+integrity and ethics
+
+
+Desired skills:
+The following are desired but not required experience:
+
+•	Unit tests
+•	Makefiles and CPAN-style distribution packaging
+•	CVS
+•	Qmail and daemon tools
+•	.NET interoperability
+
+
+URL for more information: http://www.ensenda.com/
+
+Contact information at:
+http://jobs.perl.org/job/3960#contact
+
+

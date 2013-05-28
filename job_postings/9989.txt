@@ -1,0 +1,80 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9989
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 14912 invoked from network); 26 Mar 2010 16:20:20 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 26 Mar 2010 16:20:20 -0000
+Received: (qmail 22252 invoked by uid 225); 26 Mar 2010 16:20:20 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 22248 invoked by alias); 26 Mar 2010 16:20:19 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS,T_LOTS_OF_MONEY
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 26 Mar 2010 09:20:15 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 6B8422AFE4; Fri, 26 Mar 2010 09:20:12 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20100326162012.6B8422AFE4@x3.develooper.com>
+Date: Fri, 26 Mar 2010 09:20:12 -0700 (PDT)
+Subject: Senior Perl/Solr Developer (onsite), United Kingdom, London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/11982
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 25, 2010
+
+Job title: Senior Perl/Solr Developer
+
+Company name: Conex Europe
+
+Location: United Kingdom, London
+
+Pay rate: up to £55,000
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Urgent requirement for a bright and motivated Perl developer with
+exceptional skills in object-oriented programming and mod_perl as well as
+in Java-based Lucene/Solr search technologies. The object of the role is to
+improve an existing web search platform whilst tailoring it to the
+different needs of international markets.
+
+Required skills:
+* OO Perl programming
+* Experience with mod_perl and HTML::Mason
+* Experience with customizing Lucene/Solr 
+* A proven record of building high traffic web sites serving multi-million
+pages per day.
+* Knowledge of MySQL
+* Familiarity with CPAN
+* Experience with XML and REST
+* Hard-working
+* Passion for open-source software
+
+Desired skills:
+* Experience with Javascript in particular jQuery
+* Knowledge of CSS and familarity with browser bugs
+* Regular CPAN committer
+
+URL for more information: http://www.conexeurope.com/
+
+Contact information at:
+http://jobs.perl.org/job/11982#contact
+
+

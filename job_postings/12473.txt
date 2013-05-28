@@ -1,0 +1,97 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12473
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 14691 invoked from network); 31 May 2012 09:36:00 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 31 May 2012 09:36:00 -0000
+Received: (qmail 2340 invoked by uid 225); 31 May 2012 09:36:00 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 2336 invoked by alias); 31 May 2012 09:35:59 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 31 May 2012 02:35:57 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 8A7E92AFD0; Thu, 31 May 2012 02:35:53 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 31 May 2012 02:35:53 -0700
+Message-ID: <20120531093553.8A7E92AFD0@x3.develooper.com>
+Subject: Programmer - OO/Perl, NY
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16060
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 31, 2012
+
+Job title: Programmer - OO/Perl
+
+Location: NY
+
+Pay rate: open
+
+Length of employment: fulltime
+
+Hours: Full time
+
+Description:
+Programmer - OO/Perl
+
+Description:
+ 
+A top financial firm is looking for someone who loves to program in Perl. 
+The position is for a programmer for the Compliance Technology Department
+of a brokerage and trading firm at our headquarters in Greenwich, CT. The
+candidate will have 2-5 years of experience with Object Oriented Perl as
+well as strong software design skills.
+ 
+ 
+ 
+Responsibilities:
+•	 Develop Perl modules to support brokerage, trading and customer
+account surveillance.
+•	Design Perl APIs for accessing data from various brokerage systems 
+
+•	Develop and maintain web-based tools using CGI or modern web
+frameworks.
+ 
+  
+Required skills: 
+•	Object Oriented Programming in Perl 5.8 or 5.14 
+•	Experience using modules, writing modules, and testing modules
+using the object oriented features of Perl as well as the functional
+features. 
+•	Experience with the Perl DBI module.
+•	Knowledge of using regular expressions in Perl.
+•	Knowledge of SQL and writing queries.
+•	Knowledge of Linux and use of the command line.
+•	Basic knowledge of desktop applications such as MS Excel. 
+•	Degree in Computer Science/Computer Engineering/Software
+Engineering or Information Technology related field.
+ 
+  
+Desired skills:
+•	Familiarity with software design patterns is a plus.
+•	Familiarity with ORACLE databases.
+•	Familiarity with processing xml using modules such as XML::Twig is
+a plus. 
+•	Familiarity with Test::More module and a general understanding of
+building reliable software is a plus. 
+•	Familiarity with CGI or web frameworks such as Mojolicious, Dancer,
+or Catalyst is a plus.
+•	Familiarity with any ORMs such as Rose::DB::Object or DBIx::Class
+is a plus
+•	Familiarity with JavaScript is a plus. 
+•	Ability to read other programming languages is a plus.
+
+Contact information at:
+http://jobs.perl.org/job/16060#contact

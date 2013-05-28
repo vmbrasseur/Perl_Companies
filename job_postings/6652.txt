@@ -1,0 +1,132 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6652
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 19453 invoked from network); 18 Jul 2007 22:13:16 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 18 Jul 2007 22:13:16 -0000
+Received: (qmail 29855 invoked by uid 225); 18 Jul 2007 22:13:16 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 29847 invoked by alias); 18 Jul 2007 22:13:16 -0000
+X-Spam-Status: No, hits=-2.6 required=8.0
+	tests=BAYES_00,DKIM_POLICY_SIGNSOME,DK_POLICY_SIGNSOME,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 18 Jul 2007 15:13:06 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id A8BA52AFDE; Wed, 18 Jul 2007 15:13:02 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070718221302.A8BA52AFDE@x3.develooper.com>
+Date: Wed, 18 Jul 2007 15:13:02 -0700 (PDT)
+Subject: Object Oriented PERL Developer (onsite), United States, CA, San Francisco
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/6201
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 18, 2007
+
+Job title: Object Oriented PERL Developer
+
+Company name: Executive Direction, Inc.
+
+Internal ID: BXA-OOPerl
+
+Location: United States, CA, San Francisco
+
+Pay rate: Market
+
+Travel: 0%
+
+Terms of employment: Hourly employee
+
+Length of employment: Contract to permanent
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+JOB DESCRIPTION AND DAY TO DAY ROLE
+-Design and Development Engineer  
+ 
+Job Description  IT development for production-quality data acquisition,
+cleansing and distribution with technologies such as Sybase ASE, Perl,
+Sybase IQ, SQL and XML.
+The primary client will be Penguin/iShares.
+
+The candidate will be responsible for the full lifecycle of the Development
+liaising with a global team. Responsibilities will include:
+
+o Partnering with Knowledge Management Business Analysts and Clients to
+define business requirements and test plans.
+o Implementing high quality well tested solutions to business problems
+using one of clients agreed SDLCs.
+o Collaborating with KM Architecture group on design of new applications
+and components.
+o Building strong relationships with the business through delivery,
+communication and domain knowledge.
+o Working closely with the Production Services team to ensure code,
+documentation, monitoring, etc. are fit for a production environment.
+o Providing 2nd Level support for existing production code
+
+
+Required skills:
+Core Technologies
+
+- Strong OO Designs skill 
+- Worked the entire SDLC in Perl
+- knowledge of OO design methodology, terminology and principles.
+- Strong Perl 
+- Experience with Java
+- Strong Database development skills 
+- Sybase ASE preferable
+- Strong Database design skills - (indexes, normalization, stored
+procedures, views, entity-relationships, etc.)
+- Strong Unix skills - at least 4 years day-to-day experience of Unix
+(Solaris, Linux, BSD, etc?)
+- Experience with an ETL tool, preferably Informatica.
+
+Database skills:
+- Model tables and build relationships, Stored Procedures, SQL
+- Written from scratch:
+	Stored Procedures
+	Drawing Tables
+	Indexing Fields
+
+Perl Object Oriented Development Skills
+-Written their won modules and implemented own of the following design
+patterns:
+	Singleton
+	Factory
+	MVC
+	Façade
+	Proxy
+	Delegate
+	Command
+
+
+Desired skills:
+Desirable Technologies
+- Good XML skills
+- Sybase IQ
+- Powerbuilder
+- MQ Series
+- Autosys
+- Asset Control
+- mod_perl 
+- BPM
+
+URL for more information: http://www.exdir.com/
+
+Contact information at:
+http://jobs.perl.org/job/6201#contact
+
+

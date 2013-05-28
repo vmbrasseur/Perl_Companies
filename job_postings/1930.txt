@@ -1,0 +1,116 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:1930
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 32267 invoked from network); 22 Sep 2004 19:44:22 -0000
+Received: from x1.develooper.com (63.251.223.170)
+  by lists.develooper.com with SMTP; 22 Sep 2004 19:44:22 -0000
+Received: (qmail 11546 invoked by uid 225); 22 Sep 2004 19:44:22 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11541 invoked by alias); 22 Sep 2004 19:44:21 -0000
+X-Spam-Status: No, hits=-4.9 required=8.0
+	tests=BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.dev) (63.251.223.163)
+  by la.mx.develooper.com (qpsmtpd/0.27.1) with ESMTP; Wed, 22 Sep 2004 12:44:19 -0700
+Received: from x3.dev (localhost.localdomain [127.0.0.1])
+	by x3.dev (8.12.11/8.12.11) with ESMTP id i8MJiHBg002254
+	for <jobs@perl.org>; Wed, 22 Sep 2004 12:44:17 -0700
+Received: (from jobs@localhost)
+	by x3.dev (8.12.11/8.12.11/Submit) id i8MJiH8x002252;
+	Wed, 22 Sep 2004 12:44:17 -0700
+Date: Wed, 22 Sep 2004 12:44:17 -0700
+Message-ID: <200409221944.i8MJiH8x002252@x3.dev>
+X-Authentication-Warning: x3.dev: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Release Engineer for Perl/Linux/Apache environment (onsite), United States, Masachusetts, Cambridge
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1820
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 22, 2004
+
+Job title:
+Release Engineer for Perl/Linux/Apache environment
+
+Company name: Grand Virtual
+
+Internal ID: release engineer
+
+Location: United States, Masachusetts, Cambridge
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Grand Virtual, Inc., an industry-leading, profitable gaming and
+entertainment development company based in Cambridge, MA, is seeking an
+experienced Release Engineer to streamline our software development and QA
+efforts.  The ideal candidate is a highly organized toolsmith and librarian
+with a proven track record in delivering working builds and the desire to
+improve existing processes. Attention to detail and precision is critical
+for this position. This leadership position will work with developers,
+quality assurance, and IT team members to maintain and enhance our existing
+development processes.
+
+RESPONSIBILITIES
+
+- Provide software configuration management for our development and
+production software releases 
+- Rework/maintain/optimize existing configuration management processes 
+- Design and develop Build and Release tools to increase development
+productivity
+- Implement automated solutions using PERL, shell script, C/C++, or similar
+languages/tools.
+- Provide systems administration to Perforce server 
+- Define and document code management (branching/merging) and release
+processes and policies.
+
+
+Required skills:
+You must meet ALL of these requirements to be considered for this position:
+
+
+- Experience managing multiple parallel projects, branching and merging.
+- Thorough knowledge of Perl and Linux 
+- Ability to manage a high-volume of releases through multiple environments
+- development, QA, staging, production.
+- Experience developing code management and release packaging scripts using
+Perl, make, shell and other scripting languages.
+- 2+ years experience using and administrating Perforce or other source
+code management systems (e.g., CVS, Subversion, etc.).	Note that prior
+Perforce experience is highly valued
+- Superior organization and communications skills.
+- Ability and desire to create easily understandable release process and
+SCM protocol documentation.
+- Again, attention to detail bordering on obsessive :)
+
+Note: We are looking for Boston-area candidates only.  If you don't meet
+this requirement, please don't apply.
+
+Desired skills:
+- Good working knowledge of Windows
+- MySQL, Informix or similar database experience
+- Small company experience
+- detail knowledge of Apache configuration for security, performance and
+scalability
+- Interest in poker and casino gaming
+
+URL for more information: http://www.grandvirtual.com/
+
+Contact information:
+Please send your resume to job2356@grandvirtual.com.
+
+

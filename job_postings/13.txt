@@ -1,0 +1,64 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13
+Return-Path: <Ged@FaerieMUD.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 3350 invoked from network); 2 Apr 2001 17:49:02 -0000
+Received: from oberon.faeriemud.org (206.247.195.65)
+  by tmtowtdi.perl.org with SMTP; 2 Apr 2001 17:49:02 -0000
+Received: (qmail 14891 invoked by uid 0); 2 Apr 2001 17:49:01 -0000
+Received: from galendril.faeriemud.org (deveiant@206.247.195.71)
+  by oberon.faeriemud.org with SMTP; 2 Apr 2001 17:49:01 -0000
+Date: Mon, 2 Apr 2001 11:49:01 -0600 (MDT)
+X-X-Sender:  <deveiant@galendril.FaerieMUD.org>
+To:  <jobs@perl.org>
+Message-ID: <Pine.LNX.4.33.0104021043200.926-100000@galendril.FaerieMUD.org>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Subject: [Job Seeker] Object-oriented Perl Developer
+Approved: news@nntp.perl.org
+From: Ged@FaerieMUD.org (Michael Granger)
+
+
+Hi,
+
+I am looking for a position as an object-oriented Perl developer. I have
+over 7 years of Perl experience in a wide variety of disciplines including
+mod_perl/FastCGI/CGI web development; web agents (LWP); database
+programming using DBI and MySQL, Oracle, MS SQL Server, and Sybase;
+network and socket programming; and GUI construction using Gtk-Perl and
+Perl/Tk. I also have 6 years of experience in Linux/UNIX system
+administration, including installation, configuration, and maintenance of
+SMTP (Sendmail and Qmail), DNS (Bind 4,8, and 9), HTTP (Apache and
+Netscape Enterprise Server), file-sharing (Samba and NFS), FTP, IMAP,
+POP3, NTP, and other services.
+
+My resume can be viewed at:
+
+  <http://www.FaerieMUD.org/~ged/Resume.html>
+
+and code samples can be had by viewing the online CVS repository at:
+
+  <http://cvs.sourceforge.net/cgi-bin/cvsweb.cgi/Icebox/?cvsroot=icebox>
+
+or the CPAN module Class::Translucent.
+
+I live in Lakewood, Colorado, and would prefer a position that would allow
+me to continue to live there, be it via telecommuting or location, but
+would consider relocating for the right opportunity. I would enjoy working
+for a company that cares about code quality, has a casual work atmosphere,
+is interested in giving back to the Perl community, and especially one
+which offers a continual learning experience. I am passionate and
+committed to my craft, and I believe I have a lot to offer to the right
+company.
+
+Thanks for reading.
+
+-- 
+Michael Granger <Ged@FaerieMUD.org>
+Perlmage, Believer, Architect
+The FaerieMUD Consortium, <URL: http://www.FaerieMUD.org/>
+
+

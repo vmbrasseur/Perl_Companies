@@ -1,0 +1,107 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3162
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 17655 invoked from network); 3 Sep 2005 16:32:31 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 3 Sep 2005 16:32:31 -0000
+Received: (qmail 26049 invoked by uid 225); 3 Sep 2005 16:32:31 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 26043 invoked by alias); 3 Sep 2005 16:32:30 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 03 Sep 2005 09:32:27 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j83GWM7q019788
+	for <jobs@perl.org>; Sat, 3 Sep 2005 09:32:22 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j83GWMiI019786;
+	Sat, 3 Sep 2005 09:32:22 -0700
+Date: Sat, 3 Sep 2005 09:32:22 -0700
+Message-ID: <200509031632.j83GWMiI019786@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Perl/CGI developer for networking appliance company (onsite), United States, Vero Beach, 1165 19th St.
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3021
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September  3, 2005
+
+Job title:
+Perl/CGI developer for networking appliance company
+
+Company name: Lok Technology
+
+Location: United States, Vero Beach, 1165 19th St.
+
+Pay rate: $125K
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: indefinite
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Growing network technology company, recently featured in Entrepreneur
+magazine as well as on CNBC and Forbes, is looking for several first class
+senior PERL web application developers.  Your job will be to architect,
+implement and maintain a web application that serves as a GUI for
+UNIX-based network infrastructure management appliance.  The code base you
+will be working with has been developed over a period of 10 years and is
+deployed all around the world.	Initially, you will learn how our system
+works by taking part in the maintenance of existing features that are
+composed of a CGI front end that writes to a database and a backend daemon
+that reads from the database and creates UNIX configuration files.  We will
+then expect you to be motivated and capable of architecting and implmenting
+new features that will enhance our product. Candidates must physically be
+present at either our Vero Beach or San Jose offices.  Relocation expenses
+may be covered for exceptional candidates.  We are only considering senior
+hires with significant (at least 5 years) experience with PERL, web
+applications, internet engineering, systems administration and networking.  
+
+Required skills:
+UNIX system administration, configuration and deployment
+Advanced PERL scripting techniques
+Advanced shell scripting techniques
+Firewall rule configuration and deployment methodology
+Static and dynamic routing methodology
+DHCP and DNS server configuration
+Wireless access point configuration and deployment
+NetBIOS (Sama) file server configuration and deployment
+
+Desired skills:
+OpenBSD
+Bandwidth management, traffic shaping and QoS technologies
+Intrusion protection systems
+Captive portal and walled garden technologies
+LDAP server configuration, deployment and implementation
+RADIUS server configuration, deployment and implementation
+IPsec VPN configuration and deployment
+Link control technologies
+Transparent web caching deployment and configuration
+Content filtering technologies
+Rogue access point detection and triangulation technology
+VoIP PBX systems, specifically Asterisk
+
+URL for more information: http://www.air-lok.com/
+
+Contact information at:
+http://jobs.perl.org/job/3021#contact
+
+

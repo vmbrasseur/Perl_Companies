@@ -1,0 +1,89 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9844
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 1837 invoked from network); 6 Feb 2010 15:42:58 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 6 Feb 2010 15:42:58 -0000
+Received: (qmail 20717 invoked by uid 225); 6 Feb 2010 15:42:57 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 20624 invoked by alias); 6 Feb 2010 15:42:57 -0000
+X-Spam-Status: No, hits=-0.0 required=8.0
+	tests=SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 06 Feb 2010 07:42:23 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 0D5E82AFDD; Sat,  6 Feb 2010 07:42:11 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20100206154212.0D5E82AFDD@x3.develooper.com>
+Date: Sat,  6 Feb 2010 07:42:11 -0800 (PST)
+Subject: Web Application Developer (part onsite), United States, CA, Ladera Ranch
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/11718
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February  5, 2010
+
+Job title: Web Application Developer
+
+Company name: IntelliSurvey, Inc.
+
+Internal ID: C25
+
+Location: United States, CA, Ladera Ranch
+
+Pay rate: DOE
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+IntelliSurvey, Inc. programs and hosts online surveys, reports and related
+applications for a variety of clients in the market research industry. We
+offer both software licensing via an SaaS model for our do-it-yourself
+clients, and we program surveys and applications using our own software on
+a project-by-project basis for clients who would rather outsource. We're
+looking for bright, enthusiastic developers to join our small team.
+
+Required skills:
+Our core software is built using Object Oriented Perl, Apache/mod_perl and
+Postgres running on Linux servers, so our ideal candidate will be
+experienced in these tools.  We also use ajax and Javascript frameworks,
+especially YUI and Ext JS, so experience with these is helpful. You should
+be comfortable on a Linux command line.
+
+More important, however, is a good foundation in overall programming
+skills, and the ability to learn and apply new skills quickly. We need
+people that are adept at sorting through a large codebase to quickly find
+bugs or identify points of entry for new features. The position will
+involve significant design work and new features evolve quickly, so we need
+someone who can take the initiative to figure out what needs to be done,
+and then make it happen.
+
+Depending on your background and experience, you may also be responsible
+for helping to monitor and manage our servers, and for providing technical
+support to our clients.
+
+Finally, because we are a relatively small company, everyone may be asked
+to wear different hats and help with whatever other tasks are necessary to
+help the company grow and prosper.
+
+URL for more information: http://www.intellisurvey.com/
+
+Contact information at:
+http://jobs.perl.org/job/11718#contact
+
+

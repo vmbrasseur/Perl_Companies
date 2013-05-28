@@ -1,0 +1,86 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2176
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 4058 invoked from network); 15 Dec 2004 21:21:25 -0000
+Received: from x1.develooper.com (63.251.223.170)
+  by lists.develooper.com with SMTP; 15 Dec 2004 21:21:25 -0000
+Received: (qmail 20109 invoked by uid 225); 15 Dec 2004 21:21:24 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 20104 invoked by alias); 15 Dec 2004 21:21:24 -0000
+X-Spam-Status: No, hits=-4.9 required=8.0
+	tests=BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.dev) (63.251.223.163)
+  by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 15 Dec 2004 13:21:22 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.dev (8.12.11/8.12.11) with ESMTP id iBFLLJfd017373
+	for <jobs@perl.org>; Wed, 15 Dec 2004 13:21:19 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id iBFLLJiD017371;
+	Wed, 15 Dec 2004 13:21:19 -0800
+Date: Wed, 15 Dec 2004 13:21:19 -0800
+Message-ID: <200412152121.iBFLLJiD017371@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: mod_perl/asterisk developer (onsite), United States, IL, Orland Park
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2088
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 15, 2004
+
+Job title: mod_perl/asterisk developer
+
+Company name: The Cipher Group
+
+Internal ID: IT3118
+
+Location: United States, IL, Orland Park
+
+Pay rate: Neg
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: Permanent
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The Cipher Group is looking for a responsible developer/project leader
+currently located in or willing to relocate to the Chicago south suburban
+area. This person will be responsible for developing and maintaining an
+active Asterisk PBX deployed VOIP solution. The PBX is configured VIA
+mod_perl enabled application and utilizes RPC::XML to communicate with PBX.
+Developer responsibilities will include mod_perl development and Asterisk
+AGI integration.
+
+
+Required skills:
+mod_perl familiarity required.
+XML-RPC experience required.
+Primitive phone system knowledge.
+VIOP knowledge is a plus.
+
+
+Desired skills:
+Willingness to learn. Must be able to work under pressure. Minimal travel
+required (local customer site visits in area).
+
+Contact information:
+Please email resumes to:
+warren@warrenandrachel.com
+
+

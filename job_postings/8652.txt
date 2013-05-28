@@ -1,0 +1,114 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8652
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 22497 invoked from network); 12 Sep 2008 00:22:51 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 12 Sep 2008 00:22:51 -0000
+Received: (qmail 5678 invoked by uid 225); 12 Sep 2008 00:22:51 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 5652 invoked by alias); 12 Sep 2008 00:22:51 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 11 Sep 2008 17:22:48 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id D00FA2AFE2; Thu, 11 Sep 2008 17:22:44 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080912002244.D00FA2AFE2@x3.develooper.com>
+Date: Thu, 11 Sep 2008 17:22:44 -0700 (PDT)
+Subject: Senior Software Engineer (onsite), United States, CA, San Francisco
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8286
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 11, 2008
+
+Job title: Senior Software Engineer
+
+Company name: San Francisco Chronicle/SFGate.com
+
+Internal ID: 08-049
+
+Location: United States, CA, San Francisco
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The primary responsibility of the senior software engineer will be to
+deliver web applications for the SFGate. He or she will work directly with
+the other engineers and the Director of Technical Development. He or she
+will also be responsible for being a backup for the other engineers by
+becoming familiar with their area of expertise and maintaining such
+knowldedge over time as appropriate. The successful candidate will also
+provide expertise in the selection of the web sites hardware architecture
+include load balancers, commodity web servers, database servers, network
+attached storage devices, and networking component. The engineer will also
+be able to develop sophisticated benchmarking to measure the web site’s
+performance and help in the resource planning. SFGate routinely integrate
+third party software and services in its web site, and the candidate will
+ensure that this integration is promptly effected in a scalable and
+maintainable fashion. Specific duties include:
+Essential Duties:      
+
+o	Deliver applications based on specifications and coded to the
+standards of the SFGate engineering team.
+o	Learn specifics of the SFGate web site implementation.
+o	Solve bugs and otherwise maintain existing applications.
+o	Read and understand documentation from external partners to
+effectively integrate said partners’ features and services in SFGate’s web
+site.
+o	Provide backup expertise for the system administrator role.
+o	Provide expert advice to the Director on software and hardware used
+on the site.
+
+
+Required skills:
+Knowledge/Experience Required:	    
+
+Qualified candidates will have successfully implemented and deployed
+high-traffic applications for public web sites, as well as demonstrated an
+understanding of the complete life cycle of product development. In
+addition, qualified candidates should have a proven track record or working
+in close-knit engineering teams. An ability to communicate clearly and
+constructively discuss technical issues is also required.
+
+Credentials Required: 
+
+ BS or MS in Computer Science or equivalent
+
+Licenses:	N/A
+
+Essential Skills Required:	
+o	At least five years of software development experience in a
+Linux/Apache/MySQL/Perl (LAMP) environment.
+o	Effective communication skills and the ability to interact
+professionally with a diverse group of clients and staff
+o	Ability to work productively in teams
+o	Excellent problem solving.
+o	Experience in scalability design, networking and high
+availability/high throughput storage infrastructures.
+o	Experience and understanding of all aspects of Apache configuration
+for a high throughput web site.
+
+
+URL for more information: http://www.sfchronicle.com/hr
+
+Contact information at:
+http://jobs.perl.org/job/8286#contact
+
+

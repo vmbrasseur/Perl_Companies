@@ -1,0 +1,112 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11168
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 32370 invoked from network); 30 Mar 2011 19:59:44 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 30 Mar 2011 19:59:44 -0000
+Received: (qmail 23627 invoked by uid 225); 30 Mar 2011 19:59:43 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 23623 invoked by alias); 30 Mar 2011 19:59:43 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 30 Mar 2011 12:59:41 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id AEAD62AFE1; Wed, 30 Mar 2011 12:59:38 -0700 (PDT)
+To: jobs@perl.org
+Date: Wed, 30 Mar 2011 12:59:38 -0700
+Message-ID: <20110330195938.AEAD62AFE1@x3.develooper.com>
+Subject: Senior Developer (onsite), United Kingdom, North Somerset, Kenn,
+ near Bristol
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13956
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 30, 2011
+
+Job title: Senior Developer
+
+Company name: Cablecom Networking Ltd
+
+Location: United Kingdom, North Somerset, Kenn, near Bristol
+
+Pay rate: £30k - 35k p.a. depending on skills and experience
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Working as part of the Technical Development team within the Service
+Delivery department, the Senior Developer will be responsible for the
+creation and maintenance of  static websites, dynamic web applications, and
+other back-end systems that work together to support the Cablecom product
+portfolio under the StudentCom, Freewire and other related brands. 
+
+*   Design, develop and support template driven websites including
+databases and interfaces to allow for easy updating of content by clients.
+*   Design, develop and support web based applications to provide end-user
+account registration and management including online purchasing
+capabilities and interfaces to backend systems.
+*   Design, develop and support back-end systems including interfaces to
+both internal and external third party systems.
+*   Design, develop and support internal tools to allow administration,
+management and monitoring of all system components.
+*   Support and enhance existing web based and back-end systems to meet
+ongoing customer requirements.
+*   Define and perform unit and system testing of new and existing
+applications, engaging relevant parties where necessary.
+*   Define and perform acceptance testing and reporting of results
+*   Monitor web server and site technical performance and optimize systems
+to provide best user experience and hardware utilisation.
+*   Ensure that all applications and systems are fully documented
+*   Ensure that all applications and systems are secure and comply with
+relevant security standards and regulations (including PCI-DSS and Data
+Protection Act)
+*   Any other duties as deemed necessary by supervisor
+
+
+Required skills:
+    Perl
+    PHP (Object Oriented, Web based and standalone)
+    Linux
+    MySQL
+    Secure Programming Techniques (in particular, compliance with PCI-DSS)
+
+
+Desired skills:
+The candidate should be able to demonstrate practical experience of:
+
+    HTML / CSS
+    Graphics manipulation
+    Javascript
+    Flash / Flex / AIR
+
+
+Experience of the following skills and technologies would be beneficial to
+this role:
+
+    Web and Graphical design
+    C/C++
+    VoIP (SIP, Asterisk, SBC)
+    IPv4, IPv6, Multicast routing and switching on Cisco hardware
+    IPTV Middleware
+    DHCP (at a protocol level)
+    SNMP
+    Gaming and Gaming Servers
+    Social Networking Integration
+
+
+Contact information at:
+http://jobs.perl.org/job/13956#contact

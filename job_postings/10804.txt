@@ -1,0 +1,112 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10804
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 7093 invoked from network); 11 Dec 2010 08:08:10 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 11 Dec 2010 08:08:10 -0000
+Received: (qmail 20168 invoked by uid 225); 11 Dec 2010 08:08:09 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 20164 invoked by alias); 11 Dec 2010 08:08:09 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 11 Dec 2010 00:08:07 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 861A42AFE0; Sat, 11 Dec 2010 00:08:03 -0800 (PST)
+To: jobs@perl.org
+Date: Sat, 11 Dec 2010 00:08:03 -0800
+Message-ID: <20101211080803.861A42AFE0@x3.develooper.com>
+Subject: Sr. Perl Developer (onsite), United States, CA, Culver City
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13336
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 10, 2010
+
+Job title: Sr. Perl Developer
+
+Company name: (mt) Media Temple
+
+Location: United States, CA, Culver City
+
+Pay rate: Competitive 
+
+Terms of employment: Salaried employee
+
+Length of employment: Full Time - Perm
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+For years, we've taken complex technology and simplified it for the
+everyday website owner. (mt) Media Temple, Inc. is a web hosting and
+virtualization service provider headquartered in Los Angeles, California.
+Since 1998, the company has provided businesses around the world with
+reliable, professional-class services to host websites, email, business
+applications, and other rich Internet content.
+
+As our operations continue to grow, so does our need to develop more
+innovative, reliable and sophisticated products, applications and services.
+This is where you come in. We’re looking for a passionate, dedicated Sr.
+Perl Developer to join our already amazing  team. If you’re a passionate
+innovator with the skills and experience to manage the monsters you create,
+we want to hear from you. 
+
+
+Required skills:
+General Requirements
+Experience supporting up to and beyond 300 simultaneous end users
+Must possess strong written and verbal communication skills and the good
+judgement to use them when necessary.
+Ability to develop thorough, “human readable” training and reference
+materials
+Ability to juggle multiple requests, prioritize and manage time effectively
+to meet demanding deadlines
+Must possess unquestionable integrity, dependability, and pride in your
+work
+Must be committed to nothing less than 100% up time
+An inherent desire to innovate 
+Strong knowledge of OO/modular design
+Passionate about writing quality, well tested code
+Driven and self-directed while still being able to cooperate with others
+Adept at working in a team
+UNIX systems experience (Linux, Solaris, OSX) – developing on
+(editors/compilers/etc), writing to (system calls), packaging for and
+administration
+Practical applications of major design patterns (e.g. MVC)
+Experience working with distributed and highly available systems
+Experience with advanced VCS usage (Git/SVN, Branching/Merging) 
+
+Desired skills:
+Additional Considerations
+Special preference will be given to the following.
+
+We’re a Perl shop, so
+CPAN contributors welcome
+Experience with Catalyst, Moose, Perl ORMs
+Perl OO/Modular design and testing
+We also interact with Ruby, Python, PHP, C/C++, Javascript+DOM, and like
+Java/Erlang/Scala/etc
+Experience with Scrum-like development methodologies
+Building using SOA-style principles (REST/RPC APIs, messaging, etc)
+Experience with "NoSQL" style datastores
+(memcached/Riak/Redis/CouchDB/Tokyo/Cassandra/Voldemort/etc)
+Map/Reduce paradigms (Hadoop/Disco/etc)
+Configuration Management (Puppet or similar)
+CS/CE BS or MS 
+
+Website for more information: http://mediatemple.net/
+
+Contact information at:
+http://jobs.perl.org/job/13336#contact

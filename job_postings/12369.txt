@@ -1,0 +1,80 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12369
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 1426 invoked from network); 26 Apr 2012 06:08:50 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 26 Apr 2012 06:08:50 -0000
+Received: (qmail 31952 invoked by uid 225); 26 Apr 2012 06:08:50 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 31947 invoked by alias); 26 Apr 2012 06:08:50 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 25 Apr 2012 23:08:47 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 2B1A42AFE0; Wed, 25 Apr 2012 23:08:44 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 25 Apr 2012 23:08:44 -0700
+Message-ID: <20120426060844.2B1A42AFE0@x3.develooper.com>
+Subject: Developer - Music and Metadata (onsite), London, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13640
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 25, 2012
+
+Job title: Developer - Music and Metadata
+
+Company name: state51
+
+Location: London, UK
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+state51 makes a platform to manage music and metadata. Working with
+successful indie labels, major labels and distributors this software has
+delivered millions of tracks to hundreds of music services around the
+world.
+
+We are based in east London and part of a group of companies all working
+with music. We're very old in internet years, but we're always developing
+new and interesting ideas. We now have a vacancy for one exceptional
+developer to take our platform and other music related projects forward.
+
+The developer team you'll be joining is small and in control of its own
+tools (Catalyst, Moose, Git, Puppet) and environment.
+
+This position is onsite, telecommuting is not an option.
+
+Required skills:
+The current code is a large set of persistent objects developed in modern
+Perl, so there will be a lot of that, but experience as a professional OO
+developer will be valued over any particular language as we look for any
+good way to achieve results.  We would prefer 
+someone who gets their hands dirty rather than specialising in one thing.
+Years of experience are not necessary - someone who is keen and has a
+can-do attitude is a priority.
+
+Desired skills:
+An interest in music is desirable. Any mention of Silicon Roundabout is
+said with thick irony.
+
+Website for more information: http://state51.co.uk/about.html
+
+Contact information at:
+http://jobs.perl.org/job/13640#contact

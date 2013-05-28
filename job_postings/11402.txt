@@ -1,0 +1,116 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11402
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 5980 invoked from network); 14 Jun 2011 20:44:14 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 14 Jun 2011 20:44:14 -0000
+Received: (qmail 19547 invoked by uid 225); 14 Jun 2011 20:44:14 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 19543 invoked by alias); 14 Jun 2011 20:44:13 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 14 Jun 2011 13:44:10 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 682242AFDF; Tue, 14 Jun 2011 13:44:07 -0700 (PDT)
+To: jobs@perl.org
+Date: Tue, 14 Jun 2011 13:44:07 -0700
+Message-ID: <20110614204407.682242AFDF@x3.develooper.com>
+Subject: Senior Scientific (Perl) Developer - High Throughput Gene Targeting,
+ United Kingdom, Cambridge
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14076
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 14, 2011
+
+Job title:
+Senior Scientific (Perl) Developer - High Throughput Gene Targeting
+
+Company name: Wellcome Trust Sanger Institute
+
+Internal ID: 80893
+
+Location: United Kingdom, Cambridge
+
+Pay rate: 27.3k - 37.69k
+
+Terms of employment: Salaried employee
+
+Length of employment: 3 years
+
+Hours: Full time
+
+Description:
+We are seeking an experienced software developer to join the informatics
+team in the High Throughput Gene Targeting group. We work on a number of
+projects that aim to make a rich variety of mutations in Embryonic Stem
+Cells, to help the scientific community research gene function. The ideal
+candidate will be an excellent Perl programmer with a strong interest in
+bioinformatics and the support of leading-edge research in molecular
+biology.  You will be working as part of a small team developing software
+to support the laboratory's production pipelines, and will work closely
+with our molecular biologists to ensure that the software you deliver is
+effective.
+
+The Sanger Institute’s High Throughput Gene Targeting Team has played a
+central role in a number of established large-scale international projects:
+EUCOMM (http://www.eucomm.org), its extension into the EUCOMMTools project
+(http://www.knockoutmouse.org/about/eucommtools), and KOMP
+(http://www.knockoutmouse.org/about/komp). We  are also a principal
+contributor to the IDCC project (http://www.knockoutmouse.org) which
+presents a coordinated public face to the established high-throughput mouse
+knockout projects. The next few years promise to bring a wealth of
+challenge and excitement for our group, in terms of the variety of work we
+will encounter, the scale of throughput that we will support, and the
+implications that the work will have in the study of gene function in
+mammals.
+
+Our software ranges from plate-tracking, to sequence analysis, to data
+warehouses, often with Ajax-driven web interfaces, and is implemented using
+Modern Perl technologies such as Catalyst, DBIx::Class, and Moose. Our
+external-facing reporting software is deployed here:
+http://www.knockoutmouse.org/martsearch  and here:
+http://www.sanger.ac.uk/mouseportal . You can find out more about the mouse
+mutagenesis projects we are involved in here:
+http://www.sanger.ac.uk/research/projects/mousedevelopmentalgenetics/.﻿
+In addition to contributing to these projects, this position will allow the
+postholder to collaborate with other scientists and bioinformaticians
+working on site.
+
+Required skills:
+You must have:
+- An interest in bioinformatics 
+- Experience and fluency with Perl
+- A good working knowledge of database design and SQL
+- An ability to learn quickly on the job
+We work as a close team, so good communication skills in the context of the
+team are important.
+
+Desired skills:
+Desirable skills are
+- Prior experience in bioinformatics and sequence analysis
+- Knowledge of an MVC framework such as Catalyst or Ruby on Rails
+- Experience of Modern Perl technologies such as Catalyst, DBIx::Class,
+Template Toolkit, and Moose
+- Design and implementation of web-based user interfaces using Javascript
+libraries such as jQuery or ExtJS
+- A qualification in Biological computing is not essential but an interest
+in the science and ability to learn fast is key. The campus runs frequent
+courses to allow staff to augment their technical skills.
+
+Website for more information:
+https://jobs.sanger.ac.uk/wd/plsql/wd_portal.show_job?p_web_site_id=1764&p_
+web_page_id=131731
+
+Contact information at:
+http://jobs.perl.org/job/14076#contact

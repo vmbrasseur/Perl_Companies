@@ -1,0 +1,146 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3159
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 14276 invoked from network); 2 Sep 2005 08:48:31 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 2 Sep 2005 08:48:31 -0000
+Received: (qmail 19756 invoked by uid 225); 2 Sep 2005 08:48:30 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 19731 invoked by alias); 2 Sep 2005 08:48:29 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 02 Sep 2005 01:48:27 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j828mNFJ005823
+	for <jobs@perl.org>; Fri, 2 Sep 2005 01:48:23 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j828mNMO005821;
+	Fri, 2 Sep 2005 01:48:23 -0700
+Date: Fri, 2 Sep 2005 01:48:23 -0700
+Message-ID: <200509020848.j828mNMO005821@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Sr Manager of Reporting (Perl) (onsite), United States, ca, Alhambra
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2781
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September  2, 2005
+
+Job title: Sr Manager of Reporting (Perl)
+
+Company name: eQuest Solutions
+
+Location: United States, ca, Alhambra
+
+Pay rate: $115-135K + options + bonus
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: full time
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Manager of Enterprise Reporting (Perl)
+Location: Alhambra, CA
+Salary: $110-125K + bonus + options
+
+As a result of increased business, a leading Global Company is looking for
+a hands-on Manager of Reporting to join a growing Data Operations
+Department.  Company has been public for over 3 years, has been profitable
+for the past 6 Quarters, has YTD Net Income of $18+ million and has $100+
+million in cash.  Company has over 500 employees globally.
+
+The hands-on Manager will be responsible for leading a team of 4 Sr OO Perl
+Backend  Systems/Database Developers for Reporting on Oracle. The team and
+department are responsible for providing various internal and external
+customers/departments (including Business Intelligence) information, data
+and reports that is required for planning, analysis and decision making. 
+This position requires the Reporting Manager to spend approximately 50% of
+their time performing complex Architecture Design and OO Perl development
+and 50% of their time managing the Reporting Team. The Reporting Team is
+responsible for working closely with internal and external customers in
+understanding the business needs of their departments.	The Team is then
+responsible for creating, maintaining and enhancing complex Perl and Unix
+aggregation scripts within a high volume, complex backend system and Oracle
+Database.  The Reporting Manager will be responsible for creating and
+performing complex SQL queries to large (50+M rows) Oracle databases and
+for navigating complicated database relationships and creating and
+maintaining Oracle database tables. The Reporting Team also maintains the
+integrity of the Oracle databases in order to provide accurate information.
+ The Reporting Manager will be responsible for mentoring OO Perl
+Developers, project coordination and ensuring that the data, reporting and
+analysis needs of all internal and external clients are being met
+The manager also needs to have some analytical skills.	
+The Reporting Manager reports to the Director of Engineering.
+
+The company offers full benefits (PPO & HMO) including dental and vision,
+401K, Stock Options and Purchase Plans, 2 weeks vacation, 8 paid sick days,
+Short and Long Term Disability, Life Insurance, Employee Assistance
+Program, casual dress and flexible work hours that all start upon
+employment.
+
+
+Required skills:
+REQUIREMENTS
+MUST HAVE 3-4+ years developing large enterprise level Reporting Systems in
+OO Perl utilizing SQL, SQL Loader, PL/SQL and Unix shell scripts on Oracle.
+ 
+MUST have experience leading/managing a team of developers
+Experience working with large transactional and reporting Oracle databases
+(+50M rows daily).
+MUST HAVE Perl and Unix Shell Scripting experience, preferably on Solaris
+and Linux
+Ability to understand and create very complex SQL statements
+Must be able to apply optimization methods, including Oracle Hints, to SQL
+statements
+Must have experience creating stored procedures and triggers with PL/SQL
+Should have experience with multiple storage techniques (flat files, DB
+Berkeley, etc.)
+Ability to extract unique records from Oracle using SQL and PL/SQL
+PLUS:
+Unix System Administration or DBA experience is a plus, but not necessary.
+Experience in Database logical and physical design is a plus, but not
+necessary.
+
+Please note that all of your Perl, Unix, SQL, SQL Loader, PL/SQL and Oracle
+experience, including a detailed description of the complex reporting and
+backend database systems (# and type of sources of data), and/or the
+backend systems including the types of data format received/converted to,
+any converting, verifying, manipulating, cleansing, etc. of data, the
+size/volume of transactions processed daily/weekly/monthly and the size of
+the database (total size in TB’s/# of records/table) must be in the body of
+your resume to be considered.  Furthermore, you need to discuss each of the
+technologies you used for each part of the above backend database system.
+
+Please note that this is not an Oracle DBA or Architect position and
+neither DBA’s nor Architects will be considered.
+
+*Company is unable to sponsor or perform corp to corp for Visa holders. *
+*Company will not offer relocation assistance. *
+
+Company is in position to hire immediately.  
+
+
+Desired skills: perl
+
+Contact information at:
+http://jobs.perl.org/job/2781#contact
+
+

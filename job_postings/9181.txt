@@ -1,0 +1,94 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9181
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 15657 invoked from network); 7 May 2009 02:59:57 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 7 May 2009 02:59:57 -0000
+Received: (qmail 13203 invoked by uid 225); 7 May 2009 02:59:57 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 13199 invoked by alias); 7 May 2009 02:59:57 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 06 May 2009 19:59:51 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id BEBFD2AFDF; Wed,  6 May 2009 19:59:47 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20090507025947.BEBFD2AFDF@x3.develooper.com>
+Date: Wed,  6 May 2009 19:59:47 -0700 (PDT)
+Subject: Deployment Automation Developer for financial Institution, India, Mumbai
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/10560
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May  5, 2009
+
+Job title:
+Deployment Automation Developer for financial Institution
+
+Company name: JPMorgan Chase
+
+Internal ID: 090013391
+
+Location: India, Mumbai
+
+Description:
+Automation of application deployment and operations is a growing industry
+trend, as technology groups in corporations around the world turn their
+automation skills to their own processes and data centres. It is a key
+process for the stability and efficiency of environments in an
+ever-changing business world.
+ 
+The architecture function for a major business group within the Investment
+Bank had a dedicated team who develop and implement a framework for
+automation of deployments and environments across multiple applications. As
+a key member of that team, you will be part of a transformative change, and
+in the process gaining wide experience of some of the firm's critical
+applications.
+ 
+The role combines application development of the tools with implementing
+them for real - partnering with application teams to help them migrate
+their applications and environments.  The automation tools are based on the
+proven framework used by another group within the firm, and an "internal
+open source" project shares the framework across both groups. Like an
+Apache or Eclipse project this has a PMC to co-ordinate changes and a set
+of committers who make changes - you will be one of those committers.
+ 
+You'll already have good Perl, C++ and Unix/Linux skills. Subversion,
+ClearCase, Sybase, SQL,  Apache, web/CGI, Tomcat, iterative development,
+continuous integration, unit testing and networking skills are also great
+to have, as is a working knowledge of the ITIL framework and terms. For the
+skills you don't yet have, you'll be in an excellent environment to learn
+them, with formal training courses and working alongside specialists in the
+field. Your technical skills will be matched by good people skills, working
+with a range of people in build, operate, test, environment management and
+architect roles.
+ 
+If you want to develop great tools and make them work in real environments,
+working in a collaborative open source style, with the ability to make a
+visible impact in a global corporation, this is the role you've been
+waiting for.
+
+Required skills:
+Perl and Unix/Linux skills.
+Subversion, ClearCase, Sybase, SQL,  Apache, web/CGI, Tomcat, iterative
+development, continuous integration
+
+Desired skills: C++ (major plus)
+
+URL for more information:
+https://jpmchase.taleo.net/careersection/2/jobdetail.ftl?lang=en&job=894903
+
+Contact information at:
+http://jobs.perl.org/job/10560#contact
+
+

@@ -1,0 +1,96 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9650
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 18425 invoked from network); 30 Nov 2009 22:05:44 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 30 Nov 2009 22:05:44 -0000
+Received: (qmail 19612 invoked by uid 225); 30 Nov 2009 22:05:43 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 19474 invoked by alias); 30 Nov 2009 22:05:43 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 30 Nov 2009 14:05:41 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 5F0C42AFE0; Mon, 30 Nov 2009 14:05:37 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20091130220537.5F0C42AFE0@x3.develooper.com>
+Date: Mon, 30 Nov 2009 14:05:37 -0800 (PST)
+Subject: Perl coder/maintainer for Internet Exchange IP-aware tools (part onsite), United Kingdom, London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/11368
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 30, 2009
+
+Job title:
+Perl coder/maintainer for Internet Exchange IP-aware tools
+
+Company name: LINX
+
+Location: United Kingdom, London
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: 1 month renewable to 3 months
+
+Hours: Flexible
+
+Onsite: some
+
+Description:
+This contract is to carry out some maintenance and refinement work on some
+internal scripts and home-grown software that forms part of our network
+monitoring and management toolset, mostly written in Perl and using Perl
+modules.
+
+The work will consist of a code review of the existing software, followed
+by maintenance of the code to achieve two things - addition of some new
+features and improve the ease of future maintenance. There will also be a
+need to document the work you have done and hand it over.
+
+The position is nominally based in London, UK, with but with agreed
+telecommuting acceptable.
+
+Required skills:
+Excellent spoken and written English
+Proven experience in programming for LAMP based infrastructures
+UNIX system administration skills
+Understanding of IP networking, with IPv6 experience advantageous
+Demonstrate thorough knowledge and experience of solving problems using
+scripting languages - Perl essential!
+Previous software maintenance experience - Involving the adoption and
+maintenance of other developers' work
+Producing documentation for software deployments
+Using revision control systems such as SVN, RCS, etc., to manage software
+evolution and maintenance in a collaborative environment
+Experience with network monitoring and measurement software an advantage -
+e.g. syslog, MRTG, RRD databases, sFlow, NetFlow, etc.
+
+"Coding Challenge"
+You should be able to indicate multiple examples of openly available Perl
+programs you have written which:
+a) Have been accepted into recognised open source software repositories
+such as CPAN, and
+b) Are clearly documented, and
+c) Are regularly maintained, where maintenance is appropriate.
+
+You are also required to have the right to live and work in the UK.
+
+URL for more information: https://www.linx.net/job/perl-prog.html
+
+Contact information at:
+http://jobs.perl.org/job/11368#contact
+
+

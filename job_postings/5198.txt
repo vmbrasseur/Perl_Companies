@@ -1,0 +1,82 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5198
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 12861 invoked from network); 31 Oct 2006 15:08:52 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 31 Oct 2006 15:08:52 -0000
+Received: (qmail 2523 invoked by uid 225); 31 Oct 2006 15:08:51 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 2510 invoked by alias); 31 Oct 2006 15:08:50 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 31 Oct 2006 07:08:46 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id B24EC2AFE6; Tue, 31 Oct 2006 07:08:19 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20061031150819.B24EC2AFE6@x3.develooper.com>
+Date: Tue, 31 Oct 2006 07:08:19 -0800 (PST)
+Subject: Database Manager for Perl CRM (part onsite), Canada, Onatario, Toronto
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4205
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 31, 2006
+
+Job title: Database Manager for Perl CRM
+
+Company name: Herzig Eye Institute
+
+Location: Canada, Onatario, Toronto
+
+Pay rate: $30 per hour $CDN
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Flexible
+
+Onsite: some
+
+Description:
+We prefer a programer/company physically based in Toronto, Ontario, Canada
+
+We have a custom CRM application:
+
+- written in Perl
+- using a MySQL database
+- which lives on its own RedHat linux dedicated server
+- serving intranet requests through a mod perl / apache interface
+- presentation layer is built on the HTML::Template library
+
+You are looking for:
+- a development firm/person that can extend existing perl / mysql web
+applications
+- can work remotely on another company's server
+- can understand the application and improve on the foundation, rather than
+just applying band-aid fixes 
+
+We see this roll as an as needed consultant relationship helping us
+continue to develop our CRM database from the point is now and continuing
+to add functionality and value add.
+
+
+Required skills: Perl, MySQL, Redhat linux server, HTML
+
+Desired skills: See above
+
+Contact information at:
+http://jobs.perl.org/job/4205#contact
+
+

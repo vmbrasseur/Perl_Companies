@@ -1,0 +1,111 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9266
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 5167 invoked from network); 3 Jun 2009 08:37:14 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 3 Jun 2009 08:37:14 -0000
+Received: (qmail 12270 invoked by uid 225); 3 Jun 2009 08:37:14 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 12266 invoked by alias); 3 Jun 2009 08:37:14 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 03 Jun 2009 01:37:09 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 6D7BA2AFE1; Wed,  3 Jun 2009 01:37:06 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20090603083706.6D7BA2AFE1@x3.develooper.com>
+Date: Wed,  3 Jun 2009 01:37:06 -0700 (PDT)
+Subject: Internal Systems Developer (onsite), United States, Texas, Houston
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/10710
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June  1, 2009
+
+Job title: Internal Systems Developer
+
+Company name: cPanel Inc.
+
+Location: United States, Texas, Houston
+
+Pay rate: Salary contingent with experience
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: Perm
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+cPanel is currently seeking an exceptional Internal Systems Developer to
+join our Linux Development Department.
+
+Benefits:
+    * Full Health, Vision and Dental coverage
+    * Flexible Spending Account
+    * Free on-site lunch
+    * Paid Vacation
+    * Tuition Reimbursement
+    * Casual Working Environment
+    * 401K Matching
+
+
+Required skills:
+    *  US work eligibility
+    * Highly detail oriented
+    * Strong written communication skills including the ability to document
+complex processes and systems
+    * Strong working knowledge of Linux and FreeBSD operating systems,
+their underlying components and hosting related services such as:
+	  o Web Servers (Apache, Tux, Lighttpd, etc)
+	  o Mail Servers (Exim, Sendmail, etc.)
+	  o DNS Servers (BIND, NSD, etc.)
+    * Understanding of Linux Filesystems and volume management
+    * Strong working knowledge of SQL syntax and usage
+    * Strong working knowledge of MySQL database administration, including
+database replication
+    * Working knowledge of relational database design
+    * Advanced knowledge of Perl including:
+	  o CGI application development
+	  o Working knowledge of DBI for Perl
+	  o Familiarity with Perl best practices
+	  o Deployment of CPAN modules within a production environment
+    * Three years of Linux and FreeBSD system troubleshooting or related
+certification (RHCE) and two years of Perl development experience
+
+    *  Creates new code for cPanel products and internal systems used to
+support, distribute or maintain those products.
+    * Refactors existing code to perform more optimally in the same
+situations or to work within new constraints.
+    * Configures and tunes existing services to improve performance and
+reliability.
+    * Contributes knowledge from your analysis to company databases.
+    * Assists other employees with their analysis of external and internal
+systems.
+    * Adheres to the policies and procedures of the cPanel companies.
+    * Adheres to coding and development standards and practices provided by
+cPanel.
+    * Prepares ad hoc reports for management and company executives.
+    * Other duties as assigned
+
+
+URL for more information: http://cpanel.net/employment/is-dev.html
+
+Contact information at:
+http://jobs.perl.org/job/10710#contact
+
+

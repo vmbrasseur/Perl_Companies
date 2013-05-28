@@ -1,0 +1,112 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9401
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 22334 invoked from network); 8 Aug 2009 20:46:11 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 8 Aug 2009 20:46:11 -0000
+Received: (qmail 12742 invoked by uid 225); 8 Aug 2009 20:46:11 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 12737 invoked by alias); 8 Aug 2009 20:46:10 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 08 Aug 2009 13:46:05 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id F06262AFE0; Sat,  8 Aug 2009 13:46:01 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20090808204601.F06262AFE0@x3.develooper.com>
+Date: Sat,  8 Aug 2009 13:46:01 -0700 (PDT)
+Subject: Storage Architect, Belmont, CA | 150-170k  (onsite), United States, CA, Belmont
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/10942
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August  7, 2009
+
+Job title:
+Storage Architect, Belmont, CA | 150-170k 
+
+Company name: OSS
+
+Location: United States, CA, Belmont
+
+Pay rate: 150-170k 
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: Permanent 
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Employees who work for our client are passionate and possess the deeply
+held belief that a team working for a cause will reach and benefit millions
+of people. They are looking for those rare individuals who share their
+passion about building a great company while delighting customers, partners
+and fellow employees. 
+
+They offer many perks and benefits beyond salary such as shares in the
+company, 401K, 12 Company Paid Holidays as well as 15 PTO days per year –
+and your birthday is a paid day off! Free drinks and cheap snacks are
+always available. They have the excitement of the dotcom era and the
+stability of an established, profitable company. They provide Medical,
+Dental, and Vision as well as Life Insurance, Short & Long Term Disability,
+and an Employee Assistance Program. 
+
+This position is part of the Storage Team, responsible for supporting a
+multi-petabyte service. You will investigate new technology (server,
+storage, software), contribute to the design and building of next
+generation infrastructure, deploy capacity to the site, perform critical
+upgrades, manage data flow and IO redistribution processes and are
+responsible for the 99.99% uptime of the service. In addition you are a
+competent Perl developer, building automation tools and utilities to manage
+the archive. You will help design and maintain custom MySQL databases and
+applications required to support the archive.
+
+Requirements:
+
+* Experience with distributed file systems, storage arrays, replication and
+virtualization technologies, volume and file system management products and
+backup solutions 
+* System, storage and application/service design and implementation
+experience 
+* Understanding of current industry trends including backup-to-disk,
+continuous backup, archiving, de-dup, virtualization and automated
+migrations 
+* Demonstrated competency integrating open-source and commercial software
+products 
+* Expert knowledge for Linux/Solaris based file-systems, particularly
+clustered, global and shared file systems 
+* In depth knowledge of disk-based storage hardware including storage
+controllers, SAN and raid disk configurations 
+* File system, network and server performance tuning 
+* Experience developing and implementing automated autonomic and batch
+tools for managing large amounts of data 
+* Perl and shell scripting, other languages (Java, Python, etc) welcome
+(10+ years) 
+* Experienced troubleshooter, ability to work independently and within a
+team 
+* Communication, documentation and process oriented a big plus 
+* Experience building and supporting infrastructure for mission critical
+highly available services 
+* Expert Unix systems administration (10+ years) 
+* This position requires participation in an on-call pager rotation 
+
+
+Contact information at:
+http://jobs.perl.org/job/10942#contact
+
+

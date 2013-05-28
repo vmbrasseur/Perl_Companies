@@ -1,0 +1,87 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3056
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 26515 invoked from network); 4 Aug 2005 01:42:51 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 4 Aug 2005 01:42:51 -0000
+Received: (qmail 21973 invoked by uid 225); 4 Aug 2005 01:42:51 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 21968 invoked by alias); 4 Aug 2005 01:42:50 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 03 Aug 2005 18:42:45 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j741ggF4020047
+	for <jobs@perl.org>; Wed, 3 Aug 2005 18:42:42 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j741gfUh020045;
+	Wed, 3 Aug 2005 18:42:41 -0700
+Date: Wed, 3 Aug 2005 18:42:41 -0700
+Message-ID: <200508040142.j741gfUh020045@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: mod_perl/DBI  developer for large scale web service (onsite), United States, WA, Seattle
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2921
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August  3, 2005
+
+Job title:
+mod_perl/DBI  developer for large scale web service
+
+Company name: Jobster
+
+Location: United States, WA, Seattle
+
+Pay rate: negotiable
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Join the team that builds Jobster's core vertical job search engine. We are
+a small but growing development team operating on rapid development cycles,
+so your impact on the Jobster product can be felt immediately! Fun, casual
+working environment with a great team. 
+
+Required skills:
+    *  Minimum 3 years experience building scalable web-based applications.
+
+    * Advanced OO Perl experience required
+    * Database development expertise (DBI)
+     * Must be comfortable with an open source-like development environment
+including tools like Linux, CVS (or equivalent), Vi or Emacs, Bash, CPAN
+etc.
+
+
+Desired skills:
+* Experience with Apache web server - specifically Mod_Perl under Apache on
+Linux 
+* Experience with fulltext search engines like Lucene and swish-e 
+* MySQL experience
+
+
+URL for more information:
+http://service.jobster.com/view.html?i=WPCAUKQOCWJR
+
+Contact information at:
+http://jobs.perl.org/job/2921#contact
+
+

@@ -1,0 +1,104 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2785
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 17449 invoked from network); 27 May 2005 23:21:37 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 27 May 2005 23:21:37 -0000
+Received: (qmail 3686 invoked by uid 225); 27 May 2005 23:21:37 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 3673 invoked by alias); 27 May 2005 23:21:36 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 27 May 2005 16:21:33 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j4RNLVKl023566
+	for <jobs@perl.org>; Fri, 27 May 2005 16:21:31 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j4RNLVNn023564;
+	Fri, 27 May 2005 16:21:31 -0700
+Date: Fri, 27 May 2005 16:21:31 -0700
+Message-ID: <200505272321.j4RNLVNn023564@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: mod_perl developer (onsite), United States, NY, New York
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2456
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 27, 2005
+
+Job title: mod_perl developer
+
+Company name: CheetahMail, an Experian company
+
+Internal ID: perl
+
+Location: United States, NY, New York
+
+Pay rate: US $$$
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+CheetahMail, an Experian Company is a leading email marketing and customer
+intelligence company.  Strong  open-source based technology and impassioned
+people drive our best of breed application solutions, drawing household
+name clients from every industry to execute their marketing campaigns and
+leverage our advanced targeting, personalization and analytical
+capabilities. 
+
+We are looking for Software Engineers with a Unix/Linux  background and
+expert knowledge of Perl for both mod_perl application interface
+development as well backend data-processing.  Knowledge of C, shell
+scripting, and javascript are desirable.  As an open-source shop we develop
+exciting and unique solutions from the ground up and have the opportunity
+to understand how things work at the lowest levels and modify things to
+work as desired.  Development is collaborative and in discussions, there is
+no "X says so", but rather an idea or a way of doing things has to be
+explained so that others based on common sense 
+can be convinced.  Little specialization, lots of discussion/learning.	 
+Our development process is not fully formalized and requires developers to
+wear several hats at times and be involved from analysis and design through
+testing, implementation and support of live systems.
+
+General database knowledge including SQL is a must and more experience,
+especially in Oracle/MySQL is desirable.  Applicants must be
+self-motivated, organized, able to communicate with internal clients, and
+have the ability to both complete projects independently as well as work on
+small teams.
+
+Required Skills: Perl, Linux/Unix, SQL
+Desired skills: C, shell scripting, javascript, XML, Apache, Oracle/MySQL
+
+Please send resumes and salary info to jobs@cheetahmail.com
+<mailto:jobs@cheetahmail.com>
+
+
+Required skills:
+We work a lot with Oracle. Basic SQL is a must, and more experience,
+especially Oracle, is desirable. 
+expert knowledge of C and/or Perl, ideally mod_perl programming 
+
+URL for more information: http://www.cheetahmail.com/
+
+Contact information at:
+http://jobs.perl.org/job/2456#contact
+
+

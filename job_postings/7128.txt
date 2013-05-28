@@ -1,0 +1,85 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7128
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 11805 invoked from network); 16 Oct 2007 20:31:42 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 16 Oct 2007 20:31:42 -0000
+Received: (qmail 20783 invoked by uid 225); 16 Oct 2007 20:31:40 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 20769 invoked by alias); 16 Oct 2007 20:31:40 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 16 Oct 2007 13:31:31 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 079892AFD8; Tue, 16 Oct 2007 13:31:28 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20071016203128.079892AFD8@x3.develooper.com>
+Date: Tue, 16 Oct 2007 13:31:28 -0700 (PDT)
+Subject: Build perl automation harness for C-app (part onsite), United States, MA, Framingham
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/7015
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 16, 2007
+
+Job title: Build perl automation harness for C-app
+
+Company name: Vivox, Inc
+
+Internal ID: QAPERL
+
+Location: United States, MA, Framingham
+
+Pay rate: competitive
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: 6+ mo contract-to-perm
+
+Hours: Flexible
+
+Onsite: some
+
+Description:
+Vivox provides real-time media streaming for online games and communities.
+We need to build an automation tool that can both simulate real application
+activities as well as provide an extendable interface for building and
+adding test scripts.
+
+Basic usage scenario:
+- start up a number of the perl harnesses on different machines with
+different configurations and test data sets
+- run client-specific scenarios that include individual interactions with
+particular clients
+- report results back in typical test format: summary of what passed,
+failed, warnings, skips; then detail on failures -- times, test data, other
+clients involved in failed actions, etc.
+
+Required skills:
+- master perl skills
+- understanding of web environments 
+- facility with XML/UML
+
+Desired skills:
+- some C/C++ coding experience
+- understanding of automation/test discipline
+
+
+URL for more information: http://www.vivox.com/
+
+Contact information at:
+http://jobs.perl.org/job/7015#contact
+
+

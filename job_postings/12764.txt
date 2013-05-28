@@ -1,0 +1,84 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12764
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 941 invoked from network); 28 Sep 2012 03:35:14 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 28 Sep 2012 03:35:14 -0000
+Received: (qmail 19600 invoked by uid 225); 28 Sep 2012 03:35:14 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 19596 invoked by alias); 28 Sep 2012 03:35:13 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 27 Sep 2012 20:35:11 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 992EA2AFE0; Thu, 27 Sep 2012 20:35:07 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 27 Sep 2012 20:35:07 -0700
+Message-ID: <20120928033507.992EA2AFE0@x3.develooper.com>
+Subject: Entry level Perl DevOp position (onsite), Richardson Texas
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16486
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 27, 2012
+
+Job title: Entry level Perl DevOp position
+
+Company name: Fujitsu Network Communications
+
+Internal ID: FNC02005
+
+Location: Richardson Texas
+
+Pay rate: DOE
+
+Terms of employment: Salaried employee
+
+Length of employment: Permanent
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+This is an entry level DevOp position. The environment is Perl, Catalyst,
+Moose, RHEL/CentOS and general Unix, and MySQL -  supporting a top-4
+network monitoring tool and developing further tools. The development style
+is a mix of agile/extreme agile and pair programming. 
+
+Due to how the company is offering this, you need to be local and be
+available immediately. You should also be able to demonstrate what you know
+of the subject matter as described above.
+
+On a daily basis you will be Perl programmer who is also tasked with
+linux/unix sysadmin tasks. MySQL skills will also be used on a daily basis.
+
+Required skills:
+Perl
+OOPerl
+Catalyst
+Moose
+MySQL
+Unix/Linux (RHEL/CentOS) and smidgen of Solaris
+Strong Windows user skills
+
+Desired skills:
+on top of those listed, a desire to learn and improve your skills set. We
+work with large optical networks at layers 0-3 and that is not a typo.
+
+Website for more information:
+https://fujitsujobs.taleo.net/careersection/10120/jobdetail.ftl
+
+Contact information at:
+http://jobs.perl.org/job/16486#contact

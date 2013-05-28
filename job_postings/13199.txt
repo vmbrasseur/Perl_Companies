@@ -1,0 +1,82 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13199
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 4778 invoked from network); 5 Mar 2013 03:09:42 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 5 Mar 2013 03:09:42 -0000
+Received: (qmail 13453 invoked by uid 225); 5 Mar 2013 03:09:42 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 13448 invoked by alias); 5 Mar 2013 03:09:42 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 04 Mar 2013 19:09:39 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 58C042AFE0; Mon,  4 Mar 2013 19:09:36 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 4 Mar 2013 19:09:36 -0800
+Message-ID: <20130305030936.58C042AFE0@x3.develooper.com>
+Subject: Contract web developer (telecommute), London, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17095
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March  4, 2013
+
+Job title: Contract web developer
+
+Company name: RF Shipping Ltd
+
+Location: London, UK
+
+Pay rate: Depending on experience
+
+Terms of employment: Hourly employee
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+A position has opened working with RF Shipping Ltd to continue the
+development of our automated shipping website.
+
+Our website allows customers from all over the world to book shipments via
+several third party couriers. We require the continued support of having a
+contract developer on-call for little emergencies that crop up every now
+and then.
+
+We also need to continue the evolution of our product and require someone
+who can work alongside us in delivering the best shipping website out
+there.
+
+Our website is developed on the Catalyst platform so Catalyst experience is
+a must.
+
+We currently have certified modules for TNT, FedEx, UPS and DHL. Experience
+working with these API's is a major bonus.
+
+Required skills:
+Catalyst
+MySQL
+DBIx::Class
+Javascript, HTML, CSS
+
+Desired skills:
+Knowledge of shipping systems, or experience integrating multiple third
+party API's a major bonus.
+
+Website for more information: http://rfshipping.com
+
+Contact information at:
+http://jobs.perl.org/job/17095#contact

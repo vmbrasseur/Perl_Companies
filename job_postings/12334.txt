@@ -1,0 +1,78 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12334
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 32283 invoked from network); 13 Apr 2012 18:38:28 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 13 Apr 2012 18:38:28 -0000
+Received: (qmail 3906 invoked by uid 225); 13 Apr 2012 18:38:28 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 3902 invoked by alias); 13 Apr 2012 18:38:28 -0000
+X-Spam-Status: No, hits=-2.5 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,URIBL_GREY
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 13 Apr 2012 11:38:25 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 4A25D2AFE4; Fri, 13 Apr 2012 11:38:22 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 13 Apr 2012 11:38:22 -0700
+Message-ID: <20120413183822.4A25D2AFE4@x3.develooper.com>
+Subject: Perl Web Developer (onsite), Deer Park, NY
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15842
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 13, 2012
+
+Job title: Perl Web Developer
+
+Company name: FragranceNet.com
+
+Location: Deer Park, NY
+
+Pay rate: DOE
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Looking for a Perl programmer with experience with Moose/Mouse object
+system.
+
+Required skills:
+* Perl >= 5.8.8
+* Moose/Mouse (cursory familiarity, don't need an expert)
+* XHTML
+* CSS
+* Javascript
+* MySQL >= 5.0
+
+Desired skills:
+Nice to haves
+-----------------------
+* Linux experience (any flavor, Ubuntu, Red Hat, etc...)
+* Version Control (CVS, SVN, Git, Mercurial, Bazaar)
+* Mobile Website Development
+* LAMP Stack familiarity
+
+Pluses
+----------------------
+* PHP
+* Python
+* Bash
+* Dancer/Catalyst/Mojolicious Perl Web Framework
+
+Contact information at:
+http://jobs.perl.org/job/15842#contact

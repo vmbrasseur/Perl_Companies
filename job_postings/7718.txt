@@ -1,0 +1,81 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7718
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 27251 invoked from network); 22 Feb 2008 16:37:52 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 22 Feb 2008 16:37:52 -0000
+Received: (qmail 17468 invoked by uid 225); 22 Feb 2008 16:37:51 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 17364 invoked by alias); 22 Feb 2008 16:37:48 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 22 Feb 2008 08:37:43 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 33B6A2AFD4; Fri, 22 Feb 2008 08:37:17 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20080222163718.33B6A2AFD4@x3.develooper.com>
+Date: Fri, 22 Feb 2008 08:37:17 -0800 (PST)
+Subject: Web application developer (onsite), Germany, Saxony, Dresden
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/7996
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 22, 2008
+
+Job title: Web application developer
+
+Company name: webit! Gesellschaft für neue Medien mbH
+
+Location: Germany, Saxony, Dresden
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+You maintain existing complex Perl based web applications and work on new
+enhancements for these applications. You develop these extensions together
+with our customers and our project leaders.
+
+The existing applications are built of several technologies over the last
+years ranging from raw DBI based solutions with own CGI and mod_perl
+frameworks up to modern Catalyst, Mason and DBIx::Class based solutions.
+Practically all new to develop functionalities apply to those more modern
+technologies.
+
+You will also design and implement new complex web applications.
+
+
+Required skills:
+You should have profound knowledge of web programming with Perl. We use a
+lot of modules from CPAN, so finding, installing, understanding and using
+foreign modules is essential.
+
+You are communicative and friendly and you have fun of working in teams.
+
+Desired skills:
+You have experiences developing and deploying software under Linux and
+maybe know other Unix like operating systems. You have knowledge about SQL,
+Oracle, Apache, mod_perl and have experinces with several other aspects
+like LDAP, XML/XSLT, webservices, object oriented programming and even
+other programming languages.
+
+URL for more information:
+http://www.webit.de/cms/ueber_webit/jobs/softwareentwickler_mw/index.html
+
+Contact information at:
+http://jobs.perl.org/job/7996#contact
+
+

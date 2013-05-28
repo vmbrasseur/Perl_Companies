@@ -1,0 +1,85 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9450
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 7464 invoked from network); 3 Sep 2009 19:03:45 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 3 Sep 2009 19:03:45 -0000
+Received: (qmail 19974 invoked by uid 225); 3 Sep 2009 19:03:44 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 19966 invoked by alias); 3 Sep 2009 19:03:43 -0000
+X-Spam-Status: No, hits=-6.8 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_NEUTRAL
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 03 Sep 2009 12:03:38 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 8E3162AFDF; Thu,  3 Sep 2009 12:03:34 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20090903190334.8E3162AFDF@x3.develooper.com>
+Date: Thu,  3 Sep 2009 12:03:34 -0700 (PDT)
+Subject: Healthcare Web Application Developer - Contract (telecommute), United States, PA, Philadelphia
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/11014
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 31, 2009
+
+Job title:
+Healthcare Web Application Developer - Contract
+
+Company name: Children's Hospital of Philadelphia
+
+Location: United States, PA, Philadelphia
+
+Pay rate: Based on experience
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: 3-6 mo
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+We are looking for a developer to join a small project team building tools
+to improve tracking of chemotherapy in a large pediatric oncology center.
+Core development is on a CRU web application with interface tailored to
+clinical practice, fronting a tracking db that will operate in patient care
+and clinical trials management.
+
+Our need is for someone with Perl/Catalyst expertise to develop from
+requirements, alone or in collaboration with one other coder.  Either
+telecommuting or on-site work will be reasonable, though availability for
+periodic discussions in Philadelphia a plus.
+
+Required skills:
+* Fluency in current Perl best practices
+* Familiarity with Catalyst and Moose frameworks
+* Facility with with DHTML/CSS/JavaScript development
+* Balanced approach to de novo development vs CPAN use
+* Ability to work collaboratively on specifications, coding, and testing 
+
+
+Desired skills:
+* Experience with MySQL and Oracle DBMS and DBI
+* Familiarity with RDBO a plus; other ORMs may be useful
+* Experience with Dojo client-side toolkit or similar
+* Experience in US health care IT environment
+* Familiarity with LAMP "platform"
+
+
+Contact information at:
+http://jobs.perl.org/job/11014#contact
+
+

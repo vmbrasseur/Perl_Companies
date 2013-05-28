@@ -1,0 +1,110 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6038
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 20002 invoked from network); 4 Apr 2007 20:01:08 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 4 Apr 2007 20:01:08 -0000
+Received: (qmail 23657 invoked by uid 225); 4 Apr 2007 20:01:08 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 23614 invoked by alias); 4 Apr 2007 20:01:06 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,DK_POLICY_SIGNSOME
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 04 Apr 2007 13:01:02 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id F0FA22AFF1; Wed,  4 Apr 2007 13:00:58 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070404200058.F0FA22AFF1@x3.develooper.com>
+Date: Wed,  4 Apr 2007 13:00:58 -0700 (PDT)
+Subject: Telecommute Perl Developer/Golfer (telecommute), United States, Remotely, Work
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5569
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April  3, 2007
+
+Job title: Telecommute Perl Developer/Golfer
+
+Company name: name withheld
+
+Location: United States, Remotely, Work
+
+Pay rate: $35-60 / hr, DOQ
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: indefinite
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+This is an hourly contract position with an initial anticipated duration of
+90 days.  The number of hours per week will be at least 20, but if your
+qualifications/availability/productivity warrant, we will approve you to
+work up to 60 hours/week.  Which hours you work are extremely flexible, but
+your manager must know your anticipated schedule with some accuracy 48
+hours prior.  Payment terms will be weekly by hours invoiced, or
+prenegotiated/estimated by milestone/subproject if you demonstrate high
+reliability.  Contract can be terminated at-will by either party at any
+time, but we plan to keep you by offering you high incentives to stay if
+you're good enough.
+
+This is primarily a re-implementation project of an existing architecture,
+but you will have wide latitude in design choices in many areas. 
+Development tasks will include:
+1. replacing existing mysql schemas with sqlite, with emphasis on optimal
+efficiency, somewhat duplicating current functionality but with many
+changes.
+2. replacing existing CGI.pm scripts with a markup emitter of your choice:
+Jifty, Catalyst, or your own pet framework that's gpl2 compatible and meets
+our resource usage requirements.  Rewrite reports and other interfaces to
+match your new model/schema.
+3. refactoring existing qpsmtpd plugins for a more flexible adaptive
+weighting system and add some more amavisd-new-ish functionality via some
+new plugins.
+4. browser markup/style design, if you want.  entirely optional.
+
+Development standards will include:
+1. use whatever development methodology (test-driven, extreme, JFDI) suits
+you.  You'd better be able to explain it, at least concisely.
+2. use our SVN repository early and often.  Use SVK/darcs/git or whatever
+at your end if you like.
+3. use as many existing modules/packages as is beneficial.  Publish your
+work as new modules if your work can be abstracted as such.  Report/fix
+bugs in existing public modules as you discover them.
+4. Use whatever tools/languages/libraries help you get the job done the
+fastest with the product being the most efficient, as long as it's free and
+open-source and we can get or build packages for the various distributions
+we support.
+5. Report daily on your activities/accomplishments for the past day, your
+activities/goals for the next day, and an updated weekly milestone roadmap
+if needed.  No BS such as "trying to install perl module X" or "figuring
+out some new editor macro system".
+
+Required skills:
+Perl, SQL, XHTML, software engineering, personal time management, project
+task prioritization by dependency, excellent communication skills,
+compiling/packaging.
+
+Desired skills:
+Async I/O (event loop, non-blocking), HTML/CSS design skills highly
+optional, extreme brilliance.
+
+Contact information at:
+http://jobs.perl.org/job/5569#contact
+
+

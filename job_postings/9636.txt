@@ -1,0 +1,97 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9636
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 20880 invoked from network); 30 Nov 2009 18:44:27 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 30 Nov 2009 18:44:27 -0000
+Received: (qmail 28509 invoked by uid 225); 30 Nov 2009 18:44:26 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 28464 invoked by alias); 30 Nov 2009 18:44:26 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 30 Nov 2009 10:44:24 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id C7B822AFE0; Mon, 30 Nov 2009 10:44:20 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20091130184420.C7B822AFE0@x3.develooper.com>
+Date: Mon, 30 Nov 2009 10:44:20 -0800 (PST)
+Subject: System Engineer (onsite), United States, NY, New York
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/11378
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 30, 2009
+
+Job title: System Engineer
+
+Company name: Vizrt 
+
+Internal ID: Ardendo SE
+
+Location: United States, NY, New York
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Vizrt’s Media Asset Management division in New York is looking for System
+Engineers. Vizrt creates leading-edge content production tools for the
+digital media industry – from award winning 3D graphics & maps through
+integrated video workflow solutions and online publishing tools. Leading
+broadcasters worldwide such as, CNN, Fox, NBC, ABC, ESPN, PGA and BBC
+utilize Vizrt solutions.  
+
+The System Engineer is part of a Professional Services team out of Vizrt’s
+US headquarter in New York, setting up and configuring systems at customer
+sites, including integration with 3rd party hardware and software as well
+as developing site customizations. Vizrt has a full fledged Media Asset
+Management solution that is designed to be hardware agnostic called Viz
+Ardome. Tailoring of the system to customer specific needs and workflows is
+also an important part of the product. The systems themselves are typically
+large, both in terms of number of machines that leverage the solution but
+also in terms of integrations points. 
+
+
+Required skills:
+Requirements:
+- Master of Science with computer science skills or equivalent.
+- Software development in Unix/Linux environment. Primarily server software
+in Perl.
+- Installation and maintenance of Unix/Linux systems and storage systems.  
+   
+- Knowledge about technologies such as XML, networking, databases
+(DB2/Oracle) and SOAP.
+- Relevant experience of professional system administration in Unix/Linux.
+- Experience with broadcasting or video/audio technology is a plus, but not
+a requirement. 
+- Self motivated and responsive to customer requirements.
+- Comfortable in technically complex environments.
+
+
+Desired skills:
+Preference will be given to candidates who have additional experience in
+storage systems, general skills in audio and video technology, and other
+languages and are knowledgeable or have worked in a broadcast and media
+environment.
+
+URL for more information: http://www.vizrt.com/
+
+Contact information at:
+http://jobs.perl.org/job/11378#contact
+
+

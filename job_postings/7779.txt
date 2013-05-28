@@ -1,0 +1,107 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7779
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 11804 invoked from network); 4 Mar 2008 16:28:19 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 4 Mar 2008 16:28:19 -0000
+Received: (qmail 27632 invoked by uid 225); 4 Mar 2008 16:28:19 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 27625 invoked by alias); 4 Mar 2008 16:28:18 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 04 Mar 2008 08:28:09 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 0EF692AFCC; Tue,  4 Mar 2008 08:28:05 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20080304162806.0EF692AFCC@x3.develooper.com>
+Date: Tue,  4 Mar 2008 08:28:05 -0800 (PST)
+Subject: UNIX QA Test Automation Engineer  (onsite), United States, CA, Sunnyvale
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/7852
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March  4, 2008
+
+Job title: UNIX QA Test Automation Engineer 
+
+Company name: Proofpoint, Inc
+
+Location: United States, CA, Sunnyvale
+
+Pay rate: DOE
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Proofpoint is a messaging infrastructure company that is pioneering
+enterprise software solutions uniquely matched to the needs of the large
+corporate customer. We are a startup that is focused on success in a very
+hot market space. Please check us out at www.proofpoint.com.
+
+GENERAL PURPOSE 
+Play a critical role in the automation of our test suite and enhancement of
+our test framework. You will be a part of a small Quality Assurance team
+and be responsible for functionality, scalability, usability, performance,
+and reliability testing during all phases of the product lifecycle using
+mostly automated and some manual test methods. We are Linux/Perl centric
+company and offer a haven for those who seek shelter from the Windows
+world. 
+
+ESSENTIAL DUTIES / RESPONSIBILITIES 
+As a Software Quality Assurance Engineer, you will be expected to help
+drive the quality processes within QA and Engineering. Your strong
+understanding of QA processes will be fully utilized in this position. 
+
+• Create and execute automated (Perl, shell, cgi) and manual test scripts
+for new and existing product features from requirement documents.
+• Add test cases to our TestMore based framework 
+• Add creative and complex test cases to our Selenium based framework
+• Natural ability/affinity to search out, detect and clearly communicate
+and document high priority software flaws in the product
+• Product expert: Support internal and external organizations and customers
+
+• Interface with Development engineers to identify and resolved bugs
+quickly
+• Writing and contributing to test plans and QA processes and procedures
+• Assess merits of proposed product enhancements, and ease of use
+
+
+Required skills:
+• 2+ years of direct QA experience in developing and successfully executing
+and documenting positive and negative software testing against web-based
+software system products
+• Two or more years developing automated tests and utilization of test
+harnesses on UNIX
+• Two or more years experience with high availability servers, DBMS
+systems, Selenium, and Perl programming
+• You must have the ability to be self managed and organized
+• Excellent Written and Verbal Communication Skills 
+
+Desired skills:
+Advanced knowledge of and experience with, Linux, Solaris, sendmail,
+messaging, Exchange, Perl, Selenium, MySQL, TCL, Expect, UNIX, Win 2K,
+Shell, batch scripting, and HTTP-Unit Test Automation. 
+
+URL for more information:
+http://www.proofpoint.com/company/careers.php
+
+Contact information at:
+http://jobs.perl.org/job/7852#contact
+
+

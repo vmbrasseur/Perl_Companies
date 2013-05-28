@@ -1,0 +1,103 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9066
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 18017 invoked from network); 15 Mar 2009 03:38:24 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 15 Mar 2009 03:38:24 -0000
+Received: (qmail 32485 invoked by uid 225); 15 Mar 2009 03:38:24 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 32481 invoked by alias); 15 Mar 2009 03:38:23 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 14 Mar 2009 20:38:22 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 141FB2AFE8; Sat, 14 Mar 2009 20:38:18 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20090315033819.141FB2AFE8@x3.develooper.com>
+Date: Sat, 14 Mar 2009 20:38:18 -0700 (PDT)
+Subject: Web Developer (onsite), Austria, Vienna
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/10348
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 13, 2009
+
+Job title: Web Developer
+
+Company name: Centre for Social Innovation
+
+Location: Austria, Vienna
+
+Pay rate: negotiable
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Length of employment: indefinite
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The ZSI (Centre for Social Innovation), a social research institution in
+Vienna, is looking for a full-time, on-site Perl web developer.
+
+Your main tasks will be:
+* Rapid developement of new project websites centered on document
+management - we would prefer you use Catalyst, but in the long term it will
+be your choice which framework to use
+* Maintenance of existing project websites written in our own custom-made
+framework based on Class::DBI, YAML config files and Template::Toolkit
+* The occasional systems programming, data migration or user support job
+* formulating requirements and planning projects in collaboration with
+non-technical project managers
+
+We offer:
+* flexible working hours
+* a friendly, academic atmosphere 
+* the opportunity to work with a small and friendly team
+* a great deal of freedom in choosing technologies and web strategies
+* good public transport connection (underground lines U4/U6, Meidling
+Hauptstraﬂe/L‰ngenfeldgasse)
+
+
+Required skills:
+* top notch OO Perl skills
+* familiarity with web services and web standards
+* good relational database skills
+* excellent problem-solving skills
+* fluency in German
+
+
+Desired skills:
+* Catalyst experience
+* Template::Toolkit, DBIx::Class, Class::DBI experience
+* system administration skills
+* PostgreSQL
+* javascript (especially prototype)
+* experience with Wordpress, Socialtext, Limesurvey, MovableType,
+Drupal....
+* PHP skills
+* other programming languages
+* project management skills
+* web design skills
+
+
+URL for more information: http://www.zsi.at/
+
+Contact information at:
+http://jobs.perl.org/job/10348#contact
+
+

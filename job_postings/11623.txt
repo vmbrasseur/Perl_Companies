@@ -1,0 +1,121 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11623
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 7137 invoked from network); 31 Aug 2011 08:48:02 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 31 Aug 2011 08:48:02 -0000
+Received: (qmail 29128 invoked by uid 225); 31 Aug 2011 08:48:02 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 29124 invoked by alias); 31 Aug 2011 08:48:01 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 31 Aug 2011 01:47:59 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 1F3922AFDE; Wed, 31 Aug 2011 01:47:56 -0700 (PDT)
+To: jobs@perl.org
+Date: Wed, 31 Aug 2011 01:47:55 -0700
+Message-ID: <20110831084756.1F3922AFDE@x3.develooper.com>
+Subject: Senior Linux Systems Administrator (onsite), USA, Ca, Hollywood
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14752
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 30, 2011
+
+Job title: Senior Linux Systems Administrator
+
+Company name: Live Nation Enterainment/ Ticketmaster
+
+Location: USA, Ca, Hollywood
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Who are we?
+Live Nation Entertainment (NYSE-LYV) was formed by the merger of Live
+Nation and Ticketmaster Entertainment. We are the largest live
+entertainment company in the world, consisting of five businesses: concert
+promotion and venue operations, sponsorship, ticketing solutions,
+e-commerce and artist management. We seek to innovate and enhance the live
+entertainment experience for artists and fans: before, during and after the
+show. In 2009, Live Nation sold 140 million tickets, promoted 21,000
+concerts, partnered with 850 sponsors and averaged 25 million unique
+monthly users of its e-commerce sites. 
+ 
+Who are you?
+Passionate and motivated. Driven, with an entrepreneurial spirit.
+Resourceful, innovative, forward thinking and committed. At Live Nation
+Entertainment, our people embrace these qualities, so if this sounds like
+you then please read on! 
+ 
+The Role:
+We are currently looking for a Sr. Systems Administrator to join
+Ticketmaster's systems engineering team which is responsible for the
+administration of global, high-volume, infrastructure.
+ 
+Responsibilities:
+ 
+·	  Utilize basic project management skills so that tasks and project
+deadlines are met.
+·	  Leverage and build upon Ticketmaster's open-source configuration
+management system (Spine).
+·	  Maintain server and network security.
+·	  Manage issues dispatched by systems support analysts (NOC group).
+
+·	  Prioritize, coordinate and deliver special technology projects.
+·	  Evaluate and present new technologies to leadership (R&D).
+·	  24/7 on-call duties at approximately once every 6 weeks.
+·	  Travel to hosting sites if needed in emergencies.
+
+Required skills:
+Qualifications:
+·	  5+ years of Linux/UNIX server administration experience.
+·	  In-depth understanding of Linux/UNIX fundamentals including
+kernel subsystems (scheduler, VM, etc), system calls, inter-process
+communication, process/resource management and file systems.
+·	  Demonstrated problem analysis and resolution skills.
+·	  Administration in an environment with 100+ systems.
+·	  Extensive knowledge of Apache, including performance tuning for
+high-volume web traffic. Mod_perl and/or JBOSS experience is a plus.
+·	  Automation experience, preferably using Perl, Python or Ruby and
+the ability to read and understand code written in C.
+·	  Installation, configuration and troubleshooting of services such
+as DNS, SMTP, SSH, HTTPD and DHCP.
+·	  Comprehensive knowledge of TCP/IP, the OSI Model, firewalls, load
+balancers and switches.
+·	  Experience with network attached storage devices and RAID.
+·	  Working knowledge of Redhat/CentOS, including Kickstart, the use
+of package management tools (APT/Yum), the ability to write spec files and
+build RPM packages.
+·	  An understanding of virtualization technologies such as VMWare or
+Xen
+
+Desired skills:
+Ideal Personal Characteristics:
+ 
+·	  Strong, creative problem solving and analytical in nature.
+·	  Results oriented aggressiveness in meeting commitments.
+·	  Ability to work independently and as part of a team.
+·	  Entrepreneurial, driven by a new challenge.
+·	  Strong communication skills.
+·	  Self motivated, energetic and tenacious.
+·	  Flexible and responsive to changing situations.
+
+Website for more information: http://www.livenation.com/careers/index.html
+
+Contact information at:
+http://jobs.perl.org/job/14752#contact

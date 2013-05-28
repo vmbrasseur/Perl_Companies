@@ -1,0 +1,88 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12269
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13124 invoked from network); 25 Mar 2012 09:24:08 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 25 Mar 2012 09:24:08 -0000
+Received: (qmail 12516 invoked by uid 225); 25 Mar 2012 09:24:07 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 12511 invoked by alias); 25 Mar 2012 09:24:07 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,LOTS_OF_MONEY
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 25 Mar 2012 02:24:01 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 80AA82AFDE; Sun, 25 Mar 2012 02:23:58 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sun, 25 Mar 2012 02:23:58 -0700
+Message-ID: <20120325092358.80AA82AFDE@x3.develooper.com>
+Subject: Programmer (onsite), Lanham, MD
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15744
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 25, 2012
+
+Job title: Programmer
+
+Company name: Sigma Space Corporation
+
+Location: Lanham, MD
+
+Pay rate: $65,000-$90,000 USD
+
+Terms of employment: Salaried employee
+
+Length of employment: indefinite
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Senior Software Engineer:
+Responsibilities:
+-	Supports software development, integration and testing of data
+production, data archive, and data distribution software systems for
+Moderate Resolution Imaging Spectroradiometer ((MODIS) and Visible Infrared
+Imager Radiometer Suite (VIIRS) instrument data. 
+-	Coordinates the software development and integration of MODIS and
+VIIRS Product Generation Executives (PGE) and interacts with science team
+members and their code developers.
+-	Performs command line testing and integration testing in the MODAPS
+(MODIS ADAPTIVE Processing system) environment and upon successful
+integration of the code, makes deliveries of codes to the CM Group for
+baselining
+-	Performs system performance tests, science validation tests, and
+debugs MODAPS software system errors and PGE errors
+-	Supports the operations group by performing system, software and
+hardware troubleshooting
+
+Required skills:
+-	MS in computer science or physical sciences or related field is
+desirable
+-	At least 5 years of scientific programming experience with C, C++
+or FORTRAN90
+-	At least 5 years of experience with PERL or Unix shell scripts
+required
+-	Experience supporting large scale remote sensing data processing
+activities is desirable
+-	Experience with Sybase, PostgreSQL, HDF,  Configuration Management
+tools e.g., Subversion, IDL, XML, Java, Web services
+-	Programming/debugging tools is	desirable
+-	Good verbal and written communication skills required
+
+Website for more information: http://www.sigmaspace.com
+
+Contact information at:
+http://jobs.perl.org/job/15744#contact

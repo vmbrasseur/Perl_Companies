@@ -1,0 +1,163 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8158
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 21810 invoked from network); 17 May 2008 10:39:54 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 17 May 2008 10:39:54 -0000
+Received: (qmail 21504 invoked by uid 225); 17 May 2008 10:39:54 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 21494 invoked by alias); 17 May 2008 10:39:53 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 17 May 2008 03:39:50 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id DC7C22AFEE; Sat, 17 May 2008 03:39:46 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080517103946.DC7C22AFEE@x3.develooper.com>
+Date: Sat, 17 May 2008 03:39:46 -0700 (PDT)
+X-Virus-Checked: Checked
+Subject: Sr. Application Administrator (onsite), United States, California, Palo Alto
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8730
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 16, 2008
+
+Job title: Sr. Application Administrator
+
+Company name: Stanford University
+
+Internal ID: 30204
+
+Location: United States, California, Palo Alto
+
+Pay rate: DOE
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The Senior Application Administrator position is a member of an application
+and development support team in the Computing Services (CS) group. The
+Computing Services group is part of IT Services (ITS), the central IT
+organization for Stanford University. The individual in this position
+reports directly to the Manager of Application Support.
+
+Individual will be a strong verbal and written communicator, be able to
+bridge the gap between technology and business process, and be able to
+build strong relationships between multiple functional groups. Individual
+should have the needed hands on technical skills to be able to assist in
+the development & troubleshooting efforts as required. Above all, this
+individual needs to have strong customer service skills and a positive ‘can
+do’ attitude. 
+
+Duties include providing analytical and technical expertise in support of
+campus-wide enterprise applications. The individual’s primary
+responsibilities include: application administration and development,
+product management, project management, vendor relations, applications
+strategy, security, architecture and design, and technical leadership
+developing and maintaining solutions and systems for CS Clients. Ability to
+manage projects, identify process efficiencies, establish productive vendor
+relationships, and technically mentor junior level administrators.
+
+Duties also include installation, configuration, and support of
+applications as well as an understanding of application integration and
+API’s, databases and enterprise storage environments. Partner with clients
+to deliver robust and scalable solutions to meet business needs which may
+involve cross-platform, multi-tiered, and/or fault tolerant computing
+components. Troubleshoot complex problems where the analysis requires
+knowledge of many diverse system components, such as network, firewalls,
+database, operating system, server hardware, and other software components.
+
+
+Document system builds and application configurations according to standard
+processes. Maintain and update documentation as changes are necessary.
+Coordinate vendor activity to identify fixes & patches in hardware and
+software, and test before implementation. Ensure security of systems and
+applications at all times by following group processes and procedures.
+Participate in the evaluation of software products, and recommend solutions
+based on cost, needs, and benefit to Stanford.
+
+Strong system administration skills in Unix, Linux or Windows. Effective
+oral and written communication skills are essential. Comply with the Change
+Management policies and procedures when implementing, executing or
+authorizing changes to applications servers, facilities, applications,
+networks and infrastructure services.
+
+Systems and Environmentals include the ability to use, apply, and run in
+the most automated way possible: Backup and Recovery, performance
+monitoring and resource usage, trend analysis, and capacity planning.
+Application development and performance optimization development, as well
+as evaluating new technologies and/or vendors to improve overall client
+service, definition and implementation of production application standards.
+
+
+Security focus will include standard practices for system and application
+security, application of Stanford security policies and practices including
+access control for Restricted Data classifications. Where not existing,
+create procedures to implement Stanford security policies and practices
+including Restricted Data classifications. Research and incorporate new
+tools and procedures to provide application security, including policies
+and practices to effectively protect each data classification. Support the
+creation of non-production datasets for development groups that closely
+model production datasets.
+
+R&D will cover hands on testing of new tools and technologies, scripting
+and automation, research of current tools and core functions, innovation of
+new tools to augment and/or replace core functions, and development work
+based on collaboration with ITS Strategist and architecture teams.
+
+
+Required skills:
+PERL is an absolute must.  This position will be responsible for automating
+manually processes as well as supporting and maintaining custon
+integrations necessary for IT Services operations. 
+
+Desired skills:
+• Database (Oracle, SQL, PL-SQL Stored Procedures, Query Tuning)
+• Strong knowledge of Unix/Linux and Windows platforms
+• Knowledge of authentication methodologies: Active Directory, Radius,
+Kerberos, Novell, or LDAP.
+• Develops and maintains a productive working relationship with project
+sponsors, key customers, and team members. 
+• Projects a strong customer service attitude. 
+• Experience supporting enterprise class applications and systems including
+the performance analysis and tuning of high-volume transaction systems. 
+• Experience with managing projects involving application evaluation,
+implementation and upgrades.
+• A Bachelor's degree in Computer Science or related field, plus 5 years of
+experience, or an equivalent combination of education and experience.
+• Demonstrated experience with the installation and operation of enterprise
+applications on Windows, Linux or Unix infrastructure. 
+• Experience with Oracle or MS SQL database architectures, as well as
+enterprise storage environments with high availability required. 
+• Ability to communicate effectively and work comfortably in a systems
+development environment with concurrent tasks and changing
+priorities/resources is required. 
+• Experience with existing applications and development tools a plus:
+Remedy, Pinnacle, Pathworks, CS Gold, Lenel OnGaurd, Unanet, Infra
+Technology Change Management, DocuShare, Oracle Calendar, SMARTS Enterprise
+Monitoring, Server Load Balancing, and Application Monitoring.
+
+
+URL for more information: http://jobs.stanford.edu/find_a_job.html
+
+Contact information at:
+http://jobs.perl.org/job/8730#contact
+
+

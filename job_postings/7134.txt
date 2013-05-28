@@ -1,0 +1,81 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7134
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 17145 invoked from network); 18 Oct 2007 02:50:06 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 18 Oct 2007 02:50:06 -0000
+Received: (qmail 22492 invoked by uid 225); 18 Oct 2007 02:50:06 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 22486 invoked by alias); 18 Oct 2007 02:50:05 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 17 Oct 2007 19:49:55 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 2BAC52AFE3; Wed, 17 Oct 2007 19:49:52 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20071018024952.2BAC52AFE3@x3.develooper.com>
+Date: Wed, 17 Oct 2007 19:49:52 -0700 (PDT)
+Subject: perl programmer for market data/etrading infrastructure for a financial institution (onsite), United States, CT, Greenwich
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/7027
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 17, 2007
+
+Job title:
+perl programmer for market data/etrading infrastructure for a financial
+institution
+
+Company name: RBS Greenwich Capital
+
+Location: United States, CT, Greenwich
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are looking for a developer to work in a small team to write server
+based applications for electronic trading and market data infrastructure. 
+The position requires communication with traders and other support people. 
+Applications will be written on both the Unix and Windows XP platform. 
+
+
+Required skills:
+Perl
+C++
+Swig
+SQL (Sybase)
+
+Desired skills:
+Financial trading knowledge/experience, especially fixed-income experience.
+
+Experience designing and implementing distributed real-time software
+systems. 
+TIBCO Rendezvous/Reuters RMDS
+Experience with trading or financial software, especially real-time
+systems. 
+Experience working with financial broker and exchange APIs (e.g. trade
+feeds, pricing feeds, order execution) and/or trade management systems. 
+
+
+URL for more information: http://www.rbsgc.com/
+
+Contact information at:
+http://jobs.perl.org/job/7027#contact
+
+

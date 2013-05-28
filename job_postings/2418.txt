@@ -1,0 +1,99 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2418
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 1951 invoked from network); 7 Mar 2005 19:28:48 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 7 Mar 2005 19:28:48 -0000
+Received: (qmail 4268 invoked by uid 225); 7 Mar 2005 19:28:48 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 4261 invoked by alias); 7 Mar 2005 19:28:47 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 07 Mar 2005 11:28:44 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j27JSgwC018879
+	for <jobs@perl.org>; Mon, 7 Mar 2005 11:28:42 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j27JSgRA018877;
+	Mon, 7 Mar 2005 11:28:42 -0800
+Date: Mon, 7 Mar 2005 11:28:42 -0800
+Message-ID: <200503071928.j27JSgRA018877@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Perl Programmer/QA Engineer (onsite), United States, CA, San Jose
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2323
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March  7, 2005
+
+Job title: Perl Programmer/QA Engineer
+
+Company name: HotLinuxJobs
+
+Location: United States, CA, San Jose
+
+Pay rate: $60 - $90K
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+This position has responsibilities associated on-going tool development,
+system administration, development support, and source code management for
+an embedded systems product. Tasks will include:
+- Writing scripts for software build and test automation using Perl, shell
+scripts, and make files.
+- Assisting developers in the proper use and application of the build and
+test automation scripts.
+- Help support SVN by working in close association with Developers and
+System Administrators to diagnose and solve problems.
+- Enhance the use of SVN by writing custom tools, instructions, and
+documentation specific to the company.
+- Configure, support and maintain prototype embedded systems for use in
+development and test.
+- Act as gatekeeper for the mainline product code.
+
+Required skills:
+- Extensive knowledge of Linux system administration.
+- Extensive knowledge of Perl, shell (bash), and make.
+- Experience with cross-development tools for embedded systems.
+- Excellent verbal and written communications skills.
+- Experience with source management systems such as SVN
+(preferred) or CVS.
+
+Other skills and experience:
+- C/C++
+- Java
+- HTML
+- Network tools
+- Database
+
+Required skills:
+Perl, system administration, testing, tools development
+
+URL for more information: http://www.hotlinuxjobs.com/
+
+Contact information:
+Brent Marinaccio
+HotLinuxJobs
+brent@hotlinuxjobs.com
+877-548-0003 x3015
+
+

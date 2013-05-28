@@ -1,0 +1,121 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5772
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 16481 invoked from network); 15 Feb 2007 21:37:38 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 15 Feb 2007 21:37:38 -0000
+Received: (qmail 13719 invoked by uid 225); 15 Feb 2007 21:37:38 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 13697 invoked by alias); 15 Feb 2007 21:37:37 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,DK_POLICY_SIGNSOME
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 15 Feb 2007 13:37:32 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 075092AFFE; Thu, 15 Feb 2007 13:37:29 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20070215213729.075092AFFE@x3.develooper.com>
+Date: Thu, 15 Feb 2007 13:37:29 -0800 (PST)
+Subject: STUDENT:  perl, mod_perl, admin  in Los Alamos, NM (onsite), United States, NM, Los Alamos
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5367
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 15, 2007
+
+Job title:
+STUDENT:  perl, mod_perl, admin  in Los Alamos, NM
+
+Company name:
+Los Alamos National Labs, Influenza Project
+
+Location: United States, NM, Los Alamos
+
+Pay rate: http://www.lanl.gov/education/
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: 3 months - 1 year
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Theoretical Division’s T-10 Theoretical Biology and Biophysics group is
+seeking a student computer technician to join a team responsible for a
+rapidly developing database and web site (www.flu.lanl.gov) for a period of
+3 months to 1 year.  
+
+The site is perl/mod_perl/mason, postgres db on freebsd.  Admin scripts
+(perl), tools (for example nci-blast based web tools) and system
+administration are part of this position.
+
+The selected candidate will work as a member of the Influenza Sequence
+Database team and will be responsible for maintaining and extending the
+database and the accompanying website for database search and analysis. 
+The selected candidate will be responsible for writing software to automate
+gathering and checking of data; maintaining and improving existing web
+tools; building new tools as user requirements dictate; interacting with
+database users to provide help and gain an understanding of user
+requirements.  The successful candidate must be able to be productive
+immediately, to enable the team to meet the demands of this rapidly
+evolving project.
+
+Required skills:
+Demonstrated strong interest in development of software solutions for
+analysis of genetic data.
+Experience with web-driven biological databases of genetic data from
+pathogens.
+Knowledge of genomics of at least one pathogen and knowledge of the
+molecular biological data types relevant to molecular epidemiological
+research in the pathogen.
+Demonstrated experience with genomic sequence analysis especially multiple
+sequence alignment.
+Demonstrated ability to work independently and as part of an existing team.
+
+Proven effective oral and written communication skills.
+Demonstrated experience using Linux and UNIX-like systems.
+Experience with (X)HTML and CSS.
+Experience developing or maintaining database-driven websites in Perl.
+Knowledge of Java and JDBC.
+Experience with WWW human-interface and usability issues. 
+Demonstrated experience with the design and implementation of graphical
+user interfaces.
+Demonstrated experience with software version control systems and code
+management 
+Demonstrated experience with bug/issue tracking software.
+Demonstrated experience with relational database design and development.
+Demonstrated experience with PostgreSQL and/or+ Oracle. 
+Demonstrated experience with the development of large applications
+Demonstrated ability to solve problems creatively, thoroughly, accurately,
+and efficiently.
+
+Desired skills:
+Knowledge of influenza genomics and molecular biological data types
+relevant to influenza research.
+Familiarity with shell scripting languages including sh, Python and Ruby.
+Experience with large-scale on-demand applications in a highly available,
+distributed environment.
+Experience administering publicly accessible web servers (Tomcat, Apache,
+etc.). 
+Experience developing Flash applications with Flash, Flex or Laszlo.
+Knowledge of XML and JavaScript.
+Knowledge of SWING.
+
+Contact information at:
+http://jobs.perl.org/job/5367#contact
+
+

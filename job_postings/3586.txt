@@ -1,0 +1,115 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3586
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 24624 invoked from network); 17 Dec 2005 01:05:09 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 17 Dec 2005 01:05:09 -0000
+Received: (qmail 25173 invoked by uid 225); 17 Dec 2005 01:05:09 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 25164 invoked by alias); 17 Dec 2005 01:05:08 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 16 Dec 2005 17:05:04 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id jBH150gJ020307
+	for <jobs@perl.org>; Fri, 16 Dec 2005 17:05:00 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id jBH150h9020290;
+	Fri, 16 Dec 2005 17:05:00 -0800
+Date: Fri, 16 Dec 2005 17:05:00 -0800
+Message-ID: <200512170105.jBH150h9020290@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: mod_perl/C developer (telecommute), United Kingdom
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3425
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 16, 2005
+
+Job title: mod_perl/C developer
+
+Company name: OmniTI
+
+Internal ID: uk-perl-dev
+
+Location: United Kingdom
+
+Pay rate: DOE, Competitive
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+OmniTI is a 8-years profitible, self-funded, US based software and services
+company that is a global leader in providing extensible high-performance
+email systems to ISPs, ESPs and the Global 1000.  We're looking for a
+competent C and Perl programmer to provide core engineering work, proof of
+concept implementations for customers and assist with the technical aspects
+of sales and evaluations in the United Kingdom (near London).
+
+OmniTI's flagship product is an MTA called Ecelerity.  Ecelerity is an
+advanced email application server focusing on extensibility and
+performance.  It has a high-performance core that can process well over a
+million emails per hour (inbound and outbound) with full policy enforcement
+(both through partner technologies as well as an extensive set of in-house
+anti-spam and policy management tools).  The core is written in C with a
+very healthy and extensive API for extending it (like Apache's module
+system).  On that API is grafted a perl runtime (like mod_perl), a Java
+runtime and a PHP runtime so that operators and implementors can write
+custom business logic and policy techniques in C, Perl, Java or PHP and
+have them run within the SMTP transaction.  The whole system is pluggable
+from soup to nuts.
+
+We're looking for someone to help tackle new bugs, improve the perl runtime
+and help tackle proof-of-concept implementations for UK customers
+evaluating the product.
+
+This is an opportunity to work with one of the most advanced system
+architectures in existence today as well as be up-to-your eyeballs in
+extremely high performance perl code.  To give some numbers, in the lab we
+can hit 4.5 million messages/hour and around 100,000 concurrent SMTP
+sessions all on commodity hardware.
+
+This position is a telecommute position, with approximately 20% travel to
+existing and potential customer sites in the UK.
+
+Required skills:
+A excellent grasp of C, Perl, XS, Perlembed, PerlAPI/Perlguts is required
+as well as a good understanding of Internet email and how it works.  The
+system is both threaded and event-based, so a substantial comfort-level
+with thread-sage programming techniques and non-blocking, callback-based
+architectures is necessary. 
+
+Solid communication skills and the ability to interface with customers on a
+technical level is required. 
+
+
+Desired skills:
+Understanding of SMTP from a protocol level as well as knowledge of
+emerging trends in anti-spam technologies are a plus.  
+
+A good grasp of (or lack of hatred for) JNI is also a plus -- as
+enhancements made to the perl runtime must find their way back to
+Java-land.
+
+Contact information at:
+http://jobs.perl.org/job/3425#contact
+
+

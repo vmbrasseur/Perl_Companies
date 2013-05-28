@@ -1,0 +1,103 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10086
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 27374 invoked from network); 23 Apr 2010 07:26:54 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 23 Apr 2010 07:26:54 -0000
+Received: (qmail 20947 invoked by uid 225); 23 Apr 2010 07:26:54 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 20943 invoked by alias); 23 Apr 2010 07:26:54 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 23 Apr 2010 00:26:50 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id A542E2AFD6; Fri, 23 Apr 2010 00:26:46 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20100423072646.A542E2AFD6@x3.develooper.com>
+Date: Fri, 23 Apr 2010 00:26:46 -0700 (PDT)
+Subject: Moose / PSGI / Plack Developer (telecommute), United States, WI, Madison
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/12150
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 23, 2010
+
+Job title: Moose / PSGI / Plack Developer
+
+Company name: Plain Black Corporation
+
+Location: United States, WI, Madison
+
+Pay rate: 45,000 USD / yr
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+Plain Black Corporation (www.plainblack.com) is looking for a Perl
+programming, Linux using, ssh connected, IRC chatting, GEEK! We're not
+looking for your run of the mill programmer; only geeks should apply. We
+want you to know and love technology. We want you to not only have heard of
+operating systems other than Windows, but to have used them. And most
+importantly, we want you to be hungry to learn more every single day. If
+this sounds like you, continue reading, else go back to Monster. 
+
+On a day to day basis you'll be asked to use your skills to help build and
+maintain WebGUI (www.webgui.org) be it for it’s active community or for
+Plain Black’s clients. Sometimes you'll work independently, and sometimes
+you'll work as part of a team, so you must be both self-motivated, a good
+communicator, and capable of managing your own time.  You'll work with
+technologies such as Perl, Javascript, MySQL, Apache, and Linux. Be
+prepared to think on your feet, plan ahead, and fly by the seat of your
+pants...it just depends on the day.
+
+Compensation, Benefits, and Perks - $40k to $45k depending upon experience.
+- 100% paid health insurance. - A new high-end MacBook Pro. - An expense
+account. - Profit sharing. - Annual cost of living increases. -
+Ultra-flexible paid time off. - Set your own schedule. - Telecommute from
+home. - On the job training.
+
+Required skills:
+- Be a geek. 
+- Be a U.S. Citizen.  We do not hire people who are not so please do not
+apply.
+- Live somewhere in the U.S.
+- Know object-oriented Perl with Moose
+- Have experience with SQL and an RDBMS like MySQL.
+- Have experience developing with JavaScript frameworks such as YUI or
+JQuery
+- Be familiar with HTML and CSS. 
+- Know Linux and be able to do basic administration. 
+- Be a great communicator. 
+- Be self-motivated. 
+- Be dependable
+
+Desired skills:
+- Have experience using Plack and PSGI
+- Be an AJAX and JavaScript wizard. 
+- Have experience with a version control system, like git. 
+- Apache / mod_perl experience. 
+- Experience with the WebGUI API.
+
+
+URL for more information: http://www.plainblack.com/
+
+Contact information at:
+http://jobs.perl.org/job/12150#contact
+
+

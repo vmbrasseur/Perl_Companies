@@ -1,0 +1,107 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9889
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 12209 invoked from network); 20 Feb 2010 17:46:32 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 20 Feb 2010 17:46:32 -0000
+Received: (qmail 9351 invoked by uid 225); 20 Feb 2010 17:46:31 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 9200 invoked by alias); 20 Feb 2010 17:46:29 -0000
+X-Spam-Status: No, hits=-0.0 required=8.0
+	tests=SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 20 Feb 2010 09:45:55 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id C5A392AFE0; Sat, 20 Feb 2010 09:45:36 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20100220174536.C5A392AFE0@x3.develooper.com>
+Date: Sat, 20 Feb 2010 09:45:36 -0800 (PST)
+Subject: Perl/PHP Software Developer, Bulgaria, Sofia, Sofia
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/11798
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 17, 2010
+
+Job title: Perl/PHP Software Developer
+
+Company name: AII Data Processing
+
+Location: Bulgaria, Sofia, Sofia
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Description:
+Company
+
+AII Data Processing is a leading foreign language news and business
+services agency. The success of our company depends on the qualifications
+and the commitment of our staff who ensures the important news of the day
+is covered and on the wires in time for deadlines that span all time zones.
+
+
+
+Job Description
+
+As part of the expansion of our company's product offers, we are looking
+for a software developer experienced in Perl and PHP to join our IT team.
+You will work on developing and enhancing various types of applications,
+including: data management software to support the company's core
+activities, public websites operated by ADP, web spidering and scraping
+applications, various custom intranet tools, etc.
+
+Your work will involve extensive use of modern MVC frameworks, both in PHP
+and in Perl. You will have the opportunity to work on large data-intensive
+applications where scalability and high availability are paramount. You
+will work in an agile environment, where your will produce tangible results
+for the company. You will report directly to the company's IT Director.
+
+Required skills:
+Required technical skills:
+ 
+ - Perl, PHP: Object-oriented programming, modern development practices,
+key API's. We do not expect you to know both languages equally well, but
+proficiency in one is required.
+ - MySQL and/or PostgreSQL: We are a data processing company, and a lot of
+your tasks will include working with data stored in various databases, so
+strong SQL skills are a must.
+ - Experience with Apache web server and Debian OS
+
+
+Soft skills:
+
+ - Fast learner: You will often be working with new technologies, and may
+of them with a steep learning curve. It is important that you are
+enthusiastic about expanding your skills and ready to learn fast.
+ - Proactive: As part of a small team you will be in a position where your
+opinions, ideas, and feedback can make a significant difference, and you
+will be expected to be proactive about identifying problems with the
+development process and proposing improvements.
+ - Communication skills: Your work will occasionally require communication
+with the company's non-IT staff in resolving issues, requirements
+gathering, etc. You should be a person who is able to communicate technical
+concepts to non-technical people and is patient and smart about
+understanding end-user requirements.
+
+Desired skills:
+ - JavaScript and jQuery
+ - Experience with scalable and high-performance web architectures
+ - Git
+
+URL for more information: http://www.aiidatapro.com/index.html
+
+Contact information at:
+http://jobs.perl.org/job/11798#contact
+
+

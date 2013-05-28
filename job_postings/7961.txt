@@ -1,0 +1,94 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7961
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 21405 invoked from network); 9 Apr 2008 15:23:48 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 9 Apr 2008 15:23:48 -0000
+Received: (qmail 31123 invoked by uid 225); 9 Apr 2008 15:23:48 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 31117 invoked by alias); 9 Apr 2008 15:23:48 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 09 Apr 2008 08:23:46 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id A360A2AFCB; Wed,  9 Apr 2008 08:23:42 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080409152342.A360A2AFCB@x3.develooper.com>
+Date: Wed,  9 Apr 2008 08:23:42 -0700 (PDT)
+Subject: Data Wrangler (Perl/Linux) Opportunity (onsite), United States, CA, Mt View or San Francisco
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8394
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April  8, 2008
+
+Job title: Data Wrangler (Perl/Linux) Opportunity
+
+Company name: Coit Staffing
+
+Location:
+United States, CA, Mt View or San Francisco
+
+Pay rate: DOE US$
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+
+Our client's search engine can exploit structured data (i.e. lists, feeds)
+to do a better job in returning the best web content for a query. The more
+structured data we can pour in the top, the better we can refine the
+results flowing out of the bottom. Your job will be to lead the effort in
+making structured data available throughout their system. 
+
+You will help define and build infrastructure for gathering data from many
+sources (web sites, RSS feeds, etc.) and then making this data
+programmatically accessible to various client components within the
+Searchme back end. 
+
+About our client: A Sequoia Capital backed startup with offices in both San
+Francisco and Mountain View poised to shake up the search space. 
+
+Consider the following tasks: 
+
+Write a program to extract the list of current Academy Award winners and
+update the existing list in a MySQL database instance. 
+Given an RSS feed, write a program to check the feed daily and extract the
+title attributes from the stream and dump them into a text file. 
+If either of these seems scary, then this isn't the job for you. If you are
+already thinking about how these tasks could be a) better specified and b)
+easily automated, then this might be a fun job for you. 
+
+Required skills include: 
+
+Perl, Linux, and the ability to write programs that extract data from web
+sites. 
+You should have experience with text parsing. 
+You don't need to be an expert in SQL, but should be comfortable with
+getting data into and out of MySQL databases. 
+Familiarity with RSS/Atom is a plus, as is basic C/C++ programming skills. 
+
+Clear verbal and written communication skills. 
+
+Submit resumes to sean@coitstaffing.com
+
+Contact information at:
+http://jobs.perl.org/job/8394#contact
+
+

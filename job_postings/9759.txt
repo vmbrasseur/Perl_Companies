@@ -1,0 +1,114 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9759
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 15665 invoked from network); 16 Jan 2010 00:44:59 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 16 Jan 2010 00:44:59 -0000
+Received: (qmail 31138 invoked by uid 225); 16 Jan 2010 00:44:59 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 31133 invoked by alias); 16 Jan 2010 00:44:58 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 15 Jan 2010 16:44:57 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 1AE072AFE5; Fri, 15 Jan 2010 16:44:54 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20100116004454.1AE072AFE5@x3.develooper.com>
+Date: Fri, 15 Jan 2010 16:44:54 -0800 (PST)
+Subject: Director of Technology (part onsite), United States, CA, San Diego
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/11560
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 11, 2010
+
+Job title: Director of Technology
+
+Company name: Acta Wireless
+
+Internal ID: aw2010
+
+Location: United States, CA, San Diego
+
+Pay rate: $ depends on experience
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+We are searching for a Director of Technology, a key member of our
+technical staff who reports directly to our CTO. This is an ideal position
+for someone who is creative, loves technology, and loves to solve problems
+with software. Your key responsibilities will include:
+
+Designing software solutions for a variety of problems. You'll work on
+projects that classify unstructured data and on information retrieval
+tasks, among other things.
+
+You will manage and guide developers as they work through solutions you've
+outlined for them.
+
+You will probably write code yourself, but the amount depends on the
+project and your disposition. At a minimum, you should be able to prototype
+technical solutions and step wade in to fix issues as needed.
+
+About
+Who is Acta Wireless, anyway? We are a young company and embrace modern
+ways of working. We're virtual, so all our employees get to work from home.
+We live on Skype. To foster inter-personal relationships, we meet several
+times a year in the US and Europe. We've found this makes us happier,
+attracts talent from around the world, and lowers costs. 
+
+We like building new companies and new solutions, usually with a wireless
+angle. Sometimes we work with established companies; sometimes we invest in
+early stage companies, and sometimes we create our own.
+
+Required skills:
+• We build many web solutions using Catalyst, so you must know it.
+Similarly, you should be comfortable with OO Perl, databases (especially
+MySQL), ORMs such as DBIx, etc.
+• You should be productive and comfortable working with open source tools
+in a Linux environment.
+• You should have experience deploying and managing software in high
+availability production environments.
+• You should have some experience building solutions for large scale
+problems (i.e., practical experience with distributed processing)
+• You will work on a couple of projects at once and several projects a
+year. Hopefully, you welcome this sort of variety and will even propose
+your own ideas, too.
+
+A lot of our work is outsourced, as we can leverage experts even if we
+don't have full-time work for them. You should have experience:
+• Managing developers in other countries and time zones
+• Planning and tracking towards short-term and long-term goals,
+• Writing software development specifications, 
+• Performing white box acceptance testing of their deliverables
+
+
+Desired skills:
+• Experience with other MVCs is also great, as we're always looking for
+better ways to do things
+• Experience building search engines
+• Creative problem solving skills, especially the ability to identify which
+patterns apply to what situations, and which open source solutions might
+help solve a problem
+
+Contact information at:
+http://jobs.perl.org/job/11560#contact
+
+

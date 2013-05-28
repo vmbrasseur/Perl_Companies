@@ -1,0 +1,124 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10783
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 4824 invoked from network); 7 Dec 2010 19:47:56 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 7 Dec 2010 19:47:56 -0000
+Received: (qmail 11021 invoked by uid 225); 7 Dec 2010 19:47:56 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11017 invoked by alias); 7 Dec 2010 19:47:56 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 07 Dec 2010 11:47:54 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id E33122AFE0; Tue,  7 Dec 2010 11:47:50 -0800 (PST)
+To: jobs@perl.org
+Date: Tue, 7 Dec 2010 11:47:50 -0800
+Message-ID: <20101207194750.E33122AFE0@x3.develooper.com>
+Subject: Software Developer / Team Lead (onsite), United States, CA, Walnut
+ Creek
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13302
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December  7, 2010
+
+Job title: Software Developer / Team Lead
+
+Company name: DOE JGI / Lawrence Berkeley National Laboratory 
+
+Internal ID: 25117
+
+Location: United States, CA, Walnut Creek
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The DOE Joint Genome Institute (JGI) in Walnut Creek, CA has an exciting
+opportunity available for an experienced Software Developer. Will serve as
+a team lead to allocate team resources, assign work to team members and
+manage the provision of support for existing production software systems
+for the management of sequence data. Will be responsible for planning and
+managing the design, implementation, testing, and deployment of the
+overhaul of the existing systems. Will also provide hands-on software
+development support to the Production Informatics Group. Position reports
+to the Production Informatics group lead and will interface with other team
+leads.	http://www.jgi.doe.gov/
+
+Initially, the majority of duties will focus on planning, coordinating, and
+managing the activities of the team, with direct software development
+constituting 10-20% of the role.
+
+Specific Job Duties
+
+Team Leadership-
+- Manage the support of the existing production Sequence Data Management
+systems, including the resolution of custom user and data retrieval
+requests.
+- Allocate team resources and assign work to team members to support
+customer requests and provide prompt resolution of data entry errors,
+software malfunctions, and other system needs.
+- Plan and manage the design, implementation, testing, and deployment of
+the overhauled versions of the Sequence Data Management systems.
+- Coordinate team activities with the other Production Informatics team
+leads, the Production Informatics group lead, and other JGI groups.
+- Coordinate the JGI's sequence data generation needs with external
+institutions (e.g. NERSC) and vendors (e.g. Illumina).
+- Plan and manage the sequence data computing resource needs.
+
+Software Development-
+- Gather feedback and requirements to develop software for the Production
+Informatics Group.
+- Develop software using a mix of the following: Perl, Perl/CGI,
+Javascript, CVS, Ruby, Ruby (with Rails), Java, PL/SQL.
+- Follow prescribed practices for software version control, testing, and
+release engineering.
+
+Required skills:
+- B.S. in Computer Science or a related scientific field (or equivalent
+experience) and a minimum of five years related experience.
+- Demonstrated experience leading a team of software developers in a
+customer service oriented environment.
+- Demonstrated success designing and implementing systems and software in a
+scientific or technical environment, e.g., University, National Laboratory,
+corporate R&D center or automated manufacturing facility.
+- Full life-cycle software development experience with the ability to work
+with scientific and administrative customers to define needs and
+priorities.
+- Demonstrated experience with Perl and experience with database design and
+performance tuning in MySQL.
+- Ability to apply analytical skills and creativity to solve diverse and
+challenging problems.
+- Effective time management, organization, and planning skills with the
+ability to allocate resources and assign work to meet goals and deadlines.
+- Talent for working well under short deadlines and handling multiple tasks
+simultaneously.
+- Ability to work effectively in a diverse team environment.
+
+
+Desired skills:
+- Demonstrated experience with at least some of the following: MySQL,
+Perl/CGI, Javascript, Ruby (with Rails), Java, PL/SQL, CVS, Subversion.
+- Experience developing web-based GUIs.
+- Experience working with lab information management systems (LIMS).
+- Experience working with bioinformatics tools and/or analysis techniques.
+
+Website for more information:
+http://careers.crijob.com/lbnlcareers/detailsRedirect.asp?jid=25117&p=1
+
+Contact information at:
+http://jobs.perl.org/job/13302#contact

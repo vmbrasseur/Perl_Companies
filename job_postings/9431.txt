@@ -1,0 +1,123 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9431
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 7718 invoked from network); 29 Aug 2009 03:43:35 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 29 Aug 2009 03:43:35 -0000
+Received: (qmail 8758 invoked by uid 225); 29 Aug 2009 03:43:34 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 8750 invoked by alias); 29 Aug 2009 03:43:34 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 28 Aug 2009 20:43:29 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id EA3482AFD0; Fri, 28 Aug 2009 20:43:25 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20090829034325.EA3482AFD0@x3.develooper.com>
+Date: Fri, 28 Aug 2009 20:43:25 -0700 (PDT)
+Subject:  Information Technology Officer , Switzerland, Geneva
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/10982
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 25, 2009
+
+Job title:  Information Technology Officer 
+
+Company name: World Health Organization (WHO)
+
+Location: Switzerland, Geneva
+
+Pay rate: About USD98 00/year (net)
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: 6 months, renewable
+
+Hours: Full time
+
+Description:
+We use Bricolage (http://bricolagecms.org/about/) as our main web
+publishing tool.
+
+1. TO LEAD THE TECHNICAL DIRECTION FOR WEB PUBLISHING:
+- lead the technical direction of the Web Team publishing tools, and ensure
+they are optimal for WHO's web publishing needs;
+- act as technical liaison with ITT to explore opportunities for
+integration of systems, provide input to the overall hosting architecture
+for web publishing and the web site, and identify joint projects;
+- in collaboration with the Web Manager and ITT, promote the harmonization
+of public web development projects by ensuring that the WHO content
+management system, along with the web hosting architecture and services
+provided by ITT, continue to meet the evolving needs of the Organization;
+- advise on the technical feasibility of new projects, and propose
+technical solutions that integrate with the existing web publishing
+environment;
+- act as technical liaison with developers/programmers in the Organization
+and from external companies, and act as technical focal point for other
+groups such as WHO Press, statisticians and mappers who use advanced
+technologies to present content on the WHO web site;
+- identify areas that need new or revised technical policy and/or
+guidelines, and contribute to drafting technical policies and guidelines;
+- act as a backup resource for publishing content to the WHO site and carry
+out other web-related duties as required by the Web Manager.
+2. TO MAINTAIN AND DEVELOP THE CONTENT MANAGEMENT SYSTEM TEMPLATES AND
+ELEMENT SET
+- set, maintain and enforce coding standards and code review processes for
+maintaining and developing templates and elements in the WHO content
+management system;
+- periodically review and if necessary, re-engineer existing templates and
+element sets to improve performance efficiency and maintenance load;
+-build new, or add to existing templates and elements based on
+specifications written by colleagues in the Web Team;
+- develop client-side coding standards for the web site (HTML, CSS) and be
+overall responsible for all client side and template code (HTML, Perl etc);
+
+- troubleshoot and fix technical bugs relating to the content management
+system;
+- document all new and existing templates and elements;
+- ensure the appropriate version of the content management system is in
+use.
+3. TO MAINTAIN AND DEVELOP 'ADD ON' WEB PUBLISHING TOOLS
+- maintain and develop 'add on' tools that impact the WHO content
+management system, such as health topic and
+country publishing systems, keyword applications and generic databases that
+use the CMS interface as an output to who.int;
+- establish and document a set of processes, protocols and tools for
+building generic software applications for the public web site;- using XML,
+SOAP, XSLT and other technologies, import data from existing data sets in
+the Organization for display on the web site;
+- keep abreast of, and evaluate new trends in web technologies and tools
+for potential use at WHO.
+4.OTHER DUTIES AS REQUIRED
+
+Required skills:
+Minimum 5 years experience in the area of web technical and application
+development, of which at least 3 years experience working on large,
+multilingual web sites in the UN system or in corporate, decentralized
+organizations; Experience in developing templates for database-backed
+content management systems preferably within WHO.
+
+
+Desired skills: Knowledge of Bricolage (Perl-based CMS)
+
+URL for more information:
+https://erecruit.who.int/public/hrd-cl-vac-view.asp?o_c=1000&jobinfo_uid_c=
+21916&vaclng=en
+
+Contact information at:
+http://jobs.perl.org/job/10982#contact
+
+

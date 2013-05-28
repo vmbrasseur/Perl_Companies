@@ -1,0 +1,125 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2038
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 22913 invoked from network); 1 Nov 2004 21:27:30 -0000
+Received: from x1.develooper.com (63.251.223.170)
+  by lists.develooper.com with SMTP; 1 Nov 2004 21:27:30 -0000
+Received: (qmail 4890 invoked by uid 225); 1 Nov 2004 21:27:30 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 4886 invoked by alias); 1 Nov 2004 21:27:30 -0000
+X-Spam-Status: No, hits=-4.9 required=8.0
+	tests=BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.dev) (63.251.223.163)
+  by la.mx.develooper.com (qpsmtpd/0.27.1) with ESMTP; Mon, 01 Nov 2004 13:27:27 -0800
+Received: from x3.dev (localhost.localdomain [127.0.0.1])
+	by x3.dev (8.12.11/8.12.11) with ESMTP id iA1LRNdH029613
+	for <jobs@perl.org>; Mon, 1 Nov 2004 13:27:23 -0800
+Received: (from jobs@localhost)
+	by x3.dev (8.12.11/8.12.11/Submit) id iA1LRMBV029611;
+	Mon, 1 Nov 2004 13:27:22 -0800
+Date: Mon, 1 Nov 2004 13:27:22 -0800
+Message-ID: <200411012127.iA1LRMBV029611@x3.dev>
+X-Authentication-Warning: x3.dev: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Super-sweet hackers looking to make the world a better place (onsite), United States, MA, Boston (Waltham)
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1938
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November  1, 2004
+
+Job title:
+Super-sweet hackers looking to make the world a better place
+
+Company name: athenahealth
+
+Location: United States, MA, Boston (Waltham)
+
+Pay rate: $40-70K, depending on experience
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+--puzzles--
+1. Assume you have an urn of j black beads and k red beads. If you draw out
+all the beads with no replacements, what is the probability that you will
+not draw out two black beads in a row?
+
+2. How can you find the next-to-largest integer in a set of n numbers using
+ceil(n + log(n)) comparisons?
+
+3. In under 400 words: explain, to a toothless alien from another planet
+who has full command of English, what a dentist does.
+--end puzzles--
+
+We're looking for some cool people to help us make the lives of healthcare
+providers easier.
+
+You're the kind of person who has always excelled at whatever it is you do,
+and can pick up new skills at the drop of a hat. You find it difficult to
+turn down a good challenge, and have secretly harbored dreams of either
+galactic peace or galactic domination.
+
+You love working with other excellent people, but are equally comfortable
+sitting in front of a blank sheet of paper and molding reality. You know
+that you can do the impossible if only you would be given a little bit more
+time, but you also know you can accomplish a whole lot more if you work
+with trusted colleagues.
+
+You know the value of process. You love good process, and abhor bad
+process.
+
+You may not know a lot about healthcare now, but you know that it's badly
+broken; that it's some insane percentage of our GDP and growing rapidly;
+and that it's a problem that you can get passionate about.
+
+About athenahealth-- we've been around for about 7 years now, and are
+located in Waltham, MA (just outside Boston). We've been backed with $40
+million in venture capital from A-list VC's-- VCs who provided some of the
+original money behind Apple, Home Depot, Intel, Office Depot, Whole Foods,
+etc-- but the company is now on solid ground, and we don't have to raise
+any more capital. 
+
+We have about 330 folks working here now, and we're hiring aggressively,
+but we'd rather hire the right people than hire fast. Excellence is
+rewarded-- how far you go is really up to you. The working environment is
+friendly and open. The folks you'll be working with are top notch, and will
+probably be some of the best and brightest folks you've ever worked with
+regardless of where you're coming from.
+
+We have several open positions in hard-core next-generation web
+development, QA engineering, data analysis and warehousing. The common
+platform is perl/mod_perl/Oracle/Linux.
+
+If you're interested, try to come up with a solution to at least one of the
+puzzles above, or maybe more than one. Shoot that over with a resume to
+puzzles@athenahealth.com, and we can start talking.
+
+
+Required skills:
+A keen analytical mind that can help us untangle the unholy mess that
+defines how healthcare is funded. Perl is good, too, but only to the extent
+that you have tried lots of languages and find perl to be one of the more
+expressive languages you've tried.
+
+
+URL for more information: http://www.athenahealth.com/
+
+Contact information: puzzles@athenahealth.com
+
+

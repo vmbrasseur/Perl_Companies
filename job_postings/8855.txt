@@ -1,0 +1,84 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8855
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 17018 invoked from network); 23 Nov 2008 23:13:57 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 23 Nov 2008 23:13:57 -0000
+Received: (qmail 1034 invoked by uid 225); 23 Nov 2008 23:13:57 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 1025 invoked by alias); 23 Nov 2008 23:13:57 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 23 Nov 2008 15:13:54 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 2146A2AFE1; Sun, 23 Nov 2008 15:13:51 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20081123231351.2146A2AFE1@x3.develooper.com>
+Date: Sun, 23 Nov 2008 15:13:51 -0800 (PST)
+Subject: Perl developer - OO, mod_perl, SQL (onsite), United Kingdom, West Yorkshire, Saltaire - Bradford, Leeds
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8428
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 15, 2008
+
+Job title: Perl developer - OO, mod_perl, SQL
+
+Company name: humyo.com Ltd.
+
+Location:
+United Kingdom, West Yorkshire, Saltaire - Bradford, Leeds
+
+Pay rate: to £45,000 pa + benefits
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+humyo.com, an online data storage service, requires skilled perl developers
+with experience of large, modular OO perl applications. You will work on
+the front-end interface, the server-side APIs and the underlying storage
+technologies to complete our service offering and make it a success. We
+seek motivated, intelligent candidates with perl as their primary skill who
+can make a significant contribution to our business and enjoy doing it.
+
+You will work as part of our development team of 5 on both individual and
+team driven projects.
+
+Required skills:
+- OO Perl in large structured applications
+- SQL (ideally MySQL)
+- Is un-phased by new problems, and adept at using resources such as CPAN
+and mailing lists to solve them
+
+Desired skills:
+- mod_perl
+- Subversion/CVS
+- Test-driven Development
+- Template Toolkit
+- SOAP, XML
+- ORMs
+- Linux
+
+URL for more information:
+http://www.humyo.com/pages/en/jobs/online-storage-jobs-saltaire
+
+Contact information at:
+http://jobs.perl.org/job/8428#contact
+
+

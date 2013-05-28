@@ -1,0 +1,108 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7249
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 18846 invoked from network); 8 Nov 2007 15:14:02 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 8 Nov 2007 15:14:02 -0000
+Received: (qmail 10340 invoked by uid 225); 8 Nov 2007 15:14:00 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 10320 invoked by alias); 8 Nov 2007 15:13:58 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 08 Nov 2007 07:13:54 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id ECBF02AFDA; Thu,  8 Nov 2007 07:13:50 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20071108151350.ECBF02AFDA@x3.develooper.com>
+Date: Thu,  8 Nov 2007 07:13:50 -0800 (PST)
+Subject: Senior Systems Engineer (Perl) (onsite), United States, Virginia, Alexandria
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/7239
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November  8, 2007
+
+Job title: Senior Systems Engineer (Perl)
+
+Company name: TEKsystems
+
+Location: United States, Virginia, Alexandria
+
+Pay rate: Based on Experience
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+TEKsystems is partnered with a leading Government Integrator supporting one
+of their largest clients located in Alexandria, Virginia. They are looking
+for a strong Systems Engineer to work on a high profile project within
+their client's main web site. This opportunity would be a consultant to
+hire opportunity and is immediately available. Please look below for
+further details: 
+
+This position is to provide LINUX based scripting support for our Internet
+team supporting a large, high-volume, multi-platform, government web site.
+Primary duties include supporting PERL Scripts, BASH Scripts, SQL Scripts,
+CGI Scripts being used as DMZ front-end. 
+
+The team will provide full support for this environment including multiple
+back-end SUN Solaris and Network Appliance network attached storage
+systems. Applications are based on PERL, Apache, MYSQL and BASH and the
+applicant should be a skilled scripted and programmer. 
+
+The team is small and the environment is often tense, as this is one of the
+highest volume 24 x 7 web sites in government, and we therefore expect all
+team members to share duties as much as possible. The applicant will be
+expected to provide 24 hour on-call site support for problem events, which
+are rare. A major part of the job is keeping it that way.
+
+
+
+Requirements: Solid PERL, BASH and SQL experience are required. Experience
+with Mysql, Apache, CGI-BIN Scripting, HTML, XML, or XSLT a plus.
+
+Education: BS Degree in relative skills
+
+
+Main Responsibilities: 
+
+- Upgrade server software-- Linux kernel(2.2.x, 2.4.x and 2.6.x), Apache
+(1.3.x and 2.2.x), Perl, Sendmail, Bind
+- Setup hardware RAID for Dell PowerEdge 2550s and 2650s
+- Convert ipchains firewall rules to iptables firewall rules
+- Develop various monitoring/heartbeat scripts to monitor essential
+services
+and developed various CGI scripts
+- Developed a backup/restore/replicate process for all production servers
+- Do various load tests on the servers to ensure they can meet the demand
+expected.
+
+
+Required skills:
+LINUX/UNIX 
+PERL SCRIPTING 
+MY SQL 
+APACHE WEBSERVER
+CGI-BIN SCRIPTING 
+
+
+Contact information at:
+http://jobs.perl.org/job/7239#contact
+
+

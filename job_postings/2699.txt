@@ -1,0 +1,85 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2699
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 7175 invoked from network); 12 May 2005 15:25:51 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 12 May 2005 15:25:51 -0000
+Received: (qmail 8135 invoked by uid 225); 12 May 2005 15:25:50 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 8128 invoked by alias); 12 May 2005 15:25:49 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 12 May 2005 08:25:45 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j4CFPgLJ014162
+	for <jobs@perl.org>; Thu, 12 May 2005 08:25:42 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j4CFPfWe014160;
+	Thu, 12 May 2005 08:25:41 -0700
+Date: Thu, 12 May 2005 08:25:41 -0700
+Message-ID: <200505121525.j4CFPfWe014160@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: mod_perl/perl programmer for Open Source (Livejournal) (telecommute), United States, texas, austin
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2592
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 12, 2005
+
+Job title:
+mod_perl/perl programmer for Open Source (Livejournal)
+
+Location: United States, texas, austin
+
+Pay rate: open source
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: 1 week
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+I'm looking for someone who has expertise with
+apache1.3.33/mod_perl1.29/linux/perl. 
+
+We're evaluating livejournal, an open source application, and we need
+soemone who has the background/skills to help understand/debug what the
+application does. The immediate need is to document how portions of the
+applications work, so we can get a better understanding of the internal
+functions of the current application.
+
+For the right person, this project is relatively small. There is the
+possibility for future projects based on the results of this process.
+
+
+Required skills:
+You should be fluent in Perl/Mod_perl1.29/Apache1.3.33/Linux. You should
+have a strong background in developing perl applications, including
+debugging packages, etc...
+
+
+Desired skills:
+An understanding of www.livejournal.org/com will be usefull.
+
+An understanding of scalable architectures will also be helpful.
+
+
+Contact information at:
+http://jobs.perl.org/job/2592#contact
+
+

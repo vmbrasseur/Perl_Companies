@@ -1,0 +1,125 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10034
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8120 invoked from network); 12 Apr 2010 22:27:12 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 12 Apr 2010 22:27:12 -0000
+Received: (qmail 23526 invoked by uid 225); 12 Apr 2010 22:27:11 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 23517 invoked by alias); 12 Apr 2010 22:27:11 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 12 Apr 2010 15:27:07 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 529F92AFDF; Mon, 12 Apr 2010 15:27:03 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20100412222704.529F92AFDF@x3.develooper.com>
+Date: Mon, 12 Apr 2010 15:27:03 -0700 (PDT)
+Subject: Senior Configuration Management Engineer (onsite), United States, CA, San Diego
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/12034
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April  7, 2010
+
+Job title: Senior Configuration Management Engineer
+
+Company name: DivX
+
+Internal ID: T1002
+
+Location: United States, CA, San Diego
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The Senior Configuration Management Engineer is responsible for the design,
+development, delivery and support of configuration management and software
+product build services for multiple development teams and their associated
+development environments. Specific day-to-day activities will include:
+
+    * Design, implement and support improvements to the company’s
+Continuous Integration (CI) build and test environment
+    * Support product development teams in different countries building on
+and targeting multiple operating environments (Windows, Linux, Mac OS X)
+using multiple tool chains concurrently
+    * Constantly fine tune software configuration management (SCM) systems
+to operate efficiently and reliably in a globally distributed development
+environment
+    * Administer and maintain SCM systems including the source control,
+issue tracking, build and test systems
+    * Provide training and support to software engineering teams in the
+optimal use of SCM tools and CI build and test services
+    * Monitor and audit conformance of project source code, makefiles and
+build scripts, tool chains, and external dependencies to company standards
+
+
+Required skills:
+We’re looking for someone with a vast amount of experience supporting
+distributed engineering teams using all major platforms. We’re looking for
+an engineer who is not only meticulous about details, but who thinks about
+the “big picture”. They handle particularly complex or even specialized
+tasks, are highly proactive, don't get slowed down by obstacles, and drive
+best practices and innovation across the technology department. They not
+only hold themselves to the highest of standards, they raise the bar for
+the rest of us. Some of the skills we are looking for include:
+
+    * Extensive experience designing, implementing and supporting SCM
+build, test and release environments
+    * Extensive experience automating SCM tasks
+    * Strong knowledge of Linux, Apache, MySQL and Perl
+    * Experience supporting distributed engineering teams using Windows,
+Linux and Mac OS X
+    * Extensive experience with source code version control systems
+    * Thorough knowledge of Make and Ant
+    * Ability to analyze complex problems, then recommend solutions
+    * Capable of successfully juggling several projects simultaneously
+    * Ability to work independently and within a team
+    * Flexible and able to work to deadlines
+    * Excellent verbal and written communications skills
+
+
+Desired skills:
+The following are highly desired:
+
+    * Experience administering issue tracking systems such as Jira
+    * Experience administering a Subversion server and supporting various
+Subversion clients across Windows, Mac, and Linux
+    * Experience working with globally distributed development and QA teams
+
+    * Experience leveraging virtualization to effectively utilize storage
+and computing resources and to provide high availability to critical build
+and test systems
+    * Experience as a software engineer using common IDE and tool chains in
+multiple environments (e.g. MS Visual Studio, Eclipse, XCode, gnu c/c++,
+etc.)
+    * Experience in teams operating in an Agile development process
+including iterative development, continuous builds and TDD using tools such
+as VersionOne, BullsEye, and Coverity
+    * Experience supporting cross-development environments for embedded
+systems development is a plus
+
+
+URL for more information:
+http://tbe.taleo.net/NA1/ats/careers/requisition.jsp?org=DIVX&cws=1&rid=642
+
+Contact information at:
+http://jobs.perl.org/job/12034#contact
+
+

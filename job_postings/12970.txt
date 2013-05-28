@@ -1,0 +1,95 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12970
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 25194 invoked from network); 7 Dec 2012 00:19:25 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 7 Dec 2012 00:19:25 -0000
+Received: (qmail 17411 invoked by uid 225); 7 Dec 2012 00:19:24 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 17407 invoked by alias); 7 Dec 2012 00:19:24 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 06 Dec 2012 16:19:20 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 9B3DE2AFCE; Thu,  6 Dec 2012 16:19:17 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 6 Dec 2012 16:19:17 -0800
+Message-ID: <20121207001917.9B3DE2AFCE@x3.develooper.com>
+Subject: Senior Perl developer (onsite), Vienna, Austria
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16784
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December  6, 2012
+
+Job title: Senior Perl developer
+
+Company name: Validad GmbH
+
+Internal ID: perl/sen
+
+Location: Vienna, Austria
+
+Pay rate: € 72.000 per Year
+
+Terms of employment: Salaried employee
+
+Hours: Flexible
+
+Onsite: yes
+
+Description:
+Are you a strong team player? Have you built web projects on a global scale
+before? Do you want to help build tools to run, manage and monitor our
+services? We offer you an interesting and innovative work environment with
+a talented team of Perl software developers, exciting tasks for long
+enduring projects enabling thousands of business processes to be
+continuously optimized. 
+
+Your position would entail web development of both new and existing
+products. 
+
+Validad is a Vienna based IT- & web-development forge. In our five years of
+operations, we have developed several IT solutions (ERP, CRM, high
+performance Websites) for various international clients located in Germany,
+Switzerland, Austria, Spain, Turkey and Brazil. 
+Currently - and this would be you’re field of action - we're working on
+upscaling our existing developments to a new, globally applicable
+SaaS-platform.
+
+Required skills:
+* 5+ years of professional software development experience
+* 5+ years of Perl programming experience
+* Object Oriented Programming
+* Ability to author Perl modules
+* SQL / DBI / DBIx::Class
+* Frameworks experience Starman, Plack, Catalyst, TemplateToolkit, …
+* testing
+* Moose
+* PostgreSQL
+* Git
+* English in writing and speech
+
+Desired skills:
+* AnyEvent
+* ZeroMQ
+* Debian / Ubuntu
+* Experience in system administration
+* Some working experience in systems/database administration and tuning 
+* JavaScript
+
+Website for more information: http://www.validad.com
+
+Contact information at:
+http://jobs.perl.org/job/16784#contact

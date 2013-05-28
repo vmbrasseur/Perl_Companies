@@ -1,0 +1,100 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3085
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 12450 invoked from network); 10 Aug 2005 19:27:46 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 10 Aug 2005 19:27:46 -0000
+Received: (qmail 18541 invoked by uid 225); 10 Aug 2005 19:27:44 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 18527 invoked by alias); 10 Aug 2005 19:27:41 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 10 Aug 2005 12:27:35 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j7AJRVUv030588
+	for <jobs@perl.org>; Wed, 10 Aug 2005 12:27:31 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j7AJRVgs030586;
+	Wed, 10 Aug 2005 12:27:31 -0700
+Date: Wed, 10 Aug 2005 12:27:31 -0700
+Message-ID: <200508101927.j7AJRVgs030586@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Contract Programmer for Short-Term Open-Source Project (part onsite), United States, NY, New York
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2947
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 10, 2005
+
+Job title:
+Contract Programmer for Short-Term Open-Source Project
+
+Company name: Plus Three
+
+Internal ID: openadmin
+
+Location: United States, NY, New York
+
+Pay rate: Negotiable
+
+Travel: 0-25%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: at least 2 weeks
+
+Hours: Flexible
+
+Onsite: some
+
+Description:
+Plus Three is looking for a Perl developer to take on a short-term project
+for one of our clients. The client is a major non-profit organization. If
+this project is successful, there is a high probability of future work.
+
+As the contractor, you will work on adding several new features to the Open
+Admin software package. Open Admin is an open-source school administration
+system available at http://richtech.ca/openadmin/. When you are finished,
+your changes will be contributed back to the Open Admin project.
+
+You will be resposible for collecting the requirements, developing the new
+functionality, and handling bug reports, with minimal assistance from Plus
+Three staff. This project has a fixed end date, so you need to be available
+to start work within a few days.
+
+Most of the work may be done offsite but the ability to meet in person in
+New York City is desired. 
+
+Required skills:
+Development experience in a professional environment.
+
+Perl - Solid programming experience with Perl using CPAN modules.
+
+MySQL - Experience using MySQL or another SQL database.
+
+Desired skills:
+Version control - CVS or Subversion
+
+Experience doing maintainance work on a large Perl system.
+
+TeX - Experience creating documents using the LaTeX or TeX formatting
+system.
+
+URL for more information: http://plusthree.com/
+
+Contact information at:
+http://jobs.perl.org/job/2947#contact
+
+

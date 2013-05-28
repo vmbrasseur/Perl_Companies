@@ -1,0 +1,132 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9382
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 10631 invoked from network); 5 Aug 2009 20:55:08 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 5 Aug 2009 20:55:08 -0000
+Received: (qmail 23493 invoked by uid 225); 5 Aug 2009 20:55:08 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 23488 invoked by alias); 5 Aug 2009 20:55:08 -0000
+X-Spam-Status: No, hits=-5.6 required=8.0
+	tests=FM_SCHOOLING,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 05 Aug 2009 13:55:02 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 398952AFDF; Wed,  5 Aug 2009 13:54:59 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20090805205459.398952AFDF@x3.develooper.com>
+Date: Wed,  5 Aug 2009 13:54:59 -0700 (PDT)
+Subject: Bioinformatics Programmer Analyst (onsite), United States, CA, South San Francisco
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/10936
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August  5, 2009
+
+Job title: Bioinformatics Programmer Analyst
+
+Company name: Genentech
+
+Location: United States, CA, South San Francisco
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+I have an opening in my group in the Bioinformatics department at
+Genentech [South San Francisco, CA].  At the moment (for the next year
+or so) our main focus is rebuilding and extending a system for
+collecting, processing, and disseminating information about mutations
+and variations (think web interfaces, relational databases,
+alignments, workflows/pipelines).  In the future we'll pick up
+projects related to next-gen sequencing (Me too!!!  In the future,
+what isn't related to next-gen?), data integration, and/or
+lab-specific projects.
+
+First and foremost I'm looking for someone who's sharp and who enjoys
+computers, biology, and technology; someone who gets excited about
+picking up new tools but who also has a sense of responsibility and
+restraint.
+
+I'm looking for someone who's familiar with several languages and
+tools; modern Perl complemented with C is my first choice these days,
+supplemented with R and (when necessary) anything from the rest of the
+programming language bestiary.	There's a fair amount of Java flying
+around here too so familiarity with it and the JVM world will help.
+Relational databases are part of the picture: Oracle for the big
+stuff; SQLite, Postgresql, and MySQL play niche roles.	I generally
+interact with them via ORM's, lately it's been Rose::DB::Object on the
+Perl side though I've been convinced to take another look at
+DBIx::Class.  Most of my web apps use CGI::Application, as fastcgi's,
+mod_perl, or simple CGI scripts, but (as with ORM's) I may take
+another look at Catalyst.
+
+I'm looking for someone who's interested in building real software.
+We'll be putting together a set of tools and data that need to hang
+together and evolve for at least 4-5 years.  Deploy and run won't cut
+it.  Requirements will change, so it's important to me that we build
+things so they're as modular and flexible as possible.	Testing,
+source control, and documentation matter.
+
+A strong candidate will have an understanding of basic bioinformatics
+concepts and the ability to pick up new biology and computer science
+concepts as necessary.
+
+At the junior end of the spectrum I'd expect a bachelor's degree + 3
+years of experience, at the upper end would a masters + 5 years (or a
+PhD interested in moving towards the production side of the house).
+
+I can imagine running through one or more detail oriented interview
+questions that drilled down (or took of on a tangent) from the
+following:
+
+  - What's the difference between Smith-Waterman, blast, sim4, gmap,
+    and/or bowtie alignment algorithms or tools?  Which would you use
+    when, and why?
+
+  - Why is Moose better than Class::Accessor?  (yes, it's Perl
+    centered, but it could spin out into any language [e.g. why is
+    Java better than Perl?]).  What's a MOP?  Who cares?
+
+  - CVS, subversion, git, mercurial.  You've already picked one?
+    Which one?	Why?  Why not?
+
+  - XML or JSON or YAML.  Pick one for moving data back and forth in
+    an Ajax based interface.  Why?  Would it also work well in other
+    contexts?
+
+  - How would you store information about positional features on a
+    genome so that you could get fast random access?  How would your
+    solution tie into a larger data context?
+
+Genentech's a great place to work: solid salaries, great benefits, Bay
+Area location (who could ask for more?).  We're open source friendly
+and with the arrival Robert Gentleman (our new Director, of
+Bioconductor/R fame) likely to become more so.	The recent Roche
+acquisition hasn't changed life much, it seems to mostly be a source
+of opportunities for those of us in Research.
+
+
+Required skills:
+Perl
+
+See the description for more details.
+
+Contact information at:
+http://jobs.perl.org/job/10936#contact
+
+

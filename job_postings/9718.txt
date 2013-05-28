@@ -1,0 +1,111 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9718
+Return-Path: <harryc@juniper.net>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 12200 invoked from network); 29 Dec 2009 20:44:58 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 29 Dec 2009 20:44:58 -0000
+Received: (qmail 13278 invoked by uid 225); 29 Dec 2009 20:44:57 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 13269 invoked by alias); 29 Dec 2009 20:44:57 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x6.develooper.com (HELO lists-nntp.develooper.com) (207.171.7.86)
+    by la.mx.develooper.com (qpsmtpd/0.28) with SMTP; Tue, 29 Dec 2009 12:44:56 -0800
+Received: (qmail 12189 invoked by uid 515); 29 Dec 2009 20:44:52 -0000
+To: jobs@perl.org
+MBOX-Line: From news@google.com Tue Dec 29 20:44:51 2009
+Delivered-To: colobus-nntpmod@lists-nntp.develooper.com
+Received: (qmail 12175 invoked from network); 29 Dec 2009 20:44:51 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 29 Dec 2009 20:44:51 -0000
+Received: (qmail 12878 invoked by uid 225); 29 Dec 2009 20:44:50 -0000
+Delivered-To: news-moderator-perl.jobs@perl.org
+Received: (qmail 12874 invoked by alias); 29 Dec 2009 20:44:50 -0000
+Received: from pinatubo-2.switch.ch (HELO pinatubo.switch.ch) (130.59.1.10)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 29 Dec 2009 12:44:48 -0800
+Received: from [209.85.211.227] (helo=mail-yw0-f227.google.com)
+	by pinatubo.switch.ch with esmtp (Exim 4.69)
+	(envelope-from <news@google.com>)
+	id 1NPivr-0005OH-7n
+	for perl-jobs@moderators.isc.org; Tue, 29 Dec 2009 21:44:43 +0100
+Received: by ywh24 with SMTP id 24so21247242ywh.4
+        for <perl-jobs@moderators.isc.org>; Tue, 29 Dec 2009 12:44:39 -0800 (PST)
+Received: by 10.150.71.42 with SMTP id t42mr18671859yba.15.1262119479622;
+        Tue, 29 Dec 2009 12:44:39 -0800 (PST)
+Received: from ywd9.prod.google.com (ywd9.prod.google.com [10.192.4.9])
+        by mx.google.com with ESMTP id 7si343913ywo.2.2009.12.29.12.44.39;
+        Tue, 29 Dec 2009 12:44:39 -0800 (PST)
+Received: (from news@localhost)
+	by Google Production id nBTKidsc000913
+	for perl-jobs@moderators.isc.org; Tue, 29 Dec 2009 12:44:39 -0800
+X-Authentication-Warning: ywd9.prod.google.com: news set sender to news@google.com using -f
+Date: Tue, 29 Dec 2009 12:44:39 -0800 (PST)
+Organization: http://groups.google.com
+Lines: 37
+Message-ID: <4d45eef4-7d8c-4146-8e7d-90f348140266@b2g2000yqi.googlegroups.com>
+NNTP-Posting-Host: 66.129.224.36
+Mime-Version: 1.0
+Content-Type: text/plain; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+X-Trace: posting.google.com 1262119479 912 127.0.0.1 (29 Dec 2009 20:44:39 GMT)
+X-Complaints-To: groups-abuse@google.com
+NNTP-Posting-Date: Tue, 29 Dec 2009 20:44:39 +0000 (UTC)
+Complaints-To: groups-abuse@google.com
+Injection-Info: b2g2000yqi.googlegroups.com; posting-host=66.129.224.36; 
+	posting-account=3Xq8gwoAAADRdk5f877jk95R8BUF2iZv
+User-Agent: G2/1.0
+X-HTTP-UserAgent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET 
+	CLR 1.1.4322; InfoPath.1; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 
+	3.0.4506.2152; .NET CLR 3.5.30729),gzip(gfe),gzip(gfe)
+X-Posted-By: 207.171.7.86
+X-Old-Spam-Check-By: la.mx.develooper.com
+X-Old-Spam-Status: No, hits=-3.3 required=8.0
+	tests=RCVD_IN_DNSWL_MED,SPF_SOFTFAIL
+Subject: Job Opening for "Development Test Engineer/Perl Programmer" at 	
+	Juniper Networks
+Approved: news@nntp.perl.org
+From: harryc@juniper.net (harryc)
+
+We are currently looking for a Sr. Manufacturing Test Development
+Engineer. This opportunity is for an experienced self-starter who can
+drive activities to successful completion. The candidate will be
+tasked with developing automated test solutions to validate networking
+platforms and data collection/analysis tools. Responsibilities will
+include: defining test requirements, developing PC based software test
+applications in Perl, design analysis, test coverage analysis,
+documentation and test execution. Experience in OOD design is a plus.
+
+Required Experience:
+=95 8+ years
+=95 B.S or M.S. in EE or CS
+=95 Experience with Perl
+=95 Experience with unit, integration and system test concepts
+=95 Experience developing test procedures, both manual and automated
+=95 Experience with test automation tools and methodologies
+=95 Excellent interpersonal skills, ability to work with cross-
+functional teams and leadership capabilities
+=95 Must have an excellent grasp of networking technologies and physical
+interfaces.
+=95 Possess a demonstrated track record of having contributed to
+planning and implementation of product test process.
+=95 Support NPI test process and assist Engineering with Prototype bring
+up.
+
+Preferred Experience:
+=95 Object oriented design and analysis
+=95 Linux and/or Unix Experience
+=95 Using Ethernet and serial ports for command and control.
+=95 Experience with CM test process
+=95 Experience in networking equipment
+=95 Experience with UNIX based development systems and tools, including
+CVS for source code version control helpful.
+=95 Experience with Database Applications
+
+This is a FT position at Juniper Networks in Sunnyvale, CA. If you are
+interested, please send resume to harryc@juniper.net.
+

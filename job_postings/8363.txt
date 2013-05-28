@@ -1,0 +1,102 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8363
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 2588 invoked from network); 27 Jun 2008 20:06:56 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 27 Jun 2008 20:06:56 -0000
+Received: (qmail 4931 invoked by uid 225); 27 Jun 2008 20:06:56 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 4926 invoked by alias); 27 Jun 2008 20:06:55 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 27 Jun 2008 13:06:51 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 679CE2AFF2; Fri, 27 Jun 2008 13:06:48 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080627200648.679CE2AFF2@x3.develooper.com>
+Date: Fri, 27 Jun 2008 13:06:48 -0700 (PDT)
+Subject: Platform Engineer (onsite), United States, California, Palo Alto
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/9062
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 26, 2008
+
+Job title: Platform Engineer
+
+Company name: Integration Appliance
+
+Location: United States, California, Palo Alto
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: full-time
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Platform Engineer
+
+We are looking for a developer interested in eating and breathing
+integration. Our platform combines a high-level graphical programming
+language, operating system and IDE. To get a sense of the engineering
+challenges awaiting you, imagine writing Eclipse, defining the Java APIs,
+and implementing the JRE.
+
+The platform engineer focuses on the back-end of this equation, building
+systems that enable users to design complex data integration rules through
+a front-end GUI. A few clicks in the IDE can take the place of hundreds of
+lines of code written in a language like Java or C. The platform abstracts
+the heavy lifting so end users don't have to worry about low level details
+like creating JDBC connections.
+
+We are looking for an individual who possesses an obsessive attention to
+detail, relishes hard technical problems and insists on excellence. This
+position entails high levels of responsibility. Developers have the
+opportunity to propose new features and are expected to see assigned
+projects through completion.
+
+Key Responsibilities
+
+* Design and implement features, enhancements, and bug fixes for our
+flagship product
+
+* Help shape product architecture and road map for integration platform
+
+* Participate in all phases of development, from design to implementation,
+unit testing, and release
+
+* Weigh functional and usability trade-offs when defining implementation
+details
+
+Qualifications
+
+* B.S. and/or M.S. degree in Computer Science or equivalent
+
+* Object-Oriented software development experience
+
+
+Required skills:
+Skills in as many of the following areas as possible: Perl 5, SQL, XML,
+Apache CGI/modperl
+
+URL for more information: http://www.intapp.com/
+
+Contact information at:
+http://jobs.perl.org/job/9062#contact
+
+

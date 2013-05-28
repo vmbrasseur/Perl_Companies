@@ -1,0 +1,83 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4681
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 12930 invoked from network); 25 Jul 2006 19:12:08 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 25 Jul 2006 19:12:08 -0000
+Received: (qmail 2269 invoked by uid 225); 25 Jul 2006 19:12:08 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 2262 invoked by alias); 25 Jul 2006 19:12:07 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 25 Jul 2006 12:12:05 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 9A35D2AFDE; Tue, 25 Jul 2006 12:12:00 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060725191200.9A35D2AFDE@x3.develooper.com>
+Date: Tue, 25 Jul 2006 12:12:00 -0700 (PDT)
+Subject: LAMP Web Applications Developer (telecommute), United States, Ohio, Cleveland
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4405
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 25, 2006
+
+Job title: LAMP Web Applications Developer
+
+Company name: WaveRight Information Technology, LLC.
+
+Internal ID: 1010
+
+Location: United States, Ohio, Cleveland
+
+Pay rate: $35.00/hr
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: indefinite
+
+Hours: Part time
+
+Onsite: no
+
+Description:
+Consolidate a slew of disperate mod_perl based web applications.
+
+A link to your CV in txt or html format is preferred.
+
+Required skills:
+* perl
+* mod_perl
+* linux
+* apache
+* mysql
+* html
+* javascript
+* JSON-RPC
+* css
+* ldap
+
+
+Desired skills:
+Know your way around search.cpan.org, perldoc.perl.org, perl.apache.org,
+and groups.google.com.
+
+Class::DBI, Catalyst, CGI::Application, HTML::Mason, Template::Toolkit
+
+Contact information at:
+http://jobs.perl.org/job/4405#contact
+
+

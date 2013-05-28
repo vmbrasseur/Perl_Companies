@@ -1,0 +1,91 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11797
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 25661 invoked from network); 26 Oct 2011 22:20:41 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 26 Oct 2011 22:20:41 -0000
+Received: (qmail 23445 invoked by uid 225); 26 Oct 2011 22:20:41 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 23441 invoked by alias); 26 Oct 2011 22:20:41 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 26 Oct 2011 15:20:38 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id E28142AFE0; Wed, 26 Oct 2011 15:20:34 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 26 Oct 2011 15:20:34 -0700
+Message-ID: <20111026222034.E28142AFE0@x3.develooper.com>
+Subject: OO Perl Programmer (onsite), Greenwich, CT, USA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14088
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 26, 2011
+
+Job title: OO Perl Programmer
+
+Company name: Interactive Brokers
+
+Internal ID: 68601-CJB-0
+
+Location: Greenwich, CT, USA
+
+Pay rate: negotiable
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Programmer for Compliance Technology Department of a brokerage and trading
+firm at our headquarters in Greenwich, CT. The ideal candidate will have
+3-5 years experience with Object Oriented Perl as well as strong software
+design skills.
+
+Responsibilities:
+
+    * Develop, test and maintain object-oriented PERL modules to support
+brokerage, trading and customer account surveillance. 
+    * Design perl interfaces into various brokerage database systems using
+DBI and object relational mappers.
+    * Develop and maintain web-based system that supports the compliance
+supervision function.  Knowledge of LAMP development is required.
+
+Required skills:
+* Degree in Computer Science/Engineering or Information Technology is
+required. 
+    * Knowledge of UNIX or LINUX based operating systems
+    * Knowledge of Perl 5.8.x
+    * Ability to read JAVA, C or C++
+    * Knowledge of SQL, preferably Oracle is required
+    * Basic knowledge of desktop applications
+
+Desired skills:
+* Familiarity with perl testing module Test::More and an understanding of
+designing tests for perl modules;
+    * Familiarity with perl xml modules such as XML::Twig;
+    * Familiarity with test driven development and other design
+methodologies for developing reliable software;
+    * Experience with writing POD documentation for modules and
+    * Familiarity with JavaScript and various frameworks such as prototype,
+Jquery or Dojo
+
+Website for more information:
+https://apply.hrmdirect.com/resumedirect/ApplyOnline/Apply.aspx?req_id=6860
+1&source=68601-CJB-0
+
+Contact information at:
+http://jobs.perl.org/job/14088#contact

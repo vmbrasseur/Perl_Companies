@@ -1,0 +1,100 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8097
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 19334 invoked from network); 6 May 2008 22:39:17 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 6 May 2008 22:39:17 -0000
+Received: (qmail 3687 invoked by uid 225); 6 May 2008 22:39:17 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 3683 invoked by alias); 6 May 2008 22:39:16 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 06 May 2008 15:39:12 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 7C8092AFED; Tue,  6 May 2008 15:39:09 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080506223909.7C8092AFED@x3.develooper.com>
+Date: Tue,  6 May 2008 15:39:09 -0700 (PDT)
+Subject: Software Engineer, Virtualization (onsite), United States, CA, Carlsbad
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8624
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May  6, 2008
+
+Job title: Software Engineer, Virtualization
+
+Company name: Yahoo!
+
+Internal ID: 15029
+
+Location: United States, CA, Carlsbad
+
+Pay rate: DOE
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The Internet is a big, busy place, and we at Yahoo! are proud to stand out
+in the crowd. As the world's number one Internet brand, servicing over a
+half billion people, we're determined to maintain our commitment to
+delivering news, entertainment, information and fun... each and every day. 
+
+
+In order to maintain our position as one of the world's most trafficked
+Internet destinations, we're always on the lookout for people with big
+ideas and big talent to help us provide our visitors with the innovative
+products and services they've come to expect from Yahoo!. We're looking for
+people like you. 
+
+How Big Can You Think? 
+
+The DevTools team in Platform Engineering at Yahoo is responsible for
+getting tools into the hands of development and release engineers to
+address issues of scale at Yahoo. Yahoo has one of the largest footprints
+on the internet (number of users, hosts, sites, etc). This introduces
+unique issues of process, scale, and complexity. If you like working on
+tough problems in scaling systems and process that you won't see anywhere
+else, then the DevTools team is the place to be. 
+
+The current need is for a good, systems-oriented engineer to work on
+virtualization. Yahoo is expanding our use of virtualization to better
+utilize our resources, and our group is going to lead that charge.We're
+looking for a self-directed mid-level engineer with strong scripting skills
+(perl, python, etc), good OO chops (C++/Java), strong systems experience
+(linux, freeBSD), and experience with a virtualization product (VMware,
+Xen). Most importantly, we want someone to join the team who wants to take
+on and solve difficult problems. 
+
+Yahoo! Inc. is an equal opportunity employer. For more information or to
+search all of our openings, please visit http://careers.yahoo.com.
+
+Required skills:
+Go to problem solver with systems level experience. Strong scripting skills
+(Perl,Python);OO (C++/Java).Virtualization experience (VMWare,Xen).
+Self directed
+
+Desired skills: excellent communicator
+
+URL for more information: http://careers.yahoo.com/
+
+Contact information at:
+http://jobs.perl.org/job/8624#contact
+
+

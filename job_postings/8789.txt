@@ -1,0 +1,173 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8789
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 7923 invoked from network); 31 Oct 2008 18:36:29 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 31 Oct 2008 18:36:29 -0000
+Received: (qmail 19204 invoked by uid 225); 31 Oct 2008 18:36:29 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 19200 invoked by alias); 31 Oct 2008 18:36:29 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 31 Oct 2008 11:36:26 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 093972AFE0; Fri, 31 Oct 2008 11:36:22 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20081031183623.093972AFE0@x3.develooper.com>
+Date: Fri, 31 Oct 2008 11:36:22 -0700 (PDT)
+X-Virus-Checked: Checked
+Subject: Team Lead Perl Architect / Developer, United States, NY, Port Washington
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/9840
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 29, 2008
+
+Job title: Team Lead Perl Architect / Developer
+
+Company name: Major Publishing company
+
+Internal ID: NYPERL
+
+Location: United States, NY, Port Washington
+
+Pay rate: 125K + bonus
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: full-time
+
+Hours: Full time
+
+Description:
+Our Client is looking for a senior Perl Architect / Team Lead. The position
+is with a major e-commerce company. The position requires extensive perl,
+apache, lamp experience. They will consider relocation and h1b sponsorships
+for the right candidate. 
+
+Description:
+Perl – expert skill set – must understand and have used Object Oriented
+concepts within Perl language constraints. 
+mod_perl – expert skill set or recent experience on dedicated mod_perl
+project. 
+
+A good communicator with a proven track record of interacting with upper
+management to cross translate technical and business concepts and issues
+into the comfortable language, both written and spoken, of the audience. 
+Some project management experience with a clear understanding of both
+general lifecycle and iterate software development methods (such as agile
+or XP), a clear understanding of QA and QC usage under these methodologies,
+and some experience interacting with external QA or Program Management. 
+Out of the box thinker, must be quick and motivated in researching and
+learning new technologies and applying these technologies in a dynamic
+business environment. 
+Proactive and troubleshooting mindset with exceptional debugging,
+management, and measurement skills both within a software engineering
+context and within a server administration framework. 
+Experience in compiling, installing, integrating, and troubleshooting large
+number of Open Source libraries / run time components under a multi-server
+architecture. 
+Experience with integrating multiple third party tools from web service
+providers and managing relationships to those providers to resolve ongoing
+issues and upgrades. 
+Experience with communicating and managing tasks with hardware/network
+service providers. 
+Basic knowledge of CPC / CPM Web advertising revenue and marketing
+concepts. 
+Past experience owning and being responsible for site/server uptime. 
+Security – Grounding and experience in fundamental concepts –
+public/private key encryption, server authentication, apache vulnerability
+lock down practices, SSL certification. 
+Networking – DNS /CDN setup fundamentals and experience. Understanding of
+bulk data transfer protocols. 
+Must show a significant ongoing career expertise in SQL database usage with
+a specialized skill on complex retrieval methods and advanced SQL tuning
+and design. Database setup, design, and DBA experience is also highly
+desirable. 
+Expert programming experience and knowledge of automating web service
+calls, data feeds, ETL parsing. Search engine and external feed experience
+is highly desirable. 
+Expert level data parsing skills with a concentration on web analytics and
+reporting using server side log files. Some Data warehousing experience is
+highly desirable. 
+Proven understanding and experience in MVC web architecture, Object
+Oriented and Pattern Programming. 
+Proven understanding and experience in data recovery and control methods,
+such as failover, error point recovery, duplex caching, locking and
+contention strategies etc. 
+Experience in developing daemon services highly desirable. 
+Exposure and some experience integrating external web analytic service
+providers such as unica, coremetrics, omniture, or webtrends. 
+Some experience in build script development, deployment, and other software
+development controls and concepts. 
+Web architecture design experience highly desirable.Previous startup or
+software engineering firm experience highly desirable.
+
+Required Skills
+Technology Tools Summary:
+
+Apache - expert skill set and experience in installing, upgrading,
+debugging, tuning, and managing Apache in a multi server environment. Usage
+of Apache system measurement tools highly desirable. 
+Linux – expert skill set and experience in administrative, security, and
+management of Linux. 
+mySQL – expert skill set – must have configuration/setup, administrative,
+security, programming, and advanced tuning experience. 
+Perl – expert skill set – must understand and have used Object Oriented
+concepts within Perl language constraints. 
+mod_perl – expert skill set or recent experience on dedicated mod_perl
+project. 
+XML – DOM and SAX parser mid-level expertise. 
+bash programming – proven ongoing career use. mid-level expertise. 
+C / C++ and Windows programming - some exposure and experience desirable. 
+Java and Netbeans - some exposure and experience desirable. 
+CVS – some management and configuration experience is highly desirable. 
+memcached – desirable or other caching library exposure (ex. JCS, etc). 
+imagemagick – desirable or exposure to other image rendering libraries (ex.
+GD Graphics etc). 
+HTML::Template – desirable or other exposure to library used for controlled
+page rendering (e.g. Smarty, CHIP, FreeMarker, PHPLib, vLibTemplate,
+ClearSilver, XSLT, etc). 
+MS Office, Project Management tool use etc.
+Education Summary:
+
+
+Required skills:
+
+
+Apache - expert skill set and experience in installing, upgrading,
+debugging, tuning, and managing Apache in a multi server environment. Usage
+of Apache system measurement tools highly desirable. 
+Linux – expert skill set and experience in administrative, security, and
+management of Linux. 
+mySQL – expert skill set – must have configuration/setup, administrative,
+security, programming, and advanced tuning experience. 
+Perl – expert skill set – must understand and have used Object Oriented
+concepts within Perl language constraints. 
+mod_perl – expert skill set or recent experience on dedicated mod_perl
+project. 
+XML – DOM and SAX parser mid-level expertise. 
+bash programming – proven ongoing career use. mid-level expertise. 
+
+Minimum of BSCS degree or similar. 
+7 or more years of professional experience developing web-based
+applications.
+
+URL for more information: http://www.css-llc.net/
+
+Contact information at:
+http://jobs.perl.org/job/9840#contact
+
+

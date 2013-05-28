@@ -1,0 +1,96 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5388
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28978 invoked from network); 1 Dec 2006 15:48:44 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 1 Dec 2006 15:48:44 -0000
+Received: (qmail 28769 invoked by uid 225); 1 Dec 2006 15:48:42 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 28697 invoked by alias); 1 Dec 2006 15:48:37 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 01 Dec 2006 07:48:34 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id CA93D2AFDF; Fri,  1 Dec 2006 07:48:15 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20061201154815.CA93D2AFDF@x3.develooper.com>
+Date: Fri,  1 Dec 2006 07:48:15 -0800 (PST)
+Subject: mod_perl/MySQL Developer for Top Tier Startup (onsite), San Mateo, CA, San Mateo
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5039
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 30, 2006
+
+Job title:
+mod_perl/MySQL Developer for Top Tier Startup
+
+Company name: Genius Inc
+
+Internal ID: MP001
+
+Location: San Mateo, CA, San Mateo
+
+Pay rate: competitive market
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: FT/Regular
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Genius’ Service engineering group is looking for an A+, hands-on,
+Perl/PHP/MySQL engineer to work on its high availability mail proxy
+servers. If you enjoy working with a group of amazingly smart people, can
+gracefully handle putting out fires, and can put on your Sys Admin hat at a
+moment’s notice, then this is the job for you. You will be responsible for
+designing and building applications in our Perl/PHP/MySQL environment. 
+
+Responsibilities:
+• Development and refinement of system build scripts.
+• Fine tuning existing applications for memory usage and performance.
+• Design architecture and code changes to improve performance.
+
+
+Required skills:
+Job Qualifications:
+• 3 – 5 years experience coding mod_Perl handlers
+• In-depth knowledge of HTTP, PHP, LWP, and HTML.
+• Ability to code and debug and parse Javascript.
+• Advance knowledge of regular expression.
+• Must understand the difference between Apache 1.x and Apache 2.x.
+• Knowledge of Actionscript.
+• Solid understanding/experience with MySQL.
+• Not only love to program but thrive in a fast-paced environment.
+• Are self-directed but also know how to communicate with your teammates.
+• Have a strong familiarity with version control, bug tracking and IDEs.
+• Believe in making your code fault-tolerant, robust, and high-performance.
+
+Desired skills:
+Nice to have:
+• Experience using Yacc, Lex, Bison or other parser generators.
+• Thoroughly understand PHP-based server-side design and implementation.
+
+If you have 90% of these requirements, we’d definitely like to speak with
+you!
+
+Contact information at:
+http://jobs.perl.org/job/5039#contact
+
+

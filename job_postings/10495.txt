@@ -1,0 +1,139 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10495
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 18532 invoked from network); 1 Sep 2010 20:50:22 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 1 Sep 2010 20:50:22 -0000
+Received: (qmail 31322 invoked by uid 225); 1 Sep 2010 20:50:22 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 31317 invoked by alias); 1 Sep 2010 20:50:21 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 01 Sep 2010 13:50:20 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 1CC882AFE0; Wed,  1 Sep 2010 13:50:17 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20100901205017.1CC882AFE0@x3.develooper.com>
+Date: Wed,  1 Sep 2010 13:50:17 -0700 (PDT)
+Subject: Sr. Software Engineer - Test Automation (onsite), United States, CA, Glendale
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/12806
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 28, 2010
+
+Job title: Sr. Software Engineer - Test Automation
+
+Company name: AT&T Interactive
+
+Location: United States, CA, Glendale
+
+Pay rate: DOE
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 3-months-contract-to-hire
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Are you looking for a fast moving, creative environment where you can use
+your expertise to develop and market cutting-edge interactive and digital
+products?
+ 
+AT&T Interactive, a subsidiary of AT&T Inc, is an industry leader in
+creating local search products that encourage consumers to discover and
+engage with local businesses across three screens - online, mobile, and TV.
+YP.com attracts over 36 million monthly online unique visitors. YP.com is
+also accessed by millions of users each month via the mobile web. AT&T
+Interactive consumer apps have a pre-activation presence or have been
+downloaded through digital app stores on over 40 million mobile phones.
+ 
+Helping advertisers grow their business, AT&T Interactive’s local ad
+network, one of the industry’s most robust, distributes ads to a
+distinguished list of top publishers whose presence spans online, mobile
+and TV platforms. AT&T Interactive’s wide range of local ad products such
+as premium listings, performance-based advertising, and search engine
+marketing provides advertisers an opportunity to reach consumers who are
+looking for a local business.
+ 
+AT&T Interactive products are supported by more than 5,000 media
+consultants from AT&T Advertising Solutions.
+ 
+Join our dedicated and talented team of individuals all focused on creating
+the best products in the marketplace. We currently have an opportunity for
+an experienced CONTRACT Senior Software Engineer Test in our Glendale, CA
+offices.
+ 
+We are looking for a brilliant software engineer to design and build test
+automation frameworks and cases with a main focus on Perl. This role is
+expected to perform the following duties:
+
+    * Understand and analyze upstream systems use-cases in effort of
+simulating them using various automation frameworks. This requires
+extensive interaction with other teams across various organizations.
+    * Build test automation frameworks using Perl as the language of choice
+to validate the data going through the various phases of our data
+pipelines.
+    * Review Java code that’s used to build the pipelines to find coding
+issues, troubleshoot defects, and build unit test cases to increase test
+coverage using JUnit, MRUnit, and JMeter.
+    * Perform complex DB queries/operations in effort of setting up test
+data and validating it.
+    * Follow established processes and assure the highest standards
+possible are met before every release.
+    * Bottom line, this position is for someone to test data E-2-E.
+
+Required skills:
+    *  Minimum of 8 years of IT experience.
+    * 5+ years experience in Perl developing applications and/or test
+frameworks.
+    * 3+ years experience in Java white-box testing by developing unit test
+cases.
+    * 3+ years experience in moderate/high complexity SQL.
+    * 3+ years experience in software quality engineering, building data
+driven test frameworks.
+    * Strong experience in Unix/Linux and shell scripting.
+    * Capable of performing research and analysis to find out needs and
+possibilities.
+    * Able to multi-task, triage issues, react well to changes, work
+independently in a fast paced environment.
+
+Desired skills:
+    *  Past experience with an Online Ad Platform is a BIG plus.
+    * Experience working with the following technologies is a HUGE plus:
+Hadoop, Hive, Oozie, Grid Computing, and Vertica.
+
+
+We offer competitive salaries, excellent benefits including a matching
+401(k), bonuses, and a casual yet high-energy work environment. Jobs are
+located in Glendale, CA, near downtown Los Angeles, CA. Send us your resume
+today.
+ 
+Equal Opportunity Employer
+ 
+Principals only please. Agency resumes are not accepted and will be
+considered unsolicited resumes that are not subject to placement fees.
+
+URL for more information:
+https://tbe.taleo.net/NA3/ats/careers/requisition.jsp?org=YELLOWPAGES&cws=1
+&rid=3046
+
+Contact information at:
+http://jobs.perl.org/job/12806#contact
+
+

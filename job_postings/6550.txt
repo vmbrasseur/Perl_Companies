@@ -1,0 +1,99 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6550
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 31161 invoked from network); 1 Jul 2007 03:24:45 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 1 Jul 2007 03:24:45 -0000
+Received: (qmail 25512 invoked by uid 225); 1 Jul 2007 03:24:44 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 25505 invoked by alias); 1 Jul 2007 03:24:44 -0000
+X-Spam-Status: No, hits=-0.2 required=8.0
+	tests=BAYES_40,DKIM_POLICY_SIGNSOME,DK_POLICY_SIGNSOME,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 30 Jun 2007 20:24:40 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 3C7F12AFE6; Sat, 30 Jun 2007 20:24:37 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070701032437.3C7F12AFE6@x3.develooper.com>
+Date: Sat, 30 Jun 2007 20:24:37 -0700 (PDT)
+Subject: Skilled OO Perl developer for content management systems (onsite), United States, NC, Raleigh
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/6038
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 30, 2007
+
+Job title:
+Skilled OO Perl developer for content management systems
+
+Company name: McClatchy Interactive
+
+Internal ID: MSCTO1
+
+Location: United States, NC, Raleigh
+
+Pay rate: US $60-85K
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+McClatchy Interactive (MI) develops and hosts software to power the online
+presence of the McClatchy Newspaper Company, which owns, among others, The
+Miami Herald, The Sacramento Bee, and the Fort Worth Star Telegram. 
+
+MI is located in Raleigh, NC, and San Jose, CA. MI produces an enterprise
+content management system, an online classified advertisement platform, a
+registration system to provide users with customized online features, and
+an events calendar to organize restaurants, events, and venues. 
+
+The bulk of software MI develops is written in Perl and is based on the
+LAMP stack. Open source tools and commodity hardware are used whenever
+possible. The classified ads system is written is J2EE. Other components
+are developed in PHP. 
+
+At this time, MI is searching for a senior Perl developer to help create
+the next generation of newspaper print/online software. The developer will
+cooperate with other senior staff to design and develop the new system and
+to migrate existing infrastructure over time to the new model. This is a
+hands-on coding role with additional responsibility for designing
+subsystems and directing other Perl coders. 
+
+Ideally, you would live in the Raleigh area and be able to work onsite to
+interact with staff. An exception can be considered depending on your
+experience, skills, and ability to engage others. The pay scale for this
+position is $60-85K, depending on experience. It's a full-time gig, with
+benefits. 
+
+
+Required skills:
+Brownie points are awarded if you've developed and deployed large-scale OO
+Perl applications, mod_perl, are familiar with REST, modern-day ORM
+libraries, and the latest widgets in the CPAN. Development will be fast,
+iterative, and dynamic. 
+
+Desired skills:
+Gold stars are awarded for experience with SOA-like architectures, a wicked
+sense of humor, a collection of toys, or if you've ever been abducted by
+aliens. 
+
+
+Contact information at:
+http://jobs.perl.org/job/6038#contact
+
+

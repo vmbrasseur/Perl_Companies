@@ -1,0 +1,84 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7738
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 2821 invoked from network); 26 Feb 2008 16:45:41 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 26 Feb 2008 16:45:41 -0000
+Received: (qmail 13379 invoked by uid 225); 26 Feb 2008 16:45:41 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 13369 invoked by alias); 26 Feb 2008 16:45:40 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 26 Feb 2008 08:45:30 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 33EF02AFCB; Tue, 26 Feb 2008 08:24:58 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20080226162458.33EF02AFCB@x3.develooper.com>
+Date: Tue, 26 Feb 2008 08:24:58 -0800 (PST)
+Subject: Small order processing job (telecommute), United States, WA, Spokane
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8016
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 25, 2008
+
+Job title: Small order processing job
+
+Company name: hiller paper
+
+Location: United States, WA, Spokane
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+We are looking for a perl developer to create a script for us to help us in
+upcoming ordering for our website. We are looking to use perl for this job
+as it will quickly and effectively parse our orders. 
+
+
+What we need the script to do is quantify each line in the order file to
+see if the price for the product is correct.
+
+So step by step what we are looking for from the perl script:
+
+1. read in all orders in file order.csv
+2. read in all prices for products in products.csv
+3. compare all order line items, with the items cost in products.csv
+4. omit all orders from problematic customers(problem_customers.csv)
+5. export all orders that exceed product cost to file complete_orders.csv
+
+
+
+An example of each file can be downloaded here:
+http://w14.easy-share.com/1699699037.html(order.csv)
+http://w15.easy-share.com/1699699003.html(products.csv)
+http://w13.easy-share.com/1699699022.html(complete_orders.csv)
+http://w13.easy-share.com/1699699027.html(problem_customers.csv)
+
+ Im sure this is a small job for a professional perl developer. We will pay
+via paypal for this job. Please email me with any questions and bids. Thank
+you for your time reading this.
+
+
+Required skills: Perl
+
+Contact information at:
+http://jobs.perl.org/job/8016#contact
+
+

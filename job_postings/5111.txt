@@ -1,0 +1,97 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5111
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 24769 invoked from network); 13 Oct 2006 23:51:30 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 13 Oct 2006 23:51:30 -0000
+Received: (qmail 597 invoked by uid 225); 13 Oct 2006 23:51:29 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 590 invoked by alias); 13 Oct 2006 23:51:29 -0000
+X-Spam-Status: No, hits=-2.5 required=8.0
+	tests=ALL_TRUSTED,BAYES_20
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 13 Oct 2006 16:51:20 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 5E0772AFDF; Fri, 13 Oct 2006 16:51:15 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20061013235115.5E0772AFDF@x3.develooper.com>
+Date: Fri, 13 Oct 2006 16:51:15 -0700 (PDT)
+Subject: Software Engineer - Perl, C, cluster applications. (onsite), United States, California, San Francisco
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4789
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 13, 2006
+
+Job title:
+Software Engineer - Perl, C, cluster applications.
+
+Company name: Discovery Mining Inc
+
+Location: United States, California, San Francisco
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Discovery Mining is a web-based document management and litigation support
+software company. The Discovery Mining IO (input/output) team needs a
+talented software engineer driven by the challenges of large-scale projects
+and interested in creating cutting-edge, industry-changing applications.
+
+The IO team is responsible for our "back end" processing system which takes
+incoming client data and transforms it into a format suitable for our web
+site. This process involves file type identification, filtering, text and
+metadata extraction as well as the conversion of documents to various image
+formats (e.g., TIFF and PDF). The heart of this document processing system
+is a high-performance cluster-based application written in Perl, C, and
+Java (MySQL is integral to this application). Additional tools are coded in
+PHP. Furthermore, the IO team prepares the data to be sent back to our
+clients at the end of the case lifecycle and maintains a web interface to
+the cluster application that gives our
+non-technical project management team the ability to access the system.
+
+As a member of the IO team, you will be asked to work on all aspects of our
+back-end systems. The most important language for this position is Perl,
+followed by C, Java, and, lastly, PHP.
+
+We offer a desirable benefits package, stock options, and a generous
+vacation plan.
+
+Required skills:
+* At least 3 years experience as a software engineer writing code in PERL
+and C.
+* SQL and scripting skills for automation.
+* Proficient in working and programming in a UNIX/Linux environment.
+* Excellent problem solving abilities with emphasis on performance tuning
+and automation of tasks.
+* Ability to communicate and interface extensively with the rest of the
+team.
+* Strong sense of responsibility and ownership of your code.
+* Ability to quickly grasp new technologies.
+
+Desired skills:
+* JAVA.
+* PHP.
+
+URL for more information: http://www.discoverymining.com/
+
+Contact information at:
+http://jobs.perl.org/job/4789#contact
+
+

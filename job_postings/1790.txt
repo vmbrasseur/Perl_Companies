@@ -1,0 +1,102 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:1790
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 97777 invoked from network); 30 Jul 2004 16:55:32 -0000
+Received: from x1.develooper.com (63.251.223.170)
+  by onion.develooper.com with SMTP; 30 Jul 2004 16:55:32 -0000
+Received: (qmail 30850 invoked by uid 225); 30 Jul 2004 16:55:32 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 30845 invoked by alias); 30 Jul 2004 16:55:31 -0000
+X-Spam-Status: No, hits=-4.9 required=8.0
+	tests=BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from onion.develooper.com (HELO onion.perl.org) (63.251.223.166)
+  by la.mx.develooper.com (qpsmtpd/0.27.1) with SMTP; Fri, 30 Jul 2004 09:55:20 -0700
+Received: (qmail 97678 invoked by uid 1016); 30 Jul 2004 16:55:18 -0000
+Date: 30 Jul 2004 16:55:18 -0000
+Message-ID: <20040730165518.97677.qmail@onion.perl.org>
+To: jobs@perl.org
+X-Spam-Rating: onion.develooper.com 1.6.2 0/1000/N
+Subject: Cool Hackers Needed (onsite), United States, MA, Waltham
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1548
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 30, 2004
+
+Job title: Cool Hackers Needed
+
+Company name: athenahealth
+
+Location: United States, MA, Waltham
+
+Pay rate: 40-90K
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We're still on the hunt for mad cool folks!
+
+At this point, I'm really looking for a couple of hard-core hackers-- i.e.
+application infrastructure and performance engineers who can help us scale
+from 1MM dynamic hits/day to 50MM dynamic hits/day, and love making code
+beautiful. I'm also looking for other people, but right now, I'm
+particularly focused on finding these folks.
+
+Most folks here have to be in Boston, and I'd prefer you to be here; but if
+you really are clearly *that* good and can prove it, I can imagine a
+telecommuter working out for these core infrastructure/performance
+positions.
+
+So-- if you are a super-sweet perl hacker, send your resume in! You can
+send it directly to me (see contact info below); I'm the Chief Software
+Architect here, and I believe that hiring is one of the most important
+things a company can do.
+
+If your resume alone doesn't indicate that you're a totally kickass hacker,
+you'll have a much better chance of getting a response if you attach a
+solution to the following question:
+
+--------
+Given a string of arbitrary length, write a perl program that will print
+out the palindrome(s) of longest length in the string. Assume there are no
+special characters, so "!c aba c!" would be considered a palindrome; also,
+in "abcbb", "bcb" would be considered a palindrome. Assume the string is
+coming in via STDIN.
+
+Discuss how you came up with your solution. Talk about what cases it works
+well for, and what cases it doesn't work well for. Discuss
+best-case/worst-case run-time orders (big-O notation) if you know what that
+means; even better, provide proofs.
+
+We'll be actually running your program against a set of test inputs, so
+make sure it actually works!
+-------
+
+
+Required skills: Perl. & being cool. 
+
+Desired skills:
+A desire to fix the godawful mess that is healthcare in the U.S. Oh, and
+Oracle, or something similar.
+
+URL for more information: http://www.athenahealth.com/
+
+Contact information:
+Ed Park (perl -e '$_ = "eparkATathenahealth.com"; s/AT/\@/; print;') 
+
+

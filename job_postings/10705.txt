@@ -1,0 +1,108 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10705
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 22155 invoked from network); 8 Nov 2010 21:05:28 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 8 Nov 2010 21:05:28 -0000
+Received: (qmail 30209 invoked by uid 225); 8 Nov 2010 21:05:27 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 30203 invoked by alias); 8 Nov 2010 21:05:27 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 08 Nov 2010 13:05:22 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 1B4482AFDA; Mon,  8 Nov 2010 13:05:18 -0800 (PST)
+To: jobs@perl.org
+Date: Mon, 8 Nov 2010 13:05:18 -0800
+Message-ID: <20101108210519.1B4482AFDA@x3.develooper.com>
+Subject: Sr. Software Engineer (onsite), Canada, BC, Vancouver
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/12900
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November  8, 2010
+
+Job title: Sr. Software Engineer
+
+Company name: Sophos Inc
+
+Location: Canada, BC, Vancouver
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+As a Senior Software Engineer for SophosLabs, you will be responsible for
+design and development of automated systems for spam and malware detection.
+You will be part of an agile development team, building mission critical
+systems to drive our 24/7 threat analysis and operations.
+
+This position is based at our Canadian office in Vancouver, British
+Columbia.
+
+Main duties
+
+    * Design, implement and maintain a scalable distributed system for
+monitoring and analysis of malware and spam.
+    * Produce other high quality software to meet SophosLabs business
+requirements.
+    * Monitor and report on progress and exceptions to the team and
+management.
+    * Be a mentor to junior programmers, coach through formal presentations
+or when needed
+    * Participate in regular code reviews and give constructive feedback
+    * Contribute positively to technical discussions by providing solid,
+practical and achievable solutions
+    * Consistently deliver quality solutions with velocity
+
+
+Required skills:
+Experience and skills
+
+Essential:
+
+    * Commercial software development experience.
+    * Experience building mission critical, scalable systems for Linux
+platform, preferably with the Perl programming language
+    * Expert knowledge of SQL databases, with a focus on MySQL.
+    * Linux OS administration experience.
+    * In-depth knowledge of Internet standards.
+    * At least 5 years of software development experience.
+    * Knowledge of industry standard methodologies, tools and processes for
+software development.
+    * A Bachelor’s degree in computer science or software engineering, or
+equivalent experience.
+
+
+Desired skills:
+Desirable:
+
+    * Experience in the IT security industry
+    * Experience building anti-spam or/and anti-malware systems
+    * Experience with distributed hash tables and NoSQL solutions
+    * Experience with distributed file systems
+    * Experience with message queue and broker technologies
+    * In-depth knowledge of SMTP, DNS and HTTP protocols
+    * Experience working with very large databases
+    * Experience building web-based applications
+    * Agile development methodologies
+
+
+Website for more information:
+http://www.sophos.com/companyinfo/careers/ca/969020792510.html
+
+Contact information at:
+http://jobs.perl.org/job/12900#contact

@@ -1,0 +1,92 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11707
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 23025 invoked from network); 23 Sep 2011 20:08:06 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 23 Sep 2011 20:08:06 -0000
+Received: (qmail 27781 invoked by uid 225); 23 Sep 2011 20:08:05 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 27777 invoked by alias); 23 Sep 2011 20:08:05 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 23 Sep 2011 13:08:03 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 93D882AFE0; Fri, 23 Sep 2011 13:07:57 -0700 (PDT)
+To: jobs@perl.org
+Date: Fri, 23 Sep 2011 13:07:57 -0700
+Message-ID: <20110923200757.93D882AFE0@x3.develooper.com>
+Subject: SysOps / DevOps, Emeryville, CA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14888
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 23, 2011
+
+Job title: SysOps / DevOps
+
+Company name: Tubemogul, Inc.
+
+Location: Emeryville, CA
+
+Pay rate: DOE
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Description:
+Be an early and important member of TubeMogul – an exciting, well-funded
+and growing startup that solves big problems in the rapidly growing online
+video market.
+
+Our operations team is searching for another person to help manage hundreds
+of cloud servers, as well as automated build and deployment systems.  The
+operations team leverages some of the most cutting edge technology to
+simplify an otherwise complicated system.
+
+What We Offer:
+You’ll appreciate a competitive compensation package including generous
+benefits and stock options.  You’ll love a challenging work environment,
+A-player colleagues, momentum, strong leadership and clear objectives and
+the ability to make a difference.
+
+Required skills:
+•	Linux Ubuntu, Debian, CentOS
+	•	Bash or other shell
+	•	At least one of : Perl, Python, Ruby
+	•	Configuration and automation of Nagios
+	•	Knowledge of TCP/IP, DNS (Bind), LDAP (OpenLDAP), NFS, SSH
+Tunnelling, OpenVPN, Apache httpd 2.x
+
+Desired skills:
+Desired skills :
+	•	Knowledge in deploying / configuring Java application
+(Servlet Container : Tomcat, Jetty, Virgo, Glassfish)
+	•	Ganglia / Munin plugin
+	•	MySQL
+	•	Haproxy or any other software loadbalancer solution
+	•	Software Raid with LVM or mdadm
+	•	Hadoop, Hive, Hbase, Zookeeper Administration
+ 
+Bonus :
+	•	Lua and MySQL Proxy
+	•	Java, C/C++, PHP
+	•	Puppet/Cfengine or any other configuration management tool
+	•	Rsnapshot, Bacula
+	•	Experience with Amazon AWS (EC2, S3, EBS, EIP)
+	•	Membase and memcached
+
+Website for more information: http://www.tubemogul.com
+
+Contact information at:
+http://jobs.perl.org/job/14888#contact

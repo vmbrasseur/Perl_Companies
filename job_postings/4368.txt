@@ -1,0 +1,112 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4368
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 14668 invoked from network); 22 May 2006 04:26:57 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 22 May 2006 04:26:57 -0000
+Received: (qmail 18942 invoked by uid 225); 22 May 2006 04:26:57 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 18937 invoked by alias); 22 May 2006 04:26:56 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 21 May 2006 21:26:40 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 128E22AFE2; Sun, 21 May 2006 21:26:36 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060522042636.128E22AFE2@x3.develooper.com>
+Date: Sun, 21 May 2006 21:26:36 -0700 (PDT)
+Subject: Web, database programmer (UNIX) (onsite), United States, NY, Brooklyn
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4127
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 21, 2006
+
+Job title: Web, database programmer (UNIX)
+
+Company name: Advanced Solutions Inc.
+
+Location: United States, NY, Brooklyn
+
+Pay rate: up to $120K/year
+
+Travel: 0%
+
+Terms of employment: Hourly employee
+
+Length of employment: 16 months
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+(PLEASE NOTE: NO RELOCATION PAID, NO VISA SPONSORSHIP)
+Wanted:
+Experienced Perl programmer 
+
+
+You must have either Oracle or MySQL or Postgresql experience. Informix is
+a plus.
+Thorough command of the English language required with good technical
+writing skills creating documentation for users and programmers.
+
+This is for a systems administration group. A background in UNIX/Solaris as
+a Perl developer is mandatory; some systems administration background is
+helpful.
+
+Initially, this is a maintenance programming position.
+Some new work later down the line is likely.
+
+This job is on-site in downtown Brooklyn near many subway lines and the
+Flatbush Ave. LIRR station. Bicycle parking is available nearby in the form
+of several outdoor racks.  If you insist on driving your car, several
+parking garages are available in the area.
+
+The position is 35 hours/week. Flexible hours are available for e.g.
+sabbath observance.
+
+Equal Opportunity Employer: anyone with the skills required and the right
+to work in the US is encouraged to apply we have a diverse ethnic mix.
+
+
+Required skills:
+*DBI
+*CGI
+*POD
+*HTML/CSS
+*SQL
+*Apache
+*UNIX developer(Solaris a plus but Linux/*BSD/AIX/HP-UX will do)
+*Object Oriented Perl including OOA/OOD/OOP
+*Perl module packaging (Module::Build)
+One or more RDBMS (in order of preference): Oracle, MySQL, Postgresql,
+Informix
+*RCS/CVS/SCCS/Subversion (any one or more of these)
+*regular expresions in Perl
+*make (dmake,gmake, make -- any) and makefiles
+
+Desired skills:
+*Filenet is nice to have
+*Veritas, particularly NetBackup, scripting and logfile analysis is
+potentially useful down the road
+*Solaris systems administration -- the more UNIX admin experience of any
+kind the better as we build and improve tools to automate and monitor our
+systems.
+*
+
+Contact information at:
+http://jobs.perl.org/job/4127#contact
+
+

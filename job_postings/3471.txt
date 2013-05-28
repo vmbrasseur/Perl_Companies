@@ -1,0 +1,127 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3471
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8126 invoked from network); 17 Nov 2005 00:12:04 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 17 Nov 2005 00:12:04 -0000
+Received: (qmail 28561 invoked by uid 225); 17 Nov 2005 00:12:03 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 28556 invoked by alias); 17 Nov 2005 00:12:03 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 16 Nov 2005 16:11:48 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id jAH0Bjjb014267
+	for <jobs@perl.org>; Wed, 16 Nov 2005 16:11:45 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id jAH0BjDs014265;
+	Wed, 16 Nov 2005 16:11:45 -0800
+Date: Wed, 16 Nov 2005 16:11:45 -0800
+Message-ID: <200511170011.jAH0BjDs014265@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Perl Data Munger (onsite), United States, CA, West Hollywood
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3315
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 16, 2005
+
+Job title: Perl Data Munger
+
+Company name: Ticketmaster
+
+Internal ID: TMO-T59-PJ
+
+Location: United States, CA, West Hollywood
+
+Pay rate: commensurate with skills
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: full-time, regular-hire
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The Perl Data Munger will be responsible for designing, developing, and
+implementing ETL (Extracting, Transforming, and Loading) decision support
+applications using Perl on Linux environment, with the backend database
+being Oracle. As a member of the Data Warehousing Team you will play a
+critical role in  developing and maintaining the Ticketmaster transaction
+and click stream data warehouses and for collecting, processing, and
+analysis of the transaction data and web log files for statistical
+analysis. The Data Warehousing team plays a major role in supporting the
+CRM, marketing, product, executive teams by providing ticket sales analysis
+and rapidly generating usage/activity reports for Ticketmaster’s major
+online offerings.
+
+Title:	Perl Data Munger -- actually, software engineer ;)
+Company: Ticketmaster
+Team: Data Warehousing Team
+Location: West Hollywood, CA
+
+Job Functions:
+
+Specifically, the software engineer will be responsible for development and
+support of custom ETL (Extract, Transform, and Load) processes for
+Ticketmaster’s Data Warehousing projects.  The software engineer will also
+research, analyze and prepare logical and physical data models for the new
+applications and optimize the data structures to enhance data load times
+and end-user data access response times.  The software engineer will be
+responsible for creating processes to ensure the data quality of the
+information collected.
+
+The role requires carrying a pager/cell phone and provide on-call after
+hours support.
+
+It would be a plus if the engineer has previous experience working in a
+consumer transactions processing environment.
+
+Required skills:
+Minimum Requirements
+---------------------------------
+•	1-2 years of recent experience in OO Perl programming on UNIX or
+Linux platforms.
+•	Knowledge of the Unix/Linux operating system and UNIX shell
+scripting.
+•	Knowledge of relational database concepts, and SQL.
+•	Self-motivated, with strong analytical skills.
+
+Desired skills:
+Ideal Requirements:
+---------------------------------
+•	Knowledge of web development, HTML, Perl/CGI programming.
+•	4+ years software development experience.
+•	Solid understanding of relational database concepts, SQL and
+procedural SQL in Oracle 9i or higher.
+•	Knowledge of data warehousing concepts including dimensional
+modeling.
+•	Experience with artist/events/music genre categorization concepts
+preferred.
+•	Bachelors or Masters Degree in Computer Science or equivalent work
+experience.
+•	Experience with business systems dealing with consumer ticketing.
+•	Experience with customer transaction systems.
+
+URL for more information: http://http:jobsearch.iac-careers.com/
+
+Contact information at:
+http://jobs.perl.org/job/3315#contact
+
+

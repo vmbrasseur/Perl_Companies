@@ -1,0 +1,150 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13141
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 26742 invoked from network); 15 Feb 2013 03:32:59 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 15 Feb 2013 03:32:59 -0000
+Received: (qmail 14399 invoked by uid 225); 15 Feb 2013 03:32:58 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 14395 invoked by alias); 15 Feb 2013 03:32:58 -0000
+X-Spam-Status: No, hits=-1.5 required=8.0
+	tests=ALL_TRUSTED,BAYES_05
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 14 Feb 2013 19:32:52 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 63F132AFE1; Thu, 14 Feb 2013 19:32:49 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 14 Feb 2013 19:32:49 -0800
+Message-ID: <20130215033249.63F132AFE1@x3.develooper.com>
+Subject: Jr Developer (onsite), Scottsdale, AZ
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17025
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 14, 2013
+
+Job title: Jr Developer
+
+Company name: InfoArmor
+
+Internal ID: IADEVJR
+
+Location: Scottsdale, AZ
+
+Pay rate: Salary is dependent upon experience.
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Seeking a dynamic, talented, and experienced programmer to work with day to
+day back end automation and reporting.
+The successful candidate must possess strong programming knowledge with 
+C/C++ and or a scripting language such as Perl.
+
+Responsibilities include: 
+•	Position may require the ability to investigate, troubleshoot, and
+design solutions to problems in operational hardware and software.  Train
+customer care representatives on InfoArmor core competencies and service
+standards .
+•	Provide informal training in implementing software programs based
+on user requirements.
+•	Develop, write, and submit technical reports for technical
+presentations and meetings, and customer briefings.
+•	Create, maintain and update documentation of bugs, defects and
+other issues.
+•	Maintain current reporting infrastructure.
+•	Automate daily Operations tasks.
+•	Develop cutting edge identity protection tools and integrate with
+3rd party vendors.
+
+
+Compensation:
+•	Salary dependent on experience
+•	100% company-paid health insurance
+•	Company-sponsored education and professional development
+•	Flexible work hours
+•	Company-sponsored social events
+
+
+About InfoArmor
+InfoArmor was established in 2007 to help Washington Mutual protect the
+identities of its 10 million credit card holders. Today it partners with
+businesses and organizations to help their employees, members, and
+customers gain control of their personal information and protect and
+recover their identities.
+
+InfoArmor offers its high-tech and high-touch privacy management and
+identity protection and restoration services to the B2B (business to
+business) market place. Our innovative and user-friendly services help
+employers and partners easily offer a valuable benefit, enhance their
+brand, increase loyalty, and generate revenue, all while providing their
+stakeholders improved security and peace of mind. We are proud to work with
+some leading companies, including prominent wireless, home security,
+insurance, and employee benefit providers.
+
+InfoArmor’s strength has been built by joining our unparalleled identity
+monitoring technology with world-class customer care. When someone calls
+InfoArmor with a question or problem, the call will not be diverted to an
+anonymous worker in a distant call center. It will be handled by one of our
+specially trained and certified Privacy Advocates, who serve as personal
+case managers working to resolve identity protection issues from start to
+finish. In the event of identity theft, a Privacy Advocate assigned to the
+case will restore the victim’s identity.
+
+Required skills:
+•	College degree in Computer Science or equivalent education
+•	5+ years of overall development experience
+•	2+ years of Perl development experience (including OOP, module
+design, and DBI)
+•	Must have experience in developing, enhancing, and maintaining
+current in house utilities written in Perl
+•	Strong SQL experience (MySQL mainly but PostgreSQL would be
+helpful)
+•	Database design, optimization, and normalization techniques
+•	Experience working with large volumes of data
+•	Subversion/CVS (SVN preferred)
+•	Very comfortable within a Linux environment (specifically Ubuntu
+and CentOS)
+•	Software development in a Unix environment
+•	Participate in the requirements, definition, design, development,
+testing, and documentation of computer software. Analyze program output,
+code, and documentation for correctness and consistency and provide
+recommendations for improvements
+•	Basic system administration skills
+•	Ability to communicate verbally with both technical and
+non-technical users
+•	Familiarity with REST, JSON, SOAP
+•	Knowledge of using regular expressions in Perl
+•	Good understanding of XML (ability to process XML files)
+
+Desired skills:
+•	Proven experience integrating with 3rd party API’s
+•	Understanding of data normalization
+•	Familiarity with web services based on SOAP, XML, and WSDL
+•	Strong PostgreSQL experience
+•	Shell scripting
+•	Cron, HTML, PHP, CSS
+•	Modern Javascript experience (JQuery/JQueryMobile highly preferred)
+
+•	Desire for continuous learning and self-improvement
+•	Emphasis on communication skills
+•	Mentoring of Junior team members
+
+Website for more information: http://www.infoarmor.com/
+
+Contact information at:
+http://jobs.perl.org/job/17025#contact

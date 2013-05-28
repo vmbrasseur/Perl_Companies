@@ -1,0 +1,85 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3886
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 25580 invoked from network); 15 Feb 2006 21:18:05 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 15 Feb 2006 21:18:05 -0000
+Received: (qmail 22881 invoked by uid 225); 15 Feb 2006 21:18:04 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 22877 invoked by alias); 15 Feb 2006 21:18:04 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 15 Feb 2006 13:17:53 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id k1FLHmns010314
+	for <jobs@perl.org>; Wed, 15 Feb 2006 13:17:48 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id k1FLHmUU010312;
+	Wed, 15 Feb 2006 13:17:48 -0800
+Date: Wed, 15 Feb 2006 13:17:48 -0800
+Message-ID: <200602152117.k1FLHmUU010312@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Perl/C Software Architect, Mobile services company, Maidenhead, UK (onsite), United Kingdon, London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3702
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 15, 2006
+
+Job title:
+Perl/C Software Architect, Mobile services company, Maidenhead, UK
+
+Company name: Spring Technology
+
+Location: United Kingdon, London
+
+Pay rate: 60K GBP
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Award winning, innovative mobile communications services company is
+currently looking for an experienced software architect to help re-scale
+its current system to deal with millions of users. The system has been
+running for about a year and handling tens of thousands of users but the
+business has been growing rapidly and is in desperate need of scaling up.
+Using your passion to create robust, quality systems you will need to
+evaluate the current design, investigate areas of enhancements, address any
+hotspots in terms of complexity and correctness, potential scalability
+problems, memory usage and more. The system uses a diverse range of
+technologies many of them open source. These include Perl, PostgreSql, C,
+Asterisk, Apache, PHP and SMPP. You will need to be experienced in most of
+these and be happy to learn the rest. You will report to the Development
+Director and work closely with the rest of the development team, especially
+the Speech Engineer who leads the speech recognition component of the
+system. This is not a managerial role but more of a technical lead, is
+looking to pay around 60K and is based in Maidenhead.
+
+Required skills:
+C, PostgreSql, Aterisk, Apache, PHP, SMPP, SOAP, Web technologies
+
+Desired skills:
+SS7, Qp31, SIP, Mobile services Experience
+
+Contact information at:
+http://jobs.perl.org/job/3702#contact
+
+

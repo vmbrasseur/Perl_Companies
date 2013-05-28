@@ -1,0 +1,95 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5247
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 5985 invoked from network); 7 Nov 2006 18:33:22 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 7 Nov 2006 18:33:22 -0000
+Received: (qmail 24853 invoked by uid 225); 7 Nov 2006 18:33:21 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 24847 invoked by alias); 7 Nov 2006 18:33:21 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 07 Nov 2006 10:33:15 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 74F972AFE9; Tue,  7 Nov 2006 10:07:51 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20061107180751.74F972AFE9@x3.develooper.com>
+Date: Tue,  7 Nov 2006 10:07:51 -0800 (PST)
+Subject: Perl Programmer - contract (onsite), United States, WA, Seattle
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4910
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November  7, 2006
+
+Job title: Perl Programmer - contract
+
+Company name: Chameleon Technologies
+
+Internal ID: Andrea Estes
+
+Location: United States, WA, Seattle
+
+Pay rate: DOE
+
+Travel: 0%
+
+Terms of employment: Hourly employee
+
+Length of employment: 160 hours approx
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+CONTRACT OPPORTUNITY - LOCAL CANDIDATES ONLY, Seattle, WA
+
+International transportation is one of the three fastest growing
+industries. Our Client, a Fortune 1000 company, is a leader in this growth
+sector.  Their culture of organic growth, promotion from within, combined
+with a strong management team and unique compensation structure makes them
+one of the top in their field.	They are highly trained, motivated, focused
+and are committed to their customers.  Their job is to make sure that from
+raw material to finished goods sitting on the retail shelf, they provide
+the critical services and information necessary to give their clients a
+competitive advantage in the management of their supply chains.
+
+They are seeking a Perl programmer to upgrade and fix bugs in their
+customized version of Bugzilla.  The programmer should be proficient with
+MySQL, Unix and capable of maintaining Bugzilla code.  You will direct our
+Unix System Administrators to accomplish the following tasks. 
+
+Required skills:
+Fix Data Corruption Issues in customized Bugzilla application
+•	Upgrade MySQL to version 4.0-stable or 4.1-stable
+•	Convert database tables to use InnoDB tablespaces
+•	Upgrade Perl, if necessary
+•	Upgrade Perl DBI/DBD, if necessary
+•	Align the customized Bugzilla database schema with the official
+Bugzilla 2.18 release (the only difference being the categories)
+•	Perform necessary data cleanup
+•	Identify & isolate the custom code. Original & current versions
+were checked into CVS so diffs are easy.
+•	Fix the customized Bugzilla codebase to align it with official
+Bugzilla 2.18 database schema 
+Upgrade customized Bugzilla to Version 2.20-stable
+•	Fix installers to not overwrite schema customizations
+•	Integrate custom code with Version 2.20
+
+
+Contact information at:
+http://jobs.perl.org/job/4910#contact
+
+

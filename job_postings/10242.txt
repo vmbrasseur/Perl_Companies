@@ -1,0 +1,85 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10242
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 29522 invoked from network); 19 Jun 2010 05:35:55 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 19 Jun 2010 05:35:55 -0000
+Received: (qmail 25604 invoked by uid 225); 19 Jun 2010 05:35:55 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 25600 invoked by alias); 19 Jun 2010 05:35:54 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 18 Jun 2010 22:35:52 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 58DF42AFE0; Fri, 18 Jun 2010 22:35:49 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20100619053549.58DF42AFE0@x3.develooper.com>
+Date: Fri, 18 Jun 2010 22:35:49 -0700 (PDT)
+Subject: Payment API Integration (telecommute), Guatemala, Huehuetenango, Huehuetenango
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/12404
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 17, 2010
+
+Job title: Payment API Integration
+
+Company name: Individual
+
+Location: Guatemala, Huehuetenango, Huehuetenango
+
+Pay rate: n/a
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: bid on project
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+I need an integration of a payment API offered by www.LiqPay.com. They
+offer many tasks instructions in their API but I only want you to code one
+task. An "Account to Account Transaction". Every account with LiqPay is
+opened under a cell phone number, (not email address like PayPal),  LiqPay
+has the quickest and easiest money transfers in the internet. They only ask
+you for a cell number to open an account, (no name, no address, etc). The
+cell number is used in two instances, they send a unique password by SMS
+each time you want to login to your account and they send payment
+notifications by SMS and not email.  So if you are interested in helping me
+for a fee, look at the liqpay API for instructions at
+www.liqpay.com/?do=pages&p=api. Once you reach this URL you need to look
+for the third line from the top where it says: "Money Transfer from
+Merchant`s LiqPAY account to another phone". This is the task I need and no
+other.
+To test your code you need to open a SHOP which is free and make Pay
+Buttons. Find the ADD SHOP link, (on the top right corner of their Home
+page). Only your cell number is requested to open a shop then you can
+create Pay Buttons in less than 3 minutes. They will even give you money
+for testing their services. Go to www.liqpay.com home page and in the
+center of the page towards the bottom you will find they give you 5 cents
+American USD as a gift. If you get stuck or run into trouble LiqPay offers
+24 hours TECH SUPPORT via LIVE CHAT. Please quote me how much you wish me
+to pay you,  and how long you need to complete the task). Thank You. 
+
+Required skills: perl parsing of XML files
+
+URL for more information: http://www.liqpay.com/?do=pages&p=ap
+
+Contact information at:
+http://jobs.perl.org/job/12404#contact
+
+

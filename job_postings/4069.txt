@@ -1,0 +1,159 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4069
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 21389 invoked from network); 28 Mar 2006 06:21:51 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 28 Mar 2006 06:21:51 -0000
+Received: (qmail 30761 invoked by uid 225); 28 Mar 2006 06:21:51 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 30754 invoked by alias); 28 Mar 2006 06:21:50 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 27 Mar 2006 22:21:46 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 270022AFDF; Mon, 27 Mar 2006 22:21:42 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20060328062142.270022AFDF@x3.develooper.com>
+Date: Mon, 27 Mar 2006 22:21:42 -0800 (PST)
+X-Virus-Checked: Checked
+Subject: Perl Software Developer / Database Specialist, United States, WA, Seattle
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3693
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 27, 2006
+
+Job title:
+Perl Software Developer / Database Specialist
+
+Company name: IMDb.com
+
+Location: United States, WA, Seattle
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Description:
+Software Developer/Database Specialist (Seattle)
+
+If you're a top notch programmer and a fan of movies and TV, we've got the
+ideal job for you.
+
+There are many good reasons to work at IMDb, and here are three of them:
+
+1. You can make a huge difference at IMDb. We've already developed a
+successful business model and a stable production environment, so our
+programmers spend their time developing and launching cool projects with
+little red tape and lots of autonomy.
+
+2. We offer flexibility both in terms of your day-to-day work schedule and
+also in terms of work assignments. Ours is no cookie-cutter job.
+
+3. Our software developers provide lots of creative input into projects and
+get to work on many different types of projects that allow them to think
+creatively and to handle interesting computer science challenges.
+
+We have two different positions open. Both positions require a minimum of a
+bachelor's degree in computer science with three plus years of industry
+programming experience. In particular, we're looking for applicants who are
+skilled in Perl and able to develop systems, not just programs.
+
+For the software development / database specialist position we are looking
+for a senior member of our data management team. You'll be involved in the
+design, enhancement and schema definitions, and data modelling for our
+high-volume website. As a senior database developer, you'll help develop
+scripting access modules and scope and implement data migration/scalability
+for MySQL and Postgres. The team is small so there is there an opportunity
+to try your hand at several different skills including building front end
+tools for our data managers using state-of-the-art templating systems and
+techniques such as AJAX and Mason.
+
+To be successful in this position, you must have strong relational database
+background and appropriate background in the use of design tools such as
+ERWIN. You must be able to perform hands-on database tuning and query
+optimization and be experienced in Linux/Unix environment. Experience in
+database interfaces such as ODBC/JDBC is helpful but not required.
+Experience in a large-scale, custom-developed, high availability operations
+is helpful.
+
+For all positions, you must genuinely be self-motivated. Our staff is
+distributed across the planet so we need employees who can function
+independently while also interacting efficiently with other team members.
+For our novel work environment we need programmers who work hard and think
+big.
+
+More Details: You don't really need to love movies or TV to thrive here,
+but it certainly doesn't hurt. We have a great environment of talented
+people who work hard to make IMDb the most credible film source on the
+planet and we'd like you to join us if you're like-minded.
+
+IMDb is owned by Amazon.com, but we operate separately and have our own
+technology systems. When you join IMDb, you become a full-fledged
+Amazon.com employee - which means you enjoy the cohesive work environment
+of a small company while also gaining the bigger benefits of working for a
+Fortune 500 company. It's the best of both worlds.
+
+If you are a capable programmer and this opportunity sounds interesting to
+you, we're looking forward to hearing from you!
+
+Applicants only: recruiters must not submit on behalf of other people
+through this link. Applications not submitted by candidates themselves are
+rejected. Click here to submit resume
+
+Mail to jobs@imdb.com
+
+We're looking forward to hearing from you!
+
+Example questions that you might get asked to solve in an interview or
+pre-interview phone call
+
+These questions are deliberately vague or ambiguous - as a software
+developer at IMDb you'd need to know how to ask questions to add rigor and
+definition to them and then go on to solve them. If these feel
+straightforward to you then you're probably a good candidate for us. These
+questions are largely language neutral although our primary development
+environment is Perl.
+
+# Can you implement Bacon Numbers? What kind of data structures would you
+use to implement them efficiently on a small and large database?
+# Tags are a lightweight meta-data collection mechanism that can be
+leveraged to allow end-users to classify items in an application with their
+own vocabulary. What are the basic functions (including parameters) that we
+should implement to support tagging? Can you provide a code sample for the
+function that "adds tags"? Would what you've built be a good architecture
+for implementing MoKA? Why or why not?
+# A customer can assert that our website is unresponsive for many reasons.
+Name as many of as you can, and a plan of attack to disambiguate one reason
+from another.
+# What's a good plan of attack for merge-sorting N text files? How about if
+the text files are known to be large? (megabytes each)? How about if they
+are very large? (gigabytes/terabytes each). How does your plan change if
+you don't know the size in advance?
+
+Required skills:
+data modelling for relational databases, Perl, MySQL or Postgres, query
+optimization, Linux
+
+Desired skills: AJAX, Mason, ODBC/JDBC, C++, ERWIN
+
+URL for more information:
+http://www.imdb.com/help/show_leaf?jobatimdb
+
+Contact information at:
+http://jobs.perl.org/job/3693#contact
+
+

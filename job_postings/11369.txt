@@ -1,0 +1,98 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11369
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 29976 invoked from network); 7 Jun 2011 21:05:20 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 7 Jun 2011 21:05:20 -0000
+Received: (qmail 26563 invoked by uid 225); 7 Jun 2011 21:05:19 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 26557 invoked by alias); 7 Jun 2011 21:05:19 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=LOTS_OF_MONEY,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 07 Jun 2011 14:05:17 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 400612AFE7; Tue,  7 Jun 2011 14:05:14 -0700 (PDT)
+To: jobs@perl.org
+Date: Tue, 7 Jun 2011 14:05:14 -0700
+Message-ID: <20110607210514.400612AFE7@x3.develooper.com>
+Subject: Network/Cluster/Kernel/Perl (onsite), United States, NJ, NJ suburb
+ of NYC
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14268
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June  7, 2011
+
+Job title: Network/Cluster/Kernel/Perl
+
+Location: United States, NJ, NJ suburb of NYC
+
+Pay rate: $150k and up plus bonus
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+This is a rare opportunity for high end Sysadmin/Perl hacker to get
+their hands on a high speed Linux cluster with over 1k cores. My client
+does automated equity trading with a network infrastructure capable
+handling several million messages per second. This job will have you
+designing, administering, implementing, benchmarking, tuning and
+supporting such a beast. Work includes improving their existing custom
+grid management system, creating new tools, and installing open source
+and custom software. You will work with other teams to specify and
+design trading and research tools to manage and analyze petabytes of
+financial data. And as a bonus you will help with their multi-million
+dollar annual IT budget.
+
+The job is onsite only in a NJ suburb of New York. Relocation assistance
+may be available for top candidates. No visa sponsorship is available.
+
+Required skills:
+Very solid Perl.
+
+Solid skills in systems programming on UNIX, Linux, Windows.
+
+Database experience (Oracle, Sybase, SQL).
+
+Aptitude for mathematics and finance and ability to interact with
+quantitative scientists, and other non­engineering personnel.
+
+Well organized, detailed oriented, able to multi­task.
+
+Able to independently take on responsibility in a high­pressure, time­
+critical
+environment.
+
+Desired skills:
+Operational support experience.
+
+Linux kernel tuning and customization.
+
+Experience in managing massive data sets.
+
+Experience in system/network administration and hardware management.
+
+Experience in C/C++, Java, bash, Awk are pluses.
+
+Familiarity with trading systems and equity markets.
+
+Strong organizational and communications skills.
+
+Website for more information: http://perlhunter.com/
+
+Contact information at:
+http://jobs.perl.org/job/14268#contact

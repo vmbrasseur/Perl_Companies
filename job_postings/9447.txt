@@ -1,0 +1,103 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9447
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 7271 invoked from network); 3 Sep 2009 19:03:05 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 3 Sep 2009 19:03:05 -0000
+Received: (qmail 19813 invoked by uid 225); 3 Sep 2009 19:03:03 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 19805 invoked by alias); 3 Sep 2009 19:03:01 -0000
+X-Spam-Status: No, hits=-6.8 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_NEUTRAL
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 03 Sep 2009 12:02:56 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id CD7062AFE0; Thu,  3 Sep 2009 12:02:52 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20090903190252.CD7062AFE0@x3.develooper.com>
+Date: Thu,  3 Sep 2009 12:02:52 -0700 (PDT)
+Subject: Perl / Mason / DBI programmer (onsite), United States, TX, Austin
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/10798
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September  3, 2009
+
+Job title: Perl / Mason / DBI programmer
+
+Company name: Giganews
+
+Location: United States, TX, Austin
+
+Pay rate: Negotiable
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: indefinite
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Steady full-time gig with the Usenet industry leader, profitable since '94,
+small privately-owned company.
+
+Our perl programmers have a hand in pretty much everything that isn't
+directly related to providing NNTP service: external websites, internal
+websites, business logic, databases, you name it.  Not a lot of
+bureaucracy, and there's always something new to work on.
+
+We will consider applicants from entry level on up through several years of
+experience.
+
+You must be in Austin or willing to move. 
+You must already be eligible for work in the US, we don't do H1B.
+
+Required skills:
+
+Perl
+(You don't have to be an expert in the language, but you do have to be
+quick on the uptake.)
+
+Unix
+(We do all our work in GNU screen sessions on remote machines, running vi /
+emacs / $EDITOR.  If you're not comfortable on the command line, this is
+not the job for you.)
+
+Abstraction & Composition 
+(If you're still writing 2,000 line scripts with no subs, this is not the
+job for you)
+
+Love of programming 
+(If you don't code on your own for fun, this is not the job for you)
+
+Desired skills:
+
+Tools we use on a regular basis:
+OO Perl
+Mason
+mod_perl
+SQL
+DBI
+HTML
+CSS
+
+Exposure to multiple paradigms (OOP, functional, logic) and languages
+(Lisp, Haskell, Prolog) is a plus.
+
+Contact information at:
+http://jobs.perl.org/job/10798#contact
+
+

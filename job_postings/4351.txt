@@ -1,0 +1,107 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4351
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8043 invoked from network); 18 May 2006 23:05:08 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 18 May 2006 23:05:08 -0000
+Received: (qmail 25115 invoked by uid 225); 18 May 2006 23:05:07 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 25108 invoked by alias); 18 May 2006 23:05:07 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 18 May 2006 16:04:30 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 26B182AFE1; Thu, 18 May 2006 16:04:13 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060518230413.26B182AFE1@x3.develooper.com>
+Date: Thu, 18 May 2006 16:04:13 -0700 (PDT)
+Subject: System Integration Engineer – SAN/Solaris (onsite), United States, NC, RTP
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4112
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 18, 2006
+
+Job title:
+System Integration Engineer – SAN/Solaris
+
+Company name: Network Appliance
+
+Internal ID: 0106212050002
+
+Location: United States, NC, RTP
+
+Pay rate: open
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Flexible
+
+Onsite: yes
+
+Description:
+Summary:  The SAN System Integration Engineer is a member of the software
+development team responsible for developing and delivering NetApp’s Host
+attach kits.   The Host Attach Kit (AK) is a product which allows host
+operating systems to integrate with Netapp storage solutions.  This
+individual is a key member of the team that develops and delivers new
+features and ensures proper operation of the attach kits over multiple UNIX
+ platforms with an emphasis on Solaris.   Responsibilities include:  (1) 
+Helping ensure that kit components work properly to meet specs, including
+but not limited to: Native drivers, native HBAs, multipathing SW, volume
+management, host clustering, installation/packaging, & bug fixes.; (2)
+providing internal support, documentation generation and review, QA
+support, etc.; (3) working closely with other members of AK team and other
+engineering teams; (4) working with external partners (OS vendors)  to
+ensure delivery of products that are part of NetApp AKs and (5) supporting
+the released product as needed.  This position requires strong PERL
+experience.
+
+Qualifications (Required):
+
+•	   BSCS/CE or equivalent experience required
+•	   3-5 years experience in the system/storage integration 
+•	   Solid knowledge and experience with Solaris
+•	   SAN design and integration experience.
+•	   Scripting experience, preferably Perl or Shell.
+•	   Experience integrating multiple SAN storage solutions (EMC,
+Hitachi, IBM, HP, etc).
+•	   Experience in designing, developing, configuring & testing
+storage solutions for production us
+	 and documenting limitations, restrictions and basic best
+practices.
+•	   System debugging skills. 
+•	   Excellent oral communication skills.
+
+Qualifications (Desired):
+
+•	   Experience with Veritas Foundation Suite 3.2 or higher. 
+•	   System/storage administration experience (Unix Administrator,
+System Administrator, Storage 
+	 Engineer, Storage Integration Engineer are ideal backgrounds if
+they include automation 
+	 experience using scripting languages, particularly PERL.
+•	   Experience developing and delivering software products and
+tools. 
+•	   Experience qualifying SAN Host Attach Kits.
+
+
+URL for more information: http://www.netapp.com/
+
+Contact information at:
+http://jobs.perl.org/job/4112#contact
+
+

@@ -1,0 +1,101 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12465
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 31824 invoked from network); 25 May 2012 17:55:59 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 25 May 2012 17:55:59 -0000
+Received: (qmail 3181 invoked by uid 225); 25 May 2012 17:55:59 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 3177 invoked by alias); 25 May 2012 17:55:59 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 25 May 2012 10:55:57 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id B41C02AFE0; Fri, 25 May 2012 10:55:53 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 25 May 2012 10:55:53 -0700
+Message-ID: <20120525175553.B41C02AFE0@x3.develooper.com>
+Subject: Perl Software Developer for PeopleSeePeople (telecommute), Brooklyn,
+ NY, USA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15442
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 25, 2012
+
+Job title: Perl Software Developer for PeopleSeePeople
+
+Company name: PeopleSeePeople
+
+Location: Brooklyn, NY, USA
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 3-6 months
+
+Hours: Part time
+
+Onsite: no
+
+Description:
+We recently finished the beta version of our new service called
+PeopleSeePeople.
+
+PeopleSeePeople is about first impressions. The basic functionality of the
+service is to rate other people’s pictures and to have your picture rated
+by other people – NOT in a ‘Hot or Not’ kind of way but on a deeper level
+where the results really benefit you. The code is written in Perl.
+
+The service will be launch-ready by June 15.
+
+We are looking for an experienced Perl programmer and system administrator
+who can launch the service together with our current programmer and fully
+take over from our current programmer by July 4th.
+
+Required skills:
+1) Sysadmin
+
+Extensive sysadmin experience in:
+
+- bind
+- postfix
+- amavis
+- postgresl
+- slony1
+- xen
+
+2) HTML
+
+Within these browsers:
+
+- ie8, ie9 , ff3.6 ff10, chrome (latest version), safari (latest version)
+
+have extensive experience at these things:
+
+- designing pixel-precise rounded boxes with shadows
+- design floating popups
+- ajax
+- javascript / dom manipulation
+
+
+ 3) Perl
+
+At least 5 years of experience with Perl programming.
+
+Desired skills: Experience with XML::LibXML is an advantage.
+
+Website for more information: http://www.peopleseepeople.com
+
+Contact information at:
+http://jobs.perl.org/job/15442#contact

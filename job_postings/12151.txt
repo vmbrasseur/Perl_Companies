@@ -1,0 +1,125 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12151
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 20103 invoked from network); 21 Feb 2012 05:13:41 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 21 Feb 2012 05:13:41 -0000
+Received: (qmail 8537 invoked by uid 225); 21 Feb 2012 05:13:41 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 8533 invoked by alias); 21 Feb 2012 05:13:41 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 20 Feb 2012 21:13:37 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 7415B2AFDF; Mon, 20 Feb 2012 21:13:34 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 20 Feb 2012 21:13:34 -0800
+Message-ID: <20120221051334.7415B2AFDF@x3.develooper.com>
+Subject: Research Software Engineer - Workflow Applications (onsite), Los
+ Angeles, CA, United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15352
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 20, 2012
+
+Job title: Research Software Engineer - Workflow Applications
+
+Company name: SDL
+
+Location: Los Angeles, CA, United States
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The Workflow Engineer is responsible for maintaining and extending the
+proprietary workflow platforms used to train statistical models for
+language translation. The workflows are used in both research and
+production, and contain dynamic and rapidly evolving technologies. They are
+built on grid middleware, and run on both in-house and cloud data centers.
+
+The position offers many interesting challenges and opportunities. We
+implement advanced algorithms and apply them to extremely large datasets;
+we write software that runs in various environments such as a local
+cluster, in the cloud, or in a MapReduce environment; all team members can
+contribute to all aspects of the project, such as
+development/QA/architecture design/performance tuning/research.
+
+The responsibilities of the position include: measuring and optimizing the
+workflows' performance, error rate, repeatability, and resource
+consumption; collaborating closely with the science team to transition
+research code directly into the workflows; collaborating closely with IT to
+address issues at the interface of the workflows with the grid middleware
+and operating system layers; managing and extending the code design
+patterns, architecture, and automatic testing of the workflows; closely
+monitoring the interaction of the workflows with the grid middleware
+layers, and tuning it for robustness and performance.
+
+The successful candidate:
+•  employs an empirical methodology and validates ideas with data,
+presented clearly to stakeholders on the science and IT teams.
+•  balances strategic and short-term needs; validates and brings in
+relevant new technologies. 
+•  manages the migration of new inventions from the science team into the
+workflows. 
+•  communicates best practices to the science team, helping to foster an
+"everyone is a developer" philosophy. 
+•  collaborates with IT to diagnose systemic problems and invent workable
+solutions. 
+
+About SDL Language Weaver:
+
+Language Weaver, Inc. was founded in 2002 to commercialize a breakthrough
+approach to automatic language translation, based on research advances made
+at the University of Southern California’s Information Sciences Institute
+(USC/ISI). Language Weaver’s machine translation software product uses a
+statistical, rather than the traditional rule-based, approach to natural
+language processing and translation to produce the highest probability
+output.   In July 2010 Language Weaver was acquired by SDL and became SDL
+Language Weaver. 
+
+SDL is the leader in Global Information Management (GIM) solutions that
+empower organizations to accelerate the delivery of high-quality
+multilingual content to global markets. Its enterprise software and
+services integrate with existing business systems to manage the delivery of
+global information from authoring to publication and throughout the
+distributed translation supply chain. SDL offers clients an end to end
+Global Information Management Solution.  The business is growing rapidly,
+both organically and through acquisition, and derives approximately 50% of
+its revenues through North American based clients.
+
+Quite simply, we accelerate the way the world communicates!
+
+Required skills:
+•  BS or greater in Computer Science/Engineering or related discipline (MS
+is a plus); or equivalent practical experience.
+•  Experience working with medium- to large-scale workflows running in
+Condor, Sun Grid Engine, or Hadoop.
+•  Fluency in Perl. 
+•  Knowledge of Java, C or C++.
+
+Desired skills:
+•  Experience working with the MapReduce framework
+•  Experience with or interest in statistical machine translation,
+statistical natural language processing and/or machine learning is
+desirable, but we will motivate you!
+
+Website for more information: http://www.sdl.com/
+
+Contact information at:
+http://jobs.perl.org/job/15352#contact

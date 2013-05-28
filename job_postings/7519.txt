@@ -1,0 +1,113 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7519
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 16046 invoked from network); 11 Jan 2008 16:32:21 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 11 Jan 2008 16:32:21 -0000
+Received: (qmail 21974 invoked by uid 225); 11 Jan 2008 16:32:21 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 21964 invoked by alias); 11 Jan 2008 16:32:20 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 11 Jan 2008 08:32:14 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id AC8AC2AFA1; Fri, 11 Jan 2008 08:32:10 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20080111163210.AC8AC2AFA1@x3.develooper.com>
+Date: Fri, 11 Jan 2008 08:32:10 -0800 (PST)
+Subject: Senior Software Developer / Architect (part onsite), United Kingdom, Bristol
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/7360
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 11, 2008
+
+Job title: Senior Software Developer / Architect
+
+Company name: IMDb.com
+
+Location: United Kingdom, Bristol
+
+Pay rate: highly competitive
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+IMDb (the Internet Movie Database) is looking for talented Software
+Engineers/Architects to develop and expand our next-generation data
+management systems.
+
+We're looking for someone who loves working with the complex interactions
+of large systems -- who enjoys optimising architecture for performance and
+scalability and capably grapples with competing priorities and demands.
+Candidates must be experienced, creative, flexible and self-motivated, with
+a natural flair for designing and writing reliable, maintainable code.
+
+This is a telecommuting position joining our extensive team in the Bristol
+area, all of whom work from home. The successful candidate will need to
+relocate to the Bristol area to be able to attend a weekly working lunch
+and other meetings with colleagues.  You would be provided with the
+necessary equipment and a fast broadband connection.
+
+IMDb is the biggest, best, most award-winning movie site on the planet. It
+is currently the #17 most popular site in the U.S. and #31 world-wide
+(source: Alexa.com, Sep 2007). You would be joining a growing, cutting-edge
+company with excellent prospects. Our salaries are extremely competitive,
+and we also offer a top-notch benefits package courtesy of our parent
+company, Amazon.co.uk.
+
+Skills required:
+    * Candidates should have experience of working with enterprise
+architectures and large database-driven applications.
+    * Candidates should have an extremely high level of competence in Perl,
+Java, C++ or similar, be experienced in Object Oriented Design/OOP and be
+comfortable working and programming in a UNIX/Linux environment. For
+candidates without intimate Perl experience, we will be looking for
+evidence of adaptability and experience in a related language (e.g.
+shell-scripting, PHP, sed, awk).
+  * Solid communication skills and the ability to work well in a team are
+critical.
+  * We'll be looking for evidence of excellent API design and architecture
+skills, and an up-to-date understanding of current best-practises in
+enterprise architecture.
+  * A computer science degree or equivalent is required, along with
+industry programming experience.
+  * Experience of SQL, unit testing and web services would count in your
+favour, as would relevant advanced competencies like distributed systems,
+machine intelligence, data mining, expert systems, natural language
+processing etc.
+
+IMDb.com is an equal opportunities employer.  We believe passionately that
+employing a diverse workforce is central to our success. We make recruiting
+decisions based on your experience and skills. We value your passion to
+discover, invent, simplify and build.  We welcome applications from all
+members of society irrespective of age, sex, disability, sexual
+orientation, race, religion or belief.
+
+Required skills:
+Perl (or evidence of adaptability and experience in a related language),
+OOP, enterprise architecture, Linux/UNIX
+
+Desired skills: SQL, web services.
+
+URL for more information:
+http://www.imdb.com/jobs#software-bristol
+
+Contact information at:
+http://jobs.perl.org/job/7360#contact
+
+

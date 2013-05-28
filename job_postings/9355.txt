@@ -1,0 +1,108 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:9355
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 11339 invoked from network); 18 Jul 2009 14:10:53 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 18 Jul 2009 14:10:53 -0000
+Received: (qmail 28890 invoked by uid 225); 18 Jul 2009 14:10:53 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 28885 invoked by alias); 18 Jul 2009 14:10:53 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 18 Jul 2009 07:10:48 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id C83502AFE4; Sat, 18 Jul 2009 07:10:44 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20090718141044.C83502AFE4@x3.develooper.com>
+Date: Sat, 18 Jul 2009 07:10:44 -0700 (PDT)
+Subject: Senior Developer/Engineer (mod_perl/mysql/JSON) (onsite), United States, Washington, Seattle
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/10872
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 17, 2009
+
+Job title:
+Senior Developer/Engineer (mod_perl/mysql/JSON)
+
+Company name: Shiftboard
+
+Location: United States, Washington, Seattle
+
+Pay rate: DOE
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: Temp-to-Hire
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Temp to Hire (Seattle/Pioneer Square).
+
+Sorry: No Remotes, No Agency, No Exceptions.
+
+Shiftboard is an advanced, open source friendly Software as a Service
+company in Seattle that provides valuable, online worker and scheduling
+management services to a fast growing and diverse base of business,
+not-profit, municipal and healthcare-related organizations around the
+country.
+
+Please check out www.shiftboard.com for case studies and more about what we
+are doing.
+
+We would like to add an additional, "very" senior level, mod_perl developer
+into a long-term growth opportunity.
+
+This position is reasonably temp-to-hire at very competitive rates based on
+the right candidates demonstrated, real-world experience, commitment and
+dedication. 
+
+Under contact, the anticipated duration will be at least 3-6 months and/or
+a full time position may be available.
+
+A Permanent position will provide significant long-term incentives
+including equity and other employee benefits.
+
+Working from home or telecommuting is often possible but most work is done
+within our offices - we like white boards and solid, in-person
+architectural discussions.
+
+Required skills:
+Here's the run down:
+
+	Must have very solid open-source experience including:
+		- modperl/Apache2 handlers, performance tuning, caching,
+scaling
+		- mysql/database design/performance/replication
+		- caching, scaling
+		- one or more linux/bsd/unix flavors
+		- solid production/web, operations, SCM (Git or SVN).
+		- Front-to-back, well-rounded skill set and comfort level
+working on multiple platforms, virtualization is highly desirable.
+
+Desired skills:
+Candidates with truly exceptional/demonstrated skills living in other US
+locations whom wish to relocate to the Seattle area should also consider
+applying.
+
+URL for more information: http://www.shiftboard.com/
+
+Contact information at:
+http://jobs.perl.org/job/10872#contact
+
+

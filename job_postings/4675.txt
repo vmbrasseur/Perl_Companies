@@ -1,0 +1,92 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4675
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 2240 invoked from network); 24 Jul 2006 21:14:10 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 24 Jul 2006 21:14:10 -0000
+Received: (qmail 28394 invoked by uid 225); 24 Jul 2006 21:14:09 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 28387 invoked by alias); 24 Jul 2006 21:14:09 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 24 Jul 2006 14:14:06 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 5C4502AFE1; Mon, 24 Jul 2006 14:14:02 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060724211402.5C4502AFE1@x3.develooper.com>
+Date: Mon, 24 Jul 2006 14:14:02 -0700 (PDT)
+Subject: Web Crawl Engineer (onsite), United States, WA, Seattle
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4401
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 24, 2006
+
+Job title: Web Crawl Engineer
+
+Company name: Marchex
+
+Internal ID: Web Crawl
+
+Location: United States, WA, Seattle
+
+Pay rate: DOE
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are looking for a talented, motivated Software Engineer to be
+responsible for managing and evolving our data acquisition infrastructure.
+This is a unique opportunity to work with a small, cohesive team of
+experienced engineers on leading Internet-related products for near-term
+high-traffic deployment. 
+We will consider relevant sample projects and demonstrated expertise in
+lieu of some of the experience described below.
+The Marchex Seattle offices are located in downtown Seattle. 
+
+Essential Duties & Responsibilities
+• Maintenance of crawl technology for numerous data feed parsers and
+hundreds of directed web crawlers
+• Development of new directed crawlers and feed parsers
+• Development of extended data acquisition tools and utilities
+
+
+Required skills:
+Targeted Qualifications
+
+• Bachelor's degree or higher in Computer Science or equivalent.
+• Strong background in Un*x, especially Linux.
+• Experience in object-oriented Perl and Java.
+• Experience with common Internet technologies such as XML, Apache, HTTP,
+LWP and various networking protocols.
+• Experience in working with platforms utilizing job scheduling,
+maintenance and alerting.
+• Strong understanding interfaces to flat data sources.
+• Strong understanding of regular expressions for data extraction.
+• Experience with proxies and caches is a plus.
+• Excellent written and verbal English communication skills required.
+
+
+URL for more information: http://www.marchex.com/
+
+Contact information at:
+http://jobs.perl.org/job/4401#contact
+
+

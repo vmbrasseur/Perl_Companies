@@ -1,0 +1,151 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:1472
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 43159 invoked by uid 76); 3 Apr 2004 02:41:46 -0000
+Received: from x1.develooper.com (HELO x1.develooper.com) (63.251.223.170)
+  by onion.perl.org (qpsmtpd/0.27.1) with SMTP; Fri, 02 Apr 2004 18:41:46 -0800
+Received: (qmail 10297 invoked by uid 225); 3 Apr 2004 02:41:44 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 10276 invoked by alias); 3 Apr 2004 02:41:43 -0000
+X-Spam-Status: No, hits=0.0 required=7.0
+	tests=
+X-Spam-Check-By: la.mx.develooper.com
+Received: from onion.develooper.com (HELO onion.perl.org) (63.251.223.166)
+  by la.mx.develooper.com (qpsmtpd/0.27.1) with SMTP; Fri, 02 Apr 2004 18:41:43 -0800
+Received: (qmail 43107 invoked by uid 1016); 3 Apr 2004 02:41:42 -0000
+Date: 3 Apr 2004 02:41:42 -0000
+Message-ID: <20040403024142.43106.qmail@onion.perl.org>
+To: jobs@perl.org
+Subject: Software Engineer (onsite), United States, Californica, Santa Monica
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1368
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April  2, 2004
+
+Job title: Software Engineer
+
+Company name: Boingo Wireless
+
+Internal ID: SSE
+
+Location: United States, Californica, Santa Monica
+
+Pay rate: DOE
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Length of employment: Full time
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Come work at Boingo Wireless™, the hottest start-up in the wireless
+industry. We’re searching for the most elite professionals to join our
+stellar team, which includes founder & CEO Sky Dayton, founder of EarthLink
+and one of the pioneers of the Internet Age. 
+
+This is an unrivaled opportunity, the chance to work alongside the smartest
+people in the industry and create a lasting impact on the world. At
+Boingo™, we’re creating the next phase of the Internet, which is wireless
+and as ubiquitous as the air we breathe -- and as invigorating as the ocean
+breeze blowing into our sun-drenched Santa Monica offices. 
+
+If you feel you have what it takes to be on the superstar Boingo team,
+please review our open position descriptions and submit a Word version of
+your resume. 
+
+Function Description: 
+Boingo Wireless is looking for an experienced senior systems engineer to
+develop internal web applications and software tools. Their
+responsibilities include the development and maintaince of administrative
+interfaces for our Hot Spot location database, user activity, and back-end
+client services. 
+
+Candidates for this position should enjoy front-end applications
+development, including gathering requirements and feedback from internal
+customers, and providing suggestions. Balancing short-term requests with
+long-term product vision is required. 
+
+Web application development in a UNIX/LINUX environment is required, using
+a variety of application servers. This position requires expert-level perl
+skills, particularly with web-application development of cgi’s, and ideally
+mod_perl. Very strong SQL programming skills, including developing and
+optimizing stored procedures is required. The candidate should have
+extensive experience with XML including schema development. 
+
+Experience working in an organization focused on consumer-facing services,
+preferably an ISP or WISP, is a big plus. 
+
+Required Experience and skills: 
+
+At least 7 years of web application software development experience,
+preferably using apache, and mod_perl. 
+
+Expert level Perl skills, including scripting and web application
+development. 
+
+Database engineering experience, including triggers, complex joins, and
+schema design. Perl:DBI/DBD experience. 
+
+Very strong HTML skills, including multi-platform support, style sheets,
+and JavaScript. 
+
+Strong XML development experience including designing of DTDs and/or XML
+Schema. 
+
+Good software design skills including use of UML & Object-oriented design
+practices. 
+
+Ability to learn and contribute quickly, work independently. Experience
+leading other developers during the analysis, design, and execution phases
+of an engineering project is a big plus. 
+
+Experience with source control systems, such as CVS. 
+
+BS in Computer Science, or equivalent experience. 
+
+Desired Experience and skills: 
+
+Web application development experience using Mason. 
+
+Advanced Linux development skills including .rpm and kickstart
+configurations. 
+
+Advanced database development experience, including using stored procedures
+& PL/SQL. 
+
+XSL development experience. Preferably in Perl, and using XML Spy. 
+
+Experience in Java web application development, including Tomcat, JSPs, and
+JDBC. 
+
+Reports to: Director, Engineering 
+Location: Santa Monica, CA 
+
+
+Required skills: Perl, mod_perl, xml, html, apache, CVS
+
+Desired skills:
+Mason, .rpm, kickstart,PL/SQL, JAVA, JSP's, Tomcat, JDBC 
+
+URL for more information: http://www.boingo.com/
+
+Contact information:
+Terri Tiemann
+jobs@boingo.com
+
+
+

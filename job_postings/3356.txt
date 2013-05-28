@@ -1,0 +1,97 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3356
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 4775 invoked from network); 20 Oct 2005 14:59:17 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 20 Oct 2005 14:59:17 -0000
+Received: (qmail 17908 invoked by uid 225); 20 Oct 2005 14:59:17 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 17904 invoked by alias); 20 Oct 2005 14:59:16 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 20 Oct 2005 07:59:10 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j9KEx6sS013111
+	for <jobs@perl.org>; Thu, 20 Oct 2005 07:59:06 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j9KEx6h5013109;
+	Thu, 20 Oct 2005 07:59:06 -0700
+Date: Thu, 20 Oct 2005 07:59:06 -0700
+Message-ID: <200510201459.j9KEx6h5013109@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Perl multi-threaded network application programmer (part onsite), United States, TX, Houston
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3202
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 20, 2005
+
+Job title:
+Perl multi-threaded network application programmer
+
+Company name: X-ISS
+
+Internal ID: perl-adv
+
+Location: United States, TX, Houston
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: 1 to 2 months
+
+Hours: Flexible
+
+Onsite: some
+
+Description:
+We are a small company that is designing an application that will get large
+data sets from multiple sources, apply some business logic and
+transformations, to that data, and then make it available to user
+views/reports as well as other sub-systems. This will involve
+object-oriented programming using Perl and require implementation with
+multi-threaded and Web Services components. The developer must be
+experienced with design and implementation of large Perl applications.
+
+They will work with our architects to:
+- Do detail design of application flow/logic
+- Design objects and interfaces
+- Create these in Perl
+- Write enough test code to ensure functionality including error checks and
+logging
+- Document all code as they go
+
+This person will need to be experienced enough to provide best practices
+and be able to work independently. Visit to our office may not be essential
+but some overlap with our architects (Central timezone) is critical.
+
+Required skills:
+- Writing object oriented perl modules experience
+- Writing multi-threaded perl applications experience
+- Good application level architecture design experience
+- Sound programming best practices skills
+- Good communications and documentation skills
+- Network and systems programming skills
+
+
+Desired skills:
+- Web Services
+
+
+Contact information at:
+http://jobs.perl.org/job/3202#contact
+
+

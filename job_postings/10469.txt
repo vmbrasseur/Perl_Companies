@@ -1,0 +1,93 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10469
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 15334 invoked from network); 27 Aug 2010 10:04:45 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 27 Aug 2010 10:04:45 -0000
+Received: (qmail 17365 invoked by uid 225); 27 Aug 2010 10:04:44 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 17361 invoked by alias); 27 Aug 2010 10:04:44 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 27 Aug 2010 03:04:42 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 2D36C2AFE0; Fri, 27 Aug 2010 03:04:39 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20100827100439.2D36C2AFE0@x3.develooper.com>
+Date: Fri, 27 Aug 2010 03:04:39 -0700 (PDT)
+Subject: Hot Shot Perl Developer (onsite), United Kingdom, Glasgow, East Kilbride
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/6799
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 27, 2010
+
+Job title: Hot Shot Perl Developer
+
+Company name: Traveltek Ltd.
+
+Internal ID: SDEV
+
+Location: United Kingdom, Glasgow, East Kilbride
+
+Pay rate: Dependant on experience
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Traveltek is a worldwide leader in online travel solutions, from consumer
+facing websites to  call center applications. We have customers big and
+small, from single high street agencies to the largest travel companies in
+the world. We handle millions of page views per month, deal with databases
+that process tens of millions of rows per hour, and offer a great
+environment for the technically inclined to challenge their abilities.
+
+We're looking to add some new people to our already extensive team, and are
+on the hunt for programmers who think they have what it takes to master
+Perl. Perhaps you're already a Perl expert, or a PHP, Python or Ruby
+programmer who is looking for a new challenge. We deal with more code (3
+million lines and counting) and more data (hundreds of millions of rows)
+then you've likely come across before, but if that sounds like fun, this is
+the place for you.
+
+Some knowledge of Linux or other flavour of UNIX would be a plus, as this
+is what our whole platform runs on. Some database experience is definitely
+a must, MySQL especially. And as you will dealing with customers and we
+pride ourselves on good service, good communication skills are key.
+Finally, you'll need a willingness to learn. Almost everything we do is
+likely to be new to you, and you should be ready for a challenge.
+
+This position is based in our Head Office in East Kilbride and the
+successful candidate will benefit from a competitively based salary.
+
+Required skills:
+Perl
+MySQL
+
+Desired skills:
+- Apache
+- Linux
+- mod_perl
+- XML
+- Buzzword compliance
+
+URL for more information: http://www.traveltek.net/
+
+Contact information at:
+http://jobs.perl.org/job/6799#contact
+
+

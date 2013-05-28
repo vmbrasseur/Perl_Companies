@@ -1,0 +1,103 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12393
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 21904 invoked from network); 4 May 2012 05:42:52 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 4 May 2012 05:42:52 -0000
+Received: (qmail 18998 invoked by uid 225); 4 May 2012 05:42:52 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 18994 invoked by alias); 4 May 2012 05:42:52 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 03 May 2012 22:42:49 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id D6E482AFDF; Thu,  3 May 2012 22:42:45 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 3 May 2012 22:42:45 -0700
+Message-ID: <20120504054245.D6E482AFDF@x3.develooper.com>
+Subject: Web engineer and performance tools automation- PERL LAMP Engineer
+ (onsite), Princeton, NJ, USA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15950
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May  3, 2012
+
+Job title:
+Web engineer and performance tools automation- PERL LAMP Engineer
+
+Company name: NTT DATA
+
+Internal ID: 12-02685
+
+Location: Princeton, NJ, USA
+
+Pay rate: Open
+
+Terms of employment: Hourly employee
+
+Length of employment: full time like type of contract
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We have a number of vendor-supplied performance tools in our portfolio (eg.
+Optier Corefirst, Splunk, Coradiant Truesight) which we have a need to
+better integrate with our existing, proprietary configuration management
+and provisioning systems. Our ultimate aim is to derive more value from
+these technologies by making them easier to use and more reliable through
+automating processes that are either manually performed today, or not
+performed at all.
+ 
+The role primarily involves programming/scripting, though will also involve
+some interaction with global operations teams (in locations including
+Canada and India) that will ultimately provide support and coverage for the
+tools developed, and the underlying products for which those tools are
+built. The technical skills that we are looking for are primarily
+experience with Perl, but also other programming languages, XML and
+distributed systems. The ability to work in a team (including cross
+regional) and the ability to build relationships with customers is a must,
+as is the ability to establish process for operations teams will be
+necessary as well providing best practices for the production environment.
+
+Required skills:
+•	3 years experience in Perl Scripting and XML
+•	1 year of Linux Administration
+•	3 years of OO Perl
+•	1 year of testing methodologies
+Good knowledge of Perl:
+object-oriented techniques and how to write/use classes
+debugging techniques
+testing strategies & supporting modules
+familiarity with other common modules used to handle templating, XML
+parsing and interaction with relational databases
+Working knowledge of Linux
+
+Desired skills:
+1.	Web technologies including the HTTP protocol, RESTful web services
+and the Apache webserver
+2.	Relational databases (ideally Sybase or DB2, but experience with
+others is OK)
+3.	Private Key Infrastructure/SSL
+4.	Source code control (ideally GIT, but experience with other tools
+is OK)
+5.	Infrastructure lifecycle (installation, configuration, deployment,
+patching, upgrade, and uninstallation)
+
+Website for more information: http://www.nttdata.com/americas
+
+Contact information at:
+http://jobs.perl.org/job/15950#contact

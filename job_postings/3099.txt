@@ -1,0 +1,94 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3099
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 24885 invoked from network); 16 Aug 2005 16:28:42 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 16 Aug 2005 16:28:42 -0000
+Received: (qmail 5345 invoked by uid 225); 16 Aug 2005 16:28:41 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 5340 invoked by alias); 16 Aug 2005 16:28:41 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 16 Aug 2005 09:28:30 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j7GGSRdU024057
+	for <jobs@perl.org>; Tue, 16 Aug 2005 09:28:27 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j7GGSRxt024055;
+	Tue, 16 Aug 2005 09:28:27 -0700
+Date: Tue, 16 Aug 2005 09:28:27 -0700
+Message-ID: <200508161628.j7GGSRxt024055@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Perl Web Developer (onsite), United Kingdom, Bucks, Milton Keynes
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2964
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 16, 2005
+
+Job title: Perl Web Developer
+
+Company name: SpiraHellic Multimedia Ltd
+
+Location: United Kingdom, Bucks, Milton Keynes
+
+Pay rate: £20k to £35k depending on ability
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+SpiraHellic Multimedia requires a talented Perl developer to develop web
+applications for various prestigious clients.
+
+As part of our small, established company, you will help design, develop
+and enhance our content management system to meet our clients' needs.  You
+will also use Perl to convert and manage data and develop bespoke web
+sites.	You will feel comfortable writing both procedural and object
+oriented Perl.
+
+This job involves working in a friendly, productive environment at our
+Milton Keynes offices.	You will work closely with two other knowledgeable
+Perl developers, as well as experienced web developers and designers.  You
+will help write specifications, produce quality work that meets their needs
+and communicate progress to clients.
+
+Required skills:
+- Strong knowledge of Perl used to develop and maintain large applications
+- Experience using numerous CPAN modules
+- SQL databases (particularly MySQL or MS SQL Server)
+- Understand Internet protocols (particularly HTTP)
+- Good verbal and written communication and team working
+
+Desired skills:
+- Templating systems (particularly HTML::Template or Template Toolkit)
+- Web server configuration and administration (particularly Apache or IIS)
+- Front end web development experience (HTML, JavaScript, CSS)
+- Unix (particularly FreeBSD or Linux)
+- Windows 2000/2003 Server
+- Processing XML using Perl or XSLT
+- Writing CPAN-style Perl modules
+- Test driven development, version control, release management
+
+
+URL for more information: http://www.spira.co.uk/
+
+Contact information at:
+http://jobs.perl.org/job/2964#contact
+
+

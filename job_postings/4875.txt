@@ -1,0 +1,72 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4875
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 14516 invoked from network); 30 Aug 2006 02:38:39 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 30 Aug 2006 02:38:39 -0000
+Received: (qmail 22138 invoked by uid 225); 30 Aug 2006 02:38:38 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 22132 invoked by alias); 30 Aug 2006 02:38:38 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 29 Aug 2006 19:38:36 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id DC25A2AFDE; Tue, 29 Aug 2006 19:38:30 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060830023830.DC25A2AFDE@x3.develooper.com>
+Date: Tue, 29 Aug 2006 19:38:30 -0700 (PDT)
+Subject: Perl Programmer (onsite), Australia, NSW, Sydney
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4587
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 29, 2006
+
+Job title: Perl Programmer
+
+Company name: 2it
+
+Location: Australia, NSW, Sydney
+
+Pay rate: $500AUD per day
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: 6 months with a view to extend
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+* The job is focused generally on development of monitoring scripts for
+integration.
+* The company utilises Nagios and in built scripts for monitoring.
+* Environments to be monitored include Solaris 8, Solaris 9, RedHat Linux
+4, RedHat Linux 3 and Windows (a very small amount). Some skill in these
+variants will be helpful. 
+* A  small amount of Java skill is necessary to integrate test scripts that
+are written in Java languages for example CORBA EJB tests.
+
+Required skills: Perl, Java, C
+
+Desired skills:
+* General systems administration/networking experience may be necessary 
+
+Contact information at:
+http://jobs.perl.org/job/4587#contact
+
+

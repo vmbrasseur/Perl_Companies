@@ -1,0 +1,100 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11153
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 31051 invoked from network); 30 Mar 2011 19:53:15 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 30 Mar 2011 19:53:15 -0000
+Received: (qmail 23132 invoked by uid 225); 30 Mar 2011 19:53:14 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 23128 invoked by alias); 30 Mar 2011 19:53:14 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 30 Mar 2011 12:53:12 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 092D32AFE0; Wed, 30 Mar 2011 12:53:08 -0700 (PDT)
+To: jobs@perl.org
+Date: Wed, 30 Mar 2011 12:53:08 -0700
+Message-ID: <20110330195309.092D32AFE0@x3.develooper.com>
+Subject: Technical Manager for StartUp (development, sysadmin, general tech
+ guru) - The Yacht Week (onsite), United Kingdom, SW6 3HH, London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13348
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 30, 2011
+
+Job title:
+Technical Manager for StartUp (development, sysadmin, general tech guru) -
+The Yacht Week
+
+Company name: The Yacht Week
+
+Location: United Kingdom, SW6 3HH, London
+
+Pay rate: 2000+
+
+Terms of employment: Salaried employee
+
+Hours: Flexible
+
+Onsite: yes
+
+Description:
+We are looking for a programmer with the skills and initiative to continue
+developing the technical platform that handles our bookings, in order to
+maintain our position as the most technically advanced companyin the
+yachting business.
+
+Key is passion and increasing engagement! We may start with 50% but go for
+full time within 6-12 months. If you can relocate to London that is a plus,
+if you like sailing and adventure, that is also good. We do NOT consider
+offshore applicants and Telecommute Only Candidates
+
+The platform we have today handles the administration of bookings and
+payments, and syncs yacht availability with our partners. Bookings are made
+directly on our site, and customer can log in to their accounts to
+administrate their crew list, order transfer and check payment status. For
+an added social experience, bookings and crew lists can be connected to the
+Facebook accounts of our customers. The entire platform is written in Perl
+with data stored in a MySQL database. It has been in use and continuously
+developed since The Yacht Week started. During a transition period, part of
+your job will be to maintain and improve this system with additional
+features.
+
+In the near future we are planning to develop a completely new system,
+based on our current experience and adapted for our business as it looks
+today. This will be your big project. As lead developer your job will be to
+plan and implement the development of our new platform. Our CTO, who has
+developed our current system, will assist and supervise you in this. We are
+planning to outsource part of the programming in this project, and you will
+be in charge of the outsourcing.
+
+Required skills:
+Experience of developing efficient and well-structured web applications.
+Fluency in MySQL.
+Having worked with creating nice-looking online user interfaces, preferably
+in AJAX, otherwise in HTML/CSS.
+Perl experience would be very nice, PHP experience no too bad either. But
+really, if you’re the programmer we’re looking for you’ll learn any of
+those languages in a week anyway.
+
+
+Desired skills:
+Value opportunity to travel with the team on site during summer
+Entrepreneurial Spirit
+Desire to increase involvment over time
+
+Website for more information: http://www.theyachtweek.com/
+
+Contact information at:
+http://jobs.perl.org/job/13348#contact

@@ -1,0 +1,85 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5397
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 1420 invoked from network); 3 Dec 2006 22:02:17 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 3 Dec 2006 22:02:17 -0000
+Received: (qmail 26946 invoked by uid 225); 3 Dec 2006 22:02:16 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 26906 invoked by alias); 3 Dec 2006 22:02:13 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 03 Dec 2006 14:02:10 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 8A3B02AFE6; Sun,  3 Dec 2006 14:02:06 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20061203220206.8A3B02AFE6@x3.develooper.com>
+Date: Sun,  3 Dec 2006 14:02:06 -0800 (PST)
+Subject: Production Engineer (Linux sysadmin + Perl) (onsite), United States, CA, Santa Clara
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5048
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December  1, 2006
+
+Job title:
+Production Engineer (Linux sysadmin + Perl)
+
+Company name: Yahoo! Inc
+
+Location: United States, CA, Santa Clara
+
+Pay rate: DOE
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Join the team responsible for the operation of Yahoo!'s search monetization
+engine. You will contribute to both the administration of thousands of
+Linux machines as well as the development of tools that automate their
+deployment, management and monitoring. The ideal candidate has strong Perl
+programming skills as well as an extensive background in large-scale system
+administration.
+
+Responsibilities:
+
+* Administer Linux clusters, monitor their health and performance
+* Utilize and extend a large library of Perl code responsible for the
+automation, monitoring, etc. of thousands of Linux machines 
+* Document both newly developed and pre-existing tools/libraries as well as
+operational procedures
+* Participate in the build-out and deployment of new hardware
+* Participate in the (12x7) on-call pager rotation
+* Work closely with other System Administration, Site Operations and
+network teams as well as remote members of the Production Engineering team 
+
+Required skills:
+* Strong Perl programming skills
+* 2+ years experience with Linux
+* 2+ years experience administering large-scale UNIX installations in a
+tier 1 environment (ISP background a plus)
+* Fluent in written and spoken English
+* BS Computer Science and/or strong System Administration background
+
+
+Contact information at:
+http://jobs.perl.org/job/5048#contact
+
+

@@ -1,0 +1,81 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11408
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 7053 invoked from network); 16 Jun 2011 12:47:06 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 16 Jun 2011 12:47:06 -0000
+Received: (qmail 29841 invoked by uid 225); 16 Jun 2011 12:47:06 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 29837 invoked by alias); 16 Jun 2011 12:47:06 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 16 Jun 2011 05:47:03 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id E37382AFE0; Thu, 16 Jun 2011 05:46:59 -0700 (PDT)
+To: jobs@perl.org
+Date: Thu, 16 Jun 2011 05:46:59 -0700
+Message-ID: <20110616124659.E37382AFE0@x3.develooper.com>
+Subject: Programmer wanted to extend restaurant till system (part onsite)
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14334
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 15, 2011
+
+Job title: Programmer wanted to extend restaurant till system
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+Looking for somebody to extend a till system that I wrote a couple of years
+ago.  It uses Moose, but it was my first big Perl project, so the design is
+somewhat sub-optimal, having said that it's in production for a long time
+with no major issues.
+
+The client has written a spec for a new feature, involving loyalty cards. 
+I don't have the bandwidth to work on this at the moment so I'm looking for
+somebody else to take it on.  If you're seriously interested, let me know
+and I can forward you the full spec, and hopefully you will be able to
+provide us with a time / cost estimate.  If you want to have a look at the
+source, that can be arranged, but client may wish you to agree to an NDA. 
+As a guideline, I'd say 2-4 weeks for the right person, but I'm open to
+being told differently.
+
+Client wants to keep it thin on the till side, so it's basically a case of
+optionally storing a loyalty card number per order, and exporting that
+along with all the other details that get exported to their management
+systems.
+
+If the right candidate does a good job, there will be ongoing work
+available (bug fixes etc).
+
+Required skills:
+Perl
+Ability to learn quickly.
+Understands "good" software design, doesn't just dive in and hack.
+Reliable, personable.
+
+Desired skills:
+Moose
+DBIC
+POE
+Curses::UI
+Linux / Debian system administration
+Debian package building (for deployment)
+
+Contact information at:
+http://jobs.perl.org/job/14334#contact

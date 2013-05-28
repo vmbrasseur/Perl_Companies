@@ -1,0 +1,155 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4648
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 779 invoked from network); 19 Jul 2006 13:16:35 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 19 Jul 2006 13:16:35 -0000
+Received: (qmail 1865 invoked by uid 225); 19 Jul 2006 13:16:34 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 1856 invoked by alias); 19 Jul 2006 13:16:34 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 19 Jul 2006 06:15:39 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 693942AFDA; Wed, 19 Jul 2006 06:15:34 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060719131534.693942AFDA@x3.develooper.com>
+Date: Wed, 19 Jul 2006 06:15:34 -0700 (PDT)
+X-Virus-Checked: Checked
+Subject: Senior Software Developer - Free iPod nano (onsite), United States, CA, San Francisco
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4373
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 17, 2006
+
+Job title:
+Senior Software Developer - Free iPod nano
+
+Company name: GUBA
+
+Location: United States, CA, San Francisco
+
+Pay rate: Competitive
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+GUBA is looking for an extremely talented Sr. Architect.  This position
+calls for a multi-talented engineer to design and develop a consumer facing
+application platform. The ideal candidate has extensive experience
+designing and deploying high-volume dynamically-created web applications.
+
+The chief architect will be fully responsible for the application
+architecture. In this role you will provide architectural direction,
+ensuring that the system architecture integrates hardware, software, data,
+and procedural system components to satisfy system requirements.  The
+individual will assist in migrating us from our legacy systems to Java
+based technologies.  This person will also collaborate with the business
+and product leads to translate business and product requirements into
+technology requirements and recommend viable business, product, and
+technical options. 
+
+If you’re looking to work in a fast-paced startup, love fiddling with the
+latest tools and applications, can develop awesome products from scratch,
+want to integrate the newest web components (including dare we say “web
+2.0” components), work well with UI designers, want to be part of a small
+team focused on delivering a customer-focused solution addressing unmet
+customer needs, and you’ve got the skills we’re looking for, we want to
+hear from you.
+
+Summary of Role and Deliverables
+- Define the technical implementation for our online offerings, working
+from high level product requirements and detailed UI specifications and
+prototype
+- Work directly with product manager and UI designer to understand business
+and user requirements and flesh out technical implementation based on those
+needs
+- Identify and drive selection of 3rd party and open source tools,
+applications, and components for integration into offering
+- Develop architecture strategy, including migration and implementation
+plan
+- Implement the product offering using your preferred tools
+- Mentor the other developers on the team, do code reviews, and help guide
+process 
+
+Why GUBA?
+1.	The best place to find and watch video on-line. Bar None .
+2.	Small company with a start-up like culture
+3.	Profitable , in business since 1998 and growing like crazy. 
+4.	3 weeks paid vacation, 1 week of sick leave, 401k and a generous
+benefits package.  
+5.	We have a great office in downtown SF, just a few blocks from BART
+and the Embarcadero
+
+We welcome people with big ideas and the ability to execute on them.  
+
+Required skills:
+Essential Skills & Experience
+- Innovative and creative, solutions oriented
+- Desire to work in a small, fast-paced environment
+- Must have experience working in small companies (<50 people)
+- Must have experience implementing a market-successful 1.0 offering
+- Able to understand business objectives and translate product requirements
+and UI requirements into working product offering and documents
+- Ability to define architecture, implement offering, and lead/mentor team
+of engineers
+- Excellent interpersonal skills, although a bit of over-confidence is
+acceptable just so long as you can back it with awesome coding
+- Experience designing, implementing, and deploying a hosted product
+- 8+ year successful track record designing and developing complex
+multi-tiered high performance Web applications (please provide list of
+sites developed)
+
+Required Technical Skills
+- Java Expert
+- Proven experience working with PERL and C++
+- MySQL or other database experience
+- 8+ years integrating content management systems, including
+high-availability databases
+- 5+ years architectural leadership experience with multi-terabyte
+database-backed hosted web applications; well versed with both OLTP and
+OLAP systems
+- Must have hardware scaling and software tuning experience; experience
+designing software systems for hosted environments; extensive knowledge of
+networking and network protocols; design patterns and distributed systems
+- 5+ years experience building J2EE web applications (using JSP, servlets,
+struts )
+- 5+ years LAMP stack experience (LAMP = Linux, Apache, MySQL,
+Perl/PHP/Python)
+- 5+ years detailed data modeling experience
+- 5+ years experience with at least one, preferably two, major commercial
+RDBMS
+- Understanding of issues related to business logic in stored procedures
+vs. in middle tier
+- 3+ years experience with web page templating frameworks in J2EE and LAMP
+- Must have used at least one application framework for a modern agile
+language (Ruby, Python, PHP, Perl) such as Zope, Ruby On Rails, HTML:Mason,
+TurboGears (6 months - 1 yr ) and be able to articulate the risk/reward of
+using an agile framework.
+- Intimate understanding of the issues around the use of web infrastructure
+technologies such as session management, web caching, virtual hosting, DNS
+
+URL for more information: http://www.guba.com/
+
+Contact information at:
+http://jobs.perl.org/job/4373#contact
+
+

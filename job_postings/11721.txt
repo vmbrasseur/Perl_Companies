@@ -1,0 +1,119 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11721
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13456 invoked from network); 29 Sep 2011 23:57:48 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 29 Sep 2011 23:57:48 -0000
+Received: (qmail 17567 invoked by uid 225); 29 Sep 2011 23:57:48 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 17563 invoked by alias); 29 Sep 2011 23:57:48 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 29 Sep 2011 16:57:45 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 21E282AFD6; Thu, 29 Sep 2011 16:57:42 -0700 (PDT)
+To: jobs@perl.org
+Date: Thu, 29 Sep 2011 16:57:42 -0700
+Message-ID: <20110929235742.21E282AFD6@x3.develooper.com>
+Subject: Perl Web Application Programmer (part onsite), Tampa, FL
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14908
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 29, 2011
+
+Job title: Perl Web Application Programmer
+
+Company name: M.D. Web Solutions
+
+Location: Tampa, FL
+
+Pay rate: $15-32.50/hr depending on experience and skills
+
+Terms of employment: Hourly employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+M.D. Web Solutions is a Physician Practice Information Technology (IT)
+provider, serving to meet the unique needs of each physician practice with
+which it partners. To learn more about M.D. Web Solutions please visit
+www.mdwebsolutions.net.
+
+We are seeking a well rounded LAMP (P = perl) Web Application & Database
+Programmer with strong innovative talents and a self-directed work style to
+augment our current application support and development effort.
+
+Initially, the programmer will be in training with a senior developer. 
+This will segue into a tier 2 client support role supporting the tier 1
+support team (client facing trainers and implementers).  This role will
+eventually become a developer role if the candidate displays skills and
+promise in development and a partnership may become avaiable to senior
+developers.
+
+The candidate can work from home and is expected to be available from 9am
+to 5pm. The position is immediately available. Performance will be
+evaluated based on productivity, effectiveness of patches and/or the
+application produced and professionalism in working with others, including:
+communication skills, timeliness and keeping commitments on multiple
+projects.
+
+The candidate must be in the Central Florida area and able to be physically
+present in Tampa, FL, at least once per month.
+
+RESPONSIBILITIES:
+
+In Support:
+- Availability 9-5 on weekdays and some evenings and weekends as agreed
+upon in advance with manager.
+- Utilize in-house ticketing systems to manage and track ongoing support
+projects
+- Communicate to tier 1 support team members and, at times, clients
+regarding projects.
+- Develop/enhance documentation of application function to facilitate
+ongoing support
+- Coordinate with development team members regarding application
+enhancements that would be beneficial to client and/or support team based
+on experience supporting client. 
+
+In Development:
+- Begin work using GUI design and desired Application functionality as
+provided by M.D. Web Solutions.
+- Coordinate with Project Manager throughout build.
+- Develop application within the existing application or as a stand alone
+module that can be seamlessly plugged into the existing application.
+- Utilize normalization for database design.
+- Test application thoroughly so it is ready for production.
+- Coordinate with other development team members to integrate new
+application.
+- Include clear and consistent comments in code that will be instructional
+to another LAMP Web Programmer.
+- Provide tier 3 support for the application.
+
+Required skills:
+Graphical: Adobe Photoshop and ImageReady
+GUI: HTML, Javascript, DOM functions, xmlhttp protocols
+Server Side: Linux, Apache, MySQL, Perl (LAMP)
+Code Change Mngmt: SVN
+Communication: Strong listening skills
+Work Ethic: Timely & completes on commitments
+Geography: Central Florida
+
+Desired skills: Java, HL7, XML, Object Oriented Perl, Modern Perl
+
+Website for more information: http://www.mdwebsolutions.net
+
+Contact information at:
+http://jobs.perl.org/job/14908#contact

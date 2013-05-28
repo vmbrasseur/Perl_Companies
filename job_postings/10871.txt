@@ -1,0 +1,89 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:10871
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 25182 invoked from network); 11 Jan 2011 00:28:23 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 11 Jan 2011 00:28:23 -0000
+Received: (qmail 4177 invoked by uid 225); 11 Jan 2011 00:28:23 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 4173 invoked by alias); 11 Jan 2011 00:28:22 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 10 Jan 2011 16:28:20 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 626052AFE1; Mon, 10 Jan 2011 16:28:16 -0800 (PST)
+To: jobs@perl.org
+Date: Mon, 10 Jan 2011 16:28:16 -0800
+Message-ID: <20110111002817.626052AFE1@x3.develooper.com>
+Subject: Software Engineer (onsite), United States, CA, San Francisco
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13448
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 10, 2011
+
+Job title: Software Engineer
+
+Company name: Paradigm Healthcare Services
+
+Location: United States, CA, San Francisco
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are looking for a developer who likes to get their hands into the rest
+of the stack: someone who can rack a server and configure its operating
+system to play nicely in the environment; someone who can troubleshoot a
+down network connection; someone who can then write world-class software in
+the environment they just built, and then beat it to death with tests; 
+someone who has an opinion, or even two, on the best way to do all of the
+above. 
+
+Why work here?	We help schools and state agencies navigate bureaucracies
+and collect funding so they can provide health services to poor and
+underserved populations.  We’re a small company (~50 people) with a great
+culture that’s using technology to change the way our corner of the world
+works.	We are a leader in our field with a solid revenue stream and a 15
+year company history, and we’re aggressively evolving our legacy system
+into full buzzword compliance.	We expect you to learn something new every
+day; you’ll walk out of here a much better developer/sys
+admin/dba/technologist than you came in.
+
+Who wouldn’t be happy here?  We practice something close to agile
+development and make design choices as a team; if you like to work on your
+own and/or don’t play nicely with others, you’ll be miserable.	We’re a
+perl / oracle / CentOS shop; we have some other languages on the
+peripherals, but you aren’t going to like working here if you can’t live
+without your daily dose of java/ruby/lisp on windows.  We measure success
+by the quality of the incremental improvements we produce; we don’t build
+things from scratch.   
+
+Interested?  Please send a cover letter, resume, and some sort of code
+samples to jpeyton@paradigm-healthcare.com.  We’re looking forward to
+meeting you.  
+
+
+Required skills:
+-Perl in a web context
+
+
+Desired skills:
+- Oracle
+
+
+Contact information at:
+http://jobs.perl.org/job/13448#contact

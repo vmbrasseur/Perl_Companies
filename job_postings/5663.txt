@@ -1,0 +1,116 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5663
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 16566 invoked from network); 30 Jan 2007 16:55:05 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 30 Jan 2007 16:55:05 -0000
+Received: (qmail 21623 invoked by uid 225); 30 Jan 2007 16:55:04 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 21511 invoked by alias); 30 Jan 2007 16:54:54 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 30 Jan 2007 08:54:30 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id DDA672AFF7; Tue, 30 Jan 2007 08:54:26 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20070130165426.DDA672AFF7@x3.develooper.com>
+Date: Tue, 30 Jan 2007 08:54:26 -0800 (PST)
+Subject: Senior Perl Web App Developer for web2.0 Startup (telecommute), United States, NY, New York/Telecommute
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5273
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 30, 2007
+
+Job title:
+Senior Perl Web App Developer for web2.0 Startup
+
+Company name: Magnify.net
+
+Location: United States, NY, New York/Telecommute
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: 3 months to permanent
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+Magnify.net is seeking an experienced Perl developer to join our  
+web application team.
+
+You will work closely with Magnify's core team to define new features and
+identify defects, develop solutions, and deploy them to our live service.
+
+An enthusiastic team, flexible working conditions, and the chance to  
+build something unique in a rapidly growing new field combine to make  
+this a fantastic opportunity for Perl developers with the requisite  
+skills.
+
+Terms: This permanant, full-time position will initially be filled on  
+an independent contractor basis, with a reasonable hourly fee or  
+weekly retainer. After a few months of contracting, successful hires  
+will be given an opportunity to move to a salary basis with benefits  
+and options.
+
+Setting: Most of the work we'll require over the next few months can  
+be done off-site and on a flexible schedule. (We would be willing to  
+consider a pure telecommute arrangement for a stellar candidate, but  
+if you're in the New York City area and can periodically meet for  
+face-to-face discussions with the rest of the team at our 27th Street  
+office, that would be a big plus.)
+
+Required skills:
+* Significant knowledge of and experience in Perl programming.	
+(Exposure to standard Perl idioms, the ability to create your own  
+class hierarchies, and familiarity with CPAN are required.)
+
+* Prior experience in server-side web application development. (You  
+should have worked with multiple page templating systems, session  
+data storage, relational databases, caching, and inter-process	
+communication.)
+
+* Understanding of professional software development processes.  
+(Including familiarity with the cycles of requirements definition,  
+issue tracking, version control, automated testing, deployment and  
+maintenance.)
+
+* Clear and articulate communication, both written and spoken. (Our  
+team collaborates extensively by email, IM, and phone, and you will  
+need to be able to read specs and write documentation.)
+
+Desired skills:
+Prior experience with any or all of the following technologies would  
+be a plus:
+
+* Web service operation, scaling, and fault-tolerance using Linux,  
+Apache, MySQL, and Perl.
+
+* Our server-side tools include mod_perl, HTML::Mason,	
+DBIx::SQLEngine, Cache::Memcached, and other modules from CPAN.
+
+* User interfaces are constructed in HTML with CSS and JavaScript  
+(using Prototype and Scriptaculous for Ajax and client-side effects),  
+RSS feeds, XML APIs, and client-side Flash widgets.
+
+* Project support tools including RT, SVN, and automated web testing.
+
+Contact information at:
+http://jobs.perl.org/job/5273#contact
+
+

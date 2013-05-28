@@ -1,0 +1,91 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3969
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 12894 invoked from network); 7 Mar 2006 17:33:41 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 7 Mar 2006 17:33:41 -0000
+Received: (qmail 17956 invoked by uid 225); 7 Mar 2006 17:33:41 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 17941 invoked by alias); 7 Mar 2006 17:33:40 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 07 Mar 2006 09:33:38 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id k27HXXUZ012646
+	for <jobs@perl.org>; Tue, 7 Mar 2006 09:33:33 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id k27HXXhL012644;
+	Tue, 7 Mar 2006 09:33:33 -0800
+Date: Tue, 7 Mar 2006 09:33:33 -0800
+Message-ID: <200603071733.k27HXXhL012644@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Production Engineer (Linux SysAdmin + Perl) (onsite), United States, CA, Sunnyvale
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3784
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March  6, 2006
+
+Job title:
+Production Engineer (Linux SysAdmin + Perl)
+
+Company name: Yahoo! Inc
+
+Location: United States, CA, Sunnyvale
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Join the team responsible for the daily operations of Yahoo!'s leading
+search engine and search monetization systems.	You will contribute to both
+the administration of
+thousands of Linux machines as well as the development
+of tools that automate their deployment, management and monitoring.
+The ideal candidate has strong Perl programming skills as well as
+a strong background in large-scale system administration.
+
+This position is full time, located in Sunnyvale, CA.
+
+Responsibilities:
+* Administer Linux clusters, monitor their health and performance
+* Utilize and extend a large library of Perl code responsible for the
+  automation, monitoring, etc. of thousands of Linux machines
+* Document both newly developed and pre-existing tools/libraries as well
+  as operational procedures
+* Participate in the build-out and deployment of new hardware to
+  facilitate growth of the search engine
+* Participate in the on-call pager rotation
+* Work closely with other System Administration and network teams
+  as well as remote members of the Production Engineering team
+
+
+Required skills:
+* 2+ years experience with Linux
+* Strong Perl programming skills
+* 2+ years experience administering large-scale UNIX installations in a
+  tier 1 environment (ISP background a plus)
+* BS Computer Science and/or strong System Administration background
+
+
+Contact information at:
+http://jobs.perl.org/job/3784#contact
+
+

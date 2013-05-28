@@ -1,0 +1,81 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:11349
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28319 invoked from network); 26 May 2011 22:41:46 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 26 May 2011 22:41:46 -0000
+Received: (qmail 28112 invoked by uid 225); 26 May 2011 22:41:45 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 28107 invoked by alias); 26 May 2011 22:41:45 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 26 May 2011 15:41:43 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 4F74B2AFE6; Thu, 26 May 2011 15:41:40 -0700 (PDT)
+To: jobs@perl.org
+Date: Thu, 26 May 2011 15:41:40 -0700
+Message-ID: <20110526224140.4F74B2AFE6@x3.develooper.com>
+Subject: Perl-Python Wrangler (onsite), United States, NH, Manchester
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14012
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 26, 2011
+
+Job title: Perl-Python Wrangler
+
+Company name: Dyn Inc
+
+Location: United States, NH, Manchester
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Description: Dyn Inc is looking for Perl/Python Wranglers for development
+and maintenance of core system software applications including hosted
+application software, desktop software, and firmware for embedded devices.
+Can you implement robust and reliable applications and systems? Maybe your
+strength is in debugging, and identifying errors then implementing the
+corrective patches, and generate regression tests? We are looking for
+developers to join our teams working on our best-in-class Managed
+Authoritative DNS and Recursive DNS service offerings. You’ll be designing
+and implementing system architectures integrating with back-end databases
+and front-end web applications. Experience with embedded technologies and
+router configuration a big plus.
+
+Core Responsibilities:
+* Develop new applications and new elements for integration into existing
+applications in accordance with specifications.
+* Add features, functionality and increase performance to existing
+applications and systems, using benchmark and profiling practices.
+* Independently reduce functional specifications and use case documentation
+to implementation and supporting documentation.
+
+
+Required skills:
+Required Skills:
+* 2-4 years of appropriate software development experience
+* Experience developing robust object-oriented applications in Python
+and/or Perl
+* BS or BA in engineering or related experience
+* Ruthlessly efficient with time and resources
+* Proof of legal authority to work in U.S.
+
+Website for more information: http://www.dyn.com/
+
+Contact information at:
+http://jobs.perl.org/job/14012#contact

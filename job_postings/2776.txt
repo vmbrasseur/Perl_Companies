@@ -1,0 +1,93 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2776
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 24320 invoked from network); 25 May 2005 23:03:45 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 25 May 2005 23:03:45 -0000
+Received: (qmail 14938 invoked by uid 225); 25 May 2005 23:03:44 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 14934 invoked by alias); 25 May 2005 23:03:44 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 25 May 2005 16:03:41 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j4PN3dE3018114
+	for <jobs@perl.org>; Wed, 25 May 2005 16:03:39 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j4PN3dnB018112;
+	Wed, 25 May 2005 16:03:39 -0700
+Date: Wed, 25 May 2005 16:03:39 -0700
+Message-ID: <200505252303.j4PN3dnB018112@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Website Developer (mod_perl) with interest in .NET (onsite), United States, GA, Atlanta
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2663
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 25, 2005
+
+Job title:
+Website Developer (mod_perl) with interest in .NET
+
+Company name: Definition 6
+
+Location: United States, GA, Atlanta
+
+Pay rate: $60K - $80K / yr
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Length of employment: permanent placement
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are looking for someone who can help us maintain several large websites
+coded with mod_perl (HTML::Template and HTML::Mason).  We intend to convert
+most of the sites to a .NET platform, so the candidate should know or be
+very interested in picking up ASP.NET (C# and/or VB.NET).
+
+Required skills:
+-	   3+ yrs website development
+
+-	   1+ yrs OO PERL Development
+
+-	   mod_perl, HTML::Mason, HTML::Template
+
+-	   2+ yrs database design
+
+-	   1+ yrs MySQL experience (DBI, Alzabo, Class::DBI)
+
+-	   Able to work on a team
+
+-	   A very strong interest in learning .NET and converting existing
+Perl sites to .NET (C# and/or VB.NET)
+
+Desired skills:
+ASP.NET
+SQL Server
+Any other Microsoft Technologies (Commerce Server, Sharepoint, Reporting
+Services, BizTalk, etc)
+
+URL for more information: http://www.definition6.com/
+
+Contact information at:
+http://jobs.perl.org/job/2663#contact
+
+

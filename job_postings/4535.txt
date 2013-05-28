@@ -1,0 +1,108 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4535
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 24855 invoked from network); 25 Jun 2006 01:36:46 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 25 Jun 2006 01:36:46 -0000
+Received: (qmail 13598 invoked by uid 225); 25 Jun 2006 01:36:46 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 13592 invoked by alias); 25 Jun 2006 01:36:46 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 24 Jun 2006 18:36:36 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id C24D62AFDD; Sat, 24 Jun 2006 18:36:30 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060625013630.C24D62AFDD@x3.develooper.com>
+Date: Sat, 24 Jun 2006 18:36:30 -0700 (PDT)
+Subject: Just another mod_perl hacker (telecommute), United States, CA, San Francisco
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4284
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 24, 2006
+
+Job title: Just another mod_perl hacker
+
+Company name: TBA
+
+Internal ID: 420
+
+Location: United States, CA, San Francisco
+
+Pay rate:
+Highly competitive and commensurate with expertise
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: Indeterminate
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+Looking for just another mod_perl hacker.  Given your choice of anything to
+do, you would choose hacking mod_perl.	It's fun after all, lets you do
+what you want and stays out of your way.
+
+Your testing package of choice is Apache::Test.  You know how to send your
+own headers with responses.  You have contributed to mod_perl in some way,
+shape, or form.  You know what to do with each phase of the HTTP request
+cycle.	
+
+This is a contractor position with a company of smart people going beta
+soon with a disruptive product.  We offer competitive pay and the chance to
+work on a cool mod_perl based service.	We also give back to the mod_perl,
+Perl, and ASF communities.
+
+Look forward to hearing from you!
+
+package Job::Offer;
+
+use strict;
+use warnings;
+
+use Apache2::Const -compile => qw( Apache2::Const::OK );
+use Apache2::RequestIO	();
+use Apache2::RequestRec ();
+
+sub job_offer {
+  my ($class,$r) = @_;
+
+    $r->content_type('text/html');
+    $r->uri('guntherhust@yahoo.com');
+    $r->print($resume->as_html);
+    return Apache2::Const::OK;
+}
+
+1;
+
+Required skills:
+mod_perl
+Linux or Mac OS X dev environment
+
+
+Desired skills:
+Apache::Test
+Expert understanding of Apache and HTTP
+
+URL for more information: http://perl.apache.org/
+
+Contact information at:
+http://jobs.perl.org/job/4284#contact
+
+

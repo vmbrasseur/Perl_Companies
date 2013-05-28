@@ -1,0 +1,111 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12469
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 14093 invoked from network); 31 May 2012 09:34:58 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 31 May 2012 09:34:58 -0000
+Received: (qmail 2161 invoked by uid 225); 31 May 2012 09:34:58 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 2157 invoked by alias); 31 May 2012 09:34:58 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 31 May 2012 02:34:54 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id A20AE2AFD0; Thu, 31 May 2012 02:34:51 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 31 May 2012 02:34:51 -0700
+Message-ID: <20120531093451.A20AE2AFD0@x3.develooper.com>
+Subject: Senior Perl Software Engineer (onsite), Boston, MA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16054
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 31, 2012
+
+Job title: Senior Perl Software Engineer
+
+Company name: Shoebuy.com, Inc.
+
+Location: Boston, MA
+
+Pay rate: Negotiable
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Shoebuy.com, Inc., located in the Boston Financial District, seeks a Senior
+Perl Software Engineer who will thrive on working with a focused leader in
+the business-to-consumer space. The ideal candidate will be motivated,
+thoughtful, and direct in finding the right solutions and building upon
+existing ones to increase the speed of delivery already achieved. 
+
+Shoebuy.com (http://www.Shoebuy.com) already has significant presence
+online; is one of the most heavily visited Internet sites in the world; and
+is owned by IAC (Nasdaq: IACI), the same company that owns many of the most
+successful online companies, including Ask.com, Vimeo, CitySearch,
+Dictionary.com, Evite, Excite.com, and Match.com.
+
+Responsibilities:
+
+•	Work closely with the development team, internal users, and project
+managers to implement new features and functionality to meet business
+requirements. Develop for the Internet including retail B2C applications,
+reports and tools, and back office systems.
+•	Revise, re-factor, and maintain existing code with an emphasis on
+improving performance, security, and readability.
+•	Aid in the creation of clear and carefully planned specifications
+that address all business requirements, user interfaces, process flow,
+performance, and scalability.
+•	Participate as part of an Agile team and contribute to all stages
+of the development life-cycle including architecture, design, coding, and
+unit testing.
+
+Required skills:
+Minimum Requirements:
+
+•	Bachelor's degree CS/Engineering or related field.
+•	5+ yrs. developing Perl-based web applications and scripts, running
+in a Linux/UNIX environment.
+•	5+ yrs. experience with Apache web server, Perl interoperability,
+and associated communication nuances (mod_perl).
+•	4+ yrs. SQL experience (Oracle 10+ preferred) including efficient
+query writing, prepared statements, and database optimization.
+•	4+ yrs. experience working and developing scripts in a Linux/UNIX
+environment.
+•	Understanding of object-oriented design concepts,
+Model-View-Controller (MVC) frameworks, and experience building reusable
+modules.
+•	Understanding of HTML 4.0/XHTML 1.0, CSS 2.1+, DHTML, and
+JavaScript.
+•	Experience with Mercurial or other version control software
+including CVS, SVN or Git.
+•	Excellent verbal and written communication skills.
+•	Possess the ability to manage time, meet sensitive deadlines, and
+assume ownership of responsibilities.
+
+Desired skills:
+Recommended additional experience includes the following:
+
+•	System administration experience
+•	Apache web server/mod_perl expertise
+•	Experience working in a dynamic (Agile) environment
+
+Website for more information: http://www.shoebuy.com
+
+Contact information at:
+http://jobs.perl.org/job/16054#contact

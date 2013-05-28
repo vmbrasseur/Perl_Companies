@@ -1,0 +1,82 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8795
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 11060 invoked from network); 31 Oct 2008 18:40:40 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 31 Oct 2008 18:40:40 -0000
+Received: (qmail 20914 invoked by uid 225); 31 Oct 2008 18:40:40 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 20908 invoked by alias); 31 Oct 2008 18:40:39 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 31 Oct 2008 11:40:37 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 0874A2AFE2; Fri, 31 Oct 2008 11:40:33 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20081031184034.0874A2AFE2@x3.develooper.com>
+Date: Fri, 31 Oct 2008 11:40:33 -0700 (PDT)
+Subject: mod_perl/programmer for Mobile Content (onsite), Indonesia, DKI Jakarta, Jakarta
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/9824
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 27, 2008
+
+Job title: mod_perl/programmer for Mobile Content
+
+Company name: PT. Inzpire
+
+Location: Indonesia, DKI Jakarta, Jakarta
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Develop an Adapter on existing Framework, Tune up the existing Framework.
+
+Required skills:
+use DBI;
+use threads;
+use threads::shared;
+use DateTime;
+use Data::Dumper;
+use Net::SMPP;
+use IO::Select;
+use HTTP::Lite;
+use XML::Simple;
+use URI::Escape;
+use Getopt::Std;
+use Encode;
+use LWP::UserAgent;
+
+can use Text and Template is an advantage.
+
+Desired skills:
+L : Linux
+A : Apache
+M : MySQL
+P : Perl/PHP
+
+CSS 2
+
+URL for more information: http://www.inzpire.net/
+
+Contact information at:
+http://jobs.perl.org/job/9824#contact
+
+

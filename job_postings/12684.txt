@@ -1,0 +1,97 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12684
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 10577 invoked from network); 26 Aug 2012 02:17:20 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 26 Aug 2012 02:17:20 -0000
+Received: (qmail 17850 invoked by uid 225); 26 Aug 2012 02:17:20 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 17846 invoked by alias); 26 Aug 2012 02:17:19 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 25 Aug 2012 19:17:16 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 9A8D62AFDE; Sat, 25 Aug 2012 19:17:13 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 25 Aug 2012 19:17:13 -0700
+Message-ID: <20120826021713.9A8D62AFDE@x3.develooper.com>
+Subject: Sr. Software Engineer - DevOps (onsite), Berkeley, CA, USA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16370
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 25, 2012
+
+Job title: Sr. Software Engineer - DevOps
+
+Company name: bepress
+
+Internal ID: bepressSE2012
+
+Location: Berkeley, CA, USA
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Refactoring legacy code.  Paying off technical debt.  Still reading?  
+
+If so we need an engineer like you.   We need someone who is strong in Perl
+and wants to work in a small environment making big changes.  Our older
+products are in need of some TLC so that we can continue to support our
+growth.  We also need more heads and hands developing new products.  As a
+member of our DevOps team you’ll have an impact on our systems end-to-end.
+
+Bepress is a SaaS provider offering services to the academic community to
+showcase and share their work.	Our Digital Commons product is the leading
+hosted Institutional Repository and our growth has been exponential.   We
+have a feel-good mission helping to promote the open access movement
+(http://en.wikipedia.org/wiki/Open_access) that is changing the world of
+scholarly exchange.
+
+We offer:
+• Friendly, collaborative environment
+• Bicycle friendly downtown Berkley location
+• Challenging yet realistic goals
+• Really smart co-workers (no, really!)
+• Money
+• Matching IRA plan
+• Medical and dental plans
+
+You must be authorized to work in the US without sponsorship.
+
+Required skills:
+• Great with Perl.
+• Really good with some other things. Python would be great but Ruby, Java
+or C counts too.
+• Postgres, or at least some SQL DB.
+• Real application development for high traffic web applications.
+• Experience with the LAMP stack.
+• Significant re-engineering/re-architecting projects.
+• JavaScript.
+• Experience with object oriented programming, MVC and multi-tiered
+architectures.
+• Understanding of deployment issues in a multi-tiered/multi-tenant hosted
+environment.
+• Strong communication skills.	Seriously!
+• Willingness to join the on-call rotation.
+• Ability to laugh, especially at yourself.
+
+Website for more information: http://www.bepress.com/
+
+Contact information at:
+http://jobs.perl.org/job/16370#contact

@@ -1,0 +1,74 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:1370
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 76517 invoked by uid 76); 21 Feb 2004 00:15:37 -0000
+Received: from x1.develooper.com (HELO x1.develooper.com) (63.251.223.170) by onion.perl.org (qpsmtpd/0.26) with SMTP; Fri, 20 Feb 2004 16:15:37 -0800
+Received: (qmail 4799 invoked by uid 225); 21 Feb 2004 00:15:35 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 4752 invoked by alias); 21 Feb 2004 00:15:20 -0000
+Received: from [63.251.223.166] (HELO onion.perl.org) (63.251.223.166)  by la.mx.develooper.com (qpsmtpd/0.27-dev) with SMTP; Fri, 20 Feb 2004 16:15:20 -0800
+Received: (qmail 76389 invoked by uid 1016); 21 Feb 2004 00:15:10 -0000
+Date: 21 Feb 2004 00:15:10 -0000
+Message-ID: <20040221001510.76388.qmail@onion.perl.org>
+To: jobs@perl.org
+X-Spam-Checker-Version: SpamAssassin 2.63 (2004-01-11) on x1.develooper.com
+X-Spam-Status: No, hits=-4.9 required=8.0 tests=BAYES_00 autolearn=ham 	version=2.63
+X-SMTPD: qpsmtpd/0.26, http://develooper.com/code/qpsmtpd/
+Subject: e-commerce database/shopping cart project (part onsite), United States, ny, new york
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1256
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 20, 2004
+
+Job title:
+e-commerce database/shopping cart project
+
+Company name: EW, inc.
+
+Location: United States, ny, new york
+
+Pay rate: TBD
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: project-based
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+i'm launching a small e-commerce web site and need a shopping cart solution
+that will:
+
+1) play well with my site's design
+2) enable orders to be reflected in an inventory database so i can keep
+track of stock.
+3) enable me to also have a separate customer/order database that gets data
+automatically from authorize.net
+
+i have looked into solutions like x-cart and oscommerce but i do not want
+to have to make my whole site a slave to the shopping cart. other
+rinky-dink carts just don't inspire much confidence.
+
+interest from individuals and companies welcome - please show me sample
+e-commerce work if you can.
+
+Required skills:
+see above. authorize.net Perl AIM experience preferred or experience with
+another internet payment gateway.
+
+Contact information: info@elsewares.com
+
+

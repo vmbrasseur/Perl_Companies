@@ -1,0 +1,139 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3495
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 18692 invoked from network); 23 Nov 2005 02:30:19 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 23 Nov 2005 02:30:19 -0000
+Received: (qmail 2177 invoked by uid 225); 23 Nov 2005 02:30:19 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 2172 invoked by alias); 23 Nov 2005 02:30:18 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 22 Nov 2005 18:30:08 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id jAN2U5mJ000918
+	for <jobs@perl.org>; Tue, 22 Nov 2005 18:30:05 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id jAN2U5Hs000916;
+	Tue, 22 Nov 2005 18:30:05 -0800
+Date: Tue, 22 Nov 2005 18:30:05 -0800
+Message-ID: <200511230230.jAN2U5Hs000916@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Volenteer with a passion for documentary film (telecommute), United States, CA, San Rafael
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3339
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 22, 2005
+
+Job title:
+Volenteer with a passion for documentary film
+
+Company name: e screening room
+
+Location: United States, CA, San Rafael
+
+Pay rate: Volenteer
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: 2 months
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+Perl
+Wanted Volunteer Perl, CGI PHP MYSQL programmer with a passion for
+documentary films.
+
+We are looking for a volunteer with a passion for documentary films and in
+support of the freedom of speech, with experience with Perl, some MySQL /
+SQL and some experience with cgi would come in handy. We are using agile
+programming methods or exstreem programming.. We can’t pay you anything but
+you get to help create a cool site for your resume and we will mail
+shade-grown coffee to keep you going. Expect to volunteer about 4 hour a
+week consistently for this project
+
+The non-profit e screening room http://escreeningroom.org/ is creating a
+platform for documentary film makers and their audience. Documentary film
+fans can watch full length unabridged films. If they like what they see
+they can buy a DVD copy for home viewing. The e screening room is created
+by an international group of volunteers with a passion for documentary
+films. 
+
+The e screening room is dedicated to create a different distribution
+channel for documentary producers. Independent documentaries are born out
+of the passion –often compassion - for the subject of the documentary.
+Often these documentaries are self financed.  But there is little financial
+gain out of documentary film. As a result, documentary producers get
+discouraged and often leave the field. We think that’s a shame: to lose an
+independent voice, is a loss for a free society. At the e screening room we
+are changing that by creating a new distribution channel for documentary
+film.
+
+Scoop:
+We have a module called submit.cgi which allows producers to create an
+account and submit their film. We need to expand on this module to allow a
+second film to be submit for the same producer. You can see the module
+http://escreeningroom.org/submit.cgi.
+
+We meet by phone usually 2 a month. 
+
+Responsibilities. 
+ The responsibilities of the Mambo Specialist include, but are not
+necessary limited to: 
+ - Expanding on the submit.cgi module
+ - Integrating with the dpfmanager
+ - Documenting the development in our wiki. 
+ - Reporting weekly progress and hours worked.
+ - Managing additional volunteers as needed. 
+
+ Qualifications. 
+ - Bachelor’s degree or enrolled in a bachelors program. 
+ - Solid commitment put in a minimum 4 hr per week for 2 months. 
+ - Fundamental project management knowledge. 
+ - Strong communication, and organizational skills. 
+ - Able to follow through and meet deadlines. 
+ - Able to work independently
+
+To apply send us 
+1) Why you are interested in documentary films.
+2) At least one link to a website that shows you skills and explain what
+part you created. 
+3) At least two references. 
+4) Your contact info. 
+
+This is a voluntary position, for a cool site.
+
+If this is something you feel as passionate about as we do, please send me
+a few lines about your experience to: 
+
+jobs50@escreeningroom.org
+
+Ward Bouwman 
+President
+
+Required skills: Perl, php & cgi Mysql
+
+URL for more information: http://escreeningroom.org/
+
+Contact information at:
+http://jobs.perl.org/job/3339#contact
+
+

@@ -1,0 +1,91 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:2204
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28183 invoked from network); 31 Dec 2004 17:14:07 -0000
+Received: from x1.develooper.com (63.251.223.170)
+  by lists.develooper.com with SMTP; 31 Dec 2004 17:14:07 -0000
+Received: (qmail 3465 invoked by uid 225); 31 Dec 2004 17:14:06 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 3460 invoked by alias); 31 Dec 2004 17:14:06 -0000
+X-Spam-Status: No, hits=-4.9 required=8.0
+	tests=BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+  by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 31 Dec 2004 09:14:03 -0800
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id iBVHE1tw016992
+	for <jobs@perl.org>; Fri, 31 Dec 2004 09:14:01 -0800
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id iBVHE12B016990;
+	Fri, 31 Dec 2004 09:14:01 -0800
+Date: Fri, 31 Dec 2004 09:14:01 -0800
+Message-ID: <200412311714.iBVHE12B016990@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Short Term Perl / XML / DOM / ODBC (telecommute), United States, tx, fort worth
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2116
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 30, 2004
+
+Job title: Short Term Perl / XML / DOM / ODBC
+
+Company name: MyTrip LLC
+
+Location: United States, tx, fort worth
+
+Pay rate: DOE
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: short term
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+Need programmer to configure remote server in a colo,
+write code to connect to http://www.nws.noaa.gov/forecasts/xml/
+
+and import weather data into a database via odbc.
+also need scripts written to import non well formed
+xml flat files into a database that already exists.
+
+Programmer will need to sign document stating that my company owns the work
+being written outright, is being compensated fully and will not distribute
+the code on the net, use it for someone else, etc. as I have been burned in
+the past by not getting things in writing right up front. If you believe
+that I should pay someone to write
+something that I do not own, please do NOT reply.
+
+A brief technical interview over the phone will be
+required.
+
+Opportunity exists for more work on a contract basis.
+
+
+Required skills:
+Perl, XML, Web Services, Soap, odbc. Neural networking
+and artificial intelligence is a plus.
+
+Desired skills:
+c# or cold fusion useful. Ability to interface with
+web services and parse data from a travel related
+website onetravel.com and others would be VERY useful.
+
+Contact information: perljobs@hearn.com
+
+

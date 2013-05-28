@@ -1,0 +1,113 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12833
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 2268 invoked from network); 13 Oct 2012 17:48:38 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 13 Oct 2012 17:48:38 -0000
+Received: (qmail 18703 invoked by uid 225); 13 Oct 2012 17:48:38 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 18699 invoked by alias); 13 Oct 2012 17:48:38 -0000
+X-Spam-Status: No, hits=-1.0 required=8.0
+	tests=ALL_TRUSTED,BAYES_20
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 13 Oct 2012 10:48:34 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 3DF3D2AFE0; Sat, 13 Oct 2012 10:48:31 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 13 Oct 2012 10:48:31 -0700
+Message-ID: <20121013174831.3DF3D2AFE0@x3.develooper.com>
+Subject: Software developer- graduate research assistant (onsite), Los
+ Alamos, New Mexico
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16612
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 12, 2012
+
+Job title: Software developer- graduate research assistant
+
+Company name: Los Alamos National Laboratory
+
+Location: Los Alamos, New Mexico
+
+Pay rate: 56100 US$/year
+
+Terms of employment: Salaried employee
+
+Length of employment: At least 6 months
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The Influenza Sequence Database at Los Alamos National Laboratory has an
+opening for an enthusiastic graduate of computer science/computational
+biology/bioinformatics, with strong computing skills and an interest in
+scientific computing in an area involving analysis of genetic sequences.
+
+The GRA will be responsible for the maintenance of a number of existing
+software tools, developing new tools that operate in the current
+environment, interacting with the databases, and participating in research
+projects by creating data analysis scripts in close collaboration with the
+PI.
+
+The successful GRA will work directly with Dr Catherine Macken in the
+Theoretical Biology and Biophysics Group. Dr Macken is PI on the Influenza
+Sequence Database, a database-backed website which serves tools for
+influenza research. 
+
+An enthusiastic intern, with substantial starting skills can benefit
+enormously from the wide variety of activities involved in the ISD. This
+position is a good way to take a year to work and learn while considering
+enrolling in a graduate program towards a Ph.D degree. 
+
+Los Alamos National Laboratory is located at high altitude in the foothills
+of the Jemez Mountains. The region is physically very beautiful, with many
+opportunities for outdoor activities; it enjoys abundant sunshine.  The
+nearby city of Santa Fe is known for its cultural richness.
+
+Required skills:
+An applicant must have the following attributes: ability to work
+independently; demonstrated ability to write clear, annotated, accessible
+code; demonstrated ability to prepare relevant documentation; experience
+with Unix/Linux; experience with postgreSQL or similar. 
+
+The successful GRA should have an educational background that matches at
+least one of the three skill sets described below, in order to make rapid
+progress in at least one of three near-term projects. Longer-term, the
+successful GRA will have opportunities to expand his/her skill sets through
+working at the user-interface, algorithm and database levels. 
+
+Preferred skill sets for near-term projects:
+1.	strong perl and database experience along with some exposure to
+BLAST and tree building using PhyML/RAxML (and an interest in evolutionary
+analyses); 
+2.	perl, systems experience (freebsd at the level of installing perl
+modules and scientific applications) and enough sql to work on existing
+queries; 
+3.	Java and sequence alignment experience. 
+
+Priority will be given to skill sets 1 and 2.
+
+Desired skills:
+If a candidate has strong computing skills but lacks experience in
+bioinformatics software, such as BLAST and PhyML, then the PI will provide
+basic training in these tools. An interest in biological applications of
+computer science is very important, although previous experience with
+biology is not necessary.
+
+Website for more information: http://www.lanl.gov
+
+Contact information at:
+http://jobs.perl.org/job/16612#contact

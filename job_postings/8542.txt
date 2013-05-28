@@ -1,0 +1,100 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8542
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 6295 invoked from network); 9 Aug 2008 00:21:22 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 9 Aug 2008 00:21:22 -0000
+Received: (qmail 26190 invoked by uid 225); 9 Aug 2008 00:21:22 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 26184 invoked by alias); 9 Aug 2008 00:21:21 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 08 Aug 2008 17:21:16 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id B77CD2B000; Fri,  8 Aug 2008 17:21:12 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080809002112.B77CD2B000@x3.develooper.com>
+Date: Fri,  8 Aug 2008 17:21:12 -0700 (PDT)
+Subject: Senior Perl Developer - Hedge Fund Risk Systems (onsite), United States, NY, New York
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/9378
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August  7, 2008
+
+Job title:
+Senior Perl Developer - Hedge Fund Risk Systems
+
+Company name: Duff Capital Advisors
+
+Internal ID: dca-risk
+
+Location: United States, NY, New York
+
+Pay rate: competitive
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Duff Capital Advisors is seeking a full-time Senior Perl Developer to use
+and extend their Risk Analysis and Reporting Systems which are based on the
+RiskMetrics RiskManager platform.  Projects and daily tasks vary widely but
+samples include
+•	Rapid turnaround of translating Excel formatted sample portfolios
+into RiskMetrics position upload files
+•	Set up of specific analytical reports in the RiskMetrics
+environment
+•	Integration of RiskMetrics Web Services for advanced on-demand
+reporting and What If analysis
+•	Creation of well formatted reports in Excel using data from
+RiskMetrics XML reformatted into HTML
+•	Development of CGI front-ends for Risk Exception Handling workflows
+
+•	Integration of data from external sources (e.g. Market Caps from
+Bloomberg Security Data) 
+
+
+Required skills:
+•	3-5 Years of best-practices, rapid perl development
+•	An organized and disciplined approach to development and systems
+integration
+•	Financial Systems experience (Risk preferred)
+•	An understanding of Risk Statistics such as VaR, Delta-Adjusted
+Exposure, etc.
+•	HTML formatting for reporting
+•	Positive Attitude and Creative Problem Solving
+•	A Commitment to Excellence
+
+
+Desired skills:
+•	Object-Oriented development experience (Java or C#)
+•	Degree(s) in Computer Science, Applied Math, or Physics
+•	Risk Analysis experience
+•	File Transformation
+•	Financial Report Generation
+•	Excellent Communication Skills (both verbal and written)
+•	Team Leadership (both local and outsourced)
+
+
+URL for more information: http://www.duffca.com/
+
+Contact information at:
+http://jobs.perl.org/job/9378#contact
+
+

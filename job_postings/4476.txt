@@ -1,0 +1,85 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4476
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 5762 invoked from network); 12 Jun 2006 18:46:11 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 12 Jun 2006 18:46:11 -0000
+Received: (qmail 27804 invoked by uid 225); 12 Jun 2006 18:46:11 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 27798 invoked by alias); 12 Jun 2006 18:46:10 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 12 Jun 2006 11:45:59 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 608EB2AFE6; Mon, 12 Jun 2006 11:45:55 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060612184555.608EB2AFE6@x3.develooper.com>
+Date: Mon, 12 Jun 2006 11:45:55 -0700 (PDT)
+Subject: DBI programmer (onsite), United States, MA, Wellesley
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4229
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 12, 2006
+
+Job title: DBI programmer
+
+Company name: Perot Systems
+
+Internal ID: ZV1554
+
+Location: United States, MA, Wellesley
+
+Pay rate: Negotiable
+
+Travel: 0%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 6 - 9 months
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Looking for a perl developer who can enhance and refactor a legacy perl
+system into object oriented code. Candidate must be comfortable working
+with Unix and relational databases. Experience with writing network code in
+perl and using the debugger a plus. 
+
+Experience in healthcare and/or EDI is also a plus.
+
+Must be legal to work in the United States. This is initially a contract
+position with the possibility of moving to full time status.
+
+
+Required skills:
+OO Perl
+DBI
+SQL
+Unix/Linux
+
+Desired skills:
+Network code
+Daemon code
+Oracle
+Java
+JSP/Struts/javascript
+EDI
+
+Contact information at:
+http://jobs.perl.org/job/4229#contact
+
+

@@ -1,0 +1,78 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:5587
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 24304 invoked from network); 17 Jan 2007 21:14:41 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 17 Jan 2007 21:14:41 -0000
+Received: (qmail 29868 invoked by uid 225); 17 Jan 2007 21:14:40 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 29817 invoked by alias); 17 Jan 2007 21:14:38 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 17 Jan 2007 13:14:36 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id B03A92B02B; Wed, 17 Jan 2007 13:14:32 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20070117211432.B03A92B02B@x3.develooper.com>
+Date: Wed, 17 Jan 2007 13:14:32 -0800 (PST)
+Subject: Catalyst, Class::DBI, DBIx::Class developer (onsite), United States, WA, Seattle
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5209
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 17, 2007
+
+Job title:
+Catalyst, Class::DBI, DBIx::Class developer
+
+Company name: Semaphore Corporation
+
+Location: United States, WA, Seattle
+
+Pay rate: DOE
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We're an established network consulting company that is in the process of
+launching a SaaS project.  The company is small (<40 people) and this job
+involves working with a very small development team.  We are looking in
+particular for somebody with experience with the Catalyst application
+framework, and DBIx::Class.  The applicant must have experience working as
+a software professional in production environments.  The application
+currently uses Class:DBI, but is in the process of being ported.
+
+Required skills:
+Bachelor's degree in CS or equivalent work experience
+Catalyst and DBIx::Class
+MySQL
+Strong database theory in design and optimization (The project is being
+designed to scale to a cluster of multi-TB databases)
+Linux system administrator
+Strong software design and engineering skills
+
+Desired skills:
+IP Networking
+Large scalable web applications
+
+Contact information at:
+http://jobs.perl.org/job/5209#contact
+
+

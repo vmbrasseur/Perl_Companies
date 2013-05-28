@@ -1,0 +1,144 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4231
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28922 invoked from network); 25 Apr 2006 21:23:21 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 25 Apr 2006 21:23:21 -0000
+Received: (qmail 30773 invoked by uid 225); 25 Apr 2006 21:23:21 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 30769 invoked by alias); 25 Apr 2006 21:23:20 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 25 Apr 2006 14:23:16 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 21BD72AFDF; Tue, 25 Apr 2006 14:23:12 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060425212312.21BD72AFDF@x3.develooper.com>
+Date: Tue, 25 Apr 2006 14:23:12 -0700 (PDT)
+Subject: Senior Perl Software Developer (onsite), United States, WA, Seattle
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/3693
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 25, 2006
+
+Job title: Senior Perl Software Developer
+
+Company name: IMDb.com
+
+Location: United States, WA, Seattle
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Software Jobs
+
+If you're a top notch programmer and a fan of movies and TV, we've got the
+ideal job for you.
+
+There are many good reasons to work at IMDb, and here are three of them:
+
+    * You can make a huge difference at IMDb. We've already developed a
+successful business model and a stable production environment, so our
+programmers spend their time developing and launching cool projects with
+little red tape and lots of autonomy.
+
+    * We offer flexibility both in terms of your day-to-day work schedule
+and also in terms of work assignments.
+
+    * Our software developers provide lots of creative input into projects
+and get to work on many different types of projects that allow them to
+think creatively and to handle interesting computer science challenges. 
+
+All software positions require a minimum of a bachelor's degree in computer
+science with three plus years of industry programming experience. Our
+primarily development language is Perl in the Linux/Unix environment, so a
+solid base of skills in OO Perl and working knowledge of database
+integration (MySQL or Postgres) are the core skills required for all
+positions.
+
+   1. Software Developer, Data Team (Two positions: Bristol, UK and Seattle
+Washington). We are looking for a senior member of our data team to enhance
+our data collection and data management processes. As a member of the data
+team you are producing technology and tools that are targetted to our
+internal staff data managers and collect/analyse the incredible amount of
+data we get daily from numerous IMDb submitters. You must have strong
+relational database background (db modelling & schema definition) and
+database performance tuning in the Linux/Unix environment. Please note that
+although there is data modelling in this position, the data team positions
+are primarily full-time software development positions.
+
+   2. Software Developer, Tech Team (Seattle). The tech team is a client of
+the data team, and creates, maintains and enhances our customer facing
+websites. In addition the critical core Perl/Db skills, a primary
+competency in client side development toolkit(s) such as Javascript, DHTML,
+AJAX, Mason or Flash is required. We'd like to see a secondary optional
+advanced competency in one or more areas such as web services, windows
+client development, expert systems, natural language processing. We would
+be able to customize where we take this role depending on the advanced
+competency you have to offer, so if you meet the core requirements have a
+skill that that you think we could leverage, please let us know. 
+
+Our staff is distributed across the planet so we need employees who can
+function independently while also interacting efficiently with other team
+members.
+
+We have a great environment of talented people who work hard to make IMDb
+the most credible media source on the planet.
+
+IMDb is owned by Amazon.com, but we operate separately and have our own
+technology systems. When you join IMDb, you become a full-fledged
+Amazon.com employee - which means you enjoy the cohesive work environment
+of a small company while also gaining the bigger benefits of working for a
+Fortune 500 company. It's the best of both worlds.
+
+We look forward to hearing from you!
+
+Applicants only: recruiters must not submit on behalf of other people
+through this link. Applications not submitted by candidates themselves are
+rejected. Click here to submit resume
+
+Click here to submit resume
+
+Please specify which position is appropriate for you:
+Software Developer, Data Team (Bristol, UK)
+Software Developer, Data Team (Seattle)
+Software Developer, Tech Team (Seattle)
+
+We're looking forward to hearing from you!
+
+Required skills:
+Linux
+Experience of professional consumer web development
+Expert knowledge of OO Perl
+Strong experience with SQL.
+
+For the perl database specialist, you must know one of postgres or mysql,
+be familiar with data modelling, query optimization.
+
+Desired skills: AJAX, Mason, C++ 
+
+URL for more information:
+http://www.imdb.com/help/show_leaf?jobatimdb
+
+Contact information at:
+http://jobs.perl.org/job/3693#contact
+
+

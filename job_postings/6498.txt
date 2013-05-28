@@ -1,0 +1,116 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:6498
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 21191 invoked from network); 22 Jun 2007 15:41:44 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 22 Jun 2007 15:41:44 -0000
+Received: (qmail 13403 invoked by uid 225); 22 Jun 2007 15:41:44 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 13386 invoked by alias); 22 Jun 2007 15:41:42 -0000
+X-Spam-Status: No, hits=0.0 required=8.0
+	tests=BAYES_50,DKIM_POLICY_SIGNSOME,DK_POLICY_SIGNSOME,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: local policy)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 22 Jun 2007 08:41:39 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id D82422B009; Fri, 22 Jun 2007 08:41:35 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20070622154135.D82422B009@x3.develooper.com>
+Date: Fri, 22 Jun 2007 08:41:35 -0700 (PDT)
+Subject: Perl Scripter - Murex Trading Systems - banking (onsite), United Kingdom, London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5997
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 22, 2007
+
+Job title:
+Perl Scripter - Murex Trading Systems - banking
+
+Company name: Global Resourcing
+
+Internal ID: MXG-P-SCR
+
+Location: United Kingdom, London
+
+Pay rate: £ 500 per day
+
+Travel: 0-25%
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 6 Months
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+
+
+Required Profile:
+Knowledge of following scripting/programming languages: Perl/ksh/Java/Xml 
+Previous experience in maintaining/developping code around similar
+applications-	     
+Familiar with data processed and results expected (Equity Derivatives
+business) for greater autonomy in unit testing
+possessing a real belief in quality and a keen advocate of standards,
+guidelines and best practice and strict change control. Must be able to
+demonstrate strength in ensuring these are all adhered too.
+
+Confident and effective in working within a team and in dealing with the
+business (front/middle/back office as well as risk, operations and
+finance).
+
+experience using appropriate tools to define test cases, plans and the
+recording of results and errors. 
+
+Familiar with recent versions of Murex a definitive advantage
+-	
+Areas of Responsibility:
+
+Converting existing scripts in the 2.10 -> 3.1 Murex migration project
+team. 
+
+A set of scripts will be assigned to you at each step of the project: they
+will focus on a specific aspect of the system (trade input, system
+monitoring, static data maintenance, etc.).
+
+The conversion method will always consist of:
+1.	documenting the existing (functionality, performance)
+2.	isolating the parts dependent on the specific version of Murex
+3.	producing a new version that provides at least the same performance
+and the part of the functionality that can be converted in the context of
+3.1 and that complies with the pre-defined coding standards
+4.	documents the tests
+5.	complies with overall standard: versioning, self-documenting,
+“self-testing”.
+
+The role welcomes active participation in improving the standards and
+optimising the project deliveries.
+
+You will be working closely with a team of Business Analysts & Developers
+in putting together all layers of software required in an investment
+banking environment around the latest version of the Murex application on a
+high-volume business to monitor the system and the validity of the input
+and output and interface and to run all incoming and outgoing interfaces. 
+
+Authorised: 
+
+
+Required skills:
+Perl Scripting, XML. Shell Scripting, JAVA
+
+Contact information at:
+http://jobs.perl.org/job/5997#contact
+
+

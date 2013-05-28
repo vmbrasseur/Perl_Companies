@@ -1,0 +1,108 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4774
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 12322 invoked from network); 12 Aug 2006 03:46:30 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 12 Aug 2006 03:46:30 -0000
+Received: (qmail 2806 invoked by uid 225); 12 Aug 2006 03:46:30 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 2801 invoked by alias); 12 Aug 2006 03:46:30 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 11 Aug 2006 20:46:27 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 1519C2AFE6; Fri, 11 Aug 2006 20:46:23 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060812034623.1519C2AFE6@x3.develooper.com>
+Date: Fri, 11 Aug 2006 20:46:23 -0700 (PDT)
+Subject: Linux Software Development Engineer (onsite), United States, CA, Burbank
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4496
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 11, 2006
+
+Job title: Linux Software Development Engineer
+
+Company name: Disney Animation
+
+Location: United States, CA, Burbank
+
+Pay rate: DOE
+
+Travel: 0%
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Disney Animation combines the very best in artistry and storytelling with
+cutting-edge technology to bring wonderful new characters to the big screen
+for audiences around the world. Constantly challenged to create innovative
+new technologies for animated features, theme park productions and special
+projects for the Walt Disney Studios, Disney Animation is home to some of
+the most talented artists working in the film industry today. Our team is
+currently hard at work on MEET THE ROBINSONS, which comes to theaters on
+March 30, 2007.
+
+We have an exciting opportunity for a Linux Software Development Engineer
+to join the team at our Burbank, CA studio.
+
+We are seeking a Software Development Engineer with experience in systems
+level programming and interfacing software applications with UNIX systems.
+Experience with Linux operating systems, compilers, libraries, and
+troubleshooting kernel issues are required. The individual will be highly
+analytical, solving development and integration problems among many
+internal and 3rd party software products. Candidate will be responsible for
+maintaining internal build system.  The successful candidate will also be
+able to contribute to software application development and support using
+Perl, C++, C, UNIX shell scripting, Python and Java. Experience with
+databases (maintaining and programming) and knowledge of web, systems and
+network architectures are highly desirable.
+
+Required skills:
+Qualifications
+-  3+ years Software Development
+-  Bachelor's degree in Computer Science, related field or equivalent work
+experience
+-  In depth knowledge of Linux, compilers, libraries, and kernel
+troubleshooting
+-  Perl, C++, C, UNIX shell scripting, Python, Java
+
+Desired skills:
+Strongly Desired
+-  Extensive Perl knowledge
+-  Strong Redhat Experience
+-  C/C++ Development skill set
+-  Ability to deploy compilers for multiple platforms (Linux, Sun, OS/X)
+-  Ability to Troubleshoot/Debug/Upgrade compilers and related OS issues
+-  Porting experience migrating between various POSIX operating systems
+-  Experience deploying Open Source packages
+
+Desired
+-  Knowledge of Systems and Network Architectures
+-  Database (Maintaining and programming) experience
+-  Knowledge and experience in web technologies: XML, SOAP, HTTP, CGI
+-  Previous experience in an animation production environment
+
+
+URL for more information:
+https://disney.recruitmax.com//main/careerportal/Job_Profile.cfm?szOrderID=
+27192
+
+Contact information at:
+http://jobs.perl.org/job/4496#contact
+
+

@@ -1,0 +1,71 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:70
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 85248 invoked by uid 1016); 30 May 2001 02:35:41 -0000
+Date: 30 May 2001 02:35:41 -0000
+Message-ID: <20010530023541.85247.qmail@onion.perl.org>
+To: jobs@perl.org
+Subject: Programmer/SysAdmin (onsite), United States, DC, Washington
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobsbeta.perl.org/job/8
+
+Posted: May 29, 2001
+
+Job title: Programmer/SysAdmin
+
+Company name: Nextrials, Inc.
+
+Internal ID: 1001
+
+Location: United States, DC, Washington
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We're looking for a creative self-starter to help support and develop an
+Apache/mod_perl based distributed data collection system for clinical
+research. The position would be in-house at our Washington DC regional
+office, with possible occasional trips to our headquarters in the San
+Francisco Bay Area.
+
+Required skills:
+Demonstrable skills in several of the following areas required:
+
+- Writing well-organized, object-oriented perl code
+- Apache/mod_perl/DBI web application development
+- Linux (Redhat) system/network administration
+(especially,firewalls/iptables)
+- Database administration, especially PostgreSQL
+- High Availability systems (Linux/HA, LVS, UltraMonkey, file/db
+replication)
+- Cross-browser Javascript
+- XML/XSL
+- vi ;-)
+
+Your responsibilities will include a combination of system
+configuration at our DC area colocation facility and perl module
+development at our Washington DC office to support existing and create new
+functionality in our product line.
+
+Contact information:
+Nextrials is a small company committed to developing high quality web-based
+data management applications for biotech, device, and pharmaceutical
+companies engaged in widely distributed clinical research projects. If
+you're a creative perl developer with a deep knowledge of linux open-source
+software looking for a stimulating and fast-paced work environment in the
+DC area, please email us at jobs@nextrials.com and reference position
+#1001.
+
+

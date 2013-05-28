@@ -1,0 +1,130 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7332
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 2326 invoked from network); 27 Nov 2007 00:11:27 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 27 Nov 2007 00:11:27 -0000
+Received: (qmail 13208 invoked by uid 225); 27 Nov 2007 00:11:26 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 13204 invoked by alias); 27 Nov 2007 00:11:26 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 26 Nov 2007 16:11:11 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 5A3672AFE8; Mon, 26 Nov 2007 16:11:08 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20071127001108.5A3672AFE8@x3.develooper.com>
+Date: Mon, 26 Nov 2007 16:11:08 -0800 (PST)
+Subject: OO Perl Developer (onsite), United States, CA, Sunnyvale
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/7378
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 26, 2007
+
+Job title: OO Perl Developer
+
+Company name: eQuest Solutions
+
+Internal ID: 800
+
+Location: United States, CA, Sunnyvale
+
+Pay rate: $90-120K (DOE) + bonus + options
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: full time
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Lead and Sr OO Perl Engineers
+Location:	Sunnyvale or Glendale or Los Angeles, CA 
+Salary: 	Completely Open (Depends on experience) + bonus + options
+
+A very successful company is looking for a solid OO Perl Engineer. The are
+both Lead and Sr positions available. This company is in the early stages
+of designing, building out, enhancing and testing 25+ systems that monitor,
+analyze, manage, operate, install, build and report on several very large
+data center global operations and very high volume mission critical
+distributed applications. These systems will interface and gather large
+amounts of data in various formats (primarily traffic flow and
+performance), from 2+k servers/networking devices and several large mission
+critical distributed applications, cleanse, convert, verify, manipulate,
+cleanse data, load large volumes (100-200 million rows) of data into MySQL
+databases and export data in various formats to several different
+locations. Furthermore, the company is building systems that handle change
+management, server and application installs, hardware/software/inventory
+change requests and portals. All of these 25+ systems are being built
+within a WebServices SOA using SOAP and REST. The Engineer will be
+responsible for the full SDLC of these systems including design of complex
+workflows, build out of processes, development and testing of systems.
+These systems are primarily built using OO PHP and OO Perl on Linux with
+MySQL on the backend.
+
+The company offers full benefits (PPO & HMO) including dental and vision,
+401K, Stock Options and Purchase Plans, 2 weeks vacation, 8 paid sick days,
+Short and Long Term Disability, Life Insurance, Employee Assistance
+Program, casual dress and flexible work hours that all start upon
+employment.
+
+
+Required skills:
+Requirements:
+Candidate MUST be at the expert level with OO PHP or OO Perl. Company will
+accept expert C/C++ developers that have proven experience developing
+operations monitoring systems as described above.
+Experience developing system operations applications is a big plus.
+BS and/or MS in CS, Engineering, Math, Physics or equivalent
+Must have experience with operating systems (preferably Linux)
+Experience developing high volume data processing systems is a plus
+Should have experience with database theory and structures (preferably
+MySQL or Postgres)  
+Ability to troubleshoot bottlenecks, tune and optimize MySQL databases is a
+big plus.
+Any networking experience is a plus. Ability to write systems that
+interface with networking/load balancers/server/applications and pull
+traffic flow and performance data is a big plus.
+Any experience building WebServices using SOAP and/or REST is a plus.
+Should have experience writing Unix shell scripts
+Experience with Web 2.0 is a plus
+With your resume submittal, please answer the following questions:
+
+Are you a U.S. citizen or green card or H1 Visa holder? 
+
+If you are a Visa holder, can your Visa be permanently transferred?
+
+Do you prefer a permanent or contract position?
+
+What is your current base salary or contract rate (W-2 or 1099)?
+
+What salary range are you considering (please do not respond *negotiable*
+or similar).
+
+Why did you leave your last 3 employers?
+
+If you do not live in northern CA, are you able to relocate for a permanent
+position?
+
+
+URL for more information: http://www.equestsolutions.com/
+
+Contact information at:
+http://jobs.perl.org/job/7378#contact
+
+

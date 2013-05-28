@@ -1,0 +1,94 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:3175
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 7809 invoked from network); 7 Sep 2005 17:12:55 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 7 Sep 2005 17:12:55 -0000
+Received: (qmail 27472 invoked by uid 225); 7 Sep 2005 17:12:55 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 27467 invoked by alias); 7 Sep 2005 17:12:54 -0000
+X-Spam-Status: No, hits=-5.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 07 Sep 2005 10:12:51 -0700
+Received: from x3.develooper.com (localhost.localdomain [127.0.0.1])
+	by x3.develooper.com (8.12.11/8.12.11) with ESMTP id j87HCnZc017262
+	for <jobs@perl.org>; Wed, 7 Sep 2005 10:12:49 -0700
+Received: (from jobs@localhost)
+	by x3.develooper.com (8.12.11/8.12.11/Submit) id j87HCnnh017260;
+	Wed, 7 Sep 2005 10:12:49 -0700
+Date: Wed, 7 Sep 2005 10:12:49 -0700
+Message-ID: <200509071712.j87HCnnh017260@x3.develooper.com>
+X-Authentication-Warning: x3.develooper.com: jobs set sender to ask@perl.org using -f
+To: jobs@perl.org
+Subject: Perl Developer/LAMP for e-Publishing (onsite), United States, MA, Southborough
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/2991
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September  7, 2005
+
+Job title: Perl Developer/LAMP for e-Publishing
+
+Company name: Texterity, Inc
+
+Location: United States, MA, Southborough
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are looking for an experienced software engineer with working
+knowledge of Linux, Apache, mod_perl and MySQL to help continue the
+development of our core products.  You should know your way around these
+technologies in their raw form - not through some overly protective,
+graphical, "don't worry, I'll handle the details" IDE, GUI or other
+tool.  We work with the real thing here.  As part of the development
+team, you will design, develop, debug and test code for both new and
+existing systems.  You will be given a great deal of freedom to exercise
+your knowledge and experience.	In return, we will expect high quality,
+timely, elegant, well engineered solutions that meet the needs of our
+internal and external customers.
+
+
+Required skills:
+    - Advanced knowledge of Perl with emphasis on OOP, mod_perl, and
+      MySQL integration
+    - Fundamental knowledge of web application architecture, database
+      design (MySQL), web servers (Apache), JavaScript, HTML
+    - Experience with XML, DOMs, Schemas, and parsers
+    - Experience building web user interfaces for technical
+      tools/workflows
+    - Working knowledge of Linux
+    - BS and/or 4-8 years of experience in software engineering
+    - Sense of humor
+
+
+Desired skills:
+    - Experience with high availability server systems using load
+      balancing, caching and optimization techniques in a multi-tiered
+      environment
+    - Knowledge/experience in Java, C, VBScript, DHTML, CSS
+    - Working knowledge of web application authentication and security
+      methods
+
+
+Contact information at:
+http://jobs.perl.org/job/2991#contact
+
+

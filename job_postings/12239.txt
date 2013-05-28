@@ -1,0 +1,81 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:12239
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 4793 invoked from network); 15 Mar 2012 04:55:28 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 15 Mar 2012 04:55:28 -0000
+Received: (qmail 21051 invoked by uid 225); 15 Mar 2012 04:55:27 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 21047 invoked by alias); 15 Mar 2012 04:55:27 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 14 Mar 2012 21:55:24 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 49C1F2AFD3; Wed, 14 Mar 2012 21:55:21 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 14 Mar 2012 21:55:21 -0700
+Message-ID: <20120315045521.49C1F2AFD3@x3.develooper.com>
+Subject: Senior Perl Applications Engineer and Architect (part onsite),
+ Seattle, WA, United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15704
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 14, 2012
+
+Job title: Senior Perl Applications Engineer and Architect
+
+Company name: Golden Guru
+
+Internal ID: 42
+
+Location: Seattle, WA, United States
+
+Pay rate: TBD
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+We're looking for a qualified, truly senior Perl developer and architect to
+join our team to build and maintain complex web applications and back-end
+services across a series of different enviornments and for a variety of
+clients. This is a predominately remote (work from wherever you prefer)
+position that pays 1099, 40+ hours per week. You must be a US citizen or
+eligible to be paid 1099, have strong English verbal and written skills.
+
+Required skills:
+We need someone with very strong with Perl and OOP, someone with strong
+software architecture wisdom, and someone who can fit into a team of
+equally senior engineers. We're a small team looking for someone
+sufficiently senior enough to lead projects and to handle work solo when
+necessary without the need for oversight and yet who will follow our strict
+style guide and best practices in all cases. Viable candiates will have a
+track-record of self- motivation, high attention to detail, and ability to
+work very independently.
+
+Desired skills:
+Desired skills for the position include experience with some mixture of
+some of the followng: Debian system administration and networking,
+Mojolicious, nginx, Apache, Couch, Solr, MySQL (administration and
+replication), Postgres, Subversion, Git, jQuery and jQuery Mobile,
+XHTML/CSS, DBIx::Class, Template Toolkit, PhoneGap.
+
+Website for more information: http://goldenguru.com/hiring.html
+
+Contact information at:
+http://jobs.perl.org/job/15704#contact

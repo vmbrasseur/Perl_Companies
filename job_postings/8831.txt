@@ -1,0 +1,108 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8831
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 16621 invoked from network); 17 Nov 2008 07:25:20 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 17 Nov 2008 07:25:20 -0000
+Received: (qmail 15022 invoked by uid 225); 17 Nov 2008 07:25:20 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 15018 invoked by alias); 17 Nov 2008 07:25:19 -0000
+X-Spam-Status: No, hits=-8.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 16 Nov 2008 23:25:16 -0800
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 850302AFE0; Sun, 16 Nov 2008 23:25:13 -0800 (PST)
+To: jobs@perl.org
+Message-ID: <20081117072513.850302AFE0@x3.develooper.com>
+Date: Sun, 16 Nov 2008 23:25:13 -0800 (PST)
+Subject: Release Engineer (onsite), United States, CA, Los Angeles
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/9922
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 14, 2008
+
+Job title: Release Engineer
+
+Company name: Oversee.net
+
+Location: United States, CA, Los Angeles
+
+Pay rate:
+Competitive Salary + Annual Bonus + Stock Options + Benefits
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Release Engineer
+
+As a Release Engineer, you will be responsible for configuration management
+and builds of various Oversee.Net applications. Working with Developers,
+QA, and Systems Engineers, you will ensure a smooth build process,
+including managing the code repository, maintaining the code management
+process, and ensuring successful builds/installs. Although you will be a
+member of the Release Engineering team, you will also support the needs of
+other internal groups in the build and transition of deployment activities
+to QA and Production.
+
+Repsonsiblities:
+
+• Design and development of builds, scripts, installation procedures, and
+systems including source code control and issue tracking. 
+• Perform software builds and deploys code to QA, Beta, and production
+environments 
+• Develop web based tools to report on build, branch, and project status
+for use by developers, QA engineers and product managers 
+• Works closely with developers to determine branching and merging
+decisions and will perform builds as needed 
+• Manage the integration of new software projects and products into the
+build environment 
+• Track and manage software dependencies during the build process 
+• Assist the Systems team in administering the code repository (Perforce)
+
+Required skills:
+Requirements:
+
+• Bachelors Degree in Computer Science 
+• 3+ years experience as a release engineer or configuration manager
+working in UNIX/LINUX 
+• Must have some experience with C code and the ability to assist in
+debugging in C 
+• Strong familiarity with Perforce revision control system. Perforce Admin
+experience is highly desirable 
+• Experience with RPM installation. RPM creation. Package server creation
+and configuration (YUM would be best). 
+• Proven experience handling builds and deploys in a timely fashion to a
+managed service environment 
+• Experience with various branching/merging methodologies and release
+procedures 
+• Solid skills with one or more scripting languages. Perl experience is
+highly desirable 
+• Excellent communication skills - able to interface with multiple groups
+across the company 
+• Passion for supporting the development and release of great products in a
+fast moving environment
+
+URL for more information:
+https://home.eease.com/recruit2/?id=61626
+
+Contact information at:
+http://jobs.perl.org/job/9922#contact
+
+

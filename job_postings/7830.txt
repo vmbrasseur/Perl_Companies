@@ -1,0 +1,91 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:7830
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 17899 invoked from network); 11 Mar 2008 23:13:43 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 11 Mar 2008 23:13:43 -0000
+Received: (qmail 18030 invoked by uid 225); 11 Mar 2008 23:13:43 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 18022 invoked by alias); 11 Mar 2008 23:13:42 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 11 Mar 2008 16:13:39 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id 3DF792AFCD; Tue, 11 Mar 2008 16:13:36 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080311231336.3DF792AFCD@x3.develooper.com>
+Date: Tue, 11 Mar 2008 16:13:36 -0700 (PDT)
+Subject: mod_perl/DBI hacker for web apps (onsite), United States, CA, Los Angeles
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/8158
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 11, 2008
+
+Job title: mod_perl/DBI hacker for web apps
+
+Company name: TigerLead
+
+Internal ID: tigerlead
+
+Location: United States, CA, Los Angeles
+
+Pay rate: $75k - $100k+
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Length of employment: indefinite
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Does this make sense to you?
+
+my @sorted = map( $_->{id}, sort { $a->{name} cmp $b->{name} }
+@$some_data );
+
+If so, please continue.
+
+Our best-in-class web based app leverages internet advertising for
+targeted leaded acquisition in a tough business vertical. Like every
+potential employer, we are looking for coders who live to code and who
+love the open source tools they use. What sets us apart is the
+phenomenal growth rate we've achieved with a tight, small team in a
+depressed business environment and the fact that a lead coder is also a
+founding partner. Our tools of choice include postgresql, perl and ruby,
+running on virtualized servers and glued together via asynchronous
+queues. We don't do java, c++, mysql and python but there's nothing
+stopping us if it made sense. When good ideas are hatched, we get
+straight to implementation, testing and release, with quantifiable
+business success being realized as quickly as we can run the numbers.
+
+Required skills:
+Preferred candidates will have a strong grasp of object oriented design,
+relational data models and a background in writing modular and
+maintainable code. Proven knowledge of CPC advertising quirks,
+multi-dimensional performance analysis, full text search or an active
+CPAN account will get you in the door immediately.
+
+We are looking for candidates who can make a full-time commitment but a
+part-time role may be possible. Compensation is competitive and
+negotiable -- the wide salary range advertised is intended to allow for
+candidates with a variety of experience levels.
+
+Contact information at:
+http://jobs.perl.org/job/8158#contact
+
+

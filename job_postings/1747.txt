@@ -1,0 +1,88 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:1747
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 93095 invoked from network); 13 Jul 2004 17:25:38 -0000
+Received: from x1.develooper.com (63.251.223.170)
+  by onion.develooper.com with SMTP; 13 Jul 2004 17:25:38 -0000
+Received: (qmail 12382 invoked by uid 225); 13 Jul 2004 17:25:38 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 12374 invoked by alias); 13 Jul 2004 17:25:37 -0000
+X-Spam-Status: No, hits=-4.9 required=8.0
+	tests=BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from onion.develooper.com (HELO onion.perl.org) (63.251.223.166)
+  by la.mx.develooper.com (qpsmtpd/0.27.1) with SMTP; Tue, 13 Jul 2004 10:25:36 -0700
+Received: (qmail 93036 invoked by uid 1016); 13 Jul 2004 17:25:34 -0000
+Date: 13 Jul 2004 17:25:34 -0000
+Message-ID: <20040713172534.93035.qmail@onion.perl.org>
+To: jobs@perl.org
+X-Spam-Rating: onion.develooper.com 1.6.2 0/1000/N
+Subject: Web Programmer for Mason-based e-commerce site (telecommute)
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1641
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 13, 2004
+
+Job title:
+Web Programmer for Mason-based e-commerce site
+
+Internal ID: Perl-Job-01
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Part time
+
+Onsite: no
+
+Description:
+One of my clients needs to get some work done sooner than I can do it, so I
+am looking for another programmer to help.  You will be doing the bulk of
+the work, with guidance and review from me.
+
+One of the most important pieces of work is integration with the Amazon
+Seller system, so previous experience doing this would be a huge plus.
+
+The work needs to be done in the near future (starting within the next
+month or so), so you need to be available soon.
+
+This is a telecommuting position.
+
+This will be contract work directly for my client, and you will discuss the
+rate with him.	I am just screening applicants for those with the best
+technical resume.  Don't ask me about rates.
+
+
+Required skills:
+- OO Perl
+- Some Perl templating system
+- SQL
+
+
+Desired skills:
+- Mason
+- Postgres
+- *Amazon Seller integration experience*
+
+Contact information:
+Contact Dave Rolsky at dave {AT} houseabsolute.com
+
+Please include "Perl-Job-01" in the subject line.
+
+Please include a *link* to your resume.  Respondents who don't do this will
+be ignored.  Don't send me attachments, don't inline it.
+
+If you have experience with Amazon Seller integration, Mason, and/or
+Postgres, please briefly mention this in your email.
+
+

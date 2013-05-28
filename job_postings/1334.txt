@@ -1,0 +1,148 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:1334
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 18611 invoked by uid 76); 3 Feb 2004 00:56:18 -0000
+Received: from qmailr@one.develooper.com (HELO ran-out.mx.develooper.com) (64.81.84.115) by onion.perl.org (qpsmtpd/0.26) with SMTP; Mon, 02 Feb 2004 16:56:18 -0800
+Received: (qmail 10128 invoked by uid 225); 3 Feb 2004 00:55:25 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 10115 invoked by uid 507); 3 Feb 2004 00:55:25 -0000
+Received: from onion.develooper.com (HELO onion.perl.org) (63.251.223.166)  by one.develooper.com (qpsmtpd/0.27-dev) with SMTP; Mon, 02 Feb 2004 16:54:34 -0800
+Received: (qmail 16768 invoked by uid 1016); 3 Feb 2004 00:53:22 -0000
+Date: 3 Feb 2004 00:53:22 -0000
+Message-ID: <20040203005322.16767.qmail@onion.perl.org>
+To: jobs@perl.org
+X-Spam-Check-By: one.develooper.com
+X-Spam-Status: No, hits=1.5 required=7.0 tests=CARRIAGE_RETURNS,SPAM_PHRASE_02_03,TO_BE_REMOVED_REPLY version=2.44
+X-SMTPD: qpsmtpd/0.26, http://develooper.com/code/qpsmtpd/
+Subject: Senior perl/C developer: production system generating code for embedded devices (onsite), 10010, New York, New York
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1222
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February  2, 2004
+
+Job title:
+Senior perl/C developer: production system generating code for embedded
+devices
+
+Company name: Eatoni Ergonomics
+
+Internal ID: eat1
+
+Location: 10010, New York, New York
+
+Pay rate: 70k-100k USD
+
+Travel: 0-25%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+-- intro --
+
+Text entry of mobile devices is the "tipping point" technology
+for the mobile internet. People need to be able to enter text quickly
+and easily using a very small device. It needs to work in any
+language. It needs to be small, fast, reliable.
+
+Eatoni has been working for almost 6 years to make such technology
+available. We've developed a good customer base and are profitable.
+
+We are looking for a "Scotty" type person to run and extend our
+core integration software. You will deal directly with customers
+to deliver software built to their specifications. You will also
+be involved in research and development efforts to increase the
+reliability, security, and efficiency of our text entry methods.
+We are constantly making improvements and expanding our linguistic
+repertoire.
+
+This is a dream job for people who
+
+*care about the mobile internet
+*care about linguistics
+*think clean and powerful code is beautiful
+*like New York City
+*thrive in a small-company environment
+
+
+
+--formal job description ---
+
+
+
+Eatoni is seeking a an exceptional senior developer to help build our
+next generation of text-entry software. The position requires the
+combination of strong theoretical understanding of algorithms with the
+ability to produce efficient implementations that will be integrated
+into millions of devices by major manufacturers. Ideally you will have
+a graduate degree in computer science, with studies involving
+operating systems or algorithms and data structures, and you will have
+considerable experience working as a C programmer in a low-level
+environment. The interview process will require you to write code to
+demonstrate this knowledge.
+
+Please do not apply unless you are extremely confident that your
+background is well aligned with our needs and that your depth of
+technical understanding will withstand close scrutiny. Please do not
+claim to have experience in an area below unless you have worked in
+that area. It's not enough to have read a book or heard about an
+issue, we're looking for solid prior experience.
+
+Compensation will be commensurate with experience.
+
+
+
+Required skills:
+ - Minimum 8-10 years programming in C.
+ - Minimum 5  years programming in Perl.
+ - A masters degree or Ph.D. in computer science, engineering,
+   mathematics, physics or similar.
+ - Full cycle product implementation, from outlines of algorithms to
+   shipping code.
+ - Work on low-level code.
+ - Good understanding of basic data structures and algorithms:
+   searching, trees, hashes, tries, etc.
+ - Completely at ease working in a UNIX environment.
+ - Desire to ship products and work in a small team.
+
+
+
+Desired skills:
+ - API design.
+ - HCI / User interface.
+ - Configuration management.
+ - Automated testing and quality assurance.
+ - Understanding of compilers.
+ - Work in a startup environment.
+ - Assembly language.
+ - Squeezing code for space.
+ - i18n issues.
+ - Computational linguistics.
+ - Asian or Indian languages.
+ - Perl.
+ - M4.
+ - Embedded device programming.
+ - Other programming languages, especially C++ or Java.
+ - Other systems knowledge: TCP/IP and other internet protocols,
+   client/server architectures, operating systems background,
+   experience programming for small/portable devices, knowledge of CPU
+   architectures such as the 8051, CR16, ARM.
+
+
+URL for more information: http://www.eatoni.com/
+
+Contact information: jobs@eatoni.com
+
+

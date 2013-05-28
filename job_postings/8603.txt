@@ -1,0 +1,72 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:8603
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 32497 invoked from network); 25 Aug 2008 17:59:06 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by x6.develooper.com with SMTP; 25 Aug 2008 17:59:06 -0000
+Received: (qmail 7105 invoked by uid 225); 25 Aug 2008 17:59:06 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 7101 invoked by alias); 25 Aug 2008 17:59:05 -0000
+X-Spam-Status: No, hits=-10.6 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 25 Aug 2008 10:59:02 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id A200A2AFEA; Mon, 25 Aug 2008 10:58:58 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20080825175858.A200A2AFEA@x3.develooper.com>
+Date: Mon, 25 Aug 2008 10:58:58 -0700 (PDT)
+Subject: Remove non english characters small perl job (telecommute), United States, tn, knoxville 
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/9486
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 22, 2008
+
+Job title:
+Remove non english characters small perl job
+
+Location: United States, tn, knoxville 
+
+Pay rate: Please bid in USD
+
+Travel: 0%
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+I have a file that has lots of non-english characters that i would like to
+have perl find and replace. Im pretty new to perl but Im learning. There
+are 293 special characters I need replaced. I have a file called
+customer_info.txt that has lots of customer details. Some with non english
+characters that I need to be replaced. Can someone write a script that
+reads in the file of bad characters and then uses perl to find and replace
+all the bad ones with the correct ones. Im sure this would be very easy for
+the right person, like I said im new to perl so this is a bit hard for me.
+Here is a link to the file of the bad character and their replacments. Its
+in csv format. Please email for any questions. Payment will be made via
+paypal.
+
+http://www.mediafire.com/?sharekey=b824b729354f4abdd2db6fb9a8902bda
+
+Required skills: PERL
+
+Desired skills: perl
+
+Contact information at:
+http://jobs.perl.org/job/9486#contact
+
+

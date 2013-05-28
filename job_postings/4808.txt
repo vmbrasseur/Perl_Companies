@@ -1,0 +1,108 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:4808
+Return-Path: <ask@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 9775 invoked from network); 18 Aug 2006 02:37:29 -0000
+Received: from x1a.develooper.com (HELO x1.develooper.com) (216.52.237.111)
+  by lists.develooper.com with SMTP; 18 Aug 2006 02:37:29 -0000
+Received: (qmail 12551 invoked by uid 225); 18 Aug 2006 02:37:29 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 12546 invoked by alias); 18 Aug 2006 02:37:28 -0000
+X-Spam-Status: No, hits=-4.4 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received-SPF: pass (x1.develooper.com: domain of ask@perl.org designates 63.251.223.163 as permitted sender)
+Received: from x3.develooper.com (HELO x3.develooper.com) (63.251.223.163)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 17 Aug 2006 19:37:25 -0700
+Received: by x3.develooper.com (Postfix, from userid 513)
+	id CB5342AFDA; Thu, 17 Aug 2006 19:37:20 -0700 (PDT)
+To: jobs@perl.org
+Message-ID: <20060818023720.CB5342AFDA@x3.develooper.com>
+Date: Thu, 17 Aug 2006 19:37:20 -0700 (PDT)
+Subject: Dev Test Engineer2 - Automation/Perl (onsite), United States, California, San Jose
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/4529
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 17, 2006
+
+Job title: Dev Test Engineer2 - Automation/Perl
+
+Company name: Redback Networks
+
+Internal ID: 338BR
+
+Location: United States, California, San Jose
+
+Pay rate: open
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Analyze feature requirements and design specifications, write and review
+test plans, execute and automate test cases on ACL policies, NAT/NAPT,
+HTTP-Redirect features. 
+Analyze customer-reported issues ACL/NAT/NAPT and HTTP-Redirect, reproduce
+issues in-house, recommend solutions and work-around on customer-filed
+bugs, enhanced and automate test case coverage based on these failures.
+Improve test coverage on ACL/NAT/NAPT by identifying areas with no or
+minimal test coverage and improve test suite based on information gathered
+from existing tests and customer-filled bugs.
+Enhance and execute testcases that focus on integrating ACL/NAT/NAPT and
+HTTP-Redirect with other related BRAS features that are commonly used in
+the field.
+Worked with software developers to perform rapid root-cause analysis on
+test failures.
+Help in verifying bugs fixes for internally and externally found bugs.
+Build and maintain test set-up and troubleshoot network problems.
+Mentor junior engineers for them to come up to speed in less amount of time
+and to continually provide technical discussion to improve team’s knowledge
+on BRAS features and its application in the field. 
+
+Will be mainly involved in testing and debugging different BRAS new
+features and different IP Services features of the company’s
+high-performance product. Thus, detailed knowledge and extensive experience
+of different networking protocols are required particularly TCP/IP, IPv6,
+NAT, QoS, PPP/PPPoE/MLPPP, L2TP, AAA/RADIUS/TACACS+, DHCP, Telnet/SSH. Good
+routing knowledge is a plus. Should have good experience working in
+Ethernet- and ATM-based test environment. Should have good experienced
+configuring different high performance networking equipment such as Cisco
+router/switches, high-performance test equipment such as SmartBits, IXIA,
+Adtech, Agilent, and TestCenter. Should have good experienced in building
+different test topologies involving high-performance networking equipment
+and troubleshooting network-failures. Extensive experience in C-programming
+or Perl scripting. Has worked closely with software development team to
+perform root-cause analysis of software failures. Has experience in
+working/reproducing customer bugs reported from the field. Need to have
+good technical and analytical skills to perform rapid root-cause analysis
+of software failures and ability to provide work-around. 
+
+
+Required skills:
+Requires an MS/BS in Computer Science or Engineering and a minimum of 5
+years of related experience testing IP-based router product.
+
+Experience in testing and configuring network equipment
+Detailed knowledge of networking protocols
+Experience in C or Perl Program
+
+
+URL for more information: http://www.redback.com/
+
+Contact information at:
+http://jobs.perl.org/job/4529#contact
+
+
