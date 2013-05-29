@@ -2779,7 +2779,7 @@ Most of the table below is self-explanatory, save the 'Hiring Status' column. An
 <tr><td>Moonfruit.com</td><td>United Kingdom, London, London</td><td>2011</td><td>Active</td></tr>
 <tr><td>Moonlight BPO</td><td>Bend Oregon</td><td>2011</td><td>Active</td></tr>
 <tr><td>Morgan Hunter</td><td>United States, MO, Kansas City</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Morgan Stanley</td><td>United States, NY, New York City - Downtown</td><td>2010</td><td>Inactive</td></tr>
+<tr><td>Morgan Stanley</td><td>United States, NY, New York City - Downtown</td><td>2013</td><td>Active</td></tr>
 <tr><td>Morgunblaðið</td><td>Iceland, Reykjavik</td><td>2007</td><td>Dormant</td></tr>
 <tr><td>Mortgage Desk, Inc.</td><td>United States, IL, Chicago</td><td>2006</td><td>Dormant</td></tr>
 <tr><td>Moss Search</td><td>United States, IL, Chicago</td><td>2004</td><td>Dormant</td></tr>
