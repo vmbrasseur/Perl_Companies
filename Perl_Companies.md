@@ -1,4 +1,3 @@
-
 Perl Companies
 ==============
 
@@ -45,7 +44,7 @@ Most of the table below is self-explanatory, save the 'Hiring Status' column. An
 <tr><td>186k Limited</td><td>United Kingdom, W. Yorks, Leeds</td><td>2007</td><td>Dormant</td></tr>
 <tr><td>1st Interactive Design Ltd</td><td>United Kingdom, Any in the UK</td><td>2011</td><td>Active</td></tr>
 <tr><td>1st-Interactive Design Ltd</td><td>United Kingdom</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>20 Minuten</td><td>Switzerland, Zürich</td><td>2008</td><td>Dormant</td></tr>
+<tr><td>20 Minuten</td><td>Switzerland, Zï¿½rich</td><td>2008</td><td>Dormant</td></tr>
 <tr><td>2Checkout.com</td><td>United States, OH, Columbus</td><td>2008</td><td>Dormant</td></tr>
 <tr><td>2dehands</td><td>Amsterdam (NL)</td><td>2011</td><td>Active</td></tr>
 <tr><td>2it</td><td>Australia, NSW, Sydney</td><td>2006</td><td>Dormant</td></tr>
@@ -61,7 +60,7 @@ Most of the table below is self-explanatory, save the 'Hiring Status' column. An
 <tr><td>411web Interactive</td><td>United States, CA, Los Angeles</td><td>2005</td><td>Dormant</td></tr>
 <tr><td>5 Point Professional Services</td><td>United States, TX, Austin</td><td>2008</td><td>Dormant</td></tr>
 <tr><td>7se7en Ltd.</td><td>United Kingdom, London, London</td><td>2011</td><td>Active</td></tr>
-<tr><td>8D Technologies inc.</td><td>Canada, Québec, Montreal</td><td>2002</td><td>Dormant</td></tr>
+<tr><td>8D Technologies inc.</td><td>Canada, Quï¿½bec, Montreal</td><td>2002</td><td>Dormant</td></tr>
 <tr><td>8minuteDating</td><td>United States, FL, Boca Raton</td><td>2010</td><td>Inactive</td></tr>
 <tr><td>@Mail</td><td>Australia, NSW, Sydney</td><td>2006</td><td>Dormant</td></tr>
 <tr><td>A Company</td><td>United Kingdom, London, London</td><td>2006</td><td>Dormant</td></tr>
@@ -131,7 +130,7 @@ Most of the table below is self-explanatory, save the 'Hiring Status' column. An
 <tr><td>AMD (Advanced Micro Devices)</td><td>Austin, TX     ** ON SITE ONLY / South Austin **</td><td>2011</td><td>Active</td></tr>
 <tr><td>AMD Advanced Micro Devices</td><td>Dresden, Germany</td><td>2011</td><td>Active</td></tr>
 <tr><td>AMR</td><td>UK - London, London</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>ANGEL Internet Services GmbH</td><td>Deutschland, NRW, Köln</td><td>2007</td><td>Dormant</td></tr>
+<tr><td>ANGEL Internet Services GmbH</td><td>Deutschland, NRW, Kï¿½ln</td><td>2007</td><td>Dormant</td></tr>
 <tr><td>ANK Consulting</td><td>Argentina, Buenos Aires, Capital Federal</td><td>2005</td><td>Dormant</td></tr>
 <tr><td>ANSI, Inc.</td><td>United States, CA, Palo Alto</td><td>2006</td><td>Dormant</td></tr>
 <tr><td>AOL</td><td>United States, VA, Dulles</td><td>2011</td><td>Active</td></tr>
@@ -174,7 +173,7 @@ Most of the table below is self-explanatory, save the 'Hiring Status' column. An
 <tr><td>Academic Benchmark</td><td>United States, OH, Cincinnati</td><td>2010</td><td>Inactive</td></tr>
 <tr><td>Academic Benchmarks</td><td>Cincinnati, OH or Washington, DC</td><td>2013</td><td>Active</td></tr>
 <tr><td>Academic Presidential Market</td><td>United States, CT, New Haven</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Acantis bv</td><td>Dutch Antilles, Curaçao</td><td>2009</td><td>Inactive</td></tr>
+<tr><td>Acantis bv</td><td>Dutch Antilles, Curaï¿½ao</td><td>2009</td><td>Inactive</td></tr>
 <tr><td>Accenture</td><td>Mississauga, Ontario, Mississauga</td><td>2010</td><td>Inactive</td></tr>
 <tr><td>Accenture Canada</td><td>Canada, Ontario, Mississauga</td><td>2006</td><td>Dormant</td></tr>
 <tr><td>Access CRM</td><td>United States, NY, New York</td><td>2003</td><td>Dormant</td></tr>
@@ -207,7 +206,7 @@ Most of the table below is self-explanatory, save the 'Hiring Status' column. An
 <tr><td>Adam Jacobs Associates (Recruiting Agency)</td><td>United States, CA, San Francisco - Palo Alto</td><td>2007</td><td>Dormant</td></tr>
 <tr><td>Adam Jacobs Associates - Recruiter</td><td>United States, CA, San Francisco Bay Area</td><td>2007</td><td>Dormant</td></tr>
 <tr><td>Adamans Ltd.</td><td>Ireland, Dublin</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Adapt A/S</td><td>Denmark, DK, København K</td><td>2011</td><td>Active</td></tr>
+<tr><td>Adapt A/S</td><td>Denmark, DK, Kï¿½benhavn K</td><td>2011</td><td>Active</td></tr>
 <tr><td>Adaptive Solutions Group</td><td>United States, Kansas, Overland Park</td><td>2010</td><td>Inactive</td></tr>
 <tr><td>Adapttoweb</td><td>Bulgaria</td><td>2010</td><td>Inactive</td></tr>
 <tr><td>Add2Net, Inc.</td><td>United States, California, La Mirada</td><td>2004</td><td>Dormant</td></tr>
@@ -595,7 +594,7 @@ Most of the table below is self-explanatory, save the 'Hiring Status' column. An
 <tr><td>Bluesocket</td><td>United States, MA  01803, Burlington</td><td>2006</td><td>Dormant</td></tr>
 <tr><td>Bluhalo</td><td>United Kingdom, Hampshire, Farnborough</td><td>2007</td><td>Dormant</td></tr>
 <tr><td>Blur Studio</td><td>United States, CA, Venice</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Bob Mobile</td><td>Deutschland, Düsseldorf</td><td>2009</td><td>Inactive</td></tr>
+<tr><td>Bob Mobile</td><td>Deutschland, Dï¿½sseldorf</td><td>2009</td><td>Inactive</td></tr>
 <tr><td>Boca Internet Technologies, Inc.</td><td>United States, Florida, Coconut Creek</td><td>2005</td><td>Dormant</td></tr>
 <tr><td>Bock Interactive</td><td>United States, VT, Burlington</td><td>2004</td><td>Dormant</td></tr>
 <tr><td>Bodhi Labs</td><td>Bangalore, India</td><td>2013</td><td>Active</td></tr>
@@ -619,7 +618,7 @@ Most of the table below is self-explanatory, save the 'Hiring Status' column. An
 <tr><td>Boopsie, Inc.</td><td>Sunnyvale, CA</td><td>2012</td><td>Active</td></tr>
 <tr><td>Bootic Inc</td><td>Undefined</td><td>2011</td><td>Active</td></tr>
 <tr><td>Bootic Inc.</td><td>San Francisco, CA</td><td>2012</td><td>Active</td></tr>
-<tr><td>Bossmedia AB</td><td>Sweden, Växjö</td><td>2004</td><td>Dormant</td></tr>
+<tr><td>Bossmedia AB</td><td>Sweden, Vï¿½xjï¿½</td><td>2004</td><td>Dormant</td></tr>
 <tr><td>Boston University / BMERC</td><td>United States, MA, Boston</td><td>2002</td><td>Dormant</td></tr>
 <tr><td>Boston.com</td><td>United States, MA, Boston</td><td>2006</td><td>Dormant</td></tr>
 <tr><td>Boston/Cambridge Company</td><td>United States, MA, Cambridge</td><td>2007</td><td>Dormant</td></tr>
@@ -1053,7 +1052,7 @@ Most of the table below is self-explanatory, save the 'Hiring Status' column. An
 <tr><td>Constitution Group</td><td>United States, NY, New York</td><td>2010</td><td>Inactive</td></tr>
 <tr><td>Consultis</td><td>United States, NJ, Woodbridge`</td><td>2010</td><td>Inactive</td></tr>
 <tr><td>Consultis of Tampa</td><td>United States, FL, Tampa</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Consultpool GmbH & Co. KG</td><td>Deutschland, München</td><td>2009</td><td>Inactive</td></tr>
+<tr><td>Consultpool GmbH & Co. KG</td><td>Deutschland, Mï¿½nchen</td><td>2009</td><td>Inactive</td></tr>
 <tr><td>Contact Telecom</td><td>United States, New Hampshire, Manchester</td><td>2007</td><td>Dormant</td></tr>
 <tr><td>Context Software</td><td>Canada, Ontario, Toronto</td><td>2004</td><td>Dormant</td></tr>
 <tr><td>ContinuedEd IDC, India (Subsidiary of continueded.com,USA)</td><td>India, New Delhi, New Delhi</td><td>2003</td><td>Dormant</td></tr>
@@ -1105,7 +1104,7 @@ Most of the table below is self-explanatory, save the 'Hiring Status' column. An
 <tr><td>Crescendo Productions</td><td>Australia, SA, Adelaide</td><td>2003</td><td>Dormant</td></tr>
 <tr><td>Crescent Solutions</td><td>United States, FL, Boca Raton</td><td>2010</td><td>Inactive</td></tr>
 <tr><td>Cronon AG</td><td>Germany, Berlin, Berlin</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Crossgate Technologies AG</td><td>Germany, Niedersachsen, Göttingen</td><td>2010</td><td>Inactive</td></tr>
+<tr><td>Crossgate Technologies AG</td><td>Germany, Niedersachsen, Gï¿½ttingen</td><td>2010</td><td>Inactive</td></tr>
 <tr><td>Crossroads Access</td><td>United States, CA, Venice</td><td>2006</td><td>Dormant</td></tr>
 <tr><td>CrunchTime! Information Systems</td><td>United States, MA, Boston</td><td>2007</td><td>Dormant</td></tr>
 <tr><td>CryptoLogic Inc.</td><td>Canada, Ontario, Toronto</td><td>2004</td><td>Dormant</td></tr>
@@ -1163,7 +1162,7 @@ Most of the table below is self-explanatory, save the 'Hiring Status' column. An
 <tr><td>DIS AG, IT</td><td>Germany, Bremen, Bremen</td><td>2007</td><td>Dormant</td></tr>
 <tr><td>DISYS</td><td>United States, IL, Rosemont</td><td>2011</td><td>Active</td></tr>
 <tr><td>DISYS (Digital Intelligence Systems)</td><td>Colorado Springs, CO</td><td>2012</td><td>Active</td></tr>
-<tr><td>DK Hostmaster</td><td>København, Denmark</td><td>2012</td><td>Active</td></tr>
+<tr><td>DK Hostmaster</td><td>Kï¿½benhavn, Denmark</td><td>2012</td><td>Active</td></tr>
 <tr><td>DK Hostmaster A/S</td><td>Denmark, Copenhagen</td><td>2009</td><td>Inactive</td></tr>
 <tr><td>DM Contact Managment</td><td>Canada, BC, Victoria</td><td>2004</td><td>Dormant</td></tr>
 <tr><td>DMForge</td><td>United States, Michigan, Metro Detroit</td><td>2007</td><td>Dormant</td></tr>
@@ -1172,7 +1171,7 @@ Most of the table below is self-explanatory, save the 'Hiring Status' column. An
 <tr><td>DMcorp</td><td>India</td><td>2010</td><td>Inactive</td></tr>
 <tr><td>DMcorp.</td><td>India, Los Angeles</td><td>2010</td><td>Inactive</td></tr>
 <tr><td>DNC</td><td>United States, DC, Washington</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>DND - Desenvolvimento de Negócios Digitais</td><td>Brazil, São Paulo, São Paulo</td><td>2007</td><td>Dormant</td></tr>
+<tr><td>DND - Desenvolvimento de Negï¿½cios Digitais</td><td>Brazil, Sï¿½o Paulo, Sï¿½o Paulo</td><td>2007</td><td>Dormant</td></tr>
 <tr><td>DOE JGI / Lawrence Berkeley National Lab</td><td>United States, CA , Walnut Creek</td><td>2010</td><td>Inactive</td></tr>
 <tr><td>DOE JGI / Lawrence Berkeley National Laboratory </td><td>United States, CA, Walnut Creek</td><td>2010</td><td>Inactive</td></tr>
 <tr><td>DOE Joint Genome Institute</td><td>United States, CA, Walnut Creek</td><td>2010</td><td>Inactive</td></tr>
@@ -1344,7 +1343,7 @@ Most of the table below is self-explanatory, save the 'Hiring Status' column. An
 <tr><td>DreamHost</td><td>Los Angeles, San Francisco, Atlanta, open to telecommuting</td><td>2012</td><td>Active</td></tr>
 <tr><td>DreamWorks Animation</td><td>United States, CA, Glendale or Redwood City</td><td>2007</td><td>Dormant</td></tr>
 <tr><td>DreamWorks Animation, SKG</td><td>United States, California, Glendale or Redwood City</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Dreamway</td><td>Germany, Bayern, Immenstadt/Allgäu</td><td>2006</td><td>Dormant</td></tr>
+<tr><td>Dreamway</td><td>Germany, Bayern, Immenstadt/Allgï¿½u</td><td>2006</td><td>Dormant</td></tr>
 <tr><td>Dreamway Interactive</td><td>Germany, Immenstadt</td><td>2005</td><td>Dormant</td></tr>
 <tr><td>Dreamworks Animation</td><td>United States, CA, Glendale</td><td>2007</td><td>Dormant</td></tr>
 <tr><td>Dress-For-Less GmbH</td><td>Germany, Hesse, Frankfurt am Main/Kelsterbach/Raunheim</td><td>2011</td><td>Active</td></tr>
@@ -1422,7 +1421,7 @@ Most of the table below is self-explanatory, save the 'Hiring Status' column. An
 <tr><td>Edita SA / lessentiel.lu</td><td>Luxembourg, Differdange</td><td>2010</td><td>Inactive</td></tr>
 <tr><td>Editure</td><td>Australia, Victoria, Melbourne</td><td>2009</td><td>Inactive</td></tr>
 <tr><td>Education Program for Gifted Youth - Stanford University</td><td>United States, California, Stanford</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Edument AB</td><td>Malmö, Sweden</td><td>2013</td><td>Active</td></tr>
+<tr><td>Edument AB</td><td>Malmï¿½, Sweden</td><td>2013</td><td>Active</td></tr>
 <tr><td>Effective Educational Technologies</td><td>United States, MA, Cambridge</td><td>2005</td><td>Dormant</td></tr>
 <tr><td>Efficient Frontier</td><td>United Kingdom, London</td><td>2007</td><td>Dormant</td></tr>
 <tr><td>Ekaru</td><td>United States, MA, Westford</td><td>2008</td><td>Dormant</td></tr>
@@ -1595,7 +1594,7 @@ Most of the table below is self-explanatory, save the 'Hiring Status' column. An
 <tr><td>Feedster, Inc.</td><td>United States, California, San Francisco</td><td>2006</td><td>Dormant</td></tr>
 <tr><td>Ferengi s.r.l.</td><td>Argentina, Capital, Buenos Aires</td><td>2003</td><td>Dormant</td></tr>
 <tr><td>Ferguson Consulting</td><td>United States, MO, Saint Louis</td><td>2011</td><td>Active</td></tr>
-<tr><td>Fewodata e.K. - ferienwohnungen.de</td><td>Glücksburg (Ostsee), Schleswig-Holstein, Germany</td><td>2013</td><td>Active</td></tr>
+<tr><td>Fewodata e.K. - ferienwohnungen.de</td><td>Glï¿½cksburg (Ostsee), Schleswig-Holstein, Germany</td><td>2013</td><td>Active</td></tr>
 <tr><td>Ficus Computer Engineering</td><td>United States, CA, Fremont</td><td>2005</td><td>Dormant</td></tr>
 <tr><td>Ficus Engineering</td><td>United States, California, Fremont</td><td>2004</td><td>Dormant</td></tr>
 <tr><td>Fides</td><td>Russian Federation, St. Petersburg</td><td>2005</td><td>Dormant</td></tr>
@@ -1695,7 +1694,7 @@ Most of the table below is self-explanatory, save the 'Hiring Status' column. An
 <tr><td>Fusion Associates</td><td>United States, CA, Redwood City</td><td>2006</td><td>Dormant</td></tr>
 <tr><td>Future Publishing</td><td>United Kingdom, Bath & North East Somerset, Bath</td><td>2008</td><td>Dormant</td></tr>
 <tr><td>G & S Technology group</td><td>United States, New York, New York</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>G&L Geißendörfer & Leschinsky GmbH</td><td>Deutschland, NRW, Köln</td><td>2008</td><td>Dormant</td></tr>
+<tr><td>G&L Geiï¿½endï¿½rfer & Leschinsky GmbH</td><td>Deutschland, NRW, Kï¿½ln</td><td>2008</td><td>Dormant</td></tr>
 <tr><td>G2 Recruitment Solutions</td><td>United Kingdom, London</td><td>2008</td><td>Dormant</td></tr>
 <tr><td>G2 Web Services</td><td>United States, WA, Bellevue</td><td>2008</td><td>Dormant</td></tr>
 <tr><td>G2 Web Services, LLC</td><td>United States, WA, Bellevue</td><td>2007</td><td>Dormant</td></tr>
@@ -1712,9 +1711,9 @@ Most of the table below is self-explanatory, save the 'Hiring Status' column. An
 <tr><td>GEMM.com</td><td>United States, CA, Palm Springs</td><td>2004</td><td>Dormant</td></tr>
 <tr><td>GES Network</td><td>United States, DE, Bear</td><td>2008</td><td>Dormant</td></tr>
 <tr><td>GFM Holdings Ltd</td><td>Colchester - Essex</td><td>2013</td><td>Active</td></tr>
-<tr><td>GFU</td><td>Germany, NRW, Köln</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>GFU Cyrus AG</td><td>Germany, NRW, Köln</td><td>2012</td><td>Active</td></tr>
-<tr><td>GFU Cyrus AG Schulungen</td><td>Germany, NRW, Köln</td><td>2007</td><td>Dormant</td></tr>
+<tr><td>GFU</td><td>Germany, NRW, Kï¿½ln</td><td>2007</td><td>Dormant</td></tr>
+<tr><td>GFU Cyrus AG</td><td>Germany, NRW, Kï¿½ln</td><td>2012</td><td>Active</td></tr>
+<tr><td>GFU Cyrus AG Schulungen</td><td>Germany, NRW, Kï¿½ln</td><td>2007</td><td>Dormant</td></tr>
 <tr><td>GHR SYSTEMS</td><td>United States, PA, Wayne</td><td>2003</td><td>Dormant</td></tr>
 <tr><td>GK, Inc.</td><td>United States, CA, Lancaster</td><td>2008</td><td>Dormant</td></tr>
 <tr><td>GKG.NET</td><td>United States, TX, College Station</td><td>2005</td><td>Dormant</td></tr>
@@ -1981,8 +1980,8 @@ Most of the table below is self-explanatory, save the 'Hiring Status' column. An
 <tr><td>HuffingtonPost</td><td>United States, NY, New York</td><td>2008</td><td>Dormant</td></tr>
 <tr><td>Human Capital Management</td><td>United States, PA, Philadelphia</td><td>2007</td><td>Dormant</td></tr>
 <tr><td>Human Capital Management, Inc.</td><td>PA, Fort Washington</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Humboldt-Universität</td><td>Germany, Berlin</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Humboldt-Universität zu Berlin</td><td>Deutschland, Berlin</td><td>2008</td><td>Dormant</td></tr>
+<tr><td>Humboldt-Universitï¿½t</td><td>Germany, Berlin</td><td>2006</td><td>Dormant</td></tr>
+<tr><td>Humboldt-Universitï¿½t zu Berlin</td><td>Deutschland, Berlin</td><td>2008</td><td>Dormant</td></tr>
 <tr><td>Hunter Technical Resources</td><td>United States, GA, Atlanta</td><td>2011</td><td>Active</td></tr>
 <tr><td>Huntex</td><td>Greater Toronto Area</td><td>2012</td><td>Active</td></tr>
 <tr><td>Huntress IT</td><td>United Kingdom, London</td><td>2007</td><td>Dormant</td></tr>
@@ -2057,13 +2056,13 @@ Most of the table below is self-explanatory, save the 'Hiring Status' column. An
 <tr><td>IT assistance Ltd.</td><td>Switzerland, BS, Basel</td><td>2004</td><td>Dormant</td></tr>
 <tr><td>ITERU</td><td>Singapore, Singapore</td><td>2001</td><td>Dormant</td></tr>
 <tr><td>ITHR</td><td>London</td><td>2011</td><td>Active</td></tr>
-<tr><td>ITJob Consulting</td><td>Brazil, SP/Sao Paulo, São Paulo</td><td>2006</td><td>Dormant</td></tr>
+<tr><td>ITJob Consulting</td><td>Brazil, SP/Sao Paulo, Sï¿½o Paulo</td><td>2006</td><td>Dormant</td></tr>
 <tr><td>ITN</td><td>United Kingdom, London</td><td>2009</td><td>Inactive</td></tr>
 <tr><td>ITRAYS INC</td><td>United States, MI, Southfield</td><td>2008</td><td>Dormant</td></tr>
 <tr><td>ITS Ingenium Ltd</td><td>France, Paris</td><td>2010</td><td>Inactive</td></tr>
 <tr><td>ITT Corp.</td><td>DC, Washington DC</td><td>2007</td><td>Dormant</td></tr>
 <tr><td>ITjobz</td><td>Australia, NSW, Newcastle</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>ITscopec GmbH</td><td>Germany, Baden-Württemberg, Karlsruhe</td><td>2011</td><td>Active</td></tr>
+<tr><td>ITscopec GmbH</td><td>Germany, Baden-Wï¿½rttemberg, Karlsruhe</td><td>2011</td><td>Active</td></tr>
 <tr><td>Icon</td><td>United States, CA, San Francisco </td><td>2010</td><td>Inactive</td></tr>
 <tr><td>Icons Inhouse Graphics</td><td>Australia, Queensland, Sunshine Coast</td><td>2006</td><td>Dormant</td></tr>
 <tr><td>IdeaReboot</td><td>New York City</td><td>2012</td><td>Active</td></tr>
@@ -2406,10 +2405,10 @@ Most of the table below is self-explanatory, save the 'Hiring Status' column. An
 <tr><td>Leading Search Engine Marketing / Search Engine Optimization Firm</td><td>United States, IL, Chicago</td><td>2007</td><td>Dormant</td></tr>
 <tr><td>Leading Search Engine/Internet Company</td><td>United States, NY, New York</td><td>2007</td><td>Dormant</td></tr>
 <tr><td>Leading in the Semiconductor Industry</td><td>United States, CA, San Jose</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Leading integrated financial services company</td><td>Germany, Munich / München</td><td>2007</td><td>Dormant</td></tr>
+<tr><td>Leading integrated financial services company</td><td>Germany, Munich / Mï¿½nchen</td><td>2007</td><td>Dormant</td></tr>
 <tr><td>Leadpile</td><td>United States, Arizona, Phoenix</td><td>2011</td><td>Active</td></tr>
 <tr><td>LeapFrog Systems</td><td>Boston, MA</td><td>2012</td><td>Active</td></tr>
-<tr><td>LeasingBørsen.dk</td><td>Denmark, Copenhagen</td><td>2011</td><td>Active</td></tr>
+<tr><td>LeasingBï¿½rsen.dk</td><td>Denmark, Copenhagen</td><td>2011</td><td>Active</td></tr>
 <tr><td>Legacy.com</td><td>Naperville, IL, United States</td><td>2013</td><td>Active</td></tr>
 <tr><td>Lekha, Inc</td><td>United States, CA, Southern California</td><td>2006</td><td>Dormant</td></tr>
 <tr><td>Lemcon Networks</td><td>Brazil, Barra da Tijuca, Rio De Janeiro</td><td>2009</td><td>Inactive</td></tr>
@@ -2443,7 +2442,7 @@ Most of the table below is self-explanatory, save the 'Hiring Status' column. An
 <tr><td>Limbic Systems, Inc.</td><td>United States, MD, Rockville</td><td>2002</td><td>Dormant</td></tr>
 <tr><td>Lincoln Bay</td><td>United States, Washington, Seattle</td><td>2006</td><td>Dormant</td></tr>
 <tr><td>LincolnBay</td><td>98104, WA, Seattle</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Lindahl Search & Selection ApS</td><td>Danmark, København K</td><td>2006</td><td>Dormant</td></tr>
+<tr><td>Lindahl Search & Selection ApS</td><td>Danmark, Kï¿½benhavn K</td><td>2006</td><td>Dormant</td></tr>
 <tr><td>Line 6</td><td>United States, CA, Agoura Hills</td><td>2005</td><td>Dormant</td></tr>
 <tr><td>Line 6, Inc.</td><td>United States, CA, Calabasas</td><td>2008</td><td>Dormant</td></tr>
 <tr><td>Linear G internet solutions</td><td>Australia, NSW, Lismore</td><td>2006</td><td>Dormant</td></tr>
@@ -2517,7 +2516,7 @@ Most of the table below is self-explanatory, save the 'Hiring Status' column. An
 <tr><td>Lone Star Internet, Inc.</td><td>United States, Texas, Austin</td><td>2008</td><td>Dormant</td></tr>
 <tr><td>Lone Star Software</td><td>Any, Any, Any</td><td>2005</td><td>Dormant</td></tr>
 <tr><td>Longitude, Inc.</td><td>United States, NY, New York City</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Look Communications</td><td>Canada, Québec, Montréal</td><td>2005</td><td>Dormant</td></tr>
+<tr><td>Look Communications</td><td>Canada, Quï¿½bec, Montrï¿½al</td><td>2005</td><td>Dormant</td></tr>
 <tr><td>LookSmart</td><td>United States, CA, San Francisco</td><td>2013</td><td>Active</td></tr>
 <tr><td>LookSmart Canada</td><td>Waterloo, Ontario, Canada</td><td>2011</td><td>Active</td></tr>
 <tr><td>Loop One Inc.</td><td>United States, Texas, Austin</td><td>2007</td><td>Dormant</td></tr>
@@ -2651,7 +2650,7 @@ Most of the table below is self-explanatory, save the 'Hiring Status' column. An
 <tr><td>Mate1.com Inc</td><td>Canada, Quebec, Montreal</td><td>2007</td><td>Dormant</td></tr>
 <tr><td>Mate1.com, Inc.</td><td>Canada, Quebec, Montreal</td><td>2006</td><td>Dormant</td></tr>
 <tr><td>Matrix Resources</td><td>United States, TX, Dallas</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Max-Planck-Institut für molekulare Genetik</td><td>Germany, Berlin</td><td>2005</td><td>Dormant</td></tr>
+<tr><td>Max-Planck-Institut fï¿½r molekulare Genetik</td><td>Germany, Berlin</td><td>2005</td><td>Dormant</td></tr>
 <tr><td>MaxMind</td><td>Undefined</td><td>2012</td><td>Active</td></tr>
 <tr><td>MaxMind LLC</td><td>United States, MA, Boston</td><td>2007</td><td>Dormant</td></tr>
 <tr><td>MaxMind, Inc.</td><td>Undefined</td><td>2013</td><td>Active</td></tr>
@@ -2780,7 +2779,7 @@ Most of the table below is self-explanatory, save the 'Hiring Status' column. An
 <tr><td>Moonlight BPO</td><td>Bend Oregon</td><td>2011</td><td>Active</td></tr>
 <tr><td>Morgan Hunter</td><td>United States, MO, Kansas City</td><td>2005</td><td>Dormant</td></tr>
 <tr><td>Morgan Stanley</td><td>United States, NY, New York City - Downtown</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Morgunblaðið</td><td>Iceland, Reykjavik</td><td>2007</td><td>Dormant</td></tr>
+<tr><td>Morgunblaï¿½iï¿½</td><td>Iceland, Reykjavik</td><td>2007</td><td>Dormant</td></tr>
 <tr><td>Mortgage Desk, Inc.</td><td>United States, IL, Chicago</td><td>2006</td><td>Dormant</td></tr>
 <tr><td>Moss Search</td><td>United States, IL, Chicago</td><td>2004</td><td>Dormant</td></tr>
 <tr><td>Moss Search, LTD</td><td>United States, IL, Chicago</td><td>2006</td><td>Dormant</td></tr>
@@ -2864,7 +2863,7 @@ Most of the table below is self-explanatory, save the 'Hiring Status' column. An
 <tr><td>Nayland Group</td><td>United States, Maryland, Montgomery County</td><td>2002</td><td>Dormant</td></tr>
 <tr><td>Nebtrex Distribution</td><td>Australia, Queensland, Brisbane</td><td>2008</td><td>Dormant</td></tr>
 <tr><td>Nedstat</td><td>Netherlands, Noord Holland, Amsterdam</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Neitzert</td><td>Sweden, Västmaland, Västerås </td><td>2011</td><td>Active</td></tr>
+<tr><td>Neitzert</td><td>Sweden, Vï¿½stmaland, Vï¿½sterï¿½s </td><td>2011</td><td>Active</td></tr>
 <tr><td>NeoNova Network Services</td><td>United States, North Carolina, Raleigh/RTP</td><td>2001</td><td>Dormant</td></tr>
 <tr><td>NeoReality, Inc.</td><td>United States, FL, Fort Myers</td><td>2007</td><td>Dormant</td></tr>
 <tr><td>Neohire.com</td><td>Remote or Santa Monica, Ca</td><td>2013</td><td>Active</td></tr>
@@ -2905,7 +2904,7 @@ Most of the table below is self-explanatory, save the 'Hiring Status' column. An
 <tr><td>Netcentric Computer Solutions</td><td>UNITED STATES - Remote Work into NYC</td><td>2011</td><td>Active</td></tr>
 <tr><td>Netcom Information Technology</td><td>United States, NY, New York</td><td>2005</td><td>Dormant</td></tr>
 <tr><td>Netcraft</td><td>United Kingdom, Somerset, Bath</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Neteffekt e.K.</td><td>Germany, Saarland, Saarbrücken</td><td>2003</td><td>Dormant</td></tr>
+<tr><td>Neteffekt e.K.</td><td>Germany, Saarland, Saarbrï¿½cken</td><td>2003</td><td>Dormant</td></tr>
 <tr><td>Netflix</td><td>United States, CA, Los Gatos</td><td>2011</td><td>Active</td></tr>
 <tr><td>Netmark International</td><td>United States, Alaska, Anchorage</td><td>2003</td><td>Dormant</td></tr>
 <tr><td>Netmark Intl.</td><td>United States, Alaska, Anchorage</td><td>2002</td><td>Dormant</td></tr>
@@ -2967,7 +2966,7 @@ Most of the table below is self-explanatory, save the 'Hiring Status' column. An
 <tr><td>Nimble Storage</td><td>San Jose, CA</td><td>2012</td><td>Active</td></tr>
 <tr><td>Nitro</td><td>Australia, New South Wales, Sydney</td><td>2006</td><td>Dormant</td></tr>
 <tr><td>Nixle.com</td><td>United States, CA, San Francisco</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Nixus Soluções em Internet</td><td>Brazil, SP, São Paulo</td><td>2009</td><td>Inactive</td></tr>
+<tr><td>Nixus Soluï¿½ï¿½es em Internet</td><td>Brazil, SP, Sï¿½o Paulo</td><td>2009</td><td>Inactive</td></tr>
 <tr><td>Noble Vision</td><td>United States, VA, Manassas</td><td>2008</td><td>Dormant</td></tr>
 <tr><td>None yet</td><td>United States, California, Palo Alto</td><td>2010</td><td>Inactive</td></tr>
 <tr><td>NorCa</td><td>Germany, Berlin, Berlin</td><td>2006</td><td>Dormant</td></tr>
@@ -2985,7 +2984,7 @@ Most of the table below is self-explanatory, save the 'Hiring Status' column. An
 <tr><td>Novator Systems</td><td>Canada, Ontario, Toronto</td><td>2007</td><td>Dormant</td></tr>
 <tr><td>Novator Systems Ltd</td><td>Canada, Ontario, Toronto</td><td>2008</td><td>Dormant</td></tr>
 <tr><td>Novator Systems Ltd.</td><td>Canada, Ontario, Toronto</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Novozymes</td><td>Bagsværd, København, Denmark</td><td>2012</td><td>Active</td></tr>
+<tr><td>Novozymes</td><td>Bagsvï¿½rd, Kï¿½benhavn, Denmark</td><td>2012</td><td>Active</td></tr>
 <tr><td>Novozymes A/S</td><td>Denmark, Bagsvaerd / Copenhagen</td><td>2012</td><td>Active</td></tr>
 <tr><td>Novus</td><td>United States, NY, New York</td><td>2008</td><td>Dormant</td></tr>
 <tr><td>Nuance Communications</td><td>Canada, Quebec, Montreal</td><td>2006</td><td>Dormant</td></tr>
@@ -3232,8 +3231,8 @@ Most of the table below is self-explanatory, save the 'Hiring Status' column. An
 <tr><td>PalmVid.com</td><td>United States, CO, Colorado Springs</td><td>2011</td><td>Active</td></tr>
 <tr><td>Panther Consult</td><td>Austria, Vienna, Vienna</td><td>2009</td><td>Inactive</td></tr>
 <tr><td>Paradigm Healthcare Services</td><td>United States, CA, San Francisco</td><td>2011</td><td>Active</td></tr>
-<tr><td>Paradigma Tecnologico</td><td>España, Madrid, Pozuelo de Alarcón</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Paradigma Tecnológico</td><td>Spain, Madrid, Pozuelo de Alarcón</td><td>2008</td><td>Dormant</td></tr>
+<tr><td>Paradigma Tecnologico</td><td>Espaï¿½a, Madrid, Pozuelo de Alarcï¿½n</td><td>2008</td><td>Dormant</td></tr>
+<tr><td>Paradigma Tecnolï¿½gico</td><td>Spain, Madrid, Pozuelo de Alarcï¿½n</td><td>2008</td><td>Dormant</td></tr>
 <tr><td>Paragon IT</td><td>United Kingdom, Bristol</td><td>2002</td><td>Dormant</td></tr>
 <tr><td>Parallel HR</td><td>United States, NY, New York City</td><td>2011</td><td>Active</td></tr>
 <tr><td>Parallel HR Solutions</td><td>United States, New York, New York</td><td>2012</td><td>Active</td></tr>
@@ -3314,7 +3313,7 @@ Most of the table below is self-explanatory, save the 'Hiring Status' column. An
 <tr><td>Personalmanagement Blank GmbH</td><td>Germany, Bayern, Munich</td><td>2005</td><td>Dormant</td></tr>
 <tr><td>Personnel Resources</td><td>United States, Missouri, St. Louis</td><td>2002</td><td>Dormant</td></tr>
 <tr><td>PetaMem</td><td>Prague</td><td>2011</td><td>Active</td></tr>
-<tr><td>PetaMem GmbH</td><td>Germany, Fürth</td><td>2003</td><td>Dormant</td></tr>
+<tr><td>PetaMem GmbH</td><td>Germany, Fï¿½rth</td><td>2003</td><td>Dormant</td></tr>
 <tr><td>Petersburg Holding</td><td>United States, FL</td><td>2009</td><td>Inactive</td></tr>
 <tr><td>Petfinder.com</td><td>United States, NJ, Pittstown</td><td>2006</td><td>Dormant</td></tr>
 <tr><td>PharmaVentures Ltd</td><td>United Kingdom, Oxfordshire, Oxford</td><td>2009</td><td>Inactive</td></tr>
@@ -3406,7 +3405,7 @@ Most of the table below is self-explanatory, save the 'Hiring Status' column. An
 <tr><td>PrO Unlimited</td><td>United States, CA, Burlingame</td><td>2003</td><td>Dormant</td></tr>
 <tr><td>Praetoria Development, Inc.</td><td>United States, FL, Miami</td><td>2006</td><td>Dormant</td></tr>
 <tr><td>Pralaya Software Solutions, Inc.</td><td>United States, CA, Bay Area</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Praxway inc.</td><td>Canada, Québec, Montréal</td><td>2003</td><td>Dormant</td></tr>
+<tr><td>Praxway inc.</td><td>Canada, Quï¿½bec, Montrï¿½al</td><td>2003</td><td>Dormant</td></tr>
 <tr><td>Precision Dynamics</td><td>United States, CA, San Fernando</td><td>2011</td><td>Active</td></tr>
 <tr><td>Precision Recruiting Services Inc.</td><td>Canada, Ontario, Toronto - Kitchener - Waterloo</td><td>2008</td><td>Dormant</td></tr>
 <tr><td>Precision Translation Tools</td><td>Bangkok, Thailand</td><td>2013</td><td>Active</td></tr>
@@ -3432,7 +3431,7 @@ Most of the table below is self-explanatory, save the 'Hiring Status' column. An
 <tr><td>Primedia Business Magazines & Media</td><td>United States, New York, New York</td><td>2004</td><td>Dormant</td></tr>
 <tr><td>Primedia Internet Resources and Technology (PIRT)</td><td>United States, NY, New York</td><td>2004</td><td>Dormant</td></tr>
 <tr><td>Primedia, Inc.</td><td>United States, NY, New York</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Primesoft - Soluções em Outsourcing</td><td>Portugal, Lisbon</td><td>2007</td><td>Dormant</td></tr>
+<tr><td>Primesoft - Soluï¿½ï¿½es em Outsourcing</td><td>Portugal, Lisbon</td><td>2007</td><td>Dormant</td></tr>
 <tr><td>Prince, Perelson</td><td>United States, Utah, Salt Lake City</td><td>2003</td><td>Dormant</td></tr>
 <tr><td>Princeton Information</td><td>United States, NY, New York City</td><td>2010</td><td>Inactive</td></tr>
 <tr><td>Principia Partners LLC</td><td>United States, Pennsylvania, Conshohocken</td><td>2007</td><td>Dormant</td></tr>
@@ -3896,7 +3895,7 @@ Most of the table below is self-explanatory, save the 'Hiring Status' column. An
 <tr><td>Siemens Corporation</td><td>United States, Florida, Orlando</td><td>2002</td><td>Dormant</td></tr>
 <tr><td>Siemens Internet Services</td><td>United Kingdom, Berkshire, Maidenhead</td><td>2007</td><td>Dormant</td></tr>
 <tr><td>Sievers Security Inc.</td><td>United States, Ohio, Cleveland</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Sifira</td><td>Danmark, København K</td><td>2006</td><td>Dormant</td></tr>
+<tr><td>Sifira</td><td>Danmark, Kï¿½benhavn K</td><td>2006</td><td>Dormant</td></tr>
 <tr><td>Sift Group Ltd</td><td>United Kingdom, Bristol</td><td>2003</td><td>Dormant</td></tr>
 <tr><td>Sigma Search Group Inc.</td><td>Canada, BC, Vancouver - Metro Vancouver</td><td>2008</td><td>Dormant</td></tr>
 <tr><td>Sigma Space Corporation</td><td>Lanham, MD</td><td>2012</td><td>Active</td></tr>
@@ -4062,7 +4061,7 @@ Most of the table below is self-explanatory, save the 'Hiring Status' column. An
 <tr><td>Stealth</td><td>United States, CA, San Mateo</td><td>2005</td><td>Dormant</td></tr>
 <tr><td>Stealth LA dot com</td><td>United States, CA, West Hollywood</td><td>2006</td><td>Dormant</td></tr>
 <tr><td>Stealth Media Company</td><td>United States, CA, Hayward</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Stefanini IT Solutions</td><td>Brazil, São Paulo, São Paulo</td><td>2010</td><td>Inactive</td></tr>
+<tr><td>Stefanini IT Solutions</td><td>Brazil, Sï¿½o Paulo, Sï¿½o Paulo</td><td>2010</td><td>Inactive</td></tr>
 <tr><td>Stellar Software Network, Inc.</td><td>United States, TX, Irving</td><td>2003</td><td>Dormant</td></tr>
 <tr><td>Stellargy Services</td><td>United States, Texas, Austin</td><td>2007</td><td>Dormant</td></tr>
 <tr><td>Stellarware Corporation</td><td>Undefined</td><td>2013</td><td>Active</td></tr>
@@ -4094,7 +4093,7 @@ Most of the table below is self-explanatory, save the 'Hiring Status' column. An
 <tr><td>Strongmail Systems</td><td>United States, Los Angeles</td><td>2003</td><td>Dormant</td></tr>
 <tr><td>StubHub</td><td>United States, CA, San Francisco</td><td>2007</td><td>Dormant</td></tr>
 <tr><td>Stubhub/Ebay</td><td>United States, CA, San Francisco</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Styria Börse Express</td><td>Austria, Vienna, Vienna</td><td>2010</td><td>Inactive</td></tr>
+<tr><td>Styria Bï¿½rse Express</td><td>Austria, Vienna, Vienna</td><td>2010</td><td>Inactive</td></tr>
 <tr><td>Subex Ltd</td><td>Bangalore, India</td><td>2011</td><td>Active</td></tr>
 <tr><td>Subtle Motion Media</td><td>Canada, Ontario, Toronto</td><td>2009</td><td>Inactive</td></tr>
 <tr><td>Success Wave Marketing</td><td>TX, Flower Mound</td><td>2003</td><td>Dormant</td></tr>
@@ -4129,7 +4128,7 @@ Most of the table below is self-explanatory, save the 'Hiring Status' column. An
 <tr><td>SweetSpot Labs, Inc.</td><td>United States, CA, Pacific Palisades</td><td>2005</td><td>Dormant</td></tr>
 <tr><td>Swiftech</td><td>Canada, Ontario, Toronto</td><td>2002</td><td>Dormant</td></tr>
 <tr><td>Swiftysite</td><td>Cyprus</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Swisscom</td><td>Switzerland, BE or ZH, Bern or Zürich</td><td>2007</td><td>Dormant</td></tr>
+<tr><td>Swisscom</td><td>Switzerland, BE or ZH, Bern or Zï¿½rich</td><td>2007</td><td>Dormant</td></tr>
 <tr><td>Swissgame NV</td><td>Curacao, </td><td>2011</td><td>Active</td></tr>
 <tr><td>Swisslinx AG</td><td>Switzerland, Zurich</td><td>2002</td><td>Dormant</td></tr>
 <tr><td>Switch Management</td><td>United States, CA, San Francisco</td><td>2010</td><td>Inactive</td></tr>
@@ -4472,7 +4471,7 @@ Most of the table below is self-explanatory, save the 'Hiring Status' column. An
 <tr><td>Trade Only</td><td>Manchester, UK</td><td>2012</td><td>Active</td></tr>
 <tr><td>TrafficMac</td><td>United States, New York, Manhattan</td><td>2005</td><td>Dormant</td></tr>
 <tr><td>Trafficmac</td><td>United States, NY, New York</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Traffics- Softwaresysteme für den Tourismus GmbH</td><td>Germany, Berlin</td><td>2010</td><td>Inactive</td></tr>
+<tr><td>Traffics- Softwaresysteme fï¿½r den Tourismus GmbH</td><td>Germany, Berlin</td><td>2010</td><td>Inactive</td></tr>
 <tr><td>Trafika Ltd</td><td>United Kingdom, London</td><td>2004</td><td>Dormant</td></tr>
 <tr><td>Training</td><td>United States, TX, Fort Worth</td><td>2005</td><td>Dormant</td></tr>
 <tr><td>TrainingBoard</td><td>UK, London</td><td>2001</td><td>Dormant</td></tr>
@@ -4585,7 +4584,7 @@ Most of the table below is self-explanatory, save the 'Hiring Status' column. An
 <tr><td>Unisys Corp</td><td>United States, DC, Washington</td><td>2003</td><td>Dormant</td></tr>
 <tr><td>United Federation of Teachers</td><td>United States, New York, New York City</td><td>2005</td><td>Dormant</td></tr>
 <tr><td>United Games Limited</td><td>United Kingdom</td><td>2013</td><td>Active</td></tr>
-<tr><td>United Internet AG (1&1, WEB.DE, GMX)</td><td>Germany, Baden-Württemberg, Karlsruhe</td><td>2008</td><td>Dormant</td></tr>
+<tr><td>United Internet AG (1&1, WEB.DE, GMX)</td><td>Germany, Baden-Wï¿½rttemberg, Karlsruhe</td><td>2008</td><td>Dormant</td></tr>
 <tr><td>United Online</td><td>United States, UT, Orem</td><td>2004</td><td>Dormant</td></tr>
 <tr><td>United Online, Inc. (www.untd.com)</td><td>United States, Utah, Orem</td><td>2006</td><td>Dormant</td></tr>
 <tr><td>United States Bankruptcy Cou</td><td>United States, Florida, Tampa or Orlando (Duty Station to be determined by</td><td>2010</td><td>Inactive</td></tr>
@@ -4789,7 +4788,7 @@ Most of the table below is self-explanatory, save the 'Hiring Status' column. An
 <tr><td>Way Forward New Media Recruitment</td><td>United Kingdom, Central London, London</td><td>2004</td><td>Dormant</td></tr>
 <tr><td>WaySpa.com</td><td>Canada, Ontario, Toronto</td><td>2008</td><td>Dormant</td></tr>
 <tr><td>We Also Walk Dogs</td><td>United States, Illinois, Chicago</td><td>2011</td><td>Active</td></tr>
-<tr><td>WeCARE - Gesellschaft für interdisziplinäres Gesundheitsmanagment</td><td>DE, Lower Saxony / Niedersachsen, Göttingen</td><td>2007</td><td>Dormant</td></tr>
+<tr><td>WeCARE - Gesellschaft fï¿½r interdisziplinï¿½res Gesundheitsmanagment</td><td>DE, Lower Saxony / Niedersachsen, Gï¿½ttingen</td><td>2007</td><td>Dormant</td></tr>
 <tr><td>Weatherly Technologies</td><td>United States, NJ, Jersey City</td><td>2007</td><td>Dormant</td></tr>
 <tr><td>Web 2.0 Art Platform</td><td>United States, MA, Boston</td><td>2009</td><td>Inactive</td></tr>
 <tr><td>Web Development / Search Engine Company</td><td>United States, WA, Seattle</td><td>2007</td><td>Dormant</td></tr>
@@ -5018,7 +5017,7 @@ Most of the table below is self-explanatory, save the 'Hiring Status' column. An
 <tr><td>bkwholesale</td><td>United States, ca, sacramento</td><td>2006</td><td>Dormant</td></tr>
 <tr><td>blackink</td><td>South Africa, Cape Town</td><td>2004</td><td>Dormant</td></tr>
 <tr><td>blank for screening</td><td>United States, PA, Philadelphia</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>blekko</td><td>United States, CA, Redwood Shores</td><td>2009</td><td>Inactive</td></tr>
+<tr><td>blekko</td><td>United States, CA, Redwood Shores</td><td>2013</td><td>Active</td></tr>
 <tr><td>blip.tv</td><td>United States, NY, New York</td><td>2006</td><td>Dormant</td></tr>
 <tr><td>brookbend outdoor furniture</td><td>United States, ma, hopkinton</td><td>2002</td><td>Dormant</td></tr>
 <tr><td>bushcards.com</td><td>United States, ny, new york</td><td>2003</td><td>Dormant</td></tr>
@@ -5030,7 +5029,7 @@ Most of the table below is self-explanatory, save the 'Hiring Status' column. An
 <tr><td>cPanel, Inc</td><td>Houston, TX</td><td>2013</td><td>Active</td></tr>
 <tr><td>careerfactorllc.com</td><td>USQ, CT, New Haven County</td><td>2003</td><td>Dormant</td></tr>
 <tr><td>cargotel</td><td>United States, md, telecommute</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>chi</td><td>Brazil, São Paulo, São Paulo</td><td>2009</td><td>Inactive</td></tr>
+<tr><td>chi</td><td>Brazil, Sï¿½o Paulo, Sï¿½o Paulo</td><td>2009</td><td>Inactive</td></tr>
 <tr><td>chileviagem</td><td>chile, pucon, pucon</td><td>2004</td><td>Dormant</td></tr>
 <tr><td>citysearch</td><td>United States, CA, Los Angeles</td><td>2004</td><td>Dormant</td></tr>
 <tr><td>ciudadnet</td><td>chile, chile, chile</td><td>2004</td><td>Dormant</td></tr>
@@ -5049,7 +5048,7 @@ Most of the table below is self-explanatory, save the 'Hiring Status' column. An
 <tr><td>delphi HR-Systems GmbH</td><td>Germany, Hamburg</td><td>2007</td><td>Dormant</td></tr>
 <tr><td>demoxi Inc</td><td>United States, WA, Bellevue</td><td>2007</td><td>Dormant</td></tr>
 <tr><td>dp connect</td><td>United Kingdom, London</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>dress-for-less GmbH</td><td>Germany, 65439 Flörsheim am Main</td><td>2013</td><td>Active</td></tr>
+<tr><td>dress-for-less GmbH</td><td>Germany, 65439 Flï¿½rsheim am Main</td><td>2013</td><td>Active</td></tr>
 <tr><td>dxi corp</td><td>greece, athens</td><td>2004</td><td>Dormant</td></tr>
 <tr><td>e screening room</td><td>United States, CA, San Rafael</td><td>2006</td><td>Dormant</td></tr>
 <tr><td>e screening room (non-profit)</td><td>United States, CA, San Francisco</td><td>2005</td><td>Dormant</td></tr>
@@ -5176,7 +5175,7 @@ Most of the table below is self-explanatory, save the 'Hiring Status' column. An
 <tr><td>karmadownload.com</td><td>United Kingdom, London</td><td>2005</td><td>Dormant</td></tr>
 <tr><td>kgbweb</td><td>United States, NY, New York</td><td>2009</td><td>Inactive</td></tr>
 <tr><td>large interactive agency</td><td>United States, New York, New York</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>latz://new.media</td><td>Deutschland, Saarland, Saarbrücken</td><td>2003</td><td>Dormant</td></tr>
+<tr><td>latz://new.media</td><td>Deutschland, Saarland, Saarbrï¿½cken</td><td>2003</td><td>Dormant</td></tr>
 <tr><td>lawnsales llc</td><td>United States, california, santa monica</td><td>2007</td><td>Dormant</td></tr>
 <tr><td>log</td><td>Portugal, Lisbon</td><td>2005</td><td>Dormant</td></tr>
 <tr><td>log - Open Source Consulting</td><td>Portugal, Lisbon</td><td>2007</td><td>Dormant</td></tr>
@@ -5218,7 +5217,7 @@ Most of the table below is self-explanatory, save the 'Hiring Status' column. An
 <tr><td>nnit A/S</td><td>Denmark, Copenhagen, Bagsvaerd</td><td>2010</td><td>Inactive</td></tr>
 <tr><td>non disclosed</td><td>ny -teleconmute</td><td>2013</td><td>Active</td></tr>
 <tr><td>none</td><td>02906, RI, Providence</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>noris network AG</td><td>Deutschland, Nürnberg</td><td>2012</td><td>Active</td></tr>
+<tr><td>noris network AG</td><td>Deutschland, Nï¿½rnberg</td><td>2012</td><td>Active</td></tr>
 <tr><td>noyona.com</td><td>United States, CA, Palo Alto</td><td>2006</td><td>Dormant</td></tr>
 <tr><td>oDesk</td><td>United States, CA, Menlo Park</td><td>2012</td><td>Active</td></tr>
 <tr><td>one of MNC client based out in Bangalore</td><td>Bangalore</td><td>2013</td><td>Active</td></tr>
@@ -5260,7 +5259,7 @@ Most of the table below is self-explanatory, save the 'Hiring Status' column. An
 <tr><td>stealth mode</td><td>United States, San Francisco, CA</td><td>2010</td><td>Inactive</td></tr>
 <tr><td>stimTV</td><td>United States, CA, Oxnard</td><td>2005</td><td>Dormant</td></tr>
 <tr><td>sysinteger</td><td>Germany, Bayern, Muenchen/Munich</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>systags GmbH</td><td>Germany, NRW, Düsseldorf</td><td>2007</td><td>Dormant</td></tr>
+<tr><td>systags GmbH</td><td>Germany, NRW, Dï¿½sseldorf</td><td>2007</td><td>Dormant</td></tr>
 <tr><td>t.b.a.</td><td>United States, CA, Santa Monica</td><td>2007</td><td>Dormant</td></tr>
 <tr><td>the Rubicon Project</td><td>United States, CA, Los Angeles</td><td>2011</td><td>Active</td></tr>
 <tr><td>thecitysecret ltd</td><td>United Kingdom, North Yorkshire, Richmond</td><td>2008</td><td>Dormant</td></tr>
@@ -5276,9 +5275,9 @@ Most of the table below is self-explanatory, save the 'Hiring Status' column. An
 <tr><td>ts.com Ltd</td><td>United Kingdom, Oxfordshire, Kidlington</td><td>2005</td><td>Dormant</td></tr>
 <tr><td>tuscany networks Ltd.</td><td>United Kingdom, Hampshire, Basingstoke</td><td>2011</td><td>Active</td></tr>
 <tr><td>undisclosed until candidate is selected</td><td>United States, Illinois / New York, Chicago / New York City</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>uptime systemlösungen gmbh</td><td>Austria, vienna</td><td>2003</td><td>Dormant</td></tr>
+<tr><td>uptime systemlï¿½sungen gmbh</td><td>Austria, vienna</td><td>2003</td><td>Dormant</td></tr>
 <tr><td>urbia.com AG</td><td>Germany, NRW, Cologne</td><td>2011</td><td>Active</td></tr>
-<tr><td>urbia.com AG - ein Unternehmen von Gruner+Jahr</td><td>Köln / Cologne, NRW, Germany</td><td>2012</td><td>Active</td></tr>
+<tr><td>urbia.com AG - ein Unternehmen von Gruner+Jahr</td><td>Kï¿½ln / Cologne, NRW, Germany</td><td>2012</td><td>Active</td></tr>
 <tr><td>vMoksha Technologies</td><td>United States, CA, Bay Area</td><td>2003</td><td>Dormant</td></tr>
 <tr><td>vertraulich - wird im ErstgesprÃ¤ch genannt</td><td>Deutschland / Germany, Berlin</td><td>2010</td><td>Inactive</td></tr>
 <tr><td>vice versa limited</td><td>United Kingdom, London</td><td>2003</td><td>Dormant</td></tr>
@@ -5286,7 +5285,7 @@ Most of the table below is self-explanatory, save the 'Hiring Status' column. An
 <tr><td>voxclever</td><td>Bracknell, United Kingdom</td><td>2013</td><td>Active</td></tr>
 <tr><td>web advertising company</td><td>France, Paris</td><td>2011</td><td>Active</td></tr>
 <tr><td>webbee esolutions private limited</td><td>india, delhi, delhi</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>webit! Gesellschaft für neue Medien mbH</td><td>Germany, Saxony, Dresden</td><td>2008</td><td>Dormant</td></tr>
+<tr><td>webit! Gesellschaft fï¿½r neue Medien mbH</td><td>Germany, Saxony, Dresden</td><td>2008</td><td>Dormant</td></tr>
 <tr><td>webline productions Inc.</td><td>United States, Florida, Boca Raton</td><td>2001</td><td>Dormant</td></tr>
 <tr><td>wishli.st</td><td>United Kingdom, Northumberland, Hexham</td><td>2008</td><td>Dormant</td></tr>
 <tr><td>writch</td><td>United States, CA, Ukiah</td><td>2009</td><td>Inactive</td></tr>
@@ -5299,5 +5298,5 @@ Most of the table below is self-explanatory, save the 'Hiring Status' column. An
 <tr><td>www.ustrippoker.com</td><td>Canada, Manitoba, ONline</td><td>2007</td><td>Dormant</td></tr>
 <tr><td>www.zoek.nl B.V.</td><td>The netherlands, Overijssel, Zwolle</td><td>2004</td><td>Dormant</td></tr>
 <tr><td>ziStudio.net</td><td>Canada, Alberta, Edmonton</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Österreichische Webanalyse</td><td>Österreich, Wien</td><td>2006</td><td>Dormant</td></tr>
+<tr><td>ï¿½sterreichische Webanalyse</td><td>ï¿½sterreich, Wien</td><td>2006</td><td>Dormant</td></tr>
 </table>
