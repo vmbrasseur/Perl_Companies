@@ -1234,8 +1234,8 @@ Most of the table below is self-explanatory, save the 'Hiring Status' column. An
 <tr><td>Dawson IT Search</td><td>Upstate Michigan</td><td>2008</td><td>Dormant</td></tr>
 <tr><td>Dawson Resources</td><td>United States, MI, Traverse City</td><td>2007</td><td>Dormant</td></tr>
 <tr><td>Dawson resources</td><td>Columbus, OH</td><td>2012</td><td>Active</td></tr>
-<tr><td>Daxtra</td><td>Edinburgh, Scotland, United Kingdom</td><td>2013</td><td>Active</td></tr>
-<tr><td>Daxtra Technologies</td><td>Edinburgh, Midlothian, Scotland</td><td>2012</td><td>Active</td></tr>
+<tr><td>Daxtra Technologies Ltd</td><td>Edinburgh, Scotland, United Kingdom</td><td>2013</td><td>Active</td></tr>
+<tr><td>Daxtra Technologies Inc</td><td>Richmond, VA, United States</td><td>2013</td><td>Active</td></tr>
 <tr><td>DeNA</td><td>ShangHai</td><td>2012</td><td>Active</td></tr>
 <tr><td>Dealtime</td><td>Israel</td><td>2003</td><td>Dormant</td></tr>
 <tr><td>Dean Montgomery Associates</td><td>United States, Florida, Largo, Tampa Bay area</td><td>2004</td><td>Dormant</td></tr>
@@ -2222,6 +2222,7 @@ Most of the table below is self-explanatory, save the 'Hiring Status' column. An
 <tr><td>Investment Bank</td><td>United Kingdom, London, City of London/Canary Wharf</td><td>2011</td><td>Active</td></tr>
 <tr><td>Investment Bank </td><td>United States, NY, New York</td><td>2008</td><td>Dormant</td></tr>
 <tr><td>Investor DNA</td><td>United States, NY, New York</td><td>2008</td><td>Dormant</td></tr>
+<tr><td>Inview Technology Ltd</td><td>Northwich, Cheshire, United Kingdom</td><td>2013</td><td>Active</td></tr>
 <tr><td>Inweb</td><td>United Kingdom, southwest London</td><td>2003</td><td>Dormant</td></tr>
 <tr><td>Ionzero</td><td>Telecommute</td><td>2013</td><td>Active</td></tr>
 <tr><td>Ionzero </td><td>United States, CO, Fort Collins</td><td>2011</td><td>Active</td></tr>
