@@ -2509,8 +2509,6 @@ Most of the table below is self-explanatory, save the 'Hiring Status' column. An
 <tr><td>Lok Technology</td><td>United States, CA, San Jose</td><td>2007</td><td>Dormant</td></tr>
 <tr><td>Lok Technology, Inc.</td><td>United States, Florida, Vero Beach</td><td>2005</td><td>Dormant</td></tr>
 <tr><td>Lokku</td><td>United Kingdom, Central London</td><td>2013</td><td>Active</td></tr>
-<tr><td>Lokku Limited</td><td>United Kingdom, London</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Lokku Ltd.</td><td>United Kingdom, London</td><td>2010</td><td>Inactive</td></tr>
 <tr><td>London Music Thing</td><td>United Kingdom, London, London</td><td>2006</td><td>Dormant</td></tr>
 <tr><td>London School of Economics and Political Science</td><td>United Kingdom, London, London</td><td>2008</td><td>Dormant</td></tr>
 <tr><td>London South Bank University/Thames Computer Services</td><td>United Kingdom, Central London, London</td><td>2010</td><td>Inactive</td></tr>
