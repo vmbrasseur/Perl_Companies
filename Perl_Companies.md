@@ -4406,7 +4406,6 @@ Most of the table below is self-explanatory, save the 'Hiring Status' column. An
 <tr><td>Think Wize</td><td>Belgium, Flanders, Ghent</td><td>2006</td><td>Dormant</td></tr>
 <tr><td>ThinkAhead Advisory Services Pvt Ltd</td><td>India, Karnataka, Bangalore</td><td>2006</td><td>Dormant</td></tr>
 <tr><td>ThinkGeek</td><td>United States, Virginia, Fairfax</td><td>2013</td><td>Active</td></tr>
-<tr><td>ThinkGeek, Inc.</td><td>United States, Virginia, Fairfax</td><td>2003</td><td>Dormant</td></tr>
 <tr><td>ThinkTank Management Consulting</td><td>Germany, Hessen, Darmstadt</td><td>2010</td><td>Inactive</td></tr>
 <tr><td>Thinkronize, Inc.</td><td>United States, OH, Cincinnati</td><td>2006</td><td>Dormant</td></tr>
 <tr><td>Thinkstock LLC</td><td>United States, NC, Charlotte</td><td>2003</td><td>Dormant</td></tr>
