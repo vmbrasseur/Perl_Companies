@@ -2115,7 +2115,7 @@ Most of the table below is self-explanatory, save the 'Hiring Status' column. An
 <tr><td>Indoff. Inc</td><td>United States, MO, St. Louis</td><td>2008</td><td>Dormant</td></tr>
 <tr><td>Inernational Computer Network</td><td>United States, PA, Bristol</td><td>2008</td><td>Dormant</td></tr>
 <tr><td>Infinity</td><td>Munich</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Infinity Interactive, Inc.</td><td>United States, NY, New York</td><td>2006</td><td>Dormant</td></tr>
+<tr><td>Infinity Interactive, Inc.</td><td>United States, NY, New York</td><td>2006</td><td>Active</td></tr>
 <tr><td>Info Plus International</td><td>United States, CA, San Mateo</td><td>2007</td><td>Dormant</td></tr>
 <tr><td>Info Tech Inc.</td><td>United States, FL, Gainesville</td><td>2007</td><td>Dormant</td></tr>
 <tr><td>Info Tech, Inc.</td><td>United States, FL, Gainesville</td><td>2006</td><td>Dormant</td></tr>
