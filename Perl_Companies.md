@@ -1741,8 +1741,7 @@ Most of the table below is self-explanatory, save the 'Hiring Status' column. An
 <tr><td>Gate Staffing</td><td>United States, NY, New York</td><td>2010</td><td>Inactive</td></tr>
 <tr><td>Gator Technologies,Inc.</td><td>United States, IL, Chicago</td><td>2003</td><td>Dormant</td></tr>
 <tr><td>GeNUA mbH</td><td>Germany, Bavaria, Kirchheim near Munich</td><td>2011</td><td>Active</td></tr>
-<tr><td>Geek.net</td><td>Ann Arbor, MI, USA</td><td>2011</td><td>Active</td></tr>
-<tr><td>Geeknet, Inc.</td><td>Dexter, MI</td><td>2012</td><td>Active</td></tr>
+<tr><td>Slashdot Media</td><td>Dexter, MI</td><td>2012</td><td>Active</td></tr>
 <tr><td>Geeks For Less</td><td>United States, TN, Knoxville</td><td>2009</td><td>Inactive</td></tr>
 <tr><td>Gelo Photos</td><td>Greece</td><td>2005</td><td>Dormant</td></tr>
 <tr><td>GenaRes</td><td>United States, TX, Grapevine</td><td>2007</td><td>Dormant</td></tr>
