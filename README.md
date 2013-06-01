@@ -20,7 +20,7 @@ FILES AND DIRECTORIES
 * **./exceptions.txt**: If the script which generated the Perl_Companies files could not locate a name in the posting, the name of the file of the posting (equivalent to a message to [jobs.perl.org](http://jobs.perl.org)) was added to this file for future review.
 * **./scripts**:
 	* **./scripts/get_job_postings.pl**: The script (originally written by [brian d foy](http://search.cpan.org/~bdfoy/) and slightly modified here) which scans through all the messages sent to [jobs.perl.org](http://jobs.perl.org) and dumps each posting to a separate file under _./job_postings_. It is not anticipated that this script will be necessary now that the files are generated, but here it is for posterity.
-	* **./scripts/create_companies_list.pl**: The script which originally generated the Perl_Companies files. It started as a script by [brian d. foy](http://search.cpan.org/~bdfoy/) and has been heavily modified. It is not anticipated that this script will be needed now that the files are generated, but here it is for posterity.
+	* **./scripts/create_companies_list.pl**: The script which originally generated the Perl_Companies files. It started as a script by [brian d foy](http://search.cpan.org/~bdfoy/) and has been heavily modified. It is not anticipated that this script will be needed now that the files are generated, but here it is for posterity.
 * **./job_postings**: A directory of many thousands of files. Each file is a job posting which was sent to [jobs.perl.org](http://jobs.perl.org) over the years. It was created by _./scripts/get_job_postings.pl_.
 
 CONTRIBUTING
@@ -37,7 +37,7 @@ So **I am grateful for all pull requests and bug reports**. I ask only that:
 
 CREDITS
 -------
-This project started out as a fork of [jobs.perl.org-jobs-counter](https://github.com/briandfoy/jobs.perl.org-jobs-counter) by [brian d. foy](http://search.cpan.org/~bdfoy/) and owes an immense debt to him for it.
+This project started out as a fork of [jobs.perl.org-jobs-counter](https://github.com/briandfoy/jobs.perl.org-jobs-counter) by [brian d foy](http://search.cpan.org/~bdfoy/) and owes an immense debt to him for it.
 
 Thank you, [Jeff Thalhammer](http://search.cpan.org/~thaljef/), for additional motivation to make this happen.
 
