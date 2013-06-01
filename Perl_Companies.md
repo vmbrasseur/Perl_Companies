@@ -1317,7 +1317,7 @@ Diversified Services Network | United States, WI, Madison | 2006 | Dormant
 Dnd | Brazil, Sao Paulo, Sao Paulo | 2007 | Dormant
 Dobie Media, Inc | Nashville, TN | 2012 | Active
 Dobie Media, Inc. | United States, TN, Nashville | 2010 | Inactive
-DoctorBase | San Francisco | 2010 | Inactive
+DoctorBase | San Francisco | 2010 | Active
 Dodo Australia | Australia, VIC, Melbourne | 2010 | Inactive
 Domino's Pizza LLC | US, Michigan, Ann Arbor | 2011 | Active
 Donhost Limited | United Kingdom, Yorkshire, Doncaster | 2003 | Dormant
