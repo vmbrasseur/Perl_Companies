@@ -24,13 +24,12 @@ open my $fh, '>', 'generated_company_list.csv';
 $csv->print( $fh => [
     "Company Name",
     "Company Location",
-    "Most Recent Posting",
-    "Hiring Status",
+    "Most Recent Posting"
 ]);
 
 for( @companies ) {
     $csv->print( $fh => [
-        @{$_}{qw/ name location most_recent_posting hiring_status /}
+        @{$_}{qw/ name location most_recent_posting /}
     ]);
 }
 

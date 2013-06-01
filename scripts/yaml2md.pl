@@ -27,11 +27,11 @@ print {$fh} $_ for <DATA>;
 
 for( @companies ) {
     my @cells = 
-        @{$_}{qw/ name location most_recent_posting hiring_status /};
+        @{$_}{qw/ name location most_recent_posting /};
 
     s/\|/\\|/g for @cells;
 
-    say $fh sprintf "%-20s | %-30s | %5s | %s", @cells;
+    say $fh sprintf "%-20s | %-30s | %5s", @cells;
 }
 
 

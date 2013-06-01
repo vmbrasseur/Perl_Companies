@@ -134,15 +134,13 @@ sub output_line {
            $location, 
            "\", \"", 
            $year,
-           "\", \"",
-           $status, 
            "\"";
 	}
 	elsif ($type eq 'md') {
-		return "<tr><td>$name</td><td>$location</td><td>$year</td><td>$status</td></tr>";
+		return "$name | $location | $year";
 	} 
 	else {
-		return "$name\n\t$location\n\t$status";
+		return "$name\n\t$location\n\t$year";
 	}
 }
 
