@@ -1734,8 +1734,6 @@ Garrett Casey | United States, New Jersey, Hoboken | 2004 | Dormant
 Gate Staffing | United States, NY, New York | 2010 | Inactive
 Gator Technologies,Inc. | United States, IL, Chicago | 2003 | Dormant
 GeNUA mbH | Germany, Bavaria, Kirchheim near Munich | 2011 | Active
-Geek.net | Ann Arbor, MI, USA | 2011 | Active
-Geeknet, Inc. | Dexter, MI | 2012 | Active
 Geeks For Less | United States, TN, Knoxville | 2009 | Inactive
 Gelo Photos | Greece | 2005 | Dormant
 GenaRes | United States, TX, Grapevine | 2007 | Dormant
@@ -3932,6 +3930,7 @@ Skymarx | Canada, Ontario, Toronto | 2004 | Dormant
 Skymarx Solutions | Canada, Alberta, Canmore | 2005 | Dormant
 Skytek | Italy, Padova, Padova | 2005 | Dormant
 Slando | United Kingdom, London, Southwark | 2011 | Active
+Slashdot Media | Dexter, MI | 2012 | Active
 Slideshare | India, Delhi, New Delhi | 2007 | Dormant
 Slim Devices, Inc. | United States, CA, Mountain View | 2005 | Dormant
 Smart Marketing | United States, Georgia, Norcross | 2007 | Dormant
