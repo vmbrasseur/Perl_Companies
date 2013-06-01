@@ -2773,7 +2773,7 @@ Moonfruit | United Kingdom, London | 2007 | Dormant
 Moonfruit.com | United Kingdom, London, London | 2011 | Active
 Moonlight BPO | Bend Oregon | 2011 | Active
 Morgan Hunter | United States, MO, Kansas City | 2005 | Dormant
-Morgan Stanley | United States, NY, New York City - Downtown | 2010 | Inactive
+Morgan Stanley | United States, NY, New York City - Downtown | 2010 | Active
 Morgunblaðið | Iceland, Reykjavik | 2007 | Dormant
 Mortgage Desk, Inc. | United States, IL, Chicago | 2006 | Dormant
 Moss Search | United States, IL, Chicago | 2004 | Dormant
