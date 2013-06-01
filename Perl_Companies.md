@@ -2148,6 +2148,7 @@ IntApp | United States, CA, Palo Alto | 2007 | Dormant
 IntApp, Inc. | United States, CA, Palo Alto | 2007 | Dormant
 IntY | United Kingdom, South West, Bristol | 2006 | Dormant
 Intasys Billing Technologies Ltd | Scotland, Midlothian, Edinburgh | 2002 | Dormant
+Integra | United States, OR, Portland | 2011 | Active
 Integralis Services GmbH | Germany, Bavaria, Ismaning | 2013 | Active
 Integration Appliance | United States, California, Palo Alto | 2008 | Dormant
 Integration Appliance, Inc. | United States, CA, Palo Alto | 2006 | Dormant
