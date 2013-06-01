@@ -2109,7 +2109,7 @@ Indoff Incorporated | United States, MO, St. Louis | 2005 | Dormant
 Indoff. Inc | United States, MO, St. Louis | 2008 | Dormant
 Inernational Computer Network | United States, PA, Bristol | 2008 | Dormant
 Infinity | Munich | 2002 | Dormant
-Infinity Interactive, Inc. | United States, NY, New York | 2006 | Dormant
+Infinity Interactive, Inc. | United States, NY, New York | 2006 | Active
 Info Plus International | United States, CA, San Mateo | 2007 | Dormant
 Info Tech Inc. | United States, FL, Gainesville | 2007 | Dormant
 Info Tech, Inc. | United States, FL, Gainesville | 2006 | Dormant
