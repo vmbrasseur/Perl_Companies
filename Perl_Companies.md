@@ -2501,8 +2501,6 @@ Logitech/Slim Devices | United States, California, Mountain View | 2007 | Dorman
 Lok Technology | United States, CA, San Jose | 2007 | Dormant
 Lok Technology, Inc. | United States, Florida, Vero Beach | 2005 | Dormant
 Lokku | United Kingdom, Central London | 2013 | Active
-Lokku Limited | United Kingdom, London | 2007 | Dormant
-Lokku Ltd. | United Kingdom, London | 2010 | Inactive
 London Music Thing | United Kingdom, London, London | 2006 | Dormant
 London School of Economics and Political Science | United Kingdom, London, London | 2008 | Dormant
 London South Bank University/Thames Computer Services | United Kingdom, Central London, London | 2010 | Inactive
