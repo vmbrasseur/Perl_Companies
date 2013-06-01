@@ -1,0 +1,1 @@
+All data and code in this repository are available under the [Perl Artistic License](http://perldoc.perl.org/perlartistic.html).
