@@ -20,8 +20,8 @@ my @files = glob( "$dir/*.txt" );
 
 my %companies;
 my $exceptions = '../exceptions.txt';
-my $companycsv = '../Perl_Companies.csv';
-my $companymd = '../Perl_Companies.md';
+my $companycsv = '../generated_company_list.csv';
+my $companymd = '../generates_company_list.md';
 
 open(my $EXCEPTIONS, ">", $exceptions);
 
