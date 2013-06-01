@@ -21,7 +21,7 @@ my $csv = Text::CSV->new({
 my @companies = sort { $a->{name} cmp $b->{name} }
                      @{ LoadFile( 'Perl_Companies.yaml' ) };
 
-open my $fh, '>', 'Perl_Companies.md';
+open my $fh, '>', 'generated_company_list.md';
 
 print {$fh} $_ for <DATA>;
 

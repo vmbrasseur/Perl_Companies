@@ -21,7 +21,7 @@ my @files = glob( "$dir/*.txt" );
 my %companies;
 my $exceptions = '../exceptions.txt';
 my $companycsv = '../generated_company_list.csv';
-my $companymd = '../generates_company_list.md';
+my $companymd = '../generated_company_list.md';
 
 open(my $EXCEPTIONS, ">", $exceptions);
 
