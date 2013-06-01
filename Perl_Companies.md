@@ -4,8 +4,8 @@ Perl Companies
 
 This is a list of companies which use (or used) Perl. The list was initially built using posts to [jobs.perl.org](http://jobs.perl.org) but from there on out it will be maintained manually by the community.
 
-Company Name | Company Location | Most Recent Posting | Hiring Status 
-:----------- | :--------------- | :------------------ | :-----------
+Company Name | Company Location | Most Recent Posting
+:----------- | :--------------- | :------------------
 $2 Billion Broadband Communications Company | United States, CA, San Jose | 2006
 &#31859;&#31515;&#38597;&#36798;&#36798;&#31185;&#25216;&#21457;&#23637;&#6 | Beijing (PRC), Beijing | 2007
 ((otrs.de)) | Germany, Hessen, Frankfurt (Bad Homburg) | 2003
