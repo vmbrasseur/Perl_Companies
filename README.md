@@ -19,7 +19,7 @@ FILES AND DIRECTORIES
 * **./Perl_Companies.csv**: A comma-delimited version of Perl_Companies.md.
 * **./exceptions.txt**: If the script which generated the Perl_Companies files could not locate a name in the posting, the name of the file of the posting (equivalent to a message to [jobs.perl.org](http://jobs.perl.org)) was added to this file for future review.
 * **./scripts**:
-	* **./scripts/get_job_postings.pl**: The script (originally written by [brian d. foy](http://search.cpan.org/~bdfoy/) and slightly modified here) which scans through all the messages sent to [jobs.perl.org](http://jobs.perl.org) and dumps each posting to a separate file under _./job_postings_. It is not anticipated that this script will be necessary now that the files are generated, but here it is for posterity.
+	* **./scripts/get_job_postings.pl**: The script (originally written by [brian d foy](http://search.cpan.org/~bdfoy/) and slightly modified here) which scans through all the messages sent to [jobs.perl.org](http://jobs.perl.org) and dumps each posting to a separate file under _./job_postings_. It is not anticipated that this script will be necessary now that the files are generated, but here it is for posterity.
 	* **./scripts/create_companies_list.pl**: The script which originally generated the Perl_Companies files. It started as a script by [brian d. foy](http://search.cpan.org/~bdfoy/) and has been heavily modified. It is not anticipated that this script will be needed now that the files are generated, but here it is for posterity.
 * **./job_postings**: A directory of many thousands of files. Each file is a job posting which was sent to [jobs.perl.org](http://jobs.perl.org) over the years. It was created by _./scripts/get_job_postings.pl_.
 
