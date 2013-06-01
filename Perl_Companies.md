@@ -10,5294 +10,5288 @@ Most of the table below is self-explanatory, save the 'Hiring Status' column. An
 * **Dormant**: Company last posted an open Perl position between 2008 and 2011. The assumption is that either the company merely has not had a Perl opening for a while, has switched away from Perl, or is no longer a going business concern.
 * **Inactive**: Company has not posted an open Perl position since before 2008. The assumption is that the company has either switched away from Perl or is no longer a going business concern.
 
-<table>
-<tr>
-<th>Company Name</th>
-<th>Company Location</th>
-<th>Most Recent Posting</th>
-<th>Hiring Status</th>
-</tr>
-
-<tr><td>$2 Billion Broadband Communications Company</td><td>United States, CA, San Jose</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>&#31859;&#31515;&#38597;&#36798;&#36798;&#31185;&#25216;&#21457;&#23637;&#6</td><td>Beijing (PRC), Beijing</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>((otrs.de))</td><td>Germany, Hessen, Frankfurt (Bad Homburg)</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>(Confidential)</td><td>United States, CA, San Diego</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>(Please enquire)</td><td>United States, DC, Washington</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>(Russian) Obnovlenie</td><td>Russia, Moscow</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>(mt) Media Temple</td><td>United States, CA, Culver City</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>(none)</td><td>United States, Hawaii, Haiku</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>(self-employed)</td><td>United States, GA, Atlanta</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>**********</td><td>England/Uk, London, London/City</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>*Confidential*</td><td>United Kingdon, Hampshire</td><td>2011</td><td>Active</td></tr>
-<tr><td>-</td><td>Australia, Victoria, Melbourne</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>/</td><td>Russia, Russia, Stalingrad</td><td>2011</td><td>Active</td></tr>
-<tr><td>//SEIBERT/MEDIA</td><td>Germany, Hessen, Wiesbaden</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>//SEIBERT/MEDIA GmbH</td><td>Germany, Hessen, Wiesbaden (Projects in Munich possible)</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>//SEIEBRT/MEDIA</td><td>Germany, Hessen, Wiesbaden</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>//radiotakeover</td><td>United States, NJ, Mt Holly</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>1-800-Save-A-Pet.com</td><td>United States, IN, Richmond</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>10East Corp.</td><td>United States, FL, Jacksonville</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>123Doc Medical Courses</td><td>United Kingdom, London, London</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>123india.com</td><td>india, west bengal, kolkata</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>15Gifts Ltd</td><td>Brighton, UK</td><td>2013</td><td>Active</td></tr>
-<tr><td>15gifts</td><td>Brighton, United Kingdom</td><td>2012</td><td>Active</td></tr>
-<tr><td>1776 Media</td><td>United States, CA, Bay Area</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>186k Limited</td><td>United Kingdom, W. Yorks, Leeds</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>1st Interactive Design Ltd</td><td>United Kingdom, Any in the UK</td><td>2011</td><td>Active</td></tr>
-<tr><td>1st-Interactive Design Ltd</td><td>United Kingdom</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>20 Minuten</td><td>Switzerland, Zürich</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>2Checkout.com</td><td>United States, OH, Columbus</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>2dehands</td><td>Amsterdam (NL)</td><td>2011</td><td>Active</td></tr>
-<tr><td>2it</td><td>Australia, NSW, Sydney</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>2kms</td><td>El Salvador, Central America</td><td>2011</td><td>Active</td></tr>
-<tr><td>39DollarGlasses.com</td><td>United States, New York, Ronkonkoma</td><td>2011</td><td>Active</td></tr>
-<tr><td>3BAGSMEDIA</td><td>Canada, ON, Toronto</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>3D3.com</td><td>Australia, Vic, Melbourne</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>3PF, LLC</td><td>United States, OR, Drain and/or Eugene</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>3W Consulting Contracting Recruitment</td><td>Australia, New South Wales, Sydney</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>3rdkind Music Production</td><td>United Kingdom, Manchester</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>4 of my clients in London</td><td>London, UK</td><td>2011</td><td>Active</td></tr>
-<tr><td>411 Web</td><td>United States, CA, Los Angeles</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>411web Interactive</td><td>United States, CA, Los Angeles</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>5 Point Professional Services</td><td>United States, TX, Austin</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>7se7en Ltd.</td><td>United Kingdom, London, London</td><td>2011</td><td>Active</td></tr>
-<tr><td>8D Technologies inc.</td><td>Canada, Québec, Montreal</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>8minuteDating</td><td>United States, FL, Boca Raton</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>@Mail</td><td>Australia, NSW, Sydney</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>A Company</td><td>United Kingdom, London, London</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>A Pgh Tech company</td><td>United States, PA, Pittsburgh</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>A Product Based Company</td><td>India, Andhra Pradesh, Hyderabad</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>A Reality Technologies</td><td>United States, CA, Los Angeles</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>A Reality Technologies, LLC</td><td>United States, CA, Los Angeles</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>A US based fortune 500 Company</td><td>India, Delhi, Delhi</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>A leading Financial firm</td><td>Singapore, Singapore</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>A major welfare fund</td><td>United States, NY, New York</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>A-Life Medical</td><td>United States, CA, San Diego</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>A-Z Media</td><td>United States, CA, Carlsbad</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>A.C.Coy</td><td>United States, PA, Pittsburgh</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>A.C.Coy Company</td><td>United States, PA, Pittsburgh</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>A.J.'s Computer Bug</td><td>United States, OR, Sherwood</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>A1</td><td>United Kingdom, London</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>A3 IT Solutions, LLC</td><td>United States, North Carolina, Greensboro</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>A3 IT Soultions</td><td>United States, NC, Greensboro</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>A6iT</td><td>Malta, Europe</td><td>2013</td><td>Active</td></tr>
-<tr><td>A9.com</td><td>Palo Alto, CA</td><td>2012</td><td>Active</td></tr>
-<tr><td>AAA Microcomputer Service</td><td>United States, CA, Long Beach</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>AB STAR GROUP</td><td>United States, CA, MENLO PARK</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>ABB</td><td>Australia, Victoria, Melbourne</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>ABC (Yoram Shitrit) Ltd.</td><td>Israel, Tel Aviv</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>ABC Startsiden AS</td><td>Norway, -, Oslo</td><td>2012</td><td>Active</td></tr>
-<tr><td>ABRS</td><td>United Kingdom, London</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>AC & D</td><td>United States, NV, Henderson</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>AC Labs</td><td>United States, MA, Boston area</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>AC Lion</td><td>United States, NY, New York</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>ACC Staffing</td><td>United States, NC, RTP</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>ACI</td><td>United States, MA, Maynard</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>ACURO</td><td>U.K., London</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>ADCopy</td><td>United States, PA, Philadelphia</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>ADG</td><td>St Louis, MO, USA</td><td>2012</td><td>Active</td></tr>
-<tr><td>ADNET</td><td>Greenbelt, MD, United States</td><td>2012</td><td>Active</td></tr>
-<tr><td>ADNET Systems</td><td>Lanham MD</td><td>2012</td><td>Active</td></tr>
-<tr><td>ADNET Systems, Inc</td><td>United States, MD, Lanham</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>AEBN</td><td>United States, NC, Charlotte</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>AEL Solutions</td><td>Canada, Qc, Montreal</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>AETEA Information Technology</td><td>United States, PA, King of Prussia</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>AETEA Information Technology, Inc.</td><td>United States, OH, Columbus</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>AFC</td><td>United States, TX, Bedford</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>AHN</td><td>United States, FL, West Palm Beach</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>AHN Media</td><td>United States, telecommute</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>AHN Media Corp</td><td>United States, FL, West Palm Beach</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>AHN Media Corporation</td><td>United States, FL, West Palm Beach</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>AHN | All Headline News</td><td>United States, Florida, West Palm Beach / South Florida</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>AI Technology Group</td><td>United States, CA, Riverside</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>AIG</td><td>Woodland hills, CA (1 position), Phoenix, AZ (1 Position)</td><td>2013</td><td>Active</td></tr>
-<tr><td>AII Data Processing</td><td>Bulgaria, Sofia, Sofia</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>AIM Training Solutions</td><td>United States, CA, Livermore</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>AIW Printing Pty Ltd</td><td>AUSTRALIA, VIC, Melbourne</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>AJ Associates, Inc.</td><td>United States, TN, Memphis</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>AJ-USA, Inc</td><td>United States, California, San Diego</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>AKORBI</td><td>United States, ILL, CHICAGO</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>AKRAYA, Inc.</td><td>United States, CA, San-Jose</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>ALARIS MEDICAL SYSTEMS</td><td>United Kingdom, Hampshire, Basingstoke</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>ALARIS Medical Systems</td><td>United Kingdom, Hampshire, Basingstoke</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>ALERTSITE</td><td>United States, FL, COCONUT CREEK</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>ALERTSITE.COM</td><td>United States, FL, COCONUT CREEK</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>ALGEBRAIX</td><td>Mexico City, Federal District, Mexico</td><td>2013</td><td>Active</td></tr>
-<tr><td>ALLEN PRESS, INC.</td><td>United States, KANSAS, LAWRENCE</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>ALLTECH CONSULTING SERVICES, INC</td><td>United States, NY, downtown NYC</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>ALMOND HILL ENTERPRISES</td><td>United States, CA, ANEHEIM HILLS</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>ALR Recruitment Services</td><td>South Africa, Western Cape, Cape Town</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>ALTIOR CONSULTORIA & ENGENHARIA SA</td><td>PORTUGAL</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>AMD (Advanced Micro Devices)</td><td>Austin, TX     ** ON SITE ONLY / South Austin **</td><td>2011</td><td>Active</td></tr>
-<tr><td>AMD Advanced Micro Devices</td><td>Dresden, Germany</td><td>2011</td><td>Active</td></tr>
-<tr><td>AMR</td><td>UK - London, London</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>ANGEL Internet Services GmbH</td><td>Deutschland, NRW, Köln</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>ANK Consulting</td><td>Argentina, Buenos Aires, Capital Federal</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>ANSI, Inc.</td><td>United States, CA, Palo Alto</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>AOL</td><td>United States, VA, Dulles</td><td>2011</td><td>Active</td></tr>
-<tr><td>APEX SYSTEMS INC</td><td>United States, MD, BALTIMORE</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>APS Systems</td><td>United States, Texas, Austin</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>APWG</td><td>United States, CA, Mountain View</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>AQUENT</td><td>Australia, Queensland, Brisbane</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>ARG</td><td>United States, VA, Richmond</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>ARI Network Services Inc.</td><td>United States, VA, Williamsburg</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>ARM</td><td>United Kingdom, Berkshire, Winnersh</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>ARM Ltd</td><td>United Kingdom, Cambs, Cambridge</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>ASI</td><td>NY, New York, New York</td><td>2012</td><td>Active</td></tr>
-<tr><td>ASM</td><td>Canada, Ontario, Toronto</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>ASML</td><td>Eindhoven, The Netherlands</td><td>2012</td><td>Active</td></tr>
-<tr><td>ASN</td><td>United States, AZ, Phoenix</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>AT&T Interactive</td><td>United States, CA, Glendale</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>ATD Recruitment</td><td>United Kingdom, London, London</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>ATD Recruitment on Behalf on UK Investment Bank</td><td>United Kingdom, London</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>ATEC Wireless</td><td>United States, New Jersey</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>ATS</td><td>Belgium, BW, Braine l'Alleud</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>ATSI</td><td>U.S., CA, Petaluma</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>AVAILIGENT</td><td>United States, CA, San Jose</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>AVID Technical Resources</td><td>United States, New York, New York City</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>AVN Media Network</td><td>United States, CA, Chatsworth</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>AVOXI</td><td>Charleston, SC</td><td>2012</td><td>Active</td></tr>
-<tr><td>AWeber Communications, Inc.</td><td>United States, PA, Richboro</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>AYE Ltd.</td><td>Philippines, Metro Manila, Metro Manila</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Aaronsen Group, Ltd.</td><td>United States, Pennsylvania, Pittsburgh</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Aavalar Consulting</td><td>United States, PA, King of Prussia</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Abacix SC</td><td>Mexico, DF, Ciudad de Mexico</td><td>2011</td><td>Active</td></tr>
-<tr><td>Abacus Media International</td><td>United States, GA, Atlanta</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>About.com</td><td>United States, NY, New York</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>AboutMyBaby.com</td><td>United States, CA, Los Angeles</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>AboutUs</td><td>United States, Oregon, Portland</td><td>2011</td><td>Active</td></tr>
-<tr><td>Abraxas</td><td>United Kingdom, London</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Abraxas </td><td>Australia, New South Wales, Sydney</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Absolute House</td><td>United States, Minnesota, Lake Begonnwo</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Absolute Performance, Inc.</td><td>United States, CO, Boulder</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>AcAe LLC</td><td>United States, Florida, Maitland</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Academic Benchmark</td><td>United States, OH, Cincinnati</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Academic Benchmarks</td><td>Cincinnati, OH or Washington, DC</td><td>2013</td><td>Active</td></tr>
-<tr><td>Academic Presidential Market</td><td>United States, CT, New Haven</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Acantis bv</td><td>Dutch Antilles, Curaçao</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Accenture</td><td>Mississauga, Ontario, Mississauga</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Accenture Canada</td><td>Canada, Ontario, Mississauga</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Access CRM</td><td>United States, NY, New York</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Accessmedia Networks, Inc</td><td>United States, CA, Northridge</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Acctopus GmbH</td><td>Duesseldorf area, Germany</td><td>2013</td><td>Active</td></tr>
-<tr><td>AccuDoc Solutions</td><td>United States, NC, Raleigh</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Accurate Operational Support Systems</td><td>San Diego, CA , Tucson, AZ, Albuqueruqe, NM , Anywhere USA</td><td>2013</td><td>Active</td></tr>
-<tr><td>Ackerman McQueen</td><td>United States, OK, Tulsa</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Acorn Group</td><td>Hampshire</td><td>2013</td><td>Active</td></tr>
-<tr><td>Acoustica, Inc</td><td>United States, CA, Oakhurst</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Acquity Group</td><td>United States, Illinois, Northwest Suburbs</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Across Consulting Ltd</td><td>France, 75019, Paris</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Acta Wireless</td><td>United States, CA, San Diego</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Actie Consulting LLC</td><td>United States</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Action Technical Personnel, LLC</td><td>United States, NJ, Jersey City</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Active Securities Ltd.</td><td>United Kingdom, London</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Active State- A Division of Sophos</td><td>Canada, BC, Vancouver</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>ActiveNetwork</td><td>Nashville TN</td><td>2012</td><td>Active</td></tr>
-<tr><td>ActiveState</td><td>Canada, BC, Vancouver</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>ActiveState Software</td><td>Canada, British Columbia, Vancouver</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>ActiveState- A Division of Sophos</td><td>Canada, BC, Vancouver</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Activetech</td><td>Israel, il, Hod-Hasaron</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Acumen PI aka The Student Room</td><td>United Kingdom, East Sussex, Brighton</td><td>2011</td><td>Active</td></tr>
-<tr><td>Acuro</td><td>United Kingdom, London</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>AdCopy</td><td>United States, PA, Philadelphia</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Adagio Software</td><td>Australia, VIC, Melbourne</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Adagio Teas</td><td>United States, NJ, Garfield</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Adam Jacobs</td><td>ny, new york</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Adam Jacobs Associates</td><td>United States, CA, San Francisco</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Adam Jacobs Associates (Recruiting Agency)</td><td>United States, CA, San Francisco - Palo Alto</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Adam Jacobs Associates - Recruiter</td><td>United States, CA, San Francisco Bay Area</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Adamans Ltd.</td><td>Ireland, Dublin</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Adapt A/S</td><td>Denmark, DK, København K</td><td>2011</td><td>Active</td></tr>
-<tr><td>Adaptive Solutions Group</td><td>United States, Kansas, Overland Park</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Adapttoweb</td><td>Bulgaria</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Add2Net, Inc.</td><td>United States, California, La Mirada</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Addamark Technologies</td><td>United States, CA, San Francisco</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Addante and Associates, LLC</td><td>United States, CA, Los Angeles</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Additional Resources Limited</td><td>United Kingdom, London, West London</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Adecco</td><td>United States, California, Redwood City</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Adecco Engineering & Technical</td><td>Portland, Oregon</td><td>2013</td><td>Active</td></tr>
-<tr><td>Adecco Technical</td><td>United States, Texas, Austin</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Adestra</td><td>Oxford, UK</td><td>2012</td><td>Active</td></tr>
-<tr><td>Adestra Limited</td><td>United Kingdom, Oxford</td><td>2011</td><td>Active</td></tr>
-<tr><td>Adestra Ltd</td><td>United Kingdom, Oxfordshire, Oxford</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Adestra Ltd.</td><td>United Kingdom, Oxfordshire, Oxford</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Adknowledge</td><td>United States, MO, Kansas City</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Adnexus Recruitment Services</td><td>The Netherlands, Noord-Holland, Amsterdam</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Adobe Software India,Bangalore</td><td>India, Karnataka, Bangalore</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Adroit Technology Enterprises</td><td>United States, FL, Boca Raton</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Adteractive</td><td>United States, CA, San Francisco</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Advance Internet</td><td>07306, NJ, Jersey City</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Advanced Software Systems Inc.,(Assyst)</td><td>United States, MD, Gaithersburg</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Advanced Solutions Inc.</td><td>United States, NY, Brooklyn</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Advanced Video Communications, Inc.</td><td>United States, CA, Los Angeles</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Advantage Data</td><td>United States, MA, Boston</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Advantage Data Inc.</td><td>United States, MA, Boston</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Advantage Interactive</td><td>United Kingdom, London</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Advantage Tech, Inc.</td><td>United States, Missouri, Kansas City</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>AdvantageData</td><td>United States, MA, Boston</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Adventure Pictures / Goldsmiths College, University of London</td><td>United Kingdom, London</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Advertising and profiling solutions</td><td>United States, TX, Houston</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Advertising.com Intl</td><td>United Kingdom, London, London</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Adviva Media Ltd</td><td>United Kingdom, London, Fulham</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Adviva Media Ltd.</td><td>United Kingdom, London, Fulham</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Adzuna</td><td>Clapham, London, UK</td><td>2011</td><td>Active</td></tr>
-<tr><td>Aerodeon</td><td>United Kingdom, London</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Affant Communication, Inc.</td><td>United States, CA, Costa Mesa</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Affinity Circles</td><td>United States, California, Mountain view</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Affinity Circles, Inc</td><td>United States, CA, Mountain View</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Agava Software</td><td>Russia, Moscow</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Agency is COL</td><td>United States, CA, Mt. View</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Aghreni Technologies Private Limited</td><td>India , Karnataka , Bangalore </td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Agile</td><td>United States, CO, Denver</td><td>2011</td><td>Active</td></tr>
-<tr><td>Agile Informatics</td><td>United States, California, Fremont</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Agilisys</td><td>London, UK</td><td>2012</td><td>Active</td></tr>
-<tr><td>Agorist.net</td><td>Cyprus, Limassol</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Agriya Infoway Pvt Ltd</td><td>India, Tamil Nadu, Chennai</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Aion Consulting Group</td><td>United States, NE, Omaha</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Aipco Inc.</td><td>Canada, Ontario, Gormley</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Air Games Wireless Inc.</td><td>Canada, BC, Vancouver</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Air2Water LLC</td><td>United States, Californa, Santa Monica </td><td>2010</td><td>Inactive</td></tr>
-<tr><td>AirG</td><td>Canada, BC, Vancouver</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>AirWave</td><td>United States, CA, Sunnyvale</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>AirWave Wireless</td><td>United States, CA, San Mateo</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>AirWave Wireless Inc.</td><td>United States, CA, San Mateo</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>AirWave Wireless, Inc</td><td>United States, CA, San Mateo</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Ajilon Consulting - Client is Bank of America</td><td>United States, NC, Charlotte</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Ajilon Consutling</td><td>USA, Michigan, Dearborn</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Akamai</td><td>United States, VA, Reston</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Akamai Technologies</td><td>United States, California, San Mateo </td><td>2012</td><td>Active</td></tr>
-<tr><td>Akraya Inc</td><td>United States, California, San Jose</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Akraya's client -Top 5 independent software company</td><td>United States, CA, Downtown SFO -By the BART</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Alacritech, Inc.</td><td>United States, CA, San Jose</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Aladdin</td><td>Israel, Petach tikva</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Alan Dale Enterprises, Inc.</td><td>United States, California, Los Angeles</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Alan Israel Executive Search</td><td>United States, New York, New York</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Alan Morris Recruitment</td><td>United Kingdom, London</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Alden Associates</td><td>United States, CT, Stamford</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Alden Staffing Solutions</td><td>United States, CT, Greenwich</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>AlertSite</td><td>United States, Florida, Coconut Creek</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>AlertSite.com</td><td>United States, Florida, Boca Raton</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Alertsite</td><td>United States, FL, Coconut Creek</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Alex</td><td>Serbia & Montenegro, Serbia, Belgrade</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Alexander Ash Consulting</td><td>United Kingdom, London, London</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Algomod Technologies</td><td>United States, NY, New York</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>All Headline News</td><td>United States, Florida, West Palm Beach - South Florida</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>All Headline News Corp</td><td>United States, Florida, West Palm Beach</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>All Headline News Corp.</td><td>United States, Florida, Wellington / South Florida</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>All-Hotels.com (part of Lastminute.com)</td><td>United Kingdom, Scotland, Edinburgh</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>AllAfrica Global Media</td><td>United States, District of Columbia, Washington D.C.</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>AllSearch </td><td>United States, MD, Hunt Valley</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>AllSearch Professional Staffing</td><td>United States, MD, Hunt Valley</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>AllStaff Technical/Lockheed Martin</td><td>United States, DC, Washington</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Allcheckin Limited</td><td>India, New Delhi</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Allegis Group</td><td>United Kingdom, Manchester</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Allegro Consulting</td><td>Vienna, Austria</td><td>2012</td><td>Active</td></tr>
-<tr><td>Allen Recruiting</td><td>Undefined</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Alliance of Professionals & Consultants Inc</td><td>United States, North Carolina, Raleigh</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Alltech</td><td>United States, TN, Nashville</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Alltech Inc</td><td>United States, TN, Franklin</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Alltech, Inc.</td><td>United States, TN, Nashville</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Alltech, Inc. </td><td>United States, TN, Nashville</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>AlonaAltar recrutiment</td><td>Israel, Tel Aviv</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Alphaeus HR</td><td>India, Karnataka, Bangalore</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Alpine</td><td>Undefined</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Alvares Search</td><td>Curacau, Noord Holland, Laren (nh) Netherlands</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>AmBusi</td><td>United States, California, Point Richmond</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Amarus International Inc.</td><td>United States, NY, New York</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Amazon</td><td>Dresden, Germany</td><td>2013</td><td>Active</td></tr>
-<tr><td>Amazon </td><td>France, Paris</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Amazon.co.uk</td><td>Ireland, Dublin</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Amazon.co.uk Ltd</td><td>United Kingdom, Berks, Slough</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Amazon.co.uk/ IMDb</td><td>United Kingdom, Bristol</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Amazon.com</td><td>United States, WA, Seattle</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Amazon.com / IMDb</td><td>United States, WA, Seattle</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Amdocs</td><td>Champaign, IL</td><td>2012</td><td>Active</td></tr>
-<tr><td>Amer Technology</td><td>United States, NJ, Jersey city</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>America Online</td><td>United States, VA, Ashburn</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>America Online, Inc.</td><td>United States, Virginia, Dulles</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>American College of Physicians</td><td>United States, Pennsylvania, Philadelphia</td><td>2012</td><td>Active</td></tr>
-<tr><td>American Marketing & Publishing</td><td>United States, IL, Dekalb</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>American Physical Society</td><td>United States, NY, Ridge</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>American Public Media | Minnesota Public Radio</td><td>Saint Paul, MN, United States</td><td>2012</td><td>Active</td></tr>
-<tr><td>American Registry for Internet Numbers (ARIN)</td><td>United States, VA, Chantilly</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Amitai Aluma and Abigail Holdings LTD</td><td>Israel, Haifa</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>An MNC Client of CareerNet</td><td>India, Tamil Nadu, Chennai</td><td>2011</td><td>Active</td></tr>
-<tr><td>AnaBus</td><td>United States, Pennsylvania, Jenkintown/Philadelphia</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Analysts International</td><td>United States, PA, King of Prussia</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Analysts International Corp (AIC)</td><td>United States, Minnesota, Minneapolis(south metro)</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Analytical Models</td><td>Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia</td><td>2012</td><td>Active</td></tr>
-<tr><td>AndazG</td><td>United States, IN, Fort Wayne</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Andiamo! Group </td><td>United States, New York, New York</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Andrews McMeel Universal - uClick</td><td>United States, Missouri, Kansas City</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Anemone</td><td>Greece, Attiki, Athens</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Anevia</td><td>France, Paris</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Animal Land, Inc.</td><td>ga, Atlanta</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Animal Logic</td><td>Australia, Sydney</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Anonymizer, INC</td><td>United States, CA, San Diego</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Anonymous</td><td>Washington, Seattle</td><td>2012</td><td>Active</td></tr>
-<tr><td>Answers Corp.</td><td>United States, NY, NY</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Antopia Inc.</td><td>United States, CA, Los Angeles</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Anu Resources Unlimited, Inc.</td><td>United States, OH, Columbus</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Anya Services</td><td>Bangalore, India</td><td>2012</td><td>Active</td></tr>
-<tr><td>Apex Sysetms Inc.</td><td>United States, MA, Canton</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Apex Systems</td><td>United States, TN, Nashville</td><td>2013</td><td>Active</td></tr>
-<tr><td>Apex Systems Inc</td><td>United States, Florida, Boca Raton</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Apex Systems Inc.</td><td>United States, TN, Nashville</td><td>2012</td><td>Active</td></tr>
-<tr><td>Apex Systems Inc. </td><td>United States, VA, Restone</td><td>2011</td><td>Active</td></tr>
-<tr><td>Apex Systems, Inc.</td><td>United States, VA, Glen Allen</td><td>2012</td><td>Active</td></tr>
-<tr><td>Apex Systems, Inc. (our client is  a large e-commerce company</td><td>United States, CA, Brisbane</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Apex Systemsinc</td><td>United States, fl, tampa</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>AppNexus</td><td>Israel</td><td>2012</td><td>Active</td></tr>
-<tr><td>Apperceptive</td><td>United States, NY, New York City</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Apperceptive, LLC</td><td>United States, NY, New York</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Apple Computer</td><td>Cupertino, CA</td><td>2012</td><td>Active</td></tr>
-<tr><td>Apple Computer, Inc</td><td>United States, CA, Cupertino</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Apple Inc.</td><td>United States, CA, Cupertino</td><td>2011</td><td>Active</td></tr>
-<tr><td>Applied Performance</td><td>United States, Ohio, Worthington</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>Applied Performance Technologies</td><td>United States, OH, Worthington</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Applied System Design</td><td>United States, TX, Austin</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Apsion, LLC</td><td>United States, IL, Morton</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>Aptia Systems</td><td>United States, TX, Houston</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Aptia Systems, Inc.</td><td>United States, Texas, Houston</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Aquent</td><td>United States, DC, Washington</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>Aquilent</td><td>United States, MD, Bethesda</td><td>2011</td><td>Active</td></tr>
-<tr><td>Aquins Consulting</td><td>United States, Southern CT</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>ArcMail Technology</td><td>United States, LA, Shreveport</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Arcam Resources Limited</td><td>United Kingdom, LONDON</td><td>2011</td><td>Active</td></tr>
-<tr><td>Archivista GmbH</td><td>Switzerland, Canton of Zurich, Zurich</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Arcsight</td><td>CA, Cupertino</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Ardis Interactive</td><td>United States, NY, New York City</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Ardis Marketing Group</td><td>United States, New York, New York</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Ardishealth</td><td>United States, New York, New York</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Arguedas, Cassman & Headley</td><td>United States, CA, Berkeley</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Argyll Scott Technology</td><td>City of London, UK</td><td>2012</td><td>Active</td></tr>
-<tr><td>Ariadne</td><td>Bethesda, MD, United States</td><td>2012</td><td>Active</td></tr>
-<tr><td>Ariadne Technologies, LLC</td><td>United States, MD, Bethesda</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Ariba</td><td>United States, CA, Sunnyvale</td><td>2011</td><td>Active</td></tr>
-<tr><td>Ariba </td><td>United States, CA, Sunnyvale</td><td>2011</td><td>Active</td></tr>
-<tr><td>Armaguard</td><td>Australia, Victoria, Melbourne</td><td>2011</td><td>Active</td></tr>
-<tr><td>Arrows Group</td><td>UK, United Kingdom, Sussex, Brighton</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Art Plus Technology</td><td>United States, Massachusetts, Boston</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>ArtToday.com, Inc.</td><td>United States, AZ, Tucson</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Artemis Resources Limited</td><td>United Kingdom, Berkshire, Windsor</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Arts Engine, Inc.</td><td>United States, NY, New York</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Aruba Networks</td><td>United States, CA, Sunnyvale</td><td>2013</td><td>Active</td></tr>
-<tr><td>Ascent Consulting</td><td>United States, NY, New York</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Ascent Sourcing</td><td>Netherlands, Amsterdam</td><td>2013</td><td>Active</td></tr>
-<tr><td>Ascent sourcing</td><td>Berlin, Germany</td><td>2013</td><td>Active</td></tr>
-<tr><td>Ashdown Group</td><td>Edinburgh, Scotland</td><td>2013</td><td>Active</td></tr>
-<tr><td>Ashton Consulting</td><td>London UK</td><td>2011</td><td>Active</td></tr>
-<tr><td>AsianMall</td><td>Singapore, Singapore, Singapore</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>Asianminds</td><td>India, Maharashtra, Mumbai</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Ask Jeeves</td><td>United States, CA, Oakland</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Ask.com (IAC Search and Media)</td><td>United States, CA, Oakland</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>AskOnline</td><td>United States, MA, Boston</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Asmark Institute</td><td>Owensboro, KY, USA</td><td>2012</td><td>Active</td></tr>
-<tr><td>Aspire IT International</td><td>Australia, NSW, Sydney</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Assanka</td><td>United Kingdom, London</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Assembla</td><td>telecommutig</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Association of Commonwealth Universities</td><td>United Kingdom, London</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Astaro AG</td><td>Germany, Karlsruhe</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Astaro Internet Security</td><td>Germany, Karlsruhe</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Astir IT</td><td>United States, NY, New York City</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Aston Carter</td><td>United Kingdom, City, London</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Aston Carter Ltd.</td><td>U.K., City, London</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Astor Malick</td><td>United Kingdom, Watford</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Astron</td><td>United States, ny, new york city</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>At ValueClick, via Accolo</td><td>United States, California, Westlake Village OR Santa Barbara</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>AtAuction</td><td>United States, Texas, Flower Mound</td><td>2011</td><td>Active</td></tr>
-<tr><td>Athena</td><td>Chennai, India</td><td>2012</td><td>Active</td></tr>
-<tr><td>Athenahealth</td><td>United States, MA, Waltham</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Atikon EDV & Marketing GmbH</td><td>Austria, Linz</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Atlantic Resource Group</td><td>Richmond, VA</td><td>2012</td><td>Active</td></tr>
-<tr><td>Atlas Intelligence Inc</td><td>United States, CA, Marina Del Rey</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Atomic Learning</td><td>United States, MN, Little Falls</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Atomic Learning, Inc.</td><td>United States, MN, Little Falls</td><td>2013</td><td>Active</td></tr>
-<tr><td>Atrium</td><td>Columbus, OH</td><td>2011</td><td>Active</td></tr>
-<tr><td>Atrium Personnel & Consulting</td><td>United States, Ohio, Columbus</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Atrium Personnel & Consulting Services</td><td>United States, Ohio, Columbus</td><td>2011</td><td>Active</td></tr>
-<tr><td>Audible.com (a division of Amazon.com)</td><td>United States, NJ, Newark </td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Auditude</td><td>United States, California, Palo Alto</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Augmos</td><td>United States, CA, San Francisco</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Aurora Photos</td><td>Portland, Maine</td><td>2012</td><td>Active</td></tr>
-<tr><td>Aussie Outsource</td><td>Australia, N.S.W, Sydney</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Austin Programming Solutions</td><td>USA - NO OUTSOURCED VENDORS/AGENCIES, TX, Austin - NO VIRTUAL</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Australian College of Rural and Remote Medication</td><td>Australia, QLD, Brisbane</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>AutoNetTools.com</td><td>Bridgeport, MI</td><td>2011</td><td>Active</td></tr>
-<tr><td>Automated Trading Desk, LLC</td><td>United States, SC, Charleston</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Automorphic Software</td><td>India, Karnataka, Bangalore</td><td>2011</td><td>Active</td></tr>
-<tr><td>Automotive Diagnosis</td><td>Spain, Catalunya, Barcelona</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Autoweb Communications</td><td>United States, MI, Rochester Hills</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Avaleo ApS</td><td>Denmark, Copenhagen</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Avance</td><td>Dallas,TX</td><td>2012</td><td>Active</td></tr>
-<tr><td>AvantExperience</td><td>United States</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>AvantGo/iAnywhere</td><td>United States, CA, Dublin</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Avantaxx</td><td>Germany, Elmshorn</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Avaya Government Solutions</td><td>United States, DC, Washington</td><td>2011</td><td>Active</td></tr>
-<tr><td>Avecho</td><td>United Kingdom, Essex, Colchester</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Avesta Computer Services</td><td>United States, NC, RTP</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Aviation Briefing Ltd</td><td>United Kingdon, Devon, Totnes area</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Aviation Briefing Ltd (AvBrief)</td><td>United Kingdom, Virtual - but hardware based in South and South West</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Aviation Software Inc.</td><td>United States, New York, Suffern</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Avira Soft SRL</td><td>Romania, Bucharest, Bucharest</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Avira ltd.</td><td>Romania, Bucharest</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Avity</td><td>United States, NY, Bronx</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Axient</td><td>Netherlands, Groningen, Groningen (NL)</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Axiombox</td><td>Anywhere, Anywhere, Anywhere</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Axis Sistemas</td><td>Venezuela, Carabobo, Valencia</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Axomic</td><td>London, England</td><td>2012</td><td>Active</td></tr>
-<tr><td>Axomic Ltd</td><td>United Kingdom, London</td><td>2012</td><td>Active</td></tr>
-<tr><td>Axoni</td><td>Belgium, Mechelen</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Axtel</td><td>Mexico, NL, Monterrey</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>B H Technology Partners</td><td>United States, Pennsylvania, Pittsburgh</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>B&N Software AG</td><td>Germany, 37124 Rosdorf  Goettingen</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>B2B Logic.net</td><td>Canada, Ontario, Oakville</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>B2B Staffing Services</td><td>United States, CA, Cypress</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>B2C Solutions</td><td>Australia, Victoria, Melbourne</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>BB&T</td><td>Wilson, NC</td><td>2012</td><td>Active</td></tr>
-<tr><td>BBC</td><td>London</td><td>2011</td><td>Active</td></tr>
-<tr><td>BBC </td><td>UK , London</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>BBC World Service</td><td>United Kingdom, London</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>BBC, Future Media and Technology </td><td>UK , London</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>BBsect</td><td>United States, NY, Brooklyn</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>BEI Services</td><td>United States, MN, Minneapolis</td><td>2012</td><td>Active</td></tr>
-<tr><td>BEI Services, Inc</td><td>United States, MN, Minneapolis</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>BGI</td><td>United States, CA, Vallejo</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>BGT Recruitment</td><td>United Kingdom, NW10, London</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>BHH</td><td>Bangalore</td><td>2012</td><td>Active</td></tr>
-<tr><td>BIAS Corporation</td><td>United States, GA, Atlanta</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>BIAS Resources</td><td>United States, GA, Atlanta</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>BJ</td><td>Sweden</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>BM Business Consulting</td><td>Canada, Ontario, Kingston</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>BMAT Licensing</td><td>Spain, Barcelona</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>BMC Software</td><td>Woodbridge Township, NJ, USA</td><td>2012</td><td>Active</td></tr>
-<tr><td>BMC Software </td><td>United States, New York, New York</td><td>2011</td><td>Active</td></tr>
-<tr><td>BNG</td><td>Undefined</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>BOLD International</td><td>Portugal, Lisboa, Lisboa</td><td>2011</td><td>Active</td></tr>
-<tr><td>BOOKING.COM</td><td>The Netherlands, Amsterdam</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>BOOKINGS</td><td>The Netherlands, Noord Holland, Amsterdam (based in the heart of Amsterdam)</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>BOOKINGS Europe BV</td><td>The Netherlands, Noord-Holland, Amsterdam</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>BOOKINGS on-line hotel reservations</td><td>The Netherlands, Amsterdam</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>BOOKINGS online hotel reservations</td><td>Netherlands, Amsterdam</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>BTC S.L.</td><td>Spain, Madrid, Madrid</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Baboon Software</td><td>Mexico, Mexico</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>BackCountry.com</td><td>United States, UT, Park City</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Backcountry.com</td><td>United States, UT, Park City</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Backup Solutions</td><td>Bulgaria, Sofia</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Bacon's Information, Inc.</td><td>United States, Illinois, Chicago</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>BalanceZero Software</td><td>United States, Texas, Dallas</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Baldwin Forrester</td><td>United States, ca, Palo Alto</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Ballinger Media Solutions Ltd</td><td>United Kingdom, Bucks, Milton Keynes</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Bandtones LLC</td><td>United States, TX, Houston</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Bangalore Yankees</td><td>India, Karnatka, Bangalore</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Bank Of America</td><td>United States, GA, Atlanta</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Bank of America</td><td>United States, GA, Atlanta</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Banking</td><td>Stamford, CT, United States</td><td>2012</td><td>Active</td></tr>
-<tr><td>BannerBeans</td><td>United States, NC, Wilson</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Banzai People</td><td>Cheshire, UK</td><td>2013</td><td>Active</td></tr>
-<tr><td>Barclays Global Investors</td><td>Australia, NSW, Sydney</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>BarclaysGlobal Investors</td><td>United States, CA, San Francisco</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>BargainPHV.com</td><td>United Kingdom, London</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Bariatric Advantage</td><td>United States, CA, Irvine</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Barkani</td><td>United States, New Jersey</td><td>2013</td><td>Active</td></tr>
-<tr><td>Barrack, Rodos, and Bacine</td><td>United States, PA, Philadelphia</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Barracuda Networks</td><td>United States, ca, cupertino</td><td>2012</td><td>Active</td></tr>
-<tr><td>Barton Insurance Brokers</td><td>Canada, BC, Chilliwack</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Base-10 Design & Development</td><td>Canada, B.C., Vancouver</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Batesville Casket</td><td>Indianapolis, Indiana</td><td>2011</td><td>Active</td></tr>
-<tr><td>Baxtage</td><td>United States, NY, New York</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Bayone Solutions</td><td>Menlo Park, CA</td><td>2013</td><td>Active</td></tr>
-<tr><td>Bayside Solutions</td><td>United States, CA, San Francisco</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>BbBoy.net</td><td>UK. International applicants welcome.</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>BeFreer.com, Inc.</td><td>United States, IL, Chicago</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>BeMusic</td><td>United States, NY, New York</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>BeQuick Software</td><td>Palm Beach Gardens, FL</td><td>2013</td><td>Active</td></tr>
-<tr><td>BeachRecords</td><td>United States, CA, Long Beach</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Beacon Hill Staffing Group</td><td>Charlotte, NC, United States</td><td>2013</td><td>Active</td></tr>
-<tr><td>Beacon Hill Technologies</td><td>United States, MA, Marlborough</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Bear Stearns</td><td>United States, NJ, Whippany</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Beatport LLC</td><td>United States, Colorado, Denver</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Beck Automation</td><td>United States, MO, St. Louis</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Belcan IT</td><td>United States, OH, Cincinnati</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Belmont Web Services</td><td>Canada, Quebec, Montreal</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Belmont Web Services, Inc.</td><td>Canada, Quebec, Montreal</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Bender Internet Group</td><td>United States, NJ, Egg Harbor Township</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Bendlin GmbH</td><td>Germany, Berlin, Berlin</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Bennett's Business Systems</td><td>United States, FL, Jacksonville</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Berean Group</td><td>United States, CA, NAPA</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Berean Group International</td><td>United States, New York, New York, NY</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Bergfeld DV-Beratung</td><td>Germany, BW, Heilbronn</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Berkeley Electronic Press</td><td>United States, CA, Berkeley</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Best</td><td>United Kingdom, London</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Best Friends Cocoa</td><td>United States, MA, Arlington</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Best International</td><td>United Kingdom, South West, Bristol</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Best Practical Solutions</td><td>United States, MA, Somerville</td><td>2012</td><td>Active</td></tr>
-<tr><td>Best Practical Solutions, LLC</td><td>United States, MA, Somerville</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Best Quotes</td><td>Australia, Qld, Brisbane</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Best Quotes Australia</td><td>Australia, QLD, Brisbane</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Best Recruitment Services</td><td>United Kingdom, London</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>BetOnMarkets.com</td><td>Malaysia, Selangor, Cyberjaya</td><td>2012</td><td>Active</td></tr>
-<tr><td>Betonmarkets.com</td><td>Undefined</td><td>2013</td><td>Active</td></tr>
-<tr><td>Better, Inc.</td><td>United States, CA, Menlo Park</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>BetterServers, Inc.</td><td>Provo, Utah</td><td>2013</td><td>Active</td></tr>
-<tr><td>BettyMills.com</td><td>United States, CA, San Mateo</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Bezeq International</td><td>Petach Tikva, Israel</td><td>2013</td><td>Active</td></tr>
-<tr><td>Bharat Headhunters Pvt Ltd</td><td>Bangalore, India</td><td>2013</td><td>Active</td></tr>
-<tr><td>Big City Technology, Inc.</td><td>United States, IL, Chicago and Evanston</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Big Fish Communiations</td><td>United States, CA, Marina Del Rey</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Big Group Ltd</td><td>London, UK</td><td>2012</td><td>Active</td></tr>
-<tr><td>BigChampagne</td><td>Los Angeles, CA</td><td>2012</td><td>Active</td></tr>
-<tr><td>BigDates Solutions</td><td>San Ramon, CA United States</td><td>2011</td><td>Active</td></tr>
-<tr><td>BigDates Solutions - GreetingCardUniverse.com</td><td>San Ramon, CA</td><td>2012</td><td>Active</td></tr>
-<tr><td>BigDates-Solutions</td><td>United States, CA, San Ramon</td><td>2011</td><td>Active</td></tr>
-<tr><td>Bigproject</td><td>Ukraine, Kiev</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Bio-Tech Medical Software Inc</td><td>United States, Fl, Ft Lauderdale</td><td>2011</td><td>Active</td></tr>
-<tr><td>Biotech Medical Software, Inc.</td><td>United States, FL, Fort Lauderdale</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Bit Laboratories</td><td>Indonesia, West Java, Bandung</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>BitLathe LLC</td><td>United States, NY, New York</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>BitPass</td><td>United States, CA, Menlo Park</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Biz Buzz Bank</td><td>United States, DC, Washington</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>BizRate.com</td><td>United States, CA, Los Angeles</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Bizjournals.com</td><td>United States, North Carolina, Charlotte</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Bizrate.com</td><td>United States, CA, Los Angeles</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Black Duck Software</td><td>United States, MA, Waltham</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Black Onyx Partnership Limited</td><td>United Kingdom, London, London</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Black Sheep, Inc.</td><td>Undefined</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>BlackBag Technologies</td><td>San Jose, CA</td><td>2012</td><td>Active</td></tr>
-<tr><td>BlackShire</td><td>Canada, BC, Burnaby</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>BlackShire Recruiting Services Inc.</td><td>Canada, BC, Vancouver</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Blackbox Europe B.V.</td><td>The Netherlands, Amsterdam</td><td>2011</td><td>Active</td></tr>
-<tr><td>Blackbox Europe B.V. (employment agency)</td><td>The Netherlands, Amsterdam</td><td>2011</td><td>Active</td></tr>
-<tr><td>Blaine Solutions</td><td>United States, TX, Dallas</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Blair Software</td><td>United States</td><td>2013</td><td>Active</td></tr>
-<tr><td>Blinck International</td><td>Netherlands, Noord Holland, Amsterdam</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>BlinkingCursor</td><td>United States, CA, Pasadena</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>BlisMobile Media</td><td>London, London, London - West End</td><td>2011</td><td>Active</td></tr>
-<tr><td>Blitz Technology</td><td>Australia, Queensland, Brisbane</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>Block Financial/H&R Block</td><td>United States, MA, Cambridge</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Blockstar</td><td>United States, CA, Los Angeles</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Bloom!</td><td>Bangalore, India</td><td>2012</td><td>Active</td></tr>
-<tr><td>Bloomberg LP</td><td>United States, NY, New York</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Blosm Inc.</td><td>Chicago, IL</td><td>2012</td><td>Active</td></tr>
-<tr><td>Blue Chip Resources</td><td>United States, CA, Los Angeles</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>Blue Glue</td><td>London, London, United Kingdom</td><td>2012</td><td>Active</td></tr>
-<tr><td>Blue IT Solutions</td><td>United Kingdom, Kent, London</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>BlueGlue</td><td>United Kingdom, London, London</td><td>2013</td><td>Active</td></tr>
-<tr><td>BlueGlue </td><td>United Kingdom, London</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>BlueMarch</td><td>United States, NY, New York</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>BlueZone Labs</td><td>Utah or Telecommute</td><td>2012</td><td>Active</td></tr>
-<tr><td>Bluebrain Multimedia</td><td>Canada, BC, Vancouver</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Bluefin Resources</td><td>Australia, NSW, Sydney</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Bluehost</td><td>Orem, UT</td><td>2013</td><td>Active</td></tr>
-<tr><td>Bluehost Inc.</td><td>Provo, UT</td><td>2011</td><td>Active</td></tr>
-<tr><td>Bluehost, Inc.</td><td>United States, Utah, Provo</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Bluehost.com</td><td>United States, Utah, Provo</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Bluesocket</td><td>United States, MA  01803, Burlington</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Bluhalo</td><td>United Kingdom, Hampshire, Farnborough</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Blur Studio</td><td>United States, CA, Venice</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Bob Mobile</td><td>Deutschland, Düsseldorf</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Boca Internet Technologies, Inc.</td><td>United States, Florida, Coconut Creek</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Bock Interactive</td><td>United States, VT, Burlington</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Bodhi Labs</td><td>Bangalore, India</td><td>2013</td><td>Active</td></tr>
-<tr><td>Boingo Wireless</td><td>United States, CA, Santa Monica,</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Boingo Wireless, Inc.</td><td>United States, CA, Santa Monica</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Bond Associates</td><td>United States, CA, San Diego</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Bonzai Creative Solutions</td><td>Los Angeles</td><td>2013</td><td>Active</td></tr>
-<tr><td>BookFinder.com</td><td>United States, CA, Berkeley</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>BookFinder.com (subsidiary of AbeBooks/Amazon)</td><td>Canada, British Columbia, Victoria</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>BookRenter.com</td><td>United States, CA, Sunnyvale</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Booking.com</td><td>the Netherlands, Amsterdam</td><td>2013</td><td>Active</td></tr>
-<tr><td>Booking.com -Travel & Tourism</td><td>Netherlands, Amsterdam, Amsterdam (City Center)</td><td>2011</td><td>Active</td></tr>
-<tr><td>Booking.com via MakorIT</td><td>Amsterdam, The Netherlands</td><td>2013</td><td>Active</td></tr>
-<tr><td>Booking.com/Travel &Tourism</td><td>The Netherlands, Amsterdam (City Center)</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Bookings Europe BV</td><td>Netherlands, Amsterdam</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Bookingspunt NL</td><td>Netherlands, NH, Amsterdam</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Bookrenter.com LLC</td><td>United States, CA, Sunnyvale</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Books-A-Million, Inc</td><td>United States, TN, Nashville</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Books-A-Million, Inc.</td><td>United States, TN, Nashville</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Boopsie Inc</td><td>S California Ave, Palo Alto, CA, USA</td><td>2012</td><td>Active</td></tr>
-<tr><td>Boopsie, Inc.</td><td>Sunnyvale, CA</td><td>2012</td><td>Active</td></tr>
-<tr><td>Bootic Inc</td><td>Undefined</td><td>2011</td><td>Active</td></tr>
-<tr><td>Bootic Inc.</td><td>San Francisco, CA</td><td>2012</td><td>Active</td></tr>
-<tr><td>Bossmedia AB</td><td>Sweden, Växjö</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Boston University / BMERC</td><td>United States, MA, Boston</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Boston.com</td><td>United States, MA, Boston</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Boston/Cambridge Company</td><td>United States, MA, Cambridge</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Bottlenose</td><td>United States, MA, Amherst</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Boundary Works</td><td>United States, IL, Chicago</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Bradson Tech</td><td>United States, WA, Seattle</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Bradson Technology</td><td>United States, WA, Bellevue</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Bradson Technology Professionals</td><td>United States, WA, Seattle</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>BrainToSoul Knowledge Consulting</td><td>Bangalore - India</td><td>2012</td><td>Active</td></tr>
-<tr><td>Brainbox Digital</td><td>Putney, South West London</td><td>2013</td><td>Active</td></tr>
-<tr><td>Brandeis University</td><td>United States, MA, Waltham</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Branta Group</td><td>United States, CA, San Rafael</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Bravo Lucy Technologies</td><td>India, Hyderabad</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Brian Allemana, Independent Contractor</td><td>United States, Illinois, Chicago</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Brian Koontz</td><td>United States, TX, Dallas</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Brien Jr</td><td>Canada, Ontario, Toronto</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Brightred Resourcing</td><td>United Kingdom, London</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>British Broadcasting Corporation</td><td>United Kingdon, London</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>Brix Networks</td><td>United States, MA, Chelmsford</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Broadbean</td><td>Undefined</td><td>2012</td><td>Active</td></tr>
-<tr><td>Broadbean Technology Ltd</td><td>United Kingdom, London, London (Canary Wharf)</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Broadcast Microwave Services</td><td>United States, California, Poway</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Broadcasting Company</td><td>United Kingdom, London, London</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Broadspeed Ltd</td><td>United Kingdom, Essex, London / Cambridge / Colchester</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Broadspeed.com</td><td>United Kingdom, Essex or Suffolk, London or Ipswich</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Broadspire, Inc.</td><td>United States, CA, Mission Hills</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Brocade</td><td>United States, CA, San Jose</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>BrookEdge Technologies</td><td>United States, MA, Boston</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Brooksource</td><td>United States, Tennessee, Nashville</td><td>2011</td><td>Active</td></tr>
-<tr><td>Brooksource and Technical Youth</td><td>United States, Tennessee, Nashville</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Brooksource, A Technical Youth Co.</td><td>United States, OH, Columbus</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Brunico Comminocations Ltd.</td><td>Canada, Ontario, Toronto</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Brunico Communications Inc</td><td>Canada, Ontario, Toronto</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>BryceNet, Inc.</td><td>United States, NY, New York</td><td>2011</td><td>Active</td></tr>
-<tr><td>Brycenet, Inc.</td><td>United States, NY, New York</td><td>2011</td><td>Active</td></tr>
-<tr><td>Btech Inc</td><td>United States, California, Mountain View</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Bucks Music Group</td><td>United Kingdom, London</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>BudgetNames.com</td><td>United States, Texas, North Dallas</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Buero Lersch</td><td>Berlin, Germany</td><td>2012</td><td>Active</td></tr>
-<tr><td>Bugal Pty Ltd</td><td>Australia, Queensland, Brisbane</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>BuildSite</td><td>United States, CA, Oakland</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Bullit Recruitment Solutions Ltd - Bull IT</td><td>United Kingdom, London, UK, London</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>BullsEye! Human Capital Solutions Inc.</td><td>Canada, Ontario, Toronto</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Burke</td><td>United States, IL, Chicago</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Burns Sheehan </td><td>London</td><td>2011</td><td>Active</td></tr>
-<tr><td>Burns Sheehan LTD</td><td>United Kingdom, London </td><td>2011</td><td>Active</td></tr>
-<tr><td>BurstNET Technologies, Inc.</td><td>United States, PA, Scranton</td><td>2011</td><td>Active</td></tr>
-<tr><td>Bushido Designs</td><td>United States, WA, Seattle</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Busii</td><td>South Africa, Gauteng, Johannesburg</td><td>2012</td><td>Active</td></tr>
-<tr><td>Business Global Systems</td><td>Slovakia, Bratislava</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>Business Monitor International</td><td>United Kingdom, London</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Business.com</td><td>California, Santa Monica</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Butler Hill Group</td><td>United States, WA, Redmond</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>BuyBelowCost, Inc.</td><td>United States, CA, San Mateo</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>BuzzFeed</td><td>United States, NY, New York</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>BuzzFeed Inc</td><td>NY, New York</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>BuzzFeed Inc.</td><td>United States, NY, New York</td><td>2011</td><td>Active</td></tr>
-<tr><td>BuzzFeed, Inc</td><td>United States, NY, New York</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Bweeb.com</td><td>Undefined</td><td>2011</td><td>Active</td></tr>
-<tr><td>ByWater Solutions</td><td>United States, CA, Santa Barbara</td><td>2011</td><td>Active</td></tr>
-<tr><td>Byram Healthcare</td><td>United States, NY, White Plains</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>C&D Elite</td><td>Undefined</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>C&D Elite Ltd</td><td>United Kingdom, East Sussex, Hastings, East Sussex</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>C&R Consulting</td><td>United States, NY, new york city</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>C2K TECHNOLOGIES</td><td>United States, California, Palo Alto</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>C2K Technologies</td><td>United States, CA, San Francisco</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>CACI</td><td>United States, DC, Washington</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>CAMERADO</td><td>United States, NY, New York</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>CAPSiDE</td><td>Spain, Barcelona, Barcelona</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>CBN LLC</td><td>Las Vegas, NV, USA</td><td>2012</td><td>Active</td></tr>
-<tr><td>CBS</td><td>United States, CA, Los Angeles</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>CBS Interactive</td><td>Irvine, CA, United States</td><td>2012</td><td>Active</td></tr>
-<tr><td>CBS Interactive </td><td>United States, Florida, Fort Lauderdale</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>CBS Interactive (CBSSports.com)</td><td>Ft. Lauderdale, FL</td><td>2012</td><td>Active</td></tr>
-<tr><td>CBS Interactive - CBSSports.com</td><td>United States, Florida, Fort Lauderdale</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>CBTS</td><td>United States, OH, Cincinnati</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>CC3</td><td>United States, PA, Ivyland</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>CCBill</td><td>United States, AZ, Tempe</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>CCI</td><td>Novato, CA</td><td>2011</td><td>Active</td></tr>
-<tr><td>CDI</td><td>United States, CA, Mt. View</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>CDI Business Solutions</td><td>United States, WA, Bellevue</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>CDI Corporation</td><td>United States, California, Mountain View</td><td>2011</td><td>Active</td></tr>
-<tr><td>CDR</td><td>United States, CA, Belmont</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>CE Technologies</td><td>Canada, Ontario, Toronto</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>CE Technologies, Canada/National Business Services Alliance (NBSA)</td><td>Canada, Ontario, Toronto</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>CENTIUM</td><td>United States, MD, Suitland</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>CES</td><td>United States, MI, Bloomfield Hills</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>CFC</td><td>Canada, QC, Montreal</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>CIBER</td><td>United States, Kansas, Overland Park</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>CIBER, Inc</td><td>United States, Kansas, overland park</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>CIDC</td><td>MA, Cambridge</td><td>2012</td><td>Active</td></tr>
-<tr><td>CISCO</td><td>United States, California, San Jose</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>CIeNET Technologies, Inc</td><td>China, BeiJing</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>CMI</td><td>United States, Georgia, Atlanta Metro</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>CMP</td><td>Newport Beach, CA</td><td>2012</td><td>Active</td></tr>
-<tr><td>CMS Mechanical Service Company</td><td>Florida, Melbourne</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>CNET Networks</td><td>United States, CA, San Francisco</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>CNET Networks, Inc.</td><td>United States, CA, San Franicsco</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>CNET Search.com</td><td>United States, CA, San Francisco</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>CNSys PLC</td><td>Bulgaria, Sofia</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>CODGI</td><td>United States, CA, San Mateo</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>COL Search</td><td>United States, CA, Sunnyvale</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>COMSYS</td><td>United States, Tn, Nashville</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>COMSYS IT Services</td><td>United States, OR, Portland</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>COMTEK Group</td><td>United States, KS, Overland Park</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>CONNECT Resource Group</td><td>United States, MD, BETHESDA</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>CORPORATION CARDEX INC.</td><td>Canada, Quebec, Montreal</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>COVMAR</td><td>United States, NY, New York</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>CPA Detective</td><td>New York, NY</td><td>2012</td><td>Active</td></tr>
-<tr><td>CPI Books</td><td>United Kingdom, Wiltshire, Chippenham</td><td>2011</td><td>Active</td></tr>
-<tr><td>CPQi - Banking Technology Offshore</td><td>Fortaleza, CE, Brazil</td><td>2012</td><td>Active</td></tr>
-<tr><td>CPS Consulting</td><td>United States, CA, Los Angeles</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>CPS, Inc</td><td>IL, Chicago</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>CQ Roll Call</td><td>Washington, DC, USA</td><td>2012</td><td>Active</td></tr>
-<tr><td>CQ RollCall</td><td>United States, DC, Washington</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>CQ-Roll Call</td><td>United States, DC, Washington D.C.</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>CQ-Roll Call </td><td>United States, Washington D.C. , DC</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>CQ-Roll Call Group</td><td>United States, DC, Washington</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>CR Corp</td><td>United States, MA, Boston</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>CSI/Consultant Specialists Inc.</td><td>United States, CA, San Francisco</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>CSM</td><td>Australia, Victoria, Melbourne</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>CSPL</td><td>India, Maharashtra, Pune</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>CSS</td><td>India, TN, chennai</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>CSS Chennai INDIA</td><td>India, Tamil Nadu, Chennai</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>CSS Corp</td><td>India, Tamil Nadu, Chennai</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>CSS Technical Services</td><td>Bristol, PA</td><td>2012</td><td>Active</td></tr>
-<tr><td>CTG, Inc.</td><td>United States, PA, Mechanicsburg</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>CTI</td><td>United States, TX, Plano</td><td>2011</td><td>Active</td></tr>
-<tr><td>CTI INFOTECH</td><td>Phoenix, AZ</td><td>2011</td><td>Active</td></tr>
-<tr><td>CTI Infotech</td><td>Pittsburg, PA, USA</td><td>2011</td><td>Active</td></tr>
-<tr><td>CV Library</td><td>United Kingdom, Hampshire, Fleet</td><td>2011</td><td>Active</td></tr>
-<tr><td>CV Screen Ltd</td><td>United Kingdom, Gloucestershire, Cirencester</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>CV-Library</td><td>Fleet, Hampshire</td><td>2013</td><td>Active</td></tr>
-<tr><td>CV-Library Ltd</td><td>Fleet, Hampshire, UK</td><td>2012</td><td>Active</td></tr>
-<tr><td>CV-library Ltd</td><td>United Kingdom, Hampshire, Fleet</td><td>2011</td><td>Active</td></tr>
-<tr><td>CVSDude</td><td>Worldwide</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>CVSDude.com</td><td>Australia, QLD, Gold Coast</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>CaXem Inc.</td><td>Canada, Quebec, Montreal</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Cablecom Networking Ltd</td><td>United Kingdom, North Somerset, Kenn, near Bristol</td><td>2011</td><td>Active</td></tr>
-<tr><td>CachetBanq</td><td>United States, CA, Pasadena</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Cadence Resourcing</td><td>United Kingdom, London</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Cadmus Communications, a Cenveo Company</td><td>United States, Virginia, Richmond</td><td>2011</td><td>Active</td></tr>
-<tr><td>Cadmus Communications, a Cenveo company</td><td>Richmond, VA, United States</td><td>2013</td><td>Active</td></tr>
-<tr><td>Cadmus Professional Communications</td><td>United States, Maryland, Linthicum ( Baltimore area)</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>CalaCode.com</td><td>Australia, NSW, Sydney</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Calacode</td><td>Australia, NSW, Kurrajong</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Calacode.com</td><td>Australia, NSW, Sydney</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Caledon Card Services</td><td>Canada, Ontario, Georgetown</td><td>2011</td><td>Active</td></tr>
-<tr><td>Calibrant</td><td>United States, MD, Gaithersburg</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Calibrant Biosystems</td><td>United States, MD, Gaithersburg</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>CallTech Communications, LLC.</td><td>United States, Ohio, Columbus</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Caltech</td><td>United States, CA, Pasadena</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Calvary Consulting</td><td>United States, Pennsylvania, West Chester</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Cambridge Company</td><td>United States, MA, Cambridge</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Cambridge Interactive Developerment Corp.</td><td>United States, MA, Cambridge</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Cambridge Interactive Development Corp</td><td>United States, MA, Cambridge</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Cambridge Interactive Development Corporation</td><td>United States, MA, Cambridge</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Cambridge Interactive Development, Corp.</td><td>United States, MA, Cambridge</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Cambridge Interactive development</td><td>United States, MA, Cambridge</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Cambridge University Press</td><td>United Kingdom, Cambridgeshire, Cambridge</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>CambridgeWebmaster.com</td><td>Pasadena, CA</td><td>2011</td><td>Active</td></tr>
-<tr><td>Camerado</td><td>United States, NY, New York</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>CampStaff</td><td>United States, New York, Westchester County</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Campus Explorer, Inc.</td><td>United States, CA, Santa Monica</td><td>2012</td><td>Active</td></tr>
-<tr><td>CampusExplorer.com</td><td>United States, CA, Santa Monica</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Can be revealed upon application</td><td>United Kingdom, London</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Canada Law Book, A Division of The Cartwright Group Ltd.</td><td>Canada, Ontario, Aurora</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Canadian Centre for Child Protection Inc</td><td>Canada, Manitoba, Winnipeg</td><td>2011</td><td>Active</td></tr>
-<tr><td>Canadian Securities Institute</td><td>Canada, Ontario, Toronto</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>Candela Corporation</td><td>United States, CA, Irvine</td><td>2012</td><td>Active</td></tr>
-<tr><td>Candle Australia</td><td>Australia, Queensland, Brisbane</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Cant Disclose</td><td>India, Andhra Pradesh, Hyderabad</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Cantella & Co., Inc.</td><td>United States, MA, Boston</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Capabilis</td><td>Paris, France</td><td>2013</td><td>Active</td></tr>
-<tr><td>Capco IT Services</td><td>India, Bangalore</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Capgemini Consulting India Pvt. Ltd</td><td>INDIA, Maharashtra, Mumbai</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Capital Markets Placements </td><td>United States, Illinois, Arlington Hts.</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Capital TechSearch</td><td>United States, NC, Raleigh</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>CapitalTechSearch</td><td>United States, NC, Raleigh</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Capitol Advantage</td><td>United States, VA, Fairfax</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Capitol Commodity Services, Inc.</td><td>United States, Indiana, Indianapolis</td><td>2012</td><td>Active</td></tr>
-<tr><td>CarDomain Network</td><td>United States, WA, Seattle</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>CarDomain Network, Inc.</td><td>United States, WA, Seattle</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>CarSpot.com, LLC</td><td>United States, WI, Milwaukee</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>CardIt</td><td>United States, CA, San Francisco</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Cardinal Technoly Solution</td><td>United States, NJ, North Brunswick</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>CareScout</td><td>United States, Massachusetts, Wellesley</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Career Concept</td><td>United Kingdom, London</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Career Gear</td><td>Planet Earth</td><td>2012</td><td>Active</td></tr>
-<tr><td>CareerEncore (search firm)</td><td>United States, MA, Cochituate</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>CareerPointe</td><td>United States, TX, Dallas</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Careerjet</td><td>United Kingdom, London</td><td>2012</td><td>Active</td></tr>
-<tr><td>CargoTel</td><td>Telecommute</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>CargoTel, Inc</td><td>United States, FL, Telecommute</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>CargoTel, Inc.</td><td>United States, MD, Baltimore/Telecommute</td><td>2012</td><td>Active</td></tr>
-<tr><td>CargoTel, Inc. </td><td>United States, MD, Baltimore</td><td>2011</td><td>Active</td></tr>
-<tr><td>Cargotel, Inc</td><td>United States, MD, Baltimore</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Cargotel, Inc.</td><td>United States, MD, Baltimore</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Cariden Technologies, Inc.</td><td>Mountain View, CA</td><td>2012</td><td>Active</td></tr>
-<tr><td>Carlyle Consulting Services</td><td>United States, New York, New York</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Carlyle Consulting Services, Inc</td><td>United States, NY, New York</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Carlyle Consulting Services, Inc.</td><td>United States, Connecticut, Norwalk</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Carlyle Consulting Svcs., Inc.</td><td>United States, NY, New York</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Carnegie Mellon University</td><td>United States, Pennsylvania, Pittsburgh</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Casale Media</td><td>Toronto</td><td>2013</td><td>Active</td></tr>
-<tr><td>Casale Media Inc.</td><td>Canada, Ontario, Toronto</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Cascadia Information Technologies, Inc.</td><td>United States, Oregon, Portland</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Case's Ladder, Inc</td><td>United States, WA, Mount Vernon</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Case's Ladder, Inc.</td><td>United States, WA, Mount Vernon</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Castle Branch Inc.</td><td>United States, North Carolina, Wilmington</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>CastleRock Technology</td><td>United States, CA, Sacramento</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Catalina Lifesciences, Inc</td><td>United States, CA, Irvine</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Catalina Lifesciences, Inc </td><td>United States, CA, Irvine</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Catalina Lifesciences, Inc.</td><td>United States, CA, Irvine</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Catalina Lifesciences, a Healthcare / Nutrition Company</td><td>Irvine, CA</td><td>2012</td><td>Active</td></tr>
-<tr><td>Catalyst IT</td><td>Wellington, New Zealand</td><td>2012</td><td>Active</td></tr>
-<tr><td>Catalyst IT (NZ) Ltd</td><td>New Zealand, Wellington,</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Catalytiq Pty Ltd</td><td>South Africa, Cape Town</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Cayuse, Inc.</td><td>United States, OR, Portland</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Cedar Corp</td><td>United States, WA, South Seattle</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Cedar Creek Software</td><td>United States, TX, Waco</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>CedarTree</td><td>United States, CA, Foster City</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>CedarTree Tech</td><td>United States, CA, Foster City</td><td>2011</td><td>Active</td></tr>
-<tr><td>Cedartree Tech</td><td>United States, CA, San Mateo</td><td>2011</td><td>Active</td></tr>
-<tr><td>Cellent AG</td><td>Germany, Karlsruhe</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Cellip AB</td><td>Sweden, Stockholm</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Cenetec LLC</td><td>United States, Florida, Boca Raton</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>Center for Computational Research</td><td>Buffalo, NY</td><td>2012</td><td>Active</td></tr>
-<tr><td>Center for Social Innovation</td><td>Austria, Vienna</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Centeractive AG</td><td>Switzerland, Bern</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Centerpoint AS</td><td>Norway, Oslo</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Centre Street Associates, Inc.</td><td>United States, IL, Skokie</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Centre for Social Innovation</td><td>Austria, Vienna</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>CentreSource Inc.</td><td>United States, TN, Nashville</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Cenus Technologies, Inc.</td><td>United States, CA, Scotts Valley</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Certive Corporation</td><td>United States, CA, Redwood City</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>Chaffee Interactive</td><td>United States, IL, Chicago</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Chalmers Brown Consultancy</td><td>United Kingdom, London Area</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Chameleon Technologies</td><td>United States, WA, Seattle</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Chancellor & Chancellor</td><td>United States, CA, San Francisco (SOMA)</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>ChannelMeter</td><td>USA , CA, San Francisco</td><td>2011</td><td>Active</td></tr>
-<tr><td>Chapar Shabdiz Ltd.</td><td>Iran, Tehran</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>ChargeSmart</td><td>San Francisco, CA</td><td>2011</td><td>Active</td></tr>
-<tr><td>ChargeSmart Inc</td><td>United States, CA, San Francisco</td><td>2011</td><td>Active</td></tr>
-<tr><td>ChargeSmart/Verifone</td><td>San Francisco, CA</td><td>2012</td><td>Active</td></tr>
-<tr><td>Chargesmart</td><td>San Francisco, CA</td><td>2013</td><td>Active</td></tr>
-<tr><td>Charlex</td><td>United States, NY, New York (Manhattan)</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Chart Tool</td><td>California</td><td>2012</td><td>Active</td></tr>
-<tr><td>Charter Global Inc</td><td>United States, WA, Seattle</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Charter Global, Inc</td><td>United States, WA, Seattle</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Check Point</td><td>Israel, Tel Aviv</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>CheckPoint</td><td>Israel, Ramat Gan</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Cheetah Wireless Technologies, Inc.</td><td>United States, NV, Las Vegas</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>CheetahMail</td><td>United States, New York, New York</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>CheetahMail Inc.</td><td>United States, NY, New York</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>CheetahMail, an Experian Company</td><td>10010, NY, New York</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>CheetahMail, an Experian company</td><td>United States, NY, New York</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Children's Hospital of Philadelphia</td><td>United States, PA, Philadelphia</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>ChildrensIllustrators dot com</td><td>Undefined</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Chillibean Ltd</td><td>United Kingdom, London</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Choice Greetings</td><td>United Kingdom, Avon, Bath</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Christianbook.com</td><td>United States, MA, Peabody</td><td>2012</td><td>Active</td></tr>
-<tr><td>Christopher Muenchhoff</td><td>Germany, D-68199 Mannheim</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Christy Media Solutions</td><td>London, United Kingdom</td><td>2012</td><td>Active</td></tr>
-<tr><td>Cibernet</td><td>United States, NJ, Scotch Plains</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Cigniti Inc.</td><td>United States, California, Camarillo</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Circle Recruitment</td><td>United Kingdom, London</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Circle Recruitment - 0845 210 3333</td><td>United Kingdom, London</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Circle Recruitment on behalf of client...</td><td>South West London</td><td>2012</td><td>Active</td></tr>
-<tr><td>Circonus, Inc.</td><td>United States, MD, Columbia</td><td>2011</td><td>Active</td></tr>
-<tr><td>Cisco Systems</td><td>United States, CA, San Jose</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Cisco Systems India Private Limited</td><td>India, Karnataka, Bangalore</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Cisco Systems Ltd</td><td>United States, CA, San Jose</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Citadel Investment Group</td><td>United States, IL, Chicago</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Citadel Investment Group, L.L.C.</td><td>United States, IL, Chicago </td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Citibank</td><td>United States, New Jersey, Warren</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Citigroup</td><td>United States, New Jersey, Rutherford</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>City-based trading house.</td><td>United Kingdom, London</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>CityStream Consulting</td><td>United Kingdom, London</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Citysearch</td><td>United States, California, Los Angeles</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Clackmas Paper</td><td>United States, OR, Clackmas</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Clakmas paper</td><td>or, clakmas </td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Claria</td><td>United States, CA, Redwood City</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Claria Corporation</td><td>United States, CA, Redwood</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Claria, inc.</td><td>United States, CA, Redwood City</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Clarity </td><td>United Kingdom, London</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Clarity Recruitment</td><td>United Kingdom</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Clark Resources Consulting, LLC</td><td>United States, New Jersey</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Clark for President</td><td>United States, AR, Little Rock</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>ClassBrain, Inc</td><td>United States, CA, Santa Ana</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Classmates.com</td><td>United States, WA, Renton</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Clearbuilt Technologies, Inc.</td><td>United States, GA, Telecommute</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>ClickandBuy</td><td>United States, New York, New York</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Client</td><td>United States, NY, New York City</td><td>2011</td><td>Active</td></tr>
-<tr><td>Client Server Ltd</td><td>United Kingdom, London</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Client Server Ltd.</td><td>United Kingdom, London</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Client is a military branch</td><td>DC Metro</td><td>2012</td><td>Active</td></tr>
-<tr><td>Client of Alphaeus HR</td><td>India, Karnataka, Bangalore</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Client of Becker Staffing Services</td><td>United States, Delaware, New Castle</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Client of LMB Professional Services</td><td>United States, New York, Manhattan</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Client of TMI Network</td><td>India, Andhra Pradesh, Hyderabad</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>ClinicaHealth</td><td>New York / Washington, DC</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Cliq Digital</td><td>Amsterdam, The Netherlands</td><td>2012</td><td>Active</td></tr>
-<tr><td>Close Brothers Commercial Vehicle Solutions</td><td>Ilkeston, Derbyshire, UK</td><td>2013</td><td>Active</td></tr>
-<tr><td>Close Resource</td><td>United Kingdom, Bristol, Bristol</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Cloudband</td><td>United Kingdom, London</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>Cloudmark</td><td>United States, San Francisco</td><td>2011</td><td>Active</td></tr>
-<tr><td>Clovis</td><td>MD, Bethesda</td><td>2011</td><td>Active</td></tr>
-<tr><td>Club Photo</td><td>United States, TX, Austin</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Clustermark</td><td>Canada, ON., Toronto</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>CoServers</td><td>01938, MA, Ipswich</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Coachwood IT & Executive Recruitment</td><td>Australia, Victoria, Melbourne</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Coal IT</td><td>United Kingdom, London</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Coalition Holdings</td><td>United Kingdom, London</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Code and Theory</td><td>New York, NY, USA</td><td>2013</td><td>Active</td></tr>
-<tr><td>CodeQ, inc.</td><td>United States, NV, Henderson</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>CodeRyte</td><td>United States, Maryland, Bethesda</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>CodeRyte, Inc</td><td>United States, MD, Bethesda</td><td>2011</td><td>Active</td></tr>
-<tr><td>CodeRyte, Inc.</td><td>United States, Maryland, Bethesda</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Codeq</td><td>United States, NV, Las Vegas</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>CogMedia</td><td>Canada, Quebec</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>Cogneo</td><td>United States, CA, San Mateo</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Cognizo Technologies</td><td>United States, IL, Chicago</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Coit Staffing</td><td>United States, CA, Mt View or San Francisco</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Coit Staffing Inc.</td><td>United States, CA, San Francisco</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Cold Spring Harbor Lab</td><td>United States, NY, Cold Spring Harbor</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Cold Spring Harbor Laboratory</td><td>United States, New York, Cold Spring Harbor</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Cole Hill Prime</td><td>United States, NY, New York</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>CollabNet</td><td>India, Tamil Nadu, Chennai</td><td>2011</td><td>Active</td></tr>
-<tr><td>Collabera</td><td>United States, IL, Chicago</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Collective2</td><td>United States, NY, Rye Brook</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Collectors Car Auction</td><td>Singapore, Singapore</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>CollegeGear.com</td><td>United States, WA, Seattle</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>CollegeGear.com, Inc.</td><td>United States, WA, Seattle</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>CollegeNET</td><td>United States, OR, Portland</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Colligent.com</td><td>United States, WA, Bellevue</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Collins Associates</td><td>United States, New York, Manhattan / Long Island</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Colonize, Inc.</td><td>United States, New Jersey, Hoboken</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Colubris Networks</td><td>United States, MA, Waltham</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Colubris Networks, Inc.</td><td>United States, Ma, Waltham</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Columbia Technology</td><td>United States, NYC, NYC</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>CombineNet</td><td>United States, Pennsylvania, Pittsburgh</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>CombineNet, Inc.</td><td>United States, Pennsylvania, Pittsburgh</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Combinenet</td><td>United States, PA, Pittsburgh</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Comcast</td><td>United States, VA, Herndon</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Comforce</td><td>United States, WA, Seattle</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Commerce Objects, Inc.</td><td>United States, Minnesota, St. Paul</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>CommerceStore.com</td><td>United States, Ok, Tulsa</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Commind</td><td>Sweden, Lund</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>CommonMind</td><td>United States, MI, Ann Arbor or Novi</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Commtouch</td><td>Israel, Natanya</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Community Connect, Inc.</td><td>United States, NY, New York</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Community Software Lab</td><td>United States, MA, Lowell</td><td>2011</td><td>Active</td></tr>
-<tr><td>Companies House</td><td>United Kingdom, Wales, Cardiff</td><td>2011</td><td>Active</td></tr>
-<tr><td>Company in King of Prussia</td><td>United States, Pennsylvania, King of Prussia</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Compella</td><td>United States, New York, New York</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Compendium Research Corp</td><td>United States, NY, Rochester</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Competency Assessment Solutions</td><td>United States, New Jersey, Princeton</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Competent Staffing Resource</td><td>Morrisville, NC</td><td>2012</td><td>Active</td></tr>
-<tr><td>Complete Data Solutions</td><td>United States, VA, Fairfax</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Comprehensive Computer Consulting</td><td>United States, WI, madison</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>CompuSearch</td><td>United States, New Jersey, Northern NJ</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Compucast Web Media</td><td>New Orleans, LA</td><td>2012</td><td>Active</td></tr>
-<tr><td>Compugra Systems Inc</td><td>United States, Delaware, Newark</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Compunnel Software Group Inc</td><td>United States, Georgia, Atlanta</td><td>2011</td><td>Active</td></tr>
-<tr><td>Compunnel Software Group Inc.</td><td>United States, Georgia, Atlanta</td><td>2011</td><td>Active</td></tr>
-<tr><td>Computational Biology and Informatics Laboratory, University of</td><td>United States, PA, Philadelphia</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Computer Aid, Inc.</td><td>United States, VA, Dulles</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>Computer Express, Inc.</td><td>United States, MA, Wakefield</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Computer Futures</td><td>The Netherlands, North Holland, Amsterdam</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Computer Futures Amsterdam</td><td>The Netherlands, Noord Holland, Amsterdam</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Computer Futures Solutions</td><td>The Netherlands, Noord-Holland, Amsterdam of Groningen</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Computer Futures Solutions (Agency)</td><td>United Kingdom, East Yorkshire, East Yorkshire</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Computer People</td><td>United Kingdom, London</td><td>2013</td><td>Active</td></tr>
-<tr><td>Computer Quest</td><td>United Kingdom, Glouester</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Computershare</td><td>ma, Canton</td><td>2012</td><td>Active</td></tr>
-<tr><td>Computershare </td><td>Canada, Ontario, Toronto</td><td>2011</td><td>Active</td></tr>
-<tr><td>Computershare Investor Services</td><td>United Kingdom, Bristol</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Computershare Trust Company</td><td>Canada, Ontario, Richmond Hill</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Compuware Canada Ltd.</td><td>Canada, Quebec, Montreal</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Compuware Corporation</td><td>Canada, Quebec, Montreal</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Compuware Corporation of Canada</td><td>Canada, Quebec, Montreal</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Comspec</td><td>Canada, Ontario, Toronto</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Comstyle</td><td>Germany, Germany, Flensburg</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Comsys</td><td>United States, WA, Seattle</td><td>2011</td><td>Active</td></tr>
-<tr><td>Comtech Mobile Datacom Corporation</td><td>United States, Maryland, Germantown</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Comtek</td><td>IL, Chicago</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Comverse</td><td>United States, Nj, Mount Laurel</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>ConSol*</td><td>Munich, Germany</td><td>2012</td><td>Active</td></tr>
-<tr><td>Concepts in Staffing</td><td>United States, New York, New York City</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Concordia University</td><td>Canada, Quebec, Montreal</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Condifential</td><td>United States, Florida, Key West</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Conex Europe</td><td>United Kingdom, London</td><td>2011</td><td>Active</td></tr>
-<tr><td>Conex Europe </td><td>United Kingdom, London</td><td>2011</td><td>Active</td></tr>
-<tr><td>Conex Europe (http://www.linkedin.com/in/mattgeppert) </td><td>United Kingdom, London</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Conex Europe - 01708 716 880</td><td>Hertfordshire</td><td>2012</td><td>Active</td></tr>
-<tr><td>Conex Europe - http://www.linkedin.com/in/mattgeppert</td><td>United Kingdom, UK, London, London</td><td>2011</td><td>Active</td></tr>
-<tr><td>Conex Europe - http://www.linkedin.com/in/mattgeppert </td><td>United Kingdom, London</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Conex Europe Ltd</td><td>United Kingdom, London</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Conex Europe Ltd.</td><td>United Kingdom, London</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Conex Europe_Simon Green</td><td>United Kingdom, Basingstoke</td><td>2011</td><td>Active</td></tr>
-<tr><td>Confideintial</td><td>United States, MD, Rockville</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Confidential</td><td>United States, TN, Nashville</td><td>2013</td><td>Active</td></tr>
-<tr><td>Confidential </td><td>United States, California, Los Angeles </td><td>2011</td><td>Active</td></tr>
-<tr><td>Confidential (Initially)</td><td>Australia, NSW, Sydney</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Confidential (Mobile Platform Development)</td><td>United States, NY, New York</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Confidential (blue chip)</td><td>United Kingdom, West- central  London, London</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Confidential -</td><td>United States, Minnesota, Minnetonka</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Confidential - Ecommerce</td><td>United States, NY, New York City</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Confidential - High Tech Public Company</td><td>United States, CA, San Jose</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Confidential -ecommerce</td><td>United States, CA, San Francisco</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Confidential Company</td><td>United States, California, Redwood City</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Confidential Company Represented by Jobplex</td><td>United States, DC, Washington</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Confidential Search Engine company in SF</td><td>United States, CA, San Francisco</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Confidential Search-Still Open</td><td>United States, TX, Fort Worth</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Confidential via JobSmart Partners</td><td>Canton, MA</td><td>2012</td><td>Active</td></tr>
-<tr><td>Confidential, Represented by Winter, Wyman & Co</td><td>United States, NY, New York</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Confluence</td><td>United States, DC, Washington</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Connect Distribution</td><td>United Kingdom, Birmingham</td><td>2011</td><td>Active</td></tr>
-<tr><td>ConnectFu</td><td>Undefined</td><td>2011</td><td>Active</td></tr>
-<tr><td>ConnectPoint Recruiting</td><td>United States, UT, Salt Lake City</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Connected Musicians</td><td>United States, IN, Indianapolis</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Connected-UK.com LLP</td><td>United Kingdom, West Yorkshire, Halifax</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Connections Recruitment</td><td>United Kingdom, Berkshire, Wokingham</td><td>2012</td><td>Active</td></tr>
-<tr><td>Connections Recruitment - Bank</td><td>United Kingdom, London, City</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Connections Recruitment Ltd</td><td>United Kingdom, London, London</td><td>2011</td><td>Active</td></tr>
-<tr><td>Connections Recruitment Ltd - onsite at SAAS Software Vendor</td><td>London, United Kingdom</td><td>2012</td><td>Active</td></tr>
-<tr><td>Connectlogic</td><td>United Kingdom, Bedfordshire, Buckinghamshire</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Console, Inc</td><td>United States, CA, San Diego,</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Console, Inc.</td><td>United States, CA, San Diego</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Constitution Group</td><td>United States, NY, New York</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Consultis</td><td>United States, NJ, Woodbridge`</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Consultis of Tampa</td><td>United States, FL, Tampa</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Consultpool GmbH & Co. KG</td><td>Deutschland, München</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Contact Telecom</td><td>United States, New Hampshire, Manchester</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Context Software</td><td>Canada, Ontario, Toronto</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>ContinuedEd IDC, India (Subsidiary of continueded.com,USA)</td><td>India, New Delhi, New Delhi</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Continuity Partners</td><td>United States, New York, New York</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Continuity Partners, Inc.</td><td>United States, NY, New York</td><td>2011</td><td>Active</td></tr>
-<tr><td>Continuity Partners, Inc. </td><td>United States, NY, New York</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Contract job</td><td>Undefined</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Contractors.com</td><td>Canada, Ontario, Toronto</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Control Access Systems</td><td>United States, CA, Oakland</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Conversation Technology</td><td>United States, MD, Gaithersburg</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>CoolerEmail</td><td>United States, CA, San Diego</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>CoolerEmail, Inc</td><td>United States, CA, Solana Beach</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Cooperative Design</td><td>United States, WA, Langley</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Core Search Group</td><td>United States, NY, Manhattan</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Core Search Group, INC.</td><td>United States, SC, Charleston</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Core Search Group, Inc.</td><td>United States, NC, Charlotte</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>CoreBPM Pte Ltd</td><td>Singapore</td><td>2012</td><td>Active</td></tr>
-<tr><td>CoreBPM Pte Ltd.</td><td>Singapore</td><td>2012</td><td>Active</td></tr>
-<tr><td>CoreTechs Consulting Inc.</td><td>United States, DC, Washington</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Coreware</td><td>United Kingdom, Surrey</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Coreware Limited</td><td>GU5 0AB, Surrey, Guildford</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Coreware Ltd</td><td>United Kingdom, Surrey, Guildford</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Cornell University</td><td>United States, NY, Ithaca</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Corner Office Consultants</td><td>United States, TN, Memphis</td><td>2011</td><td>Active</td></tr>
-<tr><td>Cornerstone Search Group</td><td>United States, New York, New York</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Corporate Express</td><td>Australia, NSW, Sydney</td><td>2012</td><td>Active</td></tr>
-<tr><td>Corporate Recruiters Ltd</td><td>Canada, BC, Victoria</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Corporate Recruiters Ltd.</td><td>Canada, BC, Vancouver</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Corporation Cardex Inc.</td><td>Canada, Quebec, Montreal</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Corso Informatica B.V.</td><td>The Netherlands, Tiel</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Corvisa, LLC.</td><td>United States, Wisconsin, Milwaukee</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Cosbit Technologies</td><td>Canada, Alberta, Calgary</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>CourtTrax Corporation</td><td>United States, WA, Bellevue</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>CovetedList.com</td><td>United States, New York, New York</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Cox Radio Interactive</td><td>United States, GA, Atlanta</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Coyote Creek Consulting</td><td>United States, CA, San jose</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Craig Law, PLLC</td><td>United States, Kentucky, Louisville</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Crain Communications</td><td>United States, MI, Detroit</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Crazy Panda</td><td>Russia, Moscow</td><td>2011</td><td>Active</td></tr>
-<tr><td>CreateAMag Incorporated</td><td>United States, Utah, Vernal</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>Creative Directions</td><td>San Mateo, CA</td><td>2011</td><td>Active</td></tr>
-<tr><td>Creative Directions Recruiting</td><td>United States, CA, San Mateo</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Creative Staffing</td><td>United States, CA, Palo Alto</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Credit Payment Services</td><td>United States, TN, Chattanooga</td><td>2011</td><td>Active</td></tr>
-<tr><td>Credit Style Limited</td><td>United Kingdom, South Yorkshire, Sheffield</td><td>2012</td><td>Active</td></tr>
-<tr><td>Creditreform Bulgaria</td><td>Bulgaria, Sofia</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Creed Solutions</td><td>Canada, ON, toronto</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Creed Solutions Inc</td><td>Canada, ON, Toronto</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Crescendo Productions</td><td>Australia, SA, Adelaide</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Crescent Solutions</td><td>United States, FL, Boca Raton</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Cronon AG</td><td>Germany, Berlin, Berlin</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Crossgate Technologies AG</td><td>Germany, Niedersachsen, Göttingen</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Crossroads Access</td><td>United States, CA, Venice</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>CrunchTime! Information Systems</td><td>United States, MA, Boston</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>CryptoLogic Inc.</td><td>Canada, Ontario, Toronto</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Cryptologic Inc.</td><td>Canada, Ontario, Toronto</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Crystal Solutions</td><td>United States, VA, Newport News</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Crystal Solutions, LLC</td><td>United States, va, newport news</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Ctech</td><td>United States, AZ, Phoenix</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Cubehut</td><td>telecommute</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>CudaTel</td><td>United States, MI, Ann Arbor</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Cue Data Services</td><td>United States, Maine, Portland</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Cummings St. Thomas</td><td>United States, TX, Dallas</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Cumulus Systems</td><td>India, Maharashtra, Pune</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Currenex</td><td>United States, CA, Redwood City</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>CurtainTech</td><td>United States, NY, New York</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>CurtainTech LLC</td><td>NY, New York</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Curtaintech</td><td>United States, NY, New York</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Custom Business Solutions</td><td>United States, MI, Grand Rapids</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Custom CMS, LLC.</td><td>United States, PA, Erie</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Customer Care Dot Com</td><td>United States, FL, Lake Mary</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Cybage Software Pvt. Ltd. Pune</td><td>India, Maharashtra, Pune</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Cyber Sprocket Labs</td><td>Charleston, SC</td><td>2011</td><td>Active</td></tr>
-<tr><td>CyberData Technologies, Inc.</td><td>United States, DC, Washington</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>CyberDefender</td><td>United States, CA, Los Angeles-Downtown</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>CyberDefender Corp</td><td>United States, CA, Los Angeles</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>CyberDefender Corporation</td><td>United States, CA, Los Angeles</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>CyberSurfers Inc</td><td>India, Kerala, Cochin</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>CyberSurfers Inc / ExchangeRate.com Inc.</td><td>India, INDIA Anywhere / Chandigarh / Delhi / Kerala / Banglore, INDIA</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>CyberSurfers Inc. / Annuk Inc.</td><td>India, Punjab, Haryana, Delhi, Chandigarh UT</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>CyberTeam Resouce Mangement </td><td>London, Uxbridge, UK </td><td>2011</td><td>Active</td></tr>
-<tr><td>CyberTrend, Inc</td><td>United States, CA, Riverside</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Cyberdefender</td><td>United States, California, Los Angeles</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Cyberhenge, Inc.</td><td>United States, NJ, Haskell</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Cyberplat.Com</td><td>Russia, Moscow</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Cybertania Inc</td><td>United States, IL, Chicago</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Cybertrend, INC</td><td>United States, CA, Riverside</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Cybertrust</td><td>United States, Virginia, Herndon</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Cypress Group</td><td>United States, New York, New York</td><td>2013</td><td>Active</td></tr>
-<tr><td>D3 Technologies</td><td>United States, WA, Mukilteo</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>DADA S.p.A.</td><td>Italy, FI, Florence</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>DADA SpA</td><td>People's Republic of China, Beijing, Beijing</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>DB Management</td><td>United States, Maine, Portland</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>DBI Recruitment</td><td>Nederland, Hoofddorp</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>DCIS (I) Pvt., Ltd.,</td><td>INDIA, Tamil Nadu, Ooty, The Nilgiris</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>DCR Systems</td><td>United States, Texas, Dallas</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>DD</td><td>United States, CA, San Francisco</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>DEGATE web based solutions GmbH</td><td>Germany, Ahrensburg</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>DEMOS eLearning Agency</td><td>FRANCE, PARIS</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>DEMOmix.com</td><td>United States, Illinois, Chicago</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>DEVNET, Inc.</td><td>United States, IL, Sycamore</td><td>2012</td><td>Active</td></tr>
-<tr><td>DEY Storage Systems</td><td>London, United Kingdom</td><td>2012</td><td>Active</td></tr>
-<tr><td>DGH Recruitment</td><td>Hampshire</td><td>2013</td><td>Active</td></tr>
-<tr><td>DGH Recruitment Ltd</td><td>Southampton, Hampshire</td><td>2011</td><td>Active</td></tr>
-<tr><td>DGI</td><td>United States, CA, Santa Clara</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>DHS-Club, Inc.</td><td>United States, Florida, Englewood</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>DIS AG, IT</td><td>Germany, Bremen, Bremen</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>DISYS</td><td>United States, IL, Rosemont</td><td>2011</td><td>Active</td></tr>
-<tr><td>DISYS (Digital Intelligence Systems)</td><td>Colorado Springs, CO</td><td>2012</td><td>Active</td></tr>
-<tr><td>DK Hostmaster</td><td>København, Denmark</td><td>2012</td><td>Active</td></tr>
-<tr><td>DK Hostmaster A/S</td><td>Denmark, Copenhagen</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>DM Contact Managment</td><td>Canada, BC, Victoria</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>DMForge</td><td>United States, Michigan, Metro Detroit</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>DMK-Internet e.K./SuperClix</td><td>Germany, Freiburg</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>DMS</td><td>Canada, ON, St. Catharines</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>DMcorp</td><td>India</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>DMcorp.</td><td>India, Los Angeles</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>DNC</td><td>United States, DC, Washington</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>DND - Desenvolvimento de Negócios Digitais</td><td>Brazil, São Paulo, São Paulo</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>DOE JGI / Lawrence Berkeley National Lab</td><td>United States, CA , Walnut Creek</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>DOE JGI / Lawrence Berkeley National Laboratory </td><td>United States, CA, Walnut Creek</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>DOE Joint Genome Institute</td><td>United States, CA, Walnut Creek</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>DOE Joint Genome Institute (Berkeley Lab)</td><td>United States, CA, Walnut Creek</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>DOTGO</td><td>United States, NY, New York</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>DOTmed.com</td><td>United States, NY, New York</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>DOTmed.com, Inc</td><td>United States, NY, NYC</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>DOTmed.com, Inc.</td><td>United States, NY, New York</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>DP Communications</td><td>United States, Tx, Dallas</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>DP Connect</td><td>United Kingdom, London</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>DP Connect Ltd</td><td>United Kingdom, London</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>DPC</td><td>United States, MA, Burlington</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>DPHPC, University of Cambridge</td><td>Cambridge, UK</td><td>2013</td><td>Active</td></tr>
-<tr><td>DPM Consulting Services</td><td>United States, Michigan, Troy</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>DR MyCommerce</td><td>Minneapolis, MN, United States</td><td>2013</td><td>Active</td></tr>
-<tr><td>DTI Services</td><td>United States, CA, Los Angeles</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>DTI Services, Inc.</td><td>United States, CA, Los Angeles</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>DTS</td><td>United States, NY, New York</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>DTT</td><td>United States, CA, Los Angeles</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>DWC</td><td>Reporting to Manager in Lithuania, Virtual</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>DWS Asia Co., Ltd</td><td>Finland, Helsinki, Helsinki</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>DYL, LLC.</td><td>Marina del Rey, CA, United States</td><td>2012</td><td>Active</td></tr>
-<tr><td>Dada Brazil</td><td>Brazil, RJ, 22411-000, Rio de Janeiro</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Dada Entertainment</td><td>United States, NY, New York</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Dada Group</td><td>Italy, Florence</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Dada SpA</td><td>Italy, Italy, Florence</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Dada Usa, Inc.</td><td>United States, NY, New York</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Dada.net</td><td>Italy, Italy, Florence or Milan</td><td>2011</td><td>Active</td></tr>
-<tr><td>Dada.net S.p.A.</td><td>Italy, Florence (Tuscany), Florence</td><td>2011</td><td>Active</td></tr>
-<tr><td>Daily Internet Services Limited</td><td>United Kingdom, Nottingham, Chilwell</td><td>2011</td><td>Active</td></tr>
-<tr><td>Dallas Semiconductor / Maxim</td><td>United States, TX, Dallas</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Dandy Booksellers Limited</td><td>United Kingdom, Kilburn, London</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Danger</td><td>United States, CA, Palo Alto</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Danger, Inc.</td><td>United States, CA, Palo Alto</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Dargal Interline Worldwide</td><td>Canada, BC, Kelowna</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>DarthDex</td><td>United States, CA, Mountain View</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Darwin Recruitment</td><td>the Netherlands , Noord Holland , Amsterdam</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Data Based Development Ssystems</td><td>United States, CT, Manchester</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Data Based Development Systems</td><td>United States, CT, Manchester</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Data Domain</td><td>United States, California, San Mateo (moving soon to Mt. View)</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Data Search Network</td><td>United States, FL, Boca Raton</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Data Search Network, inc.</td><td>United States, Pennsylvania, King of Prussia</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>DataComIT</td><td>Australia, Victoria, Melbourne</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>DataForLife</td><td>United States, Oregon, Wilsonville</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>DataJuice Inc.</td><td>United States, Texas, Houston</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>DataRockit!</td><td>United States, FL, Lake Mary</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>DataSource Corp.</td><td>Boulder, CO, USA</td><td>2012</td><td>Active</td></tr>
-<tr><td>Datacom Technology Group</td><td>United States, NJ, Jersey City</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Datagraf A/S</td><td>Denmark, Auning</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Datagraf Auning AS</td><td>Denmark, Auning</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Datascope Recruitment</td><td>United Kingdom, London, London</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Datatrac Limited</td><td>United Kingdom, Devon, Honiton</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Daugherty Systems</td><td>United States, MO, St. Louis</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>David Aplin Recruiting</td><td>Canada, British Columbia, Vancouver</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>David Higgins</td><td>United States, CA, Pleasanton</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>David Isenberg, Technical Recruiter</td><td>United States, Texas, Dallas (Richardson)</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Davis and Stern</td><td>United States, MD, Baltimore</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Dawson </td><td>United States, OH, Columbus</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Dawson IT Search</td><td>Upstate Michigan</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Dawson Resources</td><td>United States, MI, Traverse City</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Dawson resources</td><td>Columbus, OH</td><td>2012</td><td>Active</td></tr>
-<tr><td>Daxtra</td><td>Edinburgh, Scotland, United Kingdom</td><td>2013</td><td>Active</td></tr>
-<tr><td>Daxtra Technologies</td><td>Edinburgh, Midlothian, Scotland</td><td>2012</td><td>Active</td></tr>
-<tr><td>DeNA</td><td>ShangHai</td><td>2012</td><td>Active</td></tr>
-<tr><td>Dealtime</td><td>Israel</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Dean Montgomery Associates</td><td>United States, Florida, Largo, Tampa Bay area</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Decide Staffing</td><td>Latin America , Telecommute, Telecommute</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Decision Consultants</td><td>United States, MI, Soiuthfield</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>Decision Help, LLC</td><td>United States, VA, Williamsburg</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Decision Research Corp.</td><td>United States, HI, Honolulu</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Decorative Product Source</td><td>United States, NY, Goshen</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Decorative Products Source</td><td>United States, NY, Goshen</td><td>2011</td><td>Active</td></tr>
-<tr><td>Decorus Personnel</td><td>United States, CA, San Diego</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Dedicatted Technologies, Inc.</td><td>United States, OH, Columbus</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>DeepData</td><td>United States, CA</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>DeepData Corporation</td><td>United States, CA, Chino Hills</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Deerfield Capital Management</td><td>United States, IL, Chicago</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Deerfoot IT Resources Ltd</td><td>United Kingdom, Berkshire, Newbury</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Definition 6</td><td>United States, GA, Atlanta</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Delhi Based Company</td><td>India, Delhi, Delhi</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Delphi Technical</td><td>United States, CA, San Diego</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Delticom AG</td><td>Hanover, Germany</td><td>2013</td><td>Active</td></tr>
-<tr><td>Democratic Congressional Campaign Committee</td><td>United States, DC, Washington</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Democratic National Committee</td><td>United States, DC, Washington</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Demoxi Inc</td><td>United States, WA, Bellevue</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>DesertNet</td><td>United States, AZ, Tucson</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Deutsche Bank</td><td>United States, NY, New York</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>DevBot</td><td>United States, florida, wesly chapel</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>DevWrights</td><td>CA, Fullerton</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Develooper LLC</td><td>United States, CA, Los Angeles</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Devon Consulting</td><td>PA, Wayne</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Devonshire</td><td>United Kingdom, London</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Devonshire Recruitment</td><td>West London, London</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Devoteam</td><td>France, Paris</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Devrajan Srinivasan</td><td>Ireland, Dublin</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Devrajan srinivasan</td><td>Ireland, Dublin</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Dexcel Electronics Designs</td><td>India</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>DiMonex Technologies</td><td>Ireland, Citywest, Dublin</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Dialog Group, Inc.</td><td>United States, New York, New York City</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Diamond Financial Products</td><td>United States, MI, Southfield</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Diamond Information Systems, LLC</td><td>United States, Virginia, Sterling</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>Dictionary of Old English, Univeristy of Toronto</td><td>Canada, Ontario, Toronto</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Digerati</td><td>United Kingdom, London</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Digerati Search</td><td>United States, TN, Memphis</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Digerati Search, Inc.</td><td>United States, TN, Memphis</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Digicon</td><td>United States, Maryland, Bethesda</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Digicon Corporation</td><td>United States, Maryland, Bethesda</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Digicon Corporation / NIH /NHGRI</td><td>Maryland, Bethesda</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Digital Campaigns</td><td>United States, CA, San Francisco</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>Digital Campaigns, Inc.</td><td>United States, CA, Palo Alto</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Digital Craftsmen</td><td>United Kingdom, London</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Digital Craftsmen Ltd</td><td>United Kingdom, London</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Digital Era Banking Services</td><td>United States, AL, Birmingham</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Digital Landscape</td><td>Canada, ON, Whitby</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Digital Look</td><td>United Kingdom, Greater London, London</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Digital Look Limited</td><td>United Kingdom, London</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Digital Rights Agency</td><td>United States, CA, San Francisco</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Digital River, Inc.</td><td>United States, IL, Chicago</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Digital-X</td><td>United States, California, Sunnyvale</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>DigitalValet</td><td>United States, CA, San Francisco</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>DigitalWork</td><td>United States, IL, Chicago</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>DigitalWork / Zoomshare</td><td>United States, IL, Chicago</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Digium, Inc.</td><td>United States, CA, San Diego</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Dimensional Fund Advisors</td><td>United States, TX, Austin</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Direct Alliance</td><td>United States, AZ, Phoenix</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Direct Client Of Mindteck</td><td>United States, PA, West Chester</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Direct Freight Services</td><td>United States, MO, Columbia</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>DirectAthletics</td><td>Brooklyn, NY, USA</td><td>2012</td><td>Active</td></tr>
-<tr><td>Directski.com</td><td>Ireland, Dublin</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>DiscRevolt</td><td>United States, Georgia, Alpharetta</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Discovery Communications</td><td>United States, MD, Silver Spring</td><td>2011</td><td>Active</td></tr>
-<tr><td>Discovery Communications / Discovery Channel</td><td>United States, Nationwide, Nationwide</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Discovery Communications, LLC</td><td>United States, NY, New York</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Discovery Mining Inc</td><td>United States, California, San Francisco</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Disney Animation</td><td>United States, CA, Burbank</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Dispensing Solutions, Inc.</td><td>United States, CA, Santa Ana</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Distribute IT</td><td>Australia, Victoria, Melbourne</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Distributed Technology Solutions, Inc. (search firm)</td><td>United States, New Jersey, Jersey City</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Distributed Website Corp</td><td>Any, Tele-Commute</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Distributed Website Corp/rSchoolToday.com</td><td>Any, Tele-Commute</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Distributed Website Corporation</td><td>United States, Minnesota, Winona</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Distribution Fidecis inc.</td><td>Canada, QC, Montreal</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Disys</td><td>TX, Irving</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Disys Corp</td><td>United States, TX, Dallas/Plano</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>DivX</td><td>United States, CA, San Diego</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Divergence, Inc.</td><td>United States, MO, St. Louis</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Diversified Services Network</td><td>United States, WI, Madison</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Dnd</td><td>Brazil, Sao Paulo, Sao Paulo</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Dobie Media, Inc</td><td>Nashville, TN</td><td>2012</td><td>Active</td></tr>
-<tr><td>Dobie Media, Inc.</td><td>United States, TN, Nashville</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>DoctorBase</td><td>San Francisco</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Dodo Australia</td><td>Australia, VIC, Melbourne</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Domino's Pizza LLC</td><td>US, Michigan, Ann Arbor</td><td>2011</td><td>Active</td></tr>
-<tr><td>Donhost Limited</td><td>United Kingdom, Yorkshire, Doncaster</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Dorigan and Associates</td><td>United States, CA, San Carlos</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Double Prime</td><td>United States, any, Work from home</td><td>2013</td><td>Active</td></tr>
-<tr><td>Double Prime Inc.</td><td>United States, PA, Philadelphia</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Double Prime, Inc.</td><td>United States, NY, New York</td><td>2012</td><td>Active</td></tr>
-<tr><td>DoubleClick</td><td>United States, CO, Thornton</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>DoubleClick/Performics</td><td>United States, IL, Chicago</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Doubleclick Performics</td><td>United States, IL, Chicago</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Dow Jones </td><td>United States, New Jersey, Princeton </td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Dow Jones, a News Corporation company</td><td>United States, NJ, South Brunswick</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Dowcarter</td><td>United Kingdom, Midlothian, Edinburgh</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>DrJays.com</td><td>United States, California, San Diego</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>DrJays.com, Inc.</td><td>United States, California, San Diego</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>DragonFly Forest</td><td>Philadelphia, PA</td><td>2011</td><td>Active</td></tr>
-<tr><td>Drake Consulting</td><td>United States, IL, Northern Chicago Suburbs</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>DreamHost</td><td>Los Angeles, San Francisco, Atlanta, open to telecommuting</td><td>2012</td><td>Active</td></tr>
-<tr><td>DreamWorks Animation</td><td>United States, CA, Glendale or Redwood City</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>DreamWorks Animation, SKG</td><td>United States, California, Glendale or Redwood City</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Dreamway</td><td>Germany, Bayern, Immenstadt/Allgäu</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Dreamway Interactive</td><td>Germany, Immenstadt</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Dreamworks Animation</td><td>United States, CA, Glendale</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Dress-For-Less GmbH</td><td>Germany, Hesse, Frankfurt am Main/Kelsterbach/Raunheim</td><td>2011</td><td>Active</td></tr>
-<tr><td>Drexel Technical, Inc.</td><td>United States, NJ, Piscataway</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Drjays.com</td><td>United States, CA, San Diego</td><td>2011</td><td>Active</td></tr>
-<tr><td>Duff Capital Advisors</td><td>United States, NY, New York</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>DugaDuga.com</td><td>Sacramento, CA</td><td>2012</td><td>Active</td></tr>
-<tr><td>Dunross Recruitment</td><td>Czech Republic, Czech Republic, Prague</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Duran HCP</td><td>United States, CA, Campbell</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Dwight Cribb Personalberatung GmbH</td><td>Germany, Hamburg, Hamburg</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Dyn Inc</td><td>United States, NH, Manchester</td><td>2011</td><td>Active</td></tr>
-<tr><td>DynTek</td><td>United States, New Jersey, Marlton</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Dynamic Network Services, Inc.</td><td>United States, NH, Manchester</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Dynamite Data</td><td>Undefined</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>E Commerce Client</td><td>United States, Pennsylvania, King of Prussia </td><td>2008</td><td>Dormant</td></tr>
-<tr><td>E&D Recrute</td><td>France, PACA, Marseille</td><td>2011</td><td>Active</td></tr>
-<tr><td>E-Com Media Group</td><td>United States, Colorado, Denver</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>E-Loanshop.com</td><td>United Kingdom, Glasgow</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>E-Relationship Marketing</td><td>United Kingdom, Buckinghamshire, Milton Keynes</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>E-Solutions Lanka (Pvt)Ltd</td><td>Sri Lanka, Colombo 1</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>E-TRAIN</td><td>Philippines, Metro Manila</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>EBI</td><td>United Kingdom, Cambs, Cambridge</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>EC Wise, Inc.</td><td>94925, CA, Corte Madera</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>ECI Telecom</td><td>Israel, Petach Tikva</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>ECS Tuning</td><td>United States, Ohio, Wadsworth </td><td>2013</td><td>Active</td></tr>
-<tr><td>ECS-Solution GmbH</td><td>Germany, Imsbach</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>ECom Recruitment</td><td>United Kingdom, Oxfordshire, Oxford</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>EDT Global Pty Ltd</td><td>Australia, NSW, Sydney,</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>EE Inc</td><td>United States, VA, Alexandria</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>EF Johnson</td><td>United States, Texas, Irving</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>ELAN</td><td>United Kingdom, Berkshire, Reading</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>ELAN IT</td><td>FRANCE, FRANCE, Sophia- Antipolis</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>ELan Computing</td><td>United Kingdom, Cambridgeshire, Cambridge</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>EMBL - EBI</td><td>United Kingdom, Hinxton, Cambridge</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>EMBL-EBI</td><td>United Kingdom, Cambridge</td><td>2013</td><td>Active</td></tr>
-<tr><td>EMC Corporation</td><td>Australia, NSW, Sydney</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>EOL</td><td>Sydney, Australia</td><td>2013</td><td>Active</td></tr>
-<tr><td>EPI Enterprises</td><td>United States, New Jersey, Manalpan</td><td>2011</td><td>Active</td></tr>
-<tr><td>ER Group, Inc.</td><td>United States, WA, Seattle</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>ESCO Integrated Manufacturing (Concord, CA)</td><td>United States, CA, Concord</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>ESIS, Inc</td><td>United States, CA, San Diego</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>ESP Global IT Systems pvt ltd</td><td>The Netherlands, Amsterdam</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>ESPN Digital Media</td><td>Bangalore, India</td><td>2013</td><td>Active</td></tr>
-<tr><td>EW, inc.</td><td>United States, ny, new york</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>EXCEL-WEST</td><td>United States, CA, Culver City</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>EXFO Service Assurance</td><td>United States, MA, Chelmsford</td><td>2011</td><td>Active</td></tr>
-<tr><td>Early Stage Start-Up</td><td>United States, California, San Francisco Bay Area</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>EarlySail</td><td>India, Delhi, New Delhi</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>EarlySail Software Pvt Ltd</td><td>India, Delhi, New Delhi</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Eastern Nazarene College</td><td>United States, MA, Quincy</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Eastern Suns Inc.</td><td>United States, Boston</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Eastman Kodak, Health Imaging Division</td><td>United States, CA, Fremont</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>EasyCruit AS</td><td>Norway, Oslo, Oslo</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Easysoft Limited</td><td>United Kingdom, West Yorkshire, Wetherby (near Leeds, York and Harrogate)</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Easyspace Limited</td><td>UK, Surrey, West Byfleet</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>Easyspace Ltd</td><td>United Kingdom, Surrey, West Byfleet</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Easyspace Ltd.</td><td>Thailand, Bangkok</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Easyway Tec, Inc.</td><td>China, Zhejiang, Hanzhou</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Eatoni Ergonomics</td><td>10010, New York, New York</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Eatoni Ergonomics, Inc.</td><td>United States, New York, New York</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Ebby Halliday</td><td>United States, TX, Dallas</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Ebiz Chem Pvt. Ltd.</td><td>India, Maharashtra, Mumbai</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>EbizChem Pvt. Ltd.</td><td>India, Maharashtra, Mumbai</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Ebizchem Pvt Ltd</td><td>India, Gujarat, Ahmedabad</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Ebizchem Pvt. Ltd.</td><td>India, Maharashtra, Mumbai</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Echostar</td><td>United States, Colorado, Englewood</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Eclectic Search</td><td>United States, CA, Sunnyvale</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Ecommerce Shopping Cart</td><td>United States, California, Los Angeles</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>EdSource</td><td>United States, CA</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Edgelink</td><td>United States, OR, Portland</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Edgesource Corporation</td><td>United States, VA, Dulles</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Edinburgh University</td><td>Edinburgh, UK.</td><td>2012</td><td>Active</td></tr>
-<tr><td>Edison Schools</td><td>United States, New York, New York</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Edison Schools, Inc.</td><td>United States, New York, New York</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Edita SA / lessentiel.lu</td><td>Luxembourg, Differdange</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Editure</td><td>Australia, Victoria, Melbourne</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Education Program for Gifted Youth - Stanford University</td><td>United States, California, Stanford</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Edument AB</td><td>Malmö, Sweden</td><td>2013</td><td>Active</td></tr>
-<tr><td>Effective Educational Technologies</td><td>United States, MA, Cambridge</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Efficient Frontier</td><td>United Kingdom, London</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Ekaru</td><td>United States, MA, Westford</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Elan</td><td>South West UK</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Elan Computing</td><td>United Kingdom, London, Richmond</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Elan IT</td><td>United Kingdom, Surrey</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Elan It Resources</td><td>Norway, Oslo</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>ElanIT</td><td>United Kingdom, Midlands</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Electric Lightwave</td><td>United States, WA, Vancouver</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Electric Villages Inc.</td><td>Canada, Ontario, Toronto</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Electrical Science, Inc.</td><td>United States, NY, Port Chester</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Electronic Arts</td><td>United States, CA, Redwood City</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Electronic Commerce Group Ltd</td><td>United Kingdom, Yorkshire, Sheffield</td><td>2011</td><td>Active</td></tr>
-<tr><td>Electronic Group</td><td>Spain, Barcelona</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Electronic Trading firm</td><td>Undefined</td><td>2012</td><td>Active</td></tr>
-<tr><td>Electronics For Imaging</td><td>United States, CA, Foster City</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>Electus Resources</td><td>Ireland, Dublin, Dublin</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Eli Kirk</td><td>United States, Utah, Provo</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Eliassen Group </td><td>USA , MA, Cambridge MA </td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Eliassen Group (recruiter)</td><td>MA, Boston</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Eliassen Group Inc</td><td>USA, Massachusetts, Boston</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Eligo Recruitment</td><td>London, UK</td><td>2013</td><td>Active</td></tr>
-<tr><td>Elite Answers Inc.</td><td>Canada, Ontario, Toronto</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Elite Jobs Recruiting</td><td>Canada, ON, Toronto, GTA, Vancouver, Waterloo</td><td>2012</td><td>Active</td></tr>
-<tr><td>Elite Technical Services</td><td>United States, Maryland, Silver Spring</td><td>2011</td><td>Active</td></tr>
-<tr><td>Elive Admission LLC</td><td>United States, NY, New York</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Emerald Hill Group</td><td>Singapore, Singapore</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Emerald Resource Group</td><td>Raleigh, NC</td><td>2013</td><td>Active</td></tr>
-<tr><td>Emerging Travel Inc.</td><td>Amsterdam, the Netherlands</td><td>2012</td><td>Active</td></tr>
-<tr><td>Emory University</td><td>United States, GA, Atlanta</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Empowered Benefits</td><td>United States, North Carolina, Charlotte</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Encirq</td><td>United States, CA, Burlingame</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Encora Inc</td><td>United States, NV, Las Vegas</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>End Point</td><td>United States, NY, New York</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>End Point Corporation</td><td>United States, New York</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Endgame Systems</td><td>Atlanta, GA, USA</td><td>2011</td><td>Active</td></tr>
-<tr><td>Endurance</td><td>United States, MA, Burlington</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Endurance International</td><td>United States, MA, Burlington </td><td>2011</td><td>Active</td></tr>
-<tr><td>Endurance International Group</td><td>MA, Burlington</td><td>2013</td><td>Active</td></tr>
-<tr><td>Energy Fundamentals</td><td>Zurich, Switzerland</td><td>2013</td><td>Active</td></tr>
-<tr><td>EnergyFlow.com</td><td>United States, CO, DENVER</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Engage PSG</td><td>United Kingdom, London</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>EngagePSG</td><td>United Kingdom, Cheshire</td><td>2011</td><td>Active</td></tr>
-<tr><td>Engineering Services Nedtwork Inc</td><td>United States, SC, North Charleston</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Engineering Services Network Inc</td><td>United States, SC, Charleston</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Enigma Technologies</td><td>New York, NY</td><td>2012</td><td>Active</td></tr>
-<tr><td>Enomaly Inc</td><td>Canada, Ontario, Toronto</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Enquisite Inc</td><td>Canada, BC, Victoria</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Ensemble Project, Liverpool John Moores University, UK</td><td>United Kingdom, Liverpool</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Ensenda</td><td>United States, CA, San Francisco</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Ensenda, Inc.</td><td>United States, CA, San Francisco</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Enterprise Engineering Inc</td><td>United States, NY, New York City</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Enterprise Messaging Comm. Corp</td><td>United States, New York, New York</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>Enterprise Recruitment Ltd</td><td>United Kingdom</td><td>2011</td><td>Active</td></tr>
-<tr><td>Enterprise VOIP SW Dev Team </td><td>United States, CA, San Francisco</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Entology</td><td>United States, New Jersey, Bedminster</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Entology, Inc</td><td>United States, NJ, Bedminster</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Entology, Inc.</td><td>United States, NJ, Bedminster</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>EnvisionExt.com</td><td>Ukraine, Odessa</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Envisionext Inc.</td><td>United Kingdom, London, London</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Envisionext.com</td><td>Ukraine, Odessa, Odessa</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>EonSoft</td><td>COLUMBIA, At, Barranquilla</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Epic Canada</td><td>Canada, Ontario, Cambridge</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Epitec Group</td><td>United States, Michigan</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Epromo Solutions</td><td>United States, UT, Provo</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Epsilon</td><td>India, Karnataka, Bangalore</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Epsilon Interactive</td><td>United States, New York, New York</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Epsilon Interactive India</td><td>INDIA, Karnataka, Bangalore</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Epsilon Interactive India Operations</td><td>India, Karnataka, Bangalore</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Equation Research</td><td>TX, Dallas</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Equinox Software</td><td>United States, GA, Atlanta</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Equinox Software, Inc.</td><td>United States, GA, Norcross</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>EquityStory AG - DGAP mbH</td><td>Deutschland, Bayern, MÃ¼nchen</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Erado</td><td>United States, WA, Renton</td><td>2011</td><td>Active</td></tr>
-<tr><td>Ericsson Mobile Platform</td><td>Sweden, Skaane, Lund</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Eskill Technologies</td><td>India, Tamilnadu, Chennai</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Essenz Consulting</td><td>United States, PA, Philadelphia</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Established dating site</td><td>United States, NY, New York</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Estee Lauder Companies (on behalf of Professional Recruiting Services)</td><td>40 West 23rd Street, New York City, NY</td><td>2013</td><td>Active</td></tr>
-<tr><td>Etechnology</td><td>Thailand, Bangkok, Bangkok</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>EthicalSoft, Inc</td><td>United States, CA, San Francisco</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>EthicalSoft, Inc.</td><td>United States, CA, San Francisco </td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Ethos Corporation</td><td>Australia, NSW, Sydney</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Euniverse</td><td>United States, CA, Los Angeles</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Euro RSCG 4D</td><td>United States, CT, Wilton</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>EuroServe 2000 Limited</td><td>Netherlands, Europe, Amsterdam</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>Eurobase</td><td>Germany, Dusseldorf, Germany, Dusseldorf, Germany</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Eurobase People</td><td>United Kingdom, London</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Eurosearch</td><td>Rotterdam</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Eurosearch </td><td>United Kingdom, London</td><td>2011</td><td>Active</td></tr>
-<tr><td>Everyone Counts Inc</td><td>Australia, VIC, Melbourne</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Everyone Counts Pty Ltd</td><td>Australia, Victoria, Melbourne</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Everyone Counts, Inc.</td><td>United States, CA, San Diego</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Everything Solved, Inc.</td><td>United States, CA, Mountain View</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Evogene</td><td>Israel</td><td>2011</td><td>Active</td></tr>
-<tr><td>Evolution</td><td>United Kingdom, London, London</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Evolution Robotics</td><td>United States, CA, Pasadena</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Evozon Systems</td><td>Romania, Cluj, Cluj-Napoca</td><td>2013</td><td>Active</td></tr>
-<tr><td>Ex Libris</td><td>United States, MA, Newton</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Ex Libris Inc.</td><td>United States, MA, Newton</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Ex Libris, Inc.</td><td>MA, Newton</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Examinetics</td><td>United States, KS, Overland Park</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Exceleron Software</td><td>Bangalore,Karnataka,India</td><td>2013</td><td>Active</td></tr>
-<tr><td>Excelsior Systems</td><td>United States, NY, Corning</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Execulink Telecom</td><td>Canada, Ontario, Kitchener</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Executive Direction (vendor to client)</td><td>United States, California, San Francisco</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Executive Direction, Inc.</td><td>United States, CA, San Francisco</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Executive Placement Network</td><td>United States, NY, New York</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Exegenix Research Inc.</td><td>Canada, Ontario, Toronto</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Exemplar International</td><td>United States, MO, Kansas City</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Expanxion</td><td>United States, CA, San Mateo</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Experian</td><td>United States, NY, New York</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Experian </td><td>Malaysia, Selangor, Cyberjaya</td><td>2011</td><td>Active</td></tr>
-<tr><td>Experian (Malaysia) Sdn. Bhd.</td><td>Malaysia, Selangor, Cyberjaya</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Experian CheetahMail</td><td>United States, NY, New York</td><td>2012</td><td>Active</td></tr>
-<tr><td>Experian Cheetahmail</td><td>United States, NY, New York (Downtown)</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Experian Decision Analytics</td><td>Norway, Oslo</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Experian Interactive - Affiliate Fuel</td><td>United States, CA, Santa Monica</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Experian Marketing Services</td><td>United States, NY, New York</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Experis</td><td>Cleveland, Ohio</td><td>2012</td><td>Active</td></tr>
-<tr><td>Expert Web Installs</td><td>United States, CA, Paradise</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Exploreos, Inc</td><td>United States, FL, Lake Mary</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Exponential-e</td><td>United Kingdom, London, London</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>ExposureManager.com</td><td>United States, CA, Torrance (Los Angeles)</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Express Logistics Systems Corp</td><td>United States, CA, Fremont</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Express Logistics Systems Corp.</td><td>United States, California, Fremont</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>ExpressDoctors.com</td><td>United States, CA, Palm Springs</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Externis Resourcing</td><td>FRANCE, Lyon</td><td>2011</td><td>Active</td></tr>
-<tr><td>Eyesun</td><td>United States, NY, New York</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>Ezead holding Inc</td><td>Canada, BC, Maple Ridge</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Ezen computer services, Inc.</td><td>United States, Pennsylvania, King of Prussia</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>F-O-R-T-U-N-E Personnel Consultants of Raleigh</td><td>United States, NC, Research Triangle Park</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>F.Y.I</td><td>United States, CA, Agoura Hills</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>F.Y.I. TECHNICAL</td><td>United States, Ca, Agoura Hills</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>F5 Networks</td><td>Israel, Tel-Aviv</td><td>2011</td><td>Active</td></tr>
-<tr><td>F5 Networks, Inc.</td><td>United States, California, San Jose</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>FAST TECH</td><td>United States, Connecticut, Conn</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>FCS Software Solutions Ltd.</td><td>India, Delhi/NCR, Noida</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>FLOW</td><td>United States, TX, Austin</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>FM5.at</td><td>Austria, Vienna, Vienna</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>FNC</td><td>United States, MS, Oxford</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>FNIS</td><td>California, Santa Ana</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>FOLIOfn, Inc.</td><td>United States, VA, Vienna</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Fabrik</td><td>United States, CA, San Mateo</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Fabrik, Inc.</td><td>CA, San Mateo</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Facebook</td><td>Ireland, Dublin</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Fagbokforlaget</td><td>India, Delhi NCR, Delhi NCR</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Fagbokforlaget / VB Polska</td><td>Poland, Pomorskie, Sopot</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Fahrenheit IT</td><td>New York, NY</td><td>2012</td><td>Active</td></tr>
-<tr><td>Fahrenheit Technology</td><td>United States, VA, Richmond</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Fairbanks, LLC</td><td>Long Grove, IL</td><td>2011</td><td>Active</td></tr>
-<tr><td>Fallshaw Holdings</td><td>Australia, Victoria, Melbourne (Sunshine)</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Fanatics</td><td>Jacksonville, FL</td><td>2013</td><td>Active</td></tr>
-<tr><td>Farematrix</td><td>Canada, Ontario, Mississauga</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Farematrix division of Huntington Travel </td><td>India, Gujarat, Ahmedabad</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Fashion Smasher</td><td>United States, CA, Los Angeles</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Fast Switch Ltd.</td><td>United States, MI, Detroit</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Fast paced Internet company</td><td>United States, MA, Watertown</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>FastMail.FM</td><td>Australia, Victoria, Melbourne</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Fastclick</td><td>United States, California, Santa Barbara</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Fastnet Software International</td><td>Auburn Hills, MI</td><td>2012</td><td>Active</td></tr>
-<tr><td>Fastswitch</td><td>United States, Ohio, Columbus</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Fat Cow</td><td>United States, New Mexico, Albuquerque</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>FatCow Web Hosting, LLC</td><td>United States, NM, Albuquerque</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Faucet.com</td><td>United States, NY, Goshen</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>FedEx Services</td><td>United States, Tennessee, Collierville</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Federal Reserve Board</td><td>United States, D.C., Washington</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Federation of American Scientists</td><td>United States, DC, Washington</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Feedster</td><td>United States, CA, San Francisco</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Feedster, Inc.</td><td>United States, California, San Francisco</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Ferengi s.r.l.</td><td>Argentina, Capital, Buenos Aires</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Ferguson Consulting</td><td>United States, MO, Saint Louis</td><td>2011</td><td>Active</td></tr>
-<tr><td>Fewodata e.K. - ferienwohnungen.de</td><td>Glücksburg (Ostsee), Schleswig-Holstein, Germany</td><td>2013</td><td>Active</td></tr>
-<tr><td>Ficus Computer Engineering</td><td>United States, CA, Fremont</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Ficus Engineering</td><td>United States, California, Fremont</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Fides</td><td>Russian Federation, St. Petersburg</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>FillZ Inc. (An AbeBooks Company)</td><td>Canada, BC, Victoria</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Film/Television Industry</td><td>United States, CA, Los Angeles</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>FilmLight</td><td>United Kingdom, London</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Filnet Inc.</td><td>United States, Virginia, Northern Virginia/DC</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Finance Company</td><td>United Kingdom, London</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Finance Media</td><td>United Kingdom, London</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Finance Media Europe</td><td>United Kingdom, London</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Financial Company</td><td>NYC</td><td>2013</td><td>Active</td></tr>
-<tr><td>Financial Firm</td><td>United States, NJ, Warren</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Financial Firm, NYC</td><td>New York</td><td>2013</td><td>Active</td></tr>
-<tr><td>Financial Institution</td><td>United Kingdom, London</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Financial Institutions</td><td>Malaysia, KL</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Financial Services</td><td>United States, New York, New York City</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Financial Services Client</td><td>United States, California, Foster City</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Financial Services Company</td><td>NYC</td><td>2011</td><td>Active</td></tr>
-<tr><td>Financial Services Industry</td><td>United States, MA, Boston South</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Financial Technology Company</td><td>United States, NY, New York</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Finite</td><td>Australia, NSW, Sydney</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Finite Recruitment</td><td>Australia, NSW, Sydney</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Finite Recruitment - Sydney</td><td>Australia, NSW, Sydney</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Finn</td><td>Undefined</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Finrecruit</td><td>Australia, Sydney </td><td>2009</td><td>Inactive</td></tr>
-<tr><td>First Class</td><td>italy, Cremona, Crema</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>First Data USA </td><td>United States, TX , Austin </td><td>2011</td><td>Active</td></tr>
-<tr><td>First Point Group</td><td>Reading, UK</td><td>2013</td><td>Active</td></tr>
-<tr><td>First Quadrant, L.P.</td><td>United States, CA, Pasadena</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>First Tech Federal Credit Union</td><td>United States, Oregon, Beaverton</td><td>2011</td><td>Active</td></tr>
-<tr><td>Flatshare Ltd</td><td>Macclesfield, UK</td><td>2012</td><td>Active</td></tr>
-<tr><td>Flexitricity Limited</td><td>Scotland, Lothians, Edinburgh</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>FlightNetwork.com</td><td>Oakville, Ontario</td><td>2012</td><td>Active</td></tr>
-<tr><td>Florida Client</td><td>United States, Florida (but you can live anywhere in the US), Tampa (but</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Fluential LLC</td><td>Sunnyvale, CA</td><td>2012</td><td>Active</td></tr>
-<tr><td>Focalex</td><td>United States, MA, Newton</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Focalex Inc / Intermix Media Inc</td><td>United States, MA, Newton</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Follett Library Resources</td><td>United States, IL, McHenry</td><td>2011</td><td>Active</td></tr>
-<tr><td>Fonality</td><td>CA, Culver City</td><td>2012</td><td>Active</td></tr>
-<tr><td>Foneshow, Inc.</td><td>United States, ME, Portland</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>For Start up</td><td>India, Kerala,  Trivandrum</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Ford Motor Company</td><td>United States, Michigan, Allen Park</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Foresight Recruitment</td><td>Manchester</td><td>2012</td><td>Active</td></tr>
-<tr><td>Foresite Business Solutions Ltd</td><td>United Kingdom, London, London</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Forex Capital Markets LLC</td><td>United States, New York, New York</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Forge Inc.</td><td>Canada, Ontario, Toronto</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Forge Technologies, Inc.</td><td>United States, NY, Rochester</td><td>2012</td><td>Active</td></tr>
-<tr><td>Forlaget Benjamin</td><td>Denmark, Copenhagen</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Forlaget Benjamin A/S</td><td>Denmark, Frederiksberg</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Forstar Resources</td><td>NY, NEW YORK</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Fortune 500 company</td><td>United States, TN, Memphis</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Fortune Interactive</td><td>United States, NC, Raleigh</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Forum Group</td><td>Unitetd States, NJ, Jersey City</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Fotango</td><td>United Kingdom, London, London</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Fotango Ltd.</td><td>United Kingdom, London</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Fotofinder.net</td><td>Germany, Berlin</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Fox Networks Group</td><td>United States, CA, Century City</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Fox Technology Group</td><td>United States, CA, Los Angeles</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Foxtons</td><td>United Kingdom, London</td><td>2013</td><td>Active</td></tr>
-<tr><td>FragranceNet</td><td>United States, NY, Deer Park</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>FragranceNet.com</td><td>United States, ny, hauppauge</td><td>2012</td><td>Active</td></tr>
-<tr><td>FrameFree Technologies</td><td>United States, California, San Francisco or Telecommute</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Franklin American Mortgage</td><td>Franklin, TN</td><td>2011</td><td>Active</td></tr>
-<tr><td>Frantic Media</td><td>Finland, Helsinki</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Frantic Media Oy</td><td>Finland, Helsinki</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Fred Hutchincon Cancer Research Center</td><td>United States, WA, Seattle</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Fred Hutchinson Cancer Research Center</td><td>United States, WA, Seattle</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Free Super, LLC</td><td>United States, California, San Francisco</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>FreeCause, Inc.</td><td>United States, MA, Boston</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>FreeKey::Labs</td><td>Spain, Madrid, Madrid</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>FreedomVOICE Systems</td><td>United States, CA, Encinitas</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Freeside Billing</td><td>United States, CA, Truckee</td><td>2011</td><td>Active</td></tr>
-<tr><td>Freeside Internet Services, Inc.</td><td>United States, CA, Truckee</td><td>2013</td><td>Active</td></tr>
-<tr><td>Freightlist.com, Inc.</td><td>United States, Missouri, St. Louis</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Fremont Consulting</td><td>Ann Arbor Michigan</td><td>2013</td><td>Active</td></tr>
-<tr><td>Fretwell Downing Informatics</td><td>United Kingdom, South Yorkshire, Sheffield</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Friend Finder Network, Inc.</td><td>United States, CA, Palo Alto</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>FriendFinder</td><td>United States, California, Palo Alto</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>FriendFinder Inc</td><td>United States, CA, Palo Alto</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>FriendFinder Networks</td><td>United States, CA, Sunnyvale</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>FriendFinder Networks, Inc.</td><td>United States, CA, Sunnyvale</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>FriendFinder, Inc</td><td>United States, CA, Palo Alto</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Friendfinder</td><td>United States, CA, Palo Alto</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Friendfinder Inc</td><td>United States, Ca, Palo Alto</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Friendfinder Inc.</td><td>United States, California, Palo Alto</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>Friendfinder, Inc.</td><td>United States, California, Palo Alto</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>Friendfinder, inc</td><td>United States, CA, Palo Alto</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Friendfinderinc</td><td>United States, CA, Palo Alto</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Fuel Recruitment</td><td>United Kingdom, Warwickshire, Leamington Spa</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Fujitsu Network Communications</td><td>Richardson Texas</td><td>2012</td><td>Active</td></tr>
-<tr><td>Fulcum Consulting</td><td>MO, St. Louis</td><td>2011</td><td>Active</td></tr>
-<tr><td>FullTurn Entertainment, Inc.</td><td>United States, NY, New York and Berlin, Germany</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>FundsXpress Financial Network, Inc.</td><td>United States, TX, Austin</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>FuseMail, LLC</td><td>United States, Missouri, Kansas City</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>FuseMail, a j2 Global Company</td><td>Vancouver, BC</td><td>2013</td><td>Active</td></tr>
-<tr><td>Fusion Alliance</td><td>United States, Ohio, Cincinnati</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Fusion Associates</td><td>United States, CA, Redwood City</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Future Publishing</td><td>United Kingdom, Bath & North East Somerset, Bath</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>G & S Technology group</td><td>United States, New York, New York</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>G&L Geißendörfer & Leschinsky GmbH</td><td>Deutschland, NRW, Köln</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>G2 Recruitment Solutions</td><td>United Kingdom, London</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>G2 Web Services</td><td>United States, WA, Bellevue</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>G2 Web Services, LLC</td><td>United States, WA, Bellevue</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>G73 Werbeagentur</td><td>Germany, Hannover</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>GB&K BS</td><td>United States, NY, NEW YORK</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>GBS</td><td>United States, CA, Westlake Village</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>GC InfoTech LLC</td><td>United States, CT, Stamford</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>GCS</td><td>United Kingdom, Kent</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>GCS IT Recruitment</td><td>United Kingdom, London, London</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>GCS IT Recruitment Ltd.</td><td>United Kingdom, London</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>GCS IT Reqruitment Ltd.</td><td>United Kingdom, London</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>GE Healthcare</td><td>United States, Washington, Seattle</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>GEMM</td><td>United States, California, Irvine</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>GEMM.com</td><td>United States, CA, Palm Springs</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>GES Network</td><td>United States, DE, Bear</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>GFM Holdings Ltd</td><td>Colchester - Essex</td><td>2013</td><td>Active</td></tr>
-<tr><td>GFU</td><td>Germany, NRW, Köln</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>GFU Cyrus AG</td><td>Germany, NRW, Köln</td><td>2012</td><td>Active</td></tr>
-<tr><td>GFU Cyrus AG Schulungen</td><td>Germany, NRW, Köln</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>GHR SYSTEMS</td><td>United States, PA, Wayne</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>GK, Inc.</td><td>United States, CA, Lancaster</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>GKG.NET</td><td>United States, TX, College Station</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>GKG.NET, Inc.</td><td>United States, Texas, College Station</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>GLOBAL COMPUTER ASSOCIATES</td><td>United States, VIRGINIA, RICHMOND</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>GLOBAL COMPUTER ASSOCIATES, INC</td><td>United States, VA., RICHMOND,</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>GLOBALVISION</td><td>United Kingdom, London</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>GMx Technologies, Inc</td><td>United States, FL, Lakeland</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>GNG Associates</td><td>United Kingdom, Manchester</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>GOOGLE</td><td>United States, CA, Mountain View</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>GS3 - Go Software Sales Search!</td><td>United States, CA, San Francisco</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>GSC, Inc.</td><td>United States, CA, Ventura County</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>GSI Group</td><td>Canada, Ontario, Toronto</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>GSN</td><td>United States, MA, Newton</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>GSN Digital</td><td>United States, MA, Newton</td><td>2011</td><td>Active</td></tr>
-<tr><td>GT Nexus</td><td>94501, CA, Alameda</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>GUBA</td><td>United States, CA, San Francisco</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>GUI WEB PRODUCTIONS</td><td>United States, Ca, Grass Valley</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>GX Technology</td><td>United States, Colorado, Denver</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Gabzip, Inc.</td><td>United States, NY, Oswego</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Gaia Interactive, Inc.</td><td>United States, CA, San Jose</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Gallery Robinson</td><td>United States, NY, NY</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Garrett Casey</td><td>United States, New Jersey, Hoboken</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Gate Staffing</td><td>United States, NY, New York</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Gator Technologies,Inc.</td><td>United States, IL, Chicago</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>GeNUA mbH</td><td>Germany, Bavaria, Kirchheim near Munich</td><td>2011</td><td>Active</td></tr>
-<tr><td>Geek.net</td><td>Ann Arbor, MI, USA</td><td>2011</td><td>Active</td></tr>
-<tr><td>Geeknet, Inc.</td><td>Dexter, MI</td><td>2012</td><td>Active</td></tr>
-<tr><td>Geeks For Less</td><td>United States, TN, Knoxville</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Gelo Photos</td><td>Greece</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>GenaRes</td><td>United States, TX, Grapevine</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>GenaRes Worldwide Reservation Services</td><td>Texas, Irving</td><td>2011</td><td>Active</td></tr>
-<tr><td>GenaRes Worldwide Reservations</td><td>United States, Texas, Grapevine</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>GenaRes Worldwide Reservations Services</td><td>76051, TX, Grapevine</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Genares</td><td>United States, TX, Irving</td><td>2011</td><td>Active</td></tr>
-<tr><td>Genares Worldwide Reservations</td><td>United States, Texas, Grapevine</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Gene Logic</td><td>United States, Ca, Berkeley</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>Genentech</td><td>United States, CA, South San Francisco</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Generator Group</td><td>United States, CA, San Bruno</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Genesis</td><td>United States, MI, Ann Arbor</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Genesis 10</td><td>United States, KS, Kansas City</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Genesis Studios</td><td>United States, PA, Philadelphia</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Geneva Consulting Group</td><td>United States, NY, New York</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Genius Inc</td><td>San Mateo, CA, San Mateo</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Genius Inc.</td><td>United States, CA, San Mateo</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Genius, Inc.</td><td>United States, CA, San Mateo</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Genome Sequencing Center</td><td>United States, MO, St. Louis</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Genome Sequencing Center, Washington University, St. Louis</td><td>United States, MO, St. Louis</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Genome Sequencing Centre, Washington University St. Louis</td><td>U.S.A, MO, St. Louis</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>Genome Sequencing Centre, Washington University St.Louis</td><td>United States, MO, St. Louis</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>Genomics Institute of the Novartis Research Foundation</td><td>United States, CA, San Diego</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Genseq Ltd.</td><td>Malaysia, Malaysia, Cyberjaya</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Geocean Limited</td><td>Nigeria, Delta, Warri</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Geospiza</td><td>United States, WA, Seattle</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Geospiza, Inc</td><td>United States, WA, Seattle</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Geospiza, Inc.</td><td>United States, WA, Seattle</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Getfeedback Limited</td><td>United Kingdom, Oxfordshire, Henley on Thames</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Getfeedback.Net Ltd</td><td>United Kingdom, Oxon/Berks/Bucks, Henley-on-Thames RG9</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Gft.net, Inc.</td><td>United States, flexible</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Gibraltar Software, Inc.</td><td>United States, CA, Sunnyvale</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>Giganews</td><td>United States, TX, Austin</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>GlaxoSmithKline</td><td>RTP, NC</td><td>2012</td><td>Active</td></tr>
-<tr><td>Global Award Winning E-commerce Website</td><td>London, United Kingdom</td><td>2011</td><td>Active</td></tr>
-<tr><td>Global Broadcasting Corporation client</td><td>United Kingdom, London</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Global Computer Associates</td><td>United States, nj, W.Paterson</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Global Crossing</td><td>Undefined</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Global Crossing.com</td><td>United States, AZ, Phoenix</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Global Fitness Media, LLC</td><td>United States, CA, Los Angeles (90049)</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Global ISP Company</td><td>UK - England, London</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Global Infotech</td><td>United States, CA, Sunnyvale</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Global Infotech Corp</td><td>United States, CA, Sunnyvale</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Global Infotech Corporation</td><td>United States, CA, Sunnyvale</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Global IntelliSystems</td><td>United States, MD, Frederick</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Global Market Ltd.</td><td>UK, London NW11</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>Global Relay Communications Inc</td><td>Canada, BC, Vancouver</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Global Resourcing</td><td>United Kingdom, London</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Global Resourcing Solutions Ltd</td><td>United Kingdom, London</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Global Technical Talent</td><td>United States, ME, Portland</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Global Web 2.0 Project</td><td>Germany</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Global Web Hosting Company</td><td>United States, Florida, Boca Raton</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Global Web Hosting corporation</td><td>United States, FL, Boca Raton</td><td>2011</td><td>Active</td></tr>
-<tr><td>GlobalCom</td><td>canada, BC, vancouver</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>GlobalCom Solutions Inc</td><td>Canada, BC, Vancouver</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>GlobalCom Solutions Inc.</td><td>Canada, BC, West Vancouver</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>GlobalLogic</td><td>Kyiv, Ukraine</td><td>2011</td><td>Active</td></tr>
-<tr><td>GlobalWare Solutions</td><td>United States, CA, Redwood City</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>GlobalWare Solutions - PowerAccess</td><td>United States, CA, Redwood City</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Globalware Solutions</td><td>United States, CA, Redwood City</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Globi Web Solutions</td><td>Canada, Alberta, Calgary</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Globlal Technical Talent</td><td>United States, NJ, Jersey City</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Glotel Recruitment</td><td>Australia, Victoria, Melbourne</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Glue Finance AB</td><td>Sweden, Stockholm</td><td>2011</td><td>Active</td></tr>
-<tr><td>GoldBamboo</td><td>United States, MA, Woburn</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>GoldBamboo.com (InsuranceDesk.com)</td><td>United States, MA, Woburn</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>GoldStar Learning, Inc.</td><td>United States, IL, Chicago</td><td>2013</td><td>Active</td></tr>
-<tr><td>Golden Bytes</td><td>Nederland, Zuid Holland, Den Haag</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Golden Guru</td><td>United States, WA, Seattle</td><td>2013</td><td>Active</td></tr>
-<tr><td>Goldman Sachs</td><td>New York, NY</td><td>2012</td><td>Active</td></tr>
-<tr><td>Goldstar Events</td><td>United States, CA, Pasadea</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Golf Shuttle</td><td>Canada, British Columbia, Vancouver</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>GonePro</td><td>Franklin, TN</td><td>2012</td><td>Active</td></tr>
-<tr><td>GoodData</td><td>Prague, Czech republic</td><td>2011</td><td>Active</td></tr>
-<tr><td>Gooddata</td><td>Czech Republic, Brno or Prague</td><td>2011</td><td>Active</td></tr>
-<tr><td>Goodman Blue</td><td>United Kingdom, Lincolnshire, Grantham</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Google</td><td>United States, California, Mountain View</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Google Inc.</td><td>United States, CA, Mountain View</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Google, Inc</td><td>United States, CA, Mountain View</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Gorillabox</td><td>United Kingdom, London, Maidenhead</td><td>2012</td><td>Active</td></tr>
-<tr><td>Gorillabox Ltd</td><td>United Kingdom, Berkshire, Central Maidenhead (5 minute walk to station)</td><td>2011</td><td>Active</td></tr>
-<tr><td>Gossamer Threads</td><td>Canada, British Columbia, Vancouver</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Gossamer Threads Inc.</td><td>Canada, BC, Vancouver</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Government Liquidation</td><td>United States, DC, Washington</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Gradwell dot com Ltd</td><td>United Kingdom, Bath</td><td>2011</td><td>Active</td></tr>
-<tr><td>Grady Levkov & Co</td><td>United States, New York, New York</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Grady Levkov & Company</td><td>United States, IL, Chicago</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Grafton Staffing</td><td>United States, Kansas, Overland Park</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Grand Virtual</td><td>United States, Masachusetts, Cambridge</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Grand Virtual, Inc.</td><td>United States, MA, Cambridge</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Granite Solutions Groupe</td><td>United States, CA, San Francisco</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Grant Street Group</td><td>United States, PA, Pittsburgh</td><td>2013</td><td>Active</td></tr>
-<tr><td>Grant Street Group, Inc.</td><td>Anywhere in USA</td><td>2013</td><td>Active</td></tr>
-<tr><td>Grant Stret Group</td><td>United States, PA, Pittsburgh</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Grantsfire</td><td>United States, CA, San Francisco</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>GraphixReason</td><td>United States, FL, Miami</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Gravity</td><td>United States, Ca, San Francisco</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>GravityPeople</td><td>United States, CA, San Francisco</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Great Lodge</td><td>United States, TN, Nashville</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Great Works Internet</td><td>United States, Maine, Biddeford</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>GreatLodge, Inc</td><td>United States, TN, Nashville</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>GreatSchools.net</td><td>United States, CA, San Francisco</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Green Light Australia</td><td>Australia, NSW, Sydney</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Green River Data Analysis,LLC</td><td>United States, VT, Brattleboro</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Greene Resources, Inc.</td><td>United States, NC, Raleigh</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Greenplum, Inc.</td><td>United States, CA, San Mateo</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Greeting Card Universe</td><td>United States, CA, San Ramon</td><td>2011</td><td>Active</td></tr>
-<tr><td>GregoryJames Group</td><td>United KIngdom, Manchester, Manchester</td><td>2011</td><td>Active</td></tr>
-<tr><td>Gregroy James</td><td>United Kingdom, Manchester</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Grey Matter Intelligent and Interactive Inc.</td><td>Canada, Ontario, King City</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>GreyStar Solutions</td><td>United States, NV, Las Vegas</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>GridApp =Systems, Inc</td><td>United States, NY, New York</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>GridApp Systems</td><td>United States, NY, NewYork</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>GridApp Systems, Inc</td><td>United States, New York, NYC</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>GridApp Systems, Inc.</td><td>United States, NY, New York</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Grist Magazine, Inc.</td><td>United States, WA, Seattle</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Grist Mill Media</td><td>MA</td><td>2012</td><td>Active</td></tr>
-<tr><td>Groove Mobile</td><td>United States, MA, Bedford </td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Grooveeleven</td><td>CA, San Rafael</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>GroupA</td><td>USA, CA, Peninsula</td><td>2011</td><td>Active</td></tr>
-<tr><td>GroupMove Limited</td><td>Bath or Bristol, UK.</td><td>2013</td><td>Active</td></tr>
-<tr><td>GroupWeb.Com</td><td>United States, California, San Diego</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>GuardedNet</td><td>United States, GA, Atlanta</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Guardian Media Group Regional</td><td>United Kingdom, Lancashire, Manchester</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Guardian Unlimited</td><td>United Kingdom, London</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Gui Productions, Inc. (GuiWeb)</td><td>United States, CA, Grass Valley</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>GuiWeb</td><td>United States, CA</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Gumtree</td><td>United Kingdom, London, Richmond</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>GunsAmerica</td><td>United States, FL, Miami</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>GuntherHust Software</td><td>United States, California</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Guruperl.com</td><td>United States</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>GÃ¼dTech</td><td>San Diego, CA, United States</td><td>2012</td><td>Active</td></tr>
-<tr><td>H&R Block</td><td>United States, MA, Cambridge</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>H&R Block - TaxCut - Electronic filing</td><td>United States, MA, Cambridge</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>H5</td><td>United States, California, San Francisco</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>HBS Labs</td><td>United States, IL, Justice</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>HCS Systems</td><td>United States, NC, Raleigh</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>HD Publishing Group</td><td>United States, FL, Lake Mary</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>HEX | Human EXperts</td><td>Kyiv, Ukraine</td><td>2011</td><td>Active</td></tr>
-<tr><td>HFSI Consulting (contracting firm)</td><td>United States, NY, New York - 55th + Park</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>HQMC, Personal and Family Readiness</td><td>United States, Virginia, Quantico</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>HR Dynamics</td><td>New York, NY</td><td>2012</td><td>Active</td></tr>
-<tr><td>HRLogix</td><td>United States, Oklahoma, Edmond</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>HRN</td><td>United States, TX, Houston</td><td>2011</td><td>Active</td></tr>
-<tr><td>HRsmart</td><td>United States, Texas, Richardson</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>HRsmart Inc</td><td>United States, TX, Richardson (Dallas area)</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>HSBC</td><td>United States, New York, Mid Town</td><td>2011</td><td>Active</td></tr>
-<tr><td>HSE CONSULT</td><td>morocco, tangier</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>HT Associates</td><td>United States, IL, Chicago</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>HTC Global Services Inc</td><td>United States, Ohio, Columbus</td><td>2011</td><td>Active</td></tr>
-<tr><td>HUMYO.com Ltd.</td><td>United Kingdom, Sheffield or London</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Habitatmap.org</td><td>United States, NY, New York City</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Hallis</td><td>Australia, NSW, Sydney</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Hamilton James and Bruce</td><td>Australia, NSW, Chatswood, Sydney</td><td>2011</td><td>Active</td></tr>
-<tr><td>Hansford Associates</td><td>United Kingdom, London, London</td><td>2011</td><td>Active</td></tr>
-<tr><td>Hanu Software Solutions</td><td>India, Delhi, Delhi</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Hapara</td><td>New Zealand, Auckland</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Hard-working Headhunter</td><td>United States, CA, San Francisco Bay Area</td><td>2011</td><td>Active</td></tr>
-<tr><td>Harris Allied</td><td>United States, NY, New York</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Harris Digital Publishing</td><td>United States, FL, Lake Mary</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Harris Digital Publishing, Inc.</td><td>United States, FL, Lake Mary</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Harvard Division of Continuing Education</td><td>United States, MA, Cambridge</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Harvard Divison of Continuing Education</td><td>United States, MA, Cambridge</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Harvard Grad School of Design</td><td>United States, MA, Cambridge</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Harvard Law School</td><td>MA, Cambridge</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Harvard University</td><td>United States, MA, Cambridge</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Harvard University, Department of Molecular and Cellular Biology</td><td>Cambridge, MA</td><td>2012</td><td>Active</td></tr>
-<tr><td>Harvest Consutling Group</td><td>United States, NY, New York</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Harvest SwiftADS</td><td>United States, OH, Mason</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Harvey Nash</td><td>United Kingdom, Scotland, Glasgow</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Harvey Nash Plc</td><td>United Kingdom, London</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Hays IT</td><td>Canada, Ontario, GTA</td><td>2011</td><td>Active</td></tr>
-<tr><td>HeadForwards</td><td>Cornwall, UK</td><td>2012</td><td>Active</td></tr>
-<tr><td>Headforwards</td><td>Cornwall, UK</td><td>2013</td><td>Active</td></tr>
-<tr><td>Headquarters Marine Corps</td><td>United States, VA, Quantico</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Headquarters Marine Corps Personal and Family Readiness</td><td>United States, VA, Quantico</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Headquarters, Marine Corps</td><td>U.S., Virginia, Quantico</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Heads Up</td><td>Any</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>HeadsUp Management Pte Ltd</td><td>N/A, N/A, Singapore</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Headstrong Solutions</td><td>Philippines, Leyte, Tacloban city</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Health Food Depot, Inc.</td><td>United States, California, Northridge</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Health Market Science</td><td>United States, PA, Philadelphia</td><td>2013</td><td>Active</td></tr>
-<tr><td>Health Market Science, Inc</td><td>United States, PA, Philadelphia</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Healthcare Co.</td><td>Tx, Austin</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Healthmatrix IT</td><td>chennai, India</td><td>2013</td><td>Active</td></tr>
-<tr><td>Hearst</td><td>United States, NY, New York</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Hearst Digital Media</td><td>United States, NY, New York</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Hearst Magazines</td><td>United States, NY, New York</td><td>2012</td><td>Active</td></tr>
-<tr><td>Heart Imaging Technologies</td><td>Durham, NC</td><td>2012</td><td>Active</td></tr>
-<tr><td>Heart Internet Ltd</td><td>United Kingdom, Nottingham</td><td>2013</td><td>Active</td></tr>
-<tr><td>Hedera Technology</td><td>Paris, France</td><td>2011</td><td>Active</td></tr>
-<tr><td>Hedge Fund</td><td>United States, IL, Chicago</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Heise Zeitschriften Verlag</td><td>Germany, Hannover</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Helio</td><td>United States, California, Westwood, Los Angeles</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Hemmings Motor News</td><td>United States, VT, Bennington</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Henggeler Consulting</td><td>United States, MD, Columbia</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Herzig Eye Institute</td><td>Canada, Onatario, Toronto</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Heuristic Systems</td><td>United States, Utah, Salt Lake City</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Heuristic Systems </td><td>United States, Utah, Salt Lake City </td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Hewlett Packard</td><td>United States, CA, Pleasanton</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Hewlett-Packard</td><td>Slovak Republic, Bratislava</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Hi-Tec Associates, Inc.</td><td>United States, Texas, Bedford</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Hibyte L.K. Pvt Ltd</td><td>Sri Lanka, Western, Colombo</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Hicks Consulting Group</td><td>United States, CA, Sunnyvale</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>HiddenPerl</td><td>India, Karnataka, Bangalore</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>High Frequency Trading Firm</td><td>Undefined</td><td>2011</td><td>Active</td></tr>
-<tr><td>HigherTech Consulting</td><td>United States, TX, Austin</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Highgate Cross</td><td>United States, IL, Wheaton</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Highgate Cross+Cathey, LTD</td><td>Wheaton, IL</td><td>2012</td><td>Active</td></tr>
-<tr><td>Hiller Professional & Technical Search</td><td>United States, Washington, Seattle</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Hire Efficiency</td><td>United States, CA, Los Angeles</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>HireNetworks</td><td>Raleigh, NC</td><td>2011</td><td>Active</td></tr>
-<tr><td>HireStrategy</td><td>Herndon, VA</td><td>2012</td><td>Active</td></tr>
-<tr><td>Hired by Matrix, Inc.</td><td>New Providence, NJ</td><td>2011</td><td>Active</td></tr>
-<tr><td>Hite Capital Management</td><td>United States, NY, New York</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Hogsmill</td><td>United Kingdom, London</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Holding and Barnes / 1st Interactive design</td><td>Canvey Island, Essex, UK</td><td>2013</td><td>Active</td></tr>
-<tr><td>Holmes Corporation</td><td>United States, MN, Eagan</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Holophrastic Enterprises Inc.</td><td>Canada, Ontario, Toronto</td><td>2012</td><td>Active</td></tr>
-<tr><td>HomeImprovementCompanies.com</td><td>United States, Florida, Pompano Beach</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>Honeywell Automation India Limited</td><td>India, Maharashtra, Pune</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Honeywell Automation India Ltd.</td><td>India, Maharastra, PUNE</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Horizon Wimba</td><td>United States, NY, New York</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>HorizonLive</td><td>United States, NY, New York</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Host Gator</td><td>Houston, TX</td><td>2012</td><td>Active</td></tr>
-<tr><td>HostGator.com</td><td>United States, TX, Austin</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>HostGator.com LLC</td><td>United States, Texas, Houston</td><td>2011</td><td>Active</td></tr>
-<tr><td>HotLinuxJobs</td><td>United States, MA, Boston</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>House Absolute Consulting</td><td>55408, MN, Minneapolis</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>HowToMasterTheGolfIrons</td><td>United States</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Howard County Library</td><td>United States, MD, Columbia</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Howard Hughes Medical Institute (HHMI) - Janelia Farm Research Campus</td><td>Ashburn, VA</td><td>2013</td><td>Active</td></tr>
-<tr><td>Howth Technologies</td><td>Australia, Victoria, Melbourne</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>Hudson</td><td>United Kingdom, London</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Hudson Global Resources</td><td>Undefined</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>HuffingtonPost</td><td>United States, NY, New York</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Human Capital Management</td><td>United States, PA, Philadelphia</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Human Capital Management, Inc.</td><td>PA, Fort Washington</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Humboldt-Universität</td><td>Germany, Berlin</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Humboldt-Universität zu Berlin</td><td>Deutschland, Berlin</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Hunter Technical Resources</td><td>United States, GA, Atlanta</td><td>2011</td><td>Active</td></tr>
-<tr><td>Huntex</td><td>Greater Toronto Area</td><td>2012</td><td>Active</td></tr>
-<tr><td>Huntress IT</td><td>United Kingdom, London</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Hurix Systems Pvt. Ltd.</td><td>India, Maharashtra, Mumbai</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Hurra Communications Sp. z o.o.</td><td>Poland, Cracow</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Hurst (UK) Ltd.</td><td>United Kingdom, London</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Husdson</td><td>United States, PA, King of Prussia</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Hutchinson Software</td><td>Australia, NSW, Armidale</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Hutchinson Software Pty Ltd</td><td>Australia, NSW, Armidale</td><td>2011</td><td>Active</td></tr>
-<tr><td>Huxley Associates</td><td>The Netherlands, Noord Holland, Amsterdam</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Hyatt Leader</td><td>United States, NY, New York</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Hypermedia Systems</td><td>United States, California, Los Angeles</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Hypermedia Systems, Inc.</td><td>United States, CA, Los Angeles</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Hyrian</td><td>United States, CA, Culver City</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>I Do Foundation</td><td>United States, PA, Philadelphia</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>I, Me and Myself</td><td>United States, Annapolis, Baltimore, Washington DC Area</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>I-Media Insights</td><td>United States, CA, San Francisco</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>I-Next Ltd.</td><td>United Kingdom, Berkshire, Reading</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>I5invest</td><td>Austria, Vienna</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>IBA Software Technologies</td><td>United States, MA, Maynard</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>IBG LLC</td><td>Greenwich, CT, 06830  USA</td><td>2012</td><td>Active</td></tr>
-<tr><td>IBM</td><td>Tel-Aviv, Israel</td><td>2011</td><td>Active</td></tr>
-<tr><td>IC Group</td><td>United States, PA, Philadelphia</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>IC-Agency</td><td>Canada, NB, Bathurst</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>ICG, Inc.</td><td>United States, NJ, Princeton</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>ICPM</td><td>United States, Telecommute</td><td>2011</td><td>Active</td></tr>
-<tr><td>ICT Solutions</td><td>United Kingdom, Lancashire, Blackburn</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>IDCR Interdata Consulting FZ-LLC</td><td>UAE, Dubai, Dubai Media City</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>IDI Global</td><td>United States, UT, Orem</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>IDM</td><td>France, Champs/Marne</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>IDNT Consulting & Technology</td><td>Portugal, Lisbon</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>IDSi</td><td>United States, WA, Seattle</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>IFS</td><td>United States, NY, New York</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>IFX International, Inc.</td><td>United States, CA, San Diego</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>II-stiftelsen</td><td>Sweden, Stockholm</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>IIG</td><td>United States, TX, Dallas</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>IMACS, an Acurro company</td><td>United States, Texas, Dallas</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>IMAS Inc.</td><td>United States, VA, Falls Church</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>IMDb</td><td>United Kingdom, Bristol</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>IMDb.com</td><td>United Kingdom, Bristol</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>IMDb.com (Internet Movie Database)</td><td>United Kingdom, Bristol</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>IMDb.com / Amazon.com</td><td>United States, WA, Seattle</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>IMSI</td><td>United States, CA, BAY AREA</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>IMT</td><td>United States, TX, HOUSTON</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>IMVU, Inc.</td><td>United States, CA, Palo Alto</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>INNOVIM,LLC</td><td>Suitland-Silver Hill, MD, USA</td><td>2012</td><td>Active</td></tr>
-<tr><td>IODA</td><td>United States, CA, San Francisco</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>IPCoast, Inc.</td><td>United States, Arizona</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>IPNstock / Nielsen</td><td>United States, NY, New York</td><td>2011</td><td>Active</td></tr>
-<tr><td>IPNstock.com a division of Nielsen Corporation</td><td>United States, NY, New York City</td><td>2011</td><td>Active</td></tr>
-<tr><td>IPOWER</td><td>United States, Arizona, Phoenix</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>IPOnWEB</td><td>Russia, Moscow</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>IPonWEB</td><td>Russia, Moscow</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>IPsoft, Inc.</td><td>United States, NY, New York City</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>IQ Inc.</td><td>United States, PA, Pittsburgh</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>IQ Partners</td><td>Canada, on, toronto</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>IQ Partners Inc.</td><td>Canada, Ontario, Toronto</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>IQ Partners Search Firm</td><td>Canada, Ontario, Toronto</td><td>2011</td><td>Active</td></tr>
-<tr><td>IRS, Inc. of Boston</td><td>United States, Massachusetts, Boston/West of Boston/Natick area.</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>IRW Solutions</td><td>United Kingdom, Glasgow</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>IS</td><td>Au, Melbourne</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>ISM Fantasy Games</td><td>United Kingdom, Bristol</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>ISM Games</td><td>United Kingdom, Bristol</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>IT Dimensions</td><td>NY, New York</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>IT Human Resources</td><td>United Kingdom, London</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>IT JOBMAN</td><td>U.S., Illinoise, Chicago</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>IT Matters</td><td>Australia, QLD, Brisbane</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>IT Mob Limited</td><td>United Kingdon, West Yorkshire, Leeds / Bradford</td><td>2011</td><td>Active</td></tr>
-<tr><td>IT Network Group</td><td>Cheshire - Northwich</td><td>2011</td><td>Active</td></tr>
-<tr><td>IT Staffing</td><td>United States, CA, Los Angeles</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>IT Staffing Inc</td><td>TN, Memphis</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>IT assistance Ltd.</td><td>Switzerland, BS, Basel</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>ITERU</td><td>Singapore, Singapore</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>ITHR</td><td>London</td><td>2011</td><td>Active</td></tr>
-<tr><td>ITJob Consulting</td><td>Brazil, SP/Sao Paulo, São Paulo</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>ITN</td><td>United Kingdom, London</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>ITRAYS INC</td><td>United States, MI, Southfield</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>ITS Ingenium Ltd</td><td>France, Paris</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>ITT Corp.</td><td>DC, Washington DC</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>ITjobz</td><td>Australia, NSW, Newcastle</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>ITscopec GmbH</td><td>Germany, Baden-Württemberg, Karlsruhe</td><td>2011</td><td>Active</td></tr>
-<tr><td>Icon</td><td>United States, CA, San Francisco </td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Icons Inhouse Graphics</td><td>Australia, Queensland, Sunshine Coast</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>IdeaReboot</td><td>New York City</td><td>2012</td><td>Active</td></tr>
-<tr><td>IdeaReboot, Inc.</td><td>United States, NJ, Warren</td><td>2011</td><td>Active</td></tr>
-<tr><td>Idealo Internet GmbH</td><td>Germany, Berlin, Berlin</td><td>2012</td><td>Active</td></tr>
-<tr><td>Idealpeople</td><td>United Kingdom, Cambridgeshire, Cambridge</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Idealpeople (Agency)</td><td>United Kingdom, Oxffordshire, Oxfordshire</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Idealpeople Ltd</td><td>England, United Kingdom, Hampshire</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Idealpeople UK ltd</td><td>UK, England, Cambridge</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Idearc Media - superpages.com</td><td>United States, MA, Waltham</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Ideareboot</td><td>Delaware, USA</td><td>2011</td><td>Active</td></tr>
-<tr><td>Idor Systems</td><td>Israel, Tel Aviv</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Iflowsoft, LLC</td><td>United States, NJ, Iselin</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>IgniteTRX</td><td>United States, Texas, Dallas /Fort Worth</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Ihire Associates</td><td>United States, CA, San Diego</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Ihire Associates, LLC</td><td>United States, CA, San Diego</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Ijenko</td><td>France, Boulogne-Billancourt</td><td>2011</td><td>Active</td></tr>
-<tr><td>Image Logistics Corp</td><td>United States, nc, greensboro</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Imagetwist</td><td>united states</td><td>2012</td><td>Active</td></tr>
-<tr><td>Imagine Software</td><td>Hong Kong, Hong Kong</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Imap4all</td><td>Netherlands, Amsterdam</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Impact IT</td><td>United Kingdom, UK, Basingstoke</td><td>2011</td><td>Active</td></tr>
-<tr><td>Impart Media Group</td><td>United States, WA, Seattle</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Imperial College London</td><td>London, UK</td><td>2011</td><td>Active</td></tr>
-<tr><td>Imperial Employment</td><td>United Kingdom, Milton Keynes</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Imphasis, LLC</td><td>United States, North Carolina, Ft. Bragg</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>InFX Solutions</td><td>United Kingdom, East Sussex, Hastings</td><td>2011</td><td>Active</td></tr>
-<tr><td>InShift Technologies</td><td>United States, Utah, Provo</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>InSource Group</td><td>Arlington, TX 76011</td><td>2013</td><td>Active</td></tr>
-<tr><td>Inblosam</td><td>anywhere</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Inblosam LLC</td><td>United States, UT, St. George</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Incentive Logic</td><td>United States, AZ, Scottsdale</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Incentive Logic, Inc</td><td>AZ, Scottsdale</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Incentive Logic, Inc.</td><td>Scottsdale, AZ, USA</td><td>2012</td><td>Active</td></tr>
-<tr><td>Incline</td><td>United Kingdom, London</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Independant Contract</td><td>Southwestern Ontario, Canada</td><td>2012</td><td>Active</td></tr>
-<tr><td>Independent</td><td>United States, CA, San Diego</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Independent Developer</td><td>Undefined</td><td>2011</td><td>Active</td></tr>
-<tr><td>Independent/start-up</td><td>United States, New York, New York</td><td>2011</td><td>Active</td></tr>
-<tr><td>IndiGo</td><td>India, New Delhi</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Indiamart Intermesh LTD</td><td>INDIA, NCR, Noida</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Indiana University</td><td>Indiana, Bloomington</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Indigo Solutions</td><td>Undefined</td><td>2012</td><td>Active</td></tr>
-<tr><td>Individual</td><td>United States, NC, Lumberton</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Individual Academic</td><td>United States, DC, Washington</td><td>2011</td><td>Active</td></tr>
-<tr><td>Indoff</td><td>United States, MO, St. Louis</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Indoff Inc.</td><td>United States, MO, St. Louis</td><td>2013</td><td>Active</td></tr>
-<tr><td>Indoff Incorporated</td><td>United States, MO, St. Louis</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Indoff. Inc</td><td>United States, MO, St. Louis</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Inernational Computer Network</td><td>United States, PA, Bristol</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Infinity</td><td>Munich</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Infinity Interactive, Inc.</td><td>United States, NY, New York</td><td>2006</td><td>Active</td></tr>
-<tr><td>Info Plus International</td><td>United States, CA, San Mateo</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Info Tech Inc.</td><td>United States, FL, Gainesville</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Info Tech, Inc.</td><td>United States, FL, Gainesville</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>InfoArmor</td><td>Scottsdale, AZ</td><td>2013</td><td>Active</td></tr>
-<tr><td>Infoblox</td><td>United States, California, Santa Clara</td><td>2011</td><td>Active</td></tr>
-<tr><td>Infocity GmbH</td><td>Germany, Berlin, Berlin</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Infomatix Ltd.</td><td>Hungary, Budapest, Budapest</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Infoneto Ltd</td><td>Israel, Modiin</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Informatics Corporation of America</td><td>United States, TN, Nashville</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Information Balance, Inc.</td><td>Canada, Ontario, Toronto</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Information Management Company</td><td>United States, NY, New York City</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Information Technology Consulting</td><td>United States, PA, Pittsburgh</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Information hosting company for books and online websites</td><td>United States, New Jersey, New Providence</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Infoxchange Australia</td><td>Melbourne, Australia</td><td>2013</td><td>Active</td></tr>
-<tr><td>Infraccent</td><td>The Netherlands, Weert</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Ingenieurbuero Waite GmbH</td><td>Germany, Hamburg</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Ingenium ITS</td><td>London, Englands</td><td>2012</td><td>Active</td></tr>
-<tr><td>Ingenta UK Ltd</td><td>United Kingdom, Oxford</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>InnerSpace</td><td>America, Florida, Palm Coast</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Innovative Managed Care Systems, Inc.</td><td>United States, TX, Dallas</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>Innovative Management Solutions</td><td>Canada, Ontario, Toronto</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Innovative Solutions, Inc.</td><td>United States, Missouri, St. Louis</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Innovative Systems Group</td><td>Chicago, IL</td><td>2012</td><td>Active</td></tr>
-<tr><td>Inpharmatica Ltd</td><td>United Kingdom, London</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Insider Pages</td><td>United States, California, Redwood Shores</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Insight Global, Inc</td><td>United States, Maryland, Gaithersburg</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Insight Solutions</td><td>United States, CA, Cupertino</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Inspire</td><td>United States, Virginia, McLean</td><td>2013</td><td>Active</td></tr>
-<tr><td>Inspired Broadcast Networks</td><td>United Kingdom, London</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Instant Online Shopping</td><td>Undefined</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Institute for Contemporary History at the University of Innsbruck</td><td>Austria, Innsbruck</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Institute for Genome Sciences</td><td>United States, Maryland, Baltimore</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Institute of Cancer Research</td><td>United Kingdom, Greater London, London (Sutton)</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Insurance Industry</td><td>United States, MD, Columbia</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>IntApp</td><td>United States, CA, Palo Alto</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>IntApp, Inc.</td><td>United States, CA, Palo Alto</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>IntY</td><td>United Kingdom, South West, Bristol</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Intasys Billing Technologies Ltd</td><td>Scotland, Midlothian, Edinburgh</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Integralis Services GmbH</td><td>Germany, Bavaria, Ismaning</td><td>2013</td><td>Active</td></tr>
-<tr><td>Integration Appliance</td><td>United States, California, Palo Alto</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Integration Appliance, Inc.</td><td>United States, CA, Palo Alto</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Integrative Research - Beta Immune</td><td>United States, New York, Little Valley</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>IntegriChain Inc</td><td>United States, NJ, Princeton</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>IntegriChain, Inc</td><td>United States, NJ, Princeton</td><td>2011</td><td>Active</td></tr>
-<tr><td>IntegriChain, Inc.</td><td>United States, NJ, Princeton</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Integrichain</td><td>United States, NJ, Princeton</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Integrichain, Inc</td><td>United States, NJ, Princeton</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Integrichain, Inc.</td><td>United States, NJ, Princeton</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Intel</td><td>United States, OR, Hillsboro</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Intel Corp.</td><td>United States, OR, Hillsboro</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Inteliment</td><td>Sydney - Australia</td><td>2013</td><td>Active</td></tr>
-<tr><td>Intellect Technical Consulting</td><td>United States, Florida, Tampa</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Intellect Technical Solutions</td><td>United States, Florida, Tampa</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Intellectual Capital</td><td>United States, Connecticut, Wilton</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>IntelliBitz Technologies</td><td>India, TamilNadu, Chennai</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>IntelliSurvey, Inc.</td><td>United States, CA, Ladera Ranch</td><td>2013</td><td>Active</td></tr>
-<tr><td>Intelligent People</td><td>United Kingdom, London</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Intellispire</td><td>Undefined</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Intelliun Corporation</td><td>United States, TX, Addison</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Intellor Group Inc</td><td>United States, Maryland, Gaithersburg</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Intellor Group Inc.</td><td>United States, Maryland, Gaithersburg</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Intellor Group, Inc.</td><td>United States, Maryland, Gaithersburg</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>InterLegis</td><td>United States, TX, Dallas</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>InterPro Australia Pty Ltd</td><td>Australia, NSW, Sydney</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Interactive Brokers</td><td>United States, CT, Greenwich</td><td>2013</td><td>Active</td></tr>
-<tr><td>Interactive Brokers Group LLC</td><td>Greenwich, CT, 06830  USA</td><td>2012</td><td>Active</td></tr>
-<tr><td>Interactive Brokers Group, Inc.</td><td>Greenwich, CT, 06830  USA</td><td>2012</td><td>Active</td></tr>
-<tr><td>Interactive Data PRD</td><td>United States, MA, Bedford</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Interalab, Inc.</td><td>United States, MI, Dearborn</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Interapy BV</td><td>Netherlands, Amsterdam</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Intercasting Corp.</td><td>United States, CA, San Diego</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Interchange Technologies</td><td>Canada, Quebec, Montreal</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>InterfaceFLOR, Inc.</td><td>United States, IL, Elmhurst</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Interhack</td><td>Chicago, IL</td><td>2011</td><td>Active</td></tr>
-<tr><td>Interim Competence</td><td>Denmark, Copenhagen</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Intermedia</td><td>Saint-Petersburg, Russia</td><td>2011</td><td>Active</td></tr>
-<tr><td>Intermedia Inc.</td><td>St Petersburg, Russia</td><td>2011</td><td>Active</td></tr>
-<tr><td>Intermedia Outdoors</td><td>United States, GA, Marietta</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Intermountain Technology Group</td><td>United States, KS, Hutchinson</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Internal Data Resources, Inc.</td><td>United States, Tennessee, Nashville</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>International Insurance Group, Inc.</td><td>Arizona, Flagstaff</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>International Securities Exchange</td><td>United States, NY, New  York</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>International Technical Solutions</td><td>Palo Alto, CA, United States</td><td>2012</td><td>Active</td></tr>
-<tr><td>International Textile Manufacturing, Inc.</td><td>United States, RI, Cumberland</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Internest (RLE)</td><td>Russia, Saint-Petersburg</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Internet Archive</td><td>United States, CA, San Francisco</td><td>2011</td><td>Active</td></tr>
-<tr><td>Internet Brands</td><td>United States, CA, El Segundo</td><td>2011</td><td>Active</td></tr>
-<tr><td>Internet Brands, Inc.</td><td>United States, CA, El Segundo</td><td>2011</td><td>Active</td></tr>
-<tr><td>Internet Co.</td><td>United Kingdom, London</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Internet Express</td><td>United States, CA, San Diego</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Internet Images</td><td>United Kingdom, Cleveland, Middlesbrough</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Internet Marketing Center</td><td>Canada, British Columbia, Vancouver</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Internet Marketing Ninjas</td><td>Clifton Park, NY</td><td>2012</td><td>Active</td></tr>
-<tr><td>Internet Pictures Corporation (iPIX)</td><td>United States, CA, San Ramon</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Internet Software Designs, Inc.</td><td>United States, Arizona, Flagstaff</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Internext Media Corp.</td><td>United States, ca, Encino</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Interscape</td><td>United States, MA, BOSTON</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Intersect Australia Ltd</td><td>Australia, NSW, Sydney</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Intertech</td><td>Minneapolis, MN</td><td>2013</td><td>Active</td></tr>
-<tr><td>Intertnet Transaction Services, Inc.</td><td>United States, CA, Long Beach</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Intraedge</td><td>Phoenix, AZ, USA</td><td>2012</td><td>Active</td></tr>
-<tr><td>Intrepid Recruitment</td><td>United Kingdom, Gloucestershire</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Inventium Pvt. Ltd.</td><td>India, NCR, Gurgaon</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Investment Bank</td><td>United Kingdom, London, City of London/Canary Wharf</td><td>2011</td><td>Active</td></tr>
-<tr><td>Investment Bank </td><td>United States, NY, New York</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Investor DNA</td><td>United States, NY, New York</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Inweb</td><td>United Kingdom, southwest London</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Ionzero</td><td>Telecommute</td><td>2013</td><td>Active</td></tr>
-<tr><td>Ionzero </td><td>United States, CO, Fort Collins</td><td>2011</td><td>Active</td></tr>
-<tr><td>Iowa Telecom</td><td>United States, Iowa, Grinnell</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Iponweb</td><td>Russia, RU, Moscow</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>IronPort</td><td>United States, CA, San Bruno</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>IronPort Systems</td><td>United States, CA, San Bruno</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Ironport Systems</td><td>United States, CA, San Bruno</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Irvine Technology Corp</td><td>USA, CA, Irvine</td><td>2011</td><td>Active</td></tr>
-<tr><td>Italpro di Michele Beltrame</td><td>Italy, PN, Maniago</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Itec Resources</td><td>United States, IL, Chicago</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>Ivenue</td><td>United States, CA, Whittier</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>J Hecht</td><td>United States, Colorado, Glenwood Springs</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>J R Technologies</td><td>India, Maharashtra, Mumbai</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>J Wilson and Associates</td><td>Canada, BC, Vancouver</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>J-Com Resources Ltd</td><td>United Kingdom, London</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>J.P Recruiting</td><td>Canada, Ontario, Toronto</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>JBA-IT recruitment</td><td>United Kingdom, London</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>JCV Enterprises</td><td>United States, CA, Loma Linda</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>JDG Associates</td><td>MD, Bethesda</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>JDResources</td><td>United States, TN, Memphis</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>JHW</td><td>United Kingdom, London</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>JK Incorporated</td><td>United States, DC, Washington</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>JKPorto Inc</td><td>United States, NY, Port Washington </td><td>2009</td><td>Inactive</td></tr>
-<tr><td>JM & Company</td><td>United States, MD, Bethesda</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>JND Technologies</td><td>INDIA, MS, Mumbai</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>JP Morgan</td><td>India, Mumbai</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>JPMorgan Chase</td><td>India, Mumbai</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>JSSI Group</td><td>United States, FL, Venice</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>JST Software, Inc.</td><td>United States, CA, Santa Monica</td><td>2011</td><td>Active</td></tr>
-<tr><td>JWAY GROUP, Inc.</td><td>United States, CA, San Jose</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Jackson Assoc</td><td>United States, missour, st louis</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Jackson Colter Resources</td><td>United States, FL, Orlando</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Jamma IT</td><td>London</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Jan Prunk</td><td>Slovenia, Ljubljana</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Japan Association of Translators</td><td>Japan, Shibuyu-ku, Tokyo</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>JeanMartin Solutions</td><td>India, Andhra Pradesh, Hyderabad</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Jeff</td><td>United States, Texas, Dallas</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Jerusalem Post</td><td>Israel, Jerusalem</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>JobPlex</td><td>United States, TX, Austin</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>JobPlex Executive Recruiters</td><td>United States, CA, Irvine or San Jose</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>JobsAhead</td><td>India, Delhi, Delhi</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Jobspring Partners</td><td>CA, Santa Monica</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Jobster</td><td>United States, WA, Seattle</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Jobster Inc</td><td>United States, Washington, Seattle</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Jobster.com</td><td>United States, WA, Seattle</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Jochen Schweizer Technology Solutions</td><td>Munich, Germany</td><td>2013</td><td>Active</td></tr>
-<tr><td>Jocorp</td><td>Freelance work from any location</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>John Galt</td><td>United States, ma, Burlington</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>John Galt Staffing</td><td>United States, MA, Waltham</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>John Galt Staffing, Inc.</td><td>United States, Massachusetts, Burlington</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>John Kerry for President national campaign</td><td>United States, DC, washington</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>John Raabe, Cooperative Design</td><td>United States, WA, Langley</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>JohnGalt</td><td>United States, MA, Burlington</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Johnny's Selected Seeds</td><td>United States, Maine, Winslow</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Joint Astronomy Centre</td><td>United States, HI, Hilo</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Jones Beckett Associates</td><td>United Kingdom, London</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Journalistic, Inc.</td><td>United States, NC, Durham</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Journatic</td><td>Remote</td><td>2013</td><td>Active</td></tr>
-<tr><td>Juice Resource Solutions</td><td>United Kingdom, London</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Jump Start</td><td>United States, New York, Manhattan</td><td>2011</td><td>Active</td></tr>
-<tr><td>Jump Trading</td><td>Chicago, IL</td><td>2012</td><td>Active</td></tr>
-<tr><td>Juniper Networks</td><td>United States, California, Sunnyvale</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Jupiterimages Corporation</td><td>United States, Arizona, Tucson</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Jupitermedia</td><td>United States, AZ, Tucson</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Jupitermedia Corporation</td><td>United States, AZ, Tucson</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Justia Inc.</td><td>United States, CA, Palo Alto</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>KBretz & Associates</td><td>United States, CA, San Jose</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>KEANE, Inc.</td><td>United States, New York, New York</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>KEANE, Inc. (NYSE: KEA)</td><td>United States, New York, New York</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>KForce</td><td>United States, Wi., Madison</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>KForce Professional Staffing</td><td>United States, Maryland, Baltimore</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>KForce Technology</td><td>United States, Texas, Austin</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>KForce Technology Staffing</td><td>United States, Kansas, Overland Park</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>KGM Direct</td><td>United States, New York, New York</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>KPC Group</td><td>Great Britain, London</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>KSL</td><td>United States, Telecommute Position</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>KTECHO CONSULTING S.L.</td><td>Spain, Madrid, Madrid</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>KTek Solutions Inc.</td><td>TX, Dallas</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Kaizen</td><td>China, Kowloon, Hong Kong</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Kaizen Partnership</td><td>United Kingdom, London</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Kam Enterprises</td><td>United States, VA, Herndon</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Kanoodle</td><td>United States, NY, Getzville</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Kapor Enterprises</td><td>United States, CA, San Francisco</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Kareo</td><td>Irvine, CA</td><td>2013</td><td>Active</td></tr>
-<tr><td>Karlson Recruitment</td><td>United Kingdom, London, London</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Karlson Recruitment on behalf of leading London based Companies</td><td>United Kingdom, London</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Karlson UK</td><td>United Kingdom, London, London</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Karma Music Group</td><td>United Kingdom, London</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Karmasphere</td><td>United Kingdom, London</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Keane Inc</td><td>Canada, Nova Scotia, Halifax</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Keane, Inc.</td><td>NJ, Jersey City</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Keberos Corp</td><td>United States, IL, Chicago</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Kebunet</td><td>97068, OR, West Linn</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Kelly I.T. Resources</td><td>United States, Nevada, Las Vegas</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Kelly IT Resources</td><td>United States, NV, Henderson </td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Kelly Scientific Resources at the National Institutes of Health</td><td>United States, MD, Rockville</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Keltia Design</td><td>United States, WA, Seattle</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Kenscio Digital Marketing</td><td>Bangalore, India</td><td>2012</td><td>Active</td></tr>
-<tr><td>Kenserve Inc</td><td>United States, CA, Westlake Village</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Kent Douglas & Associates</td><td>Australia, NSW, Sydney</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Kerry-Edwards 2004</td><td>United States, DC, washington</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Kforce</td><td>United States, OH, Dayton</td><td>2012</td><td>Active</td></tr>
-<tr><td>Kforce Client</td><td>King of Prussia, PA</td><td>2012</td><td>Active</td></tr>
-<tr><td>Kforce Professional Staffing</td><td>United States, Ohio, Dayton</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Kforce Professional Staffing </td><td>United States, CA, San Diego</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Kieran Knight Consulting</td><td>Cambridge, UK</td><td>2012</td><td>Active</td></tr>
-<tr><td>Kieran Knight Recruitment</td><td>United Kingdom, Cambridge</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Kineticom</td><td>United States, WA, Bellevue</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Kineticom, Inc.</td><td>United States, CA, San Francisco</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Kinexus Internet Ltd</td><td>United Kingdom, Swindon</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Kings Hill Recruitment</td><td>United Kingdom</td><td>2013</td><td>Active</td></tr>
-<tr><td>Kingsport Publishing Corporation</td><td>United States, TN, Kingsport</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Kitco</td><td>Canada, Quebec, Montreal</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Knight Munro</td><td>United Kingdom, London</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Knowledge Headquarters</td><td>United States, TX, Austin</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Knowledge Networks</td><td>United States, CA, Menlo Park</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Knowledge Technologies Group of Pearson</td><td>United States, CO, Boulder</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>KnowledgePlex Inc.</td><td>CA, San Jose</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>KnowledgePlex, Inc.</td><td>CA, San Jose</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>KnowledgeWorks Global Ltd.</td><td>India, Maharashtra, Mumbai</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Knowlegis</td><td>United States, VA, Fairfax</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Knowmad Technologies</td><td>United States, NC, Charlotte</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Koala Telecom</td><td>Australia, South Australia, Adelaide</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>KolbSoft Technologies</td><td>United States, IL, Libertyville</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Kontera</td><td>Israel, Hertzliya</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Koston Consulting</td><td>Austin, TX</td><td>2011</td><td>Active</td></tr>
-<tr><td>Kudosintech, Ahmedabad</td><td>Ahmedabad, Gujarat</td><td>2012</td><td>Active</td></tr>
-<tr><td>Kurt Seifried</td><td>Canada, Alberta, Edmonton</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>L&G Consulting, LLC</td><td>United States, TX, Corpus Christi</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>L&G Consulting.LLC</td><td>United States, TX, Corpus Christi</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>L-3 Communications Titan Group</td><td>United States, MD, Landover</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>L-3 STRATIS</td><td>Annapolis Junction, MD</td><td>2012</td><td>Active</td></tr>
-<tr><td>L3 Payments</td><td>US, any, any</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>LA County Office of Education</td><td>United States, CA, Downey</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>LASF</td><td>Undefined</td><td>2013</td><td>Active</td></tr>
-<tr><td>LG</td><td>United States, WA, Seattle</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>LG Consulting</td><td>United States, WA, Seattle</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>LINX</td><td>United Kingdom, London</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>LIVE NATION ENTERTAINMENT / TICKETMASTER</td><td>USA, CA, HOLLYWOOD</td><td>2011</td><td>Active</td></tr>
-<tr><td>LIVEOPS</td><td>United States, CA, Palo Alto</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>LKK Group</td><td>United States, CA, Los Angeles</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>LM Squared LLC</td><td>United States, IL, Northbrook</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>LM2</td><td>United States, IL, Northbrook</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>LMB Professional Services</td><td>United States, New York, New York</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>LOVEFiLM</td><td>United Kingdom, London</td><td>2012</td><td>Active</td></tr>
-<tr><td>LOVEFiLM International</td><td>United Kingdom, London</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>LRN</td><td>United States, California, Los Angeles</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>LRN Corporation</td><td>United States, California, Westwood</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>LRN Inc.</td><td>United States, CA, Los Angeles (Westwood)</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Lab-01</td><td>Salt Lake City, UT, USA</td><td>2012</td><td>Active</td></tr>
-<tr><td>Lacerte Development</td><td>Canada, British Columbia, Victoria</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Lagardere Active North America</td><td>United States, Ca, Los Angeles</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Lakeshore Staffing</td><td>United States, KY, Louisville</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Lakeview Education Solutions</td><td>United States, IL, Chicago</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Language Weaver</td><td>United States, CA, Los Angeles</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Language Weaver, Inc.</td><td>United States, California, Los Angeles/Marina Del Rey</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Large Financial Services Company</td><td>United States, Connecticut, Stamford</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Large Insurance Corporation</td><td>United States, Ohio, Columbus</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Large Internet Communications Firm</td><td>United States, NJ, Jersey City</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Large Internet Company</td><td>United Kingdom, London</td><td>2011</td><td>Active</td></tr>
-<tr><td>Large Media Company</td><td>United Kingdon, London</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Large National Media Group</td><td>United Kingdom, Manchester</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Large Publishing Company</td><td>United States, California, San Diego</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Large Telco </td><td>Australia, New South Wales, North Ryde, Sydney</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Large e-commerce company in Toronto</td><td>Canada, Ontario, Toronto</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Las Vegas Extremes</td><td>United States, Nevada, Las Vegas</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Laser Print Plus</td><td>United States, SC, Columbia</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Lassen Group</td><td>United States, CA, Los Angeles</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Latitude Tech</td><td>United States, VA, Arlington</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Law Manager, Inc.</td><td>United States, PA, Conshohocken (Philadelphia suburbs)</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Law Offices of Birger Greg Bacino</td><td>United States, CA, San Diego</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Lawrence Berkeley National Laboratory</td><td>United States, CA, Berkeley</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Layover, Inc.</td><td>United States, PA, Lancaster County</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Layover.com</td><td>United States, PA, Lancaster</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Lazard Asset Management</td><td>United States, New York, New York</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Lead Revolution Inc</td><td>Canada, B.C., Vancouver</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Leading European Brand</td><td>United Kingdom, Hampshire, Portsmouth</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Leading Information Solution Provider</td><td>United States, California, Los Angeles</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Leading Information Solution provider</td><td>United States, NY, New York</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Leading Online Advertising organization</td><td>United States, WA, Seattle</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Leading Search Engine Marketing / Search Engine Optimization Firm</td><td>United States, IL, Chicago</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Leading Search Engine/Internet Company</td><td>United States, NY, New York</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Leading in the Semiconductor Industry</td><td>United States, CA, San Jose</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Leading integrated financial services company</td><td>Germany, Munich / München</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Leadpile</td><td>United States, Arizona, Phoenix</td><td>2011</td><td>Active</td></tr>
-<tr><td>LeapFrog Systems</td><td>Boston, MA</td><td>2012</td><td>Active</td></tr>
-<tr><td>LeasingBørsen.dk</td><td>Denmark, Copenhagen</td><td>2011</td><td>Active</td></tr>
-<tr><td>Legacy.com</td><td>Naperville, IL, United States</td><td>2013</td><td>Active</td></tr>
-<tr><td>Lekha, Inc</td><td>United States, CA, Southern California</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Lemcon Networks</td><td>Brazil, Barra da Tijuca, Rio De Janeiro</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Lenmar consulting</td><td>United States, NJ, Jersey City</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Leon Bene Consulting</td><td>United States, CA, Petaluma</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Leostream</td><td>United States, MA, Waltham</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Letsrecruit.com</td><td>United Kingdom, London, London</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Level 9 Digital</td><td>United States, FL, Miami</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Level Acuity, LLC</td><td>United States, CA, San Francisco</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Level Acuity, LLC - Perl Programmer Staffing & Projects</td><td>United States, New York, Manhattan, New York (212)</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Level One Technologies</td><td>United States, MO, St Louis</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>LevelBET Ltd</td><td>Argentina, Buenos Aires</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Levi, Ray & Shoup, Inc.</td><td>United States, Kansas, Lenexa</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Levy</td><td>Netherlands, Utrecht</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Levy Associates</td><td>Netherlands, Utrecht</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Lexblog</td><td>United States, WA, Seatlle</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Lexis-Nexis</td><td>United States, Florida, Boca Raton</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Liaison International</td><td>United States, MA, Watertown</td><td>2012</td><td>Active</td></tr>
-<tr><td>Liaison International, Inc.</td><td>United States, MA, Watertown</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Liaison International, LLC</td><td>Watertown, MA, United States</td><td>2012</td><td>Active</td></tr>
-<tr><td>LibLime</td><td>United States</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Libertarian Party of Pennsylvania</td><td>Philadelphia, Washington DC, USA</td><td>2012</td><td>Active</td></tr>
-<tr><td>Liberty</td><td>Wilmington, DE</td><td>2012</td><td>Active</td></tr>
-<tr><td>Liberty Personnel</td><td>Bensalem, PA 19020</td><td>2013</td><td>Active</td></tr>
-<tr><td>Libertyjobs</td><td>Claymont, DE</td><td>2012</td><td>Active</td></tr>
-<tr><td>Lieberman Software Corporation</td><td>United States, CA, Beverly Hills</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Lifetree Convergence Limited</td><td>India, Karnataka, Bangalore</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>LightSpeed Technology Group</td><td>Chapel Hill, NC</td><td>2012</td><td>Active</td></tr>
-<tr><td>Like.com</td><td>United States, CA, San Mateo</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Likeminds Digital Solutions Pty Ltd</td><td>Australia, NSW, Sydney (Lower Blue Mountains)</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Limbic Systems, Inc.</td><td>United States, MD, Rockville</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Lincoln Bay</td><td>United States, Washington, Seattle</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>LincolnBay</td><td>98104, WA, Seattle</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Lindahl Search & Selection ApS</td><td>Danmark, København K</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Line 6</td><td>United States, CA, Agoura Hills</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Line 6, Inc.</td><td>United States, CA, Calabasas</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Linear G internet solutions</td><td>Australia, NSW, Lismore</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Link Recruitment, Melbourne</td><td>Australia, Victoria, Melbourne</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Link-Assistant.Com</td><td>Belarus, Minsk</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>LinkExperts, Inc.</td><td>United States, NY, New York</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Links Technolgoy</td><td>United States, IL, Chicago</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Links Technology Solutions, Inc.</td><td>United States, Arizona, Scottsdale</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Linux Lancers Deutschland</td><td>The Netherlands, Amsterdam</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Linux Mall Brasil LTDA</td><td>Brasil, SP, Sao Paulo</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Linuxwebnet.com</td><td>United States, Maryland, Baltimore</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Lions Bay Media Inc.</td><td>North Vancouver, BC</td><td>2013</td><td>Active</td></tr>
-<tr><td>Liquid Web Inc</td><td>United States, MI, Lansing</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Liquid Web Inc.</td><td>United States, MI, Lansing</td><td>2012</td><td>Active</td></tr>
-<tr><td>LiquidPixels, Inc.</td><td>United States, MA, Bedford</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Liquidity Services</td><td>United States, DC, Washington</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Liquidity Services - An Ecommerce Company</td><td>DC, WASHINGTON</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Liquidity Services Inc.</td><td>United States, DC, Washington</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Liquidity Services, Inc.</td><td>United States, DC, Washington</td><td>2011</td><td>Active</td></tr>
-<tr><td>Liquidity Services, inc</td><td>United States, Washington DC, Washington DC</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>ListMarketer Software, Inc.</td><td>Cottonwood Heights, UT, United States</td><td>2011</td><td>Active</td></tr>
-<tr><td>LiteBreeze, Inc.</td><td>India, Kerala, Cochin</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Litelogic</td><td>Ireland, Limerick</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Litelogic LTD</td><td>United Kingdom, London, London</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Litelogic Ltd</td><td>United Kingdom, London</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Litelogic Ltd.</td><td>United Kingdom, London, London</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Literal</td><td>Slovenia, Ljubljana</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Live Nation Enterainment/ Ticketmaster</td><td>USA, Ca, Hollywood</td><td>2011</td><td>Active</td></tr>
-<tr><td>Live Nation Entertainment</td><td>United States, Ca, Hollywood</td><td>2011</td><td>Active</td></tr>
-<tr><td>Live Nation Entertainment - Ticketmaster</td><td>Hollywood, Los Angeles, CA, USA</td><td>2012</td><td>Active</td></tr>
-<tr><td>Live Nation Entertainment / Ticketmaster</td><td>United States, Ca, Hollywood</td><td>2011</td><td>Active</td></tr>
-<tr><td>Live Nation Entertainment \ Ticketmaster</td><td>United States, CA, Hollywood</td><td>2011</td><td>Active</td></tr>
-<tr><td>Live Nation Entertainment \ Ticketmster</td><td>United States, Ca, Hollywood</td><td>2011</td><td>Active</td></tr>
-<tr><td>Live Nation Entertainment/ Ticketmaster</td><td>USA, CA, Hollywood</td><td>2011</td><td>Active</td></tr>
-<tr><td>Live365</td><td>United States, CA, Foster City</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Live365, Inc.</td><td>94404, CA, Foster City</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>LiveBlock Auctions International</td><td>Regina, Saskatchewan, Canada</td><td>2012</td><td>Active</td></tr>
-<tr><td>LiveOps</td><td>United States, CA, Santa Clara</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>LiveOps, Inc</td><td>United States, CA, Santa Clara</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>LiveText</td><td>IL, LaGrange</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>LiveText Inc</td><td>United States, IL, Chicago (LaGrange)</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>LiveText Inc.</td><td>United States, Illinois, LaGrange</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>LiveText, Inc.</td><td>United States, IL, Chicago</td><td>2012</td><td>Active</td></tr>
-<tr><td>LiveVox</td><td>United States, California, San Francisco</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>LiveWire Mobile</td><td>United States, MA, Littleton</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Liveops</td><td>United States, CA, Santa Clara</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>LivingDigest, Inc.</td><td>United States, CA, San Francisco</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Local-I</td><td>United States, NY, New York</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>LocalNet Corporation</td><td>Williamsville, NY</td><td>2012</td><td>Active</td></tr>
-<tr><td>Lodestar Consulting, LLC</td><td>United States, PA, Philadelphia</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>LodgeNet-StayOnline, Inc.</td><td>United States, Georgia, Atlanta</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Loehr Technologies, Inc.</td><td>United States, CO, Colorado Springs</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Log-On</td><td>Israel, Tel-Aviv</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>LogLogic, Inc.</td><td>United States, CA, San Jose</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>LogSearch.com</td><td>United States, IL, Chicago</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Logic Technology, Inc.</td><td>Cincinnati, OH</td><td>2012</td><td>Active</td></tr>
-<tr><td>LogicNow LTD</td><td>United Kingdom, Essex, Brentwood</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Logicmerc</td><td>United States, IL, Chicago</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Logitech</td><td>Newark, CA</td><td>2012</td><td>Active</td></tr>
-<tr><td>Logitech, Inc.</td><td>United States, WA, Camas </td><td>2011</td><td>Active</td></tr>
-<tr><td>Logitech/SLim Devices</td><td>United States, CA, San Jose</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Logitech/Slim Devices</td><td>United States, California, Mountain View</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Lok Technology</td><td>United States, CA, San Jose</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Lok Technology, Inc.</td><td>United States, Florida, Vero Beach</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Lokku</td><td>United Kingdom, Central London</td><td>2013</td><td>Active</td></tr>
-<tr><td>Lokku Limited</td><td>United Kingdom, London</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Lokku Ltd.</td><td>United Kingdom, London</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>London Music Thing</td><td>United Kingdom, London, London</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>London School of Economics and Political Science</td><td>United Kingdom, London, London</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>London South Bank University/Thames Computer Services</td><td>United Kingdom, Central London, London</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Lone Star Internet, Inc.</td><td>United States, Texas, Austin</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Lone Star Software</td><td>Any, Any, Any</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Longitude, Inc.</td><td>United States, NY, New York City</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Look Communications</td><td>Canada, Québec, Montréal</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>LookSmart</td><td>United States, CA, San Francisco</td><td>2013</td><td>Active</td></tr>
-<tr><td>LookSmart Canada</td><td>Waterloo, Ontario, Canada</td><td>2011</td><td>Active</td></tr>
-<tr><td>Loop One Inc.</td><td>United States, Texas, Austin</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Los Alamos National Laboratory</td><td>United States, New Mexico, Los Alamos</td><td>2012</td><td>Active</td></tr>
-<tr><td>Los Alamos National Laboratory (LANL)</td><td>Los Alamos, NM</td><td>2012</td><td>Active</td></tr>
-<tr><td>Los Alamos National Labs, Influenza Project</td><td>United States, NM, Los Alamos</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Los Angeles County Office of Education</td><td>United States, California, Downey</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Loudstream</td><td>Australia, VIC, Melbourne</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Loudstream FM</td><td>Canada, ON, London</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Lovefilm International</td><td>United Kingdom, London</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Loyal Source</td><td>United States, New York, New York</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Lucas Group</td><td>United States, NY, New York</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Lucas partnerships</td><td>United States, Texas, Dallas</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>LucasFilm</td><td>United States, CA, San Rafael</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Lucidoc Corporation</td><td>United States, WA, Redmond</td><td>2012</td><td>Active</td></tr>
-<tr><td>Luibh.com</td><td>Ireland, Belfast</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Lyris Technologies, Inc.</td><td>United States, CA, Berkeley</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>M&T Bank</td><td>United States, NY, Buffalo</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>M.D. Web Solutions</td><td>Tampa, FL</td><td>2011</td><td>Active</td></tr>
-<tr><td>M2 Media Group</td><td>Stamford, CT, United States</td><td>2011</td><td>Active</td></tr>
-<tr><td>MAD Partners Ltd</td><td>Maidenhead, United Kingdom</td><td>2011</td><td>Active</td></tr>
-<tr><td>MAP Staffing Solutions Group</td><td>New York, NY, USA</td><td>2013</td><td>Active</td></tr>
-<tr><td>MAP Staffing Solutions group</td><td>NJ, Jersey City</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>MBA Michael Bailey Associates GmbH</td><td>Germany, Bavaria, Munich</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>MBalance</td><td>Netherlands, Noord Holland, Amsterdam</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>MCG</td><td>United States, Mo, Kansas City </td><td>2008</td><td>Dormant</td></tr>
-<tr><td>MCI</td><td>Austria, -, Innsbruck</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>MCSi</td><td>United States, OH, Dayton</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>MDA Information Systems Inc</td><td>Gaithersburg, MD</td><td>2012</td><td>Active</td></tr>
-<tr><td>MDA Information Systems, Inc.</td><td>United States, MD, Gaithersburg</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>MECS</td><td>United Kingdom, London</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>MECS EUROPE</td><td>London</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>MECS Europe</td><td>United Kingdom, London</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>MEN Media</td><td>United Kingdom, Manchester, Oldham</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>MFM Software, Inc.</td><td>United States, OH, Cincinnati</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>MIS Web Design Ltd.</td><td>England, United Kingdom, Yorkshire</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>MISource Inc.</td><td>United States, Florida, Boca Raton</td><td>2011</td><td>Active</td></tr>
-<tr><td>MKDoc Ltd</td><td>United Kingdom, Sheffield</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>MLB Advanced Media</td><td>United States, NY, New York</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>MMAH</td><td>United States, MD, Silver Spring</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>MMW International</td><td>CA, San Francisco</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>MNC</td><td>India, Maharashtra, Pune</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>MNX Solutions</td><td>United States, MI, Monroe</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>MOB</td><td>Australia, NSW, Sydney</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>MODIS</td><td>USA, FL, Sunrise</td><td>2011</td><td>Active</td></tr>
-<tr><td>MOST Performance Improvement</td><td>United States, PA, Doylestown</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>MPC</td><td>United Kingdom, London, London</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>MPH</td><td>United States, CA, San Carlos</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>MPR Sistemas S.A.</td><td>Venezuela, DF, Caracas</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>MRI</td><td>United States, MI, Grand Rapids</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>MRI   Orange County New York</td><td>Mid-Hudson Valley New York</td><td>2012</td><td>Active</td></tr>
-<tr><td>MRI  ORANGE COUNTY NY</td><td>MID-HUDSON VALLEY NEW YORK</td><td>2012</td><td>Active</td></tr>
-<tr><td>MRI Client</td><td>United States, New York, New York</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>MRI ORANGE COUNTY NY</td><td>United States, NY, GREENWOOD LAKE</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>MRI Orange County NY</td><td>United States, NY, Greenwood Lake </td><td>2012</td><td>Active</td></tr>
-<tr><td>MSys</td><td>United States, NY, New York</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>MULTINATIONAL COMPANY</td><td>INIDA, KERALA, TRIVANDRUM / KOCHI</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>MUSICMATCH</td><td>United States, California, San Diego</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>MacNexus</td><td>United States, CA, Sacramento</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Mackey & Tanner</td><td>United States, Tx, Houston</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>MacroElite Corp.</td><td>Canada, Manitoba, Winnipeg</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Madberry.com</td><td>United States, NH, Durham</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Madbury Web Development Ventures</td><td>United States, NH, Durham</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Madden Advertising</td><td>Australia, Queensland, Brisbane</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Magazine Subscription Cheap</td><td>United States, California, Los Angeles</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Magazine Subscriptions</td><td>California, Los Angeles</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Magazines.com</td><td>United States, TN, Franklin</td><td>2011</td><td>Active</td></tr>
-<tr><td>Magazines.com, LLC</td><td>United States, TN, Franklin</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Magenta ApS</td><td>Denmark, Copenhagen</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Magnify</td><td>New York, NY</td><td>2012</td><td>Active</td></tr>
-<tr><td>Magnify.net</td><td>United States, NY, New York</td><td>2013</td><td>Active</td></tr>
-<tr><td>Magrathea Technologies</td><td>Australia, QLD, South Brisbane</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Mail.Ru Group</td><td>Moscow, Russia</td><td>2012</td><td>Active</td></tr>
-<tr><td>MailChannels</td><td>Canada, BC, Vancouver</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>MailChannels Corporation</td><td>Canada, BC, Vancouver</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Maine Historical Society</td><td>United States, Maine, Portland</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Mainz Brady Group</td><td>OR, Portland</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Major Financial Firm</td><td>United States, NY, New York</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Major Financial Services Firm</td><td>United States, NY, New York</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Major Investment Bank</td><td>United States, NY/NJ, New York City and Jersey City</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Major Investment Firm</td><td>Canada, Ontario, Toronto</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Major League Baseball</td><td>United States, NY, New York</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Major League Baseball Advanced Media</td><td>United States, New York, New York</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Major NYC Firm</td><td>United States, NY, NYC</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Major Online Marketing Firm</td><td>United States, NY, New York</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Major Publishing company</td><td>United States, NY, Port Washington</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Major investment bank</td><td>United States, NY, New York</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Majoris Systems Pvt Ltd.</td><td>India, Karnataka, Bangalore</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Make Corporation</td><td>United States, IL, Chicago</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>MakePerl.com</td><td>Ukraine, Dniepropetrovsk</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Mamta LLC</td><td>United States, NY, New York</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Man Jimnz</td><td>Worldwide, Worldwide, Worldwide</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Managaement Recruiters of Orange County NY Inc.</td><td>Undefined</td><td>2011</td><td>Active</td></tr>
-<tr><td>Manheim Auctions</td><td>United Kingdom, West Yorkshire, LEEDS</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Manhunt Enterprises</td><td>India, Maharashtra, Pune</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Manpower</td><td>United States, North Carolina, Durham</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Manpower Professional</td><td>United States, MI, Traverse City</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Manta Media, Inc</td><td>United States, Ohio, Westerville</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>ManyOne Networks</td><td>United States, CA, San Mateo/San Jose/Scotts Valley</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Marc's Webdesign</td><td>United States, New Jersey</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Marchex</td><td>United States, WA, Seattle</td><td>2012</td><td>Active</td></tr>
-<tr><td>Marchex Inc.</td><td>United States, WA, Seattle</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Marclin Group</td><td>United States, CA, Near LAX</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Marigold Technolgies</td><td>United States, NY, New York</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Marigold Technologies, LLC</td><td>United States, NY, New York City</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Marine Corps Community Services</td><td>United States, VA, Quantico</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Mark 4 Technologies</td><td>Tulsa, OK, USA</td><td>2011</td><td>Active</td></tr>
-<tr><td>Mark Jones (independent contractor)</td><td>United States, TX, San Antonio</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Mark Lewis, Inc</td><td>United States, Illinois, chicago</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Mark Monitor</td><td>United States, Maryland, Germantown</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Market Leading ISP</td><td>United Kingdom, Nottinghamshire, Nottingham</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Market Leading International Ecommerce Site</td><td>United Kingdom, Hampshire, Fareham</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Market Leading Online Brand</td><td>Portsmouth, United Kingdom</td><td>2011</td><td>Active</td></tr>
-<tr><td>Market Leading Software House</td><td>United Kingdom, London</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Market Sentinel</td><td>United Kingdom, London</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Market Strategies, Inc.</td><td>United States, MI, Livonia</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Marketing Company</td><td>United States, Western/Central US, Anywhere</td><td>2011</td><td>Active</td></tr>
-<tr><td>Marketinggenius.com</td><td>United States, CA, San Mateo</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Markus Allen</td><td>United States, PA, West Chester</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Marlabs Inc</td><td>IL, Chicago</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Marlabs Software</td><td>India, Karnataka, Bangalore</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Marriotts Recruitment</td><td>United Kingdom, Berkshire, Reading</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Marshall-Wilkins</td><td>United Kingdom, Oxfordshire, Oxford</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Mascon Global</td><td>United States, IL, Schaumburg</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Mason Concepts</td><td>United States, CA, Mountain View</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Mason Consulting</td><td>Docklands, London</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Mason soft LLC</td><td>Undefined</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Massachusetts General Hospital</td><td>United States, MA, Cambridge</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Masterfile Corporation</td><td>Canada, Ontario, Toronto</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Masters & Associates</td><td>United States, CA, Palo Alto</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Mate1.com Inc</td><td>Canada, Quebec, Montreal</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Mate1.com, Inc.</td><td>Canada, Quebec, Montreal</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Matrix Resources</td><td>United States, TX, Dallas</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Max-Planck-Institut für molekulare Genetik</td><td>Germany, Berlin</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>MaxMind</td><td>Undefined</td><td>2012</td><td>Active</td></tr>
-<tr><td>MaxMind LLC</td><td>United States, MA, Boston</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>MaxMind, Inc.</td><td>Undefined</td><td>2013</td><td>Active</td></tr>
-<tr><td>Maxim Integrated Products</td><td>United States, CA, Sunnyvale</td><td>2011</td><td>Active</td></tr>
-<tr><td>Maya Control</td><td>Romania, Bucuresti, etc.</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Mayfield Curzon Associates</td><td>United Kingdom, England, North Yorkshire, Harrogate</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>McClatchy Interactive</td><td>United States, NC, Raleigh</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>McGarryBowen/Dentsu LABS Group</td><td>United States, NY, New York</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>McGregor Boyall Associates</td><td>London, UK</td><td>2012</td><td>Active</td></tr>
-<tr><td>McGregor-Boyall</td><td>London, London</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>McKesson</td><td>YSA, WA, Seattle</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>McKinzie Assoc.</td><td>United States, Missouri, St. Louis</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>MechanicNet Group</td><td>Pleasanton, CA</td><td>2012</td><td>Active</td></tr>
-<tr><td>MechanicNet Group, Inc.</td><td>United States, CA, Pleasanton</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>MedAbiliti Software Incorporated</td><td>United States, New York, New York</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>MedStar</td><td>United States, MD, Baltimore</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>MedWeb</td><td>United States, CA, San Francisco</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Media</td><td>United Kingdom, London, Central London</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Media Client</td><td>United Kingdom, Manchester</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Media Matters</td><td>United States, DC, Washington</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Media Matters for America</td><td>United States, DC, Washington</td><td>2011</td><td>Active</td></tr>
-<tr><td>Media Mattters</td><td>United States, DC, Washington</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Media Shower</td><td>Telecommute</td><td>2012</td><td>Active</td></tr>
-<tr><td>Media Temple</td><td>United States, CA, Culver City</td><td>2011</td><td>Active</td></tr>
-<tr><td>MediaDirect2000</td><td>United States, ca, Calabasas</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>MediaMath</td><td>United States, NY, New York</td><td>2011</td><td>Active</td></tr>
-<tr><td>MediaTemple</td><td>United States, CA, Los Angeles</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Mediaflex AS</td><td>Norway, Oslo</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Medialogik Inc</td><td>Canada, BC, Vancouver</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Mediamente SRL</td><td>Italy, Piemonte, Turin (Torino)</td><td>2011</td><td>Active</td></tr>
-<tr><td>Mediatech Internet Inc.</td><td>Canada, BC, Vancouver</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Medical Software firm</td><td>United States, MD, Bethesda</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Medical University of South Carolina</td><td>United States, SC, Charleston</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Medicore Corporation</td><td>India, Karnataka, Bangalore</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Medikin Incorporated</td><td>United States, New York, New York</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Medium Size Financial Company</td><td>New York, NY, USA</td><td>2013</td><td>Active</td></tr>
-<tr><td>Mednav</td><td>United States, Massachusetts, Wakefield</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>Medoc</td><td>Nottingham, UK</td><td>2013</td><td>Active</td></tr>
-<tr><td>Mega E-Services Pvt. Ltd.</td><td>India, Maharshtra, Mumbai</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>MegaForce LLC</td><td>United States, WI, Madison</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Mercator IT</td><td>United Kingdom, London</td><td>2012</td><td>Active</td></tr>
-<tr><td>Mercator IT Solutions</td><td>United Kingdom, Chichester</td><td>2011</td><td>Active</td></tr>
-<tr><td>Mercator IT Solutions LTD</td><td>London, England</td><td>2012</td><td>Active</td></tr>
-<tr><td>Mercator IT Solutions Ltd</td><td>United Kingdom, London</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Merchantcentral</td><td>United States, Fl, West Palm Beach</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>Merit Network</td><td>48104, MI, Ann Arbor</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Message Logix</td><td>United States, New York, White Plains</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Message Systems</td><td>United States, MD, Columbia</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Message Systems, Inc.</td><td>United States, MD, Columbia</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>MessageLabs</td><td>United Kingdom, Gloucestershire, Gloucester</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>MessageLabs UK</td><td>United Kingdom, Gloucestershire, UK, Gloucester / Bristol</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Messaglabs</td><td>United Kingdom, Gloucester</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>MetaCarta, Inc.</td><td>United States, MA, Cambridge</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>Metarhythm, Inc.</td><td>United States, NY, Midtown New York</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Metatron Technology Consulting</td><td>United States, WA, Chelan</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Meteorologisk institutt</td><td>Oslo, Norway</td><td>2013</td><td>Active</td></tr>
-<tr><td>Michael Bailey Associates</td><td>Belgium</td><td>2012</td><td>Active</td></tr>
-<tr><td>Michael C. Fina</td><td>Long Island City, Queens, NY, USA</td><td>2013</td><td>Active</td></tr>
-<tr><td>Michael C. Fina Company</td><td>United States, NY, Long Island City</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Michigan State University</td><td>United States, MI, East Lansing</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>MicroAgility</td><td>United States, New Jersey, Mt. Laurel</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Microcom</td><td>United Kingdom, London</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Micron Technology Inc.</td><td>United States, VA, Manassas</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Microoffice </td><td>Undefined</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Microstar</td><td>U.S., FL, Tampa</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Midland Search Partners</td><td>United States, NY, Manhattan</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Midwest Consulting Group</td><td>Dallas, TX</td><td>2012</td><td>Active</td></tr>
-<tr><td>Midwestern University</td><td>United States, Illinois, Downers Grove</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Migvan Effect</td><td>Israel, Sderot</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Millennium Concepts INC</td><td>United States, New Jersey, Jersey City or Somerset</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Millennium Consulting</td><td>United States, Maine, Portland</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Millennium Personnel Ltd</td><td>United Kingdom, London</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Millions Forever, LLC</td><td>United States, Tennenesse, Memphis</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Mimecast</td><td>England , London, Kings Cross, London</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Mimox Kft</td><td>Hungary, Budapest</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Mimox Ltd</td><td>Hungary, Budapest</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Mind-X Solutions Sdn Bhd</td><td>Malaysia, Malaysia, Cyberjaya</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>MindSeekers</td><td>United States, WA, Bellevue</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>MindSource</td><td>CA, Mountain View</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>MindSource Inc.</td><td>United States, CA, Mountain View</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>MindSource Software Engineers</td><td>United States, CA, San Jose</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>MindSource, Inc.</td><td>United States, CA, Mt. View</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Mindbrix</td><td>United States, TX, Keller/Fort Worth</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Mindcast</td><td>United States, WA, Mill Creek</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Mindcast Software</td><td>United States, Washington, Mill Creek</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Mindcast Software (Recruiting Agency)</td><td>United States, MI, Farmington Hills</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Mindimage</td><td>United States, ID, Boise</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>MindsIsland</td><td>United States, NY, New York</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Mindshare Interactive Campaigns</td><td>United States, MA, Boston</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Mindsource</td><td>United States, California, San Jose,</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Mindsource, Inc.</td><td>United States, CA, San Jose</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Mindworx People</td><td>Australia, Queensland, Brisbane</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Minek Inc.</td><td>Canada, BC, Vancouver</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Mintlab B.V.</td><td>Amsterdam, Netherlands</td><td>2012</td><td>Active</td></tr>
-<tr><td>MiraLink</td><td>United States, Oregon, Portland</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>MiraLink corporation</td><td>United States, OR, Portland</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Mirabeau</td><td>The Netherlands, Amsterdam</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Miranet</td><td>United States, California, San Jose</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Miranet, Inc.</td><td>United States, CA, San Francisco</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Misys/Payerpath</td><td>Tx, Austin</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Mitchell Martin</td><td>Baltimore, MD</td><td>2013</td><td>Active</td></tr>
-<tr><td>Mitchell Martin Inc.</td><td>United States, IL, Chicago</td><td>2012</td><td>Active</td></tr>
-<tr><td>Mitchell/Martin Inc.</td><td>United States, IL, Chicago</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>MoMac</td><td>Netherlands, Zuid, Rotterdam</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>MoMac B.V.</td><td>Netherlands, Rotterdam</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>MoMac bv</td><td>The Netherlands/United Kingdom, Rotterdam/London</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Mobile Content Provider</td><td>United Kingdom, London</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Mobile Watermark GmbH</td><td>Germany, Schleswig-Holstein, Ahrensburg</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Mobilito Media</td><td>United States, IL, Chicago (Bucktown)</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Mochanin</td><td>Bulgaria, USA, California, Sofia, San Jose</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>ModernFeed</td><td>United States, CA, Los Angeles</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Modis</td><td>United States, NY, New York</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Modis </td><td>United States, Florida, Boca Raton</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Modis Consulting</td><td>United States, New Hampshire, Merrimack</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Modis IT</td><td>United States, FL, Boca Raton (West Palm Beach County)</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Monarch Recruitment</td><td>United Kingdom, Oxford</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Monash University</td><td>Australia, Victoria, Melbourne</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Monk Development, Inc.</td><td>San Diego, CA</td><td>2012</td><td>Active</td></tr>
-<tr><td>Monster</td><td>United States, California, Los Angeles</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>MonsterTRAK</td><td>United States, California, Los Angeles</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Montana Interactive</td><td>59601, MT, Helena</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Montana Interactive, LLC</td><td>United States, Montana, Helena</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Montserrat Volcano Observatory</td><td>St. Johns, Antigua</td><td>2012</td><td>Active</td></tr>
-<tr><td>Moonfruit</td><td>United Kingdom, London</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Moonfruit.com</td><td>United Kingdom, London, London</td><td>2011</td><td>Active</td></tr>
-<tr><td>Moonlight BPO</td><td>Bend Oregon</td><td>2011</td><td>Active</td></tr>
-<tr><td>Morgan Hunter</td><td>United States, MO, Kansas City</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Morgan Stanley</td><td>United States, NY, New York City - Downtown</td><td>2013</td><td>Active</td></tr>
-<tr><td>Morgunblaðið</td><td>Iceland, Reykjavik</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Mortgage Desk, Inc.</td><td>United States, IL, Chicago</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Moss Search</td><td>United States, IL, Chicago</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Moss Search, LTD</td><td>United States, IL, Chicago</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Mount Recruitment Limited</td><td>United Kingdom, Derbyshire</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Mountain News</td><td>United States, CA, Orinda</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Mountain News Corp.</td><td>United States, Ca, Orinda</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Mountain News Corporation</td><td>United States, CA, Orinda</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Mountain News Corporation, Vail Resorts</td><td>United States, CO, Broomfield</td><td>2011</td><td>Active</td></tr>
-<tr><td>Move</td><td>Los Angeles</td><td>2012</td><td>Active</td></tr>
-<tr><td>Moving Interactive</td><td>Undefined</td><td>2013</td><td>Active</td></tr>
-<tr><td>Mozilla Corporation</td><td>United States, CA, Mountain View</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Mullangi Technologies</td><td>India, Andhra Pradesh, Visakhapatnam</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Mullangi Technologies Pvt. Ltd</td><td>India, Andhra Pradesh, Visakhapatnam</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Multi Service</td><td>United States, Kansas, Overland Park</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Multi Service </td><td>United States, KS, Overland Park</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Multi Service Corp.</td><td>United States, Kansas, Overland Park</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Multi Service Corporation</td><td>United States, Kansas, Overland Park</td><td>2012</td><td>Active</td></tr>
-<tr><td>Multimap</td><td>United Kingdom, London</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Multimap.com</td><td>Turkey, Istanbul</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Multinational Bank</td><td>Singapore, Singapore</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Multiple Confidential Companies</td><td>Greater Toronto Area</td><td>2011</td><td>Active</td></tr>
-<tr><td>Multiply</td><td>United States, Florida, Boca Raton</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Multiply, Inc.</td><td>United States, Florida, Boca Raton</td><td>2011</td><td>Active</td></tr>
-<tr><td>Multiply.com</td><td>United States, FL, Boca Raton</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Musician's Friend, Inc.</td><td>United States, Oregon, Medford</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>MyCity Networks</td><td>United States, FL, Miami</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>MyGuides Ltd</td><td>United Kingdom, London</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>MySQL</td><td>United States, California, Cupertino</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>MySQL AB</td><td>Sweden, Uppsala</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>MyTrip LLC</td><td>Telecommute</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>N/A</td><td>United States, WA, Seattle</td><td>2011</td><td>Active</td></tr>
-<tr><td>NA</td><td>MI, Novi</td><td>2011</td><td>Active</td></tr>
-<tr><td>NAPC</td><td>United States, ma, Waltham</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>NCCI</td><td>Boca Raton, FL, UNITED STATES</td><td>2013</td><td>Active</td></tr>
-<tr><td>NCsoft</td><td>United States, Texas, Austin</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>NEC Europe Ltd</td><td>United Kingdom, Acton, London</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>NEDSTAT</td><td>The Netherlands, Amsterdam</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>NEOPOST Loop One</td><td>United States, TX, austin</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>NET-A-PORTER</td><td>United Kingdom, London</td><td>2012</td><td>Active</td></tr>
-<tr><td>NET-A-PORTER </td><td>This role is based in our Head Office in W12.  </td><td>2011</td><td>Active</td></tr>
-<tr><td>NET-A-PORTER.COM</td><td>UK , Londnon</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>NET-A-PORTER.COM </td><td>London </td><td>2010</td><td>Inactive</td></tr>
-<tr><td>NETPIXEL</td><td>United States, NY, New York</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>NETbuilder</td><td>Swindon, Wiltshire, UK</td><td>2012</td><td>Active</td></tr>
-<tr><td>NEW YORK UNIVERSITY</td><td>United States, NY, NEW YORK</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>NEWTEC</td><td>BELGIUM, OOST VLAANDEREN, SINT NIKLAAS</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>NHBS Environment Bookstore</td><td>United Kingdom, Devon, Totnes</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>NIH/SAIC-Frederick</td><td>United States, Maryland, Frederick</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>NSA Search</td><td>USA, CA, San Diego</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>NSK Inc. </td><td>MA, Boston</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>NSOMedia</td><td>United States, Texas, Houston</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>NTA Monitor (M) Sdn Bhd</td><td>Malaysia, Bukit Jalil, Kuala Lumpur</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>NTA Monitor Ltd</td><td>United Kingdom, Kent, Rochester</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>NTA-Monitor</td><td>United Kingdom, Kent, Rochester</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>NTT / Verio</td><td>United States, FL, Boca Raton</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>NTT / Verio, Inc.</td><td>United States, FL, Boca Raton</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>NTT America</td><td>United States, TX, Dallas</td><td>2011</td><td>Active</td></tr>
-<tr><td>NTT DATA</td><td>Princeton, NJ, USA</td><td>2012</td><td>Active</td></tr>
-<tr><td>NTT Europe</td><td>United Kingdom, London / Cornwall, London / Cornwall</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>NTT Multimedia Communications Laboratories, Inc.</td><td>United States, CA, Palo Alto</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>NTT/Verio</td><td>United States, FL, Boca Raton</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>NUS Consulting</td><td>Australia, NSW, Sydney</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>NVIDIA</td><td>United States, CA, Santa Clara</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>NVIDIA GRAPHICS PVT LTD.</td><td>Bangalore, Karnataka, India</td><td>2013</td><td>Active</td></tr>
-<tr><td>NVIDIA Graphics Pvt Ltd</td><td>India, Karnataka, Bangalore</td><td>2012</td><td>Active</td></tr>
-<tr><td>NYC Human Resources Administration</td><td>United States, NY, BROOKLYN</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>NYC Software firm</td><td>New York, NY, USA</td><td>2012</td><td>Active</td></tr>
-<tr><td>NYITRECRUIT</td><td>United States, CT, Stamford</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Naama Networks</td><td>United States, NY, Brooklyn</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Nami Media</td><td>United States, CA, Los Angeles</td><td>2012</td><td>Active</td></tr>
-<tr><td>Nando Media</td><td>United States, NC, Raleigh</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Napster</td><td>United States, CA, Los Angeles & San Diego</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>National Adult Literacy Database Inc. (NALD)</td><td>Canada, New Brunswick, Fredericton</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>National Auto Sport Association</td><td>United States, CA, Richmond</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>National Fitness</td><td>United States, UT, Layton</td><td>2013</td><td>Active</td></tr>
-<tr><td>National Institue on Aging (NIH)</td><td>United States, MD, Baltimore</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>National Institute on Aging (NIH)</td><td>Baltimore, MD</td><td>2011</td><td>Active</td></tr>
-<tr><td>National Public Radio</td><td>United States, District of Columbia, Washington</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Nature Publishing Group</td><td>New York, NY</td><td>2013</td><td>Active</td></tr>
-<tr><td>Navicom Inc.</td><td>Canada, Ontario, Markham</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Nayland Group</td><td>United States, Maryland, Montgomery County</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Nebtrex Distribution</td><td>Australia, Queensland, Brisbane</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Nedstat</td><td>Netherlands, Noord Holland, Amsterdam</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Neitzert</td><td>Sweden, Västmaland, Västerås </td><td>2011</td><td>Active</td></tr>
-<tr><td>NeoNova Network Services</td><td>United States, North Carolina, Raleigh/RTP</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>NeoReality, Inc.</td><td>United States, FL, Fort Myers</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Neohire.com</td><td>Remote or Santa Monica, Ca</td><td>2013</td><td>Active</td></tr>
-<tr><td>Nerds On Site</td><td>Canada, Ontario, Toronto</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Nesco Resource</td><td>United States, CA, Campbell</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Net Affinity</td><td>Ireland, Dublin, Dublin</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Net Affinity Limited</td><td>Ireland, Dublin, Dublin</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Net Natives</td><td>United Kingdom, London</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Net Stores</td><td>United Kingdom, Newcastle upon Tyne</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Net Stores Ltd</td><td>UK, </td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Net-A-Porter Group Ltd</td><td>W12, London, United Kingdom</td><td>2012</td><td>Active</td></tr>
-<tr><td>Net2Business, llc</td><td>United States, Kansas, Overland Park</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Net2Business,llc</td><td>United States, Kansas, Overland Park</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>NetAPP </td><td>United States, NC, RTP</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>NetApp</td><td>United States, NC, RTP</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>NetBanx Limited</td><td>United Kingdom, Cambridge</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>NetBanx Ltd</td><td>United Kingdom, Cambridgshire, Cambridge</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>NetCentral</td><td>United States, TN, Nashville</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>NetCentral, Inc.</td><td>United States, TN, Nashville</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>NetChemistry</td><td>United States, CA, Newport Beach</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>NetCore Solutions </td><td>Mumbai, Maharashtra, Mumbai</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>NetEffects</td><td>United States, Missouri, St. Louis</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>NetLine Corporation</td><td>United States, California, Boulder Creek</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>NetMark Intl.</td><td>United States, n/a, n/a</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>NetMarkPro International</td><td>United States</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>NetNames</td><td>Texas, Dallas</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>NetPixel Inc.</td><td>United States, NY, New York</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>NetShelter, Inc.</td><td>Canada, Ontario, Toronto</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>NetSlave GmbH</td><td>Germany, 10437 Berlin</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>NetStores</td><td>United States, OR, Eugene</td><td>2013</td><td>Active</td></tr>
-<tr><td>NetSuite</td><td>Brno, Czech Republic</td><td>2011</td><td>Active</td></tr>
-<tr><td>NetSuite / OpenAir</td><td>United States, MA, Boston</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>NetTrust</td><td>United States, MD, Baltimore</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>NetTrust Logistics</td><td>United States, MD, Baltimore</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>NetTrust, Inc</td><td>United States, MD, Baltimore</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>NetTrust, Inc.</td><td>United States, MD, Baltimore</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Netblue, Inc.</td><td>United States, CA, Mountain View</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Netcentric Computer Solutions</td><td>UNITED STATES - Remote Work into NYC</td><td>2011</td><td>Active</td></tr>
-<tr><td>Netcom Information Technology</td><td>United States, NY, New York</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Netcraft</td><td>United Kingdom, Somerset, Bath</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Neteffekt e.K.</td><td>Germany, Saarland, Saarbrücken</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Netflix</td><td>United States, CA, Los Gatos</td><td>2011</td><td>Active</td></tr>
-<tr><td>Netmark International</td><td>United States, Alaska, Anchorage</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Netmark Intl.</td><td>United States, Alaska, Anchorage</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Netmarkpro Global</td><td>United States, n/a, n/a</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Netpixel Inc</td><td>United States, NJ, New Providence</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Netpixel Inc.</td><td>United States, New Jersey, Warren</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Netrition, Inc.</td><td>United States, MD, Eldersburg</td><td>2011</td><td>Active</td></tr>
-<tr><td>Netrition.com</td><td>Eldersburg, MD</td><td>2012</td><td>Active</td></tr>
-<tr><td>Netspace</td><td>Australia, VIC, Melbourne</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Netspace Online Systems Pty Ltd</td><td>Australia, Victoria, Melbourne</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Netspective Communications LLC</td><td>United States, DC, Washington</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Netsuite</td><td>Brno, Czech Republic</td><td>2012</td><td>Active</td></tr>
-<tr><td>Nettrust</td><td>United States, MD, Baltimore </td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Nettrust Engineering</td><td>United States, MD, Baltimore</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Netvision Resources Inc</td><td>United States, VA, Chantilly</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Netvision Resources Inc.</td><td>Fairfax, VA, Herndon</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Network Appliance</td><td>United States, CA, Sunnyvale</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Network Diagnostic Clinic</td><td>United States, IL, Palatine</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>Network Dynamics</td><td>United States, CA, Los Angeles</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Network Dynamics Corp</td><td>United States, California, Santa Monica</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Network Security Company</td><td>United States, CA, San Jose</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Network Solutions</td><td>Berkshire Way, UK</td><td>2012</td><td>Active</td></tr>
-<tr><td>New England Interactive</td><td>United States, RI, Providence</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>New Generation Media, LLC</td><td>United States, CA, Santa Rosa</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>New Haven Progress</td><td>United States, CT, New Haven</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>New Internationalist</td><td>United Kingdom, Oxon, Oxford</td><td>2012</td><td>Active</td></tr>
-<tr><td>New Millennium Inc</td><td>United States, Virginia, Vienna</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>New Vibrations</td><td>Portugal, Lisbon, Lisbon</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>New York Magazine</td><td>United States, NY, New York</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>New York Media (New York Magazine</td><td>United States, NY, New York</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>NewGen Technologies</td><td>United States, VA, Tysons Corner</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Newcastle Infotech</td><td>Australia, New South Wales, Newcastle</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>News</td><td>United States, NY, New York</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>News & Observer/Triangle.com</td><td>United States, NC, Raleigh</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>News Digital Media</td><td>Australia, NSW, Sydney</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>News Interactive</td><td>Australia, NSW, Sydney</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>NewsNow Publishing Limited</td><td>United Kingdom, UK, London, South West London</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>NexStar</td><td>United States, TX, Dallas</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Nexgen Wireless, Inc.</td><td>Schaumburg, IL</td><td>2013</td><td>Active</td></tr>
-<tr><td>Next Internet LLC</td><td>United States, CA, Mountain View</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Next Wave LLC</td><td>United States, WI, Madison</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>NextEd Pty Ltd.</td><td>Australia, New South Wales, Sydney</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>NextNine</td><td>United States, NY, New York</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Nextrials</td><td>United States, California, San Ramon</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Nextrials, Inc</td><td>United States, CA, San Ramon</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Nextrials, Inc.</td><td>United States, CA, San Ramon</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Nexus Business Media</td><td>United Kingdom, Kent, Swanley</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Nexus Media Communications</td><td>United Kingdom, Kent, Swanley</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Nexus Media Communications Ltd</td><td>United Kingdom, Kent, Swanley</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Nexus6 Software PTY LTD</td><td>Australia, Vic, Fitzroy, Melbourne</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Niche Consulting</td><td>india, TN, chennai</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Nick Temple</td><td>United States, Kentucky, Louisville</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Nicolary and Associates LLC</td><td>United States, PA, Philadelphia</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Nicoll Curtin - Andrew Johnstone - 0207 3970191</td><td>London, UK ( City of London )</td><td>2011</td><td>Active</td></tr>
-<tr><td>Nicoll Curtin Technology</td><td>United Kingdom, London</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Niconetworks.com</td><td>United States, DC, Washington</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Nielsen Business Media</td><td>United States, New York, New York City</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Night Kitchen Media</td><td>United States, PA, Philadelphia</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Nimble Storage</td><td>San Jose, CA</td><td>2012</td><td>Active</td></tr>
-<tr><td>Nitro</td><td>Australia, New South Wales, Sydney</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Nixle.com</td><td>United States, CA, San Francisco</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Nixus Soluções em Internet</td><td>Brazil, SP, São Paulo</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Noble Vision</td><td>United States, VA, Manassas</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>None yet</td><td>United States, California, Palo Alto</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>NorCa</td><td>Germany, Berlin, Berlin</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Norchem</td><td>Flagstaff, AZ, USA</td><td>2012</td><td>Active</td></tr>
-<tr><td>Norchem Drug Testing</td><td>United States, AZ, Flagstaff</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Norchem Labs, Inc.</td><td>Flagstaff, AZ</td><td>2012</td><td>Active</td></tr>
-<tr><td>Normandeau Associates Inc</td><td>Gainesvile, FL</td><td>2012</td><td>Active</td></tr>
-<tr><td>Northwestern University</td><td>United States, Illinois, Chicago</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Not Applicable</td><td>Guatemala, Solola, San Pedro</td><td>2011</td><td>Active</td></tr>
-<tr><td>Not Disclosed</td><td>United Kingdom, London</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Not disclosed</td><td>United States, Arizona, tucson</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Novate IT</td><td>United Kingdom, Lincoln</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Novate IT Ltd</td><td>United Kingdom, London</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Novator</td><td>canada, Ontario, Toronto</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Novator Systems</td><td>Canada, Ontario, Toronto</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Novator Systems Ltd</td><td>Canada, Ontario, Toronto</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Novator Systems Ltd.</td><td>Canada, Ontario, Toronto</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Novozymes</td><td>Bagsværd, København, Denmark</td><td>2012</td><td>Active</td></tr>
-<tr><td>Novozymes A/S</td><td>Denmark, Bagsvaerd / Copenhagen</td><td>2012</td><td>Active</td></tr>
-<tr><td>Novus</td><td>United States, NY, New York</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Nuance Communications</td><td>Canada, Quebec, Montreal</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Nulinx</td><td>United States, California, Sherman Oaks</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Nulinx International Inc.</td><td>Tarzana, CA, United States</td><td>2012</td><td>Active</td></tr>
-<tr><td>Nulinx It'l Inc.</td><td>United States, California, Los Angeles</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Numara Software</td><td>United States, NJ or FL, Edison or Tampa</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>NumbersUSA</td><td>United States, NY, Corning</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Numedeon, Inc. Whyville.net</td><td>United States, California, Pasadena</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Numentica LLC</td><td>United States, CA, Sherman Oaks</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Nuventure Technology Solutions Pvt Ltd</td><td>Kochi, India</td><td>2013</td><td>Active</td></tr>
-<tr><td>Nvidia</td><td>United States, CA, Santa Clara</td><td>2011</td><td>Active</td></tr>
-<tr><td>O'Neil & Associates</td><td>United States, OH, Miamisburg</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>O'Neil & Associates, Inc</td><td>United States, OH, Miamisburg</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>O'Neil & Associates, Inc.</td><td>United States, OH, Miamisburg</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>O'Neil and Associates</td><td>United States, OH, Miamisburg</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>O'Reilly & Associates</td><td>United States, CA, Sebastopol</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>O'Reilly & Associates, Inc.</td><td>United States, CA, Sebastopol</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>O'Reilly Media, Inc.</td><td>United States, CA, Sebastopol</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>O'Reilly School of Technology</td><td>United States, MO, Saint Louis (Telecommute OK)</td><td>2011</td><td>Active</td></tr>
-<tr><td>O.P.S</td><td>India, Karnataka, Bangalore</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>OANDA</td><td>Canada, Ontario, Toronto</td><td>2011</td><td>Active</td></tr>
-<tr><td>OANDA (Canada)  Corporation ULC</td><td>Canada, Ontario, Toronto</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>OANDA Corp Canada</td><td>Toronto, ON - King St W & Peter St</td><td>2012</td><td>Active</td></tr>
-<tr><td>OANDA Corporation</td><td>Canada, Ontario, Toronto</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>ODS Group</td><td>Ukraine, Kyiv, Kyiv</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>ODYC Tech</td><td>United States, UT, Salt Lake City</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>ODesk</td><td>Redwood City, CA</td><td>2013</td><td>Active</td></tr>
-<tr><td>OK Serivces</td><td>United States, Tennessee, Knoxville</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>OMSOFT Network Technologies, Inc.</td><td>United States, CA, Sunnyvale</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>OND Inc</td><td>United States, or, portland</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>ONSITE! Technology</td><td>United States, OR, Portland</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>ORACLE India Pvt. Ltd.</td><td>INDIA, Andhra Pradesh, Hyderabad</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>ORION Scientific System</td><td>United States, NC, Fayetteville</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>ORION Scientific Systems</td><td>United States, NC, Fayetteville</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>OSATech</td><td>Boxborough, MA, USA</td><td>2012</td><td>Active</td></tr>
-<tr><td>OSF Global Services</td><td>Romania</td><td>2012</td><td>Active</td></tr>
-<tr><td>OSL</td><td>London - United Kingdom</td><td>2013</td><td>Active</td></tr>
-<tr><td>OSLO Ltd</td><td>Ireland, Dublin</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>OSMIS</td><td>United Kingdom, North Yorkshire, Harrogate</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>OSMIS Ltd</td><td>England, UK, North Yorkshire, Harrogate</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>OSP</td><td>United Kingdom, London, UK</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>OSS</td><td>United States, CA, Belmont</td><td>2012</td><td>Active</td></tr>
-<tr><td>OSS (Recruiter)</td><td>United States, NY, New York</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>OSS (client)</td><td>United States, MA, Boston</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>OSS Client</td><td>United States, UT, Park City</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>OST</td><td>United States, NJ, Jersey City</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>OTM Software Professionals, Inc.</td><td>United States, Ca, San Jose</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>OTRS AG</td><td>Bad Homburg</td><td>2012</td><td>Active</td></tr>
-<tr><td>OTRS BV</td><td>Leiden, The Netherlands</td><td>2012</td><td>Active</td></tr>
-<tr><td>OTRS GmbH</td><td>Germany, Bad Homburg/Straubing</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>OVERLOG</td><td>Italy, Udine, Buttrio</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>OWN: The Oprah Winfrey Network</td><td>United States, CA, Los Angeles</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>OZ Capital</td><td>10019, NY, New York</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Oakbox Productions</td><td>Netherlands, Breda</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Oakley, Inc.</td><td>United States, CA, Foothill Ranch (south orange county)</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>Oasys Consulting </td><td>Canada, Northern Ontario</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Oasys Soft</td><td>Spain, Catalunya, Barcelona</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Object Resources Inc</td><td>United States, WA, Seattle</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Object Resources, Inc</td><td>United States, WA, Seattle</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Obtiva Corporation</td><td>United States, IL, Wheaton</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Ocarina Networks</td><td>United States, CA, San Jose </td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Ocarina Networks, Inc.</td><td>United States, CA, San Jose</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>OctoGate Security Systems GmbH</td><td>Germany, NRW, Paderborn</td><td>2011</td><td>Active</td></tr>
-<tr><td>Oddesse, Inc</td><td>United States, CA, Chatsworth</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Odesus</td><td>United States, CA, West LA</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Odyssey Consulting</td><td>United States, DE, Newark</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Odyssey Consulting Services</td><td>United States, OH, Columbus</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Odyssey Information Services</td><td>Columbus, OH</td><td>2012</td><td>Active</td></tr>
-<tr><td>Odyssey Information Services, Inc.</td><td>FL, Tampa</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Odysseyconsulting</td><td>United States, Ohio, Columbus</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Ohio State Bar Association</td><td>United States, OH, Columbus</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Old Colony LIbrayr Network</td><td>United States, MA, Braintree</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Olenick & Associattes</td><td>United States, IL, Rosemont</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Olreston Associates </td><td>United Kingdom, UK, London</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Olympic Software</td><td>United States, New York, New York</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Omni Resources</td><td>United Kingdom, London</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Omni Resources Limited</td><td>Surrey</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>OmniTI</td><td>United States, MD, Columbia</td><td>2012</td><td>Active</td></tr>
-<tr><td>OmniTI Computer Consulting</td><td>United States, NY, Brooklyn</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>OmniTI Computer Consulting, Inc.</td><td>United States, NY, Brooklyn</td><td>2011</td><td>Active</td></tr>
-<tr><td>Omnicom Media Group UK</td><td>London, UK</td><td>2012</td><td>Active</td></tr>
-<tr><td>Omniti Computer Consulting</td><td>United States, MD, Columbia</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>On Track Projects</td><td>Australia, Queensland, Brisbane</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>On-to-One Staffing, Inc.</td><td>United States, CA, San Francisco</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Ondova Ltd.</td><td>United States, TX, Carrollton</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>One Step Beyond</td><td>United States, Colorado, Denver</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>One of the Global Top 5 IT Consulting Firms</td><td>INDIA</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>OneUpWeb</td><td>United States, Michigan, Lake Leelanau</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Oneil & Associates</td><td>United States, Ohio, Miamisburg</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Oneupweb</td><td>United States, Michigan, Traverse City</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Oneupweb, LLC</td><td>United States, MI, Suttons Bay</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Online Advertising Client</td><td>United States, NY, New York</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Online Galleries</td><td>United Kingdom, London</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Online Galleries Ltd</td><td>United Kingdom, Bedford</td><td>2012</td><td>Active</td></tr>
-<tr><td>Online Galleries Ltd.</td><td>United Kingdom, London, London</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Online Networking Company</td><td>United States, CA, San Francisco</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Online Solutions Limited</td><td>Hungary, Budapest</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Online Talent Manager</td><td>The Netherlands, Breda</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Onsight</td><td>United States, IL, Chicago</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Ontri.com</td><td>MA, Boston</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Onward Technologies</td><td>United States, WI, Madison</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Oodle</td><td>United States, CA, San Mateo</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Oodle, Inc. </td><td>United States, California, San Mateo</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Oortle Inc.</td><td>United States, CA, Berkeley</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Open Data Resources</td><td>Northern Virginia</td><td>2011</td><td>Active</td></tr>
-<tr><td>Open Informatics</td><td>India, Karnataka, Bangalore</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Open Interface North America</td><td>United States, Washington, Seattle</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Open List, Inc.</td><td>United States, N.Y., New York</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Open Mortgage</td><td>Austin, TX, United States</td><td>2013</td><td>Active</td></tr>
-<tr><td>Open Network Design</td><td>United States, CA, LA</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Open Select Recruitment</td><td>London, United Kingdom</td><td>2013</td><td>Active</td></tr>
-<tr><td>Open Select Recruitment (www.osrecruit.com)</td><td>United Kingdom, London</td><td>2011</td><td>Active</td></tr>
-<tr><td>Open Select Recruitment / www.osrecruit.com</td><td>London, United Kingdom</td><td>2012</td><td>Active</td></tr>
-<tr><td>Open Select Recruitment | www.osrecruit.com</td><td>London, United Kingdom</td><td>2013</td><td>Active</td></tr>
-<tr><td>Open Select Recruitment | www.osrecruit.com </td><td>United Kingdom, London</td><td>2011</td><td>Active</td></tr>
-<tr><td>Open Source Consulting, LLC</td><td>United States, CA, San Jose</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Open Source People</td><td>United Kingdom, London</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>Open Source People Ltd</td><td>United Kingdom, UK, London</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Open Source Staffing</td><td>United States, NY, New York</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Open Source Staffing (client)</td><td>United States, NJ, Marlboro</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Open Systems</td><td>United States, MA, Andover</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Open Systems Technologies</td><td>United States, NJ, Jersey City</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>OpenAir</td><td>United States, MA, Boston</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>OpenAir Inc.</td><td>United States, MA, Boston</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>OpenCrypt.com</td><td>United Kingdom, Suffolk</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>OpenCrypt.com (ionix Limited)</td><td>United Kingdom, Suffolk, Woodbridge</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>OpenVS</td><td>Australia, Queensland, Brisbane</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>OpenX</td><td>Pasadena, CA</td><td>2012</td><td>Active</td></tr>
-<tr><td>Opera Software</td><td>Sweden, Gothenburg</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Opera Software ASA</td><td>Norway, Oslo, Oslo</td><td>2012</td><td>Active</td></tr>
-<tr><td>Opsera Limited</td><td>United Kingdom, Reading</td><td>2011</td><td>Active</td></tr>
-<tr><td>Opsview</td><td>Reading, Berkshire, United Kingdom</td><td>2012</td><td>Active</td></tr>
-<tr><td>Opsview Limited</td><td>Reading, Berkshire, UK</td><td>2013</td><td>Active</td></tr>
-<tr><td>Opsview Ltd</td><td>Reading, Berkshire, United Kingdom</td><td>2012</td><td>Active</td></tr>
-<tr><td>Opsware</td><td>United States, WA, Redmond</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Opsware, Inc.</td><td>United States, Washington, Redmond</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Opta Sportsdata</td><td>England, United Kingdom, London</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Optimal Solutions Integration</td><td>United States, Texas, Irving</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Optimize My Site</td><td>United States, UT, Salt Lake City</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Optimum Solutions</td><td>Pune - India</td><td>2012</td><td>Active</td></tr>
-<tr><td>Optimum Solutions (S) Pte Ltd </td><td>Singapore, Singapore</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Optimum Solutions (S) Pte Ltd.,</td><td>Singapore, Singapore</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Optimum Solutions Pte Ltd</td><td>Singapore, Singapore</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Optimus Search</td><td>Germany, Netherlands, Belgium, Luxembourg</td><td>2013</td><td>Active</td></tr>
-<tr><td>Optimus Search on Behalf of Global Internet Client</td><td>North Germany</td><td>2012</td><td>Active</td></tr>
-<tr><td>Optus</td><td>Australia, NSW, Sydney</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Optus Internet Engineering</td><td>Australia, NSW, Chatswood</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Opus Healthcare Solutions</td><td>United States, TX, Austin</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Opus Healthcare Solutions, Inc.</td><td>United States, Texas, Austin</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Opus Healthcare Soultions</td><td>United States, Texas, Austin</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Opus Resourcing (Employment Agency)</td><td>UK , London </td><td>2010</td><td>Inactive</td></tr>
-<tr><td>OpusVL</td><td>Rugby, United Kingdom</td><td>2012</td><td>Active</td></tr>
-<tr><td>Oracle</td><td>United States, CA, Redwood Shores</td><td>2011</td><td>Active</td></tr>
-<tr><td>Oracle Corporation</td><td>United States, CA, Redwood Shores</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Oracle India Pvt Ltd</td><td>INDIA, KARNATAKA, BANGALORE</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Oracle Software India</td><td>India, Andhra Pradesh, Hyderabad</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Orastaff</td><td>United States, California, San Mateo (Bay area)</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Orasys Solutions, Inc.</td><td>United States, NY, New York</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Orbis Resourcing</td><td>London</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Orchestream</td><td>United Kingdom, Middx, London</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Orchesys, Inc.</td><td>United States, CA, Sunnyvale</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Orelston Associates </td><td>UK , London</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Oriel Technologies</td><td>Australia, NSW, Sydney</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Orinoco KK</td><td>Japan, Tokyo</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Orinoco Systems LLC</td><td>Deerfield, IL</td><td>2011</td><td>Active</td></tr>
-<tr><td>Orion Holding Overseas</td><td>United Arab Emirates, Dubai, Dubai</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Orion TradeSoft</td><td>United Arab Emirates, Dubai</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Orion Tradesoft</td><td>United Arab Emirates, Dubai</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Orleston</td><td>London</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Orleston </td><td>Ireland, Limeric</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Orleston Asociates </td><td>United Kingdom , London </td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Orleston Assciates </td><td>United Kingdom, London </td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Orleston Asscociates Ltd.</td><td>London, KY, USA</td><td>2011</td><td>Active</td></tr>
-<tr><td>Orleston Assocaites </td><td>United Kingdom, London</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Orleston Associaiates </td><td>United Kingdom, London</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Orleston Associates</td><td>United Kingdom, London</td><td>2012</td><td>Active</td></tr>
-<tr><td>Orleston Associates </td><td>United Kingdom, London </td><td>2011</td><td>Active</td></tr>
-<tr><td>Orleston Associates Ltd</td><td>United Kingdom, London</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Orleston Associates Ltd </td><td>United Kingdom , London </td><td>2011</td><td>Active</td></tr>
-<tr><td>Orleston Associates Ltd.</td><td>United Kingdom, London, London</td><td>2013</td><td>Active</td></tr>
-<tr><td>Orleston Associates Ltd. </td><td>United Kingdom UK , London </td><td>2011</td><td>Active</td></tr>
-<tr><td>Orleston Associates ltd </td><td>UK , London </td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Oscar Associates</td><td>United Kingdom, LONDON</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Oscar Associates Ltd</td><td>United Kingdom, Lancashire, Manchester</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Our client</td><td>France, Paris</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Outblaze LTD</td><td>Hong Kong SAR (China), Hong Kong, Hong Kong</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Outcome Technologies</td><td>United Kingdom, London</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Outcome Technologies Ltd</td><td>England, UK, Holborn, London</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Outdoor Central</td><td>United States, TN, Nashville</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Outlines West</td><td>United States, WA, Bellevue</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Oversee.Net</td><td>United States, CA, Los Angeles</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Oversee.net</td><td>United States, CA, Los Angeles</td><td>2012</td><td>Active</td></tr>
-<tr><td>Overton's, Inc</td><td>United States</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Overture</td><td>United States, CA, Pasadena</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Overture Services, a Yahoo! Company</td><td>CA, Pasadena</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Overture a Yahoo! Company</td><td>Ca, Pasadena</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Overture a Yahoo! company</td><td>United States, Ca, Pasadena</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Overture, Inc</td><td>United States, CA, Pasadena</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Overture, a Yahoo! Company</td><td>United States, CA, Pasadena</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Ovid Technologies/Wolters Kluwer</td><td>United States, New York, New York City</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Oxford & Associates</td><td>United States, IL, Chicago</td><td>2011</td><td>Active</td></tr>
-<tr><td>Oxford University Computing Services</td><td>United Kingon, Oxford</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Oxford University Press</td><td>United Kingdom, Oxford</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Oxide.NET Web Hosting</td><td>United States, CO, Florissant</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>P J L Systems Ltd</td><td>United Kingdom, London</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>P. Murphy & Associates</td><td>United States, CA, Los Angeles</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>PA College of Technology</td><td>Williamsport, PA, United States</td><td>2013</td><td>Active</td></tr>
-<tr><td>PBDG</td><td>United States, NY, new york</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>PBS</td><td>United States, VA, Arlington</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>PCD Group</td><td>United States, Oregon, Portland</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>PCR Recruitment</td><td>United Kingdom, Berkshire, Slough</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>PDA SEARCH AND SELECTION LIMITED </td><td>United Kingdom , London, Wimbledon</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>PDI/DreamWorks Animation</td><td>United States, California, Redwood City</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>PDI/DreamWorks Animation, SKG</td><td>United States, California, Redwood City  (San Francisco area)</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>PEARSON</td><td>United States, MA, Boston</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>PGI Interactive</td><td>Canada, BC, Vancouver</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>PGM Staffing Solutions</td><td>United Kingdom, Berkshire, Reading</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>PHR</td><td>United States, Ney York, New York</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>PIM</td><td>United States, CA, Sacramento</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>PIREH/LAMOP (CNRS - UMR 8589)</td><td>France, Paris/Villejuif</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>PKSI</td><td>United States, IL, Chicago</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>PLATO Learning</td><td>United States, CA, San Diego</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>PLAY Method LLC</td><td>New York City</td><td>2012</td><td>Active</td></tr>
-<tr><td>PMSI Direct</td><td>United States, NJ, Springfield</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>PPS, Inc</td><td>United States, WI, Milwaukee Metro </td><td>2008</td><td>Dormant</td></tr>
-<tr><td>PRA</td><td>Melbourne VIC, Australia</td><td>2012</td><td>Active</td></tr>
-<tr><td>PRG</td><td>United States, NJ, Secaucus</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>PRIME IT CONSULTING</td><td>Portugal, Lisbon, Lisbon</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>PRIMEDIA</td><td>United States, NY, New York</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>PROEX Inc. (on behalf of my client in the publishing industry)</td><td>Toronto, ON, Canada</td><td>2011</td><td>Active</td></tr>
-<tr><td>PRP LLC</td><td>Romania, Cluj, Cluj-Napoca</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>PS Computer Services</td><td>United Kingdom, Bradford/Leeds</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>PSC</td><td>U.K, London</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>PSM Inc.</td><td>United States, CT, Stamford</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>PT Systems</td><td>United States, CA, San Francisco</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>PT. Inzpire</td><td>Indonesia, DKI Jakarta, Jakarta</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>PT.COM</td><td>Portugal, Lisbon</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Pacific Benefits Group NW</td><td>United States, Or, Beaverton</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Pacific Southwest Research Station, U.S. Forest Service</td><td>U.S., California, Arcata</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>Paginas World Wide Web</td><td>n/a, n/a, n/a</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Palm Digital Media</td><td>United States, MA, Maynard</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Palm Inc.</td><td>United States, MA, Andover</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>PalmVid.com</td><td>United States, CO, Colorado Springs</td><td>2011</td><td>Active</td></tr>
-<tr><td>Panther Consult</td><td>Austria, Vienna, Vienna</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Paradigm Healthcare Services</td><td>United States, CA, San Francisco</td><td>2011</td><td>Active</td></tr>
-<tr><td>Paradigma Tecnologico</td><td>España, Madrid, Pozuelo de Alarcón</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Paradigma Tecnológico</td><td>Spain, Madrid, Pozuelo de Alarcón</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Paragon IT</td><td>United Kingdom, Bristol</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Parallel HR</td><td>United States, NY, New York City</td><td>2011</td><td>Active</td></tr>
-<tr><td>Parallel HR Solutions</td><td>United States, New York, New York</td><td>2012</td><td>Active</td></tr>
-<tr><td>Parallel HR Solutions, Inc.</td><td>United States, NY, Manhattan - NY</td><td>2011</td><td>Active</td></tr>
-<tr><td>Parallel Technologies</td><td>United States, MN, St. Louis Park</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Parity Resources</td><td>Cardiff</td><td>2012</td><td>Active</td></tr>
-<tr><td>Parker Services</td><td>King , WA, Seattle</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Parker Technical</td><td>United States, WA, Seattle</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Paros Business Partners</td><td>United States, OH, Columbus</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Parus Interactive</td><td>United States, IL, Bannockburn</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Passalong Networks</td><td>United States, WA, Seattle</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Pathmedia</td><td>United Kingdom, London</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Paul May and Asociates</td><td>United States, Arizona, Phoenix</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Paxfire</td><td>United States, VA, Sterling</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Paxfire Inc</td><td>United States, VA, Herndon</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Paxfire, Inc</td><td>United States, VA, Herndon</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Paxfire, Inc.</td><td>United States, VA, Sterling</td><td>2011</td><td>Active</td></tr>
-<tr><td>Paxus</td><td>Australia, VIC, Melbourne</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>PayQuik, Inc.</td><td>United States, PA, Bala Cynwyd</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Paylocity</td><td>United States, IL, Elk Grove Village</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Peak Internet Solutions</td><td>United States, Colorado, Woodland Park</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Peak Recruit</td><td>United States, CA, Bay Area</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Peapod Studios Inc.</td><td>Canada, Alberta, Calgary</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>PearZoo</td><td>South Africa, Gauteng, Johannesburg</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>PearZoo Marketing</td><td>South Africa, Gauteng, Johannesburg</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Pearson</td><td>United States, MA, Boston</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Pearson Education</td><td>United States, MA, Boston</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Pearson Learning Technologies</td><td>Boston, MA</td><td>2012</td><td>Active</td></tr>
-<tr><td>Pegasus Global</td><td>Australia, NSW, Sydney</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Pegasus Knowledge Solutions Inc.</td><td>United States, IL, Schaumburg</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Pegasus Solutions, Inc.</td><td>United States, TX, Dallas</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Pelican Parts</td><td>Torrance, CA</td><td>2013</td><td>Active</td></tr>
-<tr><td>Pencom</td><td>United States, NY, NYC</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Pencom Systems Inc.</td><td>United States, NY, New York</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Pencom Systems Incorporated</td><td>United States, NY, New York</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Pengas LLC</td><td>United States, Los-Angeles</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Pent Net Pty Ltd</td><td>Australia, NSW, Sydney</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Penta</td><td>United Kingdom, UK, london</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Penta Consulting</td><td>UK - England, London</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>PentaCan</td><td>Canada, ONTARIO, Toronto</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Penthouse Internet</td><td>United States, CA, Sunnyvale</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Penthouse Media Group, Inc.</td><td>United States, New York, New York</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>People Associates Sdn Bhd</td><td>Malaysia, Kuala Lumpur, Kuala Lumpur</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>People Direct</td><td>United Kingdom, London, London</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>People Direct Recruitment</td><td>Engalnd, UK, London</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>People-Direct</td><td>United Kingdom, London, London</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>PeopleCO</td><td>United Kingdom, West London, London</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>PeopleCo</td><td>United Kingdom, London</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>PeopleSeePeople</td><td>Brooklyn, NY, USA</td><td>2012</td><td>Active</td></tr>
-<tr><td>PeopleSight</td><td>United States, CA, Newport Beach</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Peoplebank Recruitment</td><td>Australia, Victoria, Melbourne </td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Peregrine Computer Consultants Corp.</td><td>United States, Virginia, Fairfax City</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Peregrine Hardware, Inc.</td><td>United States, Virginia, Fairfax City</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Perfomics</td><td>United States, IL, Chicago  (local candidates only)</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Performance Management Asc</td><td>United States, OH, Columbus</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Performance Resources Corp</td><td>United States, NY, New York</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Performics</td><td>United States, IL, Chicago</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Performics Inc.</td><td>IL, Chicago</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Performics, Inc (A division of DoubleClick)</td><td>United States, Illinois, Chicago - Downtown</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Performics, Inc.</td><td>United States, IL, Chicago</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Periscan LLC</td><td>United States, Michigan, Lansing</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Perl Hunter</td><td>United States</td><td>2013</td><td>Active</td></tr>
-<tr><td>Perl Novice</td><td>Guatemala, Chiquimula, Esquipulas</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Perl Recruiters</td><td>Philadelphia (Bristol), Pennsylvania</td><td>2013</td><td>Active</td></tr>
-<tr><td>Perl Training Israel</td><td>Israel, Modiin</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>PerlCoders Group</td><td>United States, FL, Hollywood</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>PerlJobs</td><td>Chennai, India</td><td>2012</td><td>Active</td></tr>
-<tr><td>PerlUSA</td><td>Canada, Ontario, Mississauga</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Perlcoders Group</td><td>United States, FL, Hollywood</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Perlcoders Group, Inc</td><td>United States, GA, Griffin</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Permabit</td><td>Cambridge MA</td><td>2012</td><td>Active</td></tr>
-<tr><td>Permaworld</td><td>Canada, BC, Nelson</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Perot Systems</td><td>United States, MA, Wellesley</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Perplex City</td><td>United Kingdom, London</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Personal & Family Readiness Division</td><td>United States, VA, Quantico</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Personal Project not associated with a business</td><td>Australia, NSW, Sydney</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Personal and Family Readiness Division, HQMC</td><td>United States, VA, Quantico</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Personalmanagement Blank GmbH</td><td>Germany, Bayern, Munich</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Personnel Resources</td><td>United States, Missouri, St. Louis</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>PetaMem</td><td>Prague</td><td>2011</td><td>Active</td></tr>
-<tr><td>PetaMem GmbH</td><td>Germany, Fürth</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Petersburg Holding</td><td>United States, FL</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Petfinder.com</td><td>United States, NJ, Pittstown</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>PharmaVentures Ltd</td><td>United Kingdom, Oxfordshire, Oxford</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Pharmaceutical</td><td>United States, Illinois, Chicago City</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Phase N</td><td>Undefined</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Phase N Australia</td><td>Australia, NSW, Sydney</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Phase N Australia Pty Ltd</td><td>Australia, NSW, Sydney</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Philips CE</td><td>Netherlands, Noord-Brabant, Eindhoven</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Phoenix Data Systems, Inc.</td><td>United States, PA, King of Prussia</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Phoenix Staff</td><td>United States, NV, Las Vegas</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Phonestack Technologies Pvt Lt.</td><td>India, AP, Hyderabad</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Photo Researchers, Inc.</td><td>United States, NY, New York</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>PhotoBox Limited</td><td>United Kingdom, London</td><td>2011</td><td>Active</td></tr>
-<tr><td>PhotoByte</td><td>Telecommute</td><td>2013</td><td>Active</td></tr>
-<tr><td>Photobox</td><td>Paddington, London</td><td>2012</td><td>Active</td></tr>
-<tr><td>Photobox Limited</td><td>Paddington, London</td><td>2013</td><td>Active</td></tr>
-<tr><td>Photobox Ltd</td><td>United Kingdom, London</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Photobox.com</td><td>United Kingdom, Park Royal, London</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Photro Photographics</td><td>Canada, BC, Parksville</td><td>2011</td><td>Active</td></tr>
-<tr><td>Photronics, Inc.</td><td>United States, CT, Brookfield</td><td>2011</td><td>Active</td></tr>
-<tr><td>Pi Yee Press</td><td>United States, NV, Las Vegas</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Picis</td><td>United States, Illinois, Rosemont</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Picis Inc., a division of UnitedHealth Group</td><td>60018, Illinois, Rosemont</td><td>2011</td><td>Active</td></tr>
-<tr><td>Picis, Inc.</td><td>United States, IL, Rosemont</td><td>2013</td><td>Active</td></tr>
-<tr><td>Picsel Technologies Ltd.</td><td>United Kingdom, Reading, Glasgow or Edinburgh</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Picsel UK</td><td>Scotland, Glasgow</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Pictage</td><td>United States, California, Torrance</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Pictage.com</td><td>United States, CA, Torrance</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Pictela</td><td>United States, NY, New York</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Pictopia</td><td>United States, CA, Emeryville</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Pictopia.com, Inc.</td><td>United States, California, Emeryville, CA (SF-Bay Area)</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Pictours Inc.</td><td>United States, Texas, Austin</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>PictureTrail</td><td>United States, CA, Santa Clara</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Pillar Data Systems</td><td>United States, AZ, Tucson</td><td>2011</td><td>Active</td></tr>
-<tr><td>Pilon Management Company (Recruiting)</td><td>United States, WA, Seattle / Tukwila, WA</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Pinnacle Systems Inc</td><td>United States, New York, New York City</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Pinpoint Recruiting</td><td>WA, Seattle</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Pinpoint Recruiting, Inc.</td><td>WA, Seattle</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Pinpoint Resource Group</td><td>United States, California, Torrance</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Pioneer Research Center USA, Inc. (Pioneer Electronics)</td><td>United States, CA, San Jose</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Pioneer Research Center, USA (Pioneer Electronics)</td><td>United States, CA, San Jose (North)</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Pipex Hosting</td><td>United Kingdom, London, Heathrow</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Pirum Systems</td><td>United Kingdom, London</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Pixar Animation Studios</td><td>United States, California, Emeryville</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Pixelmade</td><td>Canada, BC, Vancouver</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Pixicated Design and Print</td><td>United States, CA, Redlands, CA - Las Vegas, NV</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Place Recruiting</td><td>United States, NY, Buffalo</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Placebase</td><td>United States, CA, Los Angeles</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Placement Professionals</td><td>United States, CT, Greenwhich</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Plain Black</td><td>United States, WI, Madison</td><td>2011</td><td>Active</td></tr>
-<tr><td>Plain Black Corporation</td><td>United States, WI, Madison</td><td>2012</td><td>Active</td></tr>
-<tr><td>Plan-it Hardware</td><td>United States, CA, San Francisco</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Planet 4 IT</td><td>Canada, Ontario, Toronto</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Planet 4IT</td><td>Canada, Ontario, Toronto</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Planet49 Technologies GmbH</td><td>Germany, Hessen, Darmstadt or Frankfurt</td><td>2011</td><td>Active</td></tr>
-<tr><td>Platform Staffing Group</td><td>United States, NV, Henderson</td><td>2011</td><td>Active</td></tr>
-<tr><td>Platform Trust Team, Amazon.com</td><td>United States, WA, Seattle</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>PlatinumTel</td><td>Chicago,IL</td><td>2012</td><td>Active</td></tr>
-<tr><td>PlatinumTel Communications</td><td>United States, IL, Justice</td><td>2011</td><td>Active</td></tr>
-<tr><td>Playlouder MSP Ltd</td><td>United Kingdom, London</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Plixer International</td><td>United States, ME, Sanford</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Plum Placements Inc.</td><td>United States, OPEN/NY, OPEN/NYC</td><td>2011</td><td>Active</td></tr>
-<tr><td>Plus Three</td><td>United States, New York, Washington DC</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Plus Three, LP</td><td>Undefined</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>PlusThree LLC</td><td>United States, NY, New York</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Plymouth Rock Assurance</td><td>United States, MA, Boston</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Pobox.com</td><td>United States, PA, Philadelphia</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Points Per Game</td><td>United States, NC, Research Triangle Park</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Polaris Search Network</td><td>United States, New York, Manhattan</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Polaris Search Network, Inc.</td><td>United States, NY, New York</td><td>2011</td><td>Active</td></tr>
-<tr><td>Polyvore</td><td>Mountain View, CA, USA</td><td>2012</td><td>Active</td></tr>
-<tr><td>Polyvore Inc</td><td>United States, CA, mountain view</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Polyvore Inc.</td><td>United States, CA, Mountain View</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Polyvore, Inc.</td><td>Mountain View, CA, USA</td><td>2012</td><td>Active</td></tr>
-<tr><td>Popcorn Web Design</td><td>United Kingdom, Essex, Stansted</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Porta Software Ltd</td><td>Ukraine, Kiev</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Portal Planet</td><td>United States, OH, Cincinnati</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Portu Media & Communications</td><td>Norway, Oslo, Oslo</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Position Marketing Group</td><td>Chicago, Austin, Seattle</td><td>2012</td><td>Active</td></tr>
-<tr><td>Posleap, Inc.</td><td>United States, FL, Naples</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Postini</td><td>United States, CA, San Carlos</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Postini Inc.</td><td>United States, CA, Redwood City</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Postini, Inc</td><td>United States, CA, Redwood City</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Postini, Inc.</td><td>United States, CA, San Carlos</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Postini, Inc. (SF Design Associates)</td><td>United States, CA, San Carlos</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Pounce Consulting</td><td>United States, CA, Los Angeles</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Powell's Books</td><td>United States, OR, Portland</td><td>2011</td><td>Active</td></tr>
-<tr><td>Powells.com</td><td>United States, OR, Portland</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>PrO Unlimited</td><td>United States, CA, Burlingame</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Praetoria Development, Inc.</td><td>United States, FL, Miami</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Pralaya Software Solutions, Inc.</td><td>United States, CA, Bay Area</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Praxway inc.</td><td>Canada, Québec, Montréal</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Precision Dynamics</td><td>United States, CA, San Fernando</td><td>2011</td><td>Active</td></tr>
-<tr><td>Precision Recruiting Services Inc.</td><td>Canada, Ontario, Toronto - Kitchener - Waterloo</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Precision Translation Tools</td><td>Bangkok, Thailand</td><td>2013</td><td>Active</td></tr>
-<tr><td>Preferred Choice</td><td>Colchester, Essex, UK</td><td>2013</td><td>Active</td></tr>
-<tr><td>Preferred IT</td><td>United Kingdom, Hampshire, Southampton</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Preferred Intl</td><td>United Kingdom, Hampshire, Southampton</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Preferred Resources</td><td>United States, Missouri, St. Louis</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Preisvergleich Internet Services AG</td><td>AUSTRIA, Vienna, Vienna</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Preisvergleich Internet Services AG (Geizhals.at)</td><td>Austria, Vienna</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Premier</td><td>doesn't matter, doesn't matter, doesn't matter</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Premier Group</td><td>United Kingdom, London</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Premier IT</td><td>United Kingdom, Edinburgh, Edinburgh</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Premier IT Recruitment</td><td>United Kingdom, Edinburgh, Edinburgh</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Prepress Online</td><td>United States, CO, Littleton</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Presedia</td><td>United States, CA, Sunnyval</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Price Barnett Pty Ltd</td><td>Australia, NSW, Sydney</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>PriceGrabber.com</td><td>United States, CA, Los Angeles, 90056</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>PrideStaff</td><td>United States, CA, Mountain View</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Primary Search Management</td><td>United States, NY, New York</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>PrimeIT Consulting</td><td>Portugal, Lisboa</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>PrimeTel Ltd</td><td>Cyprus, Limassol</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Primedia</td><td>United States, NY, New York</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Primedia Business Magazines & Media</td><td>United States, New York, New York</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Primedia Internet Resources and Technology (PIRT)</td><td>United States, NY, New York</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Primedia, Inc.</td><td>United States, NY, New York</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Primesoft - Soluções em Outsourcing</td><td>Portugal, Lisbon</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Prince, Perelson</td><td>United States, Utah, Salt Lake City</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Princeton Information</td><td>United States, NY, New York City</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Principia Partners LLC</td><td>United States, Pennsylvania, Conshohocken</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Printaform</td><td>Australia, Victoria, Melbourne</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Priority Health</td><td>United States, Michigan, Grand Rapids</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Priority Health Managed Benefits</td><td>United States, Michigan, Grand Rapids</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Private</td><td>United States, Florida, Ft. Lauderdale</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Private Company</td><td>United States, NJ, Jersey City</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Private Contractor</td><td>Australia, Queensland, Brisbane</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Private E commerce</td><td>USA 77-110k, New York, NYC</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Private Individual</td><td>Australia, SA, Adelaide</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Private Investigation Voter Registration Political</td><td>Anywhere, Anywhere, Anywhere</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Private but will be given upon interest from candidate</td><td>United States, MA, Boston</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Private publisher</td><td>Chicago - No Remote</td><td>2012</td><td>Active</td></tr>
-<tr><td>Private spanish</td><td>Spain, Madrid, Madrid</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Pro-Perspective</td><td>Australia, NSW, Sydney</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Pro-Perspective Pty Ltd</td><td>Australia, NSW, Sydney</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Pro-Quest</td><td>United Kingdom, Midlands, Nottingham</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Pro-Quest Resourcing Ltd</td><td>United Kingdom, City, London, London</td><td>2013</td><td>Active</td></tr>
-<tr><td>ProBoards, Inc.</td><td>United States, CA, Lake Forest</td><td>2011</td><td>Active</td></tr>
-<tr><td>ProCheckUp Ltd</td><td>United Kingdom, London, WC1</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>ProCheckUp Ltd, London</td><td>United Kingdom, LONDON, LONDON</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>ProHosting</td><td>United States, Utah, Provo</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>ProNames</td><td>United States, Texas, Dallas</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>ProSoft, Inc.</td><td>United States, Ohio, Columbus</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Proactive Search</td><td>United States, Florida, Ft. Lauderdale</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>Product Based Company</td><td>India, Andhra Pradesh, Hyderabad</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Productive Engineering</td><td>United States, Ohio, Dayton</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Professional IT</td><td>United Kingdom, Buckinghamshire, Wendover</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Professional Services Corporation</td><td>United States, VA, Chantilly</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>Professional Support, Inc.</td><td>United States, NY, Buffalo</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Professional Technical Resources</td><td>United States, OR, Portland</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Profitable Marketing Firm</td><td>NY, New York, New York</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Program Products Ltd</td><td>United Kingdom, Surrey</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Progressive</td><td>United Kingdom, Berkshire, Reading</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Progressive IT Recruitment</td><td>United Kingdom, Wiltshire, Bath</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Progressive Medical Insurance</td><td>United States, Ohio, Columbus</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Project Ben-Yehuda</td><td>Israel, N/A, N/A</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Project Consulting Specialists</td><td>United States, CA, Bay Area</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Project Napa</td><td>United States, CA, Santa Clara</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Project Napa, Inc.</td><td>United States, CA, Santa Clara</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Project One, Inc.</td><td>United States, New York, New York</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Project Resource</td><td>United States, NY, NYC</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Project-IT</td><td>United Kingdom, Surrey, Guildford</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Promethues Labor Communications</td><td>United States</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Proofpoint</td><td>Sunnyvale, CA, United States</td><td>2012</td><td>Active</td></tr>
-<tr><td>Proofpoint, Inc</td><td>United States, CA, Sunnyvale</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Prop erty Res earch Part ners LLC</td><td>United States, NY, New York City</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Property Research Partners LLC</td><td>United States, NY, New York City</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>PropertyMall</td><td>United Kingdom, London</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>PropertyShark.com</td><td>United States, NY, Brooklyn</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>PropertySharp.com</td><td>United States, NY, New York City</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Prosoft</td><td>United States, KY, Louisville</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Prospect</td><td>United Kingdom, England, London, West</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Prosper</td><td>United States, Utah, Provo</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Proteans Software Solutions</td><td>India, Karnataka, Bangalore</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Protiro</td><td>Ames, IA</td><td>2012</td><td>Active</td></tr>
-<tr><td>Provide Consulting</td><td>United Kingdom, London</td><td>2011</td><td>Active</td></tr>
-<tr><td>Prudential Preferred Properties</td><td>United States, Illinois, Chicago</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Public Broadcasting Service (PBS)</td><td>United States, VA, Arlington</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Public Karma, Inc</td><td>United States, GA, Atlanta</td><td>2011</td><td>Active</td></tr>
-<tr><td>Pulsar IT</td><td>United States, Ohio, Columbus</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>PulsarIT</td><td>United States, Ohio, Columbus</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>PulseWaveRF</td><td>United States, TX, Austin</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Pure IT Associates Limted</td><td>Oxford, UK</td><td>2012</td><td>Active</td></tr>
-<tr><td>Pure IT Associates Ltd</td><td>Oxford, Oxfordshire, United Kingdom</td><td>2011</td><td>Active</td></tr>
-<tr><td>Pure Solutions Inc</td><td>United States, CA, San Jose</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Purple Dog Consulting</td><td>United States, CA, Palo Alto</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Purple Interactive</td><td>United Kingdom, London, London (Chiswick W4)</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>PushButtonPress.com, Inc.</td><td>United States, CT, Greenwich</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>PushHandle</td><td>United States, NY, New York</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Pyramid Consulting</td><td>United States, TX, Dallas</td><td>2011</td><td>Active</td></tr>
-<tr><td>Pyramid Consulting Inc</td><td>United States, MI, South Field</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Pyramid Screening Technology</td><td>United States, CA, Redwood City</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Pyramid Screening Technology, Inc</td><td>United States, WA, Seattle</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>PyramidST</td><td>United States, CA, Redwood City</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Pythian</td><td>Ottawa, Ontario, Canada</td><td>2012</td><td>Active</td></tr>
-<tr><td>Q</td><td>United States, CA, Los Angeles</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Q Analysts</td><td>Cambridge, MA</td><td>2011</td><td>Active</td></tr>
-<tr><td>Q Card Corporation</td><td>United States, TX, Dallas</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Q&A Recruiting</td><td>United States, TX, Dallas</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Q1Online Limited</td><td>United Kingdom, London</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Q1Online Ltd</td><td>United Kingdom, London</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Q1Online Ltd.</td><td>United Kingdom, London</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Q1online Ltd</td><td>United Kingdom, London</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>QArea</td><td>Kharkiv</td><td>2012</td><td>Active</td></tr>
-<tr><td>QCI</td><td>United States, Tx, Houston</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>QUALCOMM Israel Ltd.</td><td>Israel, Haifa</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>QUANTUM TECHNOLOGY RECRUITING INC.</td><td>CANADA, ONTARIO, TORONTO</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>QXTel Limited</td><td>Turkey, Istanbul (Topkapi)</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Qoopi</td><td>Taiwan, Taipei</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Qoopi Inc.</td><td>Undefined</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Quad656</td><td>Conshohocken, PA</td><td>2013</td><td>Active</td></tr>
-<tr><td>Qualcomm Israel</td><td>Haifa, Israel</td><td>2012</td><td>Active</td></tr>
-<tr><td>Qualcomm, Inc</td><td>United States, California, San Diego</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Qualcomm, Inc.</td><td>CA, San Diego</td><td>2013</td><td>Active</td></tr>
-<tr><td>Quality Humans, Inc.</td><td>United States, Multiple, Nashville, San Francisco, DC</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Quality Humans, Inc. (for Amazon)</td><td>United States, WA, Seattle</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Quality Technology Services</td><td>United States, New York, New York</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Quality Track International</td><td>Canada, ON, Brampton</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Quantcast</td><td>CA, San Francisco</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Quantronix Inc</td><td>United States, MA, Boston</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Quantronix, Inc</td><td>United States, MA, Boston</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Quantum</td><td>Canada, QuÃ©bec, MontrÃ©al</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Quantum Technology Recruiting Inc.</td><td>Canada, ALL, ALL</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Quantum Weather</td><td>United States, Texas, Houston</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>QuantumNet International</td><td>Undefined</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Quest System, Inc.</td><td>United States, MD, Bethesda</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>Quest Systems, Inc.</td><td>United States, MD, Gaithersburg</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>QuestMark</td><td>United States, TX, Houston</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Questor Systems GmbH</td><td>Switzerland</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>QuinStreet</td><td>United States, CA, Foster City</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Quinnox Consultancy</td><td>India, Maharastra, Pune</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Quintessential Business Solutions</td><td>United States, MN, Hopkins</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Quintessential Business Solutions, LLC.</td><td>United States, MN, Hopkins</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Quonix Networks</td><td>United States, PA, Philadelphia</td><td>2011</td><td>Active</td></tr>
-<tr><td>Quonix Networks, Inc</td><td>Philadelphia, PA</td><td>2011</td><td>Active</td></tr>
-<tr><td>QuoteScout.com</td><td>United States, PA, Wayne</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Quotient Inc</td><td>United States, MD, Suitland</td><td>2011</td><td>Active</td></tr>
-<tr><td>Quotient, Inc</td><td>United States, MD, Columbia</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>R R Bowker</td><td>United States, NJ, New Providence</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>R-Stream</td><td>United States, FL, St. Petersburg</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>R-Stream POS & Data Warehouse</td><td>Florida, St. Petersburg</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>R-Stream POS and Data Management</td><td>United States, FL, St. Petersburg</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>R-Stream, LLC</td><td>St Petersburg, Fl, United States</td><td>2012</td><td>Active</td></tr>
-<tr><td>R. A. H. Classic Cards</td><td>United States, NJ, Somerville</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>R.R. Bowker</td><td>United States, NJ, New Providence</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>RAND Corporation</td><td>United States, Pennsylvania, Pittsburgh</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>RBS Greenwich Capital</td><td>United States, CT, Greenwich</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>RBSGC</td><td>United States, Connecticut, Greenwich</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>RCG Information Technology</td><td>United States, NJ, Jersey City</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>RCM Technologies</td><td>United States, MD, Bethesda</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>RDF Group</td><td>United Kingdom, Buckinghamshire, Marlow</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>RDFGroup</td><td>Brighton, England</td><td>2013</td><td>Active</td></tr>
-<tr><td>REA Group</td><td>Europe, Luxembourg, Luxembourg</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>RECRUT'ART</td><td>SIBIU, ROMANIA</td><td>2011</td><td>Active</td></tr>
-<tr><td>REDNET</td><td>United Kingdom, Buckinghamshire, High Wycombe</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>REF Computer Corporation </td><td>New York, Manhattan</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>RF Shipping Ltd</td><td>London, UK</td><td>2013</td><td>Active</td></tr>
-<tr><td>RGA Associates</td><td>United States, CA, San Francisco</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>RGA Associates Inc.</td><td>United States, CA, Los Angeles</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>RHI</td><td>United States, CA, Pasadena</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>RHIC</td><td>New Mexico, Albuquerque</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>RIVERVIEW RECRUITING LLC</td><td>United States, NY, New York</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>RJ Byrd</td><td>Dallas, Tx, United States</td><td>2012</td><td>Active</td></tr>
-<tr><td>RJT Compuquest</td><td>United States, CA, Burbank</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>RJT Compuquest.com</td><td>United States, CA, LA</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>RL Websolutions</td><td>Ahmedabad, India</td><td>2012</td><td>Active</td></tr>
-<tr><td>RMA</td><td>Australia, Vic, Melbourne</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>RMG Technology (M) Sdn Bhd</td><td>Cyberjaya, Malaysia</td><td>2012</td><td>Active</td></tr>
-<tr><td>RMI</td><td>United States, FL, Jacksonville</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>RMS</td><td>United States, NJ, Jersey City</td><td>2011</td><td>Active</td></tr>
-<tr><td>ROI Rocket, Inc.</td><td>United States, CO, Denver (Englewood)</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>ROK</td><td>United Kingdom, Llandow (Nr Cardiff)</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>ROMANTICA TOURS</td><td>United States, IL, CHICAGO</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>ROSworks, LLC</td><td>Richmond, VA, United States</td><td>2012</td><td>Active</td></tr>
-<tr><td>RPM Recruitment</td><td>United Kingdom, WC1 , London</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>RPM Solutions (UK) Limited</td><td>United Kingdom, Devon, Exeter</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>RQ Software & Services</td><td>United States, CT, Stratford</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>RS Technology</td><td>Malaysia, Wilayah Persekutuan, Kuala Lumpur</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>RTGI</td><td>France, Saint-Denis (near Paris)</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>RTGI/Linkfluence</td><td>France, Saint-Denis</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>RVI</td><td>United States, NJ, Atlantic City</td><td>2011</td><td>Active</td></tr>
-<tr><td>RWA</td><td>London</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>RWA, Inc.</td><td>United States, Florida, Fort Lauderdale</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Raamco International</td><td>United States, NJ, Englewood Cliffs</td><td>2011</td><td>Active</td></tr>
-<tr><td>Raamco International </td><td>United States, NJ, Englewood Cliffs</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Racine.com</td><td>United States, CA, Santa Clara</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Rackspace</td><td>United States, TX, San Antonio</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Radian IT Ltd</td><td>United Kingdom, East Yorkshire, Elloughton</td><td>2011</td><td>Active</td></tr>
-<tr><td>Radice Net.com</td><td>Italy, Prato (FI)</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Radio Free Asia</td><td>United States, DC, Washington</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>RadioField</td><td>Baltimore, MD, USA</td><td>2012</td><td>Active</td></tr>
-<tr><td>Radix Direct GmbH</td><td>Germany, Munich</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Rainmaker Business Services, Inc.</td><td>United States, FL, Ft. Lauderdale</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Ralph Nader for President 2008</td><td>United States, DC, Washington</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Rambler</td><td>Russia, Moscow</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Rambler Internet Holding</td><td>Russian Federation, Moscow</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Rambler.ru</td><td>Ð³Ð¾Ñ€Ð¾Ð´ ÐœÐ¾ÑÐºÐ²Ð°, Ð Ð¾ÑÑÐ¸Ñ</td><td>2011</td><td>Active</td></tr>
-<tr><td>Rapid Intelligence</td><td>Australia, NSW, Sydney</td><td>2012</td><td>Active</td></tr>
-<tr><td>Rapid Intelligence Pty Ltd</td><td>Anywhere, Telecommute</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Rapleaf</td><td>United States, CA, San Francisco</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Rattleresearch</td><td>United Kingdom, W Yorkshire, Sheffield</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Ravello IT</td><td>United Kingdom, London</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>RayV</td><td>Israel, Tel-Aviv</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Raybec</td><td>Canada, Ontario, Toronto</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Raybec Communications</td><td>Canada, ON, Toronto</td><td>2011</td><td>Active</td></tr>
-<tr><td>Raybec Communications Inc.</td><td>Canada, Ontario, Toronto (downtown)</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Rayher Web Gurus</td><td>United States, CA, Hermosa Beach</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Raytheon Missile Systems</td><td>United States, Arizona, Tucson</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Raytheon at NASA Ames</td><td>United States, CA, Mountain View (Moffett Field)</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>ReThink Recruitment</td><td>UK, London, West London</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>ReThink Recruitment Solutions</td><td>United Kingdom, London</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>ReThink Recruitment Solutions Ltd</td><td>United Kingdom, London</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Reach Systems</td><td>United States, CA, Oakland</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Reach1to1 Communications</td><td>India, MH, Mumbai</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>ReachLocal, Inc.</td><td>United States, CA, Woodland Hills</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Reactrix</td><td>United States, California, San Carols</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Reactrix Systems Inc</td><td>United States, CA, San Carlos</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Ready to Hire</td><td>United States, PA, King of Prussia</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Real Estate Patrol INC</td><td>United States, NJ, Cherry Hill</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Real Resourcing</td><td>United Kingdom, London: The City</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>RealNetworks</td><td>Germany, Hamburg, Hamburg</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>RealNetworks (Germany)</td><td>Germany, Hamburg, Hamburg</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Realtime A/S (www.realtime.dk)</td><td>Denmark, 1560 Copenhagen V</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>Reask</td><td>Israel, Tel Aviv</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Rebaca Technologies (I) Pvt., Ltd.,</td><td>INDIA, KA, Bangalore</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Recipeshare Canada Inc.</td><td>Canada, Quebec, Lasalle</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Recruiting Division</td><td>San Francisco (east side --- North/North Central)</td><td>2012</td><td>Active</td></tr>
-<tr><td>Recruiting Point - Client</td><td>United States, WA, Seattle</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Recruitment Agency</td><td>Australia, Queensland, Brisbane</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Red 10</td><td>United Kingdom/ USA, London/ San Francisco</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Red Anvil</td><td>United States, WI, Milwaukee</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Red Hat, Inc</td><td>United States, NC, Raleigh</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Red Hat, Inc.</td><td>United States, CA, San Francisco Bay Area</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Red Oak Technologies</td><td>United States, CA, San Jose</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Red Recruitment Pty Ltd</td><td>Australia, VIC, Melbourne</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>RedCat Solutions</td><td>London, UK</td><td>2012</td><td>Active</td></tr>
-<tr><td>RedWeek.com</td><td>United States, WA, Seattle</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Redback Networks</td><td>United States, California, San Jose</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Redback Networks, an Ericsson Company</td><td>Canada, B.C., Burnaby</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Redfern Services</td><td>United States, Ga., Atlanta</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Redrock Consulting</td><td>West London</td><td>2012</td><td>Active</td></tr>
-<tr><td>Redrock Consulting Ltd</td><td>United Kingdom, Bristol</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Redrock Consulting Ltd on behalf of</td><td>London</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Reed Professional Services</td><td>United Kingdom, West London, London</td><td>2012</td><td>Active</td></tr>
-<tr><td>Reed Professional services</td><td>United Kingdom, London, London</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Reed Technology</td><td>United Kingdom, Bracknell</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Reeve Management</td><td>Australia, NSW, Sydney</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Reflected Networks</td><td>United States, IL, Chicago</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Reflex Computer Recruitment</td><td>UK - England, West Sussex, Brighton</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Refresh Media</td><td>United States, CA, San Luis Obispo</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Regulus Group</td><td>United States, Texas, CA or IA, Multiple locations: Coppell, Napa,</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Reinvent, Inc.</td><td>Canada, British Columbia, Vancouver</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Reliance Mutual Insurance Society LTD.</td><td>Tunbridge Wells, Kent, UK</td><td>2012</td><td>Active</td></tr>
-<tr><td>Reliant Employees</td><td>United States, CA, San Diego</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Relocation Central by CORT</td><td>United States, CA, Santa Clara</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>RelocationCentral</td><td>United States, CA, Santa Clara</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>RelocationCentral by CORT</td><td>United States, CA, Santa Clara</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Remasys Pty Ltd</td><td>Australia, Victoria, Melbourne</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Remington International</td><td>United States, CA, Lawndale</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Render Rocket LLC</td><td>United States, CA, Sherman Oaks</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Renkoo</td><td>United States, CA, Redwood City</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Rent Villa Direct Limited t/a Tablina</td><td>United Kingdom, Scotland, Edinburgh</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Rent.COM</td><td>United States, Ca, Santa Monica</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Rent.com</td><td>United States, CA, Santa Monica</td><td>2013</td><td>Active</td></tr>
-<tr><td>Rent.com (an eBay Company)</td><td>United States, CA, Santa Monica</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Rent.com (an eBay company)</td><td>United States, CA, Santa Monica</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Rent.com, an eBay Company</td><td>Santa Monica, CA, United States</td><td>2012</td><td>Active</td></tr>
-<tr><td>Rent.com, an eBay company</td><td>United States, CA, Santa Monica</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Rent.com/eBay</td><td>United States, CA, santa monica</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Rent.com/eBay Inc.</td><td>United States, CA, Santa Monica</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>RentOnTheDot</td><td>Canada, British Columbia, Vancouver</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>Rentrak</td><td>United States, OR, Portland</td><td>2012</td><td>Active</td></tr>
-<tr><td>Rentrak Corporation</td><td>United States, Oregon, Portland</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>ResLogic</td><td>United States, Any state, Anywhere</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Research Studius Austria - Panther Consult</td><td>Austria, Wien, Wien Vienna</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Resource Leaders</td><td>United States, CA, San Diego</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Resten Jones</td><td>United Kingdom, London</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Resten Jones Ltd</td><td>United Kingdom, London</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Restore</td><td>Madison, WI</td><td>2011</td><td>Active</td></tr>
-<tr><td>Resulte</td><td>United States, TX, Dallas</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Resulte Universal</td><td>Texas, Dallas</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Return Path</td><td>United States, Colorado, Broomfield</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Return Path, Inc.</td><td>United States, Colorado, Superior</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Revelation Partners</td><td>United States, WI, Milwaukee</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Revenution, Inc.</td><td>United States, NH, Hampstead</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>ReviewNet Corporation</td><td>United States, PA, Jenkintown</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Revolutionary Staffing</td><td>United States, TX, Dallas</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>RewardsPlus</td><td>United States, MD, Baltimore</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>Rhino Recruiting</td><td>United States, CA, Burbank</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Rhythm & Hues India</td><td>India, Maharashtra, Mumbai</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>RichFX</td><td>New York, New York</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>RichFX Inc.</td><td>United States, NY, New York</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>RichFx, inc.</td><td>United States, New York, New York</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Richard Michael Group</td><td>United States, Az, Tempe</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Richard Wheeler Associates</td><td>United Kingdom, Oxford</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Rick's Industrial Specialty</td><td>United States, California, San Diego</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>RideCharge Inc, Taxi Magic</td><td>United States, Virginia, Alexandria</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Rider University</td><td>United States, NJ, Lawrenceville</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Ridgeway</td><td>United States, TX, Dallas</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>Right Media</td><td>United States, New York, New York</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Right Media LLC</td><td>United States, NY, New York</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Rimm-Kaufman Group LLC</td><td>United States, VA, Charlottesville</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>RiskMetrics Group</td><td>United States, NY, New York</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Rivals Digital Media</td><td>United Kingdom, London</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>River Styx Internet</td><td>Canada, BC, Vancouver</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Riverbed</td><td>United States, MA, Sunnyvale & San Francisco California</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Riverbed Technology</td><td>United States, CA, san Francisco</td><td>2011</td><td>Active</td></tr>
-<tr><td>Riviera Partners</td><td>90401, CA, Los Angeles</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Rixington Group Holding Company</td><td>New Zealand, Auckland (Albany area)</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>RoQC DataManagement</td><td>Norway, Rogaland, Stavanger,</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Roaring Penguin Software Inc.</td><td>Canada, Ontario, Ottawa</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Robert Half Technology</td><td>Canada, Ontario, Mississauga</td><td>2012</td><td>Active</td></tr>
-<tr><td>Robert Walters Recruitment</td><td>Undefined</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>RoboTran</td><td>United States, MA, Boston</td><td>2011</td><td>Active</td></tr>
-<tr><td>Roc Search</td><td>Surrey United Kingdom</td><td>2013</td><td>Active</td></tr>
-<tr><td>Rolloutsoftware</td><td>United States, California, Santa Monica</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Romijo</td><td>Netherlands, N-H, Amsterdam</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Roqc Data Management</td><td>United States, ME, Portland</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Rosenblatt Securities</td><td>New York City</td><td>2012</td><td>Active</td></tr>
-<tr><td>Route 66 Cyber Cafe, Inc.</td><td>United States, OK, Tulsa</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Roy Talman and Associates</td><td>United States, IL, chicago</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>RoyaltyShare</td><td>United States, California, San Diego</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Roznos Enterprises</td><td>United States, CA, San Francisco</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Roznos Entterprises Strategic Staffing</td><td>United States, CA, San Francisco</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Rsystems</td><td>United States, CA, Sacramento</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Rubenstein Technology Group</td><td>United States, NY, Park Slope, Brooklyn, New York</td><td>2013</td><td>Active</td></tr>
-<tr><td>Rule Financial</td><td>United Kingdom, London</td><td>2012</td><td>Active</td></tr>
-<tr><td>Rullion</td><td>United Kingdom, London</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Rullion Computer Personnel</td><td>United Kingdom, Richmond, Surrey</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Runbox</td><td>Norway, Oslo</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Russell Sharpe Limited</td><td>United Kingdom, Surrey, Bramley (nr Guildford)</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Russell winter associates </td><td>United Kingdom, London, London</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Rutgers University Department of Continuing Education and Outreach</td><td>United States, New Jersey, New Brunswick</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Rutgers University, Continuous Education and Outreach</td><td>United States, New Jersey, New Brunswick</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Ryan Recruiting</td><td>United States, CA, Laguna Hills</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>SACC</td><td>United States, CA, San Mateo</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>SAIC</td><td>United States, Virginia, Arlington</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>SAMi Technologies Inc</td><td>United States, Virginia, Sterling</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>SAY Media</td><td>San Francisco, CA (SOMA)</td><td>2012</td><td>Active</td></tr>
-<tr><td>SBS (UK)</td><td>United Kingdom, London</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>SBS Creatix</td><td>United States, MO, St. Louis</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>SBS UK</td><td>United Kingdom, London - Central</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>SBS UK Ltd</td><td>United Kingdom, London</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>SCFoster</td><td>United States, NY, New York</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>SCFoster Solutions</td><td>United States, NY, New York City</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>SCOM Technology</td><td>United Kingdom, London</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>SDHRC</td><td>United States, CA, Del Mar</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>SDL</td><td>Los Angeles, CA, United States</td><td>2012</td><td>Active</td></tr>
-<tr><td>SE Software</td><td>Germany</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>SG Drive Test</td><td>Canada, QC, Montreal</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>SHOWstudio</td><td>United Kingdom, London, London</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>SID Computer Group</td><td>United States, NJ, Jersey City</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>SIMULIA Corporation</td><td>United States, Rhode Island, Providence</td><td>2011</td><td>Active</td></tr>
-<tr><td>SMC</td><td>United States, MD, Linthicum</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>SMD Inc.</td><td>United States, TX, Dallas</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>SME Inc.</td><td>United States, Va, Tyson's Corner</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>SNL Consulting Ltd</td><td>United Kingdom, London, London</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>SNLConsulting</td><td>United Kingdom, London</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>SPLIO</td><td>Palace of Versailles, Place d'Armes, 78000 Versailles, France</td><td>2012</td><td>Active</td></tr>
-<tr><td>SPS</td><td>India, Maharashtra, Thane</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>SPTP</td><td>United States, NY, Manhattan</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>SPiN AG</td><td>Germany, Bayern, Regensburg</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>SQN Solutions</td><td>India, New Delhi</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>SQN Solutions/Conversation Technology</td><td>India, New Delhi, New Delhi</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>SRI</td><td>United States, MA, Norwood</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>SSS Client</td><td>United States, CA, San Francisco</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>STRATO</td><td>Berlin, Germany</td><td>2013</td><td>Active</td></tr>
-<tr><td>STREAMray</td><td>United States, NV, Las Vevas</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>SVG Inc (skinvideo.com)</td><td>United States, CA, San Francisco</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>SWsoft</td><td>Russia, N/A, Moscow</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>SWsoft, Inc.</td><td>Russia, Novosibirsk</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Sabre Systems, Inc</td><td>Maryland</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Sabre Systems, Inc.</td><td>Maryland</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Sabrient Systems, LLC</td><td>United States, CA, Santa Barbara</td><td>2011</td><td>Active</td></tr>
-<tr><td>Sacred Infocom Pvt Ltd</td><td>INDIA, Tamil Nadu, Chennai</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>SafeMedia Corp</td><td>United States, Florida, Boca Raton</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>SaferNet Brasil</td><td>Brazil, Bahia, Salvador</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Safety Technology</td><td>United States, FL, Jacksovnille</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Saicon Consultants Inc.</td><td>United States, KS, KS</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Sakonnet</td><td>United States, CA, San Francisco</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Sakonnet Systems</td><td>United States, California, San Jose</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Sakonnet Systems, Inc.</td><td>United States, CA, San Francisco</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>San Francisco Chronicle/SFGate.com</td><td>United States, CA, San Francisco</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Sana Security</td><td>United States, CA, San Mateo</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Santa Monica Public Library</td><td>United States, CA, Santa Monica</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Sapna Solutions</td><td>Pune, India</td><td>2012</td><td>Active</td></tr>
-<tr><td>Sapphire Technologies</td><td>United States, Texas, San Antonio</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Satel Group</td><td>Italy, Udine</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Satelgroup</td><td>Italy, Udine, Buttrio</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Satellite Tracking of People LLC (STOP)</td><td>United States, Virginia, Reston</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Satellite Tracking of People, LLC</td><td>United States, VA, Reston</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Saturn Media</td><td>New Zealand, Auckland</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Saturn Media NZ and Live Door Japan</td><td>Japan, Tokyo, Ropponngi</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Satzmedia GmbH</td><td>Germany, Hamburg</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Say Media</td><td>San Francisco, CA</td><td>2012</td><td>Active</td></tr>
-<tr><td>SayHired</td><td>Tel Aviv, Israel</td><td>2011</td><td>Active</td></tr>
-<tr><td>ScanSave</td><td>Canada, ON., Toronto</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Scansafe</td><td>London</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Schaffhausen Advertising GmbH</td><td>Germany, Elmshorn</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Schaffhausen ITC Solutions GmbH</td><td>Germany, Elmshorn / Hamburg</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Schedule 2 Drive, LP</td><td>United States, TX, San Antonio, Houston or Austin</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>School Loans Corp</td><td>United States, Ca, Los Angeles</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>School Loans Corporation</td><td>United States, CA, Redwood City & Los Angeles</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>SchoolSpring</td><td>United States, VT, South Burlington</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Science Photo Library</td><td>United Kingdom, London</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Scientific Equipment Repair</td><td>Mountain View, CA</td><td>2012</td><td>Active</td></tr>
-<tr><td>ScolerTec Inc</td><td>United States, DC, Washington</td><td>2011</td><td>Active</td></tr>
-<tr><td>Scottsdale Airpark</td><td>United States, AZ, Scottsdale</td><td>2011</td><td>Active</td></tr>
-<tr><td>Scoutware</td><td>United States, IL, Chicago</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>ScreenSelect</td><td>United Kingdom, England, London</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Search123</td><td>London, UK</td><td>2012</td><td>Active</td></tr>
-<tr><td>Searchlight Recruiters, Inc.</td><td>United States, TN, Nashville</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Searchlight Recruiters, Inc. (Agency)</td><td>United States, Tn, Nashville</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Searchme</td><td>United States, CA, San Francisco</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Seavus</td><td>Skopje, Macedonia</td><td>2013</td><td>Active</td></tr>
-<tr><td>Secure Appliance</td><td>United States, NV, Las Vegas</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Seela LLC</td><td>United States, FL, Orlando</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Seevast Corp</td><td>United States, New York, Amherst</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Seevast.com</td><td>United States, NY, Amherst</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Segula Technologies</td><td>Portugal, Lisbonne</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Segula Technologies Portugal</td><td>Portugal, Lisbon, Lisbon</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Seisint</td><td>United States, FL, Boca Raton</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Seisint, Inc.</td><td>United States, FL, Boca Raton</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>SelectMinds, Inc.</td><td>United States, NY, New York</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Selectable Media</td><td>New York, NY</td><td>2012</td><td>Active</td></tr>
-<tr><td>Selectronic India</td><td>India, New Delhi, New Delhi</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Semantico</td><td>United Kingdom, East Sussex, Brighton</td><td>2012</td><td>Active</td></tr>
-<tr><td>Semaphore Corporation</td><td>United States, WA, Seattle</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>SenSoft International, Inc.</td><td>United States, VA, Herndon</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>SendGrid</td><td>United States, CA, San Diego</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Sendit.com</td><td>Northen Ireland, UK, Belfast</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Sendrata</td><td>Netherlands, Zuid-Holland, Den Haag</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Senior Developer</td><td>TBD, USA, Illinois</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>SeniorBridge</td><td>United States, NY, New York</td><td>2013</td><td>Active</td></tr>
-<tr><td>SeniorBridge Family</td><td>United States, New York, New York</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Senitor Associates</td><td>United Kingdom, Cambridgeshire, Cambridge</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Sentari Technologies</td><td>United States, Texas, Addison</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Sentinel</td><td>United Kingdom, London</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>ServePath</td><td>94105, CA, San Francisco</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>ServerCentral</td><td>United States, IL, Chicago</td><td>2011</td><td>Active</td></tr>
-<tr><td>Servergraph</td><td>United States, TX, Austin</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Service Intelligence</td><td>Canada, Alberta, Calgary</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Sesco Information Systems</td><td>India, Karnataka, Bangalore</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Sesco Information Systems Inc.,</td><td>United States, OH, Columbus</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Sesco Information Systems Ltd</td><td>India, Karnataka, Bangalore</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Set You Free Enterprises</td><td>United States, anystate, Work From Home anywhere</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Severis</td><td>Russia, Moscow</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Sharf, Woodward Associates Inc</td><td>United States, CA, Thousand Oaks</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Sharp Sports Betting</td><td>United States, NV, Las Vegas</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Shavlik Technologies</td><td>United States, MN, Roseville</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Sherpa LLC</td><td>United States, NC, Charlotte</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Shiftboard</td><td>United States, Washington, Seattle</td><td>2012</td><td>Active</td></tr>
-<tr><td>Shiftboard, Inc</td><td>Seattle, WA, USA</td><td>2013</td><td>Active</td></tr>
-<tr><td>Shiftboard, Inc.</td><td>Seattle, WA, USA</td><td>2013</td><td>Active</td></tr>
-<tr><td>Shipping Co</td><td>italia, bari, bari</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Shoebuy.com</td><td>United States, MA, Boston</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Shoebuy.com Inc</td><td>United States, MA, Boston</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Shoebuy.com, Inc.</td><td>United States, MA, Boston</td><td>2012</td><td>Active</td></tr>
-<tr><td>Shokus Video</td><td>United States, CA, Chatsworth</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Shoplet.com</td><td>10004, NY, New York</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Shopzilla</td><td>United Kingdom, London</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Shopzilla, Inc</td><td>United States, CA, Los Angeles</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Shopzilla, Inc.</td><td>United States, CA, Los Angeles</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Shopzilla.com</td><td>United States, California, Los Angeles</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Shopzilla.com (Bizrate)</td><td>United States, CA, West Los Angeles</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Shrewsbury House School</td><td>United Kingdom, Surrey</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Shrinking Planet Inc.</td><td>Canada, Ontario, Mississauga  (Toronto)</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Shulman Fleming</td><td>NY, NYC</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Shulman Fleming and Partners</td><td>United States, NY, NY</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Shulman and Partners</td><td>United States, NY, New York</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>ShutterStock</td><td>United States, NY, New York</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Shutterstock</td><td>United States, NY, New York</td><td>2013</td><td>Active</td></tr>
-<tr><td>Shutterstock Images</td><td>United States, NY, New York</td><td>2011</td><td>Active</td></tr>
-<tr><td>Shutterstock.com</td><td>United States, NY, New York</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>SiVerion</td><td>United States, AZ, Tempe</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Siemens</td><td>United States, Washington, Redmond</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Siemens AG</td><td>Deutschland, Bayern, Erlangen</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Siemens Business Services</td><td>United Kingdom, Berkshire, Maidenhead</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Siemens Corporation</td><td>United States, Florida, Orlando</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Siemens Internet Services</td><td>United Kingdom, Berkshire, Maidenhead</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Sievers Security Inc.</td><td>United States, Ohio, Cleveland</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Sifira</td><td>Danmark, København K</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Sift Group Ltd</td><td>United Kingdom, Bristol</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Sigma Search Group Inc.</td><td>Canada, BC, Vancouver - Metro Vancouver</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Sigma Space Corporation</td><td>Lanham, MD</td><td>2012</td><td>Active</td></tr>
-<tr><td>Signature Consultants</td><td>United States, NC, Charlotte</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Silicon & System Pros LLC</td><td>United States, CA, Sunnyvale</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Silver Fox</td><td>SF</td><td>2013</td><td>Active</td></tr>
-<tr><td>Silver Fox Design</td><td>Undefined</td><td>2013</td><td>Active</td></tr>
-<tr><td>Silver Key</td><td>United States, CA, Redwood City</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Silver Key Inc</td><td>United States, CA, San Francisco</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>SilverFox</td><td>NY</td><td>2012</td><td>Active</td></tr>
-<tr><td>Simena</td><td>United States, VA, Sterling</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Simplex Consulting</td><td>United Kingdom, London</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Simplex Info Systems, Inc</td><td>United States, NewYork</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Simply Studio / Suite Setup</td><td>Chicago, Illinois</td><td>2012</td><td>Active</td></tr>
-<tr><td>SingleFeed</td><td>United States, CA, San Francisco</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Sipwise GmbH</td><td>Vienna</td><td>2012</td><td>Active</td></tr>
-<tr><td>Sistemica</td><td>Brazil, RS, Porto Alegre</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Sistemica.info</td><td>Brazil, RS, Porto Alegre</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>SiteScout</td><td>United States, Washington, Seattle</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>SiteSell Inc.</td><td>Undefined</td><td>2011</td><td>Active</td></tr>
-<tr><td>SiteSpect</td><td>United States, Massachusetts, Boston</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>SiteSpect, Inc.</td><td>United States, MA, Boston</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>SiteSpect.com</td><td>Boston, MA, United States</td><td>2012</td><td>Active</td></tr>
-<tr><td>SiteSuite</td><td>Australia, NSW, Sydney</td><td>2012</td><td>Active</td></tr>
-<tr><td>SiteSuite Australasia</td><td>Australia, NSW, Sydney</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Sitepak</td><td>Canada, Quebec, Montreal</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Siti-Sites.com</td><td>United States, NY, New York City</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>Situated Consulting </td><td>90024 , CA , Los Angeles </td><td>2011</td><td>Active</td></tr>
-<tr><td>Situated Consulting LLC </td><td>United States, CA, Los Angeles </td><td>2011</td><td>Active</td></tr>
-<tr><td>Situated Consutling </td><td>USA , CA , Burbank </td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Six Apart</td><td>United States, NY, New York</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Sixt Autovermietung GmbH & Co KG</td><td>Germany, Bavaria, Munich</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Sketenty a/s</td><td>Denmark, Copenhagen</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>SkillStorm</td><td>Untied States, California, San Diego</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Skillsearch Recruiting</td><td>Austraia, NSW, Sydney</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Skin Care Products</td><td>United States, CA, Los Angeles</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Skinwest</td><td>United States, CA, La Verne</td><td>2011</td><td>Active</td></tr>
-<tr><td>Skoosh</td><td>United Kingdom, East Sussex, Brighton</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>SkyBox, IMG</td><td>United States, GA, Atlanta</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>SkyStream</td><td>United States, California, Sunnyvale</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>SkyStream Corp</td><td>United States, California, Sunnyvale</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Skyline Recruiting Corporation</td><td>United States, CA, San Jose</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Skymarx</td><td>Canada, Ontario, Toronto</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Skymarx Solutions</td><td>Canada, Alberta, Canmore</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Skytek</td><td>Italy, Padova, Padova</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Slando</td><td>United Kingdom, London, Southwark</td><td>2011</td><td>Active</td></tr>
-<tr><td>Slideshare</td><td>India, Delhi, New Delhi</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Slim Devices, Inc.</td><td>United States, CA, Mountain View</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Smart Marketing</td><td>United States, Georgia, Norcross</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Smart-Tek</td><td>Boston, MA</td><td>2011</td><td>Active</td></tr>
-<tr><td>Smarter Living, Inc</td><td>United States, MA, Cambridge</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Smiley Media</td><td>United States, TX, Austin</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Smith Johnson</td><td>United States, Utah, Salt Lake City</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Smooth Ltd</td><td>United Kingdom, Buckinghamshire, Aylesbury</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>SmoothWall Ltd</td><td>United Kingdom, Hampshire, Southampton</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Smoothwall Ltd</td><td>United Kingdom, Hampshire, Southampton</td><td>2011</td><td>Active</td></tr>
-<tr><td>Snooth</td><td>United States, NY, New York</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Social Networking Site</td><td>United States, NY, New York</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Social Science Research Council</td><td>United States, NY, New York</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>SocialFlow</td><td>NYC</td><td>2012</td><td>Active</td></tr>
-<tr><td>Socialtext</td><td>United States, California, Palo Alto</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Socialtext, Inc.</td><td>United States, CA, Palo Alto / SF Bay Area</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Society for Research in Psychopathology</td><td>United States, PA, Pittsburgh</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Sodexo Pass USA</td><td>United States, Maryland, Gaitherburg</td><td>2011</td><td>Active</td></tr>
-<tr><td>SofaWare Technologies</td><td>Israel, Ramat-Gan</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Softagon Corporation</td><td>United States, NY, New York City</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Softential, Inc.</td><td>United States, NJ, Mount Laurel</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Softpath Systems Inc</td><td>United States, Washington, Bellevue</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Softpath Systems, Inc</td><td>New York, New York</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Software Design India Pvt Ltd</td><td>India, Delhi, New Delhi</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Software Engineer - Perl Application Prg</td><td>California, San Diego</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Software Guidance & Assistance, Inc.</td><td>Stamford, CT</td><td>2013</td><td>Active</td></tr>
-<tr><td>Software Management Consultants, Inc.</td><td>United States, CA, Los Angeles</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Software Partners LLC</td><td>United States, California, San Diego</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>Software Pundits</td><td>United States, NC, RTP, NC</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Software Unlimited</td><td>United States, CA, Walnut Creek</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>Softwyre</td><td>United States, Arkansas, Little Rock</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Sohum Inc</td><td>United States, CA, Sunnyvale</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>SolTech, Inc.</td><td>United States, VA, Tysons Corner</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Solfaktor AS</td><td>Norway, Oslo</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Solfisk Konsulenter</td><td>Denmark, Copenhagen</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Solomon Page Technology Partners</td><td>United States, NY, New York</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Solomon-Page Group</td><td>New York, New York</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>SolsticeSun Design</td><td>Undefined</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Solution 1</td><td>United States, PA, Pittsburgh</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Solution 1 Inc</td><td>United States, PA, Telecommute position but Company is in Pittsburgh</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Solutionhubinc</td><td>District of Columbia, USA</td><td>2012</td><td>Active</td></tr>
-<tr><td>Solutions for Progress</td><td>PA, Philadelphia</td><td>2011</td><td>Active</td></tr>
-<tr><td>SolutionsIQ</td><td>United States, WA, Seattle</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Solve Media, Inc</td><td>Philadelphia, PA</td><td>2012</td><td>Active</td></tr>
-<tr><td>Solve Media, Inc | http://solvemedia.com</td><td>United States, PA, Philadelphia</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Somewhere Inc.</td><td>United States, MA, Winchester</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Somix Technologies, Inc.</td><td>United States, Maine, Sanford</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Sonicwall</td><td>United States, CA, Sunnyvale</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Sony Computer Entertainment</td><td>United Kingdom, London</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Sony Computer Entertainment America</td><td>United States, California, San Diego</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Sony Electronics</td><td>United States, CA, San Diego</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Sony Pictures Imageworks</td><td>90232, CA, Culver City</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Sophisticated Systems</td><td>United States, OHIO, Columbus</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Sophisticated Systems Inc</td><td>United States, Ohio, Columbus</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Sophiticated Systems</td><td>United States, Ohio, Columbus,Ohio</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Sophos</td><td>Canada, BC, Vancouver</td><td>2011</td><td>Active</td></tr>
-<tr><td>Sophos Inc</td><td>Canada, BC, Vancouver</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Sophos Inc.</td><td>Canada, BC, Vancouver</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Sophos Plc</td><td>United Kingdom, Oxfordshire, Abingdon, Oxfordshire</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Sophos Plc.</td><td>United Kingdom, Oxfordshire, Abingdon</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Source Interlink Media</td><td>United States, NY, New York</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Source Labs</td><td>United States, WA, Seattle</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>SourceLabs</td><td>United States, WA, Seattle</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>SourceMedia</td><td>United States, DC, Washington</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Sousafone, LLC</td><td>United States, Texas, Dallas</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Southern Counties Express</td><td>United States, CA, Compton</td><td>2011</td><td>Active</td></tr>
-<tr><td>Southern Records</td><td>United Kingdom, London</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Space IT Solutions</td><td>England, UK, London Waterloo</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>SpareRoom.co.uk</td><td>Macclesfield, Cheshire, United Kingdom</td><td>2013</td><td>Active</td></tr>
-<tr><td>SparkNotes.com</td><td>United States, NY, New York</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>SparkSupport</td><td>India, Kerala, Cochin</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Spectra Ltd.</td><td>United Kingdom, London</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Spectrum Data Technologies</td><td>United States, NY, new york</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Spectrum Data Technologies, LLC</td><td>United States, NY, NY</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Spectrum IMC</td><td>United States, New York, New York</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Speedlink ISP GmbH</td><td>Germany, Berlin, Berlin</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Spherion professional Services</td><td>United States, CA, Pleasanton</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Spill</td><td>France, Paris</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Spin Master Studios</td><td>United States, CA, Los Angeles</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>SpinVox</td><td>United Kingdom, Berkshire, Maidenhead</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Spira</td><td>United Kingdom, Buckinghamshire, Milton Keynes</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>SpiraHellic Multimedia Limited</td><td>United Kingdom, Buckinghamshire, Milton Keynes</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>SpiraHellic Multimedia Ltd</td><td>United Kingdom, Bucks, Milton Keynes</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Spire</td><td>United States, MA, Dorchester</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Spire Vision</td><td>United States, NY, New York</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>SportingPulse</td><td>Australia , Victoria, Vermont</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Sportingstatz Limited</td><td>United Kingdom, Surrey, Guildford</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Sports Imports LTD</td><td>United States, Md, Potomac</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>SportsLine.com</td><td>United States, FL, Fort Lauderdale</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>SportsLine.com Inc.</td><td>United States, FL, Ft. Lauderdale</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>SportsLine.com, Inc</td><td>United States, Florida, Fort Lauderdale</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>SportsLine.com, Inc.</td><td>United States, Florida, Fort Lauderdale</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Spring Technology</td><td>United Kingdom, London</td><td>2012</td><td>Active</td></tr>
-<tr><td>Spring technology</td><td>Germany</td><td>2011</td><td>Active</td></tr>
-<tr><td>Sprinklr</td><td>India, KARNATAKA, BANGALORE</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Spry.com</td><td>United States, WA, Seattle</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Square One</td><td>Scotland, Glasgow</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>St. Bernard</td><td>United States, CA, San Diego</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Stackable</td><td>Salt Lake City, UT, USA</td><td>2011</td><td>Active</td></tr>
-<tr><td>Stamford Consultants</td><td>Switzerland, Zurich, Zurich</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>StanaPhone Communications</td><td>Russia, Saint-Petersburg</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Stanford University</td><td>United States, California, Palo Alto</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Staples Australia</td><td>Mascot Sydney Australia</td><td>2013</td><td>Active</td></tr>
-<tr><td>Star Enterprise</td><td>Germany, Untersteinach</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Star Technology Group</td><td>United Kingdom, Gloucester</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Star Technology Inc.,</td><td>United States, TN, Nashville</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Stardawn Consulting</td><td>Germany, Thuringia, Erfurt</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Starpoint Solutions</td><td>United States, NY, Manhattan</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Starpoint Solutios LLC</td><td>United States, New York, Lower Manhattan</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Start Local</td><td>Sydney, NSW, Australia</td><td>2012</td><td>Active</td></tr>
-<tr><td>Start Resourcing</td><td>United Kingdom, London</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Start-up for online business</td><td>United States, CA, Los Angeles</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>StartLocal</td><td>Australia, NSW, Sydney</td><td>2011</td><td>Active</td></tr>
-<tr><td>StateStreet</td><td>United States, Ca, Redwood City</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Statistical Algorithms L.L.C</td><td>United States, Michigan, Detroit</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>StayOnline</td><td>United States, GA, Atlanta</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Stealth</td><td>United States, CA, San Mateo</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Stealth LA dot com</td><td>United States, CA, West Hollywood</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Stealth Media Company</td><td>United States, CA, Hayward</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Stefanini IT Solutions</td><td>Brazil, São Paulo, São Paulo</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Stellar Software Network, Inc.</td><td>United States, TX, Irving</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Stellargy Services</td><td>United States, Texas, Austin</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Stellarware Corporation</td><td>Undefined</td><td>2013</td><td>Active</td></tr>
-<tr><td>Step Communications</td><td>United States, CA, Cupertino</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Steve Jackson Games</td><td>United States, TX, Austin</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Steve MacLellan</td><td>Canada, AB, Calgary</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Stevens Capital Management LP</td><td>United States, PA, Randor</td><td>2011</td><td>Active</td></tr>
-<tr><td>Stevens Capital Management LP.</td><td>Radnor, PA</td><td>2013</td><td>Active</td></tr>
-<tr><td>Steyer Associates, Inc.</td><td>United States, WA, Redmond</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Stiernegrip AB</td><td>SWEDEN, Sollentuna, Stockholm</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Stiernegrip Trading Strategies AB</td><td>Sweden, Stockholm, Stockholm</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Still Real Solutions</td><td>Sydney NSW, Australia</td><td>2012</td><td>Active</td></tr>
-<tr><td>Stopka & Associates</td><td>United States, New Hampshire, Portsmouth</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>StoresOnline, Inc</td><td>United States, Utah, Orem</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Stowers Institute for Medical Research</td><td>United States, MO, Kansas City</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Straker Simkin</td><td>United Kingdom, Middlesex, London</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Strategic Business Systems</td><td>United States, New York, New York City</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Strategic Data Pty Ltd</td><td>Australia, VIC, Carlton</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Strategic IT Staffing</td><td>Oakland, CA</td><td>2012</td><td>Active</td></tr>
-<tr><td>Strategic Staffing Solutions, INc.</td><td>United States, florida, Tampa</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Strategic Systems Solutions, Inc.</td><td>United States, Pennsylvania, Horsham</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Stratify</td><td>United States, CA, Mountain View</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Stratify Software India Limited</td><td>India, KA, Bangalore</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Streamtrans</td><td>United States, CA, Westlake Village</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>StreetLinks / Corvisa</td><td>Milwaukee, WI, United States</td><td>2012</td><td>Active</td></tr>
-<tr><td>Striata SA</td><td>South Africe</td><td>2013</td><td>Active</td></tr>
-<tr><td>StrongMail Systems</td><td>United States, CA, Los Angeles</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>StrongMail Systems, Inc.</td><td>United States, CA, Redwood Shores</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Strongmail Systems</td><td>United States, Los Angeles</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>StubHub</td><td>United States, CA, San Francisco</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Stubhub/Ebay</td><td>United States, CA, San Francisco</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Styria Börse Express</td><td>Austria, Vienna, Vienna</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Subex Ltd</td><td>Bangalore, India</td><td>2011</td><td>Active</td></tr>
-<tr><td>Subtle Motion Media</td><td>Canada, Ontario, Toronto</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Success Wave Marketing</td><td>TX, Flower Mound</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>SuccessMarketingSystems Inc.</td><td>United States, TX, Dallas</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Sudyk Datasoft P Ltd.</td><td>India, Tamil Nadu, Chennai</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Suite Setup</td><td>Los Angeles (Long Beach), CA, United States</td><td>2012</td><td>Active</td></tr>
-<tr><td>SuiteSmart Inc.</td><td>United States, CA, San Francisco</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Sullivan and Cogliano</td><td>United States, Maine, Lewiston</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Summersault website development</td><td>Richmond, IN USA</td><td>2012</td><td>Active</td></tr>
-<tr><td>Summersault, LLC</td><td>United States, IN, Richmond</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Summit Communication Design</td><td>United States, CO, Denver</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Summit Communication Design, Inc.</td><td>United States, CO, Englewood</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Sun Microsystems, Inc.</td><td>United States, CA, Santa Clara</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Sundance MediaCom</td><td>United States, CA, Lancaster</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Sunflower  Broadband</td><td>United States, KS, Lawrence</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Sunflower Broadband</td><td>United States, Kansas, Lawrence</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Super Top Secret Startup</td><td>United States, OR, Portland</td><td>2011</td><td>Active</td></tr>
-<tr><td>SuperLine Telecommunications Ltd</td><td>United Kingdom, London</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Superior Staffing Solutions</td><td>United States, WA, Seattle</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Superior Staffing Solutions (Client)</td><td>United States, IL, Chicago</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Superior Technical Resources, Inc.</td><td>United States, WA, Kent</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Superquote.com Ltd</td><td>United Kingdom, London, London</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Supremesoft</td><td>Boca Raton, FL</td><td>2012</td><td>Active</td></tr>
-<tr><td>SurfRay A/S</td><td>Denmark, Copenhagen K</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>SurfSecret, LLC</td><td>Florida, Orlando</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Surrex</td><td>United States, CA, El Segundo</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Surrex Consulting</td><td>United States, MO, St. Louis</td><td>2012</td><td>Active</td></tr>
-<tr><td>Surrex Solutions</td><td>MA, Newton</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Surrey Technologies Ltd</td><td>United Kingdom, Surrey, Guildford</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>SurveyShack.com Ltd</td><td>United Kingdom, West Midlands, Birmingham</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>SurveyShack.com ltd</td><td>United Kingdom, West Midlands, Birmingham</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>SweetSpot Labs, Inc.</td><td>United States, CA, Pacific Palisades</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Swiftech</td><td>Canada, Ontario, Toronto</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Swiftysite</td><td>Cyprus</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Swisscom</td><td>Switzerland, BE or ZH, Bern or Zürich</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Swissgame NV</td><td>Curacao, </td><td>2011</td><td>Active</td></tr>
-<tr><td>Swisslinx AG</td><td>Switzerland, Zurich</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Switch Management</td><td>United States, CA, San Francisco</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Switch Management Corp.</td><td>United States, CA, Lafayette</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Switch Media Ltd</td><td>United Kingdom, Merseyside, Liverpool</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Sxip</td><td>Canada, BC, Vancouver</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Sxip Identity</td><td>Canada, BC, Vancouver</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Sybase</td><td>United States, CA, Dublin</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Syl Soft</td><td>United States, VA, Williamsburg</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Symantec</td><td>United States, California, SAN FRANCISCO</td><td>2013</td><td>Active</td></tr>
-<tr><td>Symantec </td><td>United Kingdom, Gloucestershire, Gloucester</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Symantec - UK</td><td>Gloucester, UK</td><td>2012</td><td>Active</td></tr>
-<tr><td>Symantec Software Ltd</td><td>Gloucester,UK</td><td>2012</td><td>Active</td></tr>
-<tr><td>Symbox</td><td>United Kingdom, Wiltshire, Swindon</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>SymphonyTeleca</td><td>Palo Alto,CA</td><td>2013</td><td>Active</td></tr>
-<tr><td>Symphonyteleca</td><td>Bangalore</td><td>2012</td><td>Active</td></tr>
-<tr><td>Synacor</td><td>United States, NY, Buffalo</td><td>2012</td><td>Active</td></tr>
-<tr><td>Synacor Inc</td><td>Buffalo, NY</td><td>2012</td><td>Active</td></tr>
-<tr><td>Synacor, Inc</td><td>United States, NY, Buffalo</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Synacor, inc</td><td>United States, NY, Buffalo</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Synapse SE</td><td>United States, Washington, Seattle</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Synaptic Vision Inc</td><td>Canada, Ontario, Toronto</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Synaptic Vision Inc.</td><td>Canda, Ontario, Toronto</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Synctree</td><td>United States, CA, Pasadena</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Synctree, Inc.</td><td>United States, CA, Altadena</td><td>2011</td><td>Active</td></tr>
-<tr><td>Synerfac Technical Staffing</td><td>United States, MD, Hunt Valley</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Synergis</td><td>United States, GA, Alpharetta</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Synergistic Solutions</td><td>United States, FL, North Palm Beach</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Synergy Sourcing</td><td>United States, Florida, Miami</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Synigent Technologies</td><td>United States, Virginia, Richmond</td><td>2012</td><td>Active</td></tr>
-<tr><td>Synopsys India Private Ltd.</td><td>India, Andhra Pradesh, Hyderabad</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Synova - Brasil</td><td>Brasil, Sao Paulo, Sao Paulo</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Syntronic Malaysia Sdn Bhd</td><td>Malaysia, Kuala Lumpur, KLCC</td><td>2011</td><td>Active</td></tr>
-<tr><td>Sysadmin, Inc</td><td>United States, TX, Plano</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Systeam</td><td>United States, Florida, Miami</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>System Planning Corporation</td><td>United States, VA, Arlington</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Systems Alliance</td><td>United States, Maryland, Baltimore</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Systems Alliance Inc</td><td>United States, MD, Baltimore</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Systems Engineering Services</td><td>United States, VA, Reston</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>Systems Integration Solutions</td><td>United States, CA, Walnut Creek</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Systems Personnel</td><td>United States, NY, Buffalo</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Systems Plus</td><td>United States, Maryland, Rockville / Gaithersburg area</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Systems Plus Inc.</td><td>Rockville, MD United States</td><td>2012</td><td>Active</td></tr>
-<tr><td>Systemspersonnel</td><td>United States, New York, Buffalo</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>T Williams Consulting</td><td>United States, NJ, Trenton</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>TAC Worldwide Companies</td><td>United States, IA, Cedar Rapids</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>TAG Online Inc.</td><td>United States, New Jersey, Upper Montclair</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>TAG Online, Inc.</td><td>United States, NJ, Clifton</td><td>2013</td><td>Active</td></tr>
-<tr><td>TAIR (The Arabidopsis Information Resource)</td><td>United States, California, Stanford</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>TAKKLE, Inc.</td><td>United States, NY, New York</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>TASC</td><td>United States, VA, Fairfax</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>TBA</td><td>United States, CA, San Francisco</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>TBA - Please apply for company details</td><td>United Kingdom, UK, Berkshire</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>TBD</td><td>United States, IL, Northern Suburbs</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>TD Securities</td><td>United States, IL, Chicago-Loop</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>TDA Group</td><td>United Kingdom, London, London</td><td>2011</td><td>Active</td></tr>
-<tr><td>TDA Recruitment</td><td>United Kingdom, London, London</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>TDA Recruitment Group</td><td>United Kingdom, London</td><td>2011</td><td>Active</td></tr>
-<tr><td>TEAM Information Services</td><td>United States, Washington DC, Washington DC</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>TEK Systems</td><td>United States, Tx, Austin</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>TEKSystems</td><td>United States, VA, Richmond</td><td>2013</td><td>Active</td></tr>
-<tr><td>TEKsystems</td><td>United States, OH, Dayton</td><td>2013</td><td>Active</td></tr>
-<tr><td>TEKsystems </td><td>USA , Ohio, Miamisburg </td><td>2009</td><td>Inactive</td></tr>
-<tr><td>TEKsystems Contractor</td><td>United States, FL, Boca Raton</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>TEKsystems, Inc.</td><td>United States, VA, Richmond</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>TEKsystems.com</td><td>United States, Colorado, North of Denver</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>TERSS</td><td>Mexico, DF/ AGS/ ZAC/ GTO, Mexico</td><td>2011</td><td>Active</td></tr>
-<tr><td>TES- Tthe Employment Solution</td><td>Canada, BC, Vancouver</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>TIG</td><td>United States, TX, Dallas</td><td>2012</td><td>Active</td></tr>
-<tr><td>TLB Creative</td><td>United States, CA, Westlake Village</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>TLB Creative Inc.</td><td>United States, CA, Westlake Village</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>TLO</td><td>Boca Raton, FL, United States</td><td>2011</td><td>Active</td></tr>
-<tr><td>TLO Corp.</td><td>United States, FL, Boca Raton</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>TMP Worldwide</td><td>Australia, NSW, Sydney</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>TMSI</td><td>United States, Washington DC, Washington DC</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>TMW Systems Inc.</td><td>United States, Ohio, Beachwood</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>TMW Systems, Inc.</td><td>United States, Ohio, Cleveland</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>TPP</td><td>United Kingdom, Gloucestershire, Cheltenham</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>TRIAD RESOURCING</td><td>Portsmouth, UK</td><td>2013</td><td>Active</td></tr>
-<tr><td>TRISTAFF</td><td>United States, CA, San Diego</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>TRS</td><td>Australia, VIC, Melbourne</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>TRX</td><td>United States, Virginia, Tysons  Corner</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>TRX, Inc.</td><td>United States, VA, Vienna</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>TTY</td><td>The netherlands, Amsterdam</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>TTY Internet Solutions BV</td><td>The Netherlands, Amsterdam</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>TTi</td><td>United States, CA, Pasadena</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>TUFTS UNIVERSITY</td><td>United States, MA, Boston</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>TWLV Gaming Ltd.</td><td>London, United Kingdom</td><td>2011</td><td>Active</td></tr>
-<tr><td>Table 20</td><td>United States, California, Los Angeles</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Table XI Partners LLC</td><td>United States, IL, Chicago</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Table20</td><td>United States, CA, Los Angeles</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Tacitus Technology</td><td>Australia, NSW, Sydney</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>TagMan</td><td>United Kingdom, London</td><td>2011</td><td>Active</td></tr>
-<tr><td>Tagged</td><td>Neherlands, Den Haag</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Tahitian Noni International</td><td>United States, Utah, Provo</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Tajsoftware systems</td><td>United States, Ny, Brooklyn</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>TakeitNow BV</td><td>Netherlands, Utrecht</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>Talent Hunt Group</td><td>United States, New York, Manhattan</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Talent Merchants INC</td><td>United States, CA, Palo Alto</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Talent2</td><td>Singapore, Singapore</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>TalentBurst</td><td>United States, ma, Westborough</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Talented Minds</td><td>United States, Massachusetts, middlesex country</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Talentmerchants</td><td>95054, CA, Santa Clara</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Talis Group Limited</td><td>United Kingdom, West Midlands, Birmingham</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Tallience</td><td>Tampa, FL</td><td>2013</td><td>Active</td></tr>
-<tr><td>Tamar</td><td>United Kingdom, Chiswick, London</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Tamar.com</td><td>United Kingdom, London</td><td>2011</td><td>Active</td></tr>
-<tr><td>Tampere University, dept. of Information Studies</td><td>Finland, Tampere</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Taos</td><td>United States, CA, Santa Clara</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Target Labs, Inc</td><td>United States, VA, Arlington</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>TargetCW</td><td>United States, CA, San Rafael</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Tax9er.com</td><td>United States, NY, New York</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Tealium, Inc</td><td>Del Mar, CA</td><td>2013</td><td>Active</td></tr>
-<tr><td>Team Cymru, Inc.</td><td>United States, IL, Chicago</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>TeamExcel</td><td>United States, MN, Minneapolis</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>TeamPrescription</td><td>United States, N/A</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>TeamQuest</td><td>Krakow / Poland</td><td>2012</td><td>Active</td></tr>
-<tr><td>TeamSphere Interactive</td><td>United States, CA, San Francisco</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>Teamware Solutions</td><td>Hyderabad , INDIA</td><td>2012</td><td>Active</td></tr>
-<tr><td>Tech Finders</td><td>United States, AZ, Phoenix</td><td>2011</td><td>Active</td></tr>
-<tr><td>Tech Hiring Ltd</td><td>United Kingdom, London, London</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Tech ID</td><td>United Kingdom, London</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Tech Mahindra</td><td>London, London, London</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Tech Pro, Inc</td><td>United States, CA, San Francisco</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Tech Strata</td><td>Brisbane, QLD, Australia</td><td>2012</td><td>Active</td></tr>
-<tr><td>Tech for Less</td><td>United States, Colorado, Colorado Springs</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>TechGuard Security</td><td>United States, DC, Washington</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>TechLink Systems</td><td>United States, VA, Dulles</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>TechOnLine, Inc.</td><td>United States, MA, Bedford</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>TechOne, Inc</td><td>San Jose, CA</td><td>2011</td><td>Active</td></tr>
-<tr><td>TechSource Consulting Inc.</td><td>United States, Texas, Houston</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>TechSource Consulting, Inc.</td><td>United States, Texas, Houston</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>TechUSA</td><td>United States, MD, Annapolis</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Techlink Systems</td><td>United States, VA, Reston</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Technical Connections</td><td>United States, CA, Manhattan Beach</td><td>2012</td><td>Active</td></tr>
-<tr><td>Technical Connections Inc</td><td>United States, California, West Los Angeles</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Technical Identity</td><td>United Kingdom, London (Central)</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Technical Staffing Associates</td><td>Jacksonville, FL</td><td>2013</td><td>Active</td></tr>
-<tr><td>Technical Staffing Services LLC</td><td>United States, Washington, Seattle</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Technisource</td><td>66211, KS, Overland Park</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Technisource - Kansas City</td><td>United States, Kansas, Shawnee Mission</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Techno Fusion PTY. LTD.</td><td>Australia, SA, Adelaide</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Technofrix</td><td>India, Karnataka, Bangalore</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Technology Brokerage Group</td><td>United States, MD, Lanham</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Technology Brokerage Group, LLC. / Broadband.com</td><td>United States, MD, Lanham or Annapolis</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Technology Navigators</td><td>United States, TX, Austin</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Technology Partners</td><td>United States, MO, St. Louis</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Technology Partners (Consulting Firm)</td><td>St Louis, MO, USA</td><td>2012</td><td>Active</td></tr>
-<tr><td>Technology Partners, Inc.</td><td>MO, St. Louis</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>Technology Productivity Services</td><td>United States, NY, New York</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Technology Resource Group</td><td>United States, Michigan, Metro Detroit</td><td>2012</td><td>Active</td></tr>
-<tr><td>Technology Search International</td><td>United States, NY, NYC</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Technorati</td><td>CA, San Francisco</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Technosoft Corp</td><td>United States, KS, Overland Park</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Technosoft Corporation</td><td>United States, KS, Kansas city</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Technosoft corporation</td><td>United States, MN, St.Paul</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Technovate Inc.</td><td>Canada, Ontario, Toronto</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Techweb Technologies P. Ltd.,</td><td>india, karnataka, bangalore</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>TekPartners</td><td>telecommute anywhere in the United States</td><td>2013</td><td>Active</td></tr>
-<tr><td>TekSystems</td><td>United States, NC, Raleigh</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Tekessence</td><td>United States, California, San Mateo,CA</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Tekessence Inc</td><td>United States, NJ, New Jersey</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Tekleaders</td><td>United States, IL, Chicago</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Teknatus Solutions</td><td>India, Delhi, New Delhi</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Teknetex</td><td>Nashville, TN</td><td>2011</td><td>Active</td></tr>
-<tr><td>Teksystems</td><td>USA, IL, Chicago</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Tele Columbus</td><td>Germany, Berlin, Berlin</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Telecommunications Company</td><td>United States, NJ, Holmdel</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Telenor Broadcast as   	</td><td>Norway, Oslo</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Teleperformance</td><td>United States, Ohio, Dublin</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Teleperformance Group</td><td>United States, Ohio, Colubmus</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Telephone Internet Number Authority</td><td>United States, MD, Annapolis</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Teleradiology Services</td><td>AZ, Tucson</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Telerama</td><td>United States, PA, Pittsburgh</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Tellme Networks</td><td>United States, CA, Mountain View</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Tellme Networks, Inc.</td><td>United States, CA, Mountain View</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Tellme, A Microsoft Subsidiary</td><td>United States, CA, Mountain View</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Telstra</td><td>United Kingdom, London</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Temp Agency</td><td>The Netherlands, Utrecht, Utrecht</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Tentek</td><td>United States, CA, Glendale</td><td>2011</td><td>Active</td></tr>
-<tr><td>Teradata</td><td>United States, California, San Diego</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Terenine</td><td>United States, TN, Chattanooga</td><td>2011</td><td>Active</td></tr>
-<tr><td>TestPros</td><td>United States, VA, Sterling</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Tevreden BV</td><td>Netherlands, Rotterdam</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Texas A&M University</td><td>United States, TX, College Station</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Texas.Net</td><td>United States, TX, Austin</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Texterity</td><td>United States, Massachusetts, Southborough</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Texterity, Inc</td><td>United States, MA, Southborough</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Textlink Brokers</td><td>United States, AZ, Mesa</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Textor Webmasters Ltd</td><td>United Kingdom, England, London</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>The A Group</td><td>United States, TN, Brentwood</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>The ACI Group, Inc.</td><td>United States, Maryland, Owings Mills</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>The Adkins Group</td><td>United States, CA, Palo Alto</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>The Armada Group</td><td>United States, CA, San Jose</td><td>2012</td><td>Active</td></tr>
-<tr><td>The Armada Group, Inc.</td><td>United States, CA, San Jose</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>The Ayers Group</td><td>United States, CT, Stamford</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>The BMW Group</td><td>United States, New York, New York</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>The Bachrach Group</td><td>United States, NY, New York</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>The Bartech Group</td><td>United States, IN, Bloomington</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>The Berkeley Electronic Press</td><td>United States, CA, Berkeley</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>The Berkeley Electronic Press (bepress)</td><td>United States, CA, Berkeley</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>The BettyMills Company</td><td>United States, CA, San Mateo</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>The Brothers Industrious, Inc.</td><td>Orlando, Florida</td><td>2012</td><td>Active</td></tr>
-<tr><td>The Brown Group, LLC</td><td>Dallas, TX USA</td><td>2011</td><td>Active</td></tr>
-<tr><td>The Cipher Group</td><td>United States, IL, Orland Park</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>The Circle Group</td><td>London, London</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>The Cobalt Group</td><td>United States, WA, Seattle</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>The Collective Group</td><td>Austin, TX</td><td>2013</td><td>Active</td></tr>
-<tr><td>The Conference Exchange</td><td>United States, Rhode Island, Cumberland</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>The Consortium</td><td>United States, MD, Bethesda</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>The Cypress Group</td><td>New York City</td><td>2013</td><td>Active</td></tr>
-<tr><td>The Design People</td><td>United States, CA, Marina Del Rey</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>The DogEars Network, LLC</td><td>United States, NY, New York</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>The Donaldson Group</td><td>NA</td><td>2012</td><td>Active</td></tr>
-<tr><td>The Durango Herald</td><td>United States, Colorado, Durango</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>The Epitec Group</td><td>United States, MI , Southfield</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>The Erlbaum Group</td><td>United States, NY, New York</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>The Erlbaum Group, LLC</td><td>United States, NY, New York</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>The Ersus Group, LLC</td><td>United States, New York, New York</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>The Franchise Builders</td><td>United States, AZ, Tempe</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>The Genome Institute</td><td>St. Louis, MO, USA</td><td>2013</td><td>Active</td></tr>
-<tr><td>The Gibbs Partnership</td><td>United Kingdom, London</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>The Harvest Consulting Group, Inc.</td><td>United States, Illinois, Chciago</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>The Horizon Group</td><td>United States, New York, New York (Manhattan)</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>The Hudson Group</td><td>Boston, MA, USA</td><td>2012</td><td>Active</td></tr>
-<tr><td>The Insource Group</td><td>TX, Dallas</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>The Internet Marketing Center</td><td>Canada, BC, Vancouver</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>The Judge Group</td><td>United States, IL, Hoffman Estates</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>The Kaizen Partnership</td><td>United Kingdom, London</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>The Lawner Group</td><td>United States, MA, Cambridge</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>The Leverage Group</td><td>United States, NY, New York</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>The Logic Group</td><td>United Kingdom, London, London</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>The Lucas Group</td><td>United States, VA, Arlington</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>The MathWorks</td><td>Natick (Boston Area), MA, United States</td><td>2011</td><td>Active</td></tr>
-<tr><td>The Maven Group - Recruiting</td><td>United States, California, San Diego</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>The Millburn Corporation</td><td>United States, NY, New York</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>The Mitchell Group</td><td>United States, CA, West Los Angeles</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>The Moving Picture Company</td><td>United Kingdom, London</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>The Natural Gardening Company</td><td>Petaluma, CA</td><td>2012</td><td>Active</td></tr>
-<tr><td>The NewSof  Group, Inc</td><td>United States, WA, Seattle</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>The NewSof Group</td><td>United States, Washington, Seattle</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>The NewSof Group, Inc.</td><td>United States, WA, Seattle</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>The Octane Group</td><td>Canada, Ontario, Toronto</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>The Perl Hunter</td><td>United States, NY, New York</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>The Perl Review</td><td>United States, CA, San Jose</td><td>2011</td><td>Active</td></tr>
-<tr><td>The Project Resource</td><td>United States, NY, New York</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>The Pythian Group</td><td>Canada, Ontario, Ottawa</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>The RIPE NCC</td><td>Netherlands, AMSTERDAM</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>The Register</td><td>United Kingdom, Scotland, Edinburgh</td><td>2011</td><td>Active</td></tr>
-<tr><td>The Richard Group</td><td>United States, Virginia, DC Metro</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>The Richard Group, Inc.</td><td>United States, VA, Manassas</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>The Rimm-Kaufman Group, LLC.</td><td>United States, VA, Charlottesville</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>The Rubicon Group</td><td>United States, GA, Atlanta</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>The Sacramento Bee (McClatchy)</td><td>United States, CA, Sacramento</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>The Swish Group</td><td>Australia, Victoria, Melbourne</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>The Sycamore Group</td><td>United States, PA., West Chester</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>The Vista Group</td><td>United States, CA, Hermosa Beach</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>The Web Recruiters</td><td>United States, MO, St. Louis</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>The Wellcome Trust Sanger Institute</td><td>United Kingdom, Cambridge</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>The Working Mac</td><td>United States, Washington, Seattle</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>The World Community Network</td><td>United States, VA, Saint Stephens Church</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>The Yacht Week</td><td>United Kingdom, SW6 3HH, London</td><td>2011</td><td>Active</td></tr>
-<tr><td>The big:group</td><td>United Kingdom, London </td><td>2009</td><td>Inactive</td></tr>
-<tr><td>The eMarket Group, Ltd.</td><td>United States, OR, Portland</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>TheBootic</td><td>Singapore, Singapore</td><td>2011</td><td>Active</td></tr>
-<tr><td>TheMerger</td><td>Austria, Vienna</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>TheMuniCenter</td><td>United States, NY, New York</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>TheMuniCenter, LLC</td><td>United States, NY, New York</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>There, Inc.</td><td>United States, California, Menlo Park</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Thermeon</td><td>Gatwick, UK</td><td>2013</td><td>Active</td></tr>
-<tr><td>Thermeon Europe Ltd</td><td>United Kingdom, Surrey, Near Gatwick</td><td>2011</td><td>Active</td></tr>
-<tr><td>Think Design</td><td>United States, NY, New York</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Think Design, Inc.</td><td>United States, NY, New York</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Think Wize</td><td>Belgium, Flanders, Ghent</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>ThinkAhead Advisory Services Pvt Ltd</td><td>India, Karnataka, Bangalore</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>ThinkGeek</td><td>United States, Virginia, Fairfax</td><td>2013</td><td>Active</td></tr>
-<tr><td>ThinkGeek, Inc.</td><td>United States, Virginia, Fairfax</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>ThinkTank Management Consulting</td><td>Germany, Hessen, Darmstadt</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Thinkronize, Inc.</td><td>United States, OH, Cincinnati</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Thinkstock LLC</td><td>United States, NC, Charlotte</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Thinkstock, LLC</td><td>United States, NC, Charlotte</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>ThisNext</td><td>United States, CA, Santa Monica</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>ThisNext.com</td><td>United States, CA, Santa Monica</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Thompson Technologies</td><td>United States, GA, Alpharetta</td><td>2011</td><td>Active</td></tr>
-<tr><td>Thompson Technologies, Inc</td><td>United States, GA, Alpharetta</td><td>2011</td><td>Active</td></tr>
-<tr><td>Thomson Findlaw</td><td>United States, Cal, Sunnyvale</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Thomson Legal & Regulatory</td><td>United States, MN, St. Paul</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Thunderworx</td><td>Cyprus, Limassol</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Ti4  Technology LLC</td><td>United States, Ut, Provo</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Ti4 Technology LLC</td><td>United States, UTAH, Springville</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>TiVo</td><td>United States, CA, Alviso</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>TiVo Inc.</td><td>United States, CA, Alviso</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>TicketMonkey</td><td>New York City</td><td>2012</td><td>Active</td></tr>
-<tr><td>Ticketmaster</td><td>CA, West Hollywodd</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Ticketmaster (citysearch.com development team)</td><td>United States, California, Los  Angeles</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Ticketmaster UK</td><td>United Kingdom, London</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Ticketmaster UK Ltd</td><td>United Kingdom, London</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Ticketmaster.com</td><td>United States, CA, Los Angeles</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>TidalData Solutions</td><td>India, Karnataka, Bangalore</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Tier 1 Investment Bank</td><td>London, UK</td><td>2012</td><td>Active</td></tr>
-<tr><td>Tier One Investment Bank</td><td>United Kingdom, London, London</td><td>2011</td><td>Active</td></tr>
-<tr><td>Tier One Technologies</td><td>United States, CA, Novato</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Tigar Properties, Inc.</td><td>United States, California, Northridge</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Tiger Technology</td><td>United States, Colorado, Englewood</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>TigerLead</td><td>United States, CA, Los Angeles</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>TigerLead Solutions</td><td>West Los Angeles, CA, USA</td><td>2012</td><td>Active</td></tr>
-<tr><td>Time Inc</td><td>United States, NY, New York</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Time Out</td><td>United Kingdom, London</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Time Warner Cable</td><td>United States, VA, Herndon</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Timeless Group</td><td>United Kingdom, London</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Tinde ASA</td><td>Norway, Oslo</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Titan Corporation</td><td>United States, MD, Landover</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Tiva Systems, Inc.</td><td>United States, CA, San Francisco</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Top Bay Area Tech Company</td><td>CA, Santa Clara</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Top Brokerage/Trading Firm</td><td>Fairfield, CT, Greenwich </td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Top Digital Agency - London</td><td>London Bridge, London</td><td>2013</td><td>Active</td></tr>
-<tr><td>Top Financial Firm</td><td>United States, NY, NYC</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Top Financial Institution</td><td>New York, NY</td><td>2011</td><td>Active</td></tr>
-<tr><td>Top Quant Trading Platform</td><td>Undefined</td><td>2011</td><td>Active</td></tr>
-<tr><td>Top SF Bay Area Tech Company</td><td>CA, Santa Clara</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Top Secret Security Firm!</td><td>United States, CA, Santa Clara</td><td>2011</td><td>Active</td></tr>
-<tr><td>Top electronic trading firm</td><td>Undefined</td><td>2012</td><td>Active</td></tr>
-<tr><td>Top systematic trading firm</td><td>Undefined</td><td>2012</td><td>Active</td></tr>
-<tr><td>Top tier Investment Bank</td><td>England, London</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Top-Tier Investment Bank</td><td>United States, IL, Chicago</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>TopSource</td><td>United States, Florida, Coconut Creek</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Topica</td><td>United States, CA, San Francisco</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Topix</td><td>United States, Ca, Palo Alto</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Topix.net</td><td>United States, CA, Palo Alto</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Toplinker</td><td>China, WuXi JiangSu China</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Topsy</td><td>United States, CA, San Francisco</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Tortus Technologies</td><td>United States, MA, West Springfield</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Total Care Rewards</td><td>United States, IL, Telecommute</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>TourWerk GmbH</td><td>Germany, NRW, Koeln</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Tourtellotte Consulting</td><td>United States, MA / CT, Natick / New London</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Towe Hill Insurance Group Inc. </td><td>United States, Florida, Gainesville</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Tower Research Capital LLC</td><td>New York, NY, USA</td><td>2011</td><td>Active</td></tr>
-<tr><td>TowerData</td><td>United States, NY, New York</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Trackvia</td><td>United States, CO, Denver</td><td>2011</td><td>Active</td></tr>
-<tr><td>Trade Only</td><td>Manchester, UK</td><td>2012</td><td>Active</td></tr>
-<tr><td>TrafficMac</td><td>United States, New York, Manhattan</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Trafficmac</td><td>United States, NY, New York</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Traffics- Softwaresysteme für den Tourismus GmbH</td><td>Germany, Berlin</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Trafika Ltd</td><td>United Kingdom, London</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Training</td><td>United States, TX, Fort Worth</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>TrainingBoard</td><td>UK, London</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>TransGaming Technologies</td><td>Canada, Ontario, Toronto</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>TransQuest Ventures</td><td>United States, California, San Jose</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>TransactTools, Inc.</td><td>United States, NY, New York</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Transfer-To</td><td>Singapore</td><td>2013</td><td>Active</td></tr>
-<tr><td>Transfer-To (Ingenico)</td><td>Singapore, Singapore</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>TransferTo</td><td>Singapore</td><td>2012</td><td>Active</td></tr>
-<tr><td>Transitive</td><td>United Kingdom, Manchester</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Transmeta Corporation</td><td>United States, CA, Santa Clara</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>Traskalik/Tramino</td><td>Germany, Bayern, Oberstdorf</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Travel TV Network</td><td>Beaufort, SC, Ridgeland (Hilton Head,SC)</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>TravelPod</td><td>Canada, Ottawa</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>TravelPod-TripAdvisor</td><td>Canada, Ottawa</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Travelaudience</td><td>Cologne, Germany</td><td>2013</td><td>Active</td></tr>
-<tr><td>Travelocity</td><td>United States, TX, Southlake</td><td>2012</td><td>Active</td></tr>
-<tr><td>Travelocity Nordic AB</td><td>Sweden, Stockkholm</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Traveltek</td><td>United Kingdom, Glasgow, East Kilbride</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Traveltek Ltd</td><td>Scotland, Strathclyde, Glasgow, UK and offshore</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Traveltek Ltd.</td><td>United Kingdom, Glasgow, East Kilbride</td><td>2013</td><td>Active</td></tr>
-<tr><td>TreeTechnologies</td><td>Canada, Quebec, Montreal</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Trend Micro, Inc.</td><td>Munich, Germany</td><td>2012</td><td>Active</td></tr>
-<tr><td>Trendi Solutions Pty Ltd</td><td>Australia, Western Australia, Perth </td><td>2011</td><td>Active</td></tr>
-<tr><td>Trepp, LLC</td><td>United States, New York, New York City</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Trepp, LLC.</td><td>United States, New York, New York City</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>TriPower</td><td>United States, CA, Livermore</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>TriQuint Semiconductor</td><td>United States, OR, Hillsboro</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>TriStaff Consulting</td><td>United States, CA, San Diego</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Triad Holding LCC</td><td>United States, IL, Chicago</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Tribune Media Services</td><td>United States, New York, Queensbury </td><td>2012</td><td>Active</td></tr>
-<tr><td>Triconsulting</td><td>United Kingdom, London</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>TripWolf</td><td>Hungary, Budapest, Budapest</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Triple Crown Consulting</td><td>Maynard, MA</td><td>2012</td><td>Active</td></tr>
-<tr><td>Tristaff</td><td>United States, CA, San Diego</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Tritech</td><td>CA, LA</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Tropos Networks</td><td>United States, California, Sunnyvale</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Trovare</td><td>United States, California, San Francisco</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Troy Research</td><td>United States, NA, NA</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>TroyResearch</td><td>United States, N/A, N/A</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>TruSecure</td><td>United States, Virginia, Herndon</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>TrueBridge Resources</td><td>United States, TN, Franklin</td><td>2011</td><td>Active</td></tr>
-<tr><td>TrueSys</td><td>United States, MD, Baltimore</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>TrustCommerce</td><td>United States, CA, Pasadena</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Trutap Ltd</td><td>United Kingdom, London</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Tsunami Software, Inc.</td><td>United States, CA, Palo Alto</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>TubeMogul, Inc.</td><td>Emeryville, CA</td><td>2011</td><td>Active</td></tr>
-<tr><td>Tubemogul, Inc.</td><td>Emeryville, CA</td><td>2011</td><td>Active</td></tr>
-<tr><td>Tucows</td><td>Canada, Ontario, Toronto</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Tufts University</td><td>United States, MA, Boston</td><td>2013</td><td>Active</td></tr>
-<tr><td>Tufts University Sciences Knowledge (TUSK)</td><td>United States, MA, Boston</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Tufts University Sciences Knowledgebase (TUSK)</td><td>United States, MA, Boston</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Tufts University, School of Medicine</td><td>United States, MA, Boston</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Tunesat LLC</td><td>New York, NY; Paris, France; or telecommute</td><td>2013</td><td>Active</td></tr>
-<tr><td>Turbo10</td><td>United Kingdom, Kilburn + Rotherhithe - London, London</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Turnberry Solutions</td><td>United States, PA, WEST CHESTER</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Turning Point Professional Services, llc</td><td>United States, IL, Chicago</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Turnitin</td><td>Oakland, CA</td><td>2012</td><td>Active</td></tr>
-<tr><td>Tusk Partners</td><td>United States, CA, Menlo Park</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Tuskerdirect Limited</td><td>United Kingdom, Hertfordshire, Watford</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Tuskerdirect Ltd</td><td>United Kingdom, Hertfordshire, Watford</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Twiki</td><td>United States, CA, Sunnyvale</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Twiki Inc</td><td>United States, CA, Sunnyvale</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Tyche International Inc.</td><td>United States, CA, Fremont</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Tyler Colby Hill Tech Staffing</td><td>United States, NY, New York</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Tyrus Blu</td><td>Bulgaria, Sofia, Sofia</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>U.S. Technical Services</td><td>United States, CT, Shelton</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>UB</td><td>United States, Any, Any</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>UBICS India Pvt Ltd</td><td>India, Karnataka, Bangalore</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>UBS Australia</td><td>Australia, NSW, Sydney</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>UC Davis</td><td>United States, California, Davis</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>UCA Computer Systems</td><td>United States, MN, St. Paul</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>UCA Services</td><td>United States, NY, NYC</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>UCLA (researcher)</td><td>United States, CA, LA area</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>UDig</td><td>Richmond, VA</td><td>2013</td><td>Active</td></tr>
-<tr><td>UGO Entertainment</td><td>United States, NY, New York</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>UK2 Group</td><td>London, UK</td><td>2013</td><td>Active</td></tr>
-<tr><td>UK2.net</td><td>United Kingdom, London, London</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>ULTIMATE Ineternet Access, Inc</td><td>United States, CA, Ontario</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>ULTIMATE Internet Access, Inc</td><td>United States, CA, Ontario</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>UP Networks</td><td>United States, TX, Plano</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>UPI Contracting</td><td>Australia, NSW, Sydney</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>UPI Contracting - SYDNEY</td><td>Australia, NSW - CBD, Sydney</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>UPSERJ</td><td>United States, NY, Garden City, Long Island</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>US Bank</td><td>United States, Minnesota, Richfield</td><td>2011</td><td>Active</td></tr>
-<tr><td>US Bankruptcy Court - NJ</td><td>United States, NJ, Newark</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>US Marine Corps - MCCS (www.usmc-mccs.org)</td><td>United States, VA, Quantico</td><td>2011</td><td>Active</td></tr>
-<tr><td>US based company in New Delhi</td><td>India, Delhi, New Delhi</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>US based product firm</td><td>Bangalore, India</td><td>2013</td><td>Active</td></tr>
-<tr><td>USA America Inc.</td><td>United States, Florida, Tampa Bay Area</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>USA Herbals</td><td>United States, New Yrok, New York</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>USA Technologies</td><td>United States, PA, Malvern</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>USA Technologies, Inc.</td><td>19460, PA, Malvern</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>USGN</td><td>United States, AZ, Phoenix</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>USMC-MCCS</td><td>United States, Va, Quantico</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>USOOL Tech.</td><td>United States, IL, Chicago</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>UTBox Pty Ltd</td><td>Australia, NSW, Sydney</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>UV Hosting</td><td>United States, MI, Grand Rapids</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>UV Uptime</td><td>United States, Michigan, Grand Rapids</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>UW-Madison Condor Project</td><td>United States, Wisconsin, Madison</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>UWT</td><td>United States, NY, New York</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Ubicom</td><td>United States, California, Sunnyvale</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Ubics Inc</td><td>United States, Illinois, Springfield</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Ucompass.com, Inc.</td><td>United States, FL, Tallahassee</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Ultrabuys</td><td>Los Angeles</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>UniPress Software</td><td>United States, NJ, Edison</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>UniPress Software Inc</td><td>United States, NJ, Edison</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>UniPress Software Inc.</td><td>United States, NJ, Edison (suburb of NYC)</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Unique Internet Services</td><td>United States, N/A, N/A</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Unisys Corp</td><td>United States, DC, Washington</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>United Federation of Teachers</td><td>United States, New York, New York City</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>United Games Limited</td><td>United Kingdom</td><td>2013</td><td>Active</td></tr>
-<tr><td>United Internet AG (1&1, WEB.DE, GMX)</td><td>Germany, Baden-Württemberg, Karlsruhe</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>United Online</td><td>United States, UT, Orem</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>United Online, Inc. (www.untd.com)</td><td>United States, Utah, Orem</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>United States Bankruptcy Cou</td><td>United States, Florida, Tampa or Orlando (Duty Station to be determined by</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>United States Racquet Stringers Association</td><td>United States, CA, Vista</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Unity Technologies</td><td>Denmark, DK, Copenhagen</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Univeristy of California Davis</td><td>Davis, CA, USA</td><td>2012</td><td>Active</td></tr>
-<tr><td>Universal Software</td><td>MA, Boston</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Universal Software Corp</td><td>United States, MA, Boston</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>University Junction</td><td>Canada, Ontario, Ottawa</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>University at Buffalo</td><td>United States, NY, Buffalo</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>University of British Columbia</td><td>Canada, British Columbia, Vancouver</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>University of California, Berkeley</td><td>Berkeley, CA, USA</td><td>2012</td><td>Active</td></tr>
-<tr><td>University of California, Merced</td><td>United States, California, Merced</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>University of Chicago</td><td>Chicago, IL, United States</td><td>2013</td><td>Active</td></tr>
-<tr><td>University of Chicago Press</td><td>Chicago, IL, United States</td><td>2013</td><td>Active</td></tr>
-<tr><td>University of Kansas</td><td>United States, Kansas, Lawrence</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>University of Liverpool</td><td>Liverpool, Merseyside, UK</td><td>2013</td><td>Active</td></tr>
-<tr><td>University of London</td><td>United Kingdom, London</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>University of Oxford</td><td>United Kingdom, Oxford</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>University of Pennsylvania</td><td>United States, PA, Philadelphia</td><td>2012</td><td>Active</td></tr>
-<tr><td>University of San Diego</td><td>United States, CA, San Diego</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>University of South Carolina, Baruch Institute for Marine and Coastal</td><td>United States, South Carolina, Columbia</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>University of Technology, Sydney</td><td>Australia, NSW, Sydney</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>University of Vienna</td><td>Vienna, Austria</td><td>2012</td><td>Active</td></tr>
-<tr><td>University of Washington - Biostat</td><td>United States, WA, Seattle</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Unnames</td><td>United Kingdom, Bucks, High Wycombe</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Untitled</td><td>United States, CA, San Francisco</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Up and Running Support Services</td><td>EspaÃ±a, Madrid, Madrid</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Up and Running Support Services Madrid</td><td>Spain, Madrid, Madrid</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>UpLexis Tecnologia</td><td>Brazil, Sao Paulo, Sao Paulo</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>UpNorth Consulting</td><td>United States, MN, Minneapolis/St. Paul area</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>UpNorth Consulting, Inc.</td><td>United States, Minnesota, Bloomington</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>UpNorth-Vet</td><td>United States, Minnesota, St. Paul</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>UpSellUSA</td><td>United States, Washington, Seattle</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>UpSellUSA, Inc.</td><td>United States, WA, Seattle</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Upperbeyond</td><td>United States, CA, San Francisco</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Uprights</td><td>United States, MA, Northampton,</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Upshot IT Consulting</td><td>United States, OH, Dayton</td><td>2011</td><td>Active</td></tr>
-<tr><td>Uptime Systemloesungen GmbH.</td><td>Austria, Vienna</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Urban Consultancy Ltd</td><td>Scotland, Glasgow</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Urood</td><td>Kuwait, Kuwait, Kuwait</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Used Cars Group</td><td>Austin, TX, United States</td><td>2012</td><td>Active</td></tr>
-<tr><td>User Friendly Linux</td><td>United States, FL, St. Petersburg</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Uslegal.com</td><td>United States, MS, Jackson</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Uslegalforms.com</td><td>United States, MS, Flowood</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Utiba</td><td>Australia, Victoria, Melbourne</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Utrop AS</td><td>Oslo, Norway</td><td>2011</td><td>Active</td></tr>
-<tr><td>V12 Group</td><td>NJ, Red Bank</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>VA Linux Systems</td><td>United States, California, Fremont</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>VERITAS Software Corporation</td><td>United States, CA, Mountain View</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>VFM Interactive</td><td>Canada, Ontario, Toronto</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>VIVA USA INC</td><td>United States, IL, Chicago</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>VMware</td><td>United States, CA, Palo Alto</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>VNES</td><td>Seattle/Bellevue WA</td><td>2012</td><td>Active</td></tr>
-<tr><td>VNU Business Media - IPN</td><td>United States, New York, New York City</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>VOLT Workforce Solutions</td><td>NV, Las Vegas</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>VPS Solutions</td><td>Australia, Queensland, Brisbane</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>VRP Consulting, Inc</td><td>United States, California, Milpitas</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Vaco</td><td>United States, TN, Nashville</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Vaco Technology</td><td>United States, TN, Memphis</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Vado, Inc.</td><td>CS, San Jose</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Validad GmbH</td><td>Vienna, Austria</td><td>2013</td><td>Active</td></tr>
-<tr><td>Validad GmbH.</td><td>Vienna, Austria</td><td>2013</td><td>Active</td></tr>
-<tr><td>Valtech India Systems Pvt Ltd</td><td>India, Karnataka, Bangalore</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>ValuInsight, Inc.</td><td>United States, FL, Delray Beach</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>ValueClick</td><td>United States, CA, Westlake Village</td><td>2011</td><td>Active</td></tr>
-<tr><td>ValueClick Inc.</td><td>United States, California, Westlake Village</td><td>2011</td><td>Active</td></tr>
-<tr><td>ValueClick Media</td><td>United States, CA, Westlake Village or Santa Barbara</td><td>2011</td><td>Active</td></tr>
-<tr><td>Valueclick</td><td>United States, California, Westlake Village</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Valuepitch</td><td>India, Maharashtra, Mumbai</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>VanAbel.Com</td><td>OffShore</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>VanKomen Media</td><td>United States, UT, Salt Lake City</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Vanguard Media</td><td>United States, NY, New York</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>Vanquish</td><td>United States, MA, Marlborough</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Vantage Recruitment (not end client)</td><td>Australia, NSW, Sydney</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Various - We sell the licenses to the clients but don't provide support</td><td>US</td><td>2012</td><td>Active</td></tr>
-<tr><td>Vector</td><td>United Kingdom, London</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Vector Kinetics Inc.</td><td>Los Angeles, CA</td><td>2013</td><td>Active</td></tr>
-<tr><td>Vector Resourcing</td><td>United Kingdom, London</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Vedainfo Inc</td><td>United States, Philadelphia, Philadelphia</td><td>2011</td><td>Active</td></tr>
-<tr><td>Vedams Software Solutions</td><td>India, Andhra Pradesh, Hyderabad</td><td>2011</td><td>Active</td></tr>
-<tr><td>Velocitude</td><td>United States, FL, Fort Lauderdale</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Velocity Hosting</td><td>Australia, New South Wales, Sydney</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Velocity Networks</td><td>Australia, Queensland, Gold Coast</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>Velocity Solutions</td><td>Australia, NSW, Sydney</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Velocity Squared, LLC</td><td>United States, LA, Baton Rouge</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Velocity Staff</td><td>United States, CO, Denver</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Velocity Technology Solutions</td><td>Minneapolis, MN</td><td>2012</td><td>Active</td></tr>
-<tr><td>VelocityVDS</td><td>Australia, NSW, Sydney</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Venda</td><td>United States, New York, New York</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Venda Limited</td><td>United Kingdom, London</td><td>2011</td><td>Active</td></tr>
-<tr><td>Venda Software</td><td>United Kingdom, London, London</td><td>2011</td><td>Active</td></tr>
-<tr><td>Vendare Media</td><td>United States, CA, Los Angeles</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Venortech Ltd.</td><td>United States, New york, Hauppauge</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Venture Unlimited Inc.</td><td>Waltham, MA, United States</td><td>2013</td><td>Active</td></tr>
-<tr><td>Venturi</td><td>London, UK</td><td>2012</td><td>Active</td></tr>
-<tr><td>Venturi-Group</td><td>City of London, UK</td><td>2011</td><td>Active</td></tr>
-<tr><td>Veredus Corporation</td><td>United States, IL, Chicago</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Vergelijk.nl B.V.</td><td>Netherlands, Utrecht</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Vergen Inc.</td><td>Canada, Ontario, Toronto</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>VeriFone, Inc.</td><td>San Francisco, CA</td><td>2012</td><td>Active</td></tr>
-<tr><td>VeriSign</td><td>Austria, Vienna/Salzburg</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>VeriSign Communications GmbH</td><td>Austria, Vienna/Salzburg</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Verifia Inc.</td><td>United States, CA, San Jose</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Verisign</td><td>Austria, Vienna</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Verizon</td><td>United States, CA, Walnut Creek</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Verizon Wireless</td><td>United States, NJ, Bedminster</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Vermillion Group</td><td>United States, IA, Des Moines</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Vermonster LLC</td><td>United States, MA, Boston</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Vermont Information Consortium</td><td>United States, Vermont, Montpelier</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>VersusLaw, Inc.</td><td>United States, Washington, Redmond</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>VerticalResponse</td><td>United States, CA, San Francicso</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Verticalmove, Inc.</td><td>United States, WA, Seattle</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Verza Facility Management BV</td><td>The Netherlands, Noord-Holland, Amsterdam</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>VestNet A/S</td><td>Denmark, DK, Holbaek</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Viable, Inc.</td><td>United States, MD, Rockville</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Viajepro.com</td><td>United States, Florida, Miami</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Victim Support</td><td>United Kingdom, London</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Victory 2000 Inc. (non-profit)</td><td>United States</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Video Island / ScreenSelect</td><td>United Kingdom, London, North Acton, London</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>VideoEgg</td><td>United States, CA, San Francisco</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>VideoSurf Inc.</td><td>United States, CA, San Mateo</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Vidicom Ltd.</td><td>United Kingdom, Derbyshire, Chesterfield</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Vigna Solutions</td><td>McLean, VA</td><td>2013</td><td>Active</td></tr>
-<tr><td>Vindicia</td><td>United States, CA, San Mateo</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Vinq</td><td>United States, CA, San Jose</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Vinq, LLC</td><td>United States, California, San Jose</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Vinton Studios</td><td>United States, OR, Portland</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Viralimpressions, Inc. </td><td>United States, CA, Cupertino</td><td>2011</td><td>Active</td></tr>
-<tr><td>Virgin Media</td><td>United Kingdom, Berkshire, Langley</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Virus Bulletin</td><td>United Kingdom, Oxfordshire, Abingdon</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Virus Bulletin Ltd</td><td>Oxfordshire, UK</td><td>2012</td><td>Active</td></tr>
-<tr><td>Virve</td><td>Australia, Victoria, Melbourne</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Vision Chain, Inc.</td><td>United States, DC, Washington</td><td>2011</td><td>Active</td></tr>
-<tr><td>Vision Commitment Solution</td><td>Nederland, Randstad, Maarssen (opdracht Amsterdam)</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Vision Impact LLC</td><td>United States, UT, Saint George </td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Vision Technology Services</td><td>United States, Maryland, Owings Mills</td><td>2012</td><td>Active</td></tr>
-<tr><td>Vision2Hire Solutions Inc</td><td>Canada, BC, Vancouver</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>VisitWorks</td><td>United States, MI, Grand Rapids</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Vistair</td><td>United Kingdom, Bristol, Bristol</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Visual Trading Systems</td><td>United States, NY, New York</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Viveli</td><td>United States, Illinois, Schaumburg</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Vivox</td><td>United States, MA, Framingham</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Vivox, Inc</td><td>United States, MA, Framingham</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Vivox, Inc.</td><td>United States, MA, Natick</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Vizrt</td><td>United States, NY, New York</td><td>2013</td><td>Active</td></tr>
-<tr><td>Vizrt </td><td>United States, NY, New York</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>VoiceStar, now part of Marchex (NASDAQ: MCHX),</td><td>United States, PA, Philadelphia</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Voicestar</td><td>United States, Pennsylvania, Philadelphia</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Voicestar, now part of Marchex (NASDAQ: MCHX)</td><td>United States, PA, Philadelphia</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Volt</td><td>United States, IL, Chicago</td><td>2011</td><td>Active</td></tr>
-<tr><td>Volt Computer Services</td><td>United States, WA, Bothell</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Volt Information Sciences</td><td>United States, Washington, Bellevue</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Volt Services Group</td><td>United States, PA, Philadelphia - Western Suburbs</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Volt Technical Resources</td><td>CA, Beverly Hills</td><td>2011</td><td>Active</td></tr>
-<tr><td>Vonage</td><td>07733, New Jersey, Holmdel</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Vortechs Group</td><td>United States, OH, Columbus</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Vox Systems, LLC</td><td>Marin County, CA</td><td>2012</td><td>Active</td></tr>
-<tr><td>Vuvox Network</td><td>United States, CA, San Francisco</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Vzglyd.RU</td><td>Russia, Russia, Moscow</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Vzglyd.RU/Dni.RU/ ... (new projects)</td><td>Russia, Russia, Moscow</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>W.I.S</td><td>Germany, NRW, Cologne</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>W3 Data</td><td>United States, WA, Seattle</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>W3 Data Inc</td><td>United States, WA, Seattle</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>W5H Group Inc.</td><td>Canada, Ontario, Toronto</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>WA Consultants</td><td>Denmark, Copenhagen</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>WA Consultants Ltd</td><td>United Kingdom, Hampshire, Farnborough</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>WA Consultants Ltd.</td><td>United Kingdom, Exeter</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>WALT DISNEY FEATURE ANIMATION</td><td>United States, CA, BURBANK</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>WARP 9</td><td>CA, Santa Barbara</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>WAY FORWARD</td><td>United Kingdom, London</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>WCN</td><td>United Kingdom, London</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>WCN plc</td><td>United Kingdom, London, London</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>WDS IT</td><td>United States, KS, Kansas City Metro</td><td>2011</td><td>Active</td></tr>
-<tr><td>WIS</td><td>Germany, NRW, Cologne</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>WIdO</td><td>Germany, Bonn</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>WNS</td><td>United States, CA, San Jose</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>WS Packaging Group</td><td>United States, Wisconsin, Green Bay</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>WSI.com Consulting</td><td>United States, KY, Erlanger</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>WSP International</td><td>Mexico, Nuevo Leon, Monterrey</td><td>2011</td><td>Active</td></tr>
-<tr><td>WSS/Eurostar</td><td>Los Angeles, CA</td><td>2012</td><td>Active</td></tr>
-<tr><td>Walker's Manual, Inc.</td><td>NJ, Freehold</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>WalkerTek Internet Services</td><td>United States, NJ, Fairfield</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Wall Street Source</td><td>United States, NY, New York</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Wallcreate Ltd</td><td>Scarborough, United Kingdom</td><td>2012</td><td>Active</td></tr>
-<tr><td>Walmart.com</td><td>United States, CA, Brisbane</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Wang Trading LLC</td><td>Connecticut, Norwalk</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Warp 9</td><td>United States, CA, Santa Barbara</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Warpspeed Networks</td><td>Australia, QLD, Brisbane</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Washington State University</td><td>United States, WA, Pullman</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Washington University Genome Sequencing Center</td><td>United States, MO, St. Louis</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Washington University Genome Sequencing Center	(WUGSC)</td><td>United States, Missouri, St. Louis</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Washington University Genome sequencing Center</td><td>United States, MO63108, St. Louis</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Washington University School of Medicine</td><td>United States, MO, St. Louis</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Washington University in Saint Louis</td><td>United States, MO, Saint Louis</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Washington University: Genome Sequencing Center</td><td>United States, Missouri, Saint Louis</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>WaveMetrix</td><td>United States, California, San Diego, Los Angeles</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>WaveRight Information Technology, LLC.</td><td>United States, Ohio, Cleveland</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Wavetex Inc.</td><td>United States, TX, Tyler</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Way Forward</td><td>United Kingdom, London</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Way Forward New Media Recruitment</td><td>United Kingdom, Central London, London</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>WaySpa.com</td><td>Canada, Ontario, Toronto</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>We Also Walk Dogs</td><td>United States, Illinois, Chicago</td><td>2011</td><td>Active</td></tr>
-<tr><td>WeCARE - Gesellschaft für interdisziplinäres Gesundheitsmanagment</td><td>DE, Lower Saxony / Niedersachsen, Göttingen</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Weatherly Technologies</td><td>United States, NJ, Jersey City</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Web 2.0 Art Platform</td><td>United States, MA, Boston</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Web Development / Search Engine Company</td><td>United States, WA, Seattle</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Web Development Company</td><td>India, Delhi, New Delhi</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Web Development Factory</td><td>Undefined</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Web Experts</td><td>USA, NY, Middletown</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Web-ICT Services B.V.</td><td>The Netherlands, NH, Amsterdam</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>WebAssign</td><td>United States, NC, Raleigh</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>WebEvent</td><td>United States, MA, Andover</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>WebEvent, Inc.</td><td>United States, MA, Andover</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>WebFusion</td><td>United Kingdom, Middlesex, Uxbridge, near London</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>WebGuard</td><td>Canada, Quebec, Montreal, Dorval</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>WebKing Internet Services</td><td>U.S., TX, Houston</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>WebPub.com</td><td>Earth!</td><td>2012</td><td>Active</td></tr>
-<tr><td>WebZen, Inc.</td><td>United States, Maine, Portland</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Webarchitects</td><td>United Kingdom, Sheffield</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Webfusion</td><td>Uxbridge, Greater London, UK</td><td>2012</td><td>Active</td></tr>
-<tr><td>Webfusion Ltd</td><td>United Kingdom, London, Uxbridge</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Webhuset AS</td><td>Norway, Bergen, Bergen</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Webley Sytems</td><td>United States, IL, Bannockburn</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Webmaint</td><td>United Kingdom, Cheshire, Stockport</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Webmaint Ltd</td><td>United Kingdom, Stockport, Manchester</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Webmaint Ltd.</td><td>United Kingdon, Stockport</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Weborama</td><td>Paris, France</td><td>2013</td><td>Active</td></tr>
-<tr><td>Webpayment Systems</td><td>United States, Utah, Salt Lake City</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Webscheduler LLC</td><td>United States, CA, Oakland</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Websense</td><td>Reading, UK</td><td>2012</td><td>Active</td></tr>
-<tr><td>Websense UK Ltd</td><td>United Kingdom, Reading</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Webster University</td><td>United States, MO, St. Louis</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Websuche Search Technology GmbH & Co. KG</td><td>Germany, Niedersachsen, Osnabrueck</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Wedirect, Inc.</td><td>United States, CA, San Jose</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Weitclick GmbH</td><td>Germany, Stuttgart</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Welcome Trust Sanger Institute</td><td>United Kingdom, Hinxton; Cambridge</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Wellcome Trust Sanger Institute</td><td>United Kingdom, Cambridgeshire, Cambridge</td><td>2013</td><td>Active</td></tr>
-<tr><td>Wellcome trust Sanger Institute</td><td>United Kingdom, Hinxton, Cambridge</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>WestEd</td><td>United States, CA, San Francisco</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>WestHost</td><td>United States, UT, Logan</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Westbourne Partners</td><td>Reception Area, Mayfair, City of Westminster, London W1C, UK</td><td>2012</td><td>Active</td></tr>
-<tr><td>Western Communications, Inc.</td><td>United States, OR, Bend</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Western Pennsylvania Industrial</td><td>United States, Pennsylvania, Koppel</td><td>2011</td><td>Active</td></tr>
-<tr><td>Westlake Financial Services</td><td>United States, CA, Los Angeles</td><td>2012</td><td>Active</td></tr>
-<tr><td>Whapps LLC</td><td>United States, OH, Cincinnati</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Whapps, LLC.</td><td>United States, Ohio, Cincinnati</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>WhenU</td><td>United States, NY, New York</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>WhenU INC</td><td>United States, New York, New York City</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>WhenU.com</td><td>United States, NY, New York</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>WhenU.com, Inc.</td><td>United States, NY, New York</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Where2GetIt</td><td>United States, IL, Chicago area (Arlington Heights)</td><td>2012</td><td>Active</td></tr>
-<tr><td>Where2GetIt, Inc.</td><td>United States, Illinois, Wheeling</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>White Hat Security</td><td>United States, California, Santa Clara</td><td>2011</td><td>Active</td></tr>
-<tr><td>White Oak Technologies</td><td>United States, MD, Silver Spring</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>White Oak Technologies, Inc.</td><td>United States, MD, Silver Spring</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>White Oak Technology, Inc.</td><td>United States, MD, Silver Spring</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>White Pages</td><td>United States, Washington, Seattle</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>White light publications</td><td>Undefined</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>White oak Technologies, Inc.</td><td>United States, VA, Crystal City</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>WhiteHat Security</td><td>United States, CA, Santa Clara</td><td>2013</td><td>Active</td></tr>
-<tr><td>WhitePages.com</td><td>United States, WA, Seattle</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>WhitePages.com, Inc.</td><td>United States, WA, Seattle</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Whitelight Publications</td><td>United States, Washington, Tukwila</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Whitepages.com</td><td>98101, WA, Seattle</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Whitepages.com, Inc.</td><td>United States, WA, Seattle</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Wi-Free Ltd</td><td>Gibraltar</td><td>2013</td><td>Active</td></tr>
-<tr><td>Wifidelity Networks</td><td>Canada, Ontario, Toronto</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Wild About Cars</td><td>United States, IL, Chicago</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Wilder & Associates</td><td>Canada, Ontario, Toronto</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Wildside Adult Personals, Inc.</td><td>United States, Maine, Portland</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Will be disclosed later</td><td>New Delhi, India</td><td>2012</td><td>Active</td></tr>
-<tr><td>Williamson Employment</td><td>United States, MI, Kalamazoo</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>Wimba, Inc.</td><td>United States, NY, New York</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Winter Wyman</td><td>United States, MA, Boston</td><td>2011</td><td>Active</td></tr>
-<tr><td>Winter Wyman </td><td>United States, Massachusetts , Boston Metro West </td><td>2011</td><td>Active</td></tr>
-<tr><td>WireSpring Technologies</td><td>United States, FL, Ft Lauderdale</td><td>2011</td><td>Active</td></tr>
-<tr><td>WireSpring Technologies, Inc</td><td>United States, FL, Ft. Lauderdale</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>WireSpring Technologies, Inc.</td><td>United States, FL, Ft. Lauderdale</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>WiredStaff Corp.</td><td>United States, CA, Woodland Hills,</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>WizzyWeb;</td><td>Anywhere, Anywhere, Anywhere (Telecommute)</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>WolfeTech Development Corporation</td><td>United States, NY, New York</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Woloshen and Associates</td><td>NJ, Jersey City</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Wolters Kluwer</td><td>United States, MA, Needham</td><td>2011</td><td>Active</td></tr>
-<tr><td>Work India</td><td>India, Chennai</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Work Wonders Staffing, LLC</td><td>United States, WA, Seattle</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Worlco</td><td>USA, NJ, Warren</td><td>2011</td><td>Active</td></tr>
-<tr><td>World Careers Network PLC</td><td>United Kingdom, London, London</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>World Diagnostics, Inc.</td><td>United States, FL, Miami Lakes</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>World Famous Staffing</td><td>United States, CA, San Diego</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>World Health Organization</td><td>Switzerland, Geneva</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>World Health Organization (WHO)</td><td>Switzerland, Geneva</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>WorldBridge Partners</td><td>United States, NE, Omaha</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>WorldBy.Com</td><td>Italy, Florence, Empoli</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>WorldBy.Com SPA - www.worldby.com</td><td>Italy, Tuscany, Empoli - Florence</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>WorldWinner</td><td>United States, MA, Newton</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Worldwideworker</td><td>United Arabic Emirates, Dubai</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Worrell Corporation</td><td>United States, Indiana, Indianapolis</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>WorthPoint Corporation</td><td>Atlanta, GA</td><td>2012</td><td>Active</td></tr>
-<tr><td>Wotan</td><td>United States, CT, Fairfield</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Wunderdog Sports LLC</td><td>Colorado</td><td>2012</td><td>Active</td></tr>
-<tr><td>X-ISS</td><td>United States, TX, Houston</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>XING AG</td><td>Germany, Hamburg</td><td>2011</td><td>Active</td></tr>
-<tr><td>XL Marketing</td><td>United States, NY, New York</td><td>2011</td><td>Active</td></tr>
-<tr><td>XL Marketing Corp.</td><td>New York, NY, United States</td><td>2012</td><td>Active</td></tr>
-<tr><td>XOffice LLC</td><td>United States, AZ, Tempe</td><td>2011</td><td>Active</td></tr>
-<tr><td>XPEM Inc</td><td>Roseville, CA</td><td>2012</td><td>Active</td></tr>
-<tr><td>XQUIZIT TECHNOLOGIES</td><td>United States, NEW YORK, NEW YORK</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>XSE Business Analysts</td><td>Australia, Victoria, Melbourne</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>XWI International Media</td><td>Canada, Ontario</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Xact Consulting A/S</td><td>Danmark, Hvidovre</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Xavient Information Systems</td><td>United States, MO, St Louis</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Xelia Wizard Systems Inc</td><td>Maricopa, AZ, Tempe</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Xerox</td><td>United States, OR, Portland</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Xerox Corporation</td><td>United States, OR, Wilsonville</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Xilinx</td><td>United States, CA, San Jose</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Xkudos Ltd</td><td>Portugal, Lisbon, Lisbon</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Xoriant</td><td>United States, CA, San Jose</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Xoriant Corporation</td><td>United States, California, San Jose</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Xpand</td><td>Australia, VIC, Melbourne</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Xsell Resources</td><td>United States, PA, KING OF PRUSSIA</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Xtreme Technologies</td><td>United States, NY, New York</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Xymbol Lab</td><td>United States, DC, Washington</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>Xynergy, Inc. Web Development</td><td>United States, New Mexico, Santa Fe</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>YAHOO</td><td>United States, ca, sunnyvale</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>YAHOO!</td><td>United States, NY, New York,</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>YOH</td><td>San Mateo, California, Redwood City</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>YaBB (Yet another Bulletin Board)</td><td>Undefined</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Yachtworld.com/Boats.com</td><td>Canada, BC, Vancouver</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Yahoo</td><td>Undefined</td><td>2011</td><td>Active</td></tr>
-<tr><td>Yahoo - Asia</td><td>Taiwan (flexible - see detail), Taipei	(preferred)</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Yahoo Inc</td><td>United States, CA, Santa Clara</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Yahoo Inc, Yahoo Search Marketing Engineering</td><td>United States, CA, Pasadena</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Yahoo Inc.</td><td>United States, CA, Sunnyvale</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Yahoo Search Marketing</td><td>United States, CA, Pasadena, CA (soon to be Burbank)</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Yahoo!</td><td>United States, CA, Sunnyvale</td><td>2012</td><td>Active</td></tr>
-<tr><td>Yahoo! Finance</td><td>United States, CA, Sunnyvale</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Yahoo! Inc</td><td>Undefined</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Yahoo! Inc.</td><td>United States, CA, Sunnyvale</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Yahoo! Local</td><td>United States, CA, Santa Clara</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Yahoo! Search Marketing</td><td>United States, California, Burbank</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Yahoo! Search Technology</td><td>United States, CA, Sunnyvale</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Yahoo, Inc</td><td>United States, CA, Sunnyvale</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Yahoo, Inc.</td><td>United States, CA, Sunnyvale</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>Yale New Haven Hospital</td><td>United States, CT, New Haven</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Yale University</td><td>United States, Connecticut, New Haven</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Yamaha Motor</td><td>United States, CA, Cypress - Los Angeles</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Yellow Media Inc</td><td>Canada, Ontario, Toronto</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Yenting nv</td><td>Belgium, Antwerp</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>YesBookit</td><td>Newcastle, NSW, Australia</td><td>2013</td><td>Active</td></tr>
-<tr><td>Yeshiva University</td><td>Bronx, New York, United States, 10461</td><td>2011</td><td>Active</td></tr>
-<tr><td>Yesmail</td><td>United States, MA, Andover</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>Ymogen</td><td>United Kingdom, London</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Ymogen Limited</td><td>United Kingdom, London</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Ymogen Ltd</td><td>United Kingdom, London</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Ymogen Ltd.</td><td>United Kingdom, London</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Yoh</td><td>United States, California, San Francisco Bay Area - Mid Peninsula</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Yoh Company</td><td>United States, OH, Dayton</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Yoh IT</td><td>United States, South Carolina, Greenville</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Yoh IT and Engineering</td><td>United States, CA, Belmont</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Yoh IT and Engineering (Staffing firm)</td><td>United States, CA, Belmont</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Yoh Services</td><td>Belmont, CA</td><td>2011</td><td>Active</td></tr>
-<tr><td>Yoh Services (Staffing firm)</td><td>USA, CA, San Mateo</td><td>2011</td><td>Active</td></tr>
-<tr><td>Yokel, Inc.</td><td>United States, MA, Waltham</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>YouCheckCredit.com</td><td>92660, CA, Newport Beach</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Young Americans for Liberty</td><td>United States, Virginia, Arlington</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>YourAmigo</td><td>Australia, South Australia, Adelaide</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>YourAmigo Ltd</td><td>Australia, SA, Adelaide - South Australia</td><td>2011</td><td>Active</td></tr>
-<tr><td>YourSolutions.net, LLC</td><td>United States, UT, Sandy  (Near Salt Lake)</td><td>2011</td><td>Active</td></tr>
-<tr><td>YourSolutions.net, LLC - MLM Software Company</td><td>United States, Utah, Moab</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>ZSI - CENTRE FOR SOCIAL INNOVATION</td><td>Austria, Vienna</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>ZW Technology</td><td>Austria, Wien, Wien</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>ZYNET Limited</td><td>Exeter, Devon, UK</td><td>2013</td><td>Active</td></tr>
-<tr><td>Zap Group</td><td>Ramat Gam, Israel</td><td>2013</td><td>Active</td></tr>
-<tr><td>Zappos</td><td>United States, CA, San Francisco</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Zappos Family of Companies</td><td>United States, NV, Las Vegas</td><td>2011</td><td>Active</td></tr>
-<tr><td>Zappos IP inc.</td><td>Las Vegas, NV, USA</td><td>2012</td><td>Active</td></tr>
-<tr><td>Zappos.com</td><td>United States, KY, Shepherdsville</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Zappos.com, Inc.</td><td>United States, Nevada, Las Vegas</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>Zaunz Publishing GmbH</td><td>Germany, Bavaria, Eichenau</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>Zednax</td><td>United Kingdom, Manchester</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>Zenaide Technologies</td><td>United States, CA, San Jose,</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Zenex PArtners</td><td>United States, CA, Novato</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Zentyal</td><td>Zaragoza, Spain</td><td>2013</td><td>Active</td></tr>
-<tr><td>Zeuscoder inc.</td><td>India, maharashtra, Nashik</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Zimu Inc.</td><td>United States, NY, New York</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Zion Partners</td><td>United States, CA, Los Angeles</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>ZipRecruiter</td><td>Los Angeles, CA</td><td>2013</td><td>Active</td></tr>
-<tr><td>ZipSearch</td><td>United States, CA, San Diego</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>ZipSearch!</td><td>United States, CA, San Diego</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Zmanda</td><td>United States, CA, Sunnyvale</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>ZoeCity</td><td>United States, WA, Seattle</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Zone-Office</td><td>Canada, Quebec, Montreal</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Zoopla</td><td>United Kingdom, London, London</td><td>2011</td><td>Active</td></tr>
-<tr><td>Zoopla.co.uk</td><td>United Kingdom, N Acton, London</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>Zoovy, Inc</td><td>United States, CA, Carlsbad (north of San Diego)</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>Zucker, Goldberg & Ackerman</td><td>United States, New Jersey, Mountainside</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>Zurka Interactive</td><td>Washington, DC</td><td>2012</td><td>Active</td></tr>
-<tr><td>Zweites deutsches Fernsehen</td><td>Germany, Rheinland-Pfalz, Mainz</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>Zygox. Inc</td><td>United States, California, San Jose</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>[confidential]</td><td>United States, NY, Brooklyn</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>[ta!ent scout]</td><td>Australia, Victoria, Melbourne</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>a 10-year-old publicly-traded "startup"</td><td>United States, CA, Silicon Valley</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>aCerno Inc</td><td>United States, CA, San Francisco</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>abacix</td><td>Mexico, df, mexico city</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>abrs</td><td>United Kingdom, London</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>abrs ltd</td><td>United Kingdom, London</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>absolutearts.com</td><td>United States, Ohio, Granville</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>adaps IT recruitment</td><td>Australia, Melbourne, Victoria,</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>adaptive technologies ltd</td><td>United Kingdom, east sussex, brighton</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>aerodeon</td><td>United Kingdom, London</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>aesop.com</td><td>United States, CA, Los Angeles</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>aibetsu</td><td>Hungary</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>airG</td><td>Canada, British Columbia, Vancouver</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>alldayPA</td><td>United Kingdom, Manchester</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>amazon.com</td><td>United States, WA, Seattle</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>artelight GmbH</td><td>Germany, NRW, Buende</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>athenahealth</td><td>United States, MA, Watertown</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>avity</td><td>United States, ct,ny,nj, new haven-ct</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>backcountry.com</td><td>United States, UT, Park City</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>bbNetwork Ltd</td><td>Undefined</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>bbc</td><td>United Kingdom, london</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>bbc.co.uk</td><td>United Kingdom, England, London</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>beRecruited</td><td>San Francisco, CA</td><td>2011</td><td>Active</td></tr>
-<tr><td>bepress</td><td>Berkeley, CA, USA</td><td>2013</td><td>Active</td></tr>
-<tr><td>best-in-deals</td><td>Hannover, Germany</td><td>2012</td><td>Active</td></tr>
-<tr><td>bigsecurity.com</td><td>United States, CO, Colorado Springs</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>bizjournals</td><td>United States, NC, Charlotte</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>bizjournals.com</td><td>United States, NC, Charlotte</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>bkwholesale</td><td>United States, ca, sacramento</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>blackink</td><td>South Africa, Cape Town</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>blank for screening</td><td>United States, PA, Philadelphia</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>blekko</td><td>United States, CA, Redwood Shores</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>blip.tv</td><td>United States, NY, New York</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>brookbend outdoor furniture</td><td>United States, ma, hopkinton</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>bushcards.com</td><td>United States, ny, new york</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>c/o C&D Elite Ltd</td><td>United Kingdom, Berkshire, Reading</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>cPanel</td><td>United States, TX, Houston</td><td>2013</td><td>Active</td></tr>
-<tr><td>cPanel INC</td><td>United States, Texas, Houston</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>cPanel Inc.</td><td>United States, Texas, Houston </td><td>2011</td><td>Active</td></tr>
-<tr><td>cPanel of Texas LLC</td><td>United States, Texas, Houston</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>cPanel, Inc</td><td>Houston, TX</td><td>2013</td><td>Active</td></tr>
-<tr><td>careerfactorllc.com</td><td>USQ, CT, New Haven County</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>cargotel</td><td>United States, md, telecommute</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>chi</td><td>Brazil, São Paulo, São Paulo</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>chileviagem</td><td>chile, pucon, pucon</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>citysearch</td><td>United States, CA, Los Angeles</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>ciudadnet</td><td>chile, chile, chile</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>clackmas paper products</td><td>United States, OR, clackmas</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>clickpatrol</td><td>United States, TX, Dallas</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>client of Custom Search Group, Inc.</td><td>United States, MA, Boston</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>cloud</td><td>Thailand, Bangkok</td><td>2011</td><td>Active</td></tr>
-<tr><td>cogmedia</td><td>canada, quebec, montreal</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>confidential</td><td>United States, NY, New York</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>contractor of Motorola</td><td>China, BeiJing</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>contractor.com</td><td>Canada, ON, Toronto</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>craigslist</td><td>94122, CA, San Francisco</td><td>2012</td><td>Active</td></tr>
-<tr><td>creative solutions services, llc</td><td>United States, new york, port washington</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>curtaintech</td><td>10018, NY, New York</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>deasil systems</td><td>United States, ny, new york</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>delphi HR-Systems GmbH</td><td>Germany, Hamburg</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>demoxi Inc</td><td>United States, WA, Bellevue</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>dp connect</td><td>United Kingdom, London</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>dress-for-less GmbH</td><td>Germany, 65439 Flörsheim am Main</td><td>2013</td><td>Active</td></tr>
-<tr><td>dxi corp</td><td>greece, athens</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>e screening room</td><td>United States, CA, San Rafael</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>e screening room (non-profit)</td><td>United States, CA, San Francisco</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>e screening room . org</td><td>United States, CA, San Rafael</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>e screening room .org</td><td>United States, ca, San Rafael</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>e-Commerce company in Toronto</td><td>Canada, Ontario, Toronto</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>e-Dialog</td><td>United States, MA, Lexington</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>e-Dialog,Inc.</td><td>United States, MA, Lexington</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>e-Man Solutions International</td><td>United Kingdom, West London, London</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>e-Perception. Inc.</td><td>United States, CA, Temecula</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>e-Primary</td><td>United States, PA, Philadelphia</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>e-commerce client</td><td>United Kingdom, (Central), London</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>e.Cross GmbH & Co. KG</td><td>Germany, Hannover</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>e/t/s didactic media</td><td>Germany, Bavaria, Munich</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>eBD Soft</td><td>Spain, Catalunya, Barcelona</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>eBay</td><td>United States, California, San Jose</td><td>2011</td><td>Active</td></tr>
-<tr><td>eBay Inc</td><td>United States, CA, San Jose</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>eBay Inc.</td><td>United States, California, San Jose</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>eContact</td><td>Belgium, Brussels</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>eGENTIC Systems GmbH</td><td>Darmstadt, Germandy</td><td>2012</td><td>Active</td></tr>
-<tr><td>eJournalPress</td><td>United States, MD, Bethesda</td><td>2013</td><td>Active</td></tr>
-<tr><td>eMarketTeam Holdings LLC</td><td>Telecommute</td><td>2012</td><td>Active</td></tr>
-<tr><td>eNamix Inc.</td><td>United States, CA, Aliso Viejo</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>ePrize</td><td>United States, Michigan, Pleasant Ridge</td><td>2013</td><td>Active</td></tr>
-<tr><td>ePrize LLC</td><td>MI, Detroit</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>ePrize, LLC</td><td>United States, Michigan, Pleasant Ridge</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>ePsych Solutions</td><td>Australia, QLD, BRISBANE</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>ePublishing</td><td>United States, IL, Chicago</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>eQuest Solutions</td><td>U.S., ca, Alhambra</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>eQuisto Customized Commerce GmbH</td><td>Germany, Cologne</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>eScription</td><td>United States, MA, Needham</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>eScription, Inc</td><td>United States, MA, Needham</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>eSiteGuru.com</td><td>United States, CA-95747, Roseville</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>eSoftDev</td><td>Romania, -, Focsani, Bucharest</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>eSynergy Solutions</td><td>London,  United Kingdom</td><td>2011</td><td>Active</td></tr>
-<tr><td>eTechFocus</td><td>United States, CA, Cupertino</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>eTouch Systems</td><td>United States, ca, Fremont</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>eWingz Systems, Inc.</td><td>United States, California, San Francisco</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>ed2go.com</td><td>United States, CA, Temecula</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>edurus, Inc.</td><td>United States, NV, Carson City</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>email to ask</td><td>United States, CA, Cupertino</td><td>2011</td><td>Active</td></tr>
-<tr><td>emfasis.com</td><td>United States, DC, Washington</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>empiric solutions</td><td>United Kingdom, london, london</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>epublica GmbH</td><td>Germany, HH, Hamburg</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>epublica gmbH</td><td>Germany, HH, Hamburg</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>ettain group</td><td>Morrisville, NC</td><td>2012</td><td>Active</td></tr>
-<tr><td>eviesays.com</td><td>United States, Tennessee, Nashville</td><td>2011</td><td>Active</td></tr>
-<tr><td>expanXion</td><td>United States, CA, Santa Monica</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>expanXion Recruiting</td><td>United States, CA, San Francisco</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>fastclick</td><td>United States, CA, Santa Barbara</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>forrealty.com</td><td>Undefined</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>freeradicalnetworks.com</td><td>Tele, Tele, Telecommute</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>frumdate</td><td>United States, md, baltimore</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>fruuts AG</td><td>Germany, Berlin, Berlin</td><td>2011</td><td>Active</td></tr>
-<tr><td>ftwilliam.com</td><td>United States, Wisconsin, Madison/Milwaukee</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>futureLAB AG</td><td>Switzerland, Zurich, Winterthur</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>g2 Recruitment Solutions</td><td>United Kingdom, London</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>getPraised</td><td>Germany, Hamburg</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>getanet GmbH & Co. KG</td><td>DE, Hamburg, Hamburg</td><td>2011</td><td>Active</td></tr>
-<tr><td>gp333</td><td>Undefined</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>gteam</td><td>HOME BASED</td><td>2013</td><td>Active</td></tr>
-<tr><td>gtsee.com</td><td>Undefined</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>gumtree.com ltd.</td><td>United Kingdom, Surrey, Richmond Upon Thames</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>hdl focus</td><td>95054, ca, santa clara</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>hedge-row.co.uk</td><td>United Kingdom, London - City</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>hi5 Networks </td><td>United States, CA, San Francisco</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>hi5 Networks (US)</td><td>United States, California, San Francisco</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>highorbit</td><td>South Africa, WC / GAU, Cape Town / Johannesburg</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>hiller paper</td><td>United States, WA, Spokane</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>horizon wimba</td><td>United States, ny, new york</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>hotonline</td><td>United Kingdom, London</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>hotonline Ltd</td><td>United Kingdom, London</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>hte</td><td>Germany, Baden Wuerttemberg, Heidelberg</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>http://koko.jariyabee.com/app</td><td>United States, WA, Seattle</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>http://www-all-in-one-e-commerce.com</td><td>United States, NV, Las Vegas</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>http://www.rapint.com</td><td>Australia, Telecommute, Telecommute</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>humyo.com</td><td>United Kingdom, West Yorkshire, Leeds/Bradford</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>humyo.com Ltd.</td><td>United Kingdom, West Yorkshire, Saltaire - Bradford, Leeds</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>i4U</td><td>Australia, Queensland, Gold Coast</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>i5invest</td><td>Austria, Vienna or Salzburg</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>i5invest, www.123people.com</td><td>Austria/Hungary, Vienna/Budapest</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>iATN</td><td>United States, California, Brea</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>iAgora</td><td>Spain, Barcelona</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>iAgora.com</td><td>Spain, Catalunya, Barcelona</td><td>2011</td><td>Active</td></tr>
-<tr><td>iAnnounce</td><td>United Kingdom</td><td>2012</td><td>Active</td></tr>
-<tr><td>iAnywhere Solutions</td><td>United States, California, Dublin (East Bay)</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>iAnywhere Solutions / AvantGo</td><td>United States, CA, Dublin</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>iGuard / Quintiles</td><td>United States, NJ, Princeton</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>iMatch Technical Services</td><td>United States, WA, Seattle</td><td>2011</td><td>Active</td></tr>
-<tr><td>iPIX</td><td>United States, CA, San Ramon</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>iParadigms, LLC</td><td>United States, CA, Oakland</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>iPost</td><td>United States, CA, San Rafael</td><td>2011</td><td>Active</td></tr>
-<tr><td>iPower</td><td>United States, CA, Santa Monica</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>iPowerWeb</td><td>United States, CA, Santa Monica</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>iPowerweb Inc.</td><td>United States, CA, Santa Monica</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>iSpace, Inc</td><td>United States, CA, Santa Monca</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>iTalent Inc.</td><td>United States, California, San Francisco</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>iTeam</td><td>United States, MA, Littleton</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>iTeam Inc</td><td>United States, MA, Littleton</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>iTeam, Inc.</td><td>United States, MA, Westford</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>iVenue.com</td><td>United States, CA, Whitter</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>iWebmasters.com</td><td>Philippines, Makati City</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>ibex Healthdata Systems</td><td>United States, IL, Rosemont</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>ibex Healthdata Systems, Inc.</td><td>Illinois, Rosemont</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>iboats.com</td><td>United States, UT, Draper</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>iconma</td><td>United States, VA, Reston</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>iiNet Ltd</td><td>Melbourne, Australia</td><td>2012</td><td>Active</td></tr>
-<tr><td>illicoweb</td><td>France, Morvillars</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>ilogicnet consulting</td><td>United States, OHIO, Miamisburg,Ohio</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>inSite Internet Solutions</td><td>United States, IL, Woodstock</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>infoSpider</td><td>United States, CA, Milpitas</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>interbase corporation</td><td>United States, ca, Tustin</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>international computer network</td><td>United States, pa, bristol</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>inviCRO</td><td>Cologne, Germany or Boston, MA</td><td>2012</td><td>Active</td></tr>
-<tr><td>ionUS.com</td><td>United States, California, San Diego</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>ionix Limited</td><td>United Kingdom, Suffolk</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>ireland.com</td><td>Ireland, Dublin</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>isoTree, LLC</td><td>United States</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>itembase GmbH</td><td>Berlin, Germany</td><td>2013</td><td>Active</td></tr>
-<tr><td>iwdevelopers</td><td>Ireland</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>j2 Global</td><td>Los Angeles, CA,</td><td>2012</td><td>Active</td></tr>
-<tr><td>jzb90</td><td>Netherlands, Arnhem</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>kanetix.ca</td><td>Canada, Ontario, Toronto</td><td>2011</td><td>Active</td></tr>
-<tr><td>karmadownload.com</td><td>United Kingdom, London</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>kgbweb</td><td>United States, NY, New York</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>large interactive agency</td><td>United States, New York, New York</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>latz://new.media</td><td>Deutschland, Saarland, Saarbrücken</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>lawnsales llc</td><td>United States, california, santa monica</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>log</td><td>Portugal, Lisbon</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>log - Open Source Consulting</td><td>Portugal, Lisbon</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>logicLAB</td><td>Denmark, Copenhagen</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>logical line GmbH</td><td>Hannover, Germany</td><td>2012</td><td>Active</td></tr>
-<tr><td>mBalance</td><td>The Netherlands, Amsterdam</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>mBase</td><td>Canada, AB, Edmonton</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>mBase Systems Inc</td><td>Canada, Alberta, Edmonton</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>mBase Systems Inc.</td><td>Canada, AB, Edmonton</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>major NYC Firm</td><td>United States, NY, NYC</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>mindsource</td><td>United States, CA, San Jose</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>mnusa</td><td>Las Vegas, NV, USA</td><td>2011</td><td>Active</td></tr>
-<tr><td>mobile messaging sollutions (mms)</td><td>United States, MA, Boston</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>mobile messaging solutions (mms)</td><td>Austria, Vienna/Salzburg</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>mobile messaging solutions (mms) GmbH</td><td>Austria, Vienna</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>mobile.de</td><td>Germany, Hamburg</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>mobile.de AG</td><td>Germany, Hamburg</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>mptv</td><td>United States, CA, Van Nuys</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>multimap.com</td><td>United Kingdom, England, London</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>mySociety</td><td>United Kingdom</td><td>2013</td><td>Active</td></tr>
-<tr><td>mySociety Ltd</td><td>United Kingdom, London, London</td><td>2012</td><td>Active</td></tr>
-<tr><td>mySociety.org</td><td>United Kingdom, Any, Any</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>mytriggers.com</td><td>United States, Ohio, Columbus</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>n-Cube Technologies</td><td>United States, CA, Sunnyvale</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>n-Cube Technologies </td><td>United States, CA, Marina District, N. San Francisco</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>n-cube Technologies</td><td>United States, CA, Marina District, N. San Francisco</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>n/a</td><td>United Kingdom, not given</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>n/a; I'm just a student</td><td>United States, MA, Boston</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>n\a</td><td>United States, Texas, Frisco</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>na</td><td>yourhouse, usa</td><td>2011</td><td>Active</td></tr>
-<tr><td>nabbr.biz</td><td>United States, NY, New York</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>name withheld</td><td>United States, Remotely, Work</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>needabee</td><td>United States, California, San Francisco</td><td>2011</td><td>Active</td></tr>
-<tr><td>netPolarity</td><td>United States, VA, Reston</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>netPolarity, Inc.</td><td>United States, VA, Reston</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>netfxx.net</td><td>United States, FL, Hollywood</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>network appliance</td><td>94089, CA, Sunnyvale</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>nfon AG</td><td>Germany, Bavaria, Munich</td><td>2011</td><td>Active</td></tr>
-<tr><td>nnit A/S</td><td>Denmark, Copenhagen, Bagsvaerd</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>non disclosed</td><td>ny -teleconmute</td><td>2013</td><td>Active</td></tr>
-<tr><td>none</td><td>02906, RI, Providence</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>noris network AG</td><td>Deutschland, Nürnberg</td><td>2012</td><td>Active</td></tr>
-<tr><td>noyona.com</td><td>United States, CA, Palo Alto</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>oDesk</td><td>United States, CA, Menlo Park</td><td>2012</td><td>Active</td></tr>
-<tr><td>one of MNC client based out in Bangalore</td><td>Bangalore</td><td>2013</td><td>Active</td></tr>
-<tr><td>ontotel</td><td>United States, new jersey, maplewood</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>open network design</td><td>Undefined</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>pair Networks, Inc.</td><td>United States, PA, Pittsburgh</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>pep productions</td><td>austria, vienna, vienna</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>petfinder.com  |  animal planet</td><td>United States, any state, home office</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>pingAUDIO</td><td>United States, VA, Reston</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>please contact for Company Info</td><td>United States, NY, Manhattan</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>plusW GmbH</td><td>Schorndorf, Germany</td><td>2012</td><td>Active</td></tr>
-<tr><td>plusw GmbH</td><td>Germany, Neckartailfingen</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>pobox.com</td><td>United States, Pennsylvania, Philadelphia</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>praecipuus</td><td>Canada, Ontario, Toronto</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>pricegrabber.com</td><td>United States, CA, Culver City</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>private</td><td>United States, CA, San Mateo</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>private contractor</td><td>Australia, NSW, Sydney</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>private individual</td><td>United Kingdom, Oxfordshire, Oxford</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>project49 AG</td><td>Germany, Berlin</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>publicopinionresearch.com</td><td>U.S., California</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>quality-webhosting.net</td><td>Undefined</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>quickflicks, inc.</td><td>United States, CA, Marina del Rey</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>rSchoolToday.com</td><td>Undefined</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>rSchooltoday.com</td><td>United States, Minnesota, Winona</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>rackAID</td><td>United States, CT, New Haven</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>realestate.com.au</td><td>Australia, Victoria, Richmond, Melbourne</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>rjm business solutions GmbH</td><td>Germany, Lampertheim</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>s1</td><td>United Kingdom, Scotland, Glasgow</td><td>2011</td><td>Active</td></tr>
-<tr><td>see description</td><td>Undefined</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>simplex info systems</td><td>United States, CA, north bay</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>smc technologies</td><td>United States, DC, Washington</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>social media startup</td><td>Santa Monica, CA, United States</td><td>2011</td><td>Active</td></tr>
-<tr><td>softfabrik GmbH</td><td>Germany, Frankfurt am Main</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>spamzap.com</td><td>Telecommute, Telecommute, Telecommute</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>sparksupport</td><td>india, kerala, cochin</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>stanford university</td><td>United States, ca, stanford</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>state51</td><td>United Kingdom, London</td><td>2013</td><td>Active</td></tr>
-<tr><td>stealth</td><td>United States, CA, Hayward</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>stealth mode</td><td>United States, San Francisco, CA</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>stimTV</td><td>United States, CA, Oxnard</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>sysinteger</td><td>Germany, Bayern, Muenchen/Munich</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>systags GmbH</td><td>Germany, NRW, Düsseldorf</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>t.b.a.</td><td>United States, CA, Santa Monica</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>the Rubicon Project</td><td>United States, CA, Los Angeles</td><td>2011</td><td>Active</td></tr>
-<tr><td>thecitysecret ltd</td><td>United Kingdom, North Yorkshire, Richmond</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>thelendingmasters.com</td><td>United States, FL, Miami</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>theregister.co.uk</td><td>Edinburgh, Scotland, UK.</td><td>2012</td><td>Active</td></tr>
-<tr><td>think project! International GmbH & Co KG</td><td>Berlin, GERMANY</td><td>2013</td><td>Active</td></tr>
-<tr><td>think project! International GmbH & Co. KG</td><td>Germany, Berlin</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>topix</td><td>United States, ca, palo alto</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>topix.net</td><td>United States, CA, Palo Alto</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>traffic.com</td><td>United States, PA, Wayne</td><td>2006</td><td>Dormant</td></tr>
-<tr><td>tripwolf</td><td>Vienna, Austria</td><td>2011</td><td>Active</td></tr>
-<tr><td>ts.com</td><td>United Kingdom, Oxon, Oxford</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>ts.com Ltd</td><td>United Kingdom, Oxfordshire, Kidlington</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>tuscany networks Ltd.</td><td>United Kingdom, Hampshire, Basingstoke</td><td>2011</td><td>Active</td></tr>
-<tr><td>undisclosed until candidate is selected</td><td>United States, Illinois / New York, Chicago / New York City</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>uptime systemlösungen gmbh</td><td>Austria, vienna</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>urbia.com AG</td><td>Germany, NRW, Cologne</td><td>2011</td><td>Active</td></tr>
-<tr><td>urbia.com AG - ein Unternehmen von Gruner+Jahr</td><td>Köln / Cologne, NRW, Germany</td><td>2012</td><td>Active</td></tr>
-<tr><td>vMoksha Technologies</td><td>United States, CA, Bay Area</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>vertraulich - wird im ErstgesprÃ¤ch genannt</td><td>Deutschland / Germany, Berlin</td><td>2010</td><td>Inactive</td></tr>
-<tr><td>vice versa limited</td><td>United Kingdom, London</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>videorelay.com</td><td>United States, Louisiana, New Orleans</td><td>2002</td><td>Dormant</td></tr>
-<tr><td>voxclever</td><td>Bracknell, United Kingdom</td><td>2013</td><td>Active</td></tr>
-<tr><td>web advertising company</td><td>France, Paris</td><td>2011</td><td>Active</td></tr>
-<tr><td>webbee esolutions private limited</td><td>india, delhi, delhi</td><td>2005</td><td>Dormant</td></tr>
-<tr><td>webit! Gesellschaft für neue Medien mbH</td><td>Germany, Saxony, Dresden</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>webline productions Inc.</td><td>United States, Florida, Boca Raton</td><td>2001</td><td>Dormant</td></tr>
-<tr><td>wishli.st</td><td>United Kingdom, Northumberland, Hexham</td><td>2008</td><td>Dormant</td></tr>
-<tr><td>writch</td><td>United States, CA, Ukiah</td><td>2009</td><td>Inactive</td></tr>
-<tr><td>www.Intexer.com</td><td>Kochi, Kerala, India</td><td>2011</td><td>Active</td></tr>
-<tr><td>www.NewsNow.co.uk</td><td>United Kingdom, West London</td><td>2011</td><td>Active</td></tr>
-<tr><td>www.cyberjoblist.com</td><td>United States, TX, Houston</td><td>2011</td><td>Active</td></tr>
-<tr><td>www.libertyjobs.com</td><td>Langhorne, PA</td><td>2012</td><td>Active</td></tr>
-<tr><td>www.programEz.net</td><td>Preferably from Europe for time zone considerations</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>www.skoosh.com</td><td>United Kingdom, East Sussex, Brighton</td><td>2011</td><td>Active</td></tr>
-<tr><td>www.ustrippoker.com</td><td>Canada, Manitoba, ONline</td><td>2007</td><td>Dormant</td></tr>
-<tr><td>www.zoek.nl B.V.</td><td>The netherlands, Overijssel, Zwolle</td><td>2004</td><td>Dormant</td></tr>
-<tr><td>ziStudio.net</td><td>Canada, Alberta, Edmonton</td><td>2003</td><td>Dormant</td></tr>
-<tr><td>Österreichische Webanalyse</td><td>Österreich, Wien</td><td>2006</td><td>Dormant</td></tr>
-</table>
+Company Name | Company Location | Most Recent Posting | Hiring Status 
+:----------- | :--------------- | :------------------ | :-----------
+$2 Billion Broadband Communications Company | United States, CA, San Jose | 2006 | Dormant
+&#31859;&#31515;&#38597;&#36798;&#36798;&#31185;&#25216;&#21457;&#23637;&#6 | Beijing (PRC), Beijing | 2007 | Dormant
+((otrs.de)) | Germany, Hessen, Frankfurt (Bad Homburg) | 2003 | Dormant
+(Confidential) | United States, CA, San Diego | 2005 | Dormant
+(Please enquire) | United States, DC, Washington | 2010 | Inactive
+(Russian) Obnovlenie | Russia, Moscow | 2007 | Dormant
+(mt) Media Temple | United States, CA, Culver City | 2010 | Inactive
+(none) | United States, Hawaii, Haiku | 2008 | Dormant
+(self-employed) | United States, GA, Atlanta | 2007 | Dormant
+********** | England/Uk, London, London/City | 2006 | Dormant
+*Confidential* | United Kingdon, Hampshire | 2011 | Active
+- | Australia, Victoria, Melbourne | 2006 | Dormant
+/ | Russia, Russia, Stalingrad | 2011 | Active
+//SEIBERT/MEDIA | Germany, Hessen, Wiesbaden | 2008 | Dormant
+//SEIBERT/MEDIA GmbH | Germany, Hessen, Wiesbaden (Projects in Munich possible) | 2008 | Dormant
+//SEIEBRT/MEDIA | Germany, Hessen, Wiesbaden | 2008 | Dormant
+//radiotakeover | United States, NJ, Mt Holly | 2005 | Dormant
+1-800-Save-A-Pet.com | United States, IN, Richmond | 2004 | Dormant
+10East Corp. | United States, FL, Jacksonville | 2008 | Dormant
+123Doc Medical Courses | United Kingdom, London, London | 2006 | Dormant
+123india.com | india, west bengal, kolkata | 2006 | Dormant
+15Gifts Ltd | Brighton, UK | 2013 | Active
+15gifts | Brighton, United Kingdom | 2012 | Active
+1776 Media | United States, CA, Bay Area | 2005 | Dormant
+186k Limited | United Kingdom, W. Yorks, Leeds | 2007 | Dormant
+1st Interactive Design Ltd | United Kingdom, Any in the UK | 2011 | Active
+1st-Interactive Design Ltd | United Kingdom | 2008 | Dormant
+20 Minuten | Switzerland, Zürich | 2008 | Dormant
+2Checkout.com | United States, OH, Columbus | 2008 | Dormant
+2dehands | Amsterdam (NL) | 2011 | Active
+2it | Australia, NSW, Sydney | 2006 | Dormant
+2kms | El Salvador, Central America | 2011 | Active
+39DollarGlasses.com | United States, New York, Ronkonkoma | 2011 | Active
+3BAGSMEDIA | Canada, ON, Toronto | 2001 | Dormant
+3D3.com | Australia, Vic, Melbourne | 2004 | Dormant
+3PF, LLC | United States, OR, Drain and/or Eugene | 2005 | Dormant
+3W Consulting Contracting Recruitment | Australia, New South Wales, Sydney | 2007 | Dormant
+3rdkind Music Production | United Kingdom, Manchester | 2002 | Dormant
+4 of my clients in London | London, UK | 2011 | Active
+411 Web | United States, CA, Los Angeles | 2005 | Dormant
+411web Interactive | United States, CA, Los Angeles | 2005 | Dormant
+5 Point Professional Services | United States, TX, Austin | 2008 | Dormant
+7se7en Ltd. | United Kingdom, London, London | 2011 | Active
+8D Technologies inc. | Canada, Québec, Montreal | 2002 | Dormant
+8minuteDating | United States, FL, Boca Raton | 2010 | Inactive
+@Mail | Australia, NSW, Sydney | 2006 | Dormant
+A Company | United Kingdom, London, London | 2006 | Dormant
+A Pgh Tech company | United States, PA, Pittsburgh | 2001 | Dormant
+A Product Based Company | India, Andhra Pradesh, Hyderabad | 2010 | Inactive
+A Reality Technologies | United States, CA, Los Angeles | 2004 | Dormant
+A Reality Technologies, LLC | United States, CA, Los Angeles | 2003 | Dormant
+A US based fortune 500 Company | India, Delhi, Delhi | 2007 | Dormant
+A leading Financial firm | Singapore, Singapore | 2008 | Dormant
+A major welfare fund | United States, NY, New York | 2005 | Dormant
+A-Life Medical | United States, CA, San Diego | 2010 | Inactive
+A-Z Media | United States, CA, Carlsbad | 2003 | Dormant
+A.C.Coy | United States, PA, Pittsburgh | 2003 | Dormant
+A.C.Coy Company | United States, PA, Pittsburgh | 2009 | Inactive
+A.J.'s Computer Bug | United States, OR, Sherwood | 2003 | Dormant
+A1 | United Kingdom, London | 2009 | Inactive
+A3 IT Solutions, LLC | United States, North Carolina, Greensboro | 2008 | Dormant
+A3 IT Soultions | United States, NC, Greensboro | 2006 | Dormant
+A6iT | Malta, Europe | 2013 | Active
+A9.com | Palo Alto, CA | 2012 | Active
+AAA Microcomputer Service | United States, CA, Long Beach | 2004 | Dormant
+AB STAR GROUP | United States, CA, MENLO PARK | 2006 | Dormant
+ABB | Australia, Victoria, Melbourne | 2005 | Dormant
+ABC (Yoram Shitrit) Ltd. | Israel, Tel Aviv | 2006 | Dormant
+ABC Startsiden AS | Norway, -, Oslo | 2012 | Active
+ABRS | United Kingdom, London | 2009 | Inactive
+AC & D | United States, NV, Henderson | 2006 | Dormant
+AC Labs | United States, MA, Boston area | 2004 | Dormant
+AC Lion | United States, NY, New York | 2005 | Dormant
+ACC Staffing | United States, NC, RTP | 2005 | Dormant
+ACI | United States, MA, Maynard | 2007 | Dormant
+ACURO | U.K., London | 2006 | Dormant
+ADCopy | United States, PA, Philadelphia | 2009 | Inactive
+ADG | St Louis, MO, USA | 2012 | Active
+ADNET | Greenbelt, MD, United States | 2012 | Active
+ADNET Systems | Lanham MD | 2012 | Active
+ADNET Systems, Inc | United States, MD, Lanham | 2008 | Dormant
+AEBN | United States, NC, Charlotte | 2006 | Dormant
+AEL Solutions | Canada, Qc, Montreal | 2006 | Dormant
+AETEA Information Technology | United States, PA, King of Prussia | 2009 | Inactive
+AETEA Information Technology, Inc. | United States, OH, Columbus | 2007 | Dormant
+AFC | United States, TX, Bedford | 2004 | Dormant
+AHN | United States, FL, West Palm Beach | 2009 | Inactive
+AHN Media | United States, telecommute | 2007 | Dormant
+AHN Media Corp | United States, FL, West Palm Beach | 2006 | Dormant
+AHN Media Corporation | United States, FL, West Palm Beach | 2006 | Dormant
+AHN | All Headline News | United States, Florida, West Palm Beach / South Florida | 2008 | Dormant
+AI Technology Group | United States, CA, Riverside | 2004 | Dormant
+AIG | Woodland hills, CA (1 position), Phoenix, AZ (1 Position) | 2013 | Active
+AII Data Processing | Bulgaria, Sofia, Sofia | 2010 | Inactive
+AIM Training Solutions | United States, CA, Livermore | 2005 | Dormant
+AIW Printing Pty Ltd | AUSTRALIA, VIC, Melbourne | 2005 | Dormant
+AJ Associates, Inc. | United States, TN, Memphis | 2006 | Dormant
+AJ-USA, Inc | United States, California, San Diego | 2008 | Dormant
+AKORBI | United States, ILL, CHICAGO | 2004 | Dormant
+AKRAYA, Inc. | United States, CA, San-Jose | 2007 | Dormant
+ALARIS MEDICAL SYSTEMS | United Kingdom, Hampshire, Basingstoke | 2003 | Dormant
+ALARIS Medical Systems | United Kingdom, Hampshire, Basingstoke | 2003 | Dormant
+ALERTSITE | United States, FL, COCONUT CREEK | 2006 | Dormant
+ALERTSITE.COM | United States, FL, COCONUT CREEK | 2006 | Dormant
+ALGEBRAIX | Mexico City, Federal District, Mexico | 2013 | Active
+ALLEN PRESS, INC. | United States, KANSAS, LAWRENCE | 2006 | Dormant
+ALLTECH CONSULTING SERVICES, INC | United States, NY, downtown NYC | 2004 | Dormant
+ALMOND HILL ENTERPRISES | United States, CA, ANEHEIM HILLS | 2002 | Dormant
+ALR Recruitment Services | South Africa, Western Cape, Cape Town | 2007 | Dormant
+ALTIOR CONSULTORIA & ENGENHARIA SA | PORTUGAL | 2005 | Dormant
+AMD (Advanced Micro Devices) | Austin, TX     ** ON SITE ONLY / South Austin ** | 2011 | Active
+AMD Advanced Micro Devices | Dresden, Germany | 2011 | Active
+AMR | UK - London, London | 2004 | Dormant
+ANGEL Internet Services GmbH | Deutschland, NRW, Köln | 2007 | Dormant
+ANK Consulting | Argentina, Buenos Aires, Capital Federal | 2005 | Dormant
+ANSI, Inc. | United States, CA, Palo Alto | 2006 | Dormant
+AOL | United States, VA, Dulles | 2011 | Active
+APEX SYSTEMS INC | United States, MD, BALTIMORE | 2007 | Dormant
+APS Systems | United States, Texas, Austin | 2002 | Dormant
+APWG | United States, CA, Mountain View | 2008 | Dormant
+AQUENT | Australia, Queensland, Brisbane | 2002 | Dormant
+ARG | United States, VA, Richmond | 2005 | Dormant
+ARI Network Services Inc. | United States, VA, Williamsburg | 2005 | Dormant
+ARM | United Kingdom, Berkshire, Winnersh | 2006 | Dormant
+ARM Ltd | United Kingdom, Cambs, Cambridge | 2008 | Dormant
+ASI | NY, New York, New York | 2012 | Active
+ASM | Canada, Ontario, Toronto | 2003 | Dormant
+ASML | Eindhoven, The Netherlands | 2012 | Active
+ASN | United States, AZ, Phoenix | 2003 | Dormant
+AT&T Interactive | United States, CA, Glendale | 2010 | Inactive
+ATD Recruitment | United Kingdom, London, London | 2007 | Dormant
+ATD Recruitment on Behalf on UK Investment Bank | United Kingdom, London | 2005 | Dormant
+ATEC Wireless | United States, New Jersey | 2006 | Dormant
+ATS | Belgium, BW, Braine l'Alleud | 2005 | Dormant
+ATSI | U.S., CA, Petaluma | 2003 | Dormant
+AVAILIGENT | United States, CA, San Jose | 2006 | Dormant
+AVID Technical Resources | United States, New York, New York City | 2010 | Inactive
+AVN Media Network | United States, CA, Chatsworth | 2009 | Inactive
+AVOXI | Charleston, SC | 2012 | Active
+AWeber Communications, Inc. | United States, PA, Richboro | 2007 | Dormant
+AYE Ltd. | Philippines, Metro Manila, Metro Manila | 2004 | Dormant
+Aaronsen Group, Ltd. | United States, Pennsylvania, Pittsburgh | 2002 | Dormant
+Aavalar Consulting | United States, PA, King of Prussia | 2009 | Inactive
+Abacix SC | Mexico, DF, Ciudad de Mexico | 2011 | Active
+Abacus Media International | United States, GA, Atlanta | 2002 | Dormant
+About.com | United States, NY, New York | 2009 | Inactive
+AboutMyBaby.com | United States, CA, Los Angeles | 2006 | Dormant
+AboutUs | United States, Oregon, Portland | 2011 | Active
+Abraxas | United Kingdom, London | 2008 | Dormant
+Abraxas  | Australia, New South Wales, Sydney | 2008 | Dormant
+Absolute House | United States, Minnesota, Lake Begonnwo | 2002 | Dormant
+Absolute Performance, Inc. | United States, CO, Boulder | 2006 | Dormant
+AcAe LLC | United States, Florida, Maitland | 2010 | Inactive
+Academic Benchmark | United States, OH, Cincinnati | 2010 | Inactive
+Academic Benchmarks | Cincinnati, OH or Washington, DC | 2013 | Active
+Academic Presidential Market | United States, CT, New Haven | 2004 | Dormant
+Acantis bv | Dutch Antilles, Curaçao | 2009 | Inactive
+Accenture | Mississauga, Ontario, Mississauga | 2010 | Inactive
+Accenture Canada | Canada, Ontario, Mississauga | 2006 | Dormant
+Access CRM | United States, NY, New York | 2003 | Dormant
+Accessmedia Networks, Inc | United States, CA, Northridge | 2005 | Dormant
+Acctopus GmbH | Duesseldorf area, Germany | 2013 | Active
+AccuDoc Solutions | United States, NC, Raleigh | 2010 | Inactive
+Accurate Operational Support Systems | San Diego, CA , Tucson, AZ, Albuqueruqe, NM , Anywhere USA | 2013 | Active
+Ackerman McQueen | United States, OK, Tulsa | 2003 | Dormant
+Acorn Group | Hampshire | 2013 | Active
+Acoustica, Inc | United States, CA, Oakhurst | 2002 | Dormant
+Acquity Group | United States, Illinois, Northwest Suburbs | 2006 | Dormant
+Across Consulting Ltd | France, 75019, Paris | 2010 | Inactive
+Acta Wireless | United States, CA, San Diego | 2010 | Inactive
+Actie Consulting LLC | United States | 2010 | Inactive
+Action Technical Personnel, LLC | United States, NJ, Jersey City | 2010 | Inactive
+Active Securities Ltd. | United Kingdom, London | 2010 | Inactive
+Active State- A Division of Sophos | Canada, BC, Vancouver | 2004 | Dormant
+ActiveNetwork | Nashville TN | 2012 | Active
+ActiveState | Canada, BC, Vancouver | 2007 | Dormant
+ActiveState Software | Canada, British Columbia, Vancouver | 2007 | Dormant
+ActiveState- A Division of Sophos | Canada, BC, Vancouver | 2004 | Dormant
+Activetech | Israel, il, Hod-Hasaron | 2002 | Dormant
+Acumen PI aka The Student Room | United Kingdom, East Sussex, Brighton | 2011 | Active
+Acuro | United Kingdom, London | 2006 | Dormant
+AdCopy | United States, PA, Philadelphia | 2009 | Inactive
+Adagio Software | Australia, VIC, Melbourne | 2002 | Dormant
+Adagio Teas | United States, NJ, Garfield | 2007 | Dormant
+Adam Jacobs | ny, new york | 2005 | Dormant
+Adam Jacobs Associates | United States, CA, San Francisco | 2007 | Dormant
+Adam Jacobs Associates (Recruiting Agency) | United States, CA, San Francisco - Palo Alto | 2007 | Dormant
+Adam Jacobs Associates - Recruiter | United States, CA, San Francisco Bay Area | 2007 | Dormant
+Adamans Ltd. | Ireland, Dublin | 2010 | Inactive
+Adapt A/S | Denmark, DK, København K | 2011 | Active
+Adaptive Solutions Group | United States, Kansas, Overland Park | 2010 | Inactive
+Adapttoweb | Bulgaria | 2010 | Inactive
+Add2Net, Inc. | United States, California, La Mirada | 2004 | Dormant
+Addamark Technologies | United States, CA, San Francisco | 2003 | Dormant
+Addante and Associates, LLC | United States, CA, Los Angeles | 2002 | Dormant
+Additional Resources Limited | United Kingdom, London, West London | 2007 | Dormant
+Adecco | United States, California, Redwood City | 2006 | Dormant
+Adecco Engineering & Technical | Portland, Oregon | 2013 | Active
+Adecco Technical | United States, Texas, Austin | 2005 | Dormant
+Adestra | Oxford, UK | 2012 | Active
+Adestra Limited | United Kingdom, Oxford | 2011 | Active
+Adestra Ltd | United Kingdom, Oxfordshire, Oxford | 2007 | Dormant
+Adestra Ltd. | United Kingdom, Oxfordshire, Oxford | 2006 | Dormant
+Adknowledge | United States, MO, Kansas City | 2006 | Dormant
+Adnexus Recruitment Services | The Netherlands, Noord-Holland, Amsterdam | 2009 | Inactive
+Adobe Software India,Bangalore | India, Karnataka, Bangalore | 2007 | Dormant
+Adroit Technology Enterprises | United States, FL, Boca Raton | 2010 | Inactive
+Adteractive | United States, CA, San Francisco | 2004 | Dormant
+Advance Internet | 07306, NJ, Jersey City | 2008 | Dormant
+Advanced Software Systems Inc.,(Assyst) | United States, MD, Gaithersburg | 2006 | Dormant
+Advanced Solutions Inc. | United States, NY, Brooklyn | 2006 | Dormant
+Advanced Video Communications, Inc. | United States, CA, Los Angeles | 2008 | Dormant
+Advantage Data | United States, MA, Boston | 2007 | Dormant
+Advantage Data Inc. | United States, MA, Boston | 2009 | Inactive
+Advantage Interactive | United Kingdom, London | 2006 | Dormant
+Advantage Tech, Inc. | United States, Missouri, Kansas City | 2007 | Dormant
+AdvantageData | United States, MA, Boston | 2006 | Dormant
+Adventure Pictures / Goldsmiths College, University of London | United Kingdom, London | 2007 | Dormant
+Advertising and profiling solutions | United States, TX, Houston | 2010 | Inactive
+Advertising.com Intl | United Kingdom, London, London | 2007 | Dormant
+Adviva Media Ltd | United Kingdom, London, Fulham | 2006 | Dormant
+Adviva Media Ltd. | United Kingdom, London, Fulham | 2006 | Dormant
+Adzuna | Clapham, London, UK | 2011 | Active
+Aerodeon | United Kingdom, London | 2004 | Dormant
+Affant Communication, Inc. | United States, CA, Costa Mesa | 2004 | Dormant
+Affinity Circles | United States, California, Mountain view | 2007 | Dormant
+Affinity Circles, Inc | United States, CA, Mountain View | 2008 | Dormant
+Agava Software | Russia, Moscow | 2005 | Dormant
+Agency is COL | United States, CA, Mt. View | 2003 | Dormant
+Aghreni Technologies Private Limited | India , Karnataka , Bangalore  | 2010 | Inactive
+Agile | United States, CO, Denver | 2011 | Active
+Agile Informatics | United States, California, Fremont | 2010 | Inactive
+Agilisys | London, UK | 2012 | Active
+Agorist.net | Cyprus, Limassol | 2004 | Dormant
+Agriya Infoway Pvt Ltd | India, Tamil Nadu, Chennai | 2003 | Dormant
+Aion Consulting Group | United States, NE, Omaha | 2007 | Dormant
+Aipco Inc. | Canada, Ontario, Gormley | 2008 | Dormant
+Air Games Wireless Inc. | Canada, BC, Vancouver | 2002 | Dormant
+Air2Water LLC | United States, Californa, Santa Monica  | 2010 | Inactive
+AirG | Canada, BC, Vancouver | 2007 | Dormant
+AirWave | United States, CA, Sunnyvale | 2009 | Inactive
+AirWave Wireless | United States, CA, San Mateo | 2008 | Dormant
+AirWave Wireless Inc. | United States, CA, San Mateo | 2006 | Dormant
+AirWave Wireless, Inc | United States, CA, San Mateo | 2007 | Dormant
+Ajilon Consulting - Client is Bank of America | United States, NC, Charlotte | 2008 | Dormant
+Ajilon Consutling | USA, Michigan, Dearborn | 2006 | Dormant
+Akamai | United States, VA, Reston | 2010 | Inactive
+Akamai Technologies | United States, California, San Mateo  | 2012 | Active
+Akraya Inc | United States, California, San Jose | 2003 | Dormant
+Akraya's client -Top 5 independent software company | United States, CA, Downtown SFO -By the BART | 2006 | Dormant
+Alacritech, Inc. | United States, CA, San Jose | 2010 | Inactive
+Aladdin | Israel, Petach tikva | 2007 | Dormant
+Alan Dale Enterprises, Inc. | United States, California, Los Angeles | 2004 | Dormant
+Alan Israel Executive Search | United States, New York, New York | 2005 | Dormant
+Alan Morris Recruitment | United Kingdom, London | 2005 | Dormant
+Alden Associates | United States, CT, Stamford | 2008 | Dormant
+Alden Staffing Solutions | United States, CT, Greenwich | 2008 | Dormant
+AlertSite | United States, Florida, Coconut Creek | 2009 | Inactive
+AlertSite.com | United States, Florida, Boca Raton | 2004 | Dormant
+Alertsite | United States, FL, Coconut Creek | 2010 | Inactive
+Alex | Serbia & Montenegro, Serbia, Belgrade | 2004 | Dormant
+Alexander Ash Consulting | United Kingdom, London, London | 2007 | Dormant
+Algomod Technologies | United States, NY, New York | 2006 | Dormant
+All Headline News | United States, Florida, West Palm Beach - South Florida | 2005 | Dormant
+All Headline News Corp | United States, Florida, West Palm Beach | 2005 | Dormant
+All Headline News Corp. | United States, Florida, Wellington / South Florida | 2005 | Dormant
+All-Hotels.com (part of Lastminute.com) | United Kingdom, Scotland, Edinburgh | 2004 | Dormant
+AllAfrica Global Media | United States, District of Columbia, Washington D.C. | 2007 | Dormant
+AllSearch  | United States, MD, Hunt Valley | 2008 | Dormant
+AllSearch Professional Staffing | United States, MD, Hunt Valley | 2008 | Dormant
+AllStaff Technical/Lockheed Martin | United States, DC, Washington | 2006 | Dormant
+Allcheckin Limited | India, New Delhi | 2005 | Dormant
+Allegis Group | United Kingdom, Manchester | 2007 | Dormant
+Allegro Consulting | Vienna, Austria | 2012 | Active
+Allen Recruiting | Undefined | 2008 | Dormant
+Alliance of Professionals & Consultants Inc | United States, North Carolina, Raleigh | 2007 | Dormant
+Alltech | United States, TN, Nashville | 2008 | Dormant
+Alltech Inc | United States, TN, Franklin | 2008 | Dormant
+Alltech, Inc. | United States, TN, Nashville | 2009 | Inactive
+Alltech, Inc.  | United States, TN, Nashville | 2008 | Dormant
+AlonaAltar recrutiment | Israel, Tel Aviv | 2009 | Inactive
+Alphaeus HR | India, Karnataka, Bangalore | 2004 | Dormant
+Alpine | Undefined | 2007 | Dormant
+Alvares Search | Curacau, Noord Holland, Laren (nh) Netherlands | 2009 | Inactive
+AmBusi | United States, California, Point Richmond | 2004 | Dormant
+Amarus International Inc. | United States, NY, New York | 2008 | Dormant
+Amazon | Dresden, Germany | 2013 | Active
+Amazon  | France, Paris | 2009 | Inactive
+Amazon.co.uk | Ireland, Dublin | 2009 | Inactive
+Amazon.co.uk Ltd | United Kingdom, Berks, Slough | 2006 | Dormant
+Amazon.co.uk/ IMDb | United Kingdom, Bristol | 2009 | Inactive
+Amazon.com | United States, WA, Seattle | 2008 | Dormant
+Amazon.com / IMDb | United States, WA, Seattle | 2007 | Dormant
+Amdocs | Champaign, IL | 2012 | Active
+Amer Technology | United States, NJ, Jersey city | 2010 | Inactive
+America Online | United States, VA, Ashburn | 2005 | Dormant
+America Online, Inc. | United States, Virginia, Dulles | 2005 | Dormant
+American College of Physicians | United States, Pennsylvania, Philadelphia | 2012 | Active
+American Marketing & Publishing | United States, IL, Dekalb | 2004 | Dormant
+American Physical Society | United States, NY, Ridge | 2006 | Dormant
+American Public Media | Minnesota Public Radio | Saint Paul, MN, United States | 2012 | Active
+American Registry for Internet Numbers (ARIN) | United States, VA, Chantilly | 2004 | Dormant
+Amitai Aluma and Abigail Holdings LTD | Israel, Haifa | 2007 | Dormant
+An MNC Client of CareerNet | India, Tamil Nadu, Chennai | 2011 | Active
+AnaBus | United States, Pennsylvania, Jenkintown/Philadelphia | 2004 | Dormant
+Analysts International | United States, PA, King of Prussia | 2005 | Dormant
+Analysts International Corp (AIC) | United States, Minnesota, Minneapolis(south metro) | 2009 | Inactive
+Analytical Models | Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia | 2012 | Active
+AndazG | United States, IN, Fort Wayne | 2006 | Dormant
+Andiamo! Group  | United States, New York, New York | 2010 | Inactive
+Andrews McMeel Universal - uClick | United States, Missouri, Kansas City | 2007 | Dormant
+Anemone | Greece, Attiki, Athens | 2005 | Dormant
+Anevia | France, Paris | 2006 | Dormant
+Animal Land, Inc. | ga, Atlanta | 2002 | Dormant
+Animal Logic | Australia, Sydney | 2006 | Dormant
+Anonymizer, INC | United States, CA, San Diego | 2005 | Dormant
+Anonymous | Washington, Seattle | 2012 | Active
+Answers Corp. | United States, NY, NY | 2009 | Inactive
+Antopia Inc. | United States, CA, Los Angeles | 2008 | Dormant
+Anu Resources Unlimited, Inc. | United States, OH, Columbus | 2007 | Dormant
+Anya Services | Bangalore, India | 2012 | Active
+Apex Sysetms Inc. | United States, MA, Canton | 2007 | Dormant
+Apex Systems | United States, TN, Nashville | 2013 | Active
+Apex Systems Inc | United States, Florida, Boca Raton | 2010 | Inactive
+Apex Systems Inc. | United States, TN, Nashville | 2012 | Active
+Apex Systems Inc.  | United States, VA, Restone | 2011 | Active
+Apex Systems, Inc. | United States, VA, Glen Allen | 2012 | Active
+Apex Systems, Inc. (our client is  a large e-commerce company | United States, CA, Brisbane | 2007 | Dormant
+Apex Systemsinc | United States, fl, tampa | 2006 | Dormant
+AppNexus | Israel | 2012 | Active
+Apperceptive | United States, NY, New York City | 2007 | Dormant
+Apperceptive, LLC | United States, NY, New York | 2007 | Dormant
+Apple Computer | Cupertino, CA | 2012 | Active
+Apple Computer, Inc | United States, CA, Cupertino | 2006 | Dormant
+Apple Inc. | United States, CA, Cupertino | 2011 | Active
+Applied Performance | United States, Ohio, Worthington | 2001 | Dormant
+Applied Performance Technologies | United States, OH, Worthington | 2006 | Dormant
+Applied System Design | United States, TX, Austin | 2005 | Dormant
+Apsion, LLC | United States, IL, Morton | 2001 | Dormant
+Aptia Systems | United States, TX, Houston | 2005 | Dormant
+Aptia Systems, Inc. | United States, Texas, Houston | 2005 | Dormant
+Aquent | United States, DC, Washington | 2001 | Dormant
+Aquilent | United States, MD, Bethesda | 2011 | Active
+Aquins Consulting | United States, Southern CT | 2009 | Inactive
+ArcMail Technology | United States, LA, Shreveport | 2008 | Dormant
+Arcam Resources Limited | United Kingdom, LONDON | 2011 | Active
+Archivista GmbH | Switzerland, Canton of Zurich, Zurich | 2005 | Dormant
+Arcsight | CA, Cupertino | 2007 | Dormant
+Ardis Interactive | United States, NY, New York City | 2004 | Dormant
+Ardis Marketing Group | United States, New York, New York | 2006 | Dormant
+Ardishealth | United States, New York, New York | 2009 | Inactive
+Arguedas, Cassman & Headley | United States, CA, Berkeley | 2006 | Dormant
+Argyll Scott Technology | City of London, UK | 2012 | Active
+Ariadne | Bethesda, MD, United States | 2012 | Active
+Ariadne Technologies, LLC | United States, MD, Bethesda | 2010 | Inactive
+Ariba | United States, CA, Sunnyvale | 2011 | Active
+Ariba  | United States, CA, Sunnyvale | 2011 | Active
+Armaguard | Australia, Victoria, Melbourne | 2011 | Active
+Arrows Group | UK, United Kingdom, Sussex, Brighton | 2007 | Dormant
+Art Plus Technology | United States, Massachusetts, Boston | 2006 | Dormant
+ArtToday.com, Inc. | United States, AZ, Tucson | 2002 | Dormant
+Artemis Resources Limited | United Kingdom, Berkshire, Windsor | 2004 | Dormant
+Arts Engine, Inc. | United States, NY, New York | 2005 | Dormant
+Aruba Networks | United States, CA, Sunnyvale | 2013 | Active
+Ascent Consulting | United States, NY, New York | 2006 | Dormant
+Ascent Sourcing | Netherlands, Amsterdam | 2013 | Active
+Ascent sourcing | Berlin, Germany | 2013 | Active
+Ashdown Group | Edinburgh, Scotland | 2013 | Active
+Ashton Consulting | London UK | 2011 | Active
+AsianMall | Singapore, Singapore, Singapore | 2001 | Dormant
+Asianminds | India, Maharashtra, Mumbai | 2003 | Dormant
+Ask Jeeves | United States, CA, Oakland | 2005 | Dormant
+Ask.com (IAC Search and Media) | United States, CA, Oakland | 2007 | Dormant
+AskOnline | United States, MA, Boston | 2005 | Dormant
+Asmark Institute | Owensboro, KY, USA | 2012 | Active
+Aspire IT International | Australia, NSW, Sydney | 2008 | Dormant
+Assanka | United Kingdom, London | 2006 | Dormant
+Assembla | telecommutig | 2006 | Dormant
+Association of Commonwealth Universities | United Kingdom, London | 2004 | Dormant
+Astaro AG | Germany, Karlsruhe | 2007 | Dormant
+Astaro Internet Security | Germany, Karlsruhe | 2008 | Dormant
+Astir IT | United States, NY, New York City | 2010 | Inactive
+Aston Carter | United Kingdom, City, London | 2005 | Dormant
+Aston Carter Ltd. | U.K., City, London | 2007 | Dormant
+Astor Malick | United Kingdom, Watford | 2007 | Dormant
+Astron | United States, ny, new york city | 2006 | Dormant
+At ValueClick, via Accolo | United States, California, Westlake Village OR Santa Barbara | 2006 | Dormant
+AtAuction | United States, Texas, Flower Mound | 2011 | Active
+Athena | Chennai, India | 2012 | Active
+Athenahealth | United States, MA, Waltham | 2004 | Dormant
+Atikon EDV & Marketing GmbH | Austria, Linz | 2009 | Inactive
+Atlantic Resource Group | Richmond, VA | 2012 | Active
+Atlas Intelligence Inc | United States, CA, Marina Del Rey | 2004 | Dormant
+Atomic Learning | United States, MN, Little Falls | 2008 | Dormant
+Atomic Learning, Inc. | United States, MN, Little Falls | 2013 | Active
+Atrium | Columbus, OH | 2011 | Active
+Atrium Personnel & Consulting | United States, Ohio, Columbus | 2008 | Dormant
+Atrium Personnel & Consulting Services | United States, Ohio, Columbus | 2011 | Active
+Audible.com (a division of Amazon.com) | United States, NJ, Newark  | 2009 | Inactive
+Auditude | United States, California, Palo Alto | 2008 | Dormant
+Augmos | United States, CA, San Francisco | 2003 | Dormant
+Aurora Photos | Portland, Maine | 2012 | Active
+Aussie Outsource | Australia, N.S.W, Sydney | 2003 | Dormant
+Austin Programming Solutions | USA - NO OUTSOURCED VENDORS/AGENCIES, TX, Austin - NO VIRTUAL | 2008 | Dormant
+Australian College of Rural and Remote Medication | Australia, QLD, Brisbane | 2008 | Dormant
+AutoNetTools.com | Bridgeport, MI | 2011 | Active
+Automated Trading Desk, LLC | United States, SC, Charleston | 2007 | Dormant
+Automorphic Software | India, Karnataka, Bangalore | 2011 | Active
+Automotive Diagnosis | Spain, Catalunya, Barcelona | 2005 | Dormant
+Autoweb Communications | United States, MI, Rochester Hills | 2007 | Dormant
+Avaleo ApS | Denmark, Copenhagen | 2006 | Dormant
+Avance | Dallas,TX | 2012 | Active
+AvantExperience | United States | 2009 | Inactive
+AvantGo/iAnywhere | United States, CA, Dublin | 2005 | Dormant
+Avantaxx | Germany, Elmshorn | 2003 | Dormant
+Avaya Government Solutions | United States, DC, Washington | 2011 | Active
+Avecho | United Kingdom, Essex, Colchester | 2004 | Dormant
+Avesta Computer Services | United States, NC, RTP | 2005 | Dormant
+Aviation Briefing Ltd | United Kingdon, Devon, Totnes area | 2005 | Dormant
+Aviation Briefing Ltd (AvBrief) | United Kingdom, Virtual - but hardware based in South and South West | 2005 | Dormant
+Aviation Software Inc. | United States, New York, Suffern | 2007 | Dormant
+Avira Soft SRL | Romania, Bucharest, Bucharest | 2008 | Dormant
+Avira ltd. | Romania, Bucharest | 2004 | Dormant
+Avity | United States, NY, Bronx | 2007 | Dormant
+Axient | Netherlands, Groningen, Groningen (NL) | 2007 | Dormant
+Axiombox | Anywhere, Anywhere, Anywhere | 2009 | Inactive
+Axis Sistemas | Venezuela, Carabobo, Valencia | 2005 | Dormant
+Axomic | London, England | 2012 | Active
+Axomic Ltd | United Kingdom, London | 2012 | Active
+Axoni | Belgium, Mechelen | 2009 | Inactive
+Axtel | Mexico, NL, Monterrey | 2007 | Dormant
+B H Technology Partners | United States, Pennsylvania, Pittsburgh | 2006 | Dormant
+B&N Software AG | Germany, 37124 Rosdorf  Goettingen | 2007 | Dormant
+B2B Logic.net | Canada, Ontario, Oakville | 2006 | Dormant
+B2B Staffing Services | United States, CA, Cypress | 2007 | Dormant
+B2C Solutions | Australia, Victoria, Melbourne | 2007 | Dormant
+BB&T | Wilson, NC | 2012 | Active
+BBC | London | 2011 | Active
+BBC  | UK , London | 2009 | Inactive
+BBC World Service | United Kingdom, London | 2008 | Dormant
+BBC, Future Media and Technology  | UK , London | 2009 | Inactive
+BBsect | United States, NY, Brooklyn | 2008 | Dormant
+BEI Services | United States, MN, Minneapolis | 2012 | Active
+BEI Services, Inc | United States, MN, Minneapolis | 2010 | Inactive
+BGI | United States, CA, Vallejo | 2005 | Dormant
+BGT Recruitment | United Kingdom, NW10, London | 2006 | Dormant
+BHH | Bangalore | 2012 | Active
+BIAS Corporation | United States, GA, Atlanta | 2008 | Dormant
+BIAS Resources | United States, GA, Atlanta | 2007 | Dormant
+BJ | Sweden | 2008 | Dormant
+BM Business Consulting | Canada, Ontario, Kingston | 2002 | Dormant
+BMAT Licensing | Spain, Barcelona | 2007 | Dormant
+BMC Software | Woodbridge Township, NJ, USA | 2012 | Active
+BMC Software  | United States, New York, New York | 2011 | Active
+BNG | Undefined | 2010 | Inactive
+BOLD International | Portugal, Lisboa, Lisboa | 2011 | Active
+BOOKING.COM | The Netherlands, Amsterdam | 2007 | Dormant
+BOOKINGS | The Netherlands, Noord Holland, Amsterdam (based in the heart of Amsterdam) | 2001 | Dormant
+BOOKINGS Europe BV | The Netherlands, Noord-Holland, Amsterdam | 2004 | Dormant
+BOOKINGS on-line hotel reservations | The Netherlands, Amsterdam | 2003 | Dormant
+BOOKINGS online hotel reservations | Netherlands, Amsterdam | 2005 | Dormant
+BTC S.L. | Spain, Madrid, Madrid | 2010 | Inactive
+Baboon Software | Mexico, Mexico | 2009 | Inactive
+BackCountry.com | United States, UT, Park City | 2006 | Dormant
+Backcountry.com | United States, UT, Park City | 2008 | Dormant
+Backup Solutions | Bulgaria, Sofia | 2007 | Dormant
+Bacon's Information, Inc. | United States, Illinois, Chicago | 2001 | Dormant
+BalanceZero Software | United States, Texas, Dallas | 2002 | Dormant
+Baldwin Forrester | United States, ca, Palo Alto | 2007 | Dormant
+Ballinger Media Solutions Ltd | United Kingdom, Bucks, Milton Keynes | 2006 | Dormant
+Bandtones LLC | United States, TX, Houston | 2007 | Dormant
+Bangalore Yankees | India, Karnatka, Bangalore | 2004 | Dormant
+Bank Of America | United States, GA, Atlanta | 2007 | Dormant
+Bank of America | United States, GA, Atlanta | 2010 | Inactive
+Banking | Stamford, CT, United States | 2012 | Active
+BannerBeans | United States, NC, Wilson | 2004 | Dormant
+Banzai People | Cheshire, UK | 2013 | Active
+Barclays Global Investors | Australia, NSW, Sydney | 2007 | Dormant
+BarclaysGlobal Investors | United States, CA, San Francisco | 2003 | Dormant
+BargainPHV.com | United Kingdom, London | 2009 | Inactive
+Bariatric Advantage | United States, CA, Irvine | 2010 | Inactive
+Barkani | United States, New Jersey | 2013 | Active
+Barrack, Rodos, and Bacine | United States, PA, Philadelphia | 2004 | Dormant
+Barracuda Networks | United States, ca, cupertino | 2012 | Active
+Barton Insurance Brokers | Canada, BC, Chilliwack | 2002 | Dormant
+Base-10 Design & Development | Canada, B.C., Vancouver | 2008 | Dormant
+Batesville Casket | Indianapolis, Indiana | 2011 | Active
+Baxtage | United States, NY, New York | 2008 | Dormant
+Bayone Solutions | Menlo Park, CA | 2013 | Active
+Bayside Solutions | United States, CA, San Francisco | 2006 | Dormant
+BbBoy.net | UK. International applicants welcome. | 2003 | Dormant
+BeFreer.com, Inc. | United States, IL, Chicago | 2006 | Dormant
+BeMusic | United States, NY, New York | 2004 | Dormant
+BeQuick Software | Palm Beach Gardens, FL | 2013 | Active
+BeachRecords | United States, CA, Long Beach | 2007 | Dormant
+Beacon Hill Staffing Group | Charlotte, NC, United States | 2013 | Active
+Beacon Hill Technologies | United States, MA, Marlborough | 2005 | Dormant
+Bear Stearns | United States, NJ, Whippany | 2002 | Dormant
+Beatport LLC | United States, Colorado, Denver | 2006 | Dormant
+Beck Automation | United States, MO, St. Louis | 2009 | Inactive
+Belcan IT | United States, OH, Cincinnati | 2003 | Dormant
+Belmont Web Services | Canada, Quebec, Montreal | 2004 | Dormant
+Belmont Web Services, Inc. | Canada, Quebec, Montreal | 2005 | Dormant
+Bender Internet Group | United States, NJ, Egg Harbor Township | 2004 | Dormant
+Bendlin GmbH | Germany, Berlin, Berlin | 2009 | Inactive
+Bennett's Business Systems | United States, FL, Jacksonville | 2005 | Dormant
+Berean Group | United States, CA, NAPA | 2005 | Dormant
+Berean Group International | United States, New York, New York, NY | 2010 | Inactive
+Bergfeld DV-Beratung | Germany, BW, Heilbronn | 2009 | Inactive
+Berkeley Electronic Press | United States, CA, Berkeley | 2005 | Dormant
+Best | United Kingdom, London | 2004 | Dormant
+Best Friends Cocoa | United States, MA, Arlington | 2006 | Dormant
+Best International | United Kingdom, South West, Bristol | 2003 | Dormant
+Best Practical Solutions | United States, MA, Somerville | 2012 | Active
+Best Practical Solutions, LLC | United States, MA, Somerville | 2005 | Dormant
+Best Quotes | Australia, Qld, Brisbane | 2006 | Dormant
+Best Quotes Australia | Australia, QLD, Brisbane | 2007 | Dormant
+Best Recruitment Services | United Kingdom, London | 2004 | Dormant
+BetOnMarkets.com | Malaysia, Selangor, Cyberjaya | 2012 | Active
+Betonmarkets.com | Undefined | 2013 | Active
+Better, Inc. | United States, CA, Menlo Park | 2005 | Dormant
+BetterServers, Inc. | Provo, Utah | 2013 | Active
+BettyMills.com | United States, CA, San Mateo | 2002 | Dormant
+Bezeq International | Petach Tikva, Israel | 2013 | Active
+Bharat Headhunters Pvt Ltd | Bangalore, India | 2013 | Active
+Big City Technology, Inc. | United States, IL, Chicago and Evanston | 2002 | Dormant
+Big Fish Communiations | United States, CA, Marina Del Rey | 2002 | Dormant
+Big Group Ltd | London, UK | 2012 | Active
+BigChampagne | Los Angeles, CA | 2012 | Active
+BigDates Solutions | San Ramon, CA United States | 2011 | Active
+BigDates Solutions - GreetingCardUniverse.com | San Ramon, CA | 2012 | Active
+BigDates-Solutions | United States, CA, San Ramon | 2011 | Active
+Bigproject | Ukraine, Kiev | 2008 | Dormant
+Bio-Tech Medical Software Inc | United States, Fl, Ft Lauderdale | 2011 | Active
+Biotech Medical Software, Inc. | United States, FL, Fort Lauderdale | 2008 | Dormant
+Bit Laboratories | Indonesia, West Java, Bandung | 2005 | Dormant
+BitLathe LLC | United States, NY, New York | 2006 | Dormant
+BitPass | United States, CA, Menlo Park | 2005 | Dormant
+Biz Buzz Bank | United States, DC, Washington | 2002 | Dormant
+BizRate.com | United States, CA, Los Angeles | 2004 | Dormant
+Bizjournals.com | United States, North Carolina, Charlotte | 2008 | Dormant
+Bizrate.com | United States, CA, Los Angeles | 2004 | Dormant
+Black Duck Software | United States, MA, Waltham | 2010 | Inactive
+Black Onyx Partnership Limited | United Kingdom, London, London | 2010 | Inactive
+Black Sheep, Inc. | Undefined | 2006 | Dormant
+BlackBag Technologies | San Jose, CA | 2012 | Active
+BlackShire | Canada, BC, Burnaby | 2008 | Dormant
+BlackShire Recruiting Services Inc. | Canada, BC, Vancouver | 2008 | Dormant
+Blackbox Europe B.V. | The Netherlands, Amsterdam | 2011 | Active
+Blackbox Europe B.V. (employment agency) | The Netherlands, Amsterdam | 2011 | Active
+Blaine Solutions | United States, TX, Dallas | 2004 | Dormant
+Blair Software | United States | 2013 | Active
+Blinck International | Netherlands, Noord Holland, Amsterdam | 2007 | Dormant
+BlinkingCursor | United States, CA, Pasadena | 2001 | Dormant
+BlisMobile Media | London, London, London - West End | 2011 | Active
+Blitz Technology | Australia, Queensland, Brisbane | 2001 | Dormant
+Block Financial/H&R Block | United States, MA, Cambridge | 2003 | Dormant
+Blockstar | United States, CA, Los Angeles | 2003 | Dormant
+Bloom! | Bangalore, India | 2012 | Active
+Bloomberg LP | United States, NY, New York | 2005 | Dormant
+Blosm Inc. | Chicago, IL | 2012 | Active
+Blue Chip Resources | United States, CA, Los Angeles | 2001 | Dormant
+Blue Glue | London, London, United Kingdom | 2012 | Active
+Blue IT Solutions | United Kingdom, Kent, London | 2005 | Dormant
+BlueGlue | United Kingdom, London, London | 2013 | Active
+BlueGlue  | United Kingdom, London | 2008 | Dormant
+BlueMarch | United States, NY, New York | 2006 | Dormant
+BlueZone Labs | Utah or Telecommute | 2012 | Active
+Bluebrain Multimedia | Canada, BC, Vancouver | 2008 | Dormant
+Bluefin Resources | Australia, NSW, Sydney | 2006 | Dormant
+Bluehost | Orem, UT | 2013 | Active
+Bluehost Inc. | Provo, UT | 2011 | Active
+Bluehost, Inc. | United States, Utah, Provo | 2009 | Inactive
+Bluehost.com | United States, Utah, Provo | 2010 | Inactive
+Bluesocket | United States, MA  01803, Burlington | 2006 | Dormant
+Bluhalo | United Kingdom, Hampshire, Farnborough | 2007 | Dormant
+Blur Studio | United States, CA, Venice | 2004 | Dormant
+Bob Mobile | Deutschland, Düsseldorf | 2009 | Inactive
+Boca Internet Technologies, Inc. | United States, Florida, Coconut Creek | 2005 | Dormant
+Bock Interactive | United States, VT, Burlington | 2004 | Dormant
+Bodhi Labs | Bangalore, India | 2013 | Active
+Boingo Wireless | United States, CA, Santa Monica, | 2006 | Dormant
+Boingo Wireless, Inc. | United States, CA, Santa Monica | 2006 | Dormant
+Bond Associates | United States, CA, San Diego | 2010 | Inactive
+Bonzai Creative Solutions | Los Angeles | 2013 | Active
+BookFinder.com | United States, CA, Berkeley | 2007 | Dormant
+BookFinder.com (subsidiary of AbeBooks/Amazon) | Canada, British Columbia, Victoria | 2009 | Inactive
+BookRenter.com | United States, CA, Sunnyvale | 2006 | Dormant
+Booking.com | the Netherlands, Amsterdam | 2013 | Active
+Booking.com -Travel & Tourism | Netherlands, Amsterdam, Amsterdam (City Center) | 2011 | Active
+Booking.com via MakorIT | Amsterdam, The Netherlands | 2013 | Active
+Booking.com/Travel &Tourism | The Netherlands, Amsterdam (City Center) | 2009 | Inactive
+Bookings Europe BV | Netherlands, Amsterdam | 2006 | Dormant
+Bookingspunt NL | Netherlands, NH, Amsterdam | 2003 | Dormant
+Bookrenter.com LLC | United States, CA, Sunnyvale | 2006 | Dormant
+Books-A-Million, Inc | United States, TN, Nashville | 2008 | Dormant
+Books-A-Million, Inc. | United States, TN, Nashville | 2010 | Inactive
+Boopsie Inc | S California Ave, Palo Alto, CA, USA | 2012 | Active
+Boopsie, Inc. | Sunnyvale, CA | 2012 | Active
+Bootic Inc | Undefined | 2011 | Active
+Bootic Inc. | San Francisco, CA | 2012 | Active
+Bossmedia AB | Sweden, Växjö | 2004 | Dormant
+Boston University / BMERC | United States, MA, Boston | 2002 | Dormant
+Boston.com | United States, MA, Boston | 2006 | Dormant
+Boston/Cambridge Company | United States, MA, Cambridge | 2007 | Dormant
+Bottlenose | United States, MA, Amherst | 2005 | Dormant
+Boundary Works | United States, IL, Chicago | 2002 | Dormant
+Bradson Tech | United States, WA, Seattle | 2003 | Dormant
+Bradson Technology | United States, WA, Bellevue | 2007 | Dormant
+Bradson Technology Professionals | United States, WA, Seattle | 2004 | Dormant
+BrainToSoul Knowledge Consulting | Bangalore - India | 2012 | Active
+Brainbox Digital | Putney, South West London | 2013 | Active
+Brandeis University | United States, MA, Waltham | 2008 | Dormant
+Branta Group | United States, CA, San Rafael | 2006 | Dormant
+Bravo Lucy Technologies | India, Hyderabad | 2009 | Inactive
+Brian Allemana, Independent Contractor | United States, Illinois, Chicago | 2003 | Dormant
+Brian Koontz | United States, TX, Dallas | 2003 | Dormant
+Brien Jr | Canada, Ontario, Toronto | 2007 | Dormant
+Brightred Resourcing | United Kingdom, London | 2007 | Dormant
+British Broadcasting Corporation | United Kingdon, London | 2001 | Dormant
+Brix Networks | United States, MA, Chelmsford | 2008 | Dormant
+Broadbean | Undefined | 2012 | Active
+Broadbean Technology Ltd | United Kingdom, London, London (Canary Wharf) | 2007 | Dormant
+Broadcast Microwave Services | United States, California, Poway | 2006 | Dormant
+Broadcasting Company | United Kingdom, London, London | 2008 | Dormant
+Broadspeed Ltd | United Kingdom, Essex, London / Cambridge / Colchester | 2006 | Dormant
+Broadspeed.com | United Kingdom, Essex or Suffolk, London or Ipswich | 2006 | Dormant
+Broadspire, Inc. | United States, CA, Mission Hills | 2003 | Dormant
+Brocade | United States, CA, San Jose | 2006 | Dormant
+BrookEdge Technologies | United States, MA, Boston | 2004 | Dormant
+Brooksource | United States, Tennessee, Nashville | 2011 | Active
+Brooksource and Technical Youth | United States, Tennessee, Nashville | 2007 | Dormant
+Brooksource, A Technical Youth Co. | United States, OH, Columbus | 2008 | Dormant
+Brunico Comminocations Ltd. | Canada, Ontario, Toronto | 2008 | Dormant
+Brunico Communications Inc | Canada, Ontario, Toronto | 2004 | Dormant
+BryceNet, Inc. | United States, NY, New York | 2011 | Active
+Brycenet, Inc. | United States, NY, New York | 2011 | Active
+Btech Inc | United States, California, Mountain View | 2008 | Dormant
+Bucks Music Group | United Kingdom, London | 2009 | Inactive
+BudgetNames.com | United States, Texas, North Dallas | 2005 | Dormant
+Buero Lersch | Berlin, Germany | 2012 | Active
+Bugal Pty Ltd | Australia, Queensland, Brisbane | 2004 | Dormant
+BuildSite | United States, CA, Oakland | 2006 | Dormant
+Bullit Recruitment Solutions Ltd - Bull IT | United Kingdom, London, UK, London | 2010 | Inactive
+BullsEye! Human Capital Solutions Inc. | Canada, Ontario, Toronto | 2009 | Inactive
+Burke | United States, IL, Chicago | 2002 | Dormant
+Burns Sheehan  | London | 2011 | Active
+Burns Sheehan LTD | United Kingdom, London  | 2011 | Active
+BurstNET Technologies, Inc. | United States, PA, Scranton | 2011 | Active
+Bushido Designs | United States, WA, Seattle | 2005 | Dormant
+Busii | South Africa, Gauteng, Johannesburg | 2012 | Active
+Business Global Systems | Slovakia, Bratislava | 2001 | Dormant
+Business Monitor International | United Kingdom, London | 2008 | Dormant
+Business.com | California, Santa Monica | 2010 | Inactive
+Butler Hill Group | United States, WA, Redmond | 2004 | Dormant
+BuyBelowCost, Inc. | United States, CA, San Mateo | 2004 | Dormant
+BuzzFeed | United States, NY, New York | 2008 | Dormant
+BuzzFeed Inc | NY, New York | 2010 | Inactive
+BuzzFeed Inc. | United States, NY, New York | 2011 | Active
+BuzzFeed, Inc | United States, NY, New York | 2009 | Inactive
+Bweeb.com | Undefined | 2011 | Active
+ByWater Solutions | United States, CA, Santa Barbara | 2011 | Active
+Byram Healthcare | United States, NY, White Plains | 2002 | Dormant
+C&D Elite | Undefined | 2005 | Dormant
+C&D Elite Ltd | United Kingdom, East Sussex, Hastings, East Sussex | 2004 | Dormant
+C&R Consulting | United States, NY, new york city | 2009 | Inactive
+C2K TECHNOLOGIES | United States, California, Palo Alto | 2005 | Dormant
+C2K Technologies | United States, CA, San Francisco | 2007 | Dormant
+CACI | United States, DC, Washington | 2007 | Dormant
+CAMERADO | United States, NY, New York | 2003 | Dormant
+CAPSiDE | Spain, Barcelona, Barcelona | 2010 | Inactive
+CBN LLC | Las Vegas, NV, USA | 2012 | Active
+CBS | United States, CA, Los Angeles | 2008 | Dormant
+CBS Interactive | Irvine, CA, United States | 2012 | Active
+CBS Interactive  | United States, Florida, Fort Lauderdale | 2010 | Inactive
+CBS Interactive (CBSSports.com) | Ft. Lauderdale, FL | 2012 | Active
+CBS Interactive - CBSSports.com | United States, Florida, Fort Lauderdale | 2008 | Dormant
+CBTS | United States, OH, Cincinnati | 2010 | Inactive
+CC3 | United States, PA, Ivyland | 2002 | Dormant
+CCBill | United States, AZ, Tempe | 2003 | Dormant
+CCI | Novato, CA | 2011 | Active
+CDI | United States, CA, Mt. View | 2006 | Dormant
+CDI Business Solutions | United States, WA, Bellevue | 2004 | Dormant
+CDI Corporation | United States, California, Mountain View | 2011 | Active
+CDR | United States, CA, Belmont | 2010 | Inactive
+CE Technologies | Canada, Ontario, Toronto | 2004 | Dormant
+CE Technologies, Canada/National Business Services Alliance (NBSA) | Canada, Ontario, Toronto | 2007 | Dormant
+CENTIUM | United States, MD, Suitland | 2007 | Dormant
+CES | United States, MI, Bloomfield Hills | 2007 | Dormant
+CFC | Canada, QC, Montreal | 2007 | Dormant
+CIBER | United States, Kansas, Overland Park | 2005 | Dormant
+CIBER, Inc | United States, Kansas, overland park | 2006 | Dormant
+CIDC | MA, Cambridge | 2012 | Active
+CISCO | United States, California, San Jose | 2010 | Inactive
+CIeNET Technologies, Inc | China, BeiJing | 2007 | Dormant
+CMI | United States, Georgia, Atlanta Metro | 2008 | Dormant
+CMP | Newport Beach, CA | 2012 | Active
+CMS Mechanical Service Company | Florida, Melbourne | 2002 | Dormant
+CNET Networks | United States, CA, San Francisco | 2007 | Dormant
+CNET Networks, Inc. | United States, CA, San Franicsco | 2006 | Dormant
+CNET Search.com | United States, CA, San Francisco | 2004 | Dormant
+CNSys PLC | Bulgaria, Sofia | 2004 | Dormant
+CODGI | United States, CA, San Mateo | 2007 | Dormant
+COL Search | United States, CA, Sunnyvale | 2006 | Dormant
+COMSYS | United States, Tn, Nashville | 2010 | Inactive
+COMSYS IT Services | United States, OR, Portland | 2005 | Dormant
+COMTEK Group | United States, KS, Overland Park | 2008 | Dormant
+CONNECT Resource Group | United States, MD, BETHESDA | 2007 | Dormant
+CORPORATION CARDEX INC. | Canada, Quebec, Montreal | 2007 | Dormant
+COVMAR | United States, NY, New York | 2001 | Dormant
+CPA Detective | New York, NY | 2012 | Active
+CPI Books | United Kingdom, Wiltshire, Chippenham | 2011 | Active
+CPQi - Banking Technology Offshore | Fortaleza, CE, Brazil | 2012 | Active
+CPS Consulting | United States, CA, Los Angeles | 2005 | Dormant
+CPS, Inc | IL, Chicago | 2009 | Inactive
+CQ Roll Call | Washington, DC, USA | 2012 | Active
+CQ RollCall | United States, DC, Washington | 2010 | Inactive
+CQ-Roll Call | United States, DC, Washington D.C. | 2010 | Inactive
+CQ-Roll Call  | United States, Washington D.C. , DC | 2010 | Inactive
+CQ-Roll Call Group | United States, DC, Washington | 2010 | Inactive
+CR Corp | United States, MA, Boston | 2004 | Dormant
+CSI/Consultant Specialists Inc. | United States, CA, San Francisco | 2006 | Dormant
+CSM | Australia, Victoria, Melbourne | 2006 | Dormant
+CSPL | India, Maharashtra, Pune | 2008 | Dormant
+CSS | India, TN, chennai | 2007 | Dormant
+CSS Chennai INDIA | India, Tamil Nadu, Chennai | 2007 | Dormant
+CSS Corp | India, Tamil Nadu, Chennai | 2007 | Dormant
+CSS Technical Services | Bristol, PA | 2012 | Active
+CTG, Inc. | United States, PA, Mechanicsburg | 2006 | Dormant
+CTI | United States, TX, Plano | 2011 | Active
+CTI INFOTECH | Phoenix, AZ | 2011 | Active
+CTI Infotech | Pittsburg, PA, USA | 2011 | Active
+CV Library | United Kingdom, Hampshire, Fleet | 2011 | Active
+CV Screen Ltd | United Kingdom, Gloucestershire, Cirencester | 2007 | Dormant
+CV-Library | Fleet, Hampshire | 2013 | Active
+CV-Library Ltd | Fleet, Hampshire, UK | 2012 | Active
+CV-library Ltd | United Kingdom, Hampshire, Fleet | 2011 | Active
+CVSDude | Worldwide | 2009 | Inactive
+CVSDude.com | Australia, QLD, Gold Coast | 2008 | Dormant
+CaXem Inc. | Canada, Quebec, Montreal | 2006 | Dormant
+Cablecom Networking Ltd | United Kingdom, North Somerset, Kenn, near Bristol | 2011 | Active
+CachetBanq | United States, CA, Pasadena | 2006 | Dormant
+Cadence Resourcing | United Kingdom, London | 2008 | Dormant
+Cadmus Communications, a Cenveo Company | United States, Virginia, Richmond | 2011 | Active
+Cadmus Communications, a Cenveo company | Richmond, VA, United States | 2013 | Active
+Cadmus Professional Communications | United States, Maryland, Linthicum ( Baltimore area) | 2004 | Dormant
+CalaCode.com | Australia, NSW, Sydney | 2002 | Dormant
+Calacode | Australia, NSW, Kurrajong | 2006 | Dormant
+Calacode.com | Australia, NSW, Sydney | 2004 | Dormant
+Caledon Card Services | Canada, Ontario, Georgetown | 2011 | Active
+Calibrant | United States, MD, Gaithersburg | 2007 | Dormant
+Calibrant Biosystems | United States, MD, Gaithersburg | 2006 | Dormant
+CallTech Communications, LLC. | United States, Ohio, Columbus | 2004 | Dormant
+Caltech | United States, CA, Pasadena | 2003 | Dormant
+Calvary Consulting | United States, Pennsylvania, West Chester | 2007 | Dormant
+Cambridge Company | United States, MA, Cambridge | 2007 | Dormant
+Cambridge Interactive Developerment Corp. | United States, MA, Cambridge | 2007 | Dormant
+Cambridge Interactive Development Corp | United States, MA, Cambridge | 2007 | Dormant
+Cambridge Interactive Development Corporation | United States, MA, Cambridge | 2010 | Inactive
+Cambridge Interactive Development, Corp. | United States, MA, Cambridge | 2006 | Dormant
+Cambridge Interactive development | United States, MA, Cambridge | 2008 | Dormant
+Cambridge University Press | United Kingdom, Cambridgeshire, Cambridge | 2009 | Inactive
+CambridgeWebmaster.com | Pasadena, CA | 2011 | Active
+Camerado | United States, NY, New York | 2003 | Dormant
+CampStaff | United States, New York, Westchester County | 2008 | Dormant
+Campus Explorer, Inc. | United States, CA, Santa Monica | 2012 | Active
+CampusExplorer.com | United States, CA, Santa Monica | 2007 | Dormant
+Can be revealed upon application | United Kingdom, London | 2006 | Dormant
+Canada Law Book, A Division of The Cartwright Group Ltd. | Canada, Ontario, Aurora | 2006 | Dormant
+Canadian Centre for Child Protection Inc | Canada, Manitoba, Winnipeg | 2011 | Active
+Canadian Securities Institute | Canada, Ontario, Toronto | 2001 | Dormant
+Candela Corporation | United States, CA, Irvine | 2012 | Active
+Candle Australia | Australia, Queensland, Brisbane | 2008 | Dormant
+Cant Disclose | India, Andhra Pradesh, Hyderabad | 2008 | Dormant
+Cantella & Co., Inc. | United States, MA, Boston | 2010 | Inactive
+Capabilis | Paris, France | 2013 | Active
+Capco IT Services | India, Bangalore | 2005 | Dormant
+Capgemini Consulting India Pvt. Ltd | INDIA, Maharashtra, Mumbai | 2005 | Dormant
+Capital Markets Placements  | United States, Illinois, Arlington Hts. | 2009 | Inactive
+Capital TechSearch | United States, NC, Raleigh | 2007 | Dormant
+CapitalTechSearch | United States, NC, Raleigh | 2007 | Dormant
+Capitol Advantage | United States, VA, Fairfax | 2008 | Dormant
+Capitol Commodity Services, Inc. | United States, Indiana, Indianapolis | 2012 | Active
+CarDomain Network | United States, WA, Seattle | 2004 | Dormant
+CarDomain Network, Inc. | United States, WA, Seattle | 2008 | Dormant
+CarSpot.com, LLC | United States, WI, Milwaukee | 2005 | Dormant
+CardIt | United States, CA, San Francisco | 2007 | Dormant
+Cardinal Technoly Solution | United States, NJ, North Brunswick | 2010 | Inactive
+CareScout | United States, Massachusetts, Wellesley | 2005 | Dormant
+Career Concept | United Kingdom, London | 2006 | Dormant
+Career Gear | Planet Earth | 2012 | Active
+CareerEncore (search firm) | United States, MA, Cochituate | 2010 | Inactive
+CareerPointe | United States, TX, Dallas | 2003 | Dormant
+Careerjet | United Kingdom, London | 2012 | Active
+CargoTel | Telecommute | 2005 | Dormant
+CargoTel, Inc | United States, FL, Telecommute | 2010 | Inactive
+CargoTel, Inc. | United States, MD, Baltimore/Telecommute | 2012 | Active
+CargoTel, Inc.  | United States, MD, Baltimore | 2011 | Active
+Cargotel, Inc | United States, MD, Baltimore | 2008 | Dormant
+Cargotel, Inc. | United States, MD, Baltimore | 2008 | Dormant
+Cariden Technologies, Inc. | Mountain View, CA | 2012 | Active
+Carlyle Consulting Services | United States, New York, New York | 2007 | Dormant
+Carlyle Consulting Services, Inc | United States, NY, New York | 2006 | Dormant
+Carlyle Consulting Services, Inc. | United States, Connecticut, Norwalk | 2007 | Dormant
+Carlyle Consulting Svcs., Inc. | United States, NY, New York | 2006 | Dormant
+Carnegie Mellon University | United States, Pennsylvania, Pittsburgh | 2006 | Dormant
+Casale Media | Toronto | 2013 | Active
+Casale Media Inc. | Canada, Ontario, Toronto | 2008 | Dormant
+Cascadia Information Technologies, Inc. | United States, Oregon, Portland | 2005 | Dormant
+Case's Ladder, Inc | United States, WA, Mount Vernon | 2002 | Dormant
+Case's Ladder, Inc. | United States, WA, Mount Vernon | 2003 | Dormant
+Castle Branch Inc. | United States, North Carolina, Wilmington | 2003 | Dormant
+CastleRock Technology | United States, CA, Sacramento | 2002 | Dormant
+Catalina Lifesciences, Inc | United States, CA, Irvine | 2007 | Dormant
+Catalina Lifesciences, Inc  | United States, CA, Irvine | 2008 | Dormant
+Catalina Lifesciences, Inc. | United States, CA, Irvine | 2008 | Dormant
+Catalina Lifesciences, a Healthcare / Nutrition Company | Irvine, CA | 2012 | Active
+Catalyst IT | Wellington, New Zealand | 2012 | Active
+Catalyst IT (NZ) Ltd | New Zealand, Wellington, | 2008 | Dormant
+Catalytiq Pty Ltd | South Africa, Cape Town | 2008 | Dormant
+Cayuse, Inc. | United States, OR, Portland | 2010 | Inactive
+Cedar Corp | United States, WA, South Seattle | 2004 | Dormant
+Cedar Creek Software | United States, TX, Waco | 2005 | Dormant
+CedarTree | United States, CA, Foster City | 2010 | Inactive
+CedarTree Tech | United States, CA, Foster City | 2011 | Active
+Cedartree Tech | United States, CA, San Mateo | 2011 | Active
+Cellent AG | Germany, Karlsruhe | 2010 | Inactive
+Cellip AB | Sweden, Stockholm | 2007 | Dormant
+Cenetec LLC | United States, Florida, Boca Raton | 2001 | Dormant
+Center for Computational Research | Buffalo, NY | 2012 | Active
+Center for Social Innovation | Austria, Vienna | 2005 | Dormant
+Centeractive AG | Switzerland, Bern | 2007 | Dormant
+Centerpoint AS | Norway, Oslo | 2009 | Inactive
+Centre Street Associates, Inc. | United States, IL, Skokie | 2006 | Dormant
+Centre for Social Innovation | Austria, Vienna | 2009 | Inactive
+CentreSource Inc. | United States, TN, Nashville | 2005 | Dormant
+Cenus Technologies, Inc. | United States, CA, Scotts Valley | 2003 | Dormant
+Certive Corporation | United States, CA, Redwood City | 2001 | Dormant
+Chaffee Interactive | United States, IL, Chicago | 2005 | Dormant
+Chalmers Brown Consultancy | United Kingdom, London Area | 2005 | Dormant
+Chameleon Technologies | United States, WA, Seattle | 2006 | Dormant
+Chancellor & Chancellor | United States, CA, San Francisco (SOMA) | 2007 | Dormant
+ChannelMeter | USA , CA, San Francisco | 2011 | Active
+Chapar Shabdiz Ltd. | Iran, Tehran | 2001 | Dormant
+ChargeSmart | San Francisco, CA | 2011 | Active
+ChargeSmart Inc | United States, CA, San Francisco | 2011 | Active
+ChargeSmart/Verifone | San Francisco, CA | 2012 | Active
+Chargesmart | San Francisco, CA | 2013 | Active
+Charlex | United States, NY, New York (Manhattan) | 2007 | Dormant
+Chart Tool | California | 2012 | Active
+Charter Global Inc | United States, WA, Seattle | 2004 | Dormant
+Charter Global, Inc | United States, WA, Seattle | 2004 | Dormant
+Check Point | Israel, Tel Aviv | 2007 | Dormant
+CheckPoint | Israel, Ramat Gan | 2006 | Dormant
+Cheetah Wireless Technologies, Inc. | United States, NV, Las Vegas | 2009 | Inactive
+CheetahMail | United States, New York, New York | 2007 | Dormant
+CheetahMail Inc. | United States, NY, New York | 2004 | Dormant
+CheetahMail, an Experian Company | 10010, NY, New York | 2006 | Dormant
+CheetahMail, an Experian company | United States, NY, New York | 2005 | Dormant
+Children's Hospital of Philadelphia | United States, PA, Philadelphia | 2009 | Inactive
+ChildrensIllustrators dot com | Undefined | 2008 | Dormant
+Chillibean Ltd | United Kingdom, London | 2008 | Dormant
+Choice Greetings | United Kingdom, Avon, Bath | 2004 | Dormant
+Christianbook.com | United States, MA, Peabody | 2012 | Active
+Christopher Muenchhoff | Germany, D-68199 Mannheim | 2005 | Dormant
+Christy Media Solutions | London, United Kingdom | 2012 | Active
+Cibernet | United States, NJ, Scotch Plains | 2005 | Dormant
+Cigniti Inc. | United States, California, Camarillo | 2008 | Dormant
+Circle Recruitment | United Kingdom, London | 2010 | Inactive
+Circle Recruitment - 0845 210 3333 | United Kingdom, London | 2010 | Inactive
+Circle Recruitment on behalf of client... | South West London | 2012 | Active
+Circonus, Inc. | United States, MD, Columbia | 2011 | Active
+Cisco Systems | United States, CA, San Jose | 2006 | Dormant
+Cisco Systems India Private Limited | India, Karnataka, Bangalore | 2007 | Dormant
+Cisco Systems Ltd | United States, CA, San Jose | 2010 | Inactive
+Citadel Investment Group | United States, IL, Chicago | 2010 | Inactive
+Citadel Investment Group, L.L.C. | United States, IL, Chicago  | 2008 | Dormant
+Citibank | United States, New Jersey, Warren | 2007 | Dormant
+Citigroup | United States, New Jersey, Rutherford | 2004 | Dormant
+City-based trading house. | United Kingdom, London | 2005 | Dormant
+CityStream Consulting | United Kingdom, London | 2007 | Dormant
+Citysearch | United States, California, Los Angeles | 2005 | Dormant
+Clackmas Paper | United States, OR, Clackmas | 2008 | Dormant
+Clakmas paper | or, clakmas  | 2008 | Dormant
+Claria | United States, CA, Redwood City | 2007 | Dormant
+Claria Corporation | United States, CA, Redwood | 2006 | Dormant
+Claria, inc. | United States, CA, Redwood City | 2006 | Dormant
+Clarity  | United Kingdom, London | 2008 | Dormant
+Clarity Recruitment | United Kingdom | 2008 | Dormant
+Clark Resources Consulting, LLC | United States, New Jersey | 2003 | Dormant
+Clark for President | United States, AR, Little Rock | 2004 | Dormant
+ClassBrain, Inc | United States, CA, Santa Ana | 2002 | Dormant
+Classmates.com | United States, WA, Renton | 2007 | Dormant
+Clearbuilt Technologies, Inc. | United States, GA, Telecommute | 2008 | Dormant
+ClickandBuy | United States, New York, New York | 2007 | Dormant
+Client | United States, NY, New York City | 2011 | Active
+Client Server Ltd | United Kingdom, London | 2010 | Inactive
+Client Server Ltd. | United Kingdom, London | 2008 | Dormant
+Client is a military branch | DC Metro | 2012 | Active
+Client of Alphaeus HR | India, Karnataka, Bangalore | 2005 | Dormant
+Client of Becker Staffing Services | United States, Delaware, New Castle | 2008 | Dormant
+Client of LMB Professional Services | United States, New York, Manhattan | 2008 | Dormant
+Client of TMI Network | India, Andhra Pradesh, Hyderabad | 2006 | Dormant
+ClinicaHealth | New York / Washington, DC | 2007 | Dormant
+Cliq Digital | Amsterdam, The Netherlands | 2012 | Active
+Close Brothers Commercial Vehicle Solutions | Ilkeston, Derbyshire, UK | 2013 | Active
+Close Resource | United Kingdom, Bristol, Bristol | 2004 | Dormant
+Cloudband | United Kingdom, London | 2001 | Dormant
+Cloudmark | United States, San Francisco | 2011 | Active
+Clovis | MD, Bethesda | 2011 | Active
+Club Photo | United States, TX, Austin | 2005 | Dormant
+Clustermark | Canada, ON., Toronto | 2002 | Dormant
+CoServers | 01938, MA, Ipswich | 2010 | Inactive
+Coachwood IT & Executive Recruitment | Australia, Victoria, Melbourne | 2009 | Inactive
+Coal IT | United Kingdom, London | 2007 | Dormant
+Coalition Holdings | United Kingdom, London | 2007 | Dormant
+Code and Theory | New York, NY, USA | 2013 | Active
+CodeQ, inc. | United States, NV, Henderson | 2005 | Dormant
+CodeRyte | United States, Maryland, Bethesda | 2004 | Dormant
+CodeRyte, Inc | United States, MD, Bethesda | 2011 | Active
+CodeRyte, Inc. | United States, Maryland, Bethesda | 2006 | Dormant
+Codeq | United States, NV, Las Vegas | 2004 | Dormant
+CogMedia | Canada, Quebec | 2001 | Dormant
+Cogneo | United States, CA, San Mateo | 2002 | Dormant
+Cognizo Technologies | United States, IL, Chicago | 2007 | Dormant
+Coit Staffing | United States, CA, Mt View or San Francisco | 2008 | Dormant
+Coit Staffing Inc. | United States, CA, San Francisco | 2005 | Dormant
+Cold Spring Harbor Lab | United States, NY, Cold Spring Harbor | 2006 | Dormant
+Cold Spring Harbor Laboratory | United States, New York, Cold Spring Harbor | 2007 | Dormant
+Cole Hill Prime | United States, NY, New York | 2007 | Dormant
+CollabNet | India, Tamil Nadu, Chennai | 2011 | Active
+Collabera | United States, IL, Chicago | 2009 | Inactive
+Collective2 | United States, NY, Rye Brook | 2009 | Inactive
+Collectors Car Auction | Singapore, Singapore | 2004 | Dormant
+CollegeGear.com | United States, WA, Seattle | 2006 | Dormant
+CollegeGear.com, Inc. | United States, WA, Seattle | 2007 | Dormant
+CollegeNET | United States, OR, Portland | 2010 | Inactive
+Colligent.com | United States, WA, Bellevue | 2008 | Dormant
+Collins Associates | United States, New York, Manhattan / Long Island | 2005 | Dormant
+Colonize, Inc. | United States, New Jersey, Hoboken | 2002 | Dormant
+Colubris Networks | United States, MA, Waltham | 2005 | Dormant
+Colubris Networks, Inc. | United States, Ma, Waltham | 2007 | Dormant
+Columbia Technology | United States, NYC, NYC | 2006 | Dormant
+CombineNet | United States, Pennsylvania, Pittsburgh | 2008 | Dormant
+CombineNet, Inc. | United States, Pennsylvania, Pittsburgh | 2010 | Inactive
+Combinenet | United States, PA, Pittsburgh | 2010 | Inactive
+Comcast | United States, VA, Herndon | 2008 | Dormant
+Comforce | United States, WA, Seattle | 2004 | Dormant
+Commerce Objects, Inc. | United States, Minnesota, St. Paul | 2006 | Dormant
+CommerceStore.com | United States, Ok, Tulsa | 2003 | Dormant
+Commind | Sweden, Lund | 2010 | Inactive
+CommonMind | United States, MI, Ann Arbor or Novi | 2007 | Dormant
+Commtouch | Israel, Natanya | 2008 | Dormant
+Community Connect, Inc. | United States, NY, New York | 2005 | Dormant
+Community Software Lab | United States, MA, Lowell | 2011 | Active
+Companies House | United Kingdom, Wales, Cardiff | 2011 | Active
+Company in King of Prussia | United States, Pennsylvania, King of Prussia | 2010 | Inactive
+Compella | United States, New York, New York | 2009 | Inactive
+Compendium Research Corp | United States, NY, Rochester | 2004 | Dormant
+Competency Assessment Solutions | United States, New Jersey, Princeton | 2005 | Dormant
+Competent Staffing Resource | Morrisville, NC | 2012 | Active
+Complete Data Solutions | United States, VA, Fairfax | 2007 | Dormant
+Comprehensive Computer Consulting | United States, WI, madison | 2006 | Dormant
+CompuSearch | United States, New Jersey, Northern NJ | 2008 | Dormant
+Compucast Web Media | New Orleans, LA | 2012 | Active
+Compugra Systems Inc | United States, Delaware, Newark | 2004 | Dormant
+Compunnel Software Group Inc | United States, Georgia, Atlanta | 2011 | Active
+Compunnel Software Group Inc. | United States, Georgia, Atlanta | 2011 | Active
+Computational Biology and Informatics Laboratory, University of | United States, PA, Philadelphia | 2005 | Dormant
+Computer Aid, Inc. | United States, VA, Dulles | 2001 | Dormant
+Computer Express, Inc. | United States, MA, Wakefield | 2006 | Dormant
+Computer Futures | The Netherlands, North Holland, Amsterdam | 2009 | Inactive
+Computer Futures Amsterdam | The Netherlands, Noord Holland, Amsterdam | 2009 | Inactive
+Computer Futures Solutions | The Netherlands, Noord-Holland, Amsterdam of Groningen | 2006 | Dormant
+Computer Futures Solutions (Agency) | United Kingdom, East Yorkshire, East Yorkshire | 2007 | Dormant
+Computer People | United Kingdom, London | 2013 | Active
+Computer Quest | United Kingdom, Glouester | 2003 | Dormant
+Computershare | ma, Canton | 2012 | Active
+Computershare  | Canada, Ontario, Toronto | 2011 | Active
+Computershare Investor Services | United Kingdom, Bristol | 2006 | Dormant
+Computershare Trust Company | Canada, Ontario, Richmond Hill | 2007 | Dormant
+Compuware Canada Ltd. | Canada, Quebec, Montreal | 2005 | Dormant
+Compuware Corporation | Canada, Quebec, Montreal | 2007 | Dormant
+Compuware Corporation of Canada | Canada, Quebec, Montreal | 2005 | Dormant
+Comspec | Canada, Ontario, Toronto | 2005 | Dormant
+Comstyle | Germany, Germany, Flensburg | 2003 | Dormant
+Comsys | United States, WA, Seattle | 2011 | Active
+Comtech Mobile Datacom Corporation | United States, Maryland, Germantown | 2004 | Dormant
+Comtek | IL, Chicago | 2007 | Dormant
+Comverse | United States, Nj, Mount Laurel | 2004 | Dormant
+ConSol* | Munich, Germany | 2012 | Active
+Concepts in Staffing | United States, New York, New York City | 2003 | Dormant
+Concordia University | Canada, Quebec, Montreal | 2003 | Dormant
+Condifential | United States, Florida, Key West | 2008 | Dormant
+Conex Europe | United Kingdom, London | 2011 | Active
+Conex Europe  | United Kingdom, London | 2011 | Active
+Conex Europe (http://www.linkedin.com/in/mattgeppert)  | United Kingdom, London | 2010 | Inactive
+Conex Europe - 01708 716 880 | Hertfordshire | 2012 | Active
+Conex Europe - http://www.linkedin.com/in/mattgeppert | United Kingdom, UK, London, London | 2011 | Active
+Conex Europe - http://www.linkedin.com/in/mattgeppert  | United Kingdom, London | 2010 | Inactive
+Conex Europe Ltd | United Kingdom, London | 2010 | Inactive
+Conex Europe Ltd. | United Kingdom, London | 2010 | Inactive
+Conex Europe_Simon Green | United Kingdom, Basingstoke | 2011 | Active
+Confideintial | United States, MD, Rockville | 2007 | Dormant
+Confidential | United States, TN, Nashville | 2013 | Active
+Confidential  | United States, California, Los Angeles  | 2011 | Active
+Confidential (Initially) | Australia, NSW, Sydney | 2006 | Dormant
+Confidential (Mobile Platform Development) | United States, NY, New York | 2010 | Inactive
+Confidential (blue chip) | United Kingdom, West- central  London, London | 2006 | Dormant
+Confidential - | United States, Minnesota, Minnetonka | 2002 | Dormant
+Confidential - Ecommerce | United States, NY, New York City | 2010 | Inactive
+Confidential - High Tech Public Company | United States, CA, San Jose | 2007 | Dormant
+Confidential -ecommerce | United States, CA, San Francisco | 2007 | Dormant
+Confidential Company | United States, California, Redwood City | 2003 | Dormant
+Confidential Company Represented by Jobplex | United States, DC, Washington | 2005 | Dormant
+Confidential Search Engine company in SF | United States, CA, San Francisco | 2007 | Dormant
+Confidential Search-Still Open | United States, TX, Fort Worth | 2007 | Dormant
+Confidential via JobSmart Partners | Canton, MA | 2012 | Active
+Confidential, Represented by Winter, Wyman & Co | United States, NY, New York | 2007 | Dormant
+Confluence | United States, DC, Washington | 2008 | Dormant
+Connect Distribution | United Kingdom, Birmingham | 2011 | Active
+ConnectFu | Undefined | 2011 | Active
+ConnectPoint Recruiting | United States, UT, Salt Lake City | 2008 | Dormant
+Connected Musicians | United States, IN, Indianapolis | 2005 | Dormant
+Connected-UK.com LLP | United Kingdom, West Yorkshire, Halifax | 2007 | Dormant
+Connections Recruitment | United Kingdom, Berkshire, Wokingham | 2012 | Active
+Connections Recruitment - Bank | United Kingdom, London, City | 2008 | Dormant
+Connections Recruitment Ltd | United Kingdom, London, London | 2011 | Active
+Connections Recruitment Ltd - onsite at SAAS Software Vendor | London, United Kingdom | 2012 | Active
+Connectlogic | United Kingdom, Bedfordshire, Buckinghamshire | 2005 | Dormant
+Console, Inc | United States, CA, San Diego, | 2005 | Dormant
+Console, Inc. | United States, CA, San Diego | 2005 | Dormant
+Constitution Group | United States, NY, New York | 2010 | Inactive
+Consultis | United States, NJ, Woodbridge` | 2010 | Inactive
+Consultis of Tampa | United States, FL, Tampa | 2010 | Inactive
+Consultpool GmbH & Co. KG | Deutschland, München | 2009 | Inactive
+Contact Telecom | United States, New Hampshire, Manchester | 2007 | Dormant
+Context Software | Canada, Ontario, Toronto | 2004 | Dormant
+ContinuedEd IDC, India (Subsidiary of continueded.com,USA) | India, New Delhi, New Delhi | 2003 | Dormant
+Continuity Partners | United States, New York, New York | 2007 | Dormant
+Continuity Partners, Inc. | United States, NY, New York | 2011 | Active
+Continuity Partners, Inc.  | United States, NY, New York | 2010 | Inactive
+Contract job | Undefined | 2006 | Dormant
+Contractors.com | Canada, Ontario, Toronto | 2007 | Dormant
+Control Access Systems | United States, CA, Oakland | 2008 | Dormant
+Conversation Technology | United States, MD, Gaithersburg | 2002 | Dormant
+CoolerEmail | United States, CA, San Diego | 2009 | Inactive
+CoolerEmail, Inc | United States, CA, Solana Beach | 2010 | Inactive
+Cooperative Design | United States, WA, Langley | 2005 | Dormant
+Core Search Group | United States, NY, Manhattan | 2006 | Dormant
+Core Search Group, INC. | United States, SC, Charleston | 2003 | Dormant
+Core Search Group, Inc. | United States, NC, Charlotte | 2002 | Dormant
+CoreBPM Pte Ltd | Singapore | 2012 | Active
+CoreBPM Pte Ltd. | Singapore | 2012 | Active
+CoreTechs Consulting Inc. | United States, DC, Washington | 2010 | Inactive
+Coreware | United Kingdom, Surrey | 2008 | Dormant
+Coreware Limited | GU5 0AB, Surrey, Guildford | 2006 | Dormant
+Coreware Ltd | United Kingdom, Surrey, Guildford | 2004 | Dormant
+Cornell University | United States, NY, Ithaca | 2007 | Dormant
+Corner Office Consultants | United States, TN, Memphis | 2011 | Active
+Cornerstone Search Group | United States, New York, New York | 2005 | Dormant
+Corporate Express | Australia, NSW, Sydney | 2012 | Active
+Corporate Recruiters Ltd | Canada, BC, Victoria | 2007 | Dormant
+Corporate Recruiters Ltd. | Canada, BC, Vancouver | 2004 | Dormant
+Corporation Cardex Inc. | Canada, Quebec, Montreal | 2007 | Dormant
+Corso Informatica B.V. | The Netherlands, Tiel | 2005 | Dormant
+Corvisa, LLC. | United States, Wisconsin, Milwaukee | 2010 | Inactive
+Cosbit Technologies | Canada, Alberta, Calgary | 2008 | Dormant
+CourtTrax Corporation | United States, WA, Bellevue | 2008 | Dormant
+CovetedList.com | United States, New York, New York | 2010 | Inactive
+Cox Radio Interactive | United States, GA, Atlanta | 2005 | Dormant
+Coyote Creek Consulting | United States, CA, San jose | 2004 | Dormant
+Craig Law, PLLC | United States, Kentucky, Louisville | 2010 | Inactive
+Crain Communications | United States, MI, Detroit | 2008 | Dormant
+Crazy Panda | Russia, Moscow | 2011 | Active
+CreateAMag Incorporated | United States, Utah, Vernal | 2001 | Dormant
+Creative Directions | San Mateo, CA | 2011 | Active
+Creative Directions Recruiting | United States, CA, San Mateo | 2010 | Inactive
+Creative Staffing | United States, CA, Palo Alto | 2006 | Dormant
+Credit Payment Services | United States, TN, Chattanooga | 2011 | Active
+Credit Style Limited | United Kingdom, South Yorkshire, Sheffield | 2012 | Active
+Creditreform Bulgaria | Bulgaria, Sofia | 2003 | Dormant
+Creed Solutions | Canada, ON, toronto | 2005 | Dormant
+Creed Solutions Inc | Canada, ON, Toronto | 2004 | Dormant
+Crescendo Productions | Australia, SA, Adelaide | 2003 | Dormant
+Crescent Solutions | United States, FL, Boca Raton | 2010 | Inactive
+Cronon AG | Germany, Berlin, Berlin | 2005 | Dormant
+Crossgate Technologies AG | Germany, Niedersachsen, Göttingen | 2010 | Inactive
+Crossroads Access | United States, CA, Venice | 2006 | Dormant
+CrunchTime! Information Systems | United States, MA, Boston | 2007 | Dormant
+CryptoLogic Inc. | Canada, Ontario, Toronto | 2004 | Dormant
+Cryptologic Inc. | Canada, Ontario, Toronto | 2004 | Dormant
+Crystal Solutions | United States, VA, Newport News | 2006 | Dormant
+Crystal Solutions, LLC | United States, va, newport news | 2004 | Dormant
+Ctech | United States, AZ, Phoenix | 2003 | Dormant
+Cubehut | telecommute | 2004 | Dormant
+CudaTel | United States, MI, Ann Arbor | 2009 | Inactive
+Cue Data Services | United States, Maine, Portland | 2004 | Dormant
+Cummings St. Thomas | United States, TX, Dallas | 2005 | Dormant
+Cumulus Systems | India, Maharashtra, Pune | 2007 | Dormant
+Currenex | United States, CA, Redwood City | 2007 | Dormant
+CurtainTech | United States, NY, New York | 2007 | Dormant
+CurtainTech LLC | NY, New York | 2007 | Dormant
+Curtaintech | United States, NY, New York | 2007 | Dormant
+Custom Business Solutions | United States, MI, Grand Rapids | 2010 | Inactive
+Custom CMS, LLC. | United States, PA, Erie | 2005 | Dormant
+Customer Care Dot Com | United States, FL, Lake Mary | 2009 | Inactive
+Cybage Software Pvt. Ltd. Pune | India, Maharashtra, Pune | 2004 | Dormant
+Cyber Sprocket Labs | Charleston, SC | 2011 | Active
+CyberData Technologies, Inc. | United States, DC, Washington | 2006 | Dormant
+CyberDefender | United States, CA, Los Angeles-Downtown | 2009 | Inactive
+CyberDefender Corp | United States, CA, Los Angeles | 2007 | Dormant
+CyberDefender Corporation | United States, CA, Los Angeles | 2007 | Dormant
+CyberSurfers Inc | India, Kerala, Cochin | 2007 | Dormant
+CyberSurfers Inc / ExchangeRate.com Inc. | India, INDIA Anywhere / Chandigarh / Delhi / Kerala / Banglore, INDIA | 2005 | Dormant
+CyberSurfers Inc. / Annuk Inc. | India, Punjab, Haryana, Delhi, Chandigarh UT | 2004 | Dormant
+CyberTeam Resouce Mangement  | London, Uxbridge, UK  | 2011 | Active
+CyberTrend, Inc | United States, CA, Riverside | 2002 | Dormant
+Cyberdefender | United States, California, Los Angeles | 2009 | Inactive
+Cyberhenge, Inc. | United States, NJ, Haskell | 2008 | Dormant
+Cyberplat.Com | Russia, Moscow | 2006 | Dormant
+Cybertania Inc | United States, IL, Chicago | 2005 | Dormant
+Cybertrend, INC | United States, CA, Riverside | 2003 | Dormant
+Cybertrust | United States, Virginia, Herndon | 2006 | Dormant
+Cypress Group | United States, New York, New York | 2013 | Active
+D3 Technologies | United States, WA, Mukilteo | 2005 | Dormant
+DADA S.p.A. | Italy, FI, Florence | 2006 | Dormant
+DADA SpA | People's Republic of China, Beijing, Beijing | 2006 | Dormant
+DB Management | United States, Maine, Portland | 2008 | Dormant
+DBI Recruitment | Nederland, Hoofddorp | 2010 | Inactive
+DCIS (I) Pvt., Ltd., | INDIA, Tamil Nadu, Ooty, The Nilgiris | 2003 | Dormant
+DCR Systems | United States, Texas, Dallas | 2004 | Dormant
+DD | United States, CA, San Francisco | 2005 | Dormant
+DEGATE web based solutions GmbH | Germany, Ahrensburg | 2004 | Dormant
+DEMOS eLearning Agency | FRANCE, PARIS | 2010 | Inactive
+DEMOmix.com | United States, Illinois, Chicago | 2007 | Dormant
+DEVNET, Inc. | United States, IL, Sycamore | 2012 | Active
+DEY Storage Systems | London, United Kingdom | 2012 | Active
+DGH Recruitment | Hampshire | 2013 | Active
+DGH Recruitment Ltd | Southampton, Hampshire | 2011 | Active
+DGI | United States, CA, Santa Clara | 2003 | Dormant
+DHS-Club, Inc. | United States, Florida, Englewood | 2008 | Dormant
+DIS AG, IT | Germany, Bremen, Bremen | 2007 | Dormant
+DISYS | United States, IL, Rosemont | 2011 | Active
+DISYS (Digital Intelligence Systems) | Colorado Springs, CO | 2012 | Active
+DK Hostmaster | København, Denmark | 2012 | Active
+DK Hostmaster A/S | Denmark, Copenhagen | 2009 | Inactive
+DM Contact Managment | Canada, BC, Victoria | 2004 | Dormant
+DMForge | United States, Michigan, Metro Detroit | 2007 | Dormant
+DMK-Internet e.K./SuperClix | Germany, Freiburg | 2009 | Inactive
+DMS | Canada, ON, St. Catharines | 2005 | Dormant
+DMcorp | India | 2010 | Inactive
+DMcorp. | India, Los Angeles | 2010 | Inactive
+DNC | United States, DC, Washington | 2005 | Dormant
+DND - Desenvolvimento de Negócios Digitais | Brazil, São Paulo, São Paulo | 2007 | Dormant
+DOE JGI / Lawrence Berkeley National Lab | United States, CA , Walnut Creek | 2010 | Inactive
+DOE JGI / Lawrence Berkeley National Laboratory  | United States, CA, Walnut Creek | 2010 | Inactive
+DOE Joint Genome Institute | United States, CA, Walnut Creek | 2010 | Inactive
+DOE Joint Genome Institute (Berkeley Lab) | United States, CA, Walnut Creek | 2010 | Inactive
+DOTGO | United States, NY, New York | 2010 | Inactive
+DOTmed.com | United States, NY, New York | 2010 | Inactive
+DOTmed.com, Inc | United States, NY, NYC | 2005 | Dormant
+DOTmed.com, Inc. | United States, NY, New York | 2007 | Dormant
+DP Communications | United States, Tx, Dallas | 2007 | Dormant
+DP Connect | United Kingdom, London | 2006 | Dormant
+DP Connect Ltd | United Kingdom, London | 2007 | Dormant
+DPC | United States, MA, Burlington | 2006 | Dormant
+DPHPC, University of Cambridge | Cambridge, UK | 2013 | Active
+DPM Consulting Services | United States, Michigan, Troy | 2003 | Dormant
+DR MyCommerce | Minneapolis, MN, United States | 2013 | Active
+DTI Services | United States, CA, Los Angeles | 2004 | Dormant
+DTI Services, Inc. | United States, CA, Los Angeles | 2004 | Dormant
+DTS | United States, NY, New York | 2008 | Dormant
+DTT | United States, CA, Los Angeles | 2010 | Inactive
+DWC | Reporting to Manager in Lithuania, Virtual | 2009 | Inactive
+DWS Asia Co., Ltd | Finland, Helsinki, Helsinki | 2008 | Dormant
+DYL, LLC. | Marina del Rey, CA, United States | 2012 | Active
+Dada Brazil | Brazil, RJ, 22411-000, Rio de Janeiro | 2010 | Inactive
+Dada Entertainment | United States, NY, New York | 2010 | Inactive
+Dada Group | Italy, Florence | 2007 | Dormant
+Dada SpA | Italy, Italy, Florence | 2006 | Dormant
+Dada Usa, Inc. | United States, NY, New York | 2007 | Dormant
+Dada.net | Italy, Italy, Florence or Milan | 2011 | Active
+Dada.net S.p.A. | Italy, Florence (Tuscany), Florence | 2011 | Active
+Daily Internet Services Limited | United Kingdom, Nottingham, Chilwell | 2011 | Active
+Dallas Semiconductor / Maxim | United States, TX, Dallas | 2005 | Dormant
+Dandy Booksellers Limited | United Kingdom, Kilburn, London | 2010 | Inactive
+Danger | United States, CA, Palo Alto | 2005 | Dormant
+Danger, Inc. | United States, CA, Palo Alto | 2007 | Dormant
+Dargal Interline Worldwide | Canada, BC, Kelowna | 2005 | Dormant
+DarthDex | United States, CA, Mountain View | 2005 | Dormant
+Darwin Recruitment | the Netherlands , Noord Holland , Amsterdam | 2010 | Inactive
+Data Based Development Ssystems | United States, CT, Manchester | 2009 | Inactive
+Data Based Development Systems | United States, CT, Manchester | 2008 | Dormant
+Data Domain | United States, California, San Mateo (moving soon to Mt. View) | 2003 | Dormant
+Data Search Network | United States, FL, Boca Raton | 2004 | Dormant
+Data Search Network, inc. | United States, Pennsylvania, King of Prussia | 2005 | Dormant
+DataComIT | Australia, Victoria, Melbourne | 2005 | Dormant
+DataForLife | United States, Oregon, Wilsonville | 2003 | Dormant
+DataJuice Inc. | United States, Texas, Houston | 2004 | Dormant
+DataRockit! | United States, FL, Lake Mary | 2010 | Inactive
+DataSource Corp. | Boulder, CO, USA | 2012 | Active
+Datacom Technology Group | United States, NJ, Jersey City | 2010 | Inactive
+Datagraf A/S | Denmark, Auning | 2008 | Dormant
+Datagraf Auning AS | Denmark, Auning | 2004 | Dormant
+Datascope Recruitment | United Kingdom, London, London | 2006 | Dormant
+Datatrac Limited | United Kingdom, Devon, Honiton | 2009 | Inactive
+Daugherty Systems | United States, MO, St. Louis | 2001 | Dormant
+David Aplin Recruiting | Canada, British Columbia, Vancouver | 2005 | Dormant
+David Higgins | United States, CA, Pleasanton | 2002 | Dormant
+David Isenberg, Technical Recruiter | United States, Texas, Dallas (Richardson) | 2002 | Dormant
+Davis and Stern | United States, MD, Baltimore | 2008 | Dormant
+Dawson  | United States, OH, Columbus | 2009 | Inactive
+Dawson IT Search | Upstate Michigan | 2008 | Dormant
+Dawson Resources | United States, MI, Traverse City | 2007 | Dormant
+Dawson resources | Columbus, OH | 2012 | Active
+Daxtra | Edinburgh, Scotland, United Kingdom | 2013 | Active
+Daxtra Technologies | Edinburgh, Midlothian, Scotland | 2012 | Active
+DeNA | ShangHai | 2012 | Active
+Dealtime | Israel | 2003 | Dormant
+Dean Montgomery Associates | United States, Florida, Largo, Tampa Bay area | 2004 | Dormant
+Decide Staffing | Latin America , Telecommute, Telecommute | 2009 | Inactive
+Decision Consultants | United States, MI, Soiuthfield | 2001 | Dormant
+Decision Help, LLC | United States, VA, Williamsburg | 2006 | Dormant
+Decision Research Corp. | United States, HI, Honolulu | 2005 | Dormant
+Decorative Product Source | United States, NY, Goshen | 2008 | Dormant
+Decorative Products Source | United States, NY, Goshen | 2011 | Active
+Decorus Personnel | United States, CA, San Diego | 2007 | Dormant
+Dedicatted Technologies, Inc. | United States, OH, Columbus | 2005 | Dormant
+DeepData | United States, CA | 2003 | Dormant
+DeepData Corporation | United States, CA, Chino Hills | 2004 | Dormant
+Deerfield Capital Management | United States, IL, Chicago | 2007 | Dormant
+Deerfoot IT Resources Ltd | United Kingdom, Berkshire, Newbury | 2004 | Dormant
+Definition 6 | United States, GA, Atlanta | 2005 | Dormant
+Delhi Based Company | India, Delhi, Delhi | 2009 | Inactive
+Delphi Technical | United States, CA, San Diego | 2005 | Dormant
+Delticom AG | Hanover, Germany | 2013 | Active
+Democratic Congressional Campaign Committee | United States, DC, Washington | 2007 | Dormant
+Democratic National Committee | United States, DC, Washington | 2005 | Dormant
+Demoxi Inc | United States, WA, Bellevue | 2007 | Dormant
+DesertNet | United States, AZ, Tucson | 2006 | Dormant
+Deutsche Bank | United States, NY, New York | 2004 | Dormant
+DevBot | United States, florida, wesly chapel | 2006 | Dormant
+DevWrights | CA, Fullerton | 2007 | Dormant
+Develooper LLC | United States, CA, Los Angeles | 2006 | Dormant
+Devon Consulting | PA, Wayne | 2006 | Dormant
+Devonshire | United Kingdom, London | 2010 | Inactive
+Devonshire Recruitment | West London, London | 2009 | Inactive
+Devoteam | France, Paris | 2010 | Inactive
+Devrajan Srinivasan | Ireland, Dublin | 2006 | Dormant
+Devrajan srinivasan | Ireland, Dublin | 2006 | Dormant
+Dexcel Electronics Designs | India | 2007 | Dormant
+DiMonex Technologies | Ireland, Citywest, Dublin | 2007 | Dormant
+Dialog Group, Inc. | United States, New York, New York City | 2006 | Dormant
+Diamond Financial Products | United States, MI, Southfield | 2005 | Dormant
+Diamond Information Systems, LLC | United States, Virginia, Sterling | 2001 | Dormant
+Dictionary of Old English, Univeristy of Toronto | Canada, Ontario, Toronto | 2002 | Dormant
+Digerati | United Kingdom, London | 2008 | Dormant
+Digerati Search | United States, TN, Memphis | 2007 | Dormant
+Digerati Search, Inc. | United States, TN, Memphis | 2006 | Dormant
+Digicon | United States, Maryland, Bethesda | 2008 | Dormant
+Digicon Corporation | United States, Maryland, Bethesda | 2005 | Dormant
+Digicon Corporation / NIH /NHGRI | Maryland, Bethesda | 2006 | Dormant
+Digital Campaigns | United States, CA, San Francisco | 2001 | Dormant
+Digital Campaigns, Inc. | United States, CA, Palo Alto | 2004 | Dormant
+Digital Craftsmen | United Kingdom, London | 2006 | Dormant
+Digital Craftsmen Ltd | United Kingdom, London | 2004 | Dormant
+Digital Era Banking Services | United States, AL, Birmingham | 2006 | Dormant
+Digital Landscape | Canada, ON, Whitby | 2004 | Dormant
+Digital Look | United Kingdom, Greater London, London | 2008 | Dormant
+Digital Look Limited | United Kingdom, London | 2008 | Dormant
+Digital Rights Agency | United States, CA, San Francisco | 2006 | Dormant
+Digital River, Inc. | United States, IL, Chicago | 2009 | Inactive
+Digital-X | United States, California, Sunnyvale | 2004 | Dormant
+DigitalValet | United States, CA, San Francisco | 2007 | Dormant
+DigitalWork | United States, IL, Chicago | 2006 | Dormant
+DigitalWork / Zoomshare | United States, IL, Chicago | 2006 | Dormant
+Digium, Inc. | United States, CA, San Diego | 2008 | Dormant
+Dimensional Fund Advisors | United States, TX, Austin | 2009 | Inactive
+Direct Alliance | United States, AZ, Phoenix | 2002 | Dormant
+Direct Client Of Mindteck | United States, PA, West Chester | 2009 | Inactive
+Direct Freight Services | United States, MO, Columbia | 2009 | Inactive
+DirectAthletics | Brooklyn, NY, USA | 2012 | Active
+Directski.com | Ireland, Dublin | 2009 | Inactive
+DiscRevolt | United States, Georgia, Alpharetta | 2007 | Dormant
+Discovery Communications | United States, MD, Silver Spring | 2011 | Active
+Discovery Communications / Discovery Channel | United States, Nationwide, Nationwide | 2007 | Dormant
+Discovery Communications, LLC | United States, NY, New York | 2008 | Dormant
+Discovery Mining Inc | United States, California, San Francisco | 2006 | Dormant
+Disney Animation | United States, CA, Burbank | 2006 | Dormant
+Dispensing Solutions, Inc. | United States, CA, Santa Ana | 2006 | Dormant
+Distribute IT | Australia, Victoria, Melbourne | 2008 | Dormant
+Distributed Technology Solutions, Inc. (search firm) | United States, New Jersey, Jersey City | 2006 | Dormant
+Distributed Website Corp | Any, Tele-Commute | 2010 | Inactive
+Distributed Website Corp/rSchoolToday.com | Any, Tele-Commute | 2010 | Inactive
+Distributed Website Corporation | United States, Minnesota, Winona | 2003 | Dormant
+Distribution Fidecis inc. | Canada, QC, Montreal | 2007 | Dormant
+Disys | TX, Irving | 2008 | Dormant
+Disys Corp | United States, TX, Dallas/Plano | 2008 | Dormant
+DivX | United States, CA, San Diego | 2010 | Inactive
+Divergence, Inc. | United States, MO, St. Louis | 2005 | Dormant
+Diversified Services Network | United States, WI, Madison | 2006 | Dormant
+Dnd | Brazil, Sao Paulo, Sao Paulo | 2007 | Dormant
+Dobie Media, Inc | Nashville, TN | 2012 | Active
+Dobie Media, Inc. | United States, TN, Nashville | 2010 | Inactive
+DoctorBase | San Francisco | 2010 | Inactive
+Dodo Australia | Australia, VIC, Melbourne | 2010 | Inactive
+Domino's Pizza LLC | US, Michigan, Ann Arbor | 2011 | Active
+Donhost Limited | United Kingdom, Yorkshire, Doncaster | 2003 | Dormant
+Dorigan and Associates | United States, CA, San Carlos | 2005 | Dormant
+Double Prime | United States, any, Work from home | 2013 | Active
+Double Prime Inc. | United States, PA, Philadelphia | 2004 | Dormant
+Double Prime, Inc. | United States, NY, New York | 2012 | Active
+DoubleClick | United States, CO, Thornton | 2007 | Dormant
+DoubleClick/Performics | United States, IL, Chicago | 2007 | Dormant
+Doubleclick Performics | United States, IL, Chicago | 2008 | Dormant
+Dow Jones  | United States, New Jersey, Princeton  | 2010 | Inactive
+Dow Jones, a News Corporation company | United States, NJ, South Brunswick | 2010 | Inactive
+Dowcarter | United Kingdom, Midlothian, Edinburgh | 2005 | Dormant
+DrJays.com | United States, California, San Diego | 2010 | Inactive
+DrJays.com, Inc. | United States, California, San Diego | 2009 | Inactive
+DragonFly Forest | Philadelphia, PA | 2011 | Active
+Drake Consulting | United States, IL, Northern Chicago Suburbs | 2005 | Dormant
+DreamHost | Los Angeles, San Francisco, Atlanta, open to telecommuting | 2012 | Active
+DreamWorks Animation | United States, CA, Glendale or Redwood City | 2007 | Dormant
+DreamWorks Animation, SKG | United States, California, Glendale or Redwood City | 2006 | Dormant
+Dreamway | Germany, Bayern, Immenstadt/Allgäu | 2006 | Dormant
+Dreamway Interactive | Germany, Immenstadt | 2005 | Dormant
+Dreamworks Animation | United States, CA, Glendale | 2007 | Dormant
+Dress-For-Less GmbH | Germany, Hesse, Frankfurt am Main/Kelsterbach/Raunheim | 2011 | Active
+Drexel Technical, Inc. | United States, NJ, Piscataway | 2003 | Dormant
+Drjays.com | United States, CA, San Diego | 2011 | Active
+Duff Capital Advisors | United States, NY, New York | 2008 | Dormant
+DugaDuga.com | Sacramento, CA | 2012 | Active
+Dunross Recruitment | Czech Republic, Czech Republic, Prague | 2010 | Inactive
+Duran HCP | United States, CA, Campbell | 2008 | Dormant
+Dwight Cribb Personalberatung GmbH | Germany, Hamburg, Hamburg | 2006 | Dormant
+Dyn Inc | United States, NH, Manchester | 2011 | Active
+DynTek | United States, New Jersey, Marlton | 2007 | Dormant
+Dynamic Network Services, Inc. | United States, NH, Manchester | 2004 | Dormant
+Dynamite Data | Undefined | 2007 | Dormant
+E Commerce Client | United States, Pennsylvania, King of Prussia  | 2008 | Dormant
+E&D Recrute | France, PACA, Marseille | 2011 | Active
+E-Com Media Group | United States, Colorado, Denver | 2005 | Dormant
+E-Loanshop.com | United Kingdom, Glasgow | 2008 | Dormant
+E-Relationship Marketing | United Kingdom, Buckinghamshire, Milton Keynes | 2006 | Dormant
+E-Solutions Lanka (Pvt)Ltd | Sri Lanka, Colombo 1 | 2006 | Dormant
+E-TRAIN | Philippines, Metro Manila | 2005 | Dormant
+EBI | United Kingdom, Cambs, Cambridge | 2010 | Inactive
+EC Wise, Inc. | 94925, CA, Corte Madera | 2004 | Dormant
+ECI Telecom | Israel, Petach Tikva | 2007 | Dormant
+ECS Tuning | United States, Ohio, Wadsworth  | 2013 | Active
+ECS-Solution GmbH | Germany, Imsbach | 2007 | Dormant
+ECom Recruitment | United Kingdom, Oxfordshire, Oxford | 2007 | Dormant
+EDT Global Pty Ltd | Australia, NSW, Sydney, | 2006 | Dormant
+EE Inc | United States, VA, Alexandria | 2009 | Inactive
+EF Johnson | United States, Texas, Irving | 2010 | Inactive
+ELAN | United Kingdom, Berkshire, Reading | 2007 | Dormant
+ELAN IT | FRANCE, FRANCE, Sophia- Antipolis | 2007 | Dormant
+ELan Computing | United Kingdom, Cambridgeshire, Cambridge | 2007 | Dormant
+EMBL - EBI | United Kingdom, Hinxton, Cambridge | 2010 | Inactive
+EMBL-EBI | United Kingdom, Cambridge | 2013 | Active
+EMC Corporation | Australia, NSW, Sydney | 2010 | Inactive
+EOL | Sydney, Australia | 2013 | Active
+EPI Enterprises | United States, New Jersey, Manalpan | 2011 | Active
+ER Group, Inc. | United States, WA, Seattle | 2004 | Dormant
+ESCO Integrated Manufacturing (Concord, CA) | United States, CA, Concord | 2006 | Dormant
+ESIS, Inc | United States, CA, San Diego | 2004 | Dormant
+ESP Global IT Systems pvt ltd | The Netherlands, Amsterdam | 2004 | Dormant
+ESPN Digital Media | Bangalore, India | 2013 | Active
+EW, inc. | United States, ny, new york | 2004 | Dormant
+EXCEL-WEST | United States, CA, Culver City | 2002 | Dormant
+EXFO Service Assurance | United States, MA, Chelmsford | 2011 | Active
+Early Stage Start-Up | United States, California, San Francisco Bay Area | 2007 | Dormant
+EarlySail | India, Delhi, New Delhi | 2007 | Dormant
+EarlySail Software Pvt Ltd | India, Delhi, New Delhi | 2007 | Dormant
+Eastern Nazarene College | United States, MA, Quincy | 2002 | Dormant
+Eastern Suns Inc. | United States, Boston | 2005 | Dormant
+Eastman Kodak, Health Imaging Division | United States, CA, Fremont | 2003 | Dormant
+EasyCruit AS | Norway, Oslo, Oslo | 2005 | Dormant
+Easysoft Limited | United Kingdom, West Yorkshire, Wetherby (near Leeds, York and Harrogate) | 2010 | Inactive
+Easyspace Limited | UK, Surrey, West Byfleet | 2001 | Dormant
+Easyspace Ltd | United Kingdom, Surrey, West Byfleet | 2004 | Dormant
+Easyspace Ltd. | Thailand, Bangkok | 2004 | Dormant
+Easyway Tec, Inc. | China, Zhejiang, Hanzhou | 2010 | Inactive
+Eatoni Ergonomics | 10010, New York, New York | 2004 | Dormant
+Eatoni Ergonomics, Inc. | United States, New York, New York | 2005 | Dormant
+Ebby Halliday | United States, TX, Dallas | 2006 | Dormant
+Ebiz Chem Pvt. Ltd. | India, Maharashtra, Mumbai | 2004 | Dormant
+EbizChem Pvt. Ltd. | India, Maharashtra, Mumbai | 2005 | Dormant
+Ebizchem Pvt Ltd | India, Gujarat, Ahmedabad | 2010 | Inactive
+Ebizchem Pvt. Ltd. | India, Maharashtra, Mumbai | 2004 | Dormant
+Echostar | United States, Colorado, Englewood | 2008 | Dormant
+Eclectic Search | United States, CA, Sunnyvale | 2005 | Dormant
+Ecommerce Shopping Cart | United States, California, Los Angeles | 2005 | Dormant
+EdSource | United States, CA | 2004 | Dormant
+Edgelink | United States, OR, Portland | 2007 | Dormant
+Edgesource Corporation | United States, VA, Dulles | 2002 | Dormant
+Edinburgh University | Edinburgh, UK. | 2012 | Active
+Edison Schools | United States, New York, New York | 2006 | Dormant
+Edison Schools, Inc. | United States, New York, New York | 2007 | Dormant
+Edita SA / lessentiel.lu | Luxembourg, Differdange | 2010 | Inactive
+Editure | Australia, Victoria, Melbourne | 2009 | Inactive
+Education Program for Gifted Youth - Stanford University | United States, California, Stanford | 2010 | Inactive
+Edument AB | Malmö, Sweden | 2013 | Active
+Effective Educational Technologies | United States, MA, Cambridge | 2005 | Dormant
+Efficient Frontier | United Kingdom, London | 2007 | Dormant
+Ekaru | United States, MA, Westford | 2008 | Dormant
+Elan | South West UK | 2003 | Dormant
+Elan Computing | United Kingdom, London, Richmond | 2010 | Inactive
+Elan IT | United Kingdom, Surrey | 2010 | Inactive
+Elan It Resources | Norway, Oslo | 2009 | Inactive
+ElanIT | United Kingdom, Midlands | 2005 | Dormant
+Electric Lightwave | United States, WA, Vancouver | 2005 | Dormant
+Electric Villages Inc. | Canada, Ontario, Toronto | 2005 | Dormant
+Electrical Science, Inc. | United States, NY, Port Chester | 2006 | Dormant
+Electronic Arts | United States, CA, Redwood City | 2005 | Dormant
+Electronic Commerce Group Ltd | United Kingdom, Yorkshire, Sheffield | 2011 | Active
+Electronic Group | Spain, Barcelona | 2002 | Dormant
+Electronic Trading firm | Undefined | 2012 | Active
+Electronics For Imaging | United States, CA, Foster City | 2001 | Dormant
+Electus Resources | Ireland, Dublin, Dublin | 2006 | Dormant
+Eli Kirk | United States, Utah, Provo | 2007 | Dormant
+Eliassen Group  | USA , MA, Cambridge MA  | 2008 | Dormant
+Eliassen Group (recruiter) | MA, Boston | 2010 | Inactive
+Eliassen Group Inc | USA, Massachusetts, Boston | 2006 | Dormant
+Eligo Recruitment | London, UK | 2013 | Active
+Elite Answers Inc. | Canada, Ontario, Toronto | 2010 | Inactive
+Elite Jobs Recruiting | Canada, ON, Toronto, GTA, Vancouver, Waterloo | 2012 | Active
+Elite Technical Services | United States, Maryland, Silver Spring | 2011 | Active
+Elive Admission LLC | United States, NY, New York | 2004 | Dormant
+Emerald Hill Group | Singapore, Singapore | 2009 | Inactive
+Emerald Resource Group | Raleigh, NC | 2013 | Active
+Emerging Travel Inc. | Amsterdam, the Netherlands | 2012 | Active
+Emory University | United States, GA, Atlanta | 2009 | Inactive
+Empowered Benefits | United States, North Carolina, Charlotte | 2006 | Dormant
+Encirq | United States, CA, Burlingame | 2006 | Dormant
+Encora Inc | United States, NV, Las Vegas | 2010 | Inactive
+End Point | United States, NY, New York | 2008 | Dormant
+End Point Corporation | United States, New York | 2008 | Dormant
+Endgame Systems | Atlanta, GA, USA | 2011 | Active
+Endurance | United States, MA, Burlington | 2007 | Dormant
+Endurance International | United States, MA, Burlington  | 2011 | Active
+Endurance International Group | MA, Burlington | 2013 | Active
+Energy Fundamentals | Zurich, Switzerland | 2013 | Active
+EnergyFlow.com | United States, CO, DENVER | 2002 | Dormant
+Engage PSG | United Kingdom, London | 2010 | Inactive
+EngagePSG | United Kingdom, Cheshire | 2011 | Active
+Engineering Services Nedtwork Inc | United States, SC, North Charleston | 2006 | Dormant
+Engineering Services Network Inc | United States, SC, Charleston | 2006 | Dormant
+Enigma Technologies | New York, NY | 2012 | Active
+Enomaly Inc | Canada, Ontario, Toronto | 2006 | Dormant
+Enquisite Inc | Canada, BC, Victoria | 2008 | Dormant
+Ensemble Project, Liverpool John Moores University, UK | United Kingdom, Liverpool | 2010 | Inactive
+Ensenda | United States, CA, San Francisco | 2010 | Inactive
+Ensenda, Inc. | United States, CA, San Francisco | 2006 | Dormant
+Enterprise Engineering Inc | United States, NY, New York City | 2006 | Dormant
+Enterprise Messaging Comm. Corp | United States, New York, New York | 2001 | Dormant
+Enterprise Recruitment Ltd | United Kingdom | 2011 | Active
+Enterprise VOIP SW Dev Team  | United States, CA, San Francisco | 2008 | Dormant
+Entology | United States, New Jersey, Bedminster | 2002 | Dormant
+Entology, Inc | United States, NJ, Bedminster | 2004 | Dormant
+Entology, Inc. | United States, NJ, Bedminster | 2004 | Dormant
+EnvisionExt.com | Ukraine, Odessa | 2006 | Dormant
+Envisionext Inc. | United Kingdom, London, London | 2007 | Dormant
+Envisionext.com | Ukraine, Odessa, Odessa | 2006 | Dormant
+EonSoft | COLUMBIA, At, Barranquilla | 2002 | Dormant
+Epic Canada | Canada, Ontario, Cambridge | 2002 | Dormant
+Epitec Group | United States, Michigan | 2007 | Dormant
+Epromo Solutions | United States, UT, Provo | 2008 | Dormant
+Epsilon | India, Karnataka, Bangalore | 2007 | Dormant
+Epsilon Interactive | United States, New York, New York | 2008 | Dormant
+Epsilon Interactive India | INDIA, Karnataka, Bangalore | 2006 | Dormant
+Epsilon Interactive India Operations | India, Karnataka, Bangalore | 2008 | Dormant
+Equation Research | TX, Dallas | 2004 | Dormant
+Equinox Software | United States, GA, Atlanta | 2009 | Inactive
+Equinox Software, Inc. | United States, GA, Norcross | 2009 | Inactive
+EquityStory AG - DGAP mbH | Deutschland, Bayern, MÃ¼nchen | 2010 | Inactive
+Erado | United States, WA, Renton | 2011 | Active
+Ericsson Mobile Platform | Sweden, Skaane, Lund | 2007 | Dormant
+Eskill Technologies | India, Tamilnadu, Chennai | 2007 | Dormant
+Essenz Consulting | United States, PA, Philadelphia | 2006 | Dormant
+Established dating site | United States, NY, New York | 2005 | Dormant
+Estee Lauder Companies (on behalf of Professional Recruiting Services) | 40 West 23rd Street, New York City, NY | 2013 | Active
+Etechnology | Thailand, Bangkok, Bangkok | 2006 | Dormant
+EthicalSoft, Inc | United States, CA, San Francisco | 2009 | Inactive
+EthicalSoft, Inc. | United States, CA, San Francisco  | 2010 | Inactive
+Ethos Corporation | Australia, NSW, Sydney | 2007 | Dormant
+Euniverse | United States, CA, Los Angeles | 2003 | Dormant
+Euro RSCG 4D | United States, CT, Wilton | 2006 | Dormant
+EuroServe 2000 Limited | Netherlands, Europe, Amsterdam | 2001 | Dormant
+Eurobase | Germany, Dusseldorf, Germany, Dusseldorf, Germany | 2007 | Dormant
+Eurobase People | United Kingdom, London | 2006 | Dormant
+Eurosearch | Rotterdam | 2009 | Inactive
+Eurosearch  | United Kingdom, London | 2011 | Active
+Everyone Counts Inc | Australia, VIC, Melbourne | 2007 | Dormant
+Everyone Counts Pty Ltd | Australia, Victoria, Melbourne | 2008 | Dormant
+Everyone Counts, Inc. | United States, CA, San Diego | 2010 | Inactive
+Everything Solved, Inc. | United States, CA, Mountain View | 2008 | Dormant
+Evogene | Israel | 2011 | Active
+Evolution | United Kingdom, London, London | 2005 | Dormant
+Evolution Robotics | United States, CA, Pasadena | 2003 | Dormant
+Evozon Systems | Romania, Cluj, Cluj-Napoca | 2013 | Active
+Ex Libris | United States, MA, Newton | 2005 | Dormant
+Ex Libris Inc. | United States, MA, Newton | 2005 | Dormant
+Ex Libris, Inc. | MA, Newton | 2005 | Dormant
+Examinetics | United States, KS, Overland Park | 2005 | Dormant
+Exceleron Software | Bangalore,Karnataka,India | 2013 | Active
+Excelsior Systems | United States, NY, Corning | 2007 | Dormant
+Execulink Telecom | Canada, Ontario, Kitchener | 2006 | Dormant
+Executive Direction (vendor to client) | United States, California, San Francisco | 2005 | Dormant
+Executive Direction, Inc. | United States, CA, San Francisco | 2008 | Dormant
+Executive Placement Network | United States, NY, New York | 2007 | Dormant
+Exegenix Research Inc. | Canada, Ontario, Toronto | 2002 | Dormant
+Exemplar International | United States, MO, Kansas City | 2004 | Dormant
+Expanxion | United States, CA, San Mateo | 2008 | Dormant
+Experian | United States, NY, New York | 2010 | Inactive
+Experian  | Malaysia, Selangor, Cyberjaya | 2011 | Active
+Experian (Malaysia) Sdn. Bhd. | Malaysia, Selangor, Cyberjaya | 2010 | Inactive
+Experian CheetahMail | United States, NY, New York | 2012 | Active
+Experian Cheetahmail | United States, NY, New York (Downtown) | 2008 | Dormant
+Experian Decision Analytics | Norway, Oslo | 2009 | Inactive
+Experian Interactive - Affiliate Fuel | United States, CA, Santa Monica | 2006 | Dormant
+Experian Marketing Services | United States, NY, New York | 2010 | Inactive
+Experis | Cleveland, Ohio | 2012 | Active
+Expert Web Installs | United States, CA, Paradise | 2004 | Dormant
+Exploreos, Inc | United States, FL, Lake Mary | 2007 | Dormant
+Exponential-e | United Kingdom, London, London | 2010 | Inactive
+ExposureManager.com | United States, CA, Torrance (Los Angeles) | 2008 | Dormant
+Express Logistics Systems Corp | United States, CA, Fremont | 2004 | Dormant
+Express Logistics Systems Corp. | United States, California, Fremont | 2003 | Dormant
+ExpressDoctors.com | United States, CA, Palm Springs | 2003 | Dormant
+Externis Resourcing | FRANCE, Lyon | 2011 | Active
+Eyesun | United States, NY, New York | 2001 | Dormant
+Ezead holding Inc | Canada, BC, Maple Ridge | 2005 | Dormant
+Ezen computer services, Inc. | United States, Pennsylvania, King of Prussia | 2008 | Dormant
+F-O-R-T-U-N-E Personnel Consultants of Raleigh | United States, NC, Research Triangle Park | 2001 | Dormant
+F.Y.I | United States, CA, Agoura Hills | 2004 | Dormant
+F.Y.I. TECHNICAL | United States, Ca, Agoura Hills | 2003 | Dormant
+F5 Networks | Israel, Tel-Aviv | 2011 | Active
+F5 Networks, Inc. | United States, California, San Jose | 2010 | Inactive
+FAST TECH | United States, Connecticut, Conn | 2001 | Dormant
+FCS Software Solutions Ltd. | India, Delhi/NCR, Noida | 2007 | Dormant
+FLOW | United States, TX, Austin | 2007 | Dormant
+FM5.at | Austria, Vienna, Vienna | 2009 | Inactive
+FNC | United States, MS, Oxford | 2005 | Dormant
+FNIS | California, Santa Ana | 2003 | Dormant
+FOLIOfn, Inc. | United States, VA, Vienna | 2005 | Dormant
+Fabrik | United States, CA, San Mateo | 2005 | Dormant
+Fabrik, Inc. | CA, San Mateo | 2006 | Dormant
+Facebook | Ireland, Dublin | 2009 | Inactive
+Fagbokforlaget | India, Delhi NCR, Delhi NCR | 2010 | Inactive
+Fagbokforlaget / VB Polska | Poland, Pomorskie, Sopot | 2010 | Inactive
+Fahrenheit IT | New York, NY | 2012 | Active
+Fahrenheit Technology | United States, VA, Richmond | 2010 | Inactive
+Fairbanks, LLC | Long Grove, IL | 2011 | Active
+Fallshaw Holdings | Australia, Victoria, Melbourne (Sunshine) | 2003 | Dormant
+Fanatics | Jacksonville, FL | 2013 | Active
+Farematrix | Canada, Ontario, Mississauga | 2008 | Dormant
+Farematrix division of Huntington Travel  | India, Gujarat, Ahmedabad | 2010 | Inactive
+Fashion Smasher | United States, CA, Los Angeles | 2006 | Dormant
+Fast Switch Ltd. | United States, MI, Detroit | 2006 | Dormant
+Fast paced Internet company | United States, MA, Watertown | 2008 | Dormant
+FastMail.FM | Australia, Victoria, Melbourne | 2003 | Dormant
+Fastclick | United States, California, Santa Barbara | 2005 | Dormant
+Fastnet Software International | Auburn Hills, MI | 2012 | Active
+Fastswitch | United States, Ohio, Columbus | 2008 | Dormant
+Fat Cow | United States, New Mexico, Albuquerque | 2004 | Dormant
+FatCow Web Hosting, LLC | United States, NM, Albuquerque | 2004 | Dormant
+Faucet.com | United States, NY, Goshen | 2005 | Dormant
+FedEx Services | United States, Tennessee, Collierville | 2005 | Dormant
+Federal Reserve Board | United States, D.C., Washington | 2007 | Dormant
+Federation of American Scientists | United States, DC, Washington | 2004 | Dormant
+Feedster | United States, CA, San Francisco | 2005 | Dormant
+Feedster, Inc. | United States, California, San Francisco | 2006 | Dormant
+Ferengi s.r.l. | Argentina, Capital, Buenos Aires | 2003 | Dormant
+Ferguson Consulting | United States, MO, Saint Louis | 2011 | Active
+Fewodata e.K. - ferienwohnungen.de | Glücksburg (Ostsee), Schleswig-Holstein, Germany | 2013 | Active
+Ficus Computer Engineering | United States, CA, Fremont | 2005 | Dormant
+Ficus Engineering | United States, California, Fremont | 2004 | Dormant
+Fides | Russian Federation, St. Petersburg | 2005 | Dormant
+FillZ Inc. (An AbeBooks Company) | Canada, BC, Victoria | 2008 | Dormant
+Film/Television Industry | United States, CA, Los Angeles | 2007 | Dormant
+FilmLight | United Kingdom, London | 2007 | Dormant
+Filnet Inc. | United States, Virginia, Northern Virginia/DC | 2004 | Dormant
+Finance Company | United Kingdom, London | 2008 | Dormant
+Finance Media | United Kingdom, London | 2009 | Inactive
+Finance Media Europe | United Kingdom, London | 2008 | Dormant
+Financial Company | NYC | 2013 | Active
+Financial Firm | United States, NJ, Warren | 2006 | Dormant
+Financial Firm, NYC | New York | 2013 | Active
+Financial Institution | United Kingdom, London | 2005 | Dormant
+Financial Institutions | Malaysia, KL | 2010 | Inactive
+Financial Services | United States, New York, New York City | 2010 | Inactive
+Financial Services Client | United States, California, Foster City | 2007 | Dormant
+Financial Services Company | NYC | 2011 | Active
+Financial Services Industry | United States, MA, Boston South | 2007 | Dormant
+Financial Technology Company | United States, NY, New York | 2006 | Dormant
+Finite | Australia, NSW, Sydney | 2004 | Dormant
+Finite Recruitment | Australia, NSW, Sydney | 2005 | Dormant
+Finite Recruitment - Sydney | Australia, NSW, Sydney | 2005 | Dormant
+Finn | Undefined | 2006 | Dormant
+Finrecruit | Australia, Sydney  | 2009 | Inactive
+First Class | italy, Cremona, Crema | 2003 | Dormant
+First Data USA  | United States, TX , Austin  | 2011 | Active
+First Point Group | Reading, UK | 2013 | Active
+First Quadrant, L.P. | United States, CA, Pasadena | 2003 | Dormant
+First Tech Federal Credit Union | United States, Oregon, Beaverton | 2011 | Active
+Flatshare Ltd | Macclesfield, UK | 2012 | Active
+Flexitricity Limited | Scotland, Lothians, Edinburgh | 2010 | Inactive
+FlightNetwork.com | Oakville, Ontario | 2012 | Active
+Florida Client | United States, Florida (but you can live anywhere in the US), Tampa (but | 2002 | Dormant
+Fluential LLC | Sunnyvale, CA | 2012 | Active
+Focalex | United States, MA, Newton | 2005 | Dormant
+Focalex Inc / Intermix Media Inc | United States, MA, Newton | 2005 | Dormant
+Follett Library Resources | United States, IL, McHenry | 2011 | Active
+Fonality | CA, Culver City | 2012 | Active
+Foneshow, Inc. | United States, ME, Portland | 2008 | Dormant
+For Start up | India, Kerala,  Trivandrum | 2010 | Inactive
+Ford Motor Company | United States, Michigan, Allen Park | 2007 | Dormant
+Foresight Recruitment | Manchester | 2012 | Active
+Foresite Business Solutions Ltd | United Kingdom, London, London | 2006 | Dormant
+Forex Capital Markets LLC | United States, New York, New York | 2005 | Dormant
+Forge Inc. | Canada, Ontario, Toronto | 2006 | Dormant
+Forge Technologies, Inc. | United States, NY, Rochester | 2012 | Active
+Forlaget Benjamin | Denmark, Copenhagen | 2006 | Dormant
+Forlaget Benjamin A/S | Denmark, Frederiksberg | 2007 | Dormant
+Forstar Resources | NY, NEW YORK | 2010 | Inactive
+Fortune 500 company | United States, TN, Memphis | 2006 | Dormant
+Fortune Interactive | United States, NC, Raleigh | 2006 | Dormant
+Forum Group | Unitetd States, NJ, Jersey City | 2007 | Dormant
+Fotango | United Kingdom, London, London | 2006 | Dormant
+Fotango Ltd. | United Kingdom, London | 2007 | Dormant
+Fotofinder.net | Germany, Berlin | 2006 | Dormant
+Fox Networks Group | United States, CA, Century City | 2006 | Dormant
+Fox Technology Group | United States, CA, Los Angeles | 2008 | Dormant
+Foxtons | United Kingdom, London | 2013 | Active
+FragranceNet | United States, NY, Deer Park | 2010 | Inactive
+FragranceNet.com | United States, ny, hauppauge | 2012 | Active
+FrameFree Technologies | United States, California, San Francisco or Telecommute | 2007 | Dormant
+Franklin American Mortgage | Franklin, TN | 2011 | Active
+Frantic Media | Finland, Helsinki | 2009 | Inactive
+Frantic Media Oy | Finland, Helsinki | 2008 | Dormant
+Fred Hutchincon Cancer Research Center | United States, WA, Seattle | 2010 | Inactive
+Fred Hutchinson Cancer Research Center | United States, WA, Seattle | 2009 | Inactive
+Free Super, LLC | United States, California, San Francisco | 2005 | Dormant
+FreeCause, Inc. | United States, MA, Boston | 2008 | Dormant
+FreeKey::Labs | Spain, Madrid, Madrid | 2008 | Dormant
+FreedomVOICE Systems | United States, CA, Encinitas | 2005 | Dormant
+Freeside Billing | United States, CA, Truckee | 2011 | Active
+Freeside Internet Services, Inc. | United States, CA, Truckee | 2013 | Active
+Freightlist.com, Inc. | United States, Missouri, St. Louis | 2003 | Dormant
+Fremont Consulting | Ann Arbor Michigan | 2013 | Active
+Fretwell Downing Informatics | United Kingdom, South Yorkshire, Sheffield | 2005 | Dormant
+Friend Finder Network, Inc. | United States, CA, Palo Alto | 2002 | Dormant
+FriendFinder | United States, California, Palo Alto | 2006 | Dormant
+FriendFinder Inc | United States, CA, Palo Alto | 2006 | Dormant
+FriendFinder Networks | United States, CA, Sunnyvale | 2010 | Inactive
+FriendFinder Networks, Inc. | United States, CA, Sunnyvale | 2009 | Inactive
+FriendFinder, Inc | United States, CA, Palo Alto | 2004 | Dormant
+Friendfinder | United States, CA, Palo Alto | 2007 | Dormant
+Friendfinder Inc | United States, Ca, Palo Alto | 2007 | Dormant
+Friendfinder Inc. | United States, California, Palo Alto | 2001 | Dormant
+Friendfinder, Inc. | United States, California, Palo Alto | 2001 | Dormant
+Friendfinder, inc | United States, CA, Palo Alto | 2005 | Dormant
+Friendfinderinc | United States, CA, Palo Alto | 2007 | Dormant
+Fuel Recruitment | United Kingdom, Warwickshire, Leamington Spa | 2006 | Dormant
+Fujitsu Network Communications | Richardson Texas | 2012 | Active
+Fulcum Consulting | MO, St. Louis | 2011 | Active
+FullTurn Entertainment, Inc. | United States, NY, New York and Berlin, Germany | 2006 | Dormant
+FundsXpress Financial Network, Inc. | United States, TX, Austin | 2006 | Dormant
+FuseMail, LLC | United States, Missouri, Kansas City | 2010 | Inactive
+FuseMail, a j2 Global Company | Vancouver, BC | 2013 | Active
+Fusion Alliance | United States, Ohio, Cincinnati | 2006 | Dormant
+Fusion Associates | United States, CA, Redwood City | 2006 | Dormant
+Future Publishing | United Kingdom, Bath & North East Somerset, Bath | 2008 | Dormant
+G & S Technology group | United States, New York, New York | 2010 | Inactive
+G&L Geißendörfer & Leschinsky GmbH | Deutschland, NRW, Köln | 2008 | Dormant
+G2 Recruitment Solutions | United Kingdom, London | 2008 | Dormant
+G2 Web Services | United States, WA, Bellevue | 2008 | Dormant
+G2 Web Services, LLC | United States, WA, Bellevue | 2007 | Dormant
+G73 Werbeagentur | Germany, Hannover | 2006 | Dormant
+GB&K BS | United States, NY, NEW YORK | 2006 | Dormant
+GBS | United States, CA, Westlake Village | 2008 | Dormant
+GC InfoTech LLC | United States, CT, Stamford | 2008 | Dormant
+GCS | United Kingdom, Kent | 2008 | Dormant
+GCS IT Recruitment | United Kingdom, London, London | 2007 | Dormant
+GCS IT Recruitment Ltd. | United Kingdom, London | 2007 | Dormant
+GCS IT Reqruitment Ltd. | United Kingdom, London | 2007 | Dormant
+GE Healthcare | United States, Washington, Seattle | 2010 | Inactive
+GEMM | United States, California, Irvine | 2008 | Dormant
+GEMM.com | United States, CA, Palm Springs | 2004 | Dormant
+GES Network | United States, DE, Bear | 2008 | Dormant
+GFM Holdings Ltd | Colchester - Essex | 2013 | Active
+GFU | Germany, NRW, Köln | 2007 | Dormant
+GFU Cyrus AG | Germany, NRW, Köln | 2012 | Active
+GFU Cyrus AG Schulungen | Germany, NRW, Köln | 2007 | Dormant
+GHR SYSTEMS | United States, PA, Wayne | 2003 | Dormant
+GK, Inc. | United States, CA, Lancaster | 2008 | Dormant
+GKG.NET | United States, TX, College Station | 2005 | Dormant
+GKG.NET, Inc. | United States, Texas, College Station | 2004 | Dormant
+GLOBAL COMPUTER ASSOCIATES | United States, VIRGINIA, RICHMOND | 2005 | Dormant
+GLOBAL COMPUTER ASSOCIATES, INC | United States, VA., RICHMOND, | 2010 | Inactive
+GLOBALVISION | United Kingdom, London | 2002 | Dormant
+GMx Technologies, Inc | United States, FL, Lakeland | 2004 | Dormant
+GNG Associates | United Kingdom, Manchester | 2001 | Dormant
+GOOGLE | United States, CA, Mountain View | 2007 | Dormant
+GS3 - Go Software Sales Search! | United States, CA, San Francisco | 2006 | Dormant
+GSC, Inc. | United States, CA, Ventura County | 2005 | Dormant
+GSI Group | Canada, Ontario, Toronto | 2004 | Dormant
+GSN | United States, MA, Newton | 2010 | Inactive
+GSN Digital | United States, MA, Newton | 2011 | Active
+GT Nexus | 94501, CA, Alameda | 2006 | Dormant
+GUBA | United States, CA, San Francisco | 2006 | Dormant
+GUI WEB PRODUCTIONS | United States, Ca, Grass Valley | 2003 | Dormant
+GX Technology | United States, Colorado, Denver | 2005 | Dormant
+Gabzip, Inc. | United States, NY, Oswego | 2009 | Inactive
+Gaia Interactive, Inc. | United States, CA, San Jose | 2007 | Dormant
+Gallery Robinson | United States, NY, NY | 2006 | Dormant
+Garrett Casey | United States, New Jersey, Hoboken | 2004 | Dormant
+Gate Staffing | United States, NY, New York | 2010 | Inactive
+Gator Technologies,Inc. | United States, IL, Chicago | 2003 | Dormant
+GeNUA mbH | Germany, Bavaria, Kirchheim near Munich | 2011 | Active
+Geek.net | Ann Arbor, MI, USA | 2011 | Active
+Geeknet, Inc. | Dexter, MI | 2012 | Active
+Geeks For Less | United States, TN, Knoxville | 2009 | Inactive
+Gelo Photos | Greece | 2005 | Dormant
+GenaRes | United States, TX, Grapevine | 2007 | Dormant
+GenaRes Worldwide Reservation Services | Texas, Irving | 2011 | Active
+GenaRes Worldwide Reservations | United States, Texas, Grapevine | 2008 | Dormant
+GenaRes Worldwide Reservations Services | 76051, TX, Grapevine | 2004 | Dormant
+Genares | United States, TX, Irving | 2011 | Active
+Genares Worldwide Reservations | United States, Texas, Grapevine | 2008 | Dormant
+Gene Logic | United States, Ca, Berkeley | 2001 | Dormant
+Genentech | United States, CA, South San Francisco | 2010 | Inactive
+Generator Group | United States, CA, San Bruno | 2008 | Dormant
+Genesis | United States, MI, Ann Arbor | 2008 | Dormant
+Genesis 10 | United States, KS, Kansas City | 2008 | Dormant
+Genesis Studios | United States, PA, Philadelphia | 2005 | Dormant
+Geneva Consulting Group | United States, NY, New York | 2006 | Dormant
+Genius Inc | San Mateo, CA, San Mateo | 2006 | Dormant
+Genius Inc. | United States, CA, San Mateo | 2007 | Dormant
+Genius, Inc. | United States, CA, San Mateo | 2006 | Dormant
+Genome Sequencing Center | United States, MO, St. Louis | 2004 | Dormant
+Genome Sequencing Center, Washington University, St. Louis | United States, MO, St. Louis | 2005 | Dormant
+Genome Sequencing Centre, Washington University St. Louis | U.S.A, MO, St. Louis | 2001 | Dormant
+Genome Sequencing Centre, Washington University St.Louis | United States, MO, St. Louis | 2001 | Dormant
+Genomics Institute of the Novartis Research Foundation | United States, CA, San Diego | 2007 | Dormant
+Genseq Ltd. | Malaysia, Malaysia, Cyberjaya | 2007 | Dormant
+Geocean Limited | Nigeria, Delta, Warri | 2010 | Inactive
+Geospiza | United States, WA, Seattle | 2006 | Dormant
+Geospiza, Inc | United States, WA, Seattle | 2008 | Dormant
+Geospiza, Inc. | United States, WA, Seattle | 2006 | Dormant
+Getfeedback Limited | United Kingdom, Oxfordshire, Henley on Thames | 2007 | Dormant
+Getfeedback.Net Ltd | United Kingdom, Oxon/Berks/Bucks, Henley-on-Thames RG9 | 2006 | Dormant
+Gft.net, Inc. | United States, flexible | 2006 | Dormant
+Gibraltar Software, Inc. | United States, CA, Sunnyvale | 2001 | Dormant
+Giganews | United States, TX, Austin | 2009 | Inactive
+GlaxoSmithKline | RTP, NC | 2012 | Active
+Global Award Winning E-commerce Website | London, United Kingdom | 2011 | Active
+Global Broadcasting Corporation client | United Kingdom, London | 2007 | Dormant
+Global Computer Associates | United States, nj, W.Paterson | 2003 | Dormant
+Global Crossing | Undefined | 2006 | Dormant
+Global Crossing.com | United States, AZ, Phoenix | 2006 | Dormant
+Global Fitness Media, LLC | United States, CA, Los Angeles (90049) | 2009 | Inactive
+Global ISP Company | UK - England, London | 2008 | Dormant
+Global Infotech | United States, CA, Sunnyvale | 2008 | Dormant
+Global Infotech Corp | United States, CA, Sunnyvale | 2007 | Dormant
+Global Infotech Corporation | United States, CA, Sunnyvale | 2007 | Dormant
+Global IntelliSystems | United States, MD, Frederick | 2006 | Dormant
+Global Market Ltd. | UK, London NW11 | 2001 | Dormant
+Global Relay Communications Inc | Canada, BC, Vancouver | 2005 | Dormant
+Global Resourcing | United Kingdom, London | 2007 | Dormant
+Global Resourcing Solutions Ltd | United Kingdom, London | 2010 | Inactive
+Global Technical Talent | United States, ME, Portland | 2006 | Dormant
+Global Web 2.0 Project | Germany | 2010 | Inactive
+Global Web Hosting Company | United States, Florida, Boca Raton | 2007 | Dormant
+Global Web Hosting corporation | United States, FL, Boca Raton | 2011 | Active
+GlobalCom | canada, BC, vancouver | 2007 | Dormant
+GlobalCom Solutions Inc | Canada, BC, Vancouver | 2004 | Dormant
+GlobalCom Solutions Inc. | Canada, BC, West Vancouver | 2003 | Dormant
+GlobalLogic | Kyiv, Ukraine | 2011 | Active
+GlobalWare Solutions | United States, CA, Redwood City | 2005 | Dormant
+GlobalWare Solutions - PowerAccess | United States, CA, Redwood City | 2005 | Dormant
+Globalware Solutions | United States, CA, Redwood City | 2003 | Dormant
+Globi Web Solutions | Canada, Alberta, Calgary | 2005 | Dormant
+Globlal Technical Talent | United States, NJ, Jersey City | 2006 | Dormant
+Glotel Recruitment | Australia, Victoria, Melbourne | 2007 | Dormant
+Glue Finance AB | Sweden, Stockholm | 2011 | Active
+GoldBamboo | United States, MA, Woburn | 2007 | Dormant
+GoldBamboo.com (InsuranceDesk.com) | United States, MA, Woburn | 2007 | Dormant
+GoldStar Learning, Inc. | United States, IL, Chicago | 2013 | Active
+Golden Bytes | Nederland, Zuid Holland, Den Haag | 2005 | Dormant
+Golden Guru | United States, WA, Seattle | 2013 | Active
+Goldman Sachs | New York, NY | 2012 | Active
+Goldstar Events | United States, CA, Pasadea | 2007 | Dormant
+Golf Shuttle | Canada, British Columbia, Vancouver | 2002 | Dormant
+GonePro | Franklin, TN | 2012 | Active
+GoodData | Prague, Czech republic | 2011 | Active
+Gooddata | Czech Republic, Brno or Prague | 2011 | Active
+Goodman Blue | United Kingdom, Lincolnshire, Grantham | 2004 | Dormant
+Google | United States, California, Mountain View | 2008 | Dormant
+Google Inc. | United States, CA, Mountain View | 2007 | Dormant
+Google, Inc | United States, CA, Mountain View | 2007 | Dormant
+Gorillabox | United Kingdom, London, Maidenhead | 2012 | Active
+Gorillabox Ltd | United Kingdom, Berkshire, Central Maidenhead (5 minute walk to station) | 2011 | Active
+Gossamer Threads | Canada, British Columbia, Vancouver | 2009 | Inactive
+Gossamer Threads Inc. | Canada, BC, Vancouver | 2009 | Inactive
+Government Liquidation | United States, DC, Washington | 2003 | Dormant
+Gradwell dot com Ltd | United Kingdom, Bath | 2011 | Active
+Grady Levkov & Co | United States, New York, New York | 2006 | Dormant
+Grady Levkov & Company | United States, IL, Chicago | 2003 | Dormant
+Grafton Staffing | United States, Kansas, Overland Park | 2005 | Dormant
+Grand Virtual | United States, Masachusetts, Cambridge | 2004 | Dormant
+Grand Virtual, Inc. | United States, MA, Cambridge | 2004 | Dormant
+Granite Solutions Groupe | United States, CA, San Francisco | 2004 | Dormant
+Grant Street Group | United States, PA, Pittsburgh | 2013 | Active
+Grant Street Group, Inc. | Anywhere in USA | 2013 | Active
+Grant Stret Group | United States, PA, Pittsburgh | 2005 | Dormant
+Grantsfire | United States, CA, San Francisco | 2008 | Dormant
+GraphixReason | United States, FL, Miami | 2004 | Dormant
+Gravity | United States, Ca, San Francisco | 2007 | Dormant
+GravityPeople | United States, CA, San Francisco | 2007 | Dormant
+Great Lodge | United States, TN, Nashville | 2007 | Dormant
+Great Works Internet | United States, Maine, Biddeford | 2006 | Dormant
+GreatLodge, Inc | United States, TN, Nashville | 2005 | Dormant
+GreatSchools.net | United States, CA, San Francisco | 2005 | Dormant
+Green Light Australia | Australia, NSW, Sydney | 2008 | Dormant
+Green River Data Analysis,LLC | United States, VT, Brattleboro | 2006 | Dormant
+Greene Resources, Inc. | United States, NC, Raleigh | 2006 | Dormant
+Greenplum, Inc. | United States, CA, San Mateo | 2006 | Dormant
+Greeting Card Universe | United States, CA, San Ramon | 2011 | Active
+GregoryJames Group | United KIngdom, Manchester, Manchester | 2011 | Active
+Gregroy James | United Kingdom, Manchester | 2010 | Inactive
+Grey Matter Intelligent and Interactive Inc. | Canada, Ontario, King City | 2003 | Dormant
+GreyStar Solutions | United States, NV, Las Vegas | 2002 | Dormant
+GridApp =Systems, Inc | United States, NY, New York | 2007 | Dormant
+GridApp Systems | United States, NY, NewYork | 2010 | Inactive
+GridApp Systems, Inc | United States, New York, NYC | 2010 | Inactive
+GridApp Systems, Inc. | United States, NY, New York | 2010 | Inactive
+Grist Magazine, Inc. | United States, WA, Seattle | 2006 | Dormant
+Grist Mill Media | MA | 2012 | Active
+Groove Mobile | United States, MA, Bedford  | 2008 | Dormant
+Grooveeleven | CA, San Rafael | 2004 | Dormant
+GroupA | USA, CA, Peninsula | 2011 | Active
+GroupMove Limited | Bath or Bristol, UK. | 2013 | Active
+GroupWeb.Com | United States, California, San Diego | 2006 | Dormant
+GuardedNet | United States, GA, Atlanta | 2003 | Dormant
+Guardian Media Group Regional | United Kingdom, Lancashire, Manchester | 2007 | Dormant
+Guardian Unlimited | United Kingdom, London | 2007 | Dormant
+Gui Productions, Inc. (GuiWeb) | United States, CA, Grass Valley | 2006 | Dormant
+GuiWeb | United States, CA | 2009 | Inactive
+Gumtree | United Kingdom, London, Richmond | 2010 | Inactive
+GunsAmerica | United States, FL, Miami | 2005 | Dormant
+GuntherHust Software | United States, California | 2005 | Dormant
+Guruperl.com | United States | 2002 | Dormant
+GÃ¼dTech | San Diego, CA, United States | 2012 | Active
+H&R Block | United States, MA, Cambridge | 2007 | Dormant
+H&R Block - TaxCut - Electronic filing | United States, MA, Cambridge | 2005 | Dormant
+H5 | United States, California, San Francisco | 2008 | Dormant
+HBS Labs | United States, IL, Justice | 2005 | Dormant
+HCS Systems | United States, NC, Raleigh | 2006 | Dormant
+HD Publishing Group | United States, FL, Lake Mary | 2007 | Dormant
+HEX | Human EXperts | Kyiv, Ukraine | 2011 | Active
+HFSI Consulting (contracting firm) | United States, NY, New York - 55th + Park | 2008 | Dormant
+HQMC, Personal and Family Readiness | United States, Virginia, Quantico | 2008 | Dormant
+HR Dynamics | New York, NY | 2012 | Active
+HRLogix | United States, Oklahoma, Edmond | 2003 | Dormant
+HRN | United States, TX, Houston | 2011 | Active
+HRsmart | United States, Texas, Richardson | 2005 | Dormant
+HRsmart Inc | United States, TX, Richardson (Dallas area) | 2006 | Dormant
+HSBC | United States, New York, Mid Town | 2011 | Active
+HSE CONSULT | morocco, tangier | 2010 | Inactive
+HT Associates | United States, IL, Chicago | 2005 | Dormant
+HTC Global Services Inc | United States, Ohio, Columbus | 2011 | Active
+HUMYO.com Ltd. | United Kingdom, Sheffield or London | 2007 | Dormant
+Habitatmap.org | United States, NY, New York City | 2007 | Dormant
+Hallis | Australia, NSW, Sydney | 2006 | Dormant
+Hamilton James and Bruce | Australia, NSW, Chatswood, Sydney | 2011 | Active
+Hansford Associates | United Kingdom, London, London | 2011 | Active
+Hanu Software Solutions | India, Delhi, Delhi | 2010 | Inactive
+Hapara | New Zealand, Auckland | 2010 | Inactive
+Hard-working Headhunter | United States, CA, San Francisco Bay Area | 2011 | Active
+Harris Allied | United States, NY, New York | 2010 | Inactive
+Harris Digital Publishing | United States, FL, Lake Mary | 2007 | Dormant
+Harris Digital Publishing, Inc. | United States, FL, Lake Mary | 2005 | Dormant
+Harvard Division of Continuing Education | United States, MA, Cambridge | 2006 | Dormant
+Harvard Divison of Continuing Education | United States, MA, Cambridge | 2010 | Inactive
+Harvard Grad School of Design | United States, MA, Cambridge | 2006 | Dormant
+Harvard Law School | MA, Cambridge | 2008 | Dormant
+Harvard University | United States, MA, Cambridge | 2008 | Dormant
+Harvard University, Department of Molecular and Cellular Biology | Cambridge, MA | 2012 | Active
+Harvest Consutling Group | United States, NY, New York | 2004 | Dormant
+Harvest SwiftADS | United States, OH, Mason | 2002 | Dormant
+Harvey Nash | United Kingdom, Scotland, Glasgow | 2010 | Inactive
+Harvey Nash Plc | United Kingdom, London | 2008 | Dormant
+Hays IT | Canada, Ontario, GTA | 2011 | Active
+HeadForwards | Cornwall, UK | 2012 | Active
+Headforwards | Cornwall, UK | 2013 | Active
+Headquarters Marine Corps | United States, VA, Quantico | 2008 | Dormant
+Headquarters Marine Corps Personal and Family Readiness | United States, VA, Quantico | 2007 | Dormant
+Headquarters, Marine Corps | U.S., Virginia, Quantico | 2004 | Dormant
+Heads Up | Any | 2006 | Dormant
+HeadsUp Management Pte Ltd | N/A, N/A, Singapore | 2005 | Dormant
+Headstrong Solutions | Philippines, Leyte, Tacloban city | 2009 | Inactive
+Health Food Depot, Inc. | United States, California, Northridge | 2002 | Dormant
+Health Market Science | United States, PA, Philadelphia | 2013 | Active
+Health Market Science, Inc | United States, PA, Philadelphia | 2007 | Dormant
+Healthcare Co. | Tx, Austin | 2006 | Dormant
+Healthmatrix IT | chennai, India | 2013 | Active
+Hearst | United States, NY, New York | 2010 | Inactive
+Hearst Digital Media | United States, NY, New York | 2006 | Dormant
+Hearst Magazines | United States, NY, New York | 2012 | Active
+Heart Imaging Technologies | Durham, NC | 2012 | Active
+Heart Internet Ltd | United Kingdom, Nottingham | 2013 | Active
+Hedera Technology | Paris, France | 2011 | Active
+Hedge Fund | United States, IL, Chicago | 2004 | Dormant
+Heise Zeitschriften Verlag | Germany, Hannover | 2010 | Inactive
+Helio | United States, California, Westwood, Los Angeles | 2006 | Dormant
+Hemmings Motor News | United States, VT, Bennington | 2007 | Dormant
+Henggeler Consulting | United States, MD, Columbia | 2007 | Dormant
+Herzig Eye Institute | Canada, Onatario, Toronto | 2006 | Dormant
+Heuristic Systems | United States, Utah, Salt Lake City | 2007 | Dormant
+Heuristic Systems  | United States, Utah, Salt Lake City  | 2009 | Inactive
+Hewlett Packard | United States, CA, Pleasanton | 2005 | Dormant
+Hewlett-Packard | Slovak Republic, Bratislava | 2008 | Dormant
+Hi-Tec Associates, Inc. | United States, Texas, Bedford | 2010 | Inactive
+Hibyte L.K. Pvt Ltd | Sri Lanka, Western, Colombo | 2004 | Dormant
+Hicks Consulting Group | United States, CA, Sunnyvale | 2007 | Dormant
+HiddenPerl | India, Karnataka, Bangalore | 2005 | Dormant
+High Frequency Trading Firm | Undefined | 2011 | Active
+HigherTech Consulting | United States, TX, Austin | 2010 | Inactive
+Highgate Cross | United States, IL, Wheaton | 2008 | Dormant
+Highgate Cross+Cathey, LTD | Wheaton, IL | 2012 | Active
+Hiller Professional & Technical Search | United States, Washington, Seattle | 2003 | Dormant
+Hire Efficiency | United States, CA, Los Angeles | 2002 | Dormant
+HireNetworks | Raleigh, NC | 2011 | Active
+HireStrategy | Herndon, VA | 2012 | Active
+Hired by Matrix, Inc. | New Providence, NJ | 2011 | Active
+Hite Capital Management | United States, NY, New York | 2007 | Dormant
+Hogsmill | United Kingdom, London | 2008 | Dormant
+Holding and Barnes / 1st Interactive design | Canvey Island, Essex, UK | 2013 | Active
+Holmes Corporation | United States, MN, Eagan | 2006 | Dormant
+Holophrastic Enterprises Inc. | Canada, Ontario, Toronto | 2012 | Active
+HomeImprovementCompanies.com | United States, Florida, Pompano Beach | 2001 | Dormant
+Honeywell Automation India Limited | India, Maharashtra, Pune | 2005 | Dormant
+Honeywell Automation India Ltd. | India, Maharastra, PUNE | 2005 | Dormant
+Horizon Wimba | United States, NY, New York | 2006 | Dormant
+HorizonLive | United States, NY, New York | 2003 | Dormant
+Host Gator | Houston, TX | 2012 | Active
+HostGator.com | United States, TX, Austin | 2010 | Inactive
+HostGator.com LLC | United States, Texas, Houston | 2011 | Active
+HotLinuxJobs | United States, MA, Boston | 2005 | Dormant
+House Absolute Consulting | 55408, MN, Minneapolis | 2005 | Dormant
+HowToMasterTheGolfIrons | United States | 2007 | Dormant
+Howard County Library | United States, MD, Columbia | 2008 | Dormant
+Howard Hughes Medical Institute (HHMI) - Janelia Farm Research Campus | Ashburn, VA | 2013 | Active
+Howth Technologies | Australia, Victoria, Melbourne | 2001 | Dormant
+Hudson | United Kingdom, London | 2009 | Inactive
+Hudson Global Resources | Undefined | 2007 | Dormant
+HuffingtonPost | United States, NY, New York | 2008 | Dormant
+Human Capital Management | United States, PA, Philadelphia | 2007 | Dormant
+Human Capital Management, Inc. | PA, Fort Washington | 2007 | Dormant
+Humboldt-Universität | Germany, Berlin | 2006 | Dormant
+Humboldt-Universität zu Berlin | Deutschland, Berlin | 2008 | Dormant
+Hunter Technical Resources | United States, GA, Atlanta | 2011 | Active
+Huntex | Greater Toronto Area | 2012 | Active
+Huntress IT | United Kingdom, London | 2007 | Dormant
+Hurix Systems Pvt. Ltd. | India, Maharashtra, Mumbai | 2004 | Dormant
+Hurra Communications Sp. z o.o. | Poland, Cracow | 2005 | Dormant
+Hurst (UK) Ltd. | United Kingdom, London | 2004 | Dormant
+Husdson | United States, PA, King of Prussia | 2007 | Dormant
+Hutchinson Software | Australia, NSW, Armidale | 2008 | Dormant
+Hutchinson Software Pty Ltd | Australia, NSW, Armidale | 2011 | Active
+Huxley Associates | The Netherlands, Noord Holland, Amsterdam | 2009 | Inactive
+Hyatt Leader | United States, NY, New York | 2006 | Dormant
+Hypermedia Systems | United States, California, Los Angeles | 2005 | Dormant
+Hypermedia Systems, Inc. | United States, CA, Los Angeles | 2006 | Dormant
+Hyrian | United States, CA, Culver City | 2008 | Dormant
+I Do Foundation | United States, PA, Philadelphia | 2004 | Dormant
+I, Me and Myself | United States, Annapolis, Baltimore, Washington DC Area | 2002 | Dormant
+I-Media Insights | United States, CA, San Francisco | 2006 | Dormant
+I-Next Ltd. | United Kingdom, Berkshire, Reading | 2007 | Dormant
+I5invest | Austria, Vienna | 2007 | Dormant
+IBA Software Technologies | United States, MA, Maynard | 2008 | Dormant
+IBG LLC | Greenwich, CT, 06830  USA | 2012 | Active
+IBM | Tel-Aviv, Israel | 2011 | Active
+IC Group | United States, PA, Philadelphia | 2009 | Inactive
+IC-Agency | Canada, NB, Bathurst | 2007 | Dormant
+ICG, Inc. | United States, NJ, Princeton | 2004 | Dormant
+ICPM | United States, Telecommute | 2011 | Active
+ICT Solutions | United Kingdom, Lancashire, Blackburn | 2009 | Inactive
+IDCR Interdata Consulting FZ-LLC | UAE, Dubai, Dubai Media City | 2005 | Dormant
+IDI Global | United States, UT, Orem | 2004 | Dormant
+IDM | France, Champs/Marne | 2008 | Dormant
+IDNT Consulting & Technology | Portugal, Lisbon | 2010 | Inactive
+IDSi | United States, WA, Seattle | 2002 | Dormant
+IFS | United States, NY, New York | 2003 | Dormant
+IFX International, Inc. | United States, CA, San Diego | 2003 | Dormant
+II-stiftelsen | Sweden, Stockholm | 2006 | Dormant
+IIG | United States, TX, Dallas | 2005 | Dormant
+IMACS, an Acurro company | United States, Texas, Dallas | 2006 | Dormant
+IMAS Inc. | United States, VA, Falls Church | 2004 | Dormant
+IMDb | United Kingdom, Bristol | 2010 | Inactive
+IMDb.com | United Kingdom, Bristol | 2008 | Dormant
+IMDb.com (Internet Movie Database) | United Kingdom, Bristol | 2006 | Dormant
+IMDb.com / Amazon.com | United States, WA, Seattle | 2005 | Dormant
+IMSI | United States, CA, BAY AREA | 2006 | Dormant
+IMT | United States, TX, HOUSTON | 2006 | Dormant
+IMVU, Inc. | United States, CA, Palo Alto | 2007 | Dormant
+INNOVIM,LLC | Suitland-Silver Hill, MD, USA | 2012 | Active
+IODA | United States, CA, San Francisco | 2007 | Dormant
+IPCoast, Inc. | United States, Arizona | 2003 | Dormant
+IPNstock / Nielsen | United States, NY, New York | 2011 | Active
+IPNstock.com a division of Nielsen Corporation | United States, NY, New York City | 2011 | Active
+IPOWER | United States, Arizona, Phoenix | 2007 | Dormant
+IPOnWEB | Russia, Moscow | 2004 | Dormant
+IPonWEB | Russia, Moscow | 2005 | Dormant
+IPsoft, Inc. | United States, NY, New York City | 2006 | Dormant
+IQ Inc. | United States, PA, Pittsburgh | 2007 | Dormant
+IQ Partners | Canada, on, toronto | 2005 | Dormant
+IQ Partners Inc. | Canada, Ontario, Toronto | 2007 | Dormant
+IQ Partners Search Firm | Canada, Ontario, Toronto | 2011 | Active
+IRS, Inc. of Boston | United States, Massachusetts, Boston/West of Boston/Natick area. | 2001 | Dormant
+IRW Solutions | United Kingdom, Glasgow | 2004 | Dormant
+IS | Au, Melbourne | 2005 | Dormant
+ISM Fantasy Games | United Kingdom, Bristol | 2005 | Dormant
+ISM Games | United Kingdom, Bristol | 2008 | Dormant
+IT Dimensions | NY, New York | 2005 | Dormant
+IT Human Resources | United Kingdom, London | 2007 | Dormant
+IT JOBMAN | U.S., Illinoise, Chicago | 2003 | Dormant
+IT Matters | Australia, QLD, Brisbane | 2006 | Dormant
+IT Mob Limited | United Kingdon, West Yorkshire, Leeds / Bradford | 2011 | Active
+IT Network Group | Cheshire - Northwich | 2011 | Active
+IT Staffing | United States, CA, Los Angeles | 2004 | Dormant
+IT Staffing Inc | TN, Memphis | 2006 | Dormant
+IT assistance Ltd. | Switzerland, BS, Basel | 2004 | Dormant
+ITERU | Singapore, Singapore | 2001 | Dormant
+ITHR | London | 2011 | Active
+ITJob Consulting | Brazil, SP/Sao Paulo, São Paulo | 2006 | Dormant
+ITN | United Kingdom, London | 2009 | Inactive
+ITRAYS INC | United States, MI, Southfield | 2008 | Dormant
+ITS Ingenium Ltd | France, Paris | 2010 | Inactive
+ITT Corp. | DC, Washington DC | 2007 | Dormant
+ITjobz | Australia, NSW, Newcastle | 2009 | Inactive
+ITscopec GmbH | Germany, Baden-Württemberg, Karlsruhe | 2011 | Active
+Icon | United States, CA, San Francisco  | 2010 | Inactive
+Icons Inhouse Graphics | Australia, Queensland, Sunshine Coast | 2006 | Dormant
+IdeaReboot | New York City | 2012 | Active
+IdeaReboot, Inc. | United States, NJ, Warren | 2011 | Active
+Idealo Internet GmbH | Germany, Berlin, Berlin | 2012 | Active
+Idealpeople | United Kingdom, Cambridgeshire, Cambridge | 2007 | Dormant
+Idealpeople (Agency) | United Kingdom, Oxffordshire, Oxfordshire | 2006 | Dormant
+Idealpeople Ltd | England, United Kingdom, Hampshire | 2009 | Inactive
+Idealpeople UK ltd | UK, England, Cambridge | 2005 | Dormant
+Idearc Media - superpages.com | United States, MA, Waltham | 2007 | Dormant
+Ideareboot | Delaware, USA | 2011 | Active
+Idor Systems | Israel, Tel Aviv | 2009 | Inactive
+Iflowsoft, LLC | United States, NJ, Iselin | 2004 | Dormant
+IgniteTRX | United States, Texas, Dallas /Fort Worth | 2007 | Dormant
+Ihire Associates | United States, CA, San Diego | 2007 | Dormant
+Ihire Associates, LLC | United States, CA, San Diego | 2008 | Dormant
+Ijenko | France, Boulogne-Billancourt | 2011 | Active
+Image Logistics Corp | United States, nc, greensboro | 2003 | Dormant
+Imagetwist | united states | 2012 | Active
+Imagine Software | Hong Kong, Hong Kong | 2006 | Dormant
+Imap4all | Netherlands, Amsterdam | 2006 | Dormant
+Impact IT | United Kingdom, UK, Basingstoke | 2011 | Active
+Impart Media Group | United States, WA, Seattle | 2006 | Dormant
+Imperial College London | London, UK | 2011 | Active
+Imperial Employment | United Kingdom, Milton Keynes | 2007 | Dormant
+Imphasis, LLC | United States, North Carolina, Ft. Bragg | 2003 | Dormant
+InFX Solutions | United Kingdom, East Sussex, Hastings | 2011 | Active
+InShift Technologies | United States, Utah, Provo | 2002 | Dormant
+InSource Group | Arlington, TX 76011 | 2013 | Active
+Inblosam | anywhere | 2009 | Inactive
+Inblosam LLC | United States, UT, St. George | 2008 | Dormant
+Incentive Logic | United States, AZ, Scottsdale | 2007 | Dormant
+Incentive Logic, Inc | AZ, Scottsdale | 2010 | Inactive
+Incentive Logic, Inc. | Scottsdale, AZ, USA | 2012 | Active
+Incline | United Kingdom, London | 2002 | Dormant
+Independant Contract | Southwestern Ontario, Canada | 2012 | Active
+Independent | United States, CA, San Diego | 2010 | Inactive
+Independent Developer | Undefined | 2011 | Active
+Independent/start-up | United States, New York, New York | 2011 | Active
+IndiGo | India, New Delhi | 2006 | Dormant
+Indiamart Intermesh LTD | INDIA, NCR, Noida | 2004 | Dormant
+Indiana University | Indiana, Bloomington | 2008 | Dormant
+Indigo Solutions | Undefined | 2012 | Active
+Individual | United States, NC, Lumberton | 2010 | Inactive
+Individual Academic | United States, DC, Washington | 2011 | Active
+Indoff | United States, MO, St. Louis | 2007 | Dormant
+Indoff Inc. | United States, MO, St. Louis | 2013 | Active
+Indoff Incorporated | United States, MO, St. Louis | 2005 | Dormant
+Indoff. Inc | United States, MO, St. Louis | 2008 | Dormant
+Inernational Computer Network | United States, PA, Bristol | 2008 | Dormant
+Infinity | Munich | 2002 | Dormant
+Infinity Interactive, Inc. | United States, NY, New York | 2006 | Dormant
+Info Plus International | United States, CA, San Mateo | 2007 | Dormant
+Info Tech Inc. | United States, FL, Gainesville | 2007 | Dormant
+Info Tech, Inc. | United States, FL, Gainesville | 2006 | Dormant
+InfoArmor | Scottsdale, AZ | 2013 | Active
+Infoblox | United States, California, Santa Clara | 2011 | Active
+Infocity GmbH | Germany, Berlin, Berlin | 2007 | Dormant
+Infomatix Ltd. | Hungary, Budapest, Budapest | 2008 | Dormant
+Infoneto Ltd | Israel, Modiin | 2007 | Dormant
+Informatics Corporation of America | United States, TN, Nashville | 2010 | Inactive
+Information Balance, Inc. | Canada, Ontario, Toronto | 2007 | Dormant
+Information Management Company | United States, NY, New York City | 2005 | Dormant
+Information Technology Consulting | United States, PA, Pittsburgh | 2006 | Dormant
+Information hosting company for books and online websites | United States, New Jersey, New Providence | 2010 | Inactive
+Infoxchange Australia | Melbourne, Australia | 2013 | Active
+Infraccent | The Netherlands, Weert | 2007 | Dormant
+Ingenieurbuero Waite GmbH | Germany, Hamburg | 2005 | Dormant
+Ingenium ITS | London, Englands | 2012 | Active
+Ingenta UK Ltd | United Kingdom, Oxford | 2005 | Dormant
+InnerSpace | America, Florida, Palm Coast | 2003 | Dormant
+Innovative Managed Care Systems, Inc. | United States, TX, Dallas | 2001 | Dormant
+Innovative Management Solutions | Canada, Ontario, Toronto | 2004 | Dormant
+Innovative Solutions, Inc. | United States, Missouri, St. Louis | 2005 | Dormant
+Innovative Systems Group | Chicago, IL | 2012 | Active
+Inpharmatica Ltd | United Kingdom, London | 2005 | Dormant
+Insider Pages | United States, California, Redwood Shores | 2006 | Dormant
+Insight Global, Inc | United States, Maryland, Gaithersburg | 2009 | Inactive
+Insight Solutions | United States, CA, Cupertino | 2006 | Dormant
+Inspire | United States, Virginia, McLean | 2013 | Active
+Inspired Broadcast Networks | United Kingdom, London | 2006 | Dormant
+Instant Online Shopping | Undefined | 2005 | Dormant
+Institute for Contemporary History at the University of Innsbruck | Austria, Innsbruck | 2007 | Dormant
+Institute for Genome Sciences | United States, Maryland, Baltimore | 2008 | Dormant
+Institute of Cancer Research | United Kingdom, Greater London, London (Sutton) | 2010 | Inactive
+Insurance Industry | United States, MD, Columbia | 2003 | Dormant
+IntApp | United States, CA, Palo Alto | 2007 | Dormant
+IntApp, Inc. | United States, CA, Palo Alto | 2007 | Dormant
+IntY | United Kingdom, South West, Bristol | 2006 | Dormant
+Intasys Billing Technologies Ltd | Scotland, Midlothian, Edinburgh | 2002 | Dormant
+Integralis Services GmbH | Germany, Bavaria, Ismaning | 2013 | Active
+Integration Appliance | United States, California, Palo Alto | 2008 | Dormant
+Integration Appliance, Inc. | United States, CA, Palo Alto | 2006 | Dormant
+Integrative Research - Beta Immune | United States, New York, Little Valley | 2002 | Dormant
+IntegriChain Inc | United States, NJ, Princeton | 2009 | Inactive
+IntegriChain, Inc | United States, NJ, Princeton | 2011 | Active
+IntegriChain, Inc. | United States, NJ, Princeton | 2006 | Dormant
+Integrichain | United States, NJ, Princeton | 2009 | Inactive
+Integrichain, Inc | United States, NJ, Princeton | 2007 | Dormant
+Integrichain, Inc. | United States, NJ, Princeton | 2008 | Dormant
+Intel | United States, OR, Hillsboro | 2002 | Dormant
+Intel Corp. | United States, OR, Hillsboro | 2004 | Dormant
+Inteliment | Sydney - Australia | 2013 | Active
+Intellect Technical Consulting | United States, Florida, Tampa | 2005 | Dormant
+Intellect Technical Solutions | United States, Florida, Tampa | 2004 | Dormant
+Intellectual Capital | United States, Connecticut, Wilton | 2006 | Dormant
+IntelliBitz Technologies | India, TamilNadu, Chennai | 2007 | Dormant
+IntelliSurvey, Inc. | United States, CA, Ladera Ranch | 2013 | Active
+Intelligent People | United Kingdom, London | 2007 | Dormant
+Intellispire | Undefined | 2007 | Dormant
+Intelliun Corporation | United States, TX, Addison | 2007 | Dormant
+Intellor Group Inc | United States, Maryland, Gaithersburg | 2006 | Dormant
+Intellor Group Inc. | United States, Maryland, Gaithersburg | 2006 | Dormant
+Intellor Group, Inc. | United States, Maryland, Gaithersburg | 2006 | Dormant
+InterLegis | United States, TX, Dallas | 2006 | Dormant
+InterPro Australia Pty Ltd | Australia, NSW, Sydney | 2005 | Dormant
+Interactive Brokers | United States, CT, Greenwich | 2013 | Active
+Interactive Brokers Group LLC | Greenwich, CT, 06830  USA | 2012 | Active
+Interactive Brokers Group, Inc. | Greenwich, CT, 06830  USA | 2012 | Active
+Interactive Data PRD | United States, MA, Bedford | 2007 | Dormant
+Interalab, Inc. | United States, MI, Dearborn | 2007 | Dormant
+Interapy BV | Netherlands, Amsterdam | 2009 | Inactive
+Intercasting Corp. | United States, CA, San Diego | 2008 | Dormant
+Interchange Technologies | Canada, Quebec, Montreal | 2007 | Dormant
+InterfaceFLOR, Inc. | United States, IL, Elmhurst | 2006 | Dormant
+Interhack | Chicago, IL | 2011 | Active
+Interim Competence | Denmark, Copenhagen | 2007 | Dormant
+Intermedia | Saint-Petersburg, Russia | 2011 | Active
+Intermedia Inc. | St Petersburg, Russia | 2011 | Active
+Intermedia Outdoors | United States, GA, Marietta | 2007 | Dormant
+Intermountain Technology Group | United States, KS, Hutchinson | 2006 | Dormant
+Internal Data Resources, Inc. | United States, Tennessee, Nashville | 2009 | Inactive
+International Insurance Group, Inc. | Arizona, Flagstaff | 2003 | Dormant
+International Securities Exchange | United States, NY, New  York | 2007 | Dormant
+International Technical Solutions | Palo Alto, CA, United States | 2012 | Active
+International Textile Manufacturing, Inc. | United States, RI, Cumberland | 2007 | Dormant
+Internest (RLE) | Russia, Saint-Petersburg | 2006 | Dormant
+Internet Archive | United States, CA, San Francisco | 2011 | Active
+Internet Brands | United States, CA, El Segundo | 2011 | Active
+Internet Brands, Inc. | United States, CA, El Segundo | 2011 | Active
+Internet Co. | United Kingdom, London | 2002 | Dormant
+Internet Express | United States, CA, San Diego | 2003 | Dormant
+Internet Images | United Kingdom, Cleveland, Middlesbrough | 2002 | Dormant
+Internet Marketing Center | Canada, British Columbia, Vancouver | 2008 | Dormant
+Internet Marketing Ninjas | Clifton Park, NY | 2012 | Active
+Internet Pictures Corporation (iPIX) | United States, CA, San Ramon | 2003 | Dormant
+Internet Software Designs, Inc. | United States, Arizona, Flagstaff | 2003 | Dormant
+Internext Media Corp. | United States, ca, Encino | 2003 | Dormant
+Interscape | United States, MA, BOSTON | 2003 | Dormant
+Intersect Australia Ltd | Australia, NSW, Sydney | 2010 | Inactive
+Intertech | Minneapolis, MN | 2013 | Active
+Intertnet Transaction Services, Inc. | United States, CA, Long Beach | 2002 | Dormant
+Intraedge | Phoenix, AZ, USA | 2012 | Active
+Intrepid Recruitment | United Kingdom, Gloucestershire | 2003 | Dormant
+Inventium Pvt. Ltd. | India, NCR, Gurgaon | 2007 | Dormant
+Investment Bank | United Kingdom, London, City of London/Canary Wharf | 2011 | Active
+Investment Bank  | United States, NY, New York | 2008 | Dormant
+Investor DNA | United States, NY, New York | 2008 | Dormant
+Inweb | United Kingdom, southwest London | 2003 | Dormant
+Ionzero | Telecommute | 2013 | Active
+Ionzero  | United States, CO, Fort Collins | 2011 | Active
+Iowa Telecom | United States, Iowa, Grinnell | 2007 | Dormant
+Iponweb | Russia, RU, Moscow | 2004 | Dormant
+IronPort | United States, CA, San Bruno | 2003 | Dormant
+IronPort Systems | United States, CA, San Bruno | 2004 | Dormant
+Ironport Systems | United States, CA, San Bruno | 2004 | Dormant
+Irvine Technology Corp | USA, CA, Irvine | 2011 | Active
+Italpro di Michele Beltrame | Italy, PN, Maniago | 2006 | Dormant
+Itec Resources | United States, IL, Chicago | 2001 | Dormant
+Ivenue | United States, CA, Whittier | 2008 | Dormant
+J Hecht | United States, Colorado, Glenwood Springs | 2006 | Dormant
+J R Technologies | India, Maharashtra, Mumbai | 2006 | Dormant
+J Wilson and Associates | Canada, BC, Vancouver | 2003 | Dormant
+J-Com Resources Ltd | United Kingdom, London | 2010 | Inactive
+J.P Recruiting | Canada, Ontario, Toronto | 2005 | Dormant
+JBA-IT recruitment | United Kingdom, London | 2005 | Dormant
+JCV Enterprises | United States, CA, Loma Linda | 2006 | Dormant
+JDG Associates | MD, Bethesda | 2005 | Dormant
+JDResources | United States, TN, Memphis | 2010 | Inactive
+JHW | United Kingdom, London | 2003 | Dormant
+JK Incorporated | United States, DC, Washington | 2004 | Dormant
+JKPorto Inc | United States, NY, Port Washington  | 2009 | Inactive
+JM & Company | United States, MD, Bethesda | 2005 | Dormant
+JND Technologies | INDIA, MS, Mumbai | 2003 | Dormant
+JP Morgan | India, Mumbai | 2009 | Inactive
+JPMorgan Chase | India, Mumbai | 2009 | Inactive
+JSSI Group | United States, FL, Venice | 2006 | Dormant
+JST Software, Inc. | United States, CA, Santa Monica | 2011 | Active
+JWAY GROUP, Inc. | United States, CA, San Jose | 2006 | Dormant
+Jackson Assoc | United States, missour, st louis | 2004 | Dormant
+Jackson Colter Resources | United States, FL, Orlando | 2010 | Inactive
+Jamma IT | London | 2008 | Dormant
+Jan Prunk | Slovenia, Ljubljana | 2008 | Dormant
+Japan Association of Translators | Japan, Shibuyu-ku, Tokyo | 2003 | Dormant
+JeanMartin Solutions | India, Andhra Pradesh, Hyderabad | 2008 | Dormant
+Jeff | United States, Texas, Dallas | 2003 | Dormant
+Jerusalem Post | Israel, Jerusalem | 2008 | Dormant
+JobPlex | United States, TX, Austin | 2006 | Dormant
+JobPlex Executive Recruiters | United States, CA, Irvine or San Jose | 2006 | Dormant
+JobsAhead | India, Delhi, Delhi | 2003 | Dormant
+Jobspring Partners | CA, Santa Monica | 2009 | Inactive
+Jobster | United States, WA, Seattle | 2005 | Dormant
+Jobster Inc | United States, Washington, Seattle | 2005 | Dormant
+Jobster.com | United States, WA, Seattle | 2005 | Dormant
+Jochen Schweizer Technology Solutions | Munich, Germany | 2013 | Active
+Jocorp | Freelance work from any location | 2007 | Dormant
+John Galt | United States, ma, Burlington | 2007 | Dormant
+John Galt Staffing | United States, MA, Waltham | 2007 | Dormant
+John Galt Staffing, Inc. | United States, Massachusetts, Burlington | 2007 | Dormant
+John Kerry for President national campaign | United States, DC, washington | 2004 | Dormant
+John Raabe, Cooperative Design | United States, WA, Langley | 2003 | Dormant
+JohnGalt | United States, MA, Burlington | 2007 | Dormant
+Johnny's Selected Seeds | United States, Maine, Winslow | 2003 | Dormant
+Joint Astronomy Centre | United States, HI, Hilo | 2007 | Dormant
+Jones Beckett Associates | United Kingdom, London | 2005 | Dormant
+Journalistic, Inc. | United States, NC, Durham | 2005 | Dormant
+Journatic | Remote | 2013 | Active
+Juice Resource Solutions | United Kingdom, London | 2008 | Dormant
+Jump Start | United States, New York, Manhattan | 2011 | Active
+Jump Trading | Chicago, IL | 2012 | Active
+Juniper Networks | United States, California, Sunnyvale | 2009 | Inactive
+Jupiterimages Corporation | United States, Arizona, Tucson | 2006 | Dormant
+Jupitermedia | United States, AZ, Tucson | 2007 | Dormant
+Jupitermedia Corporation | United States, AZ, Tucson | 2006 | Dormant
+Justia Inc. | United States, CA, Palo Alto | 2006 | Dormant
+KBretz & Associates | United States, CA, San Jose | 2009 | Inactive
+KEANE, Inc. | United States, New York, New York | 2005 | Dormant
+KEANE, Inc. (NYSE: KEA) | United States, New York, New York | 2006 | Dormant
+KForce | United States, Wi., Madison | 2008 | Dormant
+KForce Professional Staffing | United States, Maryland, Baltimore | 2007 | Dormant
+KForce Technology | United States, Texas, Austin | 2008 | Dormant
+KForce Technology Staffing | United States, Kansas, Overland Park | 2005 | Dormant
+KGM Direct | United States, New York, New York | 2007 | Dormant
+KPC Group | Great Britain, London | 2007 | Dormant
+KSL | United States, Telecommute Position | 2009 | Inactive
+KTECHO CONSULTING S.L. | Spain, Madrid, Madrid | 2010 | Inactive
+KTek Solutions Inc. | TX, Dallas | 2002 | Dormant
+Kaizen | China, Kowloon, Hong Kong | 2009 | Inactive
+Kaizen Partnership | United Kingdom, London | 2009 | Inactive
+Kam Enterprises | United States, VA, Herndon | 2002 | Dormant
+Kanoodle | United States, NY, Getzville | 2005 | Dormant
+Kapor Enterprises | United States, CA, San Francisco | 2006 | Dormant
+Kareo | Irvine, CA | 2013 | Active
+Karlson Recruitment | United Kingdom, London, London | 2009 | Inactive
+Karlson Recruitment on behalf of leading London based Companies | United Kingdom, London | 2007 | Dormant
+Karlson UK | United Kingdom, London, London | 2009 | Inactive
+Karma Music Group | United Kingdom, London | 2004 | Dormant
+Karmasphere | United Kingdom, London | 2006 | Dormant
+Keane Inc | Canada, Nova Scotia, Halifax | 2004 | Dormant
+Keane, Inc. | NJ, Jersey City | 2006 | Dormant
+Keberos Corp | United States, IL, Chicago | 2006 | Dormant
+Kebunet | 97068, OR, West Linn | 2007 | Dormant
+Kelly I.T. Resources | United States, Nevada, Las Vegas | 2008 | Dormant
+Kelly IT Resources | United States, NV, Henderson  | 2008 | Dormant
+Kelly Scientific Resources at the National Institutes of Health | United States, MD, Rockville | 2006 | Dormant
+Keltia Design | United States, WA, Seattle | 2008 | Dormant
+Kenscio Digital Marketing | Bangalore, India | 2012 | Active
+Kenserve Inc | United States, CA, Westlake Village | 2006 | Dormant
+Kent Douglas & Associates | Australia, NSW, Sydney | 2004 | Dormant
+Kerry-Edwards 2004 | United States, DC, washington | 2004 | Dormant
+Kforce | United States, OH, Dayton | 2012 | Active
+Kforce Client | King of Prussia, PA | 2012 | Active
+Kforce Professional Staffing | United States, Ohio, Dayton | 2008 | Dormant
+Kforce Professional Staffing  | United States, CA, San Diego | 2008 | Dormant
+Kieran Knight Consulting | Cambridge, UK | 2012 | Active
+Kieran Knight Recruitment | United Kingdom, Cambridge | 2007 | Dormant
+Kineticom | United States, WA, Bellevue | 2005 | Dormant
+Kineticom, Inc. | United States, CA, San Francisco | 2009 | Inactive
+Kinexus Internet Ltd | United Kingdom, Swindon | 2002 | Dormant
+Kings Hill Recruitment | United Kingdom | 2013 | Active
+Kingsport Publishing Corporation | United States, TN, Kingsport | 2003 | Dormant
+Kitco | Canada, Quebec, Montreal | 2006 | Dormant
+Knight Munro | United Kingdom, London | 2008 | Dormant
+Knowledge Headquarters | United States, TX, Austin | 2006 | Dormant
+Knowledge Networks | United States, CA, Menlo Park | 2004 | Dormant
+Knowledge Technologies Group of Pearson | United States, CO, Boulder | 2010 | Inactive
+KnowledgePlex Inc. | CA, San Jose | 2008 | Dormant
+KnowledgePlex, Inc. | CA, San Jose | 2008 | Dormant
+KnowledgeWorks Global Ltd. | India, Maharashtra, Mumbai | 2005 | Dormant
+Knowlegis | United States, VA, Fairfax | 2008 | Dormant
+Knowmad Technologies | United States, NC, Charlotte | 2007 | Dormant
+Koala Telecom | Australia, South Australia, Adelaide | 2006 | Dormant
+KolbSoft Technologies | United States, IL, Libertyville | 2005 | Dormant
+Kontera | Israel, Hertzliya | 2007 | Dormant
+Koston Consulting | Austin, TX | 2011 | Active
+Kudosintech, Ahmedabad | Ahmedabad, Gujarat | 2012 | Active
+Kurt Seifried | Canada, Alberta, Edmonton | 2006 | Dormant
+L&G Consulting, LLC | United States, TX, Corpus Christi | 2004 | Dormant
+L&G Consulting.LLC | United States, TX, Corpus Christi | 2002 | Dormant
+L-3 Communications Titan Group | United States, MD, Landover | 2006 | Dormant
+L-3 STRATIS | Annapolis Junction, MD | 2012 | Active
+L3 Payments | US, any, any | 2006 | Dormant
+LA County Office of Education | United States, CA, Downey | 2005 | Dormant
+LASF | Undefined | 2013 | Active
+LG | United States, WA, Seattle | 2007 | Dormant
+LG Consulting | United States, WA, Seattle | 2007 | Dormant
+LINX | United Kingdom, London | 2009 | Inactive
+LIVE NATION ENTERTAINMENT / TICKETMASTER | USA, CA, HOLLYWOOD | 2011 | Active
+LIVEOPS | United States, CA, Palo Alto | 2006 | Dormant
+LKK Group | United States, CA, Los Angeles | 2005 | Dormant
+LM Squared LLC | United States, IL, Northbrook | 2007 | Dormant
+LM2 | United States, IL, Northbrook | 2006 | Dormant
+LMB Professional Services | United States, New York, New York | 2007 | Dormant
+LOVEFiLM | United Kingdom, London | 2012 | Active
+LOVEFiLM International | United Kingdom, London | 2008 | Dormant
+LRN | United States, California, Los Angeles | 2006 | Dormant
+LRN Corporation | United States, California, Westwood | 2009 | Inactive
+LRN Inc. | United States, CA, Los Angeles (Westwood) | 2006 | Dormant
+Lab-01 | Salt Lake City, UT, USA | 2012 | Active
+Lacerte Development | Canada, British Columbia, Victoria | 2010 | Inactive
+Lagardere Active North America | United States, Ca, Los Angeles | 2004 | Dormant
+Lakeshore Staffing | United States, KY, Louisville | 2010 | Inactive
+Lakeview Education Solutions | United States, IL, Chicago | 2004 | Dormant
+Language Weaver | United States, CA, Los Angeles | 2008 | Dormant
+Language Weaver, Inc. | United States, California, Los Angeles/Marina Del Rey | 2007 | Dormant
+Large Financial Services Company | United States, Connecticut, Stamford | 2004 | Dormant
+Large Insurance Corporation | United States, Ohio, Columbus | 2007 | Dormant
+Large Internet Communications Firm | United States, NJ, Jersey City | 2008 | Dormant
+Large Internet Company | United Kingdom, London | 2011 | Active
+Large Media Company | United Kingdon, London | 2009 | Inactive
+Large National Media Group | United Kingdom, Manchester | 2007 | Dormant
+Large Publishing Company | United States, California, San Diego | 2007 | Dormant
+Large Telco  | Australia, New South Wales, North Ryde, Sydney | 2008 | Dormant
+Large e-commerce company in Toronto | Canada, Ontario, Toronto | 2005 | Dormant
+Las Vegas Extremes | United States, Nevada, Las Vegas | 2006 | Dormant
+Laser Print Plus | United States, SC, Columbia | 2006 | Dormant
+Lassen Group | United States, CA, Los Angeles | 2004 | Dormant
+Latitude Tech | United States, VA, Arlington | 2007 | Dormant
+Law Manager, Inc. | United States, PA, Conshohocken (Philadelphia suburbs) | 2002 | Dormant
+Law Offices of Birger Greg Bacino | United States, CA, San Diego | 2002 | Dormant
+Lawrence Berkeley National Laboratory | United States, CA, Berkeley | 2009 | Inactive
+Layover, Inc. | United States, PA, Lancaster County | 2006 | Dormant
+Layover.com | United States, PA, Lancaster | 2006 | Dormant
+Lazard Asset Management | United States, New York, New York | 2007 | Dormant
+Lead Revolution Inc | Canada, B.C., Vancouver | 2004 | Dormant
+Leading European Brand | United Kingdom, Hampshire, Portsmouth | 2010 | Inactive
+Leading Information Solution Provider | United States, California, Los Angeles | 2008 | Dormant
+Leading Information Solution provider | United States, NY, New York | 2008 | Dormant
+Leading Online Advertising organization | United States, WA, Seattle | 2007 | Dormant
+Leading Search Engine Marketing / Search Engine Optimization Firm | United States, IL, Chicago | 2007 | Dormant
+Leading Search Engine/Internet Company | United States, NY, New York | 2007 | Dormant
+Leading in the Semiconductor Industry | United States, CA, San Jose | 2006 | Dormant
+Leading integrated financial services company | Germany, Munich / München | 2007 | Dormant
+Leadpile | United States, Arizona, Phoenix | 2011 | Active
+LeapFrog Systems | Boston, MA | 2012 | Active
+LeasingBørsen.dk | Denmark, Copenhagen | 2011 | Active
+Legacy.com | Naperville, IL, United States | 2013 | Active
+Lekha, Inc | United States, CA, Southern California | 2006 | Dormant
+Lemcon Networks | Brazil, Barra da Tijuca, Rio De Janeiro | 2009 | Inactive
+Lenmar consulting | United States, NJ, Jersey City | 2008 | Dormant
+Leon Bene Consulting | United States, CA, Petaluma | 2004 | Dormant
+Leostream | United States, MA, Waltham | 2008 | Dormant
+Letsrecruit.com | United Kingdom, London, London | 2005 | Dormant
+Level 9 Digital | United States, FL, Miami | 2010 | Inactive
+Level Acuity, LLC | United States, CA, San Francisco | 2004 | Dormant
+Level Acuity, LLC - Perl Programmer Staffing & Projects | United States, New York, Manhattan, New York (212) | 2004 | Dormant
+Level One Technologies | United States, MO, St Louis | 2004 | Dormant
+LevelBET Ltd | Argentina, Buenos Aires | 2004 | Dormant
+Levi, Ray & Shoup, Inc. | United States, Kansas, Lenexa | 2007 | Dormant
+Levy | Netherlands, Utrecht | 2007 | Dormant
+Levy Associates | Netherlands, Utrecht | 2007 | Dormant
+Lexblog | United States, WA, Seatlle | 2009 | Inactive
+Lexis-Nexis | United States, Florida, Boca Raton | 2010 | Inactive
+Liaison International | United States, MA, Watertown | 2012 | Active
+Liaison International, Inc. | United States, MA, Watertown | 2009 | Inactive
+Liaison International, LLC | Watertown, MA, United States | 2012 | Active
+LibLime | United States | 2008 | Dormant
+Libertarian Party of Pennsylvania | Philadelphia, Washington DC, USA | 2012 | Active
+Liberty | Wilmington, DE | 2012 | Active
+Liberty Personnel | Bensalem, PA 19020 | 2013 | Active
+Libertyjobs | Claymont, DE | 2012 | Active
+Lieberman Software Corporation | United States, CA, Beverly Hills | 2004 | Dormant
+Lifetree Convergence Limited | India, Karnataka, Bangalore | 2004 | Dormant
+LightSpeed Technology Group | Chapel Hill, NC | 2012 | Active
+Like.com | United States, CA, San Mateo | 2009 | Inactive
+Likeminds Digital Solutions Pty Ltd | Australia, NSW, Sydney (Lower Blue Mountains) | 2003 | Dormant
+Limbic Systems, Inc. | United States, MD, Rockville | 2002 | Dormant
+Lincoln Bay | United States, Washington, Seattle | 2006 | Dormant
+LincolnBay | 98104, WA, Seattle | 2006 | Dormant
+Lindahl Search & Selection ApS | Danmark, København K | 2006 | Dormant
+Line 6 | United States, CA, Agoura Hills | 2005 | Dormant
+Line 6, Inc. | United States, CA, Calabasas | 2008 | Dormant
+Linear G internet solutions | Australia, NSW, Lismore | 2006 | Dormant
+Link Recruitment, Melbourne | Australia, Victoria, Melbourne | 2006 | Dormant
+Link-Assistant.Com | Belarus, Minsk | 2007 | Dormant
+LinkExperts, Inc. | United States, NY, New York | 2008 | Dormant
+Links Technolgoy | United States, IL, Chicago | 2003 | Dormant
+Links Technology Solutions, Inc. | United States, Arizona, Scottsdale | 2004 | Dormant
+Linux Lancers Deutschland | The Netherlands, Amsterdam | 2009 | Inactive
+Linux Mall Brasil LTDA | Brasil, SP, Sao Paulo | 2006 | Dormant
+Linuxwebnet.com | United States, Maryland, Baltimore | 2002 | Dormant
+Lions Bay Media Inc. | North Vancouver, BC | 2013 | Active
+Liquid Web Inc | United States, MI, Lansing | 2007 | Dormant
+Liquid Web Inc. | United States, MI, Lansing | 2012 | Active
+LiquidPixels, Inc. | United States, MA, Bedford | 2007 | Dormant
+Liquidity Services | United States, DC, Washington | 2009 | Inactive
+Liquidity Services - An Ecommerce Company | DC, WASHINGTON | 2010 | Inactive
+Liquidity Services Inc. | United States, DC, Washington | 2010 | Inactive
+Liquidity Services, Inc. | United States, DC, Washington | 2011 | Active
+Liquidity Services, inc | United States, Washington DC, Washington DC | 2006 | Dormant
+ListMarketer Software, Inc. | Cottonwood Heights, UT, United States | 2011 | Active
+LiteBreeze, Inc. | India, Kerala, Cochin | 2004 | Dormant
+Litelogic | Ireland, Limerick | 2008 | Dormant
+Litelogic LTD | United Kingdom, London, London | 2008 | Dormant
+Litelogic Ltd | United Kingdom, London | 2007 | Dormant
+Litelogic Ltd. | United Kingdom, London, London | 2007 | Dormant
+Literal | Slovenia, Ljubljana | 2005 | Dormant
+Live Nation Enterainment/ Ticketmaster | USA, Ca, Hollywood | 2011 | Active
+Live Nation Entertainment | United States, Ca, Hollywood | 2011 | Active
+Live Nation Entertainment - Ticketmaster | Hollywood, Los Angeles, CA, USA | 2012 | Active
+Live Nation Entertainment / Ticketmaster | United States, Ca, Hollywood | 2011 | Active
+Live Nation Entertainment \ Ticketmaster | United States, CA, Hollywood | 2011 | Active
+Live Nation Entertainment \ Ticketmster | United States, Ca, Hollywood | 2011 | Active
+Live Nation Entertainment/ Ticketmaster | USA, CA, Hollywood | 2011 | Active
+Live365 | United States, CA, Foster City | 2006 | Dormant
+Live365, Inc. | 94404, CA, Foster City | 2005 | Dormant
+LiveBlock Auctions International | Regina, Saskatchewan, Canada | 2012 | Active
+LiveOps | United States, CA, Santa Clara | 2010 | Inactive
+LiveOps, Inc | United States, CA, Santa Clara | 2010 | Inactive
+LiveText | IL, LaGrange | 2010 | Inactive
+LiveText Inc | United States, IL, Chicago (LaGrange) | 2006 | Dormant
+LiveText Inc. | United States, Illinois, LaGrange | 2006 | Dormant
+LiveText, Inc. | United States, IL, Chicago | 2012 | Active
+LiveVox | United States, California, San Francisco | 2007 | Dormant
+LiveWire Mobile | United States, MA, Littleton | 2008 | Dormant
+Liveops | United States, CA, Santa Clara | 2010 | Inactive
+LivingDigest, Inc. | United States, CA, San Francisco | 2004 | Dormant
+Local-I | United States, NY, New York | 2005 | Dormant
+LocalNet Corporation | Williamsville, NY | 2012 | Active
+Lodestar Consulting, LLC | United States, PA, Philadelphia | 2007 | Dormant
+LodgeNet-StayOnline, Inc. | United States, Georgia, Atlanta | 2007 | Dormant
+Loehr Technologies, Inc. | United States, CO, Colorado Springs | 2005 | Dormant
+Log-On | Israel, Tel-Aviv | 2009 | Inactive
+LogLogic, Inc. | United States, CA, San Jose | 2008 | Dormant
+LogSearch.com | United States, IL, Chicago | 2003 | Dormant
+Logic Technology, Inc. | Cincinnati, OH | 2012 | Active
+LogicNow LTD | United Kingdom, Essex, Brentwood | 2005 | Dormant
+Logicmerc | United States, IL, Chicago | 2007 | Dormant
+Logitech | Newark, CA | 2012 | Active
+Logitech, Inc. | United States, WA, Camas  | 2011 | Active
+Logitech/SLim Devices | United States, CA, San Jose | 2007 | Dormant
+Logitech/Slim Devices | United States, California, Mountain View | 2007 | Dormant
+Lok Technology | United States, CA, San Jose | 2007 | Dormant
+Lok Technology, Inc. | United States, Florida, Vero Beach | 2005 | Dormant
+Lokku | United Kingdom, Central London | 2013 | Active
+Lokku Limited | United Kingdom, London | 2007 | Dormant
+Lokku Ltd. | United Kingdom, London | 2010 | Inactive
+London Music Thing | United Kingdom, London, London | 2006 | Dormant
+London School of Economics and Political Science | United Kingdom, London, London | 2008 | Dormant
+London South Bank University/Thames Computer Services | United Kingdom, Central London, London | 2010 | Inactive
+Lone Star Internet, Inc. | United States, Texas, Austin | 2008 | Dormant
+Lone Star Software | Any, Any, Any | 2005 | Dormant
+Longitude, Inc. | United States, NY, New York City | 2002 | Dormant
+Look Communications | Canada, Québec, Montréal | 2005 | Dormant
+LookSmart | United States, CA, San Francisco | 2013 | Active
+LookSmart Canada | Waterloo, Ontario, Canada | 2011 | Active
+Loop One Inc. | United States, Texas, Austin | 2007 | Dormant
+Los Alamos National Laboratory | United States, New Mexico, Los Alamos | 2012 | Active
+Los Alamos National Laboratory (LANL) | Los Alamos, NM | 2012 | Active
+Los Alamos National Labs, Influenza Project | United States, NM, Los Alamos | 2007 | Dormant
+Los Angeles County Office of Education | United States, California, Downey | 2006 | Dormant
+Loudstream | Australia, VIC, Melbourne | 2003 | Dormant
+Loudstream FM | Canada, ON, London | 2003 | Dormant
+Lovefilm International | United Kingdom, London | 2007 | Dormant
+Loyal Source | United States, New York, New York | 2008 | Dormant
+Lucas Group | United States, NY, New York | 2006 | Dormant
+Lucas partnerships | United States, Texas, Dallas | 2002 | Dormant
+LucasFilm | United States, CA, San Rafael | 2004 | Dormant
+Lucidoc Corporation | United States, WA, Redmond | 2012 | Active
+Luibh.com | Ireland, Belfast | 2003 | Dormant
+Lyris Technologies, Inc. | United States, CA, Berkeley | 2003 | Dormant
+M&T Bank | United States, NY, Buffalo | 2007 | Dormant
+M.D. Web Solutions | Tampa, FL | 2011 | Active
+M2 Media Group | Stamford, CT, United States | 2011 | Active
+MAD Partners Ltd | Maidenhead, United Kingdom | 2011 | Active
+MAP Staffing Solutions Group | New York, NY, USA | 2013 | Active
+MAP Staffing Solutions group | NJ, Jersey City | 2009 | Inactive
+MBA Michael Bailey Associates GmbH | Germany, Bavaria, Munich | 2009 | Inactive
+MBalance | Netherlands, Noord Holland, Amsterdam | 2004 | Dormant
+MCG | United States, Mo, Kansas City  | 2008 | Dormant
+MCI | Austria, -, Innsbruck | 2003 | Dormant
+MCSi | United States, OH, Dayton | 2003 | Dormant
+MDA Information Systems Inc | Gaithersburg, MD | 2012 | Active
+MDA Information Systems, Inc. | United States, MD, Gaithersburg | 2010 | Inactive
+MECS | United Kingdom, London | 2008 | Dormant
+MECS EUROPE | London | 2007 | Dormant
+MECS Europe | United Kingdom, London | 2009 | Inactive
+MEN Media | United Kingdom, Manchester, Oldham | 2010 | Inactive
+MFM Software, Inc. | United States, OH, Cincinnati | 2005 | Dormant
+MIS Web Design Ltd. | England, United Kingdom, Yorkshire | 2008 | Dormant
+MISource Inc. | United States, Florida, Boca Raton | 2011 | Active
+MKDoc Ltd | United Kingdom, Sheffield | 2004 | Dormant
+MLB Advanced Media | United States, NY, New York | 2005 | Dormant
+MMAH | United States, MD, Silver Spring | 2010 | Inactive
+MMW International | CA, San Francisco | 2007 | Dormant
+MNC | India, Maharashtra, Pune | 2007 | Dormant
+MNX Solutions | United States, MI, Monroe | 2007 | Dormant
+MOB | Australia, NSW, Sydney | 2009 | Inactive
+MODIS | USA, FL, Sunrise | 2011 | Active
+MOST Performance Improvement | United States, PA, Doylestown | 2004 | Dormant
+MPC | United Kingdom, London, London | 2008 | Dormant
+MPH | United States, CA, San Carlos | 2005 | Dormant
+MPR Sistemas S.A. | Venezuela, DF, Caracas | 2005 | Dormant
+MRI | United States, MI, Grand Rapids | 2007 | Dormant
+MRI   Orange County New York | Mid-Hudson Valley New York | 2012 | Active
+MRI  ORANGE COUNTY NY | MID-HUDSON VALLEY NEW YORK | 2012 | Active
+MRI Client | United States, New York, New York | 2008 | Dormant
+MRI ORANGE COUNTY NY | United States, NY, GREENWOOD LAKE | 2010 | Inactive
+MRI Orange County NY | United States, NY, Greenwood Lake  | 2012 | Active
+MSys | United States, NY, New York | 2010 | Inactive
+MULTINATIONAL COMPANY | INIDA, KERALA, TRIVANDRUM / KOCHI | 2007 | Dormant
+MUSICMATCH | United States, California, San Diego | 2003 | Dormant
+MacNexus | United States, CA, Sacramento | 2007 | Dormant
+Mackey & Tanner | United States, Tx, Houston | 2009 | Inactive
+MacroElite Corp. | Canada, Manitoba, Winnipeg | 2007 | Dormant
+Madberry.com | United States, NH, Durham | 2010 | Inactive
+Madbury Web Development Ventures | United States, NH, Durham | 2009 | Inactive
+Madden Advertising | Australia, Queensland, Brisbane | 2008 | Dormant
+Magazine Subscription Cheap | United States, California, Los Angeles | 2005 | Dormant
+Magazine Subscriptions | California, Los Angeles | 2005 | Dormant
+Magazines.com | United States, TN, Franklin | 2011 | Active
+Magazines.com, LLC | United States, TN, Franklin | 2010 | Inactive
+Magenta ApS | Denmark, Copenhagen | 2005 | Dormant
+Magnify | New York, NY | 2012 | Active
+Magnify.net | United States, NY, New York | 2013 | Active
+Magrathea Technologies | Australia, QLD, South Brisbane | 2002 | Dormant
+Mail.Ru Group | Moscow, Russia | 2012 | Active
+MailChannels | Canada, BC, Vancouver | 2010 | Inactive
+MailChannels Corporation | Canada, BC, Vancouver | 2007 | Dormant
+Maine Historical Society | United States, Maine, Portland | 2007 | Dormant
+Mainz Brady Group | OR, Portland | 2010 | Inactive
+Major Financial Firm | United States, NY, New York | 2008 | Dormant
+Major Financial Services Firm | United States, NY, New York | 2010 | Inactive
+Major Investment Bank | United States, NY/NJ, New York City and Jersey City | 2008 | Dormant
+Major Investment Firm | Canada, Ontario, Toronto | 2008 | Dormant
+Major League Baseball | United States, NY, New York | 2002 | Dormant
+Major League Baseball Advanced Media | United States, New York, New York | 2006 | Dormant
+Major NYC Firm | United States, NY, NYC | 2007 | Dormant
+Major Online Marketing Firm | United States, NY, New York | 2010 | Inactive
+Major Publishing company | United States, NY, Port Washington | 2008 | Dormant
+Major investment bank | United States, NY, New York | 2007 | Dormant
+Majoris Systems Pvt Ltd. | India, Karnataka, Bangalore | 2004 | Dormant
+Make Corporation | United States, IL, Chicago | 2002 | Dormant
+MakePerl.com | Ukraine, Dniepropetrovsk | 2005 | Dormant
+Mamta LLC | United States, NY, New York | 2008 | Dormant
+Man Jimnz | Worldwide, Worldwide, Worldwide | 2009 | Inactive
+Managaement Recruiters of Orange County NY Inc. | Undefined | 2011 | Active
+Manheim Auctions | United Kingdom, West Yorkshire, LEEDS | 2009 | Inactive
+Manhunt Enterprises | India, Maharashtra, Pune | 2003 | Dormant
+Manpower | United States, North Carolina, Durham | 2007 | Dormant
+Manpower Professional | United States, MI, Traverse City | 2006 | Dormant
+Manta Media, Inc | United States, Ohio, Westerville | 2009 | Inactive
+ManyOne Networks | United States, CA, San Mateo/San Jose/Scotts Valley | 2003 | Dormant
+Marc's Webdesign | United States, New Jersey | 2002 | Dormant
+Marchex | United States, WA, Seattle | 2012 | Active
+Marchex Inc. | United States, WA, Seattle | 2010 | Inactive
+Marclin Group | United States, CA, Near LAX | 2004 | Dormant
+Marigold Technolgies | United States, NY, New York | 2002 | Dormant
+Marigold Technologies, LLC | United States, NY, New York City | 2004 | Dormant
+Marine Corps Community Services | United States, VA, Quantico | 2007 | Dormant
+Mark 4 Technologies | Tulsa, OK, USA | 2011 | Active
+Mark Jones (independent contractor) | United States, TX, San Antonio | 2002 | Dormant
+Mark Lewis, Inc | United States, Illinois, chicago | 2004 | Dormant
+Mark Monitor | United States, Maryland, Germantown | 2006 | Dormant
+Market Leading ISP | United Kingdom, Nottinghamshire, Nottingham | 2008 | Dormant
+Market Leading International Ecommerce Site | United Kingdom, Hampshire, Fareham | 2010 | Inactive
+Market Leading Online Brand | Portsmouth, United Kingdom | 2011 | Active
+Market Leading Software House | United Kingdom, London | 2005 | Dormant
+Market Sentinel | United Kingdom, London | 2006 | Dormant
+Market Strategies, Inc. | United States, MI, Livonia | 2005 | Dormant
+Marketing Company | United States, Western/Central US, Anywhere | 2011 | Active
+Marketinggenius.com | United States, CA, San Mateo | 2005 | Dormant
+Markus Allen | United States, PA, West Chester | 2002 | Dormant
+Marlabs Inc | IL, Chicago | 2010 | Inactive
+Marlabs Software | India, Karnataka, Bangalore | 2007 | Dormant
+Marriotts Recruitment | United Kingdom, Berkshire, Reading | 2006 | Dormant
+Marshall-Wilkins | United Kingdom, Oxfordshire, Oxford | 2005 | Dormant
+Mascon Global | United States, IL, Schaumburg | 2006 | Dormant
+Mason Concepts | United States, CA, Mountain View | 2009 | Inactive
+Mason Consulting | Docklands, London | 2005 | Dormant
+Mason soft LLC | Undefined | 2009 | Inactive
+Massachusetts General Hospital | United States, MA, Cambridge | 2002 | Dormant
+Masterfile Corporation | Canada, Ontario, Toronto | 2007 | Dormant
+Masters & Associates | United States, CA, Palo Alto | 2007 | Dormant
+Mate1.com Inc | Canada, Quebec, Montreal | 2007 | Dormant
+Mate1.com, Inc. | Canada, Quebec, Montreal | 2006 | Dormant
+Matrix Resources | United States, TX, Dallas | 2009 | Inactive
+Max-Planck-Institut für molekulare Genetik | Germany, Berlin | 2005 | Dormant
+MaxMind | Undefined | 2012 | Active
+MaxMind LLC | United States, MA, Boston | 2007 | Dormant
+MaxMind, Inc. | Undefined | 2013 | Active
+Maxim Integrated Products | United States, CA, Sunnyvale | 2011 | Active
+Maya Control | Romania, Bucuresti, etc. | 2005 | Dormant
+Mayfield Curzon Associates | United Kingdom, England, North Yorkshire, Harrogate | 2006 | Dormant
+McClatchy Interactive | United States, NC, Raleigh | 2007 | Dormant
+McGarryBowen/Dentsu LABS Group | United States, NY, New York | 2010 | Inactive
+McGregor Boyall Associates | London, UK | 2012 | Active
+McGregor-Boyall | London, London | 2009 | Inactive
+McKesson | YSA, WA, Seattle | 2010 | Inactive
+McKinzie Assoc. | United States, Missouri, St. Louis | 2003 | Dormant
+MechanicNet Group | Pleasanton, CA | 2012 | Active
+MechanicNet Group, Inc. | United States, CA, Pleasanton | 2009 | Inactive
+MedAbiliti Software Incorporated | United States, New York, New York | 2002 | Dormant
+MedStar | United States, MD, Baltimore | 2007 | Dormant
+MedWeb | United States, CA, San Francisco | 2010 | Inactive
+Media | United Kingdom, London, Central London | 2009 | Inactive
+Media Client | United Kingdom, Manchester | 2007 | Dormant
+Media Matters | United States, DC, Washington | 2006 | Dormant
+Media Matters for America | United States, DC, Washington | 2011 | Active
+Media Mattters | United States, DC, Washington | 2006 | Dormant
+Media Shower | Telecommute | 2012 | Active
+Media Temple | United States, CA, Culver City | 2011 | Active
+MediaDirect2000 | United States, ca, Calabasas | 2002 | Dormant
+MediaMath | United States, NY, New York | 2011 | Active
+MediaTemple | United States, CA, Los Angeles | 2010 | Inactive
+Mediaflex AS | Norway, Oslo | 2005 | Dormant
+Medialogik Inc | Canada, BC, Vancouver | 2004 | Dormant
+Mediamente SRL | Italy, Piemonte, Turin (Torino) | 2011 | Active
+Mediatech Internet Inc. | Canada, BC, Vancouver | 2004 | Dormant
+Medical Software firm | United States, MD, Bethesda | 2005 | Dormant
+Medical University of South Carolina | United States, SC, Charleston | 2005 | Dormant
+Medicore Corporation | India, Karnataka, Bangalore | 2009 | Inactive
+Medikin Incorporated | United States, New York, New York | 2008 | Dormant
+Medium Size Financial Company | New York, NY, USA | 2013 | Active
+Mednav | United States, Massachusetts, Wakefield | 2001 | Dormant
+Medoc | Nottingham, UK | 2013 | Active
+Mega E-Services Pvt. Ltd. | India, Maharshtra, Mumbai | 2005 | Dormant
+MegaForce LLC | United States, WI, Madison | 2006 | Dormant
+Mercator IT | United Kingdom, London | 2012 | Active
+Mercator IT Solutions | United Kingdom, Chichester | 2011 | Active
+Mercator IT Solutions LTD | London, England | 2012 | Active
+Mercator IT Solutions Ltd | United Kingdom, London | 2007 | Dormant
+Merchantcentral | United States, Fl, West Palm Beach | 2001 | Dormant
+Merit Network | 48104, MI, Ann Arbor | 2010 | Inactive
+Message Logix | United States, New York, White Plains | 2007 | Dormant
+Message Systems | United States, MD, Columbia | 2009 | Inactive
+Message Systems, Inc. | United States, MD, Columbia | 2008 | Dormant
+MessageLabs | United Kingdom, Gloucestershire, Gloucester | 2006 | Dormant
+MessageLabs UK | United Kingdom, Gloucestershire, UK, Gloucester / Bristol | 2006 | Dormant
+Messaglabs | United Kingdom, Gloucester | 2007 | Dormant
+MetaCarta, Inc. | United States, MA, Cambridge | 2001 | Dormant
+Metarhythm, Inc. | United States, NY, Midtown New York | 2006 | Dormant
+Metatron Technology Consulting | United States, WA, Chelan | 2007 | Dormant
+Meteorologisk institutt | Oslo, Norway | 2013 | Active
+Michael Bailey Associates | Belgium | 2012 | Active
+Michael C. Fina | Long Island City, Queens, NY, USA | 2013 | Active
+Michael C. Fina Company | United States, NY, Long Island City | 2008 | Dormant
+Michigan State University | United States, MI, East Lansing | 2010 | Inactive
+MicroAgility | United States, New Jersey, Mt. Laurel | 2009 | Inactive
+Microcom | United Kingdom, London | 2007 | Dormant
+Micron Technology Inc. | United States, VA, Manassas | 2010 | Inactive
+Microoffice  | Undefined | 2010 | Inactive
+Microstar | U.S., FL, Tampa | 2003 | Dormant
+Midland Search Partners | United States, NY, Manhattan | 2009 | Inactive
+Midwest Consulting Group | Dallas, TX | 2012 | Active
+Midwestern University | United States, Illinois, Downers Grove | 2009 | Inactive
+Migvan Effect | Israel, Sderot | 2006 | Dormant
+Millennium Concepts INC | United States, New Jersey, Jersey City or Somerset | 2008 | Dormant
+Millennium Consulting | United States, Maine, Portland | 2004 | Dormant
+Millennium Personnel Ltd | United Kingdom, London | 2006 | Dormant
+Millions Forever, LLC | United States, Tennenesse, Memphis | 2010 | Inactive
+Mimecast | England , London, Kings Cross, London | 2010 | Inactive
+Mimox Kft | Hungary, Budapest | 2008 | Dormant
+Mimox Ltd | Hungary, Budapest | 2009 | Inactive
+Mind-X Solutions Sdn Bhd | Malaysia, Malaysia, Cyberjaya | 2004 | Dormant
+MindSeekers | United States, WA, Bellevue | 2001 | Dormant
+MindSource | CA, Mountain View | 2008 | Dormant
+MindSource Inc. | United States, CA, Mountain View | 2004 | Dormant
+MindSource Software Engineers | United States, CA, San Jose | 2003 | Dormant
+MindSource, Inc. | United States, CA, Mt. View | 2003 | Dormant
+Mindbrix | United States, TX, Keller/Fort Worth | 2008 | Dormant
+Mindcast | United States, WA, Mill Creek | 2006 | Dormant
+Mindcast Software | United States, Washington, Mill Creek | 2008 | Dormant
+Mindcast Software (Recruiting Agency) | United States, MI, Farmington Hills | 2004 | Dormant
+Mindimage | United States, ID, Boise | 2007 | Dormant
+MindsIsland | United States, NY, New York | 2002 | Dormant
+Mindshare Interactive Campaigns | United States, MA, Boston | 2006 | Dormant
+Mindsource | United States, California, San Jose, | 2006 | Dormant
+Mindsource, Inc. | United States, CA, San Jose | 2002 | Dormant
+Mindworx People | Australia, Queensland, Brisbane | 2006 | Dormant
+Minek Inc. | Canada, BC, Vancouver | 2006 | Dormant
+Mintlab B.V. | Amsterdam, Netherlands | 2012 | Active
+MiraLink | United States, Oregon, Portland | 2005 | Dormant
+MiraLink corporation | United States, OR, Portland | 2007 | Dormant
+Mirabeau | The Netherlands, Amsterdam | 2006 | Dormant
+Miranet | United States, California, San Jose | 2004 | Dormant
+Miranet, Inc. | United States, CA, San Francisco | 2007 | Dormant
+Misys/Payerpath | Tx, Austin | 2006 | Dormant
+Mitchell Martin | Baltimore, MD | 2013 | Active
+Mitchell Martin Inc. | United States, IL, Chicago | 2012 | Active
+Mitchell/Martin Inc. | United States, IL, Chicago | 2009 | Inactive
+MoMac | Netherlands, Zuid, Rotterdam | 2008 | Dormant
+MoMac B.V. | Netherlands, Rotterdam | 2006 | Dormant
+MoMac bv | The Netherlands/United Kingdom, Rotterdam/London | 2007 | Dormant
+Mobile Content Provider | United Kingdom, London | 2007 | Dormant
+Mobile Watermark GmbH | Germany, Schleswig-Holstein, Ahrensburg | 2005 | Dormant
+Mobilito Media | United States, IL, Chicago (Bucktown) | 2006 | Dormant
+Mochanin | Bulgaria, USA, California, Sofia, San Jose | 2008 | Dormant
+ModernFeed | United States, CA, Los Angeles | 2009 | Inactive
+Modis | United States, NY, New York | 2007 | Dormant
+Modis  | United States, Florida, Boca Raton | 2008 | Dormant
+Modis Consulting | United States, New Hampshire, Merrimack | 2005 | Dormant
+Modis IT | United States, FL, Boca Raton (West Palm Beach County) | 2008 | Dormant
+Monarch Recruitment | United Kingdom, Oxford | 2009 | Inactive
+Monash University | Australia, Victoria, Melbourne | 2009 | Inactive
+Monk Development, Inc. | San Diego, CA | 2012 | Active
+Monster | United States, California, Los Angeles | 2005 | Dormant
+MonsterTRAK | United States, California, Los Angeles | 2005 | Dormant
+Montana Interactive | 59601, MT, Helena | 2006 | Dormant
+Montana Interactive, LLC | United States, Montana, Helena | 2007 | Dormant
+Montserrat Volcano Observatory | St. Johns, Antigua | 2012 | Active
+Moonfruit | United Kingdom, London | 2007 | Dormant
+Moonfruit.com | United Kingdom, London, London | 2011 | Active
+Moonlight BPO | Bend Oregon | 2011 | Active
+Morgan Hunter | United States, MO, Kansas City | 2005 | Dormant
+Morgan Stanley | United States, NY, New York City - Downtown | 2010 | Inactive
+Morgunblaðið | Iceland, Reykjavik | 2007 | Dormant
+Mortgage Desk, Inc. | United States, IL, Chicago | 2006 | Dormant
+Moss Search | United States, IL, Chicago | 2004 | Dormant
+Moss Search, LTD | United States, IL, Chicago | 2006 | Dormant
+Mount Recruitment Limited | United Kingdom, Derbyshire | 2007 | Dormant
+Mountain News | United States, CA, Orinda | 2006 | Dormant
+Mountain News Corp. | United States, Ca, Orinda | 2010 | Inactive
+Mountain News Corporation | United States, CA, Orinda | 2007 | Dormant
+Mountain News Corporation, Vail Resorts | United States, CO, Broomfield | 2011 | Active
+Move | Los Angeles | 2012 | Active
+Moving Interactive | Undefined | 2013 | Active
+Mozilla Corporation | United States, CA, Mountain View | 2006 | Dormant
+Mullangi Technologies | India, Andhra Pradesh, Visakhapatnam | 2006 | Dormant
+Mullangi Technologies Pvt. Ltd | India, Andhra Pradesh, Visakhapatnam | 2007 | Dormant
+Multi Service | United States, Kansas, Overland Park | 2006 | Dormant
+Multi Service  | United States, KS, Overland Park | 2009 | Inactive
+Multi Service Corp. | United States, Kansas, Overland Park | 2006 | Dormant
+Multi Service Corporation | United States, Kansas, Overland Park | 2012 | Active
+Multimap | United Kingdom, London | 2006 | Dormant
+Multimap.com | Turkey, Istanbul | 2008 | Dormant
+Multinational Bank | Singapore, Singapore | 2008 | Dormant
+Multiple Confidential Companies | Greater Toronto Area | 2011 | Active
+Multiply | United States, Florida, Boca Raton | 2006 | Dormant
+Multiply, Inc. | United States, Florida, Boca Raton | 2011 | Active
+Multiply.com | United States, FL, Boca Raton | 2006 | Dormant
+Musician's Friend, Inc. | United States, Oregon, Medford | 2005 | Dormant
+MyCity Networks | United States, FL, Miami | 2002 | Dormant
+MyGuides Ltd | United Kingdom, London | 2007 | Dormant
+MySQL | United States, California, Cupertino | 2005 | Dormant
+MySQL AB | Sweden, Uppsala | 2005 | Dormant
+MyTrip LLC | Telecommute | 2006 | Dormant
+N/A | United States, WA, Seattle | 2011 | Active
+NA | MI, Novi | 2011 | Active
+NAPC | United States, ma, Waltham | 2004 | Dormant
+NCCI | Boca Raton, FL, UNITED STATES | 2013 | Active
+NCsoft | United States, Texas, Austin | 2009 | Inactive
+NEC Europe Ltd | United Kingdom, Acton, London | 2007 | Dormant
+NEDSTAT | The Netherlands, Amsterdam | 2005 | Dormant
+NEOPOST Loop One | United States, TX, austin | 2006 | Dormant
+NET-A-PORTER | United Kingdom, London | 2012 | Active
+NET-A-PORTER  | This role is based in our Head Office in W12.   | 2011 | Active
+NET-A-PORTER.COM | UK , Londnon | 2009 | Inactive
+NET-A-PORTER.COM  | London  | 2010 | Inactive
+NETPIXEL | United States, NY, New York | 2006 | Dormant
+NETbuilder | Swindon, Wiltshire, UK | 2012 | Active
+NEW YORK UNIVERSITY | United States, NY, NEW YORK | 2006 | Dormant
+NEWTEC | BELGIUM, OOST VLAANDEREN, SINT NIKLAAS | 2006 | Dormant
+NHBS Environment Bookstore | United Kingdom, Devon, Totnes | 2005 | Dormant
+NIH/SAIC-Frederick | United States, Maryland, Frederick | 2006 | Dormant
+NSA Search | USA, CA, San Diego | 2007 | Dormant
+NSK Inc.  | MA, Boston | 2008 | Dormant
+NSOMedia | United States, Texas, Houston | 2008 | Dormant
+NTA Monitor (M) Sdn Bhd | Malaysia, Bukit Jalil, Kuala Lumpur | 2008 | Dormant
+NTA Monitor Ltd | United Kingdom, Kent, Rochester | 2009 | Inactive
+NTA-Monitor | United Kingdom, Kent, Rochester | 2005 | Dormant
+NTT / Verio | United States, FL, Boca Raton | 2005 | Dormant
+NTT / Verio, Inc. | United States, FL, Boca Raton | 2006 | Dormant
+NTT America | United States, TX, Dallas | 2011 | Active
+NTT DATA | Princeton, NJ, USA | 2012 | Active
+NTT Europe | United Kingdom, London / Cornwall, London / Cornwall | 2010 | Inactive
+NTT Multimedia Communications Laboratories, Inc. | United States, CA, Palo Alto | 2006 | Dormant
+NTT/Verio | United States, FL, Boca Raton | 2007 | Dormant
+NUS Consulting | Australia, NSW, Sydney | 2008 | Dormant
+NVIDIA | United States, CA, Santa Clara | 2010 | Inactive
+NVIDIA GRAPHICS PVT LTD. | Bangalore, Karnataka, India | 2013 | Active
+NVIDIA Graphics Pvt Ltd | India, Karnataka, Bangalore | 2012 | Active
+NYC Human Resources Administration | United States, NY, BROOKLYN | 2006 | Dormant
+NYC Software firm | New York, NY, USA | 2012 | Active
+NYITRECRUIT | United States, CT, Stamford | 2008 | Dormant
+Naama Networks | United States, NY, Brooklyn | 2010 | Inactive
+Nami Media | United States, CA, Los Angeles | 2012 | Active
+Nando Media | United States, NC, Raleigh | 2004 | Dormant
+Napster | United States, CA, Los Angeles & San Diego | 2009 | Inactive
+National Adult Literacy Database Inc. (NALD) | Canada, New Brunswick, Fredericton | 2007 | Dormant
+National Auto Sport Association | United States, CA, Richmond | 2007 | Dormant
+National Fitness | United States, UT, Layton | 2013 | Active
+National Institue on Aging (NIH) | United States, MD, Baltimore | 2009 | Inactive
+National Institute on Aging (NIH) | Baltimore, MD | 2011 | Active
+National Public Radio | United States, District of Columbia, Washington | 2006 | Dormant
+Nature Publishing Group | New York, NY | 2013 | Active
+Navicom Inc. | Canada, Ontario, Markham | 2003 | Dormant
+Nayland Group | United States, Maryland, Montgomery County | 2002 | Dormant
+Nebtrex Distribution | Australia, Queensland, Brisbane | 2008 | Dormant
+Nedstat | Netherlands, Noord Holland, Amsterdam | 2006 | Dormant
+Neitzert | Sweden, Västmaland, Västerås  | 2011 | Active
+NeoNova Network Services | United States, North Carolina, Raleigh/RTP | 2001 | Dormant
+NeoReality, Inc. | United States, FL, Fort Myers | 2007 | Dormant
+Neohire.com | Remote or Santa Monica, Ca | 2013 | Active
+Nerds On Site | Canada, Ontario, Toronto | 2007 | Dormant
+Nesco Resource | United States, CA, Campbell | 2005 | Dormant
+Net Affinity | Ireland, Dublin, Dublin | 2008 | Dormant
+Net Affinity Limited | Ireland, Dublin, Dublin | 2004 | Dormant
+Net Natives | United Kingdom, London | 2010 | Inactive
+Net Stores | United Kingdom, Newcastle upon Tyne | 2008 | Dormant
+Net Stores Ltd | UK,  | 2008 | Dormant
+Net-A-Porter Group Ltd | W12, London, United Kingdom | 2012 | Active
+Net2Business, llc | United States, Kansas, Overland Park | 2008 | Dormant
+Net2Business,llc | United States, Kansas, Overland Park | 2005 | Dormant
+NetAPP  | United States, NC, RTP | 2010 | Inactive
+NetApp | United States, NC, RTP | 2010 | Inactive
+NetBanx Limited | United Kingdom, Cambridge | 2008 | Dormant
+NetBanx Ltd | United Kingdom, Cambridgshire, Cambridge | 2007 | Dormant
+NetCentral | United States, TN, Nashville | 2007 | Dormant
+NetCentral, Inc. | United States, TN, Nashville | 2002 | Dormant
+NetChemistry | United States, CA, Newport Beach | 2007 | Dormant
+NetCore Solutions  | Mumbai, Maharashtra, Mumbai | 2008 | Dormant
+NetEffects | United States, Missouri, St. Louis | 2002 | Dormant
+NetLine Corporation | United States, California, Boulder Creek | 2005 | Dormant
+NetMark Intl. | United States, n/a, n/a | 2001 | Dormant
+NetMarkPro International | United States | 2007 | Dormant
+NetNames | Texas, Dallas | 2003 | Dormant
+NetPixel Inc. | United States, NY, New York | 2006 | Dormant
+NetShelter, Inc. | Canada, Ontario, Toronto | 2005 | Dormant
+NetSlave GmbH | Germany, 10437 Berlin | 2008 | Dormant
+NetStores | United States, OR, Eugene | 2013 | Active
+NetSuite | Brno, Czech Republic | 2011 | Active
+NetSuite / OpenAir | United States, MA, Boston | 2010 | Inactive
+NetTrust | United States, MD, Baltimore | 2008 | Dormant
+NetTrust Logistics | United States, MD, Baltimore | 2004 | Dormant
+NetTrust, Inc | United States, MD, Baltimore | 2004 | Dormant
+NetTrust, Inc. | United States, MD, Baltimore | 2004 | Dormant
+Netblue, Inc. | United States, CA, Mountain View | 2005 | Dormant
+Netcentric Computer Solutions | UNITED STATES - Remote Work into NYC | 2011 | Active
+Netcom Information Technology | United States, NY, New York | 2005 | Dormant
+Netcraft | United Kingdom, Somerset, Bath | 2007 | Dormant
+Neteffekt e.K. | Germany, Saarland, Saarbrücken | 2003 | Dormant
+Netflix | United States, CA, Los Gatos | 2011 | Active
+Netmark International | United States, Alaska, Anchorage | 2003 | Dormant
+Netmark Intl. | United States, Alaska, Anchorage | 2002 | Dormant
+Netmarkpro Global | United States, n/a, n/a | 2004 | Dormant
+Netpixel Inc | United States, NJ, New Providence | 2010 | Inactive
+Netpixel Inc. | United States, New Jersey, Warren | 2005 | Dormant
+Netrition, Inc. | United States, MD, Eldersburg | 2011 | Active
+Netrition.com | Eldersburg, MD | 2012 | Active
+Netspace | Australia, VIC, Melbourne | 2009 | Inactive
+Netspace Online Systems Pty Ltd | Australia, Victoria, Melbourne | 2003 | Dormant
+Netspective Communications LLC | United States, DC, Washington | 2003 | Dormant
+Netsuite | Brno, Czech Republic | 2012 | Active
+Nettrust | United States, MD, Baltimore  | 2009 | Inactive
+Nettrust Engineering | United States, MD, Baltimore | 2004 | Dormant
+Netvision Resources Inc | United States, VA, Chantilly | 2006 | Dormant
+Netvision Resources Inc. | Fairfax, VA, Herndon | 2006 | Dormant
+Network Appliance | United States, CA, Sunnyvale | 2007 | Dormant
+Network Diagnostic Clinic | United States, IL, Palatine | 2001 | Dormant
+Network Dynamics | United States, CA, Los Angeles | 2005 | Dormant
+Network Dynamics Corp | United States, California, Santa Monica | 2004 | Dormant
+Network Security Company | United States, CA, San Jose | 2007 | Dormant
+Network Solutions | Berkshire Way, UK | 2012 | Active
+New England Interactive | United States, RI, Providence | 2002 | Dormant
+New Generation Media, LLC | United States, CA, Santa Rosa | 2002 | Dormant
+New Haven Progress | United States, CT, New Haven | 2005 | Dormant
+New Internationalist | United Kingdom, Oxon, Oxford | 2012 | Active
+New Millennium Inc | United States, Virginia, Vienna | 2001 | Dormant
+New Vibrations | Portugal, Lisbon, Lisbon | 2009 | Inactive
+New York Magazine | United States, NY, New York | 2007 | Dormant
+New York Media (New York Magazine | United States, NY, New York | 2008 | Dormant
+NewGen Technologies | United States, VA, Tysons Corner | 2010 | Inactive
+Newcastle Infotech | Australia, New South Wales, Newcastle | 2006 | Dormant
+News | United States, NY, New York | 2007 | Dormant
+News & Observer/Triangle.com | United States, NC, Raleigh | 2007 | Dormant
+News Digital Media | Australia, NSW, Sydney | 2010 | Inactive
+News Interactive | Australia, NSW, Sydney | 2006 | Dormant
+NewsNow Publishing Limited | United Kingdom, UK, London, South West London | 2008 | Dormant
+NexStar | United States, TX, Dallas | 2004 | Dormant
+Nexgen Wireless, Inc. | Schaumburg, IL | 2013 | Active
+Next Internet LLC | United States, CA, Mountain View | 2006 | Dormant
+Next Wave LLC | United States, WI, Madison | 2005 | Dormant
+NextEd Pty Ltd. | Australia, New South Wales, Sydney | 2004 | Dormant
+NextNine | United States, NY, New York | 2005 | Dormant
+Nextrials | United States, California, San Ramon | 2008 | Dormant
+Nextrials, Inc | United States, CA, San Ramon | 2010 | Inactive
+Nextrials, Inc. | United States, CA, San Ramon | 2008 | Dormant
+Nexus Business Media | United Kingdom, Kent, Swanley | 2007 | Dormant
+Nexus Media Communications | United Kingdom, Kent, Swanley | 2005 | Dormant
+Nexus Media Communications Ltd | United Kingdom, Kent, Swanley | 2006 | Dormant
+Nexus6 Software PTY LTD | Australia, Vic, Fitzroy, Melbourne | 2007 | Dormant
+Niche Consulting | india, TN, chennai | 2004 | Dormant
+Nick Temple | United States, Kentucky, Louisville | 2005 | Dormant
+Nicolary and Associates LLC | United States, PA, Philadelphia | 2004 | Dormant
+Nicoll Curtin - Andrew Johnstone - 0207 3970191 | London, UK ( City of London ) | 2011 | Active
+Nicoll Curtin Technology | United Kingdom, London | 2009 | Inactive
+Niconetworks.com | United States, DC, Washington | 2008 | Dormant
+Nielsen Business Media | United States, New York, New York City | 2010 | Inactive
+Night Kitchen Media | United States, PA, Philadelphia | 2005 | Dormant
+Nimble Storage | San Jose, CA | 2012 | Active
+Nitro | Australia, New South Wales, Sydney | 2006 | Dormant
+Nixle.com | United States, CA, San Francisco | 2008 | Dormant
+Nixus Soluções em Internet | Brazil, SP, São Paulo | 2009 | Inactive
+Noble Vision | United States, VA, Manassas | 2008 | Dormant
+None yet | United States, California, Palo Alto | 2010 | Inactive
+NorCa | Germany, Berlin, Berlin | 2006 | Dormant
+Norchem | Flagstaff, AZ, USA | 2012 | Active
+Norchem Drug Testing | United States, AZ, Flagstaff | 2010 | Inactive
+Norchem Labs, Inc. | Flagstaff, AZ | 2012 | Active
+Normandeau Associates Inc | Gainesvile, FL | 2012 | Active
+Northwestern University | United States, Illinois, Chicago | 2005 | Dormant
+Not Applicable | Guatemala, Solola, San Pedro | 2011 | Active
+Not Disclosed | United Kingdom, London | 2007 | Dormant
+Not disclosed | United States, Arizona, tucson | 2008 | Dormant
+Novate IT | United Kingdom, Lincoln | 2009 | Inactive
+Novate IT Ltd | United Kingdom, London | 2006 | Dormant
+Novator | canada, Ontario, Toronto | 2004 | Dormant
+Novator Systems | Canada, Ontario, Toronto | 2007 | Dormant
+Novator Systems Ltd | Canada, Ontario, Toronto | 2008 | Dormant
+Novator Systems Ltd. | Canada, Ontario, Toronto | 2007 | Dormant
+Novozymes | Bagsværd, København, Denmark | 2012 | Active
+Novozymes A/S | Denmark, Bagsvaerd / Copenhagen | 2012 | Active
+Novus | United States, NY, New York | 2008 | Dormant
+Nuance Communications | Canada, Quebec, Montreal | 2006 | Dormant
+Nulinx | United States, California, Sherman Oaks | 2009 | Inactive
+Nulinx International Inc. | Tarzana, CA, United States | 2012 | Active
+Nulinx It'l Inc. | United States, California, Los Angeles | 2005 | Dormant
+Numara Software | United States, NJ or FL, Edison or Tampa | 2010 | Inactive
+NumbersUSA | United States, NY, Corning | 2008 | Dormant
+Numedeon, Inc. Whyville.net | United States, California, Pasadena | 2005 | Dormant
+Numentica LLC | United States, CA, Sherman Oaks | 2009 | Inactive
+Nuventure Technology Solutions Pvt Ltd | Kochi, India | 2013 | Active
+Nvidia | United States, CA, Santa Clara | 2011 | Active
+O'Neil & Associates | United States, OH, Miamisburg | 2008 | Dormant
+O'Neil & Associates, Inc | United States, OH, Miamisburg | 2003 | Dormant
+O'Neil & Associates, Inc. | United States, OH, Miamisburg | 2005 | Dormant
+O'Neil and Associates | United States, OH, Miamisburg | 2008 | Dormant
+O'Reilly & Associates | United States, CA, Sebastopol | 2004 | Dormant
+O'Reilly & Associates, Inc. | United States, CA, Sebastopol | 2003 | Dormant
+O'Reilly Media, Inc. | United States, CA, Sebastopol | 2004 | Dormant
+O'Reilly School of Technology | United States, MO, Saint Louis (Telecommute OK) | 2011 | Active
+O.P.S | India, Karnataka, Bangalore | 2010 | Inactive
+OANDA | Canada, Ontario, Toronto | 2011 | Active
+OANDA (Canada)  Corporation ULC | Canada, Ontario, Toronto | 2010 | Inactive
+OANDA Corp Canada | Toronto, ON - King St W & Peter St | 2012 | Active
+OANDA Corporation | Canada, Ontario, Toronto | 2006 | Dormant
+ODS Group | Ukraine, Kyiv, Kyiv | 2005 | Dormant
+ODYC Tech | United States, UT, Salt Lake City | 2005 | Dormant
+ODesk | Redwood City, CA | 2013 | Active
+OK Serivces | United States, Tennessee, Knoxville | 2008 | Dormant
+OMSOFT Network Technologies, Inc. | United States, CA, Sunnyvale | 2001 | Dormant
+OND Inc | United States, or, portland | 2009 | Inactive
+ONSITE! Technology | United States, OR, Portland | 2002 | Dormant
+ORACLE India Pvt. Ltd. | INDIA, Andhra Pradesh, Hyderabad | 2006 | Dormant
+ORION Scientific System | United States, NC, Fayetteville | 2003 | Dormant
+ORION Scientific Systems | United States, NC, Fayetteville | 2003 | Dormant
+OSATech | Boxborough, MA, USA | 2012 | Active
+OSF Global Services | Romania | 2012 | Active
+OSL | London - United Kingdom | 2013 | Active
+OSLO Ltd | Ireland, Dublin | 2010 | Inactive
+OSMIS | United Kingdom, North Yorkshire, Harrogate | 2001 | Dormant
+OSMIS Ltd | England, UK, North Yorkshire, Harrogate | 2003 | Dormant
+OSP | United Kingdom, London, UK | 2002 | Dormant
+OSS | United States, CA, Belmont | 2012 | Active
+OSS (Recruiter) | United States, NY, New York | 2006 | Dormant
+OSS (client) | United States, MA, Boston | 2007 | Dormant
+OSS Client | United States, UT, Park City | 2006 | Dormant
+OST | United States, NJ, Jersey City | 2002 | Dormant
+OTM Software Professionals, Inc. | United States, Ca, San Jose | 2004 | Dormant
+OTRS AG | Bad Homburg | 2012 | Active
+OTRS BV | Leiden, The Netherlands | 2012 | Active
+OTRS GmbH | Germany, Bad Homburg/Straubing | 2007 | Dormant
+OVERLOG | Italy, Udine, Buttrio | 2008 | Dormant
+OWN: The Oprah Winfrey Network | United States, CA, Los Angeles | 2010 | Inactive
+OZ Capital | 10019, NY, New York | 2007 | Dormant
+Oakbox Productions | Netherlands, Breda | 2004 | Dormant
+Oakley, Inc. | United States, CA, Foothill Ranch (south orange county) | 2001 | Dormant
+Oasys Consulting  | Canada, Northern Ontario | 2010 | Inactive
+Oasys Soft | Spain, Catalunya, Barcelona | 2006 | Dormant
+Object Resources Inc | United States, WA, Seattle | 2003 | Dormant
+Object Resources, Inc | United States, WA, Seattle | 2003 | Dormant
+Obtiva Corporation | United States, IL, Wheaton | 2007 | Dormant
+Ocarina Networks | United States, CA, San Jose  | 2008 | Dormant
+Ocarina Networks, Inc. | United States, CA, San Jose | 2007 | Dormant
+OctoGate Security Systems GmbH | Germany, NRW, Paderborn | 2011 | Active
+Oddesse, Inc | United States, CA, Chatsworth | 2007 | Dormant
+Odesus | United States, CA, West LA | 2004 | Dormant
+Odyssey Consulting | United States, DE, Newark | 2006 | Dormant
+Odyssey Consulting Services | United States, OH, Columbus | 2006 | Dormant
+Odyssey Information Services | Columbus, OH | 2012 | Active
+Odyssey Information Services, Inc. | FL, Tampa | 2003 | Dormant
+Odysseyconsulting | United States, Ohio, Columbus | 2006 | Dormant
+Ohio State Bar Association | United States, OH, Columbus | 2006 | Dormant
+Old Colony LIbrayr Network | United States, MA, Braintree | 2006 | Dormant
+Olenick & Associattes | United States, IL, Rosemont | 2008 | Dormant
+Olreston Associates  | United Kingdom, UK, London | 2010 | Inactive
+Olympic Software | United States, New York, New York | 2010 | Inactive
+Omni Resources | United Kingdom, London | 2005 | Dormant
+Omni Resources Limited | Surrey | 2006 | Dormant
+OmniTI | United States, MD, Columbia | 2012 | Active
+OmniTI Computer Consulting | United States, NY, Brooklyn | 2008 | Dormant
+OmniTI Computer Consulting, Inc. | United States, NY, Brooklyn | 2011 | Active
+Omnicom Media Group UK | London, UK | 2012 | Active
+Omniti Computer Consulting | United States, MD, Columbia | 2006 | Dormant
+On Track Projects | Australia, Queensland, Brisbane | 2009 | Inactive
+On-to-One Staffing, Inc. | United States, CA, San Francisco | 2006 | Dormant
+Ondova Ltd. | United States, TX, Carrollton | 2007 | Dormant
+One Step Beyond | United States, Colorado, Denver | 2002 | Dormant
+One of the Global Top 5 IT Consulting Firms | INDIA | 2003 | Dormant
+OneUpWeb | United States, Michigan, Lake Leelanau | 2006 | Dormant
+Oneil & Associates | United States, Ohio, Miamisburg | 2006 | Dormant
+Oneupweb | United States, Michigan, Traverse City | 2010 | Inactive
+Oneupweb, LLC | United States, MI, Suttons Bay | 2004 | Dormant
+Online Advertising Client | United States, NY, New York | 2006 | Dormant
+Online Galleries | United Kingdom, London | 2008 | Dormant
+Online Galleries Ltd | United Kingdom, Bedford | 2012 | Active
+Online Galleries Ltd. | United Kingdom, London, London | 2006 | Dormant
+Online Networking Company | United States, CA, San Francisco | 2007 | Dormant
+Online Solutions Limited | Hungary, Budapest | 2007 | Dormant
+Online Talent Manager | The Netherlands, Breda | 2010 | Inactive
+Onsight | United States, IL, Chicago | 2005 | Dormant
+Ontri.com | MA, Boston | 2004 | Dormant
+Onward Technologies | United States, WI, Madison | 2006 | Dormant
+Oodle | United States, CA, San Mateo | 2005 | Dormant
+Oodle, Inc.  | United States, California, San Mateo | 2008 | Dormant
+Oortle Inc. | United States, CA, Berkeley | 2010 | Inactive
+Open Data Resources | Northern Virginia | 2011 | Active
+Open Informatics | India, Karnataka, Bangalore | 2003 | Dormant
+Open Interface North America | United States, Washington, Seattle | 2007 | Dormant
+Open List, Inc. | United States, N.Y., New York | 2005 | Dormant
+Open Mortgage | Austin, TX, United States | 2013 | Active
+Open Network Design | United States, CA, LA | 2007 | Dormant
+Open Select Recruitment | London, United Kingdom | 2013 | Active
+Open Select Recruitment (www.osrecruit.com) | United Kingdom, London | 2011 | Active
+Open Select Recruitment / www.osrecruit.com | London, United Kingdom | 2012 | Active
+Open Select Recruitment | www.osrecruit.com | London, United Kingdom | 2013 | Active
+Open Select Recruitment | www.osrecruit.com  | United Kingdom, London | 2011 | Active
+Open Source Consulting, LLC | United States, CA, San Jose | 2005 | Dormant
+Open Source People | United Kingdom, London | 2001 | Dormant
+Open Source People Ltd | United Kingdom, UK, London | 2002 | Dormant
+Open Source Staffing | United States, NY, New York | 2006 | Dormant
+Open Source Staffing (client) | United States, NJ, Marlboro | 2007 | Dormant
+Open Systems | United States, MA, Andover | 2007 | Dormant
+Open Systems Technologies | United States, NJ, Jersey City | 2006 | Dormant
+OpenAir | United States, MA, Boston | 2007 | Dormant
+OpenAir Inc. | United States, MA, Boston | 2008 | Dormant
+OpenCrypt.com | United Kingdom, Suffolk | 2004 | Dormant
+OpenCrypt.com (ionix Limited) | United Kingdom, Suffolk, Woodbridge | 2006 | Dormant
+OpenVS | Australia, Queensland, Brisbane | 2003 | Dormant
+OpenX | Pasadena, CA | 2012 | Active
+Opera Software | Sweden, Gothenburg | 2010 | Inactive
+Opera Software ASA | Norway, Oslo, Oslo | 2012 | Active
+Opsera Limited | United Kingdom, Reading | 2011 | Active
+Opsview | Reading, Berkshire, United Kingdom | 2012 | Active
+Opsview Limited | Reading, Berkshire, UK | 2013 | Active
+Opsview Ltd | Reading, Berkshire, United Kingdom | 2012 | Active
+Opsware | United States, WA, Redmond | 2007 | Dormant
+Opsware, Inc. | United States, Washington, Redmond | 2007 | Dormant
+Opta Sportsdata | England, United Kingdom, London | 2005 | Dormant
+Optimal Solutions Integration | United States, Texas, Irving | 2004 | Dormant
+Optimize My Site | United States, UT, Salt Lake City | 2005 | Dormant
+Optimum Solutions | Pune - India | 2012 | Active
+Optimum Solutions (S) Pte Ltd  | Singapore, Singapore | 2008 | Dormant
+Optimum Solutions (S) Pte Ltd., | Singapore, Singapore | 2009 | Inactive
+Optimum Solutions Pte Ltd | Singapore, Singapore | 2008 | Dormant
+Optimus Search | Germany, Netherlands, Belgium, Luxembourg | 2013 | Active
+Optimus Search on Behalf of Global Internet Client | North Germany | 2012 | Active
+Optus | Australia, NSW, Sydney | 2004 | Dormant
+Optus Internet Engineering | Australia, NSW, Chatswood | 2006 | Dormant
+Opus Healthcare Solutions | United States, TX, Austin | 2008 | Dormant
+Opus Healthcare Solutions, Inc. | United States, Texas, Austin | 2007 | Dormant
+Opus Healthcare Soultions | United States, Texas, Austin | 2002 | Dormant
+Opus Resourcing (Employment Agency) | UK , London  | 2010 | Inactive
+OpusVL | Rugby, United Kingdom | 2012 | Active
+Oracle | United States, CA, Redwood Shores | 2011 | Active
+Oracle Corporation | United States, CA, Redwood Shores | 2003 | Dormant
+Oracle India Pvt Ltd | INDIA, KARNATAKA, BANGALORE | 2006 | Dormant
+Oracle Software India | India, Andhra Pradesh, Hyderabad | 2006 | Dormant
+Orastaff | United States, California, San Mateo (Bay area) | 2009 | Inactive
+Orasys Solutions, Inc. | United States, NY, New York | 2002 | Dormant
+Orbis Resourcing | London | 2007 | Dormant
+Orchestream | United Kingdom, Middx, London | 2002 | Dormant
+Orchesys, Inc. | United States, CA, Sunnyvale | 2008 | Dormant
+Orelston Associates  | UK , London | 2009 | Inactive
+Oriel Technologies | Australia, NSW, Sydney | 2006 | Dormant
+Orinoco KK | Japan, Tokyo | 2008 | Dormant
+Orinoco Systems LLC | Deerfield, IL | 2011 | Active
+Orion Holding Overseas | United Arab Emirates, Dubai, Dubai | 2006 | Dormant
+Orion TradeSoft | United Arab Emirates, Dubai | 2008 | Dormant
+Orion Tradesoft | United Arab Emirates, Dubai | 2008 | Dormant
+Orleston | London | 2008 | Dormant
+Orleston  | Ireland, Limeric | 2008 | Dormant
+Orleston Asociates  | United Kingdom , London  | 2010 | Inactive
+Orleston Assciates  | United Kingdom, London  | 2009 | Inactive
+Orleston Asscociates Ltd. | London, KY, USA | 2011 | Active
+Orleston Assocaites  | United Kingdom, London | 2008 | Dormant
+Orleston Associaiates  | United Kingdom, London | 2010 | Inactive
+Orleston Associates | United Kingdom, London | 2012 | Active
+Orleston Associates  | United Kingdom, London  | 2011 | Active
+Orleston Associates Ltd | United Kingdom, London | 2009 | Inactive
+Orleston Associates Ltd  | United Kingdom , London  | 2011 | Active
+Orleston Associates Ltd. | United Kingdom, London, London | 2013 | Active
+Orleston Associates Ltd.  | United Kingdom UK , London  | 2011 | Active
+Orleston Associates ltd  | UK , London  | 2009 | Inactive
+Oscar Associates | United Kingdom, LONDON | 2008 | Dormant
+Oscar Associates Ltd | United Kingdom, Lancashire, Manchester | 2005 | Dormant
+Our client | France, Paris | 2010 | Inactive
+Outblaze LTD | Hong Kong SAR (China), Hong Kong, Hong Kong | 2006 | Dormant
+Outcome Technologies | United Kingdom, London | 2008 | Dormant
+Outcome Technologies Ltd | England, UK, Holborn, London | 2005 | Dormant
+Outdoor Central | United States, TN, Nashville | 2007 | Dormant
+Outlines West | United States, WA, Bellevue | 2003 | Dormant
+Oversee.Net | United States, CA, Los Angeles | 2004 | Dormant
+Oversee.net | United States, CA, Los Angeles | 2012 | Active
+Overton's, Inc | United States | 2008 | Dormant
+Overture | United States, CA, Pasadena | 2004 | Dormant
+Overture Services, a Yahoo! Company | CA, Pasadena | 2004 | Dormant
+Overture a Yahoo! Company | Ca, Pasadena | 2004 | Dormant
+Overture a Yahoo! company | United States, Ca, Pasadena | 2004 | Dormant
+Overture, Inc | United States, CA, Pasadena | 2003 | Dormant
+Overture, a Yahoo! Company | United States, CA, Pasadena | 2005 | Dormant
+Ovid Technologies/Wolters Kluwer | United States, New York, New York City | 2009 | Inactive
+Oxford & Associates | United States, IL, Chicago | 2011 | Active
+Oxford University Computing Services | United Kingon, Oxford | 2006 | Dormant
+Oxford University Press | United Kingdom, Oxford | 2007 | Dormant
+Oxide.NET Web Hosting | United States, CO, Florissant | 2001 | Dormant
+P J L Systems Ltd | United Kingdom, London | 2007 | Dormant
+P. Murphy & Associates | United States, CA, Los Angeles | 2006 | Dormant
+PA College of Technology | Williamsport, PA, United States | 2013 | Active
+PBDG | United States, NY, new york | 2005 | Dormant
+PBS | United States, VA, Arlington | 2007 | Dormant
+PCD Group | United States, Oregon, Portland | 2010 | Inactive
+PCR Recruitment | United Kingdom, Berkshire, Slough | 2007 | Dormant
+PDA SEARCH AND SELECTION LIMITED  | United Kingdom , London, Wimbledon | 2009 | Inactive
+PDI/DreamWorks Animation | United States, California, Redwood City | 2006 | Dormant
+PDI/DreamWorks Animation, SKG | United States, California, Redwood City  (San Francisco area) | 2005 | Dormant
+PEARSON | United States, MA, Boston | 2009 | Inactive
+PGI Interactive | Canada, BC, Vancouver | 2004 | Dormant
+PGM Staffing Solutions | United Kingdom, Berkshire, Reading | 2004 | Dormant
+PHR | United States, Ney York, New York | 2010 | Inactive
+PIM | United States, CA, Sacramento | 2003 | Dormant
+PIREH/LAMOP (CNRS - UMR 8589) | France, Paris/Villejuif | 2010 | Inactive
+PKSI | United States, IL, Chicago | 2005 | Dormant
+PLATO Learning | United States, CA, San Diego | 2004 | Dormant
+PLAY Method LLC | New York City | 2012 | Active
+PMSI Direct | United States, NJ, Springfield | 2005 | Dormant
+PPS, Inc | United States, WI, Milwaukee Metro  | 2008 | Dormant
+PRA | Melbourne VIC, Australia | 2012 | Active
+PRG | United States, NJ, Secaucus | 2010 | Inactive
+PRIME IT CONSULTING | Portugal, Lisbon, Lisbon | 2008 | Dormant
+PRIMEDIA | United States, NY, New York | 2007 | Dormant
+PROEX Inc. (on behalf of my client in the publishing industry) | Toronto, ON, Canada | 2011 | Active
+PRP LLC | Romania, Cluj, Cluj-Napoca | 2006 | Dormant
+PS Computer Services | United Kingdom, Bradford/Leeds | 2008 | Dormant
+PSC | U.K, London | 2008 | Dormant
+PSM Inc. | United States, CT, Stamford | 2009 | Inactive
+PT Systems | United States, CA, San Francisco | 2008 | Dormant
+PT. Inzpire | Indonesia, DKI Jakarta, Jakarta | 2008 | Dormant
+PT.COM | Portugal, Lisbon | 2006 | Dormant
+Pacific Benefits Group NW | United States, Or, Beaverton | 2002 | Dormant
+Pacific Southwest Research Station, U.S. Forest Service | U.S., California, Arcata | 2001 | Dormant
+Paginas World Wide Web | n/a, n/a, n/a | 2002 | Dormant
+Palm Digital Media | United States, MA, Maynard | 2002 | Dormant
+Palm Inc. | United States, MA, Andover | 2001 | Dormant
+PalmVid.com | United States, CO, Colorado Springs | 2011 | Active
+Panther Consult | Austria, Vienna, Vienna | 2009 | Inactive
+Paradigm Healthcare Services | United States, CA, San Francisco | 2011 | Active
+Paradigma Tecnologico | España, Madrid, Pozuelo de Alarcón | 2008 | Dormant
+Paradigma Tecnológico | Spain, Madrid, Pozuelo de Alarcón | 2008 | Dormant
+Paragon IT | United Kingdom, Bristol | 2002 | Dormant
+Parallel HR | United States, NY, New York City | 2011 | Active
+Parallel HR Solutions | United States, New York, New York | 2012 | Active
+Parallel HR Solutions, Inc. | United States, NY, Manhattan - NY | 2011 | Active
+Parallel Technologies | United States, MN, St. Louis Park | 2004 | Dormant
+Parity Resources | Cardiff | 2012 | Active
+Parker Services | King , WA, Seattle | 2008 | Dormant
+Parker Technical | United States, WA, Seattle | 2008 | Dormant
+Paros Business Partners | United States, OH, Columbus | 2005 | Dormant
+Parus Interactive | United States, IL, Bannockburn | 2007 | Dormant
+Passalong Networks | United States, WA, Seattle | 2008 | Dormant
+Pathmedia | United Kingdom, London | 2005 | Dormant
+Paul May and Asociates | United States, Arizona, Phoenix | 2009 | Inactive
+Paxfire | United States, VA, Sterling | 2008 | Dormant
+Paxfire Inc | United States, VA, Herndon | 2007 | Dormant
+Paxfire, Inc | United States, VA, Herndon | 2005 | Dormant
+Paxfire, Inc. | United States, VA, Sterling | 2011 | Active
+Paxus | Australia, VIC, Melbourne | 2005 | Dormant
+PayQuik, Inc. | United States, PA, Bala Cynwyd | 2006 | Dormant
+Paylocity | United States, IL, Elk Grove Village | 2006 | Dormant
+Peak Internet Solutions | United States, Colorado, Woodland Park | 2003 | Dormant
+Peak Recruit | United States, CA, Bay Area | 2007 | Dormant
+Peapod Studios Inc. | Canada, Alberta, Calgary | 2004 | Dormant
+PearZoo | South Africa, Gauteng, Johannesburg | 2007 | Dormant
+PearZoo Marketing | South Africa, Gauteng, Johannesburg | 2008 | Dormant
+Pearson | United States, MA, Boston | 2009 | Inactive
+Pearson Education | United States, MA, Boston | 2008 | Dormant
+Pearson Learning Technologies | Boston, MA | 2012 | Active
+Pegasus Global | Australia, NSW, Sydney | 2005 | Dormant
+Pegasus Knowledge Solutions Inc. | United States, IL, Schaumburg | 2008 | Dormant
+Pegasus Solutions, Inc. | United States, TX, Dallas | 2008 | Dormant
+Pelican Parts | Torrance, CA | 2013 | Active
+Pencom | United States, NY, NYC | 2007 | Dormant
+Pencom Systems Inc. | United States, NY, New York | 2007 | Dormant
+Pencom Systems Incorporated | United States, NY, New York | 2009 | Inactive
+Pengas LLC | United States, Los-Angeles | 2005 | Dormant
+Pent Net Pty Ltd | Australia, NSW, Sydney | 2005 | Dormant
+Penta | United Kingdom, UK, london | 2006 | Dormant
+Penta Consulting | UK - England, London | 2007 | Dormant
+PentaCan | Canada, ONTARIO, Toronto | 2007 | Dormant
+Penthouse Internet | United States, CA, Sunnyvale | 2008 | Dormant
+Penthouse Media Group, Inc. | United States, New York, New York | 2005 | Dormant
+People Associates Sdn Bhd | Malaysia, Kuala Lumpur, Kuala Lumpur | 2006 | Dormant
+People Direct | United Kingdom, London, London | 2008 | Dormant
+People Direct Recruitment | Engalnd, UK, London | 2007 | Dormant
+People-Direct | United Kingdom, London, London | 2007 | Dormant
+PeopleCO | United Kingdom, West London, London | 2008 | Dormant
+PeopleCo | United Kingdom, London | 2009 | Inactive
+PeopleSeePeople | Brooklyn, NY, USA | 2012 | Active
+PeopleSight | United States, CA, Newport Beach | 2003 | Dormant
+Peoplebank Recruitment | Australia, Victoria, Melbourne  | 2009 | Inactive
+Peregrine Computer Consultants Corp. | United States, Virginia, Fairfax City | 2004 | Dormant
+Peregrine Hardware, Inc. | United States, Virginia, Fairfax City | 2002 | Dormant
+Perfomics | United States, IL, Chicago  (local candidates only) | 2004 | Dormant
+Performance Management Asc | United States, OH, Columbus | 2007 | Dormant
+Performance Resources Corp | United States, NY, New York | 2003 | Dormant
+Performics | United States, IL, Chicago | 2006 | Dormant
+Performics Inc. | IL, Chicago | 2002 | Dormant
+Performics, Inc (A division of DoubleClick) | United States, Illinois, Chicago - Downtown | 2006 | Dormant
+Performics, Inc. | United States, IL, Chicago | 2004 | Dormant
+Periscan LLC | United States, Michigan, Lansing | 2005 | Dormant
+Perl Hunter | United States | 2013 | Active
+Perl Novice | Guatemala, Chiquimula, Esquipulas | 2009 | Inactive
+Perl Recruiters | Philadelphia (Bristol), Pennsylvania | 2013 | Active
+Perl Training Israel | Israel, Modiin | 2003 | Dormant
+PerlCoders Group | United States, FL, Hollywood | 2002 | Dormant
+PerlJobs | Chennai, India | 2012 | Active
+PerlUSA | Canada, Ontario, Mississauga | 2004 | Dormant
+Perlcoders Group | United States, FL, Hollywood | 2002 | Dormant
+Perlcoders Group, Inc | United States, GA, Griffin | 2004 | Dormant
+Permabit | Cambridge MA | 2012 | Active
+Permaworld | Canada, BC, Nelson | 2002 | Dormant
+Perot Systems | United States, MA, Wellesley | 2006 | Dormant
+Perplex City | United Kingdom, London | 2004 | Dormant
+Personal & Family Readiness Division | United States, VA, Quantico | 2006 | Dormant
+Personal Project not associated with a business | Australia, NSW, Sydney | 2002 | Dormant
+Personal and Family Readiness Division, HQMC | United States, VA, Quantico | 2005 | Dormant
+Personalmanagement Blank GmbH | Germany, Bayern, Munich | 2005 | Dormant
+Personnel Resources | United States, Missouri, St. Louis | 2002 | Dormant
+PetaMem | Prague | 2011 | Active
+PetaMem GmbH | Germany, Fürth | 2003 | Dormant
+Petersburg Holding | United States, FL | 2009 | Inactive
+Petfinder.com | United States, NJ, Pittstown | 2006 | Dormant
+PharmaVentures Ltd | United Kingdom, Oxfordshire, Oxford | 2009 | Inactive
+Pharmaceutical | United States, Illinois, Chicago City | 2005 | Dormant
+Phase N | Undefined | 2006 | Dormant
+Phase N Australia | Australia, NSW, Sydney | 2005 | Dormant
+Phase N Australia Pty Ltd | Australia, NSW, Sydney | 2004 | Dormant
+Philips CE | Netherlands, Noord-Brabant, Eindhoven | 2007 | Dormant
+Phoenix Data Systems, Inc. | United States, PA, King of Prussia | 2004 | Dormant
+Phoenix Staff | United States, NV, Las Vegas | 2007 | Dormant
+Phonestack Technologies Pvt Lt. | India, AP, Hyderabad | 2006 | Dormant
+Photo Researchers, Inc. | United States, NY, New York | 2010 | Inactive
+PhotoBox Limited | United Kingdom, London | 2011 | Active
+PhotoByte | Telecommute | 2013 | Active
+Photobox | Paddington, London | 2012 | Active
+Photobox Limited | Paddington, London | 2013 | Active
+Photobox Ltd | United Kingdom, London | 2008 | Dormant
+Photobox.com | United Kingdom, Park Royal, London | 2008 | Dormant
+Photro Photographics | Canada, BC, Parksville | 2011 | Active
+Photronics, Inc. | United States, CT, Brookfield | 2011 | Active
+Pi Yee Press | United States, NV, Las Vegas | 2003 | Dormant
+Picis | United States, Illinois, Rosemont | 2008 | Dormant
+Picis Inc., a division of UnitedHealth Group | 60018, Illinois, Rosemont | 2011 | Active
+Picis, Inc. | United States, IL, Rosemont | 2013 | Active
+Picsel Technologies Ltd. | United Kingdom, Reading, Glasgow or Edinburgh | 2007 | Dormant
+Picsel UK | Scotland, Glasgow | 2010 | Inactive
+Pictage | United States, California, Torrance | 2009 | Inactive
+Pictage.com | United States, CA, Torrance | 2006 | Dormant
+Pictela | United States, NY, New York | 2010 | Inactive
+Pictopia | United States, CA, Emeryville | 2010 | Inactive
+Pictopia.com, Inc. | United States, California, Emeryville, CA (SF-Bay Area) | 2002 | Dormant
+Pictours Inc. | United States, Texas, Austin | 2003 | Dormant
+PictureTrail | United States, CA, Santa Clara | 2007 | Dormant
+Pillar Data Systems | United States, AZ, Tucson | 2011 | Active
+Pilon Management Company (Recruiting) | United States, WA, Seattle / Tukwila, WA | 2008 | Dormant
+Pinnacle Systems Inc | United States, New York, New York City | 2004 | Dormant
+Pinpoint Recruiting | WA, Seattle | 2005 | Dormant
+Pinpoint Recruiting, Inc. | WA, Seattle | 2005 | Dormant
+Pinpoint Resource Group | United States, California, Torrance | 2007 | Dormant
+Pioneer Research Center USA, Inc. (Pioneer Electronics) | United States, CA, San Jose | 2007 | Dormant
+Pioneer Research Center, USA (Pioneer Electronics) | United States, CA, San Jose (North) | 2006 | Dormant
+Pipex Hosting | United Kingdom, London, Heathrow | 2008 | Dormant
+Pirum Systems | United Kingdom, London | 2007 | Dormant
+Pixar Animation Studios | United States, California, Emeryville | 2006 | Dormant
+Pixelmade | Canada, BC, Vancouver | 2009 | Inactive
+Pixicated Design and Print | United States, CA, Redlands, CA - Las Vegas, NV | 2005 | Dormant
+Place Recruiting | United States, NY, Buffalo | 2006 | Dormant
+Placebase | United States, CA, Los Angeles | 2006 | Dormant
+Placement Professionals | United States, CT, Greenwhich | 2009 | Inactive
+Plain Black | United States, WI, Madison | 2011 | Active
+Plain Black Corporation | United States, WI, Madison | 2012 | Active
+Plan-it Hardware | United States, CA, San Francisco | 2007 | Dormant
+Planet 4 IT | Canada, Ontario, Toronto | 2002 | Dormant
+Planet 4IT | Canada, Ontario, Toronto | 2002 | Dormant
+Planet49 Technologies GmbH | Germany, Hessen, Darmstadt or Frankfurt | 2011 | Active
+Platform Staffing Group | United States, NV, Henderson | 2011 | Active
+Platform Trust Team, Amazon.com | United States, WA, Seattle | 2004 | Dormant
+PlatinumTel | Chicago,IL | 2012 | Active
+PlatinumTel Communications | United States, IL, Justice | 2011 | Active
+Playlouder MSP Ltd | United Kingdom, London | 2006 | Dormant
+Plixer International | United States, ME, Sanford | 2010 | Inactive
+Plum Placements Inc. | United States, OPEN/NY, OPEN/NYC | 2011 | Active
+Plus Three | United States, New York, Washington DC | 2005 | Dormant
+Plus Three, LP | Undefined | 2007 | Dormant
+PlusThree LLC | United States, NY, New York | 2005 | Dormant
+Plymouth Rock Assurance | United States, MA, Boston | 2008 | Dormant
+Pobox.com | United States, PA, Philadelphia | 2009 | Inactive
+Points Per Game | United States, NC, Research Triangle Park | 2010 | Inactive
+Polaris Search Network | United States, New York, Manhattan | 2010 | Inactive
+Polaris Search Network, Inc. | United States, NY, New York | 2011 | Active
+Polyvore | Mountain View, CA, USA | 2012 | Active
+Polyvore Inc | United States, CA, mountain view | 2009 | Inactive
+Polyvore Inc. | United States, CA, Mountain View | 2010 | Inactive
+Polyvore, Inc. | Mountain View, CA, USA | 2012 | Active
+Popcorn Web Design | United Kingdom, Essex, Stansted | 2008 | Dormant
+Porta Software Ltd | Ukraine, Kiev | 2004 | Dormant
+Portal Planet | United States, OH, Cincinnati | 2003 | Dormant
+Portu Media & Communications | Norway, Oslo, Oslo | 2008 | Dormant
+Position Marketing Group | Chicago, Austin, Seattle | 2012 | Active
+Posleap, Inc. | United States, FL, Naples | 2006 | Dormant
+Postini | United States, CA, San Carlos | 2006 | Dormant
+Postini Inc. | United States, CA, Redwood City | 2004 | Dormant
+Postini, Inc | United States, CA, Redwood City | 2004 | Dormant
+Postini, Inc. | United States, CA, San Carlos | 2007 | Dormant
+Postini, Inc. (SF Design Associates) | United States, CA, San Carlos | 2006 | Dormant
+Pounce Consulting | United States, CA, Los Angeles | 2002 | Dormant
+Powell's Books | United States, OR, Portland | 2011 | Active
+Powells.com | United States, OR, Portland | 2006 | Dormant
+PrO Unlimited | United States, CA, Burlingame | 2003 | Dormant
+Praetoria Development, Inc. | United States, FL, Miami | 2006 | Dormant
+Pralaya Software Solutions, Inc. | United States, CA, Bay Area | 2006 | Dormant
+Praxway inc. | Canada, Québec, Montréal | 2003 | Dormant
+Precision Dynamics | United States, CA, San Fernando | 2011 | Active
+Precision Recruiting Services Inc. | Canada, Ontario, Toronto - Kitchener - Waterloo | 2008 | Dormant
+Precision Translation Tools | Bangkok, Thailand | 2013 | Active
+Preferred Choice | Colchester, Essex, UK | 2013 | Active
+Preferred IT | United Kingdom, Hampshire, Southampton | 2009 | Inactive
+Preferred Intl | United Kingdom, Hampshire, Southampton | 2003 | Dormant
+Preferred Resources | United States, Missouri, St. Louis | 2007 | Dormant
+Preisvergleich Internet Services AG | AUSTRIA, Vienna, Vienna | 2006 | Dormant
+Preisvergleich Internet Services AG (Geizhals.at) | Austria, Vienna | 2003 | Dormant
+Premier | doesn't matter, doesn't matter, doesn't matter | 2004 | Dormant
+Premier Group | United Kingdom, London | 2010 | Inactive
+Premier IT | United Kingdom, Edinburgh, Edinburgh | 2006 | Dormant
+Premier IT Recruitment | United Kingdom, Edinburgh, Edinburgh | 2006 | Dormant
+Prepress Online | United States, CO, Littleton | 2002 | Dormant
+Presedia | United States, CA, Sunnyval | 2002 | Dormant
+Price Barnett Pty Ltd | Australia, NSW, Sydney | 2006 | Dormant
+PriceGrabber.com | United States, CA, Los Angeles, 90056 | 2009 | Inactive
+PrideStaff | United States, CA, Mountain View | 2007 | Dormant
+Primary Search Management | United States, NY, New York | 2006 | Dormant
+PrimeIT Consulting | Portugal, Lisboa | 2007 | Dormant
+PrimeTel Ltd | Cyprus, Limassol | 2007 | Dormant
+Primedia | United States, NY, New York | 2006 | Dormant
+Primedia Business Magazines & Media | United States, New York, New York | 2004 | Dormant
+Primedia Internet Resources and Technology (PIRT) | United States, NY, New York | 2004 | Dormant
+Primedia, Inc. | United States, NY, New York | 2004 | Dormant
+Primesoft - Soluções em Outsourcing | Portugal, Lisbon | 2007 | Dormant
+Prince, Perelson | United States, Utah, Salt Lake City | 2003 | Dormant
+Princeton Information | United States, NY, New York City | 2010 | Inactive
+Principia Partners LLC | United States, Pennsylvania, Conshohocken | 2007 | Dormant
+Printaform | Australia, Victoria, Melbourne | 2004 | Dormant
+Priority Health | United States, Michigan, Grand Rapids | 2004 | Dormant
+Priority Health Managed Benefits | United States, Michigan, Grand Rapids | 2009 | Inactive
+Private | United States, Florida, Ft. Lauderdale | 2009 | Inactive
+Private Company | United States, NJ, Jersey City | 2002 | Dormant
+Private Contractor | Australia, Queensland, Brisbane | 2003 | Dormant
+Private E commerce | USA 77-110k, New York, NYC | 2008 | Dormant
+Private Individual | Australia, SA, Adelaide | 2002 | Dormant
+Private Investigation Voter Registration Political | Anywhere, Anywhere, Anywhere | 2007 | Dormant
+Private but will be given upon interest from candidate | United States, MA, Boston | 2008 | Dormant
+Private publisher | Chicago - No Remote | 2012 | Active
+Private spanish | Spain, Madrid, Madrid | 2009 | Inactive
+Pro-Perspective | Australia, NSW, Sydney | 2008 | Dormant
+Pro-Perspective Pty Ltd | Australia, NSW, Sydney | 2008 | Dormant
+Pro-Quest | United Kingdom, Midlands, Nottingham | 2006 | Dormant
+Pro-Quest Resourcing Ltd | United Kingdom, City, London, London | 2013 | Active
+ProBoards, Inc. | United States, CA, Lake Forest | 2011 | Active
+ProCheckUp Ltd | United Kingdom, London, WC1 | 2004 | Dormant
+ProCheckUp Ltd, London | United Kingdom, LONDON, LONDON | 2004 | Dormant
+ProHosting | United States, Utah, Provo | 2005 | Dormant
+ProNames | United States, Texas, Dallas | 2004 | Dormant
+ProSoft, Inc. | United States, Ohio, Columbus | 2006 | Dormant
+Proactive Search | United States, Florida, Ft. Lauderdale | 2001 | Dormant
+Product Based Company | India, Andhra Pradesh, Hyderabad | 2010 | Inactive
+Productive Engineering | United States, Ohio, Dayton | 2009 | Inactive
+Professional IT | United Kingdom, Buckinghamshire, Wendover | 2010 | Inactive
+Professional Services Corporation | United States, VA, Chantilly | 2001 | Dormant
+Professional Support, Inc. | United States, NY, Buffalo | 2010 | Inactive
+Professional Technical Resources | United States, OR, Portland | 2006 | Dormant
+Profitable Marketing Firm | NY, New York, New York | 2003 | Dormant
+Program Products Ltd | United Kingdom, Surrey | 2004 | Dormant
+Progressive | United Kingdom, Berkshire, Reading | 2007 | Dormant
+Progressive IT Recruitment | United Kingdom, Wiltshire, Bath | 2007 | Dormant
+Progressive Medical Insurance | United States, Ohio, Columbus | 2006 | Dormant
+Project Ben-Yehuda | Israel, N/A, N/A | 2008 | Dormant
+Project Consulting Specialists | United States, CA, Bay Area | 2006 | Dormant
+Project Napa | United States, CA, Santa Clara | 2002 | Dormant
+Project Napa, Inc. | United States, CA, Santa Clara | 2002 | Dormant
+Project One, Inc. | United States, New York, New York | 2006 | Dormant
+Project Resource | United States, NY, NYC | 2005 | Dormant
+Project-IT | United Kingdom, Surrey, Guildford | 2007 | Dormant
+Promethues Labor Communications | United States | 2010 | Inactive
+Proofpoint | Sunnyvale, CA, United States | 2012 | Active
+Proofpoint, Inc | United States, CA, Sunnyvale | 2008 | Dormant
+Prop erty Res earch Part ners LLC | United States, NY, New York City | 2004 | Dormant
+Property Research Partners LLC | United States, NY, New York City | 2004 | Dormant
+PropertyMall | United Kingdom, London | 2005 | Dormant
+PropertyShark.com | United States, NY, Brooklyn | 2007 | Dormant
+PropertySharp.com | United States, NY, New York City | 2004 | Dormant
+Prosoft | United States, KY, Louisville | 2004 | Dormant
+Prospect | United Kingdom, England, London, West | 2008 | Dormant
+Prosper | United States, Utah, Provo | 2007 | Dormant
+Proteans Software Solutions | India, Karnataka, Bangalore | 2010 | Inactive
+Protiro | Ames, IA | 2012 | Active
+Provide Consulting | United Kingdom, London | 2011 | Active
+Prudential Preferred Properties | United States, Illinois, Chicago | 2003 | Dormant
+Public Broadcasting Service (PBS) | United States, VA, Arlington | 2007 | Dormant
+Public Karma, Inc | United States, GA, Atlanta | 2011 | Active
+Pulsar IT | United States, Ohio, Columbus | 2008 | Dormant
+PulsarIT | United States, Ohio, Columbus | 2006 | Dormant
+PulseWaveRF | United States, TX, Austin | 2006 | Dormant
+Pure IT Associates Limted | Oxford, UK | 2012 | Active
+Pure IT Associates Ltd | Oxford, Oxfordshire, United Kingdom | 2011 | Active
+Pure Solutions Inc | United States, CA, San Jose | 2005 | Dormant
+Purple Dog Consulting | United States, CA, Palo Alto | 2008 | Dormant
+Purple Interactive | United Kingdom, London, London (Chiswick W4) | 2006 | Dormant
+PushButtonPress.com, Inc. | United States, CT, Greenwich | 2003 | Dormant
+PushHandle | United States, NY, New York | 2008 | Dormant
+Pyramid Consulting | United States, TX, Dallas | 2011 | Active
+Pyramid Consulting Inc | United States, MI, South Field | 2009 | Inactive
+Pyramid Screening Technology | United States, CA, Redwood City | 2005 | Dormant
+Pyramid Screening Technology, Inc | United States, WA, Seattle | 2004 | Dormant
+PyramidST | United States, CA, Redwood City | 2005 | Dormant
+Pythian | Ottawa, Ontario, Canada | 2012 | Active
+Q | United States, CA, Los Angeles | 2008 | Dormant
+Q Analysts | Cambridge, MA | 2011 | Active
+Q Card Corporation | United States, TX, Dallas | 2002 | Dormant
+Q&A Recruiting | United States, TX, Dallas | 2005 | Dormant
+Q1Online Limited | United Kingdom, London | 2005 | Dormant
+Q1Online Ltd | United Kingdom, London | 2006 | Dormant
+Q1Online Ltd. | United Kingdom, London | 2003 | Dormant
+Q1online Ltd | United Kingdom, London | 2004 | Dormant
+QArea | Kharkiv | 2012 | Active
+QCI | United States, Tx, Houston | 2002 | Dormant
+QUALCOMM Israel Ltd. | Israel, Haifa | 2007 | Dormant
+QUANTUM TECHNOLOGY RECRUITING INC. | CANADA, ONTARIO, TORONTO | 2005 | Dormant
+QXTel Limited | Turkey, Istanbul (Topkapi) | 2005 | Dormant
+Qoopi | Taiwan, Taipei | 2007 | Dormant
+Qoopi Inc. | Undefined | 2007 | Dormant
+Quad656 | Conshohocken, PA | 2013 | Active
+Qualcomm Israel | Haifa, Israel | 2012 | Active
+Qualcomm, Inc | United States, California, San Diego | 2005 | Dormant
+Qualcomm, Inc. | CA, San Diego | 2013 | Active
+Quality Humans, Inc. | United States, Multiple, Nashville, San Francisco, DC | 2006 | Dormant
+Quality Humans, Inc. (for Amazon) | United States, WA, Seattle | 2006 | Dormant
+Quality Technology Services | United States, New York, New York | 2006 | Dormant
+Quality Track International | Canada, ON, Brampton | 2003 | Dormant
+Quantcast | CA, San Francisco | 2010 | Inactive
+Quantronix Inc | United States, MA, Boston | 2005 | Dormant
+Quantronix, Inc | United States, MA, Boston | 2004 | Dormant
+Quantum | Canada, QuÃ©bec, MontrÃ©al | 2010 | Inactive
+Quantum Technology Recruiting Inc. | Canada, ALL, ALL | 2009 | Inactive
+Quantum Weather | United States, Texas, Houston | 2004 | Dormant
+QuantumNet International | Undefined | 2007 | Dormant
+Quest System, Inc. | United States, MD, Bethesda | 2001 | Dormant
+Quest Systems, Inc. | United States, MD, Gaithersburg | 2001 | Dormant
+QuestMark | United States, TX, Houston | 2010 | Inactive
+Questor Systems GmbH | Switzerland | 2008 | Dormant
+QuinStreet | United States, CA, Foster City | 2010 | Inactive
+Quinnox Consultancy | India, Maharastra, Pune | 2005 | Dormant
+Quintessential Business Solutions | United States, MN, Hopkins | 2009 | Inactive
+Quintessential Business Solutions, LLC. | United States, MN, Hopkins | 2009 | Inactive
+Quonix Networks | United States, PA, Philadelphia | 2011 | Active
+Quonix Networks, Inc | Philadelphia, PA | 2011 | Active
+QuoteScout.com | United States, PA, Wayne | 2004 | Dormant
+Quotient Inc | United States, MD, Suitland | 2011 | Active
+Quotient, Inc | United States, MD, Columbia | 2010 | Inactive
+R R Bowker | United States, NJ, New Providence | 2007 | Dormant
+R-Stream | United States, FL, St. Petersburg | 2010 | Inactive
+R-Stream POS & Data Warehouse | Florida, St. Petersburg | 2007 | Dormant
+R-Stream POS and Data Management | United States, FL, St. Petersburg | 2007 | Dormant
+R-Stream, LLC | St Petersburg, Fl, United States | 2012 | Active
+R. A. H. Classic Cards | United States, NJ, Somerville | 2002 | Dormant
+R.R. Bowker | United States, NJ, New Providence | 2010 | Inactive
+RAND Corporation | United States, Pennsylvania, Pittsburgh | 2007 | Dormant
+RBS Greenwich Capital | United States, CT, Greenwich | 2007 | Dormant
+RBSGC | United States, Connecticut, Greenwich | 2008 | Dormant
+RCG Information Technology | United States, NJ, Jersey City | 2010 | Inactive
+RCM Technologies | United States, MD, Bethesda | 2002 | Dormant
+RDF Group | United Kingdom, Buckinghamshire, Marlow | 2007 | Dormant
+RDFGroup | Brighton, England | 2013 | Active
+REA Group | Europe, Luxembourg, Luxembourg | 2008 | Dormant
+RECRUT'ART | SIBIU, ROMANIA | 2011 | Active
+REDNET | United Kingdom, Buckinghamshire, High Wycombe | 2004 | Dormant
+REF Computer Corporation  | New York, Manhattan | 2009 | Inactive
+RF Shipping Ltd | London, UK | 2013 | Active
+RGA Associates | United States, CA, San Francisco | 2005 | Dormant
+RGA Associates Inc. | United States, CA, Los Angeles | 2008 | Dormant
+RHI | United States, CA, Pasadena | 2008 | Dormant
+RHIC | New Mexico, Albuquerque | 2002 | Dormant
+RIVERVIEW RECRUITING LLC | United States, NY, New York | 2010 | Inactive
+RJ Byrd | Dallas, Tx, United States | 2012 | Active
+RJT Compuquest | United States, CA, Burbank | 2007 | Dormant
+RJT Compuquest.com | United States, CA, LA | 2006 | Dormant
+RL Websolutions | Ahmedabad, India | 2012 | Active
+RMA | Australia, Vic, Melbourne | 2008 | Dormant
+RMG Technology (M) Sdn Bhd | Cyberjaya, Malaysia | 2012 | Active
+RMI | United States, FL, Jacksonville | 2010 | Inactive
+RMS | United States, NJ, Jersey City | 2011 | Active
+ROI Rocket, Inc. | United States, CO, Denver (Englewood) | 2007 | Dormant
+ROK | United Kingdom, Llandow (Nr Cardiff) | 2008 | Dormant
+ROMANTICA TOURS | United States, IL, CHICAGO | 2007 | Dormant
+ROSworks, LLC | Richmond, VA, United States | 2012 | Active
+RPM Recruitment | United Kingdom, WC1 , London | 2008 | Dormant
+RPM Solutions (UK) Limited | United Kingdom, Devon, Exeter | 2005 | Dormant
+RQ Software & Services | United States, CT, Stratford | 2007 | Dormant
+RS Technology | Malaysia, Wilayah Persekutuan, Kuala Lumpur | 2001 | Dormant
+RTGI | France, Saint-Denis (near Paris) | 2009 | Inactive
+RTGI/Linkfluence | France, Saint-Denis | 2010 | Inactive
+RVI | United States, NJ, Atlantic City | 2011 | Active
+RWA | London | 2007 | Dormant
+RWA, Inc. | United States, Florida, Fort Lauderdale | 2004 | Dormant
+Raamco International | United States, NJ, Englewood Cliffs | 2011 | Active
+Raamco International  | United States, NJ, Englewood Cliffs | 2010 | Inactive
+Racine.com | United States, CA, Santa Clara | 2003 | Dormant
+Rackspace | United States, TX, San Antonio | 2010 | Inactive
+Radian IT Ltd | United Kingdom, East Yorkshire, Elloughton | 2011 | Active
+Radice Net.com | Italy, Prato (FI) | 2003 | Dormant
+Radio Free Asia | United States, DC, Washington | 2005 | Dormant
+RadioField | Baltimore, MD, USA | 2012 | Active
+Radix Direct GmbH | Germany, Munich | 2006 | Dormant
+Rainmaker Business Services, Inc. | United States, FL, Ft. Lauderdale | 2006 | Dormant
+Ralph Nader for President 2008 | United States, DC, Washington | 2008 | Dormant
+Rambler | Russia, Moscow | 2006 | Dormant
+Rambler Internet Holding | Russian Federation, Moscow | 2008 | Dormant
+Rambler.ru | Ð³Ð¾Ñ€Ð¾Ð´ ÐœÐ¾ÑÐºÐ²Ð°, Ð Ð¾ÑÑÐ¸Ñ | 2011 | Active
+Rapid Intelligence | Australia, NSW, Sydney | 2012 | Active
+Rapid Intelligence Pty Ltd | Anywhere, Telecommute | 2008 | Dormant
+Rapleaf | United States, CA, San Francisco | 2007 | Dormant
+Rattleresearch | United Kingdom, W Yorkshire, Sheffield | 2007 | Dormant
+Ravello IT | United Kingdom, London | 2008 | Dormant
+RayV | Israel, Tel-Aviv | 2010 | Inactive
+Raybec | Canada, Ontario, Toronto | 2006 | Dormant
+Raybec Communications | Canada, ON, Toronto | 2011 | Active
+Raybec Communications Inc. | Canada, Ontario, Toronto (downtown) | 2008 | Dormant
+Rayher Web Gurus | United States, CA, Hermosa Beach | 2003 | Dormant
+Raytheon Missile Systems | United States, Arizona, Tucson | 2009 | Inactive
+Raytheon at NASA Ames | United States, CA, Mountain View (Moffett Field) | 2002 | Dormant
+ReThink Recruitment | UK, London, West London | 2007 | Dormant
+ReThink Recruitment Solutions | United Kingdom, London | 2006 | Dormant
+ReThink Recruitment Solutions Ltd | United Kingdom, London | 2008 | Dormant
+Reach Systems | United States, CA, Oakland | 2008 | Dormant
+Reach1to1 Communications | India, MH, Mumbai | 2004 | Dormant
+ReachLocal, Inc. | United States, CA, Woodland Hills | 2008 | Dormant
+Reactrix | United States, California, San Carols | 2004 | Dormant
+Reactrix Systems Inc | United States, CA, San Carlos | 2004 | Dormant
+Ready to Hire | United States, PA, King of Prussia | 2008 | Dormant
+Real Estate Patrol INC | United States, NJ, Cherry Hill | 2007 | Dormant
+Real Resourcing | United Kingdom, London: The City | 2008 | Dormant
+RealNetworks | Germany, Hamburg, Hamburg | 2008 | Dormant
+RealNetworks (Germany) | Germany, Hamburg, Hamburg | 2009 | Inactive
+Realtime A/S (www.realtime.dk) | Denmark, 1560 Copenhagen V | 2001 | Dormant
+Reask | Israel, Tel Aviv | 2010 | Inactive
+Rebaca Technologies (I) Pvt., Ltd., | INDIA, KA, Bangalore | 2005 | Dormant
+Recipeshare Canada Inc. | Canada, Quebec, Lasalle | 2008 | Dormant
+Recruiting Division | San Francisco (east side --- North/North Central) | 2012 | Active
+Recruiting Point - Client | United States, WA, Seattle | 2007 | Dormant
+Recruitment Agency | Australia, Queensland, Brisbane | 2007 | Dormant
+Red 10 | United Kingdom/ USA, London/ San Francisco | 2004 | Dormant
+Red Anvil | United States, WI, Milwaukee | 2007 | Dormant
+Red Hat, Inc | United States, NC, Raleigh | 2005 | Dormant
+Red Hat, Inc. | United States, CA, San Francisco Bay Area | 2004 | Dormant
+Red Oak Technologies | United States, CA, San Jose | 2006 | Dormant
+Red Recruitment Pty Ltd | Australia, VIC, Melbourne | 2006 | Dormant
+RedCat Solutions | London, UK | 2012 | Active
+RedWeek.com | United States, WA, Seattle | 2006 | Dormant
+Redback Networks | United States, California, San Jose | 2006 | Dormant
+Redback Networks, an Ericsson Company | Canada, B.C., Burnaby | 2009 | Inactive
+Redfern Services | United States, Ga., Atlanta | 2002 | Dormant
+Redrock Consulting | West London | 2012 | Active
+Redrock Consulting Ltd | United Kingdom, Bristol | 2007 | Dormant
+Redrock Consulting Ltd on behalf of | London | 2007 | Dormant
+Reed Professional Services | United Kingdom, West London, London | 2012 | Active
+Reed Professional services | United Kingdom, London, London | 2009 | Inactive
+Reed Technology | United Kingdom, Bracknell | 2007 | Dormant
+Reeve Management | Australia, NSW, Sydney | 2002 | Dormant
+Reflected Networks | United States, IL, Chicago | 2006 | Dormant
+Reflex Computer Recruitment | UK - England, West Sussex, Brighton | 2005 | Dormant
+Refresh Media | United States, CA, San Luis Obispo | 2010 | Inactive
+Regulus Group | United States, Texas, CA or IA, Multiple locations: Coppell, Napa, | 2007 | Dormant
+Reinvent, Inc. | Canada, British Columbia, Vancouver | 2010 | Inactive
+Reliance Mutual Insurance Society LTD. | Tunbridge Wells, Kent, UK | 2012 | Active
+Reliant Employees | United States, CA, San Diego | 2006 | Dormant
+Relocation Central by CORT | United States, CA, Santa Clara | 2002 | Dormant
+RelocationCentral | United States, CA, Santa Clara | 2005 | Dormant
+RelocationCentral by CORT | United States, CA, Santa Clara | 2006 | Dormant
+Remasys Pty Ltd | Australia, Victoria, Melbourne | 2009 | Inactive
+Remington International | United States, CA, Lawndale | 2003 | Dormant
+Render Rocket LLC | United States, CA, Sherman Oaks | 2007 | Dormant
+Renkoo | United States, CA, Redwood City | 2008 | Dormant
+Rent Villa Direct Limited t/a Tablina | United Kingdom, Scotland, Edinburgh | 2007 | Dormant
+Rent.COM | United States, Ca, Santa Monica | 2008 | Dormant
+Rent.com | United States, CA, Santa Monica | 2013 | Active
+Rent.com (an eBay Company) | United States, CA, Santa Monica | 2010 | Inactive
+Rent.com (an eBay company) | United States, CA, Santa Monica | 2010 | Inactive
+Rent.com, an eBay Company | Santa Monica, CA, United States | 2012 | Active
+Rent.com, an eBay company | United States, CA, Santa Monica | 2005 | Dormant
+Rent.com/eBay | United States, CA, santa monica | 2008 | Dormant
+Rent.com/eBay Inc. | United States, CA, Santa Monica | 2007 | Dormant
+RentOnTheDot | Canada, British Columbia, Vancouver | 2001 | Dormant
+Rentrak | United States, OR, Portland | 2012 | Active
+Rentrak Corporation | United States, Oregon, Portland | 2010 | Inactive
+ResLogic | United States, Any state, Anywhere | 2006 | Dormant
+Research Studius Austria - Panther Consult | Austria, Wien, Wien Vienna | 2007 | Dormant
+Resource Leaders | United States, CA, San Diego | 2006 | Dormant
+Resten Jones | United Kingdom, London | 2008 | Dormant
+Resten Jones Ltd | United Kingdom, London | 2007 | Dormant
+Restore | Madison, WI | 2011 | Active
+Resulte | United States, TX, Dallas | 2006 | Dormant
+Resulte Universal | Texas, Dallas | 2006 | Dormant
+Return Path | United States, Colorado, Broomfield | 2010 | Inactive
+Return Path, Inc. | United States, Colorado, Superior | 2007 | Dormant
+Revelation Partners | United States, WI, Milwaukee | 2008 | Dormant
+Revenution, Inc. | United States, NH, Hampstead | 2003 | Dormant
+ReviewNet Corporation | United States, PA, Jenkintown | 2005 | Dormant
+Revolutionary Staffing | United States, TX, Dallas | 2005 | Dormant
+RewardsPlus | United States, MD, Baltimore | 2001 | Dormant
+Rhino Recruiting | United States, CA, Burbank | 2007 | Dormant
+Rhythm & Hues India | India, Maharashtra, Mumbai | 2004 | Dormant
+RichFX | New York, New York | 2006 | Dormant
+RichFX Inc. | United States, NY, New York | 2003 | Dormant
+RichFx, inc. | United States, New York, New York | 2005 | Dormant
+Richard Michael Group | United States, Az, Tempe | 2006 | Dormant
+Richard Wheeler Associates | United Kingdom, Oxford | 2008 | Dormant
+Rick's Industrial Specialty | United States, California, San Diego | 2006 | Dormant
+RideCharge Inc, Taxi Magic | United States, Virginia, Alexandria | 2010 | Inactive
+Rider University | United States, NJ, Lawrenceville | 2006 | Dormant
+Ridgeway | United States, TX, Dallas | 2001 | Dormant
+Right Media | United States, New York, New York | 2004 | Dormant
+Right Media LLC | United States, NY, New York | 2003 | Dormant
+Rimm-Kaufman Group LLC | United States, VA, Charlottesville | 2004 | Dormant
+RiskMetrics Group | United States, NY, New York | 2006 | Dormant
+Rivals Digital Media | United Kingdom, London | 2002 | Dormant
+River Styx Internet | Canada, BC, Vancouver | 2007 | Dormant
+Riverbed | United States, MA, Sunnyvale & San Francisco California | 2010 | Inactive
+Riverbed Technology | United States, CA, san Francisco | 2011 | Active
+Riviera Partners | 90401, CA, Los Angeles | 2005 | Dormant
+Rixington Group Holding Company | New Zealand, Auckland (Albany area) | 2006 | Dormant
+RoQC DataManagement | Norway, Rogaland, Stavanger, | 2006 | Dormant
+Roaring Penguin Software Inc. | Canada, Ontario, Ottawa | 2005 | Dormant
+Robert Half Technology | Canada, Ontario, Mississauga | 2012 | Active
+Robert Walters Recruitment | Undefined | 2004 | Dormant
+RoboTran | United States, MA, Boston | 2011 | Active
+Roc Search | Surrey United Kingdom | 2013 | Active
+Rolloutsoftware | United States, California, Santa Monica | 2004 | Dormant
+Romijo | Netherlands, N-H, Amsterdam | 2008 | Dormant
+Roqc Data Management | United States, ME, Portland | 2010 | Inactive
+Rosenblatt Securities | New York City | 2012 | Active
+Route 66 Cyber Cafe, Inc. | United States, OK, Tulsa | 2002 | Dormant
+Roy Talman and Associates | United States, IL, chicago | 2004 | Dormant
+RoyaltyShare | United States, California, San Diego | 2009 | Inactive
+Roznos Enterprises | United States, CA, San Francisco | 2005 | Dormant
+Roznos Entterprises Strategic Staffing | United States, CA, San Francisco | 2005 | Dormant
+Rsystems | United States, CA, Sacramento | 2007 | Dormant
+Rubenstein Technology Group | United States, NY, Park Slope, Brooklyn, New York | 2013 | Active
+Rule Financial | United Kingdom, London | 2012 | Active
+Rullion | United Kingdom, London | 2007 | Dormant
+Rullion Computer Personnel | United Kingdom, Richmond, Surrey | 2010 | Inactive
+Runbox | Norway, Oslo | 2008 | Dormant
+Russell Sharpe Limited | United Kingdom, Surrey, Bramley (nr Guildford) | 2002 | Dormant
+Russell winter associates  | United Kingdom, London, London | 2009 | Inactive
+Rutgers University Department of Continuing Education and Outreach | United States, New Jersey, New Brunswick | 2007 | Dormant
+Rutgers University, Continuous Education and Outreach | United States, New Jersey, New Brunswick | 2008 | Dormant
+Ryan Recruiting | United States, CA, Laguna Hills | 2004 | Dormant
+SACC | United States, CA, San Mateo | 2007 | Dormant
+SAIC | United States, Virginia, Arlington | 2006 | Dormant
+SAMi Technologies Inc | United States, Virginia, Sterling | 2004 | Dormant
+SAY Media | San Francisco, CA (SOMA) | 2012 | Active
+SBS (UK) | United Kingdom, London | 2006 | Dormant
+SBS Creatix | United States, MO, St. Louis | 2010 | Inactive
+SBS UK | United Kingdom, London - Central | 2006 | Dormant
+SBS UK Ltd | United Kingdom, London | 2006 | Dormant
+SCFoster | United States, NY, New York | 2006 | Dormant
+SCFoster Solutions | United States, NY, New York City | 2006 | Dormant
+SCOM Technology | United Kingdom, London | 2008 | Dormant
+SDHRC | United States, CA, Del Mar | 2007 | Dormant
+SDL | Los Angeles, CA, United States | 2012 | Active
+SE Software | Germany | 2007 | Dormant
+SG Drive Test | Canada, QC, Montreal | 2010 | Inactive
+SHOWstudio | United Kingdom, London, London | 2002 | Dormant
+SID Computer Group | United States, NJ, Jersey City | 2007 | Dormant
+SIMULIA Corporation | United States, Rhode Island, Providence | 2011 | Active
+SMC | United States, MD, Linthicum | 2003 | Dormant
+SMD Inc. | United States, TX, Dallas | 2003 | Dormant
+SME Inc. | United States, Va, Tyson's Corner | 2004 | Dormant
+SNL Consulting Ltd | United Kingdom, London, London | 2007 | Dormant
+SNLConsulting | United Kingdom, London | 2002 | Dormant
+SPLIO | Palace of Versailles, Place d'Armes, 78000 Versailles, France | 2012 | Active
+SPS | India, Maharashtra, Thane | 2004 | Dormant
+SPTP | United States, NY, Manhattan | 2007 | Dormant
+SPiN AG | Germany, Bayern, Regensburg | 2007 | Dormant
+SQN Solutions | India, New Delhi | 2002 | Dormant
+SQN Solutions/Conversation Technology | India, New Delhi, New Delhi | 2005 | Dormant
+SRI | United States, MA, Norwood | 2008 | Dormant
+SSS Client | United States, CA, San Francisco | 2005 | Dormant
+STRATO | Berlin, Germany | 2013 | Active
+STREAMray | United States, NV, Las Vevas | 2005 | Dormant
+SVG Inc (skinvideo.com) | United States, CA, San Francisco | 2007 | Dormant
+SWsoft | Russia, N/A, Moscow | 2002 | Dormant
+SWsoft, Inc. | Russia, Novosibirsk | 2005 | Dormant
+Sabre Systems, Inc | Maryland | 2007 | Dormant
+Sabre Systems, Inc. | Maryland | 2007 | Dormant
+Sabrient Systems, LLC | United States, CA, Santa Barbara | 2011 | Active
+Sacred Infocom Pvt Ltd | INDIA, Tamil Nadu, Chennai | 2007 | Dormant
+SafeMedia Corp | United States, Florida, Boca Raton | 2007 | Dormant
+SaferNet Brasil | Brazil, Bahia, Salvador | 2007 | Dormant
+Safety Technology | United States, FL, Jacksovnille | 2009 | Inactive
+Saicon Consultants Inc. | United States, KS, KS | 2009 | Inactive
+Sakonnet | United States, CA, San Francisco | 2005 | Dormant
+Sakonnet Systems | United States, California, San Jose | 2008 | Dormant
+Sakonnet Systems, Inc. | United States, CA, San Francisco | 2006 | Dormant
+San Francisco Chronicle/SFGate.com | United States, CA, San Francisco | 2008 | Dormant
+Sana Security | United States, CA, San Mateo | 2006 | Dormant
+Santa Monica Public Library | United States, CA, Santa Monica | 2002 | Dormant
+Sapna Solutions | Pune, India | 2012 | Active
+Sapphire Technologies | United States, Texas, San Antonio | 2010 | Inactive
+Satel Group | Italy, Udine | 2006 | Dormant
+Satelgroup | Italy, Udine, Buttrio | 2007 | Dormant
+Satellite Tracking of People LLC (STOP) | United States, Virginia, Reston | 2010 | Inactive
+Satellite Tracking of People, LLC | United States, VA, Reston | 2009 | Inactive
+Saturn Media | New Zealand, Auckland | 2004 | Dormant
+Saturn Media NZ and Live Door Japan | Japan, Tokyo, Ropponngi | 2004 | Dormant
+Satzmedia GmbH | Germany, Hamburg | 2007 | Dormant
+Say Media | San Francisco, CA | 2012 | Active
+SayHired | Tel Aviv, Israel | 2011 | Active
+ScanSave | Canada, ON., Toronto | 2003 | Dormant
+Scansafe | London | 2009 | Inactive
+Schaffhausen Advertising GmbH | Germany, Elmshorn | 2005 | Dormant
+Schaffhausen ITC Solutions GmbH | Germany, Elmshorn / Hamburg | 2007 | Dormant
+Schedule 2 Drive, LP | United States, TX, San Antonio, Houston or Austin | 2005 | Dormant
+School Loans Corp | United States, Ca, Los Angeles | 2005 | Dormant
+School Loans Corporation | United States, CA, Redwood City & Los Angeles | 2007 | Dormant
+SchoolSpring | United States, VT, South Burlington | 2009 | Inactive
+Science Photo Library | United Kingdom, London | 2010 | Inactive
+Scientific Equipment Repair | Mountain View, CA | 2012 | Active
+ScolerTec Inc | United States, DC, Washington | 2011 | Active
+Scottsdale Airpark | United States, AZ, Scottsdale | 2011 | Active
+Scoutware | United States, IL, Chicago | 2007 | Dormant
+ScreenSelect | United Kingdom, England, London | 2003 | Dormant
+Search123 | London, UK | 2012 | Active
+Searchlight Recruiters, Inc. | United States, TN, Nashville | 2008 | Dormant
+Searchlight Recruiters, Inc. (Agency) | United States, Tn, Nashville | 2008 | Dormant
+Searchme | United States, CA, San Francisco | 2008 | Dormant
+Seavus | Skopje, Macedonia | 2013 | Active
+Secure Appliance | United States, NV, Las Vegas | 2003 | Dormant
+Seela LLC | United States, FL, Orlando | 2002 | Dormant
+Seevast Corp | United States, New York, Amherst | 2007 | Dormant
+Seevast.com | United States, NY, Amherst | 2008 | Dormant
+Segula Technologies | Portugal, Lisbonne | 2007 | Dormant
+Segula Technologies Portugal | Portugal, Lisbon, Lisbon | 2007 | Dormant
+Seisint | United States, FL, Boca Raton | 2005 | Dormant
+Seisint, Inc. | United States, FL, Boca Raton | 2001 | Dormant
+SelectMinds, Inc. | United States, NY, New York | 2008 | Dormant
+Selectable Media | New York, NY | 2012 | Active
+Selectronic India | India, New Delhi, New Delhi | 2007 | Dormant
+Semantico | United Kingdom, East Sussex, Brighton | 2012 | Active
+Semaphore Corporation | United States, WA, Seattle | 2007 | Dormant
+SenSoft International, Inc. | United States, VA, Herndon | 2005 | Dormant
+SendGrid | United States, CA, San Diego | 2010 | Inactive
+Sendit.com | Northen Ireland, UK, Belfast | 2005 | Dormant
+Sendrata | Netherlands, Zuid-Holland, Den Haag | 2007 | Dormant
+Senior Developer | TBD, USA, Illinois | 2002 | Dormant
+SeniorBridge | United States, NY, New York | 2013 | Active
+SeniorBridge Family | United States, New York, New York | 2004 | Dormant
+Senitor Associates | United Kingdom, Cambridgeshire, Cambridge | 2006 | Dormant
+Sentari Technologies | United States, Texas, Addison | 2004 | Dormant
+Sentinel | United Kingdom, London | 2009 | Inactive
+ServePath | 94105, CA, San Francisco | 2008 | Dormant
+ServerCentral | United States, IL, Chicago | 2011 | Active
+Servergraph | United States, TX, Austin | 2004 | Dormant
+Service Intelligence | Canada, Alberta, Calgary | 2006 | Dormant
+Sesco Information Systems | India, Karnataka, Bangalore | 2007 | Dormant
+Sesco Information Systems Inc., | United States, OH, Columbus | 2005 | Dormant
+Sesco Information Systems Ltd | India, Karnataka, Bangalore | 2005 | Dormant
+Set You Free Enterprises | United States, anystate, Work From Home anywhere | 2008 | Dormant
+Severis | Russia, Moscow | 2006 | Dormant
+Sharf, Woodward Associates Inc | United States, CA, Thousand Oaks | 2006 | Dormant
+Sharp Sports Betting | United States, NV, Las Vegas | 2003 | Dormant
+Shavlik Technologies | United States, MN, Roseville | 2004 | Dormant
+Sherpa LLC | United States, NC, Charlotte | 2007 | Dormant
+Shiftboard | United States, Washington, Seattle | 2012 | Active
+Shiftboard, Inc | Seattle, WA, USA | 2013 | Active
+Shiftboard, Inc. | Seattle, WA, USA | 2013 | Active
+Shipping Co | italia, bari, bari | 2007 | Dormant
+Shoebuy.com | United States, MA, Boston | 2008 | Dormant
+Shoebuy.com Inc | United States, MA, Boston | 2008 | Dormant
+Shoebuy.com, Inc. | United States, MA, Boston | 2012 | Active
+Shokus Video | United States, CA, Chatsworth | 2006 | Dormant
+Shoplet.com | 10004, NY, New York | 2007 | Dormant
+Shopzilla | United Kingdom, London | 2007 | Dormant
+Shopzilla, Inc | United States, CA, Los Angeles | 2005 | Dormant
+Shopzilla, Inc. | United States, CA, Los Angeles | 2006 | Dormant
+Shopzilla.com | United States, California, Los Angeles | 2008 | Dormant
+Shopzilla.com (Bizrate) | United States, CA, West Los Angeles | 2008 | Dormant
+Shrewsbury House School | United Kingdom, Surrey | 2007 | Dormant
+Shrinking Planet Inc. | Canada, Ontario, Mississauga  (Toronto) | 2002 | Dormant
+Shulman Fleming | NY, NYC | 2005 | Dormant
+Shulman Fleming and Partners | United States, NY, NY | 2006 | Dormant
+Shulman and Partners | United States, NY, New York | 2002 | Dormant
+ShutterStock | United States, NY, New York | 2006 | Dormant
+Shutterstock | United States, NY, New York | 2013 | Active
+Shutterstock Images | United States, NY, New York | 2011 | Active
+Shutterstock.com | United States, NY, New York | 2005 | Dormant
+SiVerion | United States, AZ, Tempe | 2004 | Dormant
+Siemens | United States, Washington, Redmond | 2005 | Dormant
+Siemens AG | Deutschland, Bayern, Erlangen | 2009 | Inactive
+Siemens Business Services | United Kingdom, Berkshire, Maidenhead | 2006 | Dormant
+Siemens Corporation | United States, Florida, Orlando | 2002 | Dormant
+Siemens Internet Services | United Kingdom, Berkshire, Maidenhead | 2007 | Dormant
+Sievers Security Inc. | United States, Ohio, Cleveland | 2005 | Dormant
+Sifira | Danmark, København K | 2006 | Dormant
+Sift Group Ltd | United Kingdom, Bristol | 2003 | Dormant
+Sigma Search Group Inc. | Canada, BC, Vancouver - Metro Vancouver | 2008 | Dormant
+Sigma Space Corporation | Lanham, MD | 2012 | Active
+Signature Consultants | United States, NC, Charlotte | 2010 | Inactive
+Silicon & System Pros LLC | United States, CA, Sunnyvale | 2008 | Dormant
+Silver Fox | SF | 2013 | Active
+Silver Fox Design | Undefined | 2013 | Active
+Silver Key | United States, CA, Redwood City | 2008 | Dormant
+Silver Key Inc | United States, CA, San Francisco | 2009 | Inactive
+SilverFox | NY | 2012 | Active
+Simena | United States, VA, Sterling | 2008 | Dormant
+Simplex Consulting | United Kingdom, London | 2007 | Dormant
+Simplex Info Systems, Inc | United States, NewYork | 2005 | Dormant
+Simply Studio / Suite Setup | Chicago, Illinois | 2012 | Active
+SingleFeed | United States, CA, San Francisco | 2008 | Dormant
+Sipwise GmbH | Vienna | 2012 | Active
+Sistemica | Brazil, RS, Porto Alegre | 2005 | Dormant
+Sistemica.info | Brazil, RS, Porto Alegre | 2007 | Dormant
+SiteScout | United States, Washington, Seattle | 2008 | Dormant
+SiteSell Inc. | Undefined | 2011 | Active
+SiteSpect | United States, Massachusetts, Boston | 2007 | Dormant
+SiteSpect, Inc. | United States, MA, Boston | 2010 | Inactive
+SiteSpect.com | Boston, MA, United States | 2012 | Active
+SiteSuite | Australia, NSW, Sydney | 2012 | Active
+SiteSuite Australasia | Australia, NSW, Sydney | 2007 | Dormant
+Sitepak | Canada, Quebec, Montreal | 2005 | Dormant
+Siti-Sites.com | United States, NY, New York City | 2001 | Dormant
+Situated Consulting  | 90024 , CA , Los Angeles  | 2011 | Active
+Situated Consulting LLC  | United States, CA, Los Angeles  | 2011 | Active
+Situated Consutling  | USA , CA , Burbank  | 2009 | Inactive
+Six Apart | United States, NY, New York | 2008 | Dormant
+Sixt Autovermietung GmbH & Co KG | Germany, Bavaria, Munich | 2006 | Dormant
+Sketenty a/s | Denmark, Copenhagen | 2007 | Dormant
+SkillStorm | Untied States, California, San Diego | 2006 | Dormant
+Skillsearch Recruiting | Austraia, NSW, Sydney | 2008 | Dormant
+Skin Care Products | United States, CA, Los Angeles | 2006 | Dormant
+Skinwest | United States, CA, La Verne | 2011 | Active
+Skoosh | United Kingdom, East Sussex, Brighton | 2010 | Inactive
+SkyBox, IMG | United States, GA, Atlanta | 2001 | Dormant
+SkyStream | United States, California, Sunnyvale | 2005 | Dormant
+SkyStream Corp | United States, California, Sunnyvale | 2005 | Dormant
+Skyline Recruiting Corporation | United States, CA, San Jose | 2003 | Dormant
+Skymarx | Canada, Ontario, Toronto | 2004 | Dormant
+Skymarx Solutions | Canada, Alberta, Canmore | 2005 | Dormant
+Skytek | Italy, Padova, Padova | 2005 | Dormant
+Slando | United Kingdom, London, Southwark | 2011 | Active
+Slideshare | India, Delhi, New Delhi | 2007 | Dormant
+Slim Devices, Inc. | United States, CA, Mountain View | 2005 | Dormant
+Smart Marketing | United States, Georgia, Norcross | 2007 | Dormant
+Smart-Tek | Boston, MA | 2011 | Active
+Smarter Living, Inc | United States, MA, Cambridge | 2003 | Dormant
+Smiley Media | United States, TX, Austin | 2005 | Dormant
+Smith Johnson | United States, Utah, Salt Lake City | 2008 | Dormant
+Smooth Ltd | United Kingdom, Buckinghamshire, Aylesbury | 2006 | Dormant
+SmoothWall Ltd | United Kingdom, Hampshire, Southampton | 2009 | Inactive
+Smoothwall Ltd | United Kingdom, Hampshire, Southampton | 2011 | Active
+Snooth | United States, NY, New York | 2009 | Inactive
+Social Networking Site | United States, NY, New York | 2008 | Dormant
+Social Science Research Council | United States, NY, New York | 2006 | Dormant
+SocialFlow | NYC | 2012 | Active
+Socialtext | United States, California, Palo Alto | 2010 | Inactive
+Socialtext, Inc. | United States, CA, Palo Alto / SF Bay Area | 2005 | Dormant
+Society for Research in Psychopathology | United States, PA, Pittsburgh | 2009 | Inactive
+Sodexo Pass USA | United States, Maryland, Gaitherburg | 2011 | Active
+SofaWare Technologies | Israel, Ramat-Gan | 2007 | Dormant
+Softagon Corporation | United States, NY, New York City | 2004 | Dormant
+Softential, Inc. | United States, NJ, Mount Laurel | 2007 | Dormant
+Softpath Systems Inc | United States, Washington, Bellevue | 2007 | Dormant
+Softpath Systems, Inc | New York, New York | 2007 | Dormant
+Software Design India Pvt Ltd | India, Delhi, New Delhi | 2008 | Dormant
+Software Engineer - Perl Application Prg | California, San Diego | 2004 | Dormant
+Software Guidance & Assistance, Inc. | Stamford, CT | 2013 | Active
+Software Management Consultants, Inc. | United States, CA, Los Angeles | 2005 | Dormant
+Software Partners LLC | United States, California, San Diego | 2001 | Dormant
+Software Pundits | United States, NC, RTP, NC | 2010 | Inactive
+Software Unlimited | United States, CA, Walnut Creek | 2001 | Dormant
+Softwyre | United States, Arkansas, Little Rock | 2007 | Dormant
+Sohum Inc | United States, CA, Sunnyvale | 2006 | Dormant
+SolTech, Inc. | United States, VA, Tysons Corner | 2004 | Dormant
+Solfaktor AS | Norway, Oslo | 2009 | Inactive
+Solfisk Konsulenter | Denmark, Copenhagen | 2008 | Dormant
+Solomon Page Technology Partners | United States, NY, New York | 2008 | Dormant
+Solomon-Page Group | New York, New York | 2007 | Dormant
+SolsticeSun Design | Undefined | 2007 | Dormant
+Solution 1 | United States, PA, Pittsburgh | 2009 | Inactive
+Solution 1 Inc | United States, PA, Telecommute position but Company is in Pittsburgh | 2009 | Inactive
+Solutionhubinc | District of Columbia, USA | 2012 | Active
+Solutions for Progress | PA, Philadelphia | 2011 | Active
+SolutionsIQ | United States, WA, Seattle | 2008 | Dormant
+Solve Media, Inc | Philadelphia, PA | 2012 | Active
+Solve Media, Inc | http://solvemedia.com | United States, PA, Philadelphia | 2010 | Inactive
+Somewhere Inc. | United States, MA, Winchester | 2007 | Dormant
+Somix Technologies, Inc. | United States, Maine, Sanford | 2006 | Dormant
+Sonicwall | United States, CA, Sunnyvale | 2005 | Dormant
+Sony Computer Entertainment | United Kingdom, London | 2006 | Dormant
+Sony Computer Entertainment America | United States, California, San Diego | 2005 | Dormant
+Sony Electronics | United States, CA, San Diego | 2007 | Dormant
+Sony Pictures Imageworks | 90232, CA, Culver City | 2007 | Dormant
+Sophisticated Systems | United States, OHIO, Columbus | 2010 | Inactive
+Sophisticated Systems Inc | United States, Ohio, Columbus | 2008 | Dormant
+Sophiticated Systems | United States, Ohio, Columbus,Ohio | 2008 | Dormant
+Sophos | Canada, BC, Vancouver | 2011 | Active
+Sophos Inc | Canada, BC, Vancouver | 2010 | Inactive
+Sophos Inc. | Canada, BC, Vancouver | 2006 | Dormant
+Sophos Plc | United Kingdom, Oxfordshire, Abingdon, Oxfordshire | 2007 | Dormant
+Sophos Plc. | United Kingdom, Oxfordshire, Abingdon | 2005 | Dormant
+Source Interlink Media | United States, NY, New York | 2008 | Dormant
+Source Labs | United States, WA, Seattle | 2005 | Dormant
+SourceLabs | United States, WA, Seattle | 2004 | Dormant
+SourceMedia | United States, DC, Washington | 2006 | Dormant
+Sousafone, LLC | United States, Texas, Dallas | 2004 | Dormant
+Southern Counties Express | United States, CA, Compton | 2011 | Active
+Southern Records | United Kingdom, London | 2010 | Inactive
+Space IT Solutions | England, UK, London Waterloo | 2006 | Dormant
+SpareRoom.co.uk | Macclesfield, Cheshire, United Kingdom | 2013 | Active
+SparkNotes.com | United States, NY, New York | 2005 | Dormant
+SparkSupport | India, Kerala, Cochin | 2009 | Inactive
+Spectra Ltd. | United Kingdom, London | 2003 | Dormant
+Spectrum Data Technologies | United States, NY, new york | 2007 | Dormant
+Spectrum Data Technologies, LLC | United States, NY, NY | 2004 | Dormant
+Spectrum IMC | United States, New York, New York | 2009 | Inactive
+Speedlink ISP GmbH | Germany, Berlin, Berlin | 2002 | Dormant
+Spherion professional Services | United States, CA, Pleasanton | 2007 | Dormant
+Spill | France, Paris | 2008 | Dormant
+Spin Master Studios | United States, CA, Los Angeles | 2009 | Inactive
+SpinVox | United Kingdom, Berkshire, Maidenhead | 2006 | Dormant
+Spira | United Kingdom, Buckinghamshire, Milton Keynes | 2007 | Dormant
+SpiraHellic Multimedia Limited | United Kingdom, Buckinghamshire, Milton Keynes | 2006 | Dormant
+SpiraHellic Multimedia Ltd | United Kingdom, Bucks, Milton Keynes | 2005 | Dormant
+Spire | United States, MA, Dorchester | 2004 | Dormant
+Spire Vision | United States, NY, New York | 2009 | Inactive
+SportingPulse | Australia , Victoria, Vermont | 2008 | Dormant
+Sportingstatz Limited | United Kingdom, Surrey, Guildford | 2003 | Dormant
+Sports Imports LTD | United States, Md, Potomac | 2002 | Dormant
+SportsLine.com | United States, FL, Fort Lauderdale | 2003 | Dormant
+SportsLine.com Inc. | United States, FL, Ft. Lauderdale | 2004 | Dormant
+SportsLine.com, Inc | United States, Florida, Fort Lauderdale | 2002 | Dormant
+SportsLine.com, Inc. | United States, Florida, Fort Lauderdale | 2002 | Dormant
+Spring Technology | United Kingdom, London | 2012 | Active
+Spring technology | Germany | 2011 | Active
+Sprinklr | India, KARNATAKA, BANGALORE | 2010 | Inactive
+Spry.com | United States, WA, Seattle | 2008 | Dormant
+Square One | Scotland, Glasgow | 2010 | Inactive
+St. Bernard | United States, CA, San Diego | 2008 | Dormant
+Stackable | Salt Lake City, UT, USA | 2011 | Active
+Stamford Consultants | Switzerland, Zurich, Zurich | 2007 | Dormant
+StanaPhone Communications | Russia, Saint-Petersburg | 2007 | Dormant
+Stanford University | United States, California, Palo Alto | 2008 | Dormant
+Staples Australia | Mascot Sydney Australia | 2013 | Active
+Star Enterprise | Germany, Untersteinach | 2010 | Inactive
+Star Technology Group | United Kingdom, Gloucester | 2002 | Dormant
+Star Technology Inc., | United States, TN, Nashville | 2006 | Dormant
+Stardawn Consulting | Germany, Thuringia, Erfurt | 2008 | Dormant
+Starpoint Solutions | United States, NY, Manhattan | 2002 | Dormant
+Starpoint Solutios LLC | United States, New York, Lower Manhattan | 2006 | Dormant
+Start Local | Sydney, NSW, Australia | 2012 | Active
+Start Resourcing | United Kingdom, London | 2007 | Dormant
+Start-up for online business | United States, CA, Los Angeles | 2008 | Dormant
+StartLocal | Australia, NSW, Sydney | 2011 | Active
+StateStreet | United States, Ca, Redwood City | 2007 | Dormant
+Statistical Algorithms L.L.C | United States, Michigan, Detroit | 2009 | Inactive
+StayOnline | United States, GA, Atlanta | 2005 | Dormant
+Stealth | United States, CA, San Mateo | 2005 | Dormant
+Stealth LA dot com | United States, CA, West Hollywood | 2006 | Dormant
+Stealth Media Company | United States, CA, Hayward | 2005 | Dormant
+Stefanini IT Solutions | Brazil, São Paulo, São Paulo | 2010 | Inactive
+Stellar Software Network, Inc. | United States, TX, Irving | 2003 | Dormant
+Stellargy Services | United States, Texas, Austin | 2007 | Dormant
+Stellarware Corporation | Undefined | 2013 | Active
+Step Communications | United States, CA, Cupertino | 2005 | Dormant
+Steve Jackson Games | United States, TX, Austin | 2008 | Dormant
+Steve MacLellan | Canada, AB, Calgary | 2002 | Dormant
+Stevens Capital Management LP | United States, PA, Randor | 2011 | Active
+Stevens Capital Management LP. | Radnor, PA | 2013 | Active
+Steyer Associates, Inc. | United States, WA, Redmond | 2002 | Dormant
+Stiernegrip AB | SWEDEN, Sollentuna, Stockholm | 2005 | Dormant
+Stiernegrip Trading Strategies AB | Sweden, Stockholm, Stockholm | 2007 | Dormant
+Still Real Solutions | Sydney NSW, Australia | 2012 | Active
+Stopka & Associates | United States, New Hampshire, Portsmouth | 2005 | Dormant
+StoresOnline, Inc | United States, Utah, Orem | 2006 | Dormant
+Stowers Institute for Medical Research | United States, MO, Kansas City | 2010 | Inactive
+Straker Simkin | United Kingdom, Middlesex, London | 2007 | Dormant
+Strategic Business Systems | United States, New York, New York City | 2008 | Dormant
+Strategic Data Pty Ltd | Australia, VIC, Carlton | 2007 | Dormant
+Strategic IT Staffing | Oakland, CA | 2012 | Active
+Strategic Staffing Solutions, INc. | United States, florida, Tampa | 2006 | Dormant
+Strategic Systems Solutions, Inc. | United States, Pennsylvania, Horsham | 2006 | Dormant
+Stratify | United States, CA, Mountain View | 2008 | Dormant
+Stratify Software India Limited | India, KA, Bangalore | 2005 | Dormant
+Streamtrans | United States, CA, Westlake Village | 2001 | Dormant
+StreetLinks / Corvisa | Milwaukee, WI, United States | 2012 | Active
+Striata SA | South Africe | 2013 | Active
+StrongMail Systems | United States, CA, Los Angeles | 2003 | Dormant
+StrongMail Systems, Inc. | United States, CA, Redwood Shores | 2006 | Dormant
+Strongmail Systems | United States, Los Angeles | 2003 | Dormant
+StubHub | United States, CA, San Francisco | 2007 | Dormant
+Stubhub/Ebay | United States, CA, San Francisco | 2008 | Dormant
+Styria Börse Express | Austria, Vienna, Vienna | 2010 | Inactive
+Subex Ltd | Bangalore, India | 2011 | Active
+Subtle Motion Media | Canada, Ontario, Toronto | 2009 | Inactive
+Success Wave Marketing | TX, Flower Mound | 2003 | Dormant
+SuccessMarketingSystems Inc. | United States, TX, Dallas | 2003 | Dormant
+Sudyk Datasoft P Ltd. | India, Tamil Nadu, Chennai | 2004 | Dormant
+Suite Setup | Los Angeles (Long Beach), CA, United States | 2012 | Active
+SuiteSmart Inc. | United States, CA, San Francisco | 2002 | Dormant
+Sullivan and Cogliano | United States, Maine, Lewiston | 2007 | Dormant
+Summersault website development | Richmond, IN USA | 2012 | Active
+Summersault, LLC | United States, IN, Richmond | 2007 | Dormant
+Summit Communication Design | United States, CO, Denver | 2006 | Dormant
+Summit Communication Design, Inc. | United States, CO, Englewood | 2003 | Dormant
+Sun Microsystems, Inc. | United States, CA, Santa Clara | 2003 | Dormant
+Sundance MediaCom | United States, CA, Lancaster | 2006 | Dormant
+Sunflower  Broadband | United States, KS, Lawrence | 2007 | Dormant
+Sunflower Broadband | United States, Kansas, Lawrence | 2004 | Dormant
+Super Top Secret Startup | United States, OR, Portland | 2011 | Active
+SuperLine Telecommunications Ltd | United Kingdom, London | 2005 | Dormant
+Superior Staffing Solutions | United States, WA, Seattle | 2004 | Dormant
+Superior Staffing Solutions (Client) | United States, IL, Chicago | 2006 | Dormant
+Superior Technical Resources, Inc. | United States, WA, Kent | 2005 | Dormant
+Superquote.com Ltd | United Kingdom, London, London | 2003 | Dormant
+Supremesoft | Boca Raton, FL | 2012 | Active
+SurfRay A/S | Denmark, Copenhagen K | 2005 | Dormant
+SurfSecret, LLC | Florida, Orlando | 2006 | Dormant
+Surrex | United States, CA, El Segundo | 2004 | Dormant
+Surrex Consulting | United States, MO, St. Louis | 2012 | Active
+Surrex Solutions | MA, Newton | 2004 | Dormant
+Surrey Technologies Ltd | United Kingdom, Surrey, Guildford | 2003 | Dormant
+SurveyShack.com Ltd | United Kingdom, West Midlands, Birmingham | 2006 | Dormant
+SurveyShack.com ltd | United Kingdom, West Midlands, Birmingham | 2007 | Dormant
+SweetSpot Labs, Inc. | United States, CA, Pacific Palisades | 2005 | Dormant
+Swiftech | Canada, Ontario, Toronto | 2002 | Dormant
+Swiftysite | Cyprus | 2007 | Dormant
+Swisscom | Switzerland, BE or ZH, Bern or Zürich | 2007 | Dormant
+Swissgame NV | Curacao,  | 2011 | Active
+Swisslinx AG | Switzerland, Zurich | 2002 | Dormant
+Switch Management | United States, CA, San Francisco | 2010 | Inactive
+Switch Management Corp. | United States, CA, Lafayette | 2008 | Dormant
+Switch Media Ltd | United Kingdom, Merseyside, Liverpool | 2005 | Dormant
+Sxip | Canada, BC, Vancouver | 2005 | Dormant
+Sxip Identity | Canada, BC, Vancouver | 2005 | Dormant
+Sybase | United States, CA, Dublin | 2004 | Dormant
+Syl Soft | United States, VA, Williamsburg | 2005 | Dormant
+Symantec | United States, California, SAN FRANCISCO | 2013 | Active
+Symantec  | United Kingdom, Gloucestershire, Gloucester | 2010 | Inactive
+Symantec - UK | Gloucester, UK | 2012 | Active
+Symantec Software Ltd | Gloucester,UK | 2012 | Active
+Symbox | United Kingdom, Wiltshire, Swindon | 2005 | Dormant
+SymphonyTeleca | Palo Alto,CA | 2013 | Active
+Symphonyteleca | Bangalore | 2012 | Active
+Synacor | United States, NY, Buffalo | 2012 | Active
+Synacor Inc | Buffalo, NY | 2012 | Active
+Synacor, Inc | United States, NY, Buffalo | 2006 | Dormant
+Synacor, inc | United States, NY, Buffalo | 2010 | Inactive
+Synapse SE | United States, Washington, Seattle | 2004 | Dormant
+Synaptic Vision Inc | Canada, Ontario, Toronto | 2007 | Dormant
+Synaptic Vision Inc. | Canda, Ontario, Toronto | 2009 | Inactive
+Synctree | United States, CA, Pasadena | 2010 | Inactive
+Synctree, Inc. | United States, CA, Altadena | 2011 | Active
+Synerfac Technical Staffing | United States, MD, Hunt Valley | 2008 | Dormant
+Synergis | United States, GA, Alpharetta | 2005 | Dormant
+Synergistic Solutions | United States, FL, North Palm Beach | 2004 | Dormant
+Synergy Sourcing | United States, Florida, Miami | 2008 | Dormant
+Synigent Technologies | United States, Virginia, Richmond | 2012 | Active
+Synopsys India Private Ltd. | India, Andhra Pradesh, Hyderabad | 2006 | Dormant
+Synova - Brasil | Brasil, Sao Paulo, Sao Paulo | 2009 | Inactive
+Syntronic Malaysia Sdn Bhd | Malaysia, Kuala Lumpur, KLCC | 2011 | Active
+Sysadmin, Inc | United States, TX, Plano | 2006 | Dormant
+Systeam | United States, Florida, Miami | 2002 | Dormant
+System Planning Corporation | United States, VA, Arlington | 2005 | Dormant
+Systems Alliance | United States, Maryland, Baltimore | 2005 | Dormant
+Systems Alliance Inc | United States, MD, Baltimore | 2003 | Dormant
+Systems Engineering Services | United States, VA, Reston | 2001 | Dormant
+Systems Integration Solutions | United States, CA, Walnut Creek | 2004 | Dormant
+Systems Personnel | United States, NY, Buffalo | 2007 | Dormant
+Systems Plus | United States, Maryland, Rockville / Gaithersburg area | 2010 | Inactive
+Systems Plus Inc. | Rockville, MD United States | 2012 | Active
+Systemspersonnel | United States, New York, Buffalo | 2006 | Dormant
+T Williams Consulting | United States, NJ, Trenton | 2003 | Dormant
+TAC Worldwide Companies | United States, IA, Cedar Rapids | 2007 | Dormant
+TAG Online Inc. | United States, New Jersey, Upper Montclair | 2007 | Dormant
+TAG Online, Inc. | United States, NJ, Clifton | 2013 | Active
+TAIR (The Arabidopsis Information Resource) | United States, California, Stanford | 2007 | Dormant
+TAKKLE, Inc. | United States, NY, New York | 2008 | Dormant
+TASC | United States, VA, Fairfax | 2010 | Inactive
+TBA | United States, CA, San Francisco | 2006 | Dormant
+TBA - Please apply for company details | United Kingdom, UK, Berkshire | 2007 | Dormant
+TBD | United States, IL, Northern Suburbs | 2005 | Dormant
+TD Securities | United States, IL, Chicago-Loop | 2002 | Dormant
+TDA Group | United Kingdom, London, London | 2011 | Active
+TDA Recruitment | United Kingdom, London, London | 2010 | Inactive
+TDA Recruitment Group | United Kingdom, London | 2011 | Active
+TEAM Information Services | United States, Washington DC, Washington DC | 2008 | Dormant
+TEK Systems | United States, Tx, Austin | 2006 | Dormant
+TEKSystems | United States, VA, Richmond | 2013 | Active
+TEKsystems | United States, OH, Dayton | 2013 | Active
+TEKsystems  | USA , Ohio, Miamisburg  | 2009 | Inactive
+TEKsystems Contractor | United States, FL, Boca Raton | 2010 | Inactive
+TEKsystems, Inc. | United States, VA, Richmond | 2007 | Dormant
+TEKsystems.com | United States, Colorado, North of Denver | 2008 | Dormant
+TERSS | Mexico, DF/ AGS/ ZAC/ GTO, Mexico | 2011 | Active
+TES- Tthe Employment Solution | Canada, BC, Vancouver | 2006 | Dormant
+TIG | United States, TX, Dallas | 2012 | Active
+TLB Creative | United States, CA, Westlake Village | 2005 | Dormant
+TLB Creative Inc. | United States, CA, Westlake Village | 2006 | Dormant
+TLO | Boca Raton, FL, United States | 2011 | Active
+TLO Corp. | United States, FL, Boca Raton | 2010 | Inactive
+TMP Worldwide | Australia, NSW, Sydney | 2003 | Dormant
+TMSI | United States, Washington DC, Washington DC | 2007 | Dormant
+TMW Systems Inc. | United States, Ohio, Beachwood | 2010 | Inactive
+TMW Systems, Inc. | United States, Ohio, Cleveland | 2010 | Inactive
+TPP | United Kingdom, Gloucestershire, Cheltenham | 2005 | Dormant
+TRIAD RESOURCING | Portsmouth, UK | 2013 | Active
+TRISTAFF | United States, CA, San Diego | 2006 | Dormant
+TRS | Australia, VIC, Melbourne | 2007 | Dormant
+TRX | United States, Virginia, Tysons  Corner | 2004 | Dormant
+TRX, Inc. | United States, VA, Vienna | 2005 | Dormant
+TTY | The netherlands, Amsterdam | 2003 | Dormant
+TTY Internet Solutions BV | The Netherlands, Amsterdam | 2005 | Dormant
+TTi | United States, CA, Pasadena | 2009 | Inactive
+TUFTS UNIVERSITY | United States, MA, Boston | 2005 | Dormant
+TWLV Gaming Ltd. | London, United Kingdom | 2011 | Active
+Table 20 | United States, California, Los Angeles | 2004 | Dormant
+Table XI Partners LLC | United States, IL, Chicago | 2007 | Dormant
+Table20 | United States, CA, Los Angeles | 2004 | Dormant
+Tacitus Technology | Australia, NSW, Sydney | 2002 | Dormant
+TagMan | United Kingdom, London | 2011 | Active
+Tagged | Neherlands, Den Haag | 2005 | Dormant
+Tahitian Noni International | United States, Utah, Provo | 2005 | Dormant
+Tajsoftware systems | United States, Ny, Brooklyn | 2003 | Dormant
+TakeitNow BV | Netherlands, Utrecht | 2001 | Dormant
+Talent Hunt Group | United States, New York, Manhattan | 2010 | Inactive
+Talent Merchants INC | United States, CA, Palo Alto | 2006 | Dormant
+Talent2 | Singapore, Singapore | 2009 | Inactive
+TalentBurst | United States, ma, Westborough | 2006 | Dormant
+Talented Minds | United States, Massachusetts, middlesex country | 2009 | Inactive
+Talentmerchants | 95054, CA, Santa Clara | 2008 | Dormant
+Talis Group Limited | United Kingdom, West Midlands, Birmingham | 2010 | Inactive
+Tallience | Tampa, FL | 2013 | Active
+Tamar | United Kingdom, Chiswick, London | 2004 | Dormant
+Tamar.com | United Kingdom, London | 2011 | Active
+Tampere University, dept. of Information Studies | Finland, Tampere | 2003 | Dormant
+Taos | United States, CA, Santa Clara | 2008 | Dormant
+Target Labs, Inc | United States, VA, Arlington | 2010 | Inactive
+TargetCW | United States, CA, San Rafael | 2010 | Inactive
+Tax9er.com | United States, NY, New York | 2005 | Dormant
+Tealium, Inc | Del Mar, CA | 2013 | Active
+Team Cymru, Inc. | United States, IL, Chicago | 2008 | Dormant
+TeamExcel | United States, MN, Minneapolis | 2002 | Dormant
+TeamPrescription | United States, N/A | 2003 | Dormant
+TeamQuest | Krakow / Poland | 2012 | Active
+TeamSphere Interactive | United States, CA, San Francisco | 2001 | Dormant
+Teamware Solutions | Hyderabad , INDIA | 2012 | Active
+Tech Finders | United States, AZ, Phoenix | 2011 | Active
+Tech Hiring Ltd | United Kingdom, London, London | 2010 | Inactive
+Tech ID | United Kingdom, London | 2007 | Dormant
+Tech Mahindra | London, London, London | 2008 | Dormant
+Tech Pro, Inc | United States, CA, San Francisco | 2008 | Dormant
+Tech Strata | Brisbane, QLD, Australia | 2012 | Active
+Tech for Less | United States, Colorado, Colorado Springs | 2009 | Inactive
+TechGuard Security | United States, DC, Washington | 2001 | Dormant
+TechLink Systems | United States, VA, Dulles | 2002 | Dormant
+TechOnLine, Inc. | United States, MA, Bedford | 2004 | Dormant
+TechOne, Inc | San Jose, CA | 2011 | Active
+TechSource Consulting Inc. | United States, Texas, Houston | 2009 | Inactive
+TechSource Consulting, Inc. | United States, Texas, Houston | 2009 | Inactive
+TechUSA | United States, MD, Annapolis | 2009 | Inactive
+Techlink Systems | United States, VA, Reston | 2003 | Dormant
+Technical Connections | United States, CA, Manhattan Beach | 2012 | Active
+Technical Connections Inc | United States, California, West Los Angeles | 2006 | Dormant
+Technical Identity | United Kingdom, London (Central) | 2006 | Dormant
+Technical Staffing Associates | Jacksonville, FL | 2013 | Active
+Technical Staffing Services LLC | United States, Washington, Seattle | 2004 | Dormant
+Technisource | 66211, KS, Overland Park | 2010 | Inactive
+Technisource - Kansas City | United States, Kansas, Shawnee Mission | 2006 | Dormant
+Techno Fusion PTY. LTD. | Australia, SA, Adelaide | 2003 | Dormant
+Technofrix | India, Karnataka, Bangalore | 2009 | Inactive
+Technology Brokerage Group | United States, MD, Lanham | 2006 | Dormant
+Technology Brokerage Group, LLC. / Broadband.com | United States, MD, Lanham or Annapolis | 2005 | Dormant
+Technology Navigators | United States, TX, Austin | 2010 | Inactive
+Technology Partners | United States, MO, St. Louis | 2009 | Inactive
+Technology Partners (Consulting Firm) | St Louis, MO, USA | 2012 | Active
+Technology Partners, Inc. | MO, St. Louis | 2001 | Dormant
+Technology Productivity Services | United States, NY, New York | 2002 | Dormant
+Technology Resource Group | United States, Michigan, Metro Detroit | 2012 | Active
+Technology Search International | United States, NY, NYC | 2007 | Dormant
+Technorati | CA, San Francisco | 2008 | Dormant
+Technosoft Corp | United States, KS, Overland Park | 2008 | Dormant
+Technosoft Corporation | United States, KS, Kansas city | 2007 | Dormant
+Technosoft corporation | United States, MN, St.Paul | 2006 | Dormant
+Technovate Inc. | Canada, Ontario, Toronto | 2007 | Dormant
+Techweb Technologies P. Ltd., | india, karnataka, bangalore | 2003 | Dormant
+TekPartners | telecommute anywhere in the United States | 2013 | Active
+TekSystems | United States, NC, Raleigh | 2005 | Dormant
+Tekessence | United States, California, San Mateo,CA | 2006 | Dormant
+Tekessence Inc | United States, NJ, New Jersey | 2004 | Dormant
+Tekleaders | United States, IL, Chicago | 2006 | Dormant
+Teknatus Solutions | India, Delhi, New Delhi | 2008 | Dormant
+Teknetex | Nashville, TN | 2011 | Active
+Teksystems | USA, IL, Chicago | 2007 | Dormant
+Tele Columbus | Germany, Berlin, Berlin | 2010 | Inactive
+Telecommunications Company | United States, NJ, Holmdel | 2008 | Dormant
+Telenor Broadcast as   	 | Norway, Oslo | 2007 | Dormant
+Teleperformance | United States, Ohio, Dublin | 2010 | Inactive
+Teleperformance Group | United States, Ohio, Colubmus | 2008 | Dormant
+Telephone Internet Number Authority | United States, MD, Annapolis | 2002 | Dormant
+Teleradiology Services | AZ, Tucson | 2007 | Dormant
+Telerama | United States, PA, Pittsburgh | 2004 | Dormant
+Tellme Networks | United States, CA, Mountain View | 2006 | Dormant
+Tellme Networks, Inc. | United States, CA, Mountain View | 2007 | Dormant
+Tellme, A Microsoft Subsidiary | United States, CA, Mountain View | 2007 | Dormant
+Telstra | United Kingdom, London | 2009 | Inactive
+Temp Agency | The Netherlands, Utrecht, Utrecht | 2006 | Dormant
+Tentek | United States, CA, Glendale | 2011 | Active
+Teradata | United States, California, San Diego | 2010 | Inactive
+Terenine | United States, TN, Chattanooga | 2011 | Active
+TestPros | United States, VA, Sterling | 2008 | Dormant
+Tevreden BV | Netherlands, Rotterdam | 2008 | Dormant
+Texas A&M University | United States, TX, College Station | 2006 | Dormant
+Texas.Net | United States, TX, Austin | 2003 | Dormant
+Texterity | United States, Massachusetts, Southborough | 2007 | Dormant
+Texterity, Inc | United States, MA, Southborough | 2005 | Dormant
+Textlink Brokers | United States, AZ, Mesa | 2005 | Dormant
+Textor Webmasters Ltd | United Kingdom, England, London | 2008 | Dormant
+The A Group | United States, TN, Brentwood | 2006 | Dormant
+The ACI Group, Inc. | United States, Maryland, Owings Mills | 2006 | Dormant
+The Adkins Group | United States, CA, Palo Alto | 2005 | Dormant
+The Armada Group | United States, CA, San Jose | 2012 | Active
+The Armada Group, Inc. | United States, CA, San Jose | 2007 | Dormant
+The Ayers Group | United States, CT, Stamford | 2005 | Dormant
+The BMW Group | United States, New York, New York | 2003 | Dormant
+The Bachrach Group | United States, NY, New York | 2008 | Dormant
+The Bartech Group | United States, IN, Bloomington | 2010 | Inactive
+The Berkeley Electronic Press | United States, CA, Berkeley | 2007 | Dormant
+The Berkeley Electronic Press (bepress) | United States, CA, Berkeley | 2008 | Dormant
+The BettyMills Company | United States, CA, San Mateo | 2003 | Dormant
+The Brothers Industrious, Inc. | Orlando, Florida | 2012 | Active
+The Brown Group, LLC | Dallas, TX USA | 2011 | Active
+The Cipher Group | United States, IL, Orland Park | 2004 | Dormant
+The Circle Group | London, London | 2008 | Dormant
+The Cobalt Group | United States, WA, Seattle | 2001 | Dormant
+The Collective Group | Austin, TX | 2013 | Active
+The Conference Exchange | United States, Rhode Island, Cumberland | 2007 | Dormant
+The Consortium | United States, MD, Bethesda | 2010 | Inactive
+The Cypress Group | New York City | 2013 | Active
+The Design People | United States, CA, Marina Del Rey | 2006 | Dormant
+The DogEars Network, LLC | United States, NY, New York | 2003 | Dormant
+The Donaldson Group | NA | 2012 | Active
+The Durango Herald | United States, Colorado, Durango | 2006 | Dormant
+The Epitec Group | United States, MI , Southfield | 2008 | Dormant
+The Erlbaum Group | United States, NY, New York | 2006 | Dormant
+The Erlbaum Group, LLC | United States, NY, New York | 2006 | Dormant
+The Ersus Group, LLC | United States, New York, New York | 2005 | Dormant
+The Franchise Builders | United States, AZ, Tempe | 2004 | Dormant
+The Genome Institute | St. Louis, MO, USA | 2013 | Active
+The Gibbs Partnership | United Kingdom, London | 2006 | Dormant
+The Harvest Consulting Group, Inc. | United States, Illinois, Chciago | 2008 | Dormant
+The Horizon Group | United States, New York, New York (Manhattan) | 2008 | Dormant
+The Hudson Group | Boston, MA, USA | 2012 | Active
+The Insource Group | TX, Dallas | 2007 | Dormant
+The Internet Marketing Center | Canada, BC, Vancouver | 2009 | Inactive
+The Judge Group | United States, IL, Hoffman Estates | 2007 | Dormant
+The Kaizen Partnership | United Kingdom, London | 2005 | Dormant
+The Lawner Group | United States, MA, Cambridge | 2005 | Dormant
+The Leverage Group | United States, NY, New York | 2007 | Dormant
+The Logic Group | United Kingdom, London, London | 2006 | Dormant
+The Lucas Group | United States, VA, Arlington | 2008 | Dormant
+The MathWorks | Natick (Boston Area), MA, United States | 2011 | Active
+The Maven Group - Recruiting | United States, California, San Diego | 2004 | Dormant
+The Millburn Corporation | United States, NY, New York | 2003 | Dormant
+The Mitchell Group | United States, CA, West Los Angeles | 2003 | Dormant
+The Moving Picture Company | United Kingdom, London | 2008 | Dormant
+The Natural Gardening Company | Petaluma, CA | 2012 | Active
+The NewSof  Group, Inc | United States, WA, Seattle | 2002 | Dormant
+The NewSof Group | United States, Washington, Seattle | 2006 | Dormant
+The NewSof Group, Inc. | United States, WA, Seattle | 2002 | Dormant
+The Octane Group | Canada, Ontario, Toronto | 2005 | Dormant
+The Perl Hunter | United States, NY, New York | 2008 | Dormant
+The Perl Review | United States, CA, San Jose | 2011 | Active
+The Project Resource | United States, NY, New York | 2005 | Dormant
+The Pythian Group | Canada, Ontario, Ottawa | 2009 | Inactive
+The RIPE NCC | Netherlands, AMSTERDAM | 2008 | Dormant
+The Register | United Kingdom, Scotland, Edinburgh | 2011 | Active
+The Richard Group | United States, Virginia, DC Metro | 2003 | Dormant
+The Richard Group, Inc. | United States, VA, Manassas | 2009 | Inactive
+The Rimm-Kaufman Group, LLC. | United States, VA, Charlottesville | 2006 | Dormant
+The Rubicon Group | United States, GA, Atlanta | 2004 | Dormant
+The Sacramento Bee (McClatchy) | United States, CA, Sacramento | 2006 | Dormant
+The Swish Group | Australia, Victoria, Melbourne | 2005 | Dormant
+The Sycamore Group | United States, PA., West Chester | 2005 | Dormant
+The Vista Group | United States, CA, Hermosa Beach | 2003 | Dormant
+The Web Recruiters | United States, MO, St. Louis | 2002 | Dormant
+The Wellcome Trust Sanger Institute | United Kingdom, Cambridge | 2008 | Dormant
+The Working Mac | United States, Washington, Seattle | 2007 | Dormant
+The World Community Network | United States, VA, Saint Stephens Church | 2005 | Dormant
+The Yacht Week | United Kingdom, SW6 3HH, London | 2011 | Active
+The big:group | United Kingdom, London  | 2009 | Inactive
+The eMarket Group, Ltd. | United States, OR, Portland | 2001 | Dormant
+TheBootic | Singapore, Singapore | 2011 | Active
+TheMerger | Austria, Vienna | 2009 | Inactive
+TheMuniCenter | United States, NY, New York | 2007 | Dormant
+TheMuniCenter, LLC | United States, NY, New York | 2002 | Dormant
+There, Inc. | United States, California, Menlo Park | 2003 | Dormant
+Thermeon | Gatwick, UK | 2013 | Active
+Thermeon Europe Ltd | United Kingdom, Surrey, Near Gatwick | 2011 | Active
+Think Design | United States, NY, New York | 2004 | Dormant
+Think Design, Inc. | United States, NY, New York | 2005 | Dormant
+Think Wize | Belgium, Flanders, Ghent | 2006 | Dormant
+ThinkAhead Advisory Services Pvt Ltd | India, Karnataka, Bangalore | 2006 | Dormant
+ThinkGeek | United States, Virginia, Fairfax | 2013 | Active
+ThinkGeek, Inc. | United States, Virginia, Fairfax | 2003 | Dormant
+ThinkTank Management Consulting | Germany, Hessen, Darmstadt | 2010 | Inactive
+Thinkronize, Inc. | United States, OH, Cincinnati | 2006 | Dormant
+Thinkstock LLC | United States, NC, Charlotte | 2003 | Dormant
+Thinkstock, LLC | United States, NC, Charlotte | 2004 | Dormant
+ThisNext | United States, CA, Santa Monica | 2010 | Inactive
+ThisNext.com | United States, CA, Santa Monica | 2007 | Dormant
+Thompson Technologies | United States, GA, Alpharetta | 2011 | Active
+Thompson Technologies, Inc | United States, GA, Alpharetta | 2011 | Active
+Thomson Findlaw | United States, Cal, Sunnyvale | 2005 | Dormant
+Thomson Legal & Regulatory | United States, MN, St. Paul | 2006 | Dormant
+Thunderworx | Cyprus, Limassol | 2005 | Dormant
+Ti4  Technology LLC | United States, Ut, Provo | 2007 | Dormant
+Ti4 Technology LLC | United States, UTAH, Springville | 2005 | Dormant
+TiVo | United States, CA, Alviso | 2007 | Dormant
+TiVo Inc. | United States, CA, Alviso | 2006 | Dormant
+TicketMonkey | New York City | 2012 | Active
+Ticketmaster | CA, West Hollywodd | 2008 | Dormant
+Ticketmaster (citysearch.com development team) | United States, California, Los  Angeles | 2002 | Dormant
+Ticketmaster UK | United Kingdom, London | 2002 | Dormant
+Ticketmaster UK Ltd | United Kingdom, London | 2003 | Dormant
+Ticketmaster.com | United States, CA, Los Angeles | 2005 | Dormant
+TidalData Solutions | India, Karnataka, Bangalore | 2010 | Inactive
+Tier 1 Investment Bank | London, UK | 2012 | Active
+Tier One Investment Bank | United Kingdom, London, London | 2011 | Active
+Tier One Technologies | United States, CA, Novato | 2004 | Dormant
+Tigar Properties, Inc. | United States, California, Northridge | 2004 | Dormant
+Tiger Technology | United States, Colorado, Englewood | 2002 | Dormant
+TigerLead | United States, CA, Los Angeles | 2008 | Dormant
+TigerLead Solutions | West Los Angeles, CA, USA | 2012 | Active
+Time Inc | United States, NY, New York | 2006 | Dormant
+Time Out | United Kingdom, London | 2003 | Dormant
+Time Warner Cable | United States, VA, Herndon | 2006 | Dormant
+Timeless Group | United Kingdom, London | 2004 | Dormant
+Tinde ASA | Norway, Oslo | 2002 | Dormant
+Titan Corporation | United States, MD, Landover | 2005 | Dormant
+Tiva Systems, Inc. | United States, CA, San Francisco | 2007 | Dormant
+Top Bay Area Tech Company | CA, Santa Clara | 2010 | Inactive
+Top Brokerage/Trading Firm | Fairfield, CT, Greenwich  | 2008 | Dormant
+Top Digital Agency - London | London Bridge, London | 2013 | Active
+Top Financial Firm | United States, NY, NYC | 2006 | Dormant
+Top Financial Institution | New York, NY | 2011 | Active
+Top Quant Trading Platform | Undefined | 2011 | Active
+Top SF Bay Area Tech Company | CA, Santa Clara | 2010 | Inactive
+Top Secret Security Firm! | United States, CA, Santa Clara | 2011 | Active
+Top electronic trading firm | Undefined | 2012 | Active
+Top systematic trading firm | Undefined | 2012 | Active
+Top tier Investment Bank | England, London | 2007 | Dormant
+Top-Tier Investment Bank | United States, IL, Chicago | 2005 | Dormant
+TopSource | United States, Florida, Coconut Creek | 2010 | Inactive
+Topica | United States, CA, San Francisco | 2003 | Dormant
+Topix | United States, Ca, Palo Alto | 2008 | Dormant
+Topix.net | United States, CA, Palo Alto | 2007 | Dormant
+Toplinker | China, WuXi JiangSu China | 2009 | Inactive
+Topsy | United States, CA, San Francisco | 2009 | Inactive
+Tortus Technologies | United States, MA, West Springfield | 2006 | Dormant
+Total Care Rewards | United States, IL, Telecommute | 2009 | Inactive
+TourWerk GmbH | Germany, NRW, Koeln | 2005 | Dormant
+Tourtellotte Consulting | United States, MA / CT, Natick / New London | 2003 | Dormant
+Towe Hill Insurance Group Inc.  | United States, Florida, Gainesville | 2008 | Dormant
+Tower Research Capital LLC | New York, NY, USA | 2011 | Active
+TowerData | United States, NY, New York | 2004 | Dormant
+Trackvia | United States, CO, Denver | 2011 | Active
+Trade Only | Manchester, UK | 2012 | Active
+TrafficMac | United States, New York, Manhattan | 2005 | Dormant
+Trafficmac | United States, NY, New York | 2005 | Dormant
+Traffics- Softwaresysteme für den Tourismus GmbH | Germany, Berlin | 2010 | Inactive
+Trafika Ltd | United Kingdom, London | 2004 | Dormant
+Training | United States, TX, Fort Worth | 2005 | Dormant
+TrainingBoard | UK, London | 2001 | Dormant
+TransGaming Technologies | Canada, Ontario, Toronto | 2005 | Dormant
+TransQuest Ventures | United States, California, San Jose | 2003 | Dormant
+TransactTools, Inc. | United States, NY, New York | 2002 | Dormant
+Transfer-To | Singapore | 2013 | Active
+Transfer-To (Ingenico) | Singapore, Singapore | 2010 | Inactive
+TransferTo | Singapore | 2012 | Active
+Transitive | United Kingdom, Manchester | 2008 | Dormant
+Transmeta Corporation | United States, CA, Santa Clara | 2001 | Dormant
+Traskalik/Tramino | Germany, Bayern, Oberstdorf | 2009 | Inactive
+Travel TV Network | Beaufort, SC, Ridgeland (Hilton Head,SC) | 2007 | Dormant
+TravelPod | Canada, Ottawa | 2008 | Dormant
+TravelPod-TripAdvisor | Canada, Ottawa | 2008 | Dormant
+Travelaudience | Cologne, Germany | 2013 | Active
+Travelocity | United States, TX, Southlake | 2012 | Active
+Travelocity Nordic AB | Sweden, Stockkholm | 2009 | Inactive
+Traveltek | United Kingdom, Glasgow, East Kilbride | 2007 | Dormant
+Traveltek Ltd | Scotland, Strathclyde, Glasgow, UK and offshore | 2005 | Dormant
+Traveltek Ltd. | United Kingdom, Glasgow, East Kilbride | 2013 | Active
+TreeTechnologies | Canada, Quebec, Montreal | 2005 | Dormant
+Trend Micro, Inc. | Munich, Germany | 2012 | Active
+Trendi Solutions Pty Ltd | Australia, Western Australia, Perth  | 2011 | Active
+Trepp, LLC | United States, New York, New York City | 2006 | Dormant
+Trepp, LLC. | United States, New York, New York City | 2009 | Inactive
+TriPower | United States, CA, Livermore | 2010 | Inactive
+TriQuint Semiconductor | United States, OR, Hillsboro | 2010 | Inactive
+TriStaff Consulting | United States, CA, San Diego | 2004 | Dormant
+Triad Holding LCC | United States, IL, Chicago | 2002 | Dormant
+Tribune Media Services | United States, New York, Queensbury  | 2012 | Active
+Triconsulting | United Kingdom, London | 2006 | Dormant
+TripWolf | Hungary, Budapest, Budapest | 2009 | Inactive
+Triple Crown Consulting | Maynard, MA | 2012 | Active
+Tristaff | United States, CA, San Diego | 2007 | Dormant
+Tritech | CA, LA | 2008 | Dormant
+Tropos Networks | United States, California, Sunnyvale | 2006 | Dormant
+Trovare | United States, California, San Francisco | 2005 | Dormant
+Troy Research | United States, NA, NA | 2004 | Dormant
+TroyResearch | United States, N/A, N/A | 2007 | Dormant
+TruSecure | United States, Virginia, Herndon | 2003 | Dormant
+TrueBridge Resources | United States, TN, Franklin | 2011 | Active
+TrueSys | United States, MD, Baltimore | 2002 | Dormant
+TrustCommerce | United States, CA, Pasadena | 2004 | Dormant
+Trutap Ltd | United Kingdom, London | 2008 | Dormant
+Tsunami Software, Inc. | United States, CA, Palo Alto | 2005 | Dormant
+TubeMogul, Inc. | Emeryville, CA | 2011 | Active
+Tubemogul, Inc. | Emeryville, CA | 2011 | Active
+Tucows | Canada, Ontario, Toronto | 2007 | Dormant
+Tufts University | United States, MA, Boston | 2013 | Active
+Tufts University Sciences Knowledge (TUSK) | United States, MA, Boston | 2007 | Dormant
+Tufts University Sciences Knowledgebase (TUSK) | United States, MA, Boston | 2007 | Dormant
+Tufts University, School of Medicine | United States, MA, Boston | 2006 | Dormant
+Tunesat LLC | New York, NY; Paris, France; or telecommute | 2013 | Active
+Turbo10 | United Kingdom, Kilburn + Rotherhithe - London, London | 2005 | Dormant
+Turnberry Solutions | United States, PA, WEST CHESTER | 2010 | Inactive
+Turning Point Professional Services, llc | United States, IL, Chicago | 2006 | Dormant
+Turnitin | Oakland, CA | 2012 | Active
+Tusk Partners | United States, CA, Menlo Park | 2003 | Dormant
+Tuskerdirect Limited | United Kingdom, Hertfordshire, Watford | 2007 | Dormant
+Tuskerdirect Ltd | United Kingdom, Hertfordshire, Watford | 2005 | Dormant
+Twiki | United States, CA, Sunnyvale | 2009 | Inactive
+Twiki Inc | United States, CA, Sunnyvale | 2010 | Inactive
+Tyche International Inc. | United States, CA, Fremont | 2010 | Inactive
+Tyler Colby Hill Tech Staffing | United States, NY, New York | 2008 | Dormant
+Tyrus Blu | Bulgaria, Sofia, Sofia | 2008 | Dormant
+U.S. Technical Services | United States, CT, Shelton | 2007 | Dormant
+UB | United States, Any, Any | 2008 | Dormant
+UBICS India Pvt Ltd | India, Karnataka, Bangalore | 2005 | Dormant
+UBS Australia | Australia, NSW, Sydney | 2007 | Dormant
+UC Davis | United States, California, Davis | 2010 | Inactive
+UCA Computer Systems | United States, MN, St. Paul | 2004 | Dormant
+UCA Services | United States, NY, NYC | 2006 | Dormant
+UCLA (researcher) | United States, CA, LA area | 2003 | Dormant
+UDig | Richmond, VA | 2013 | Active
+UGO Entertainment | United States, NY, New York | 2010 | Inactive
+UK2 Group | London, UK | 2013 | Active
+UK2.net | United Kingdom, London, London | 2010 | Inactive
+ULTIMATE Ineternet Access, Inc | United States, CA, Ontario | 2003 | Dormant
+ULTIMATE Internet Access, Inc | United States, CA, Ontario | 2005 | Dormant
+UP Networks | United States, TX, Plano | 2003 | Dormant
+UPI Contracting | Australia, NSW, Sydney | 2007 | Dormant
+UPI Contracting - SYDNEY | Australia, NSW - CBD, Sydney | 2007 | Dormant
+UPSERJ | United States, NY, Garden City, Long Island | 2003 | Dormant
+US Bank | United States, Minnesota, Richfield | 2011 | Active
+US Bankruptcy Court - NJ | United States, NJ, Newark | 2006 | Dormant
+US Marine Corps - MCCS (www.usmc-mccs.org) | United States, VA, Quantico | 2011 | Active
+US based company in New Delhi | India, Delhi, New Delhi | 2007 | Dormant
+US based product firm | Bangalore, India | 2013 | Active
+USA America Inc. | United States, Florida, Tampa Bay Area | 2002 | Dormant
+USA Herbals | United States, New Yrok, New York | 2004 | Dormant
+USA Technologies | United States, PA, Malvern | 2003 | Dormant
+USA Technologies, Inc. | 19460, PA, Malvern | 2006 | Dormant
+USGN | United States, AZ, Phoenix | 2009 | Inactive
+USMC-MCCS | United States, Va, Quantico | 2007 | Dormant
+USOOL Tech. | United States, IL, Chicago | 2003 | Dormant
+UTBox Pty Ltd | Australia, NSW, Sydney | 2008 | Dormant
+UV Hosting | United States, MI, Grand Rapids | 2006 | Dormant
+UV Uptime | United States, Michigan, Grand Rapids | 2008 | Dormant
+UW-Madison Condor Project | United States, Wisconsin, Madison | 2008 | Dormant
+UWT | United States, NY, New York | 2010 | Inactive
+Ubicom | United States, California, Sunnyvale | 2006 | Dormant
+Ubics Inc | United States, Illinois, Springfield | 2004 | Dormant
+Ucompass.com, Inc. | United States, FL, Tallahassee | 2007 | Dormant
+Ultrabuys | Los Angeles | 2006 | Dormant
+UniPress Software | United States, NJ, Edison | 2005 | Dormant
+UniPress Software Inc | United States, NJ, Edison | 2006 | Dormant
+UniPress Software Inc. | United States, NJ, Edison (suburb of NYC) | 2005 | Dormant
+Unique Internet Services | United States, N/A, N/A | 2006 | Dormant
+Unisys Corp | United States, DC, Washington | 2003 | Dormant
+United Federation of Teachers | United States, New York, New York City | 2005 | Dormant
+United Games Limited | United Kingdom | 2013 | Active
+United Internet AG (1&1, WEB.DE, GMX) | Germany, Baden-Württemberg, Karlsruhe | 2008 | Dormant
+United Online | United States, UT, Orem | 2004 | Dormant
+United Online, Inc. (www.untd.com) | United States, Utah, Orem | 2006 | Dormant
+United States Bankruptcy Cou | United States, Florida, Tampa or Orlando (Duty Station to be determined by | 2010 | Inactive
+United States Racquet Stringers Association | United States, CA, Vista | 2010 | Inactive
+Unity Technologies | Denmark, DK, Copenhagen | 2010 | Inactive
+Univeristy of California Davis | Davis, CA, USA | 2012 | Active
+Universal Software | MA, Boston | 2007 | Dormant
+Universal Software Corp | United States, MA, Boston | 2010 | Inactive
+University Junction | Canada, Ontario, Ottawa | 2009 | Inactive
+University at Buffalo | United States, NY, Buffalo | 2006 | Dormant
+University of British Columbia | Canada, British Columbia, Vancouver | 2004 | Dormant
+University of California, Berkeley | Berkeley, CA, USA | 2012 | Active
+University of California, Merced | United States, California, Merced | 2008 | Dormant
+University of Chicago | Chicago, IL, United States | 2013 | Active
+University of Chicago Press | Chicago, IL, United States | 2013 | Active
+University of Kansas | United States, Kansas, Lawrence | 2007 | Dormant
+University of Liverpool | Liverpool, Merseyside, UK | 2013 | Active
+University of London | United Kingdom, London | 2009 | Inactive
+University of Oxford | United Kingdom, Oxford | 2006 | Dormant
+University of Pennsylvania | United States, PA, Philadelphia | 2012 | Active
+University of San Diego | United States, CA, San Diego | 2010 | Inactive
+University of South Carolina, Baruch Institute for Marine and Coastal | United States, South Carolina, Columbia | 2006 | Dormant
+University of Technology, Sydney | Australia, NSW, Sydney | 2007 | Dormant
+University of Vienna | Vienna, Austria | 2012 | Active
+University of Washington - Biostat | United States, WA, Seattle | 2006 | Dormant
+Unnames | United Kingdom, Bucks, High Wycombe | 2005 | Dormant
+Untitled | United States, CA, San Francisco | 2008 | Dormant
+Up and Running Support Services | EspaÃ±a, Madrid, Madrid | 2010 | Inactive
+Up and Running Support Services Madrid | Spain, Madrid, Madrid | 2010 | Inactive
+UpLexis Tecnologia | Brazil, Sao Paulo, Sao Paulo | 2006 | Dormant
+UpNorth Consulting | United States, MN, Minneapolis/St. Paul area | 2009 | Inactive
+UpNorth Consulting, Inc. | United States, Minnesota, Bloomington | 2007 | Dormant
+UpNorth-Vet | United States, Minnesota, St. Paul | 2009 | Inactive
+UpSellUSA | United States, Washington, Seattle | 2008 | Dormant
+UpSellUSA, Inc. | United States, WA, Seattle | 2007 | Dormant
+Upperbeyond | United States, CA, San Francisco | 2009 | Inactive
+Uprights | United States, MA, Northampton, | 2002 | Dormant
+Upshot IT Consulting | United States, OH, Dayton | 2011 | Active
+Uptime Systemloesungen GmbH. | Austria, Vienna | 2002 | Dormant
+Urban Consultancy Ltd | Scotland, Glasgow | 2006 | Dormant
+Urood | Kuwait, Kuwait, Kuwait | 2007 | Dormant
+Used Cars Group | Austin, TX, United States | 2012 | Active
+User Friendly Linux | United States, FL, St. Petersburg | 2003 | Dormant
+Uslegal.com | United States, MS, Jackson | 2010 | Inactive
+Uslegalforms.com | United States, MS, Flowood | 2010 | Inactive
+Utiba | Australia, Victoria, Melbourne | 2007 | Dormant
+Utrop AS | Oslo, Norway | 2011 | Active
+V12 Group | NJ, Red Bank | 2010 | Inactive
+VA Linux Systems | United States, California, Fremont | 2001 | Dormant
+VERITAS Software Corporation | United States, CA, Mountain View | 2002 | Dormant
+VFM Interactive | Canada, Ontario, Toronto | 2006 | Dormant
+VIVA USA INC | United States, IL, Chicago | 2005 | Dormant
+VMware | United States, CA, Palo Alto | 2010 | Inactive
+VNES | Seattle/Bellevue WA | 2012 | Active
+VNU Business Media - IPN | United States, New York, New York City | 2006 | Dormant
+VOLT Workforce Solutions | NV, Las Vegas | 2007 | Dormant
+VPS Solutions | Australia, Queensland, Brisbane | 2005 | Dormant
+VRP Consulting, Inc | United States, California, Milpitas | 2005 | Dormant
+Vaco | United States, TN, Nashville | 2006 | Dormant
+Vaco Technology | United States, TN, Memphis | 2006 | Dormant
+Vado, Inc. | CS, San Jose | 2006 | Dormant
+Validad GmbH | Vienna, Austria | 2013 | Active
+Validad GmbH. | Vienna, Austria | 2013 | Active
+Valtech India Systems Pvt Ltd | India, Karnataka, Bangalore | 2005 | Dormant
+ValuInsight, Inc. | United States, FL, Delray Beach | 2005 | Dormant
+ValueClick | United States, CA, Westlake Village | 2011 | Active
+ValueClick Inc. | United States, California, Westlake Village | 2011 | Active
+ValueClick Media | United States, CA, Westlake Village or Santa Barbara | 2011 | Active
+Valueclick | United States, California, Westlake Village | 2004 | Dormant
+Valuepitch | India, Maharashtra, Mumbai | 2009 | Inactive
+VanAbel.Com | OffShore | 2003 | Dormant
+VanKomen Media | United States, UT, Salt Lake City | 2006 | Dormant
+Vanguard Media | United States, NY, New York | 2001 | Dormant
+Vanquish | United States, MA, Marlborough | 2005 | Dormant
+Vantage Recruitment (not end client) | Australia, NSW, Sydney | 2004 | Dormant
+Various - We sell the licenses to the clients but don't provide support | US | 2012 | Active
+Vector | United Kingdom, London | 2003 | Dormant
+Vector Kinetics Inc. | Los Angeles, CA | 2013 | Active
+Vector Resourcing | United Kingdom, London | 2005 | Dormant
+Vedainfo Inc | United States, Philadelphia, Philadelphia | 2011 | Active
+Vedams Software Solutions | India, Andhra Pradesh, Hyderabad | 2011 | Active
+Velocitude | United States, FL, Fort Lauderdale | 2009 | Inactive
+Velocity Hosting | Australia, New South Wales, Sydney | 2004 | Dormant
+Velocity Networks | Australia, Queensland, Gold Coast | 2001 | Dormant
+Velocity Solutions | Australia, NSW, Sydney | 2004 | Dormant
+Velocity Squared, LLC | United States, LA, Baton Rouge | 2006 | Dormant
+Velocity Staff | United States, CO, Denver | 2006 | Dormant
+Velocity Technology Solutions | Minneapolis, MN | 2012 | Active
+VelocityVDS | Australia, NSW, Sydney | 2003 | Dormant
+Venda | United States, New York, New York | 2008 | Dormant
+Venda Limited | United Kingdom, London | 2011 | Active
+Venda Software | United Kingdom, London, London | 2011 | Active
+Vendare Media | United States, CA, Los Angeles | 2005 | Dormant
+Venortech Ltd. | United States, New york, Hauppauge | 2005 | Dormant
+Venture Unlimited Inc. | Waltham, MA, United States | 2013 | Active
+Venturi | London, UK | 2012 | Active
+Venturi-Group | City of London, UK | 2011 | Active
+Veredus Corporation | United States, IL, Chicago | 2008 | Dormant
+Vergelijk.nl B.V. | Netherlands, Utrecht | 2004 | Dormant
+Vergen Inc. | Canada, Ontario, Toronto | 2003 | Dormant
+VeriFone, Inc. | San Francisco, CA | 2012 | Active
+VeriSign | Austria, Vienna/Salzburg | 2007 | Dormant
+VeriSign Communications GmbH | Austria, Vienna/Salzburg | 2008 | Dormant
+Verifia Inc. | United States, CA, San Jose | 2004 | Dormant
+Verisign | Austria, Vienna | 2007 | Dormant
+Verizon | United States, CA, Walnut Creek | 2007 | Dormant
+Verizon Wireless | United States, NJ, Bedminster | 2002 | Dormant
+Vermillion Group | United States, IA, Des Moines | 2007 | Dormant
+Vermonster LLC | United States, MA, Boston | 2005 | Dormant
+Vermont Information Consortium | United States, Vermont, Montpelier | 2006 | Dormant
+VersusLaw, Inc. | United States, Washington, Redmond | 2005 | Dormant
+VerticalResponse | United States, CA, San Francicso | 2006 | Dormant
+Verticalmove, Inc. | United States, WA, Seattle | 2009 | Inactive
+Verza Facility Management BV | The Netherlands, Noord-Holland, Amsterdam | 2005 | Dormant
+VestNet A/S | Denmark, DK, Holbaek | 2003 | Dormant
+Viable, Inc. | United States, MD, Rockville | 2007 | Dormant
+Viajepro.com | United States, Florida, Miami | 2004 | Dormant
+Victim Support | United Kingdom, London | 2003 | Dormant
+Victory 2000 Inc. (non-profit) | United States | 2004 | Dormant
+Video Island / ScreenSelect | United Kingdom, London, North Acton, London | 2005 | Dormant
+VideoEgg | United States, CA, San Francisco | 2006 | Dormant
+VideoSurf Inc. | United States, CA, San Mateo | 2010 | Inactive
+Vidicom Ltd. | United Kingdom, Derbyshire, Chesterfield | 2008 | Dormant
+Vigna Solutions | McLean, VA | 2013 | Active
+Vindicia | United States, CA, San Mateo | 2005 | Dormant
+Vinq | United States, CA, San Jose | 2006 | Dormant
+Vinq, LLC | United States, California, San Jose | 2006 | Dormant
+Vinton Studios | United States, OR, Portland | 2003 | Dormant
+Viralimpressions, Inc.  | United States, CA, Cupertino | 2011 | Active
+Virgin Media | United Kingdom, Berkshire, Langley | 2009 | Inactive
+Virus Bulletin | United Kingdom, Oxfordshire, Abingdon | 2004 | Dormant
+Virus Bulletin Ltd | Oxfordshire, UK | 2012 | Active
+Virve | Australia, Victoria, Melbourne | 2007 | Dormant
+Vision Chain, Inc. | United States, DC, Washington | 2011 | Active
+Vision Commitment Solution | Nederland, Randstad, Maarssen (opdracht Amsterdam) | 2005 | Dormant
+Vision Impact LLC | United States, UT, Saint George  | 2008 | Dormant
+Vision Technology Services | United States, Maryland, Owings Mills | 2012 | Active
+Vision2Hire Solutions Inc | Canada, BC, Vancouver | 2001 | Dormant
+VisitWorks | United States, MI, Grand Rapids | 2009 | Inactive
+Vistair | United Kingdom, Bristol, Bristol | 2007 | Dormant
+Visual Trading Systems | United States, NY, New York | 2005 | Dormant
+Viveli | United States, Illinois, Schaumburg | 2007 | Dormant
+Vivox | United States, MA, Framingham | 2008 | Dormant
+Vivox, Inc | United States, MA, Framingham | 2010 | Inactive
+Vivox, Inc. | United States, MA, Natick | 2010 | Inactive
+Vizrt | United States, NY, New York | 2013 | Active
+Vizrt  | United States, NY, New York | 2010 | Inactive
+VoiceStar, now part of Marchex (NASDAQ: MCHX), | United States, PA, Philadelphia | 2007 | Dormant
+Voicestar | United States, Pennsylvania, Philadelphia | 2007 | Dormant
+Voicestar, now part of Marchex (NASDAQ: MCHX) | United States, PA, Philadelphia | 2008 | Dormant
+Volt | United States, IL, Chicago | 2011 | Active
+Volt Computer Services | United States, WA, Bothell | 2004 | Dormant
+Volt Information Sciences | United States, Washington, Bellevue | 2007 | Dormant
+Volt Services Group | United States, PA, Philadelphia - Western Suburbs | 2005 | Dormant
+Volt Technical Resources | CA, Beverly Hills | 2011 | Active
+Vonage | 07733, New Jersey, Holmdel | 2008 | Dormant
+Vortechs Group | United States, OH, Columbus | 2008 | Dormant
+Vox Systems, LLC | Marin County, CA | 2012 | Active
+Vuvox Network | United States, CA, San Francisco | 2006 | Dormant
+Vzglyd.RU | Russia, Russia, Moscow | 2006 | Dormant
+Vzglyd.RU/Dni.RU/ ... (new projects) | Russia, Russia, Moscow | 2006 | Dormant
+W.I.S | Germany, NRW, Cologne | 2007 | Dormant
+W3 Data | United States, WA, Seattle | 2005 | Dormant
+W3 Data Inc | United States, WA, Seattle | 2005 | Dormant
+W5H Group Inc. | Canada, Ontario, Toronto | 2009 | Inactive
+WA Consultants | Denmark, Copenhagen | 2009 | Inactive
+WA Consultants Ltd | United Kingdom, Hampshire, Farnborough | 2008 | Dormant
+WA Consultants Ltd. | United Kingdom, Exeter | 2006 | Dormant
+WALT DISNEY FEATURE ANIMATION | United States, CA, BURBANK | 2004 | Dormant
+WARP 9 | CA, Santa Barbara | 2006 | Dormant
+WAY FORWARD | United Kingdom, London | 2007 | Dormant
+WCN | United Kingdom, London | 2010 | Inactive
+WCN plc | United Kingdom, London, London | 2010 | Inactive
+WDS IT | United States, KS, Kansas City Metro | 2011 | Active
+WIS | Germany, NRW, Cologne | 2008 | Dormant
+WIdO | Germany, Bonn | 2006 | Dormant
+WNS | United States, CA, San Jose | 2010 | Inactive
+WS Packaging Group | United States, Wisconsin, Green Bay | 2005 | Dormant
+WSI.com Consulting | United States, KY, Erlanger | 2002 | Dormant
+WSP International | Mexico, Nuevo Leon, Monterrey | 2011 | Active
+WSS/Eurostar | Los Angeles, CA | 2012 | Active
+Walker's Manual, Inc. | NJ, Freehold | 2007 | Dormant
+WalkerTek Internet Services | United States, NJ, Fairfield | 2006 | Dormant
+Wall Street Source | United States, NY, New York | 2008 | Dormant
+Wallcreate Ltd | Scarborough, United Kingdom | 2012 | Active
+Walmart.com | United States, CA, Brisbane | 2007 | Dormant
+Wang Trading LLC | Connecticut, Norwalk | 2005 | Dormant
+Warp 9 | United States, CA, Santa Barbara | 2006 | Dormant
+Warpspeed Networks | Australia, QLD, Brisbane | 2003 | Dormant
+Washington State University | United States, WA, Pullman | 2005 | Dormant
+Washington University Genome Sequencing Center | United States, MO, St. Louis | 2007 | Dormant
+Washington University Genome Sequencing Center	(WUGSC) | United States, Missouri, St. Louis | 2004 | Dormant
+Washington University Genome sequencing Center | United States, MO63108, St. Louis | 2005 | Dormant
+Washington University School of Medicine | United States, MO, St. Louis | 2003 | Dormant
+Washington University in Saint Louis | United States, MO, Saint Louis | 2003 | Dormant
+Washington University: Genome Sequencing Center | United States, Missouri, Saint Louis | 2006 | Dormant
+WaveMetrix | United States, California, San Diego, Los Angeles | 2007 | Dormant
+WaveRight Information Technology, LLC. | United States, Ohio, Cleveland | 2006 | Dormant
+Wavetex Inc. | United States, TX, Tyler | 2004 | Dormant
+Way Forward | United Kingdom, London | 2008 | Dormant
+Way Forward New Media Recruitment | United Kingdom, Central London, London | 2004 | Dormant
+WaySpa.com | Canada, Ontario, Toronto | 2008 | Dormant
+We Also Walk Dogs | United States, Illinois, Chicago | 2011 | Active
+WeCARE - Gesellschaft für interdisziplinäres Gesundheitsmanagment | DE, Lower Saxony / Niedersachsen, Göttingen | 2007 | Dormant
+Weatherly Technologies | United States, NJ, Jersey City | 2007 | Dormant
+Web 2.0 Art Platform | United States, MA, Boston | 2009 | Inactive
+Web Development / Search Engine Company | United States, WA, Seattle | 2007 | Dormant
+Web Development Company | India, Delhi, New Delhi | 2010 | Inactive
+Web Development Factory | Undefined | 2010 | Inactive
+Web Experts | USA, NY, Middletown | 2005 | Dormant
+Web-ICT Services B.V. | The Netherlands, NH, Amsterdam | 2010 | Inactive
+WebAssign | United States, NC, Raleigh | 2007 | Dormant
+WebEvent | United States, MA, Andover | 2003 | Dormant
+WebEvent, Inc. | United States, MA, Andover | 2001 | Dormant
+WebFusion | United Kingdom, Middlesex, Uxbridge, near London | 2010 | Inactive
+WebGuard | Canada, Quebec, Montreal, Dorval | 2004 | Dormant
+WebKing Internet Services | U.S., TX, Houston | 2003 | Dormant
+WebPub.com | Earth! | 2012 | Active
+WebZen, Inc. | United States, Maine, Portland | 2006 | Dormant
+Webarchitects | United Kingdom, Sheffield | 2002 | Dormant
+Webfusion | Uxbridge, Greater London, UK | 2012 | Active
+Webfusion Ltd | United Kingdom, London, Uxbridge | 2009 | Inactive
+Webhuset AS | Norway, Bergen, Bergen | 2005 | Dormant
+Webley Sytems | United States, IL, Bannockburn | 2004 | Dormant
+Webmaint | United Kingdom, Cheshire, Stockport | 2004 | Dormant
+Webmaint Ltd | United Kingdom, Stockport, Manchester | 2004 | Dormant
+Webmaint Ltd. | United Kingdon, Stockport | 2004 | Dormant
+Weborama | Paris, France | 2013 | Active
+Webpayment Systems | United States, Utah, Salt Lake City | 2006 | Dormant
+Webscheduler LLC | United States, CA, Oakland | 2010 | Inactive
+Websense | Reading, UK | 2012 | Active
+Websense UK Ltd | United Kingdom, Reading | 2010 | Inactive
+Webster University | United States, MO, St. Louis | 2003 | Dormant
+Websuche Search Technology GmbH & Co. KG | Germany, Niedersachsen, Osnabrueck | 2009 | Inactive
+Wedirect, Inc. | United States, CA, San Jose | 2002 | Dormant
+Weitclick GmbH | Germany, Stuttgart | 2005 | Dormant
+Welcome Trust Sanger Institute | United Kingdom, Hinxton; Cambridge | 2008 | Dormant
+Wellcome Trust Sanger Institute | United Kingdom, Cambridgeshire, Cambridge | 2013 | Active
+Wellcome trust Sanger Institute | United Kingdom, Hinxton, Cambridge | 2010 | Inactive
+WestEd | United States, CA, San Francisco | 2008 | Dormant
+WestHost | United States, UT, Logan | 2002 | Dormant
+Westbourne Partners | Reception Area, Mayfair, City of Westminster, London W1C, UK | 2012 | Active
+Western Communications, Inc. | United States, OR, Bend | 2010 | Inactive
+Western Pennsylvania Industrial | United States, Pennsylvania, Koppel | 2011 | Active
+Westlake Financial Services | United States, CA, Los Angeles | 2012 | Active
+Whapps LLC | United States, OH, Cincinnati | 2003 | Dormant
+Whapps, LLC. | United States, Ohio, Cincinnati | 2004 | Dormant
+WhenU | United States, NY, New York | 2005 | Dormant
+WhenU INC | United States, New York, New York City | 2005 | Dormant
+WhenU.com | United States, NY, New York | 2006 | Dormant
+WhenU.com, Inc. | United States, NY, New York | 2006 | Dormant
+Where2GetIt | United States, IL, Chicago area (Arlington Heights) | 2012 | Active
+Where2GetIt, Inc. | United States, Illinois, Wheeling | 2004 | Dormant
+White Hat Security | United States, California, Santa Clara | 2011 | Active
+White Oak Technologies | United States, MD, Silver Spring | 2005 | Dormant
+White Oak Technologies, Inc. | United States, MD, Silver Spring | 2010 | Inactive
+White Oak Technology, Inc. | United States, MD, Silver Spring | 2009 | Inactive
+White Pages | United States, Washington, Seattle | 2009 | Inactive
+White light publications | Undefined | 2005 | Dormant
+White oak Technologies, Inc. | United States, VA, Crystal City | 2008 | Dormant
+WhiteHat Security | United States, CA, Santa Clara | 2013 | Active
+WhitePages.com | United States, WA, Seattle | 2008 | Dormant
+WhitePages.com, Inc. | United States, WA, Seattle | 2005 | Dormant
+Whitelight Publications | United States, Washington, Tukwila | 2006 | Dormant
+Whitepages.com | 98101, WA, Seattle | 2006 | Dormant
+Whitepages.com, Inc. | United States, WA, Seattle | 2006 | Dormant
+Wi-Free Ltd | Gibraltar | 2013 | Active
+Wifidelity Networks | Canada, Ontario, Toronto | 2004 | Dormant
+Wild About Cars | United States, IL, Chicago | 2009 | Inactive
+Wilder & Associates | Canada, Ontario, Toronto | 2007 | Dormant
+Wildside Adult Personals, Inc. | United States, Maine, Portland | 2005 | Dormant
+Will be disclosed later | New Delhi, India | 2012 | Active
+Williamson Employment | United States, MI, Kalamazoo | 2001 | Dormant
+Wimba, Inc. | United States, NY, New York | 2009 | Inactive
+Winter Wyman | United States, MA, Boston | 2011 | Active
+Winter Wyman  | United States, Massachusetts , Boston Metro West  | 2011 | Active
+WireSpring Technologies | United States, FL, Ft Lauderdale | 2011 | Active
+WireSpring Technologies, Inc | United States, FL, Ft. Lauderdale | 2006 | Dormant
+WireSpring Technologies, Inc. | United States, FL, Ft. Lauderdale | 2004 | Dormant
+WiredStaff Corp. | United States, CA, Woodland Hills, | 2008 | Dormant
+WizzyWeb; | Anywhere, Anywhere, Anywhere (Telecommute) | 2002 | Dormant
+WolfeTech Development Corporation | United States, NY, New York | 2004 | Dormant
+Woloshen and Associates | NJ, Jersey City | 2007 | Dormant
+Wolters Kluwer | United States, MA, Needham | 2011 | Active
+Work India | India, Chennai | 2006 | Dormant
+Work Wonders Staffing, LLC | United States, WA, Seattle | 2006 | Dormant
+Worlco | USA, NJ, Warren | 2011 | Active
+World Careers Network PLC | United Kingdom, London, London | 2008 | Dormant
+World Diagnostics, Inc. | United States, FL, Miami Lakes | 2002 | Dormant
+World Famous Staffing | United States, CA, San Diego | 2005 | Dormant
+World Health Organization | Switzerland, Geneva | 2002 | Dormant
+World Health Organization (WHO) | Switzerland, Geneva | 2009 | Inactive
+WorldBridge Partners | United States, NE, Omaha | 2008 | Dormant
+WorldBy.Com | Italy, Florence, Empoli | 2007 | Dormant
+WorldBy.Com SPA - www.worldby.com | Italy, Tuscany, Empoli - Florence | 2005 | Dormant
+WorldWinner | United States, MA, Newton | 2009 | Inactive
+Worldwideworker | United Arabic Emirates, Dubai | 2003 | Dormant
+Worrell Corporation | United States, Indiana, Indianapolis | 2002 | Dormant
+WorthPoint Corporation | Atlanta, GA | 2012 | Active
+Wotan | United States, CT, Fairfield | 2006 | Dormant
+Wunderdog Sports LLC | Colorado | 2012 | Active
+X-ISS | United States, TX, Houston | 2005 | Dormant
+XING AG | Germany, Hamburg | 2011 | Active
+XL Marketing | United States, NY, New York | 2011 | Active
+XL Marketing Corp. | New York, NY, United States | 2012 | Active
+XOffice LLC | United States, AZ, Tempe | 2011 | Active
+XPEM Inc | Roseville, CA | 2012 | Active
+XQUIZIT TECHNOLOGIES | United States, NEW YORK, NEW YORK | 2004 | Dormant
+XSE Business Analysts | Australia, Victoria, Melbourne | 2005 | Dormant
+XWI International Media | Canada, Ontario | 2009 | Inactive
+Xact Consulting A/S | Danmark, Hvidovre | 2010 | Inactive
+Xavient Information Systems | United States, MO, St Louis | 2009 | Inactive
+Xelia Wizard Systems Inc | Maricopa, AZ, Tempe | 2005 | Dormant
+Xerox | United States, OR, Portland | 2010 | Inactive
+Xerox Corporation | United States, OR, Wilsonville | 2008 | Dormant
+Xilinx | United States, CA, San Jose | 2010 | Inactive
+Xkudos Ltd | Portugal, Lisbon, Lisbon | 2005 | Dormant
+Xoriant | United States, CA, San Jose | 2003 | Dormant
+Xoriant Corporation | United States, California, San Jose | 2003 | Dormant
+Xpand | Australia, VIC, Melbourne | 2008 | Dormant
+Xsell Resources | United States, PA, KING OF PRUSSIA | 2008 | Dormant
+Xtreme Technologies | United States, NY, New York | 2007 | Dormant
+Xymbol Lab | United States, DC, Washington | 2001 | Dormant
+Xynergy, Inc. Web Development | United States, New Mexico, Santa Fe | 2004 | Dormant
+YAHOO | United States, ca, sunnyvale | 2004 | Dormant
+YAHOO! | United States, NY, New York, | 2008 | Dormant
+YOH | San Mateo, California, Redwood City | 2008 | Dormant
+YaBB (Yet another Bulletin Board) | Undefined | 2010 | Inactive
+Yachtworld.com/Boats.com | Canada, BC, Vancouver | 2006 | Dormant
+Yahoo | Undefined | 2011 | Active
+Yahoo - Asia | Taiwan (flexible - see detail), Taipei	(preferred) | 2007 | Dormant
+Yahoo Inc | United States, CA, Santa Clara | 2008 | Dormant
+Yahoo Inc, Yahoo Search Marketing Engineering | United States, CA, Pasadena | 2005 | Dormant
+Yahoo Inc. | United States, CA, Sunnyvale | 2008 | Dormant
+Yahoo Search Marketing | United States, CA, Pasadena, CA (soon to be Burbank) | 2005 | Dormant
+Yahoo! | United States, CA, Sunnyvale | 2012 | Active
+Yahoo! Finance | United States, CA, Sunnyvale | 2006 | Dormant
+Yahoo! Inc | Undefined | 2008 | Dormant
+Yahoo! Inc. | United States, CA, Sunnyvale | 2007 | Dormant
+Yahoo! Local | United States, CA, Santa Clara | 2008 | Dormant
+Yahoo! Search Marketing | United States, California, Burbank | 2006 | Dormant
+Yahoo! Search Technology | United States, CA, Sunnyvale | 2005 | Dormant
+Yahoo, Inc | United States, CA, Sunnyvale | 2009 | Inactive
+Yahoo, Inc. | United States, CA, Sunnyvale | 2002 | Dormant
+Yale New Haven Hospital | United States, CT, New Haven | 2006 | Dormant
+Yale University | United States, Connecticut, New Haven | 2007 | Dormant
+Yamaha Motor | United States, CA, Cypress - Los Angeles | 2007 | Dormant
+Yellow Media Inc | Canada, Ontario, Toronto | 2006 | Dormant
+Yenting nv | Belgium, Antwerp | 2007 | Dormant
+YesBookit | Newcastle, NSW, Australia | 2013 | Active
+Yeshiva University | Bronx, New York, United States, 10461 | 2011 | Active
+Yesmail | United States, MA, Andover | 2001 | Dormant
+Ymogen | United Kingdom, London | 2008 | Dormant
+Ymogen Limited | United Kingdom, London | 2006 | Dormant
+Ymogen Ltd | United Kingdom, London | 2008 | Dormant
+Ymogen Ltd. | United Kingdom, London | 2008 | Dormant
+Yoh | United States, California, San Francisco Bay Area - Mid Peninsula | 2010 | Inactive
+Yoh Company | United States, OH, Dayton | 2005 | Dormant
+Yoh IT | United States, South Carolina, Greenville | 2003 | Dormant
+Yoh IT and Engineering | United States, CA, Belmont | 2010 | Inactive
+Yoh IT and Engineering (Staffing firm) | United States, CA, Belmont | 2010 | Inactive
+Yoh Services | Belmont, CA | 2011 | Active
+Yoh Services (Staffing firm) | USA, CA, San Mateo | 2011 | Active
+Yokel, Inc. | United States, MA, Waltham | 2005 | Dormant
+YouCheckCredit.com | 92660, CA, Newport Beach | 2010 | Inactive
+Young Americans for Liberty | United States, Virginia, Arlington | 2010 | Inactive
+YourAmigo | Australia, South Australia, Adelaide | 2008 | Dormant
+YourAmigo Ltd | Australia, SA, Adelaide - South Australia | 2011 | Active
+YourSolutions.net, LLC | United States, UT, Sandy  (Near Salt Lake) | 2011 | Active
+YourSolutions.net, LLC - MLM Software Company | United States, Utah, Moab | 2007 | Dormant
+ZSI - CENTRE FOR SOCIAL INNOVATION | Austria, Vienna | 2007 | Dormant
+ZW Technology | Austria, Wien, Wien | 2001 | Dormant
+ZYNET Limited | Exeter, Devon, UK | 2013 | Active
+Zap Group | Ramat Gam, Israel | 2013 | Active
+Zappos | United States, CA, San Francisco | 2003 | Dormant
+Zappos Family of Companies | United States, NV, Las Vegas | 2011 | Active
+Zappos IP inc. | Las Vegas, NV, USA | 2012 | Active
+Zappos.com | United States, KY, Shepherdsville | 2010 | Inactive
+Zappos.com, Inc. | United States, Nevada, Las Vegas | 2004 | Dormant
+Zaunz Publishing GmbH | Germany, Bavaria, Eichenau | 2005 | Dormant
+Zednax | United Kingdom, Manchester | 2009 | Inactive
+Zenaide Technologies | United States, CA, San Jose, | 2010 | Inactive
+Zenex PArtners | United States, CA, Novato | 2006 | Dormant
+Zentyal | Zaragoza, Spain | 2013 | Active
+Zeuscoder inc. | India, maharashtra, Nashik | 2007 | Dormant
+Zimu Inc. | United States, NY, New York | 2007 | Dormant
+Zion Partners | United States, CA, Los Angeles | 2003 | Dormant
+ZipRecruiter | Los Angeles, CA | 2013 | Active
+ZipSearch | United States, CA, San Diego | 2007 | Dormant
+ZipSearch! | United States, CA, San Diego | 2007 | Dormant
+Zmanda | United States, CA, Sunnyvale | 2009 | Inactive
+ZoeCity | United States, WA, Seattle | 2007 | Dormant
+Zone-Office | Canada, Quebec, Montreal | 2006 | Dormant
+Zoopla | United Kingdom, London, London | 2011 | Active
+Zoopla.co.uk | United Kingdom, N Acton, London | 2008 | Dormant
+Zoovy, Inc | United States, CA, Carlsbad (north of San Diego) | 2010 | Inactive
+Zucker, Goldberg & Ackerman | United States, New Jersey, Mountainside | 2006 | Dormant
+Zurka Interactive | Washington, DC | 2012 | Active
+Zweites deutsches Fernsehen | Germany, Rheinland-Pfalz, Mainz | 2007 | Dormant
+Zygox. Inc | United States, California, San Jose | 2003 | Dormant
+[confidential] | United States, NY, Brooklyn | 2008 | Dormant
+[ta!ent scout] | Australia, Victoria, Melbourne | 2009 | Inactive
+a 10-year-old publicly-traded "startup" | United States, CA, Silicon Valley | 2009 | Inactive
+aCerno Inc | United States, CA, San Francisco | 2006 | Dormant
+abacix | Mexico, df, mexico city | 2010 | Inactive
+abrs | United Kingdom, London | 2009 | Inactive
+abrs ltd | United Kingdom, London | 2006 | Dormant
+absolutearts.com | United States, Ohio, Granville | 2006 | Dormant
+adaps IT recruitment | Australia, Melbourne, Victoria, | 2005 | Dormant
+adaptive technologies ltd | United Kingdom, east sussex, brighton | 2002 | Dormant
+aerodeon | United Kingdom, London | 2004 | Dormant
+aesop.com | United States, CA, Los Angeles | 2002 | Dormant
+aibetsu | Hungary | 2007 | Dormant
+airG | Canada, British Columbia, Vancouver | 2009 | Inactive
+alldayPA | United Kingdom, Manchester | 2004 | Dormant
+amazon.com | United States, WA, Seattle | 2005 | Dormant
+artelight GmbH | Germany, NRW, Buende | 2009 | Inactive
+athenahealth | United States, MA, Watertown | 2009 | Inactive
+avity | United States, ct,ny,nj, new haven-ct | 2007 | Dormant
+backcountry.com | United States, UT, Park City | 2007 | Dormant
+bbNetwork Ltd | Undefined | 2004 | Dormant
+bbc | United Kingdom, london | 2002 | Dormant
+bbc.co.uk | United Kingdom, England, London | 2005 | Dormant
+beRecruited | San Francisco, CA | 2011 | Active
+bepress | Berkeley, CA, USA | 2013 | Active
+best-in-deals | Hannover, Germany | 2012 | Active
+bigsecurity.com | United States, CO, Colorado Springs | 2005 | Dormant
+bizjournals | United States, NC, Charlotte | 2007 | Dormant
+bizjournals.com | United States, NC, Charlotte | 2007 | Dormant
+bkwholesale | United States, ca, sacramento | 2006 | Dormant
+blackink | South Africa, Cape Town | 2004 | Dormant
+blank for screening | United States, PA, Philadelphia | 2004 | Dormant
+blekko | United States, CA, Redwood Shores | 2009 | Inactive
+blip.tv | United States, NY, New York | 2006 | Dormant
+brookbend outdoor furniture | United States, ma, hopkinton | 2002 | Dormant
+bushcards.com | United States, ny, new york | 2003 | Dormant
+c/o C&D Elite Ltd | United Kingdom, Berkshire, Reading | 2005 | Dormant
+cPanel | United States, TX, Houston | 2013 | Active
+cPanel INC | United States, Texas, Houston | 2007 | Dormant
+cPanel Inc. | United States, Texas, Houston  | 2011 | Active
+cPanel of Texas LLC | United States, Texas, Houston | 2009 | Inactive
+cPanel, Inc | Houston, TX | 2013 | Active
+careerfactorllc.com | USQ, CT, New Haven County | 2003 | Dormant
+cargotel | United States, md, telecommute | 2004 | Dormant
+chi | Brazil, São Paulo, São Paulo | 2009 | Inactive
+chileviagem | chile, pucon, pucon | 2004 | Dormant
+citysearch | United States, CA, Los Angeles | 2004 | Dormant
+ciudadnet | chile, chile, chile | 2004 | Dormant
+clackmas paper products | United States, OR, clackmas | 2007 | Dormant
+clickpatrol | United States, TX, Dallas | 2002 | Dormant
+client of Custom Search Group, Inc. | United States, MA, Boston | 2008 | Dormant
+cloud | Thailand, Bangkok | 2011 | Active
+cogmedia | canada, quebec, montreal | 2005 | Dormant
+confidential | United States, NY, New York | 2009 | Inactive
+contractor of Motorola | China, BeiJing | 2007 | Dormant
+contractor.com | Canada, ON, Toronto | 2005 | Dormant
+craigslist | 94122, CA, San Francisco | 2012 | Active
+creative solutions services, llc | United States, new york, port washington | 2008 | Dormant
+curtaintech | 10018, NY, New York | 2008 | Dormant
+deasil systems | United States, ny, new york | 2004 | Dormant
+delphi HR-Systems GmbH | Germany, Hamburg | 2007 | Dormant
+demoxi Inc | United States, WA, Bellevue | 2007 | Dormant
+dp connect | United Kingdom, London | 2006 | Dormant
+dress-for-less GmbH | Germany, 65439 Flörsheim am Main | 2013 | Active
+dxi corp | greece, athens | 2004 | Dormant
+e screening room | United States, CA, San Rafael | 2006 | Dormant
+e screening room (non-profit) | United States, CA, San Francisco | 2005 | Dormant
+e screening room . org | United States, CA, San Rafael | 2006 | Dormant
+e screening room .org | United States, ca, San Rafael | 2006 | Dormant
+e-Commerce company in Toronto | Canada, Ontario, Toronto | 2006 | Dormant
+e-Dialog | United States, MA, Lexington | 2008 | Dormant
+e-Dialog,Inc. | United States, MA, Lexington | 2007 | Dormant
+e-Man Solutions International | United Kingdom, West London, London | 2008 | Dormant
+e-Perception. Inc. | United States, CA, Temecula | 2002 | Dormant
+e-Primary | United States, PA, Philadelphia | 2001 | Dormant
+e-commerce client | United Kingdom, (Central), London | 2006 | Dormant
+e.Cross GmbH & Co. KG | Germany, Hannover | 2005 | Dormant
+e/t/s didactic media | Germany, Bavaria, Munich | 2005 | Dormant
+eBD Soft | Spain, Catalunya, Barcelona | 2009 | Inactive
+eBay | United States, California, San Jose | 2011 | Active
+eBay Inc | United States, CA, San Jose | 2004 | Dormant
+eBay Inc. | United States, California, San Jose | 2008 | Dormant
+eContact | Belgium, Brussels | 2001 | Dormant
+eGENTIC Systems GmbH | Darmstadt, Germandy | 2012 | Active
+eJournalPress | United States, MD, Bethesda | 2013 | Active
+eMarketTeam Holdings LLC | Telecommute | 2012 | Active
+eNamix Inc. | United States, CA, Aliso Viejo | 2003 | Dormant
+ePrize | United States, Michigan, Pleasant Ridge | 2013 | Active
+ePrize LLC | MI, Detroit | 2010 | Inactive
+ePrize, LLC | United States, Michigan, Pleasant Ridge | 2007 | Dormant
+ePsych Solutions | Australia, QLD, BRISBANE | 2004 | Dormant
+ePublishing | United States, IL, Chicago | 2007 | Dormant
+eQuest Solutions | U.S., ca, Alhambra | 2010 | Inactive
+eQuisto Customized Commerce GmbH | Germany, Cologne | 2005 | Dormant
+eScription | United States, MA, Needham | 2007 | Dormant
+eScription, Inc | United States, MA, Needham | 2006 | Dormant
+eSiteGuru.com | United States, CA-95747, Roseville | 2004 | Dormant
+eSoftDev | Romania, -, Focsani, Bucharest | 2003 | Dormant
+eSynergy Solutions | London,  United Kingdom | 2011 | Active
+eTechFocus | United States, CA, Cupertino | 2005 | Dormant
+eTouch Systems | United States, ca, Fremont | 2006 | Dormant
+eWingz Systems, Inc. | United States, California, San Francisco | 2002 | Dormant
+ed2go.com | United States, CA, Temecula | 2006 | Dormant
+edurus, Inc. | United States, NV, Carson City | 2001 | Dormant
+email to ask | United States, CA, Cupertino | 2011 | Active
+emfasis.com | United States, DC, Washington | 2002 | Dormant
+empiric solutions | United Kingdom, london, london | 2007 | Dormant
+epublica GmbH | Germany, HH, Hamburg | 2008 | Dormant
+epublica gmbH | Germany, HH, Hamburg | 2007 | Dormant
+ettain group | Morrisville, NC | 2012 | Active
+eviesays.com | United States, Tennessee, Nashville | 2011 | Active
+expanXion | United States, CA, Santa Monica | 2004 | Dormant
+expanXion Recruiting | United States, CA, San Francisco | 2008 | Dormant
+fastclick | United States, CA, Santa Barbara | 2003 | Dormant
+forrealty.com | Undefined | 2006 | Dormant
+freeradicalnetworks.com | Tele, Tele, Telecommute | 2003 | Dormant
+frumdate | United States, md, baltimore | 2001 | Dormant
+fruuts AG | Germany, Berlin, Berlin | 2011 | Active
+ftwilliam.com | United States, Wisconsin, Madison/Milwaukee | 2008 | Dormant
+futureLAB AG | Switzerland, Zurich, Winterthur | 2007 | Dormant
+g2 Recruitment Solutions | United Kingdom, London | 2008 | Dormant
+getPraised | Germany, Hamburg | 2009 | Inactive
+getanet GmbH & Co. KG | DE, Hamburg, Hamburg | 2011 | Active
+gp333 | Undefined | 2006 | Dormant
+gteam | HOME BASED | 2013 | Active
+gtsee.com | Undefined | 2007 | Dormant
+gumtree.com ltd. | United Kingdom, Surrey, Richmond Upon Thames | 2006 | Dormant
+hdl focus | 95054, ca, santa clara | 2003 | Dormant
+hedge-row.co.uk | United Kingdom, London - City | 2005 | Dormant
+hi5 Networks  | United States, CA, San Francisco | 2008 | Dormant
+hi5 Networks (US) | United States, California, San Francisco | 2007 | Dormant
+highorbit | South Africa, WC / GAU, Cape Town / Johannesburg | 2008 | Dormant
+hiller paper | United States, WA, Spokane | 2008 | Dormant
+horizon wimba | United States, ny, new york | 2006 | Dormant
+hotonline | United Kingdom, London | 2006 | Dormant
+hotonline Ltd | United Kingdom, London | 2006 | Dormant
+hte | Germany, Baden Wuerttemberg, Heidelberg | 2006 | Dormant
+http://koko.jariyabee.com/app | United States, WA, Seattle | 2003 | Dormant
+http://www-all-in-one-e-commerce.com | United States, NV, Las Vegas | 2002 | Dormant
+http://www.rapint.com | Australia, Telecommute, Telecommute | 2009 | Inactive
+humyo.com | United Kingdom, West Yorkshire, Leeds/Bradford | 2009 | Inactive
+humyo.com Ltd. | United Kingdom, West Yorkshire, Saltaire - Bradford, Leeds | 2008 | Dormant
+i4U | Australia, Queensland, Gold Coast | 2006 | Dormant
+i5invest | Austria, Vienna or Salzburg | 2009 | Inactive
+i5invest, www.123people.com | Austria/Hungary, Vienna/Budapest | 2008 | Dormant
+iATN | United States, California, Brea | 2003 | Dormant
+iAgora | Spain, Barcelona | 2006 | Dormant
+iAgora.com | Spain, Catalunya, Barcelona | 2011 | Active
+iAnnounce | United Kingdom | 2012 | Active
+iAnywhere Solutions | United States, California, Dublin (East Bay) | 2005 | Dormant
+iAnywhere Solutions / AvantGo | United States, CA, Dublin | 2004 | Dormant
+iGuard / Quintiles | United States, NJ, Princeton | 2007 | Dormant
+iMatch Technical Services | United States, WA, Seattle | 2011 | Active
+iPIX | United States, CA, San Ramon | 2003 | Dormant
+iParadigms, LLC | United States, CA, Oakland | 2005 | Dormant
+iPost | United States, CA, San Rafael | 2011 | Active
+iPower | United States, CA, Santa Monica | 2005 | Dormant
+iPowerWeb | United States, CA, Santa Monica | 2003 | Dormant
+iPowerweb Inc. | United States, CA, Santa Monica | 2004 | Dormant
+iSpace, Inc | United States, CA, Santa Monca | 2005 | Dormant
+iTalent Inc. | United States, California, San Francisco | 2006 | Dormant
+iTeam | United States, MA, Littleton | 2008 | Dormant
+iTeam Inc | United States, MA, Littleton | 2008 | Dormant
+iTeam, Inc. | United States, MA, Westford | 2008 | Dormant
+iVenue.com | United States, CA, Whitter | 2007 | Dormant
+iWebmasters.com | Philippines, Makati City | 2005 | Dormant
+ibex Healthdata Systems | United States, IL, Rosemont | 2002 | Dormant
+ibex Healthdata Systems, Inc. | Illinois, Rosemont | 2004 | Dormant
+iboats.com | United States, UT, Draper | 2007 | Dormant
+iconma | United States, VA, Reston | 2006 | Dormant
+iiNet Ltd | Melbourne, Australia | 2012 | Active
+illicoweb | France, Morvillars | 2009 | Inactive
+ilogicnet consulting | United States, OHIO, Miamisburg,Ohio | 2009 | Inactive
+inSite Internet Solutions | United States, IL, Woodstock | 2003 | Dormant
+infoSpider | United States, CA, Milpitas | 2001 | Dormant
+interbase corporation | United States, ca, Tustin | 2001 | Dormant
+international computer network | United States, pa, bristol | 2006 | Dormant
+inviCRO | Cologne, Germany or Boston, MA | 2012 | Active
+ionUS.com | United States, California, San Diego | 2001 | Dormant
+ionix Limited | United Kingdom, Suffolk | 2008 | Dormant
+ireland.com | Ireland, Dublin | 2006 | Dormant
+isoTree, LLC | United States | 2007 | Dormant
+itembase GmbH | Berlin, Germany | 2013 | Active
+iwdevelopers | Ireland | 2010 | Inactive
+j2 Global | Los Angeles, CA, | 2012 | Active
+jzb90 | Netherlands, Arnhem | 2007 | Dormant
+kanetix.ca | Canada, Ontario, Toronto | 2011 | Active
+karmadownload.com | United Kingdom, London | 2005 | Dormant
+kgbweb | United States, NY, New York | 2009 | Inactive
+large interactive agency | United States, New York, New York | 2008 | Dormant
+latz://new.media | Deutschland, Saarland, Saarbrücken | 2003 | Dormant
+lawnsales llc | United States, california, santa monica | 2007 | Dormant
+log | Portugal, Lisbon | 2005 | Dormant
+log - Open Source Consulting | Portugal, Lisbon | 2007 | Dormant
+logicLAB | Denmark, Copenhagen | 2007 | Dormant
+logical line GmbH | Hannover, Germany | 2012 | Active
+mBalance | The Netherlands, Amsterdam | 2005 | Dormant
+mBase | Canada, AB, Edmonton | 2006 | Dormant
+mBase Systems Inc | Canada, Alberta, Edmonton | 2003 | Dormant
+mBase Systems Inc. | Canada, AB, Edmonton | 2005 | Dormant
+major NYC Firm | United States, NY, NYC | 2007 | Dormant
+mindsource | United States, CA, San Jose | 2001 | Dormant
+mnusa | Las Vegas, NV, USA | 2011 | Active
+mobile messaging sollutions (mms) | United States, MA, Boston | 2009 | Inactive
+mobile messaging solutions (mms) | Austria, Vienna/Salzburg | 2009 | Inactive
+mobile messaging solutions (mms) GmbH | Austria, Vienna | 2009 | Inactive
+mobile.de | Germany, Hamburg | 2001 | Dormant
+mobile.de AG | Germany, Hamburg | 2004 | Dormant
+mptv | United States, CA, Van Nuys | 2009 | Inactive
+multimap.com | United Kingdom, England, London | 2006 | Dormant
+mySociety | United Kingdom | 2013 | Active
+mySociety Ltd | United Kingdom, London, London | 2012 | Active
+mySociety.org | United Kingdom, Any, Any | 2007 | Dormant
+mytriggers.com | United States, Ohio, Columbus | 2007 | Dormant
+n-Cube Technologies | United States, CA, Sunnyvale | 2008 | Dormant
+n-Cube Technologies  | United States, CA, Marina District, N. San Francisco | 2008 | Dormant
+n-cube Technologies | United States, CA, Marina District, N. San Francisco | 2007 | Dormant
+n/a | United Kingdom, not given | 2008 | Dormant
+n/a; I'm just a student | United States, MA, Boston | 2003 | Dormant
+n\a | United States, Texas, Frisco | 2002 | Dormant
+na | yourhouse, usa | 2011 | Active
+nabbr.biz | United States, NY, New York | 2007 | Dormant
+name withheld | United States, Remotely, Work | 2007 | Dormant
+needabee | United States, California, San Francisco | 2011 | Active
+netPolarity | United States, VA, Reston | 2004 | Dormant
+netPolarity, Inc. | United States, VA, Reston | 2005 | Dormant
+netfxx.net | United States, FL, Hollywood | 2004 | Dormant
+network appliance | 94089, CA, Sunnyvale | 2007 | Dormant
+nfon AG | Germany, Bavaria, Munich | 2011 | Active
+nnit A/S | Denmark, Copenhagen, Bagsvaerd | 2010 | Inactive
+non disclosed | ny -teleconmute | 2013 | Active
+none | 02906, RI, Providence | 2008 | Dormant
+noris network AG | Deutschland, Nürnberg | 2012 | Active
+noyona.com | United States, CA, Palo Alto | 2006 | Dormant
+oDesk | United States, CA, Menlo Park | 2012 | Active
+one of MNC client based out in Bangalore | Bangalore | 2013 | Active
+ontotel | United States, new jersey, maplewood | 2005 | Dormant
+open network design | Undefined | 2007 | Dormant
+pair Networks, Inc. | United States, PA, Pittsburgh | 2005 | Dormant
+pep productions | austria, vienna, vienna | 2001 | Dormant
+petfinder.com  |  animal planet | United States, any state, home office | 2006 | Dormant
+pingAUDIO | United States, VA, Reston | 2003 | Dormant
+please contact for Company Info | United States, NY, Manhattan | 2008 | Dormant
+plusW GmbH | Schorndorf, Germany | 2012 | Active
+plusw GmbH | Germany, Neckartailfingen | 2009 | Inactive
+pobox.com | United States, Pennsylvania, Philadelphia | 2003 | Dormant
+praecipuus | Canada, Ontario, Toronto | 2006 | Dormant
+pricegrabber.com | United States, CA, Culver City | 2005 | Dormant
+private | United States, CA, San Mateo | 2009 | Inactive
+private contractor | Australia, NSW, Sydney | 2003 | Dormant
+private individual | United Kingdom, Oxfordshire, Oxford | 2005 | Dormant
+project49 AG | Germany, Berlin | 2001 | Dormant
+publicopinionresearch.com | U.S., California | 2002 | Dormant
+quality-webhosting.net | Undefined | 2002 | Dormant
+quickflicks, inc. | United States, CA, Marina del Rey | 2003 | Dormant
+rSchoolToday.com | Undefined | 2008 | Dormant
+rSchooltoday.com | United States, Minnesota, Winona | 2009 | Inactive
+rackAID | United States, CT, New Haven | 2002 | Dormant
+realestate.com.au | Australia, Victoria, Richmond, Melbourne | 2010 | Inactive
+rjm business solutions GmbH | Germany, Lampertheim | 2007 | Dormant
+s1 | United Kingdom, Scotland, Glasgow | 2011 | Active
+see description | Undefined | 2002 | Dormant
+simplex info systems | United States, CA, north bay | 2005 | Dormant
+smc technologies | United States, DC, Washington | 2006 | Dormant
+social media startup | Santa Monica, CA, United States | 2011 | Active
+softfabrik GmbH | Germany, Frankfurt am Main | 2005 | Dormant
+spamzap.com | Telecommute, Telecommute, Telecommute | 2004 | Dormant
+sparksupport | india, kerala, cochin | 2009 | Inactive
+stanford university | United States, ca, stanford | 2002 | Dormant
+state51 | United Kingdom, London | 2013 | Active
+stealth | United States, CA, Hayward | 2006 | Dormant
+stealth mode | United States, San Francisco, CA | 2010 | Inactive
+stimTV | United States, CA, Oxnard | 2005 | Dormant
+sysinteger | Germany, Bayern, Muenchen/Munich | 2005 | Dormant
+systags GmbH | Germany, NRW, Düsseldorf | 2007 | Dormant
+t.b.a. | United States, CA, Santa Monica | 2007 | Dormant
+the Rubicon Project | United States, CA, Los Angeles | 2011 | Active
+thecitysecret ltd | United Kingdom, North Yorkshire, Richmond | 2008 | Dormant
+thelendingmasters.com | United States, FL, Miami | 2007 | Dormant
+theregister.co.uk | Edinburgh, Scotland, UK. | 2012 | Active
+think project! International GmbH & Co KG | Berlin, GERMANY | 2013 | Active
+think project! International GmbH & Co. KG | Germany, Berlin | 2009 | Inactive
+topix | United States, ca, palo alto | 2006 | Dormant
+topix.net | United States, CA, Palo Alto | 2006 | Dormant
+traffic.com | United States, PA, Wayne | 2006 | Dormant
+tripwolf | Vienna, Austria | 2011 | Active
+ts.com | United Kingdom, Oxon, Oxford | 2007 | Dormant
+ts.com Ltd | United Kingdom, Oxfordshire, Kidlington | 2005 | Dormant
+tuscany networks Ltd. | United Kingdom, Hampshire, Basingstoke | 2011 | Active
+undisclosed until candidate is selected | United States, Illinois / New York, Chicago / New York City | 2008 | Dormant
+uptime systemlösungen gmbh | Austria, vienna | 2003 | Dormant
+urbia.com AG | Germany, NRW, Cologne | 2011 | Active
+urbia.com AG - ein Unternehmen von Gruner+Jahr | Köln / Cologne, NRW, Germany | 2012 | Active
+vMoksha Technologies | United States, CA, Bay Area | 2003 | Dormant
+vertraulich - wird im ErstgesprÃ¤ch genannt | Deutschland / Germany, Berlin | 2010 | Inactive
+vice versa limited | United Kingdom, London | 2003 | Dormant
+videorelay.com | United States, Louisiana, New Orleans | 2002 | Dormant
+voxclever | Bracknell, United Kingdom | 2013 | Active
+web advertising company | France, Paris | 2011 | Active
+webbee esolutions private limited | india, delhi, delhi | 2005 | Dormant
+webit! Gesellschaft für neue Medien mbH | Germany, Saxony, Dresden | 2008 | Dormant
+webline productions Inc. | United States, Florida, Boca Raton | 2001 | Dormant
+wishli.st | United Kingdom, Northumberland, Hexham | 2008 | Dormant
+writch | United States, CA, Ukiah | 2009 | Inactive
+www.Intexer.com | Kochi, Kerala, India | 2011 | Active
+www.NewsNow.co.uk | United Kingdom, West London | 2011 | Active
+www.cyberjoblist.com | United States, TX, Houston | 2011 | Active
+www.libertyjobs.com | Langhorne, PA | 2012 | Active
+www.programEz.net | Preferably from Europe for time zone considerations | 2004 | Dormant
+www.skoosh.com | United Kingdom, East Sussex, Brighton | 2011 | Active
+www.ustrippoker.com | Canada, Manitoba, ONline | 2007 | Dormant
+www.zoek.nl B.V. | The netherlands, Overijssel, Zwolle | 2004 | Dormant
+ziStudio.net | Canada, Alberta, Edmonton | 2003 | Dormant
+Österreichische Webanalyse | Österreich, Wien | 2006 | Dormant
+>>>>>>> 54525dc254ac10b9493d5002a2f398de53799f40
