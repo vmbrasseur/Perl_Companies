@@ -3377,10 +3377,7 @@ Pobox.com | United States, PA, Philadelphia | 2009 | Inactive
 Points Per Game | United States, NC, Research Triangle Park | 2010 | Inactive
 Polaris Search Network | United States, New York, Manhattan | 2010 | Inactive
 Polaris Search Network, Inc. | United States, NY, New York | 2011 | Active
-Polyvore | Mountain View, CA, USA | 2012 | Active
-Polyvore Inc | United States, CA, mountain view | 2009 | Inactive
-Polyvore Inc. | United States, CA, Mountain View | 2010 | Inactive
-Polyvore, Inc. | Mountain View, CA, USA | 2012 | Active
+Polyvore, Inc. | Mountain View, CA, USA | 2013 | Active
 Popcorn Web Design | United Kingdom, Essex, Stansted | 2008 | Dormant
 Porta Software Ltd | Ukraine, Kiev | 2004 | Dormant
 Portal Planet | United States, OH, Cincinnati | 2003 | Dormant
