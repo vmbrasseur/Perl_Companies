@@ -4394,7 +4394,6 @@ Think Design, Inc. | United States, NY, New York | 2005 | Dormant
 Think Wize | Belgium, Flanders, Ghent | 2006 | Dormant
 ThinkAhead Advisory Services Pvt Ltd | India, Karnataka, Bangalore | 2006 | Dormant
 ThinkGeek | United States, Virginia, Fairfax | 2013 | Active
-ThinkGeek, Inc. | United States, Virginia, Fairfax | 2003 | Dormant
 ThinkTank Management Consulting | Germany, Hessen, Darmstadt | 2010 | Inactive
 Thinkronize, Inc. | United States, OH, Cincinnati | 2006 | Dormant
 Thinkstock LLC | United States, NC, Charlotte | 2003 | Dormant
