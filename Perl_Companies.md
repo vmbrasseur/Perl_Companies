@@ -4115,8 +4115,6 @@ Swiftysite | Cyprus | 2007
 Swisscom | Switzerland, BE or ZH, Bern or Zürich | 2007
 Swissgame NV | Curacao,  | 2011
 Swisslinx AG | Switzerland, Zurich | 2002
-Switch Management | United States, CA, San Francisco | 2010
-Switch Management Corp. | United States, CA, Lafayette | 2008
 Switch Media Ltd | United Kingdom, Merseyside, Liverpool | 2005
 Sxip | Canada, BC, Vancouver | 2005
 Sxip Identity | Canada, BC, Vancouver | 2005
@@ -4780,6 +4778,7 @@ Web Development Factory | Undefined | 2010
 Web Experts | USA, NY, Middletown | 2005
 Web-ICT Services B.V. | The Netherlands, NH, Amsterdam | 2010
 WebAssign | United States, NC, Raleigh | 2007
+WebCDR.com | United States, CA, San Francisco | 2010
 WebEvent | United States, MA, Andover | 2003
 WebEvent, Inc. | United States, MA, Andover | 2001
 WebFusion | United Kingdom, Middlesex, Uxbridge, near London | 2010
