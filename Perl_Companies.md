@@ -5109,6 +5109,7 @@ iAgora.com | Spain, Catalunya, Barcelona | 2011
 iAnnounce | United Kingdom | 2012
 iAnywhere Solutions | United States, California, Dublin (East Bay) | 2005
 iAnywhere Solutions / AvantGo | United States, CA, Dublin | 2004
+iHance | San Francisco, CA, USA | 2013
 iGuard / Quintiles | United States, NJ, Princeton | 2007
 iMatch Technical Services | United States, WA, Seattle | 2011
 iPIX | United States, CA, San Ramon | 2003
