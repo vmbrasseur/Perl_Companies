@@ -1863,7 +1863,7 @@ H5 | United States, California, San Francisco | 2008
 HBS Labs | United States, IL, Justice | 2005
 HCS Systems | United States, NC, Raleigh | 2006
 HD Publishing Group | United States, FL, Lake Mary | 2007
-HEX | Human EXperts | Kyiv, Ukraine | 2011
+HEX - Human EXperts | Kyiv, Ukraine | 2011
 HFSI Consulting (contracting firm) | United States, NY, New York - 55th + Park | 2008
 HQMC, Personal and Family Readiness | United States, Virginia, Quantico | 2008
 HR Dynamics | New York, NY | 2012
