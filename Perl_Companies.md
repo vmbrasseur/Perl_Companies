@@ -4054,7 +4054,7 @@ StoresOnline, Inc | United States, Utah, Orem | 2006
 Stowers Institute for Medical Research | United States, MO, Kansas City | 2010
 Straker Simkin | United Kingdom, Middlesex, London | 2007
 Strategic Business Systems | United States, New York, New York City | 2008
-Strategic Data Pty Ltd | Australia, VIC, Carlton | 2007
+Strategic Data Pty Ltd | Australia, VIC, Carlton | 2013
 Strategic IT Staffing | Oakland, CA | 2012
 Strategic Staffing Solutions, INc. | United States, florida, Tampa | 2006
 Strategic Systems Solutions, Inc. | United States, Pennsylvania, Horsham | 2006
