@@ -3078,10 +3078,6 @@ Open List, Inc. | United States, N.Y., New York | 2005
 Open Mortgage | Austin, TX, United States | 2013
 Open Network Design | United States, CA, LA | 2007
 Open Select Recruitment | London, United Kingdom | 2013
-Open Select Recruitment (www.osrecruit.com) | United Kingdom, London | 2011
-Open Select Recruitment / www.osrecruit.com | London, United Kingdom | 2012
-Open Select Recruitment | www.osrecruit.com | London, United Kingdom | 2013
-Open Select Recruitment | www.osrecruit.com  | United Kingdom, London | 2011
 Open Source Consulting, LLC | United States, CA, San Jose | 2005
 Open Source People | United Kingdom, London | 2001
 Open Source People Ltd | United Kingdom, UK, London | 2002
