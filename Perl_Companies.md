@@ -5198,7 +5198,7 @@ ontotel | United States, new jersey, maplewood | 2005
 open network design | Undefined | 2007
 pair Networks, Inc. | United States, PA, Pittsburgh | 2005
 pep productions | austria, vienna, vienna | 2001
-petfinder.com  |  animal planet | United States, any state, home office | 2006
+petfinder.com - animal planet | United States, any state, home office | 2006
 pingAUDIO | United States, VA, Reston | 2003
 please contact for Company Info | United States, NY, Manhattan | 2008
 plusW GmbH | Schorndorf, Germany | 2012
