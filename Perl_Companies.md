@@ -426,6 +426,7 @@ Aviation Software Inc. | United States, New York, Suffern | 2007
 Avira Soft SRL | Romania, Bucharest, Bucharest | 2008
 Avira ltd. | Romania, Bucharest | 2004
 Avity | United States, NY, Bronx | 2007
+Aware | Brazil, SP, Sao Paulo | 2013
 Axient | Netherlands, Groningen, Groningen (NL) | 2007
 Axiombox | Anywhere, Anywhere, Anywhere | 2009
 Axis Sistemas | Venezuela, Carabobo, Valencia | 2005
@@ -433,6 +434,7 @@ Axomic | London, England | 2012
 Axomic Ltd | United Kingdom, London | 2012
 Axoni | Belgium, Mechelen | 2009
 Axtel | Mexico, NL, Monterrey | 2007
+b-datum | Brazil, SP, Sao Paulo | 2013
 B H Technology Partners | United States, Pennsylvania, Pittsburgh | 2006
 B&N Software AG | Germany, 37124 Rosdorf  Goettingen | 2007
 B2B Logic.net | Canada, Ontario, Oakville | 2006
@@ -1304,7 +1306,6 @@ Disys Corp | United States, TX, Dallas/Plano | 2008
 DivX | United States, CA, San Diego | 2010
 Divergence, Inc. | United States, MO, St. Louis | 2005
 Diversified Services Network | United States, WI, Madison | 2006
-Dnd | Brazil, Sao Paulo, Sao Paulo | 2007
 Dobie Media, Inc | Nashville, TN | 2012
 Dobie Media, Inc. | United States, TN, Nashville | 2010
 DoctorBase | San Francisco | 2010
@@ -1485,6 +1486,7 @@ Ericsson Mobile Platform | Sweden, Skaane, Lund | 2007
 Eskill Technologies | India, Tamilnadu, Chennai | 2007
 Essenz Consulting | United States, PA, Philadelphia | 2006
 Established dating site | United States, NY, New York | 2005
+Estante Virtual | Brazil, RJ, Rio de Janeiro | 2013
 Estee Lauder Companies (on behalf of Professional Recruiting Services) | 40 West 23rd Street, New York City, NY | 2013
 Etechnology | Thailand, Bangkok, Bangkok | 2006
 EthicalSoft, Inc | United States, CA, San Francisco | 2009
