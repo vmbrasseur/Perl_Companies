@@ -1695,6 +1695,10 @@
   location: 'United States, NY, Bronx'
   most_recent_posting: 2007
   name: Avity
+- hiring_status: Active
+  location: 'Brazil, SP, Sao Paulo'
+  most_recent_posting: 2013
+  name: Aware
 - hiring_status: Dormant
   location: 'Netherlands, Groningen, Groningen (NL)'
   most_recent_posting: 2007
@@ -1723,6 +1727,10 @@
   location: 'Mexico, NL, Monterrey'
   most_recent_posting: 2007
   name: Axtel
+- hiring_status: Active
+  location: 'Brazil, SP, Sao Paulo'
+  most_recent_posting: 2013
+  name: b-datum
 - hiring_status: Dormant
   location: 'United States, Pennsylvania, Pittsburgh'
   most_recent_posting: 2006
@@ -5931,6 +5939,10 @@
   location: '40 West 23rd Street, New York City, NY'
   most_recent_posting: 2013
   name: Estee Lauder Companies (on behalf of Professional Recruiting Services)
+- hiring_status: Active
+  location: 'Brazil, RJ, Rio de Janeiro'
+  most_recent_posting: 2013
+  name: Estante Virtual
 - hiring_status: Dormant
   location: 'Thailand, Bangkok, Bangkok'
   most_recent_posting: 2006
