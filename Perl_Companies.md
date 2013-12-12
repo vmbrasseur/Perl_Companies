@@ -4275,7 +4275,7 @@ Tele Columbus | Germany, Berlin, Berlin | 2010
 Telecommunications Company | United States, NJ, Holmdel | 2008
 Telenor Broadcast as   	 | Norway, Oslo | 2007
 Teleperformance | United States, Ohio, Dublin | 2010
-Teleperformance Group | United States, Ohio, Colubmus | 2008
+Teleperformance Group | United States, Ohio, Columbus | 2008
 Telephone Internet Number Authority | United States, MD, Annapolis | 2002
 Teleradiology Services | AZ, Tucson | 2007
 Telerama | United States, PA, Pittsburgh | 2004
