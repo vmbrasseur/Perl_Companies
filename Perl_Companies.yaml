@@ -3328,10 +3328,6 @@
   most_recent_posting: 2012
   name: Center for Computational Research
 - hiring_status: Dormant
-  location: 'Austria, Vienna'
-  most_recent_posting: 2005
-  name: Center for Social Innovation
-- hiring_status: Dormant
   location: 'Switzerland, Bern'
   most_recent_posting: 2007
   name: Centeractive AG
@@ -6184,7 +6180,7 @@
   most_recent_posting: 2007
   name: FLOW
 - hiring_status: Inactive
-  location: 'Austria, Vienna, Vienna'
+  location: 'Austria, Vienna'
   most_recent_posting: 2009
   name: FM5.at
 - hiring_status: Dormant
@@ -10112,10 +10108,6 @@
   most_recent_posting: 2008
   name: MCG
 - hiring_status: Dormant
-  location: 'Austria, -, Innsbruck'
-  most_recent_posting: 2003
-  name: MCI
-- hiring_status: Dormant
   location: 'United States, OH, Dayton'
   most_recent_posting: 2003
   name: MCSi
@@ -12856,7 +12848,7 @@
   most_recent_posting: 2011
   name: PalmVid.com
 - hiring_status: Inactive
-  location: 'Austria, Vienna, Vienna'
+  location: 'Austria, Vienna'
   most_recent_posting: 2009
   name: Panther Consult
 - hiring_status: Active
@@ -13591,11 +13583,7 @@
   location: 'United States, Missouri, St. Louis'
   most_recent_posting: 2007
   name: Preferred Resources
-- hiring_status: Dormant
-  location: 'AUSTRIA, Vienna, Vienna'
-  most_recent_posting: 2006
-  name: Preisvergleich Internet Services AG
-- hiring_status: Dormant
+- hiring_status: Active
   location: 'Austria, Vienna'
   most_recent_posting: 2003
   name: Preisvergleich Internet Services AG (Geizhals.at)
@@ -14692,10 +14680,6 @@
   most_recent_posting: 2006
   name: ResLogic
 - hiring_status: Dormant
-  location: 'Austria, Wien, Wien Vienna'
-  most_recent_posting: 2007
-  name: 'Research Studius Austria - Panther Consult'
-- hiring_status: Dormant
   location: 'United States, CA, San Diego'
   most_recent_posting: 2006
   name: Resource Leaders
@@ -15584,7 +15568,7 @@
   most_recent_posting: 2008
   name: SingleFeed
 - hiring_status: Active
-  location: Vienna
+  location: Austria, Vienna
   most_recent_posting: 2012
   name: Sipwise GmbH
 - hiring_status: Dormant
@@ -16312,7 +16296,7 @@
   most_recent_posting: 2008
   name: Stubhub/Ebay
 - hiring_status: Inactive
-  location: 'Austria, Vienna, Vienna'
+  location: 'Austria, Vienna'
   most_recent_posting: 2010
   name: Styria Börse Express
 - hiring_status: Active
@@ -17515,10 +17499,6 @@
   location: 'Singapore, Singapore'
   most_recent_posting: 2011
   name: TheBootic
-- hiring_status: Inactive
-  location: 'Austria, Vienna'
-  most_recent_posting: 2009
-  name: TheMerger
 - hiring_status: Dormant
   location: 'United States, NY, New York'
   most_recent_posting: 2007
@@ -18527,10 +18507,6 @@
   location: 'Vienna, Austria'
   most_recent_posting: 2013
   name: Validad GmbH
-- hiring_status: Active
-  location: 'Vienna, Austria'
-  most_recent_posting: 2013
-  name: Validad GmbH.
 - hiring_status: Dormant
   location: 'India, Karnataka, Bangalore'
   most_recent_posting: 2005
@@ -18684,21 +18660,9 @@
   most_recent_posting: 2012
   name: 'VeriFone, Inc.'
 - hiring_status: Dormant
-  location: 'Austria, Vienna/Salzburg'
-  most_recent_posting: 2007
-  name: VeriSign
-- hiring_status: Dormant
-  location: 'Austria, Vienna/Salzburg'
-  most_recent_posting: 2008
-  name: VeriSign Communications GmbH
-- hiring_status: Dormant
   location: 'United States, CA, San Jose'
   most_recent_posting: 2004
   name: Verifia Inc.
-- hiring_status: Dormant
-  location: 'Austria, Vienna'
-  most_recent_posting: 2007
-  name: Verisign
 - hiring_status: Dormant
   location: 'United States, CA, Walnut Creek'
   most_recent_posting: 2007
@@ -19761,10 +19725,6 @@
   name: 'YourSolutions.net, LLC - MLM Software Company'
 - hiring_status: Dormant
   location: 'Austria, Vienna'
-  most_recent_posting: 2007
-  name: 'ZSI - CENTRE FOR SOCIAL INNOVATION'
-- hiring_status: Dormant
-  location: 'Austria, Wien, Wien'
   most_recent_posting: 2001
   name: ZW Technology
 - hiring_status: Active
@@ -19887,3 +19847,27 @@
   location: 'Australia, Victoria, Melbourne'
   most_recent_posting: 2009
   name: '[ta!ent scout]'
+- hiring_status: Active
+  location: 'Austria, Vienna'
+  most_recent_posting: 2009
+  name: 'yelster digital GmbH'
+- hiring_status: Active
+  location: 'Austria, Vienna'
+  most_recent_posting: 2012
+  name: 'tripwolf GmbH'
+- hiring_status: Active
+  location: 'Austria, Vienna'
+  most_recent_posting: 2012
+  name: 'T-Systems Austria GmbH'
+- hiring_status: Active
+  location: 'Austria, Vienna'
+  most_recent_posting: 2013
+  name: 'Barrcuda Networks AG'
+- hiring_status: Active
+  location: 'Austria, Innsbruck'
+  most_recent_posting: 2010
+  name: 'Information Technology Services, University of Innsbruck'
+- hiring_status: Inactive
+  location: 'Austria, Vienna'
+  most_recent_posting: 2006
+  name: 'Österreichische Webanalyse'

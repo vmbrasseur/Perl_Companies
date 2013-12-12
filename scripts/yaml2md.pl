@@ -18,7 +18,8 @@ my $csv = Text::CSV->new({
     eol => "\n",
     });
 
-my @companies = sort { $a->{name} cmp $b->{name} }
+# TODO: Use Unicode::Collate based sorting here
+my @companies = sort { lc $a->{name} cmp lc $b->{name} }
                      @{ LoadFile( 'Perl_Companies.yaml' ) };
 
 open my $fh, '>', 'generated_company_list.md';
