@@ -33,7 +33,7 @@ $2 Billion Broadband Communications Company | United States, CA, San Jose | 2006
 186k Limited | United Kingdom, W. Yorks, Leeds | 2007
 1st Interactive Design Ltd | United Kingdom, Any in the UK | 2011
 1st-Interactive Design Ltd | United Kingdom | 2008
-20 Minuten | Switzerland, Zürich | 2008
+20 Minuten | Switzerland, ZÃ¼rich | 2008
 2Checkout.com | United States, OH, Columbus | 2008
 2dehands | Amsterdam (NL) | 2011
 2it | Australia, NSW, Sydney | 2006
@@ -49,7 +49,7 @@ $2 Billion Broadband Communications Company | United States, CA, San Jose | 2006
 411web Interactive | United States, CA, Los Angeles | 2005
 5 Point Professional Services | United States, TX, Austin | 2008
 7se7en Ltd. | United Kingdom, London, London | 2011
-8D Technologies inc. | Canada, Québec, Montreal | 2002
+8D Technologies inc. | Canada, QuÃ©bec, Montreal | 2002
 8minuteDating | United States, FL, Boca Raton | 2010
 @Mail | Australia, NSW, Sydney | 2006
 A Company | United Kingdom, London, London | 2006
@@ -115,7 +115,7 @@ ALTIOR CONSULTORIA & ENGENHARIA SA | PORTUGAL | 2005
 AMD (Advanced Micro Devices) | Austin, TX     ** ON SITE ONLY / South Austin ** | 2011
 AMD Advanced Micro Devices | Dresden, Germany | 2011
 AMR | UK - London, London | 2004
-ANGEL Internet Services GmbH | Deutschland, NRW, Köln | 2007
+ANGEL Internet Services GmbH | Deutschland, NRW, KÃ¶ln | 2007
 ANK Consulting | Argentina, Buenos Aires, Capital Federal | 2005
 ANSI, Inc. | United States, CA, Palo Alto | 2006
 AOL | United States, VA, Dulles | 2011
@@ -158,7 +158,7 @@ AcAe LLC | United States, Florida, Maitland | 2010
 Academic Benchmark | United States, OH, Cincinnati | 2010
 Academic Benchmarks | Cincinnati, OH or Washington, DC | 2013
 Academic Presidential Market | United States, CT, New Haven | 2004
-Acantis bv | Dutch Antilles, Curaçao | 2009
+Acantis bv | Dutch Antilles, CuraÃ§ao | 2009
 Accenture | Mississauga, Ontario, Mississauga | 2010
 Accenture Canada | Canada, Ontario, Mississauga | 2006
 Access CRM | United States, NY, New York | 2003
@@ -191,7 +191,7 @@ Adam Jacobs Associates | United States, CA, San Francisco | 2007
 Adam Jacobs Associates (Recruiting Agency) | United States, CA, San Francisco - Palo Alto | 2007
 Adam Jacobs Associates - Recruiter | United States, CA, San Francisco Bay Area | 2007
 Adamans Ltd. | Ireland, Dublin | 2010
-Adapt A/S | Denmark, DK, København K | 2011
+Adapt A/S | Denmark, DK, KÃ¸benhavn K | 2011
 Adaptive Solutions Group | United States, Kansas, Overland Park | 2010
 Adapttoweb | Bulgaria | 2010
 Add2Net, Inc. | United States, California, La Mirada | 2004
@@ -581,7 +581,7 @@ Bluehost.com | United States, Utah, Provo | 2010
 Bluesocket | United States, MA  01803, Burlington | 2006
 Bluhalo | United Kingdom, Hampshire, Farnborough | 2007
 Blur Studio | United States, CA, Venice | 2004
-Bob Mobile | Deutschland, Düsseldorf | 2009
+Bob Mobile | Deutschland, DÃ¼sseldorf | 2009
 Boca Internet Technologies, Inc. | United States, Florida, Coconut Creek | 2005
 Bock Interactive | United States, VT, Burlington | 2004
 Bodhi Labs | Bangalore, India | 2013
@@ -605,7 +605,7 @@ Boopsie Inc | S California Ave, Palo Alto, CA, USA | 2012
 Boopsie, Inc. | Sunnyvale, CA | 2012
 Bootic Inc | Undefined | 2011
 Bootic Inc. | San Francisco, CA | 2012
-Bossmedia AB | Sweden, Växjö | 2004
+Bossmedia AB | Sweden, VÃ¤xjÃ¶ | 2004
 Boston University / BMERC | United States, MA, Boston | 2002
 Boston.com | United States, MA, Boston | 2006
 Boston/Cambridge Company | United States, MA, Cambridge | 2007
@@ -1038,7 +1038,7 @@ Console, Inc. | United States, CA, San Diego | 2005
 Constitution Group | United States, NY, New York | 2010
 Consultis | United States, NJ, Woodbridge` | 2010
 Consultis of Tampa | United States, FL, Tampa | 2010
-Consultpool GmbH & Co. KG | Deutschland, München | 2009
+Consultpool GmbH & Co. KG | Deutschland, MÃ¼nchen | 2009
 Contact Telecom | United States, New Hampshire, Manchester | 2007
 Context Software | Canada, Ontario, Toronto | 2004
 ContinuedEd IDC, India (Subsidiary of continueded.com,USA) | India, New Delhi, New Delhi | 2003
@@ -1090,7 +1090,7 @@ Creed Solutions Inc | Canada, ON, Toronto | 2004
 Crescendo Productions | Australia, SA, Adelaide | 2003
 Crescent Solutions | United States, FL, Boca Raton | 2010
 Cronon AG | Germany, Berlin, Berlin | 2005
-Crossgate Technologies AG | Germany, Niedersachsen, Göttingen | 2010
+Crossgate Technologies AG | Germany, Niedersachsen, GÃ¶ttingen | 2010
 Crossroads Access | United States, CA, Venice | 2006
 CrunchTime! Information Systems | United States, MA, Boston | 2007
 CryptoLogic Inc. | Canada, Ontario, Toronto | 2004
@@ -1148,7 +1148,7 @@ DHS-Club, Inc. | United States, Florida, Englewood | 2008
 DIS AG, IT | Germany, Bremen, Bremen | 2007
 DISYS | United States, IL, Rosemont | 2011
 DISYS (Digital Intelligence Systems) | Colorado Springs, CO | 2012
-DK Hostmaster | København, Denmark | 2012
+DK Hostmaster | KÃ¸benhavn, Denmark | 2012
 DK Hostmaster A/S | Denmark, Copenhagen | 2009
 DM Contact Managment | Canada, BC, Victoria | 2004
 DMForge | United States, Michigan, Metro Detroit | 2007
@@ -1157,7 +1157,7 @@ DMS | Canada, ON, St. Catharines | 2005
 DMcorp | India | 2010
 DMcorp. | India, Los Angeles | 2010
 DNC | United States, DC, Washington | 2005
-DND - Desenvolvimento de Negócios Digitais | Brazil, São Paulo, São Paulo | 2007
+DND - Desenvolvimento de NegÃ³cios Digitais | Brazil, SÃ£o Paulo, SÃ£o Paulo | 2007
 DOE JGI / Lawrence Berkeley National Lab | United States, CA , Walnut Creek | 2010
 DOE JGI / Lawrence Berkeley National Laboratory  | United States, CA, Walnut Creek | 2010
 DOE Joint Genome Institute | United States, CA, Walnut Creek | 2010
@@ -1329,7 +1329,7 @@ Drake Consulting | United States, IL, Northern Chicago Suburbs | 2005
 DreamHost | Los Angeles, San Francisco, Atlanta, open to telecommuting | 2012
 DreamWorks Animation | United States, CA, Glendale or Redwood City | 2007
 DreamWorks Animation, SKG | United States, California, Glendale or Redwood City | 2006
-Dreamway | Germany, Bayern, Immenstadt/Allgäu | 2006
+Dreamway | Germany, Bayern, Immenstadt/AllgÃ¤u | 2006
 Dreamway Interactive | Germany, Immenstadt | 2005
 Dreamworks Animation | United States, CA, Glendale | 2007
 Dress-For-Less GmbH | Germany, Hesse, Frankfurt am Main/Kelsterbach/Raunheim | 2011
@@ -1407,7 +1407,7 @@ Edison Schools, Inc. | United States, New York, New York | 2007
 Edita SA / lessentiel.lu | Luxembourg, Differdange | 2010
 Editure | Australia, Victoria, Melbourne | 2009
 Education Program for Gifted Youth - Stanford University | United States, California, Stanford | 2010
-Edument AB | Malmö, Sweden | 2013
+Edument AB | MalmÃ¶, Sweden | 2013
 Effective Educational Technologies | United States, MA, Cambridge | 2005
 Efficient Frontier | United Kingdom, London | 2007
 Ekaru | United States, MA, Westford | 2008
@@ -1480,7 +1480,7 @@ Epsilon Interactive India Operations | India, Karnataka, Bangalore | 2008
 Equation Research | TX, Dallas | 2004
 Equinox Software | United States, GA, Atlanta | 2009
 Equinox Software, Inc. | United States, GA, Norcross | 2009
-EquityStory AG - DGAP mbH | Deutschland, Bayern, MÃ¼nchen | 2010
+EquityStory AG - DGAP mbH | Deutschland, Bayern, MÃƒÂ¼nchen | 2010
 Erado | United States, WA, Renton | 2011
 Ericsson Mobile Platform | Sweden, Skaane, Lund | 2007
 Eskill Technologies | India, Tamilnadu, Chennai | 2007
@@ -1582,7 +1582,7 @@ Feedster | United States, CA, San Francisco | 2005
 Feedster, Inc. | United States, California, San Francisco | 2006
 Ferengi s.r.l. | Argentina, Capital, Buenos Aires | 2003
 Ferguson Consulting | United States, MO, Saint Louis | 2011
-Fewodata e.K. - ferienwohnungen.de | Glücksburg (Ostsee), Schleswig-Holstein, Germany | 2013
+Fewodata e.K. - ferienwohnungen.de | GlÃ¼cksburg (Ostsee), Schleswig-Holstein, Germany | 2013
 Ficus Computer Engineering | United States, CA, Fremont | 2005
 Ficus Engineering | United States, California, Fremont | 2004
 Fides | Russian Federation, St. Petersburg | 2005
@@ -1682,7 +1682,7 @@ Fusion Alliance | United States, Ohio, Cincinnati | 2006
 Fusion Associates | United States, CA, Redwood City | 2006
 Future Publishing | United Kingdom, Bath & North East Somerset, Bath | 2008
 G & S Technology group | United States, New York, New York | 2010
-G&L Geißendörfer & Leschinsky GmbH | Deutschland, NRW, Köln | 2008
+G&L GeiÃŸendÃ¶rfer & Leschinsky GmbH | Deutschland, NRW, KÃ¶ln | 2008
 G2 Recruitment Solutions | United Kingdom, London | 2008
 G2 Web Services | United States, WA, Bellevue | 2008
 G2 Web Services, LLC | United States, WA, Bellevue | 2007
@@ -1699,9 +1699,9 @@ GEMM | United States, California, Irvine | 2008
 GEMM.com | United States, CA, Palm Springs | 2004
 GES Network | United States, DE, Bear | 2008
 GFM Holdings Ltd | Colchester - Essex | 2013
-GFU | Germany, NRW, Köln | 2007
-GFU Cyrus AG | Germany, NRW, Köln | 2012
-GFU Cyrus AG Schulungen | Germany, NRW, Köln | 2007
+GFU | Germany, NRW, KÃ¶ln | 2007
+GFU Cyrus AG | Germany, NRW, KÃ¶ln | 2012
+GFU Cyrus AG Schulungen | Germany, NRW, KÃ¶ln | 2007
 GHR SYSTEMS | United States, PA, Wayne | 2003
 GK, Inc. | United States, CA, Lancaster | 2008
 GKG.NET | United States, TX, College Station | 2005
@@ -1966,8 +1966,8 @@ Hudson Global Resources | Undefined | 2007
 HuffingtonPost | United States, NY, New York | 2008
 Human Capital Management | United States, PA, Philadelphia | 2007
 Human Capital Management, Inc. | PA, Fort Washington | 2007
-Humboldt-Universität | Germany, Berlin | 2006
-Humboldt-Universität zu Berlin | Deutschland, Berlin | 2008
+Humboldt-UniversitÃ¤t | Germany, Berlin | 2006
+Humboldt-UniversitÃ¤t zu Berlin | Deutschland, Berlin | 2008
 Hunter Technical Resources | United States, GA, Atlanta | 2011
 Huntex | Greater Toronto Area | 2012
 Huntress IT | United Kingdom, London | 2007
@@ -2042,13 +2042,13 @@ IT Staffing Inc | TN, Memphis | 2006
 IT assistance Ltd. | Switzerland, BS, Basel | 2004
 ITERU | Singapore, Singapore | 2001
 ITHR | London | 2011
-ITJob Consulting | Brazil, SP/Sao Paulo, São Paulo | 2006
+ITJob Consulting | Brazil, SP/Sao Paulo, SÃ£o Paulo | 2006
 ITN | United Kingdom, London | 2009
 ITRAYS INC | United States, MI, Southfield | 2008
 ITS Ingenium Ltd | France, Paris | 2010
 ITT Corp. | DC, Washington DC | 2007
 ITjobz | Australia, NSW, Newcastle | 2009
-ITscopec GmbH | Germany, Baden-Württemberg, Karlsruhe | 2011
+ITscopec GmbH | Germany, Baden-WÃ¼rttemberg, Karlsruhe | 2011
 Icon | United States, CA, San Francisco  | 2010
 Icons Inhouse Graphics | Australia, Queensland, Sunshine Coast | 2006
 IdeaReboot | New York City | 2012
@@ -2393,10 +2393,10 @@ Leading Online Advertising organization | United States, WA, Seattle | 2007
 Leading Search Engine Marketing / Search Engine Optimization Firm | United States, IL, Chicago | 2007
 Leading Search Engine/Internet Company | United States, NY, New York | 2007
 Leading in the Semiconductor Industry | United States, CA, San Jose | 2006
-Leading integrated financial services company | Germany, Munich / München | 2007
+Leading integrated financial services company | Germany, Munich / MÃ¼nchen | 2007
 Leadpile | United States, Arizona, Phoenix | 2011
 LeapFrog Systems | Boston, MA | 2012
-LeasingBørsen.dk | Denmark, Copenhagen | 2011
+LeasingBÃ¸rsen.dk | Denmark, Copenhagen | 2011
 Legacy.com | Naperville, IL, United States | 2013
 Lekha, Inc | United States, CA, Southern California | 2006
 Lemcon Networks | Brazil, Barra da Tijuca, Rio De Janeiro | 2009
@@ -2430,7 +2430,7 @@ Likeminds Digital Solutions Pty Ltd | Australia, NSW, Sydney (Lower Blue Mountai
 Limbic Systems, Inc. | United States, MD, Rockville | 2002
 Lincoln Bay | United States, Washington, Seattle | 2006
 LincolnBay | 98104, WA, Seattle | 2006
-Lindahl Search & Selection ApS | Danmark, København K | 2006
+Lindahl Search & Selection ApS | Danmark, KÃ¸benhavn K | 2006
 Line 6 | United States, CA, Agoura Hills | 2005
 Line 6, Inc. | United States, CA, Calabasas | 2008
 Linear G internet solutions | Australia, NSW, Lismore | 2006
@@ -2502,7 +2502,7 @@ London South Bank University/Thames Computer Services | United Kingdom, Central 
 Lone Star Internet, Inc. | United States, Texas, Austin | 2008
 Lone Star Software | Any, Any, Any | 2005
 Longitude, Inc. | United States, NY, New York City | 2002
-Look Communications | Canada, Québec, Montréal | 2005
+Look Communications | Canada, QuÃ©bec, MontrÃ©al | 2005
 LookSmart | United States, CA, San Francisco | 2013
 LookSmart Canada | Waterloo, Ontario, Canada | 2011
 Loop One Inc. | United States, Texas, Austin | 2007
@@ -2636,7 +2636,7 @@ Masters & Associates | United States, CA, Palo Alto | 2007
 Mate1.com Inc | Canada, Quebec, Montreal | 2007
 Mate1.com, Inc. | Canada, Quebec, Montreal | 2006
 Matrix Resources | United States, TX, Dallas | 2009
-Max-Planck-Institut für molekulare Genetik | Germany, Berlin | 2005
+Max-Planck-Institut fÃ¼r molekulare Genetik | Germany, Berlin | 2005
 MaxMind, Inc. | United States, Waltham, MA | 2013
 Maxim Integrated Products | United States, CA, Sunnyvale | 2011
 Maya Control | Romania, Bucuresti, etc. | 2005
@@ -2763,7 +2763,7 @@ Moonfruit.com | United Kingdom, London, London | 2011
 Moonlight BPO | Bend Oregon | 2011
 Morgan Hunter | United States, MO, Kansas City | 2005
 Morgan Stanley | United States, NY, New York City - Downtown | 2010
-Morgunblaðið | Iceland, Reykjavik | 2007
+MorgunblaÃ°iÃ° | Iceland, Reykjavik | 2007
 Mortgage Desk, Inc. | United States, IL, Chicago | 2006
 Moss Search | United States, IL, Chicago | 2004
 Moss Search, LTD | United States, IL, Chicago | 2006
@@ -2847,7 +2847,7 @@ Navicom Inc. | Canada, Ontario, Markham | 2003
 Nayland Group | United States, Maryland, Montgomery County | 2002
 Nebtrex Distribution | Australia, Queensland, Brisbane | 2008
 Nedstat | Netherlands, Noord Holland, Amsterdam | 2006
-Neitzert | Sweden, Västmaland, Västerås  | 2011
+Neitzert | Sweden, VÃ¤stmaland, VÃ¤sterÃ¥s  | 2011
 NeoNova Network Services | United States, North Carolina, Raleigh/RTP | 2001
 NeoReality, Inc. | United States, FL, Fort Myers | 2007
 Neohire.com | Remote or Santa Monica, Ca | 2013
@@ -2888,7 +2888,7 @@ Netblue, Inc. | United States, CA, Mountain View | 2005
 Netcentric Computer Solutions | UNITED STATES - Remote Work into NYC | 2011
 Netcom Information Technology | United States, NY, New York | 2005
 Netcraft | United Kingdom, Somerset, Bath | 2007
-Neteffekt e.K. | Germany, Saarland, Saarbrücken | 2003
+Neteffekt e.K. | Germany, Saarland, SaarbrÃ¼cken | 2003
 Netflix | United States, CA, Los Gatos | 2011
 Netmark International | United States, Alaska, Anchorage | 2003
 Netmark Intl. | United States, Alaska, Anchorage | 2002
@@ -2950,7 +2950,7 @@ Night Kitchen Media | United States, PA, Philadelphia | 2005
 Nimble Storage | San Jose, CA | 2012
 Nitro | Australia, New South Wales, Sydney | 2006
 Nixle.com | United States, CA, San Francisco | 2008
-Nixus Soluções em Internet | Brazil, SP, São Paulo | 2009
+Nixus SoluÃ§Ãµes em Internet | Brazil, SP, SÃ£o Paulo | 2009
 Noble Vision | United States, VA, Manassas | 2008
 None yet | United States, California, Palo Alto | 2010
 NorCa | Germany, Berlin, Berlin | 2006
@@ -2968,7 +2968,7 @@ Novator | canada, Ontario, Toronto | 2004
 Novator Systems | Canada, Ontario, Toronto | 2007
 Novator Systems Ltd | Canada, Ontario, Toronto | 2008
 Novator Systems Ltd. | Canada, Ontario, Toronto | 2007
-Novozymes | Bagsværd, København, Denmark | 2012
+Novozymes | BagsvÃ¦rd, KÃ¸benhavn, Denmark | 2012
 Novozymes A/S | Denmark, Bagsvaerd / Copenhagen | 2012
 Novus | United States, NY, New York | 2008
 Nuance Communications | Canada, Quebec, Montreal | 2006
@@ -3211,8 +3211,8 @@ Palm Inc. | United States, MA, Andover | 2001
 PalmVid.com | United States, CO, Colorado Springs | 2011
 Panther Consult | Austria, Vienna, Vienna | 2009
 Paradigm Healthcare Services | United States, CA, San Francisco | 2011
-Paradigma Tecnologico | España, Madrid, Pozuelo de Alarcón | 2008
-Paradigma Tecnológico | Spain, Madrid, Pozuelo de Alarcón | 2008
+Paradigma Tecnologico | EspaÃ±a, Madrid, Pozuelo de AlarcÃ³n | 2008
+Paradigma TecnolÃ³gico | Spain, Madrid, Pozuelo de AlarcÃ³n | 2008
 Paragon IT | United Kingdom, Bristol | 2002
 Parallel HR | United States, NY, New York City | 2011
 Parallel HR Solutions | United States, New York, New York | 2012
@@ -3293,7 +3293,7 @@ Personal and Family Readiness Division, HQMC | United States, VA, Quantico | 200
 Personalmanagement Blank GmbH | Germany, Bayern, Munich | 2005
 Personnel Resources | United States, Missouri, St. Louis | 2002
 PetaMem | Prague | 2011
-PetaMem GmbH | Germany, Fürth | 2003
+PetaMem GmbH | Germany, FÃ¼rth | 2003
 Petersburg Holding | United States, FL | 2009
 Petfinder.com | United States, NJ, Pittstown | 2006
 PharmaVentures Ltd | United Kingdom, Oxfordshire, Oxford | 2009
@@ -3382,7 +3382,7 @@ Powells.com | United States, OR, Portland | 2006
 PrO Unlimited | United States, CA, Burlingame | 2003
 Praetoria Development, Inc. | United States, FL, Miami | 2006
 Pralaya Software Solutions, Inc. | United States, CA, Bay Area | 2006
-Praxway inc. | Canada, Québec, Montréal | 2003
+Praxway inc. | Canada, QuÃ©bec, MontrÃ©al | 2003
 Precision Dynamics | United States, CA, San Fernando | 2011
 Precision Recruiting Services Inc. | Canada, Ontario, Toronto - Kitchener - Waterloo | 2008
 Precision Translation Tools | Bangkok, Thailand | 2013
@@ -3408,7 +3408,7 @@ Primedia | United States, NY, New York | 2006
 Primedia Business Magazines & Media | United States, New York, New York | 2004
 Primedia Internet Resources and Technology (PIRT) | United States, NY, New York | 2004
 Primedia, Inc. | United States, NY, New York | 2004
-Primesoft - Soluções em Outsourcing | Portugal, Lisbon | 2007
+Primesoft - SoluÃ§Ãµes em Outsourcing | Portugal, Lisbon | 2007
 Prince, Perelson | United States, Utah, Salt Lake City | 2003
 Princeton Information | United States, NY, New York City | 2010
 Principia Partners LLC | United States, Pennsylvania, Conshohocken | 2007
@@ -3873,7 +3873,7 @@ Siemens Business Services | United Kingdom, Berkshire, Maidenhead | 2006
 Siemens Corporation | United States, Florida, Orlando | 2002
 Siemens Internet Services | United Kingdom, Berkshire, Maidenhead | 2007
 Sievers Security Inc. | United States, Ohio, Cleveland | 2005
-Sifira | Danmark, København K | 2006
+Sifira | Danmark, KÃ¸benhavn K | 2006
 Sift Group Ltd | United Kingdom, Bristol | 2003
 Sigma Search Group Inc. | Canada, BC, Vancouver - Metro Vancouver | 2008
 Sigma Space Corporation | Lanham, MD | 2012
@@ -4039,7 +4039,7 @@ StayOnline | United States, GA, Atlanta | 2005
 Stealth | United States, CA, San Mateo | 2005
 Stealth LA dot com | United States, CA, West Hollywood | 2006
 Stealth Media Company | United States, CA, Hayward | 2005
-Stefanini IT Solutions | Brazil, São Paulo, São Paulo | 2010
+Stefanini IT Solutions | Brazil, SÃ£o Paulo, SÃ£o Paulo | 2010
 Stellar Software Network, Inc. | United States, TX, Irving | 2003
 Stellargy Services | United States, Texas, Austin | 2007
 Stellarware Corporation | Undefined | 2013
@@ -4071,7 +4071,7 @@ StrongMail Systems, Inc. | United States, CA, Redwood Shores | 2006
 Strongmail Systems | United States, Los Angeles | 2003
 StubHub | United States, CA, San Francisco | 2007
 Stubhub/Ebay | United States, CA, San Francisco | 2008
-Styria Börse Express | Austria, Vienna, Vienna | 2010
+Styria BÃ¶rse Express | Austria, Vienna, Vienna | 2010
 Subex Ltd | Bangalore, India | 2011
 Subtle Motion Media | Canada, Ontario, Toronto | 2009
 Success Wave Marketing | TX, Flower Mound | 2003
@@ -4106,7 +4106,7 @@ SurveyShack.com ltd | United Kingdom, West Midlands, Birmingham | 2007
 SweetSpot Labs, Inc. | United States, CA, Pacific Palisades | 2005
 Swiftech | Canada, Ontario, Toronto | 2002
 Swiftysite | Cyprus | 2007
-Swisscom | Switzerland, BE or ZH, Bern or Zürich | 2007
+Swisscom | Switzerland, BE or ZH, Bern or ZÃ¼rich | 2007
 Swissgame NV | Curacao,  | 2011
 Swisslinx AG | Switzerland, Zurich | 2002
 Switch Media Ltd | United Kingdom, Merseyside, Liverpool | 2005
@@ -4447,7 +4447,7 @@ Trackvia | United States, CO, Denver | 2011
 Trade Only | Manchester, UK | 2012
 TrafficMac | United States, New York, Manhattan | 2005
 Trafficmac | United States, NY, New York | 2005
-Traffics- Softwaresysteme für den Tourismus GmbH | Germany, Berlin | 2010
+Traffics- Softwaresysteme fÃ¼r den Tourismus GmbH | Germany, Berlin | 2010
 Trafika Ltd | United Kingdom, London | 2004
 Training | United States, TX, Fort Worth | 2005
 TrainingBoard | UK, London | 2001
@@ -4560,7 +4560,7 @@ Unique Internet Services | United States, N/A, N/A | 2006
 Unisys Corp | United States, DC, Washington | 2003
 United Federation of Teachers | United States, New York, New York City | 2005
 United Games Limited | United Kingdom | 2013
-United Internet AG (1&1, WEB.DE, GMX) | Germany, Baden-Württemberg, Karlsruhe | 2008
+United Internet AG (1&1, WEB.DE, GMX) | Germany, Baden-WÃ¼rttemberg, Karlsruhe | 2008
 United Online | United States, UT, Orem | 2004
 United Online, Inc. (www.untd.com) | United States, Utah, Orem | 2006
 United States Bankruptcy Cou | United States, Florida, Tampa or Orlando (Duty Station to be determined by | 2010
@@ -4764,7 +4764,7 @@ Way Forward | United Kingdom, London | 2008
 Way Forward New Media Recruitment | United Kingdom, Central London, London | 2004
 WaySpa.com | Canada, Ontario, Toronto | 2008
 We Also Walk Dogs | United States, Illinois, Chicago | 2011
-WeCARE - Gesellschaft für interdisziplinäres Gesundheitsmanagment | DE, Lower Saxony / Niedersachsen, Göttingen | 2007
+WeCARE - Gesellschaft fÃ¼r interdisziplinÃ¤res Gesundheitsmanagment | DE, Lower Saxony / Niedersachsen, GÃ¶ttingen | 2007
 Weatherly Technologies | United States, NJ, Jersey City | 2007
 Web 2.0 Art Platform | United States, MA, Boston | 2009
 Web Development / Search Engine Company | United States, WA, Seattle | 2007
@@ -5006,7 +5006,7 @@ cPanel of Texas LLC | United States, Texas, Houston | 2009
 cPanel, Inc | Houston, TX | 2013
 careerfactorllc.com | USQ, CT, New Haven County | 2003
 cargotel | United States, md, telecommute | 2004
-chi | Brazil, São Paulo, São Paulo | 2009
+chi | Brazil, SÃ£o Paulo, SÃ£o Paulo | 2009
 chileviagem | chile, pucon, pucon | 2004
 citysearch | United States, CA, Los Angeles | 2004
 ciudadnet | chile, chile, chile | 2004
@@ -5025,7 +5025,7 @@ deasil systems | United States, ny, new york | 2004
 delphi HR-Systems GmbH | Germany, Hamburg | 2007
 demoxi Inc | United States, WA, Bellevue | 2007
 dp connect | United Kingdom, London | 2006
-dress-for-less GmbH | Germany, 65439 Flörsheim am Main | 2013
+dress-for-less GmbH | Germany, 65439 FlÃ¶rsheim am Main | 2013
 dxi corp | greece, athens | 2004
 e screening room | United States, CA, San Rafael | 2006
 e screening room (non-profit) | United States, CA, San Francisco | 2005
@@ -5153,7 +5153,7 @@ kanetix.ca | Canada, Ontario, Toronto | 2011
 karmadownload.com | United Kingdom, London | 2005
 kgbweb | United States, NY, New York | 2009
 large interactive agency | United States, New York, New York | 2008
-latz://new.media | Deutschland, Saarland, Saarbrücken | 2003
+latz://new.media | Deutschland, Saarland, SaarbrÃ¼cken | 2003
 lawnsales llc | United States, california, santa monica | 2007
 log | Portugal, Lisbon | 2005
 log - Open Source Consulting | Portugal, Lisbon | 2007
@@ -5195,7 +5195,7 @@ nfon AG | Germany, Bavaria, Munich | 2011
 nnit A/S | Denmark, Copenhagen, Bagsvaerd | 2010
 non disclosed | ny -teleconmute | 2013
 none | 02906, RI, Providence | 2008
-noris network AG | Deutschland, Nürnberg | 2012
+noris network AG | Deutschland, NÃ¼rnberg | 2012
 noyona.com | United States, CA, Palo Alto | 2006
 oDesk | United States, CA, Menlo Park | 2012
 one of MNC client based out in Bangalore | Bangalore | 2013
@@ -5237,7 +5237,7 @@ stealth | United States, CA, Hayward | 2006
 stealth mode | United States, San Francisco, CA | 2010
 stimTV | United States, CA, Oxnard | 2005
 sysinteger | Germany, Bayern, Muenchen/Munich | 2005
-systags GmbH | Germany, NRW, Düsseldorf | 2007
+systags GmbH | Germany, NRW, DÃ¼sseldorf | 2007
 t.b.a. | United States, CA, Santa Monica | 2007
 the Rubicon Project | United States, CA, Los Angeles | 2011
 thecitysecret ltd | United Kingdom, North Yorkshire, Richmond | 2008
@@ -5253,9 +5253,9 @@ ts.com | United Kingdom, Oxon, Oxford | 2007
 ts.com Ltd | United Kingdom, Oxfordshire, Kidlington | 2005
 tuscany networks Ltd. | United Kingdom, Hampshire, Basingstoke | 2011
 undisclosed until candidate is selected | United States, Illinois / New York, Chicago / New York City | 2008
-uptime systemlösungen gmbh | Austria, vienna | 2003
+uptime systemlÃ¶sungen gmbh | Austria, vienna | 2003
 urbia.com AG | Germany, NRW, Cologne | 2011
-urbia.com AG - ein Unternehmen von Gruner+Jahr | Köln / Cologne, NRW, Germany | 2012
+urbia.com AG - ein Unternehmen von Gruner+Jahr | KÃ¶ln / Cologne, NRW, Germany | 2012
 vMoksha Technologies | United States, CA, Bay Area | 2003
 vertraulich - wird im ErstgesprÃ¤ch genannt | Deutschland / Germany, Berlin | 2010
 vice versa limited | United Kingdom, London | 2003
@@ -5263,7 +5263,7 @@ videorelay.com | United States, Louisiana, New Orleans | 2002
 voxclever | Bracknell, United Kingdom | 2013
 web advertising company | France, Paris | 2011
 webbee esolutions private limited | india, delhi, delhi | 2005
-webit! Gesellschaft für neue Medien mbH | Germany, Saxony, Dresden | 2008
+webit! Gesellschaft fÃ¼r neue Medien mbH | Germany, Saxony, Dresden | 2008
 webline productions Inc. | United States, Florida, Boca Raton | 2001
 wishli.st | United Kingdom, Northumberland, Hexham | 2008
 writch | United States, CA, Ukiah | 2009
@@ -5275,5 +5275,4 @@ www.skoosh.com | United Kingdom, East Sussex, Brighton | 2011
 www.ustrippoker.com | Canada, Manitoba, ONline | 2007
 www.zoek.nl B.V. | The netherlands, Overijssel, Zwolle | 2004
 ziStudio.net | Canada, Alberta, Edmonton | 2003
-Österreichische Webanalyse | Österreich, Wien | 2006
->>>>>>> 54525dc254ac10b9493d5002a2f398de53799f40
+Ã–sterreichische Webanalyse | Ã–sterreich, Wien | 2006
