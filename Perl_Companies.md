@@ -1335,6 +1335,7 @@ Dreamworks Animation | United States, CA, Glendale | 2007
 Dress-For-Less GmbH | Germany, Hesse, Frankfurt am Main/Kelsterbach/Raunheim | 2011
 Drexel Technical, Inc. | United States, NJ, Piscataway | 2003
 Drjays.com | United States, CA, San Diego | 2011
+DuckDuckGo | United States, PA, Paoli | 2013
 Duff Capital Advisors | United States, NY, New York | 2008
 DugaDuga.com | Sacramento, CA | 2012
 Dunross Recruitment | Czech Republic, Czech Republic, Prague | 2010
