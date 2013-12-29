@@ -503,6 +503,10 @@
   location: 'United States, New York, New York City'
   most_recent_posting: 2010
   name: AVID Technical Resources
+- hiring_status: Active
+  location: 'Austria, Graz'
+  most_recent_posting: 2013
+  name: AVL
 - hiring_status: Inactive
   location: 'United States, CA, Chatsworth'
   most_recent_posting: 2009

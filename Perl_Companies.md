@@ -128,6 +128,7 @@ ATS | Belgium, BW, Braine l'Alleud | 2005
 ATSI | U.S., CA, Petaluma | 2003
 AVAILIGENT | United States, CA, San Jose | 2006
 AVID Technical Resources | United States, New York, New York City | 2010
+AVL | Austria, Graz | 2013
 AVN Media Network | United States, CA, Chatsworth | 2009
 AVOXI | Charleston, SC | 2012
 AWeber Communications, Inc. | United States, PA, Richboro | 2007
