@@ -1937,7 +1937,6 @@ Holding and Barnes / 1st Interactive design | Canvey Island, Essex, UK | 2013
 Holmes Corporation | United States, MN, Eagan | 2006
 Holophrastic Enterprises Inc. | Canada, Ontario, Toronto | 2012
 HomeImprovementCompanies.com | United States, Florida, Pompano Beach | 2001
-Honeywell Automation India Limited | India, Maharashtra, Pune | 2005
 Honeywell Automation India Ltd. | India, Maharastra, PUNE | 2005
 Horizon Wimba | United States, NY, New York | 2006
 HorizonLive | United States, NY, New York | 2003
