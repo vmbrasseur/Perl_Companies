@@ -611,6 +611,10 @@
   location: 'San Diego, CA , Tucson, AZ, Albuqueruqe, NM , Anywhere USA'
   most_recent_posting: 2013
   name: Accurate Operational Support Systems
+- hiring_status: Active
+  location: 'UK, Theale, Berkshire'
+  most_recent_posting: 2013
+  name: Acision
 - hiring_status: Dormant
   location: 'United States, OK, Tulsa'
   most_recent_posting: 2003
