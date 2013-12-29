@@ -5099,7 +5099,7 @@
   location: 'United States, CA, San Diego'
   most_recent_posting: 2008
   name: 'Digium, Inc.'
-  hiring_status: Active
+- hiring_status: Active
   location: 'Netherlands, Echt'
   most_recent_posting: 2013
   name: Dijkmat BV
@@ -16731,10 +16731,10 @@
   location: 'United States, Ohio, Beachwood'
   most_recent_posting: 2010
   name: TMW Systems Inc.
-- hiring_status: Inactive
-  location: 'United States, Ohio, Cleveland'
-  most_recent_posting: 2010
-  name: 'TMW Systems, Inc.'
+- hiring_status: Active
+  location: 'Netherlands, Dordrecht'
+  most_recent_posting: 2013
+  name: TNX
 - hiring_status: Dormant
   location: 'United Kingdom, Gloucestershire, Cheltenham'
   most_recent_posting: 2005

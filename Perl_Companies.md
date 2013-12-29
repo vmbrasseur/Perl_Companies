@@ -4179,7 +4179,7 @@ TLO Corp. | United States, FL, Boca Raton | 2010
 TMP Worldwide | Australia, NSW, Sydney | 2003
 TMSI | United States, Washington DC, Washington DC | 2007
 TMW Systems Inc. | United States, Ohio, Beachwood | 2010
-TMW Systems, Inc. | United States, Ohio, Cleveland | 2010
+TNX | Netherlands, Dordrecht | 2013
 TPP | United Kingdom, Gloucestershire, Cheltenham | 2005
 TRIAD RESOURCING | Portsmouth, UK | 2013
 TRISTAFF | United States, CA, San Diego | 2006
