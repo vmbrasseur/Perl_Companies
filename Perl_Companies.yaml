@@ -11751,6 +11751,10 @@
   location: 'United States, VA, Manassas'
   most_recent_posting: 2008
   name: Noble Vision
+- hiring_status: Active
+  location: 'Finland, Espoo'
+  most_recent_posting: 2013
+  name: Nokia
 - hiring_status: Dormant
   location: 'Germany, Berlin, Berlin'
   most_recent_posting: 2006

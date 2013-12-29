@@ -2940,6 +2940,7 @@ Nitro | Australia, New South Wales, Sydney | 2006
 Nixle.com | United States, CA, San Francisco | 2008
 Nixus Soluções em Internet | Brazil, SP, São Paulo | 2009
 Noble Vision | United States, VA, Manassas | 2008
+Nokia | Finland, Espoo | 2013
 NorCa | Germany, Berlin, Berlin | 2006
 Norchem Labs, Inc. | Flagstaff, AZ | 2012
 Normandeau Associates Inc | Gainesvile, FL | 2012
