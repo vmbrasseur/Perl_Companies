@@ -1,9 +1,5 @@
 ---
 - hiring_status: Dormant
-  location: 'United States, CA, San Jose'
-  most_recent_posting: 2006
-  name: $2 Billion Broadband Communications Company
-- hiring_status: Dormant
   location: 'Beijing (PRC), Beijing'
   most_recent_posting: 2007
   name: '&#31859;&#31515;&#38597;&#36798;&#36798;&#31185;&#25216;&#21457;&#23637;&#6'
@@ -12,45 +8,9 @@
   most_recent_posting: 2003
   name: ((otrs.de))
 - hiring_status: Dormant
-  location: 'United States, CA, San Diego'
-  most_recent_posting: 2005
-  name: (Confidential)
-- hiring_status: Inactive
-  location: 'United States, DC, Washington'
-  most_recent_posting: 2010
-  name: (Please enquire)
-- hiring_status: Dormant
-  location: 'Russia, Moscow'
-  most_recent_posting: 2007
-  name: (Russian) Obnovlenie
-- hiring_status: Inactive
-  location: 'United States, CA, Culver City'
-  most_recent_posting: 2010
-  name: (mt) Media Temple
-- hiring_status: Dormant
   location: 'United States, Hawaii, Haiku'
   most_recent_posting: 2008
   name: (none)
-- hiring_status: Dormant
-  location: 'United States, GA, Atlanta'
-  most_recent_posting: 2007
-  name: (self-employed)
-- hiring_status: Dormant
-  location: 'England/Uk, London, London/City'
-  most_recent_posting: 2006
-  name: '**********'
-- hiring_status: Active
-  location: 'United Kingdon, Hampshire'
-  most_recent_posting: 2011
-  name: '*Confidential*'
-- hiring_status: Dormant
-  location: 'Australia, Victoria, Melbourne'
-  most_recent_posting: 2006
-  name: -
-- hiring_status: Active
-  location: 'Russia, Russia, Stalingrad'
-  most_recent_posting: 2011
-  name: /
 - hiring_status: Dormant
   location: 'Germany, Hessen, Wiesbaden'
   most_recent_posting: 2008
