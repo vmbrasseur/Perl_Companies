@@ -16019,6 +16019,10 @@
   location: 'United States, NY, New York'
   most_recent_posting: 2009
   name: Spire Vision
+- hiring_status: Active
+  location: 'Netherlands, Utrecht'
+  most_recent_posting: 2013
+  name: SpoorGloren
 - hiring_status: Dormant
   location: 'Australia , Victoria, Vermont'
   most_recent_posting: 2008

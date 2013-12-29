@@ -4003,6 +4003,7 @@ SpiraHellic Multimedia Limited | United Kingdom, Buckinghamshire, Milton Keynes 
 SpiraHellic Multimedia Ltd | United Kingdom, Bucks, Milton Keynes | 2005
 Spire | United States, MA, Dorchester | 2004
 Spire Vision | United States, NY, New York | 2009
+SpoorGloren | Netherlands, Utrecht | 2013
 SportingPulse | Australia , Victoria, Vermont | 2008
 Sportingstatz Limited | United Kingdom, Surrey, Guildford | 2003
 Sports Imports LTD | United States, Md, Potomac | 2002
