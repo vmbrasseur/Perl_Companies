@@ -2363,18 +2363,6 @@
   location: 'the Netherlands, Amsterdam'
   most_recent_posting: 2013
   name: Booking.com
-- hiring_status: Active
-  location: 'Netherlands, Amsterdam, Amsterdam (City Center)'
-  most_recent_posting: 2011
-  name: Booking.com -Travel & Tourism
-- hiring_status: Active
-  location: 'Amsterdam, The Netherlands'
-  most_recent_posting: 2013
-  name: Booking.com via MakorIT
-- hiring_status: Inactive
-  location: 'The Netherlands, Amsterdam (City Center)'
-  most_recent_posting: 2009
-  name: Booking.com/Travel &Tourism
 - hiring_status: Dormant
   location: 'Netherlands, Amsterdam'
   most_recent_posting: 2006
