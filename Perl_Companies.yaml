@@ -5099,6 +5099,10 @@
   location: 'United States, CA, San Diego'
   most_recent_posting: 2008
   name: 'Digium, Inc.'
+  hiring_status: Active
+  location: 'Netherlands, Echt'
+  most_recent_posting: 2013
+  name: Dijkmat BV
 - hiring_status: Inactive
   location: 'United States, TX, Austin'
   most_recent_posting: 2009
