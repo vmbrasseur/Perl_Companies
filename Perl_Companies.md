@@ -3082,7 +3082,6 @@ OpenCrypt.com | United Kingdom, Suffolk | 2004
 OpenCrypt.com (ionix Limited) | United Kingdom, Suffolk, Woodbridge | 2006
 OpenVS | Australia, Queensland, Brisbane | 2003
 OpenX | Pasadena, CA | 2012
-Opera Software | Sweden, Gothenburg | 2010
 Opera Software ASA | Norway, Oslo, Oslo | 2012
 Opsera Limited | United Kingdom, Reading | 2011
 Opsview | Reading, Berkshire, United Kingdom | 2012
