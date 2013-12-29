@@ -1,3 +1,5 @@
 *.tmproj
 *.*~
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
 notes.txt

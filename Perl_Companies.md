@@ -1264,7 +1264,6 @@ Digerati Search, Inc. | United States, TN, Memphis | 2006
 Digicon | United States, Maryland, Bethesda | 2008
 Digicon Corporation | United States, Maryland, Bethesda | 2005
 Digicon Corporation / NIH /NHGRI | Maryland, Bethesda | 2006
-Digital Campaigns | United States, CA, San Francisco | 2001
 Digital Campaigns, Inc. | United States, CA, Palo Alto | 2004
 Digital Craftsmen | United Kingdom, London | 2006
 Digital Craftsmen Ltd | United Kingdom, London | 2004
