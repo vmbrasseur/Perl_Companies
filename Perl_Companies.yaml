@@ -11751,22 +11751,10 @@
   location: 'United States, VA, Manassas'
   most_recent_posting: 2008
   name: Noble Vision
-- hiring_status: Inactive
-  location: 'United States, California, Palo Alto'
-  most_recent_posting: 2010
-  name: None yet
 - hiring_status: Dormant
   location: 'Germany, Berlin, Berlin'
   most_recent_posting: 2006
   name: NorCa
-- hiring_status: Active
-  location: 'Flagstaff, AZ, USA'
-  most_recent_posting: 2012
-  name: Norchem
-- hiring_status: Inactive
-  location: 'United States, AZ, Flagstaff'
-  most_recent_posting: 2010
-  name: Norchem Drug Testing
 - hiring_status: Active
   location: 'Flagstaff, AZ'
   most_recent_posting: 2012
@@ -11779,50 +11767,18 @@
   location: 'United States, Illinois, Chicago'
   most_recent_posting: 2005
   name: Northwestern University
-- hiring_status: Active
-  location: 'Guatemala, Solola, San Pedro'
-  most_recent_posting: 2011
-  name: Not Applicable
-- hiring_status: Dormant
-  location: 'United Kingdom, London'
-  most_recent_posting: 2007
-  name: Not Disclosed
-- hiring_status: Dormant
-  location: 'United States, Arizona, tucson'
-  most_recent_posting: 2008
-  name: Not disclosed
 - hiring_status: Inactive
   location: 'United Kingdom, Lincoln'
   most_recent_posting: 2009
   name: Novate IT
 - hiring_status: Dormant
-  location: 'United Kingdom, London'
-  most_recent_posting: 2006
-  name: Novate IT Ltd
-- hiring_status: Dormant
-  location: 'canada, Ontario, Toronto'
-  most_recent_posting: 2004
-  name: Novator
-- hiring_status: Dormant
-  location: 'Canada, Ontario, Toronto'
-  most_recent_posting: 2007
-  name: Novator Systems
-- hiring_status: Dormant
   location: 'Canada, Ontario, Toronto'
   most_recent_posting: 2008
   name: Novator Systems Ltd
-- hiring_status: Dormant
-  location: 'Canada, Ontario, Toronto'
-  most_recent_posting: 2007
-  name: Novator Systems Ltd.
 - hiring_status: Active
   location: 'Bagsværd, København, Denmark'
   most_recent_posting: 2012
   name: Novozymes
-- hiring_status: Active
-  location: 'Denmark, Bagsvaerd / Copenhagen'
-  most_recent_posting: 2012
-  name: Novozymes A/S
 - hiring_status: Dormant
   location: 'United States, NY, New York'
   most_recent_posting: 2008
