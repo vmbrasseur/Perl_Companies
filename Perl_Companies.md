@@ -22,7 +22,6 @@ Company Name | Company Location | Most Recent Posting
 1776 Media | United States, CA, Bay Area | 2005
 186k Limited | United Kingdom, W. Yorks, Leeds | 2007
 1st Interactive Design Ltd | United Kingdom, Any in the UK | 2011
-1st-Interactive Design Ltd | United Kingdom | 2008
 20 Minuten | Switzerland, Zürich | 2008
 2Checkout.com | United States, OH, Columbus | 2008
 2dehands | Amsterdam (NL) | 2011
