@@ -3103,6 +3103,10 @@
   location: 'United States, WI, Milwaukee'
   most_recent_posting: 2005
   name: 'CarSpot.com, LLC'
+- hiring_status: Active
+  location: 'Orange County, CA'
+  most_recent_posting: 2014
+  name: 'Carbine Studios'
 - hiring_status: Dormant
   location: 'United States, CA, San Francisco'
   most_recent_posting: 2007
