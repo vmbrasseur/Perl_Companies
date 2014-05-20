@@ -7862,13 +7862,7 @@
 - location: 'Germany, Berlin'
   most_recent_posting: 2005
   name: Max-Planck-Institut für molekulare Genetik
-- location: Undefined
-  most_recent_posting: 2012
-  name: MaxMind
-- location: 'United States, MA, Boston'
-  most_recent_posting: 2007
-  name: MaxMind LLC
-- location: Undefined
+- location: 'United States, Waltham, MA'
   most_recent_posting: 2013
   name: 'MaxMind, Inc.'
 - location: 'United States, CA, Sunnyvale'
