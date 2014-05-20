@@ -12158,12 +12158,6 @@
 - location: 'Switzerland, Zurich'
   most_recent_posting: 2002
   name: Swisslinx AG
-- location: 'United States, CA, San Francisco'
-  most_recent_posting: 2010
-  name: Switch Management
-- location: 'United States, CA, Lafayette'
-  most_recent_posting: 2008
-  name: Switch Management Corp.
 - location: 'United Kingdom, Merseyside, Liverpool'
   most_recent_posting: 2005
   name: Switch Media Ltd
@@ -14138,6 +14132,9 @@
 - location: 'United States, NC, Raleigh'
   most_recent_posting: 2007
   name: WebAssign
+- location: 'United States, CA, San Francisco'
+  most_recent_posting: 2010
+  name: 'WebCDR.com'
 - location: 'United States, MA, Andover'
   most_recent_posting: 2003
   name: WebEvent
