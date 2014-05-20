@@ -2337,15 +2337,6 @@ Lakeshore Staffing | United States, KY, Louisville | 2010
 Lakeview Education Solutions | United States, IL, Chicago | 2004
 Language Weaver | United States, CA, Los Angeles | 2008
 Language Weaver, Inc. | United States, California, Los Angeles/Marina Del Rey | 2007
-Large Financial Services Company | United States, Connecticut, Stamford | 2004
-Large Insurance Corporation | United States, Ohio, Columbus | 2007
-Large Internet Communications Firm | United States, NJ, Jersey City | 2008
-Large Internet Company | United Kingdom, London | 2011
-Large Media Company | United Kingdom, London | 2009
-Large National Media Group | United Kingdom, Manchester | 2007
-Large Publishing Company | United States, California, San Diego | 2007
-Large Telco  | Australia, New South Wales, North Ryde, Sydney | 2008
-Large e-commerce company in Toronto | Canada, Ontario, Toronto | 2005
 Las Vegas Extremes | United States, Nevada, Las Vegas | 2006
 Laser Print Plus | United States, SC, Columbia | 2006
 Lassen Group | United States, CA, Los Angeles | 2004
@@ -5100,7 +5091,6 @@ jzb90 | Netherlands, Arnhem | 2007
 kanetix.ca | Canada, Ontario, Toronto | 2011
 karmadownload.com | United Kingdom, London | 2005
 kgbweb | United States, NY, New York | 2009
-large interactive agency | United States, New York, New York | 2008
 latz://new.media | Deutschland, Saarland, Saarbrücken | 2003
 lawnsales llc | United States, california, santa monica | 2007
 log | Portugal, Lisbon | 2005
