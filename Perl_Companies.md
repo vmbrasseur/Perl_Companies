@@ -4734,8 +4734,6 @@ Webfusion Ltd | United Kingdom, London, Uxbridge | 2009
 Webhuset AS | Norway, Bergen, Bergen | 2005
 Webley Sytems | United States, IL, Bannockburn | 2004
 Webmaint | United Kingdom, Cheshire, Stockport | 2004
-Webmaint Ltd | United Kingdom, Stockport, Manchester | 2004
-Webmaint Ltd. | United Kingdom, Stockport | 2004
 Weborama | Paris, France | 2013
 Webpayment Systems | United States, Utah, Salt Lake City | 2006
 Webscheduler LLC | United States, CA, Oakland | 2010
