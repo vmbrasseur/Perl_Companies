@@ -13687,6 +13687,10 @@
   location: 'United States, OR, Portland'
   most_recent_posting: 2006
   name: Professional Technical Resources
+- hiring_status: Active
+  location: 'Germany, Hannover'
+  most_recent_posting: 2013
+  name: 'Profihost AG'
 - hiring_status: Dormant
   location: 'NY, New York, New York'
   most_recent_posting: 2003
