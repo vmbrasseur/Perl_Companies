@@ -758,7 +758,6 @@ CambridgeWebmaster.com | Pasadena, CA | 2011
 Camerado | United States, NY, New York | 2003
 CampStaff | United States, New York, Westchester County | 2008
 Campus Explorer, Inc. | United States, CA, Santa Monica | 2012
-Can be revealed upon application | United Kingdom, London | 2006
 Canada Law Book, A Division of The Cartwright Group Ltd. | Canada, Ontario, Aurora | 2006
 Canadian Centre for Child Protection Inc | Canada, Manitoba, Winnipeg | 2011
 Canadian Securities Institute | Canada, Ontario, Toronto | 2001
