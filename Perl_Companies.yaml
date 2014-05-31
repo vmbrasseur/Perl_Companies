@@ -2318,16 +2318,7 @@
 - location: 'United States, WI, Milwaukee'
   most_recent_posting: 2005
   name: 'CarSpot.com, LLC'
-<<<<<<< HEAD
 - location: 'United States, CA, San Francisco'
-=======
-- hiring_status: Active
-  location: 'Orange County, CA'
-  most_recent_posting: 2014
-  name: 'Carbine Studios'
-- hiring_status: Dormant
-  location: 'United States, CA, San Francisco'
->>>>>>> 4d69b37031a38122ea5740afb4881a8d64f2d911
   most_recent_posting: 2007
   name: CardIt
 - location: 'United States, NJ, North Brunswick'
@@ -13052,15 +13043,7 @@
 - location: 'United States, Colorado, Englewood'
   most_recent_posting: 2002
   name: Tiger Technology
-<<<<<<< HEAD
-- location: 'United States, CA, Los Angeles'
-  most_recent_posting: 2008
-  name: TigerLead
 - location: 'West Los Angeles, CA, USA'
-=======
-- hiring_status: Active
-  location: 'United States, CA, West Los Angeles'
->>>>>>> 4d69b37031a38122ea5740afb4881a8d64f2d911
   most_recent_posting: 2012
   name: TigerLead Solutions
 - location: 'United States, NY, New York'
