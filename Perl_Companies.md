@@ -5129,8 +5129,6 @@ netfxx.net | United States, FL, Hollywood | 2004
 network appliance | 94089, CA, Sunnyvale | 2007
 nfon AG | Germany, Bavaria, Munich | 2011
 nnit A/S | Denmark, Copenhagen, Bagsvaerd | 2010
-non disclosed | ny -teleconmute | 2013
-none | 02906, RI, Providence | 2008
 noris network AG | Deutschland, Nürnberg | 2012
 noyona.com | United States, CA, Palo Alto | 2006
 oDesk | United States, CA, Menlo Park | 2012
