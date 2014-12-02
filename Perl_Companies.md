@@ -47,8 +47,6 @@ A Product Based Company | India, Andhra Pradesh, Hyderabad | 2010
 A Reality Technologies | United States, CA, Los Angeles | 2004
 A Reality Technologies, LLC | United States, CA, Los Angeles | 2003
 A US based fortune 500 Company | India, Delhi, Delhi | 2007
-A leading Financial firm | Singapore, Singapore | 2008
-A major welfare fund | United States, NY, New York | 2005
 A-Life Medical | United States, CA, San Diego | 2010
 A-Z Media | United States, CA, Carlsbad | 2003
 A.C.Coy | United States, PA, Pittsburgh | 2003
@@ -2267,7 +2265,6 @@ Kanoodle | United States, NY, Getzville | 2005
 Kapor Enterprises | United States, CA, San Francisco | 2006
 Kareo | Irvine, CA | 2013
 Karlson Recruitment | United Kingdom, London, London | 2009
-Karlson Recruitment on behalf of leading London based Companies | United Kingdom, London | 2007
 Karlson UK | United Kingdom, London, London | 2009
 Karma Music Group | United Kingdom, London | 2004
 Karmasphere | United Kingdom, London | 2006
@@ -2349,14 +2346,6 @@ Layover, Inc. | United States, PA, Lancaster County | 2006
 Layover.com | United States, PA, Lancaster | 2006
 Lazard Asset Management | United States, New York, New York | 2007
 Lead Revolution Inc | Canada, B.C., Vancouver | 2004
-Leading European Brand | United Kingdom, Hampshire, Portsmouth | 2010
-Leading Information Solution Provider | United States, California, Los Angeles | 2008
-Leading Information Solution provider | United States, NY, New York | 2008
-Leading Online Advertising organization | United States, WA, Seattle | 2007
-Leading Search Engine Marketing / Search Engine Optimization Firm | United States, IL, Chicago | 2007
-Leading Search Engine/Internet Company | United States, NY, New York | 2007
-Leading in the Semiconductor Industry | United States, CA, San Jose | 2006
-Leading integrated financial services company | Germany, Munich / München | 2007
 Leadpile | United States, Arizona, Phoenix | 2011
 LeapFrog Systems | Boston, MA | 2012
 LeasingBørsen.dk | Denmark, Copenhagen | 2011
@@ -2543,16 +2532,8 @@ MailChannels | Canada, BC, Vancouver | 2010
 MailChannels Corporation | Canada, BC, Vancouver | 2007
 Maine Historical Society | United States, Maine, Portland | 2007
 Mainz Brady Group | OR, Portland | 2010
-Major Financial Firm | United States, NY, New York | 2008
-Major Financial Services Firm | United States, NY, New York | 2010
-Major Investment Bank | United States, NY/NJ, New York City and Jersey City | 2008
-Major Investment Firm | Canada, Ontario, Toronto | 2008
 Major League Baseball | United States, NY, New York | 2002
 Major League Baseball Advanced Media | United States, New York, New York | 2006
-Major NYC Firm | United States, NY, NYC | 2007
-Major Online Marketing Firm | United States, NY, New York | 2010
-Major Publishing company | United States, NY, Port Washington | 2008
-Major investment bank | United States, NY, New York | 2007
 Majoris Systems Pvt Ltd. | India, Karnataka, Bangalore | 2004
 Make Corporation | United States, IL, Chicago | 2002
 MakePerl.com | Ukraine, Dniepropetrovsk | 2005
@@ -2576,10 +2557,6 @@ Mark 4 Technologies | Tulsa, OK, USA | 2011
 Mark Jones (independent contractor) | United States, TX, San Antonio | 2002
 Mark Lewis, Inc | United States, Illinois, chicago | 2004
 Mark Monitor | United States, Maryland, Germantown | 2006
-Market Leading ISP | United Kingdom, Nottinghamshire, Nottingham | 2008
-Market Leading International Ecommerce Site | United Kingdom, Hampshire, Fareham | 2010
-Market Leading Online Brand | Portsmouth, United Kingdom | 2011
-Market Leading Software House | United Kingdom, London | 2005
 Market Sentinel | United Kingdom, London | 2006
 Market Strategies, Inc. | United States, MI, Livonia | 2005
 Marketing Company | United States, Western/Central US, Anywhere | 2011
@@ -3008,7 +2985,6 @@ On Track Projects | Australia, Queensland, Brisbane | 2009
 On-to-One Staffing, Inc. | United States, CA, San Francisco | 2006
 Ondova Ltd. | United States, TX, Carrollton | 2007
 One Step Beyond | United States, Colorado, Denver | 2002
-One of the Global Top 5 IT Consulting Firms | INDIA | 2003
 OneUpWeb | United States, Michigan, Lake Leelanau | 2006
 Oneil & Associates | United States, Ohio, Miamisburg | 2006
 Oneupweb | United States, Michigan, Traverse City | 2010
@@ -5099,7 +5075,6 @@ mBalance | The Netherlands, Amsterdam | 2005
 mBase | Canada, AB, Edmonton | 2006
 mBase Systems Inc | Canada, Alberta, Edmonton | 2003
 mBase Systems Inc. | Canada, AB, Edmonton | 2005
-major NYC Firm | United States, NY, NYC | 2007
 mindsource | United States, CA, San Jose | 2001
 mnusa | Las Vegas, NV, USA | 2011
 mobile messaging sollutions (mms) | United States, MA, Boston | 2009
@@ -5132,7 +5107,6 @@ nnit A/S | Denmark, Copenhagen, Bagsvaerd | 2010
 noris network AG | Deutschland, Nürnberg | 2012
 noyona.com | United States, CA, Palo Alto | 2006
 oDesk | United States, CA, Menlo Park | 2012
-one of MNC client based out in Bangalore | Bangalore | 2013
 ontotel | United States, new jersey, maplewood | 2005
 open network design | Undefined | 2007
 pair Networks, Inc. | United States, PA, Pittsburgh | 2005
