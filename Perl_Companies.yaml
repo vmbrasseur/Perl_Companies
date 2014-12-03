@@ -119,12 +119,6 @@
 - location: 'India, Delhi, Delhi'
   most_recent_posting: 2007
   name: A US based fortune 500 Company
-- location: 'Singapore, Singapore'
-  most_recent_posting: 2008
-  name: A leading Financial firm
-- location: 'United States, NY, New York'
-  most_recent_posting: 2005
-  name: A major welfare fund
 - location: 'United States, CA, San Diego'
   most_recent_posting: 2010
   name: A-Life Medical
@@ -6788,9 +6782,6 @@
 - location: 'United Kingdom, London, London'
   most_recent_posting: 2009
   name: Karlson Recruitment
-- location: 'United Kingdom, London'
-  most_recent_posting: 2007
-  name: Karlson Recruitment on behalf of leading London based Companies
 - location: 'United Kingdom, London, London'
   most_recent_posting: 2009
   name: Karlson UK
@@ -7034,30 +7025,6 @@
 - location: 'Canada, B.C., Vancouver'
   most_recent_posting: 2004
   name: Lead Revolution Inc
-- location: 'United Kingdom, Hampshire, Portsmouth'
-  most_recent_posting: 2010
-  name: Leading European Brand
-- location: 'United States, California, Los Angeles'
-  most_recent_posting: 2008
-  name: Leading Information Solution Provider
-- location: 'United States, NY, New York'
-  most_recent_posting: 2008
-  name: Leading Information Solution provider
-- location: 'United States, WA, Seattle'
-  most_recent_posting: 2007
-  name: Leading Online Advertising organization
-- location: 'United States, IL, Chicago'
-  most_recent_posting: 2007
-  name: Leading Search Engine Marketing / Search Engine Optimization Firm
-- location: 'United States, NY, New York'
-  most_recent_posting: 2007
-  name: Leading Search Engine/Internet Company
-- location: 'United States, CA, San Jose'
-  most_recent_posting: 2006
-  name: Leading in the Semiconductor Industry
-- location: 'Germany, Munich / München'
-  most_recent_posting: 2007
-  name: Leading integrated financial services company
 - location: 'United States, Arizona, Phoenix'
   most_recent_posting: 2011
   name: Leadpile
@@ -7614,35 +7581,11 @@
   most_recent_posting: 2010
   name: Mainz Brady Group
 - location: 'United States, NY, New York'
-  most_recent_posting: 2008
-  name: Major Financial Firm
-- location: 'United States, NY, New York'
-  most_recent_posting: 2010
-  name: Major Financial Services Firm
-- location: 'United States, NY/NJ, New York City and Jersey City'
-  most_recent_posting: 2008
-  name: Major Investment Bank
-- location: 'Canada, Ontario, Toronto'
-  most_recent_posting: 2008
-  name: Major Investment Firm
-- location: 'United States, NY, New York'
   most_recent_posting: 2002
   name: Major League Baseball
 - location: 'United States, New York, New York'
   most_recent_posting: 2006
   name: Major League Baseball Advanced Media
-- location: 'United States, NY, NYC'
-  most_recent_posting: 2007
-  name: Major NYC Firm
-- location: 'United States, NY, New York'
-  most_recent_posting: 2010
-  name: Major Online Marketing Firm
-- location: 'United States, NY, Port Washington'
-  most_recent_posting: 2008
-  name: Major Publishing company
-- location: 'United States, NY, New York'
-  most_recent_posting: 2007
-  name: Major investment bank
 - location: 'India, Karnataka, Bangalore'
   most_recent_posting: 2004
   name: Majoris Systems Pvt Ltd.
@@ -7712,18 +7655,6 @@
 - location: 'United States, Maryland, Germantown'
   most_recent_posting: 2006
   name: Mark Monitor
-- location: 'United Kingdom, Nottinghamshire, Nottingham'
-  most_recent_posting: 2008
-  name: Market Leading ISP
-- location: 'United Kingdom, Hampshire, Fareham'
-  most_recent_posting: 2010
-  name: Market Leading International Ecommerce Site
-- location: 'Portsmouth, United Kingdom'
-  most_recent_posting: 2011
-  name: Market Leading Online Brand
-- location: 'United Kingdom, London'
-  most_recent_posting: 2005
-  name: Market Leading Software House
 - location: 'United Kingdom, London'
   most_recent_posting: 2006
   name: Market Sentinel
@@ -9008,9 +8939,6 @@
 - location: 'United States, Colorado, Denver'
   most_recent_posting: 2002
   name: One Step Beyond
-- location: INDIA
-  most_recent_posting: 2003
-  name: One of the Global Top 5 IT Consulting Firms
 - location: 'United States, Michigan, Lake Leelanau'
   most_recent_posting: 2006
   name: OneUpWeb
