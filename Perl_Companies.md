@@ -3789,10 +3789,10 @@ Shrinking Planet Inc. | Canada, Ontario, Mississauga  (Toronto) | 2002
 Shulman Fleming | NY, NYC | 2005
 Shulman Fleming and Partners | United States, NY, NY | 2006
 Shulman and Partners | United States, NY, New York | 2002
-ShutterStock | United States, NY, New York | 2006
-Shutterstock | United States, NY, New York | 2013
-Shutterstock Images | United States, NY, New York | 2011
-Shutterstock.com | United States, NY, New York | 2005
+Shutterstock | United States, CA, San Francisco | 2014
+Shutterstock | United States, CO, Denver | 2014
+Shutterstock | United States, NY, New York | 2014
+Shutterstock | United States, TX, Austin | 2014
 SiVerion | United States, AZ, Tempe | 2004
 Siemens | United States, Washington, Redmond | 2005
 Siemens AG | Deutschland, Bayern, Erlangen | 2009
