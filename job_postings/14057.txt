@@ -1,0 +1,100 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14057
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 3211 invoked from network); 9 Jan 2014 19:05:34 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 9 Jan 2014 19:05:34 -0000
+Received: (qmail 6176 invoked by uid 225); 9 Jan 2014 19:05:34 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 6172 invoked by alias); 9 Jan 2014 19:05:34 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 09 Jan 2014 11:05:28 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 247A54293B; Thu,  9 Jan 2014 11:05:25 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 9 Jan 2014 11:05:25 -0800
+Message-ID: <20140109190525.247A54293B@x3.develooper.com>
+Subject: Senior Software Engineer (onsite), Seattle, WA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18248
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January  9, 2014
+
+Job title: Senior Software Engineer
+
+Company name: Shiftboard Inc
+
+Location: Seattle, WA
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Our small team is about to become a little bigger. Plus one for sure. Plus
+two if you bring a friend as awesome and as qualified as you.
+
+When an organization needs to coordinate, schedule, and track 10,000
+skilled contract, part-time, seasonal, or volunteer staff, it does not use
+Post-Its or pencils, it uses Shiftboard.
+
+Our office is the 30th floor of the iconic Smith Tower in downtown Seattle
+offering a 360-degree view of the city, the Puget Sound, Mt Rainier, and
+the east sideline of Century Link Field. You can open the window on a warm
+day and enjoy the breeze 30 stories above the city. You get to talk to an
+actual elevator operator while watching each floor go fly by. We're kitty
+corner from Tat's. We have some of the best seats available for 2014-07-31
+and 2014-08-01--the practice days for the Blue Angels next year.
+
+In addition to having an awesome product and an amazing location, we have a
+great team and you will help make it even better. Our founder and CEO was
+the lead developer for many years and understands technology and the work
+involved to make magic happen. Our company is still very small enabling you
+to make a big impact. We are debt-free and profitable so we're going to be
+here for a while. Our turn-over is nearly nonexistent which is why you
+rarely hear about us hiring. We are not growing for the sake of growing, we
+are growing because we have more work than we can handle; most of which
+will help increase revenue. Our existing engineers are top-notch and we're
+only interested in hiring the cream of the crop. We believe that talent
+breeds talent and we need some top-shelf talent. There is a lot that you
+can learn from us. If we do not feel that is reciprocal, you will not be
+offered a job.
+
+We are an open source shop. We use mostly Perl and MySQL on Ubuntu. We also
+have some Bash, Python/Django, Lisp, Freeswitch, Memcached, Android, iOS,
+and FreeBSD. We love Git. More technologies are likely to come in the near
+future once we hire additional engineers and can start those projects.
+
+We are not a Java shop. We are not a Microsoft shop. Most of us use very
+nice MacBooks. If you like Windows we have an opening on our support team.
+
+If you are a brilliant developer and you like working with other brilliant
+developers and you're prepared to absolutely love your job, contact us.
+
+our $email = q(fohjoffsjoh@tijgucpbse.dpn); $email =~ y/b-z/a-y/; say
+$email;
+
+Fine print: On-site, full-time, salaried position with standard benefits
+and competitive salary.
+
+Required skills: Perl. SQL. Linux.
+
+Website for more information: http://www.shiftboard.com
+
+Contact information at:
+http://jobs.perl.org/job/18248#contact

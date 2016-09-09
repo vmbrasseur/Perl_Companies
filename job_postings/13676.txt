@@ -1,0 +1,125 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13676
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 24413 invoked from network); 28 Aug 2013 06:05:00 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 28 Aug 2013 06:05:00 -0000
+Received: (qmail 11552 invoked by uid 225); 28 Aug 2013 06:04:59 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11544 invoked by alias); 28 Aug 2013 06:04:59 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,T_FRT_PROFILE2
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 27 Aug 2013 23:04:53 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 0BF1E2AFE1; Tue, 27 Aug 2013 23:04:50 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Tue, 27 Aug 2013 23:04:49 -0700
+Message-ID: <20130828060450.0BF1E2AFE1@x3.develooper.com>
+Subject: Senior Operations Developer (part onsite)
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17791
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 27, 2013
+
+Job title: Senior Operations Developer
+
+Company name: Internet Systems Consortium
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+Internet Systems Consortium (ISC) develops commercial ­quality open­source
+software for the Internet Community. ISC has a proud history in the
+development of the Internet, with many of the DNS and DHCP ­related
+standards in use today written by current or past employees. We are
+currently seeking highly qualified and motivated Senior Operations
+Developer.
+
+ISC is looking for a self-driven, hands-on senior engineer with a blend of
+software development and operations skills. This role will initially focus
+on the development and maintenance of ISC’s Secondary Name Service
+platform, but will more generally focus on the development of tools and
+systems to enhance and automate the ISC Operations environment. Beyond pure
+development, the engineer in this role will participate in the overall
+management, operation and growth of the ISC and world-wide F-Root network
+and systems infrastructure.
+Duties will include:
+
+    - Primary development and maintenance of the software driving ISC’s
+Secondary Name Service platform
+    - Design and development of systems automation, monitoring and
+optimization tools, as well as analysis of existing toolsets
+    - Development of advanced tools for DNS monitoring and analysis
+    - Participation in the day-to-day operation of the ISC Infrastructure
+    -  Developing and maintaining documentation and reports
+    - Participation in an on-call rotation for both ISC’s customer support
+department as well as ISC’s on-call 24 Hour NOC
+    - Representing ISC at technical conferences and presenting, as
+appropriate
+
+ISC is based in Redwood City, California, with much of the engineering
+staff distributed around the globe. We’re interested in the best
+applicants, and are very open to remote employees. Candidates should be
+willing to travel periodically, both to the company headquarters as well as
+to various industry conferences, as needed.
+
+Required skills:
+- Perl Programming with specific knowledge on:
+	* Catalyst – web Framework
+	* Moose – post-modern object oriented system
+	* DBIx::Class – Object Relational Mapper
+    - Proficient in database technologies, with specific expertise in:
+	* MongoDB
+	* PostgreSQL 9.1+
+	* Performance tuning and optimization
+	* Real-time data replication and High Availability
+    - Experience processing XML and JSON documents
+    - Template Toolkit and HTML::Template is desired
+    - Experience with User Interface design, particularly focused on
+technical users
+    - Strong focus on Development Testing at all levels
+    - Knowledge of the Domain Name System (DNS) and BIND configuration.
+    - FreeBSD and Linux experience
+    - Strong written and oral communications skills
+    - The ability to collaborate with diverse and distributed teams
+
+Desired skills:
+- Unix system administration skills, especially FreeBSD and Linux
+    - Cisco IOS System Maintenance (install/troubleshooting/upgrade)
+    - Familiarity with firewalls and common security best practices
+    - Familiarity with virtualization, VMWare a plus
+    - Experience with IPv6 in large-scale production
+    - In-depth knowledge of DNS and DHCP
+    - Experience with DNSSEC
+    - C, C++, or Python Programming Experience
+    - Strong Network Management background
+    - Experience presenting to group audiences
+
+This position requires open-minded, motivated, hands-on individuals who
+thrive in an environment comprised of strong engineering and
+multidisciplinary teams having both software development and systems
+administration backgrounds. Candidates must possess a desire to pioneer
+solutions and automation over existing and new services that empower the
+core of the Internet.
+
+Website for more information:
+http://www.isc.org/?jobs=senior-operations-developer-devops
+
+Contact information at:
+http://jobs.perl.org/job/17791#contact

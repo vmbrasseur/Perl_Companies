@@ -1,0 +1,155 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13950
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 18102 invoked from network); 8 Dec 2013 07:33:01 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 8 Dec 2013 07:33:01 -0000
+Received: (qmail 12036 invoked by uid 225); 8 Dec 2013 07:33:01 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 12032 invoked by alias); 8 Dec 2013 07:33:01 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 07 Dec 2013 23:32:59 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 275822AFE0; Sat,  7 Dec 2013 23:32:55 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 7 Dec 2013 23:32:55 -0800
+Message-ID: <20131208073256.275822AFE0@x3.develooper.com>
+Subject: Perl Developer (onsite), New York, NY
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18150
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December  7, 2013
+
+Job title: Perl Developer
+
+Company name: Mondo
+
+Location: New York, NY
+
+Pay rate: Open
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 3+ months
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+My direct client has an immediate need for a Perl Developer. Please see
+below for details: 
+Location: New York, NY
+Duration: 3+ month contract
+Hourly: Open on W2 or C2C
+Start Date: ASAP
+
+
+Mandatory Skills Job Function: Conversion of shell and
+perl scripts to CTRL-M
+Background
+The CB&S business unit falls within the
+Global Investment Banking Technology
+area. The BU consists
+of multiple lines of business across all
+major sales and trading asset classes in
+multiple regions UK, Europe, USA and
+the Americas, and Asia-Pacific.
+Overall Purpose of the Role:
+The Cron -> CTRL-M migration is a
+project to migrate over 700 applications
+and 250,000 scripts from Cron to
+CTRL-M, the bank standard. While going
+through this migration we will be using
+this opportunity to standardize the actual
+scripts themselves and tidy up the
+environment. The migration to a central
+job management system gives us a
+number of benefits including alerting on
+failed jobs, setting up job dependencies,
+and alerting on long running jobs as well
+as GUI control over our jobs.
+Specific Scope
+Converting scripts used in cron for use
+in CTRL-M
+Adding in exit codes
+General code review sanity check / tidy
+up errant code in scripts
+Remove duplication
+Make the scripts more efficient
+Managing scripts in a version control
+system
+Experience/Background:
+Broad technical background with at
+least 2 years experience in the following
+competencies: Unix/Linux, scripting
+Have excellent Interpersonal skills with
+working with multiple teams within the
+bank, spanning over geographical
+locations.
+Personal Characteristics:
+Ability to perform in high-pressure
+situations
+Excellent communications skills
+Excellent problem solving skills
+Comfortable with complex
+environments - able to break them down
+into manageable chunks
+Results-oriented
+Ability to build, maintain and leverage
+strong relationships quickly
+Customer-focused and Service-driven:
+desire to go the extra mile to provide
+excellent service
+Able to deal with multiple tasks in
+parallel
+Eager to learn about new technology
+and gain new skills as required
+Keen to work and communicate with
+people at all levels
+Looking forward to working with people
+from many different cultures around the
+globe
+Strong team player but also a
+self-starter able to work independently
+Looking for a long career in a top-tier,
+global financial organisation
+Skills Required:
+Unix / Linux scripting
+o Shell
+o Perl
+Demonstrably strong spoken and
+written English
+Experience of working in a large global
+organisation a plus
+Skills Desired:
+Strong Unix and/or Wintel SA skills and
+strong shell, perl or python scripting
+Solid development background
+Strong database skills (any of Oracle,
+Sybase, Informix, mySQL particularly
+desirable)
+Web skills including html, xml, php, cgi,
+javascript, jsp, ajax, web2.0, etc
+Additional languages (German,
+Spanish, etc)
+
+If qualified and interested, please send your most current resume as a word
+document to peter.ancheta@mondo.com along with a time and number where you
+may be reached. I look forward to hearing from you.
+
+Contact information at:
+http://jobs.perl.org/job/18150#contact

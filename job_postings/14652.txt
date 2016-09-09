@@ -1,0 +1,118 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14652
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 4576 invoked from network); 8 Sep 2014 03:20:18 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 8 Sep 2014 03:20:18 -0000
+Received: (qmail 16484 invoked by uid 225); 8 Sep 2014 03:20:18 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 16480 invoked by alias); 8 Sep 2014 03:20:18 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 07 Sep 2014 20:20:16 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 59C0542950; Sun,  7 Sep 2014 20:20:13 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sun, 7 Sep 2014 20:20:13 -0700
+Message-ID: <20140908032013.59C0542950@x3.develooper.com>
+Subject: Software Engineer (part onsite), Santa Monica, CA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18908
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September  7, 2014
+
+Job title: Software Engineer
+
+Company name: Surf Air
+
+Location: Santa Monica, CA
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+Overview:
+
+After delighting our members with flights for over a year, Surf Air
+recently acquired funding to quintuple our current fleet of aircraft,
+expanding over the next 18 months to over a dozen private airports
+throughout California, in comfort, minus the lines and TSA hassles.
+
+We are getting our systems ready to scale operations. This means, tighter
+integration of third party systems, better interfaces, more stable code
+base.
+
+Our existing code base is in Perl. So some familiarity with the language is
+required. However, whether you love Python, Node JS, Ruby or Go, and can
+make an argument for why that's the thing to do for our future systems -
+the future of our back end technology is up to you! (We are a unix shop
+though - we have to draw the line somewhere!)
+
+We are located in the heart of the Santa Monica Promenade, above a comedy
+house. Sense of humor, however, is not required (though strongly
+encouraged), experience working in a fast-moving environment is.
+
+Our compensation package includes:
+
+    Medical/Dental/Vision Benefits
+    Flexible hours
+    Unlimited Vacation
+    Work from home options
+    Stock Options
+    401(K)
+
+About Surf Air:
+
+Surf Air is the first ever All-You-Can-Fly membership airline that launched
+service in June of 2013. We currently provide scheduled daily flights on
+executive aircraft to and from convenient local airports in the San
+Francisco Bay Area, Los Angeles metro area, Santa Barbara and Truckee Lake
+Tahoe, with plans to expand nationwide. Surf Air brings back the ease and
+allure of flying that has been lost in the endless lines, overburdened
+systems and heavy fees. Forbes has called us "the future of flying". With
+us, members save valuable time, eliminate the hassle of travel and fly with
+outstanding service.
+
+We're continuing to build an exceptional team of professionals looking to
+revolutionize the flying experience with us. We hand-select each of our
+team members based on their experience, passion, and the desire to be the
+absolute best in their field. Surf Air provides immense growth potential as
+we expand, in a culture that celebrates innovation and the entrepreneurial
+mind.
+
+These qualification’s are the minimum requirements. The most successful
+applicants exceed these minimums.
+
+Surf Air offers a comprehensive benefits package, competitive salary,
+quality of life schedule, and an excellent work environment.
+
+Required skills:
+Required Skills:
+
+    Familiarity with Perl
+    Expert level knowledge of a back end scripting language such as Perl,
+Python, Ruby, etc.
+    Object oriented and functional programming
+    Expert level knowledge of SQL
+    Experience with third party APIs
+    JSON, XML, SOAP, Rest API
+
+Website for more information: http://www.surfair.com
+
+Contact information at:
+http://jobs.perl.org/job/18908#contact

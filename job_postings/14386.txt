@@ -1,0 +1,75 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14386
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 15563 invoked from network); 11 May 2014 19:02:56 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 11 May 2014 19:02:56 -0000
+Received: (qmail 13797 invoked by uid 225); 11 May 2014 19:02:55 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 13793 invoked by alias); 11 May 2014 19:02:55 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 11 May 2014 12:02:52 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id C38BC4293D; Sun, 11 May 2014 12:02:49 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sun, 11 May 2014 12:02:49 -0700
+Message-ID: <20140511190249.C38BC4293D@x3.develooper.com>
+Subject: Programmer (onsite), Laguna Beach, CA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18620
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 11, 2014
+
+Job title: Programmer
+
+Company name: Tropare, Inc.
+
+Location: Laguna Beach, CA
+
+Pay rate: USD DOE
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are currently seeking a mid level Perl programmer, that has experience
+writing Perl programs running on mod_perl, under apache, on Linux. 
+Position is on-site at our office in Laguna Beach (we are two blocks from
+the beach).  We develop applications for companies in the fortune 20 on
+down.
+
+Required skills:
+Perl (of course)
+Using mod_perl CGI mod, dealing with sessions, etc.
+MySQL DBI:DBD
+Regex
+SQL (MySQL flavor)
+HTML
+CSS
+
+Desired skills:
+Linux (Ubuntu, Amazon, CentOS)
+Open Auth (The ins and outs) Google, MS, etc.
+Javascript
+jQuery/jQuery-UI
+Mobile Application Development all platforms (IOS, Android, Blackberry)
+Surfing (water based)
+
+Contact information at:
+http://jobs.perl.org/job/18620#contact

@@ -1,0 +1,63 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15635
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 27976 invoked from network); 30 Jul 2016 23:21:38 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 30 Jul 2016 23:21:38 -0000
+Received: (qmail 31992 invoked by uid 225); 30 Jul 2016 23:21:38 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 31988 invoked by alias); 30 Jul 2016 23:21:38 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,LOTS_OF_MONEY,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 30 Jul 2016 16:21:36 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id E5DBE365; Sat, 30 Jul 2016 23:21:35 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 30 Jul 2016 23:21:35 +0000
+Message-ID: <20160730232135.E5DBE365@web1.develooper.com>
+Subject: Junior Perl Developer (part onsite), Israel
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20344
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 30, 2016
+
+Job title: Junior Perl Developer
+
+Company name: GameKeys
+
+Location: Israel
+
+Pay rate: $15,000
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Flexible
+
+Onsite: some
+
+Description:
+We're looking for a skilled web based developer to help us create a new
+back-end order & live stock system to work with our existent platform.
+
+Desired skills:
+- Programming experience in Perl (at least 1 year of experience).
+-
+Programming experience in PHP.
+- Developing experience in MVC pattern.
+
+Website for more information: https://gamekeys.co.il/
+
+Contact information at:
+http://jobs.perl.org/job/20344#contact

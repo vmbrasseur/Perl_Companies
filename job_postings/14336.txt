@@ -1,0 +1,113 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14336
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 32540 invoked from network); 22 Apr 2014 08:31:35 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 22 Apr 2014 08:31:35 -0000
+Received: (qmail 26587 invoked by uid 225); 22 Apr 2014 08:31:35 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 26583 invoked by alias); 22 Apr 2014 08:31:35 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 22 Apr 2014 01:31:30 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id DDFD24294F; Tue, 22 Apr 2014 01:31:26 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Tue, 22 Apr 2014 01:31:26 -0700
+Message-ID: <20140422083126.DDFD24294F@x3.develooper.com>
+Subject: Perl/PHP Software Engineer (onsite), Irving, TX, United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18574
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 22, 2014
+
+Job title: Perl/PHP Software Engineer
+
+Company name: Genares Worldwide Reservations
+
+Location: Irving, TX, United States
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Genares Worldwide Reservation Services is the culmination of over 50 years
+of experience in the hospitality business and is based in Irving, Texas. As
+a provider for hotel reservations, Genares links the online traveler from
+their computer or phone to their hotel room and gives the hotelier the
+benefit of having a worldwide hotel sales staff without the cost. 
+The Software Engineer's role is to define, develop, test, analyze, and
+maintain software applications in support of the achievement of business
+requirements. This includes writing, coding, testing, and analyzing
+software programs and applications. The Software Engineer will also
+research, design, document, and modify software specifications throughout
+the production life cycle.
+
+We prefer a Perl programmer with some PHP experience over a PHP programmer
+with some Perl.
+
+Required skills:
+Essential Functions:
+* Participate in a team-oriented environment to develop complex
+applications, including designing, coding, testing, and analyzing software
+programs and applications.
+* Utilize rapid prototyping and agile development practices to increase
+user involvement, deliver functionality quicker and improve likelihood of
+meeting requirements.
+* Maintain existing codebases, to include troubleshooting bugs and adding
+new features.
+* Interface with customers directly to gather requirements, troubleshoot
+problems, provide training, etc.
+* Balance a variety of concurrent projects.
+
+Requirements:
+* 3+ years Perl development, including experience with the following
+technologies:
+  - Template Toolkit
+  - DBIx::Class
+  - mod_perl
+* 3+ years PHP development, including experience with the following
+technologies:
+  - Smarty Templating
+* 3+ years with standard web technologies, including:
+  - HTML
+  - CSS
+  - JavaScript, including standard libraries like jQuery and ExtJS
+  - AJAX/JSON
+* Familiarity with the entire LAMP stack
+* Experience with MySQL
+* Experience with XML
+* SQL queries, including complex joins and optimization
+* Experience with version control systems such as SVN
+* Ability to accurately estimate the scope and effort required to deliver
+complex technical projects
+* Good interpersonal communication skills and written communication skills.
+
+Desired skills:
+* Familiarity with hotel reservation systems, and associated distribution
+channels such as Travelocity, Orbitz, Expedia and Priceline.
+* Experience with Responsive Design
+* Experience with localizing applications
+* Familiarity with configuring MySQL in a replicated environment.
+* Experience with PCI Compliance
+* Experience with mobile development
+
+Website for more information: http://genares.com
+
+Contact information at:
+http://jobs.perl.org/job/18574#contact

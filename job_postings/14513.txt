@@ -1,0 +1,93 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14513
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 21003 invoked from network); 6 Jul 2014 03:35:47 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 6 Jul 2014 03:35:47 -0000
+Received: (qmail 17009 invoked by uid 225); 6 Jul 2014 03:35:45 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 17005 invoked by alias); 6 Jul 2014 03:35:44 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 05 Jul 2014 20:35:42 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id E072042954; Sat,  5 Jul 2014 20:35:38 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 5 Jul 2014 20:35:38 -0700
+Message-ID: <20140706033538.E072042954@x3.develooper.com>
+Subject: Senior Perl Developer (part onsite), Milwaukee, WI, United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18762
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July  5, 2014
+
+Job title: Senior Perl Developer
+
+Company name: Assurant Specialty Property
+
+Location: Milwaukee, WI, United States
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+Assurant Specialty Property and StreetLinks Lender Solutions are looking
+for modern Perl developers that can:
+* architect web scale solutions that never drop a message
+* write elegant code with tests that guarantee the objectives
+* harness open source technology and contribute improvements when possible
+* dream up crazy ideas that will inspire teammates to find the right answer
+
+
+Some of the technologies we work with includes:
+* Perl, PostgreSQL, Linux, git
+* Moose, Catalyst, DBIx::Class, Exception::Class, Test::More
+* memcached, RabbitMQ
+* JavaScript, ExtJS
+* REST, SOAP, JSON, XML, YAML
+* vim, bash, CLI apps
+
+Preference is given to candidates with any of the following experience:
+* web development
+* QA / automated testing / prove
+* event driven programming
+* message queuing / job scheduling systems
+* security, web site vulnerabilities, phishing attacks
+* financials and accounting
+* internationalization, encoding systems, Unicode
+
+Assurant benefits include: 
+* Medical, Dental, Life and Disability Insurance
+* Basic Life, Basic Accidental Death & Dismemberment, Short-Term and
+Long-Term Disability
+* 401(k) Plan with up to 6 percent match
+* Flexible Health Care Spending plan
+* Employee Stock Purchase Plan at a 10 percent discount
+* Tuition Reimbursement Assistance
+* Community Involvement / Matching Gifts Program
+* See more at
+http://www.assurantspecialtyproperty.com/careers/benefits.html
+
+Onsite is preferred but telecommuters are welcome.
+
+Never been to Milwaukee?  You'll love it here!	http://dearmke.com/
+
+Website for more information: http://www.assurantspecialtyproperty.com/
+
+Contact information at:
+http://jobs.perl.org/job/18762#contact

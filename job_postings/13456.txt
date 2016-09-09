@@ -1,0 +1,96 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13456
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 16840 invoked from network); 6 Jun 2013 01:03:41 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 6 Jun 2013 01:03:41 -0000
+Received: (qmail 7692 invoked by uid 225); 6 Jun 2013 01:03:41 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 7688 invoked by alias); 6 Jun 2013 01:03:41 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,LOTS_OF_MONEY
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 05 Jun 2013 18:03:29 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 050AD2AFE4; Wed,  5 Jun 2013 18:03:25 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 5 Jun 2013 18:03:25 -0700
+Message-ID: <20130606010326.050AD2AFE4@x3.develooper.com>
+Subject: Senior Perl Developer / API Owner (onsite), London, United Kingdom
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17465
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June  5, 2013
+
+Job title: Senior Perl Developer / API Owner
+
+Company name: Broadbean
+
+Internal ID: SPD0613
+
+Location: London, United Kingdom
+
+Pay rate: up to £60,000
+
+Terms of employment: Salaried employee
+
+Length of employment: indefinite
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+*** YOU MUST BE ELIGIBLE TO WORK IN THE UK ALREADY ***
+*** PLEASE, NO RECRUITERS ***
+
+We're looking for a Senior Perl dev in our lovely Canary Wharf office.
+Guideline salary is on the higher end of £40-£60k.
+
+It's an unusual role, that we almost ended up calling "Developer Advocate".
+You'll be working closely with our external clients helping them integrate
+with our API, improving the quality of their API integrations, and building
+some two-way integrations between our API and their API. There's a lot of
+autonomy in how these API-API integrations will be built, and also a lot of
+client interaction. From the job-spec:
+
+
+
+We're looking for a Senior Perl Developer to be the first member of our ATS
+Integrations team. The company is growing rapidly so it will be faced
+paced, challenging but rewarding on many levels. We have a technical team
+of roughly 45 people based primarily in the UK but also in the US and
+Australia.
+
+You'll be responsible for helping customers integrate with our APIs, and in
+some cases building and maintaining those integrations. The role is
+necessarily customer facing, and you'll need to be comfortable with the
+idea of going to see a client and sketching out a solution around a
+whiteboard with their developers, as well as able to build solid
+integrations with appropriate monitoring and logging on our end. Over time,
+you'll assume responsibility for our API - making sure future iterations of
+it support customer needs, improving its mechanisms around authentication
+and developing example code that interfaces with it that we can show to
+clients.
+
+Required skills:
+* Strong, modern Perl
+* Ability to design a set of tools from scratch
+* Candidate-facing
+
+Website for more information:
+http://careersuk.broadbeantech.com/jobs/view/48.html
+
+Contact information at:
+http://jobs.perl.org/job/17465#contact

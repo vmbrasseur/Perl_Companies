@@ -1,0 +1,118 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14311
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 17173 invoked from network); 12 Apr 2014 08:39:23 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 12 Apr 2014 08:39:23 -0000
+Received: (qmail 30120 invoked by uid 225); 12 Apr 2014 08:39:23 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 30116 invoked by alias); 12 Apr 2014 08:39:23 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 12 Apr 2014 01:39:21 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 4218A42954; Sat, 12 Apr 2014 01:39:18 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 12 Apr 2014 01:39:18 -0700
+Message-ID: <20140412083918.4218A42954@x3.develooper.com>
+Subject: Systems Administration/DevOps (onsite), Cumberland, RI
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18552
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 12, 2014
+
+Job title: Systems Administration/DevOps
+
+Company name: The Conference Exchange
+
+Location: Cumberland, RI
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Would you enjoy serving the world of non-profit associations -- including
+many of the leading medical and scientific societies -- in sharing the
+latest discoveries and knowledge internationally? Are you looking for a
+congenial work environment that offers un-ending technical challenges and a
+flexible approach to satisfying personal and family needs? Would you like
+the stability of an 18 year old, steadily-growing, privately owned,
+debt-free, locally-headquartered, company? Are you an experienced and
+broadly capable with perl  Development/Operations? Then we are looking for
+you.
+
+We are seeking a local, full time, on site candidate that will help us
+transition and maintain our older infrastructure to a modern perl system. 
+You will be primarily assigned to our systems team and working closly with
+our developers as we work to improve and migrate to a more "DevOps" style
+environment.
+
+As one of the members of our systems department you will share
+responsibility for:
+
+► adopting, developing, and teaching DevOps methodologies as we continue to
+modernize our systems and application.
+► development and maintenance of tools + scripts to automate and monitor
+all aspects of our web application and related systems
+► the willingness to participate in a rotating on-call shift
+► responding to and triaging alerts from monitoring systems, staff, and
+customers
+► assisting our software development team and other staff with various
+technology issues
+► on-site setup, maintenance, and monitoring of Windows and Mac work
+stations and laptops
+► development, monitoring, and intergration of our asterisk PBX into our
+application + systems
+
+Required skills:
+◆  Candidates Must have:
+
+► At least four years of experience in systems administration
+► knowledge of Perl web application technologies and frameworks (mod_perl,
+fastCGI, PSGI/Plack, HTML, Javascript, CSS, Sass, jquery, svg)
+► good communication skills and the ability to explain technologies and
+solutions to other coworkers or customers.
+► extensive knowledge of Linux server systems (Debian Linux, Ubuntu Linux,
+Automated deployment, debootstrap, PXE, .deb Packages)
+► knowledge about visualization technologies (Xen, KVM, LXC)
+► experience with monitoring systems such as Nagios, Munin, Graphite,
+whisper, rrd
+► extensive knowledge of web server technologies (HTTP protocol, Apache,
+Nginx, SSL, load balancers, proxies, caching)
+► competency with scripting languages, especially Perl
+► experience with revision control systems such as git, cvs
+► the ability to learn independently and the sense to ask for help when you
+need it
+
+Desired skills:
+◆   Candidates should also have:
+
+► awareness of DevOps methodologies and technologies (Chef, Puppet)
+► experience with cloud service technologies (e.g. AWS, OpenStack, Digital
+Ocean API)
+► experience with project management, issue-tracking, or CRM software
+(Redmine. . .
+► working knowledge of other technologies such as LDAP, Samba 3/4, VOIP,
+VLANs, Network Routing
+► competency in the diagnosis and repair of linux system server issues
+► ability to work with and locate open source technologies
+
+Website for more information: https://www.confex.com
+
+Contact information at:
+http://jobs.perl.org/job/18552#contact

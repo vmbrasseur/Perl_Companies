@@ -1,0 +1,91 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14833
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13980 invoked from network); 18 Dec 2014 09:57:08 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 18 Dec 2014 09:57:08 -0000
+Received: (qmail 32516 invoked by uid 225); 18 Dec 2014 09:57:08 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 32512 invoked by alias); 18 Dec 2014 09:57:08 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,LOTS_OF_MONEY,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 18 Dec 2014 01:57:04 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 14BAC42A7E; Thu, 18 Dec 2014 01:57:01 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 18 Dec 2014 01:57:01 -0800
+Message-ID: <20141218095701.14BAC42A7E@x3.develooper.com>
+Subject: Perl Programmer with MySQL (onsite), Nottingham
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19134
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 18, 2014
+
+Job title: Perl Programmer with MySQL
+
+Company name: Host Europe Group - Heart Internet
+
+Location: Nottingham
+
+Pay rate: £35,000 - 45,000
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+HEG are currently looking for a talented Perl Developer with MySQL
+experience to join our team based in Nottingham. 
+
+It's a great time to be a Perl Developer at Host Europe Group right now.
+Our developers have the rather fantastic job of helping shape the direction
+of the internet. Producing fantastic Perl code and working in an Agile /
+Scrum environment, you will work on dynamic projects rolled out to over 1.5
+million customers. You will be passionate about producing robust and
+scalable code and be keen to grow and develop in your career. We offer all
+of our team members ample opportunity to learn and grow their knowledge
+base as we know the importance of personal development. 
+
+Our environment is relaxed (no dress code), fun (regular social events,
+networking events, Local Perl meetings etc) and friendly. We have flexible
+working hours, free on site parking plus a subsidised on site cafe serving
+breakfast and dinner. Comfy chairs come as standard, of course!
+
+Required skills:
+• Minimum 1 years’ Perl experience – commercially or personal development
+• Good knowledge of Relational Databases, especially MySQL 
+• Good knowledge of source control management systems, e.g. SVN or GIT 
+• Good knowledge of CPAN and commonly used Perl modules 
+• Knowledge of working with XML / JSON API’s. 
+• System Admin skills like Vim and grep. 
+• Knowledge of webserver applications such as Apache, Nginx, Lighttp 
+• Knowledge of X/HTML 
+• Working knowledge of CSS / Javascript 
+• Familiar with: Moose, Mouse, Moo, Class::Std, Class::Accessor 
+• Understanding of Object-Relational mapping (i.e. Class::DBI, DBIx::Class,
+etc.) 
+• Familiar with Perl web frameworks (i.e., Catalyst,.) 
+• Have an understanding of ‘Modern Perl’
+
+Desired skills:
+Some experience of front end coding languages would be highly beneficial
+such as JavaScript or JQuery.
+
+Website for more information: http://www.heg.com
+
+Contact information at:
+http://jobs.perl.org/job/19134#contact

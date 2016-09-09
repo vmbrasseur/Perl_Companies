@@ -1,0 +1,91 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14096
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 22353 invoked from network); 24 Jan 2014 04:52:46 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 24 Jan 2014 04:52:46 -0000
+Received: (qmail 13458 invoked by uid 225); 24 Jan 2014 04:52:46 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 13454 invoked by alias); 24 Jan 2014 04:52:46 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 23 Jan 2014 20:52:40 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 7D25442936; Thu, 23 Jan 2014 20:52:40 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 23 Jan 2014 20:52:40 -0800
+Message-ID: <20140124045240.7D25442936@x3.develooper.com>
+Subject: Sr. Perl Web Developer Baltimore/Telecommute (part onsite),
+ Baltimore, MD, Telecommute
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17583
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 23, 2014
+
+Job title: Sr. Perl Web Developer Baltimore/Telecommute
+
+Company name: CargoTel, Inc.
+
+Location: Baltimore, MD, Telecommute
+
+Pay rate: Competitive
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+CargoTel, Inc., is a web and mobile SaaS business focused on the logistics
+industry in the US and internationally. 
+We are seeking a talented perl web developer who is experienced with modern
+technologies such as java script, JQuery, web services, MVC frameworks,
+etc. Position would entail web development of both new and existing
+products including Web Services and EDI development. 
+
+Baltimore, Maryland area candidate or telecommuter. 
+
+CargoTel is a YAPC sponsor, host and sponsor of the Baltimore/Washington DC
+Perl Mongers.
+
+Required skills:
+- Senior-level OO perl web development
+- MVC frameworks 
+- Modern Java Script (JS) 
+- Advanced SQL Postgres
+- Revision control(GitHub preferred) 
+- EDI and Web Services (REST, SOAP, etc)
+- HTML and HTML5 
+- Basic system administration (Linux)
+- Ability to work in a fast-paced team environment 
+- Enthusiasm, determination and initiative
+
+Desired skills:
+- MVC frameworks like Dancer or Mojo
+- Java script such as Angular, CoffeeScript, Bootstrap, Kendo
+- NoSQL Mongo, PLV8, h-store
+- Java, Scala, Play, TypeSafe
+- DBIx::Class or another ORM 
+- Native or Hybrid mobile web programming (html5, Phonegap) 
+- Familiarity with REST, JSON, WebSockets 
+- Mapping integration and PostGIS 
+- Experience in the logistics industry or Business Process Management (BPM)
+systems such as Activiti, JBPM
+
+Website for more information: http://cargotel.com
+
+Contact information at:
+http://jobs.perl.org/job/17583#contact

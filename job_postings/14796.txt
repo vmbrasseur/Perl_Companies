@@ -1,0 +1,95 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14796
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 5203 invoked from network); 1 Dec 2014 09:07:06 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 1 Dec 2014 09:07:06 -0000
+Received: (qmail 11162 invoked by uid 225); 1 Dec 2014 09:07:00 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11158 invoked by alias); 1 Dec 2014 09:06:59 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,LOTS_OF_MONEY,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 01 Dec 2014 01:06:57 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id DD81642957; Mon,  1 Dec 2014 01:06:53 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 1 Dec 2014 01:06:53 -0800
+Message-ID: <20141201090653.DD81642957@x3.develooper.com>
+Subject: Perl Software Engineer (onsite), Santa Monica, CA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18995
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December  1, 2014
+
+Job title: Perl Software Engineer
+
+Company name: ZipRecruiter
+
+Location: Santa Monica, CA
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+ZipRecruiter is looking to expand our engineering team.
+
+Our goal is to create the best online services for filling and finding
+jobs. We bootstrapped for the first four years, growing to 100+ employees.
+Recently, we raised $63M led by Institutional Venture Partners.
+
+We help employers and recruiters distribute their jobs online and screen
+their applicants. We also provide job search engine and job alert email
+services to job boards and related companies. We have a large number of
+paying customers and job seekers using our services. You will have the
+opportunity to lead significant projects. We pay market competitive
+salaries and offer generous cash bonuses and equity. We are more laid back
+than the average startup and more fun than the average BigCo - we're fans
+of 37signals and we emulate a lot of what they talk about.
+
+We're looking for strong generalist engineers who are happy to learn new
+technologies, and are willing to think like product/business people who
+personally implement software.
+
+Technologies we use:
+
+Perl, Python, MySQL, Amazon AWS, Solr
+
+While we would prefer that you join us here in our offices in Santa Monica,
+we are open to telecommuting for this position.
+
+Required skills:
+- Superb software design and development skills
+
+- Experience with general web development and programming in a Linux
+environment
+
+- Some experience with Perl, or a similar language such that you could pick
+it up quickly.
+
+Desired skills:
+- search engine or machine learning experience
+
+- experience with EC2 and other AWS technologies
+
+- experience with MySQL
+
+Website for more information:
+https://www.ziprecruiter.com/job/Perl-Software-Engineer/0dd10069
+
+Contact information at:
+http://jobs.perl.org/job/18995#contact

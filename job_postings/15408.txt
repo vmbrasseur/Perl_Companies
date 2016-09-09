@@ -1,0 +1,175 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15408
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8919 invoked from network); 7 Feb 2016 19:41:16 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 7 Feb 2016 19:41:16 -0000
+Received: (qmail 17076 invoked by uid 225); 7 Feb 2016 19:41:16 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 17072 invoked by alias); 7 Feb 2016 19:41:16 -0000
+X-Spam-Status: No, hits=-0.0 required=8.0
+	tests=BAYES_40,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 07 Feb 2016 11:41:09 -0800
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 3E91530D; Sun,  7 Feb 2016 19:41:06 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sun, 7 Feb 2016 19:41:06 +0000
+Message-ID: <20160207194106.3E91530D@web1.develooper.com>
+Subject: Software Engineer (onsite), Washington, DC
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20060
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 29, 2016
+
+Job title: Software Engineer
+
+Company name: Straughan Environmental, Inc.
+
+Location: Washington, DC
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Straughan Environmental, Inc. is a successful, rapidly growing, woman-owned
+business that provides high-quality and cost effective environmental
+consulting services to a wide variety of clients in the government and
+private sectors. Straughan is committed to sustainable design. We are
+experts in environmental planning, design, assessments, and policy. Our
+staff consists of natural, wildlife, and wetland scientists;
+geomorphologists; civil and environmental engineers; biologists and
+botanists; planners; foresters; cultural resource specialists; and GIS and
+CAD technicians. This combination of technical expertise and an
+understanding of policy makes Straughan a highly competitive firm and a
+great place to advance your career.
+
+Straughan is currently seeking an
+experienced Software Engineer to join our team. The successful candidate
+for this position will work with the U.S. Global Change Research Program
+(USGCRP) National Coordination Office (NCO) in coordinating the development
+of a data system to integrate information about global change from across
+the program utilizing the Global Change Information System (GCIS).
+
+Under
+the direction of the Chief Digital Officer, the Software Engineer will
+serve as the software and architecture lead in the USGCRP team to:
+
+Improve
+the cyber infrastructure underlying the GCIS
+
+Coordinate system development
+activities with the Technical Lead, Data Manager, and staff within the NCO
+and contributed resources from agency partners
+
+Ensure the overall system
+is compliant with standards, utilizes best practices, and is user friendly
+
+With the Technical Lead, the Software Engineer will engage with USGCRP
+leadership and staff to ensure the goals of GCIS are aligned to support and
+further those of the program.
+
+Straughan offers very competitive
+compensation and benefits packages, and is an EOE.
+
+Desired skills:
+Minimum Experience:
+
+ *  Expert in Software Engineering methodologies
+
+  * 
+In-depth knowledge of scientific data processing, archiving and
+distribution
+
+  *  In-depth knowledge of scientific data identification,
+reference, citation and provenance
+
+  *  Demonstrated ability to enhance
+software processes and define standards and guidelines
+
+
+  *  Demonstrated
+expertise building systems incorporating web services and RESTful protocol
+APIs
+
+  *  Expert in programming languages including Perl, Python, and
+Javascript
+
+  *  Familiarity with modern Perl tools, including Mojolicious
+web framework and CPAN
+
+  *  Experience with configuration management
+systems, and expert knowledge of techniques and processes and tools such as
+Git (preferred), SVN or Mercurial
+
+  *  Experience with relational database
+management systems such as PostgreSQL (preferred) or Oracle, including
+schema development and optimization
+
+  *  Knowledge of development,
+configuration and administration for linux-based operating systems
+
+  * 
+Knowledge of web server configuration, security and scaling, including
+complex multi-server architectures
+
+  *  Familiar with Semantic Web, RDF,
+OWL and SPARQL, including ontology development
+
+  *  Demonstrated track
+record of contributions to open source software
+
+  *  Experience with
+relational data tools such as ArcSDE and PostGIS a plus
+
+  *  Experience
+leading development of highly complex systems
+
+  *  Excellent
+organizational skills, with high attention to detail
+
+  *  Demonstrated
+ability to work independently as well as make positive team contributions
+
+
+ *  Ability to manage multiple projects in a fast-paced, deadline-driven
+environment
+
+  *  Excellent communication and leadership skills, including
+the ability to effectively write and organize technical materials
+
+  * 
+Ability to sit at computer and in front of monitor for long periods of time
+
+  *  Track record of participation in the science and computing
+communities preferred
+
+Desirable Qualifications:
+
+  *  Knowledge of USGCRP,
+Global Change, Climate Science.
+
+  *  Knowledge of Earth science metadata
+formats and organization.
+
+EOE/AA Minorities/Females/Protected
+Veterans/Disabled
+
+Website for more information: https://theapplicantmanager.com/jobs?pos=sv111
+
+Contact information at:
+http://jobs.perl.org/job/20060#contact

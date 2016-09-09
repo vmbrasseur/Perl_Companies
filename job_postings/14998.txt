@@ -1,0 +1,96 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14998
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 7320 invoked from network); 28 Mar 2015 20:03:00 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 28 Mar 2015 20:03:00 -0000
+Received: (qmail 8664 invoked by uid 225); 28 Mar 2015 20:03:00 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 8660 invoked by alias); 28 Mar 2015 20:03:00 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 28 Mar 2015 13:02:57 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id AB58842960; Sat, 28 Mar 2015 13:02:53 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 28 Mar 2015 13:02:53 -0700
+Message-ID: <20150328200253.AB58842960@x3.develooper.com>
+Subject: Senior Perl Engineer (onsite), Buffalo, NY
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19470
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 28, 2015
+
+Job title: Senior Perl Engineer
+
+Company name: Synacor
+
+Location: Buffalo, NY
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The Role
+
+We are seeking a Senior Engineer with experience building applications in a
+SaaS environment with Perl or other dynamic programming languages.  With a
+moderate level of guidance and direction from management, this engineer
+will pull, transform, and store content from vendor partners storing the
+data for usage on various Synacor properties. The position also involves
+enhancement and maintenance of existing software modules, custom
+programming for clients, and various data manipulation tasks.
+
+    -Development, documentation, and maintenance of APIs used by web-based
+applications in our portal and premium service platforms
+    -Effective use of available open source tools to improve products and
+development process
+    -Providing technical consultation and expertise to Product Managers and
+other Synacor staff members
+    -Writing automated tests using tools like Test::More to verify code
+functionality
+    -Reviewing product requirement documents as well as participating in
+integration calls with partners
+    -Work effectively with a team and show ownership of products in a
+scrum-based development environment
+    -Other duties as assigned
+
+Required skills:
+About You
+
+    -Bachelor’s Degree in Computer Science or the equivalent work
+experience
+    -A minimum of 2-4 years of development experience in software or
+website development
+    -Experience with MySQL, Postgres or other relational databases
+    -Experience with web API techniques and protocols including AJAX, REST,
+JSON, SOAP, etc
+    -Experience with Perl, modern Perl preferred, OO Perl a plus
+    -Experience with CPAN modules, authoring a CPAN module a huge plus
+    -Knowledge of the Catalyst web application framework
+    -Knowledge of git or similar revision control software
+    -Knowledge of Apache and mod_perl a plus
+    -Excellent communication skills
+    -Ability to work in a fast-paced team-oriented environment
+
+Website for more information:
+http://chk.tbe.taleo.net/chk01/ats/careers/requisition.jsp?org=SYNACOR&cws=
+1&rid=1597
+
+Contact information at:
+http://jobs.perl.org/job/19470#contact

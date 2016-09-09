@@ -1,0 +1,90 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15141
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 20889 invoked from network); 11 Jul 2015 07:47:45 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 11 Jul 2015 07:47:45 -0000
+Received: (qmail 23168 invoked by uid 225); 11 Jul 2015 07:47:45 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 23164 invoked by alias); 11 Jul 2015 07:47:45 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 11 Jul 2015 00:47:40 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id D01B63B6; Sat, 11 Jul 2015 07:47:36 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 11 Jul 2015 07:47:36 +0000
+Message-ID: <20150711074736.D01B63B6@web1.develooper.com>
+Subject: Senior Software Developer (m/f) (Perl/Linux) Managed Security Services (onsite), Ismaning, Munich, Germany
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19706
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 11, 2015
+
+Job title:
+Senior Software Developer (m/f) (Perl/Linux) Managed Security Services
+
+Company name: NTT Com Security
+
+Location: Ismaning, Munich, Germany
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Key Responsibilities
+
+- design and software development primarily using
+Perl
+- enhance our appliance as well as the Linux and Windows agents
+-
+develop a monitoring and management infrastructure
+- introduce new services
+for current and additional security products in
+  the areas of perimeter
+and content security, threat and vulnerability management,
+  identity and
+access management
+- support our Global Risk Operation Centers
+
+Desired skills:
+Experience
+
+- degree in computer science or comparable professional
+experience
+- serveral years of experience in software development, ideally
+using agile methods (Scrum)
+- knowledge of common development tools (git,
+Jira, wiki)
+- experience in object-oriented Perl programming, Moose, Shell
+scripting, TCP/IP,
+  network security and relevant Open Source tools
+-
+database development (SQL and NO-SQL)
+- familiarity with Unix/Linux systems
+including administration
+- experience with security applications and
+appliances (firewalls, IPS, ...)
+- personal initiative and responsible way
+of working
+- very good command of German and English
+
+Website for more information: http://www.nttcomsecurity.com/de/karriere/
+
+Contact information at:
+http://jobs.perl.org/job/19706#contact

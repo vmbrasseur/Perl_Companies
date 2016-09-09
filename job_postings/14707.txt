@@ -1,0 +1,124 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14707
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 19748 invoked from network); 7 Oct 2014 03:51:18 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 7 Oct 2014 03:51:18 -0000
+Received: (qmail 2515 invoked by uid 225); 7 Oct 2014 03:51:18 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 2511 invoked by alias); 7 Oct 2014 03:51:18 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 06 Oct 2014 20:51:16 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 43EE642AF5; Mon,  6 Oct 2014 20:51:13 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 6 Oct 2014 20:51:13 -0700
+Message-ID: <20141007035113.43EE642AF5@x3.develooper.com>
+Subject: Perl Developer (onsite), Brno, Czech Republic
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18981
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October  6, 2014
+
+Job title: Perl Developer
+
+Company name: Netsuite
+
+Location: Brno, Czech Republic
+
+Pay rate: CZK
+
+Terms of employment: Salaried employee
+
+Length of employment: indefinite
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The Venda platform is a complex, high availability system, which serves
+100's Mb/sec of traffic, has a throughput of 10’s of thousands of financial
+transactions per day, 1000’s of requests per second and delivers 99.95%
+availability.
+
+The role is within a multi-skilled technical team, where you will be
+responsible for:
+
+•	Developing the Venda product to enhance functionality, increase
+performance and simplify maintenance, fixing and extending its integration
+capabilities.
+
+•	Introducing services to add functionality to the core platform.
+
+•	Promoting an SOA approach to new features.
+
+•	Designing and implementing solutions collaboratively to add value
+to the Venda product and increase revenue for our customers in the most
+cost efficient way.
+
+•	Leading projects, mentoring and reviewing other developers’ work to
+ensure that stability, performance and security of the Venda product is
+maintained.
+
+•	Liaising with teams from remote sites.
+
+•	Assisting with the delivery of frequent version     upgrades.
+
+Essential Soft Skills
+•	Self motivated with proactive approach.
+•	Able to remain calm under pressure.
+•	Willing to take ownership and responsibility.
+•	High level of attention to detail.
+•	Keen to automate common tasks.
+•	Open minded with a desire to learn new skills and technologies.
+•	Able to write excellent documentation and understand why it is
+necessary.
+•	Methodical approach to problem solving.
+
+Required skills:
+Essential Technical Skills
+
+•	Experience and understanding of technology and development cycles.
+•	Test driven development.
+•	Source control management.
+•	Good knowledge of high availability systems (e.g. eCommerce,
+internet or similar) and associated challenges.
+•	Object Oriented Perl.
+•	Good knowledge of CPAN.
+•	Commercial experience of SQL.
+•	Preference for using frameworks and libraries rather than
+reinventing the wheel.
+•	Experience working with Linux, Apache and mod_perl.
+•	Knowledge of web security, including PCI, XSS.
+•	Experience of web technologies such as HTML, CSS, JavaScript, Ajax,
+JSON etc.
+
+Desired skills:
+Desirable Skills
+•	Experience mentoring junior developers and shaping a team.
+•	Knowledge of libraries and frameworks such as Catalyst and Moose,
+YUI and JQuery.
+•	Strong Database skills; indexes, normalization, stored procedures,
+views, entity-relationships etc.
+•	Educated to degree level or having gained appropriate commercial
+experience.
+
+Website for more information:
+http://www.netsuite.com/portal/home.shtml?noredirect=T
+
+Contact information at:
+http://jobs.perl.org/job/18981#contact

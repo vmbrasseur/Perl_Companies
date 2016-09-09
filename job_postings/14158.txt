@@ -1,0 +1,89 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14158
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 18583 invoked from network); 9 Feb 2014 20:57:48 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 9 Feb 2014 20:57:48 -0000
+Received: (qmail 3643 invoked by uid 225); 9 Feb 2014 20:57:48 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 3639 invoked by alias); 9 Feb 2014 20:57:48 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 09 Feb 2014 12:57:46 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 84A1A42959; Sun,  9 Feb 2014 12:57:43 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sun, 9 Feb 2014 12:57:43 -0800
+Message-ID: <20140209205743.84A1A42959@x3.develooper.com>
+Subject: Perl Developer (onsite), Cape Town, South Africa
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17501
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February  9, 2014
+
+Job title: Perl Developer
+
+Company name: Busii
+
+Internal ID: 201401pd
+
+Location: Cape Town, South Africa
+
+Pay rate: Up to ZAR600000 pa CTC
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are looking for developers to join exciting projects in the data
+integration and customer loyalty application areas. Our consultants are
+engaged in high-performing, quality-oriented projects combining open source
+technologies with leading commercial analytics database products. Your
+responsibilities will include:
+
+- Communicating with business analysts to understand specifications
+- Design and development of integration solutions
+- Web development using Mojolicious
+- Testing
+- Documentation
+- Some operational support of batch jobs in production
+- Occasional travel to client sites
+
+This position is open to SA citizens, work permit holders or permanent
+residents only.
+
+If you do not receive a response within 2 weeks, please consider your
+application unsuccessful.
+
+Required skills:
+Strong problem-solving skills, results-oriented, self-motivated, eager to
+learn and the ability to rapidly assimilate new concepts.
+
+Successful candidates will be competent in the use of Perl for data
+integration-type problem domains as well as:
+- Unix/Linux shell
+- SQL
+- GNU text processing utilities
+- SCM eg subversion/git
+
+Desired skills: knowledge of Mojolicious and Perl test modules
+
+Website for more information: http://www.busii.com
+
+Contact information at:
+http://jobs.perl.org/job/17501#contact

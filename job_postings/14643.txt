@@ -1,0 +1,67 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14643
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 26479 invoked from network); 29 Aug 2014 00:58:59 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 29 Aug 2014 00:58:59 -0000
+Received: (qmail 537 invoked by uid 225); 29 Aug 2014 00:58:59 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 527 invoked by alias); 29 Aug 2014 00:58:57 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 28 Aug 2014 17:58:51 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 12F1B4294F; Thu, 28 Aug 2014 17:58:47 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 28 Aug 2014 17:58:47 -0700
+Message-ID: <20140829005848.12F1B4294F@x3.develooper.com>
+Subject: Perl developer (telecommute), USA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18898
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 28, 2014
+
+Job title: Perl developer
+
+Company name: Ryktr
+
+Location: USA
+
+Pay rate: $60/hour
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+Got a server feeding data to a mobile app.  Server uses perl to gather
+NFL/college football game info & do some data transformations.
+
+Code is written, but need someone to help with minor details that come up,
+especially weird data things (such as, client gives us CSV file of a bunch
+of changes - we parse & do data updates).
+
+This is sort of an "as needed" type deal.  Not sure how long it will last
+-- I'd guess minimally a few months.
+
+Required skills:
+Perl (object-oriented), MySQL, Linux (i.e. daemons, etc)
+
+Desired skills: Apache, nginx, node.js, Javascript
+
+Contact information at:
+http://jobs.perl.org/job/18898#contact

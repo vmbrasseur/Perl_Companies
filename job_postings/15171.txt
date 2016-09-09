@@ -1,0 +1,104 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15171
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 14321 invoked from network); 27 Jul 2015 07:25:56 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 27 Jul 2015 07:25:56 -0000
+Received: (qmail 11062 invoked by uid 225); 27 Jul 2015 07:25:49 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11057 invoked by alias); 27 Jul 2015 07:25:48 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 27 Jul 2015 00:25:42 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id C7DA231B; Mon, 27 Jul 2015 07:25:39 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 27 Jul 2015 07:25:39 +0000
+Message-ID: <20150727072539.C7DA231B@web1.develooper.com>
+Subject: Senior Perl Engineer - Pittsburgh, PA (onsite), Pittsburgh, PA, USA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19728
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 27, 2015
+
+Job title: Senior Perl Engineer - Pittsburgh, PA
+
+Company name: StaffingForce
+
+Location: Pittsburgh, PA, USA
+
+Pay rate: $85-100k
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We use open source software and modern Perl to build large scale hosted web
+applications. We create web-based electronic payment systems, auctions, and
+tax collection systems for banks, financial companies, and state and local
+governments.
+
+You can expect to solve interesting and challenging problems
+involving financial transactions, horizontal scaling, grid processing,
+natural language processing and more...
+
+We have been hiring great
+Developers for many years, and we want to further expand our distributed
+team of talented and friendly Developers. Most of our experienced
+Developers telecommute; on-site positions are also available. We are
+continually building our pipeline for future opportunities and are
+interested in cultivating and open communication with Developers.
+
+Desired skills:
+Senior Perl programming experience with 3+ years behind (or expertise with
+other dynamic languages such as Python, Ruby - Candidates must have an
+interest programming in Perl).
+
+   - Mastery at writing elegant and robust
+software
+   - Expertise in relational databases and SQL
+   - Knowledge of
+HTML, JavaScript and CSS
+   - Excellent organizational and communication
+skills
+   - Excellent grades and a track record of success, ideally has
+been a key contributor to Open Source projects
+
+Here are just some of the
+tools and approaches we use. Experience with any of them is helpful:
+
+   -
+MySQL, ORMs (DBIx::Class, Class::DBI)
+   - git
+   - jQuery, Ajax
+   -
+Modern Perl (Moose, Catalyst)
+   - Selenium
+   - Large-scale production Web
+environments (FastCGI, nginx)
+   - Sphinx
+   - Linux environments (RHEL,
+CentOS)
+   - Amazon Web Services and Free Open Source Software is a plus
+  
+- Messaging frameworks (rabbitmq, 0mq)
+   - Numerical and financial
+calculations
+
+Contact information at:
+http://jobs.perl.org/job/19728#contact

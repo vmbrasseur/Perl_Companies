@@ -1,0 +1,81 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14082
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 22023 invoked from network); 21 Jan 2014 17:38:45 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 21 Jan 2014 17:38:45 -0000
+Received: (qmail 5997 invoked by uid 225); 21 Jan 2014 17:38:45 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 5993 invoked by alias); 21 Jan 2014 17:38:45 -0000
+X-Spam-Status: No, hits=-5.3 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,SUBJECT_NEEDS_ENCODING,SUBJ_ILLEGAL_CHARS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 21 Jan 2014 09:38:43 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 9A7CF429B4; Tue, 21 Jan 2014 09:38:40 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Tue, 21 Jan 2014 09:38:40 -0800
+Message-ID: <20140121173840.9A7CF429B4@x3.develooper.com>
+Subject: Perl-Programmierer für Schnäppchenportal gesucht (onsite), Hannover
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18304
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 21, 2014
+
+Job title: Perl-Programmierer für Schnäppchenportal gesucht
+
+Company name: best in deals
+
+Internal ID: GER
+
+Location: Hannover
+
+Pay rate: EUR
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Flexible
+
+Onsite: yes
+
+Description:
+Liebe Perl-Gemeinde,
+wir suchen für unser Portal www.best-in-deals.de noch einen erfahrenen
+Programmierer, der Lust hat NEBENBEI neue Funktionen zu programmieren. Vor
+allem die Suchfunktion ist noch stark verbesserungswürdig.
+Unser Portal läuft überwiegend vollautomatisch und wurde in Perl
+programmiert und wird auf drei Linux-Servern betrieben. Die Datenbank ist
+eine MySQL-DB mit mehreren Millionen Artikeln.
+Wichtig ist uns, dass unser neuer Kollege aus Hannover oder Umgebung kommt.
+
+Die Bezahlung soll ausschließlich in Unternehmensanteilen erfolgen. Die
+Höhe der Anteile richtet sich dann natürlich nach dem Umfang eurer
+Mitarbeit. Gewinne werden bei uns gleich wieder investiert.
+So, ich hoffe dass wichtigste ist gesagt ansonsten fragt hier oder per
+Email an: info@best-in-deals.de
+Beste Grüße von der Schnäppchenfront aus Hannover
+Sascha + Team
+
+Required skills:
+- Grundkenntnisse im Umgang und der Administration mit Linux-Servern (Bash,
+Apache, MySQL)
+- Dein Arbeitsplatz ist ein Linuxrechner
+- Gute Erfahrung in mind einer Unix Skriptsprache vorzugsweise Perl
+- Erfahrung in HTML, XHTML, CGI,  Javascript, AJAX-Technologien
+-Gute Erfahrung mit SQL, idealerweise mit den Eigenarten von MySQL/MariaDB
+
+Website for more information: http://www.best-in-deals.de
+
+Contact information at:
+http://jobs.perl.org/job/18304#contact

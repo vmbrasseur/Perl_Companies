@@ -1,0 +1,80 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13764
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 29844 invoked from network); 2 Oct 2013 05:55:57 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 2 Oct 2013 05:55:57 -0000
+Received: (qmail 18054 invoked by uid 225); 2 Oct 2013 05:55:57 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 18050 invoked by alias); 2 Oct 2013 05:55:57 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 01 Oct 2013 22:55:53 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id B403C2AFDF; Tue,  1 Oct 2013 22:55:49 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Tue, 1 Oct 2013 22:55:49 -0700
+Message-ID: <20131002055549.B403C2AFDF@x3.develooper.com>
+Subject: Perl Engineer (onsite), North Carolina, Cary, United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17893
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October  1, 2013
+
+Job title: Perl Engineer
+
+Location: North Carolina, Cary, United States
+
+Pay rate: Excellent Package
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Located in Cary, we are a well established global investment bank with a
+dedicated technology centre. We are looking for innovative LAMP Developers
+to join our growing team to enhance our internal Web & Java hosting service
+coupled with our self service Portal.
+
+Required skills:
+- 3+ years of experience in LAMP development
+- Strong programming experience in Object Orientated Perl & Shell Scripting
+
+- Strong Linux/Unix and Systems Administration skills
+- Experience with Web UI development: HTML, Javascript (JQuery), JSON, AJAX
+(Only required for Portal development)
+- Ability to reverse-engineer legacy code
+- Experience of at least one of the following: Apache, Tomcat, Weblogic,
+JBoss
+- Revision control systems (Subversion, branching and merging)
+- Test Driven Development coupled with Agile SDLC
+
+Desired skills:
+- Perl modules: Template::Toolkit, CGI::Prototype, Test::More, LWP,
+Embperl, Catalyst
+- Web hosting, caching and proxy software and related technologies: volume
+hosting setups with Apache vhosts, HTTP, SSL, CGI, FastCGI
+- Experience with Web Technologies and Tools: HTTP, XML, REST
+- Application and Operating System security
+- C, PHP, Ruby + Ruby on Rails, MySQL
+- Networking fundamentals: TCP/IP, DNS
+- Load balancers (F5 BigIP load balancers), software load balancing
+technologies (Apache mod_proxy_balancer, mod_jk)
+
+Contact information at:
+http://jobs.perl.org/job/17893#contact

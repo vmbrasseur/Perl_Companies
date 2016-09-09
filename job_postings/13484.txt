@@ -1,0 +1,81 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13484
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 29393 invoked from network); 15 Jun 2013 05:43:18 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 15 Jun 2013 05:43:18 -0000
+Received: (qmail 27039 invoked by uid 225); 15 Jun 2013 05:43:18 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 27035 invoked by alias); 15 Jun 2013 05:43:18 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 14 Jun 2013 22:43:09 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 24B732AFE1; Fri, 14 Jun 2013 22:43:05 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 14 Jun 2013 22:43:05 -0700
+Message-ID: <20130615054306.24B732AFE1@x3.develooper.com>
+Subject: Developer - Music and Metadata (onsite), East London, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/13640
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 14, 2013
+
+Job title: Developer - Music and Metadata
+
+Company name: OpenIMP
+
+Location: East London, UK
+
+Pay rate: Subject to Experience
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+OpenIMP makes a platform to manage music and metadata. Working with
+successful indie labels, major labels and distributors this software has
+delivered millions of tracks to hundreds of music services around the
+world. We also work directly with artists selling vinyl to the masses and
+with industry groups defining standards for the digital supply chain.
+
+We are based in East London and part of a group of companies all working
+with music. We recently celebrated out 21st birthday and we're constantly
+developing new and interesting ideas. We now have a vacancy for one
+exceptional developer to take our platform and other music related projects
+forward. An interest in music is desirable.
+
+The team you'll be joining is small and in control of its own tools and
+environment. You can deploy a build with a single command (as long as it
+passes the test suite!)
+
+This position is on site, telecommuting is not an option.
+
+Required skills:
+The current code is a large set of persistent objects developed in modern
+Perl, so there will be a lot of that, but experience as a professional OO
+developer will be valued over any particular language as we look for any
+good way to achieve results. The future holds APIs / Services and less
+Perl. We would prefer someone who gets their hands dirty rather than
+specialising in one thing. Years of experience are not necessary - someone
+who is keen and has a can-do attitude is a priority.
+
+Website for more information: http://openimp.com/
+
+Contact information at:
+http://jobs.perl.org/job/13640#contact

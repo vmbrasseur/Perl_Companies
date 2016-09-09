@@ -1,0 +1,105 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13644
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 15854 invoked from network); 14 Aug 2013 21:42:34 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 14 Aug 2013 21:42:34 -0000
+Received: (qmail 30415 invoked by uid 225); 14 Aug 2013 21:42:34 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 30411 invoked by alias); 14 Aug 2013 21:42:33 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 14 Aug 2013 14:42:25 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id BEC1C2AFE2; Wed, 14 Aug 2013 14:42:21 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 14 Aug 2013 14:42:21 -0700
+Message-ID: <20130814214221.BEC1C2AFE2@x3.develooper.com>
+Subject: Web Developer (onsite), Glasgow, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17745
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 14, 2013
+
+Job title: Web Developer
+
+Company name: s1
+
+Internal ID: JJ-473
+
+Location: Glasgow, UK
+
+Pay rate: £ depends on experience
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+If you pride yourself on writing great web server code then s1 would like
+to talk to you. We are looking for someone who:
+
+Is an expert in scripting open-source environments, using languages like
+PHP, Perl and Python to create high-performance web services which are
+built to last. 
+Knows databases, especially MySQL, enough to be fluent in SQL and
+experienced in query optimisation and table architectures.
+Is experienced with Apache and modules like mod_rewrite. 
+Is comfortable at the Linux command prompt and has at least some experience
+with SSH.
+In addition to those backend skills, familiarity with front-end
+technologies like HTML5, Javascript, jQuery, Ajax and JSON is expected,
+while exposure to any of mod_perl, memcached, e-commerce, development for
+mobile devices, version control systems or multiple-server environments
+would be helpful.
+
+If you don't have experience with all of these then don't worry too much --
+most important is your approach to your work, your professionalism and your
+willingness to learn. Essential to this role is a cooperative attitude and
+your ability & willingness to work with teams of technical and
+non-technical colleagues.
+
+In return we can offer you a permanent, secure position working on
+Scotland's foremost digital brands, in a great Glasgow city centre
+location, where every day you will be able to make a difference on
+high-profile websites with hundreds of thousands of users. You will be a
+key part of a small but diverse in-house technical team, alongside UI
+designers, front-end developers and other back-end developers, and will be
+working closely with our in-house marketing, sales and customer service
+teams to deliver excellence for both users and clients.
+
+Please apply online at http://www.s1jobs.com/job/494516599.shtml with your
+CV, and please include information (preferably with some URLs) about
+websites you have worked on recently. Please indicate that you saw this job
+ad on the Perl jobs list.
+
+Required skills:
+Perl 
+MySQL
+Apache
+Linux
+
+Desired skills:
+SSH
+Memcache
+PHP
+Git
+
+Website for more information: http://www.s1thecompany.com
+
+Contact information at:
+http://jobs.perl.org/job/17745#contact

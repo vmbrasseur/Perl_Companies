@@ -1,0 +1,95 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14184
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 10154 invoked from network); 20 Feb 2014 03:02:51 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 20 Feb 2014 03:02:51 -0000
+Received: (qmail 15997 invoked by uid 225); 20 Feb 2014 03:02:51 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 15993 invoked by alias); 20 Feb 2014 03:02:51 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 19 Feb 2014 19:02:47 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id E468342956; Wed, 19 Feb 2014 19:02:43 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 19 Feb 2014 19:02:43 -0800
+Message-ID: <20140220030243.E468342956@x3.develooper.com>
+Subject: Developer (Analyst) (onsite), 3101 N Federal Hwy Fort Lauderdale
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18394
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 19, 2014
+
+Job title: Developer (Analyst)
+
+Company name: BioTrackTHC
+
+Location: 3101 N Federal Hwy Fort Lauderdale
+
+Length of employment: permanent
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Our company develops software for streamlining processes in the medical and
+pharmaceutical industries. 
+
+We are looking for full-time Perl programmer to work with our existing
+programmers to further develop and maintain our software projects. The
+systems use a combination of Perl/GTK, XML, SSL and SQL running on Linux
+servers. The requirements are that you can demonstrate knowledge and
+aptitude in the dealing with the above-mentioned areas of expertise. Where
+you lack knowledge, we require a willingness to learn and develop yourself.
+
+
+You will be working closely with our existing team. We require a dependable
+professional to work in this role, who is a team player, and works well
+within groups. 
+
+Our systems are built around a client/server relationship. They use Perl
+and the GTK Toolkit on the front-end, and Perl and other technologies on
+the back-end. Communication is leveraged in real-time via XML over SSL.
+Linux knowledge is a plus, but not necessary initially. 
+
+When replying to this ad, interested persons should include as much of the
+following information as possible: 
+
+* Resume 
+* Desired Compensation 
+* Sample code that you have created that will demonstrate your technical
+knowledge. 
+
+Including these in your response will make your application stand out more
+resulting in higher consideration for this position. 
+
+NOTE: Make sure you place the code ITC-2014 in the subject line of your
+email so that I can easily find your email.
+
+Required skills:
+-Perl 
+-SQL (PostgreSQL a plus)
+
+Desired skills:
+-Perl
+-Perl/GTK 
+-Linux/Unix
+
+Website for more information: http://www.BiotrackTHC.com
+
+Contact information at:
+http://jobs.perl.org/job/18394#contact

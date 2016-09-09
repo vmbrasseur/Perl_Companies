@@ -1,0 +1,78 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15360
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 7140 invoked from network); 8 Jan 2016 03:19:54 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 8 Jan 2016 03:19:54 -0000
+Received: (qmail 8145 invoked by uid 225); 8 Jan 2016 03:19:54 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 8141 invoked by alias); 8 Jan 2016 03:19:54 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 07 Jan 2016 19:19:51 -0800
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id B95A752D; Fri,  8 Jan 2016 03:19:48 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 8 Jan 2016 03:19:48 +0000
+Message-ID: <20160108031948.B95A752D@web1.develooper.com>
+Subject: Perl Developer for Reporting & Analysis (onsite), South West London, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19984
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January  8, 2016
+
+Job title: Perl Developer for Reporting & Analysis
+
+Company name: Brainbox Digital
+
+Location: South West London, UK
+
+Pay rate: £30k
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We're looking for Perl developers to join our growing team to work on the
+development and maintenance of our reporting platform.
+
+This role involves
+the downloading, analysis, and processing of data from several sources
+(continuously growing), and feeding into our reporting system using several
+technologies including MySQL, MongoDB, Solr, etc.
+
+The role will develop
+into deep analysis of large data-sets, and will see the successful
+candidates become experts in Machine Learning, responsible for feeding
+results back into the optimisation of our main application.
+
+Desired skills:
+Perl
+OO
+LWP
+XML
+JSON
+CSV
+
+Working with different data technologies such as
+MySQL, MongoDB, Solr, will be of benefit, especially if done at scale.
+
+Website for more information: http://www.brainboxdigital.com
+
+Contact information at:
+http://jobs.perl.org/job/19984#contact

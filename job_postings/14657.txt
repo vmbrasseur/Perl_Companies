@@ -1,0 +1,75 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14657
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 4686 invoked from network); 8 Sep 2014 03:20:30 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 8 Sep 2014 03:20:30 -0000
+Received: (qmail 16520 invoked by uid 225); 8 Sep 2014 03:20:30 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 16516 invoked by alias); 8 Sep 2014 03:20:30 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 07 Sep 2014 20:20:28 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 573A042AA4; Sun,  7 Sep 2014 20:20:25 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sun, 7 Sep 2014 20:20:25 -0700
+Message-ID: <20140908032025.573A042AA4@x3.develooper.com>
+Subject: Linux developer (onsite), Amsterdam, The Netherlands
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18912
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September  7, 2014
+
+Job title: Linux developer
+
+Company name: WKL Consultancy
+
+Location: Amsterdam, The Netherlands
+
+Pay rate: 52000 p/y
+
+Terms of employment: Salaried employee
+
+Length of employment: indefinite
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+You will be responsible for preparing new Linux distributions for our
+software stack testing, packaging and maintaining software components
+managing software updates and further developing our build infrastructure.
+Furthermore, you will also take part in the development of several Python
+and Perl based tools and applications.
+
+Required skills:
+-You are a strong Perl and/or Python programmer and you are familiar with
+Unix shells and related tools (e.g. sed, awk).
+- Furthermore, you possess excellent problem solving skills and you are
+eager to learn and use new technologies.
+- Experience with high performance computing, clusters, high availability,
+PHP, XML, and creating RPMs would be beneficial, but is not strictly
+necessary.
+-Linux Our supercomputer cluster operating system and software environment
+is based on Linux.
+- You should be intimately familiar with the GNU/Linux Operating System
+from a system administrator's perspective.
+-In addition, you are familiar with the majority of open-source software
+that is part of a typical Linux installation.
+
+Contact information at:
+http://jobs.perl.org/job/18912#contact

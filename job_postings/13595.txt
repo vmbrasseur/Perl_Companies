@@ -1,0 +1,84 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13595
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 30722 invoked from network); 22 Jul 2013 23:46:11 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 22 Jul 2013 23:46:11 -0000
+Received: (qmail 15528 invoked by uid 225); 22 Jul 2013 23:46:11 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 15524 invoked by alias); 22 Jul 2013 23:46:11 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 22 Jul 2013 16:46:03 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 394822AFD3; Mon, 22 Jul 2013 16:46:00 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 22 Jul 2013 16:46:00 -0700
+Message-ID: <20130722234600.394822AFD3@x3.develooper.com>
+Subject: Team Leader / Senior Developer / Architect (onsite), Canary Wharf,
+ London, United Kingdom
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17661
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 22, 2013
+
+Job title: Team Leader / Senior Developer / Architect
+
+Company name: Broadbean Technology Ltd
+
+Internal ID: INTARC
+
+Location: Canary Wharf, London, United Kingdom
+
+Pay rate: Excellent
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+** YOU MUST ALREADY BE ELIGIBLE TO WORK IN THE UK. NO RECRUITERS, PLEASE **
+
+
+We're looking for a talented Senior Developer to help lead a team of three
+in our lovely Canary Wharf offices. You'll be working on a new codebase,
+and helping create another, so you'll be able to influence the technologies
+we use, and will be responsbile for the architecture of the resulting
+products.
+
+The existing codebase is built on DBIx::Class and Dancer on Plack, has a
+reasonable test-suite, is deployable via Jenkins, and you'll be sat three
+seats away from the (exceptionally nice) Product Owner. The new codebase is
+a series of API integrations, and you'll be helping our developer in this
+role plan and execute their solutions.
+
+We're a small company (90 people in the UK), owned by a very big company,
+and a great place to work. Post-probation we offer (non-contractually)
+flexible working and 50% telecommuting. We've got a development team of 30
+and are fully committed to Perl, clearing our technical debt, and doing
+things the right way moving forward...
+
+Required skills:
+You'll need to show proof of strong and "Modern" Perl - at least
+familiarity with various testing modules, exposure to Moose would be
+useful. You should have opinions that you can justify on the "right" level
+of testing, and the pros and cons of continuous delivery. You can take a
+stab at the philosophical differences between Catalyst, Dancer, and
+Mojolicious.
+
+Contact information at:
+http://jobs.perl.org/job/17661#contact

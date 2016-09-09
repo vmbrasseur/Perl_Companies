@@ -1,0 +1,92 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15356
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 7073 invoked from network); 8 Jan 2016 03:19:39 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 8 Jan 2016 03:19:39 -0000
+Received: (qmail 8086 invoked by uid 225); 8 Jan 2016 03:19:39 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 8082 invoked by alias); 8 Jan 2016 03:19:38 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 07 Jan 2016 19:19:31 -0800
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id D5930265; Fri,  8 Jan 2016 03:19:27 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 8 Jan 2016 03:19:27 +0000
+Message-ID: <20160108031927.D5930265@web1.develooper.com>
+Subject: Perl Web App Development (MRTG and DNS Management) (telecommute), Philadelphia, PA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19982
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January  8, 2016
+
+Job title: Perl Web App Development (MRTG and DNS Management)
+
+Company name: Quonix
+
+Location: Philadelphia, PA
+
+Pay rate: Based on estimate
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+High Level Description
+
+We are looking for a telecommute perl developer to
+build from scratch a customer facing web GUI to allows client to view their
+MRTG bandwidth usage graphs and make changes to their forward and reverse
+DNS.
+
+We have an existing system in place, but it is very limited. The only
+salvageable piece is the Mysql database that has all the client info
+(logins, forward domains, reverse zones, which interfaces belong to them).
+So the database portion is effectively good to go, but you have to develop
+a new front end.
+
+Details
+
+The DNS data lives on the filesystem in BIND
+syntax. So forward domains are simply stored at /etc/bind/master/domain.com
+and the file itself contains all the MX, A, CNAME records, etc.,. The
+reverse zone is tricky, it lives at /etc/bind/master/5.6.7.in-addr.arpa and
+that file controls the reverse DNS for 7.6.5.0/24. But most of our clients
+have subnets smaller then a /24, so that file is shared across multiple
+clients. The database contains entries for the forward domains that a
+certain user has rights to, and for the reverse the database contains all
+the IPs the user has rights to. For example, if a user is assigned the
+subnet 7.6.5.0/30, then the database would have the IPs 7.6.5.2 and 7.6.5.3
+in it. Keep in mind alot of this is open to redesign. One option is we
+store all reverse data in the mysql database, then have a cron job that
+"builds" the .arpa zone files every hour.
+
+The MRTG data is alot easier to
+interface with. A given client has an interface assigned to them, this is
+in the database. The graphs for that interface can be fetched via a static
+http get request, so that graph just needs to be wrapped and displayed.
+
+Desired skills:
+Web front end experience, perl, mysql, BIND DNS, IP and subnet knowledge,
+and MRTG/RTG.
+
+Website for more information: http://www.quonix.net
+
+Contact information at:
+http://jobs.perl.org/job/19982#contact

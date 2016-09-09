@@ -1,0 +1,293 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15302
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 30965 invoked from network); 20 Nov 2015 23:21:35 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 20 Nov 2015 23:21:35 -0000
+Received: (qmail 4419 invoked by uid 225); 20 Nov 2015 23:21:34 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 4415 invoked by alias); 20 Nov 2015 23:21:34 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 20 Nov 2015 15:21:32 -0800
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id D3F801CF; Fri, 20 Nov 2015 23:21:28 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 20 Nov 2015 23:21:28 +0000
+Message-ID: <20151120232128.D3F801CF@web1.develooper.com>
+X-Virus-Checked: Checked
+Subject: SSH Public Key Management Architect/Engineer (onsite), Addison, TX
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19932
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 17, 2015
+
+Job title: SSH Public Key Management Architect/Engineer
+
+Company name: Bank of America
+
+Location: Addison, TX
+
+Pay rate: TBD
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+This contract position is to join a team that will be responsible for
+designing and developing a new framework to manage the entire life cycle of
+SSH Public Keys. The project will solve issues such as automated discovery,
+lock down, SSH configuration management, remediation of existing keys,
+automated process management, etc.. Will be responsible for defining,
+scripting/developing, and implementing the solution(s).
+
+
+
+Work
+Environment:
+
+ 
+
+M-F 8am – 5PM
+This group is very deadline oriented, but
+with the amount of work on their plate- prioritization of what needs to get
+done vs. what HAS to get done will be crucial. Candidate must be able to
+work in a complex environment with initiative. 
+
+
+
+
+
+Interview Information:
+
+ 
+
+Send all submittals to Gayle Meehan. George Lee the Delivery Manager
+will submit to hiring manager Mitchell Klein. Mitchell Klein to review
+resume within 24 hours and then decide to interview candidate prior
+scheduling an interview 
+
+
+
+
+
+Who is the Internal/External Customer:
+
+
+
+Internal to the Bank. 
+
+
+
+
+
+Impact to the Internal/External Customer:
+
+
+
+Secure Shell is a program to log into another computer over a network, to
+execute commands in a remote machine, and to move files from one machine to
+another. It provides strong authentication and secure communications over
+insecure channels. It is a replacement for rlogin, rsh, rcp, and rdist. SSH
+protects a network from attacks. 
+
+
+
+
+
+Business Challenge:
+
+ 
+
+The project
+will solve issues such as automated discovery, lock down, SSH configuration
+management, remediation of existing keys, automated process management,
+etc. 
+
+
+
+
+
+EVP:
+
+
+
+This project is established to assist with the
+continuation of Powerbroker/Vintela remediation to comply with corporate
+security requirements across the Midrange server environment. Consultant’s
+delivery management team shall provide oversight to the resources that
+shall support tool modifications, as well as hardware and software
+deployments throughout 2014. This role is extremely visible within the
+bank. To work with one of the worlds leading banking institution.
+TEKsystems global services has a team in place to assist with resource
+management as well as a coordinator to help with seamless onboarding. The
+relationships in place can offer continuous employment and the ability to
+gain visibility into multiple projects at the bank. With a good standing -
+managers often rotate resources which creates long term opportunity across
+multiple domains within the organization. 
+
+
+
+
+
+Non-Technical Skills:
+
+ 
+
+Often times, candidates that are able to adapt will be successful vs.
+someone who is very process driven and stuck in their ways. BOA needs
+people that will research ideas/know how to get passed "red tape" and not
+be afraid to ask questions. 
+
+
+
+
+
+Why is position open?:
+
+ 
+
+This contract
+position is to join a team that will be responsible for designing and
+developing a new framework to manage the entire life cycle of SSH Public
+Keys.
+
+Desired skills:
+• Very strong UNIX/Linux OO Perl programming/developement including the
+ability to read/write data to a database (preferred MySQL or Oracle), Web
+Development, and parse data in XML/JSON 
+• Has experience using
+VNC/RealVNC, Gnome/KDE, Eclipse with Epic, perlcritic, TEST::More and
+subversion 
+• Strong engineering and architecture skills in a large
+heterogeneous UNIX/Linux environment 
+• Ability to create and automate
+processes
+•Detailed oriented individual that has strong analytical skills,
+problem solving, and is a conceptual thinking
+•Ability to work
+independently with initiative. Willing to learn and self-motivated.
+•Communication/documentation skills and willingness to work with others
+•Competency with Microsoft Office applications: Outlook, Word, Excel,
+PowerPoint, SharePoint, and OneNote
+
+• Linux: understand SHELL’s, user
+environment, log-in, navigation etc
+(how to be a user in a Unix/Linux
+environment; must be very comfortable)
+• Putty/SSH (OpenSSH): can use it
+•
+SSH Keys: understands how to setup and use them.
+• VNC: can use VNC to
+operate a Linux desktop from a Windows VNC client
+• Eclipse: has used an
+IDE such as eclipse, we use eclipse
+• Subversion: we use subversion via CLI
+and Eclipse plug-in
+• E.P.I.C: We use the EPIC Perl plug-in for Eclipse
+(PERL Personality).
+•PERL: Must know Perl!: read, write, eat, sleep Perl,
+OOP, modules, TAP unit testing, POD, threads, Event processing etc. I can’t
+stress this enough. The application is highly Object oriented, composed of
+more than 130 custom modules each having POD. A candidate will be able to
+contribute to the whole in the same way.
+•The candidate will need to pass a
+test. Primarily about Perl but includes a few questions about basic
+computer science “design patterns”. 
+
+
+ 
+
+This contract position is to join
+a team that will be responsible for designing and developing a new
+framework to manage the entire life cycle of SSH Public Keys. The project
+will solve issues such as automated discovery, lock down, SSH configuration
+management, remediation of existing keys, automated process management,
+etc.. Will be responsible for defining, scripting/developing, and
+implementing the solution(s).
+ 
+
+Required Skills:
+• Very strong UNIX/Linux
+shell scripting (preferred Perl) including the ability to read/write data
+to a database (preferred MySQL or Oracle), Web Development, and parse data
+in XML/JSON 
+• Strong engineering and architecture skills in a large
+heterogeneous UNIX/Linux environment 
+• Ability to create and automate
+processes
+• Detailed oriented individual that has strong analytical skills,
+problem solving, and is a conceptual thinking
+• Ability to work
+independently with initiative. Willing to learn and self motivated.
+•
+Communication/documentation skills and willingness to work with others
+•
+Competency with Microsoft Office applications: Outlook, Word, Excel,
+PowerPoint, SharePoint, and OneNote
+ 
+Desired Skills:
+• RedHat Enterprise
+Linux 5+
+• Experience of the SSH protocol and Public Key authentication
+•
+Familiar with SSH based software such as OpenSSH, putty, and/or Tectia
+•
+Familiar with BPM 2.0
+• BS Degree in computer science, engineering or
+related field 
+
+
+
+
+
+Additional Information:
+
+ 
+
+The developers will do the
+following (and more) daily:
+
+• Team meeting (most days, short)
+• Use
+windows and office tools and things like SharePoint, wiki etc (Problem/Task
+web application)
+• Use VNC (thin client for viewing remote LINUX desktop)
+•
+Use GNOME (Linux), portal into development environment
+• Will be
+comfortable using UNIX/Linux environment (as a user), I.E need to know
+their way around. Do not need to be an admin but such experience helps
+assure they know their way around.
+• Use Eclipse IDE, on Linux (reason for
+using VNC and Gnome)
+• Use EPIC (Perl developer eclipse plug-in)
+• Use svn
+(subversion, CLI and Eclipse plug-in)
+• Will write test scripts
+• Will
+document before coding
+• Must know Perl OOP, our application is highly OOP
+• Will read daily, application is highly modular, ability to read and
+comprehend both code and POD will help them catch up (keep up)
+
+One more
+thing I thought of last night:
+A PLUS!!
+– Experience with “Jenkins”
+
+Contact information at:
+http://jobs.perl.org/job/19932#contact

@@ -1,0 +1,89 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15293
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 23204 invoked from network); 16 Nov 2015 13:27:16 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 16 Nov 2015 13:27:16 -0000
+Received: (qmail 4894 invoked by uid 225); 16 Nov 2015 13:27:16 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 4890 invoked by alias); 16 Nov 2015 13:27:16 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 16 Nov 2015 05:27:14 -0800
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id A06D2297; Mon, 16 Nov 2015 13:27:11 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 16 Nov 2015 13:27:11 +0000
+Message-ID: <20151116132711.A06D2297@web1.develooper.com>
+Subject: SSH Public Key Management Architect/Engineer (onsite), Addison, TX
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19910
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 16, 2015
+
+Job title: SSH Public Key Management Architect/Engineer
+
+Company name: Bank of America
+
+Location: Addison, TX
+
+Pay rate: 110K
+
+Terms of employment: Hourly employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+This contract position is to join a team that will be responsible for
+designing and developing a new framework to manage the entire life cycle of
+SSH Public Keys. The project will solve issues such as automated discovery,
+lock down, SSH configuration management, remediation of existing keys,
+automated process management, etc.. Will be responsible for defining,
+scripting/developing, and implementing the solution(s).
+
+Desired skills:
+Required Skills:
+• Very strong UNIX/Linux shell scripting (preferred Perl)
+including the ability to read/write data to a database (preferred MySQL or
+Oracle), Web Development, and parse data in XML/JSON 
+• Strong engineering
+and architecture skills in a large heterogeneous UNIX/Linux environment 
+•
+Ability to create and automate processes
+• Detailed oriented individual
+that has strong analytical skills, problem solving, and is a conceptual
+thinking
+• Ability to work independently with initiative. Willing to learn
+and self motivated.
+• Communication/documentation skills and willingness to
+work with others
+• Competency with Microsoft Office applications: Outlook,
+Word, Excel, PowerPoint, SharePoint, and OneNote
+ 
+Desired Skills:
+• RedHat
+Enterprise Linux 5+
+• Experience of the SSH protocol and Public Key
+authentication
+• Familiar with SSH based software such as OpenSSH, putty,
+and/or Tectia
+• Familiar with BPM 2.0
+• BS Degree in computer science,
+engineering or related field
+
+Contact information at:
+http://jobs.perl.org/job/19910#contact

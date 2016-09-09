@@ -1,0 +1,109 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14812
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 19070 invoked from network); 6 Dec 2014 20:05:25 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 6 Dec 2014 20:05:25 -0000
+Received: (qmail 12152 invoked by uid 225); 6 Dec 2014 20:05:25 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 12148 invoked by alias); 6 Dec 2014 20:05:25 -0000
+X-Spam-Status: No, hits=-5.3 required=8.0
+	tests=BAYES_00,LOTS_OF_MONEY,RCVD_IN_DNSWL_HI,SPF_PASS,SUBJECT_NEEDS_ENCODING,SUBJ_ILLEGAL_CHARS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 06 Dec 2014 12:05:23 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id DD1874296E; Sat,  6 Dec 2014 12:05:19 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 6 Dec 2014 12:05:19 -0800
+Message-ID: <20141206200519.DD1874296E@x3.develooper.com>
+Subject: Technical Lead / Architect OO Perl Developer ‘Green ethos’ Financial
+ Services (onsite), City, London, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19108
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December  6, 2014
+
+Job title:
+Technical Lead / Architect OO Perl Developer ‘Green ethos’ Financial
+Services
+
+Company name: Pro-Quest Resourcing Ltd
+
+Internal ID: PQPL1
+
+Location: City, London, UK
+
+Pay rate: £60,000
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Technical Lead / Architect OO Perl Developer ‘Green ethos’ Financial
+Services
+
+Salary: £60,0000
+Location: City, London
+
+Fantastic opportunity has arisen to join one of the UK's leading Perl
+Development Houses, based in the City
+
+The role offers an excellent chance to work with a team of like-minded
+individuals experts in Perl Development writing some of the latest robust,
+scalable, cutting edge Software for use by high availability high traffic
+Web facing site and corresponding back-end services with a user-base
+potentially in the Millions Globally! Project areas including: large, OO
+Perl applications, front-end/ JavaScript/ CSS interface development,
+server-side/ RESTful APIs and the underlying backend technologies. 
+
+Highly skilled, motivated, intelligent Perl Developers are required & in
+return, aside from excellent development projects furthering your
+knowledge, an excellent team and working environment you can also expect
+excellent remuneration for your development contribution
+
+Required skills:
+- OO Perl in large structured applications 
+- SQL (PostgreSQL or MySQL)
+- Good development practices, high-quality maintainable code
+- Adept at problem solving & delivering solutions requiring lateral
+thinking around difficult scenarios 
+- Knowledge of CPAN and mailing lists/ resources
+
+Desired skills:
+- Familiarity with "modern" Perl: exposure to any of the
+  following beneficial (Catalyst, DBIx::Class, Moose, Dancer,  Mojilicious)
+
+ 
+- Confident experience building reliable software using unit testing,
+functional testing, and continuous integration (experience with Jenkins/
+Hudson or similar)
+ 
+- Good overall understanding of all aspects of server software deployment,
+from TCP/IP to HTTP to IO bottlenecks. 
+ 
+Additional experience beneficial but not essential
+ 
+ - Ajax 
+ - RESTful server API design 
+ - MVC web development
+ - Linux systems administration
+ - XML/SOAP/XSD
+
+Website for more information: http://www.pro-quest.co.uk
+
+Contact information at:
+http://jobs.perl.org/job/19108#contact

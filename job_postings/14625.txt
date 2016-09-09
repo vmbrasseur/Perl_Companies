@@ -1,0 +1,81 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14625
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 1024 invoked from network); 23 Aug 2014 08:27:01 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 23 Aug 2014 08:27:01 -0000
+Received: (qmail 26269 invoked by uid 225); 23 Aug 2014 08:27:01 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 26265 invoked by alias); 23 Aug 2014 08:27:01 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 23 Aug 2014 01:26:59 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 02D0D42ABB; Sat, 23 Aug 2014 01:26:56 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 23 Aug 2014 01:26:55 -0700
+Message-ID: <20140823082656.02D0D42ABB@x3.develooper.com>
+Subject: Software Engineer - Telecommute (telecommute), New York, NY, USA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18878
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 23, 2014
+
+Job title: Software Engineer - Telecommute
+
+Company name: The Wall Street Transcript
+
+Location: New York, NY, USA
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+Looking for a highly disciplined and self motivated individual to work for
+a small but profitable company. The right candidate will have a strong
+desire to write quality code but who can also be highly productive and with
+minimum supervision.
+
+About MeetMax:
+MeetMax has been successfully providing online registration for high
+profile corporate, investment banking and association events since 2003.
+MeetMax has developed unique tools and approaches to incorporating one on
+one private meetings into events – exploiting a rapidly growing trend in
+conferences. The new hire will be an integral part of a small team -- with
+extensive exposure to various business groups.
+
+Required skills:
+* Minimum of three years experience in building database driven
+applications
+* Familiarity with modern perl including Catalyst, Moose, DBIx::Class,
+Template Toolkit, etc.
+* Should enjoy and have demonstrated a proficiency in building highly
+interactive UI components with CSS and JavaScript
+* Must be used to a highly disciplined release process which at a minimum
+requires the use of a version control system
+* Strong understanding of SQL and relational databases
+* Knowledge of the special requirements necessary for writing code to run
+on an persistent web environment such as mod_perl
+* Must be able to mentor and work closely with non-technical professional
+services colleagues
+* Must have strong English writing and verbal skills
+
+Website for more information: http://www.meetmax.com
+
+Contact information at:
+http://jobs.perl.org/job/18878#contact

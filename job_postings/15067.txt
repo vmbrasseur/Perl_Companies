@@ -1,0 +1,99 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15067
+Return-Path: <marco@vittorini.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 29297 invoked from network); 13 May 2015 14:18:50 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 13 May 2015 14:18:50 -0000
+Received: (qmail 5201 invoked by uid 225); 13 May 2015 14:18:50 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 5197 invoked by alias); 13 May 2015 14:18:49 -0000
+X-Spam-Status: No, hits=-1.2 required=8.0
+	tests=BAYES_00,DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,RDNS_NONE,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from Unknown (HELO srv.vittorini.org) (185.72.247.113)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 13 May 2015 07:18:48 -0700
+Received: from localhost ([127.0.0.1])
+	by srv.vittorini.org with esmtp (Exim 4.83)
+	(envelope-from <marco@vittorini.org>)
+	id 1YsXUh-0004O9-Kc
+	for jobs@perl.org; Wed, 13 May 2015 16:18:43 +0200
+Authentication-Results: srv.vittorini.org (amavisd-new);
+	dkim=pass (2048-bit key) reason="pass (just generated, assumed good)"
+	header.d=vittorini.org
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=vittorini.org; h=
+	content-type:content-type:content-transfer-encoding:mime-version
+	:user-agent:message-id:date:date:subject:subject:reply-to:from
+	:from:received:received; s=selector1; t=1431526721; bh=3o4R5PXQG
+	1JU+kgwwW3g0AUSAx8fPYSteRzzX7tKL2A=; b=TDWXTzU7pHWwGNRDgDBez01HR
+	4hwcE8G27UHOFklMyxsLUDkfHxcAV9R8/JJlaUNA4Dzld+5N+9ITVKDp1Jz6zg3H
+	V+7FqD8PfulXHh+85FdI0pEbTU8VRPn5tVWao1rJO1+rthjJBjcsCWNSDcbV46OJ
+	ZRpqE8hq0ZF3ODor4tGuchjJIXWMFQDALOZmOV2BfLgqLXjGfWfSFVt4sCOrx9MD
+	hL0LEZD78wt25vO8Qlw/995W9qUsWTaLPlqfEvavHIT80bIaOc4npnUvxkzsLUnI
+	iD0jGtMpGOPhKjL8LLzZfl81dW6tmQKzClPyEdnOFy/ngGFl5hM868BC5Uqgw==
+X-Virus-Scanned: amavisd-new at vittorini.org
+X-Spam-Score: -0.201
+X-Spam-Level:
+Received: from srv.vittorini.org ([IPv6:::1])
+	by localhost (srv.vittorini.org [IPv6:::1]) (amavisd-new, port 10026)
+	with ESMTP id kLrEx2F4b5EK for <jobs@perl.org>;
+	Wed, 13 May 2015 16:18:41 +0200 (CEST)
+Received: from dynamic-adsl-94-38-173-81.clienti.tiscali.it ([94.38.173.81] helo=linux-wh6l.site)
+	by srv.vittorini.org with esmtpsa (TLSv1:ECDHE-RSA-AES256-SHA:256)
+	(Exim 4.83)
+	(envelope-from <marco@vittorini.org>)
+	id 1YsXUf-0004O1-AA
+	for jobs@perl.org; Wed, 13 May 2015 16:18:41 +0200
+To: jobs@perl.org
+Reply-To: marco@vittorini.org
+Date: Wed, 13 May 2015 16:21:01 +0200
+Message-ID: <2536084.XATLnmFOR1@linux-wh6l.site>
+User-Agent: KMail/4.11.5 (Linux/3.11.10-29-desktop; KDE/4.11.5; x86_64; ; )
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7Bit
+Content-Type: text/plain; charset="us-ascii"
+X-Old-Spam-Flag: NO
+X-Old-Spam-Status: No, score=-0.201 tagged_above=-9999 required=6.2
+	tests=[ALL_TRUSTED=-1, BAYES_00=-1.9, DNS_FROM_AHBL_RHSBL=2.699]
+	autolearn=no
+Subject: Seeking a Perl related remote internship (not paid)
+Approved: news@nntp.perl.org
+From: marco@vittorini.org (Marco Vittorini Orgeas)
+
+Hello,
+
+I'm a computer science student approaching the graduation phase and I'm in 
+needing of earning some credits by experiencing an 
+internship with some business and if possible I'd like to experience some Perl 
+related task.
+
+Perl is my go-to scripting language since 10 years, I like the language 
+expressiveness but wherever I look it's a springling of python/php/ruby 
+related jobs/internships.
+
+I would like to give an hand with some relatively small/medium 
+task (1-2 months of work) and maybe more (considering my current load of 
+work).
+
+I've seen around that the Perl foundation is participating in open source 
+coding programs for students like Gsoc but it seems I'm too late to join Gsoc, 
+but should the Perl foundation or some other business/not for 
+profit/association entity need some hand for 
+some job/task floss related (and even not) I would be very happy to help!
+
+I'm quite versed in Perl and I'm good at sysadmin related tasks 
+too (coming from a Linux/UNIX experience and heritage): to see something I can 
+point you to http://mavior.eu/apt-log (it's something I've not touched in a 
+while).
+
+I hope that this is the right list to ask of such things, but of course if 
+somebody out there have additional suggestions to where I could look at to get 
+some job/internship opportunity in Perl related things I will surely dig more.
+
+Thank you.
+
+-- 
+Marco

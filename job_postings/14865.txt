@@ -1,0 +1,78 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14865
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 24969 invoked from network); 16 Jan 2015 08:50:35 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 16 Jan 2015 08:50:35 -0000
+Received: (qmail 17554 invoked by uid 225); 16 Jan 2015 08:50:35 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 17550 invoked by alias); 16 Jan 2015 08:50:35 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 16 Jan 2015 00:50:34 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 984DE42A9E; Fri, 16 Jan 2015 00:50:30 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 16 Jan 2015 00:50:30 -0800
+Message-ID: <20150116085030.984DE42A9E@x3.develooper.com>
+Subject: Senior Perl/Lua Developer (onsite), Berlin, Germany
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19184
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 16, 2015
+
+Job title: Senior Perl/Lua Developer
+
+Company name: IPONWEB
+
+Location: Berlin, Germany
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Working on complex high load projects deployed across the world;
+Development of business logic in form of Lua programs for in-house Internet
+advertisement platform;
+Functional testing of implemented business logic using Perl test framework;
+
+Support of offline backend data processing programs in Perl;
+Implementing integration with large advertisement platforms like Google,
+Yahoo, Facebook, etc.;
+Analysis of system behavior in production , investigating issues;
+Coordination with other teams on integration issues;
+Direct discussions on implementation details with company clients;
+Analysis of system behavior in production.
+
+Required skills:
+Ability and aptitude for learning complex business logic;
+Knowledge of scripting languages (Perl/Python/Ruby/Lua and so on);
+We don't require knowledge of specific language from the above list as we
+expect that previous experience in of one these languages is sufficient to
+learn how to write good Perl and Lua code;
+Good knowledge of English;
+
+Desired skills:
+Technical project leadership experience is high appreciated;
+Knowledge of C++ is not required but might be appreciated;
+Basic knowledge of online advertisement industry is appreciated.
+
+Website for more information: http://www.iponweb.com
+
+Contact information at:
+http://jobs.perl.org/job/19184#contact

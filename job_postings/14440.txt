@@ -1,0 +1,99 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14440
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 19049 invoked from network); 3 Jun 2014 05:35:18 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 3 Jun 2014 05:35:18 -0000
+Received: (qmail 2902 invoked by uid 225); 3 Jun 2014 05:35:18 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 2898 invoked by alias); 3 Jun 2014 05:35:18 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 02 Jun 2014 22:35:15 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id A0F9A4294A; Mon,  2 Jun 2014 22:35:12 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 2 Jun 2014 22:35:12 -0700
+Message-ID: <20140603053512.A0F9A4294A@x3.develooper.com>
+Subject: Perl and Node.js Developer (telecommute), California, USA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18686
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June  2, 2014
+
+Job title: Perl and Node.js Developer
+
+Company name: CloudBeds
+
+Location: California, USA
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+CloudBeds is looking to recruit a fierce and warrior-like all-in-one web
+developer who is craving the startup experience. You will be brought on as
+the lead developer for a consumer facing web application deployed in the
+hospitality space across the globe -- United States, Brazil, and Western
+Europe. Working with limited supervision from our technical lead, you will
+be in charge of maintaining and optimizing an entire product focused on
+managing channel inventory through partners such as Expedia, Booking.com,
+and others.
+
+Responsibilities
+- Be able to jump in and understand a large repository of code
+- Write clean, well-documented, and beautiful code
+- Own projects from start to finish
+- Write test cases to maintain product optimization and functionality
+- Develop application-backend with provided design
+
+Desired
+- BS or MS in Computer Science or related major [CSC/CPE/SE]
+- 5+ years of experience with related programming languages
+- Ability to work remotely and manage your own time (reporting to technical
+lead)
+- Ability to work and communicate well in a small team environment
+- Passion for best coding and design practices
+
+Required skills:
+- Advanced skills in developing with Perl and Node.js (yes, Perl AND
+Node.js)
+- Advanced skills in database technologies and server administration
+[MySQL, MongoDB]
+- Ability to develop and integrate with a number of third-party API’s with
+XML and JSON formats
+- Experience with automation and deployment frameworks [Selenium, Jenkins,
+Bamboo or similar]
+- Proficient using GIT repositories
+
+Desired skills:
+- Express.js with Stylus and Jade
+- Experience with Perl modules: LWP::UserAgent, XML::Simple, JSON,
+Date::Calc, DBI, Mason, HTML::TreeBuilder
+- Modern HTML, JavaScript, CSS
+- Linux (Ubuntu Server) administration
+- Nginx - Basic configuration
+- Lighttpd with fastcgi
+- Screen-scraping techniques, website automation
+- Experience with Atlassian products [JIRA/Fisheye/BitBucket]
+
+Website for more information:
+http://cloudbeds.com/careers/#tab-1401749056267-9-2
+
+Contact information at:
+http://jobs.perl.org/job/18686#contact

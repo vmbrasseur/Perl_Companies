@@ -1,0 +1,111 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15370
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 23655 invoked from network); 15 Jan 2016 17:31:12 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 15 Jan 2016 17:31:12 -0000
+Received: (qmail 11925 invoked by uid 225); 15 Jan 2016 17:31:12 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11921 invoked by alias); 15 Jan 2016 17:31:12 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 15 Jan 2016 09:31:07 -0800
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 803863FF; Fri, 15 Jan 2016 17:31:04 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 15 Jan 2016 17:31:04 +0000
+Message-ID: <20160115173104.803863FF@web1.develooper.com>
+Subject: UNIX is my IDE. perl5 is my VM. CPAN is my language (onsite), Malmö, Sweden
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19990
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 15, 2016
+
+Job title:
+UNIX is my IDE. perl5 is my VM. CPAN is my language
+
+Company name: Edument AB
+
+Location: Malmö, Sweden
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We're looking for a developer with an eye both for detail and for the big
+picture. To work on the kind of problems where Perl shines (text
+processing, glue language, data conversion) in interesting domains that
+matter to people.
+
+At Edument, we have found Perl programmers to be
+passionate about their craft, responsible, knowledgeable, and versatile. We
+want a certain kind of free-thinking problem-solving mindset, and we've
+found a good way to do that is to hire Perl programmers.
+
+The quote above
+(by Matt Trout, mst) nicely conveys the spirit we find in well-versed Perl
+people: a natural reliance on CPAN, and a familiarity with the usual UNIX
+toolkit. If you're a regular at Perl conferences or workshops, we count
+that as a plus.
+
+Of course, in 2016 a developer is also expected to have at
+least a passing knowledge of other scripting languages, some web
+development, and perhaps a mainstream static language or two. We've found
+this is true of many Perl developers we interview: they're really polyglot
+programmers.
+
+Though the main occupation is developing code, in practice a
+lot of the daily work involves communication: discussion, teaching,
+mentoring, learning, exchanging ideas. A mastery of spoken and written
+English on a C1 or C2 level is highly recommended.
+
+Place of employment is
+in Helsingborg or Malmö. We welcome people both from Sweden and abroad.
+(Already our company is a fairly even mix.) Relocating to the greater
+Copenhagen region is encouraged, but we have been known to make exceptions
+to this rule if we find it makes sense.
+
+Job applications are
+first-come-first-serve, so send in your application as soon as you can.
+
+When we meet for an interview, the topics will be not just your skills, but
+your other interests and passions. Likely the interview will consist of one
+person from the business side and one technical person. There will not be a
+whiteboard or live coding, just talk to get to know you as a person.
+
+About
+Edument
+
+Edument is a company based in the south of Sweden, focusing on
+high-quality consulting, mentoring and training. We solve deep and
+challenging problems at the heart of software, often drawing on ideas and
+experiences from Test-driven development, Domain-driven design, various
+agile methodologies, CQRS, Perl and other languages. Many of us are active
+in development communities, participating in open source projects and
+speaking at workshops, user groups and conferences. We have offices in
+Helsingborg, Malmö, and Prague.
+
+Desired skills:
+Required: strong up-to-date Perl development skills, strong written/spoken
+English. Desirable: Test-Driven Development, Domain-Driven Design, Git,
+experience in a range of other programming languages.
+
+Website for more information: http://www.edument.se
+
+Contact information at:
+http://jobs.perl.org/job/19990#contact

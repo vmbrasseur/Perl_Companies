@@ -1,0 +1,87 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15102
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 906 invoked from network); 5 Jun 2015 02:53:44 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 5 Jun 2015 02:53:44 -0000
+Received: (qmail 10531 invoked by uid 225); 5 Jun 2015 02:53:44 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 10527 invoked by alias); 5 Jun 2015 02:53:44 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 04 Jun 2015 19:53:42 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 23AD12F8; Fri,  5 Jun 2015 02:53:39 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 5 Jun 2015 02:53:39 +0000
+Message-ID: <20150605025339.23AD12F8@web1.develooper.com>
+Subject: Perl Developer (telecommute), Madison, WI
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15304
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June  3, 2015
+
+Job title: Perl Developer
+
+Company name: Plain Black
+
+Location: Madison, WI
+
+Pay rate: $40 / hour
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+Plain Black (plainblack.com) is hiring and we’re looking for a geek like
+you. Not your average geek, but someone who wears GEEK as a badge. Someone
+who breathes Perl, and drinks Linux. A geek who knows that there’s more you
+can do with SSH than just open a terminal to a remote box. Someone who
+believes that Internet access is not just a human right, but that it’s as
+important as air, water, and shelter. If we’ve described you, then please
+apply.
+
+We can offer you flexible work hours, and work from anywhere. We
+can offer you part time or full time contracting hours. In addition, you
+get to work with some smart people on cool projects.
+
+Desired skills:
+You must be able to:
+ - Work independently or as a member of a team.
+ - Be
+self-motivated.
+ - Write modern Perl, not chicken scratch Perl, and be able
+to explain the difference.
+ - Use and abuse relational databases like
+MySQL.
+ - Be comfortable with common tools like Bash, Git, Nginx, Apache,
+and Vim.
+ - Know common web development technologies like Javascript, CSS,
+HTML.
+
+It would be nice if you:
+ - Have experience with Perl web
+development including one or more of: WebGUI, Plack, Catalyst, Dancer, or
+Mojolicious.
+ - Have experience with one or more modern Javascript
+frameworks like jQuery, Bootstrap, and AngularJS.
+
+Website for more information: http://plainblack.com
+
+Contact information at:
+http://jobs.perl.org/job/15304#contact

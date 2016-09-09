@@ -1,0 +1,76 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14896
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 15366 invoked from network); 29 Jan 2015 23:34:30 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 29 Jan 2015 23:34:30 -0000
+Received: (qmail 15277 invoked by uid 225); 29 Jan 2015 23:34:30 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 15273 invoked by alias); 29 Jan 2015 23:34:30 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 29 Jan 2015 15:34:28 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 84C7842A9E; Thu, 29 Jan 2015 15:34:25 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 29 Jan 2015 15:34:25 -0800
+Message-ID: <20150129233425.84C7842A9E@x3.develooper.com>
+Subject: contract Perl (onsite), Museum In Docklands, Canary Wharf, London
+ E14 4AL, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19216
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 29, 2015
+
+Job title: contract Perl
+
+Company name: Vertex It Solutions
+
+Location:
+Museum In Docklands, Canary Wharf, London E14 4AL, UK
+
+Pay rate: £320-£380 Per Day
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 6 months
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+My client are looking for a contractor for a 5-6 month basis. You will be
+engaged to work on a new codebase, and helping to create another, so there
+is good and tangible opportunity to influence the technologies my client
+are using. The role will also see you responsible for the architecture of
+the resulting products.
+Their existing codebase is built on DBIx::Class and Dancer on Plack, has a
+reasonable test-suite, is deployable via Jenkins, and the Product Owner is
+nearby (in fact only a couple of seats away..). The new codebase is a
+series of API integrations, and you'll be working with their developers
+helping to plan and implementing their solutions.
+
+Required skills:
+Perl!
+
+Very strong Perl skills required!!
+
+Desired skills: Perl
+
+Website for more information: http://www.vertex-it-solutions.com/
+
+Contact information at:
+http://jobs.perl.org/job/19216#contact

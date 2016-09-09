@@ -1,0 +1,131 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15446
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 27343 invoked from network); 7 Mar 2016 19:45:57 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 7 Mar 2016 19:45:57 -0000
+Received: (qmail 12831 invoked by uid 225); 7 Mar 2016 19:45:57 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 12827 invoked by alias); 7 Mar 2016 19:45:57 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 07 Mar 2016 11:45:54 -0800
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 9814434A; Mon,  7 Mar 2016 19:45:43 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 7 Mar 2016 19:45:43 +0000
+Message-ID: <20160307194543.9814434A@web1.develooper.com>
+Subject: Junior/Senior Perl-Backend-Entwickler (m/w) (onsite), Berlin, Germany
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20112
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March  3, 2016
+
+Job title: Junior/Senior Perl-Backend-Entwickler (m/w)
+
+Company name: think project! International GmbH & Co KG
+
+Location: Berlin, Germany
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Ihr Verantwortungsbereich bei uns:
+
+Wir entwickeln unser web-basiertes
+Business-to-Business-Produkt think project! seit mehr als fünfzehn Jahren.
+Dabei setzen wir sehr erfolgreich auf RedHat Enterprise Linux, Apache,
+mod_perl2, Mojolicious, PostgreSQL im Backend und Backbone, Marionette,
+jQuery im Frontend.
+
+- Sie entwickeln und refaktorisieren Perl-Module im
+Kernel-
+Bereich unseres Produkts.
+
+- Dabei liegt ihr Schwerpunkt auf
+datenbank-orientierter
+Entwicklung und Optimierung mit PostgreSQL.
+
+-
+Transaktions-orientierte Funktionen implementieren Sie in
+PostgreSQL stored
+procedures.
+
+- Sie analysieren und lösen Anwendungsprobleme in unserem
+betrieblichen Umfeld.
+
+- Dabei wenden Sie Monitoring-Tools und Scripte an
+an denen
+Sie selbst mit entwickeln.
+
+- Sie entwickeln und verbessern
+applikations-orientierte
+Wartungsscripte, welche den Betrieb
+aufrechterhalten.
+
+- Sie integrieren PostgreSQL-Erweiterungen in die
+Applikation.
+
+- Sie verantworten das Deployment von Schema-Änderungen.
+
+-
+Sie arbeiten in weiteren Persistenz-Ebenen mit wie Volltext und
+Graph-Datenbank.
+
+Desired skills:
+Sie passen zu uns, wenn Sie
+
+- sehr gute Kenntnisse und Erfahrung in
+interpretierten Sprachen
+(bevorzugt Perl oder Python) mitbringen;
+
+- sehr
+gute Kenntnisse in SQL haben;
+
+- Erfahrung in Betrieb und Optimierung von
+PostgreSQLDatenbanken
+haben;
+
+- Erfahrung in Entwicklung und Betrieb von
+komplexen Backend-
+Systemen haben;
+
+- eine kundenbezogene, agile
+Arbeitsweise im Sinne von
+Continuous-Delivery und DevOps kennen und
+bevorzugen;
+
+- mit hohem Qualitätsbewusstsein ergebnisorientiert arbeiten;
+
+- Interesse an langfristiger Produktentwicklung mit etablierten
+Software-Engineering-Methoden haben;
+
+- ein Teamplayer sind, der dennoch
+eigenverantwortlich und
+selbständig agiert;
+
+- sehr kommunikationsfähig
+sind;
+
+- über sehr gute Deutsch- und gute Englischkenntnisse verfügen.
+
+Website for more information: http://www.thinkproject.com
+
+Contact information at:
+http://jobs.perl.org/job/20112#contact

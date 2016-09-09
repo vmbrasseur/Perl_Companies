@@ -1,0 +1,86 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15163
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 2857 invoked from network); 19 Jul 2015 06:04:07 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 19 Jul 2015 06:04:07 -0000
+Received: (qmail 24889 invoked by uid 225); 19 Jul 2015 06:04:07 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 24885 invoked by alias); 19 Jul 2015 06:04:07 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 18 Jul 2015 23:03:59 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 9BDD24E1; Sun, 19 Jul 2015 06:03:55 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sun, 19 Jul 2015 06:03:55 +0000
+Message-ID: <20150719060355.9BDD24E1@web1.develooper.com>
+Subject: Perl Developer (onsite), Austin, TX
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19720
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 15, 2015
+
+Job title: Perl Developer
+
+Company name: Insight Global
+
+Location: Austin, TX
+
+Pay rate: $50-60hr
+
+Terms of employment: Hourly employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Day to day: 
+-Architect web scale solutions that never drop a message 
+-Write elegant Perl code with tests that guarantee the objectives 
+-Harness
+open source technology and contribute improvements when possible 
+-Dream up
+crazy ideas that will inspire teammates to find the right answer
+
+Desired skills:
+Experience:
+-6+ years experience with Perl development, PostgreSQL, Linux,
+git
+-Knowledge of DBIx::Class (Object relational mapping tool, like Rails
+Active Record, or Lync from MS)
+-Knowledge/experience of JavaScript, ExtJS,
+or Catalyst (similar to ruby on rails)
+-Experience with REST, SOAP, JSON,
+XML, YAML 
+-Any experience with vim, bash, CLI apps 
+
+Plusses: 
+* QA /
+automated testing / prove 
+* Event driven programming 
+* Message queuing /
+job scheduling systems 
+* Security, web site vulnerabilities, phishing
+attacks 
+* Financials and accounting 
+* Internationalization, encoding
+systems, Unicode
+
+Website for more information: http://www.insightglobal.net
+
+Contact information at:
+http://jobs.perl.org/job/19720#contact

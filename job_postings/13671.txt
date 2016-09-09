@@ -1,0 +1,106 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13671
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 24232 invoked from network); 28 Aug 2013 06:03:28 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 28 Aug 2013 06:03:28 -0000
+Received: (qmail 11367 invoked by uid 225); 28 Aug 2013 06:03:27 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11363 invoked by alias); 28 Aug 2013 06:03:27 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,LOTS_OF_MONEY
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 27 Aug 2013 23:03:22 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id C1F012AFE2; Tue, 27 Aug 2013 23:03:18 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Tue, 27 Aug 2013 23:03:18 -0700
+Message-ID: <20130828060318.C1F012AFE2@x3.develooper.com>
+Subject: Programmer /Developers (onsite), Las Vegas, Nevada
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17795
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 27, 2013
+
+Job title: Programmer /Developers
+
+Company name: Digital Lizard
+
+Location: Las Vegas, Nevada
+
+Pay rate: $65,000 - $85,000 DOE
+
+Terms of employment: Salaried employee
+
+Length of employment: Perm
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+About Digital Lizard
+Digital Lizard is located in Las Vegas, Nevada with production facilities
+in Las Vegas and Hayden, Idaho. Currently among the top 20 digital printers
+in the United States with 15 Digital Presses, and a staff of 75. Digital
+Lizard aims to change the printing industry by using technology to make
+print more to individuals through personalization. We work with top
+companies in the world such as Google, Shutterfly & Specialized. DL seeks
+to employ individuals with a passion to create and change. 
+
+Job Description: 
+This position will be responsible for developing, maintaining and enhancing
+custom developed applications to aid in print manufacturing. This position
+is responsible for the development of new applications, administration of
+interfaces and testing on various platforms. This individual must have an
+in-depth understanding of the software development lifecycle and be able to
+communicate project status, issues, and resolutions.  This position will
+develop and maintain code that interacts with systems of several fortune
+500 companies.
+
+Required skills:
+Required Knowledge:
+Perl Programming Experience
+•	Object Oriented Code
+•	DBIx::Class
+•	Catalyst
+•	Template Toolkit
+•	The Schwartz
+
+Database Experience
+•	Postgres
+•	SQLite
+•	Mysql
+•	SQL Server (2008 & 2012)
+
+Systems Knowledge
+•	Linux  
+•	Fedora	- All flavors of Red Hat acceptable. 
+•	XML / web services / SOAP
+•	Git / SVN
+
+Desired skills:
+•	Five years of satisfactory full-time application development
+experience acquired within the last eight years
+•	Has developed workflow systems inside a printing or manufacturing
+company
+•	Experience with credit card authorization systems (Authorize.net)
+•	Knowledge of Pageflex Print on Demand Software.
+•	Understanding of USPS data cleansing requirements (PAVE, CASS,
+NCOA)
+
+Website for more information: http://www.digitallizard.com
+
+Contact information at:
+http://jobs.perl.org/job/17795#contact

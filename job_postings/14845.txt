@@ -1,0 +1,119 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14845
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 27346 invoked from network); 7 Jan 2015 05:17:06 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 7 Jan 2015 05:17:06 -0000
+Received: (qmail 2977 invoked by uid 225); 7 Jan 2015 05:17:06 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 2973 invoked by alias); 7 Jan 2015 05:17:06 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 06 Jan 2015 21:17:04 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 362F742A8D; Tue,  6 Jan 2015 21:17:00 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Tue, 6 Jan 2015 21:17:00 -0800
+Message-ID: <20150107051700.362F742A8D@x3.develooper.com>
+Subject: Web Application Developer (onsite), Sycamore, IL, United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19156
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January  6, 2015
+
+Job title: Web Application Developer
+
+Company name: DEVNET, Inc.
+
+Location: Sycamore, IL, United States
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+DEVNET, Inc. is looking for a developer with experience in full-stack web
+applications.  You'll be customizing our core web application for new
+customers, chasing down and fixing bugs for existing clients.  You'll
+complain about and then work around the limitations of missing or bad
+client data, aid in the design of new applications, then be charged with
+implementing them.
+
+The ideal candidate will possess excellent analytical and design skills,
+good user interface design skills, and be able to produce quality,
+well-documented, and well-tested code. Applicants must be energetic,
+motivated, self-starting individuals that don’t require micro-management to
+be productive. While our developers are rock stars, we have no room for
+lone gunmen – candidates must be able to work productively with a team of
+developers. The ability to prioritize, multi-task, and (on occasion)
+completely change what you're doing at the drop of a hat is vital.
+
+DEVNET, Inc. is an established, privately held company, headquartered in
+Sycamore, IL. For almost 20 years, we have been providing local government
+with cutting edge, innovative solutions for property tax and property
+appraisal.
+
+We’re not hung up on degrees or titles – we’re interested in finding the
+right fit for our team. Hobbyists with elite skills, doctoral candidates,
+and experienced engineers all get an equal shake here. Sense of humor is a
+must!
+
+DEVNET offers a casual working environment and competitive compensation
+package, including medical, dental, vacation, personal and sick time off.
+We have families too, and offer a family friendly environment.	While we
+strongly prefer our employees to work in-house, telecommuting is an option
+for the right candidate.  Relocation compensation is available.  
+
+You must be legally able to work in the United States to apply for this
+position - sponsorship is not available. Individual applicants only. No
+agencies please. 
+
+Things We Use Daily:
+- Modern Perl (DBIx::Class, Moose, Dancer)
+- Linux
+- nginx
+- SQL Server
+- Git
+- jQuery
+- Bootstrap
+
+Required skills:
+- Modern Perl programming experience (or other dynamic languages such as
+Ruby or Python)
+- Understanding of general web application security concerns including
+Cross Site Scripting and SQL injection
+- Experience with HTML, CSS, and Javascript
+- SQL experience (any flavor, but MS SQL experience a plus)
+- Familiarity with a version control system (git preferred, Subversion and
+Mercurial suffice too)
+
+Desired skills:
+You'll get extra credit for:
+- Bootstrap/responsive design experience
+- jQuery and jQuery-UI development experience
+- Web site accessibility (ADA compliance)
+- Automated testing experience
+- Web services
+- MongoDB or other NoSQL database, and the wisdom as to when to use a NoSQL
+database
+- iOS development experience
+- Elite Aerobie skills
+
+Website for more information: http://www.devnetinc.com
+
+Contact information at:
+http://jobs.perl.org/job/19156#contact

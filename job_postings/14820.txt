@@ -1,0 +1,85 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14820
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 25304 invoked from network); 11 Dec 2014 05:30:54 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 11 Dec 2014 05:30:54 -0000
+Received: (qmail 11708 invoked by uid 225); 11 Dec 2014 05:30:54 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11704 invoked by alias); 11 Dec 2014 05:30:54 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 10 Dec 2014 21:30:45 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id D1BFA42983; Wed, 10 Dec 2014 21:30:41 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 10 Dec 2014 21:30:41 -0800
+Message-ID: <20141211053041.D1BFA42983@x3.develooper.com>
+Subject: Perl/Catalyst Consultant (onsite), New York, NY
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19118
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December  8, 2014
+
+Job title: Perl/Catalyst Consultant
+
+Company name: MAP Staffing Solutions Group
+
+Location: New York, NY
+
+Pay rate: Negotiable
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 6 months temp to perm
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+This project is for the re-write of the customer-facing part of the system
+using Catalyst Web Framework.
+
+• Software systems development, conversion, implementation and maintenance
+for the Manuscript Tracking system. 
+• Developing and maintaining applications for various other company-wide
+systems and projects.
+• Creation of technical and user documentation.
+• Creation and maintenance of databases for project work.
+
+Required skills:
+• Perl/OO Perl development
+• Procedural and Object oriented coding
+• JSON, Web APIs and integrating front-end technologies (such as HTML, CSS,
+JavaScript, Prototype/JQuery, DHTML, AJAX) into functional websites
+• Apache/Mod_Perl, UNIX/Linux
+• Web frameworks: Catalyst, Mojolicious
+• ORM: Working experience with DBIx::Class, Class::DBI, Rose::DB::Object
+• Knowledge of SQL
+• Using and creating web services (SOAP, REST, etc) with past experience
+with developing reusable components
+• Working practice with XML/JSON
+• Scripting knowledge (Unix Shell, Perl)
+• Good knowledge of version control systems, particularly using Git but
+also CVS would be an advantage.
+• Design and documentation of code
+• Strong command of the English language, both oral and written
+• Excellent teamwork skills, particularly within a SCRUM agile approach
+
+Website for more information: http://www.mapssg.com/
+
+Contact information at:
+http://jobs.perl.org/job/19118#contact

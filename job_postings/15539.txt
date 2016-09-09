@@ -1,0 +1,131 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15539
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 24324 invoked from network); 21 May 2016 06:29:37 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 21 May 2016 06:29:37 -0000
+Received: (qmail 20769 invoked by uid 225); 21 May 2016 06:29:37 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 20765 invoked by alias); 21 May 2016 06:29:37 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 20 May 2016 23:29:35 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 0139D1C7; Sat, 21 May 2016 06:29:31 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 21 May 2016 06:29:31 +0000
+Message-ID: <20160521062932.0139D1C7@web1.develooper.com>
+Subject: DevOps Engineer (part onsite), Remote
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20216
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 21, 2016
+
+Job title: DevOps Engineer
+
+Company name: DreamHost
+
+Location: Remote
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+DreamHost is looking for a DevOps Developer that has experience in large
+scale environments. We need a full stack developer with experience
+developing, maintaining and improving existing and new product
+architectures. Strong Perl experience is required, and experience with Ruby
+or Python is desireable. Experience building and growing large scale
+monitoring and datastore infrastructures with technology such as Logstash,
+Splunk, Redis, Graphite, and ElasticSearch is a plus. This role will
+involve end-to-end development of hosting products and systems with support
+from a group of Linux admins, software developers, and security and network
+engineers.  It is preferred that this position sit in either of our Los
+Angeles or Portland offices, but we are open to a telecommuting arrangement
+for the right person. 
+
+ 
+
+Responsibilities
+
+- Design and deploy new
+applications and enhancements to existing applications, software, and
+operating systems on track and budget.
+- Collaborate with network staff to
+ensure smooth and reliable operation of software and systems for fulfilling
+business objectives and processes.
+- Create and maintain documentation as
+it relates to system configuration, mapping, processes, and service
+records.
+- Ensure uptime and proper functioning of all servers, shared
+software, groupware, and other applications, including database, e-mail,
+web/front-end, and backup.
+- Monitor and test system performance; prepare
+and deliver system performance statistics and reports.
+- Create and
+maintain kernels and OS packages; plan and perform upgrades.
+- Provide
+general assistance for Tech Support and Datacenter Operations staff;
+participate in an on-call rotation for critical customer emergencies.
+-
+Review new and existing systems design projects and procurement or
+outsourcing plans for compliance with standards and architectural plans.
+-
+Ensure compatibility and interoperability of in-house computing systems.
+-
+Coordinate and perform in-depth tests, including end-user reviews, for
+modified and new systems.
+- Conduct research and ROI analysis on software
+and systems products to justify recommendations and to support purchasing
+efforts.
+
+Desired skills:
+Requirements
+
+- BS/MS in Computer Science or relevant field preferred.
+- 5+
+years experience designing and writing complex, scalable applications with
+an emphasis on web applications and data-driven architectures.
+-
+Exceptional analytical, conceptual, and problem-solving abilities.
+-
+Excellent architecture and technical support documentation skills.
+-
+Ability to conduct research into emerging technologies and trends,
+standards, and products as required.
+- Able to prioritize and execute tasks
+in a high-speed, team-oriented environment.
+- Ability to effectively
+present information to top management, public groups, and/or board of
+directors.
+- Experience with automation tools, ideally Chef.
+- Proven
+experience in overseeing the design, development, and implementation of
+software systems, applications, and related products.
+- Proven experience
+with systems planning, security principles, and general software management
+best practices.
+- Excellent software troubleshooting experience.
+- Working
+technical knowledge of Perl, Python, Bash, and PHP programming languages.
+
+Website for more information:
+https://www.dreamhost.com/careers/job/devops-engineer-2/
+
+Contact information at:
+http://jobs.perl.org/job/20216#contact

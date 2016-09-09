@@ -1,0 +1,84 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14580
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8865 invoked from network); 9 Aug 2014 05:17:16 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 9 Aug 2014 05:17:16 -0000
+Received: (qmail 26944 invoked by uid 225); 9 Aug 2014 05:17:16 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 26940 invoked by alias); 9 Aug 2014 05:17:15 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 08 Aug 2014 22:17:14 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 50CF942AA4; Fri,  8 Aug 2014 22:17:10 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 8 Aug 2014 22:17:10 -0700
+Message-ID: <20140809051711.50CF942AA4@x3.develooper.com>
+Subject: Perl Developer - Telecommute (telecommute), UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18032
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August  7, 2014
+
+Job title: Perl Developer - Telecommute
+
+Company name: Eligo Recruitment
+
+Internal ID: RDTC-1
+
+Location: UK
+
+Pay rate: £40k
+
+Terms of employment: Salaried employee
+
+Length of employment: Perm
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+A well respected and leading Perl house are looking for a Perl developer to
+join there rapidly expanding Perl Development team. All Perl developers are
+telecommute and are based across the whole of the UK.  
+
+The primary objective of this role is to work with the team in continually
+updating and reshaping the legacy code keeping this eCommerce site ahead of
+the game. Alongside this there will be from time to time the opportunity to
+work on a greenfield projects where you can really put your own stamp on
+it. 
+
+All members of the team contribute to CPAN or have a update Github account.
+As they are constantly updated their code you will need strong experience
+with Modern Perl and a web framework like Catalyst or Dancer. A good
+understanding of Linux is also essential. 
+
+If you like what you have read above and you like the sound of working with
+Perl from the comfort of your own home then this is the role for you.
+
+Required skills:
+Perl
+Modern Perl
+Catalyst 
+Dancer
+Moose
+CPAN
+
+Website for more information: http://www.eligo.co.uk/jobseeker/it_technical/
+
+Contact information at:
+http://jobs.perl.org/job/18032#contact

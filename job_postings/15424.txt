@@ -1,0 +1,106 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15424
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 2563 invoked from network); 17 Feb 2016 19:15:56 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 17 Feb 2016 19:15:56 -0000
+Received: (qmail 12068 invoked by uid 225); 17 Feb 2016 19:15:56 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 12058 invoked by alias); 17 Feb 2016 19:15:56 -0000
+X-Spam-Status: No, hits=-0.5 required=8.0
+	tests=BAYES_05,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 17 Feb 2016 11:15:53 -0800
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 4DB905D3; Wed, 17 Feb 2016 19:15:50 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 17 Feb 2016 19:15:50 +0000
+Message-ID: <20160217191550.4DB905D3@web1.develooper.com>
+Subject: Sr. Engineer wanted to help make Request Tracker even better (onsite), Somerville, MA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20078
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 17, 2016
+
+Job title:
+Sr. Engineer wanted to help make Request Tracker even better
+
+Company name: Best Practical Solutions
+
+Location: Somerville, MA
+
+Pay rate: DOE
+
+Terms of employment: Hourly employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Best Practical's flagship product, Request Tracker (RT), is the premier
+open source issue tracking system. Thousands of organizations depend on RT
+to get their work done. Our accompanying product, Request Tracker for
+Incident Response (RTIR), is the leading open source incident handling
+system for computer security teams and is widely deployed across security,
+academic, and government agencies.
+
+We've been around since 2001 and are
+entirely self-funded. We are proud contributors to and beneficiaries of the
+free software ecosystem; our code is on GitHub.
+
+Our office is in the heart
+of Davis Square in Somerville, MA, though we all telecommute some of the
+time. Our benefits include full healthcare and dental coverage, as well as
+an open vacation policy.
+
+We're seeking candidates who take pride in the
+work they do. Everyone on our team is eager to build products our users and
+customers love.
+
+We're looking for:
+ An intermediate- to senior-level
+software engineer who is creative and collaborative. We're an engineering
+organization first and foremost: every engineer has a large impact on the
+future of our products and our business. We're specifically looking for
+engineers with big ideas to help us reinvent our company.
+
+RT sits in the
+middle of core internet technologies including web, SQL, email, GPG/SMIME,
+UNIX, and REST. Our work makes us experts in how the internet itself runs.
+Furthermore, we frequently integrate RT with third-party services and
+tools, so we gain a breadth and depth of experience with many applications.
+
+This role involves all aspects of software engineering: working with
+customers to figure out what they want, design, building the features that
+address their needs, testing and code review, documentation, improving
+performance, maintenance, and responsibly addressing security
+vulnerabilities. RT is a large codebase, so you should be prepared to work
+with a project that's too big to hold in your head all at once.
+
+Desired skills:
+* Bachelor's degree in Computer Science (or related field) or equivalent
+practical experience
+* Deep understanding of web technologies, ideally
+Perl, JavaScript, and SQL
+* Experience working in a team or on open source
+using version control (we love Git!)
+* UNIX systems administration,
+especially for web, mail, database
+* An eye for design is a big plus
+
+Website for more information: http://bestpractical.com/jobs
+
+Contact information at:
+http://jobs.perl.org/job/20078#contact

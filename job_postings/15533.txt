@@ -1,0 +1,71 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15533
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 24277 invoked from network); 21 May 2016 06:29:26 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 21 May 2016 06:29:26 -0000
+Received: (qmail 20733 invoked by uid 225); 21 May 2016 06:29:26 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 20729 invoked by alias); 21 May 2016 06:29:26 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 20 May 2016 23:29:23 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 9CA771C7; Sat, 21 May 2016 06:29:20 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 21 May 2016 06:29:20 +0000
+Message-ID: <20160521062920.9CA771C7@web1.develooper.com>
+Subject: S7 Plugin Developer (telecommute), Woking, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20210
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 21, 2016
+
+Job title: S7 Plugin Developer
+
+Company name: Armour Home Electronics
+
+Location: Woking, UK
+
+Pay rate: Contract Based
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+To develop a Logitech Media Server (LMS) plugin written in Perl to enable
+certain music playing services such as Deezer, Spotify or Apple Music. The
+LMS is open source and uses perl software plugins to allow users to connect
+to online service providers, browse and play content using the published
+API of the provider. Armour Home will provide a written functional
+specification, and references to existing plugins where similar
+functionality is required.
+
+Desired skills:
+Knowledge and experience of Logitech Media Server preferred, especially
+knowledge on how to implement contextual menu items.  A creative approach
+to the project would be essential with a commitment to produce the best
+user interface possible. Good communication skills, with regular updates on
+progress and issuing alpha and beta testing software or provision of a
+remote LMS running beta code which can be tested via the internet.
+
+Website for more information:
+http://www.systemline.co.uk/products/systemline7-multi-room-audio/
+
+Contact information at:
+http://jobs.perl.org/job/20210#contact

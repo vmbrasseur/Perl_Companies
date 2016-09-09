@@ -1,0 +1,95 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15668
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 10452 invoked from network); 26 Aug 2016 07:11:47 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 26 Aug 2016 07:11:47 -0000
+Received: (qmail 17883 invoked by uid 225); 26 Aug 2016 07:11:45 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 17877 invoked by alias); 26 Aug 2016 07:11:44 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 26 Aug 2016 00:11:40 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 49B9C323; Fri, 26 Aug 2016 07:11:37 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 26 Aug 2016 07:11:37 +0000
+Message-ID: <20160826071137.49B9C323@web1.develooper.com>
+Subject: Digital Humanities application developer / maintainer (onsite), Vienna, Austria
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20378
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 26, 2016
+
+Job title:
+Digital Humanities application developer / maintainer
+
+Company name: University of Vienna
+
+Location: Vienna, Austria
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The newly established programme in Digital Humanities at the University of
+Vienna is seeking a programmer! Your colleagues will include a professor of
+medieval history with a past in software engineering, postdocs with
+assorted skills in Java, XML, and web programming, and Ph.D. students
+finding out what neat things they can do with technology in the field of
+history.
+
+You should have prior experience in web application development
+on both the front and the backend, ideally using at least one of the common
+Perl or Python web frameworks. You should also be comfortable working in a
+Linux server environment, managing system and software package dependencies
+and debugging problems around software upgrades.
+
+The contract is limited
+to six years in the first instance, with a possibility of extension, and is
+a 40 hour per week position.
+
+Job grading in accordance with collective
+bargaining agreement: §54 VwGr. IIIb with relevant work experience
+determining the assignment to a particular salary grade.
+
+Desired skills:
+* Bachelor's in computer science or equivalent (3-5 years) experience
+*
+Good knowledge of client- and server-side web programming (HTML5, CSS,
+Javascript)
+* Good knowledge of either Perl or Python Web frameworks (e.g.
+Catalyst or Django)
+* Good knowledge of the Ubuntu Linux operating system
+*
+Experience with relational and/or graph databases
+* Experience with version
+control systems such as Github
+* Ability to plan and carry out projects
+independently and with sole responsibility
+* Strong communication skills,
+particularly toward non-technical colleagues
+* Interest in developing a
+wide variety of programming skills and learning new technologies
+
+Website for more information:
+https://univis.univie.ac.at/ausschreibungstellensuche/flow/bew_ausschreibun
+g-flow?tid=58716.28
+
+Contact information at:
+http://jobs.perl.org/job/20378#contact

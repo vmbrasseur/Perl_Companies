@@ -1,0 +1,114 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14261
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 6244 invoked from network); 14 Mar 2014 18:47:43 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 14 Mar 2014 18:47:43 -0000
+Received: (qmail 15873 invoked by uid 225); 14 Mar 2014 18:47:43 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 15869 invoked by alias); 14 Mar 2014 18:47:43 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,T_FRT_PROFILE2
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 14 Mar 2014 11:47:40 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id A97804295E; Fri, 14 Mar 2014 11:47:36 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 14 Mar 2014 11:47:36 -0700
+Message-ID: <20140314184736.A97804295E@x3.develooper.com>
+Subject: Systems Administrator (part onsite), New York, NY
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18476
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 14, 2014
+
+Job title: Systems Administrator
+
+Company name: Double Prime
+
+Location: New York, NY
+
+Pay rate: DOE
+
+Terms of employment: Salaried employee
+
+Length of employment: Long Term
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+Double Prime, Inc., a 13-year old ecommerce company, has built and
+maintains approximately 120 global e-commerce and marketing websites for
+major Fortune 500 companies. The application layer is apache/mod_perl, with
+an oracle back end managed by another group. We have datacenters in the US,
+Korea, and China, e-commerce sites in the US, UK, France, Japan, and
+Australia, and are rapidly expanding into other markets.
+
+We have a team of 90 full-time engineers, responsible for application
+development, network infrastructure, security, reporting, and other aspects
+of the business.
+
+We are currently seeking a systems administrator to come in and apply their
+skills to our growing business needs including: supporting ongoing
+projects, planning and forecasting, continual communication with both
+engineers and other system administrators and clients, and process
+development/improvement. This person must be ready to slide in seamlessly
+with our team. This role is not a typical sys admin role; it requires
+constant innovation, team work, client interaction and thinking. This role
+also requires a minimum of 2 days per week on-site at the client’s office
+in mid-town Manhattan.
+
+We offer a full range of benefits including:
+
+Health insurance (Medical, Dental and Vision)
+Paid holidays
+Paid Time Off
+401(k) 
+Profit Sharing
+Discretionary Bonus
+
+Required skills:
+Our ideal candidate would possess:
+
+- 5+ years of *nix admin experience (Red Hat Enterprise Linux preferred)
+- High proficiency with unix command line utilities and operations
+- Knowledge of efficient shell scripting practices
+- Perl scripting experience (including Object Oriented Perl, preferably)
+   mod_perl-based application development, familiarity with Text::Template
+- General understanding of PHP and the Drupal framework
+- Apache+modperl setup and maintenance experience, ideally in an   
+environment with multiple sites
+-Strong inter-personal skills; the ability to effectively assist others
+with the   use and application of our systems when necessary.
+
+Desired skills:
+Experience in the following areas will be considered a strong plus:
+
+- PHP/Drupal experience a plus
+- MYSQL, Jenkins, Alfresco and tomcat also a plus
+- GIT repository setup and administration
+- Branching and multiple environment support
+- Management of releases and staging / production versioning automation
+qmail setup and administration
+- NetScaler or other load-balancing experience
+- Experience using perl to access Oracle 10 and / or 11
+- Ability to understand (and use) complex SQL
+- Akamai and DNS configuration
+
+Website for more information: http://www.doubleprime.com/
+
+Contact information at:
+http://jobs.perl.org/job/18476#contact

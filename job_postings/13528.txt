@@ -1,0 +1,114 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13528
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 16743 invoked from network); 8 Jul 2013 07:47:24 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 8 Jul 2013 07:47:24 -0000
+Received: (qmail 1444 invoked by uid 225); 8 Jul 2013 07:47:24 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 1440 invoked by alias); 8 Jul 2013 07:47:23 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 08 Jul 2013 00:47:09 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id E85CC2AFE1; Mon,  8 Jul 2013 00:47:05 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 8 Jul 2013 00:47:05 -0700
+Message-ID: <20130708074705.E85CC2AFE1@x3.develooper.com>
+Subject: Sr. Perl Developer (onsite), Washington, DC
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17589
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July  3, 2013
+
+Job title: Sr. Perl Developer
+
+Company name: Talascend
+
+Internal ID: 61666
+
+Location: Washington, DC
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We're looking for a sharp and passionate software engineer to join our
+client's team that builds and maintains a highly-successful custom
+e-commerce platform.
+
+Much of our client's software is developed in-house, so projects will run a
+wide gamut of business areas (accounting to warehouse management, and
+everything in between). Development will be on an existing suite of
+software, so the ability to adapt to and extend an existing architecture is
+a must.
+
+Primary Responsibilities:
+
+Develop highly-scalable and secure web applications designed to satisfy and
+engage both internal and external customers 
+Create and maintain a variety of technologies from AJAX based user
+interfaces to third-party XML business integration feeds 
+Participate in requirements and specifications gathering processes 
+Develop tests, predict areas of risk, and coordinate with our QA staff to
+achieve the best blend of error prevention and error detection possible 
+Take ownership of your projects from planning to stakeholder happiness
+
+Required skills:
+5+ years professional programming experience with Perl 5; 
+
+Experience with Perl Best Practices and PerlCritic; 
+
+Experience or familiarity with the following modules: Try::Tiny,
+Class::Load, XML::LibXML, Test::More, Test::Exception; Experience with
+creating unit tests
+
+4+ years professional experience working with relational databases (SQL),
+MySQL a plus in a highly transactional environment
+
+General experience with MVC patterns, ORMs, Web Services (client/servers) 
+HTML and CSS skills to create templates for web 
+
+Experience with (and troubleshooting) JavaScript (jQuery specifically) for
+DOM manipulation and AJAX interactions 
+
+Ability to comprehend and implement complex business requirements in an
+exacting manner
+
+Effectively able to handle multiple priorities and manage time efficiently
+to deliver projects of varying size 
+
+Must have excellent communication skills both written and oral. Active
+listening is key as we seek to understand others' views
+
+Desired skills:
+Experience with Agile software development practices (e.g. Scrum,
+Lean/Kanban)
+Experience with Template Toolkit 
+Ability to train/mentor junior developers 
+Experience developing automated functional and performance testing suites 
+Linux knowledge 
+E-commerce experience 
+Published CPAN modules 
+Experience with a common Perl web framework, such as Catalyst, Dancer, or
+Mojolicious
+
+Website for more information: http://www.talascend.com/
+
+Contact information at:
+http://jobs.perl.org/job/17589#contact

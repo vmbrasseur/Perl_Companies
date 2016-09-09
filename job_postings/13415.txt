@@ -1,0 +1,78 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13415
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 426 invoked from network); 16 May 2013 18:46:36 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 16 May 2013 18:46:36 -0000
+Received: (qmail 26270 invoked by uid 225); 16 May 2013 18:46:36 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 26266 invoked by alias); 16 May 2013 18:46:36 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 16 May 2013 11:46:29 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 4CAE02AFE2; Thu, 16 May 2013 11:46:26 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 16 May 2013 11:46:26 -0700
+Message-ID: <20130516184626.4CAE02AFE2@x3.develooper.com>
+Subject: Freelance Catalyst / PostgreSQL developer (Philippines)
+ (telecommute), Philippines (anywhere)
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17411
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 16, 2013
+
+Job title:
+Freelance Catalyst / PostgreSQL developer (Philippines)
+
+Location: Philippines (anywhere)
+
+Pay rate: p40,000-60,000
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+We are developing a calendar and scheduling application using Perl,
+Catalyst, PostgreSQL, and a lot of jQuery. Our servers run Ubuntu. Some
+CalDav is involved. We use Bazaar/bzr for version control.
+
+There are 3 developers currently on the project and we would like more. We
+have an office in Tacloban City and Mandaue City, but telecommuters are
+welcome.
+
+Developers will work with US counterparts to design and develop the
+application based on functional specifications. We primarily use Trac and
+email for communication. Projects undergo code reviews and QA prior to
+release.
+
+Ideal applicants will have plenty of experience with relevant technologies
+and some system administration skills and must be comfortable working over
+SSH.
+
+This is a long-term contract position that may turn into a salaried
+position w/ benefits.
+
+Required skills:
+Catalyst, SQL, jQuery/Ajax, bzr, Ubuntu Linux. 3-4 years experience
+preferred.
+
+Desired skills: Some system administration knowledge
+
+Contact information at:
+http://jobs.perl.org/job/17411#contact

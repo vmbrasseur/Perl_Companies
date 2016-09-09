@@ -1,0 +1,119 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14661
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28448 invoked from network); 9 Sep 2014 02:26:26 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 9 Sep 2014 02:26:26 -0000
+Received: (qmail 22953 invoked by uid 225); 9 Sep 2014 02:26:25 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 22949 invoked by alias); 9 Sep 2014 02:26:25 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 08 Sep 2014 19:26:22 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 6375A42950; Mon,  8 Sep 2014 19:26:19 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 8 Sep 2014 19:26:19 -0700
+Message-ID: <20140909022619.6375A42950@x3.develooper.com>
+Subject: Senior Software Engineer (part onsite), Waltham, MA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18925
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September  8, 2014
+
+Job title: Senior Software Engineer
+
+Company name: MaxMind
+
+Location: Waltham, MA
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+MaxMind is looking for a talented, experienced, and highly motivated Senior
+Software Engineer to help us develop and improve our products. Founded in
+2002, MaxMind is an industry-leading provider of IP intelligence and online
+fraud detection tools.	MaxMind is privately held and based in Waltham,
+Massachusetts.
+
+Transaction fraud detection is a constantly changing field, and our work is
+never done. Fraudsters are always looking for new ways to evade detection,
+which means we're always looking for new ways to detect them. Our fraud
+detection service, minFraud, builds on top of our widely used GeoIP
+products, which associate geographical and other data with individual IP
+addresses. We screen half a billion online transactions each year and
+provide IP intelligence data to thousands of companies worldwide.
+
+*The Position*
+As a Senior Software Engineer, your job will be to carry out development
+projects both big and small. You may work on data collection improvements
+for our fraud system, fix bugs in our open source APIs, or develop an
+entirely new service. We're looking for an experienced software developer
+who can make good technical design decisions, write tests and
+documentation, and communicate well with non-developers.
+
+Our development team is largely comprised of telecommuters, so
+communication centers around Google Hangouts, group chat, and agile
+planning tools. Massachusetts residents may have the option of
+telecommuting after a training period.
+
+*Working at MaxMind*
+As an employee of MaxMind, you'll enjoy the flexibility and autonomy that
+come with being a member of a small technical team. We're a casual,
+friendly, results-focused company of about 25 employees. We want you to get
+things done, but it's also important to have a life outside the office.
+
+In addition to excellent medical, dental and vision, we offer Life
+Insurance, disability, 401k with employer contribution, FSA and transit
+reimbursement.	We also have performance bonuses!
+
+Our office is located near downtown Waltham, MA, outside of Boston, a five
+minute walk from the nearest commuter rail line and several express bus
+lines.
+
+*Our Development Practices*
+The vast bulk of our code base is written in Perl using PostgreSQL and
+Linux, with a bit of C where it's needed. Though Perl will continue to be
+our language of choice for new code, we’re also developing new services in
+Go when our performance needs demand that we do so. We use free software as
+much as possible, and we release code back to the community when this makes
+sense. We maintain high standards for our development practices. All new
+code is expected to include automated tests, and all work goes through code
+review on our internal GitHub system.
+
+Required skills:
+* Dynamic language programming experience. We use Perl but we're happy to
+hear from Javascript, PHP, Python, or Ruby developers as well.
+* Web development, especially RESTful web services.
+* Experience developing for deployment on a Linux or BSD platform.
+* Experience writing tests and documentation.
+* Experience doing code reviews.
+* Excellent written and spoken communication skills.
+* The ability to work with a geographically dispersed team.
+
+Desired skills:
+* Data mining, number crunching, and math skills.
+* Experience writing C, especially libraries.
+* Experience writing Go.
+* FS/OSS contributions. Tell us about them!
+
+Website for more information: http://www.maxmind.com
+
+Contact information at:
+http://jobs.perl.org/job/18925#contact

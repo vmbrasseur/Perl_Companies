@@ -1,0 +1,115 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14648
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 4619 invoked from network); 8 Sep 2014 03:20:23 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 8 Sep 2014 03:20:23 -0000
+Received: (qmail 16493 invoked by uid 225); 8 Sep 2014 03:20:23 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 16489 invoked by alias); 8 Sep 2014 03:20:23 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 07 Sep 2014 20:20:21 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 18EBF42AA4; Sun,  7 Sep 2014 20:20:18 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sun, 7 Sep 2014 20:20:18 -0700
+Message-ID: <20140908032018.18EBF42AA4@x3.develooper.com>
+Subject: PERL APPLICATION ARCHITECT (onsite), BANGALORE, INDIA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18910
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September  7, 2014
+
+Job title: PERL APPLICATION ARCHITECT
+
+Company name: NVIDIA GRAPHICS
+
+Internal ID: 1732719
+
+Location: BANGALORE, INDIA
+
+Pay rate: INR
+
+Terms of employment: Salaried employee
+
+Length of employment: 3-6 YEARS OF RELEVANT EXPERIENCE
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Job Description/Qualifications: 
+NVIDIA uses advanced object oriented Perl for a major portion of its GPU
+software engineering, chip design and layout infrastructure, including chip
+definition, model build, test, verification, and layout flows. We have
+several very large (~100K lines) Perl applications and an extensive set of
+internal modules. We are looking for top Perl experts to help us to grow
+and evolve.
+
+A key part of NVIDIA’s strength is our unique and advanced development
+tools and environments that enable our incredible pace of new technology
+delivered to market. We are looking for architects to help us design and
+develop the next generation of our development environments. You will join
+a fast-paced agile software team with high production quality standards.
+This role involves developing the chip definition languages and
+infrastructure, compute infrastructure supporting very large scale
+distributed, cross-platform runs of mission critical proprietary
+applications and simulation, creating integrated development and debugging
+environments (based on tools such as Eclipse), implementing cutting-edge
+software engineering methodologies and tools to improve code quality,
+creating and driving quality build and release processes, and driving the
+performance improvement of these applications. NVidia is continuously
+pushing the state of the art in chip development and needing the next
+generation of development environments to enable the next generation of
+chips.
+
+Required skills:
+In this position, you will participate in the full tool development and
+release life cycle, working closely with other project members and users to
+specify systems, creating schedules, and managing ongoing feedback and
+enhancement releases. You will be using the best of your art in creating
+environments that are stable and easy to use by hundreds of engineers
+worldwide. You will learn and greatly improve the daily workflows of the
+world's top chip modelers and designers.
+
+Desired skills:
+MINIMUM REQUIREMENTS: 
+
+Very strong object-oriented Perl programming background required with Java
+or C++ a plus
+
+strong software engineering process skills required
+
+Experience with Linux development programming tools required, experience
+with Eclipse a plus
+
+Experience with Windows development environments also highly desired
+
+Strong build and release process experience with Make/Makepp/CMake and
+related tools a big plus
+
+BS in Computer Science with at least 3 years of experience
+
+Excellent communication skills
+
+Flexibility/adaptability for working in a dynamic environment with
+different frameworks and requirements
+
+Website for more information: http://www.nvidia.com/
+
+Contact information at:
+http://jobs.perl.org/job/18910#contact

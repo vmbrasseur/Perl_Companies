@@ -1,0 +1,82 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13925
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 5501 invoked from network); 26 Nov 2013 21:42:12 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 26 Nov 2013 21:42:12 -0000
+Received: (qmail 14880 invoked by uid 225); 26 Nov 2013 21:42:07 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 14868 invoked by alias); 26 Nov 2013 21:42:01 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 26 Nov 2013 13:42:00 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 42BC12AFE0; Tue, 26 Nov 2013 13:41:56 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Tue, 26 Nov 2013 13:41:56 -0800
+Message-ID: <20131126214156.42BC12AFE0@x3.develooper.com>
+Subject: Perl Developer (onsite), Folsom, CA, United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18118
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 26, 2013
+
+Job title: Perl Developer
+
+Company name: Global Infotech
+
+Internal ID: 2467
+
+Location: Folsom, CA, United States
+
+Pay rate: $70/hr
+
+Terms of employment: Hourly employee
+
+Length of employment: 12 months
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The software engineer will assist the architecture team in designing,
+coding, and testing efficiency improvements to an existing performance
+projection toolset. The toolset is mostly coded in Perl, runs in a
+distributed Windows computing environment (Condor), and interfaces with
+Excel and an internal Intel tool to act as calculation engines. The
+immediate need is to improve some of the automated reporting capabilities;
+beyond that, there’s a backlog of fixes to make the tools easier to use,
+faster to run, capable of generating more/different kinds of output, and
+more difficult to use incorrectly. 
+
+Required Skills: 
+Perl 
+Excel 
+Subversion (“SVN” – a version control system) 
+
+Preferred Skills: 
+Visual Basic Automation for Excel 
+ActiveState Perl 
+Database design and interfacing 
+Experience w/Condor distributed computing infrastructure
+
+Required skills:
+Perl 
+Excel 
+Subversion (“SVN” – a version control system)
+
+Contact information at:
+http://jobs.perl.org/job/18118#contact

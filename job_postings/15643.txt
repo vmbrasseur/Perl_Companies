@@ -1,0 +1,83 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15643
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 4294 invoked from network); 10 Aug 2016 02:41:08 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 10 Aug 2016 02:41:08 -0000
+Received: (qmail 26311 invoked by uid 225); 10 Aug 2016 02:41:07 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 26307 invoked by alias); 10 Aug 2016 02:41:07 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 09 Aug 2016 19:41:04 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 6601985C; Wed, 10 Aug 2016 02:40:58 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 10 Aug 2016 02:40:58 +0000
+Message-ID: <20160810024058.6601985C@web1.develooper.com>
+Subject: LAMP Developer (telecommute), Austin, TX
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20364
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 10, 2016
+
+Job title: LAMP Developer
+
+Company name: Clickmagick
+
+Location: Austin, TX
+
+Pay rate: negotiable
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+1,000s of paying customers rely on ClickMagick to track, manage and
+optimize all of their online advertising.
+
+We are looking to add a third
+technical member to our team. Everybody telecommutes and it is a relaxed
+environment.
+
+We offer a competitive starting salary, stock options, the
+freedom to work when and where you want, no corporate BS or politics, and a
+great team on a mission. 
+
+Starting salary negotiable depending on skills
+and experience.
+
+Desired skills:
+We are looking for somebody that is very comfortable with Perl and willing
+to use the lateness hotness in new code while maintaining legacy code. We
+have older code using mod_perl on Apache and newer code using Plack+nginx.
+Familiarity with both is a big plus.
+
+Being a CPAN author is also a big
+plus.
+
+Basic jQuery/front-end JS skills required, strong jQuery skills is a
+big plus, as well as HTML5/CSS and knowing how the DOM works.
+
+MySQL
+CentOS
+
+Website for more information: http://clickmagick.com
+
+Contact information at:
+http://jobs.perl.org/job/20364#contact

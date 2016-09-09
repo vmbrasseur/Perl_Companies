@@ -1,0 +1,82 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13519
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8479 invoked from network); 29 Jun 2013 07:34:46 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 29 Jun 2013 07:34:46 -0000
+Received: (qmail 28525 invoked by uid 225); 29 Jun 2013 07:34:46 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 28521 invoked by alias); 29 Jun 2013 07:34:45 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 29 Jun 2013 00:34:41 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 77FBE2AFE2; Sat, 29 Jun 2013 00:34:38 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 29 Jun 2013 00:34:38 -0700
+Message-ID: <20130629073438.77FBE2AFE2@x3.develooper.com>
+Subject: Software Developer (onsite), Columbia, MO
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17569
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 29, 2013
+
+Job title: Software Developer
+
+Company name: The Idea Works, Inc.
+
+Location: Columbia, MO
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The Idea Works, Inc. of Columbia, MO is looking for an experienced software
+developer to fill a full-time developer position.
+
+Our flagship product is SAGrader ( https://www.sagrader.com ), which uses
+automated grading and feedback of writing assignments to help students
+learn their material without having to wait for an instructor’s feedback.
+It’s based around our text analysis platform, which we've also put to work
+in our other products.
+
+We offer great health and dental insurance, an environment where you can
+make a big impact on our products, and the opportunity to work on
+interesting stuff as soon as you get here.
+
+Required skills:
+Our ideal candidate is self-motivated, a good communicator and has a few
+years of experience building production web applications. You will use
+modern Perl, JavaScript, MySQL, HTML, CSS/LESS, Redis, Linux, Amazon Web
+Services and a bunch of other technologies every day. We’d love a developer
+who would be excited to work on our entire stack, from smooth UI features
+to backend optimizations. Excellent software design and debugging skills
+are required above expertise in any one technology.
+
+Day to day you will:
+ * Design and implement new features, taking input from users
+ * Fix bugs and perform application maintenance
+ * Have an active role in product and company meetings
+ * Take part in the on call schedule, rotating with other developers
+ * Participate in our ongoing research, building tools to help gather
+interesting data
+
+Website for more information: http://www.ideaworks.com/
+
+Contact information at:
+http://jobs.perl.org/job/17569#contact

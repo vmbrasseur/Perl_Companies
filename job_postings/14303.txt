@@ -1,0 +1,86 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14303
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 11176 invoked from network); 8 Apr 2014 07:18:24 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 8 Apr 2014 07:18:24 -0000
+Received: (qmail 2472 invoked by uid 225); 8 Apr 2014 07:18:24 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 2468 invoked by alias); 8 Apr 2014 07:18:24 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 08 Apr 2014 00:18:23 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id B6C6E4295F; Tue,  8 Apr 2014 00:18:19 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Tue, 8 Apr 2014 00:18:19 -0700
+Message-ID: <20140408071819.B6C6E4295F@x3.develooper.com>
+Subject: LAMP Developer (onsite), Cary, North Carolina
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18532
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April  8, 2014
+
+Job title: LAMP Developer
+
+Company name: Deutsche Bank
+
+Internal ID: PP444738
+
+Location: Cary, North Carolina
+
+Pay rate: 80k-100k
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Located in Cary, we are a well established global investment bank with a
+dedicated technology centre. We are looking for innovative LAMP Developers
+to join our growing team to enhance our internal Web & Java hosting service
+coupled with our self service Portal.
+
+Required skills:
+- 3+ years of experience in LAMP development
+- Strong programming experience in Object Orientated Perl & Shell Scripting
+
+- Strong Linux/Unix and Systems Administration skills
+- Experience with Web UI development: HTML, Javascript (JQuery), JSON, AJAX
+(Only required for Portal development)
+- Ability to reverse-engineer legacy code
+- Experience of at least one of the following: Apache, Tomcat, Weblogic,
+JBoss
+- Revision control systems (Subversion, branching and merging)
+- Test Driven Development coupled with Agile SDLC
+
+Desired skills:
+- Perl modules: Template::Toolkit, CGI::Prototype, Test::More, LWP,
+Embperl, Catalyst
+- Web hosting, caching and proxy software and related technologies: volume
+hosting setups with Apache vhosts, HTTP, SSL, CGI, FastCGI
+- Experience with Web Technologies and Tools: HTTP, XML, REST
+- Application and Operating System security
+- C, PHP, Ruby + Ruby on Rails, MySQL
+- Networking fundamentals: TCP/IP, DNS
+- Load balancers (F5 BigIP load balancers), software load balancing
+technologies (Apache mod_proxy_balancer, mod_jk)
+
+Website for more information: http://www.db.com/
+
+Contact information at:
+http://jobs.perl.org/job/18532#contact

@@ -1,0 +1,84 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15512
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 17537 invoked from network); 26 Apr 2016 23:31:22 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 26 Apr 2016 23:31:22 -0000
+Received: (qmail 30717 invoked by uid 225); 26 Apr 2016 23:31:21 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 30713 invoked by alias); 26 Apr 2016 23:31:21 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 26 Apr 2016 16:31:19 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 08408586; Tue, 26 Apr 2016 23:31:16 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Tue, 26 Apr 2016 23:31:16 +0000
+Message-ID: <20160426233117.08408586@web1.develooper.com>
+Subject: Perl Programmer (telecommute), Denver, CO, United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19900
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 26, 2016
+
+Job title: Perl Programmer
+
+Company name: Loehr Technologies
+
+Location: Denver, CO, United States
+
+Pay rate: Negotiable
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Part time
+
+Onsite: no
+
+Description:
+We are looking for a hungry, self-motivated, resourceful perl developer for
+a variety of full-stack projects, from UI to DB, in a hybrid Linux/Windows
+environment.  You'll be working with a small remotely distributed team, so
+a good telecommuting work environment and responsiveness to communication
+and coordination needs is essential.
+
+Required skills:
++ Perl (reasonably
+fluent and experienced)
++ Linux command-line utililties, navigation, etc
++
+SQL (PostgreSQL preferred)
++ Ability to take general requirements and sort
+out the details by experience and communication
++ Resourcefulness for
+moving through / around obstacles
+
+Desired skills:
+Desired skills:
++ Commercial application development experience
++
+HighCharts
++ Bash
++ OOD (Moose), Rose, DBI, Plack
++ Knowledge of Windows,
+batch scripts helpful
++ SVN, Git
++ BS in Computer Science
++ Excellent
+written/verbal communications skills in English
++ US citizens preferred
+
+Contact information at:
+http://jobs.perl.org/job/19900#contact

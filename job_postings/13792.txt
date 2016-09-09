@@ -1,0 +1,85 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13792
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 18108 invoked from network); 10 Oct 2013 23:19:45 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 10 Oct 2013 23:19:45 -0000
+Received: (qmail 29040 invoked by uid 225); 10 Oct 2013 23:19:45 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 29036 invoked by alias); 10 Oct 2013 23:19:45 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 10 Oct 2013 16:19:42 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 65B772AFE0; Thu, 10 Oct 2013 16:19:39 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 10 Oct 2013 16:19:39 -0700
+Message-ID: <20131010231939.65B772AFE0@x3.develooper.com>
+Subject: Technical Team Lead with LAMP Experience (onsite), North Carolina,
+ Cary, United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17926
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October  9, 2013
+
+Job title: Technical Team Lead with LAMP Experience
+
+Location: North Carolina, Cary, United States
+
+Pay rate: Excellent Package
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Located in Cary, we are a well established global investment bank with a
+dedicated technology centre. We are looking for a technical team leader
+with LAMP experience to lead our growing team and enhance our internal Web
+& Java hosting service coupled with our self service Portal.
+The individual must be technical and able to use LAMP technologies, have at
+least 3 years of team leading exposure focusing on technical direction for
+the team, overall accountability & prioritization for deliverables and
+managing a team from a HR perspective.
+
+NB: 
+1. Sorry no Visa sponsorship
+2. 100% onsite in Cary (no telecommute)
+
+Required skills:
+- Proven technical team leading experience, at least 3 years
+- Revision control/ Tracking systems (e.g. Subversion, Collabnet)
+- Test Driven Development coupled with Agile SDLC 
+- Knowledge of Perl, SQL  & Shell Scripting
+- Experience with at least one of the following: Tomcat,  Apache Web
+Server, JBoss, Weblogic
+- Linux/Unix and Systems Administration skills
+
+Desired skills:
+- Perl modules: Template::Toolkit, CGI::Prototype,Test::More, LWP, Embperl,
+Catalyst
+- Web hosting, caching and proxy software and related technologies: volume
+hosting setups with Apache vhosts, HTTP, SSL, CGI, FastCGI
+- Experience with Web Technologies and Tools: HTTP, XML, REST
+- Application and Operating System security
+- C, PHP, Ruby + Ruby on Rails, MySQL
+- Networking fundamentals: TCP/IP, DNS
+- Load balancers (F5 BigIP load balancers), software load balancing
+technologies (Apache mod_proxy_balancer, mod_jk)
+
+Contact information at:
+http://jobs.perl.org/job/17926#contact

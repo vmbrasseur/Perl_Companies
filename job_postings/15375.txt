@@ -1,0 +1,80 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15375
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 23680 invoked from network); 15 Jan 2016 17:31:19 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 15 Jan 2016 17:31:19 -0000
+Received: (qmail 11947 invoked by uid 225); 15 Jan 2016 17:31:19 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11943 invoked by alias); 15 Jan 2016 17:31:19 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 15 Jan 2016 09:31:13 -0800
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 07C4F2E0; Fri, 15 Jan 2016 17:31:09 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 15 Jan 2016 17:31:09 +0000
+Message-ID: <20160115173110.07C4F2E0@web1.develooper.com>
+Subject: Perl Developer - 100% Remote (telecommute), New York, NY
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19992
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 15, 2016
+
+Job title: Perl Developer - 100% Remote
+
+Company name: MAP SSG
+
+Location: New York, NY
+
+Pay rate: Negotiable
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+With this opportunity, a candidate will help build the software that drives
+one of the largest and most successful divisions within a Fortune 500
+health insurance company. We specialize in keeping the most chronically ill
+members healthy and in their home. A candidate will be working on a
+database-drive, web- based application that scales to support millions of
+members and many thousands of users.
+
+The application runs on a farm of
+linux servers connected to a large Oracle instance. All code is managed
+with version control and tested on a full QA environment.
+
+Desired skills:
+• Extreme proficiency in object oriented programming.
+• Familiarity with
+and belief in test-oriented development.
+• Ability to write own Perl
+packages, author complex SQL, and use javascript libraries such as jquery.
+• Solid understanding of multidimensional data structures, references, and
+regular expressions
+• Solid understanding of database concepts such as
+joins, unions, subquerying, and indexing.
+• Strong experience in command
+line Unix/Linux environments.
+• Ability to read the manual and self-teach.
+• Ability to work successfully as part of a larger team.
+
+Website for more information: http://mapssg.com/remote_perl/
+
+Contact information at:
+http://jobs.perl.org/job/19992#contact

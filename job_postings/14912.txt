@@ -1,0 +1,107 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14912
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 18617 invoked from network); 17 Feb 2015 09:55:44 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 17 Feb 2015 09:55:44 -0000
+Received: (qmail 9274 invoked by uid 225); 17 Feb 2015 09:55:44 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 9270 invoked by alias); 17 Feb 2015 09:55:44 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 17 Feb 2015 01:55:42 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 1941642950; Tue, 17 Feb 2015 01:55:38 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Tue, 17 Feb 2015 01:55:38 -0800
+Message-ID: <20150217095539.1941642950@x3.develooper.com>
+Subject: Web Developer (onsite), Wellcome Trust Genome Campus, Hinxton,
+ Saffron Walden, Cambridgeshire CB10 1RQ, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19312
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 17, 2015
+
+Job title: Web Developer
+
+Company name: EMBL_EBI
+
+Location:
+Wellcome Trust Genome Campus, Hinxton, Saffron Walden, Cambridgeshire CB10
+1RQ, UK
+
+Pay rate: GBP  Competitive
+
+Terms of employment: Salaried employee
+
+Length of employment: 3 Years
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are looking to recruit an experienced and talented full-stack web
+developer to join the Ensembl Genomes team at the European Bioinformatics
+Institute (EMBL-EBI) located on the Wellcome Trust Genome Campus near
+Cambridge in the UK.
+
+Ensembl Genomes (http://www.ensemblgenomes.org) provides access to
+genome-scale data from non-vertebrate species, utilising the Ensembl
+software platform for genome analysis and annotation. The successful
+candidate will work as part of a small team of web developers with
+responsibilities including:
+
+-  The maintenance of the software infrastructure needed for public service
+
+-  The development of new features for data visualisation and analysis
+-  Developing the Ensembl platform in conjunction with the Ensembl and
+Ensembl Genomes teams
+-  Providing web support for other EMBL-EBI projects mainly based on
+Ensembl technology or data  
+-  Data production coordination
+
+EMBL-EBI is part of the European Molecular Biology Laboratory (EMBL) and is
+Europe's leading provider of information services to biological researchers
+in academia and industry. EMBL-EBI staff enjoy many benefits including
+sports facilities, a free shuttle bus to Cambridge and other nearby
+centres, and an attractive working environment set in 55 acres of parkland
+alongside being close to major transport links to London.  Our salary
+scales are very competitive.
+
+Required skills:
+Applicants should have a degree in a biological or computer science, and
+proven professional programming experience.  Applicants should be
+experienced in web development (HTML, CSS and JavaScript) ideally using
+Perl.  Advanced knowledge of any other modern programming languages, e.g.
+Python and PHP, would be considered.
+
+Maintaining communication with several collaborating teams is an important
+aspect of the role. Good communication and interpersonal skills are
+therefore essential. A flexible mindset, a capacity for independent work,
+and a commitment to the delivery of a high-quality public service, are all
+required.
+
+Desired skills:
+Knowledge of the following would be highly desirable: MySQL, Git, Linux,
+Apache, mod_perl, software testing, user interface design and Ensembl. 
+Working knowledge of biology/biochemistry/genomics is desirable but not
+essential.
+
+Website for more information:
+http://ig14.i-grasp.com//fe/tpl_embl01.asp?newms=jj&id=53488&aid=15470
+
+Contact information at:
+http://jobs.perl.org/job/19312#contact

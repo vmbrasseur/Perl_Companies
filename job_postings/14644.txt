@@ -1,0 +1,104 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14644
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 26581 invoked from network); 29 Aug 2014 00:59:08 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 29 Aug 2014 00:59:08 -0000
+Received: (qmail 567 invoked by uid 225); 29 Aug 2014 00:59:08 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 562 invoked by alias); 29 Aug 2014 00:59:08 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 28 Aug 2014 17:59:06 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 679DA4294F; Thu, 28 Aug 2014 17:59:03 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 28 Aug 2014 17:59:03 -0700
+Message-ID: <20140829005903.679DA4294F@x3.develooper.com>
+Subject: Senior Perl Developer (onsite), Santa Clara, CA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18904
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 28, 2014
+
+Job title: Senior Perl Developer
+
+Company name: Slashdot Media and Sourceforge Inc
+
+Internal ID: 1
+
+Location: Santa Clara, CA
+
+Pay rate: DOE
+
+Terms of employment: Salaried employee
+
+Length of employment: Very long term
+
+Hours: Flexible
+
+Onsite: yes
+
+Description:
+Our direct client is looking for an experienced Back-end Engineer with a
+record of developing scalable web applications. You will be responsible for
+design, development and maintenance engineering of key components of
+Clients technologies.
+
+Required skills:
+The ideal candidate should have proven record of the following:
+
+Expert-level knowledge of object-oriented Perl with a minimum of 5 years
+recent development experience.
+Must be comfortable working in large applications running on mod_perl2 and
+Apache2. Knowledge of Apache “Trans-handlers” is a big plus.
+Strong knowledge of Template: Toolkit required, expert-level knowledge
+preferred.
+Completely comfortable working on the LAMP stack (Linux, Apache, MySQL,
+Perl).
+Strong knowledge of REST architecture implementation using Perl, with
+support for multiple output formats, e.g. XML and JSON.
+Working knowledge of Javascript and JQuery a big plus.
+Comfortable working in complex codebases.
+Well-versed in modern version control systems, ideally Git.
+
+Desired skills:
+The ideal candidate must be strongly self-motivated with a passion for
+programming and an ability to devise creative solutions when faced with
+challenges.
+Responsibilities:
+Collaborate closely with the Slashdot team and Product management to
+design, plan, and implement new features in rapid iteration.
+Develop an understanding of Slashdot’s community and come up with solutions
+to enhance the  users’ experience.
+Drive community engagement through innovative product development.
+Implement back-end API infrastructure for emerging mobile technologies.
+Integration with business analytics and large data analysis to test and
+refine the product.
+
+Required Qualification:
+B.S. degree in Computer Science or Computer Engineering or equivalent work
+experience.
+Outstanding team player with great communication skills.
+Extensive experience in LAMP environment.
+Experience working with high-traffic, high performance, high availability
+systems.
+Self-motivated, able to work independently with minimum guidance,
+problem-solver.
+
+Website for more information: http://slashdotmedia.com
+
+Contact information at:
+http://jobs.perl.org/job/18904#contact

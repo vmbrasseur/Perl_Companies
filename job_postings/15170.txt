@@ -1,0 +1,81 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15170
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 14269 invoked from network); 27 Jul 2015 07:25:33 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 27 Jul 2015 07:25:33 -0000
+Received: (qmail 11013 invoked by uid 225); 27 Jul 2015 07:25:33 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11009 invoked by alias); 27 Jul 2015 07:25:33 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 27 Jul 2015 00:25:25 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 8D32A31B; Mon, 27 Jul 2015 07:25:22 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 27 Jul 2015 07:25:22 +0000
+Message-ID: <20150727072522.8D32A31B@web1.develooper.com>
+Subject: Perl Programmer (onsite), Baltimore, MD, USA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19724
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 27, 2015
+
+Job title: Perl Programmer
+
+Company name: OBXtek
+
+Location: Baltimore, MD, USA
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+OBXtek is seeking a Perl Programmer to join our team of qualified, diverse
+individuals. This position will be located in Baltimore,MD and will provide
+support for a large government customer on a long term contract. The
+Programmer will support the customer's Network Management Tools, providing
+programming and development support in a Unix environment by creating and
+maintaining custom applications and/or COTS software.
+
+Tasks and
+Responsibilities include:
+ - Writing Perl scripts to collect data and
+statuses from networking devices
+ - Writing Perl scripts to create reports
+based on the data from the networking devices
+ - Writing Perl scripts to
+query MySQL databases
+ - Debugging scripts, opening cases with hardware and
+software vendors and looking at diagnostic tools for problems
+ - Providing
+software design and development utlizing Perl
+
+Desired skills:
+Minimum of 10 years technically related experience
+
+Must have experience
+with Perl scripting in a Unix Environment.
+
+Perferred experience with: 
+Java, SQL, and some Networking knowledge (Cisco devices, TCP/IP, SNMP)
+
+Website for more information: https://www.obxtek.com/
+
+Contact information at:
+http://jobs.perl.org/job/19724#contact

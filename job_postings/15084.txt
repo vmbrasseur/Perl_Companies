@@ -1,0 +1,70 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15084
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 27839 invoked from network); 23 May 2015 20:19:38 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 23 May 2015 20:19:38 -0000
+Received: (qmail 14344 invoked by uid 225); 23 May 2015 20:19:38 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 14340 invoked by alias); 23 May 2015 20:19:38 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 23 May 2015 13:19:32 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 2E725314; Sat, 23 May 2015 20:19:29 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 23 May 2015 20:19:29 +0000
+Message-ID: <20150523201929.2E725314@web1.develooper.com>
+Subject: Perl Mojolicious Developer (part onsite), San Jose, CA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19620
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 21, 2015
+
+Job title: Perl Mojolicious Developer
+
+Company name: iCrypto Inc
+
+Location: San Jose, CA
+
+Pay rate: $20/hr - $30/hr
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Flexible
+
+Onsite: some
+
+Description:
+Icrypto is a startup in the security space. We have developed a
+authentication SAAS which provides multi-factor and other authentication
+modes to organizations via a services model.
+
+We have need of a full stack
+Perl Mojolicious developer who can maintain and enhance our current
+offering. The main requirement is to create REST-ful web services based on
+a Postgres DB hosted on Amazon AWS.
+
+Desired skills:
+Perl Mojolicious
+RESTful services platform creation
+Postgres DB
+Cryptography (basic knowledge)
+Amazon Web Services stack
+
+Website for more information: http://www.icrypto.com
+
+Contact information at:
+http://jobs.perl.org/job/19620#contact

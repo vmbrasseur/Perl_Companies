@@ -1,0 +1,102 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13916
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 2389 invoked from network); 25 Nov 2013 17:56:15 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 25 Nov 2013 17:56:15 -0000
+Received: (qmail 1524 invoked by uid 225); 25 Nov 2013 17:56:06 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 1482 invoked by alias); 25 Nov 2013 17:55:57 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,LOTS_OF_MONEY,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 25 Nov 2013 09:55:51 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 7CF882AFE0; Mon, 25 Nov 2013 09:55:47 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 25 Nov 2013 09:55:47 -0800
+Message-ID: <20131125175547.7CF882AFE0@x3.develooper.com>
+Subject: Senior Perl Developer / Architect (onsite), Central London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18098
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 25, 2013
+
+Job title: Senior Perl Developer / Architect
+
+Company name: Venturi
+
+Internal ID: BBBH2409
+
+Location: Central London
+
+Pay rate: £50,000 - £65,000 + Benefits
+
+Terms of employment: Salaried employee
+
+Length of employment: Perm
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+A Senior Perl Developer / Architect with strong commercial programming
+experience is required for a market-leading financial services company
+based in the Central London office. They are an acclaimed cutting edge and
+innovative organisation with continued expansion due to high demand for
+their services.
+
+ The Senior Perl Developer / Architect will have strong development
+experience, preferably being familiar with "modern" Perl. There are
+exciting opportunities and a great benefits package on offer for the Senior
+Perl Developer / Architect.
+
+As the Senior Perl Developer / Architect you will be working in PostgreSQL
+environment, on a platform that has been written entirely in Perl which
+allows them to deliver the best web based solutions in the financial
+market. Strong Perl and SQL development skills and expertise are therefore
+essential.
+
+There is a generous salary on offer in the region of £50,000 - £65,000 plus
+an exciting benefits package is on offer for the right Senior Perl
+Developer / Architect.
+
+Required skills:
+The successful Senior Perl Developer / Architect will have the following:
+•	Minimum of 3 years commercial programming experience with Perl; 
+•Familiarity with "modern" Perl: exposure to any of the following
+beneficial (Catalyst, DBIx::Class, Moose, Dancer, Mojilicious);
+•	Confident experience building reliable software using unit testing,
+functional testing, and continuous integration (experience with
+jenkins/hudson or similar platforms would be helpful);
+•	Good overall understanding of all aspects of server software
+deployment, from TCP/IP to HTTP to IO bottlenecks;
+•	Understanding of secure software development techniques
+(especially, but not exclusively, as pertaining to web applications).
+
+Desired skills:
+Experience with the below would be beneficial but is not essential:
+•	Ajax techniques;
+•	RESTful server API design;
+•	MVC web development;
+•	Linux systems administration;
+•	XML/SOAP/XSD;
+•	PostgreSQL / SQL / HTML / CSS / JavaScript.
+
+Website for more information:
+http://www.venturi-group.com/latest-jobs?jobref=BBBH2409_1385046492
+
+Contact information at:
+http://jobs.perl.org/job/18098#contact

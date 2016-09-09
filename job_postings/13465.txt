@@ -1,0 +1,146 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13465
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 20370 invoked from network); 10 Jun 2013 21:15:23 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 10 Jun 2013 21:15:23 -0000
+Received: (qmail 11313 invoked by uid 225); 10 Jun 2013 21:15:23 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11309 invoked by alias); 10 Jun 2013 21:15:23 -0000
+X-Spam-Status: No, hits=-2.3 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,FUZZY_AMBIEN,LOTS_OF_MONEY
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 10 Jun 2013 14:15:19 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 4BA372AFE0; Mon, 10 Jun 2013 14:15:16 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 10 Jun 2013 14:15:16 -0700
+Message-ID: <20130610211516.4BA372AFE0@x3.develooper.com>
+Subject: Senior Application Developer (onsite), Nashville, TN
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17489
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 10, 2013
+
+Job title: Senior Application Developer
+
+Company name: Informatics Corporation of America
+
+Location: Nashville, TN
+
+Pay rate: $70,000 to $90,000
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Summary of Position:
+The Senior Application Developer contributes to the development of web
+portal interfaces that allow medical care professionals, systems
+administrators and technical support staff to securely communicate with
+other care providers, and interact with longitudinal health records. These
+are integrated with other applications in the CareAlign Suite, a
+cross-organizational system for sharing medical records. Daily activities
+include working with an Agile scrum team of other engineers to design,
+develop, test and maintain software components including user interfaces
+and databases. The Senior Application Developer is seen as a resource of
+technical subject matter for other engineers on the team and within the
+company.
+
+Required skills:
+Qualifications, Functions and Responsibilities
+
+Technical
+•	Four-year college degree in computer science, related scientific
+degree or an equivalent combination of education and related experience in
+software development
+•	Six years of full software lifecycle experience designing,
+developing and maintaining applications with limited technical direction
+•	Demonstrates a working knowledge of object oriented software
+development
+•	Able to design, write, and execute reliable test plans
+•	Understands the design, architecture and implementation of the
+application
+•	Makes application design suggestions
+•	Demonstrates technical skills specific to the team: Perl, HTML,
+CSS, XML, Javascript
+•	Provides ongoing input into technical and architectural decisions
+•	Exemplifies test-driven development with unit testing frameworks
+•	Designs and develops web user interfaces
+•	Designs databases and develops with RDBMS systems and ORM utilities
+
+•	Able to deploy and configure servers and software for team needs
+such as mail and continuous integration
+•	Familiar with mail services like Dovecot, Postfix, and IMAPProxy
+
+Business
+•	Has complete understanding of business knowledge specific to the
+product the team is building
+•	Has working business knowledge of other CareAlign applications
+•	Maintains knowledge of emerging technologies and methodologies
+
+Independence
+•	Leads design, implementation, and testing of large sized stories
+•	Minimum supervision is needed
+
+Leadership
+•	Takes lead on larger sized stories, providing guidance on the
+design and implementation of the feature requested in the story
+•	Suggests improvements to processes such as agile practices,
+testing, and application building.
+•	Provides code review feedback to other engineers
+•	Carries complicated work through to completion
+•	Utilizes past experiences to lead teammates
+•	Promotes development best practices
+
+Soft Skills
+•	Contributes to the success of Scrum team by actively participating
+in the product and process feedback loops
+•	Writes coherent and grammatically correct bug reproduction steps,
+documentation, etc.
+•	Communicates progress, roadblocks, etc. with team effectively
+•	Illustrates a positive attitude
+•	Analyzes and solves problems independently
+•	Coaches Associate Application Developers and Application Developers
+on technical & business knowledge
+•	Researches and shares best practices
+•	Promotes a self-organizing team by encouraging communication and
+leadership
+
+Job Environment
+•	Developers use Atlassian Confluence for documentation and
+collaboration
+•	Developers use Atlassian JIRA for tracking issues and sprint
+progress
+•	This position reports to the Development Manager
+•	Developers have the option of utilizing an Ergotron standing desk
+•	Developers have have the choice of a Mac or PC laptop with a
+solid-state drive and dual LCD monitors
+
+Comments
+This job description in no way states or implies these are the only duties
+to be performed by the employee occupying this position.  The incumbent
+will be required to follow any other job-related instructions and to
+perform any other job-related duties requested by their supervisor or
+manager.
+This document does not create an employee contract, implied or otherwise
+other than an “at will” relationship.
+
+Website for more information: http://www.icainformatics.com/
+
+Contact information at:
+http://jobs.perl.org/job/17489#contact

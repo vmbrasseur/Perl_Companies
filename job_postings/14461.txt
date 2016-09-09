@@ -1,0 +1,103 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14461
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 15807 invoked from network); 11 Jun 2014 08:16:25 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 11 Jun 2014 08:16:25 -0000
+Received: (qmail 8240 invoked by uid 225); 11 Jun 2014 08:16:25 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 8236 invoked by alias); 11 Jun 2014 08:16:25 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 11 Jun 2014 01:16:23 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id A4CE242937; Wed, 11 Jun 2014 01:16:20 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 11 Jun 2014 01:16:20 -0700
+Message-ID: <20140611081620.A4CE242937@x3.develooper.com>
+Subject: Perl Developer (onsite), Cumberland, Rhode Island, United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/5124
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 11, 2014
+
+Job title: Perl Developer
+
+Company name: The Conference Exchange
+
+Location: Cumberland, Rhode Island, United States
+
+Pay rate: Competitive
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+**No consultants, and only local applicants, please. This is a full-time,
+on-site position.
+
+The Conference Exchange (http://www.confex.com/) is hiring a developer to
+work on our conference management software. We help professional societies
+collect and manage hundreds of thousands of abstracts, manuscripts, and
+other files. Our focus is on the content: collecting it, organizing it, and
+sharing it online. We do this using LAMP (Linux, Apache, MySQL, Perl) and
+other open source technologies.
+
+On this job you will be primarily writing code based on the requests of our
+support team and clients. Our web app is written in OO Perl. When you
+begin, you will work on simple bug fixes; support staff writes up the
+requirements and design and as a developer you will implement their
+request. Once situated and knowledgeable in Perl and the nuances of our
+code base, you will be assigned projects that add new functionality to our
+system; this would include writing your own requirements, design, UI, etc.
+Support would approve your design, and then you would get to implement it
+from the ground up.
+
+You will be working on a team of 7 developers and while we all work on
+tasks separately, questions and white board discussions are common. You
+will be expected to learn the basics of Perl before you start, but we will
+teach you the finer points of the language on the job. For the first week
+you will learn the basics of how to access the code base, our object model;
+the high level 'what we do and how we do it' items. Then you're off and
+running writing code with your first bug fix/small client level
+enhancements. 
+
+Details/Benefits
+* Full time, with benefits.
+* Fast-paced, 40 hr/wk position.
+* Flexible hours.
+* Part-time telecommuting opportunities once situated.
+* Casual, open-office environment. No cubicles
+* 1 hour south of Boston
+
+Required skills:
+* Experience in OO Perl with at least 3 months software development
+experience on the job. (yes, internships count)
+* Excellent attention to detail, communication skills, and ability to learn
+quickly.
+
+Desired skills:
+* Experience with MySQL, Javascript, HTML, CSS.
+* Knowledge of inner workings of systems and/or database
+
+Website for more information: http://www.confex.com/
+
+Contact information at:
+http://jobs.perl.org/job/5124#contact

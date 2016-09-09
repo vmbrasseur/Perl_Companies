@@ -1,0 +1,78 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13471
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 20386 invoked from network); 10 Jun 2013 21:15:35 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 10 Jun 2013 21:15:35 -0000
+Received: (qmail 11358 invoked by uid 225); 10 Jun 2013 21:15:35 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11354 invoked by alias); 10 Jun 2013 21:15:34 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 10 Jun 2013 14:15:27 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 7C6CC2AFE0; Mon, 10 Jun 2013 14:15:24 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 10 Jun 2013 14:15:24 -0700
+Message-ID: <20130610211524.7C6CC2AFE0@x3.develooper.com>
+Subject: Senior Developer (telecommute), Anywhere in Europe
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17145
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 10, 2013
+
+Job title: Senior Developer
+
+Company name: Energy Fundamentals
+
+Location: Anywhere in Europe
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+We are a Swiss-based company enabling European power market traders to
+develop insights based on market fundamentals. This takes the form of a
+web-based platform providing easy access to market data, scenarios and
+analytical tools. Since 2007 the company has grown rapidly and now employs
+people in Switzerland, the UK and The Netherlands.
+
+The key objective of this role is to enable the continued expansion of our
+platform business in Europe by developing and maintaining Dynamic Data
+front-end structuring tools for our Trading Analysts, as well as complete
+database management for dynamic (power market) data coming from a variety
+of (web)sources. For integration of the structured information, you build
+and maintain highly reliable data connections.
+
+Required skills:
+- 5+ years’ experience in software development
+- Perl expert, CGI, JQuery and JavaScript knowledge
+- Database architecture and development (MySQL) knowledge
+- Front-end development skills
+
+Desired skills:
+You must have a capability to deal with complex business logic and a large
+code base. Our platform is an exciting development but it is not a small
+project, and we need highly educated developers (ideally with a
+math/science background) who are smart and enjoy an environment where
+complexity is the norm!
+
+Website for more information: http://www.energyfundamentals.com/
+
+Contact information at:
+http://jobs.perl.org/job/17145#contact

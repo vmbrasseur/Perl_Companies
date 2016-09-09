@@ -1,0 +1,97 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13732
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 10349 invoked from network); 19 Sep 2013 04:48:21 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 19 Sep 2013 04:48:21 -0000
+Received: (qmail 2490 invoked by uid 225); 19 Sep 2013 04:48:21 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 2486 invoked by alias); 19 Sep 2013 04:48:21 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 18 Sep 2013 21:48:14 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 14D622AFDF; Wed, 18 Sep 2013 21:48:10 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 18 Sep 2013 21:48:10 -0700
+Message-ID: <20130919044811.14D622AFDF@x3.develooper.com>
+Subject: Senior Software Engineer, Bugzilla (telecommute)
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17853
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 18, 2013
+
+Job title: Senior Software Engineer, Bugzilla
+
+Company name: Mozilla
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+The Automation & Tools team is responsible for Mozilla's Bugzilla
+installation, bugzilla.mozilla.org, or BMO for short. BMO has a number of
+customizations on top of stock Bugzilla, both internally and as extensions,
+and more are created regularly to suit the needs of Mozillians. The BMO
+team also helps support a growing number of applications that read from and
+write to BMO through its public APIs.
+
+Bugzilla is a core piece of infrastructure at Mozilla. We use it to track
+new features, requirements for new projects, security audits, even IT
+requests--and of course product defects! We have a small team dedicated to
+administering, maintaining, and expanding our installation, and we upstream
+changes to the core Bugzilla product where it makes sense. Naturally, even
+the changes that are too customized to apply to Bugzilla in general are
+open source and available to the public.
+
+Right now, Mozilla is leading an important effort to modernize Bugzilla by
+providing a solid and comprehensive API layer based on RESTful practices.
+We are experimenting with and supporting new front ends that take full
+advantage of modern browsers to create a whole new user experience. This is
+an exciting time in Bugzilla's long history as we move into the current era
+of web development--join our team if you'd like to participate in the
+bright future of an application used by hundreds of organizations around
+the world!
+
+The BMO team is looking for a new member to get involved with the next
+generation of Bugzilla. Duties would include
+* designing and implementing new core Bugzilla features
+* designing and implementing external support apps, including front ends
+based on the emerging RESTful API
+* triaging bugs and feature requests
+* day-to-day BMO administration
+
+Required skills:
+The ideal candidate would have
+* 5+ years experience in Perl
+* at least a few years working on large-scale web app, preferably Bugzilla
+* 3+ years front-end web-development experience (HTML5, CSS, JS)
+* sysadmin experience
+* experience with database administration, particularly MySQL
+
+Desired skills:
+Plus for experience with
+* Python
+* ElasticSearch
+* systems-level programming
+
+Website for more information:
+https://careers.mozilla.org/en-US/position/o99RXfwQ
+
+Contact information at:
+http://jobs.perl.org/job/17853#contact

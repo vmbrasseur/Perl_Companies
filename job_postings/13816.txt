@@ -1,0 +1,59 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13816
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8275 invoked from network); 25 Oct 2013 07:05:47 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 25 Oct 2013 07:05:47 -0000
+Received: (qmail 8003 invoked by uid 225); 25 Oct 2013 07:05:46 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 7999 invoked by alias); 25 Oct 2013 07:05:46 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 25 Oct 2013 00:05:32 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 79E7A2AFE2; Fri, 25 Oct 2013 00:05:28 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 25 Oct 2013 00:05:28 -0700
+Message-ID: <20131025070528.79E7A2AFE2@x3.develooper.com>
+Subject: Perl Developer (part onsite), Durham, NH
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17972
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 25, 2013
+
+Job title: Perl Developer
+
+Company name: University of New Hampshire
+
+Location: Durham, NH
+
+Terms of employment: Hourly employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+The University of New Hampshire Research Computing & Instrumentation Center
+is looking for a temporary hourly software developer with expertise in
+using Perl with CGI/mod_perl, DBI, SQL (preferably Oracle), HTML, CSS, and
+Javascript.  The work is full-time (40 hours per week).  The developer must
+have the flexibility to work on-site in Durham, NH for at least two months,
+after which flexible work arrangements may be available.  
+
+If interested, please email resume and cover letter to jsorrell@sr.unh.edu.
+
+Contact information at:
+http://jobs.perl.org/job/17972#contact

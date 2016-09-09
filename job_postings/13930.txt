@@ -1,0 +1,82 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13930
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 2421 invoked from network); 25 Nov 2013 17:56:16 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 25 Nov 2013 17:56:16 -0000
+Received: (qmail 1566 invoked by uid 225); 25 Nov 2013 17:56:15 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 1515 invoked by alias); 25 Nov 2013 17:56:04 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,T_FRT_PROFILE2
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 25 Nov 2013 09:55:59 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 5A6562AFE2; Mon, 25 Nov 2013 09:55:55 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 25 Nov 2013 09:55:55 -0800
+Message-ID: <20131125175555.5A6562AFE2@x3.develooper.com>
+Subject: Lead Perl Developer (onsite), Redwood City, California
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18102
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 25, 2013
+
+Job title: Lead Perl Developer
+
+Company name: LiveOps
+
+Location: Redwood City, California
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+LiveOps is seeking for experience Perl programmer (DevOps Engineer) with a
+strong tools development. You will be part of a team of tool developers and
+system administrators to build tools.  The individual must be familiar with
+various software development methodologies, object-oriented concepts and
+Perl OO implementation, Linux, bash, and relational database (MySQL). 
+Pluses include no-SQL databases such as MongoDB
+
+Responsibilities:
+
+•	Develop and maintain tools, which are critical to operation of
+LiveOps VOIP architecture  
+•	Design and maintain Perl modules 
+•	Research potential new technologies to be used for development,
+operation of various tools needed for deployment, configuration, monitoring
+of LiveOps products
+
+Required skills:
+•	5+ years experience in systems/software development in a Linux
+environment
+•	A very high proficiency in Perl/Bash programming.
+•	Proven experience in developing for scalable, high-performance
+server applications
+•	Strong verbal and written communication skills.
+•	Ability to work independently
+•	Ability to write and maintain advance scripts (Perl, bash)
+•	Practical experience with the following: 
+	Design & implementation of OO Perl applications
+•	Experience with other scripting languages like Ruby, Python is good
+to have
+
+Website for more information: http://www.liveops.com/
+
+Contact information at:
+http://jobs.perl.org/job/18102#contact

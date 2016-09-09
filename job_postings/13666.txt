@@ -1,0 +1,86 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13666
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28898 invoked from network); 23 Aug 2013 02:44:19 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 23 Aug 2013 02:44:19 -0000
+Received: (qmail 18226 invoked by uid 225); 23 Aug 2013 02:44:19 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 18222 invoked by alias); 23 Aug 2013 02:44:18 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 22 Aug 2013 19:44:11 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id C749D2AFE0; Thu, 22 Aug 2013 19:44:07 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 22 Aug 2013 19:44:07 -0700
+Message-ID: <20130823024407.C749D2AFE0@x3.develooper.com>
+Subject: Software Engineer (onsite), Philadelphia, PA, USA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17777
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 22, 2013
+
+Job title: Software Engineer
+
+Company name: Solutions for Progress
+
+Location: Philadelphia, PA, USA
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Who you are: A software developer, interested in the road less traveled who
+wants to create technologies that help individuals and strengthen
+communities.
+
+Who we are: Solutions for Progress (SfP), a 50-person, privately-held
+Benefit Corporation that builds technology to fight poverty. Our flagship
+product, The Benefit Bank (TBB), is an online service that connects low-
+and moderate-income individuals and families to work supports and programs
+designed to provide financial stability and improve access to educational
+opportunities. In its first 7 years of activity, The Benefit Bank has
+helped more than a half-million people across the country claim $1.2
+billion in benefits and tax refunds.
+
+Who we're looking for: An open-source software developer experienced in
+building web applications, especially with object-oriented Perl,
+Template::Toolkit, Apache and mod_perl, JavaScript and AJAX, PostgreSQL,
+and GNU/Linux. Bonus points awarded for experience automating the software
+quality assurance testing cycle (Buildbot, Selenium, etc.), and
+Python/Django.
+
+What you'll do: Collaborate with technical and non-technical colleagues to
+help design, develop, and maintain TBB tools and services as well as other
+SfP software projects, writing tests and documentation as appropriate, and
+participate in regular discussions about efficiency, scalability, security,
+and new technologies.
+
+Required skills: Perl
+
+Desired skills:
+Template::Toolkit, Apache and mod_perl, JavaScript and AJAX, PostgreSQL,
+and GNU/Linux. Bonus points awarded for experience automating the software
+quality assurance testing cycle (Buildbot, Selenium, etc.), and
+Python/Django.
+
+Website for more information: http://www.solutionsforprogress.com
+
+Contact information at:
+http://jobs.perl.org/job/17777#contact

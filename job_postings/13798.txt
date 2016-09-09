@@ -1,0 +1,89 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13798
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 15753 invoked from network); 18 Oct 2013 05:37:49 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 18 Oct 2013 05:37:49 -0000
+Received: (qmail 18651 invoked by uid 225); 18 Oct 2013 05:37:49 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 18647 invoked by alias); 18 Oct 2013 05:37:48 -0000
+X-Spam-Status: No, hits=-2.7 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,LOTS_OF_MONEY,SARE_RMML_Stock19
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 17 Oct 2013 22:37:37 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 301892AFD6; Thu, 17 Oct 2013 22:37:34 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 17 Oct 2013 22:37:33 -0700
+Message-ID: <20131018053734.301892AFD6@x3.develooper.com>
+Subject: Lead Web Performance Engineer (onsite), Malaysia
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17938
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 17, 2013
+
+Job title: Lead Web Performance Engineer
+
+Company name: Binary.com
+
+Location: Malaysia
+
+Pay rate: Competitive
+
+Terms of employment: Salaried employee
+
+Length of employment: indefinite
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Founded in 1999, Regent Markets Group has become the recognized leader in
+the binary options industry. The Group has over 300,000 clients worldwide
+and generates annual betting turnover expected to exceed US$ 500 million
+this year. The company's award winning website, Binary.com (formerly known
+as Betonmarkets.com) offers its clients a broad range of binary options on
+international stock indices, foreign exchange rates, equities, and
+commodities, ranging in duration from minutes up to one year. The website
+is unique in its ability to offer investors, speculators, traders, and
+gamblers the ability to price and purchase customized market risk.
+
+Due to continued expansion, Binary.com is recruiting for a Lead Web
+Performance Engineer.
+
+The role's primary goal will be to optimize binary.com’s website and
+systems for speed and scalability. As a high-traffic website serving
+international clients who trade 24 hours a day, the speed of the website
+and transactional systems are crucial to the client experience, most
+notably in a fast-moving financial markets environment. Accordingly each
+layer of our technology stack requires optimization for maximum
+performance. As the company's systems are written entirely in Perl,
+significant Perl expertise is required.
+
+As a Lead Engineer, you may also manage a team of 2-3 junior engineers whom
+you will be expected to lead and mentor.
+
+Required skills:
+* Strong experience with Perl, notably with complex code and profiling.
+* Strong experience with front-end optimization and profiling.
+* A passion for optimization, performance, scalability, reliability and
+great attention to detail.
+
+Desired skills: * Management/team-lead experience would be a plus.
+
+Website for more information: http://www.binary.com
+
+Contact information at:
+http://jobs.perl.org/job/17938#contact

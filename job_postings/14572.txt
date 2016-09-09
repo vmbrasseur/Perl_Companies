@@ -1,0 +1,97 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14572
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 15128 invoked from network); 31 Jul 2014 02:29:34 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 31 Jul 2014 02:29:34 -0000
+Received: (qmail 22226 invoked by uid 225); 31 Jul 2014 02:29:33 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 22222 invoked by alias); 31 Jul 2014 02:29:33 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 30 Jul 2014 19:29:32 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 2500D429AD; Wed, 30 Jul 2014 19:29:29 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 30 Jul 2014 19:29:29 -0700
+Message-ID: <20140731022929.2500D429AD@x3.develooper.com>
+Subject: Senior Software Engineer (m/f) with passion for data mining/data
+ analysis - Berlin - IT Startup - full-time (onsite), Berlin, Germany
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18740
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 30, 2014
+
+Job title:
+Senior Software Engineer (m/f) with passion for data mining/data analysis -
+Berlin - IT Startup - full-time
+
+Company name: itembase GmbH
+
+Location: Berlin, Germany
+
+Pay rate: negotiable
+
+Terms of employment: Salaried employee
+
+Length of employment: 1 - 2 years with possibility of extension
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are looking for candidates to fill a Senior Software Engineer (m/f)
+position. This position focuses on delivering IT development solutions to
+create, maintain, and improve our web services that interact with 'big
+data'. 
+
+You will be part of a creative development team with a relaxed working
+atmosphere, space for your ideas, support from your peers, and guidance
+from your experienced team leads. Being part of our internatonal
+development team and working on our ambitious web project also means
+expanding and improving your IT skills in new ways. 
+
+itembase is a young E-commerce start-up that builds a personal online
+inventory of everything. Since 2011, we have been using the latest
+technologies to automatically process receipts and display items, along
+with warranties, manuals, and invoices…  so that our 300,000+ users get to
+spend more time with their friends and family. We also deliver analytics
+and similar services to business customers.
+
+Compensation and benefits:
++ good money (tba),
++ innovative technologies and attractive (programming) languages,
++ open-minded, friendly, international colleagues,
++ inspiring office located in the most vibrant area of Berlin,
++ developers’ coffee collective provides freshly ground fair-trade coffee
+(don’t fret, there is Club-Mate, alternatively).
+
+Required skills:
+Languages and technologies used in this position: 
+
+Most important for us is that you support us with your affinity for
+algorithms and your sharp mind.
+
++ data mining or data analysis or information retrieval,
++ Perl, Java, JUnit, agile development,
++ AMQP, akka, or similar,
++ SQL, Redis, Cassandra, or similar,
++ SolR, ElasticSearch, recommendation engines, R, mahout, (bonus)
+
+Website for more information: http://www.itembase.com
+
+Contact information at:
+http://jobs.perl.org/job/18740#contact

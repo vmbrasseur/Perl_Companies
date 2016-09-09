@@ -1,0 +1,101 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15450
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28248 invoked from network); 7 Mar 2016 19:48:21 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 7 Mar 2016 19:48:21 -0000
+Received: (qmail 13130 invoked by uid 225); 7 Mar 2016 19:48:20 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 13126 invoked by alias); 7 Mar 2016 19:48:20 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 07 Mar 2016 11:48:16 -0800
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 65F7234A; Mon,  7 Mar 2016 19:48:13 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 7 Mar 2016 19:48:13 +0000
+Message-ID: <20160307194813.65F7234A@web1.develooper.com>
+Subject: Full Stack Web Developer (onsite), Boston, MA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20120
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March  5, 2016
+
+Job title: Full Stack Web Developer
+
+Company name: inviCRO
+
+Location: Boston, MA
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The Full-Stack Software Developer will extend our web-based study
+management and storage application (iPACS). The iPACS is a platform used by
+researchers worldwide to provide tools for managing, data mining and
+reporting on large amounts of medical imaging data. A flexible solution
+developed for both in-house and external applications, the iPACS is
+currently installed at more than half of the top 25 pharmaceutical
+companies.
+
+Make an impact at a dynamic and growing life sciences company.
+inviCRO currently seeks an energetic and solidly technical and creative
+professional to be part of a team of highly motivated and skilled
+developers that handle product development. This individual should enjoy
+challenging and analytical work and be motivated by the idea that together
+we can accomplish great things and make a positive contribution to society
+through the company’s mission.
+
+Desired skills:
+Responsibilities:
+Develop test, and maintain the iPACS Data Model (DBIx)
+Implement the iPACS Business Logic Layer (Perl Moose, Catalyst)
+Serve as
+development Project Lead for customer driven development projects
+Assess,
+improve, and maintain iPACS environment (including server, network, and
+hosting environment)
+Develop unit tests using the Test::More testing
+framework
+
+Qualifications and Skills:
+
+•Bachelor’s degree in Computer
+Science or related discipline; relevant experience may substitute for the
+degree requirement on a year for year basis
+•3+ years of work experience in
+complex systems design, application support, and network security
+•Expert
+knowledge of HTML, CSS, and JavaScript (OO JS, DOM manipulation, AJAX,
+JSON)
+•Demonstrated experience with Modern Perl, Catalyst MVC Framework,
+DBIx::Class, and Template::Toolkit.
+•Strong background in Web 2.0
+technologies and frameworks (HTML5,CSS3, Bootstrap, jQuery, REST)
+•Understanding user interface best practices and standards
+•Familiarity
+with development and debugging tools
+•Solid object oriented skills
+•Preferred knowledge of computer system hardware and software validation in
+GCP environments
+
+Website for more information: https://www.invicro.com/about-us/careers
+
+Contact information at:
+http://jobs.perl.org/job/20120#contact

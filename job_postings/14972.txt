@@ -1,0 +1,123 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14972
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 25190 invoked from network); 10 Mar 2015 07:19:48 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 10 Mar 2015 07:19:48 -0000
+Received: (qmail 27756 invoked by uid 225); 10 Mar 2015 07:19:48 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 27752 invoked by alias); 10 Mar 2015 07:19:47 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 10 Mar 2015 00:19:45 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 3AF3C4294C; Tue, 10 Mar 2015 00:19:42 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Tue, 10 Mar 2015 00:19:41 -0700
+Message-ID: <20150310071942.3AF3C4294C@x3.develooper.com>
+Subject: Sr. Perl Developer (onsite), DFW
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19430
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 10, 2015
+
+Job title: Sr. Perl Developer
+
+Company name: Credent Technologies
+
+Location: DFW
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 6 months
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Position: Perl Developer
+Location: Fort Worth, TX
+
+Senior Software Engineer – Modern Perl
+
+Job Summary 
+To build software applications in an agile environment and to provide the
+technical architecture of web-based software products with Modern Perl.
+
+Essential Duties and Responsibilities 
+• Maintenance of current applications. 
+• Development of new functionality; responsible for troubleshooting and
+resolving application issues. 
+• Perform development unit level testing and may assist in QA testing. 
+• Frequent client interaction is required as well as Tier 3 (final tier)
+technical support. 
+• Development of new applications including business requirements,
+planning, coding, and implementation. 
+• Assist in user testing, beta testing, and training, as well as debugging
+and change requests. 
+• Develop modules, utilities, and methodologies to benefit all client
+applications. May implement performance enhancements, code structure
+changes, and integrate new environments. 
+• Identify and implement performance enhancements, code structure changes,
+and integrate new environments. 
+• Builds user interface applications and back-end databases using various
+programming and scripting languages. 
+• Assist in project planning, estimate gathering, developer resource
+fulfillment, application and website design, and architectural enhancements
+and improvements. 
+• Create prototypes and functional specifications for Internet and
+web-based projects. 
+• Create technical methodologies for engineering solutions to web-based
+development problems. 
+• Determine and evaluate new technologies to utilize, such as software
+applications, browsers, platforms, and plug-ins, based on company's needs. 
+
+• Document internal processes, technical specifications and assist in the
+review and creation of new policies and procedures. 
+• Research best practice methods and share results with junior developers
+and other team members in order to assist with maximizing efficient, secure
+coding, performance & debugging abilities 
+• Assist with quarterly reviews for team members. 
+• Lead code reviews for group and individual new hires. 
+• Act as project lead and main point of contact for development on release
+cycles including production roll-out coordination point. 
+• Assist in recruiting and hiring developers. 
+• Other duties may be assigned.
+
+Required skills:
+Perl (Modern)
+
+Minimum Job Qualifications 
+• 4+ years of experience developing web-applications
+• The ability to communicate effectively with internal and external
+customers. 
+• Knowledge and experience in web technology best practices with respect to
+application software development and security.
+
+Desired skills:
+Nice to Haves:
+• Perl or other open source language development
+• Full stack development experience
+• PSGI Frameworks
+• Continuous Integration / Test Driven develop with Siesta or Selenium
+• Puppet/Jenkins/DevOPS tools
+• Postgres/Sybase/Mysql/memcache/activemq/Git
+• Load balanced high traffic transaction web applications
+
+Website for more information: http://credenttech.com/
+
+Contact information at:
+http://jobs.perl.org/job/19430#contact

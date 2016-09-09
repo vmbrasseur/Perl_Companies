@@ -1,0 +1,108 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15503
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 9035 invoked from network); 23 Apr 2016 20:27:22 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 23 Apr 2016 20:27:22 -0000
+Received: (qmail 9677 invoked by uid 225); 23 Apr 2016 20:27:22 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 9673 invoked by alias); 23 Apr 2016 20:27:22 -0000
+X-Spam-Status: No, hits=1.6 required=8.0
+	tests=BAYES_20,LOTS_OF_MONEY,SPF_PASS,SUBJECT_NEEDS_ENCODING,SUBJ_ILLEGAL_CHARS,T_MONEY_PERCENT
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 23 Apr 2016 13:27:20 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 46FF150E; Sat, 23 Apr 2016 20:27:17 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 23 Apr 2016 20:27:17 +0000
+Message-ID: <20160423202717.46FF150E@web1.develooper.com>
+Subject: Multiple Perl Developers (Varied Levels) – London – up to £65k (50% working from home) (onsite), London, United Kingdom
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18096
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 23, 2016
+
+Job title:
+Multiple Perl Developers (Varied Levels) – London – up to £65k (50% working
+from home)
+
+Company name: Open Select Recruitment | www.osrecruit.com
+
+Internal ID: Dev/Architect
+
+Location: London, United Kingdom
+
+Pay rate:
+UP TO 50% REMOTE WORKING (at managers discretion) | paying up to £65,000
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+A fantastic organisation, a recognisable web based brand Are urgently
+looking for a senior developer/architect. The successful candidate will be
+joining an existing team of Perl specialists committed to Perl based web
+development.
+ 
+The team works on server-side and web development projects,
+many of them of a critical nature since they handle financial transactions.
+This is not a pure coding role, but will require non-development aspects
+including supporting or implementing effective development processes, as
+well as interacting with the project management process to ensure work is
+delivered reliably
+and quality is high.
+ 
+Their platform is written
+entirely in Perl and built on PostgreSQL, so you should ideally have strong
+Perl skills and good knowledge of SQL and relational database principles,
+related technologies that would be beneficial include HTML, CSS,
+JavaScript.
+ 
+The perfect candidate would feel confident to mentor other
+members of the team and work to improve both code quality and process where
+problems are identified.
+
+Desired skills:
+- Commercial programming experience (min 3 years) - preferably but not
+necessarily Perl.
+- Familiarity with "modern" Perl: exposure to any of the
+following beneficial (Catalyst, DBIx::Class, Moose, Dancer, Mojilicious)
+-
+Confident experience building reliable software using unit testing,
+functional testing, and continuous integration (experience with
+jenkins/hudson or similar platforms would be helpful)
+- Strong
+communicator, able to discuss future projects as well as existing ones with
+members of staff with varying levels of technical understanding.  
+- Good
+overall understanding of all aspects of server software deployment, from
+TCP/IP to HTTP to IO bottlenecks. 
+- Understanding of secure software
+development techniques (especially, but not exclusively, as pertaining to
+web applications)
+
+- Ajax techniques
+- RESTful server API design 
+- MVC web
+development
+- Linux systems administration
+- XML/SOAP/XSD
+
+Website for more information: http://www.osrecruit.com/
+
+Contact information at:
+http://jobs.perl.org/job/18096#contact

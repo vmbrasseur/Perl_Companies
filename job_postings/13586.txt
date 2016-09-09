@@ -1,0 +1,136 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13586
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 31803 invoked from network); 20 Jul 2013 01:20:39 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 20 Jul 2013 01:20:39 -0000
+Received: (qmail 1328 invoked by uid 225); 20 Jul 2013 01:20:39 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 1324 invoked by alias); 20 Jul 2013 01:20:39 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,LOTS_OF_MONEY
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 19 Jul 2013 18:20:33 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id D5F292AFD1; Fri, 19 Jul 2013 18:20:29 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 19 Jul 2013 18:20:29 -0700
+Message-ID: <20130720012029.D5F292AFD1@x3.develooper.com>
+Subject: Tools developer and integration specialist (perl, postgresql,
+ Catalyst) (onsite), Berkeley, CA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17657
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 19, 2013
+
+Job title:
+Tools developer and integration specialist (perl, postgresql, Catalyst)
+
+Company name: University of California, Berkeley
+
+Internal ID: 16296
+
+Location: Berkeley, CA
+
+Pay rate: $100,000+ USD
+
+Terms of employment: Salaried employee
+
+Length of employment: 1 year, possibility of extension
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Departmental Overview
+
+The Information Security Office (ISO) coordinates the risk management
+process for UC Berkeley's information systems and directs campus-wide
+efforts to adequately secure institutional data.  The Information Security
+Office is led by the Chief Information Security Officer and consists of two
+teams, the Operations team and the Assessment team.  The Operations team,
+System and Network Security (SNS), is responsible for implementing and
+operating detection programs and security services for the campus, as well
+as incident response and breach management.  The Assessment team is
+responsible for managing the campus information system asset inventory and
+overseeing compliance of campus information systems to internal and
+external standards. 
+
+The Information Security Office works closely with IT Policy to develop and
+maintain the security policy framework for campus.  The ISO also
+coordinates with other key groups involved in risk management for the
+campus, and the ISO also coordinates with peers across higher education to
+share information and solutions to information security challenges.
+
+This position is part of the Security Operations team and reports to the
+Operations manager.  The position is a one-year contract with the potential
+to extend.
+
+Responsibilities
+
+The primary areas of focus for this position are tools development and
+system integration to support security operations.  Security operations
+generates and receives a large quantity of data about systems, networks,
+and activities on these networked systems.  Bringing this data together to
+identify actionable security events and generate relevant security metrics
+is an interesting challenge we face.  This position will take a leading
+role in designing and implementing new and better ways to integrate this
+security data.	The position will also lead the development of tools to
+increase overall team productivity.  A strong combination of problem
+analysis and programming skills are required. The successful candidate must
+be able to implement well-designed, modular systems using all usual best
+practices of software development. As a member of System and Network
+Security you will be part of growing team of campus security professionals
+that operate and implement security services for the University of
+California, Berkeley.
+
+    Analyze internal and external data feeds and develop well-documented
+and reliable data feeds
+    Design efficient and cost-effective methods for normalizing and
+combining event and network data
+    Develop scripts and tools as needed by team members to support
+operations and automate repetitive tasks
+    Design, test and promote to production processes to create security
+alerts and manage incident workflow
+    Design and implement team and campus-facing tools
+
+Required skills:
+Exceptional system design and system integration experience and ability,
+including dealing with large volumes of structured and semi-structured data
+
+    Very strong programming skills in modern Perl
+    Database experience in a modern relational database management system
+(PostgreSQL strongly preferred)
+    Web programming experience in Perl, including a strong understanding of
+good security coding practices such as mitigating the OWASP top 10
+    Shell scripting experience on UNIX
+    Data modeling experience
+    Database development experience, including database server-side
+programming (i.e. writing stored procedure or function code), SQL
+development, and using Perl to access databases
+    Passion for information security
+    Clear, concise writing ability
+
+Desired skills:
+Familiarity with configuring and programmatically interacting with ticket
+tracking systems such as Request Tracker (RT)
+    Catalyst MVC framework experience
+    Reading knowledge of one or more other programming languages: Python,
+PHP, Java, Ruby
+
+Website for more information: http://jobs.berkeley.edu/
+
+Contact information at:
+http://jobs.perl.org/job/17657#contact

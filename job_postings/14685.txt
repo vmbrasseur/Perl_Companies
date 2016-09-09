@@ -1,0 +1,120 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14685
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 20698 invoked from network); 28 Sep 2014 23:22:33 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 28 Sep 2014 23:22:33 -0000
+Received: (qmail 9849 invoked by uid 225); 28 Sep 2014 23:22:33 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 9845 invoked by alias); 28 Sep 2014 23:22:33 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 28 Sep 2014 16:22:31 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 8BAD342ABB; Sun, 28 Sep 2014 16:22:28 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sun, 28 Sep 2014 16:22:28 -0700
+Message-ID: <20140928232228.8BAD342ABB@x3.develooper.com>
+Subject: Software Engineer (Perl) (onsite), London W12
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18947
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 28, 2014
+
+Job title: Software Engineer (Perl)
+
+Company name: British Broadcasting Corporation (BBC)
+
+Internal ID: PSI-PERL-2014
+
+Location: London W12
+
+Pay rate: £ Market Rate
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: Initial 3 Month contract
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+BBC Future Media is looking for an experienced, professional and
+enthusiastic Perl Developer to join our world-class team responsible for
+delivering services to a suite of major BBC online products, including BBC
+iPlayer.
+ 
+The team is dedicated to the ingest and syndication of public-facing BBC
+and non-BBC programme and user metadata. We are part of the BBC Future
+Media (FM) division.
+
+We provide shared software/hardware services built to power BBC Online’s
+programme based propositions across a range of platforms from web to mobile
+and IPTV. These services include programme metadata APIs, rights and
+metadata management tools, as well as audio and video transcoding.
+ 
+The role require an excellent knowledge of Perl, web frameworks (Catalyst,
+Mason, TT) RESTful web services, security, caching, architecting for
+performance, mysql and web standards, along with proven experience of
+working in a mixed discipline team on large scale web application projects.
+
+
+The core duties of the role will involve maintenance and development of new
+features for our Programme Information Platform (aka PIPs).
+
+Required skills:
+Demonstrable competence in one or more established web frameworks (eg
+Catalyst, Mason, TT, Zope, Django, Spring).
+
+Strong familiarity with Apache API, mysql and a modern Perl ORM
+
+Proven experience working on a large mission critical code base,
+maintaining a regular release cycle, while ensuring the overall performance
+and stability of the product.
+
+Strong SQL database experience and sound understanding of data
+normalization, database design, query tuning and transaction management.
+
+Ability to work in an unstructured, fast changing environment with rapid
+release cycles
+
+Proven experience of project working and commercial web development
+processes - particularly Agile methodologies
+
+Experience of working in an environment where products have to be delivered
+to specific time-scales
+
+An ability to rapidly and effectively understand and translate product and
+business requirements into technical solutions
+
+Experience of supporting, modifying and maintaining systems and code
+developed by teams other than your own
+
+Experience of software quality practice - eg TDD, continuous integration,
+version control automation, software metrics
+
+Desired skills:
+Memcached/nosql experience
+
+Java experience
+
+Experience working on high volume, highly available, horizontally scalable
+architectures
+
+Amazon simpleDB, CouchDB, MapReduce or any experience with Object DBs
+
+Contact information at:
+http://jobs.perl.org/job/18947#contact

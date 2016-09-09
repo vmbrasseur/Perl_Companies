@@ -1,0 +1,99 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14210
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 395 invoked from network); 27 Feb 2014 08:24:24 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 27 Feb 2014 08:24:24 -0000
+Received: (qmail 22467 invoked by uid 225); 27 Feb 2014 08:24:24 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 22463 invoked by alias); 27 Feb 2014 08:24:24 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 27 Feb 2014 00:24:19 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id F270542A86; Thu, 27 Feb 2014 00:24:16 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 27 Feb 2014 00:24:16 -0800
+Message-ID: <20140227082416.F270542A86@x3.develooper.com>
+Subject: Perl/SQL Application Support Analyst (onsite), Houston, TX
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18416
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 27, 2014
+
+Job title: Perl/SQL Application Support Analyst
+
+Company name: Satellite Tracking of People LLC.
+
+Internal ID: TIER3-2014-02
+
+Location: Houston, TX
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The Satellite Tracking of People LLC has an outstanding opportunity for a
+full-time Perl/SQL Application Support Analyst, who will be responsible for
+internal and external client application support, data management, and
+process automation, with a specialization in large relational SQL databases
+in an enterprise environment.
+
+Authorization to work in the United States is required.  Salary is
+commensurate with experience and qualifications in the Houston market. 
+Direct hire position is in Houston, TX.  90-day on-site contract to hire is
+available for qualified candidate referrals.
+
+Required skills:
+•	Bachelors of Science (e.g. Statistics, Mathematics, etc.)
+•	5+ years hands-on experience with in SQL (Oracle experience
+preferred)
+•	3+ years professional programming experience with Perl 5;
+Experience with Perl Best Practices;  POD (perlpod and pod2html);
+Experience or familiarity with CPAN modules including: DBI/DBD, JSON, and
+Test::More. Experience with creating Perl modules (e.g. modulemaker) with
+complete unit tests and RPM spec file integration. (e.g. cpanspec and
+rpmbuild)
+•	3+ years hands-on experience with visual database access tools
+(Toad for Oracle preferred)
+•	2+ years hands-on experience with Linux command line (Fedora/CentOS
+preferred)
+•	1+ years hands-on experience with version control systems
+(Subversion preferred)
+•	1+ years experience in the client service and support industry
+(Sales, Tier 1/2/3)
+
+Desired skills:
+•	Exceptional communication and presentation skills.
+•	Exceptional organizational skills.
+•	Ability to multi-task in a fast-paced environment.
+•	Experience with data management on a large Oracle instance.
+•	Advanced knowledge of Oracle and writing SQL queries to perform on
+large data sets.
+•	Superior analytical and problem resolution with custom web
+applications and services.
+•	Experience in testing, quality and change management methodologies.
+
+•	Experience in supporting custom web applications
+•	Experience with a Customer Resource Management (CRM) ticket
+management system.
+
+Website for more information: http://www.stopllc.com/
+
+Contact information at:
+http://jobs.perl.org/job/18416#contact

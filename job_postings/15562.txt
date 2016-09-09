@@ -1,0 +1,121 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15562
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 9535 invoked from network); 1 Jun 2016 01:31:45 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 1 Jun 2016 01:31:45 -0000
+Received: (qmail 21024 invoked by uid 225); 1 Jun 2016 01:31:45 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 21020 invoked by alias); 1 Jun 2016 01:31:45 -0000
+X-Spam-Status: No, hits=-0.5 required=8.0
+	tests=BAYES_05,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 31 May 2016 18:31:39 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 95821188; Wed,  1 Jun 2016 01:31:36 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 1 Jun 2016 01:31:36 +0000
+Message-ID: <20160601013136.95821188@web1.develooper.com>
+Subject: Perl Developers (Junior and Senior) (onsite), Oxford, United Kingdom
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20228
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 20, 2016
+
+Job title: Perl Developers (Junior and Senior)
+
+Company name: Adestra
+
+Location: Oxford, United Kingdom
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are looking for enthusiastic junior and senior Perl developers to join
+our Oxford-based team to assist in the ongoing development of our
+MessageFocus email marketing platform.
+
+Day to day duties are centred on
+designing and implementing features for our MessageFocus platform, as well
+as assisting with its ongoing maintenance. As a member of a small
+development team, you will be expected to take ownership of complete
+features (from initial concepts, specification and design through to
+implementation and deployment), and have the opportunity to work on many
+different aspects of the system from user interface design to scaling
+high-throughput, high-availability systems.
+
+A strong understanding of
+Perl, and experience with modern Perl programming and development practices
+is essential, along with some experience of web interfaces and working with
+databases.
+
+
+Package
+
+The right candidate will receive an attractive salary
+based upon your skills and experience
+A bonus scheme will also be included
+subject to the Director’s discretion based upon achievement of targets set
+BS EN ISO 9001:2000 and Investors in People accredited, superb training and
+development opportunities
+Additional benefits offered include: company
+pension, various travel schemes, health care scheme, eye care vouchers,
+child care vouchers and Private Health Insurance (after successful
+completion of the probationary period)
+26 days holiday
+
+Location
+
+You will
+be based at Adestra’s Oxford head office, which is a ten minute walk from
+the train station. Unfortunately we cannot accept telecommuters.
+
+Application
+To apply for this position, please send your CV with a covering
+letter to iwanttowork@adestra.com. No phone calls please; we’re really busy
+speaking to clients!
+
+Adestra are an Equal Opportunities Employer
+
+Desired skills:
+Experience with any of the following would be advantageous:
+
+PostgreSQL or
+other modern relational database systems
+Catalyst or other MVC web
+frameworks
+DBIx::Class or ORM systems in general
+Moose
+JavaScript
+User
+interface design
+‘NoSQL’ databases
+Scaling and optimising web-based
+applications
+Designing high-availability systems
+Previous experience with a
+Catalyst/DBIC/Moose development environment would be considered a
+significant advantage
+Positions are available for junior and senior
+developers, with salary negotiable depending in skills and experience.
+
+Website for more information:
+http://www.adestra.com/company/work-with-us/perl-developer/
+
+Contact information at:
+http://jobs.perl.org/job/20228#contact

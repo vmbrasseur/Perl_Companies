@@ -1,0 +1,110 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14776
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 1251 invoked from network); 15 Nov 2014 04:28:15 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 15 Nov 2014 04:28:15 -0000
+Received: (qmail 18682 invoked by uid 225); 15 Nov 2014 04:28:10 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 18670 invoked by alias); 15 Nov 2014 04:28:08 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,LOTS_OF_MONEY,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 14 Nov 2014 20:28:06 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 0EA404294F; Fri, 14 Nov 2014 20:28:02 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 14 Nov 2014 20:28:02 -0800
+Message-ID: <20141115042803.0EA404294F@x3.develooper.com>
+Subject: Seeking Experienced Perl Developer (onsite), Harbor City, CA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19064
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 14, 2014
+
+Job title: Seeking Experienced Perl Developer
+
+Company name: Pelican Parts
+
+Location: Harbor City, CA
+
+Pay rate: USD $85,000-90,000
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Pelican Parts is the leading online source of car parts for German
+automobiles including Porsche, BMW, Mercedes Benz, Volkswagen, Audi, Saab,
+Volvo, and Mini.  We offer the most extensive and competitively priced
+selection of Genuine, OEM and aftermarket parts in the industry. We also
+produce and manage thousands of articles to help the DIY enthusiast with
+projects for their Porsche, BMW, Mercedes Benz and Mini Cooper. Our
+sponsored community is one of the largest 500 communities in the world and
+these enthusiasts provide hundreds of thousands of comments across
+countless topics involving your German automobile.
+
+We currently need to fill an additional Perl Developer role to join our
+talented team.	We are looking for someone exceptional and self-motivated,
+and someone who is energized and readily embraces a challenge.	Our
+environment here is fast-paced but casual.  You will have the opportunity
+to grow with us while helping us improve our ecommerce site, various
+content sites and enhance our existing tools and help us to build new ones.
+
+
+Candidates with senior level development experience are preferred. 
+JavaScript and SQL experience is also a must-have.  The kind of individual
+we seek should have clear knowledge of developing web-based tools and apps
+as well as creating automation software, system tools, and a solid
+understanding of data processing and report generation.
+
+Required skills:
+- Must have at least 5-7 years direct hands-on Perl development experience.
+Ability to work with existing/legacy code, work with others on team
+projects as well as occasionally being the sole developer on smaller
+projects.
+- Must have 3+ experience with SQL, including Microsoft SQL Server and
+MySQL. Your SQL experience must include forming your own queries,
+understanding query efficiency, query performance evaluation and how to
+maintain an optimized balance of database logic and programming code.
+- Must have experience with JavaScript, including frameworks, jQuery in
+particular. JavaScript knowledge must include development of on-page
+interactivity, DOM manipulation, AJAX, and use of JSON. Although we are not
+looking for a dedicated front-end developer in this role, solid working
+experience in this area is necessary. We will not consider someone lacking
+this experience.
+- We are a Windows environment, you must have experience and comfort with
+that.
+- Ability to thoroughly unit-test your work own is required.
+- A background working with ecommerce sites, B2C and customer support sites
+is very important.
+- Excellent communication skills.
+
+Desired skills:
+- Additional experience with other server-side scripting languages is a
+plus.
+- If your Perl experience includes frameworks such as Catalyst, Dancer or
+Mojolicious this would be beneficial to us going into the future.
+- Familiarity with object-oriented frameworks such as Moose as well as
+template modules or toolkits are not critical but also a plus for our
+future needs.
+- Linux experience would be a plus but not necessary.
+
+Website for more information: http://www.pelicanparts.com/
+
+Contact information at:
+http://jobs.perl.org/job/19064#contact

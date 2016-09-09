@@ -1,0 +1,84 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13895
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28179 invoked from network); 18 Nov 2013 07:38:11 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 18 Nov 2013 07:38:11 -0000
+Received: (qmail 12547 invoked by uid 225); 18 Nov 2013 07:38:11 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 12542 invoked by alias); 18 Nov 2013 07:38:11 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,LOTS_OF_MONEY,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 17 Nov 2013 23:38:09 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id E28302AFE0; Sun, 17 Nov 2013 23:38:05 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sun, 17 Nov 2013 23:38:05 -0800
+Message-ID: <20131118073805.E28302AFE0@x3.develooper.com>
+Subject: Senior Perl Systems Engineer (onsite), Abingdon, Oxfordshire, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17895
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 17, 2013
+
+Job title: Senior Perl Systems Engineer
+
+Company name: Richard Wheeler Associates
+
+Location: Abingdon, Oxfordshire, UK
+
+Pay rate: to £50,000 pa
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Senior Perl Systems Engineer, Abingdon, Oxfordshire, UK. Our client is an
+ambitious global player in the AV and Security sector which is set to
+expand more than twofold over the next 3-5 years.
+
+As a Senior Systems Engineer and Perl guru your remit will be to develop
+products in order to enhance functionality, increase performance and
+increase integration capabilities. You will be responsible for designing,
+implementing and documenting solutions, leading projects and evaluating new
+and cutting edge technologies as they emerge.  You will take a leading role
+in design and code reviews enforcing best practice where appropriate;
+scope, design, develop, test and support high availability 100Tb+ data
+systems; contribute to architectural reviews of new systems and assess
+impact of changes on existing systems….and much more.
+
+Required skills:
+We’re seeking a Senior Perl Engineer with a keenly analytical mind, a
+natural problem solver capable of solving complex issues both on your own
+and as part of a wider team.  
+
+A pre-requisite for the role is very strong Perl programming experience
+within a Linux and/or Windows environment.
+
+Desired skills:
+We would expect this to be complimented by significant strengths within
+many of the following: NoSQL, Hadoop/Hbase, Agile development
+methodologies, Perl testing frameworks, experience developing with
+virtualized environments (KVM, VirtualBox), SQL development (SQL Server or
+MySQL), knowledge of Version Control Systems (SVN, Perforce), AJAX,
+JavaScript, & JS frameworks (jQuery, YUI), Python, Puppet, Nagios, OpenNMS.
+
+Website for more information: http://www.rwaconsultants.com/jobs/perl-developer
+
+Contact information at:
+http://jobs.perl.org/job/17895#contact

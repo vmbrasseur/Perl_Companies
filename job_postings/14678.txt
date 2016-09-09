@@ -1,0 +1,103 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14678
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 21389 invoked from network); 21 Sep 2014 18:06:16 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 21 Sep 2014 18:06:16 -0000
+Received: (qmail 16241 invoked by uid 225); 21 Sep 2014 18:06:15 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 16237 invoked by alias); 21 Sep 2014 18:06:15 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 21 Sep 2014 11:06:12 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 8216642AC0; Sun, 21 Sep 2014 11:06:10 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sun, 21 Sep 2014 11:06:10 -0700
+Message-ID: <20140921180610.8216642AC0@x3.develooper.com>
+Subject: Perl Programmer (onsite), Toronto
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18943
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 21, 2014
+
+Job title: Perl Programmer
+
+Company name: Mobiroo
+
+Location: Toronto
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+ABOUT THE COMPANY:
+Headquartered in Toronto, Canada, Mobiroo offers the first ‘All You Can
+App’ Android app subscription service for top paid apps and games. Mobiroo
+obtains content from various studios and other content providers, globally,
+and distributes this content through multiple markets and channels.
+ 
+Since 2009, Mobiroo has become the leading provider of mobile solutions for
+app curation, discovery, promotion, and distribution, through their app
+gift card platform. Recognized as one of Canada's "Companies-to-Watch" in
+the 2011 Deloitte Technology Fast 50, Mobiroo was the first company to
+market with Android and BlackBerry app gift cards, which sell in thousands
+of retail locations in over 15 countries worldwide. By leveraging the
+popularity of top mobile apps and games, Mobiroo now offers unlimited
+Android apps for a monthly subscription, and is currently rolling out the
+'All You Can App' service with partners worldwide. 
+ 
+If you are eager to work and test the latest technologies, to push our
+brand new, global mobile product, and ultimately be part of our exciting
+growth, we are eager to hear from you!
+
+RESPONSIBILITIES:
+•	Work closely with a key resource and document their daily
+activities
+•	Maintain the various Perl scripts that glue the Mobiroo platform
+together
+•	Maintain internal debian packaging
+•	Random scripting tasks to solve needs as they arise
+
+MOBIROO’S CULTURE:
+•	Know that you are part of the core team, in an organization that’s
+at the cusp of rapid growth, with an opportunity to reap the long-term
+benefits
+•	Tremendous growth opportunities in terms of leading, taking on
+responsibilities and gaining valuable experience  through a
+first-of-its-kind platform
+•	Work with a highly driven, motivated and passionate team that works
+and plays hard
+
+Required skills:
+REQUIREMENTS:
+•	2+ years of Perl programming experience
+•	2+ years of Unix Shell experience
+•	Knowledgeable Debian Linux experience
+
+Desired skills:
+ADDITIONAL EXPERIENCE CONSIDERED AN ASSET:
+•	Debian Packaging experience
+•	JIRA + Confluence experience
+•	Agile development experience
+•	Technical writing experience
+
+Website for more information: http://www.mobiroo.com
+
+Contact information at:
+http://jobs.perl.org/job/18943#contact

@@ -1,0 +1,115 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15039
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 23808 invoked from network); 25 Apr 2015 20:28:44 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 25 Apr 2015 20:28:44 -0000
+Received: (qmail 1137 invoked by uid 225); 25 Apr 2015 20:28:44 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 1133 invoked by alias); 25 Apr 2015 20:28:43 -0000
+X-Spam-Status: No, hits=-5.0 required=8.0
+	tests=RCVD_IN_DNSWL_HI
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 25 Apr 2015 13:28:38 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id A63E542A9E; Sat, 25 Apr 2015 13:28:34 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 25 Apr 2015 13:28:34 -0700
+Message-ID: <20150425202834.A63E542A9E@x3.develooper.com>
+Subject: Senior Software Engineer (part onsite), San Francisco, CA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19530
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 25, 2015
+
+Job title: Senior Software Engineer
+
+Company name: Kareo, Inc.
+
+Internal ID: 2
+
+Location: San Francisco, CA
+
+Pay rate: Market Rate
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+Hello, we are DoctorBase, an innovator in practice marketing and patient
+communication solutions for healthcare providers. We just joined forces
+with Kareo, a fast growing SaaS. Together, we’ve created the most complete
+software and service platform available for independent practices. 
+
+What We Need 
+Are you a Perl slinging, problem solving, software engineering whiz? Does
+idea of helping entrepreneurial physicians succeed by giving them an edge
+over large medical care conglomerates excite you? If you answered yes to
+these two questions, maybe DoctorBase should be your next gig?
+What You’ll Do
+•	Jump right in and start contributing to our code base 
+•	Optimize the performance and scalability of our application 
+•	Develop new features from scratch 
+•	Play a vital role in the future state of our technology stack 
+•	Integrate two free-standing applications into one seamless
+experience     
+What is in it for You? 
+•	Equity in a company skyrocketing toward the “next level” 
+•	Join a stable, well-funded company, that still operates a lot like
+a start up 
+•	Be one of the few SME’s regarding Perl code in our company 
+•	Be exposed to relevant technologies and encouraged to bring in new
+tech which appeals to you 
+
+
+Who is Kareo? 
+Kareo is the only cloud-based medical office software and services platform
+purpose-built for small practices. At Kareo, we believe that, with the
+right tools and support, small practices can do big things. We offer an
+integrated solution of products and services designed to help physicians
+get paid faster, run their business smarter, and provide better care. Our
+practice management software, billing services, and free, award-winning
+fully certified EHR help more than 30,000 medical providers more
+efficiently manage the business and clinical sides of their practice. Kareo
+has received extensive industry recognition, including the Deloitte
+Technology Fast 500, Inc. 500/5000, Forbes Top 100 Most Promising
+Companies, and Black Book #1 Integrated EHR, Practice Management and
+Billing Vendor. Headquartered in Irvine, California, the Kareo mission is
+to help providers spend their time focused on patients, not paperwork.
+
+Required skills:
+What We Expect You to Have 
+•	Full stack engineering chops, with specific expertise on the
+backend 
+•	Flawless OO Perl skills, with a burning desire to do things better
+with each iteration
+•	Meaningful experience with relational databases; PostgreSQL
+preferred 
+•	Experience with: Moose, PostgreSQL, Rest APIs, Linux sever admin
+skills
+
+Desired skills:
+•	Ideally, experience with: Catalyst, Template::Toolkit, releases on
+CPAN, AWS skills, Python with Boto, strong SQL background, DBIx::Class,
+software infrastructure and architecture 
+•	Ideally, a desire to help entrepreneurial physicians succeed by
+giving them an edge over large medical care conglomerates
+
+Website for more information: http://doctorbase.com
+
+Contact information at:
+http://jobs.perl.org/job/19530#contact

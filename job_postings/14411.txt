@@ -1,0 +1,81 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14411
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 11986 invoked from network); 23 May 2014 00:14:52 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 23 May 2014 00:14:52 -0000
+Received: (qmail 27279 invoked by uid 225); 23 May 2014 00:14:52 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 27274 invoked by alias); 23 May 2014 00:14:51 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 22 May 2014 17:14:50 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 29E6842972; Thu, 22 May 2014 17:14:46 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 22 May 2014 17:14:46 -0700
+Message-ID: <20140523001447.29E6842972@x3.develooper.com>
+Subject: Perl interface to DBMail (telecommute), Mountain View, CA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18640
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 22, 2014
+
+Job title: Perl interface to DBMail
+
+Company name: everlink
+
+Location: Mountain View, CA
+
+Pay rate: Varies
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+Develop a Perl module to provide an API to dbmail's database store.
+
+The interface should allow:
+
+- Inserting and updating the database to reflect programmatically generated
+email messages.  
+- The database entries need to conform to what the dbmail expects.
+- Query for and select message from the database.
+- Delete messages.
+- Should ideally support a standard Perl MIME module as its input or output
+
+
+The interface should come with a basic unit tests.
+
+More info about dbmail can be found at http://www.dbmail.org/
+
+Required skills:
+Experience developing Perl modules
+
+Desire and ability to keep things simple
+
+Some SQL (mysql, postgres or similar)
+
+Familiarity with email / MIME messages
+
+Desired skills:
+Familiarity with Perl module best practices
+Familiarity with dbmail is optional.
+
+Contact information at:
+http://jobs.perl.org/job/18640#contact

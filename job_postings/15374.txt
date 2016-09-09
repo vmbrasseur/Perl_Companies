@@ -1,0 +1,137 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15374
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 23719 invoked from network); 15 Jan 2016 17:31:28 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 15 Jan 2016 17:31:28 -0000
+Received: (qmail 11980 invoked by uid 225); 15 Jan 2016 17:31:28 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11976 invoked by alias); 15 Jan 2016 17:31:28 -0000
+X-Spam-Status: No, hits=-0.0 required=8.0
+	tests=BAYES_40,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 15 Jan 2016 09:31:26 -0800
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id D88E02E0; Fri, 15 Jan 2016 17:31:22 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 15 Jan 2016 17:31:22 +0000
+Message-ID: <20160115173122.D88E02E0@web1.develooper.com>
+Subject: Senior Perl Developer (onsite), Cyberjaya, Malaysia
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19996
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 15, 2016
+
+Job title: Senior Perl Developer
+
+Company name: Binary.com
+
+Location: Cyberjaya, Malaysia
+
+Pay rate: TBD
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Binary.com is an international binary options trading company with offices
+in Malaysia, Malta and Japan. Cyberjaya, Malaysia is the center for our
+global IT operations group which is staffed by talented IT professionals
+drawn from technical centers around the world. 
+
+Due to fast growth, we are
+seeking to recruit experienced Perl developers to join our IT development,
+and Quantitative Analysis team, based in Cyberjaya, Malaysia. We are
+seeking individuals experienced with Perl technologies such as Moose,
+AnyEvent, POE, Mojolicious, Plack/PSGI, and preferably with some
+mathematics background.
+
+Our company pays special attention to professional
+recruitment, so as to ensure that we engage only the most talented
+developers and engineers. Each candidate for employment is assessed using a
+difficult technical exercise that ensures we onboard engineers offering
+both extensive experience and a strong interest in the field. Our
+recruitment tests are also designed to select IT professionals with
+character traits that include sound judgment, teamwork, a strong work
+ethic, motivation and a commitment to excellence in software development
+and development operations.
+
+At Binary.com, we offer our IT staff the best
+possible working conditions to help them advance in their careers. This
+means flexible working hours, a casual dress code, and the best equipment
+available. We provide each of our engineers with a high-end MacBook laptop,
+and use only the newest and best equipment in our production server
+environment. We customised a purpose-built office, designed to provide our
+engineers with a comfortable and productive work space.
+
+We believe in
+developing a company culture based on trust and camaraderie, a flat
+hierarchy, open and transparent communication, integrity and honesty, an
+entrepreneurial and fast-moving pace, and providing our employees with the
+best possible environment and tools that the company can provide.
+
+We are a
+very successful company with global reach, founded in 1999, and growing
+rapidly. Whereas in 2010 our website supported on average 15,000 options
+transactions per day, today we routinely transact in over 1,000,000 per day
+– a 66-fold increase in just 5 years. Working in a fast-growing
+organization requires us to develop robust systems, coupled with a
+high-quality and well-architectured code, and a strong focus on security.
+
+Our back-end technologies include Linux, Perl, Postgres, Redis, Chef,
+nginx, and cloud providers such as AWS. Our software development philosophy
+is based on the git forking model and a vigorous process of code review to
+ensure only high quality code makes it into our codebase, good test
+coverage, prioritizing refactoring of code to pay back technical debt,
+attention to code architecture, simplicity and readability, rapid releases
+(we release code every day), outsourcing of non-core functions to cloud
+providers, and the adoption of latest technologies whenever possible. We
+aim to comply with all 12 points of the Joel Test.
+
+We provide our staff
+with an impressive array of rewards that include health insurance, a
+generous annual bonus program for top performers, exciting company trips
+around Asia, and the opportunity to participate in a meritocracy where
+talented professionals can assume positions of increasing responsibility.
+
+We are a highly international organisation, with staff from over 15
+different countries. A large percentage of our employees in Malaysia are
+expats, from all over the world. We make relocation simple, arranging work
+permits and dependent passes for spouses and children, flights, initial
+accomodation in Cyberjaya, and other required assistance for overseas
+candidates.
+
+Relocation to Malaysia offers the unique advantages of living
+in a multicultural yet English-speaking country, with a low cost of living,
+excellent food, a warm climate, and a vibrant expat community.
+
+If you
+would like to learn more about our company, we invite you to visit
+www.binary.com/careers, http://blog.wobb.my/project/binary/, and to read
+about our history at www.binary.com/group-history. Our open-source
+contributions may be found at https://github.com/binary-com.
+
+This
+advertisement relates to onsite positions only.
+
+Desired skills:
+Perl, AnyEvent, POE, Moose, Mojolicious, PSGI, Postgres, Websockets.
+
+Website for more information: https://www.binary.com/careers
+
+Contact information at:
+http://jobs.perl.org/job/19996#contact

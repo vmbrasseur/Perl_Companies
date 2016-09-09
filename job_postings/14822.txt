@@ -1,0 +1,92 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14822
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 25262 invoked from network); 11 Dec 2014 05:30:48 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 11 Dec 2014 05:30:48 -0000
+Received: (qmail 11685 invoked by uid 225); 11 Dec 2014 05:30:47 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11681 invoked by alias); 11 Dec 2014 05:30:47 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 10 Dec 2014 21:30:40 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id C6D6C4296E; Wed, 10 Dec 2014 21:30:37 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 10 Dec 2014 21:30:37 -0800
+Message-ID: <20141211053037.C6D6C4296E@x3.develooper.com>
+Subject: Remote Perl Developer (telecommute), Washington, DC
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19116
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December  8, 2014
+
+Job title: Remote Perl Developer
+
+Company name: TEKsystems
+
+Location: Washington, DC
+
+Pay rate: 20-30/HR USD
+
+Terms of employment: Hourly employee
+
+Length of employment: 6+ Months
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+Our client has a software product called Outpatient AutoSuggest (OPAS) that
+they sell to hospitals and providers all across the country. What this
+manager’s group is responsible for is doing the actual configuration and
+implementation of the product so that it is up and running properly in the
+client’s environment. They have a huge backlog of new customers that have
+purchased the product and therefore are bringing in these resources to
+support the implementations.
+
+Required skills:
+1.	PERL scripting experience 
+2.	Computer science background
+3.	Professional experience using a ticketing system
+4.	Experience developing in a Linux/Unix environment
+5.	Other scripting experience such as Shell is a plus
+
+Desired skills:
+Responsibilities:
+•	Provide technical software implementation for client solutions
+Analyze data for information extraction and technical issue resolution
+•	Write PERL scripts (called “Regular Expressions”) to pull data from
+the client’s environment 
+•	Analyze client configuration for technical issues, and provide
+solutions 
+•	Understand and work with diverse data feeds such as unstructured
+text documents, HL7, CSV, XML and others 
+•	Understand issues, specific client configurations and the product
+both functionally and technically 
+•	Work collaboratively with client facing team members.
+•	Meet deadlines for client specific implementation needs 
+•	Keep up-to-date with all new features, functions, business issues
+and implementation options
+•	Contribute to the evolutionary growth of implementation
+infrastructure by developing and/or updating material, tools and programs 
+•	Deliver implementations in a fast-paced environment with short
+timelines
+
+Website for more information: http://www.teksystems.com
+
+Contact information at:
+http://jobs.perl.org/job/19116#contact

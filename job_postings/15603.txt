@@ -1,0 +1,82 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15603
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 16692 invoked from network); 7 Jul 2016 05:31:53 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 7 Jul 2016 05:31:53 -0000
+Received: (qmail 16027 invoked by uid 225); 7 Jul 2016 05:31:53 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 16023 invoked by alias); 7 Jul 2016 05:31:53 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,LOTS_OF_MONEY,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 06 Jul 2016 22:31:51 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 6BBE7356; Thu,  7 Jul 2016 05:31:48 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 7 Jul 2016 05:31:48 +0000
+Message-ID: <20160707053148.6BBE7356@web1.develooper.com>
+Subject: Perl Web App Developer (onsite), Fairfax, VA, United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20300
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July  7, 2016
+
+Job title: Perl Web App Developer
+
+Company name: The Maven Group
+
+Location: Fairfax, VA, United States
+
+Pay rate: $95,000.00
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Our client is looking for a web based developer to create both web and
+command line applications for their online merchandise platform. The
+position will work with business owners to create product solutions and
+work with the QA team to ensure the code they produce is safe and
+effective, considering OWASP practices.
+
+Desired skills:
+Must Have:
+
+*Professional programming experience in Perl 5 (3+ years) and
+Ruby, Python or PHP (3-6 years) 
+*Experience working within a relational
+database (3+ years) 
+*Experience with MVC structures, ORM. 
+*Unix/ Linux
+Command line exp. 
+*Experience in an AGILE software dev environment 
+*Excellent English Speaking Skills
+
+Nice to Have:
+
+*Experience with
+RabbitMQ 
+*JavaScript coding for DOM and AJAX. 
+*HTML and CSS experience 
+*Ability to create automated testing suites 
+*Published Github profile
+
+Website for more information: http://themavengroup.com/job-opportunities/
+
+Contact information at:
+http://jobs.perl.org/job/20300#contact

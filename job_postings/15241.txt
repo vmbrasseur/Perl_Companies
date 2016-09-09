@@ -1,0 +1,69 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15241
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 19245 invoked from network); 10 Oct 2015 04:58:48 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 10 Oct 2015 04:58:48 -0000
+Received: (qmail 28555 invoked by uid 225); 10 Oct 2015 04:58:48 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 28551 invoked by alias); 10 Oct 2015 04:58:48 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 09 Oct 2015 21:58:46 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id D0E87319; Sat, 10 Oct 2015 04:58:42 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 10 Oct 2015 04:58:42 +0000
+Message-ID: <20151010045842.D0E87319@web1.develooper.com>
+Subject: Perl developer (onsite), Santa Clara, CA, United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19852
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October  9, 2015
+
+Job title: Perl developer
+
+Company name: Intel
+
+Location: Santa Clara, CA, United States
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+This position is in the mask metrology group at Intel Mask Operations
+(IMO), the mask factory for Intel Corporation. We need someone to help us
+with maintenance and re-engineering of a legacy Perl application to
+generate recipe files used by various measurement tools in our factory. 
+This position is not in a software group and will require the ability to do
+work independently although you will be expected to collaborate with the
+automation software group at IMO. As this is a production manufacturing
+environment we have relatively strict control over any changes to
+automation software so some tolerance of the associated bureaucracy would
+be helpful. 
+The position is only available for recent college graduates
+(less than 18 months out of school) with permission to work in the United
+States.
+
+Desired skills:
+Perl. Experience working with large, mission critical, poorly documented
+legacy applications is preferred. Some knowledge of C/C++ and CAD software
+would be helpful but is not required.
+
+Contact information at:
+http://jobs.perl.org/job/19852#contact

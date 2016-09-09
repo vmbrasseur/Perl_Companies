@@ -1,0 +1,102 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14484
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 30828 invoked from network); 21 Jun 2014 06:28:21 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 21 Jun 2014 06:28:21 -0000
+Received: (qmail 3893 invoked by uid 225); 21 Jun 2014 06:28:21 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 3889 invoked by alias); 21 Jun 2014 06:28:21 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,LOTS_OF_MONEY,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 20 Jun 2014 23:28:19 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 5D8A042955; Fri, 20 Jun 2014 23:28:13 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 20 Jun 2014 23:28:13 -0700
+Message-ID: <20140621062816.5D8A042955@x3.develooper.com>
+Subject: Senior OO Perl Developer Financial Card Services (onsite), City of
+ London, Holborn Circus (EC1) (W-bound), London EC1N, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18722
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 18, 2014
+
+Job title: Senior OO Perl Developer Financial Card Services
+
+Company name: Pro-Quest Resourcing Ltd
+
+Internal ID: PQP1
+
+Location:
+City of London, Holborn Circus (EC1) (W-bound), London EC1N, UK
+
+Pay rate: £40,000 - £50,000
+
+Terms of employment: Salaried employee
+
+Length of employment: Permanent
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Unique opportunity has arisen to join one of the UK's leading Perl Software
+Houses - based in the City, London (No experience within Financial Services
+required although potentially a route into Finance for those interested)
+
+The role offers an excellent chance to work with a team of like-minded
+developers, Perl Development enthusiasts writing some of the latest robust,
+scalable, cutting edge Software for use by high availability high traffic
+Web facing site and corresponding back-end services! With user-base hence
+also your work used and appreciated daily by Millions of people Globally! 
+
+Project areas could include: large-scale OO Perl application development or
+complex server-side business logic, RESTful APIs, work on the underlying
+backend technologies through to front-end/ JavaScript/ UI interface
+development depending on your skill-set and personal interests
+
+Highly skilled, motivated, intelligent Perl Developer required & in return,
+aside from excellent development projects furthering your knowledge, an
+excellent team and working environment you can also expect excellent
+remuneration and recognition for your development contribution plus chance
+to broaden your skill-set!
+
+Required skills:
+- OO Perl in large structured applications 
+- SQL (PostgreSQL or MySQL)
+- Good development practices, high-quality maintainable code
+- Adept at problem solving & delivering solutions requiring lateral
+thinking around difficult scenarios 
+- Knowledge of CPAN and mailing lists/ resources
+
+Desired skills:
+- Familiarity with "modern" Perl: exposure to any of the following
+beneficial (Catalyst, DBIx::Class, Moose, Dancer, Mojilicious)
+- Confident experience building reliable software using unit testing,
+functional testing, and continuous integration (experience with Jenkins/
+Hudson or similar)
+- Good overall understanding of all aspects of server software deployment,
+from TCP/IP to HTTP to IO bottlenecks. 
+- Ajax 
+- RESTful server API design 
+- MVC web development
+- Linux systems administration
+
+Website for more information: http://www.pro-quest.co.uk
+
+Contact information at:
+http://jobs.perl.org/job/18722#contact

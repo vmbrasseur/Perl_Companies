@@ -1,0 +1,84 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15652
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 14699 invoked from network); 16 Aug 2016 01:34:20 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 16 Aug 2016 01:34:20 -0000
+Received: (qmail 10561 invoked by uid 225); 16 Aug 2016 01:34:20 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 10557 invoked by alias); 16 Aug 2016 01:34:20 -0000
+X-Spam-Status: No, hits=0.8 required=8.0
+	tests=BAYES_50,LOTS_OF_MONEY,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 15 Aug 2016 18:34:13 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 96862315; Tue, 16 Aug 2016 01:34:10 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Tue, 16 Aug 2016 01:34:10 +0000
+Message-ID: <20160816013410.96862315@web1.develooper.com>
+Subject: Senior Software Development Engineer (onsite), Leeds, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20368
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 16, 2016
+
+Job title: Senior Software Development Engineer
+
+Company name: HMDS, Leeds Cancer Centre
+
+Location: Leeds, UK
+
+Pay rate: £31,383 – £41,373
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+HMDS provides a specialist service for the diagnosis of leukaemia and
+lymphoma for patients in North, West and East Yorkshire together with
+patients from outside the region and those enrolled on national clinical
+trials. The laboratory is an NHS facility based at the Leeds Cancer Centre,
+St. James's University Hospital in Leeds and is one of the largest of its
+type in the UK.
+
+An opportunity has arisen for the permanent position of a
+senior software development engineer (NHS AfC Band 7) in HMDS responsible
+for the running, maintenance and delivery of a bespoke laboratory
+information system (HILIS) which manages all business processes within HMDS
+ranging from clinical patient data and laboratory results, producing a
+single integrated diagnostic report as well as functioning as an
+administrative, information, audit and management system.
+
+Desired skills:
+Key skills will include:
+* practical experience in Perl programming and a
+modern development framework (Catalyst, Dancer2)
+* experience with
+relational databases (MySQL or Postgres)
+* development and deployment of
+web applications on UNIX systems
+* general UNIX systems administration and
+(preferably Debian) package management 
+* working knowledge of testing
+strategies and change management processes
+* familiarity with fastcgi,
+starman/psgi, jQuery advantageous
+
+Website for more information: http://www.hmds.info
+
+Contact information at:
+http://jobs.perl.org/job/20368#contact

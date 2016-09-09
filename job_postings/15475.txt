@@ -1,0 +1,134 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15475
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 9490 invoked from network); 3 Apr 2016 23:16:28 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 3 Apr 2016 23:16:28 -0000
+Received: (qmail 9340 invoked by uid 225); 3 Apr 2016 23:16:28 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 9336 invoked by alias); 3 Apr 2016 23:16:27 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 03 Apr 2016 16:16:25 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id F2B38399; Sun,  3 Apr 2016 23:16:21 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sun, 3 Apr 2016 23:16:21 +0000
+Message-ID: <20160403231621.F2B38399@web1.develooper.com>
+Subject: Perl Software Developer (onsite), Newcastle, NSW Australia
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20156
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 31, 2016
+
+Job title: Perl Software Developer
+
+Company name: YesBookIt (a part of the Stayz & HomeAway family)
+
+Location: Newcastle, NSW Australia
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Are you passionate about great customer experience? Love building software
+that people really use? Do you like to get stuff done?
+YesBookit is the
+leading holiday rentals booking management system in Australia and we are
+looking for a new passionate Perl developer to join our ambitious team.
+You
+will take part in all aspects of the software development lifecycle and
+help develop software that business rely on to be successful.
+YesBookit is
+part of the HomeAway family, this provides the opportunity to integrate and
+learn from industry leading teams around the world, whether it be IT
+Security or AI. The HomeAway Australia family also consists of our siblings
+at Stayz.com.au who operate from a first-class office in Sydney. We
+regularly work (and play!) with the team in Sydney, this provides another
+avenue for learning between peers.
+What we're looking for
+
+-	A
+programmer at heart and that is passionate about solving problems for the
+user.
+-	You should have a passion for code quality, employing best
+practises while still being able to get things done in a timely way.
+-     
+ You must be able to express yourself and participate in a team
+environment. You need to have a passion for your work and for getting
+things done. You like to laugh.
+-	Ideally, you will be a creative
+thinker who can find simple solutions to interesting problems. It is also
+important that you know how to think about delivering customer-focused
+solutions.
+-	You understand and can work with test-driven
+development, continuous integration, and Agile Software Development.
+You’ll
+become a part of our small but dedicated vibrant, stable and growing
+development team working alongside other Perl developers, Front End
+developers, QA engineers and Product Managers working in a focused agile
+team.
+Benefits
+
+-	Highly competitive salary with targeted annual
+bonus
+-	New office overlooking Newcastle's foreshore in the
+Honeysuckle district with free snacks and drinks!
+-	Comprehensive
+learning and development program
+-	Ability to work up to two weeks in
+any of the HomeAway offices worldwide (Austin, Paris, London ...)
+-      
+Relaxed atmosphere where creativity is encouraged
+Responsibilities
+
+-      
+Develop against the existing YesBookit codebase and new projects
+-      
+Work closely with front-end development, QA, product and marketing
+functions, and other key internal stakeholders
+-	Ensure consistent,
+clean coding and adherence to relevant coding standards
+
+Desired skills:
+Should Have
+-	Formal software engineering education or equivalent
+(coding and design)
+-	2 + years of experience developing Perl for web
+applications
+-	Experience in developing OO (Object-oriented) Perl
+applications
+Desirable Experience
+-	Git or similar CVS
+-      
+Development in Mac or Linux environments
+-	First hand use of modern
+Perl technologies such as PSGI, Catalyst, Dancer, Starman etc
+-      
+Database driven (MySQL) Perl application development
+-	Knowledge of
+Amazon Web Services (EC2, S3, Route53)
+-	Development of and against
+REST APIs
+-	Agile software tools e.g. JIRA
+
+Website for more information:
+https://www.homeaway.com/info/about-us/career-opportunities
+
+Contact information at:
+http://jobs.perl.org/job/20156#contact

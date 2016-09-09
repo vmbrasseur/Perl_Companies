@@ -1,0 +1,97 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15532
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 24915 invoked from network); 21 May 2016 06:30:31 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 21 May 2016 06:30:31 -0000
+Received: (qmail 20893 invoked by uid 225); 21 May 2016 06:30:28 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 20884 invoked by alias); 21 May 2016 06:30:25 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 20 May 2016 23:30:21 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 455B91C7; Sat, 21 May 2016 06:30:18 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 21 May 2016 06:30:18 +0000
+Message-ID: <20160521063018.455B91C7@web1.develooper.com>
+Subject: Perl Software Developer (onsite), Mamer, Luxembourg
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20222
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 21, 2016
+
+Job title: Perl Software Developer
+
+Company name: Conceptware
+
+Location: Mamer, Luxembourg
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+CONCEPTWARE has set the regulatory reporting standard for more than 25
+years and has become the most trusted provider of advanced and easy-to-use
+regulatory reporting solutions with superior expertise and support to the
+banking industry. 
+
+We are seeking to reinforce our development team with a
+Perl Software Developer.
+This challenging post would suit a flexible
+developer with at least 5 years of real-world development experience.
+Essential duties and responsibilities: 
+- maintenance of current
+application
+- development of new functionality; responsible for
+troubleshooting and resolving application issue
+- perform development unit
+level testing and may assist in QA testing
+- assist in project planning,
+estimate gathering, developer resource fulfillment, application and website
+design, and architectural enhancements and improvements
+- work effectively
+with team members to deliver well designed, working product features and
+enhancements.
+- knowledge and experience in web technology
+- ability to
+work independently without much supervision
+- analytical and
+problem-solving mindset, with a collaborative and influential approach and
+a strong customer focus.
+- Excellent spoken and written French or English.
+
+Desired skills:
+The following skills are required:
+- Perl >=5.10, DBIx::Class, Mojolicious,
+OOP
+- SQL (ideally	MSSQL)
+- Javascript (JQuery) 
+- CSS, html, json, xml
+-
+svn or git
+
+The following skills would be advantageous:
+- Perl on windows
+-
+C, C++
+
+Website for more information: http://www.conceptware.lu
+
+Contact information at:
+http://jobs.perl.org/job/20222#contact

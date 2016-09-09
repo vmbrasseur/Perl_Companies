@@ -1,0 +1,93 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14112
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 18297 invoked from network); 27 Jan 2014 17:00:25 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 27 Jan 2014 17:00:25 -0000
+Received: (qmail 24140 invoked by uid 225); 27 Jan 2014 17:00:24 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 24136 invoked by alias); 27 Jan 2014 17:00:24 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 27 Jan 2014 09:00:18 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 7ADD14296E; Mon, 27 Jan 2014 09:00:15 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 27 Jan 2014 09:00:15 -0800
+Message-ID: <20140127170015.7ADD14296E@x3.develooper.com>
+Subject: Perl Programmer (telecommute), Gatwick, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17249
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 27, 2014
+
+Job title: Perl Programmer
+
+Company name: Thermeon
+
+Location: Gatwick, UK
+
+Pay rate: £30-50k
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+Thermeon are looking for experienced programmers to join its UK development
+team. Applicants should be versatile and inquisitive by nature, able to
+adapt to new technologies, frameworks and languages. A personal interest in
+computing and programming should drive applicants to explore and innovate
+on their own. Thermeon provides services and software primarily to the car
+rental industry, and employees find interesting challenges that stimulate
+innovative solutions using the full range of technical resources available.
+
+
+Telecommuting is available within the UK if candidates have a track record
+of successfully working remotely in the past,
+have a suitable environment free from distractions, and are available to
+travel to the
+Gatwick based UK office when necessary. Applicants must have the right to
+work in the UK.
+
+Applicants should be fluent in the Linux environment with experience in
+web services, web servers, databases and networking.
+They must have strong history of planning and delivering projects from
+beginning to end.
+
+An engaged approach to problem solving and a self-reliance are key
+attributes for a candidate. Thermeon will continue to investigate and
+adopt new technologies and employees should always enjoy learning to
+apply new dynamic solutions to existing problems.
+
+Required skills:
+Whilst a capacity to learn is fundamental to the role, the following
+skills/familiarities are very desirable:
+
+- Perl 4+ years (Catalyst/DBIxC/Moose/POE)
+- Unit testing
+- Version Control (git/hg)
+- Web interfaces (XML/SOAP/HTML/CSS)
+- Javascript frameworks (ExtJS ideally)
+- Relational Databases (Postgresql)
+- Linux environment (Bash/zsh/vim)
+- Web Servers (apache/lighttpd)
+
+Website for more information: http://www.thermeon.com/
+
+Contact information at:
+http://jobs.perl.org/job/17249#contact

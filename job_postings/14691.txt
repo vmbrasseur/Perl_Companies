@@ -1,0 +1,98 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14691
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 20903 invoked from network); 28 Sep 2014 23:23:12 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 28 Sep 2014 23:23:12 -0000
+Received: (qmail 9935 invoked by uid 225); 28 Sep 2014 23:23:11 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 9931 invoked by alias); 28 Sep 2014 23:23:11 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 28 Sep 2014 16:23:05 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id C6C2342ABB; Sun, 28 Sep 2014 16:23:02 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sun, 28 Sep 2014 16:23:02 -0700
+Message-ID: <20140928232302.C6C2342ABB@x3.develooper.com>
+Subject: Systems and Web developer (part onsite), London, Ontario
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18957
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 28, 2014
+
+Job title: Systems and Web developer
+
+Company name: btconsulting.co
+
+Location: London, Ontario
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Flexible
+
+Onsite: some
+
+Description:
+We are looking to bring on a web developer to help us take on larger and
+more complex projects. This posting is for our head office in London,
+Canada.
+
+EDUCATION
+
+Technologies is changing rapidly in today’s world, and what was taught 5
+years ago might not be as relevant today. What remains important are
+critical thinking and a desire to learn. We realize that talented
+developers can emerge from non-traditional environments, this is why when
+assessing potential candidates, we give priority to what you can do rather
+than what you studied in school. Please provide us with as many examples of
+your work as possible (previous employment, hobby projects, etc).
+
+Required skills:
+Required Perl Experience with:
+-Mojolicious, Mason
+-DBICx, Mango, DBD::MySQL, SQLEngine
+
+Required Web Knowledge:
+-HTML5/CSS3
+-Javascript/JQuery
+
+Client Side Framework:
+
+- Atleast one Angular.js (Preferred), Backbone.js or other client-side
+frameworks
+
+- Twitter bootstrap (Required)
+
+Required:
+-JSON and web service integration (Recommended)
+-Comfortable with RDMS and NoSQL databases (MySQL/MongoDB)
+
+Tools:
+-Test::More
+-Git (Required)
+-TDD/BDD (Preferred)
+
+Desired skills:
+Ansible, Salt experience
+Products build with RESTful APIs
+A portfolio of released products
+
+Systems:
+-Linux/Ubuntu
+-AWS
+
+Contact information at:
+http://jobs.perl.org/job/18957#contact

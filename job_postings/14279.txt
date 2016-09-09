@@ -1,0 +1,70 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14279
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 15450 invoked from network); 27 Mar 2014 14:57:20 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 27 Mar 2014 14:57:20 -0000
+Received: (qmail 29867 invoked by uid 225); 27 Mar 2014 14:57:19 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 29863 invoked by alias); 27 Mar 2014 14:57:19 -0000
+X-Spam-Status: No, hits=-5.3 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,SUBJECT_NEEDS_ENCODING,SUBJ_ILLEGAL_CHARS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 27 Mar 2014 07:57:18 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 681CC42954; Thu, 27 Mar 2014 07:57:15 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 27 Mar 2014 07:57:15 -0700
+Message-ID: <20140327145715.681CC42954@x3.develooper.com>
+Subject: Software Developer – Data Integration (onsite), New York City, NY
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18510
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 27, 2014
+
+Job title: Software Developer – Data Integration
+
+Company name: Citi
+
+Internal ID: 14009418
+
+Location: New York City, NY
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+This specialized software developer position will be responsible for
+modeling, designing, and enhancing a data system infrastructure to support
+the next generation fixed income analytics product suite.
+
+Full Description:
+https://citi.taleo.net/careersection/2/jobdetail.ftl?job=14009418&lang=en&s
+ns_id=
+
+Required skills:
+Job require maintenance and enhancements of large scale shell/perl systems
+- data integration, database maintenance, etc.
+
+Experience developing and support production systems is needed.
+
+Website for more information:
+https://citi.taleo.net/careersection/2/jobdetail.ftl?job=14009418&lang=en&s
+ns_id=
+
+Contact information at:
+http://jobs.perl.org/job/18510#contact

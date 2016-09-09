@@ -1,0 +1,102 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15286
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 23309 invoked from network); 16 Nov 2015 13:28:01 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 16 Nov 2015 13:28:01 -0000
+Received: (qmail 5011 invoked by uid 225); 16 Nov 2015 13:28:00 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 4999 invoked by alias); 16 Nov 2015 13:28:00 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 16 Nov 2015 05:27:48 -0800
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id B55B3297; Mon, 16 Nov 2015 13:27:45 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 16 Nov 2015 13:27:45 +0000
+Message-ID: <20151116132745.B55B3297@web1.develooper.com>
+Subject: Perl developer (onsite), Cambridge, Cambridge, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19912
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 16, 2015
+
+Job title: Perl developer
+
+Company name: Eagle Genomics Ltd
+
+Location: Cambridge, Cambridge, UK
+
+Pay rate: £250-300 per day
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The project. You will be developing an enterprise scientific workflow
+orchestration platform using a number of exciting modern technologies
+including cloud platforms (AWS) and container virtualisation technologies
+(Docker). As an integral part of a talented team of developers and
+bioinformaticians you will be supported by senior developers and be offered
+the opportunity to progress your career working with an experienced team in
+the exciting field of bioinformatics. The successful candudate will be
+considered for a permanent position.
+
+Duration: 3-6 months
+
+Desired skills:
+The successful candidate must have:
+
+    Excellent knowledge of Perl,
+ideally including experience of:
+	Developing REST interfaces with
+Catalyst
+	Perl testing frameworks for writing unit and integration
+tests in a continuous integration environment
+    Experience in modern
+development environment using tools such as code versioning (GIT) and
+continuous integration.
+    Experience working in a linux environment
+   
+Good development practices with the ability to write good quality
+maintainable code
+    Good organisation skills and ability to work well in
+a team
+
+In addition the successful candidate will have one or more of the
+following:
+
+    Familiarity with Docker
+    Experience using Amazon Web
+Services
+    Knowledge of Configuration Management ( Chef )
+    Familiarity
+with MySQL
+    Knowledge of the eHive workflow management system
+    Test
+Driven Development (TDD) experience
+    Understanding of MVC framework
+   
+Familiarity with the Agile approach to product development
+    An interest
+in Bioinformatics
+
+Website for more information: http://www.eaglegenomics.com/
+
+Contact information at:
+http://jobs.perl.org/job/19912#contact

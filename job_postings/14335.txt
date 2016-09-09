@@ -1,0 +1,121 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14335
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 15888 invoked from network); 19 Apr 2014 05:01:52 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 19 Apr 2014 05:01:52 -0000
+Received: (qmail 8892 invoked by uid 225); 19 Apr 2014 05:01:52 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 8888 invoked by alias); 19 Apr 2014 05:01:52 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 18 Apr 2014 22:01:50 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 8C5D042972; Fri, 18 Apr 2014 22:01:46 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 18 Apr 2014 22:01:46 -0700
+Message-ID: <20140419050146.8C5D042972@x3.develooper.com>
+Subject: Sr Software Engineer (part onsite), West Los Angeles, Los Angeles,
+ CA, USA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18562
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 18, 2014
+
+Job title: Sr Software Engineer
+
+Company name: TigerLead Division - Move Sales, Inc
+
+Internal ID: 3106
+
+Location: West Los Angeles, Los Angeles, CA, USA
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+TigerLead is one of the most heavily-trafficked networks of real estate
+sites on the web, and we are dedicated to helping home buyers and sellers
+to connect with the best realtors.
+
+This is an exciting opportunity for a sharp Senior Perl Engineer to work in
+a startup-like atmosphere within a small but profitable and fast-growing
+division of Move Inc (located in West Los Angeles), where your
+contributions will make a direct impact on clients’ success.
+
+Our engineering team is a fun and passionate group. We do agile development
+based on Scrum, so experience with agile practices, quick iterations, and
+integration of regular feedback is required. As a result, an ability to
+communicate directly and effectively with stakeholders (both verbally and
+in writing) to be able to define and clarify requirements is essential.
+
+
+*** Responsibilities ***
+
+- Architect and develop highly-scalable, secure, and modern web
+applications. Your audience will be buyer/seller leads, our realtor
+clients, and internal customers, with opportunities for both front-end and
+back-end work.
+- Deliver clean, functional, modular, well-documented, and well-tested
+code.
+- Work with our QA staff to ensure thorough functional testing, prepare
+deployment plans, and identify areas of risk.
+- Communicate proactively with stakeholders to help gather requirements and
+translate them into functional/technical specs, and integrate their
+feedback during the development process.
+- Mentor junior developers, and contribute to the evolution of our
+technology stack.
+
+
+*** Location and Hours ***
+
+Preference will be given to candidates who can work in our Los Angeles
+office (at 1554 S. Sepulveda Blvd). This is a full-time (40 hours per week
+M-F) position.
+
+
+*** Additional Benefits ***
+
+- A kitchen stocked with snacks, energy drinks, and more.
+- Sharp coworkers, including Tim Bunce, who has been working with the team
+for several years and recommends this opportunity.
+- Contributing to open-source projects is encouraged.
+- Flexible work hours (with normal core hours of 10am-4pm Pacific Time).
+- A prime location just off the 405 in West LA.
+
+Required skills:
+- Senior level software engineer, with 5+ years of Perl experience.
+- Strong experience working and developing within a Linux/Perl environment
+(CentOS, Apache/Nginx, PostgreSQL, Perl, Varnish, Elasticsearch, etc).
+- Able to architect and implement solutions to complex problems on large,
+scalable web applications.
+- Strong background in OOP, MVC design, and SOA / Web Services. In
+particular, experience with Catalyst and/or Mojolicious, DBIx::Class, and
+Moose is very desirable.
+- Excellent SQL skills, PostgreSQL preferred.
+- HTML and CSS skills to create web templates.
+- Experience with JavaScript (jQuery) and AJAX.
+- Solid grasp of source code management fundamentals (we use git and
+GitHub).
+- Team-first attitude, excellent communication, and interpersonal skills;
+enjoy collaborating with others.
+
+Website for more information: http://www.tigerlead.com/
+
+Contact information at:
+http://jobs.perl.org/job/18562#contact

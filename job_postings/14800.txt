@@ -1,0 +1,76 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14800
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 31623 invoked from network); 4 Dec 2014 05:49:27 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 4 Dec 2014 05:49:27 -0000
+Received: (qmail 32458 invoked by uid 225); 4 Dec 2014 05:49:27 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 32454 invoked by alias); 4 Dec 2014 05:49:27 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 03 Dec 2014 21:49:21 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 737E54296E; Wed,  3 Dec 2014 21:49:18 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 3 Dec 2014 21:49:18 -0800
+Message-ID: <20141204054918.737E54296E@x3.develooper.com>
+Subject: Senior Software Developer (Perl/Python) (onsite), Nuremberg, Germany
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19104
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December  3, 2014
+
+Job title: Senior Software Developer (Perl/Python)
+
+Company name: noris network AG
+
+Internal ID: Ticket 20173584
+
+Location: Nuremberg, Germany
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+noris network AG is a medium-sized IT company that runs its own data
+centers, offers hosting, housing and IT outsourcing.
+
+The development team works on internally used tools, including automation,
+integration and web/CLI frontends for various databases.
+
+Currently a new service-oriented archicture is being built.
+
+For development of new systems, and maintenance of the old ones, we are
+looking for Perl and/or Python developer. We provide far-reaching freedom
+in the use of development tools and libraries, and close contact to the
+stakeholders of each feature request.
+
+Required skills:
+You must be familiar with Perl or Python, and Linux-Based operating
+systems. You must be able to speak German.
+
+Desired skills:
+As a bonus, you have some familiarity with Bash, Javascript, SQL databases,
+RabbitMQ, git and Jenkins. Or a subset thereof.
+
+Website for more information:
+https://www.noris.de/de/unternehmen/jobs/senior-software-developer-m-w.html
+
+Contact information at:
+http://jobs.perl.org/job/19104#contact

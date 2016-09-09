@@ -1,0 +1,85 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14407
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 12758 invoked from network); 23 May 2014 00:15:29 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 23 May 2014 00:15:29 -0000
+Received: (qmail 27483 invoked by uid 225); 23 May 2014 00:15:28 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 27479 invoked by alias); 23 May 2014 00:15:28 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,LOTS_OF_MONEY,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 22 May 2014 17:15:25 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 173B842960; Thu, 22 May 2014 17:15:22 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 22 May 2014 17:15:22 -0700
+Message-ID: <20140523001522.173B842960@x3.develooper.com>
+Subject: Network Services Applications Programmer (onsite), Madison, WI
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18644
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 22, 2014
+
+Job title: Network Services Applications Programmer
+
+Company name: University of Wisconsin, Madison
+
+Internal ID: 73628
+
+Location: Madison, WI
+
+Pay rate: $54,332-$99,426 US Dollars/Yr
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The authoritative job description is here:
+https://wisc.jobs/public/job_view.asp?annoid=74113&jobid=73628&org=285&clas
+s=13374&index=true
+
+The University of Wisconsin, Madison is looking for another programmer
+for the Network Services Application Programming Group. We mostly do
+system automation to scrape router configs and show output, simple web
+apps to configure network gear, a complex WebUI LAMP frontend to let
+departments manage their switches, and backend stuff on a LAMP stack.
+We are mostly Perl with some bash, MySQL, RHEL/CentOS Linux, and
+python.
+
+Required skills:
+DoIT Network Applications develops, maintains and operates the software
+used by Network Services and campus Authorized Agents to automate,
+configure, maintain and monitor the network. The software is mostly Perl,
+MySQL and CGI, but we will consider developers with experience in other
+languages. This is a senior position, and you must have experience creating
+and maintaining multiple medium to large systems in the above environment.
+The work hours are mostly flexible daytime, but some off hour support might
+be required as noted in the job posting.
+
+Desired skills:
+Strong skills in Perl, moderate to strong skills in Linux, Apache, MySQL,
+Network Engineering, Unix scripting and systems admin, and development of
+large systems relied on by many users.
+
+Website for more information:
+https://wisc.jobs/public/job_view.asp?annoid=74113&jobid=73628&org=285&clas
+s=13374&index=true
+
+Contact information at:
+http://jobs.perl.org/job/18644#contact

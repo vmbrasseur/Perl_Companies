@@ -1,0 +1,100 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15686
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 17968 invoked from network); 8 Sep 2016 01:48:21 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 8 Sep 2016 01:48:21 -0000
+Received: (qmail 22747 invoked by uid 225); 8 Sep 2016 01:48:21 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 22743 invoked by alias); 8 Sep 2016 01:48:21 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 07 Sep 2016 18:48:18 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 5266D348; Thu,  8 Sep 2016 01:48:15 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 8 Sep 2016 01:48:15 +0000
+Message-ID: <20160908014815.5266D348@web1.develooper.com>
+Subject: Perl (OO) Web Engineer - Web hosting (onsite), London, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20402
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 30, 2016
+
+Job title: Perl (OO) Web Engineer - Web hosting
+
+Company name: Investment Bank
+
+Location: London, UK
+
+Pay rate: £450-500/day
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+OO Perl Web Engineer - Web hosting
+London
+Investment Banking
+£450-500/day
+
+Seeking an experienced Perl developer to join the engineering team,
+responsible for Unix web hosting clusters.  Running a LAMP stack for web
+hosting intranet and Internet-facing websites with an in-house developed
+automation layer and self-service configuration web portal, both written
+mainly in Perl.  This area serves as the in-house web hosting service
+provider for the Bank’s web development teams.
+
+Applicants must be prepared
+to work Monday-Friday on-site at their London office.
+
+Desired skills:
+Required Experience:
+• Direct experience of designing and managing large
+scale web server installations with complex configurations
+• Experience in
+one or more of: C, C++, Java, Perl, Python, Go, or scripting experience in
+Shell and Perl.
+• OOP (especially OO Perl), unit testing
+• Experience
+working with Unix/Linux systems from kernel to shell and beyond, with
+experience working with system libraries, file systems, and client-server
+protocols.
+• Web hosting, caching and proxy software and related
+technologies: Apache, volume hosting setups with Apache vhosts, HTTP, SSL,
+CGI, FastCGI
+• Revision control systems (git, Subversion, branching and
+merging)
+• Ability to reverse-engineer legacy code, thorough testing
+approach when refactoring legacy code
+• Can build software from source;
+make, autoconf, etc.
+• Networking experience with network theory e.g.
+TCP/IP, UDP, ICMP, etc., MAC addresses, IP packets, DNS, OSI layers, and
+load balancing.
+
+Desirable:
+• Perl modules: Template::Toolkit,
+CGI::Prototype, Test::More, LWP, Embperl
+• Application and OS security
+•
+Load balancers (F5 BigIP load balancers), software load balancing
+technologies (Apache mod_proxy_balancer, mod_jk)
+
+Contact information at:
+http://jobs.perl.org/job/20402#contact

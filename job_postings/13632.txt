@@ -1,0 +1,130 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13632
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 21310 invoked from network); 7 Aug 2013 19:47:29 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 7 Aug 2013 19:47:29 -0000
+Received: (qmail 28823 invoked by uid 225); 7 Aug 2013 19:47:29 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 28819 invoked by alias); 7 Aug 2013 19:47:29 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 07 Aug 2013 12:47:23 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id EF6582AFDF; Wed,  7 Aug 2013 12:47:19 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 7 Aug 2013 12:47:19 -0700
+Message-ID: <20130807194719.EF6582AFDF@x3.develooper.com>
+Subject: Web developer/Software Engineer (part onsite), Ladera Ranch, CA,
+ United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/1380
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August  7, 2013
+
+Job title: Web developer/Software Engineer
+
+Company name: IntelliSurvey, Inc.
+
+Location: Ladera Ranch, CA, United States
+
+Pay rate:
+DOE, but usually $45K to $100K plus quarterly bonuses
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+IntelliSurvey develops cutting-edge software for web surveys and online
+reports.  Sure, there are many ways to deploy simple web surveys, but we
+focus on the most complex and tricky projects.	For example, we run
+Fortune's Most Admired Company's survey, which goes out to thousands of
+CEOs and Fortune 1000 board members.  We handle complex surveys that go out
+to hundreds of doctors, with each one being paid a few hundred bucks to
+take the survey.  So our software has to handle things like quotas, complex
+branching, fraud detection, and many other things that simple tools don't
+even think of doing.  We also need advanced tools that allow clients to
+slice and dice the survey data we collect.  All of our software is
+web-based, and we use it internally and license it via an SaaS model.
+
+Note that we aren't looking for people to program surveys (at least not
+with this posting).  We already have another team that does survey
+programming and works with market research clients on a daily basis.  This
+posting is all about finding candidates to build the software that builds
+the surveys.  We need programmers who can write clean, modular code to help
+us extend and improve our software.  Now is a great time to join our team,
+as we in the midst of designing and developing a major new release of our
+software.  This includes re-writing our code to use Moose and Plack/PSGI.
+
+Experience with the technologies we use is great (see list below), but more
+important that any particular skill is the ability to learn quickly, figure
+things out on the fly, and make things happen.	We are willing to train new
+team members as needed to fill in any gaps in experience.
+
+In addition, because we are a small team, team members need to be able to
+wear many hats and fill in where needed.  Everyone helps with client
+support, and some server administration and IT work comes up from time to
+time as well, so adaptability and experience in these areas is helpful as
+well.
+
+We will consider a range of candidates, from entry-level to experienced.
+
+*About IntelliSurvey, Inc.*
+
+We're a small, growing company.  Currently we have about 60 employees, and
+we are planning to grow significantly over the new few years.  We are
+funded entirely through operating cash flow, however, so we are stable and
+free to grow at our own pace.
+
+We offer standard benefits such as a retirement plan with company match,
+health and dental insurance, stock options, and so on.	Many of our
+employees work remotely, so our offices in Ladera Ranch, CA are small, and
+we can't offer a company cafeteria.  But we are very flexible and focus on
+results rather than face time.	After initial training, our development
+team members can have flexible work hours and some work from home
+arrangements as well.
+
+People who are self-starters and can work independently will fit in well
+with our team.
+&nbsp;
+
+Required skills:
+&bullet; object-oriented Perl programming experience
+&bullet; the ability to write clean, modular, and understandable code
+&bullet; excellent communication skills
+&bullet; the ability to work well in teams
+&bullet; the ability to learn quickly and apply new skills to the task at
+hand.
+&nbsp;
+
+Desired skills:
+&bullet; Moose experience (we are re-writing major parts of our code to
+convert from regular OO perl to Moose)
+&bullet; DBI and PostgreSQL and/or general database experience
+&bullet; experience with Plack/PSGI
+&bullet; Javascript, and in particular experience with the ExtJS and jQuery
+libraries would be helpful.
+&bullet; Version control experience, particularly with git
+&bullet; Linux system administration skills
+&bullet; A sense of humor
+&nbsp;
+
+Website for more information: http://www.intellisurvey.com/
+
+Contact information at:
+http://jobs.perl.org/job/1380#contact

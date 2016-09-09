@@ -1,0 +1,68 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13693
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 25426 invoked from network); 30 Aug 2013 19:08:43 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 30 Aug 2013 19:08:43 -0000
+Received: (qmail 13162 invoked by uid 225); 30 Aug 2013 19:08:43 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 13158 invoked by alias); 30 Aug 2013 19:08:43 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 30 Aug 2013 12:08:40 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 05B3A2AFDE; Fri, 30 Aug 2013 12:08:36 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 30 Aug 2013 12:08:36 -0700
+Message-ID: <20130830190837.05B3A2AFDE@x3.develooper.com>
+Subject: Entry-level UNIX/perl support (onsite), Madison, WI
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17821
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 30, 2013
+
+Job title: Entry-level UNIX/perl support
+
+Company name: Restore Health
+
+Location: Madison, WI
+
+Terms of employment: Hourly employee
+
+Hours: Flexible
+
+Onsite: yes
+
+Description:
+We need someone to support our perl-based pharmacy system.  Some of the
+position will be generalized IT support (e.g. fixing printing problems,
+setting up new users, etc) and some will be reading code, finding problems,
+checking mysql entries, and coding more and more as comfort level
+increases.
+
+The user systems are Windows-based.  The servers are FreeBSD.  FreeBSD
+works differently than linux and some familiarity with *BSD is strongly
+preferred.
+
+Required skills:
+perl
+mysql
+FreeBSD
+general IT (Windows)
+
+Desired skills: VoIP phone system support
+
+Contact information at:
+http://jobs.perl.org/job/17821#contact

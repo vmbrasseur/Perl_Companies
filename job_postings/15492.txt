@@ -1,0 +1,99 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15492
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 9724 invoked from network); 23 Apr 2016 20:31:52 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 23 Apr 2016 20:31:52 -0000
+Received: (qmail 9918 invoked by uid 225); 23 Apr 2016 20:31:51 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 9914 invoked by alias); 23 Apr 2016 20:31:50 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 23 Apr 2016 13:31:48 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 6E02750E; Sat, 23 Apr 2016 20:31:45 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 23 Apr 2016 20:31:45 +0000
+Message-ID: <20160423203145.6E02750E@web1.develooper.com>
+Subject: Perl Developer - Backend - Ecommerce (onsite), London, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20168
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 12, 2016
+
+Job title: Perl Developer - Backend - Ecommerce
+
+Company name: Opus Resourcing Ltd (Agency)
+
+Location: London, UK
+
+Pay rate: £40-60k + Bens + Bonus to 10%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Perl Developers required with proven skills in Server Side Perl, SQL/RDBMS
+(ideally PostgreSQL or MySQL), Version Control GIT etc, Linux OS knowledge
+and API's (JSON & XML), CPAN modules and modern Perl frameworks ideally
+Catalyst is required to work in dynamic Agile environment on modern Perl
+stack and on high volume systems by E-commerce Giant in West London. 
+
+Candidates must be eligible to work in the UK.
+
+Desired skills:
+Required Skills & Experience: 
+
+.Server Side development in Perl 
+.SQL/RDBMS (ideally PostgreSQL) 
+.Version control systems (we use git) 
+.Able to investigate & trouble-shoot technical issues 
+.Able to rapidly and
+effectively context-switch 
+.Linux OS familiarity 
+
+Desirable Skills &
+Experience: 
+
+.Experience of any of the following will be useful but
+training will be provided to the right candidate. 
+.Able to develop
+web-based user interfaces (HTML, CSS) & APIs (JSON & XML) 
+.Knowledge of
+CPAN modules and frameworks, particularly:Catalyst or DBI, DBIx:Class,
+Plack, Template Toolkit and Moose 
+.AJAX, Javascript & JS frameworks (we
+use jQuery) 
+.Experience building and testing high-availability
+applications 
+.Agile development methodologies and practises (Scrum,
+Kanban, TDD) 
+.Developing remote services with Perl and working with SOA 
+.Implementing continuous delivery (ideally using Jenkins and OpenStack) 
+.One or more JVM based languages and/or Ruby (specifically using the
+Cucumber test framework) 
+.Perl & Linux conventions 
+.Message queues (we
+use ActiveMQ) 
+.Perl testing frameworks 
+.Refactoring
+
+Website for more information: http://www.opusresourcing.com
+
+Contact information at:
+http://jobs.perl.org/job/20168#contact

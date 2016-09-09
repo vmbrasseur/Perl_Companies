@@ -1,0 +1,73 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13749
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 18739 invoked from network); 24 Sep 2013 03:03:43 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 24 Sep 2013 03:03:43 -0000
+Received: (qmail 6460 invoked by uid 225); 24 Sep 2013 03:03:43 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 6455 invoked by alias); 24 Sep 2013 03:03:43 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 23 Sep 2013 20:03:36 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 3A5FE2AFE0; Mon, 23 Sep 2013 20:03:33 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 23 Sep 2013 20:03:33 -0700
+Message-ID: <20130924030333.3A5FE2AFE0@x3.develooper.com>
+Subject: Senior Perl Developer (onsite), Franklin, TN
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17873
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 23, 2013
+
+Job title: Senior Perl Developer
+
+Company name: Franklin American Mortgage
+
+Location: Franklin, TN
+
+Pay rate: 60000+
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+FAMC is a Franklin, TN based mortgage company seeking a Senior level Perl
+developer to maintain/develop/cleanup existing Perl scripts.  The ideal
+candidate has a Computer Science background writing a variety of languages
+and unit tests (including Perl).  The candidate should be highly motivated
+and willing to learn.
+ 
+Responsibilities:
+Writing Perl scripts to manipulate data using MS SQL Server, site scraping
+using LWP, uploading/downloading data using Net::SFTP.
+
+Required skills:
+Senior level Perl developer experience.
+Strong linux skillset.
+Experience with databases writing queries and stored procedures, MS SQL
+Server a plus.
+Experience with test driven development.
+Excellent analytical, problem-solving, and communication skills.
+Collaborate with team & stakeholders to define, design, estimate, and build
+scripts to aid the business.
+Knowledge of Git and other version control systems.
+
+Contact information at:
+http://jobs.perl.org/job/17873#contact

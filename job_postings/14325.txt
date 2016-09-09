@@ -1,0 +1,116 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14325
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 16265 invoked from network); 19 Apr 2014 05:02:29 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 19 Apr 2014 05:02:29 -0000
+Received: (qmail 9012 invoked by uid 225); 19 Apr 2014 05:02:29 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 9006 invoked by alias); 19 Apr 2014 05:02:27 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 18 Apr 2014 22:02:24 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id E676742972; Fri, 18 Apr 2014 22:02:21 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 18 Apr 2014 22:02:21 -0700
+Message-ID: <20140419050221.E676742972@x3.develooper.com>
+Subject: Business & Technology Applications Analyst II (onsite), St. Louis,
+ MO, USA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18564
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 18, 2014
+
+Job title: Business & Technology Applications Analyst II
+
+Company name: The Genome Institute at Washington University
+
+Internal ID: 27761
+
+Location: St. Louis, MO, USA
+
+Pay rate: commensurate with experience
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The Genome Institute at Washington University has an opening for a talented
+software engineer in the Bioinformatics group.	The position will work with
+an experienced group of software engineers to develop software supporting
+the tracking of laboratory data and analysis processes to support large
+scale genomic research projects.  The Genome Institute has been at the
+forefront of genome research since its inception in 1993 and has been a
+part of major scientific projects such as the Human Genome, 1000 Genomes
+and TCGA (The Cancer Genome Atlas) Projects.  The Genome Institute is a
+world-leader in the generation and analysis of genomic sequence data and
+uses this data to extend biological knowledge of the human genome and
+provide clinically relevant sequence analysis aimed at understanding human
+diseases (such as cancer and Alzheimer's disease).  In addition, the
+Institute fosters public understanding of genomic science through various
+educational and outreach efforts.
+
+One of only three NIH-funded large-scale genome centers in the United
+States, The Genome Institute at Washington University is a leader in
+genomics research as it applies to the study of biology, human disease and
+the field of personalized medicine. Founded in 1993, The Genome Institute
+focuses on cancer genomics, the genomics of heritable diseases, microbial
+and pathogen genomics, as well as novel sequencing and evolutionary
+genomics. 
+
+Our mission is to help improve the human condition by producing, studying,
+and interpreting high-quality genome-based data that drives biological
+discoveries that range from the bench to the hospital bedside. We value the
+open sharing of information and ideas and encourage collaboration while
+also engaging the next generation of scientists through educational
+outreach efforts.
+
+Required skills:
+Certification or degree in computer programming from a technical school or
+college plus two years of relevant work experience required. Additional
+relevant programming experience may be substituted on a year-for-year basis
+for required education
+
+Desired skills:
+The ideal candidate has a talent and love for writing software, is
+interested in developing that skill, and applying it in a production
+environment.  The candidate will be expected to learn new things on a
+regular basis, think critically, and collaborate with other developers
+across groups.	The environment is fast-paced and a person who likes to get
+things done will find a lot of opportunity.  Design, testing, debugging,
+and problem analysis are a regular part of the work.  Skills in abstract
+software design, object-oriented architecture, relational data modeling,
+and web interface design will be used frequently, which will require
+thorough knowledge of each concept.  The applicant will use these skills to
+develop software that will: interface with people and/or laboratory
+equipment, process and analyze large data sets on a compute cluster, and
+provide intuitive web based interfaces to the specifications of the
+laboratory managers and technicians.  Proficiency in dynamically typed
+languages (Perl, Ruby, Python, Lisp, etc.) is a plus, but not required. 
+Understanding of relational databases and SQL will be helpful.	Experience
+with web technologies such as HTML, CSS, Javascript and approaches such as
+REST and AJAX is an asset.  Regular work will be done in GNU/Linux and
+other UNIX-like development environments.  Familiarity with open source
+technologies, version control software such as git, and programming in a
+network environment are also assets.
+
+Website for more information: https://jobs.wustl.edu
+
+Contact information at:
+http://jobs.perl.org/job/18564#contact

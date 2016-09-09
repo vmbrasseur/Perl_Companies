@@ -1,0 +1,67 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15265
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 6173 invoked from network); 17 Oct 2015 22:07:16 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 17 Oct 2015 22:07:16 -0000
+Received: (qmail 1125 invoked by uid 225); 17 Oct 2015 22:07:16 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 1121 invoked by alias); 17 Oct 2015 22:07:16 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 17 Oct 2015 15:07:10 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 988862D3; Sat, 17 Oct 2015 22:07:07 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 17 Oct 2015 22:07:07 +0000
+Message-ID: <20151017220707.988862D3@web1.develooper.com>
+Subject: Programmatori software perl/javascript (onsite), Trento, Italy
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19876
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 17, 2015
+
+Job title: Programmatori software perl/javascript
+
+Company name: Leader.IT
+
+Location: Trento, Italy
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Stiamo avviando una nuova startup per la quale stiamo selezionando dei
+programmatori software, per attività sistemistica nonché programmazione di
+sistemi embedded e PLC, principalmente con Linux.
+
+L'attività principale
+consisterà nello sviluppo di una interfaccia Web di programmazione visuale
+(FB) per la progettazione di reti distribuite di controllo e supervisione.
+
+Desired skills:
+Perl: DBI, DBD::Pg, AnyEvent, POE
+Linux, Javascript, Postgresql, Websocket,
+html5
+
+Richiesta conoscenza lingue: italiano e inglese
+
+Website for more information: http://www.leader.it
+
+Contact information at:
+http://jobs.perl.org/job/19876#contact

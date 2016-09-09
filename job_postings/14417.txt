@@ -1,0 +1,104 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14417
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 12792 invoked from network); 23 May 2014 00:15:31 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 23 May 2014 00:15:31 -0000
+Received: (qmail 27492 invoked by uid 225); 23 May 2014 00:15:31 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 27488 invoked by alias); 23 May 2014 00:15:31 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,SUBJECT_NEEDS_ENCODING,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 22 May 2014 17:15:29 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id EB73842972; Thu, 22 May 2014 17:15:26 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 22 May 2014 17:15:26 -0700
+Message-ID: <20140523001526.EB73842972@x3.develooper.com>
+Subject: IT system developer - Linux (onsite), 2880 Bagsværd, Denmark
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18646
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 22, 2014
+
+Job title: IT system developer - Linux
+
+Company name: Novozymes
+
+Internal ID: 168BR
+
+Location: 2880 Bagsværd, Denmark
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Do you want to use your skills on scientific IT applications in
+Biotechnology? In the Bio-IT department at the Novozymes headquarters in
+Bagsværd, Copenhagen, we maintain and develop a large in-house computing
+setup with the central IT systems for the scientific data of the global R&D
+organization.
+
+More than 1000 users within microbiology, molecular biology, bioinformatics
+and biochemistry at the R&D sites on 4 continents use our in-house
+developed systems which we develop in close collaboration with the
+scientists for their daily data registration as well as for advanced genome
+analysis and proteomics.
+
+Linux and Open Source software have been key for IT in Research &
+Development at Novozymes for more than a decade. Perl is the dominant
+compound.
+
+For our IT team we seek a new colleague, who takes pride in building and
+maintaining complex applications crucial to the technical development in a
+research-based company.
+
+Required skills:
+You have a very solid background in software development. You are a fast
+learner and eager to extend your competences. You take responsibility not
+only for your own work, but for the product you develop in a team effort.
+You want to go in depth and create value for the company by enabling new
+possibilities within our platform of central systems.
+
+Desired skills:
+Your technical interest is triggered by:
+
+ * Object oriented Perl development and DBIx::Class (ORM)
+ * Perl based web development using Catalyst, Javascript, Mason
+ * Source control using subversion/git
+ * PostgreSQL installations of more than 100 GB.
+
+The ideal candidate has a master´s degree within computer science or
+similar working experience.
+
+We are a team of 10 who use our knowledge of data management systems to
+enable biotechnology innovation. The team covers all professional
+IT-skills; business analysis, solution design, development, testing and
+debugging, project management, system administration, backup, monitoring,
+capacity planning and user support.
+
+If you have also have participated in IT projects in an enterprise context
+and you enjoy working in a global research organization with people of
+different personalities and cultures, you are the right person for our
+team!
+
+Website for more information:
+http://novozymes.com/en/careers/jobs/Pages/5926_2057_715651.aspx
+
+Contact information at:
+http://jobs.perl.org/job/18646#contact

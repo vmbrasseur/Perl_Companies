@@ -1,0 +1,70 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15605
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 16717 invoked from network); 7 Jul 2016 05:32:09 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 7 Jul 2016 05:32:09 -0000
+Received: (qmail 16061 invoked by uid 225); 7 Jul 2016 05:32:08 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 16056 invoked by alias); 7 Jul 2016 05:32:07 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 06 Jul 2016 22:32:04 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 31C40356; Thu,  7 Jul 2016 05:32:01 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 7 Jul 2016 05:32:01 +0000
+Message-ID: <20160707053201.31C40356@web1.develooper.com>
+Subject: inventor name disambiguation (telecommute), Notre Dame, IN, United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20302
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July  7, 2016
+
+Job title: inventor name disambiguation
+
+Company name: University of Notre Dame
+
+Location: Notre Dame, IN, United States
+
+Pay rate: $3000
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+I am a professor of economics at the University of Notre Dame, doing
+research on the economics of innovation. I need to hire a perl developer to
+help me disambiguate inventor names, application years, and several other
+characteristics from large text files containing OCR versions of United
+States Patent Data. You can see examples of these files here:
+http://patents.reedtech.com/pgocr.php
+I need the perl code to be written in
+such a way that we can easily modify it as need arises	(this means I need
+code that is well-commented and designed in a transparent way, and I need a
+developer who is able and willing to communicate with me about the code). I
+am hoping to have the project done within three weeks.
+
+Desired skills:
+I need a good perl developer, and someone who can communicate with me well.
+Many thanks!
+
+Website for more information: http://www3.nd.edu/~kdoran/
+
+Contact information at:
+http://jobs.perl.org/job/20302#contact

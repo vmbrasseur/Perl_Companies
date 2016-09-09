@@ -1,0 +1,101 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13810
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28569 invoked from network); 20 Oct 2013 07:46:32 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 20 Oct 2013 07:46:32 -0000
+Received: (qmail 28113 invoked by uid 225); 20 Oct 2013 07:46:31 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 28109 invoked by alias); 20 Oct 2013 07:46:31 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 20 Oct 2013 00:46:18 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 00ACA2AFE1; Sun, 20 Oct 2013 00:46:14 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sun, 20 Oct 2013 00:46:14 -0700
+Message-ID: <20131020074615.00ACA2AFE1@x3.develooper.com>
+Subject: Tools Development Engineer (onsite), Palo Alto, CA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17944
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 20, 2013
+
+Job title: Tools Development Engineer
+
+Company name: VMware, Inc.
+
+Internal ID: 40026BR
+
+Location: Palo Alto, CA
+
+Pay rate: $110K - $130K
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+R&D Tools Development Engineer
+
+As a member of the R&D Tools team within VMware, the candidate will
+participate in the development and maintenance of enterprise wide intranet
+based tools for R&D use. We are looking for an enthusiastic developer for
+internal tool applications. Your primary role will be working on Bugzilla,
+which is the standard bug tracking system for all VMware development
+projects. Your customers are over 75% of the VMware employees, many of them
+rely on Bugzilla to do their job.  
+The ideal candidate should be an experienced engineer with a strong overall
+understanding of web application architectures, can quickly understand
+existing applications and making necessary improvements. Full development
+cycle experience is a must with a proven track record of delivering
+products with high quality and on time. We are looking for a person with
+great interpersonal and communication skills and passion for work. This
+position involves close work with internal customers who have both high
+expectations and detailed technical backgrounds. 
+Responsibilities: 
+• Write clean, documented, reusable and scalable code.
+• Utilize performance optimization practices and contribute to sound
+development solutions.
+• Author and maintain technical documentation through the life of a
+project.
+• Recognizing and accommodating multiple viewpoints while designing for
+maximum effectiveness across the Enterprise. 
+• Dedication toward robustness and maintainability.
+• Improving features and enhancing usability for existing tools.
+• Mindset towards making the development environment easier for engineers.
+
+Required skills:
+Requirements: 
+• Bachelor of Science in Computer Science or equivalent relevant
+experience.
+• 5+ years of Web development experience.
+• Expert knowledge of Perl.
+• Working knowledge of Linux, Apache, MySQL, Perl (LAMP).
+• Can demonstrate user centered thinking.
+• Good communication skills and work well in teams.
+• Desired: Worked on Bugzilla code base.
+• Desired: Expert knowledge on SQL based DBs.
+• Desired: Familiar with Agile development methodologies.
+• Desired: Working knowledge of Linux system administration.
+
+Website for more information:
+http://jobs.vmware.com/job/Palo-Alto-Software-Engineer-Tools-Development-En
+gineer-Job-CA-94301/2537488/
+
+Contact information at:
+http://jobs.perl.org/job/17944#contact

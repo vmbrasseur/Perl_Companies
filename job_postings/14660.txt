@@ -1,0 +1,101 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14660
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28199 invoked from network); 9 Sep 2014 02:25:52 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 9 Sep 2014 02:25:52 -0000
+Received: (qmail 22909 invoked by uid 225); 9 Sep 2014 02:25:52 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 22905 invoked by alias); 9 Sep 2014 02:25:52 -0000
+X-Spam-Status: No, hits=-6.7 required=8.0
+	tests=BAYES_00,DRUGS_MUSCLE,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 08 Sep 2014 19:25:48 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 7A15942950; Mon,  8 Sep 2014 19:25:45 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 8 Sep 2014 19:25:45 -0700
+Message-ID: <20140909022545.7A15942950@x3.develooper.com>
+Subject: Senior Software Engineer (telecommute), San Francisco, CA,
+ Vancouver, BC or remote
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17325
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September  8, 2014
+
+Job title: Senior Software Engineer
+
+Company name: Chargesmart
+
+Location: San Francisco, CA, Vancouver, BC or remote
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+Chargesmart.com is a rapidly expanding bill payment website with an
+established user base and thousands of payments processed daily.  We
+launched a completely redesigned and modernized frontend/backend last year,
+and we’re seeking an experienced full stack web engineer to support and
+expand the site post-launch.  Our mission is to make the bill payment
+experience as frictionless as possible, and to that end we value people
+that are fanatical about end-user experience.  
+
+Chargesmart.com provides an easy to use bill payment platform with over
+3000 of the nation’s most popular billers.  We market direct to consumers
+through our chargesmart.com website, and we also provide a white-label
+platform that partners can use to integrate bill payments into their
+applications.  
+
+Chargesmart is headquartered in San Francisco, CA in the SoMa district with
+easy access to BART.  As part of Tio Networks, we also have an office  in
+Vancouver, BC.	Local San Francisco applicants are preferred, but we will
+also consider remote applicants with demonstrable telecommuting experience.
+
+Required skills:
+We’re a small team and you’ll have a chance to work on a bit of everything.
+ Our backend is a perl Dancer app that interacts with the frontend via our
+RESTful API.  The frontend is almost entirely implemented with backbone.js
+and bootstrap. Behind all of that, we have integrations to various payment
+processors to settle and remit funds (all perl).  
+
+Our ideal candidate has:
+
+•	Strong JS skills and has built web apps using backbone.js or
+another JS framework.  
+•	modern OO perl experience (or experience with another modern
+scripting language like ruby or python and is willing to learn)
+•	Has worked with dancer or another mvc framework (rails, flask, etc)
+
+•	Used bootstrap and can explain why responsive design is important. 
+
+•	Solid MySQL experience, plus familiarity with postgres.
+
+Desired skills:
+It’d be great if you also have: 
+
+•	Experience in the payments industry
+•	Sysadmin experience.  We manage our own infrastructure, and
+familiarity with nginx, spacewalk, memcached, basic networking principles,
+backups, etc are always helpful to have.
+•	An interest or experience with risk analytics.	We’re constantly
+improving our risk algorithms to reduce fraudulent transactions.
+
+Website for more information: http://www.chargesmart.com
+
+Contact information at:
+http://jobs.perl.org/job/17325#contact

@@ -1,0 +1,95 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14782
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 2189 invoked from network); 19 Nov 2014 04:55:14 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 19 Nov 2014 04:55:14 -0000
+Received: (qmail 8112 invoked by uid 225); 19 Nov 2014 04:55:13 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 8108 invoked by alias); 19 Nov 2014 04:55:12 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 18 Nov 2014 20:55:10 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 82C5F4294F; Tue, 18 Nov 2014 20:55:07 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Tue, 18 Nov 2014 20:55:07 -0800
+Message-ID: <20141119045507.82C5F4294F@x3.develooper.com>
+Subject: Senior Software Engineer (part onsite), Waltham, MA  USA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18915
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 18, 2014
+
+Job title: Senior Software Engineer
+
+Company name: MaxMind
+
+Location: Waltham, MA  USA
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+As a Senior Software Engineer, your job will be to carry out development
+projects both big and small. You may work on data collection improvements
+for our fraud system, fix bugs in our open source APIs, or develop an
+entirely new service. We're looking for an experienced software developer
+who can make good technical design decisions, write tests and
+documentation, and communicate well with non-developers.
+
+Our development team is largely comprised of telecommuters, so
+communication centers around Google Hangouts, group chat, and agile
+planning tools. We invite candidates to apply from the US and Canada.
+Full-time telecommuting is permitted.
+
+Our Development Practices
+The vast bulk of our code base is written in Perl using PostgreSQL and
+Linux, with a bit of C where it's needed. Though Perl will continue to be
+our language of choice for new code, we’re also developing new services in
+Go when our performance needs demand that we do so. We use free software as
+much as possible, and we release code back to the community when this makes
+sense. We maintain high standards for our development practices. All new
+code is expected to include automated tests, and all work goes through code
+review on our internal GitHub system.
+
+Compensation includes a starting salary of $120-150k/year and participation
+in a performance-based bonus plan.
+
+Required skills:
+•  Dynamic language programming experience. We use Perl but we're happy to
+hear from Javascript, PHP, Python, Ruby, <insert language here> developers
+as well.
+•  Web development, especially RESTful web services.
+•  Experience developing for deployment on a Linux or BSD platform.
+•  Experience writing tests and documentation.
+•  Experience doing code reviews.
+•  Excellent written and spoken communication skills.
+•  The ability to work with a geographically dispersed team.
+
+Desired skills:
+•	Data mining, number crunching, and math skills.
+•  Design for high scalability and distributed processing.
+•  Experience writing C code, especially libraries.
+•  Experience writing Go code.
+•  FS/OSS contributions. Tell us about them!
+
+Website for more information: https://www.maxmind.com/
+
+Contact information at:
+http://jobs.perl.org/job/18915#contact

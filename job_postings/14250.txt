@@ -1,0 +1,84 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14250
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 10532 invoked from network); 12 Mar 2014 07:13:34 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 12 Mar 2014 07:13:34 -0000
+Received: (qmail 3672 invoked by uid 225); 12 Mar 2014 07:13:32 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 3658 invoked by alias); 12 Mar 2014 07:13:31 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 12 Mar 2014 00:13:28 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 188B64295E; Wed, 12 Mar 2014 00:13:25 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 12 Mar 2014 00:13:25 -0700
+Message-ID: <20140312071325.188B64295E@x3.develooper.com>
+Subject: Software Engineer (onsite), San Francisco, CA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18468
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 12, 2014
+
+Job title: Software Engineer
+
+Company name: Capital One (SparkPay)
+
+Location: San Francisco, CA
+
+Pay rate: DOE
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+About The Job: Looking for three junior software engineers to develop
+internal applications. You'll be working on the full-stack for web apps and
+infrastructure (ETL stuff). There's also some medium to large-scale data
+science problems to chew on. We have legacy systems in Perl and R, so
+you'll be using those and whatever other languages you find useful. You
+will come to work excited and go home exhausted. 
+
+About The Team: We are a mobile payments startup that has been acquired by
+a large national bank (Capital One). Blending the two cultures has been
+exhilarating and, at times, frustrating. As banks go, Capital One is
+arguably the most progressive one in the market. The organization is
+constantly evolving, which creates endless career opportunities if you step
+up and seize them. 
+
+About Me: I've been developing software for a long time, including some
+notable projects in the Perl community. And I still write a lot of open
+source code. I'll be your partner and coach as you learn the ropes. I plow
+the road so you can keep moving forward. We'll be pairing, scrumming, and
+whatever else it takes to get the job done. 
+
+About You: Be curious, be humble, be lazy (in the good way), and be
+scrappy. Above all, you must play well with others. Be mindful of what you
+don't know. Have some FOSS work to show us. If you don't have any FOSS of
+your own, then show us some that you like and tell us why you like it. Be
+ready to ask questions, get dirty, and make mistakes. 
+
+Must be present to win. Remote work is not an option.
+
+Website for more information:
+http://jobs.capitalone.com/san-francisco/information-technology/capital-one
+-sparkpay-software-engineer-(ai)-jobs
+
+Contact information at:
+http://jobs.perl.org/job/18468#contact

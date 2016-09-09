@@ -1,0 +1,151 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15658
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 12165 invoked from network); 26 Aug 2016 07:12:04 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 26 Aug 2016 07:12:04 -0000
+Received: (qmail 17960 invoked by uid 225); 26 Aug 2016 07:12:03 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 17953 invoked by alias); 26 Aug 2016 07:12:03 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,LOTS_OF_MONEY,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 26 Aug 2016 00:12:00 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 57F7E323; Fri, 26 Aug 2016 07:11:55 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 26 Aug 2016 07:11:55 +0000
+Message-ID: <20160826071155.57F7E323@web1.develooper.com>
+Subject: Junior Developer (onsite), Houston, TX, United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20380
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 26, 2016
+
+Job title: Junior Developer
+
+Company name: GTG Technology Group
+
+Location: Houston, TX, United States
+
+Pay rate: $50,050.00 USD
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are currently recruiting for a junior developer. In your role as a
+junior developer, you will be responsible to learn our systems, assist on
+design, development, testing, and maintenance of multiple applications and
+the EDI transactions that occur in support of the transportation industry.
+This position is coding intensive, and will require the ability to
+coordinate well with a team as well as show personal initiative and take
+ownership of individual components of the development. Systems
+administrative duties would be limited, but would include installation and
+maintenance of servers and databases, development of deployment and
+maintenance scripts, and assorted other duties.
+
+Desired skills:
+Required skills:
+•	1 or more years of experience with the LAMP stack
+and Perl development
+o	Systems administration in a Linux / Unix
+environment (Apache)
+o	MySQL / Maria DB experience
+o	PHP
+development understanding
+o	Real-world Perl development (Perl CGI DBI
+OO with code samples)
+•	Linux command line vim or EMACS editor 
+•    
+  1 or more years Web development experience or post-secondary technical
+education
+•	Extreme interest in Web based technology to learn and
+progress in web applications and system administration
+•	HTML, CSS,
+JavaScript fluent
+•	Ability to follow architectural standards
+•      
+Follow best practices for the software development process: coding
+standards, testing, change management, build automation, release planning
+and deployment.
+•	Learn and advocate for new technologies and
+techniques
+•	Learn and work with SVN Subversion (or other version
+control systems)
+•	Test-driven development
+•	Codebase
+maintenance & troubleshooting
+Desired:
+•	EDI knowledge
+•      
+Familiarity and use of CPAN
+•	Understanding of multidimensional data
+structures, hashes, arrays, references, regular expressions
+•      
+Familiarity with additional languages: Python, PHP, SQL, HTML, CSS,
+JavaScript, etc.
+•	Some working experience in systems/database
+administration and tuning
+•	Perform design activities, which may
+require extensive research and analysis
+Personal:
+•	Strong attention
+to detail
+•	Strong desire to learn, adapt & succeed
+•	Strong
+communication skills – verbal and written
+•	Document the development
+work created
+Attitude:
+•	High level of accountability for performance
+•	Determined self-starter ruthlessly seeking incremental and
+transformational value
+•	Strong sense of pride and ownership and a
+demonstrated willingness to go the extra mile
+•	Team player willing
+to engage for the greater good
+•	Strong commitment to customer
+satisfaction
+Bonus Skills:
+•	Transportation industry experience
+(understanding of Intermodal, Over the Road Truck, and Drayage activities
+or overall supply chain and logistics experience)
+•	Responsive
+Cross-browser Web Design
+•	JSON / Ajax / JQuery / Bootstrap
+•      
+Linux Admin (i.e: RedHat, CentOS, Fedora)
+•	Containers (i.e: Docker)
+•	Other language familiarity (.Net, Ruby, Python, other)
+•      
+Automated configuration/deployment tools (i.e: Ansible)
+•	Node /
+React / Redux
+•	noSQL (Redis, MongoDB)
+We Offer:
+We offer an
+opportunity to work with great people in an innovative environment doing
+great things. You can expect a salary commensurate with your capabilities;
+a generous benefits package, and attractive corporate perks. If you feel
+your skills match then please reach out to learn more about this exciting
+opportunity. We are an Equal Opportunity Employer.
+
+Website for more information: http://gtgtechnologygroup.com/
+
+Contact information at:
+http://jobs.perl.org/job/20380#contact

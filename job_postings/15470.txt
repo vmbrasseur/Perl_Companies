@@ -1,0 +1,102 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15470
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8824 invoked from network); 3 Apr 2016 23:14:07 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 3 Apr 2016 23:14:07 -0000
+Received: (qmail 9176 invoked by uid 225); 3 Apr 2016 23:14:07 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 9171 invoked by alias); 3 Apr 2016 23:14:07 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 03 Apr 2016 16:14:06 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id E3D22399; Sun,  3 Apr 2016 23:14:02 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sun, 3 Apr 2016 23:14:02 +0000
+Message-ID: <20160403231402.E3D22399@web1.develooper.com>
+Subject: PERL developer (telecommute), Russian Federation - Saint-Petersburg
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20148
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 24, 2016
+
+Job title: PERL developer
+
+Company name: Neo-Net
+
+Location: Russian Federation - Saint-Petersburg
+
+Pay rate: Salary based on interview results
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+Requirements: 
+
+- Deep knowledge of Perl, SQL
+- large experience with
+Mojolicious, DBIx::Class, Moose, AnyEvent
+- linux, redis, postgresql, nginx
+- git, jira, redmine, slack
+- Ability to use Google, Stackoverflow
+- skills
+in Perl Debugger, D::NYTProf, Gdb 
+- Technical English, russian for
+communication 
+
+Responsibility: 
+* Developing the backend code based on
+Domain Driven Design, storage subsystem and cache.
+* Defining interaction
+interfaces with front-end through REST-like API.
+- Unit and integration
+testing of the written code
+
+Conditions: 
+- Standard five working days,
+from 9 am to 6 pm / MSK / connection via Skype and Slack 
+- 20% premium on
+monthly salary (if all of the tasks are closed in time each week of the
+month) 
+- Salary based on interview results 
+Your experience is important,
+and we get ready to pay for it 
+You will participate in project which has
+no analogue in IT-market 
+You will have ability to take independent
+decisions, promote your ideas and have monthly bonuses 
+We offer career and
+good salary 
+It’s remote work- you can work from anywhere
+
+Desired skills:
+- Perl, SQL
+- Mojolicious, DBIx::Class, Moose, AnyEvent
+- linux, redis,
+postgresql, nginx
+- git, jira, redmine, slack
+- Google, Stackoverflow
+-
+Perl Debugger, D::NYTProf, Gdb 
+- Technical English, russian for
+communication
+
+Contact information at:
+http://jobs.perl.org/job/20148#contact

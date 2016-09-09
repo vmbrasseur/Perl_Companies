@@ -1,0 +1,85 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15306
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 29744 invoked from network); 20 Nov 2015 23:14:41 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 20 Nov 2015 23:14:41 -0000
+Received: (qmail 4183 invoked by uid 225); 20 Nov 2015 23:14:40 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 4179 invoked by alias); 20 Nov 2015 23:14:40 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 20 Nov 2015 15:14:31 -0800
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id AA8BE1CF; Fri, 20 Nov 2015 23:14:28 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 20 Nov 2015 23:14:28 +0000
+Message-ID: <20151120231428.AA8BE1CF@web1.develooper.com>
+Subject: Software developer (18 month contract) (onsite), London, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19934
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 18, 2015
+
+Job title: Software developer (18 month contract)
+
+Company name: Science Photo Library Ltd
+
+Location: London, UK
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are currently looking for an experienced Perl software developer to join
+our small dedicated team in our West London office. We have several ongoing
+projects with the primary focus of this role being the maintenance and
+development of our website www.sciencephoto.com.
+
+Science Photo Library has
+been an enthusiastic user of Perl for over two decades and it is widely
+used on our servers and desktops. Our frameworks include Catalyst, Dancer
+and DBIx::Class.  Our database bias is for PostgreSQL but there are times
+where SQLite fits the bill.  
+
+As well as working on the website there will
+be other projects that may need help from time to time. We love tests and
+are always looking to find ways to increase test coverage and ensure system
+stability. History is also important and Git helps keep on top of our
+codebase. Apart from the gory backend, we like to look good too so a solid
+knowledge of JavaScript libraries would be useful.
+
+Desired skills:
+•	At least 5 years’ experience in software development with Perl
+•   
+   A firm knowledge of databases and database practices (inc.SQL)
+•      
+Solid knowledge of Catalyst, DBIx::Class and TT
+•	Capable with HTML,
+jQuery and CSS
+•	Strong Linux/Unix skills
+•	Ability to work
+well as part of a team
+•	Have good organisational and time management
+skills
+•	Be enthusiastic, engaging and goal focused.
+
+Website for more information: http://www.sciencephoto.com
+
+Contact information at:
+http://jobs.perl.org/job/19934#contact

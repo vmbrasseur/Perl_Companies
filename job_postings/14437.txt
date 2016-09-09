@@ -1,0 +1,104 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14437
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 25767 invoked from network); 30 May 2014 04:39:12 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 30 May 2014 04:39:12 -0000
+Received: (qmail 2389 invoked by uid 225); 30 May 2014 04:39:12 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 2385 invoked by alias); 30 May 2014 04:39:11 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 29 May 2014 21:39:09 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id AF2AB4294A; Thu, 29 May 2014 21:39:05 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 29 May 2014 21:39:05 -0700
+Message-ID: <20140530043905.AF2AB4294A@x3.develooper.com>
+Subject: Senior Infrastructure Engineer at Elite Financial Technology Company
+ (part onsite), Mountain View, CA, United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18672
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 29, 2014
+
+Job title:
+Senior Infrastructure Engineer at Elite Financial Technology Company
+
+Location: Mountain View, CA, United States
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+In the years following the financial crash of 2008, a team of engineers
+founded a finance tech company with a formidable mission: How to disrupt,
+modernize, and overhaul the worldwide wealth management industry?
+
+The answer? - An elite team of tightly knit professionals. At our client’s
+company, we're looking to create a product and brand that inspires people
+and aligns incentives in one of the world’s most important and influential
+industries.
+
+We’re looking for an engineer obsessed with automation; a talented
+programmer that’s excited about infrastructure; and an experienced
+architect that can both map out our future and get their hands dirty making
+it a reality. Join us during this crucial period of growth, and play a key
+role in designing and building the technical infrastructure of a company
+that aims to become the bedrock of global finance.
+
+What will be your responsibilities as an Infrastructure Engineer?
+You are, first and foremost, an engineer: we’re looking for a developer,
+not a system administrator. You also appreciate that code doesn’t live in
+an isolated system: experience has taught you to build with infrastructure
+in mind. You enjoy making long-term decisions about which technologies the
+company should pursue.
+
+Responsibilities
+• Architecting a scalable infrastructure (ex: auto-scaling for the
+production environment)
+• Building tools to help automate system administration (ex: an automated
+SSH access provisioning system)
+• Improving the build and CI pipeline (ex: rolling releases)
+• Advocating for and implement industry best-practices (ex: a centralized
+logging infrastructure)
+• Working with developers across the org to ensure projects are built with
+infrastructure in mind
+
+Required skills:
+Requirements
+• 5+ years experience as a software engineer
+• Demonstrable experience working with distributed systems
+• Experience with at least one OO language (Java, C++)
+• Experience with at least one scripting language (Perl, Python)
+• Working experience with web frameworks
+• Working experience with database systems
+• Familiarity with Linux administration
+• Familiarity with build and continuous integration systems a plus 
+
+Why work here?
+• Help invent the tools to run the $1 trillion global finance industry
+• Equity stake, very attractive salary, and comprehensive benefits
+• Top-caliber coworkers, elite clients, and work environment
+• Fringe benefits: catered meals; high-profile guest lecturers, and
+intramural office sports
+
+Website for more information: http://www.elmtalent.com
+
+Contact information at:
+http://jobs.perl.org/job/18672#contact

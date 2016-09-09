@@ -1,0 +1,101 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13445
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 4366 invoked from network); 31 May 2013 16:13:55 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 31 May 2013 16:13:55 -0000
+Received: (qmail 15752 invoked by uid 225); 31 May 2013 16:13:55 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 15748 invoked by alias); 31 May 2013 16:13:55 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 31 May 2013 09:13:50 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 338612AFE1; Fri, 31 May 2013 09:13:46 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 31 May 2013 09:13:46 -0700
+Message-ID: <20130531161347.338612AFE1@x3.develooper.com>
+Subject: Perl Developer, Palo Alto,CA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17453
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 31, 2013
+
+Job title: Perl Developer
+
+Company name: SymphonyTeleca
+
+Location: Palo Alto,CA
+
+Length of employment: Full time
+
+Hours: Full time
+
+Description:
+Symphony Teleca is a world-leading supplier of software solutions and
+engineering services to the automotive and mobile industry. Our unmatched
+domain expertise and experience, combined with a global footprint enable
+our customers to realize their products, services and visions. Symphony
+Teleca has approximately 6,000 employees in 12 countries.
+
+Job Purpose:  
+
+Symphony Teleca is looking for a back end (Client side) application
+developer to join our world class team responsible for extremely
+high-profile products.
+
+Key Responsibilities and Accountabilities:
+
+•	Designing, developing social media and mobile applications that are
+focused on Client-side technologies. 
+•	Gathering functional requirements and developing technical
+specifications. 
+•	Solving challenging problems in social and collaborative software
+with exceptional peers.
+•	Working independently with minimum supervision.
+•	Delivering high quality code using industry best practices. 
+•	Resolving code bugs, performing unit tests, working on code reviews
+and application documentation.
+
+Required skills:
+Requirements: 
+
+Formal education: 
+
+Bachelor's degree in Computer Engineering or Computer Science or equivalent
+
+
+
+•	7+ years of Perl programming using modern techniques; knowledge of
+Mojolicious, Moose, Coro, and AnyEvent a bonus	is a must.
+•	Experience on Perl Catalyst Framework, Template Toolkit, jQuery,
+mod_perl and DBIx  is a must
+•	JavaScript and jQuery; familiarity with building ReST based web UIs
+
+•	Knowledgeable about ReST interfaces, both writing and using
+•	Perl packages, application packaging
+•	full cycle development from specification to development to QA to
+release to maintenance
+•	PostgreSQL experience, primarily writing SQL but some schema
+management as well 
+•	Experience working in an Agile shop is a plus; a dislike of Agile
+is a no go; we follow Kanban
+•	TDD experience; we write tests for our code and expect everyone to
+do so
+•	Willingness to work with the story customer to iron out
+requirements and then code them.
+
+Contact information at:
+http://jobs.perl.org/job/17453#contact

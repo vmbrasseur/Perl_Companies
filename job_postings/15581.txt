@@ -1,0 +1,93 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15581
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 11328 invoked from network); 19 Jun 2016 04:40:15 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 19 Jun 2016 04:40:15 -0000
+Received: (qmail 18248 invoked by uid 225); 19 Jun 2016 04:40:15 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 18244 invoked by alias); 19 Jun 2016 04:40:15 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 18 Jun 2016 21:40:12 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 9F47D428; Sun, 19 Jun 2016 04:40:09 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sun, 19 Jun 2016 04:40:09 +0000
+Message-ID: <20160619044009.9F47D428@web1.develooper.com>
+Subject: Full Stack Perl Developer (telecommute), Remote, Ohio
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20262
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 19, 2016
+
+Job title: Full Stack Perl Developer
+
+Company name: Ohio Tech Corp
+
+Location: Remote, Ohio
+
+Pay rate: 90-120k USD
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+We are looking for an enthusiastic and passionate perl developer.
+
+We are a
+company that has just recently formed from or parent company based mainly
+in North Ohio. We build software mainly for the public services sector.
+From Document Management to Incident report and tracking.
+
+The technologies
+that we use are; Amazon Web Services (EC2, S3), Git Hub Enterprise,
+Catalyst::Runtime (Moose, DBIx::Class), Ubuntu, CentOS, Postgres and Nginx
+
+1. We are looking for a developer that has worked with and has knowledge of
+legacy perl and Object Oriented Perl. As we are in the process of finishing
+off migrating to Object Oriented Perl.
+
+2. Has 3-5 Years of solid perl
+experience mainly in web services and web application development
+
+3. Must
+be comfortable with SQL, managing replication and writing complex sub
+queries.
+
+4. Must have knowledge of Command line interface as a lot of our
+legacy code uses linux commands.
+
+5. Understanding of security in web
+applications (sql injections etc.)
+
+6. Write good tests, we have a CI tool
+(Jenkins) that makes sure we have production ready code.
+
+7. This is a
+remote opportunity, But we are looking for people in the United States only
+(Authorized to work in the US)
+
+Desired skills:
+1. HTML/CSS/JavaScript good UI design skills
+2. Open Source Contributor
+3.
+Good sense of humor
+
+Contact information at:
+http://jobs.perl.org/job/20262#contact

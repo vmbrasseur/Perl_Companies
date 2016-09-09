@@ -1,0 +1,79 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15239
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 25371 invoked from network); 24 Sep 2015 20:56:22 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 24 Sep 2015 20:56:22 -0000
+Received: (qmail 424 invoked by uid 225); 24 Sep 2015 20:56:23 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 420 invoked by alias); 24 Sep 2015 20:56:22 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 24 Sep 2015 13:56:20 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 826902D3; Thu, 24 Sep 2015 20:56:17 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 24 Sep 2015 20:56:17 +0000
+Message-ID: <20150924205617.826902D3@web1.develooper.com>
+Subject: Modern Perl Developer (part onsite), Dallas, TX
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19832
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 23, 2015
+
+Job title: Modern Perl Developer
+
+Company name: Credent Technologies
+
+Location: Dallas, TX
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+Responsibilities
+* Designing and/or building of prototypes for new features
+
+* Developing/updating online documentation
+* Liaising with development
+partners on all aspects of the SDLC and integration
+
+Skills and
+requirements
+* Experience as a Perl Developer 
+* Solid understanding of
+analysis, coding and documentation practices
+* Analysing needs and product
+requirements to create a design
+* Modern object orientated Perl (Moops,
+Mojolicious, Catalyst)
+* MySQL, ORMs (DBIx::Class, Class::DBI, Rose::DB,
+CPAN)
+
+Nice to Haves:
+• Full stack development experience
+• PSGI Frameworks
+• Continuous Integration / Test Driven develop with Siesta or Selenium
+•
+Puppet/Jenkins/DevOPS tools
+• Postgres/Sybase/Mysql/memcache/activemq/Git
+•
+Load balanced high traffic transaction web applications
+
+Contact information at:
+http://jobs.perl.org/job/19832#contact

@@ -1,0 +1,110 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14278
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 17023 invoked from network); 25 Mar 2014 06:59:49 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 25 Mar 2014 06:59:49 -0000
+Received: (qmail 22371 invoked by uid 225); 25 Mar 2014 06:59:48 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 22362 invoked by alias); 25 Mar 2014 06:59:48 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 24 Mar 2014 23:59:45 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 051A742954; Mon, 24 Mar 2014 23:59:41 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 24 Mar 2014 23:59:41 -0700
+Message-ID: <20140325065942.051A742954@x3.develooper.com>
+Subject: Mid-to-Senior Perl Developer (part onsite), Preferably in or near
+ Raleigh or Charlotte, NC
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18502
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 24, 2014
+
+Job title: Mid-to-Senior Perl Developer
+
+Company name: Plus Three
+
+Location: Preferably in or near Raleigh or Charlotte, NC
+
+Pay rate: Depend on experience
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+Plus Three ( http://www.plusthree.com ) is a startup committed to using and
+contributing to Open Source and Free Software to deliver better, more
+robust solutions to our clients. Our systems support fundraising, building
+activist communities and increasing the communication between our clients
+and their constituents.
+
+You will be part of a team of developers through all aspects of the
+development life cycle from requirements gathering to quality assurance and
+ongoing maintenance. A less experienced person with the right attitude and
+an interest in learning will also be considered.
+
+Plus Three requires the candidate to be a U.S. citizen or resident alien
+living in the United States. We would like to hire people who live in or
+near Raleigh or Charlotte, North Carolina.
+
+Required skills:
+Required Experience
+
+* 1+ years programming Perl
+* 3-5 years in a professional environment
+
+Required Skills
+
+* Perl: Excellent knowledge of Perl required, including Object Oriented
+design and using CPAN modules.
+* Apache: Experience with configuration, tuning, and use of Apache 1.3 and
+Apache 2.0
+* MySQL: Experience with MySQL and SQL in general
+* Linux: Experience developing and deploying on Linux
+* Basic system administration skills
+
+Desired skills:
+Desired Skills
+
+* Subversion (or other SCMs)
+* mod_perl: Knowledge of the Apache/mod_perl API
+* HTML::Template, Template::Toolkit (or other templating systems)
+* DBI, Class::DBI (or other ORMs)
+* Test::More, Test::Class (and other Perl test libraries)
+* Javascript and AJAX (Prototype.js or other JS libraries)
+* CSS and HTML (know when to use divs and when to use tables)
+* Email (MIME, UTF-8)
+* SQL optimization
+* Test driven development
+* Communication Skills
+* CPAN (know how to go looking when you need to)
+
+Extra Special Super Bonus Skills
+
+* Bulk mail systems (IronPort, Eccelerity)
+* Krang CMS (http://krangcms.com/)
+* Online Payment Processing (Authorize.Net, PayfloPro, CyberSource, etc)
+* Geo-coding
+* Puppet
+
+Website for more information: http://plusthree.com
+
+Contact information at:
+http://jobs.perl.org/job/18502#contact

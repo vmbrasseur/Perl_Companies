@@ -1,0 +1,74 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15219
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 29269 invoked from network); 5 Sep 2015 23:51:20 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 5 Sep 2015 23:51:20 -0000
+Received: (qmail 25320 invoked by uid 225); 5 Sep 2015 23:51:20 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 25316 invoked by alias); 5 Sep 2015 23:51:20 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 05 Sep 2015 16:51:13 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 49088371; Sat,  5 Sep 2015 23:51:10 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 5 Sep 2015 23:51:10 +0000
+Message-ID: <20150905235110.49088371@web1.develooper.com>
+Subject: Junior web developer (onsite), Cambridge, Cambridge, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19816
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September  5, 2015
+
+Job title: Junior web developer
+
+Company name: Congenica
+
+Location: Cambridge, Cambridge, UK
+
+Pay rate: Negotiable
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are looking for a junior or intern web developer / system administrator
+to join our growing team and help develop and maintain tools that will
+revolutionise the way medical genetics work. Your software will be used by
+clinical geneticists and genetic researchers worldwide; it will help make
+clinical decisions and provide diagnoses, and ultimately help find cures
+and save lives. No biological/genetic background is required. You will gain
+unique experience helping us with the development, system administration
+and maintenance.
+
+Desired skills:
+The positions are suited to individuals with coding skills, and the ability
+to communicate complex ideas to individuals across a range of technical
+backgrounds. Your ideal skills would include at least some of the
+following:
+ - server side programming language (e.g. Perl, Python, PHP,
+Java)
+ - frontend development (JavaScript, HTML, CSS)
+ - databases
+(SQL/NoSQL)
+ - data visualisation
+ - server / desktop setup and maintenance
+
+Website for more information: http://congenica.com
+
+Contact information at:
+http://jobs.perl.org/job/19816#contact

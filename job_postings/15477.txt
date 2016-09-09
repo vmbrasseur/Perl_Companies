@@ -1,0 +1,129 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15477
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8900 invoked from network); 3 Apr 2016 23:14:23 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 3 Apr 2016 23:14:23 -0000
+Received: (qmail 9202 invoked by uid 225); 3 Apr 2016 23:14:22 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 9198 invoked by alias); 3 Apr 2016 23:14:22 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 03 Apr 2016 16:14:17 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 798DD399; Sun,  3 Apr 2016 23:14:14 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sun, 3 Apr 2016 23:14:14 +0000
+Message-ID: <20160403231414.798DD399@web1.develooper.com>
+Subject: Java and Perl Programmer, Atlanta, GA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20150
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 28, 2016
+
+Job title: Java and Perl Programmer
+
+Company name: Infinity Consulting Solutions
+
+Location: Atlanta, GA
+
+Pay rate: 90-120k
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Description:
+We are looking for someone to build and lead a technical team, and be the
+leader responsible for a few core systems which are key to the foundation
+of a global business structure. These systems are currently processing 40
+million transactions and interacting with hundreds of external systems each
+and every day, with ever growing volume.
+The ideal resource/leader must
+have experience in big data and high volume transactional software systems.
+This small team manages, develops and evolves the core engine collecting
+billions rate data points from its external web and API sources. 
+
+The
+existing system uses layers of Perl and Java interacting with MySQL and
+Oracle relational databases. These are not cobbled together sets of random
+Perl scripts and JSP pages. This is well thought out, multi-layer
+application and library code built with supporting tools where appropriate,
+and with others built and maintained internally. It is constantly being
+groomed and enhanced to meet the ever increasing needs of the business.
+
+The future of the system has thus far brought introduction of more Java,
+Oracle Coherence, and Oracle NoSQL as we work to expand the scale it can
+manage. We expect that when you join, you will introduce additional
+elements to the system to solve its next challenges in exceptional ways. As
+the technical lead you guide what should be done and the best path to
+achieve success.
+
+Principal Responsibilities:
+Act as a leader for
+application development including process, people and systems and alignment
+with technology objectives across SAS based platforms.
+Design and
+Development of application architecture and vision working directly with
+business and IT stakeholders including directors, architects, design and
+development teams across various products and systems.
+Technical leadership
+of custom software solutions and vendor solutions, software evaluation, fit
+gap analysis and strategy development.
+Ability to working with product,
+customer care and L3 to measure product efficiency.
+Offshore Team Lead
+Responsibilities:
+Determine the objectives and measures upon which shopping
+platform enhancements and growth will be evaluated at its completion.
+Lead,
+Design and Architect solutions to be implemented across the shopping
+framework and be able to mitigate risk, ensure alignment across teams, and
+also design according to industry standards and best practices.
+Functional
+Skills:
+Takes initiative and assumes responsibility
+Excels at working in
+fast pace environments
+Ability to learn technical concepts quickly; work
+independently with little guidance; multi-task and set priorities
+Strong
+written and verbal communication skills
+Attention to detail
+Excellent
+trouble-shooting and problem-solving skills
+Ability to be effective in a
+growing organization that changes rapidly and often
+
+Desired skills:
+Qualifications:
+6+ years working with Java, 4+ years working with Perl,
+MYSQL, Oracle, SQL
+Experience in working with highly transactional system,
+global software companies.
+6+ years of information technology experience.
+Experience with Customer/Products scalability and growth.
+Experience
+designing systems and integrations.
+4+ years of technical experience within
+data and software development disciplines.
+3+ years of Leading and
+Architecting the solutions
+
+Website for more information:
+http://www.infinity-cs.com/find-a-job/job-entry/java-lead-developer2
+
+Contact information at:
+http://jobs.perl.org/job/20150#contact

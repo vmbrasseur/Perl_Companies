@@ -1,0 +1,105 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13847
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13454 invoked from network); 5 Nov 2013 09:30:25 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 5 Nov 2013 09:30:25 -0000
+Received: (qmail 13702 invoked by uid 225); 5 Nov 2013 09:30:24 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 13698 invoked by alias); 5 Nov 2013 09:30:24 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 05 Nov 2013 01:30:20 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id F251A2AFDE; Tue,  5 Nov 2013 01:30:16 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Tue, 5 Nov 2013 01:30:16 -0800
+Message-ID: <20131105093016.F251A2AFDE@x3.develooper.com>
+Subject: Senior Perl Developer (onsite), Canary Wharf, London, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18012
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November  5, 2013
+
+Job title: Senior Perl Developer
+
+Company name: Broadbean Technology Ltd
+
+Location: Canary Wharf, London, UK
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We're currently looking for several talented Senior Perl Developers to join
+our team in Canary Wharf.
+
+Broadbean is a leading provider of sourcing solutions for recruiters. We
+have over 60,000 users who post in excess of 2 million adverts a month via
+our award winning software. We also track approximately 9 million job
+applications across 65 countries a month. But we want to do more.
+
+We're a small company (90 people in the UK), owned by a very big company,
+and a great place to work. Post-probation we offer (non-contractually)
+flexible working and 50% telecommuting. We've got a development team of 30
+and are fully committed to Perl, clearing our technical debt, and doing
+things the right way moving forward.
+
+You will be maintaining the existing product offerings, working on entirely
+new code and a combination of the two. The existing code will require you
+to be flexible in your approach while the new code will demand to be well
+considered and scalable.
+
+We work in project teams that own their respective scrums to deliver
+functional continuous integration. You may be on a team for months
+delivering several products or involved in short sprints to push out
+critical code updates.
+
+Required skills:
+You'll need to show proof of strong and "Modern" Perl - at least
+familiarity with various testing modules, exposure to Moose would be
+useful. You should have opinions that you can justify on the "right" level
+of testing, and the pros and cons of continuous delivery. You can take a
+stab at the philosophical differences between Catalyst, Dancer, and
+Mojolicious.
+
+The in-person interview will test your perl skills (OO, refs, scope, etc)
+and as we're looking for Senior devs, the expectations will be high. We are
+interested in how you solve problems and your thought process so when you
+get stuck, tell us what you're thinking.
+
+This is a company full of new ideas that we bring to life.  If you think
+this is a world you want to be a part then let’s talk.	This is your
+opportunity to make a difference and be part of an agile, creative and
+innovative company.
+
+Desired skills:
+* Strong desire to understand business requirements and how to turn these
+into code while maintaining the best approach.
+* Strong belief in a particular toolset (framework, module, etc) while
+being open to debate this opinion with others.
+* Solid mentoring skills and the ability to spot both a coder in trouble
+and a rising star.
+* Experience with designing and implementing projects from the initial
+"architecture on a post-it" stage through to the on-going maintenance
+phase.
+
+Website for more information: http://www.broadbean.com/
+
+Contact information at:
+http://jobs.perl.org/job/18012#contact

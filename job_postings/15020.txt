@@ -1,0 +1,92 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15020
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 14701 invoked from network); 12 Apr 2015 00:29:13 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 12 Apr 2015 00:29:13 -0000
+Received: (qmail 26209 invoked by uid 225); 12 Apr 2015 00:29:13 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 26205 invoked by alias); 12 Apr 2015 00:29:13 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 11 Apr 2015 17:29:09 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 5404D42AA9; Sat, 11 Apr 2015 17:29:06 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 11 Apr 2015 17:29:06 -0700
+Message-ID: <20150412002906.5404D42AA9@x3.develooper.com>
+Subject: Senior Perl Developer (onsite), Amsterdam, The Netherlands
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19486
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 11, 2015
+
+Job title: Senior Perl Developer
+
+Location: Amsterdam, The Netherlands
+
+Pay rate: €3.750 - € 4.500
+
+Terms of employment: Salaried employee
+
+Length of employment: indefinite
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The company focuses on the support of complex processes of various big
+players in their respective field. They provide data, services and
+applications. Also they have developed a resource management system,
+customer contact system and a procurement system. Next they developed (and
+use) a smartphone app with which customers are contacted in an interactive
+way.
+
+Currently the Development department consists of 20 employees and is
+growing in a fast pace. The work environment is quite relaxed and informal.
+Also it is a hybrid environment in which they work with the most innovative
+techniques. The company also works with SCRUM.
+
+As a Senior Perl Developer you will develop both applications and the core
+infrastructure. Approximately 60-70% will be new-build projects where you
+develop own products and also custom-made solutions. Your knowledge and
+expertise in the fields of architecture and new tools is very much
+appriciated and needed. 
+
+It is required that you think out of the box and that you are familiar with
+Modern Perl, Percona MySQL, NoSQL, jQuery and Debian GNU. 
+
+More specifically, the tasks are:
+- Designing and developing applications;
+- Maintaining existing systems;
+- Actively involved in new projects (60-70%);
+- Actively involved in thinking processes concerning architecture;
+- Providing input for new tools.
+
+Required skills:
+- Fluent Dutch;
+- More than 7 years in programming with Perl (full-stack);
+- More than 7 years of workexperience with Percona MySQL, NoSQL, jQuery and
+Debian GNU;
+- More than 7 years of workexperience with Domain Driven Design;
+- More than 3 years of workexperience with SCRUM.
+
+Website for more information:
+http://www.isense.nl/vacatures/vacature-senior-perl-developer-710321-11.htm
+l
+
+Contact information at:
+http://jobs.perl.org/job/19486#contact

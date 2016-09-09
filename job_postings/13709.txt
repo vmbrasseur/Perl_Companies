@@ -1,0 +1,91 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13709
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8070 invoked from network); 8 Sep 2013 02:35:45 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 8 Sep 2013 02:35:45 -0000
+Received: (qmail 3210 invoked by uid 225); 8 Sep 2013 02:35:44 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 3206 invoked by alias); 8 Sep 2013 02:35:44 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 07 Sep 2013 19:35:38 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 827572AFE1; Sat,  7 Sep 2013 19:35:35 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 7 Sep 2013 19:35:35 -0700
+Message-ID: <20130908023535.827572AFE1@x3.develooper.com>
+Subject: Senior Sysadmin & Perl Developer for directorship (part onsite),
+ Edinburgh, United Kingdom
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17829
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September  7, 2013
+
+Job title: Senior Sysadmin & Perl Developer for directorship
+
+Location: Edinburgh, United Kingdom
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+We are a software startup company, in early stages and in the process of
+securing funding, for this position and others.
+
+We are looking for a person to be second in command on all matters
+technical, so technical seniority and ability to make business priorities
+is essential. System uptime and management will be your primary
+responsibility and programming an area where your contribution can be
+adapted to suit your profile. There are also non-technical tasks, including
+documentation and developing work processes. This is not a managerial
+position.
+
+If you are interested in working for a startup in Edinburgh, get a chance
+to shape your role and the company and have opportunity to telecommute up
+to two days per week, please send us a few lines about who you are, and we
+will send you more information after which you can choose to apply for the
+position.
+
+As this is a key role, you would be a director of the company and you would
+be offered stock options.
+
+This role depends on us securing funding, so there will be some time before
+the full time employment will start. You will be expected to make yourself
+a little familiar with the company before you start, in your own time, but
+we would of course not expect any major commitment before that time.
+
+We are committed to making an effort at not discriminating based on sex,
+religion, ethnicity, sexual orientation, body size, personal style and
+looks or anything else that is not relevant to your performance, and we aim
+to accommodate for disabilities. There is zero tolerance of bullying and
+power games, no matter position in the company.
+
+Required skills:
+* Linux and/or BSD systems administration
+* Rock solid understanding of and experience with scripting in Perl and
+shell
+* Ability to understand and work constructively with code that is not
+object oriented, and deliver readable, well formatted code
+* Familiarity with general Perl programming and SQL databases, although an
+ambition to learn in this area is the most important
+* Deep understanding of systems security and performance tuning
+* Very good understanding of TCP/IP networking
+
+Contact information at:
+http://jobs.perl.org/job/17829#contact

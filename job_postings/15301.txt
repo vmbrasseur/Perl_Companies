@@ -1,0 +1,181 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15301
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 7000 invoked from network); 17 Nov 2015 01:53:49 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 17 Nov 2015 01:53:49 -0000
+Received: (qmail 12993 invoked by uid 225); 17 Nov 2015 01:53:49 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 12988 invoked by alias); 17 Nov 2015 01:53:49 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 16 Nov 2015 17:53:47 -0800
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 2BC17144; Tue, 17 Nov 2015 01:53:43 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Tue, 17 Nov 2015 01:53:43 +0000
+Message-ID: <20151117015343.2BC17144@web1.develooper.com>
+Subject: Senior Software Developer (onsite), Toronto, ON, Canada
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19930
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 16, 2015
+
+Job title: Senior Software Developer
+
+Company name: Symantec
+
+Location: Toronto, ON, Canada
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The Symantec.Cloud Systems Management team requires an experienced Data
+Center Monitoring Solution Development team member to provide subject
+matter expertise
+
+
+Key responsibilities include:-
+
+• Developing monitoring
+and automation solutions for large data centers, primarily Linux based for
+cloud based solution including virtual devices.
+
+
+• Participating in
+traditional Waterfall and Agile projects in a team environment to deliver
+monitoring solutions for data centers.
+
+
+• Investigating new technologies
+and standards, making recommendations to the team, documenting best
+practices and tutoring other members of the team.
+
+
+• Development of
+innovative solutions that enable us to scale the Symantec.Cloud platform.
+This will take the form of processes, automation of manual tasks and
+self-healing.
+
+
+• Participating in the evaluation of third party tools or
+applications introduced into the production environment.
+
+
+• Working with
+software developers and quality assurance experts to provide technical
+leadership on systems development projects.
+
+
+Required
+
+
+• At least 2 years
+experience in a senior Unix/Linux SysAdmin or DevOps role, operating and
+maintaining large-scale, distributed Unix/Linux systems (1000+ machines).
+
+
+• 4 years of Perl experience
+
+
+* Experience in participating in software
+development projects targeted toward systems administration and data center
+monitoring.
+
+
+• Demonstrated experience in monitoring, remotely upgrading
+and automating the control of cloud/data center devices.
+
+
+• Solid
+understanding of the needs of Network Operations Centers.
+
+
+• Ability to
+diagnose network or datacenter issues.
+
+
+• Experience with OSS technologies
+such as software deployment, rpm packages, yum, chef, puppet,
+
+
+• Minimum
+of 4 years experience in a technical role.
+
+
+• Excellent Unix scripting
+skills primarily Perl and Bourne shell.
+
+
+• Excellent TCP/IP networking
+skills with technical knowledge of firewalls, routers and load balancers.
+Knowledge of common protocols and technologies (e.g. Ethernet, TCP/IP,
+SMTP, SNMP, HTTP, LDAP, MQ, Active Directory, Kerberos).
+
+
+Desirable
+
+
+•
+Familiarity with monitoring systems such as Zenoss, Nagios etc.
+
+
+•
+Experience working on Agile projects in a matrix organization.
+
+
+• Good
+working technical knowledge of open source web, mail and database servers
+(apache, qmail, exim, postgreSQL, mysql).
+
+
+• Experience with many
+operating systems (Windows, Linux, Solaris, Cisco IOS, Data OnTap).
+
+
+•
+Familiarity with Agile development practices
+
+
+• ITIL v3 Foundation or
+Practitioner certification
+
+
+• Experience articulating complex ideas in
+written/diagrammatic form
+
+
+• Enthusiastic and able to rally a team around
+a technical vision.
+
+
+• Familiarity with Direct-attached, SAN and NAS
+storage.
+
+Desired skills:
+At least 2 years experience in a senior Unix/Linux SysAdmin or DevOps role,
+operating and maintaining large-scale, distributed Unix/Linux systems
+(1000+ machines).
+
+Website for more information:
+https://symantec.wd1.myworkdayjobs.com/en-US/careers/job/Toronto-CAN-Steele
+s-Ave/Software-Developer-Cloud-Monitoring-Systems_33474
+
+Contact information at:
+http://jobs.perl.org/job/19930#contact

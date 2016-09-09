@@ -1,0 +1,118 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15071
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 18603 invoked from network); 15 May 2015 01:53:32 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 15 May 2015 01:53:32 -0000
+Received: (qmail 10712 invoked by uid 225); 15 May 2015 01:53:32 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 10708 invoked by alias); 15 May 2015 01:53:32 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 14 May 2015 18:53:30 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 021063D4; Fri, 15 May 2015 01:53:26 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 15 May 2015 01:53:26 +0000
+Message-ID: <20150515015327.021063D4@web1.develooper.com>
+Subject: IT Contract Recruiter (onsite), London, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19606
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 13, 2015
+
+Job title: IT Contract Recruiter
+
+Company name: Deutsche Bank
+
+Location: London, UK
+
+Pay rate: Market Rate
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Deutsche Bank is a leading global investment bank with a substantial
+presence in fixed income, credit and currency markets. Our unique
+combination of dominant market share in flow-driven markets with relentless
+innovation in pursuit of tailored client solutions makes us the partner of
+choice for the world's largest institutional investors and for companies
+active in the capital markets.
+
+Enterprise Platform Engineering is
+responsible for a variety of infrastructure services within the Bank, for
+example Web and application hosting. These services are designed to run
+large numbers of applications within the Bank in a highly available, cost
+effective and secure shared infrastructure environment. The team is
+responsible for engineering platform capabilities that span services such
+as management of log files, capacity, automation, integration and user
+interfaces.
+
+Desired skills:
+We are looking for an experienced Perl Developer to join our London based
+engineering team, responsible for Deutsche Bank’s Unix web hosting
+clusters.  We are running a Linux, Apache, open-source relational database
+management system (MySQ)L and Hypertext Preprocessor (PHP) LAMP stack for
+web hosting intranet and Internet-facing websites with an in-house
+developed automation layer and self-service configuration web portal, both
+written mainly in Perl. Our role is to serve as the in-house web hosting
+service provider for the Bank’s web development teams.
+ 
+The ideal
+candidate will have experience developing system automation infrastructure
+for large scale, globally distributed web hosting clusters and developing
+Perl-based web applications.  
+ 
+The role is primarily Perl development,
+with some degree of providing third level support for escalations from our
+operations and support team.  We are working in 2-week engineering sprints.
+ Production releases are every 2-3 months.
+
+You will have: 
+
+•	Perl,
+SQL, Shell scripting.
+•	Object Oriented Perl (OOP).
+•	Unit
+Testing.
+•	Comfortable using Unix/Linux on the command line.
+•      
+Web hosting, caching and proxy software and related  technologies: Apache,
+volume hosting setups with Apache Virtual Host (vhosts), Hypertext Transfer
+Protocol (HTTP), Secure Sockets Layer (SSL), Common Gateway Interface
+(CGI), Fast CGI.
+•	Revision control systems (Subversion, branching
+and merging).
+•	Ability to reverse-engineer legacy code, thorough
+testing approach when refactoring legacy code.
+•	Can build software
+from source; make, autoconf, etc.
+
+You will be:
+
+•	Proven Perl
+developer delivering within a web hosting environment. 
+•	Computer
+Science or Engineering degree qualified
+•	A self-starter
+•	A
+natural communicator in both written and verbal forms.
+
+Contact information at:
+http://jobs.perl.org/job/19606#contact

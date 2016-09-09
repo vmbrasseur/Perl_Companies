@@ -1,0 +1,107 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14780
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 1622 invoked from network); 19 Nov 2014 04:54:09 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 19 Nov 2014 04:54:09 -0000
+Received: (qmail 7971 invoked by uid 225); 19 Nov 2014 04:54:09 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 7967 invoked by alias); 19 Nov 2014 04:54:09 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 18 Nov 2014 20:54:07 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id C36324294F; Tue, 18 Nov 2014 20:54:02 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Tue, 18 Nov 2014 20:54:02 -0800
+Message-ID: <20141119045402.C36324294F@x3.develooper.com>
+Subject: Server Side Developer For The Register (onsite), Edinburgh, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19066
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 18, 2014
+
+Job title: Server Side Developer For The Register
+
+Company name: Situation Publishing LTD
+
+Internal ID: perljob
+
+Location: Edinburgh, UK
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Situation Publishing, owner of The Register (www.theregister.co.uk), is
+looking for a full-time software developer/sysadmin to work on server side
+Perl code and Debian-based servers.
+
+You'll work in our Edinburgh office, doing a combination of software
+development and on-going maintenance and tasks such as log reporting,
+server monitoring, applying software updates and system tuning to ensure
+the availability and quality of our online presence.
+
+Broadly put, we favour open source: we use Debian/Ubuntu, Perl, Apache,
+Exim, MySQL & Postgres in our stack. We rely heavily on Git for process and
+revision control. We sometimes write our own tools. Our business is on the
+web, so while HTML, Javascript, and CSS skills are not required they are
+desirable and you would be expected to become familiar with them over time.
+
+
+Our Edinburgh tech team is small, focused and has a good degree of
+autonomy, so you need to be able to produce great work without a carrot or
+stick and be comfortable communicating with the wider business via email,
+phone, instant messaging and online tools such as Wikis and Google Docs.
+
+We offer a competitive salary based on your experience; company pension
+contribution; and 25 days annual holiday.
+
+Required skills:
+Excellent English, communication skills, and the legal right to work in the
+UK.
+
+Experience writing Perl, or excellent skills in a similar language and be
+happy to bend them to working with Perl
+
+Debian/Ubuntu experience and comfort with the shell
+
+Good knowledge of Apache
+
+Comfort using software revision control (e.g. Git)
+
+Comfort using SQL (“raw” and through abstractions like DBIx::Class)
+
+Desired skills:
+Debian package management, and day to day system administration
+
+MySQL and Postgres
+
+(valid) HTML, Javascript and CSS
+
+Familiarity and experience with server virtualisation
+
+Testing and monitoring
+
+Mail servers (e.g. Exim)
+
+Website for more information:
+http://www.theregister.co.uk/about/company/website/
+
+Contact information at:
+http://jobs.perl.org/job/19066#contact

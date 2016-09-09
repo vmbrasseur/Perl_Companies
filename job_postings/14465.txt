@@ -1,0 +1,83 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14465
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 10241 invoked from network); 13 Jun 2014 05:32:49 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 13 Jun 2014 05:32:49 -0000
+Received: (qmail 13175 invoked by uid 225); 13 Jun 2014 05:32:49 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 13171 invoked by alias); 13 Jun 2014 05:32:49 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 12 Jun 2014 22:32:44 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id A038142959; Thu, 12 Jun 2014 22:32:41 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 12 Jun 2014 22:32:41 -0700
+Message-ID: <20140613053241.A038142959@x3.develooper.com>
+Subject: Senior Perl Developer (telecommute), Kochi, Kerala, India
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18706
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 11, 2014
+
+Job title: Senior Perl Developer
+
+Company name: Nuventure Technology Solutions
+
+Location: Kochi, Kerala, India
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+Looking for a highly experienced and capable Perl developer to work on the
+completion of a strategic application platform for a global domain
+registration and web hosting group. The back-end is entirely Perl and API
+driven and integrates with UI functionality for the front-end control
+panels via RESTful APIs.
+
+The principles of code reuse and coding standards adherence are enforced,
+alongside peer code reviews.
+
+The candidate must demonstrate an ability perform reliable impact
+assessments against stated requirements and deliver against negotiated time
+frames based on the impact assessments.
+
+Required skills:
+• 5+ years Perl programming experience
+• 5+ years experience with Unix-based systems (systems administration or
+Perl development)
+• Excellent knowledge of common Internet protocols (e.g. HTTP, SMTP, DNS,
+Whois)
+• Excellent Perl programming skills, including Object Orientated
+development, debugging, test-driven development, continuous integration,
+POD documentation and common CPAN modules
+• Good Unix skills, including shell scripting & database administration
+(MySQL)
+• 1+ years experience of managing small development teams
+
+Desired skills:
+• Experience in the domain registration / web hosting market
+• Moose, DBIx::Class or Perl Dancer experience
+• MySQL Proxy, Galera Cluster
+
+Website for more information: http://www.nuventure.in
+
+Contact information at:
+http://jobs.perl.org/job/18706#contact

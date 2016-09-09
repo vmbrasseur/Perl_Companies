@@ -1,0 +1,91 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15121
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 6441 invoked from network); 13 Jun 2015 04:41:38 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 13 Jun 2015 04:41:38 -0000
+Received: (qmail 30309 invoked by uid 225); 13 Jun 2015 04:41:37 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 30305 invoked by alias); 13 Jun 2015 04:41:37 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 12 Jun 2015 21:41:30 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 953465FA; Sat, 13 Jun 2015 04:41:27 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 13 Jun 2015 04:41:27 +0000
+Message-ID: <20150613044127.953465FA@web1.develooper.com>
+Subject: API/Portal developer using Catalyst (onsite), Aberdeen, Scotland.
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19666
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 13, 2015
+
+Job title: API/Portal developer using Catalyst
+
+Company name: Suretec Systems Ltd. (SureVoIP)
+
+Location: Aberdeen, Scotland.
+
+Pay rate: DOE
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Role is to continue and maintain development of the SureVoIP API and
+SureVoIP Web portal driven by the API, plus SureVoIP DevOps.
+
+Desired skills:
+Catalyst
+Catalyst::Action::REST
+Testing
+Modern Perl
+Perl Best Practices
+DBIx::Class
+PostgreSQL
+RESTful API principles
+WebSockets
+Bootstrap
+JQuery
+HTML::FormHandler
+DevOps Principles
+Continuous Integration/Deployment
+Moose
+
+In use at SureVoIP and advantageous to know:
+
+Ansible
+Jenkins CI
+GitLab
+Internal ceritficate CA
+ZeroMQ
+NETCONF
+JunOS
+WebRTC
+XMPP
+LDAP
+DocuSign API
+Grok VoIP/SIP/ISP/ITSP
+
+Any telecom infrastructure DevOps experience.
+
+Website for more information: http://www.surevoip.co.uk/api
+
+Contact information at:
+http://jobs.perl.org/job/19666#contact

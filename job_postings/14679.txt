@@ -1,0 +1,91 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14679
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 15708 invoked from network); 21 Sep 2014 17:51:37 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 21 Sep 2014 17:51:37 -0000
+Received: (qmail 15259 invoked by uid 225); 21 Sep 2014 17:51:37 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 15255 invoked by alias); 21 Sep 2014 17:51:37 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 21 Sep 2014 10:51:35 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 7A72442AC0; Sun, 21 Sep 2014 10:51:32 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sun, 21 Sep 2014 10:51:32 -0700
+Message-ID: <20140921175132.7A72442AC0@x3.develooper.com>
+Subject: Senior Perl Developer (onsite), Charlotte, NC
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18933
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 21, 2014
+
+Job title: Senior Perl Developer
+
+Company name: Empowered Benefits
+
+Location: Charlotte, NC
+
+Pay rate: Negotiable
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Senior Perl Developer
+
+We are currently recruiting for an experienced Perl developer.	In your
+role as a Senior Perl developer, you will be responsible for the design,
+development, testing, and maintenance of an application that will
+import/export data files of different formats into and out of a SAAS
+application. This position is coding intensive, and will require the
+ability to coordinate well with a team as well as show personal initiative
+and take ownership of individual components of the development.  Systems
+administrative duties would be limited, but would include installation and
+maintenance of servers and databases, development of deployment and
+maintenance scripts, and assorted other duties.
+
+Requirements:
+•	      6 or more years of experience in real-world Perl development
+•	      4 or more years’ experience with Object-oriented Perl
+•	      2 or more years MySQL experience
+•	      2 or more years systems administration in a Unix environment
+•	      Strong communication skills – verbal and written
+•	      Ability to set high-level architectural standards and lead
+other team members in implementing those standards
+•	      Set best practices for the software development process:
+coding standards, testing, change management, build automation, release
+planning and deployment.
+•	      Advocate for new technologies and techniques
+
+Plus:
+•	      Object-oriented Perl
+•	      Rose::DB, Moose
+•	      DBI interface
+•	      MySQL
+•	      Linux/Unix development environment
+
+Required skills: Perl, MySQL, Unix/Linux, DBI
+
+Desired skills: Rose::DB, Moose, Object-oriented Perl
+
+Website for more information: http://www.empoweredbenefits.com/
+
+Contact information at:
+http://jobs.perl.org/job/18933#contact

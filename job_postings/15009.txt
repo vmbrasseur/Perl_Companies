@@ -1,0 +1,106 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15009
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 15203 invoked from network); 12 Apr 2015 00:30:24 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 12 Apr 2015 00:30:24 -0000
+Received: (qmail 26298 invoked by uid 225); 12 Apr 2015 00:30:23 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 26294 invoked by alias); 12 Apr 2015 00:30:23 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 11 Apr 2015 17:30:20 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 68E294295B; Sat, 11 Apr 2015 17:30:17 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 11 Apr 2015 17:30:17 -0700
+Message-ID: <20150412003017.68E294295B@x3.develooper.com>
+Subject: Perl-SQL developer / Linux SysAdmin (onsite), Ft. Lauderdale, FL,
+ United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19490
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 11, 2015
+
+Job title: Perl-SQL developer / Linux SysAdmin
+
+Company name: BioTrackTHC
+
+Internal ID: 1,2
+
+Location: Ft. Lauderdale, FL, United States
+
+Pay rate: $55K+ annually
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Bio-Tech Medical Software Inc. is expanding its South Florida HQ and is
+looking to grow its small but skilled IT department to meet expected market
+demand for our products.   Our subsidiary, BioTrackTHC, provides market
+leading seed-to-sale business software for the marijuana industry, together
+with a comprehensive service offered to state regulators which provides
+each state with transparency and oversight into each and every event in the
+regulated products' lifecycle.
+
+
+We are looking for a few good candidates, who are willing to relocate to
+the Ft. Lauderdale area, to fulfil the following two positions:
+
+Required skills:
+1) Developer - SQL/Perl
+
+    We are looking for a few full-time Perl programmers to work with our
+existing team to further
+    develop and maintain our software projects.  The systems use a
+combination of
+
+    * Perl
+    * Gtk
+    * SQL (postgresql)
+    * FIX Protocol (financial industry experience a plus)
+    * SSL
+    * Our servers run Linux, business clients run Windows
+    * Standard web technologies: HTML5, CSS, Javascript
+
+---------------------------------------------------------------------------
+--------
+
+2) System Administrator
+
+    We are looking for a few full-time Linux System Administrators to work
+under my direction 
+    primarily in support of our per-state "traceability" contracts.  The
+contracts will require some
+    travel and on-call activity from each team member, and take advantage
+of the following 
+    technologies:
+
+    * Perl scripting
+    * Slackware
+    * Puppet
+    * HA PostgreSQL
+    * HA Apache httpd/mod_perl (Catalyst experience a plus)
+    * Gtk based websockets
+    * Standard web technologies: HTML5, CSS, Javascript
+
+Website for more information: https://www.biotrackthc.com/
+
+Contact information at:
+http://jobs.perl.org/job/19490#contact

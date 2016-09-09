@@ -1,0 +1,149 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15536
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 24917 invoked from network); 21 May 2016 06:30:31 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 21 May 2016 06:30:31 -0000
+Received: (qmail 20900 invoked by uid 225); 21 May 2016 06:30:29 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 20894 invoked by alias); 21 May 2016 06:30:28 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,LOTS_OF_MONEY,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 20 May 2016 23:30:26 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 0C24A2EF; Sat, 21 May 2016 06:30:23 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 21 May 2016 06:30:22 +0000
+Message-ID: <20160521063023.0C24A2EF@web1.develooper.com>
+Subject: Perl Developer - Senior FS (onsite), London, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19146
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 21, 2016
+
+Job title: Perl Developer - Senior FS
+
+Company name: Eligo Recruitment
+
+Internal ID: RD-PL-1-FS
+
+Location: London, UK
+
+Pay rate: £55,000
+
+Terms of employment: Salaried employee
+
+Length of employment: Perm
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Perl Developer needed for a Ecommce based business in Hampshire, You will
+need to be an experienced Perl Developer to undertake a lead projects and
+take full ownership of them. As the lead Perl Developer you will be
+managing and mentoring junior Perl developers.
+
+The group is responsible
+for engineering their Web and JEE application hosting platforms. These
+services are designed to run a large numbers of applications within the
+group in a highly available, cost effective and secure shared
+infrastructure environment. 
+They utilize a product driven approach where
+we provide these services to our clients, the application development
+teams, in a manner similar to a managed hosting service provider. The team
+work closely with Product Management and the Production Support
+organization that operate the platforms we deliver.
+
+Position Description
+
+Qualified candidates must have technology expertise in Web hosting
+technologies and Perl programming coupled with experience of executing
+product engineering practices. Candidates must be collaborative, client
+focused and able to deliver world class engineering services to our
+clients.
+
+Key Responsibilities:
+
+* Engineering/developing features for our
+Web hosting and Java application hosting platform 
+* Quality assurance
+testing, including functional, performance/scalability, and regression
+testing 
+* Writing technical documentation, including design documentation
+and training materials 
+* Platform delivery including packaging,
+installation, and configuration 
+* Ensuring all deliverables adhere to
+DBGT's standards and procedures 
+* Platform support including
+troubleshooting, contributing to root cause analysis, and problem
+resolution 
+* Identifying and assessing risks, determining impact to
+platform and mitigation plans
+
+Key Attributes:
+
+* Analytical and technical
+skills 
+* Clear communicator (code, documentation and verbal) 
+* Efficient
+and pragmatic problem solving 
+* Excellent team worker 
+* Ability to work
+to deadlines
+
+Experience and Education 
+* Bachelor's Degree from an
+accredited college or university with a concentration in an IT‐related
+discipline (or equivalent diploma/work experience) 
+* 2+ years of relevant
+work experience with OO Perl & Web hosting technologies 
+Required skills:
+Strong programming experience in Object Orientated Perl & Shell Scripting 
+* Experience with Apache Web Server (Inc. Apache modules) 
+* Experience
+with at least one of: WebLogic Server, JBoss, Tomcat 
+* Strong Linux/Unix
+and Systems Administration skills 
+* Ability to reverse-engineer legacy
+code 
+* Revision control systems (Subversion, branching and merging) 
+*
+Test Driven Development coupled with Agile SDLC 
+Desired skills: Perl
+modules: Template::Toolkit, CGI::Prototype, Test::More, LWP, Embperl,
+Catalyst 
+* Web hosting, caching and proxy software and related
+technologies: Apache, volume hosting setups with Apache vhosts, HTTP, SSL,
+CGI, FastCGI 
+* Experience with Web Technologies and Tools: HTTP, XML, REST
+
+* Experience of configuring Java environments 
+* Exposure to Java
+programming 
+* Application and Operating System security 
+* C, PHP, Ruby +
+Ruby on Rails, MySQL 
+* Networking fundamentals: TCP/IP, DNS 
+* Load
+balancers (F5 BigIP load balancers), software load balancing technologies
+(Apache mod_proxy_balancer, mod_jk)
+
+Website for more information: http://www.eligo.co.uk/technical/
+
+Contact information at:
+http://jobs.perl.org/job/19146#contact

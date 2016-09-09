@@ -1,0 +1,106 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15046
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 29489 invoked from network); 30 Apr 2015 07:53:16 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 30 Apr 2015 07:53:16 -0000
+Received: (qmail 23707 invoked by uid 225); 30 Apr 2015 07:53:16 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 23703 invoked by alias); 30 Apr 2015 07:53:16 -0000
+X-Spam-Status: No, hits=0.0 required=8.0
+	tests=
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 30 Apr 2015 00:53:11 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 7243A5F4; Thu, 30 Apr 2015 07:53:08 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 30 Apr 2015 07:53:08 +0000
+Message-ID: <20150430075308.7243A5F4@web1.develooper.com>
+Subject: Perl Developer (telecommute), Remote Or Fulton, Maryland
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19544
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 30, 2015
+
+Job title: Perl Developer
+
+Company name: Circonus, Inc.
+
+Location: Remote Or Fulton, Maryland
+
+Pay rate: DOE
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+Circonus is a software company that is changing the way the world monitors
+both IT infrastructure and businesses it powers. Our SaaS and on-premise
+solutions enable companies to navigate the torrent of telemetry data
+produced by technology enabled businesses, turn that data into information
+and leverage it all to make better and faster decisions. 
+
+Circonus
+operations team members focus on operating high performance, resilient
+systems to power telemetry analysis systems around the globe. As a Perl
+Developer you will be working inside the software engineering group in a
+DevOps culture -- though you're unlikely to hear that word on the job.
+
+About the Job
+* Finding website bottlenecks and improving website
+performance, both up and down the stack
+* Building back-end systems,
+internal support, and business communications tools
+* Implementing customer
+requests including API features and tools requests
+* Scaling data, web
+systems and automating as much as possible
+* Identifying and solving
+software errors
+* Improving deployment, monitoring, and operability in
+everything you do
+
+Required skills:
+* 1-2 years experience with Perl
+* Working knowledge of mod_Perl
+*
+Familiarity with Apache Web Server
+* Understanding of Unix-based software
+development environments
+* Familiarity with a DBMS (postgres preferred)
+*
+Understanding of message queues
+* Fluency in one or more version control
+systems
+* Experience with node.js or 1-2 scripting languages a plus
+* You
+are great at solving problems and not afraid to initiate solutions and
+discussions
+* You are a self-starter, independent worker and like to work
+in teams
+
+Desired skills:
+If you've read the book "Web Operations" and were inspired by the first
+chapter about careers... just remember Theo Schlossnagle founded Circonus.
+If you contribute to an open source project, write a blog, or are involved
+in technology in some other way, we would love to hear about it when you
+apply!
+
+Website for more information: http://www.circonus.com/
+
+Contact information at:
+http://jobs.perl.org/job/19544#contact

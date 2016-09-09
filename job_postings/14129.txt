@@ -1,0 +1,96 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14129
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 32128 invoked from network); 30 Jan 2014 21:03:07 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 30 Jan 2014 21:03:07 -0000
+Received: (qmail 3265 invoked by uid 225); 30 Jan 2014 21:03:07 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 3261 invoked by alias); 30 Jan 2014 21:03:07 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,LOTS_OF_MONEY,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 30 Jan 2014 13:03:04 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 0380C4296D; Thu, 30 Jan 2014 13:03:00 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 30 Jan 2014 13:03:00 -0800
+Message-ID: <20140130210301.0380C4296D@x3.develooper.com>
+Subject: Web Developer (onsite), Washington, DC
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18338
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 30, 2014
+
+Job title: Web Developer
+
+Company name: US Naval Research Lab
+
+Internal ID: 1
+
+Location: Washington, DC
+
+Pay rate: $95,000
+
+Terms of employment: Salaried employee
+
+Length of employment: indefinite
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Join a sharp team of people doing challenging work supporting world class
+science and technology. As part of the Center for Computational Science,
+you will be building web-based applications for the Naval Research
+Laboratory (NRL) in Washington, DC.  You'll benefit from a great deal of
+autonomy, a culture that values learning and mastery of technical subjects,
+as well as bright co-workers in a casual working environment.
+
+The ideal candidate has experience building web applications in Perl and
+PHP with a database back-end. We prefer candidates with a bachelors degree,
+a four-year computer science degree, or an engineering degree in a
+technical field, though relevant experience can substitute for formal
+training.  The best candidates have experience working in a team
+environment, a passion for making projects great, and will possess
+excellent analytical and problem-solving skills.
+
+We are committed to the LAMP stack in particular and open source in
+general. We value learning, new ideas, and creative solutions -- you'll be
+joining a team that designs and implements a variety of web-based
+applications to automate processes and support research.  The deadlines are
+realistic and developers have a wide latitude to explore technologies and
+techniques.
+
+Required skills:
+Perl
+PHP
+MySQL
+HTML
+CSS
+JavaScript
+jQuery
+SVN/git
+
+Desired skills:
+Plack
+Catalyst/DBIx::Class/Template Toolkit
+Apache
+Drupal
+
+Website for more information: http://startuphire.com/250144
+
+Contact information at:
+http://jobs.perl.org/job/18338#contact

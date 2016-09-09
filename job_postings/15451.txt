@@ -1,0 +1,94 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15451
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 25728 invoked from network); 7 Mar 2016 19:42:36 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 7 Mar 2016 19:42:36 -0000
+Received: (qmail 12590 invoked by uid 225); 7 Mar 2016 19:42:36 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 12586 invoked by alias); 7 Mar 2016 19:42:36 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 07 Mar 2016 11:42:34 -0800
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id C8705348; Mon,  7 Mar 2016 19:42:30 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 7 Mar 2016 19:42:30 +0000
+Message-ID: <20160307194230.C8705348@web1.develooper.com>
+Subject: DBA with significant Perl experience (telecommute), telecommute
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20108
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 29, 2016
+
+Job title: DBA with significant Perl experience
+
+Company name: Binary.com
+
+Location: telecommute
+
+Terms of employment: Hourly employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+Binary.com is a binary options company with offices in Malta, Malaysia, and
+Japan. Founded in 1999, the company has been recently undergoing fast-paced
+growth, and is seeking to recruit an experienced PostgreSQL DBA (with Perl
+experience) to assist us with scalability and performance of our databases.
+
+Our main PostgreSQL database currently processes over 1 million
+transactions per day, and is expected to grow further in the near future.
+The other elements of our technology stack include Linux, Perl,
+Mojolicious, Starman/PSGI, Redis, Chef, nginx.
+
+As the entirety of the
+Binary.com codebase is in Perl (including database-configuration and test
+suites), we are seeking an individual highly experience with Perl and
+Postgres-related CPAN modules.
+
+This is a telecommute role. Interested
+candidates should email their CV to Jean-Yves Sireau, jys@binary.com, and
+indicate in some detail their PostgreSQL and Perl experience, average
+number of hours/week of availability, and expected hourly rate.
+
+Further
+information about working for Binary.com may be found at
+https://www.binary.com/careers
+
+Desired skills:
+- ability to understand a complex relational model
+- experience with large
+PostgreSQL deployments
+- experience with Perl, and Postgres-related CPAN
+modules
+- confident in MVCC
+- PLPGSQL and SQL
+- triggers and notifications
+- ability to find missing and unnecessary indexes
+- physical and logical
+replication
+- monitoring
+- OLTP and OLAP
+- MDX and icCube knowledge is a
+plus
+- experience with OLAP cubes would be a plus
+
+Website for more information: https://www.binary.com
+
+Contact information at:
+http://jobs.perl.org/job/20108#contact

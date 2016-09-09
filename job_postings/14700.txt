@@ -1,0 +1,121 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14700
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 7757 invoked from network); 4 Oct 2014 05:38:44 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 4 Oct 2014 05:38:44 -0000
+Received: (qmail 6827 invoked by uid 225); 4 Oct 2014 05:38:44 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 6823 invoked by alias); 4 Oct 2014 05:38:44 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 03 Oct 2014 22:38:41 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 308F7429E2; Fri,  3 Oct 2014 22:38:37 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 3 Oct 2014 22:38:37 -0700
+Message-ID: <20141004053838.308F7429E2@x3.develooper.com>
+Subject: Perl Developer - library and framework (onsite), Shanghai, China
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18979
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October  3, 2014
+
+Job title: Perl Developer - library and framework
+
+Company name: Hudson - executive search
+
+Internal ID: 0001
+
+Location: Shanghai, China
+
+Pay rate: 80K to 100K USD
+
+Terms of employment: Salaried employee
+
+Length of employment: full time
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Department Profile
+Application Infrastructure (AI) strives to maximize the business
+application developers’ productivity by centrally providing the core
+development lifecycle tools, core reusable software libraries and
+middleware thus minimizing duplicative efforts across silos. Our goal is to
+provide infrastructure that is broadly reusable, scalable, reliable and
+highly performant to meet the demanding needs of our applications.
+This department is responsible for providing technical expertise in many
+aspects of computing, including Java, C++, .NET, web technologies, and
+dynamic languages (Perl, Python, etc.), to help developers in constructing
+applications either directly or through the provision of toolkits and
+middleware components.
+
+Team Profile
+MSDL is the Dynamic Languages toolkit group - MSDL engineers and supports
+Perl, Python and other dynamic languages. Perl is very widely used within
+the firm. Perl is used for large infrastructure components like aurora,
+vms, database and network management. It is also used for text processing,
+report generating, etc. 
+Several major releases of Perl, Python and R are actively maintained.
+Accompanying each release are many libraries, most of which are from the
+open source community, but a substantial number are in house developed and
+maintained. The MSDL team is relatively small and uses an open source
+collaborative approach to harness other groups efforts.
+
+
+Primary Responsibilities 
+Perl is used widely in a great variety of ways at the Firm. Creating a
+enviroment for Perl developers that enables them to be effective and
+efficient is the main goal.
+In order to do this there is a variety of main responsibilities. Foremost
+the development and maintenance of in house Perl modules. Maintenance of
+modules is exacting work, as a large number of critical systems depend on
+them, so good testing frameworks and source control are a must. Git and
+Perforce are used for source control and the standard Perl Test::Harness
+and prove tools are used. 
+
+Aiding developers with issues, trouble shooting and analyzing issues is an
+important task as well. Installing external modules using an inhouse
+building tool will be part of the responsibilities.
+The group occasionally offers training in the supported languages, mostly
+to guide developers in firm specific approaches.
+
+Tasks
+- improve Perl deployment at the Firm
+- help developers with Perl related problems
+- develop Perl modules for internal use
+- do root-cause analysis on issues, down to Perl C and XS issues
+- help with technical problems with installing modules from CPAN
+- enhance, develop and deliver training materials
+
+Required skills:
+Qualifications
+Skills required (essential) 
+- Perl knowledge: references, OO, modules, regexps. Makefile. Strong Unix
+skills
+- At least several of: Advanced Perl knowledge, XS, Swig, writing Perl
+modules, C/C++, XML, SCM (Perforce/Git)
+- proficient in English, effective communication, dealing with both simple
+and complex queries, time and project management.
+
+Desired skills:
+Skills desired 
+- Windows developer skillset (nmake/visual studio)
+
+Contact information at:
+http://jobs.perl.org/job/18979#contact

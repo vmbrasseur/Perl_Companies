@@ -1,0 +1,140 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15452
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 2340 invoked from network); 9 Mar 2016 07:22:45 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 9 Mar 2016 07:22:45 -0000
+Received: (qmail 32547 invoked by uid 225); 9 Mar 2016 07:22:44 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 32543 invoked by alias); 9 Mar 2016 07:22:44 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 08 Mar 2016 23:22:38 -0800
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 7D526302; Wed,  9 Mar 2016 07:22:35 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 9 Mar 2016 07:22:35 +0000
+Message-ID: <20160309072235.7D526302@web1.develooper.com>
+Subject: Experienced Perl Developer (onsite), Los Angeles, CA, United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20122
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March  9, 2016
+
+Job title: Experienced Perl Developer
+
+Company name: Pelican Parts
+
+Location: Los Angeles, CA, United States
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We currently need to fill a Perl Developer role to join our talented team. 
+We are looking for someone exceptional and self-motivated, and someone who
+is energized and readily embraces a challenge.	Our environment here is
+fast-paced but casual.	You will have the opportunity to grow with us while
+helping us improve our ecommerce site, various content sites, enhance our
+existing tools and help us to build new ones.
+
+Candidates with senior level
+development experience are preferred. SQL experience is also necessary and
+JavaScript experience is a big plus.  The kind of individual we seek should
+have clear knowledge of developing web-based tools and apps as well as
+creating automation software, system tools, and a solid understanding of
+data processing and report generation.
+
+Desired skills:
+Minimum Requirements:
+
+* Must have at least 5+ years of direct hands-on
+Perl development experience.  Ability to work with existing/legacy code,
+work with others on team projects as well as occasionally being the sole
+developer on smaller projects.
+
+* Must have 3+ years of experience with
+SQL, including Microsoft SQL Server and MySQL.	Your SQL experience must
+include forming your own queries, understanding query efficiency, query
+performance evaluation and how to maintain an optimized balance of database
+logic and programming code.
+
+* We are a Windows environment, you must have
+experience and comfort with that.
+
+* Ability & understanding of how to to
+thoroughly unit-test your work on your own.
+
+* Excellent communication
+skills.
+
+Preferred experience:
+
+* Experience with JavaScript is a big plus,
+including frameworks (jQuery in particular).  JavaScript knowledge for
+developing on-page interactivity, DOM manipulation, AJAX, and use of JSON
+is the type that we would be looking for.  Although we are not looking for
+a dedicated front-end developer in this role, candidates with solid working
+experience in this area will increase our interest.
+
+* Additional
+experience with other server-side scripting languages (PHP, Powershell,
+Python) is a plus.
+
+* If your Perl experience includes frameworks such as
+Catalyst, Dancer or Mojolicious this would be beneficial to us going into
+the future.  Familiarity with object-oriented frameworks such as Moose as
+well as template modules or toolkits are not critical but also a plus for
+our future needs.
+
+* A background working with ecommerce sites, B2C and
+customer support sites is very helpful.
+
+Since we are growing and likely to
+expand our technology base, a developer with full stack experience for
+end-to-end web development would be of greatest interest to us.  Our most
+immediate projects to tackle include:
+
+* Program enhancements or entirely
+new features to our proprietary back-end inventory system (called “OBOE”)
+from a list of specifications supplied by our internal stakeholders.
+
+*
+Address issues with OBOE and our customer support & ticketing system used
+by our CSRs
+* Creation of test plans and data validation reports for
+catalog builds, as needed
+* Assist with normalizing our code base to make
+use of centralized common libraries
+* Assist in ensuring our order
+processing code base remains PCI-compliant as we add and extend features
+*
+Enhance dynamic site features – Shopping Cart, Search Engine, Product Info
+Pages, Product Wizards
+* Creation of content processing routines to
+normalize our publishing of article-based content
+* Work with front-end
+teams and Marketing to implement SEO optimizations across our various web
+site properties
+* Handling a constant flow of data processing and
+integration tasks
+
+Website for more information: http://www.pelicanparts.com/
+
+Contact information at:
+http://jobs.perl.org/job/20122#contact

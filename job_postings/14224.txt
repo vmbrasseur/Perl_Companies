@@ -1,0 +1,162 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14224
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 26685 invoked from network); 5 Mar 2014 07:43:29 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 5 Mar 2014 07:43:29 -0000
+Received: (qmail 11275 invoked by uid 225); 5 Mar 2014 07:43:29 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11271 invoked by alias); 5 Mar 2014 07:43:28 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 04 Mar 2014 23:43:22 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 88CBE429A5; Tue,  4 Mar 2014 23:43:19 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Tue, 4 Mar 2014 23:43:19 -0800
+Message-ID: <20140305074319.88CBE429A5@x3.develooper.com>
+Subject: Application and Web Platforms (DAP) (onsite), Cary, North Carolina
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18440
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March  4, 2014
+
+Job title: Application and Web Platforms (DAP)
+
+Company name: Deutsche Bank
+
+Internal ID: 444738
+
+Location: Cary, North Carolina
+
+Pay rate: USD
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+About DB Global Technology:
+
+DB Global Technology (DBGT) is the newly established North American
+development center in Cary, North Carolina. It is located near the Research
+Triangle Park (RTP) area of North Carolina. As a subsidiary of Deutsche
+Bank AG, DBGT is a dedicated application development and software
+engineering center for leading-edge technology solutions that power the
+future of global capital markets. DBGT partners with the Deutsche Bank
+Group Technology and Operations division to access superior technology
+skills and promote innovation in the development of software applications
+and IT solutions.
+
+Group Overview
+
+Enterprise Platform Engineering (EPE) is part of the wider Application
+Services group that focuses on delivering enterprise services and change
+programs across Deutsche Bank and we are in the process of building out a
+strong and dynamic engineering team in Cary.
+
+Application and Web Platforms (AWP) is responsible for engineering our Web
+and JEE application hosting platforms within EPE. These services are
+designed to run a large numbers of applications within the Bank in a highly
+available, cost effective and secure shared infrastructure environment.  We
+encourage a customer self service paradigm allowing our customers to
+maintain their deployments via a unified administration portal, which also
+spans several other services.
+
+We utilize a product driven approach where we provide these services to our
+clients, the application development teams, in a manner similar to a
+managed hosting service provider.  AWP team work closely with Product
+Management and the Production Support organization that operate the
+platforms we deliver.
+
+Required skills:
+Position Description
+
+The Technical Specialist will work as part of the AWP team in Cary.
+Qualified candidates must have technology expertise in Java application
+hosting technologies and Perl programming coupled with experience of
+executing product engineering practices. Candidates must be collaborative,
+client focused and able to deliver world class engineering services to our
+clients. 
+
+Key Responsibilities:
+
+•	Engineering/developing	features for our Java application hosting
+platform
+•	Quality assurance testing, including functional,
+performance/scalability, and regression testing
+•	Writing technical documentation, including design documentation and
+training materials
+•	Platform delivery including packaging, installation, and
+configuration
+•	Ensuring all deliverables adhere to DBGT’s standards and procedures
+
+•	Engineering support including troubleshooting, contributing to root
+cause analysis, and problem resolution
+•	Identifying and assessing risks, determining impact to platform and
+mitigation plans
+
+
+
+
+
+
+
+
+Technical Skills (Essential):
+•	Strong programming experience in Object Orientated Perl & Shell
+Scripting
+•	Experience with at least one of: WebLogic Server, JBoss, Tomcat
+•	Strong Linux/Unix and Systems Administration skills
+•	Ability to reverse-engineer legacy code
+•	Revision control systems (Subversion, branching and merging)
+•	Test Driven Development coupled with Agile SDLC
+
+Technical Skills (Desirable):
+•	Perl modules: Template:Toolkit, Catalyst, XML::LibXML, XML::Simple,
+DBI, LWP and Test::More
+•	Experience of configuring Java environments
+•	Exposure to Java programming
+•	Experience with Web Technologies and Tools: HTTP, XML, REST,
+JavaScript, CSS
+•	Exposure to C, SQL & Ruby
+•	Application and Operating System security
+•	Networking fundamentals: TCP/IP, DNS
+
+Desired skills:
+Key Attributes:
+
+•	Analytical and technical skills
+•	Clear communicator (code, documentation and verbal)
+•	Efficient and pragmatic problem solving
+•	Excellent team worker
+•	Ability to work to deadlines
+
+Experience and Education
+•	Bachelor’s Degree from an accredited college or university with a
+concentration in an IT‐related discipline (or equivalent diploma/work
+experience)
+•	2+ years of relevant work experience with OO Perl, Java & Java
+Application hosting technologies
+
+Deutsche Bank is an Equal Opportunity/Affirmative Action (M/F/D/V)
+employer.
+
+Website for more information: http://db.com
+
+Contact information at:
+http://jobs.perl.org/job/18440#contact

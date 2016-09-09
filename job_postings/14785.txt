@@ -1,0 +1,86 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14785
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 19942 invoked from network); 21 Nov 2014 03:49:15 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 21 Nov 2014 03:49:15 -0000
+Received: (qmail 11213 invoked by uid 225); 21 Nov 2014 03:49:15 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11209 invoked by alias); 21 Nov 2014 03:49:15 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 20 Nov 2014 19:49:13 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id C877842B2A; Thu, 20 Nov 2014 19:49:09 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 20 Nov 2014 19:49:09 -0800
+Message-ID: <20141121034909.C877842B2A@x3.develooper.com>
+Subject: Senior Perl Test Engineer Contractor (onsite), London, England
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19078
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 20, 2014
+
+Job title: Senior Perl Test Engineer Contractor
+
+Company name: Broadbean Technology
+
+Location: London, England
+
+Pay rate: Negotiable
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 6 months
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We're looking for a talented Senior Perl Developer to join our team as we
+take on an ambitious project to scale our core products and migrate out of
+our physical data centres into an AWS based infrastructure. The successful
+candidate will focus on automating unit, functional and performance tests
+to ensure system stability and an efficient provisioning process while
+working with the infrastructure team to establish a robust continuous
+integration process.
+
+Broadbean is a leading provider of sourcing solutions for recruiters. We
+have over 60,000 users who post in excess of 2 million adverts a month via
+our award winning software. We also track approximately 9 million job
+applications across 65 countries a month. But we want to do more.
+
+We're a small company (90 people in the UK), owned by a very big company
+(CareerBuilder), and a great place to work. We've got a development team of
+30 and are fully committed to Perl, clearing our technical debt, and doing
+things the right way moving forward.
+
+Required skills:
+•	Strong object-oriented Perl programming skills
+•	Experience in continuous integration (CI) implementation and
+practices with a focus on automated testing of deployment and provisioning
+code
+•	Excellent communication skills and ability to discuss technical
+issues with people from a non-technical background 
+•	Good problem solving skills and ability to work within in a team
+and autonomously 
+•	Ability to work well under pressure, while retaining focus and
+composure
+•	Attention to detail and managing delivery to stringent time scales
+•	Knowledge of web technologies
+
+Contact information at:
+http://jobs.perl.org/job/19078#contact

@@ -1,0 +1,142 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14851
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 25328 invoked from network); 9 Jan 2015 11:53:32 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 9 Jan 2015 11:53:32 -0000
+Received: (qmail 13476 invoked by uid 225); 9 Jan 2015 11:53:30 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 13470 invoked by alias); 9 Jan 2015 11:53:27 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 09 Jan 2015 03:53:25 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id E029842A8D; Fri,  9 Jan 2015 03:53:22 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 9 Jan 2015 03:53:22 -0800
+Message-ID: <20150109115322.E029842A8D@x3.develooper.com>
+Subject: Senior QA Engineer (telecommute), Waltham, MA  USA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19166
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January  9, 2015
+
+Job title: Senior QA Engineer
+
+Company name: MaxMind
+
+Location: Waltham, MA  USA
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+MaxMind (www.maxmind.com) is looking for a talented, experienced, and
+highly motivated Senior QA Engineer to help us develop and improve our
+products, websites, and customer portal. Founded in 2002, MaxMind is an
+industry-leading provider of IP intelligence and online fraud detection
+tools. MaxMind is privately held and based in Waltham, Massachusetts.
+
+Transaction fraud detection is a constantly changing field, and our work is
+never done. Fraudsters are always looking for new ways to evade detection,
+which means we're always looking for new ways to detect them. Our fraud
+detection service, minFraud, builds on top of our widely used GeoIP
+products, which associate geographical and other data with individual IP
+addresses. We screen half a billion online transactions each year and
+provide IP intelligence data to thousands of companies worldwide.
+
+The Position:
+
+Your job will be to work with our QA team, developers, and product
+management to test changes to existing products, as well as test new
+products to ensure they behave as expected. You will also liaise with our
+support team so that you are aware of problems being reported by users. You
+will work with developers to triage these bug reports and make sure they
+are fixed in future releases.
+
+Things that need testing at MaxMind include our website, our web services,
+our downloadable databases, client APIs, and more. Your job is to break
+them all and then help us rebuild them.
+
+We're looking for a detail-oriented person with strong development and
+communication skills. Whenever possible, we expect you to automate tests
+using tools like Selenium,TeamCity, virtual machines, etc. When manual
+testing is needed, you will need to document your test plans for future
+use. We have great unit tests, and recently developed the infrastructure
+for integration tests, but we would greatly benefit from improved
+functional testing.
+
+Our development team is largely comprised of telecommuters, so
+communication centers around Google Hangouts, group chat, and agile
+planning tools. Full-time telecommuting is permitted, and we invite
+candidates from most US states and Canada; we cannot hire telecommuters
+from NJ, NY, or WA. We may give preference to those candidates who are near
+Waltham, Massachusetts or Vancouver, British Columbia.
+
+Compensation starts at $100k/year and up, depending on experience.  We also
+offer a performance-based bonus plan.
+
+
+Working at MaxMind:
+
+As an employee of MaxMind, you'll enjoy the flexibility and autonomy that
+come with being a member of a small technical team. We're a casual,
+friendly, results-focused company of about 25 employees. We want you to get
+things done, but it's also important to have a life outside the office.
+ 
+Our main office is located near downtown Waltham, MA, outside of Boston, a
+five minute walk from the nearest commuter rail line and several express
+bus lines.
+
+In addition to medical, dental, and vision coverage, we offer several other
+benefits (in the US) including a 401k with employer contribution, FSA,
+annual performance bonuses, and transit reimbursement. Please inquire about
+benefits in Canada.
+
+Our Development Practices:
+
+Our backend code is largely written in Perl and Go using PostgreSQL and
+Linux. We maintain high standards for our development practices. All new
+code is expected to include automated tests run by TeamCity, and all work
+goes through internal code review on GitHub Enterprise.
+
+We use free software as much as possible, and we release code back to the
+community when we can do so. We're trying to improve the way we do
+development, and we expect you to participate in that process.
+
+Required skills:
+Experience writing tests based on user requirements.
+Experience with testing tools such as TeamCity, Selenium, JMeter, etc.
+Ability to communicate clearly with end users to interpret bug reports and
+document them for developers.
+Dynamic language programming experience. We use Perl but we're happy to
+hear from Javascript, PHP, Python, or Ruby developers as well.
+Understanding of SQL databases (Postgres, especially )
+Experience developing on a Linux or BSD platform.
+Experience with version control, preferably Git.
+Excellent written and spoken communication skills.
+The ability to work with a geographically dispersed team.
+
+Desired skills:
+Performance testing/benchmarking experience.
+FS/OSS contributions. Tell us about them!
+
+Website for more information: http://www.maxmind.com/
+
+Contact information at:
+http://jobs.perl.org/job/19166#contact

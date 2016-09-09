@@ -1,0 +1,112 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14952
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 27641 invoked from network); 5 Mar 2015 08:09:25 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 5 Mar 2015 08:09:25 -0000
+Received: (qmail 30385 invoked by uid 225); 5 Mar 2015 08:09:25 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 30381 invoked by alias); 5 Mar 2015 08:09:25 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 05 Mar 2015 00:09:23 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 3E9EC42A82; Thu,  5 Mar 2015 00:09:20 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 5 Mar 2015 00:09:20 -0800
+Message-ID: <20150305080920.3E9EC42A82@x3.develooper.com>
+Subject: Software Engineer (onsite), Somerville, MA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19392
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March  5, 2015
+
+Job title: Software Engineer
+
+Company name: Best Practical Solutions
+
+Location: Somerville, MA
+
+Pay rate: DOE
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+About Us
+
+We're Best Practical Solutions, a small software company located in
+Somerville, MA.  We build software and sell support, training, consulting
+and custom development services.  Our main main products are RT (Request
+Tracker) which is the premier open source issue tracking system and RTIR,
+our open source incident handling system that has been designed with the
+needs of CERT and incident response teams in mind.  We’ve been around for
+over a decade and things just keep getting busier.
+
+About the Job
+
+We are looking for a motivated, customer service oriented engineer to
+participate in all aspects of the software development cycles including
+requirements gathering, design, development, implementation, upgrades,
+maintenance and documentation.	You will be responsible for ensuring that
+new or upgraded systems are fully deployed and functioning per the clients
+specification.	You will also design and code new functionality or add new
+functionality to our products to add new features.  Other responsibilities
+will include debugging issues and correcting defects reported by our users,
+testing new releases and updating code to address errors and overall
+performance.  We work in a very dynamic and fast paced environment so you
+will need to be flexible to handle a consistent variety of things on a
+daily basis.
+
+Location
+
+You will be working from our office in Somerville, MA.	The hours are
+somewhat flexible (East or West coast business hours), and we all
+telecommute some of the time...though we work from our office in the heart
+of Davis Square most days. While we do a fair amount of our collaboration
+in-person, you should also be comfortable using email and instant messaging
+to coordinate and get work done, as we have a few employees in other parts
+of the globe.
+
+Required skills:
+You should be a self-starter who has 3+ years experience with Perl, as well
+as some experience with at least a few of the following buzzwords:
+
+*  Open source development practices
+*  Distributed source control (git, branching, patches)
+*  Test driven development (smoke testing, Test::More)
+*  User interface design (HTML, CSS)
+*  Documentation (user-facing, API)
+*  Javascript (jQuery, AJAX)
+*  SQL databases (MySQL, PostgreSQL, Oracle, SQLite)
+*  Optimization, profiling and debugging
+*  UNIX systems administration (web servers, mail servers)
+
+It’s ok if you don’t know everything out of the gate but you should be able
+to learn on the fly and be comfortable asking questions before you get in
+over your head.  Being vocal is a really important quality and being able
+to manage competing priorities with the help of your colleagues and project
+manager is key.  RT is a large codebase to dive into, so you should be
+prepared to work with a project that’s too big to hold in your head all at
+once.  If you want to see what you’ll be getting yourself into, you can
+find all of our open source code on github.
+
+Website for more information: http://bestpractical.com
+
+Contact information at:
+http://jobs.perl.org/job/19392#contact
