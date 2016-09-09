@@ -4,18 +4,21 @@ use v5.10;
 use utf8;
 use strict;
 use warnings;
+use FindBin qw($Bin);
 
 use File::Spec::Functions;
 use Net::NNTP;
 
-my $nntp = Net::NNTP->new('nntp.perl.org');
-my( $count, $first, $last ) = $nntp->group( 'job_postings' );
+my $nntp = Net::NNTP->new('nntp.perl.org', timeout => 500);
+my( $count, $first, $last ) = $nntp->group( 'perl.jobs' );
 say "$count, $first, $last";
 
-my $dir = '../job_postings';
+my $dir = "$Bin/../job_postings";
 mkdir $dir, 0755 unless -d $dir;
 
-foreach my $i ( $first .. $last ) {
+my $i = $last;
+
+while ($i-- > $first) {
 	my $file = catfile( $dir, "$i.txt" );
 	next if -s $file;
 	open my $fh, '>', $file;
@@ -23,10 +26,10 @@ foreach my $i ( $first .. $last ) {
 	close $fh;
 	say $i;
 	sleep 1;
-	}
+}
 
 $nntp->quit;
-           
+
 =head1 NAME
 
 =head1 SYNOPSIS

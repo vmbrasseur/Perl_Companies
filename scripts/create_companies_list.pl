@@ -6,12 +6,13 @@ use strict;
 use warnings;
 use autodie;
 no warnings 'uninitialized';
+use FindBin qw($Bin);
 
 use Email::Simple;
 use List::Util qw(max);
 use Data::Dumper;
 
-my $dir = '../job_postings';
+my $dir = "$Bin/../job_postings";
 die "$dir does not exist." unless (-d $dir);
 
 say "Getting the list of files...";
@@ -19,9 +20,9 @@ say "Getting the list of files...";
 my @files = glob( "$dir/*.txt" );
 
 my %companies;
-my $exceptions = '../exceptions.txt';
-my $companycsv = '../generated_company_list.csv';
-my $companymd = '../generated_company_list.md';
+my $exceptions = "$Bin/../exceptions.txt";
+my $companycsv = "$Bin/../generated_company_list.csv";
+my $companymd = "$Bin/../generated_company_list.md";
 
 open(my $EXCEPTIONS, ">", $exceptions);
 
@@ -34,22 +35,22 @@ foreach my $file ( @files ) {
 	next unless $email->header( 'From' ) eq 'jobs-admin@perl.org (Perl Jobs)';
 
 	my $body = $email->body;
-	
+
 	my ( $year )      = $body =~ /^Posted: \s+ [a-z]+ \s+ \d+, \s+ (\d+)/mix;
 	my ( $name )      = $body =~ /^Company name:\s+(.*)$/mi;
 	my ( $location )  = $body =~ /^Location:\s+(.*)$/mi;
-	
+
   # Take care of the (hopefully) edge cases
 	unless ($name) {
 		# If there's no $name, log it to a file to look at later.
 		say $EXCEPTIONS "$file";
 		next;
 	}
-	
+
 	$location = "Undefined" unless defined($location);
-	
+
   # Set the hash values
-  $companies{$name}{location} = $location; 
+  $companies{$name}{location} = $location;
   push(@{$companies{$name}{years}}, $year);
 }
 
@@ -96,7 +97,7 @@ say "Populating the output files...";
 
 foreach (sort(keys(%companies))) {
   my $name = $_;
-  my $location = $companies{$name}{location};	
+  my $location = $companies{$name}{location};
   my $years = $companies{$name}{years};
 	my $maxyear = max(@$years);
 
@@ -111,14 +112,14 @@ say $COMPANYMD "</table>";
 close $COMPANYCSV;
 close $COMPANYMD;
 
-say "Done. The data are in $companycsv and $companymd. 
+say "Done. The data are in $companycsv and $companymd.
 Exceptions (unparsed files) are in $exceptions.";
 
 #===========
 
 sub set_status {
 	my $year = shift;
-		
+
 	if ($year ge 2011) { return 'Active'; }
 	elsif ($year lt 2011 && $year le 2008) { return 'Dormant'; }
 	else { return 'Inactive'; }
@@ -126,19 +127,19 @@ sub set_status {
 
 sub output_line {
 	my ($name, $location, $year, $status, $type) = @_;
-	
+
 	if ($type eq 'csv') {
-		return "\"", 
-           $name, 
-           "\", \"", 
-           $location, 
-           "\", \"", 
+		return "\"",
+           $name,
+           "\", \"",
+           $location,
+           "\", \"",
            $year,
            "\"";
 	}
 	elsif ($type eq 'md') {
 		return "$name | $location | $year";
-	} 
+	}
 	else {
 		return "$name\n\t$location\n\t$year";
 	}
