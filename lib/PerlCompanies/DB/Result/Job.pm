@@ -1,6 +1,7 @@
 package PerlCompanies::DB::Result::Job;
 use DBIx::Class::Candy
   -perl5     => v10,
+  -components => [qw/InflateColumn::DateTime/],
   -autotable => v1;
 
 primary_column uri => {
@@ -12,7 +13,7 @@ column title => {
 };
 
 column posted => {
-    data_type => 'text',
+    data_type => 'datetime',
 };
 
 column hours => {
