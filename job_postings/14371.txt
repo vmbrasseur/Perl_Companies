@@ -1,0 +1,103 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14371
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 16201 invoked from network); 4 May 2014 22:10:36 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 4 May 2014 22:10:36 -0000
+Received: (qmail 27763 invoked by uid 225); 4 May 2014 22:10:32 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 27759 invoked by alias); 4 May 2014 22:10:32 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 04 May 2014 15:10:29 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 0B1844294F; Sun,  4 May 2014 15:10:26 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sun, 4 May 2014 15:10:26 -0700
+Message-ID: <20140504221027.0B1844294F@x3.develooper.com>
+Subject: CTO (EMEA) (onsite), Canary Wharf, London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18608
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May  4, 2014
+
+Job title: CTO (EMEA)
+
+Company name: Broadbean Technology
+
+Location: Canary Wharf, London
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Broadbean develops revolutionary Software as a Service for the recruitment
+industry targeting both in house and recruitment agency recruiters.
+Recently acquired by CareerBuilder we are a small but dynamic company which
+employees 130 people in London, California and Sydney. Our technology is
+used by recruiters to distribute around 2 million job adverts each month to
+job boards, social media sites and other emerging advertising channels. In
+response to which the software handles c. 10 million incoming applications
+to those adverts; in the UK, this equates to c. 60% of all job adverts to
+posted to recruitment sites, and we have a strong and growing international
+presence. In addition we offer a range of other SaaS products which make
+the lives of our customers easier.
+
+We're now looking for an ambitious CTO for EMEA with great ideas and the
+courage to deliver them…that’s where you fit in. With a drive to
+revolutionise our technology innovation you’ll be building great new
+products, improving our existing product set, looking after and evolving
+our infrastructure, and working with our clients and partners to make sure
+we stay at the top of the market.
+
+** Only candidates legally able to work in the UK will be considered **
+
+Required skills:
+* The EMEA technology team is 45 people strong and growing, so you'll need
+experience of running successful development teams, experience with
+recruiting, leading, and inspiring great developers, and a deep
+understanding of SCRUM;
+
+* Our products are built in Perl; while you're unlikely to be writing code,
+you should be able to engage with the developers on architectural
+decisions, and understand either the Perl ecosystem, or a closely related
+open-source technology stack;
+
+* You'll spend a lot of time talking to our customers and our partners, so
+you'll need excellent communication skills, and be comfortable being
+customer facing; and
+
+* As a SaaS company dealing with recruitment data, you'll be responsible
+for the security and availability of a great deal of personal data. We'll
+expect you to have experience building and maintaining secure systems, and
+of the regulatory and operational issues that come out of that.
+
+Desired skills:
+* Negotiation with 3rd party suppliers;
+
+* Knowledge of the recruitment software market;
+
+* Stakeholder management; and
+
+* Experience with Amazon Webservices.
+
+Website for more information:
+http://careers.broadbeantech.com/jobs/view/199.html
+
+Contact information at:
+http://jobs.perl.org/job/18608#contact

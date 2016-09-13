@@ -1,0 +1,104 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15382
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 6833 invoked from network); 18 Jan 2016 19:23:13 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 18 Jan 2016 19:23:13 -0000
+Received: (qmail 29991 invoked by uid 225); 18 Jan 2016 19:23:13 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 29987 invoked by alias); 18 Jan 2016 19:23:13 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 18 Jan 2016 11:23:07 -0800
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 23D634DE; Mon, 18 Jan 2016 19:23:04 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 18 Jan 2016 19:23:04 +0000
+Message-ID: <20160118192304.23D634DE@web1.develooper.com>
+Subject: Web & Big Data Developer (part onsite), Centennial, CO
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20018
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 18, 2016
+
+Job title: Web & Big Data Developer
+
+Company name: Digit Ten Media
+
+Location: Centennial, CO
+
+Pay rate: 70
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+Job description
+The Web and Big Data Developer is a junior to mid-level
+position responsible for architecting, coding, and operating a new
+Advertising and Marketing platform, tightly integrated with hosted
+telephony IVR and SMS systems.
+
+You will be responsible for the
+design/architecture, coding, and operation of the full stack of the new
+platform built on scalable IaaS and PaaS services (AWS or Google Cloud
+services).
+
+Desired skills:
+Key Responsibilities: 
+•  Minimum of 3 years of Perl coding skills	
+• 
+Traditional RDBMS (MySQL/Postgres)
+•	NoSQL (DynamoDB, Datastore,
+Mongo, Couch, ElasticSearch, etc)
+•	Scalable data logging (Kafka, AWS
+Kinesis, etc)
+•	Streaming and ETL data analytics (Storm, Spark, etc)
+•	Messaging (Google Pub/Sub, SNS, etc)
+•	Data warehousing (S3,
+Google Storage, etc)
+•	Telephony IVR and SMS integration via API
+(Five9, Trumpia)
+•	Linux VMs or containers (EC2, GCE, etc) for
+components that may not have suitable hosted solutions.
+
+Initial
+development will involve heavy back-end coding. High-level, the platform
+will:
+•	Customize IVR flows in a hosted enterprise phone system
+(Five9) via API
+•	Integrate with a hosted SMS platform (Trumpia SMS)
+APIs
+•	Stream IVR and SMS result data into a log for flexible real
+time processing
+•	Process the IVR/SMS data into RDBMS and warehousing
+data store
+•	Develop analytic streams from collected data and 3rd
+party sources to align marketing campaigns according to data analysis.
+•   
+   Customize fluid IVR flows based on previous response data.
+•      
+Provide a functional UI interface for administration, campaign management,
+reporting. A full featured UI will be implemented after the initial
+back-end development is complete (front-end does not have to be your
+strength).
+
+Website for more information: http://www.digitten.com
+
+Contact information at:
+http://jobs.perl.org/job/20018#contact

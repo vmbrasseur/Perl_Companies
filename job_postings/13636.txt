@@ -1,0 +1,73 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13636
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 6795 invoked from network); 7 Aug 2013 02:46:41 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 7 Aug 2013 02:46:41 -0000
+Received: (qmail 16739 invoked by uid 225); 7 Aug 2013 02:46:41 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 16735 invoked by alias); 7 Aug 2013 02:46:41 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 06 Aug 2013 19:46:33 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 0D4A02AFDF; Tue,  6 Aug 2013 19:46:29 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Tue, 6 Aug 2013 19:46:29 -0700
+Message-ID: <20130807024630.0D4A02AFDF@x3.develooper.com>
+Subject: Linux/Perl Distribution Developer M/F (onsite), Dresden, Germany
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17727
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August  6, 2013
+
+Job title: Linux/Perl Distribution Developer M/F
+
+Company name: Amazon
+
+Internal ID: 207889
+
+Location: Dresden, Germany
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are looking for a Perl developer to help us with packaging and
+deployment of 
+our Tapper test infrastructure ( tapper-testing.org ) and other software
+for Amazon Linux and internal systems in a large scale context.
+
+Required skills:
+- Previous experience building software for Linux distributions
+- Confidence in using the typical Linux toolbox of open source development
+software
+- Good understanding of the RPM system
+- Good skills in Perl or an equivalent scripting language
+
+Desired skills:
+- Experienced Perl programmer
+- CPAN toolchain experience
+- CPAN <-> RPM/DEB packaging experience
+
+Website for more information:
+http://www.amazon.com/gp/jobs/207889/ref=j_sr_2_t?ie=UTF8&category=*&jobSea
+rchKeywords=&location=DE%2C%20Dresden&page=1
+
+Contact information at:
+http://jobs.perl.org/job/17727#contact

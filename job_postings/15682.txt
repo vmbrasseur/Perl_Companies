@@ -1,0 +1,90 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15682
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 6382 invoked from network); 30 Aug 2016 09:30:05 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 30 Aug 2016 09:30:05 -0000
+Received: (qmail 2527 invoked by uid 225); 30 Aug 2016 09:30:05 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 2523 invoked by alias); 30 Aug 2016 09:30:03 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 30 Aug 2016 02:29:57 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 808B8342; Tue, 30 Aug 2016 09:29:54 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Tue, 30 Aug 2016 09:29:54 +0000
+Message-ID: <20160830092954.808B8342@web1.develooper.com>
+Subject: Perl Prototyping, R&D (part onsite), Cookeville, TN
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20398
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 30, 2016
+
+Job title: Perl Prototyping, R&D
+
+Company name: Relatient
+
+Location: Cookeville, TN
+
+Pay rate: BOE
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+Relatient is looking to hire a Perl programmer to help with developing
+functional demos of new product designs. We are in a fast paced competitive
+medical technology market. Our Agile development environment maintains a
+healthy backlog that needs to be constantly fed with new projects. This job
+will be the beginning of a new R&D department that will be responsible for
+taking concepts and turning them into simulated demos that can be presented
+to stake holders inside the company as well as customers for consideration
+as future production products. The suggested environment will be a
+combination of Webflow.io for front end prototyping with a Perl / Dancer
+framework back end. Other processes or languages such as JavaScript or PHP
+may be used as well based on the type of project. Candidate must be able to
+document workflows, build wireframes, and suggest UI designs for projects.
+We have a UI designer in our production team that will be able to assist on
+a limited basis.
+
+Desired skills:
+3+ Years with Perl / Dancer or similar framework.
+Solid Understanding of
+CSS and responsive templating.
+Experience with JSON, MySQL, and XML
+required.
+Ability to work individually or as part of a team.
+Must be able
+to think outside the box to add value to projects during mockup and
+prototyping.
+Documentation of code, workflows, and any integrations with
+3rd party systems must be maintained as part of project.
+Experience with
+Jira, Balsamiq, and Gliffy Diagrams is preferred.
+Job may be telecommute
+but work location must be inside the continental US.
+This is a direct hire.
+Messages from contracting or recruiting agencies will not be returned.
+Offers will be based on entry level to mid level pay scales. Benefits
+include 401k, Insurance, and 3 weeks vacation.
+
+Website for more information: http://www.relatient.net
+
+Contact information at:
+http://jobs.perl.org/job/20398#contact

@@ -1,0 +1,122 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15403
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 25140 invoked from network); 31 Jan 2016 01:02:12 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 31 Jan 2016 01:02:12 -0000
+Received: (qmail 9656 invoked by uid 225); 31 Jan 2016 01:02:12 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 9651 invoked by alias); 31 Jan 2016 01:02:12 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 30 Jan 2016 17:02:08 -0800
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 71A4E399; Sun, 31 Jan 2016 01:02:05 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sun, 31 Jan 2016 01:02:05 +0000
+Message-ID: <20160131010205.71A4E399@web1.develooper.com>
+Subject: Perl Developer (part onsite), Brno
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20050
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 31, 2016
+
+Job title: Perl Developer
+
+Company name: GoodData s.r.o.
+
+Location: Brno
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+GoodData is looking for a Perl developer to join our ROLAP DevOps team in
+Brno, Czech republic. ROLAP is a part of the Engines & Middleware
+department and it is responsible for cloud platform components and services
+such as backend APIs, data warehouses, metadata databases, MAQL (a
+high-level query language), and ETL (daily processing terabytes of
+customers' data).
+
+Your responsibilities in this position will be:
+-
+Design, implement, and maintain ROLAP services and components (Perl code)
+-
+Participate in the ongoing evolution of fast growing cloud SaaS platform
+-
+Work in an agile environment, cooperation and active communication within
+an autonomous team
+
+Desired skills:
+Required skills:
+- Strong knowledge in at least one dynamic language
+(Modern Perl is preferred)
+- At least 2 years of experience with software
+development
+- Ability to work effectively in a Linux environment
+- A
+self-learner capable of independent work
+- Desire to do things The Right
+Way
+- At least good level of written English (technical documentation)
+
+Advantages:
+- Experience with version control (Git preferred)
+- Knowledge
+of SQL, experience with PostgreSQL and MySQL
+- Experience with other
+programming languages
+- An overview of agile methodologies
+- If you have
+contributed to or maintained an open source project
+- Experience with
+building and operating large distributed systems
+- Working proficiency in
+English
+
+Extra goodies: 
+- informal working environment and fun company
+culture
+- relax zones, gym, sports program 'GoodLife'
+- stock options
+-
+annual bonuses
+- fridge full of free refreshment
+- your choice of MacBook
+or Lenovo laptop
+- regular company pub evenings and social events
+- 6 sick
+days per calendar year
+- lunch vouchers
+- flexible working hours
+- generous
+referral bonus program
+- internal talks, hackathons and workshops
+- English
+or Czech lessons allowance
+- employee mobile tariff
+ 
+
+Location
+- Brno,
+Czech Republic
+
+Website for more information: https://app.jobvite.com/j?cj=o75v2fwt&s=LinkedIn
+
+Contact information at:
+http://jobs.perl.org/job/20050#contact

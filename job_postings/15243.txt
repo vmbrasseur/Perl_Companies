@@ -1,0 +1,115 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15243
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 19102 invoked from network); 10 Oct 2015 04:57:04 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 10 Oct 2015 04:57:04 -0000
+Received: (qmail 28480 invoked by uid 225); 10 Oct 2015 04:57:03 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 28476 invoked by alias); 10 Oct 2015 04:57:02 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 09 Oct 2015 21:56:53 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id A5090319; Sat, 10 Oct 2015 04:56:50 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 10 Oct 2015 04:56:50 +0000
+Message-ID: <20151010045650.A5090319@web1.develooper.com>
+Subject: Software Engineer (onsite), Irvine, CA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19798
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 10, 2015
+
+Job title: Software Engineer
+
+Company name: Limerecruit
+
+Location: Irvine, CA
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Position Summary:
+
+The technical team is 40 people and growing. You will
+work as part of a small agile team to produce high quality applications
+that will add to the growth and value of the business. You will be
+encouraged to contribute to all phases of the project lifecycle and will
+have opportunity to contribute to what and how things are built not just in
+building them.  You will primarily be working on establishing a new
+innovative product within the company offering which will be used to
+support the company’s growth into new markets. Our products are presented
+via the web and we operate off a Linux/Apache/MySQL cluster.
+
+As a
+developer, you will be required to:
+
+•	Develop a good understanding
+of the business and the value proposition of the product  
+•	Work as
+part of an Agile development team turning product needs into high quality
+live solutions and supporting them technically  
+•	Develop, test and
+deliver high quality front and backend applications that meet requirements 
+
+•	Demonstrate passion for the product, share ideas, approach and
+experience with your peers
+
+Desired skills:
+Skills, Knowledge and Experience:
+•	Experienced PERL developer, good
+understanding of conventions on a Linux platform
+•	Perl (OOP), Linux,
+MySQL, Ajax, CSS/HTML, JavaScript  
+•	Experience with working in an
+agile environment  
+•	Excellent and demonstrable grasp on programming
+fundamentals including OOP, Design Patterns, Algorithms, Data Structures,
+Networking and OS Concepts
+•	Solid experience with Object Oriented
+Design, and with MVC frameworks 
+•	Good usability and user interface
+design intuition  
+•	Be able to adequately communicate with
+non-technical staff and clients to correctly interpret requirements
+•      
+Self-disciplined and motivated  
+•	Open to new approaches/learning  
+•	Strong analytical and reasoning skills  
+•	Understanding of
+web development architecture  
+•	Commercial software development
+experience  
+Bonus points:
+•	Knowledge of Agile development
+methodologies (XP, Scrum, etc.)
+•	Knowledge of Perl web frameworks
+such as Dancer and Mojolicious
+•	Enterprise search experience
+(Elastic Search)
+•	IT related degree
+•	Contribution to open
+source projects
+•	We use many open source libraries and modules
+including AJAX libs (prototype, AngularJS, Jquery) plus a host of CPAN
+modules.  Knowledge of these would be a plus.
+
+Contact information at:
+http://jobs.perl.org/job/19798#contact

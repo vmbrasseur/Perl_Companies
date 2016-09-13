@@ -1,0 +1,107 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13817
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 22227 invoked from network); 24 Oct 2013 15:45:42 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 24 Oct 2013 15:45:42 -0000
+Received: (qmail 582 invoked by uid 225); 24 Oct 2013 15:45:42 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 578 invoked by alias); 24 Oct 2013 15:45:42 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,T_FRT_PROFILE2
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 24 Oct 2013 08:45:30 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id B95C92AFE2; Thu, 24 Oct 2013 08:45:26 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 24 Oct 2013 08:45:26 -0700
+Message-ID: <20131024154526.B95C92AFE2@x3.develooper.com>
+Subject: Perl Developer (onsite), Raleigh, NC
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17970
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 24, 2013
+
+Job title: Perl Developer
+
+Company name: TEKsystems
+
+Location: Raleigh, NC
+
+Pay rate: Varies
+
+Terms of employment: Hourly employee
+
+Length of employment: 3 month contract to hire
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The Perl Developer will design, implement, and maintain code for the
+company's proprietary content management system and other, supplemental
+applications and infrastructure that power the Company's numerous Web
+sites. 
+
+Developers work closely with colleagues, the immediate development team and
+the systems architect, the department head, product managers, and others to
+define deliverables, divide and conquer assignments, design solutions, and
+write code. Developers also work closely with technical writers to assure
+product documentation is complete and accurate.
+
+The ideal candidate for the position is an expert in Object-oriented Perl;
+Additional skills that would be nice to have: Ruby on Rails;
+Object-oriented PHP; MySQL; Apache. The ideal candidate has at least
+four-six years in Web development, and at least two years in an area of
+specialization. 
+
+Major Responsibilities/Activities:
+
+• Object-oriented design and development
+• SQL database design and development
+• Web interface development in (template-driven) HTML and JavaScript
+• Design and development of unit test modules
+• Peer code reviews
+• Creation of documentation for both developer and end-user consumption
+• Providing training to other developers and customer service personnel
+• After hours availability for emergency issues.
+
+Qualifications:
+
+Education: Preferred
+• Bachelor's degree or advanced degree in computer science, electrical or
+computer engineering, physics, or mathematics is preferred but not required
+
+Required skills:
+Object Oriented Perl
+SQL
+MySQL
+
+Desired skills:
+• Proficient in HTML & JavaScript
+• Solid knowledge of Unix or Linux, the command-line, scripting,
+configuration and administration
+• Experience with Apache configuration (tuning a plus)
+• Customer service skills
+• Experienced with flat-file manipulation – Reading in CSV files and
+writing out printer-enabled/encoded files.
+
+• Ruby on Rails
+• Web Services in a Service Oriented Architecture
+• Template Toolkit, HTML::Mason, or other templating systems a plus
+• Basic understanding of COBOL
+
+Contact information at:
+http://jobs.perl.org/job/17970#contact

@@ -1,0 +1,103 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15169
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 14351 invoked from network); 27 Jul 2015 07:26:00 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 27 Jul 2015 07:26:00 -0000
+Received: (qmail 11076 invoked by uid 225); 27 Jul 2015 07:25:59 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11064 invoked by alias); 27 Jul 2015 07:25:50 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 27 Jul 2015 00:25:46 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id B8AB74E1; Mon, 27 Jul 2015 07:25:46 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 27 Jul 2015 07:25:46 +0000
+Message-ID: <20150727072546.B8AB74E1@web1.develooper.com>
+Subject: Perl DevOps Engineer - Milpitas, CA (onsite), Milpitas, CA USA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19732
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 24, 2015
+
+Job title: Perl DevOps Engineer - Milpitas, CA
+
+Company name: StaffingForce
+
+Location: Milpitas, CA USA
+
+Pay rate: $90-120k
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are seeking a highly motivated and experienced individual to join us as
+a Senior DevOps Engineer/ Administrator.
+
+This position is part of the
+Infrastructure Services organization, which is responsible for the design,
+implementation and support of our worldwide network infrastructure;
+currently located in various cities throughout the Americas, EMEA and
+Asia-Pac regions (and growing!). This team drives and balances immediate
+implementation and deployment with informed, highly credible long-term
+architecture — planning a scalable service infrastructure with world class
+availability, performance, quality, reliability and cost efficiency.
+
+The
+ideal candidate will have a strong and diverse background in Systems
+Development & Administration, specifically on Linux, CentOS, Unix and
+Windows Operating Systems. The candidate should also have intimate
+knowledge in computing hardware platforms (disk drives, processors, memory,
+I/O, storage) and scalability architecture. A successful candidate needs to
+work with multiple stakeholders (service architects, other systems
+administrators, network designers and system/application engineers,
+business units, etc.) to design, deploy and maintain the Aryaka customer
+serving, as well as internally supporting, network computing systems and
+services.
+
+Desired skills:
+A successful candidate for this job will have extensive technical breadth
+and depth expertise in the following areas:
+
+   - At least 5 years of
+experience with Linux, Unix, CentOS and Windows Operating Systems
+   - At
+least 5 years working knowledge of Linux file systems, device
+configuration, systems logging and exception diagnosis
+   - Install,
+maintain, and support various tools including, but not limited to,
+Jumpstart, Kickstart, Puppet, Cacti, JIRA
+   - At leadt 3 years of
+experience with Perl, TCL, PHP, shell programming techniques; Java
+experience is also desirable
+   - At least 5 years of relevant
+programming/scripting experience in tools/automation
+   - At least 5 years
+of experience with platform/language agnostic remote APIs such as XMLRPC,
+SOAP, Web services
+   - At least 5 years of demonstrated experience in
+troubleshooting complex IT server and application issues
+   - Demonstrated
+ability to design and code critical systems projects
+   - Strong abilities
+in software and systems testing and debugging
+   - Solid understanding of
+process engineering and IT operations best practices.
+
+Contact information at:
+http://jobs.perl.org/job/19732#contact

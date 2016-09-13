@@ -1,0 +1,103 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14817
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 25167 invoked from network); 11 Dec 2014 05:30:36 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 11 Dec 2014 05:30:36 -0000
+Received: (qmail 11649 invoked by uid 225); 11 Dec 2014 05:30:35 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11645 invoked by alias); 11 Dec 2014 05:30:34 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 10 Dec 2014 21:30:28 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 0FA454296E; Wed, 10 Dec 2014 21:30:25 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 10 Dec 2014 21:30:24 -0800
+Message-ID: <20141211053025.0FA454296E@x3.develooper.com>
+Subject: Perl Developers Needed for Market-Leading E-Commerce Business
+ (onsite), London, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19112
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 10, 2014
+
+Job title:
+Perl Developers Needed for Market-Leading E-Commerce Business
+
+Company name: Burns Sheehan
+
+Location: London, UK
+
+Pay rate: £Negotiable dependent on experience
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+An exciting opportunity has arisen for a number of Perl developers to join
+a world leading online retailer. Operating from a headquarters in London,
+the appointed back-end developers will be tasked with developing and with
+improvement of back-end development projects using modern perl stacks.
+
+This organisation is a market leader in terms of growth and success
+year-on-year and the appointed Perl developers will have an excellent
+opportunity to work for a true market giant. The client offer a fantastic
+working environment and the successful Perl Developers will be exposed to
+the latest technologies, frameworks & methodologies in application
+development, working within a strong dev team.
+
+The ideal candidate must have a passion for software development and must
+also be a good communicator (Both written and verbal). Perl knowledge is
+essential, with the knowledge of newer CPAN modules and frameworks is
+highly desirable (preferably: DBI, DBIx::Class, Catalyst, Moose, Template
+Tool Kit).
+
+Good salary available and the client is happy to consider at all levels of
+experience for multiple roles. If you possess the above credentials and
+experience then please apply with your CV and I’ll give you a call back to
+discuss in more detail.
+
+*Get in touch for salary details*
+
+Required skills:
+•Server-side Perl development experience
+•SQL/RDBMS
+•Version Control Systems e.g. GIT
+•Open-Source Familiarity
+Highly desirable:
+•Experience developing web-based interfaces in HTML and CSS, with API
+experience in JSON & XML.
+•Proven experience building / testing high-availability applications
+•Experience with AJAX / Javascript / JS Framework
+•Experienced with SOA and the challenges this may present
+•One or more additional JVM-based language
+•Experience of Ruby (specifically the cucumber test framework)
+
+Desired skills:
+•Perl & Linux conventions
+•Message Queues
+•Testing frameworks within Perl
+•Refactoring
+•Apache/FCGI & Plack
+
+Website for more information:
+http://www.burnssheehan.co.uk/h/home/view-job/29/?rcf_id=30&rcv_id=114
+
+Contact information at:
+http://jobs.perl.org/job/19112#contact

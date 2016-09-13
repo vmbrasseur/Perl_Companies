@@ -1,0 +1,84 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15597
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28086 invoked from network); 28 Jun 2016 04:16:09 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 28 Jun 2016 04:16:09 -0000
+Received: (qmail 30869 invoked by uid 225); 28 Jun 2016 04:16:09 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 30865 invoked by alias); 28 Jun 2016 04:16:09 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 27 Jun 2016 21:16:02 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 74772170; Tue, 28 Jun 2016 04:15:58 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Tue, 28 Jun 2016 04:15:58 +0000
+Message-ID: <20160628041558.74772170@web1.develooper.com>
+Subject: Perl Developer (telecommute), Remote
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20288
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 28, 2016
+
+Job title: Perl Developer
+
+Company name: Perceptyx
+
+Location: Remote
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+Perceptyx began in 1997 shortly after the first practical web browser was
+becoming popular. Built from the ground up with proprietary technology,
+Perceptyx has been leading the way on improving employee engagement through
+the use of advanced technology. Today, Perceptyx, Inc. is a privately held
+California Corporation headquartered in Temecula, California.
+
+Your
+responsibilities will be to implement new features based on business
+requirements, resolution of bugs, and resolution of urgent performance /
+operation problems.
+
+Desired skills:
+* Object Oriented
+* Software Engineering
+* RDBMS and writing SQL (MySQL
+preferred)
+* BSD Platform
+* Excellent communication skills (English)
+*
+HTML, CSS and JS
+* Git
+* CGI::Application
+* Apache/mod_perl
+* Designing,
+coding and testing of large websites
+* Estimate and meet deadlines for
+development releases
+* Maintaining best practices
+* PSGI/Plack 
+*
+DBIx::Class
+
+Website for more information: https://perceptyx.com/
+
+Contact information at:
+http://jobs.perl.org/job/20288#contact

@@ -1,0 +1,91 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15402
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 25189 invoked from network); 31 Jan 2016 01:02:30 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 31 Jan 2016 01:02:30 -0000
+Received: (qmail 9696 invoked by uid 225); 31 Jan 2016 01:02:29 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 9692 invoked by alias); 31 Jan 2016 01:02:29 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 30 Jan 2016 17:02:27 -0800
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 5FCE1384; Sun, 31 Jan 2016 01:02:24 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sun, 31 Jan 2016 01:02:23 +0000
+Message-ID: <20160131010224.5FCE1384@web1.develooper.com>
+Subject: Perl Developer (part onsite), Cumberland, RI, United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20056
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 31, 2016
+
+Job title: Perl Developer
+
+Company name: The Conference Exchange
+
+Location: Cumberland, RI, United States
+
+Pay rate: Based on Experience
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+The Conference Exchange (http://www.confex.com/) is hiring a developer to
+work on our conference management software. We help professional societies
+collect and manage hundreds of thousands of abstracts, manuscripts, and
+other files. Our focus is on the content: collecting it, organizing it, and
+sharing it online. We do this using LAMP (Linux, Apache, MySQL, Perl) and
+other open source technologies.
+
+On this job you will be primarily writing
+code based on the requests of our support team and clients. Our web app is
+written in OO Perl. When you begin, you will work on simple bug fixes;
+support staff writes up the requirements and design and as a developer you
+will implement their request. Once situated and knowledgeable in Perl and
+the nuances of our code base, you will be assigned projects that add new
+functionality to our system; this would include writing your own
+requirements, design, UI, etc. Support would approve your design, and then
+you would get to implement it from the ground up.
+
+You will be working on a
+team of 8 developers and while we all work on tasks separately, questions
+and white board discussions are common. For the first week you will learn
+the basics of how to access the code base, our object model; the high level
+'what we do and how we do it' items. Then you're off and running writing
+code with your first bug fix/small client level enhancements.
+
+Flexible
+working environment with casual, open-office setup - no cubicles.
+
+Desired skills:
+* Experience in object-oriented programming with at least 3 months software
+development experience on the job. (yes, internships count)
+* Excellent
+attention to detail, communication skills, and ability to learn quickly.
+*
+Experience with Perl, MySQL, Javascript, HTML, CSS.
+* Knowledge of inner
+workings of systems and/or database
+
+Website for more information: http://www.confex.com/
+
+Contact information at:
+http://jobs.perl.org/job/20056#contact

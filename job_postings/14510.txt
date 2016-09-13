@@ -1,0 +1,84 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14510
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 2371 invoked from network); 1 Jul 2014 06:23:54 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 1 Jul 2014 06:23:54 -0000
+Received: (qmail 7113 invoked by uid 225); 1 Jul 2014 06:23:54 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 7109 invoked by alias); 1 Jul 2014 06:23:54 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 30 Jun 2014 23:23:52 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id E6FB64293D; Mon, 30 Jun 2014 23:23:48 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 30 Jun 2014 23:23:48 -0700
+Message-ID: <20140701062348.E6FB64293D@x3.develooper.com>
+Subject: Catalyst/DBIC Developer (onsite), Wimbledon Village, London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18758
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 30, 2014
+
+Job title: Catalyst/DBIC Developer
+
+Company name: Brainbox Digital
+
+Internal ID: BBX
+
+Location: Wimbledon Village, London
+
+Pay rate: £50k
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Brainbox Digital are seeking a Perl developer to expand their team, based
+in Wimbledon Village.
+
+We develop cutting-edge, high-availability, ad-serving platforms and tools;
+always trying new ideas and opportunities.
+
+This is not a legacy-code support role.
+
+We are looking for developers who have a genuine passion for all aspects of
+web technology and wish to be involved in all steps of running successful
+online services.
+
+Having some personal/side projects is advantageous.
+
+Required skills:
+Perl, 5.14+
+Catalyst
+DBIC
+Moose
+TT
+
+Desired skills:
+Some experience of front-end technologies...
+
+HTML
+CSS
+JS
+
+Website for more information: http://www.brainboxdigital.com
+
+Contact information at:
+http://jobs.perl.org/job/18758#contact

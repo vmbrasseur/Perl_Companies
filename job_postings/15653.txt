@@ -1,0 +1,154 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15653
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 14739 invoked from network); 16 Aug 2016 01:34:24 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 16 Aug 2016 01:34:24 -0000
+Received: (qmail 10584 invoked by uid 225); 16 Aug 2016 01:34:24 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 10580 invoked by alias); 16 Aug 2016 01:34:24 -0000
+X-Spam-Status: No, hits=-0.0 required=8.0
+	tests=BAYES_20,LOTS_OF_MONEY,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 15 Aug 2016 18:34:19 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id AF0EC3BB; Tue, 16 Aug 2016 01:34:16 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Tue, 16 Aug 2016 01:34:16 +0000
+Message-ID: <20160816013416.AF0EC3BB@web1.develooper.com>
+Subject: Software Engineer, Waltham, MA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20284
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 16, 2016
+
+Job title: Software Engineer
+
+Company name: MaxMind
+
+Location: Waltham, MA
+
+Pay rate: $100,000 - $150,000
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Description:
+MaxMind (www.maxmind.com) is looking for talented, experienced, and highly
+motivated Software Engineers and Senior Software Engineers to help us
+develop and improve our products. Founded in 2002, MaxMind is an
+industry-leading provider of IP intelligence and online fraud detection
+tools.	MaxMind is privately held and based in Waltham, Massachusetts.
+
+Transaction fraud detection is a constantly changing field, and our work is
+never done. Fraudsters are always looking for new ways to evade detection,
+which means we're always looking for new ways to detect them. Our fraud
+detection service, minFraud, builds on top of our widely used GeoIP
+products, which associate geographical and other data with individual IP
+addresses. We screen half a billion online transactions each year and
+provide IP intelligence data to thousands of companies worldwide.
+
+THE
+POSITION:
+As a Software Engineer or Senior Software Engineer, your job will
+be to carry out development projects both big and small. You may work on
+performance improvements for our fraud system, fix bugs in our open source
+APIs, or develop an entirely new service. We're looking for an experienced
+software developer who can make good technical design decisions, write
+tests and documentation, and communicate well with non-developers.
+
+Our
+development team is largely comprised of telecommuters, so communication
+centers around Google Hangouts, group chat, and agile planning tools. We
+invite candidates to apply from the US states of Massachusetts, Minnesota,
+Montana, North Carolina, and Oregon and anywhere in Canada. Relocation to
+any of the above mentioned locations is welcome. Full-time telecommuting is
+permitted.
+
+Compensation includes a starting salary of $100-150k/year
+(depending on qualifications) and participation in a performance-based
+bonus plan.
+
+WORKING AT MAXMIND:
+MaxMind is a casual, friendly,
+results-focused company of 30-some employees, about half of whom are in
+technical positions. We maintain a set of core, overlapping hours, but
+we’re flexible with specific start and end times and are understanding
+about appointments and life events.
+
+Software engineers get a $2k
+professional development budget and five days of time to use for
+professional development annually.
+
+In addition to medical, dental, and
+vision coverage, we offer several other benefits (in the US) including a
+401k with employer contribution, FSA, and transit reimbursement. Please
+inquire about benefits in Canada.
+
+Our office is located near downtown
+Waltham, MA, outside of Boston, a five minute walk from the nearest
+commuter rail line and several express bus lines.
+
+OUR DEVELOPMENT
+PRACTICES:
+Our backend code is largely written in Perl and Go using
+PostgreSQL and Linux. We maintain high standards for our development
+practices. All new code is expected to include automated tests run by
+TeamCity, and all work goes through internal code review on GitHub
+Enterprise.
+
+We use free software as much as possible, and we release code
+back to the community when we can do so. We're trying to improve the way we
+do development, and we expect you to participate in that process.
+
+
+Note:
+We can only consider applications from the US states of Massachusetts,
+Minnesota, Montana, North Carolina, and Oregon, and anywhere in Canada.
+
+Desired skills:
+ABOUT YOU
+
+MINIMUM QUALIFICATIONS:
+- Dynamic language programming
+experience. We use Perl but we're happy to hear from Javascript, PHP,
+Python, Ruby, <insert language here> developers as well. (A programming
+exercise will be given to all applicants.)
+- Web development, especially
+RESTful web services.
+- Experience developing for deployment on a Linux or
+BSD platform.
+- Experience writing tests and documentation.
+- Experience
+doing code reviews.
+- Excellent written and spoken communication skills.
+-
+The ability to work with a geographically dispersed team.
+
+BONUS SKILLS:
+-
+Data mining, number crunching, and math skills.
+- Design for high
+scalability and distributed processing.
+- Experience writing C code,
+especially libraries.
+- Experience writing Go code.
+- FS/OSS contributions.
+Tell us about them!
+
+Website for more information: https://www.maxmind.com/en/careers
+
+Contact information at:
+http://jobs.perl.org/job/20284#contact

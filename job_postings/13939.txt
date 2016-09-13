@@ -1,0 +1,98 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13939
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 27559 invoked from network); 30 Nov 2013 01:32:44 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 30 Nov 2013 01:32:44 -0000
+Received: (qmail 3844 invoked by uid 225); 30 Nov 2013 01:32:42 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 3835 invoked by alias); 30 Nov 2013 01:32:40 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,LOTS_OF_MONEY,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 29 Nov 2013 17:32:38 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 934612AFE0; Fri, 29 Nov 2013 17:32:34 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 29 Nov 2013 17:32:34 -0800
+Message-ID: <20131130013234.934612AFE0@x3.develooper.com>
+Subject: Perl Developer in an international award winning web team! (onsite),
+ London, United Kingdom
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18138
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 29, 2013
+
+Job title:
+Perl Developer in an international award winning web team!
+
+Company name: Foxtons
+
+Internal ID: PerlDEV
+
+Location: London, United Kingdom
+
+Pay rate: £40,000
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+You will be joining a small but dedicated team who are given the freedom to
+excel. You must be passionate about pushing the boundaries of technology
+and usability. With few formal meetings, your day might cover working with
+the sysadmin, helping the designers with JavaScript, integrating with the
+CRM webservices or generating Google earth kml files for search results.
+ 
+Recognised as the leading estate agents website in the world we want to
+maintain this reputation for providing cutting edge features, without
+losing simplicity and usability. We also provide solutions within the
+company, be this helping production by generating InDesign formatted text,
+or replacing a MS Word based brochure system with one which generates PDF
+files from configurations generated through a web GUI.
+ 
+Website: 600k+ visitors a month, 350k+ images live at any one time,
+html/rss/kml/json
+ 
+Existing systems: mass data processing / data analysis / image processing /
+PDF generation
+ 
+Development environment: Puppet deployment, virtualized personal servers,
+iMac desktops
+
+Required skills:
+Programming (e.g. Perl, JavaScript.
+
+You will need to have strong communication skills (occasionally doing
+internal presentations) and be someone who works well as part of a team and
+enjoys sharing ideas and debating options. You will be expected to provide
+input in the design of systems and can even venture an opinion on front end
+design issues.
+
+Core modules used in our systems: Catalyst, DBIx::Class, Template::Toolkit,
+TheSwartz, MogileFS, Memcache, Perlbal, Plack, Test::More, Moose, PDF::API2
+along with hundreds of others.
+
+Of course you will already be used to writing tests and doing code reviews.
+You are also likely to have several CPAN modules, and follow the latest
+technical developments, for example Moose and Moo.
+
+Website for more information:
+http://www.foxtons.co.uk/foxtons/careers/skills/web-developer-perl.html
+
+Contact information at:
+http://jobs.perl.org/job/18138#contact

@@ -1,0 +1,103 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15146
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 20789 invoked from network); 11 Jul 2015 07:47:10 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 11 Jul 2015 07:47:10 -0000
+Received: (qmail 23083 invoked by uid 225); 11 Jul 2015 07:47:10 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 23079 invoked by alias); 11 Jul 2015 07:47:10 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 11 Jul 2015 00:47:08 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id A6C583D5; Sat, 11 Jul 2015 07:47:05 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 11 Jul 2015 07:47:05 +0000
+Message-ID: <20150711074705.A6C583D5@web1.develooper.com>
+Subject: Perl intern for pure-Perl company (onsite), Houston, TX
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19450
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 11, 2015
+
+Job title: Perl intern for pure-Perl company
+
+Company name: BookTrolls LLC
+
+Location: Houston, TX
+
+Pay rate: $50K/yr
+
+Terms of employment: Hourly employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+BookTrolls is looking to hire a promising junior Perl programmer as an
+intern (there is also a track to permanent employment). Our entire software
+infrastructure is pure Perl, under Linux. This will not just be a software
+integration/automation position. We use Perl to write enterprise-class
+TCP/IP servers and back-end applications that run the entire company. We
+write software for a wide range of business applications for internal
+users; and both our culture and our development model are pretty informal.
+Hours are flexible. Our software team is small, fast, and flexible; and we
+offer a greater degree of creative control, project ownership, and career
+growth than you'll find at most any other company. Plus, you can ride the
+forklift. This position is ideal for an ambitious, energetic self-starter
+eager to master Perl.
+
+We offer a 401(k) with 100% match of up to 4% of
+salary, with immediate vesting, plus medical and dental. Telecommuting is
+not an option for this position, but we do offer relocation assistance to
+Houston and visa sponsorship.
+
+About Our Company
+
+We are one of the largest
+independent booksellers on the Amazon and eBay marketplaces, among other
+online marketplaces. Located in Houston, we sell purely online and ship
+from our Houston warehouse. We started in a garage in 2007 and have since
+expanded to 75,000 sq ft and over 100 employees, doubling sales and
+inventory roughly every 2 years. Our main competitive advantage is our
+in-house software, which runs every aspect of our business and possesses
+capabilities unseen in our industry. Most of our competitors run their
+companies off shrink-wrapped 3rd-party vendor software (and it shows.) We
+are not a software company, but software is at the core of what we do.
+
+Please note that our main website (booktrolls.com) does not reflect the
+primary business model that this position will support.
+
+Desired skills:
+- Fluent in Perl, preferably writing more than just "glue" scripts
+-
+Familiar with object-oriented design, and regular expressions
+- Familiar
+with Perl Apache CGI scripts
+- Linux command line skills, including file
+manipulation, file editors, grep, etc
+- Excellent code documentation skills
+
+- Multi-threading experience, including deadlocks, race conditions, and
+apartment threads
+- Familiarity with BerkeleyDB, HTML, JavaScript,
+client/server programming, and system-level Linux skills
+
+Website for more information: http://booktrolls.com/intern.html
+
+Contact information at:
+http://jobs.perl.org/job/19450#contact

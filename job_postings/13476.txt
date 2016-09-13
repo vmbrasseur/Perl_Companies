@@ -1,0 +1,99 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13476
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28327 invoked from network); 15 Jun 2013 05:42:53 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 15 Jun 2013 05:42:53 -0000
+Received: (qmail 26988 invoked by uid 225); 15 Jun 2013 05:42:53 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 26984 invoked by alias); 15 Jun 2013 05:42:52 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 14 Jun 2013 22:42:44 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 439432AFE2; Fri, 14 Jun 2013 22:42:41 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 14 Jun 2013 22:42:41 -0700
+Message-ID: <20130615054241.439432AFE2@x3.develooper.com>
+Subject: Mid-level Perl developer (onsite), Bethesda, MD, USA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17519
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 14, 2013
+
+Job title: Mid-level Perl developer
+
+Company name: WeDo Technologies
+
+Internal ID: Linux Team SE2
+
+Location: Bethesda, MD, USA
+
+Pay rate: 75-85k USD
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Summary: Perl & MySQL backend development on Linux.  "Big Data" processing,
+for certain values of "big".
+
+Primary application processes 1-2 billion call data records a day on a
+small in-house Linux cluster, doing ETL, aggregation, and report
+generation.  (More at http://www.wedotechnologies.com/en/traffic-analytics
+)
+
+Your job would be: Develop new features in new code.  Figure out how to
+process new kinds of data from new kinds of telecommunications switches. 
+Write MySQL queries to generate new reports.  Benchmark & optimize. 
+Refactor to maintain beauty and elegance.  Fix the occasional bug. 
+Interact frequently with the front end team (.NET people), the DB team (MS
+SQL Server), the Operations team (you write the code, they run the code),
+and Product Management (whence come requirements for new features).
+
+Office is in Bethesda, Maryland, USA; job is onsite.  No telecommuting, no
+relocation, no sponsorship.  (Though you do get to telecommute 1 day/wk
+after 6-8 months.)  Core working hours are 9-5.
+
+Full job posting under "Website for more information".
+
+Required skills:
+* Perl, including objects & references
+* Intermediate to advanced MySQL query writing
+* Some bash
+* Linux
+* good oral & written communication
+* Work well with a diverse team
+
+Desired skills:
+* Computer Science degree or equivalent experience
+* Modern Perl
+* TDD
+* Moose
+* svn
+* Jira
+* ssh, screen, vim, etc
+* experience with Netezza
+
+Website for more information:
+http://www.cvwarehouse.com/sonaecom/jobsite/jobdescription.aspx?lang=en-GB&
+id=88494&company=wedo&parent=http://www.wedotechnologies.com/en/careers/joi
+n-us?company=wedo
+
+Contact information at:
+http://jobs.perl.org/job/17519#contact

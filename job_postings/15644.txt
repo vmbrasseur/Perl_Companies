@@ -1,0 +1,92 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15644
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 4229 invoked from network); 10 Aug 2016 02:40:21 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 10 Aug 2016 02:40:21 -0000
+Received: (qmail 26256 invoked by uid 225); 10 Aug 2016 02:40:21 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 26252 invoked by alias); 10 Aug 2016 02:40:21 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,LOTS_OF_MONEY,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 09 Aug 2016 19:40:18 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 1141E3BA; Wed, 10 Aug 2016 02:40:14 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 10 Aug 2016 02:40:14 +0000
+Message-ID: <20160810024015.1141E3BA@web1.develooper.com>
+Subject: Perl Catalyst Developer (onsite), Birmingham, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20042
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 10, 2016
+
+Job title: Perl Catalyst Developer
+
+Company name: Connect Distribution
+
+Location: Birmingham, UK
+
+Pay rate: Competative
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+As a backfill for a promotion, we have an opportunity for a capable
+developer to join our in-house team of open source developers.
+
+We have
+developed scores of eCommerce websites generating tens of millions of
+pounds in income, and are currently in the process of re-developing the
+data structure and publishing tools that these sites are based on, as well
+as integrating them to a MS Dynamics AX ERP system and are re-building the
+front ends to become responsive and device agnostic.
+
+Whilst ideally we are
+looking for someone with a Perl / Catalyst background, really what we want
+is a good developer.  We have previously successfully cross-trained
+developers with skills in languages such as PHP, Ruby, Python, JavaScript,
+etc., and we’re prepared to invest in your training too, so the successful
+candidate’s actual language experience is less important that the fact that
+they can genuinely write good code.  
+
+All the sites are hosted on Linux
+with a MySQL back end, so exposure to this, or other Unix platforms, would
+be useful, as would familiarity with version control systems such as
+Subversion, Git, or Mercurial, etc
+
+This role is based in Birmingham in the
+UK and we are unable to assist in Visa applications.  Any non-UK applicants
+must be prepared to relocate to the Birmingham area and be already
+authorised to work in the UK.
+
+The company is a family run business that
+has been trading for over 45 years.  It currently employs c.600 staff and
+has an annual turnover of c.£100m.
+
+Desired skills:
+The core technology these sites are based on is Perl, using the catalyst
+framework, although we are increasing using AngularJS, and other
+technologies used include MySQL, Couchbase, RabbitMQ, Redis, Solr,
+ElasticSearch, and Puppet, to name a few.
+
+Website for more information: http://www.connect-service.co.uk
+
+Contact information at:
+http://jobs.perl.org/job/20042#contact

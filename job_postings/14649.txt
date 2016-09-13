@@ -1,0 +1,88 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14649
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 4883 invoked from network); 8 Sep 2014 03:20:55 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 8 Sep 2014 03:20:55 -0000
+Received: (qmail 16577 invoked by uid 225); 8 Sep 2014 03:20:55 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 16573 invoked by alias); 8 Sep 2014 03:20:55 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 07 Sep 2014 20:20:53 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 3F4FE42950; Sun,  7 Sep 2014 20:20:49 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sun, 7 Sep 2014 20:20:49 -0700
+Message-ID: <20140908032050.3F4FE42950@x3.develooper.com>
+Subject: Release Engineer - Perl in SaaS (onsite), Redwood City, CA 94065
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18917
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September  7, 2014
+
+Job title: Release Engineer - Perl in SaaS
+
+Company name: Vindicia
+
+Location: Redwood City, CA 94065
+
+Pay rate: Up to $120k DOE
+
+Terms of employment: Salaried employee
+
+Length of employment: Full Time
+
+Onsite: yes
+
+Description:
+Vindicia is seeking a highly motivated Release Engineer who has experience
+implementing, maintaining and improving production ready packages, software
+builds and processes. You will be responsible for creating and maintaining
+release packages, validation automation, ownership of the last mile
+delivery process and working as a part of a team responsible for high
+availability. You will recommend and implement changes to the software and
+the process that will enable us to optimize, scale and grow.
+
+Vindica is @ 150 employees, founded 10 years ago, located in Redwood City,
+CA. What we do @ www.vindicia.com/company/overview-video/ - This is an
+on-site, full time role so no virtual/remote. Our zip is 94065, just south
+of SF.
+
+Required skills:
+Responsibilities: 
+Build and package 3rd party software dependencies
+Maintain 3rd party packages at current revisions
+Write robust production-ready deployment tools for web-based applications
+and develop prototypes quickly 
+Develop and execute package/release tools, and coordinate testing
+activities 
+Estimate and meet timelines to meet software releases
+Proactively participate in maintaining team standards and best practices
+
+Desired skills:
+3+ Years of development experience in a complex, large-volume, diverse
+system environment
+Building / Packaging software into RPMs, making available via YUM
+repositories
+Solid experience with Perl, Oracle, SQL, Linux and/or Unix derivatives 
+Solid knowledge of development methodologies and project life cycles
+Strong analytical skills 
+Excellent interpersonal and communication skills
+
+Website for more information: http://www.vindicia.com
+
+Contact information at:
+http://jobs.perl.org/job/18917#contact

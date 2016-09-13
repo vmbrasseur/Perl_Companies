@@ -1,0 +1,112 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14628
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 15441 invoked from network); 23 Aug 2014 08:53:54 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 23 Aug 2014 08:53:54 -0000
+Received: (qmail 27686 invoked by uid 225); 23 Aug 2014 08:53:54 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 27682 invoked by alias); 23 Aug 2014 08:53:54 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 23 Aug 2014 01:53:52 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 36A1B42ABB; Sat, 23 Aug 2014 01:53:49 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 23 Aug 2014 01:53:49 -0700
+Message-ID: <20140823085349.36A1B42ABB@x3.develooper.com>
+Subject: Senior Perl Developer (onsite), Oxford, Oxford, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18888
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 23, 2014
+
+Job title: Senior Perl Developer
+
+Company name: Adestra
+
+Location: Oxford, Oxford, UK
+
+Pay rate: Competitive!
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We're looking for a bright, enthusiastic, experienced Perl developer to
+join our Oxford-based team to assist with the ongoing development of
+MessageFocus - our web-based email marketing platform.
+
+Here's a bit of information about our codebase and how we work:
+
+We use Catalyst as the framework for our main application server, and we
+have another (very high volume and much more specialised) webserver running
+Starman (a pure-Perl Plack-based webserver). Almost everything passes
+through one of those two systems. Our ORM layer uses DBIx::Class, and
+pretty much everything else is a Moose class.
+
+Unlike many Perl codebases these days, we don't have much nasty old code -
+very little of it is over 3 years old (we did a ground-up rewrite of our
+application layer a few years back). Maybe more importantly, we prioritise
+code quality and maintainability over releasing features quickly, so it's
+generally a nice codebase to work on.
+
+We're constantly looking for ways to improve what we do, so we're pushing
+heavily to improve our processes by employing things like Modern Perl
+techniques, and test-driven development where we can. We're a fast moving,
+small team willing to make changes where necessary to make the best product
+we can.
+
+Come join us!
+
+Day to day work can include anything and everything from database schema
+design and optimisation, high-throughput scaling work, to UI/UX design,
+to.. almost anything else. One of the biggest benefits of working in a
+small team is you'll be able to try your hand at a lot of new interesting
+things!
+
+Required skills:
+Successful candidates would ideally be experienced Perl programmers,
+although we're willing to consider someone with experience with a similar
+language and a willingness to learn Perl (we promise that Modern Perl is a
+lot nicer than the Perl of yesteryear). We would expect at least some
+experience with creating web-based applications.
+
+ * Perl, of course
+ * SQL/NoSQL Databases
+ * Web-based application development
+ * API design
+
+Desired skills:
+Here are some of the technologies we use heavily, experience with any of
+these would be very beneficial:
+
+ * Moose
+ * Catalyst
+ * PSGI/Plack
+ * DBIx::Class
+ * PostgreSQL
+ * FreeBSD
+ * SQL and PL/PGSQL
+ * JavaScript
+ * UI/UX design
+
+Website for more information: http://www.adestra.com/
+
+Contact information at:
+http://jobs.perl.org/job/18888#contact

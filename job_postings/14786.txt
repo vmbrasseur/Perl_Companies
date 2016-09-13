@@ -1,0 +1,112 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14786
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 19980 invoked from network); 21 Nov 2014 03:49:21 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 21 Nov 2014 03:49:21 -0000
+Received: (qmail 11228 invoked by uid 225); 21 Nov 2014 03:49:21 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11224 invoked by alias); 21 Nov 2014 03:49:21 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 20 Nov 2014 19:49:18 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id CF06C42B5D; Thu, 20 Nov 2014 19:49:14 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 20 Nov 2014 19:49:14 -0800
+Message-ID: <20141121034914.CF06C42B5D@x3.develooper.com>
+Subject: Perl Developer (onsite), Amsterdam, the Netherlands
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19080
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 20, 2014
+
+Job title: Perl Developer
+
+Company name: Booking.com
+
+Location: Amsterdam, the Netherlands
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We run one of the world's largest Perl-powered websites. Whether it is
+hardening Perl's hash function or developing efficient serialization
+libraries, we solve serious problems using Perl. With over half a million
+room nights reserved on Booking.com daily, we are seeking Perl developers
+driven by challenges of scalability and rapid, customer-focused
+development. Our development strategy is agile and based on Scrum. We do
+several rollouts every day. We are data-driven and do extensive A/B
+testing. Everything we do is aimed at solving problems for our customers.
+If it doesn't help our customers, we're not interested in doing it.
+
+As a Perl Developer, you are responsible for the development, performance,
+and scaling of our public website as well as internal systems, which
+includes using: Perl (5.14), DBI, Mason, Moose, Sereal, Plack, nginx,
+Javascript, MySQL, Memcached, Redis, Hadoop, Elasticsearch, git, and CentOS
+Linux. You will work independently and will also be responsible for making
+technical decisions within a team.
+
+Software developers work from our headquarters in Amsterdam, the
+Netherlands. We are inviting CVs from candidates worldwide. Even without
+Perl experience, your colleagues will help you get up to speed in order to
+be able to start solving real problems from day one. Are you ready to join
+an international, result-driven, fun, and dynamic environment?
+
+Required skills:
+Your Role at Booking.com
+
+- Rapidly develop next-generation scalable, flexible, and high-performance
+systems
+- Explain current systems, coach and train new developers
+- Solve issues with the site and internal systems, prioritizing based on
+customer impact
+- Act as an intermediary for problems, with both technical and
+non-technical audiences
+- Collaborate with Team Leaders and Product Owners to prioritize projects
+ 
+Your Skills and Experience
+- Pragmatic and proactive attitude, with excellent verbal and written
+communication skills
+- Four years experience with hands-on software development in Perl
+(object-oriented is a plus)
+- Experience with HTTP and server-side technologies (web servers, database
+servers)
+- Preferably university degree in Mathematics or Software Engineering
+- Prepared to relocate to Amsterdam, the Netherlands
+
+Desired skills:
+Interested?
+
+We offer a competitive salary, plus bonuses, with possibilities for
+training and further career opportunities within our fast-growing company.
+This position is open to candidates worldwide. We will assist you with a
+relocation package, ensuring a smooth transition to working and living in
+the Netherlands.
+
+To make the most out of your CV application and your interview, check out
+our blog
+onhttp://blog.booking.com/booking-com-developer-hiring-process.html.
+
+Website for more information:
+https://workingatbooking.com/vacancies/perl-developer/?utm_source=jobs.perl
+.org&utm_medium=job%20posting&utm_campaign=Sourcing_Hour
+
+Contact information at:
+http://jobs.perl.org/job/19080#contact

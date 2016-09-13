@@ -1,0 +1,79 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14978
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 7491 invoked from network); 19 Mar 2015 01:00:28 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 19 Mar 2015 01:00:28 -0000
+Received: (qmail 26466 invoked by uid 225); 19 Mar 2015 01:00:27 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 26462 invoked by alias); 19 Mar 2015 01:00:25 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 18 Mar 2015 18:00:23 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 0DA4042B06; Wed, 18 Mar 2015 18:00:19 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 18 Mar 2015 18:00:19 -0700
+Message-ID: <20150319010020.0DA4042B06@x3.develooper.com>
+Subject: Software Developer (m/f) (onsite), Vienna, Austria
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19440
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 18, 2015
+
+Job title: Software Developer (m/f)
+
+Company name: Preisvergleich Internet Services (Geizhals)
+
+Location: Vienna, Austria
+
+Pay rate: € 3500/month
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Geizhals ist eine der größten Preisvergleichs-Portale in Europa. Zum
+Aufbau, Betreuung und Optimierung von (Perl-)Web-Applikationen sowie zur
+Erweiterung bestehender (Perl-)Backend-Lösungen suchen wir Verstärkung für
+das Entwicklungsteam.
+
+Required skills:
+★ Erfahrung in einer objektorientierten und/oder einer funktionalen
+Programmiersprache
+★ Erfahrung im Umgang mit relationalen Datenbanken (wie z.B. PostgreSQL)
+★ Verständnis von Best Practices
+★ Erfahrung im Umgang mit dynamischen Programmiersprachen (wie z.B. Perl
+oder PHP).
+★ Erfahrung in der Entwicklung von web-basierten Applikations-Backends
+
+Desired skills:
+★ Erfahrung im Umgang mit Web-Services
+★ Sicherheitsaspekte der Web-Entwicklung (XSS, CSRF, SQL-Injects, ...)
+★ Erfahrung im Umgang mit folgenden Technologien:
+  - MVC Frameworks
+  - JS Frameworks (z.B. JQuery, AngularJS)
+  - HTML5, CSS3
+  - DVCS (Git)
+★ Mad Wuzzler Skills
+
+Website for more information:
+http://unternehmen.geizhals.at/about/de/jobs/softwaredev-20150313/
+
+Contact information at:
+http://jobs.perl.org/job/19440#contact

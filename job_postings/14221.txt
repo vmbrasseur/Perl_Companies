@@ -1,0 +1,133 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14221
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 26944 invoked from network); 5 Mar 2014 07:43:54 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 5 Mar 2014 07:43:54 -0000
+Received: (qmail 11324 invoked by uid 225); 5 Mar 2014 07:43:54 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11320 invoked by alias); 5 Mar 2014 07:43:54 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 04 Mar 2014 23:43:52 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 3B3BD429A5; Tue,  4 Mar 2014 23:43:49 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Tue, 4 Mar 2014 23:43:49 -0800
+Message-ID: <20140305074349.3B3BD429A5@x3.develooper.com>
+Subject: Sr Software Engineer - Contract / Contract-to-Hire (part onsite),
+ West Los Angeles, Los Angeles, CA, USA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18446
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March  4, 2014
+
+Job title: Sr Software Engineer - Contract / Contract-to-Hire
+
+Company name: TigerLead Division - Move Sales, Inc
+
+Location: West Los Angeles, Los Angeles, CA, USA
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 3 months +
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+We are looking for a sharp and motivated software engineer to lead the
+design, development, and delivery of a critical system that will streamline
+how we manage our inventory of real-estate leads. We expect that the core
+effort will require approximately 3 months to complete.
+
+TigerLead is dedicated to helping home buyers and sellers to connect with
+the best realtors. This is an exciting opportunity to work in a
+startup-like atmosphere within a small but profitable and fast-growing
+division of Move Inc (located in West Los Angeles), where your
+contributions will make a direct impact on clients' success. Our
+engineering team is a fun and passionate group.
+
+We do agile development based on Scrum, so experience with agile practices,
+quick iterations, and integration of regular feedback is required. As a
+result, an ability to communicate directly and effectively with
+stakeholders (both verbally and in writing) to be able to define and
+clarify requirements is essential.
+
+Our engineering team is also growing, so while this is a contract position
+targeted at the completion of a specific project, if you have the same
+drive for results that we do and we enjoy working together, we will
+consider making a full-time offer at the conclusion of the contract.
+
+
+*** Responsibilities ***
+
+- Quickly absorb existing requirements and understand the context in which
+the system is to be built.
+- Communicate proactively with stakeholders to clarify requirements and
+translate them into functional/technical specs, and to integrate their
+feedback.
+- Work under the direction of one of our senior developers, and in
+collaboration with a small supporting team to rapidly design, build, and
+iterate upon a Minimum Viable Product.
+- Deliver clean, functional, modular, well-documented, and well-tested code
+in accordance with requirements.
+- Adopt a service-oriented design where appropriate.
+- Take ownership of the project and ensure stakeholder satisfaction.
+
+
+*** Location and Hours ***
+
+Preference will be given to candidates who can work in our Los Angeles
+office (at 1554 S. Sepulveda Blvd), but we will consider telework for the
+right candidate. This is a full-time (40 hours per week M-F) position for
+the duration of the contract, and we will need your work hours to overlap
+with 10am-4pm PST.
+
+
+*** Additional Benefits ***
+
+- A kitchen stocked with snacks, energy drinks, and more.
+- A dog-friendly environment.
+- Sharp coworkers, including Tim Bunce who has been working with the team
+for several years and recommends this opportunity.
+- A prime location just off the 405 in West LA, with several food trucks
+typically available everyday.
+
+Required skills:
+- Senior level software engineer, with 5+ years of experience.
+- Able to hit the ground running within a Linux/Perl environment (CentOS,
+Apache/Nginx, PostgreSQL, Perl, Varnish, Elasticsearch, etc).
+- Able to architect and implement solutions to complex problems on large,
+scalable systems.
+- Extensive prior experience building MVPs and iterating against them.
+- Strong background in OOP, MVC design, and SOA / Web Services. In
+particular, experience with Perl frameworks (such as Catalyst or
+Mojolicious), DBIx::Class, and Moose is very desirable.
+- Excellent SQL skills, PostgreSQL preferred.
+- HTML and CSS skills to create web templates.
+- Experience with JavaScript (jQuery) and AJAX.
+- Solid grasp of source code management fundamentals (we use git and
+GitHub).
+- Enjoy collaborating with others, though you will be the primary developer
+on this project.
+- Team-first attitude, excellent communication and interpersonal skills.
+
+Website for more information:
+http://www.tigerlead.com/jobs/senior-software-engineer-contract.html
+
+Contact information at:
+http://jobs.perl.org/job/18446#contact

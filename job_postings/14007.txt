@@ -1,0 +1,94 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14007
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 31459 invoked from network); 27 Dec 2013 21:01:49 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 27 Dec 2013 21:01:49 -0000
+Received: (qmail 23444 invoked by uid 225); 27 Dec 2013 21:01:49 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 23440 invoked by alias); 27 Dec 2013 21:01:49 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 27 Dec 2013 13:01:47 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 6BB7142937; Fri, 27 Dec 2013 13:01:44 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 27 Dec 2013 13:01:44 -0800
+Message-ID: <20131227210144.6BB7142937@x3.develooper.com>
+Subject: Team Leader Development (onsite), Amsterdam, The Netherlands
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18042
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 27, 2013
+
+Job title: Team Leader Development
+
+Company name: Booking.com
+
+Location: Amsterdam, The Netherlands
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Booking.com is world’s largest online hotel reservation company. We have
+over 340,000 properties listed on our website and do transactions spanning
+half a million room nights every day. We are part of Priceline group of
+companies and have presence in over 110+ cities worldwide.
+ 
+At Booking.com we work in small (4-5 people) agile teams. Each team owns a
+part of our product and works on it independently. Due to our company’s
+phenomenal success and the incumbent growth, we are now hiring Team Leads
+to join our development team in the heart of Amsterdam.
+
+As a Team Lead you should be able to:
+ 
+1.     Write code and play an active role in developing new features for a
+high performance, scalable web platform.
+2.     Work with the team and the product owner to define a prioritized
+backlog of stories that the team will tackle during a given sprint.
+3.     Monitor team’s progress and take ownership of removing any
+impediments that slow the team down.
+4.     Mentor people on the team and help them improve their game.
+5.     Assess and communicate how your work impacts business and other
+systems.
+
+Required skills:
+You should apply if:
+- You are a technically strong candidate with a minimum of 5 years
+experience of working on a large web product.
+- You have a sound understanding of programming fundamentals and know how
+they apply to highly scalable web based systems.
+- You are comfortable making hands-on contributions, i.e. write code that
+is deployed to production servers.
+- You have led a small team before and like working with people.
+- You have a pragmatic outlook and excellent communication skills.
+
+We primarily use Perl for development. We use MySQL with Memcache and Redis
+where necessary. We use Git for source control and our deployments are also
+closely tied to it.
+
+Desired skills:
+Experience with an e-commerce product is desirable but not mandatory.
+
+Website for more information:
+http://www.booking.com/jobs/38124.en-gb.html?sid=398218aab79c2163212be84def
+75b19e;dcid=1
+
+Contact information at:
+http://jobs.perl.org/job/18042#contact

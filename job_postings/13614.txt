@@ -1,0 +1,88 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13614
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 19767 invoked from network); 31 Jul 2013 02:53:30 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 31 Jul 2013 02:53:30 -0000
+Received: (qmail 31274 invoked by uid 225); 31 Jul 2013 02:53:29 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 31270 invoked by alias); 31 Jul 2013 02:53:29 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 30 Jul 2013 19:53:24 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id AFC7A2AFE1; Tue, 30 Jul 2013 19:53:20 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Tue, 30 Jul 2013 19:53:20 -0700
+Message-ID: <20130731025320.AFC7A2AFE1@x3.develooper.com>
+Subject: Junior Perl developer (part onsite), Chieri, Province of Turin,
+ Italy
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17705
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 30, 2013
+
+Job title: Junior Perl developer
+
+Company name: NonSoLoSoft - Italia
+
+Location: Chieri, Province of Turin, Italy
+
+Pay rate: Subject to Experience
+
+Terms of employment: Salaried employee
+
+Length of employment: starting from 6 months
+
+Hours: Flexible
+
+Onsite: some
+
+Description:
+We are developing some Perl based projects but now we're starting with a
+new activity on GNUMed and we want to develop some new services around it
+in Perl but we need good Python skills too since GNUMed is written in such
+language.
+
+Since new services will be web based, some JavaScript experience is
+welcome.
+
+Required skills:
+Perl at least at novice level (or ready to learn it, we can teach it)
+Python (required)
+
+Git
+Some experience of sysadmin on Linux (client/desktop), win (desktop) and
+mac (desktop).
+
+Italian as mother language, able to read english books, documentation and
+manuals, be able to give and receive support on IRC network.
+
+Car driver licence and own car available.
+
+Desired skills:
+JavaScript
+more computer languages are welcome
+emacs
+git
+subversion
+BSD or Linux
+
+On Perl side: Moose, DBIC, Catalyst and CPAN.
+
+Website for more information: http://www.nonsolosoft.com/
+
+Contact information at:
+http://jobs.perl.org/job/17705#contact

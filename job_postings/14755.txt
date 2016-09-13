@@ -1,0 +1,72 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14755
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 7597 invoked from network); 6 Nov 2014 09:11:17 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 6 Nov 2014 09:11:17 -0000
+Received: (qmail 31523 invoked by uid 225); 6 Nov 2014 09:11:16 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 31519 invoked by alias); 6 Nov 2014 09:11:16 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 06 Nov 2014 01:11:10 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 9791E429D5; Thu,  6 Nov 2014 01:11:07 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 6 Nov 2014 01:11:07 -0800
+Message-ID: <20141106091107.9791E429D5@x3.develooper.com>
+Subject: Developer for an e-theses tool (part onsite), Vienna, Austria
+ (Europe)
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19042
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November  6, 2014
+
+Job title: Developer for an e-theses tool
+
+Company name: University of Vienna
+
+Internal ID: AT
+
+Location: Vienna, Austria (Europe)
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: 4 - 6 month
+
+Hours: Flexible
+
+Onsite: some
+
+Description:
+The University of Vienna is hiring a freelancer for Perl development. Your
+assignment will be to refactor a workflow tool for e-theses. This tool shot
+be now build on an framework with modular architecture. The developer is
+free to choose the framework and can work on the environment from the
+university. At the university there is a developer who will be the link
+between the technical and non-technical part of the project. Documentation
+will be in english.
+
+Required skills:
+Well experienced Perl developer
+Experience with databases (e.g. Oracle)
+Experience with technology of web development (e.g. HTML, CSS, JavaScript)
+
+Desired skills: Knowledge of Linux/Unix environment
+
+Website for more information: http://e-theses.univie.ac.at/
+
+Contact information at:
+http://jobs.perl.org/job/19042#contact

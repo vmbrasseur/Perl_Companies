@@ -1,0 +1,95 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15137
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 25189 invoked from network); 2 Jul 2015 03:31:42 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 2 Jul 2015 03:31:42 -0000
+Received: (qmail 15758 invoked by uid 225); 2 Jul 2015 03:31:42 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 15739 invoked by alias); 2 Jul 2015 03:31:41 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 01 Jul 2015 20:31:34 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id F1D5838F; Thu,  2 Jul 2015 03:31:30 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 2 Jul 2015 03:31:30 +0000
+Message-ID: <20150702033130.F1D5838F@web1.develooper.com>
+Subject: Perl Web Site Developer (telecommute), United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19616
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July  1, 2015
+
+Job title: Perl Web Site Developer
+
+Company name: CATME Project
+
+Location: United States
+
+Pay rate: based on experience
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+[Note, we can only use US developers for this project. If you are located
+outside of the US, we cannot consider you for this position. Principals
+only please-- no recruiting firms, outsourcers, etc.]
+
+The CATME Project
+(catme.org) is a free educational resource that is loved by users at
+hundreds of universities world-wide. We are well-funded via the NSF and
+have won multiple awards, including the Premier Award for Excellence in
+Educational Software.
+
+We are looking for a developer to continue to add
+functionality to the web site to support the project's research goals, as
+well as maintain the existing code base and expand and improve the
+project's automated testing framework. The position also includes
+management and upgrades of the dedicated servers where the project is
+housed, as well as acting as "third tier" troubleshooting support when user
+issues crop up. The project is developed primarily in mod_perl running in
+Apache on a Linux platform. The back-end database is Postgres.
+
+Our
+database contains student and faculty data for hundreds of educational
+institutions world-wide. The security and privacy of our users is
+paramount. Be prepared to discuss your experience with secure coding and
+best practices for web application security.
+
+This is a telecommute
+position with flexible hours, but we are looking for a "full-time"
+developer in terms of commitment level. You would work as a sub-contractor
+under the current grant funding, with the expectation that you would take
+over as primary contractor on future grant proposals.
+
+Desired skills:
+mod_perl
+CSS
+jQuery
+Postgres
+Apache
+Linux
+git
+Selenium
+
+Website for more information: http://catme.org/
+
+Contact information at:
+http://jobs.perl.org/job/19616#contact

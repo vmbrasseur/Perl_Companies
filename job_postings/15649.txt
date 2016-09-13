@@ -1,0 +1,141 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15649
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 3689 invoked from network); 10 Aug 2016 02:39:20 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 10 Aug 2016 02:39:20 -0000
+Received: (qmail 26152 invoked by uid 225); 10 Aug 2016 02:39:20 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 26148 invoked by alias); 10 Aug 2016 02:39:20 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 09 Aug 2016 19:39:15 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 2E6D43BA; Wed, 10 Aug 2016 02:39:12 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 10 Aug 2016 02:39:12 +0000
+Message-ID: <20160810023912.2E6D43BA@web1.develooper.com>
+Subject: Perl Developer (onsite), Havant, Hampshire, PO9 1SA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20352
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 10, 2016
+
+Job title: Perl Developer
+
+Company name: Jobsite UK Worldwide Limited
+
+Location: Havant, Hampshire, PO9 1SA
+
+Pay rate: Competitive plus Generous Benefits
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Jobsite is one of the UK's leading online recruitment advertising
+businesses, helping real people find real jobs; connecting the best in
+talent with the best in recruitment. Our business includes: Jobsite.co.uk,
+CityJobs.com and eMedCareers.com.
+
+We're also responsible for the hosting
+and continued development of the NHS Jobs platform. This is a standalone
+full-stack recruitment solution that is currently serving 4+ million
+visitors every month. Following the successful launch of the re-write of
+the site in early 2014, we are now looking to hire a Full Stack Developer
+for the team to take it to the next level!
+
+Your passion for code will
+shine through together with your knowledge of a full-stack web solution.
+
+Naturally you'll be really talented and have the appetite to stay abreast
+of current technologies and best practice.
+
+As part of the hiring process
+we'll ask you to come in and spend some time coding with the team.
+
+Who
+we're looking for…
+
+People with real passion for applying what they do best
+to help the NHS Jobs site be considered a ‘best of breed' solution.
+Self-starters who have confidence in their core technical skills and who
+are able to work within a dynamic environment.
+Those prepared to challenge
+the norm and to use their technical know-how & experience to make
+outstanding products.
+Ownership of every aspect in product delivery.
+Design, build, test, deploy and iterate to deliver quality at speed and
+with frequency.
+Displaying empathy and connection to our end users in order
+to provide solutions to real problems.
+Team workers - you must love working
+as part of a team, and understand that achieving brilliance is a team
+effort - collaborate, educate, learn and build with those around you.
+Strong presence in our developer community (We believe strongly in
+cross-pollination between the different production streams). Ensuring
+quality through code reviews and pair programming.
+A desire to progress our
+systems. Take us to the bleeding edge where possible and remove brittleness
+from the past.
+As well as a focus on delivering quality end product you'll
+also have a desire for continual learning and improvement, which we will
+support with our commitment to giving you time to develop your ideas and
+skills.
+A positive can-do attitude, a sense of fun and to willingness to
+challenge and be challenged.
+How we roll ….
+
+Scrum approach to product
+focused iterative development across multi-disciplined teams.
+Solutions
+focused on the end-user.
+Refactoring of legacy code with modern practices.
+Test Driven Development(TDD).
+Behaviour Driven Development (BDD).
+Continuous Integration / Continuous Deployment/ regular product releases.
+
+Technologies & tools we use
+
+Perl
+Java
+CSS/HTML
+Node
+Oracle
+Elastic Search
+RabbitMQ
+Solr
+Selenium
+Maven
+Eclipse
+JIRA
+Jenkins
+Git
+Javascript
+… whatever
+we need
+
+Desired skills:
+We're looking for an experienced Perl Developer who has demonstrable
+experience using Modern Perl and development techniques such as Moose for
+OO and unit testing frameworks.
+
+Website for more information: http://www.jobsite.co.uk/work-for-us/
+
+Contact information at:
+http://jobs.perl.org/job/20352#contact

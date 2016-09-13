@@ -1,0 +1,105 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14903
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 1108 invoked from network); 17 Feb 2015 09:44:04 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 17 Feb 2015 09:44:04 -0000
+Received: (qmail 6981 invoked by uid 225); 17 Feb 2015 09:44:04 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 6977 invoked by alias); 17 Feb 2015 09:44:04 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 17 Feb 2015 01:44:02 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 4A0EF42950; Tue, 17 Feb 2015 01:43:59 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Tue, 17 Feb 2015 01:43:59 -0800
+Message-ID: <20150217094359.4A0EF42950@x3.develooper.com>
+Subject: Developer (onsite), Grandview Heights, OH, United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19252
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 17, 2015
+
+Job title: Developer
+
+Company name: Teleperformance
+
+Location: Grandview Heights, OH, United States
+
+Pay rate: DOE
+
+Terms of employment: Hourly employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Write applications and features for a large Human Resource Management
+System (HRMS), utilizing Perl, MySQL, Apache, HTML, JavaScript (jQuery) and
+CSS.
+
+Key Responsibilities
+* Work on complex problems to create applications and features that are
+used globally throughout the business.
+* Receive, analyze and implement users requests to develop new features
+within our existing HRMS.
+* Work with Developer Team Leads and Architects to implement frameworks
+producing localized business processes.
+* Understands and contributes to internally created development best
+practices.
+* Utilize existing development frameworks to produce viable and working
+solutions to customer requests within system abilities and limitations.
+* Establishes best estimates for development time lines and effectively
+communicates changes.
+* Additional tasks as assigned.
+
+Required skills:
+* Must have a Bachelors degree in Computer Science or related field or
+equivalent practical experience.
+* Must have at least two years experience of web development using Perl,
+PHP, Java, Python, Ruby or other (Perl is preferred).
+* Must have at least two years experience creating websites using HTML /
+CSS (Less.js) / JavaScript (jQuery).
+* Must have experience in database programming using a Relation DB
+Management System (MySQL is preferred).
+* Must have strong problem determination skills.
+* Willingness to learn new systems and skills as needed from project to
+project.
+* Must have a thorough understanding of software design, debugging and
+troubleshooting methods.
+* Prior experience using code management software such as CVS, SVN or git.
+* Must be able to work in a team environment and independently.
+* Must be well organized.
+
+Desired skills:
+* User level experience with a *NIX operating system.
+* Intermediate to advanced MySQL usage.
+* Experience using vi(m) command line editors.
+* Knowledge of common CPAN modules and ability to effectively research,
+install and develop new solutions through the reuse of existing code
+available in the open source community.
+* Knowledge and prior use of Perl testing frame works (Test::More,
+Test::Simple, Test::Harness).
+* Prior use of perlcritic for static testing.
+* Experience with Apache and creating mod_perl modules.
+* *NIX system administration experience as it pertains to the LAMP stack
+(installation, configuration and maintenance).
+
+Website for more information: http://www.teleperformance.com/en-us/
+
+Contact information at:
+http://jobs.perl.org/job/19252#contact

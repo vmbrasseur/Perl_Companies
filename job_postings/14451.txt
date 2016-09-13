@@ -1,0 +1,109 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14451
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 16155 invoked from network); 11 Jun 2014 08:17:11 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 11 Jun 2014 08:17:11 -0000
+Received: (qmail 8391 invoked by uid 225); 11 Jun 2014 08:17:11 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 8387 invoked by alias); 11 Jun 2014 08:17:11 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 11 Jun 2014 01:17:09 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 6F58042937; Wed, 11 Jun 2014 01:17:06 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 11 Jun 2014 01:17:06 -0700
+Message-ID: <20140611081706.6F58042937@x3.develooper.com>
+Subject: Perl/Linux/SQL Engineer (onsite), Houston, TX
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18416
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 11, 2014
+
+Job title: Perl/Linux/SQL Engineer
+
+Company name: Satellite Tracking of People LLC.
+
+Internal ID: PERL-2014-06
+
+Location: Houston, TX
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The Satellite Tracking of People LLC has an outstanding opportunity for a
+full-time Perl/Linux/SQL Engineer, who will be responsible for internal and
+external client application support, data management, and process
+automation, with a specialization in large relational SQL databases in an
+enterprise environment.
+
+We deploy code daily in an ever changing environment.  The candidate will
+be responsible for building and maintaining Perl/Linux/SQL automation
+processes and in-house RPMs for our Fedora/CentOS infrastructure.
+
+Authorization to work in the United States is required.  Salary is
+commensurate with experience and qualifications in the Houston market. 
+Direct hire position is in Houston, TX.  90-day on-site contract to hire is
+available for qualified candidate referrals.
+
+Required skills:
+Bottom-line: We need a person who is passionate about Linux, Perl, and SQL.
+ We don't need someone who knows it all but we need someone who is ready to
+learn and participate.
+
+•	Bachelors of Science (e.g. Engineering, Statistics, Mathematics,
+etc.)
+•	5+ years hands-on experience with SQL (Oracle experience preferred)
+
+•	3+ years professional experience with Perl 5; Experience with Perl
+Best Practices;  POD (perlpod and pod2html); Experience or familiarity with
+CPAN modules including: DBI/DBD, JSON, and Test::More. Experience with
+creating Perl modules (e.g. modulemaker) with complete unit tests and RPM
+spec file integration. (e.g. cpanspec and rpmbuild)
+•	3+ years hands-on experience with visual database access tools
+(Toad for Oracle preferred)
+•	2+ years hands-on experience with Linux command line (Fedora/CentOS
+preferred)
+•	1+ years hands-on experience with version control systems
+(Subversion preferred)
+•	1+ years experience in the client service and support industry
+(Sales, Tier 1/2/3)
+•	Exceptional communication skills;  Candidate must be able to
+effectively communicate directly with clients in the United States.
+•	Self starter who knows when to Google and when to ask.
+
+Desired skills:
+•	Exceptional organizational skills.
+•	Ability to multi-task in a fast-paced environment.
+•	Experience with data management on a large Oracle instance.
+•	Advanced knowledge of Oracle and writing SQL queries to perform on
+large data sets.
+•	Superior analytical and problem resolution with custom web
+applications and services.
+•	Experience in testing, quality and change management methodologies.
+
+•	Experience in supporting custom web applications
+•	Experience with a Customer Resource Management (CRM) ticket
+management system.
+
+Website for more information: http://www.stopllc.com/
+
+Contact information at:
+http://jobs.perl.org/job/18416#contact

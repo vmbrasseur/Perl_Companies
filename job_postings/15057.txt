@@ -1,0 +1,92 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15057
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 31293 invoked from network); 6 May 2015 12:15:47 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 6 May 2015 12:15:47 -0000
+Received: (qmail 14399 invoked by uid 225); 6 May 2015 12:15:47 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 14395 invoked by alias); 6 May 2015 12:15:47 -0000
+X-Spam-Status: No, hits=0.0 required=8.0
+	tests=
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 06 May 2015 05:15:47 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 0288E2A9; Wed,  6 May 2015 12:15:43 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 6 May 2015 12:15:43 +0000
+Message-ID: <20150506121544.0288E2A9@web1.develooper.com>
+Subject: Software Engineer (onsite), San Francisco, CA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19560
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May  6, 2015
+
+Job title: Software Engineer
+
+Company name: Kareo - Doctor Base
+
+Location: San Francisco, CA
+
+Pay rate: Competitive
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Hello, we are DoctorBase, an innovator in practice marketing and patient
+communication solutions for healthcare providers. We just joined forces
+with Kareo, a fast growing SaaS. Together, we’ve created the most complete
+software and service platform available for independent practices. 
+
+What
+We Need
+
+A Perl slinging, problem solving, software engineering whiz. The
+thought of helping entrepreneurial physicians succeed by giving them an
+edge over large medical care conglomerates excites you. You are scrappy,
+smart, interested in fixing healthcare, and fun to be around.
+
+Desired skills:
+What You’ll Do:
+◾Jump right in and start contributing to our code base
+◾Optimize the performance and scalability of our application
+◾Develop new
+features from scratch
+◾Play a vital role in the future state of our
+technology stack
+◾Integrate two free-standing applications into one
+seamless experience	
+
+What We Expect You to Have:
+◾Full stack
+engineering chops, with specific expertise on the backend
+◾Flawless OO Perl
+skills, with a burning desire to do things better with each iteration
+◾Meaningful experience with relational databases; PostgreSQL preferred
+◾Experience with: Moose, PostgreSQL, Rest APIs, Linux sever admin skills
+◾Ideally, experience with: Catalyst, Template::Toolkit, releases on CPAN,
+AWS skills, Python with Boto, strong SQL background, DBIx::Class, software
+infrastructure and architecture 
+◾The desire to help entrepreneurial
+physicians succeed by giving them an edge over large medical care
+conglomerates
+
+Website for more information: http://www.kareo.com/careers
+
+Contact information at:
+http://jobs.perl.org/job/19560#contact

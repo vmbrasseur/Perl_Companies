@@ -1,0 +1,137 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15619
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 22977 invoked from network); 21 Jul 2016 06:41:30 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 21 Jul 2016 06:41:30 -0000
+Received: (qmail 5999 invoked by uid 225); 21 Jul 2016 06:41:29 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 5995 invoked by alias); 21 Jul 2016 06:41:28 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,LOTS_OF_MONEY,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 20 Jul 2016 23:41:26 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 9E7CB34E; Thu, 21 Jul 2016 06:41:21 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 21 Jul 2016 06:41:21 +0000
+Message-ID: <20160721064121.9E7CB34E@web1.develooper.com>
+Subject: Data Analytics Engineer (onsite), Waltham, MA, USA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20336
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 21, 2016
+
+Job title: Data Analytics Engineer
+
+Company name: MaxMind
+
+Location: Waltham, MA, USA
+
+Pay rate: $100,000 USD
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+MaxMind (www.maxmind.com) is looking for a Data Analytics Engineer with an
+excellent mathematical reasoning ability to help us develop and improve our
+fraud detection service. Founded in 2002, MaxMind is an industry-leading
+provider of IP intelligence and online fraud detection tools.  MaxMind is
+privately held and based in Waltham, Massachusetts.
+
+Transaction fraud
+detection is a constantly changing field, and our work is never done.
+Fraudsters are always looking for new ways to evade detection, which means
+we're always looking for new ways to detect them. Our fraud detection
+service, minFraud, builds on top of our widely used GeoIP products, which
+associate geographical and other data with individual IP addresses. We
+screen over a billion online transactions each year and provide IP
+intelligence data to thousands of companies worldwide.
+
+
+THE POSITION: 
+As
+a Data Analytics Engineer, your job will be to monitor and fine-tune our
+fraud detection engine. You would work on reviewing transaction data to
+detect patterns, identify improvements, and update our algorithms to
+uncover more fraud.
+
+TYPICAL TASKS INCLUDE:
+- Using visual tools to review
+fraudulent transactions as reported by our customers.
+- Detecting fraud
+patterns using abductive reasoning
+- Updating code in our machine learning
+and rule set framework to improve fraud detection
+- Automating manual data
+review tasks
+- Exploring other data sets to find correlations with fraud.
+
+Compensation includes a starting salary of $100k/year (depending on
+qualifications) and participation in a performance-based bonus plan. The
+position is based at our Waltham office.
+
+WORKING AT MAXMIND:
+MaxMind is a
+casual, friendly, results-focused company of 30-some employees, about half
+of whom are in technical positions. We maintain a set of core, overlapping
+hours, but we’re flexible with specific start and end times and are
+understanding about appointments and life events.
+
+In addition to medical,
+dental, and vision coverage, we offer several other benefits including a
+401k with employer contribution, FSA, and transit reimbursement.
+
+Our
+office is located near downtown Waltham, MA, outside of Boston, a five
+minute walk from the nearest commuter rail line and several express bus
+lines.
+
+
+OUR DEVELOPMENT PRACTICES:
+Our data analytics code is largely
+written in Perl using PostgreSQL and Linux. We maintain fast development
+cycles and identify small, incremental improvements that add up over time.
+
+Desired skills:
+ABOUT YOU:
+The ideal candidate would excel at pattern recognition and
+problem solving by using data and programming.
+
+
+MINIMUM QUALIFICATIONS: 
+-
+Dynamic language programming experience. We use Perl but we're happy to
+hear from candidates with Python, Ruby or other languages as well. (A
+programming exercise will be given to all applicants which can be completed
+in the language of your choice.)
+- Analytical skills and ability to focus
+on data analysis for long periods of time with high attention to detail.
+
+BONUS SKILLS:
+- Mathematics or statistical background
+- Data mining /
+machine learning experience
+- SQL experience
+- Experience developing for
+deployment on a Linux or BSD platform
+
+Website for more information: https://www.maxmind.com/en/careers
+
+Contact information at:
+http://jobs.perl.org/job/20336#contact

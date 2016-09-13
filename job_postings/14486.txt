@@ -1,0 +1,78 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14486
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 31331 invoked from network); 21 Jun 2014 06:29:19 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 21 Jun 2014 06:29:19 -0000
+Received: (qmail 4013 invoked by uid 225); 21 Jun 2014 06:29:19 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 4009 invoked by alias); 21 Jun 2014 06:29:19 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 20 Jun 2014 23:29:17 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 1792542986; Fri, 20 Jun 2014 23:29:14 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 20 Jun 2014 23:29:14 -0700
+Message-ID: <20140621062914.1792542986@x3.develooper.com>
+Subject: Perl developer (onsite), Moscow, Russia
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18732
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 20, 2014
+
+Job title: Perl developer
+
+Company name: Mail.Ru Group
+
+Location: Moscow, Russia
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are looking for a smart and experienced Perl/С/С++ developer to join our
+team of highly skilled engineers to develop cutting edge solutions for our
+20+ million daily audience.
+
+Here in Mail.Ru our everyday work is solving problems of a high load
+services, deep code optimization, improving the resistance of our services
+to hardware and network failures. We are squeezing all the juice out of the
+hardware to achieve maximum performance and stability of our code.
+
+By joining our team you will get the unique experience at the large
+international company but with an atmosphere of startup, with quick
+services launches on production, without unnecessary bureaucracy, but not
+to the detriment for quality. You almost instantly will be seeing the
+result of your work. You for sure will be excited by the fact that your
+code is running at 3000+ servers.
+
+Required skills:
+Our ideal candidate:
+- has an outstanding problem solving skills
+- has a good idea of high load services architectures
+able to develop cool features, but not leaving too much bugs
+- knows the Internet inside (tcp/ip, http, linux, html)
+- is willing to learn new things
+- is responsible for implemented decisions and for their stable and
+bug-free work for live users
+
+Website for more information: http://corp.mail.ru/
+
+Contact information at:
+http://jobs.perl.org/job/18732#contact

@@ -1,0 +1,95 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14467
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 10334 invoked from network); 13 Jun 2014 05:33:00 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 13 Jun 2014 05:33:00 -0000
+Received: (qmail 13223 invoked by uid 225); 13 Jun 2014 05:33:00 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 13219 invoked by alias); 13 Jun 2014 05:32:59 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 12 Jun 2014 22:32:58 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 0333F42955; Thu, 12 Jun 2014 22:32:55 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 12 Jun 2014 22:32:54 -0700
+Message-ID: <20140613053255.0333F42955@x3.develooper.com>
+Subject: Software Engineer (Perl) (onsite), New York City, NY
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18412
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 12, 2014
+
+Job title: Software Engineer (Perl)
+
+Company name: Shutterstock
+
+Location: New York City, NY
+
+Terms of employment: Salaried employee
+
+Length of employment: Perm
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Shutterstock is seeking experienced and intelligent software engineers that
+are excited about working with other experienced and intelligent software
+engineers on closely integrated teams to push the boundaries of what is
+expected of a stock photo company. We focus on fast, iterative development
+(over 150 deployments/month) and collaborative, interactive programming.
+Developers work on small cross-functional teams (4-6 people) that have a
+voice in setting their own priorities and are expected to build and deploy
+applications quickly and iteratively.
+ 
+Qualified candidates are: 
+
+In love with programming and building things that have never existed
+Curious and passionate about finding creative solutions to complex problems
+
+Able communicators that are used to talking through problems and feel a
+deep need to share the cool stuff that they're working on with others
+Experienced enough to know what to build themselves and what not to
+Aware of what they don't know yet and are excited about what to learn next
+Ready to teach us some new tricks
+Able to take care of business
+
+Required skills:
+A very deep understanding of at least one of the following programming
+language: Perl, Ruby, Python, Node, PHP 
+Years of experience with at least one database (MySQL preferably)
+A profound knowledge of how the web works and how to make it efficient
+(HTTP, caching, page rendering, etc)
+Strong linux experience
+
+Bonus skills:
+Experience with web MVC frameworks: Dancer, Mojolicious, Catalyst, Sinatra,
+Express, etc
+RESTful API design and development
+Layout / Design
+Front or back end javascript / Node.js
+Image processing and computer vision
+Redis, Riak, or other key/value stores
+Memcached / Redis
+System administration
+MogileFS
+
+Website for more information: http://www.shutterstock.com/
+
+Contact information at:
+http://jobs.perl.org/job/18412#contact

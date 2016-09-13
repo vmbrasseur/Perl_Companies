@@ -1,0 +1,82 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14429
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 20803 invoked from network); 28 May 2014 16:47:52 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 28 May 2014 16:47:52 -0000
+Received: (qmail 32670 invoked by uid 225); 28 May 2014 16:47:52 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 32664 invoked by alias); 28 May 2014 16:47:52 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 28 May 2014 09:47:46 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id BDD934295C; Wed, 28 May 2014 09:47:43 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 28 May 2014 09:47:43 -0700
+Message-ID: <20140528164743.BDD934295C@x3.develooper.com>
+Subject: Senior Application Developer (onsite), Downey, CA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18302
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 28, 2014
+
+Job title: Senior Application Developer
+
+Company name: Los Angeles County Office of Education
+
+Location: Downey, CA
+
+Pay rate: $6183 to $7659 Monthly
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Maintain and enhance existing applications.  When you look at the posting,
+it refers to a lot of Microsoft technologies but this position is
+specifically for a Perl programmer.  You do not have to have Microsoft
+experience.
+
+Required skills:
+Perl 5
+Class::DBI
+Template Toolkit
+OO Perl
+Javascript
+Ajax
+MySQL
+mod_perl
+Apache 2
+
+Desired skills:
+Solaris 10 Administration
+php knowledge
+
+Website for more information:
+http://agency.governmentjobs.com/lacoe/default.cfm?action=viewJob&jobID=885
+786&hit_count=yes&headerFooter=1&promo=0&transfer=0&WDDXJobSearchParams=%3C
+wddxPacket%20version%3D%271.0%27%3E%3Cheader%2F%3E%3Cdata%3E%3Cstruct%3E%3C
+var%20name%3D%27CATEGORYID%27%3E%3Cstring%3E-1%3C%2Fstring%3E%3C%2Fvar%3E%3
+Cvar%20name%3D%27PROMOTIONALJOBS%27%3E%3Cstring%3E0%3C%2Fstring%3E%3C%2Fvar
+%3E%3Cvar%20name%3D%27TRANSFER%27%3E%3Cstring%3E0%3C%2Fstring%3E%3C%2Fvar%3
+E%3Cvar%20name%3D%27FIND_KEYWORD%27%3E%3Cstring%3E%3C%2Fstring%3E%3C%2Fvar%
+3E%3C%2Fstruct%3E%3C%2Fdata%3E%3C%2FwddxPacket%3E
+
+Contact information at:
+http://jobs.perl.org/job/18302#contact

@@ -1,0 +1,125 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15526
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 937 invoked from network); 5 May 2016 02:31:50 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 5 May 2016 02:31:50 -0000
+Received: (qmail 5052 invoked by uid 225); 5 May 2016 02:31:49 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 5048 invoked by alias); 5 May 2016 02:31:48 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 04 May 2016 19:31:45 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 7866234E; Thu,  5 May 2016 02:31:42 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 5 May 2016 02:31:42 +0000
+Message-ID: <20160505023142.7866234E@web1.develooper.com>
+Subject: Security Software Engineer (onsite), Singapore
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20130
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May  3, 2016
+
+Job title: Security Software Engineer
+
+Company name: Symantec
+
+Location: Singapore
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+RESPONSIBILITIES:
+• Demonstrate a strong grasp of security concepts to
+analyze various forms of email and web borne attacks and create solutions
+to thwart them
+• Work well within the local engineering team and
+collaborate with remote teams, technical architects, test engineers and
+user interface designers clarifying requirements where necessary
+• Develop
+and deliver high quality, security related software on time and to
+specification
+• Possess ability to quickly decipher legacy, non-structured
+code, and improve upon the same to deliver new features
+• Write high spec
+code, build unit tests, identify and fix user experience issues, debug and
+address scalability issues
+• Perform confident, strict code reviews,
+providing constructive feedback where necessary and be accepting to
+reciprocal reviews of your code
+• Conduct confident product demos to
+internal stakeholders
+• Work independently with minimal supervision and be
+able to adapt quickly based on senior direction and feedback
+• Be
+acceptable to changes in organization and technology alterations
+• Create
+innovative solutions through own research and out of the box thinking
+
+Desired skills:
+QUALIFICATIONS:
+Essential:
+• BE/B Tech or ME/M Tech degree of Computer
+Science or equivalent
+• Strong knowledge of programming in Perl (or another
+dynamic languages like Python or Ruby, and the willingness to learn Perl)
+•
+Proficient in one or more of the following programming/scripting languages:
+JavaScript, Java, C/C++, Python, Ruby
+• Passionate about test driven
+development
+• Experience in developing HTTP Clients
+• Proven experience in
+using and developing on Linux
+• Good analytical and problem-solving skills
+and willingness to investigate complex, subtle problems
+• Experience in
+developing/designing/integrating web services
+• Knowledge of version
+control systems
+• Understands fundamentals of XML, SOAP, REST, HTML
+• Solid
+grasp of client-server architecture
+• 3+ years’ experience in full product
+lifecycle software design and implementation.
+• Knowledge of SMTP and
+RFC2821/RFC2822
+• Experience of SQL and NoSQL databases
+• Able to
+communicate well in spoken and written English.
+
+DESIRABLE:
+• Experience
+practicing agile methodologies like Scrum & Kanban
+• Knowledge of RPM, Yum
+and software packaging
+• Previously worked on test automation or test tools
+• Experience with working with Big Data technologies
+• Knowledge of
+machine-learning
+• Contributor to open source projects and provide examples
+of contributions
+• Knowledge of JavaScript, particularly in the
+eccentricities of the language, and the quirks of DOM
+
+Website for more information: https://www.symantec.com/about/careers
+
+Contact information at:
+http://jobs.perl.org/job/20130#contact

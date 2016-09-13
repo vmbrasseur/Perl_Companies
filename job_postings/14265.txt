@@ -1,0 +1,91 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14265
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 21966 invoked from network); 19 Mar 2014 04:38:45 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 19 Mar 2014 04:38:45 -0000
+Received: (qmail 3165 invoked by uid 225); 19 Mar 2014 04:38:45 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 3161 invoked by alias); 19 Mar 2014 04:38:45 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,T_FRT_PROFILE2
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 18 Mar 2014 21:38:43 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 7DF3942943; Tue, 18 Mar 2014 21:38:40 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Tue, 18 Mar 2014 21:38:40 -0700
+Message-ID: <20140319043840.7DF3942943@x3.develooper.com>
+Subject: Perl Developer and Sysadmin (onsite), Marina del Rey, CA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18484
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 18, 2014
+
+Job title: Perl Developer and Sysadmin
+
+Company name: DYL
+
+Location: Marina del Rey, CA
+
+Pay rate: competitive
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+DYL is looking to hire someone who is knowledgeable with Perl programming
+to join our dynamic project development team as a project manager. This is
+not a coding-heavy position, it will not involve actually developing new
+software, but all applicants must be proficient at Perl programming and
+Linux system administration. This role will include system administration
+of the company's production and staging systems; oversight of Perl
+developers; testing and merging code for release; product testing and
+development of test cases; technical support of company's cloud-based
+software; management of VoIP infrastructure; data and financial analysis.
+
+DYL is a Software as a Service (SaaS) company that provides lead
+management, dialing services, and hosted VoIP telephone service. DYL was
+founded in 2009 with a focus on using technology to solve business
+problems. We are looking for a dedicated and talented individual to join
+our development team. This person must be able to meet all of the
+requirements listed above. This role will involve learning about VoIP,
+networking and the company's software and infrastructure. The person hired
+for this position must be punctual, work well with others, and have good
+communication skills.
+
+Required skills:
+Ability to read and write Perl programs
+Ability to read and write SQL queries
+Experience developing Perl applications
+Perl object-oriented practices
+Git source code management
+Linux system administration
+MySQL (or other similar database) background
+IP networking
+Network security
+
+Desired skills:
+VoIP, Asterisk or FreeSWITCH
+CRM, Lead Generation, Call Centers
+Perl unit testing
+Ansible, Puppet or Chef
+
+Website for more information: http://dyl.com/
+
+Contact information at:
+http://jobs.perl.org/job/18484#contact

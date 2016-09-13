@@ -1,0 +1,90 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14238
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 10257 invoked from network); 12 Mar 2014 07:13:10 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 12 Mar 2014 07:13:10 -0000
+Received: (qmail 3612 invoked by uid 225); 12 Mar 2014 07:13:10 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 3608 invoked by alias); 12 Mar 2014 07:13:09 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 12 Mar 2014 00:13:07 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 988EB4295E; Wed, 12 Mar 2014 00:13:04 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 12 Mar 2014 00:13:04 -0700
+Message-ID: <20140312071304.988EB4295E@x3.develooper.com>
+Subject: PERL PROGRAMMER (onsite), Chicago, IL
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18460
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 12, 2014
+
+Job title: PERL PROGRAMMER
+
+Company name: The Center for Research Libraries
+
+Location: Chicago, IL
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Center for Research Libraries (CRL) is a membership consortium consisting
+of the leading academic and research libraries in the U.S. and abroad, with
+a unique and historic collection.  A recently awarded grant from the Andrew
+W. Mellon Foundation has enabled the CRL to continue and expand its efforts
+to shape a data-centered international strategy for archiving and
+digitizing historical journals and newspapers. 
+
+We are seeking a PERL Programmer to work with our existing team of
+librarians to further develop and maintain data projects critical to
+meeting our objective.	Work primarily involves analyzing and manipulating
+data sets from library and commercial sources to pull out needed data and
+transform it into additional formats for ingest into existing databases or
+tools used for presentation of the data. 
+
+Duties and Responsibilities: 
+•	Working closely with librarians to analyze and manipulate data sets
+
+•	Creating optimized scalable code 
+•	Design, build and test tools to analyze data, extract patterns, and
+transform data among various formats as required by project demands.
+•	Design and build user-friendly interface for tools.
+
+Required skills:
+Requirements:
+•	Strong analytical skills, with experience analyzing dataflow, data
+patterns and work flow
+•	Minimum of 1 year of PERL programming experience 
+•	Experience using PERL, JAVA or other programming languages to
+normalize text and applying API’s to harvest or capture data. 
+•	Ability to collaborate and contribute to a team and work
+independently
+•	Ability to document and explain standards
+•	Related degree required
+
+In addition to professional challenge and the chance to make a creative
+contribution, the CRL offers a competitive salary and exceptional benefits
+package.
+
+Website for more information: http://www.crl.edu/node/10434
+
+Contact information at:
+http://jobs.perl.org/job/18460#contact

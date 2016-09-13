@@ -1,0 +1,103 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15592
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 21233 invoked from network); 19 Jun 2016 19:35:17 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 19 Jun 2016 19:35:17 -0000
+Received: (qmail 9664 invoked by uid 225); 19 Jun 2016 19:35:16 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 9660 invoked by alias); 19 Jun 2016 19:35:16 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 19 Jun 2016 12:35:07 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 8F2A72FA; Sun, 19 Jun 2016 19:35:04 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sun, 19 Jun 2016 19:35:04 +0000
+Message-ID: <20160619193504.8F2A72FA@web1.develooper.com>
+Subject: Perl Developer (onsite), Fleet, Hampshire
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17597
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 19, 2016
+
+Job title: Perl Developer
+
+Company name: CV-Library
+
+Location: Fleet, Hampshire
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+CV-Library is one of the UK's largest online job sites and attracts over 3
+million unique job seekers every month. With a client list crammed full of
+the biggest brand names in recruitment and also a healthy mix of corporate
+clients who regularly use our services, we are rapidly evolving into one of
+the biggest and most dynamic online media organisations in the UK, and the
+exciting news is we're growing beyond all expectations.
+
+We're looking for
+experienced and enthusiastic Perl Developers to help with the continuing
+expansion. 
+
+Your development experience to date will have included
+object-oriented Perl programming and you will be familiar with Modern Perl
+concepts and unit testing. 
+
+Our development team performs code review
+(with Gerrit) and continuous integration (with Jenkins running our
+Test::Class unit tests) to increase code quality. We use commit hooks with
+Perltidy and Perl::Critic and we have daily standups, and weekly demos and
+retrospectives. 
+
+The team enjoy a quiet working environment with:
+
+High
+quality dual monitors.
+High spec PC.
+Laid back dress code
+
+We are based at
+the Waterfront Business Park, Fleet, just a 2 minute walk away from the
+mainline station with direct links to London Waterloo, Basingstoke,
+Winchester and Southampton.
+
+Desired skills:
+Essential skills:
+
+OO Perl 
+Apache / Nginx
+SQL (MySQL)
+Linux
+Version
+control (ideally with Git)
+
+Desirable skills:
+
+Moose
+DBIx::Class
+Plack
+Javascript (Jquery)
+Solr
+
+Website for more information: http://www.cv-library.co.uk/
+
+Contact information at:
+http://jobs.perl.org/job/17597#contact

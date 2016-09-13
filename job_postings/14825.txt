@@ -1,0 +1,80 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14825
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28946 invoked from network); 13 Dec 2014 06:49:30 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 13 Dec 2014 06:49:30 -0000
+Received: (qmail 27008 invoked by uid 225); 13 Dec 2014 06:49:30 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 27004 invoked by alias); 13 Dec 2014 06:49:30 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,T_TVD_FUZZY_SECTOR,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 12 Dec 2014 22:49:27 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 0F2614296E; Fri, 12 Dec 2014 22:49:24 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 12 Dec 2014 22:49:23 -0800
+Message-ID: <20141213064924.0F2614296E@x3.develooper.com>
+Subject: Perl developer (onsite), Bratislava, Slovakia
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19126
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 12, 2014
+
+Job title: Perl developer
+
+Company name: Ariva Group
+
+Location: Bratislava, Slovakia
+
+Pay rate: EUR
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+NAPLN:
+- samostatne riesenie zadani v Perle, vyvoj a udrzba SW,
+- integracia s externymi systemami, optimalizacia performance
+- performance monitoring, troubleshooting, analyza problemov
+- coding, testing, debuging
+
+FIRMA:
+- stabilna slovenska firma, leader v sektore
+- prijemne developerske prostredie (IT ma asi 40 ludi)
+- interny zakaznik, rychla spatna vazba => zmysluplne riesenia
+- doraz na kvalitu a dlhodobu udrzatelnost, namiesto nadcasov preplanovanie
+scope
+- metodika SCRUM, CI, CD, Win&Mac&Linux friendly
+- obchodne sa im dari, predpoklad dalsieho rastu, dlhodoba stabilita
+- ferovy pristup k zamestnancom
+
+FORMA:
+- stabilne zamestnanie na dobu neurcitu
+- dobre ohodnotenie + motivacne odmeny
+- fulltime, onsite v Bratislave
+
+Required skills:
+POZIADAVKY:
+- min 2 roky skusenosti s vyvojom v Perle
+- pokrocile skusenosti s bash, SQL, RabbitMQ vitane
+- analyticke a komunikacne schopnosti
+- zodpovedny pristup, kvalita kodu, zameranie na vysledok
+
+Contact information at:
+http://jobs.perl.org/job/19126#contact

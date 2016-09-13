@@ -1,0 +1,111 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13569
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8667 invoked from network); 12 Jul 2013 18:03:05 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 12 Jul 2013 18:03:05 -0000
+Received: (qmail 6599 invoked by uid 225); 12 Jul 2013 18:03:05 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 6595 invoked by alias); 12 Jul 2013 18:03:04 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 12 Jul 2013 11:02:54 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 343FB2AFE1; Fri, 12 Jul 2013 11:02:51 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 12 Jul 2013 11:02:51 -0700
+Message-ID: <20130712180251.343FB2AFE1@x3.develooper.com>
+Subject: Senior Perl Developer (onsite), Southlake, Texas, United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17639
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 12, 2013
+
+Job title: Senior Perl Developer
+
+Company name: Travelocity
+
+Internal ID: 00OE5
+
+Location: Southlake, Texas, United States
+
+Terms of employment: Salaried employee
+
+Length of employment: indefinite
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Travelocity is the most popular travel service on the web. Global teams of
+employees work together to connect people with the world's greatest travel
+possibilities through airline reservations, hotel rooms, cruises, vacation
+packages, car rentals, last-minute deals, as well as other related products
+and services.
+
+We are looking for a Senior Perl who will be responsible for building,
+supporting and enhancing web services ( XML and REST ) for a
+high-transaction volume web application. The Senior Developer will work
+with indexing and database technologies building services that extract
+relevant content and inventory from backend systems so that they can be
+consumed by the UI layer for formatting and presentation to web consumers.
+Experience with travel industry technology and knowledge of industry
+terminology, such as GDS, consolidators, merchant inventory, and booking
+reservations its a plus.
+
+Travelocity offers an excellent growth environment and ample opportunity to
+work with organizations and software development teams in different cities
+and time zones.
+
+Accountabilities/Duties
+
+    Code to business/technical specifications using Perl
+    Must be able to work independently with little or no supervision at
+times and work in a managed team environment other times
+    Web application support and troubleshooting complex issues
+    Ability to adapt to changing priorities
+
+Required skills:
+EDUCATION: Bachelor degree or equivalent
+
+EXPERIENCE: Minimum 5 years of related experience; excellent communication
+skills, written and verbal; ability to handle multiple projects
+simultaneously.
+
+Skills and Experience:
+
+    At least 4 years experience with Perl ( Experience with Plack and/or
+Mojolicious preferred)
+    At least 4 years experience with relational databases (MySQL preferred)
+
+    At least 2 years with caching approaches and technologies (Memcached,
+CouchBase)
+    At least 2 years experience building XML, SOAP or REST based web
+services (SOA style services)
+    At least 2 years of experience working with Linux environment
+    Familiarity with webservers (Apache, NginX, Starman)
+    Familiarity with Non-SQL approaches and technologies
+    Experience with TDD and Continuous Integration is a nice to have
+    Experience working with external clients and cross-functional, matrixed
+organizations
+    Excellent communication skills, written and verbal
+    Ability to handle multiple issues simultaneously.
+
+Website for more information:
+http://sabre.hodesiq.com/jobdescription.aspx?JobID=3731991&search=n
+
+Contact information at:
+http://jobs.perl.org/job/17639#contact

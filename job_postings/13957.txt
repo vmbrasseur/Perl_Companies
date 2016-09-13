@@ -1,0 +1,117 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13957
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 12366 invoked from network); 9 Dec 2013 16:05:11 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 9 Dec 2013 16:05:11 -0000
+Received: (qmail 23460 invoked by uid 225); 9 Dec 2013 16:05:10 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 23455 invoked by alias); 9 Dec 2013 16:05:10 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 09 Dec 2013 08:05:08 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 495882AFC8; Mon,  9 Dec 2013 08:05:03 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 9 Dec 2013 08:05:03 -0800
+Message-ID: <20131209160504.495882AFC8@x3.develooper.com>
+Subject: Perl Developer (part onsite), London w12
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18164
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December  9, 2013
+
+Job title: Perl Developer
+
+Company name: RSM Topjobs
+
+Location: London w12
+
+Pay rate: 40000
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+The role is to join an Agile team embedded within the business; this is an
+opportunity to establish a close relationship with our product owners and
+users and make a real difference in a fast-paced retail environment.  
+
+  
+
+We’re progressive in our attitude, using most of the Modern::Perl stack to
+deliver value to our business every iteration, which means you will
+immediately be able to contribute and make a positive impact to our
+business. 
+
+  
+
+Our success means we are looking for smart, conciencous software developers
+looking for the friendly hard-working environment to take our platform and
+products forward. In return you will be exposed to the latest technologies,
+frameworks & methodologies in application development.	
+
+  
+
+The Role: 
+
+•Build high quality web applications 
+•Work closely with both technical and non-technical members in the team 
+•Develop a good understanding of business requirements and write technical
+specs 
+•Ensure that work is well-planned, estimated, implemented, tested, and
+documented 
+•Provide 3rd line support of production systems (in-hours) 
+•Identify and help plan improvements to systems 
+•Review other team member’s work 
+•Mentor junior members of the team 
+•Keep up with industry trends and experiment with new tools, technologies &
+development methods with a view to adopting best practices that fit the
+business
+
+Required skills:
+Experience of any of the following will be useful but training will be
+provided to the right candidate.
+• Able to develop web-based web-based user interfaces (HTML, CSS) & APIs
+(JSON & XML)
+• Knowledge of CPAN modules and frameworks, particularly: DBI, DBIx::Class,
+Catalyst, Template Toolkit and Moose
+• Experience building and testing high-availability applications
+• AJAX & Javascript, & JS frameworks (we use jQuery)
+• Agile development methodologies
+• Some knowledge of Java would be useful
+
+Desired skills:
+Understanding of:
+
+• Perl & Linux conventions
+• Message queues (ideally ActiveMQ)
+• Perl testing frameworks
+• Refactoring
+• SQL (ideally PostgreSQL)
+• Apache/FCGI & Plack
+
+We are looking for candidates that:
+
+• Are passionate about software development
+• Are good communicators with good writing skills
+• Have a healthy dose of common sense and initiative
+• Have a great sense of humour and attitude
+
+Contact information at:
+http://jobs.perl.org/job/18164#contact

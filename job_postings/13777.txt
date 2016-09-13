@@ -1,0 +1,110 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13777
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28694 invoked from network); 7 Oct 2013 15:01:31 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 7 Oct 2013 15:01:31 -0000
+Received: (qmail 21702 invoked by uid 225); 7 Oct 2013 15:01:30 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 21698 invoked by alias); 7 Oct 2013 15:01:30 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,T_FILL_THIS_FORM_SHORT
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 07 Oct 2013 08:01:23 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 02C382AFE0; Mon,  7 Oct 2013 08:01:19 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 7 Oct 2013 08:01:19 -0700
+Message-ID: <20131007150120.02C382AFE0@x3.develooper.com>
+Subject: Admin site front end with Perl back end to work with Jaspersoft
+ server (telecommute), Ca
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17912
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October  7, 2013
+
+Job title:
+Admin site front end with Perl back end to work with Jaspersoft server
+
+Company name: Silverfox
+
+Location: Ca
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+I had a trusted perl developer who I have been working with for some years
+retire so Im looking for great perl developer who is looking to make some
+money on the side or add a new customer to their list of clients. I need
+about 10-15 hours of perl work a month.  Here is my current project that Im
+looking to find someone to help me with:
+
+So I have jaspersoft setup on a Linux box and Id like to be able to have
+our customer’s daily product pricing data (all flat files) live inside
+jaspersoft in their own versions of the jaspersoft. More on jaspersoft here
+(http://www.jaspersoft.com/) I’m looking to automate some of the setup with
+an admin site.	The admin site can be built in php/html/wordpress but back
+end to perform actions should be written in Perl. The admin site would
+allow an admin to do the following:
+
+  
+1.	The ability to log into the admin site. So there would be a
+username and password prompt. Once inside I would have the ability to
+manage all the accounts. So there would be a 3 web pages (account creation,
+list accounts, edit account page.) these would serve to enter account
+details and modify them. 
+
+2.	 Account creation page. This page would have the ability to create
+new accounts. So there would be a prompt for account name, prompt for
+password, prompt for email address of user, email and passwords for 20
+other users, prompt for location of flat files, time when flat files should
+be imported into MYSQL and finally a create account button. In the
+background when the create account button is clicked the following happens
+via Perl:
+
+a.	I think it would create a stand-alone MYSQL db for each user and
+also stand alone version of jaspersoft. That way nobody’s data gets mixed
+with anybody else’s data.
+b.	So I would also like the ability to automate an import from the
+data from the flat files pulled into the customers MYSQL db. Right now we
+have alot of flat csv files, I would like these csv files to be added to
+the MySQL db for each of the accounts. So upon creating an account a cron
+job would also be generated that would at the time set up on the customers
+account to each day import todays file into MySQL and date stamp the import
+inside MYSQL. These would not be too hard to setup. * MYSQL supports etl
+directly e.g:
+LOAD DATA INFILE 'path/to/file.csv' INTO TABLE your_table FIELDS TERMINATED
+BY ',' LINES TERMINATED BY '\n' SET id=null;
+
+3.	The list accounts page would just list all the accounts by account
+name. Clicking on the account name would bring you to the edit account
+page. 
+
+4.	The edit account page would give you the ability to edit (username,
+password, email address) of the users and also delete accounts all
+together. Deleting an account would remove the database as well as their
+instance of jaspersoft from the box. 
+
+  If you could email me back if your interested in this project with a bid.
+ I would like to start this project this week, if possible. Thanks for your
+time reading this.
+
+Desired skills: Jaspersoft experience
+
+Contact information at:
+http://jobs.perl.org/job/17912#contact

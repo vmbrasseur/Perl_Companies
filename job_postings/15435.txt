@@ -1,0 +1,106 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15435
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 20531 invoked from network); 2 Mar 2016 05:18:30 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 2 Mar 2016 05:18:30 -0000
+Received: (qmail 24539 invoked by uid 225); 2 Mar 2016 05:18:30 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 24534 invoked by alias); 2 Mar 2016 05:18:30 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 01 Mar 2016 21:18:28 -0800
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id C53D1772; Wed,  2 Mar 2016 05:18:24 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 2 Mar 2016 05:18:24 +0000
+Message-ID: <20160302051824.C53D1772@web1.develooper.com>
+Subject: Paleobiology Database Programmer (part onsite), Fairfax, VA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20102
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March  2, 2016
+
+Job title: Paleobiology Database Programmer
+
+Company name: George Mason University
+
+Location: Fairfax, VA
+
+Pay rate: Payband 5
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+Paleobiology Database Programmer
+
+
+The George Mason University Department
+of Atmospheric, Oceanic and Earth Sciences (AOES) in the College of Science
+invites well-qualified applicants to apply for a full-time Paleobiology
+Database Programmer position. This position is fully funded by sponsored
+program funding and is expected to continue for two years, subject to
+satisfactory performance and continued funding. The position reports to the
+Principal Investigator of the sponsored project, the objective of which is
+to improve the accessibility, interoperability, sustainability and
+governance of paleobiological data and cyberinfrastructure resources. 
+
+
+From improving numerical model predictions of next year’s atmospheric
+temperature to explaining geological strata laid down in previous eras,
+from monitoring water transport through the atmosphere to modeling water
+movement at the bottom of the ocean, scientists and students in AOES are
+working to better understand our planet in myriad ways. AOES activities
+include research and a doctoral program in Climate Dynamics; research and
+undergraduate degrees in Atmospheric Science, Earth Science, and Geology;
+and undergraduate minors in Atmospheric Science, Earth Science, Ocean and
+Estuarine Science, and Paleontology. 
+
+
+Responsibilities: 
+The primary
+responsibility of the Paleobiology Database Programmer will be programming
+some of the basic structure of the Paleobiology Database (PBDB); creation
+of an Application Programming Interface (API) that will combine data from
+the PBDB and the Neotoma database in a logical and consistent fashion; and
+some processing of scientific data for inclusion in the PBDB. 
+
+
+The PBDB
+programming will be in Perl. Additional HTML, JavaScript, CSS, and R
+programming will also be required. Additional duties will include updating
+existing Web sites, and creation of new ones based on current Web site
+design modalities with provided content and specified functionality.
+
+Desired skills:
+Required Qualifications: 
+A bachelor’s of science, or equivalent life/work
+experience, in computer science or a related field is required. Knowledge
+and experience in the Perl programming language, along with HTML,
+JavaScript, CSS, and R programming proficiency are also required. 
+
+
+Preferred Qualifications: 
+A master’s of science or equivalent experience
+is preferred.
+
+Website for more information: https://jobs.gmu.edu/postings/36379
+
+Contact information at:
+http://jobs.perl.org/job/20102#contact

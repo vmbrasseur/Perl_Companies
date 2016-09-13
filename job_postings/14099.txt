@@ -1,0 +1,84 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14099
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 22455 invoked from network); 24 Jan 2014 04:53:43 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 24 Jan 2014 04:53:43 -0000
+Received: (qmail 13573 invoked by uid 225); 24 Jan 2014 04:53:43 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 13569 invoked by alias); 24 Jan 2014 04:53:43 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 23 Jan 2014 20:53:38 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id DA8A442936; Thu, 23 Jan 2014 20:53:34 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 23 Jan 2014 20:53:34 -0800
+Message-ID: <20140124045334.DA8A442936@x3.develooper.com>
+Subject: MongoDB Perl Driver Engineer (onsite), New York, NY or Palo Alto, CA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18330
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 23, 2014
+
+Job title: MongoDB Perl Driver Engineer
+
+Company name: MongoDB, Inc.
+
+Location: New York, NY or Palo Alto, CA
+
+Pay rate: Negotiable
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+You will be the voice of Perl, on both the MongoDB internal team and within
+the broader MongoDB community. You will be responsible for supporting
+MongoDB in the Perl ecosystem through driver development, integration with
+open source tools, community support, and developer.
+
+Responsibilities 
+
+* Develop and support the Perl driver for MongoDB
+* Create and contribute to open source applications and libraries
+* Advocate the adoption of MongoDB to the broader Perl developer community
+* Evangelize our developer products in person and online by presenting at
+conferences, blogging, writing technical tutorials, and other similar
+activities
+
+Required skills:
+* Strong experience programming in and a passion for Perl
+* Experience writing Perl C extensions using XS or perlguts
+* Active participant and contributor to open source
+* Considerable success as a software developer, architect, or consultant
+working with web or data processing technologies
+
+Desired skills:
+* Experience with MongoDB and the Perl driver a big plus
+* Experience publishing to CPAN a big plus
+* Experience with the Moose object system
+* Some experience with other dynamic typed programming languages like Ruby
+or Python
+* Experience blogging and writing technical articles on Perl
+
+Website for more information:
+https://www.mongodb.com/careers/positions/perl-driver-engineer
+
+Contact information at:
+http://jobs.perl.org/job/18330#contact

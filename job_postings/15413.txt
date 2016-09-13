@@ -1,0 +1,128 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15413
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 15066 invoked from network); 8 Feb 2016 19:06:37 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 8 Feb 2016 19:06:37 -0000
+Received: (qmail 28635 invoked by uid 225); 8 Feb 2016 19:06:37 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 28631 invoked by alias); 8 Feb 2016 19:06:37 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 08 Feb 2016 11:06:32 -0800
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 21E6F52D; Mon,  8 Feb 2016 19:06:29 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 8 Feb 2016 19:06:29 +0000
+Message-ID: <20160208190629.21E6F52D@web1.develooper.com>
+Subject: Backend Perl Developer (F/M) (onsite), Berlin, Germany
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20072
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February  8, 2016
+
+Job title: Backend Perl Developer (F/M)
+
+Company name: travel audience GmbH
+
+Location: Berlin, Germany
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+travel audience is the first Demand Side Platform (DSP) worldwide specially
+developed for the travel industry. The company disposes of a high-quality
+premium publisher network with wide coverage as well as direct access to
+real time bidding platforms. travel audience offers an online performance
+marketing platform to all providers of travel products of any kind.
+
+ 
+
+travel audience is a wholly owned subsidiary of Amadeus – a leading
+provider of advanced technology solutions for the global travel industry.
+
+
+Summary of the role
+
+Join our fast-paced team of international experts in
+Berlin and support our ambitious expansion plans as Backend Perl Developer
+(F/M)
+
+
+
+Main responsibilities
+
+    Planning, designing, developing,
+testing, deploying and operating new systems, software components and
+features (mostly in Perl).
+    Maintaining and operating existing systems.
+
+   Working with various relational and NoSQL databases (PostgreSQL, Redis,
+MongoDB, InfoBright, Cloudera Impala...), designing schemas, performing DBA
+tasks.
+    Working with an ever-growing amount of data, finding the best
+ways to store, analyse and present it to its users.
+    Working closely
+with the Business Intelligence team to plan and implement specific
+requirements.
+    Participating in planning the software architecture of
+new systems spanning multiple teams and platforms.
+
+ 
+Why join us?
+
+As part
+of the travel audience team you work in a highly motivated environment with
+flat hierarchies and short decision-making processes. You have a lot of
+freedom to contribute your own ideas and to implement them. We offer you:
+
+
+
+
+    “State-of-the-art” technologies
+    Attractive further training
+opportunities
+    An open, communicative and dynamic start-up culture
+   
+Free access to the yoga and back therapy training courses at the nearby gym
+    An attractive salary
+
+Desired skills:
+Requirements:
+
+
+    Solid knowledge of: Perl, DBI, SQL (preferably
+PostgreSQL), database design principles, Linux (as a user and as a
+developer running services on Linux), version control, preferably Git.
+   
+Nice to have: More in-depth Perl knowledge and experience, Moose,
+PostgreSQL, Redis, Cloudera Impala, Hadoop, system administration and/or
+DevOps experience, distributed systems, big data.
+    Soft-skills and
+personality: teamplayer, being able to work independently, organizing your
+work and communicating with other teams, a healthy level of perfectionism,
+being a quick learner and willing to learn, proactive attitude, excellent
+analysis and problem-solving abilities with a pragmatic approach, good
+understanding of abstractions, excellent verbal and written communication
+skills in English.
+
+Website for more information: http://www.travelaudience.com
+
+Contact information at:
+http://jobs.perl.org/job/20072#contact

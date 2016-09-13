@@ -1,0 +1,78 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13598
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 11052 invoked from network); 24 Jul 2013 17:54:31 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 24 Jul 2013 17:54:31 -0000
+Received: (qmail 29973 invoked by uid 225); 24 Jul 2013 17:54:31 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 29969 invoked by alias); 24 Jul 2013 17:54:31 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 24 Jul 2013 10:54:24 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id D54432AFDF; Wed, 24 Jul 2013 10:54:20 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 24 Jul 2013 10:54:20 -0700
+Message-ID: <20130724175420.D54432AFDF@x3.develooper.com>
+Subject: Perl Developer (onsite), Burbank, CA, United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17681
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 24, 2013
+
+Job title: Perl Developer
+
+Company name: Solfo/Yellowbot
+
+Location: Burbank, CA, United States
+
+Pay rate: TBD
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Solfo/Yellowbot is looking for a full-time, on-site Perl developer to join
+our team.  We are located in Burbank, California and expect that you will
+be hanging out with us in our offices each day!
+
+You will be working with other experienced Perl developers to build
+software to support our local search products.	We are looking for
+self-motivated people who can work independently but also can collaborate
+on design decisions for new systems we develop.  You MUST be willing to
+participate in code-review of your own work and others.
+
+Required skills:
+Solid knowledge of Perl data structures and references
+Revision control (Git, Subversion - we use Github Enterprise)
+Basic HTML knowledge
+OO Perl, Moose
+Linux shell experience
+Excellent written communication skills
+
+Desired skills:
+XPath
+basic SQL
+experience using bug-tracking system (like Bugzilla)
+open source projects/contributions
+
+Website for more information: http://www.solfo.com
+
+Contact information at:
+http://jobs.perl.org/job/17681#contact

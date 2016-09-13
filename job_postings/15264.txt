@@ -1,0 +1,95 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15264
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 6118 invoked from network); 17 Oct 2015 22:06:54 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 17 Oct 2015 22:06:54 -0000
+Received: (qmail 1080 invoked by uid 225); 17 Oct 2015 22:06:52 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 1076 invoked by alias); 17 Oct 2015 22:06:51 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 17 Oct 2015 15:06:48 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id A89982D3; Sat, 17 Oct 2015 22:06:45 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 17 Oct 2015 22:06:45 +0000
+Message-ID: <20151017220645.A89982D3@web1.develooper.com>
+Subject: Perl Developer (onsite), Charlotte, NC
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19870
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 17, 2015
+
+Job title: Perl Developer
+
+Company name: Empowered Benefits
+
+Location: Charlotte, NC
+
+Pay rate: Negotiable
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are currently recruiting for an experienced Perl developer.	In your
+role as a Perl developer, you will be responsible for the design,
+development, testing, and maintenance of an application that will
+import/export data files of different formats into and out of a SAAS
+application. This position is coding intensive, and will require the
+ability to coordinate well with a team as well as show personal initiative
+and take ownership of individual components of the development
+
+Desired skills:
+Requirements:
+• 3 or more years of experience in real-world Perl
+development
+• 2 or more years experience with Object-oriented Perl
+• 2 or
+more years MySQL experience
+• 2 or more years systems administration in a
+Unix environment
+• Strong communication skills – verbal and written
+•
+Ability to set high-level architectural standards and lead other team
+members in implementing those standards
+• Set best practices for the
+software development process: coding standards, testing, change management,
+build automation, release planning and deployment.
+• Advocate for new
+technologies and techniques
+
+Plus:
+• Object-oriented Perl
+• Rose::DB, Moose
+
+• DBI interface
+• MySQL
+• Linux/Unix development environment
+• Subversion
+(or other version control systems)
+• Test-driven development
+• Agile
+methodologies
+• Perl Best Practices
+
+Website for more information: https://www.empoweredbenefits.com/
+
+Contact information at:
+http://jobs.perl.org/job/19870#contact

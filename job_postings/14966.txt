@@ -1,0 +1,119 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14966
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 26251 invoked from network); 6 Mar 2015 19:53:43 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 6 Mar 2015 19:53:43 -0000
+Received: (qmail 24011 invoked by uid 225); 6 Mar 2015 19:53:43 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 24007 invoked by alias); 6 Mar 2015 19:53:43 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 06 Mar 2015 11:53:41 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 2C9704294C; Fri,  6 Mar 2015 11:53:37 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 6 Mar 2015 11:53:37 -0800
+Message-ID: <20150306195338.2C9704294C@x3.develooper.com>
+Subject: Perl developer (onsite), London, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19428
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March  6, 2015
+
+Job title: Perl developer
+
+Company name: Net-A-Porter
+
+Location: London, UK
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We have an exciting opportunity for an experienced Perl Developer to join
+us.
+
+Joining an Agile team, this is an opportunity to establish a close
+relationship with our product owners and users and make a real difference
+in a fast-paced online retail environment.
+
+We are progressive in our attitude, using the modern Perl stack to deliver
+value to our business every release, meaning that you will immediately be
+able to contribute and make a positive impact.
+
+To build on our success, we are looking for smart, conscientious software
+developers who want to work in a friendly, hard-working environment and
+take our platform and products forward. In return you will be exposed to
+the latest technologies, frameworks & methodologies in application
+development.
+
+The Role:
+
+* Build high quality applications and HTTP based services
+* Work closely with both technical and non-technical members in the team
+* Develop a good understanding of business requirements and write technical
+specifications
+* Ensure that work is well-planned, estimated, implemented, tested, and
+documented
+* Identify and help plan improvements to systems
+* Participate in code review and mentoring processes
+* Keep up with industry trends and experiment with new tools, technologies
+& development methods with a view to adopting best practices that fit the
+business
+*  Monitor and support production systems
+
+We are looking for candidates that:
+* Are passionate about software development
+* Are good communicators with good writing skills
+* Have a healthy dose of common sense and initiative
+* Have a great sense of humour and attitude
+
+Required skills:
+* Server-side development in Perl
+* SQL/RDBMS (we use PostgreSQL)
+* Version control systems (we use git)
+* Able to investigate & trouble-shoot technical issues
+* Able to rapidly and effectively context-switch
+* Linux OS familiarity
+
+Desired skills:
+Experience of any of the following will be useful but training will be
+provided to the right candidate.
+* Able to develop web-based user interfaces (HTML, CSS) & APIs (JSON & XML)
+
+* Knowledge of CPAN modules and frameworks, particularly: DBI, DBIx::Class,
+Catalyst, Plack, Template Toolkit and Moose
+* AJAX, Javascript & JS frameworks (we use jQuery)
+* Experience building and testing high-availability applications
+* Agile development methodologies and practises (Scrum, Kanban, TDD)
+* Developing remote services with Perl and working with SOA
+* Implementing continuous delivery (ideally using Jenkins and OpenStack)
+* One or more JVM based languages and/or Ruby (specifically using the
+Cucumber test framework)
+
+Understanding of:
+* Perl & Linux conventions
+* Message queues (we use ActiveMQ)
+* Perl testing frameworks
+* Refactoring
+
+Website for more information: http://www.net-a-porter.com/
+
+Contact information at:
+http://jobs.perl.org/job/19428#contact

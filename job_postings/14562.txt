@@ -1,0 +1,78 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14562
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 24315 invoked from network); 25 Jul 2014 23:42:01 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 25 Jul 2014 23:42:01 -0000
+Received: (qmail 26456 invoked by uid 225); 25 Jul 2014 23:42:01 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 26452 invoked by alias); 25 Jul 2014 23:42:01 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 25 Jul 2014 16:41:58 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id ACB1D42B27; Fri, 25 Jul 2014 16:41:55 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 25 Jul 2014 16:41:55 -0700
+Message-ID: <20140725234155.ACB1D42B27@x3.develooper.com>
+Subject: Senior Software Developer (onsite), Lanham , MD
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18826
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 25, 2014
+
+Job title: Senior Software Developer
+
+Company name: ADNET Systems INC
+
+Location: Lanham , MD
+
+Terms of employment: Salaried employee
+
+Length of employment: indefinite
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Provide systems and software engineering support for the development
+(primarily in Perl) of the OMI SIPS (Ozone Monitoring Instrument, Science
+Investigation Processing System) and ACPS (Atmospheric Community Processing
+System). The developer will provide tools and web interfaces to improve the
+system and delivery of scientific software and exchange of data.
+
+Required skills:
+• A minimum of 3+ years’ experience in Perl Development with a working
+knowledge of the following web development stack: HTML, CSS, JavaScript,
+Apache
+• Strong linux programming skills
+• Proficient with building/managing relational databases (PostgresSQL)
+• Knowledge of web security and best practices
+• Ability to work closely with other members of the development team and
+use current best practices such as configuration management, problem
+tracking, peer reviews
+• Excellent written and verbal skills
+
+Desired skills:
+• Familiarity with Mojolicous
+• CVS, Subversion , or Git configuration management experience.
+• Fortran programming experience.
+
+Website for more information:
+http://sesda3.com/careers/es139-senior-software-developer
+
+Contact information at:
+http://jobs.perl.org/job/18826#contact

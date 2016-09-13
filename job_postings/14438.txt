@@ -1,0 +1,89 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14438
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 25447 invoked from network); 30 May 2014 04:38:15 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 30 May 2014 04:38:15 -0000
+Received: (qmail 2350 invoked by uid 225); 30 May 2014 04:38:15 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 2346 invoked by alias); 30 May 2014 04:38:14 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 29 May 2014 21:38:12 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id C91DB4294A; Thu, 29 May 2014 21:38:09 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 29 May 2014 21:38:09 -0700
+Message-ID: <20140530043809.C91DB4294A@x3.develooper.com>
+Subject: Perl Programmer (onsite), Greenwich, CT, USA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/14088
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 29, 2014
+
+Job title: Perl Programmer
+
+Company name: Interactive Brokers
+
+Internal ID: MW-OOP-CT
+
+Location: Greenwich, CT, USA
+
+Pay rate: negotiable
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are looking for someone who loves to program in Perl and is great at
+working with abstractions.
+The position is for a programmer for a brokerage and trading firm at our
+headquarters in Greenwich, CT close to the train and located 45 minutes
+away from New York City. The candidate will have 1-5 years experience with
+Object Oriented Perl as well as strong software design skills.
+
+The ideal candidate should have experience with writing clean modular code
+that is easy to understand, test, and maintain.
+
+Required skills:
+* Object Oriented Programming in Perl 5.8.x of Perl 5.14.x
+* Experience using modules, writing modules, and testing modules using the
+object oriented features of perl as well as the functional features
+* experience with version control
+* experience with DBI module.
+* experience with SQL
+* experience with Linux
+* Basic knowledge of desktop applications
+* Degree in Computer Science/Philosophy/Computer  Engineering/Software
+Engineering or Information Technology
+
+Desired skills:
+* Familiarity web based tools
+* Familiarity with xml
+* Familiarity with Test::More
+* Familiarity with POD documentation for modules is a plus
+* Familiarity with Mojolicious, Dancer, or Catalyst is a plus
+* Familiarity with JavaScript is a plus
+* Ability to read some JAVA, C, or C++ is a plus
+
+Website for more information:
+https://careers-interactivebrokers.icims.com/jobs/1114/oo-perl-programmer-f
+or-compliance-department/job
+
+Contact information at:
+http://jobs.perl.org/job/14088#contact

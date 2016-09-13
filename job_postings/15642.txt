@@ -1,0 +1,89 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15642
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 4261 invoked from network); 10 Aug 2016 02:41:00 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 10 Aug 2016 02:41:00 -0000
+Received: (qmail 26292 invoked by uid 225); 10 Aug 2016 02:40:59 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 26284 invoked by alias); 10 Aug 2016 02:40:59 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 09 Aug 2016 19:40:52 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 43E4C71D; Wed, 10 Aug 2016 02:40:49 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 10 Aug 2016 02:40:49 +0000
+Message-ID: <20160810024049.43E4C71D@web1.develooper.com>
+Subject: (Senior) Perl Developers (onsite), Amsterdam, Netherlands
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20362
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 10, 2016
+
+Job title: (Senior) Perl Developers
+
+Company name: Genscape
+
+Location: Amsterdam, Netherlands
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+In the context of strong international growth, Genscape is seeking two
+(Senior) Perl Developers to expand our power analysis platform development
+team and tackle the challenges of feature set expansion, scalability,
+speed, data management, user management. Based in Amsterdam, you’ll apply
+and develop your deep skillset in Perl within a focused and entrepreneurial
+environment to keep the platform at the cutting edge.
+
+Genscape's platform
+enables European electricity market participants (power traders, power
+station owners, consultants and regulators) to develop scenarios of short
+and long term market development based on supply/demand fundamentals. This
+B2B web-based platform has been developed using open-source components,
+based on Linux servers and with Perl as the dominant server-side technology
+and HTML/Javascript as the front-end. Our product vision is centered around
+a superior user experience based on execution speed, interface usability,
+quality, and full integration between data and analytics. The platform was
+established in 2007 and has rapidly taken a leading market position in
+Europe.
+
+Desired skills:
+- 2+ years’ experience in a Perl software development role, 5+ years for a
+senior role;
+- A master's degree in an exact science or engineering field;
+- A good mathematical background;
+- Experience working with Modern Perl,
+Moo, XS, PSGI/Plack;
+- Experience with database architecture and
+development;
+- Development practices: Unit testing, Refactoring,
+Test-Driven development;
+- You have used version control tools: Git;
+-
+Familiarity with Agile development approach;
+- Unix experience.
+
+Website for more information:
+http://www.genscape.com/solutions/power/europe-market-forecasting/epsi-euro
+pe-fundamental-scenario-analysis-platform
+
+Contact information at:
+http://jobs.perl.org/job/20362#contact

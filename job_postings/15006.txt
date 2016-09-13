@@ -1,0 +1,144 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15006
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 25916 invoked from network); 31 Mar 2015 00:02:15 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 31 Mar 2015 00:02:15 -0000
+Received: (qmail 22863 invoked by uid 225); 31 Mar 2015 00:02:15 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 22859 invoked by alias); 31 Mar 2015 00:02:14 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 30 Mar 2015 17:02:11 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 2E6E442AA9; Mon, 30 Mar 2015 17:02:08 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 30 Mar 2015 17:02:08 -0700
+Message-ID: <20150331000208.2E6E442AA9@x3.develooper.com>
+Subject: Perl Application Developer (onsite), Fairfax, VA, United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19476
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 30, 2015
+
+Job title: Perl Application Developer
+
+Company name: ThinkGeek
+
+Location: Fairfax, VA, United States
+
+Pay rate: Commensurate with experience (USD)
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are a team of highly collaborative people, that are fully invested in
+the work we do and in our company. We care deeply about the quality of our
+work and the environment we do it in.  We value both learning and teaching,
+as we explore new technologies to expand our custom applications.  We are
+happy to teach Perl to someone who has intermediate to expert level
+experience in another scripting language.
+
+You are someone who enjoys a team environment filled with intentional
+collaboration.	You enjoy the challenge of diving into legacy code to adapt
+and extend, bending it to your will. You are excited about teaching and
+mentoring your more junior teammates. You are willing and eager to learn.
+
+Desired work authorization: US Citizen, permanent residents.
+
+This is a full time position in our Fairfax, VA office. While we offer
+flexible scheduling options we have found that there is no substitute for
+face to face communication
+
+Main job responsibilities:
+
+* Develop web & command line applications, as well as various third party
+integrations that are designed with scalability and secure coding (OWASP)
+practices in mind.
+* Working with Business Owners in various departments, in conjunction with
+the Scrum Product Owner, to deliver high value products using an iterative
+approach.
+* Develop tests, predict areas of risk, and coordinate with our QA staff to
+deliver solid, dependable code.
+
+
+ThinkGeek Perks:
+
+Join a close-knit community of curious, passionate, enthusiastic people,
+obsessed with creating and sharing the most unique and fun product
+experiences with the world. ThinkGeek offers a competitive benefits package
+to all full-time employees: 
+
+* Comprehensive benefits plans
+* Generous Paid Time Off Policy
+* 401(k) Plan with Company Match
+* Employee Stock Purchase Plan
+* Gym Membership Subsidy
+* Dog-friendly Office
+* ThinkGeek Employee Discount
+
+About ThinkGeek
+
+Since 1999, ThinkGeek has been creating a world where everyone can express
+and celebrate their inner geek, turn their interests into passions, and
+connect with one another. We are obsessed with creating and sharing unique
+and authentic experiences that stimulate our fans’ imaginations and fuel
+their geek core. We believe there is geek in everyone and invite you to…
+Join in. Geek out.
+
+Required skills:
+* 3-6 years professional programming experience with Perl 5 or similar
+scripting language (Ruby, Python, PHP)
+* 4+ years professional experience working with relational databases (SQL).
+
+* General experience with MVC patterns, ORMs, and Web Services
+(client/servers).
+* Ability to comply with mandatory fun.
+* Willingness to train and mentor junior developers.
+* Linux or UNIX command-line experience.
+* Ability to break down business needs into small, well-defined, actionable
+projects.
+* Skilled in juggling multiple, shifting priorities during our busy
+ecommerce season, when we shift from Scrum to Kanban.
+* Excellent English-language communication skills both written and oral.
+* Experience with judging, but not participation in, the Obfuscated Perl
+Contest.
+
+Desired skills:
+* Intermediate/Expert level experience with at least 1 language other than
+Perl.
+* Experience with Agile software development practices (e.g. Scrum,
+Lean/Kanban)
+* Experience with developing (and troubleshooting) Javascript (jQuery
+specifically) for DOM manipulation and AJAX interactions.
+* Experience with RabbitMQ or other message queueing systems.
+* Experience with Modern Perl, Perl Best Practices and PerlCritic.
+* Experience with Perl Template Toolkit.
+* HTML and CSS skills to create templates for web.
+* Experience developing automated functional and performance testing
+suites.
+* E-commerce experience.
+* Published and/or contributed to CPAN, GitHub, Google Code, or similar
+repositories.
+
+Website for more information:
+http://www.thinkgeek.com/jobs#PerlApplicationDeveloper
+
+Contact information at:
+http://jobs.perl.org/job/19476#contact

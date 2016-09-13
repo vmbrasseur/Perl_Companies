@@ -1,0 +1,122 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13483
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28279 invoked from network); 15 Jun 2013 05:42:21 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 15 Jun 2013 05:42:21 -0000
+Received: (qmail 26930 invoked by uid 225); 15 Jun 2013 05:42:21 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 26926 invoked by alias); 15 Jun 2013 05:42:21 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 14 Jun 2013 22:42:15 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 01BDC2AFE1; Fri, 14 Jun 2013 22:42:11 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 14 Jun 2013 22:42:11 -0700
+Message-ID: <20130615054212.01BDC2AFE1@x3.develooper.com>
+Subject: Perl Developer - Net-A-Porter Group (onsite), London, United Kingdom
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17513
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 14, 2013
+
+Job title: Perl Developer - Net-A-Porter Group
+
+Company name: Net-A-Porter Group
+
+Location: London, United Kingdom
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Perl Developer
+	
+What we have to offer is unique; you will be joining a truly Agile team
+embedded within the business; this is an opportunity to establish a close
+relationship with our product owners and users and make a real difference
+in a fast-paced pure-play retail environment. 
+
+Our leading edge infrastructure allows us to deliver value to our business
+every iteration, which means you will immediately be able to contribute and
+make an positive impact to our business.
+Our success means we are looking for the best software developers to take
+our platform and product forward. In return you will be exposed to the
+latest technologies, frameworks & methodologies in application development.
+
+
+
+The Role:
+Work closely with other team members and the Business Analysis, Project
+Management, QA and Technical Operations teams
+Develop a good understanding of business requirements
+Write technical specs
+Ensure that work is well-planned, estimated, implemented, tested, and
+documented
+Build high quality web applications
+Provide 3rd line support of production systems (in-hours)
+Identify and help plan improvements to systems
+Review other team member’s work
+Mentor junior members of the team
+Keep up with industry trends and experiment with new tools, technologies &
+development methods with a view to adopting best practices that fit the
+business
+
+Required skills:
+Required Skills & Experience: 
+Able to investigate & trouble-shoot technical issues
+Able to rapidly and effectively context-switch
+Operating Systems: Linux & Windows
+Server-side development in Perl
+SQL/RDBMS 
+HTML, CSS & Javascript
+Version control systems
+
+Desired skills:
+Desirable Skills & Experience: 
+Experience of any of the following will be useful but training will be
+provided to the right candidate.
+Able to build high-quality web applications
+Able to develop web-based web-based user interfaces (HTML, CSS) & APIs
+(JSON & XML)
+Knowledge of CPAN modules and frameworks, particularly:
+DBI, DBIx::Class, Catalyst, Template Toolkit and Moose
+Experience building and testing high-availability applications
+Understanding of:
+Perl & Linux conventions
+Message queues (ideally ActiveMQ)
+Perl testing frameworks
+Refactoring
+SQL (ideally Postgres / MySQL)
+Version Control Systems (SVN, SVK, P4, VSS, Git etc)
+Apache/FCGI & mod_perl
+Exposure to:
+AJAX & Javascript, & JS frameworks (jQuery, YUI)
+Agile development methodologies
+Some knowledge of Java would be useful
+ We are looking for candidates that:
+Are passionate about software development
+Are good communicators with good writing skills
+Have a healthy dose of common sense and initiative
+Have a great sense of humour and attitude
+
+Website for more information: http://goo.gl/iGPIr
+
+Contact information at:
+http://jobs.perl.org/job/17513#contact

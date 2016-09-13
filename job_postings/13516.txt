@@ -1,0 +1,77 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13516
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8429 invoked from network); 29 Jun 2013 07:34:27 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 29 Jun 2013 07:34:27 -0000
+Received: (qmail 28481 invoked by uid 225); 29 Jun 2013 07:34:27 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 28477 invoked by alias); 29 Jun 2013 07:34:27 -0000
+X-Spam-Status: No, hits=-1.5 required=8.0
+	tests=ALL_TRUSTED,BAYES_05,LOTS_OF_MONEY
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 29 Jun 2013 00:34:24 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 61E1E2AFE0; Sat, 29 Jun 2013 00:34:21 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 29 Jun 2013 00:34:21 -0700
+Message-ID: <20130629073421.61E1E2AFE0@x3.develooper.com>
+Subject: Senior Developer at Broadbean (part onsite), Canary Wharf, London,
+ United Kingdom
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17563
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 29, 2013
+
+Job title: Senior Developer at Broadbean
+
+Company name: Broadbean Technology Ltd
+
+Location: Canary Wharf, London, United Kingdom
+
+Pay rate: up to £60,000, depending on role
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+*** YOU MUST BE ELIGIBLE TO WORK IN THE UK ALREADY *** 
+*** PLEASE, NO RECRUITERS ***
+
+We're looking for various Senior Perl developers in our lovely Canary Wharf
+office - whether you want to work in a more architectural role, or lead a
+team, we're looking for great people. Guideline salary is on the higher end
+of £40-£60k, and post-probation we offer (non-contractually) flexible
+working and 50% telecommuting.
+
+We're a small company (90 people in the UK), owned by a very big company,
+and a great place to work. We've got a development team of 30 and are fully
+committed to Perl, clearing our technical debt, and doing things the right
+way moving forward...
+
+Required skills:
+You'll need to show proof of strong and "Modern" Perl - at least
+familiarity with various testing modules, exposure to Moose would be
+useful. The kind of person we're looking for will be able to explain in
+detail how OO works in Perl, and take a guess at how Moose might be
+implemented around that, if they don't already know.
+
+Desired skills:
+Exposure to continuous delivery and Agile SCRUM a plus.
+
+Contact information at:
+http://jobs.perl.org/job/17563#contact

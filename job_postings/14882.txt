@@ -1,0 +1,69 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14882
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 18966 invoked from network); 23 Jan 2015 22:02:35 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 23 Jan 2015 22:02:35 -0000
+Received: (qmail 13243 invoked by uid 225); 23 Jan 2015 22:02:35 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 13239 invoked by alias); 23 Jan 2015 22:02:35 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 23 Jan 2015 14:02:32 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 4920C42AC7; Fri, 23 Jan 2015 14:02:29 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 23 Jan 2015 14:02:29 -0800
+Message-ID: <20150123220229.4920C42AC7@x3.develooper.com>
+Subject: Senior Perl Developer (onsite), Moscow, Russia
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19196
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 22, 2015
+
+Job title: Senior Perl Developer
+
+Company name: IPONWEB
+
+Location: Moscow, Russia
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+- Working on complex high load projects deployed across the world;
+- Development of business logic in form of Lua programs for in-house
+Internet advertisement platform;
+- Functional testing of implemented business logic using Perl test
+framework;
+- Support of offline backend data processing programs in Perl;
+- Coordination with other teams on integration issues;
+- Direct discussions on implementation details with company clients;
+- Analysis of system behavior in production.
+
+Required skills:
+- Experience in Perl from 2 years;
+- Highload experience;
+- Ability to work with complicates business logic;
+- Readiness to study;
+- Good knowledge of English.
+
+Website for more information: http://www.iponweb.com/
+
+Contact information at:
+http://jobs.perl.org/job/19196#contact

@@ -1,0 +1,94 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15542
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 7582 invoked from network); 25 May 2016 08:04:24 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 25 May 2016 08:04:24 -0000
+Received: (qmail 14811 invoked by uid 225); 25 May 2016 08:04:24 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 14807 invoked by alias); 25 May 2016 08:04:24 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 25 May 2016 01:04:15 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id D5AFC192; Wed, 25 May 2016 08:04:11 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 25 May 2016 08:04:11 +0000
+Message-ID: <20160525080411.D5AFC192@web1.develooper.com>
+Subject: Senior Perl Developer (onsite), Amsterdam, Netherlands
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20224
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 17, 2016
+
+Job title: Senior Perl Developer
+
+Company name: Genscape
+
+Location: Amsterdam, Netherlands
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Genscape is seeking a Senior Perl Developer to help us with our EPSI
+Platform.  The EPSI platform is dedicated to enabling European power market
+participants to develop insights based on power market supply/demand
+fundamentals. This takes the form of a web-based platform providing easy
+access to powerful market scenarios and key fundamental market data as well
+as power system data. Our vision is centered around usability, speed,
+quality, and full integration. The EPSI platform was established in 2007
+and has rapidly taken a leading market position. In 2014, EPSI became a
+Genscape product.
+
+The key objective of this role is to enable the
+continued expansion of our platform business in Europe by maintaining and
+expanding the capabilities of the Perl-based back end:
+
+Interact with the
+web based customer front end
+Interact with the web based data research
+front end
+Run data feeds connecting to APIs of providers of market data
+Combine user data and market data and run scenario optimization processes.
+
+Desired skills:
+You have 3+ years’ experience in a software development role
+You have a
+good mathematical background
+You have experience working with Modern Perl,
+Moo, XS, PSGI/Plack
+You have experience with database architecture and
+development, MySQL
+Development practices: Unit testing, Refactoring
+You
+have used version control tools: Git
+You have a familiarity with Agile
+development approach
+You possess experience in development relating to
+simulation and linear programming optimization
+You have a master's degree
+in an exact science or engineering field
+You have Unix experience
+You have
+experience with Test-Driven development
+
+Website for more information: http://www.genscape.com
+
+Contact information at:
+http://jobs.perl.org/job/20224#contact

@@ -1,0 +1,96 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15362
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 6814 invoked from network); 8 Jan 2016 03:18:24 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 8 Jan 2016 03:18:24 -0000
+Received: (qmail 7924 invoked by uid 225); 8 Jan 2016 03:18:24 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 7920 invoked by alias); 8 Jan 2016 03:18:24 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 07 Jan 2016 19:18:22 -0800
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id DBFB6265; Fri,  8 Jan 2016 03:18:18 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 8 Jan 2016 03:18:18 +0000
+Message-ID: <20160108031818.DBFB6265@web1.develooper.com>
+Subject: Intermediate Web Programmer (onsite), Toronto, ON
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19978
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January  8, 2016
+
+Job title: Intermediate Web Programmer
+
+Location: Toronto, ON
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are currently seeking a full-time Programmer to create customer-specific
+database-enabled applications in Perl and PHP, and to maintain, extend and
+support our existing applications.
+
+Job Description:
+- Develop new software
+applications with guidance from our Senior Programmers
+- Maintain and
+manage the development of our existing software applications:
+develop new
+features, 
+make architectural improvements, 
+deploy new installations of
+software, 
+troubleshoot and fix bugs, 
+transform customer bug
+reports/feature requests into detailed specifications
+
+Desired skills:
+Required Technical Skills:
+- 5+ years experience programming with Web
+Frameworks and relational databases (PostgreSQL, MySQL) in Perl and other
+dynamic languages such as PHP, Python, and/or Ruby.
+- Familiarity with
+other internet technologies (e.g. XHTML, Javascript, DHTML)
+
+Best
+practices:
+- Detailed software specifications
+- Object orientation
+- Unit
+testing
+- Code reuse / Templating
+- Security mindset
+- Staged deployment of
+applications
+
+Required Non-Technical Skills:
+- Attention to detail
+-
+Problem solving
+- Multi-tasking
+- Ability to prioritize tasks
+- Excellent
+English communications skills including translating technical jargon into
+layman's terms.  This job requires an individual who has the ability to
+communicate effectively with both technical and non-technical end users.
+
+Contact information at:
+http://jobs.perl.org/job/19978#contact

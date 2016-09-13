@@ -1,0 +1,81 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15101
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 925 invoked from network); 5 Jun 2015 02:53:55 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 5 Jun 2015 02:53:55 -0000
+Received: (qmail 10541 invoked by uid 225); 5 Jun 2015 02:53:55 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 10537 invoked by alias); 5 Jun 2015 02:53:54 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 04 Jun 2015 19:53:46 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 72DDF45A; Fri,  5 Jun 2015 02:53:43 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 5 Jun 2015 02:53:43 +0000
+Message-ID: <20150605025343.72DDF45A@web1.develooper.com>
+Subject: Perl Developer (onsite), Wakefield, United Kingdom
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19001
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June  3, 2015
+
+Job title: Perl Developer
+
+Company name: WRM Media Ltd
+
+Location: Wakefield, United Kingdom
+
+Pay rate: DOE
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+WRM are seeking mid to senior perl developer with strong linux, PHP and
+MySQL skills.  You will be automating server and application deployment,
+large data management using MySQL and NoSQL technologies, as well as
+working with queues, external APIs, and systems monitoring.
+
+The candidate
+will be encouraged to learn and embrace technologies such as: 
+ 
+NoSQL/Big
+Data
+Devops Principles
+Continuous Integration/Deployment 
+Automation -
+cloud, puppet, ansible, graphite, logstash, etc.
+
+Desired skills:
+Modern Perl
+Perl deployment (plenv, perlbrew, CPAN, etc.)
+Testing
+MySQL
+(good SQL and administration, replication, InnoDB)
+Linux Sysadmin
+(performance, security, virtualization)
+PHP and frameworks such as Laravel.
+
+LXC/Docker/Cloud, Moose, Catalyst, DBIx::Class, Redis, Cassandra, PHP
+
+Website for more information: http://www.wrm-media.com
+
+Contact information at:
+http://jobs.perl.org/job/19001#contact

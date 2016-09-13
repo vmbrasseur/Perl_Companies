@@ -1,0 +1,103 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13915
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 2357 invoked from network); 25 Nov 2013 17:56:07 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 25 Nov 2013 17:56:07 -0000
+Received: (qmail 1481 invoked by uid 225); 25 Nov 2013 17:55:56 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 1447 invoked by alias); 25 Nov 2013 17:55:49 -0000
+X-Spam-Status: No, hits=-5.3 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,SUBJECT_NEEDS_ENCODING,SUBJ_ILLEGAL_CHARS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 25 Nov 2013 09:55:43 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 3F4682AFE1; Mon, 25 Nov 2013 09:55:38 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 25 Nov 2013 09:55:38 -0800
+Message-ID: <20131125175539.3F4682AFE1@x3.develooper.com>
+Subject: Senior Perl Developer/Architect – London – Paying up to £60k
+ (onsite), London, United Kingdom
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18096
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 25, 2013
+
+Job title:
+Senior Perl Developer/Architect – London – Paying up to £60k
+
+Company name: Open Select Recruitment | www.osrecruit.com
+
+Internal ID: Dev/Architect
+
+Location: London, United Kingdom
+
+Pay rate: £60k salary plus a very generous holiday package
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+A fantastic organisation, a recognisable web based brand Are urgently
+looking for a senior developer/architect. The successful candidate will be
+joining an existing team of Perl specialists committed to Perl based web
+development.
+ 
+The team works on server-side and web development projects, many of them of
+a critical nature since they handle financial transactions. This is not a
+pure coding role, but will require non-development aspects including
+supporting or implementing effective development processes, as well as
+interacting with the project management process to ensure work is delivered
+reliably
+and quality is high.
+ 
+Their platform is written entirely in Perl and built on PostgreSQL, so you
+should ideally have strong Perl skills and good knowledge of SQL and
+relational database principles, related technologies that would be
+beneficial include HTML, CSS, JavaScript.
+ 
+The perfect candidate would feel confident to mentor other members of the
+team and work to improve both code quality and process where problems are
+identified.
+
+Required skills:
+- Commercial programming experience (min 3 years) - preferably but not
+necessarily Perl.
+- Familiarity with "modern" Perl: exposure to any of the following
+beneficial (Catalyst, DBIx::Class, Moose, Dancer, Mojilicious)
+- Confident experience building reliable software using unit testing,
+functional testing, and continuous integration (experience with
+jenkins/hudson or similar platforms would be helpful)
+- Strong communicator, able to discuss future projects as well as existing
+ones with members of staff with varying levels of technical understanding. 
+
+- Good overall understanding of all aspects of server software deployment,
+from TCP/IP to HTTP to IO bottlenecks. 
+- Understanding of secure software development techniques (especially, but
+not exclusively, as pertaining to web applications)
+
+Desired skills:
+- Ajax techniques
+- RESTful server API design 
+- MVC web development
+- Linux systems administration
+- XML/SOAP/XSD
+
+Website for more information: http://www.osrecruit.com
+
+Contact information at:
+http://jobs.perl.org/job/18096#contact

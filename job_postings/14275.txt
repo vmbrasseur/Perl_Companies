@@ -1,0 +1,86 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14275
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13967 invoked from network); 23 Mar 2014 22:37:22 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 23 Mar 2014 22:37:22 -0000
+Received: (qmail 26784 invoked by uid 225); 23 Mar 2014 22:37:20 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 26780 invoked by alias); 23 Mar 2014 22:37:20 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 23 Mar 2014 15:37:18 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id C412342955; Sun, 23 Mar 2014 15:37:15 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sun, 23 Mar 2014 15:37:15 -0700
+Message-ID: <20140323223715.C412342955@x3.develooper.com>
+Subject: Perl Developer (onsite), New York
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18494
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 23, 2014
+
+Job title: Perl Developer
+
+Company name: Tavant Technologies
+
+Location: New York
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 6 months
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Lead API team initiatives from architecture, design, execution to
+deployment.
+•	Design and implement high-performance, scalable REST APIs using
+Scala, Go or Perl.
+•	Own parts of the system and continuously working to improve them in
+an agile environment.
+•	Use processes like git-flow, github-flow to collaboratively perform
+feature-based development, code reviews and releases
+5+ years of industry experience with atleast 2 years building REST APIs and
+platforms.
+•Knowledge of Scala/Go or a strong desire to learn them while you are
+fluent in another main stream programming language.
+•Knowledge of relational databases, data modeling, SQL tuning and
+optimization.
+•Familiarity with NoSQL data stores and their features.
+•GitHub (or similar) account for us to know you better
+
+Required skills:
+3+ years of professional software development experience.
+Experience developing modern enterprise or REST Developed -applications
+using Scala/Go/Perl or a strong desire to learn them while you are fluent
+in another main stream - programming language like Java, Python etc.
+-Knowledge of relational databases like PostgreSQL/MySQL, data modeling,
+SQL tuning and optimization.
+-Familiarity with NoSQL data stores like Couchbase, Cassandra and Search
+Engines like Elasticsearch.
+-GitHub (or similar) account for us to know you better.
+
+Desired skills:
+Perl,Scala/Go, PostgresSql/MySql, Data modeling,Sql tuning, NoSql stores
+like cassandra
+
+Website for more information: http://www.tavant.com/
+
+Contact information at:
+http://jobs.perl.org/job/18494#contact

@@ -1,0 +1,127 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14926
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 14593 invoked from network); 17 Feb 2015 09:53:25 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 17 Feb 2015 09:53:25 -0000
+Received: (qmail 8176 invoked by uid 225); 17 Feb 2015 09:53:25 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 8172 invoked by alias); 17 Feb 2015 09:53:25 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 17 Feb 2015 01:53:23 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id A9EA942950; Tue, 17 Feb 2015 01:53:20 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Tue, 17 Feb 2015 01:53:20 -0800
+Message-ID: <20150217095320.A9EA942950@x3.develooper.com>
+Subject: Perl developer / security engineer (onsite), Abingdon, Oxfordshire,
+ UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19280
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 17, 2015
+
+Job title: Perl developer / security engineer
+
+Company name: Virus Bulletin
+
+Location: Abingdon, Oxfordshire, UK
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+This is a fantastic opportunity to play a role in all areas Virus Bulletin
+is involved with, including the development of the Virus Bulletin website
+and the company’s growing anti-malware and anti-spam certification testing.
+
+
+Part of this role involves working on the look and feel of our website as
+well as the back-end programming and maintenance. You will have full
+responsibility for the functioning of the website (with content contributed
+by other members of the team), ensuring a fully functioning, frequently
+updated and contemporary commercial website that serves to promote Virus
+Bulletin’s products and services.
+
+The other part of the role will be to work alongside the rest of our test
+team, contributing to the design, implementation and operation of a wide
+range of security testing programmes and related back-end systems.
+
+Ideally, you will have prior experience of running a website or large
+projects in Perl or another scripting language. You’ll have Unix/Linux
+systems administration skills and will be able to demonstrate a good
+understanding of web programming security issues. You’ll also have the
+ability to pick up new skills quickly and will enjoy the opportunity for
+learning that this position presents.
+
+This is an opportunity to gain new skills and experience. Working within
+the small Virus Bulletin team, you will have exposure to the whole business
+as well as the opportunity to progress your career as you contribute to our
+continued success. You are likely to be a creative individual with the
+ability to work methodically to ensure that work is carried out to
+schedule.
+
+The position is based at our headquarters in Abingdon, Oxfordshire, UK.
+
+Applicants must be fully authorised to work in the UK.
+
+Main duties:
+• Maintain and develop a fresh and contemporary look and feel to the Virus
+Bulletin website
+• Suggest and implement ideas to enhance and extend the current
+functionality of the website
+• Implement proactive methods to increase traffic to the website, including
+new functions and features
+• Maintain a fully automated subscription service including direct online
+payment, automated delivery of subscription and automated delivery of
+standard communication
+• Work on projects in Object Oriented Perl in a Unix/Apache environment
+• Write documentation for the website and be responsible for the
+troubleshooting, fixing and mitigating of faults
+• Ensure the quality of the code base with respect to coding style,
+security and reliability
+• Contribute to VB's range of testing programmes, including design,
+implementation and troubleshooting of tests, test frameworks and test
+automation as well as hands-on testing, processing and interpretation of
+test results, and liaising with product developers
+• Contribute to the implementation and maintenance of back-end services
+supporting tests, including sample gathering, classification and storage
+systems
+
+Required skills:
+Experience of the following is essential:
+• Use of Perl of another scripting language
+• Use of HTML and CSS
+• Experience of running a website
+• Good working knowledge of XML
+• Knowledge of JavaScript/AJAX
+• Unix/Linux systems administration
+• Administering different operating systems, including mobile
+• Good working knowledge of database programming e.g. MySQL
+• Project management
+
+Desired skills:
+• Web design experience
+• Knowledge of SMTP and HTTP
+• Knowledge of security products
+• Experience of running a mail server
+• Excellent verbal and written communication skills
+
+Contact information at:
+http://jobs.perl.org/job/19280#contact

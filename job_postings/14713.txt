@@ -1,0 +1,71 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14713
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 9623 invoked from network); 8 Oct 2014 10:01:06 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 8 Oct 2014 10:01:06 -0000
+Received: (qmail 16655 invoked by uid 225); 8 Oct 2014 10:01:06 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 16651 invoked by alias); 8 Oct 2014 10:01:06 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 08 Oct 2014 03:01:03 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 1617D42AF5; Wed,  8 Oct 2014 03:00:59 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 8 Oct 2014 03:00:59 -0700
+Message-ID: <20141008100100.1617D42AF5@x3.develooper.com>
+Subject: Perl + Chef DevOps @ Binary.com (telecommute), Telecommute
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18987
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October  8, 2014
+
+Job title: Perl + Chef DevOps @ Binary.com
+
+Company name: Binary.com
+
+Location: Telecommute
+
+Terms of employment: Hourly employee
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+Binary.com is seeking a senior DevOps engineer with experience with
+infrastructure automation with Chef, and programming experience in Perl.
+
+Binary.com is a leading binary options company, founded in 1999. The
+company has offices in Malta and Malaysia as well as a sizeable telecommute
+team.
+
+Binary's systems are developed in Perl, and deployed to a worldwide network
+of servers using Chef. We are seeking an experienced DevOps engineer able
+to architecture our code and systems for scalability, performance, and
+security, to support the sustained growth in our business.
+
+Interested candidates can view our careers page at
+https://www.binary.com/careers, Group history page at
+https://www.binary.com/group-history, and are invited to apply by
+submitting their CV and cover letter to careers@binary.com
+
+Required skills: Perl, PSGI/Plack, Chef, Postgres, Starman
+
+Website for more information: https://www.binary.com/careers
+
+Contact information at:
+http://jobs.perl.org/job/18987#contact

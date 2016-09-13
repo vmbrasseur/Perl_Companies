@@ -1,0 +1,94 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14226
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 27026 invoked from network); 5 Mar 2014 07:44:00 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 5 Mar 2014 07:44:00 -0000
+Received: (qmail 11345 invoked by uid 225); 5 Mar 2014 07:44:00 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11341 invoked by alias); 5 Mar 2014 07:44:00 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 04 Mar 2014 23:43:58 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 35C52429A5; Tue,  4 Mar 2014 23:43:55 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Tue, 4 Mar 2014 23:43:55 -0800
+Message-ID: <20140305074355.35C52429A5@x3.develooper.com>
+Subject: Software Engineer (onsite)
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18448
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March  4, 2014
+
+Job title: Software Engineer
+
+Company name: Hearst Magazines
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The company:
+Shared Applications, a unit of Hearst Magazines, is a cohesive team of
+best-in-class talent that’s responsible for implementing the digital
+strategy for Hearst’s magazine brands.
+
+We’ve launched, re-launched or acquired 24 Web sites and 10 mobile sites
+for brands such as Cosmopolitan, Popular Mechanics, Esquire, Good
+Housekeeping, Marie Claire and Seventeen. We’ve published more than 50 apps
+and digital editions for the iPad, iPhone and iPod Touch, as well as the
+Droid platform, including enhanced digital issues, utilities, special
+content and games based on its popular brands.
+
+The role: Software Engineer
+•	You will work on a suite of integrated products that comprise a
+successful enterprise platform that powers the internet and mobile
+businesses in this division.
+•	You will be involved in building and supporting dynamic content
+websites, back-end administration tools for content management, ecommerce
+systems, registration / profiling systems, data syndication systems,
+various custom applications, internal reporting products, as well as APIs
+for mobile and tablet devices.
+
+The Impact:
+The Shared Applications group functions as an internal agency that supports
+a large set of groups within Hearst as well as some outside customers /
+partners. You will be part of a growing team of core engineers that are
+responsible for the evolution of the central platform for content
+management and ecommerce.
+
+Required skills:
+•	Minimum 3 Years of required experience
+•	Unix/Linux experience, Linux preferred
+•	Strong Perl development skills
+•	Relational DB experience (MySQL, Postgres, Oracle, Sybase)
+•	Working knowledge of Javascript/HTML/XML
+•	Excellent communication skills
+
+Desired skills:
+•	mod_perl, HTML::Mason experience
+•	AJAX/CSS experience
+•	Experience with Apache configuration, Linux system adminstration,
+DB administration
+•	E-commerce systems experience/secure servers
+
+Website for more information: http://www.hearst.com/
+
+Contact information at:
+http://jobs.perl.org/job/18448#contact

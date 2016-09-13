@@ -1,0 +1,115 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14653
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 3895 invoked from network); 8 Sep 2014 03:19:43 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 8 Sep 2014 03:19:43 -0000
+Received: (qmail 16381 invoked by uid 225); 8 Sep 2014 03:19:39 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 16376 invoked by alias); 8 Sep 2014 03:19:38 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 07 Sep 2014 20:19:36 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id E07CD42950; Sun,  7 Sep 2014 20:19:32 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sun, 7 Sep 2014 20:19:32 -0700
+Message-ID: <20140908031932.E07CD42950@x3.develooper.com>
+Subject: Senior Data Engineer (perl) (onsite), London, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18876
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September  7, 2014
+
+Job title: Senior Data Engineer (perl)
+
+Company name: Adzuna
+
+Location: London, UK
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The Senior Data Engineer will be responsible for harnessing data to make
+job search better.
+
+You’ll work with massive, unfiltered data sets - like the contents of every
+job ad in the UK and 10 other markets, capturing how millions of people are
+searching for jobs. These data can reveal shifts in the wider economy as
+they happen. 
+
+You will be responsible for architecting the data platforms and pipelines
+to improve our product and empower our team, partners and users with
+insights. Applications could include improving the relevance and quality of
+Adzuna’s search results and building algorithms recommending relevant jobs
+using content-based or collaborative filters.
+
+You will be the first data engineer at Adzuna, which is a 'Perl shop' in
+that we rely on perl for everything so far. You will work closely with Perl
+developers, product manager and marketeers to identify opportunities,
+prototype ideas and turn these concepts into reality. You will be
+instrumental in growing Adzuna’s user base from millions of monthly users
+to tens and hundreds of millions in the next few years.
+
+We offer a fun, entrepreneurial working environment where Perl is the
+development language of choice. Ours is a high-growth business where every
+team member can make a huge difference.
+
+
+Key responsibilities
+
+What you'll be doing:
+Architecting, building, testing and refining a Big Data platform for search
+personalisation and business intelligence.
+Research, evaluate and utilize new technologies/tools/frameworks
+Design and develop APIs and integration points for various platform
+services
+Evolve various stack components to scale and address new service
+requirements
+Brainstorm and prototype new concepts and approaches fast
+
+Required skills:
+Three or more years of experience developing software to process big data
+sets, ideally in a commercial / internet environment. 
+Strong programming skills in Perl or Python
+Experience in data modeling, integration and querying (MySQL, MongoDB,
+DynamoDB, AWS RDS)
+Experience with open-source distribution frameworks (such as Gearman,
+Rabbitmq or Hadoop)
+Experience designing REST based API's for consumer based services
+Strong academic background in computer science or highly quantitative
+scientific discipline
+Demonstrable track record building distributed, high-throughput
+applications
+A team player who works well in a flat-structured, highly collaborative
+agile environment
+Ability to ‘see the wood from the trees’ and anticipate how analysis and
+software products will make a practical difference to the business
+
+Desired skills:
+Experience with machine learning/algorithms development
+Lucene/Solr/Elasticsearch experience
+Experience with AWS cloud products and architecture
+Experience with Google Analytics and Google APIs
+Data Visualization experience
+
+Website for more information: http://www.adzuna.co.uk
+
+Contact information at:
+http://jobs.perl.org/job/18876#contact

@@ -1,0 +1,133 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14358
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 19030 invoked from network); 2 May 2014 04:38:29 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 2 May 2014 04:38:29 -0000
+Received: (qmail 8772 invoked by uid 225); 2 May 2014 04:38:29 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 8768 invoked by alias); 2 May 2014 04:38:28 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 01 May 2014 21:38:26 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 8C2404293C; Thu,  1 May 2014 21:38:23 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 1 May 2014 21:38:23 -0700
+Message-ID: <20140502043823.8C2404293C@x3.develooper.com>
+Subject: Perl Developer (onsite)
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18588
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 25, 2014
+
+Job title: Perl Developer
+
+Company name: Deutsche Bank
+
+Internal ID: PP444738
+
+Pay rate: 90k plus bonus
+
+Terms of employment: Salaried employee
+
+Length of employment: Full-time Permanent
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+DB Global Technology (DBGT) is the newly established North American
+development center in Cary, North Carolina. It is located near the Research
+Triangle Park (RTP) area of North Carolina. As a subsidiary of Deutsche
+Bank AG, DBGT is a dedicated application development and software
+engineering center for leading-edge technology solutions that power the
+future of global capital markets. DBGT partners with the Deutsche Bank
+Group Technology and Operations division to access superior technology
+skills and promote innovation in the development of software applications
+and IT solutions.
+
+Group Overview
+
+Core Engineering is part of the wider Application Services group that
+focuses on delivering enterprise services and change programs across
+Deutsche Bank and we are in the process of building out a strong and
+dynamic engineering team in Cary, North Carolina.
+
+Application and Web Platforms (AWP) is responsible for engineering our Web
+and JEE application hosting platforms within Core Engineering. These
+services are designed to run a large numbers of applications within the
+Bank in a highly available, cost effective and secure shared infrastructure
+environment.  We encourage a customer self service paradigm allowing our
+customers to maintain their deployments via a unified administration
+portal, which also spans several other services.
+
+We utilize a product driven approach where we provide these services to our
+clients, the application development teams, in a manner similar to a
+managed hosting service provider.  AWP team work closely with Product
+Management and the Production Support organization that operate the
+platforms we deliver.  
+
+Position Description
+
+The selected candidate will work as part of the AWP team in Cary, North
+Carolina. Qualified candidates must have technology expertise in Java
+application hosting technologies and Perl programming coupled with
+experience of executing product engineering practices. Candidates must be
+collaborative, client focused and able to deliver world class engineering
+services to our clients. 
+
+Key Responsibilities:
+
+•	Engineering/developing	features for our Java application hosting
+platform
+•	Quality assurance testing, including functional,
+performance/scalability, and regression testing
+•	Writing technical documentation, including design documentation and
+training materials
+•	Platform delivery including packaging, installation, and
+configuration
+•	Ensuring all deliverables adhere to DBGT’s standards and procedures
+
+•	Engineering support including troubleshooting, contributing to root
+cause analysis, and problem resolution
+•	Identifying and assessing risks, determining impact to platform and
+mitigation plans
+
+Required skills:
+•	Strong programming experience in Object Orientated Perl & Shell
+Scripting
+•	Experience with at least one of: WebLogic Server, JBoss, Tomcat
+•	Strong Linux/Unix and Systems Administration skills
+•	Ability to reverse-engineer legacy code
+•	Revision control systems (Subversion, branching and merging)
+•	Test Driven Development coupled with Agile SDLC
+
+Desired skills:
+•	Perl modules: Template:Toolkit, Catalyst, XML::LibXML, XML::Simple,
+DBI, LWP and Test::More
+•	Experience of configuring Java environments
+•	Exposure to Java programming
+•	Experience with Web Technologies and Tools: HTTP, XML, REST,
+JavaScript, CSS
+•	Exposure to C, SQL & Ruby
+•	Application and Operating System security
+•	Networking fundamentals: TCP/IP, DNS
+
+Website for more information: https://dbcareers.db.com/
+
+Contact information at:
+http://jobs.perl.org/job/18588#contact

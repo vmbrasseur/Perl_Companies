@@ -1,0 +1,97 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15443
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28214 invoked from network); 7 Mar 2016 19:47:50 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 7 Mar 2016 19:47:50 -0000
+Received: (qmail 13082 invoked by uid 225); 7 Mar 2016 19:47:50 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 13078 invoked by alias); 7 Mar 2016 19:47:50 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 07 Mar 2016 11:47:47 -0800
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 9C56B7E1; Mon,  7 Mar 2016 19:47:44 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 7 Mar 2016 19:47:44 +0000
+Message-ID: <20160307194744.9C56B7E1@web1.develooper.com>
+Subject: Linux System Admin/Developer (part onsite), Telecommute | NYC
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20116
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March  7, 2016
+
+Job title: Linux System Admin/Developer
+
+Company name: Blosm
+
+Location: Telecommute | NYC
+
+Pay rate: 40-70 USD
+
+Terms of employment: Hourly employee
+
+Hours: Flexible
+
+Onsite: some
+
+Description:
+We are looking for a long-term placement to join our R&D team of 10Xers,
+and help us scale up our SaaS market analytics system. 
+
+We already have a
+long list of desired improvements to improve our monitoring and reporting
+about system/client usage. That also includes some upgrades to our nightly
+build and test framework. We want someone to help us come up with new ideas
+of how to do things better.
+
+All development is on Linux. We provide a
+full, hosted dev environment. We use a lot of open-source software, and
+managing these existing systems is core. Also, we never use anything
+out-of-the-box, making this a developer position.
+
+Many of our existing
+systems are in Perl. You MUST know at least rudimentary Perl and Python,
+and at least be willing to become quite good at both. Practically all of
+our systems have both a Web and a command-line interface, so both HTML and
+Bash are also essential.
+
+This role requires daily calls to sync up on
+progress. Please specify in Easter Standard Time, what hours you would be
+available for phone calls. There must be an overlap of at least 4 hours in
+10am-6pm EST.
+
+We require at least two regularly scheduled "stand-up" calls
+per week, with a day between. We can do any times 10:30-6pm  M-F. Tickets
+and time are tracked in our tracking system.
+
+The team is a mix of
+full-time and freelancers. We care about finding the absolute best people
+much more than where they live. People in North America are preferred
+because it helps keep the team tight-knit, and because we do get together a
+few times a year. We do quarterly "bDays" where we get together to plan and
+share info with each other. 
+
+We look forward to meeting you.
+
+Desired skills:
+Perl, Python, Linux (Fedora), CGroups, Virtualization, Email, HTML, Code
+Testing, Unix User Account Management, Chroots, Web Scraping, Performance
+Benchmarking, Debugging.
+
+Website for more information: http://www.blosm.com
+
+Contact information at:
+http://jobs.perl.org/job/20116#contact

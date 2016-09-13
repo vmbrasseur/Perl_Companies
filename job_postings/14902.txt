@@ -1,0 +1,76 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14902
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 1135 invoked from network); 5 Feb 2015 11:03:44 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 5 Feb 2015 11:03:44 -0000
+Received: (qmail 7998 invoked by uid 225); 5 Feb 2015 11:03:43 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 7993 invoked by alias); 5 Feb 2015 11:03:43 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 05 Feb 2015 03:03:35 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 7CE7A42A9E; Thu,  5 Feb 2015 03:03:32 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 5 Feb 2015 03:03:32 -0800
+Message-ID: <20150205110332.7CE7A42A9E@x3.develooper.com>
+Subject: Perl Developer Berlin, Germany (web backend Mojolicious, mod_perl)
+ (telecommute), Berlin, Germany
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19234
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February  5, 2015
+
+Job title:
+Perl Developer Berlin, Germany (web backend Mojolicious, mod_perl)
+
+Company name: think project! International GmbH & Co KG
+
+Location: Berlin, Germany
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+Sie entwickeln und refaktorisieren für unser Web-Collaboration-Produkt
+think project! Perl-Module in unserem service-orientierten
+Applikations-Framework. Zu Ihren Aufgaben zählt es Trends im Bereich der
+Web-Technologien mitzubewerten und neue Technologien
+zu integrieren. Dabei arbeiten Sie eng mit unseren Entwicklern, den
+Software-Architekten, dem Produktmanagement und der
+Qualitätssicherung zusammen. Gemeinsam mit diesem 25-köpfigen Team setzen
+Sie neue Themen eigenverantwortlich um.
+
+Für unser anspruchsvolles Business-to-Business-Produkt nutzen wir:
+- RedHat-Enterprise-Linux
+- PostgreSQL
+- Apache2/mod_perl2, Mojolicious
+- GIT
+
+Required skills:
+Perl-Programmierung im Web-Backend
+Test-Driven-Development
+Continous-Delivery
+
+Website for more information:
+http://www.thinkproject.com/de/newsroom/details/news/juniorsenior-perl-soft
+wareentwickler-mw-standort-berlin/
+
+Contact information at:
+http://jobs.perl.org/job/19234#contact

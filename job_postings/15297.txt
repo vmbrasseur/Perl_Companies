@@ -1,0 +1,67 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15297
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 23180 invoked from network); 16 Nov 2015 13:27:05 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 16 Nov 2015 13:27:05 -0000
+Received: (qmail 4871 invoked by uid 225); 16 Nov 2015 13:27:05 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 4867 invoked by alias); 16 Nov 2015 13:27:04 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 16 Nov 2015 05:27:02 -0800
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 480A6384; Mon, 16 Nov 2015 13:26:59 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 16 Nov 2015 13:26:59 +0000
+Message-ID: <20151116132659.480A6384@web1.develooper.com>
+Subject: Telecommute Perl event loop/Mojo/data feeds expert (telecommute), telecommute
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19908
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 16, 2015
+
+Job title: Telecommute Perl event loop/Mojo/data feeds expert
+
+Company name: Binary.com
+
+Location: telecommute
+
+Terms of employment: Hourly employee
+
+Hours: Part time
+
+Onsite: no
+
+Description:
+Binary.com is a leading binary options provider, transacting in over 1
+million binary options trades per day. We process high-frequency financial
+markets data feeds, price options using complex mathematical algorithms,
+and provide a Websockets API (developers.binary.com). We are seeking a Perl
+developer experienced with the complexities and subtleties of Mojolicious,
+Mojo::IOLoop, AnyEvent, Websockets, Plack/PSGI, NYTProf, and who also
+preferably has some mathematical background. Please apply only if you
+consider yourself a highly technical individual who is going to be
+comfortable with complex asynchronous/event-driven code (and yet have a
+knack for making it simple).
+
+Desired skills:
+Moose, Mojolicious, AnyEvent, Websockets, Plack, NYTProf amongst other
+Perl-related technologies
+
+Website for more information: https://www.binary.com
+
+Contact information at:
+http://jobs.perl.org/job/19908#contact

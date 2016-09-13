@@ -1,0 +1,97 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14680
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 15740 invoked from network); 21 Sep 2014 17:51:43 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 21 Sep 2014 17:51:43 -0000
+Received: (qmail 15268 invoked by uid 225); 21 Sep 2014 17:51:43 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 15264 invoked by alias); 21 Sep 2014 17:51:42 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 21 Sep 2014 10:51:40 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 3D79A42ACD; Sun, 21 Sep 2014 10:51:37 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sun, 21 Sep 2014 10:51:37 -0700
+Message-ID: <20140921175137.3D79A42ACD@x3.develooper.com>
+Subject: BiblioVault Web Developer (Perl) (onsite), Chicago, IL
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18828
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 21, 2014
+
+Job title: BiblioVault Web Developer (Perl)
+
+Company name: University of Chicago Press - BiblioVault
+
+Internal ID: 096050
+
+Location: Chicago, IL
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Position involves perl backend+framework coding plus some UI work.  We use
+a LAMPerl stack + jQuery.
+
+Responsible for technical development to support BiblioVault.org. Extend
+and strengthen functionality of its website, web services, API, and
+backend, to support needs of its staff, 100 member publishers, and a
+growing community of ebook customers worldwide. Involved in every step of
+agile development cycle and will see projects grow from infancy to
+production.
+
+Required skills:
+Experience with any server-side HTML embedded scripting language (EmbPerl,
+PHP, Django, etc.) required. 
+Experience working with any SQL database (MySQL, MSSQL, Oracle, etc.)
+required. 
+
+Ability to communicate and understand complex and abstract concepts
+required. 
+Ability to learn new things, specifically computer languages and concepts
+required. 
+Ability to learn new programming languages and APIs required. 
+Good communication skills required. 
+Ability to communicate clearly in writing and speaking required. 
+Ability to work independently and juggle many concurrent projects required.
+
+Ability to use computers required. 
+Ability to find solutions to odd problems required. 
+Ability to produce documentation required.
+
+Desired skills:
+Perl experience highly preferred. 
+Two years experience with any server-side HTML embedded scripting language
+(EmbPerl, PHP, Django, etc.) preferred. 
+Two years experience working with any SQL database (MySQL, MSSQL, Oracle,
+etc.) preferred. 
+Experience with a web-based API preferred. 
+Experience in a Linux working environment preferred. 
+Experience with agile development methods preferred. 
+Experience maintaining or working in a content management system preferred.
+
+Experience adjusting, configuring, and hacking on Apache preferred.
+
+Website for more information:
+http://jobopportunities.uchicago.edu/applicants/Central?quickFind=224554
+
+Contact information at:
+http://jobs.perl.org/job/18828#contact

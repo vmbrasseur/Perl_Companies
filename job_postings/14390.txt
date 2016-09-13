@@ -1,0 +1,85 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14390
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 15504 invoked from network); 11 May 2014 19:02:44 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 11 May 2014 19:02:44 -0000
+Received: (qmail 13762 invoked by uid 225); 11 May 2014 19:02:43 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 13757 invoked by alias); 11 May 2014 19:02:43 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 11 May 2014 12:02:41 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 747804295D; Sun, 11 May 2014 12:02:38 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sun, 11 May 2014 12:02:38 -0700
+Message-ID: <20140511190238.747804295D@x3.develooper.com>
+Subject: Software Engineer - Perl, mod_perl, LAMP (onsite), Boston, MA,
+ United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/10382
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 11, 2014
+
+Job title: Software Engineer - Perl, mod_perl, LAMP
+
+Company name: SiteSpect.com
+
+Location: Boston, MA, United States
+
+Travel: 0%
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Become part of a web analytics and optimization company that's enabling
+digital marketers to increase the effectiveness of their web sites with
+unprecedented ease. The leader in its space, SiteSpect's next-generation
+SaaS platform is used by the world's largest and best known websites,
+including Staples.com, Walmart.com, MTV Networks, Overstock.com, VEGAS.com,
+Mozilla, and many more.
+
+The Senior Software Engineer position is responsible for development and
+evolution of our core products. This is a mid- to senior-level technical
+position that requires a background in multi-tier application development
+with an emphasis on Web systems.
+
+The roles for this position span system design and architecture, software
+development (coding), data modeling, light UI engineering (Web templating,
+HTML, JavaScript, CSS), and performance optimization. We have a strong
+development roadmap with many challenging projects ahead.
+
+Required skills:
+* 2+ years of programming using perl, mod_perl, PHP, or C
+* Web UI engineering skills, including templating, JavaScript, DOM and CSS
+* LAMP stack
+* thorough understanding of SQL. Experience with other data architectures
+such as memcached and Hadoop a plus.
+* experience with agile development lifecycle
+
+Desired skills:
+Candidates should have experience working in a team environment alongside
+other engineers and product managers. You should be comfortable with the
+dynamic and fast pace that is typical for an Internet software startup.
+
+Website for more information: http://www.sitespect.com/about-us/careers
+
+Contact information at:
+http://jobs.perl.org/job/10382#contact

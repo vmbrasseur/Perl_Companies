@@ -1,0 +1,95 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14804
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 31336 invoked from network); 4 Dec 2014 05:48:43 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 4 Dec 2014 05:48:43 -0000
+Received: (qmail 32304 invoked by uid 225); 4 Dec 2014 05:48:43 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 32300 invoked by alias); 4 Dec 2014 05:48:43 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 03 Dec 2014 21:48:40 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 80E8F4296E; Wed,  3 Dec 2014 21:48:37 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 3 Dec 2014 21:48:37 -0800
+Message-ID: <20141204054837.80E8F4296E@x3.develooper.com>
+Subject: Perl Developer (onsite), London, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19094
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December  3, 2014
+
+Job title: Perl Developer
+
+Company name: SkillRecruit
+
+Internal ID: 1400
+
+Location: London, UK
+
+Pay rate: £240
+
+Terms of employment: Independent contractor (project-based)
+
+Length of employment: 6 Months
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Position Overview/Role outline:
+
+Qualified candidates must have technology expertise in Web technologies and
+Perl programming coupled with experience of executing product engineering
+practices. Candidates must be collaborative, client focused and able to
+deliver world class engineering services to our clients.
+
+Key Responsibilities:
+  
+Engineering/developing	features for our self-service administration Portal
+
+Quality assurance testing, including functional, performance/scalability,
+and regression testing
+Writing technical documentation, including design documentation and
+training materials
+Platform delivery including packaging, installation, and configuration
+Ensuring all deliverables adhere to client standards and procedures
+Platform support including troubleshooting, contributing to root cause
+analysis, and problem resolution
+Identifying and assessing risks, determining impact to platform and
+mitigation plans
+
+Required skills:
+Strong programming exp in OO Perl and Shell Scripting
+Experience w/Apache Web Server
+Experience with at least one of: Weblogic Server, Jboss, Tomcat
+Strong Linux/Unix and systems skills
+Ability to reverse-engineer legacy code
+Agile/SDLC
+
+Desired skills:
+Perl modules: Catalyst, Template::Toolkit, Test
+Experience with Web Technologies and Tools: HTTP, XML, REST
+Web hosting, caching and proxy software and related technologies: Apache,
+volume hosting setups with Apache vhosts, HTTP, SSL, CGI, FastCGI
+Web Application and Operating System security
+
+Website for more information: http://www.skillrecruit.com
+
+Contact information at:
+http://jobs.perl.org/job/19094#contact

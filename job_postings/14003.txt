@@ -1,0 +1,72 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14003
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 24978 invoked from network); 25 Dec 2013 18:37:38 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 25 Dec 2013 18:37:38 -0000
+Received: (qmail 1006 invoked by uid 225); 25 Dec 2013 18:37:38 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 1001 invoked by alias); 25 Dec 2013 18:37:37 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 25 Dec 2013 10:37:35 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 473D942937; Wed, 25 Dec 2013 10:37:32 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 25 Dec 2013 10:37:32 -0800
+Message-ID: <20131225183732.473D942937@x3.develooper.com>
+Subject: Contract - PERL & MySQL (telecommute), Pittsburgh PA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18216
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December 25, 2013
+
+Job title: Contract - PERL & MySQL
+
+Company name: THG
+
+Internal ID: rri
+
+Location: Pittsburgh PA
+
+Pay rate: $35-$75 per hour
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 20-60 hours +
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+Project to create an inventory management system in perl & MySQL.
+
+Create inventory database schema based on available inventory data and
+requirements for ecommerce software.  Vendor data import (from Excel
+spreadsheets) and normalization.  ETL & Data Transformation based on regex.
+ Web based management interface.  Batch export for import into OpenCart
+based ecommerce software.
+
+Required skills:
+PERL
+MySQL
+
+Desired skills: OpenCart experience.
+
+Website for more information: http://www.guild.net/
+
+Contact information at:
+http://jobs.perl.org/job/18216#contact

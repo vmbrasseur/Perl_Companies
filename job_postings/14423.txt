@@ -1,0 +1,95 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14423
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28384 invoked from network); 24 May 2014 21:53:38 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 24 May 2014 21:53:38 -0000
+Received: (qmail 21911 invoked by uid 225); 24 May 2014 21:53:38 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 21907 invoked by alias); 24 May 2014 21:53:38 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 24 May 2014 14:53:36 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 40FDB42960; Sat, 24 May 2014 14:53:33 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 24 May 2014 14:53:33 -0700
+Message-ID: <20140524215333.40FDB42960@x3.develooper.com>
+Subject: Perl Developer (onsite), San Francisco, California
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18656
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 24, 2014
+
+Job title: Perl Developer
+
+Company name: MissionStaff
+
+Location: San Francisco, California
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: Long Term Consulting Role
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Typically I focus on roles local to the Philadelphia area but in this case,
+our client has offices nationally.  The hiring manager and rest of the team
+is located in Delaware, but as the business is in California he’d like to
+start building a team in the San Fran office. The work would focus on an
+application that is for taking payments from a device (like Square) that
+you plug into a phone and use a credit card.  The application is written in
+Perl.  
+
+My Notes
+
+Client is seeking someone who is a Perl Developer, who will be building out
+the front end of a web based application.  Candidate should have active
+perl experience (although would consider someone with Java who has perl
+experience).  Backend is written in MySQL.   Nice to have skills are
+Jenkins/restful.  They interviewed 3 people so far and they were not right
+because they were more systems admins just developing perl scripts and this
+is a front end developer.
+
+Required skills:
+This person will be responsible for the definition, design, construction,
+integration, testing, and support of reliable and reusable software
+solutions, addressing business opportunities. Includes systems analysis,
+creation of specifications, coding, testing, and implementation of
+application programs and data interfaces. 
+
+Requires a previous domain of experience in applications development.
+Responsible for overall application design, including interfaces with other
+applications and systems. Assures that application designs are consistent
+with industry best practices application attributes (including scalability,
+availability, maintainability, and flexibility). 
+
+Technologies used will be Perl, Perl Dancer, Jenkins, Json, MySQL
+
+Desired skills:
+Prior application development experience 
+Demonstrated experience with large scale application integration efforts 
+Communication - Ability to communicate strategies and processes around data
+modeling and architecture to cross functional groups and senior levels 
+Ability to influence multiple levels on highly technical issues and
+challenges 
+Demonstrated experience to influence and coordinate third parties and
+suppliers
+
+Contact information at:
+http://jobs.perl.org/job/18656#contact

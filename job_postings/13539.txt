@@ -1,0 +1,70 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13539
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 16911 invoked from network); 8 Jul 2013 07:48:54 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 8 Jul 2013 07:48:54 -0000
+Received: (qmail 1643 invoked by uid 225); 8 Jul 2013 07:48:54 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 1639 invoked by alias); 8 Jul 2013 07:48:53 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 08 Jul 2013 00:48:39 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id CB37E2AFE0; Mon,  8 Jul 2013 00:48:35 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 8 Jul 2013 00:48:35 -0700
+Message-ID: <20130708074835.CB37E2AFE0@x3.develooper.com>
+Subject: Software Engineer (onsite), Tel-Aviv, Israel
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17601
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July  8, 2013
+
+Job title: Software Engineer
+
+Company name: F5 Networks
+
+Location: Tel-Aviv, Israel
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Develop an infrastructure, that is an internal F5 Networks product, for the
+automated testing of F5's network based "Application Delivery Network"
+(ADN) products.
+
+Required skills:
+Strong hands on code development skills in Perl.
+At least one of the following:
+   a) Thorough understanding of TCP/IP and HTTP networking protocols.
+   b) Thorough understanding of computer networks topology, it's components
+and function.
+
+Desired skills:
+Experience with development in a linux/unix environment.
+Development/testing of Firewalls, Proxies.
+Experience with test automation.
+Experience with network programming.
+Experience with RPC frameworks (Thrift, REST).
+
+Website for more information: http://www.f5.com/
+
+Contact information at:
+http://jobs.perl.org/job/17601#contact

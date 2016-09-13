@@ -1,0 +1,86 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15433
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 20481 invoked from network); 2 Mar 2016 05:18:09 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 2 Mar 2016 05:18:09 -0000
+Received: (qmail 24486 invoked by uid 225); 2 Mar 2016 05:18:09 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 24482 invoked by alias); 2 Mar 2016 05:18:09 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 01 Mar 2016 21:18:02 -0800
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 282A12C8; Wed,  2 Mar 2016 05:17:59 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 2 Mar 2016 05:17:59 +0000
+Message-ID: <20160302051759.282A12C8@web1.develooper.com>
+Subject: Fancy a few days a week in Irvine, CA? (part onsite), Irvine, CA, United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20096
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March  2, 2016
+
+Job title: Fancy a few days a week in Irvine, CA?
+
+Company name: Perl Careers
+
+Location: Irvine, CA, United States
+
+Pay rate: Great, with excellent benefits package
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+We are looking for a fulltime Perl developer who can join us onsite a few
+days a week in Irvine, and work from home the rest of the time (or fulltime
+in Irvine).
+
+You're already eligible to work in the US, and you're
+interested in joining a very successful and Perl-focussed company, whose
+parent company were rated one of the top 15 places to work in the US.
+
+The
+company has a number of big-data and data analysis projects, and have bet
+heavily on AWS. They use a variety of Modern Perl technologies across their
+projects, with codebases using Mojo, Dancer, DBIx::Class, and regularly
+send developers to YAPC.
+
+The company has maintained its small company
+feel, despite being bought a few years ago by a much larger company, and
+the office is super-friendly and supportive.
+
+To recap:
+
+* You're already
+eligible to work in the US
+
+* You can physically get to Irvine, CA a couple
+of days a week
+
+* You know *MODERN* Perl - you should have used at least
+one of Mojolicious/Dancer/Catalyst, know your way around DBIx::Class, and
+have written tests using something that interacts with Test::Builder
+
+Desired skills: Modern Perl!
+
+Website for more information: http://perl.careers/
+
+Contact information at:
+http://jobs.perl.org/job/20096#contact

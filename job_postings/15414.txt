@@ -1,0 +1,96 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15414
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 15020 invoked from network); 8 Feb 2016 19:06:34 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 8 Feb 2016 19:06:34 -0000
+Received: (qmail 28622 invoked by uid 225); 8 Feb 2016 19:06:33 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 28618 invoked by alias); 8 Feb 2016 19:06:33 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 08 Feb 2016 11:06:26 -0800
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 2FC3A2BE; Mon,  8 Feb 2016 19:06:23 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 8 Feb 2016 19:06:23 +0000
+Message-ID: <20160208190623.2FC3A2BE@web1.develooper.com>
+Subject: Pay Button Integration (telecommute), San Cristobal de las Casas, Mexico
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19826
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February  8, 2016
+
+Job title: Pay Button Integration
+
+Company name: Not Applicable
+
+Location: San Cristobal de las Casas, Mexico
+
+Pay rate: US dollars
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Part time
+
+Onsite: no
+
+Description:
+Since September 2015 this job has been posted and now almost February 2016
+it is still available.. Dudes get on the ball..!!!
+
+What I need is an
+integration in PERL for a Pay Button to achieve a split Bitcoin payment
+with the www.coinkite.com API.
+
+Imagine a buyer purchasing an item with
+value of 100, 
+
+When the buyer clicks the "Check Out" button instead of
+paying one person, the single payment gets splitted into two deposits to
+two different recipients at once, (15 % to the affiliate and 75 % to the
+vendor).
+
+or two different wallets from the same person. (15 % to the
+bitcoin wallet and 75 % to the dollar wallet).
+
+You can see an example
+here: 
+
+https://coinkite.com/faq/forward
+
+Since I posted this, someone was
+gracious enough to upload a perl authentication routine for this
+integration at github so the jobs is partly already done for you:
+
+https://github.com/web2solutions/coinkite-perl/blob/master/sign.pl
+
+I'm
+eager to start right away, send me a quote to sebglanzer@gmail.com or if
+you have questions contact me at sebastian.glanzer (Skype ID)
+
+
+
+Thanx
+
+Desired skills:
+Preferably some knowledge as to how bitcoins work, 
+
+Jason/Perl
+
+Website for more information: http://www.coinkite.com/
+
+Contact information at:
+http://jobs.perl.org/job/19826#contact

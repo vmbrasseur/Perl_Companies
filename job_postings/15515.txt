@@ -1,0 +1,71 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15515
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 2209 invoked from network); 5 May 2016 02:41:57 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 5 May 2016 02:41:57 -0000
+Received: (qmail 6565 invoked by uid 225); 5 May 2016 02:41:56 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 6561 invoked by alias); 5 May 2016 02:41:56 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 04 May 2016 19:41:53 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 5760E34E; Thu,  5 May 2016 02:41:48 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 5 May 2016 02:41:48 +0000
+Message-ID: <20160505024148.5760E34E@web1.develooper.com>
+Subject: Perl Developer (onsite), Nuremberg, Germany
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20196
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 29, 2016
+
+Job title: Perl Developer
+
+Company name: Provide Consulting
+
+Location: Nuremberg, Germany
+
+Pay rate: €50000 - €60000 + Benifits
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+You will be a part of a highly professional and passionate team that loves
+developing applications to meet customer needs. As the Perl SME, You will
+work independently to design new technology concepts, creating technical
+and complex backend solutions for web applications.
+
+Desired skills:
+Fluent Perl, it's best practices and it's ecosystem. 
+Fluent in Python or
+Ruby 
+Working experience of MairaDB or MySQL database and schema design. 
+Experience designing application backends and scalable services. 
+Knowledge
+of Open Source and it's development processes. 
+Able to review code,
+critiques, and patches. 
+Good knowledge of packaging software for Linux
+(rpm, deb)
+
+Website for more information:
+http://providepeople.com/job/software-engineer-pearl/
+
+Contact information at:
+http://jobs.perl.org/job/20196#contact

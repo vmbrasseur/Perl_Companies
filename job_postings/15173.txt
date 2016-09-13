@@ -1,0 +1,141 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15173
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 14367 invoked from network); 27 Jul 2015 07:26:11 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 27 Jul 2015 07:26:11 -0000
+Received: (qmail 11112 invoked by uid 225); 27 Jul 2015 07:26:11 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11108 invoked by alias); 27 Jul 2015 07:26:11 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 27 Jul 2015 00:26:02 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 309CC31B; Mon, 27 Jul 2015 07:25:52 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 27 Jul 2015 07:25:52 +0000
+Message-ID: <20150727072553.309CC31B@web1.develooper.com>
+Subject: Team Lead Software Development (onsite), Amsterdam, the Netherlands
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19734
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 27, 2015
+
+Job title: Team Lead Software Development
+
+Company name: Booking.com
+
+Location: Amsterdam, the Netherlands
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Booking.com BV (the company behind Booking.com™, the market leading online
+hotel reservation service in the world) is looking for hands-on Team Leads
+in back end to contribute to development of the biggest travel website due
+to our company’s phenomenal success and the incumbent growth
+
+B.responsible
+
+Since team leads in IT spend a large part of their time hands-on, it’s
+important that they get to know our development methodology and technical
+stack really well. All team leads therefore start as a developer in one of
+our teams. After you finished training and depending on your readiness,
+we’ll look for a team for you to lead.
+
+We primarily use Perl for
+development. It’s ok if you haven’t used Perl before – as long as you are
+willing to learn it. We use MySQL with Memcache and Redis where necessary.
+We use Git for source control and our deployments are also closely tied to
+it.
+
+At Booking.com we work in small (4-5 people) agile teams. Each team
+owns a part of our product and works on it independently.
+
+As a Team Lead
+you should be able to:
+
+- Write code and play an active role in developing
+new features for a high performance, scalable web platform.
+- Work with the
+team and the product owner to define a prioritized backlog of stories that
+the team will tackle during a given sprint.
+- Monitor team’s progress and
+take ownership of removing any impediments that slow the team down.
+-
+Mentor people on the team and help them improve their game.
+- Assess and
+communicate how your work impacts business and other systems.
+
+Desired skills:
+B.skilled
+
+- You are a technically strong candidate with a minimum of 5
+years experience of working on a large web product
+- You have a sound
+understanding of programming fundamentals and know how they apply to highly
+scalable web based systems
+- You are comfortable making hands-on
+contributions, i.e. write code that is deployed to production servers
+- You
+have led a small team before and like working with people
+- You have a
+pragmatic outlook and excellent communication skills
+
+B.offered
+
+This
+position is open to candidates worldwide and for the right candidates we
+provide Visa and Relocation assistance.
+
+IT is the core of our business and
+we ensure that we give the best ‘deal’ possible, to our employees. Here is
+what you get:
+
+Living and working in Amsterdam, one of the most
+cosmopolitan cities in Europe
+Contributing to a high scale, complex, world
+renowned product and seeing real time impact of your work
+Working in a fast
+paced and performance driven culture
+Career Advancement via Online and
+On-the-job training, Hackathons, Conferences and active community
+participation
+A competitive compensation and benefits package and some
+great added perks of working in the home city of Booking.com
+Booking.com
+BV, part of the Priceline Group (NASDAQ: PCLN), is the global market leader
+in online hotel reservations.  Established in 1996, www.booking.com is
+available in 42 languages, offers more than 500,000 hotels and
+accommodations in 200 countries, features 27+ million reviews written by
+guests after their stay, and attracts online visitors from both leisure and
+business markets around the globe. With over 17 years of experience and a
+team of over 8,000 dedicated employees in 115+ offices
+worldwide,Booking.com BV and its various support companies around the world
+operate an in-house customer service team, which is available 24/7 to
+assist guests in their native languages and ensure an exceptional customer
+experience.  The Booking.com group offers a dynamic work environment with a
+culture that is open, innovative and performance oriented, and believe our
+people and their passion is what makes us successful.
+
+Website for more information:
+https://workingatbooking.com/vacancies/team-lead-software-development-2/
+
+Contact information at:
+http://jobs.perl.org/job/19734#contact

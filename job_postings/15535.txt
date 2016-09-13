@@ -1,0 +1,171 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15535
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 24395 invoked from network); 21 May 2016 06:29:57 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 21 May 2016 06:29:57 -0000
+Received: (qmail 20810 invoked by uid 225); 21 May 2016 06:29:57 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 20806 invoked by alias); 21 May 2016 06:29:57 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 20 May 2016 23:29:55 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 617F016D; Sat, 21 May 2016 06:29:48 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 21 May 2016 06:29:48 +0000
+Message-ID: <20160521062948.617F016D@web1.develooper.com>
+Subject: (Perl) Backend developer (onsite), Berlin, Germany
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19662
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 21, 2016
+
+Job title: (Perl) Backend developer
+
+Company name: travel audience GmbH
+
+Location: Berlin, Germany
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+travel audience GmbH in Berlin is looking for (Perl) Backend developers.
+
+What you will do:
+
+ * Planning, designing, developing, testing, deploying
+and operating new systems, software components and features (mostly Perl)
+
+* Maintaining and operating existing systems (mostly Perl)
+ * Working with
+various relational and NoSQL databases (PostgreSQL, Redis, CouchBase,
+Aerospike, MongoDB, Cloudera Impala, ...), designing schemas, performing
+DBA tasks
+ * Working with an ever growing amount of data, finding the best
+ways to store, analyse and present it to its users
+ * Working closely with
+the Business Intelligence team to plan and implement specific requirements
+
+* Participating in planning the software architecture of new systems
+spanning multiple teams and platforms
+
+Why join us?
+
+ * You can work with
+people who are "Smart" and "Get Things Done" and definitely are "Not a
+Jerk" (in fact we're nice people)
+ * We aim to produce quality work, using
+the right tools and methodologies
+ * We embrace judicious use of automated
+tests and we use benchmarks to settle debates
+ * We believe that developers
+should be given freedom, as they're the most knowledgeable persons to make
+the technical decisions
+ * You will find yourself in a highly motivated
+environment
+ * You will have freedom to contribute your own ideas and to
+implement them
+ * We love Perl
+ * During your work in our team you will
+have the opportunity to learn and work with a broad range of exciting
+technologies, databases, etc.
+ * Our company consists of a highly diverse
+international team, and we believe that this is good
+ * Since we expect
+continuous learning from you, we give you the opportunity to learn, also in
+an organised way - trainings, e-learning courses, etc.
+ * The company is
+still young and growing dynamically, with significant scope for career
+progression
+ * We can offer an attractive salary and other benefits
+ * You
+can live in Berlin - culture, diversity, recreation and surprisingly low
+living costs
+
+About us:
+
+travel audience is a full-service, travel-only,
+performance-focused Demand Side Platform (DSP). We offer real-time
+programmatic advertising capabilities through our proprietary
+Real-Time-Bidding Platform, targeting online travellers with relevant,
+bookable and available travel offers from across the globe. Our team of
+experts and state-of-the-art tools enable travel audience to provide full
+service to our advertisers – from campaign setup to data integration to
+performance optimization.
+
+Additionally our premium publisher network
+consisting of the top travel portals enables us to uniquely match the
+search and booking interest of online travellers with up-to-date travel
+offers. Travel portals (publishers) benefit from travel audience by
+monetizing their non-converting traffic better.
+
+travel audience is a
+wholly owned subsidiary of Amadeus – the world’s leading GDS.
+
+Join our
+fast-paced team of international experts in Berlin and support our
+ambitious expansion plans!
+
+Desired skills:
+Technical skillset:
+ * Solid knowledge of:
+  - Perl
+  - DBI
+  - SQL
+(preferably PostgreSQL)
+  - Database design principles
+  - Linux (as a user
+and as a developer running services on Linux)
+  - Version control,
+preferably Git
+ * Nice to have:
+  - More in-depth Perl knowledge and
+experience
+  - Moose
+  - PostgreSQL
+  - Redis
+  - Aerospike
+  - Cloudera
+Impala
+  - Hadoop
+  - System administration and/or DevOps experience
+  -
+Distributed systems
+  - Big data
+
+Soft-skills and personality:
+ * Being
+able to work in a team
+ * Being able to work independently, organising your
+work and communicating with other teams
+ * A healthy level of perfectionism
+ * Being a quick learner and willing to learn
+ * Proactive attitude
+ *
+Excellent analysis and problem-solving abilities with a pragmatic approach
+
+* Good understanding of abstractions
+ * Excellent verbal and written
+communication skills in English
+
+Website for more information: http://travelaudience.com
+
+Contact information at:
+http://jobs.perl.org/job/19662#contact

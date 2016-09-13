@@ -1,0 +1,95 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14947
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 3322 invoked from network); 3 Mar 2015 06:15:50 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 3 Mar 2015 06:15:50 -0000
+Received: (qmail 16372 invoked by uid 225); 3 Mar 2015 06:15:50 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 16367 invoked by alias); 3 Mar 2015 06:15:49 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 02 Mar 2015 22:15:47 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id DC8EC42A82; Mon,  2 Mar 2015 22:15:43 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 2 Mar 2015 22:15:43 -0800
+Message-ID: <20150303061543.DC8EC42A82@x3.develooper.com>
+Subject: Extend a Perl Dancer based RESTful API (telecommute), Cape Town,
+ South Africa
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19384
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March  2, 2015
+
+Job title: Extend a Perl Dancer based RESTful API
+
+Company name: zootzone.com
+
+Location: Cape Town, South Africa
+
+Pay rate: $55/hour
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+We're a hosting company, based in South Africa, building a new hosting
+platform, currently under heavy development.
+
+Specific to Perl, our domain registration API is built with Perl Dancer,
+which we'd like to extend.
+
+It consumes EPP/XML on the registry side (EPP::Simple) and exposes JSON via
+a RESTful API to our control panel, which is built using Python/Flask.
+
+This job post is for extending the domain API to integrate with a second
+domain registry in addition to enhancing the existing integration.
+
+Technologies in use: Linux, Perl, Python, nginx, PostgreSQL, qmail,
+qpsmtpd, dovecot, Ansible, Git.
+
+Possible future work will involve helping to design and build the web and
+email hosting APIs, which the control panel will consume, depending on your
+performance and rapport with the team.
+
+If you're a seasoned expert with boat loads of experience and a great track
+record, the rate is negotiable.
+
+You must live in a timezone with at least 4 hours of overlap with our
+working hours, namely 8am-5pm GMT+2
+
+Required skills:
+- Strong Perl background.
+- RESTful API experience.
+- Worked with Perl Dancer or other modern Perl frameworks.
+- EPP and/or XML experience.
+- Linux/UNIX experience.
+
+Desired skills:
+- Good grasp of the domain system.
+- Structured and organised coding habits, with clear commenting.
+- Preference for simple, elegant systems over complex ones.
+- Experienced git user.
+- PostgreSQL.
+- We use Slack, Github and Pivotal Tracker for development.
+
+Website for more information: https://www.zootzone.com
+
+Contact information at:
+http://jobs.perl.org/job/19384#contact

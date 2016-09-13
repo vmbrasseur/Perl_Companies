@@ -1,0 +1,90 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13843
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13886 invoked from network); 2 Nov 2013 00:18:10 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 2 Nov 2013 00:18:10 -0000
+Received: (qmail 14978 invoked by uid 225); 2 Nov 2013 00:18:10 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 14973 invoked by alias); 2 Nov 2013 00:18:10 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 01 Nov 2013 17:18:04 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id E900C2AFE0; Fri,  1 Nov 2013 17:18:00 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 1 Nov 2013 17:18:00 -0700
+Message-ID: <20131102001800.E900C2AFE0@x3.develooper.com>
+Subject: PERL Developer (Investment Banking) (onsite), London, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18004
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November  1, 2013
+
+Job title: PERL Developer (Investment Banking)
+
+Company name: Hudson
+
+Location: London, UK
+
+Pay rate: £450
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 6 month rolling
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+An Investment Bank in London has a requirement for a contract Perl
+Developer. The bank are looking for an experienced Perl developer to join
+the London based engineering team, responsible for the Bank’s Java hosting
+platform. 
+
+Key Responsibilities:
+•	Develop Perl services providing integration points between our Java
+platform and management Portal
+•	Engineer, test and certify components on the Bank’s Application
+Platform
+•	Share and document artifacts via internal wikis and SharePoint 
+•	Actively collaborate within and across teams, share designs and
+discuss issues
+
+Required skills:
+•	Object Oriented Perl (Perl scripting alone will not be sufficient)
+•	Shell scripting
+•	At least some Web Development experience: HTML, JavaScript, CSS
+•	Solid understanding of Unix/Linux operating systems & comfortable
+using Linux on the command line
+•	Revision control systems (Subversion, branching and merging)
+Can build software from source; make, autoconf, etc.
+
+Desired skills:
+•	Perl modules: Template::Toolkit, Test::More, LWP, XML::LibXML
+•	SuSE and/or RedHat Linux Enterprise Server
+•	Administration experience of at least one of these Web
+technologies: Tomcat, JBoss, Weblogic
+•	Experience with software development life cycle and change
+management in large enterprises
+•	Networking fundamentals: TCP/IP, DNS
+•	Experience with a system automation frameworks
+•	Java programming beneficial.
+
+Website for more information: http://uk.hudson.com/banking-recruitment
+
+Contact information at:
+http://jobs.perl.org/job/18004#contact

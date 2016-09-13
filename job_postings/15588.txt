@@ -1,0 +1,116 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15588
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 11456 invoked from network); 19 Jun 2016 04:41:07 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 19 Jun 2016 04:41:07 -0000
+Received: (qmail 18346 invoked by uid 225); 19 Jun 2016 04:41:06 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 18342 invoked by alias); 19 Jun 2016 04:41:06 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 18 Jun 2016 21:41:01 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id A1AD4428; Sun, 19 Jun 2016 04:40:58 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sun, 19 Jun 2016 04:40:58 +0000
+Message-ID: <20160619044058.A1AD4428@web1.develooper.com>
+Subject: Full Stack Software Engineer (onsite), London, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20268
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 19, 2016
+
+Job title: Full Stack Software Engineer
+
+Company name: Shutterstock
+
+Location: London, UK
+
+Pay rate: 75,000 GBP
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Shutterstock is looking for top technologists to join our team. You will be
+working with highly motivated and extremely talented engineers on backend
+services with quality, performance and scale in mind at every step of the
+way.  Our core belief is that the customers are our number one priority so
+we work hard to deliver value back to them with everything we do.  We
+believe strongly in team ownership of systems, which includes defining the
+vision of the services to prioritization of projects.
+
+Responsibilities:
+
+Contributing to all aspects of the services under the team’s ownership,
+which includes design, implementation, refactoring, automated testing,
+deployment, and uptime of the services.
+Helping other team members grow as
+engineers through code review, pairing, and mentoring.
+Improving internal
+team processes by keeping what's working, throwing away what's not.
+Setting
+the vision of the services under the team's ownership.
+Aligning roadmap
+based on customer and company desires.
+Building the technology the right
+way: for us, this means simple, well-tested systems that gradually grow
+over time, and that provide plenty of insight into production performance.
+
+Desired skills:
+Requirements:
+
+5+ years of relevant experience
+BS or MS degree in Computer
+Science or related experience
+Full-Stack software development experience
+using HTML, JavaScript and CSS
+Very strong knowledge of how the Web works
+and how to make it efficient (HTTP, caching, page rendering, etc)
+Experience building and designing highly scalable services, and RESTful
+API’s that power multiple consumers.
+Experience with SOA architecture
+working on distributed/high trafficked systems.
+Understanding of data
+stores including relational and NoSQL based.
+Ability to craft simple and
+elegant solutions to complex problems.
+Solid software development
+fundamentals (Data Structures, algorithms, problem solving, OO Design, and
+system architecture).
+Passionate about what you do and care deeply about
+the things you build.
+Able to clearly communicate to technical and
+non-technical audiences.
+Experience programming in at least one OO language
+Has a good understanding of continuous delivery, writing unit tests and
+automated testing.
+
+Bonus Skills:
+
+Mod_Perl, Node.js, web development
+experience
+Experience with automated configuration tools like Puppet, Chef
+or Ansible
+Experience working in an agile environment
+
+Website for more information: http://www.shutterstock.com/jobs
+
+Contact information at:
+http://jobs.perl.org/job/20268#contact

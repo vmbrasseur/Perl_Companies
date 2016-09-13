@@ -1,0 +1,99 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14332
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 15814 invoked from network); 19 Apr 2014 05:01:36 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 19 Apr 2014 05:01:36 -0000
+Received: (qmail 8857 invoked by uid 225); 19 Apr 2014 05:01:36 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 8853 invoked by alias); 19 Apr 2014 05:01:36 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 18 Apr 2014 22:01:33 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id ACF7442972; Fri, 18 Apr 2014 22:01:28 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 18 Apr 2014 22:01:28 -0700
+Message-ID: <20140419050130.ACF7442972@x3.develooper.com>
+Subject: Perl developer (onsite), London, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18558
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April 18, 2014
+
+Job title: Perl developer
+
+Company name: Adzuna
+
+Location: London, UK
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Perl Developer at Adzuna
+
+We are looking for an experienced Perl developer to support the ongoing
+development of the Adzuna job search engine. This is a great opportunity to
+join a fast-growing, early-stage startup.
+
+As the sixth member of the team you will work on a Solr powered frontend
+website, with a Gearman-powered, distributed backend aggregating job ads
+from across the web, crunching job market data and applying machine
+learning algorithms to enhance job seekers’ experience.
+
+You will need to thrive on working independently in a fast-moving,
+low-structure environment. You will have the chance to help shape our
+technical direction and processes as we grow. An appreciation of the
+‘devops’ movement is essential as we manage and monitor the systems
+ourselves. You will also need to understand the importance of building
+structured code that is fast, scalable, reliable and robust. 
+
+The projects you will work on will include new search features, relevancy
+and matching algorithms, APIs and ‘big data’ analysis, reporting tools and
+features to enhance the job search experience on Adzuna. Our systems have
+been built to scale, and you will be able to demonstrate your experience in
+writing scalable code running in distributed environments.
+
+Required skills:
+Excellent Object-Oriented Perl
+Apache, fastcgi
+MySQL
+Solr or other search engine experience
+Linux
+Testing
+Version control (Git)
+Understanding of distributed systems
+
+Desired skills:
+Experience with templating frameworks (ideally Template Toolkit)
+Moose/Catalyst
+Spidering technology
+Catalogue / feeds management
+Search engine optimisation
+Classified ads / vertical search websites
+Cloud services integration
+Chef
+ElasticSearch
+Machine learning / neural nets
+Gearman or other distributed job-dispatching mechanisms
+
+Website for more information: http://www.adzuna.co.uk/jobs
+
+Contact information at:
+http://jobs.perl.org/job/18558#contact

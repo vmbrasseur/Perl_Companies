@@ -1,0 +1,77 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14373
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 15974 invoked from network); 4 May 2014 22:10:12 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 4 May 2014 22:10:12 -0000
+Received: (qmail 27696 invoked by uid 225); 4 May 2014 22:10:11 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 27692 invoked by alias); 4 May 2014 22:10:11 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 04 May 2014 15:10:09 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 5244C42950; Sun,  4 May 2014 15:10:05 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sun, 4 May 2014 15:10:05 -0700
+Message-ID: <20140504221005.5244C42950@x3.develooper.com>
+Subject: Data Engineer (onsite), Redwood Shores, CA, United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18602
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May  4, 2014
+
+Job title: Data Engineer
+
+Company name: Perfect World Entertainment
+
+Location: Redwood Shores, CA, United States
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+In this position, the Data Engineer will work on a small team to implement
+primarily Perl-based solutions to data processing and infrastructure
+problems. The Data Engineer will help to design and construct systems for
+managing data from millions of users, and coordinate with other teams on a
+global scale. The day-to-day activities will include writing clean,
+intelligible code with corresponding tests, and interfacing with fellow
+engineers to solve problems as they arise.
+
+Required skills:
+- Bachelor's degree in CS or equivalent experience
+- Perl
+- SQL
+- Unix/Linux
+
+Desired skills:
+- DBI and Moose experience
+- Strong object-oriented design skills
+- Bash and/or POSIX shell scripting
+- MySQL
+- NoSQL (Elasticsearch, Redis)
+- Git
+- Ability to optimize systems (SQL queries, Perl memory usage, etc.)
+- Experience making sense of many data sources (text encodings, advanced
+regular expressions, etc.)
+
+Website for more information: http://www.pwe-inc.com/career
+
+Contact information at:
+http://jobs.perl.org/job/18602#contact

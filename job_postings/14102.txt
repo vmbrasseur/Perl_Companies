@@ -1,0 +1,87 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14102
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 22385 invoked from network); 24 Jan 2014 04:52:53 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 24 Jan 2014 04:52:53 -0000
+Received: (qmail 13479 invoked by uid 225); 24 Jan 2014 04:52:53 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 13475 invoked by alias); 24 Jan 2014 04:52:53 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,T_FRT_PROFILE2
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 23 Jan 2014 20:52:51 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id A3BE942936; Thu, 23 Jan 2014 20:52:48 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 23 Jan 2014 20:52:48 -0800
+Message-ID: <20140124045248.A3BE942936@x3.develooper.com>
+Subject: Senior Software Engineer (onsite), Santa Monica, CA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18326
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 23, 2014
+
+Job title: Senior Software Engineer
+
+Company name: Rent.com
+
+Location: Santa Monica, CA
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Job Summary:
+Designs, modifies, develops, implements and supports applications.  Must
+ensure all work is fully covered by tests. Must be familiar with a variety
+of industry concepts, practices and procedures.  Must employ the right
+technology for the best solution approach.  Must be able to perform a
+variety of complicated tasks.  Must be a team player and willing to work in
+a pairing environment.
+
+Essential Functions:
+  
+•	Provide architecturally sound software applications.
+•	Provide meaningful testing implementations.
+•	Provide production support.
+•	Participate in planning meetings and software releases.
+•	Share knowledge and stay atop industry trends.
+
+Required skills:
+Knowledge, Skills, and Abilities:
+•	A solid foundation in computer science, with strong competencies in
+data structure, algorithms, and software design
+•	HTML::Mason or Template Toolkit experience
+•	Javascript/Ajax frameworks
+•	Ruby/Sinatra
+•	Experience with open source software
+•	Experience in one or more of the following: C/C++/Objective-C,
+Java, Ruby, Python (strong OO skills preferred
+
+Qualifications, Training, and Experience:
+
+•	BS/MS in Computer Science or related field/degree, and/or
+equivalent work experience
+•	Extensive programming experience in Perl/Mod Perl
+•	3+ years of large scale systems design experience, with extensive
+knowledge of Unix/Linux
+•	Proficient in SQL and schema design
+•	Proficient in Object Oriented design and development
+
+Contact information at:
+http://jobs.perl.org/job/18326#contact

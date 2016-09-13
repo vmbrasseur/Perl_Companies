@@ -1,0 +1,74 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14374
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 16061 invoked from network); 4 May 2014 22:10:19 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 4 May 2014 22:10:19 -0000
+Received: (qmail 27724 invoked by uid 225); 4 May 2014 22:10:18 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 27720 invoked by alias); 4 May 2014 22:10:18 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 04 May 2014 15:10:16 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 9F5AE42950; Sun,  4 May 2014 15:10:14 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sun, 4 May 2014 15:10:14 -0700
+Message-ID: <20140504221014.9F5AE42950@x3.develooper.com>
+Subject: Perl programmer and linux server administrator (telecommute), Oslo
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18604
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May  4, 2014
+
+Job title: Perl programmer and linux server administrator
+
+Company name: Portu Media & Communications
+
+Location: Oslo
+
+Terms of employment: Hourly employee
+
+Length of employment: 1 year
+
+Hours: Part time
+
+Onsite: no
+
+Description:
+Maintenance and development of an existing Perl-based CMS-system and
+ralated websites. Maintenance of legacy Perl/HTML::Mason-based websites.
+Linux server administration.
+
+Required skills:
+- Fluent in Perl and JavaScript (at least 2 years of documented experience)
+
+- Fluent on standards-based HTML/CSS 
+- Familiar with SQL
+- We want a person who can respond quick, and is albe to allocate 10-20
+hours a week.
+
+Desired skills:
+Familiarity with jQuery or similar JavaScript-libraries 
+- Experience with the Perl-modules HTML::Mason, Catalyst nd DBIx::Class 
+- Experience with use of FastCGI 
+- Experience with distributed revision control systems. We're using git and
+GitHub/Bitbucket.org
+- PHP
+
+Website for more information: http://www.portu.no
+
+Contact information at:
+http://jobs.perl.org/job/18604#contact

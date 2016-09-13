@@ -1,0 +1,46 @@
+# carton snapshot format: version 1.0
+DISTRIBUTIONS
+  Email-Date-Format-1.005
+    pathname: R/RJ/RJBS/Email-Date-Format-1.005.tar.gz
+    provides:
+      Email::Date::Format 1.005
+    requirements:
+      Exporter 5.57
+      ExtUtils::MakeMaker 0
+      Time::Local 0
+      strict 0
+      warnings 0
+  Email-Simple-2.210
+    pathname: R/RJ/RJBS/Email-Simple-2.210.tar.gz
+    provides:
+      Email::Simple 2.210
+      Email::Simple::Creator 2.210
+      Email::Simple::Header 2.210
+    requirements:
+      Carp 0
+      Email::Date::Format 0
+      ExtUtils::MakeMaker 0
+      perl 5.008
+      strict 0
+      warnings 0
+  Text-CSV-1.33
+    pathname: M/MA/MAKAMAKA/Text-CSV-1.33.tar.gz
+    provides:
+      Text::CSV 1.33
+      Text::CSV::ErrorDiag 1.33
+      Text::CSV_PP 1.33
+    requirements:
+      ExtUtils::MakeMaker 0
+      IO::Handle 0
+      Test::Harness 0
+      Test::More 0
+  Text-CSV_XS-1.25
+    pathname: H/HM/HMBRAND/Text-CSV_XS-1.25.tgz
+    provides:
+      Text::CSV_XS 1.25
+    requirements:
+      Config 0
+      DynaLoader 0
+      ExtUtils::MakeMaker 0
+      IO::Handle 0
+      Test::More 0

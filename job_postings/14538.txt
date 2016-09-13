@@ -1,0 +1,97 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14538
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 9551 invoked from network); 17 Jul 2014 01:20:19 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 17 Jul 2014 01:20:19 -0000
+Received: (qmail 2959 invoked by uid 225); 17 Jul 2014 01:20:19 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 2955 invoked by alias); 17 Jul 2014 01:20:19 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 16 Jul 2014 18:20:17 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id C85DC4297C; Wed, 16 Jul 2014 18:20:13 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 16 Jul 2014 18:20:13 -0700
+Message-ID: <20140717012013.C85DC4297C@x3.develooper.com>
+Subject: Perl Hacker (onsite), Somerville, MA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18800
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 16, 2014
+
+Job title: Perl Hacker
+
+Company name: Best Practical Solutions
+
+Location: Somerville, MA
+
+Pay rate: DOE
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We're looking for a software engineer to help us enhance and refine our
+products, and as well as to be excellent to our customers. You'll be
+responsible for everything from implementing new features, to testing and
+applying user-contributed patches to our released software. In a typical
+week, you'll probably spend about half your time working on internal and
+open source projects, and half working on customer projects; this requires
+good communication skills, as well as a desire to help customers get the
+most out of our software.
+
+The hours are fairly flexible, and we all telecommute some of the
+time...though we work from our office in the heart of Davis Square,
+Somerville on most days. While we do a fair amount of our collaboration
+in-person, you should also be comfortable using email and instant messaging
+to coordinate and get work done, as we have a few employees in other parts
+of the globe.
+
+Required skills:
+You should be a self-starter who either has solid experience with Perl, or
+significant experience with similarly-flavored languages (Python, Ruby,
+etc) and a willingness to pick up Perl quickly. Some experience with at
+least a few of the following buzzwords is also desirable:
+
+Open source development practices (code review, backcompat)
+Distributed source control (git, branching, patches)
+Test driven development (smoke testing, Test::More)
+User interface design (HTML, CSS)
+Documentation (user-facing, API)
+Javascript (jQuery, AJAX)
+SQL databases (MySQL, PostgreSQL, Oracle, SQLite)
+Optimization, profiling, and debugging (nytprof)
+UNIX systems administration (webservers, mailservers)
+It's okay if you don't know everything out of the gate, but you should be
+able to learn on the fly and be comfortable asking questions when you get
+in over your head. RT is a large codebase to dive into, so you should be
+prepared to work with a project that's too big to hold in your head all at
+once. If you want to see what sort of trouble you're getting yourself into,
+you can find all of our open source code on github.
+
+Desired skills:
+We're a small company; you should be comfortable working both independently
+and in small teams, and prioritizing tasks on your own. Being able to
+task-switch efficiently and juggle several projects at once is a necessity.
+
+Website for more information: http://bestpractical.com
+
+Contact information at:
+http://jobs.perl.org/job/18800#contact

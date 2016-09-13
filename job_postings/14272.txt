@@ -1,0 +1,162 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14272
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13948 invoked from network); 23 Mar 2014 22:37:17 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 23 Mar 2014 22:37:17 -0000
+Received: (qmail 26777 invoked by uid 225); 23 Mar 2014 22:37:16 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 26773 invoked by alias); 23 Mar 2014 22:37:15 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,T_FILL_THIS_FORM_SHORT,T_FRT_PROFILE2
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 23 Mar 2014 15:37:13 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 88F4942954; Sun, 23 Mar 2014 15:37:10 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sun, 23 Mar 2014 15:37:10 -0700
+Message-ID: <20140323223710.88F4942954@x3.develooper.com>
+X-Virus-Checked: Checked
+Subject: Information Analyst II (onsite), Philadelphia, PA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18492
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March 23, 2014
+
+Job title: Information Analyst II
+
+Company name: The Children's Hospital of Philadelphia
+
+Internal ID: 32493
+
+Location: Philadelphia, PA
+
+Pay rate: DOE
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The Children’s Hospital of Philadelphia is a national leader in advancing
+health care for children. In addition to basic research into disease
+processes and treatments, this role includes study of the delivery of care
+to children, and the actual impact it has on their health. To support new
+large-scale research projects, CHOP is collaborating with other children’s
+hospitals to create a national pediatric learning health system (PEDSnet),
+linked to other national networks in the Patient-Centered Outcomes Research
+Institute’s PCORnet system. PEDSnet presents an exciting opportunity not
+only to conduct new pediatric studies, but to create new ways to study
+children’s health that are not possible at the single-site or
+single-project level.
+
+The Information Scientist will be a pivotal member of a team operating the
+PEDSnet Data Coordinating Center anchored in CHOP’s Center for Biomedical
+Informatics, working with other team members here and informatics experts
+at other institutions to create an interoperable, reliable, and usable data
+resource for network-wide research projects. Key roles will include (1)
+semantic analyses of data, (2) constructing ETL processes to convert data
+from electronic health records and other sources into a common data model,
+(3) engineering and managing tools used to store and access PEDSnet data,
+(4) assisting in development of federated query capability across the
+network, and (5) developing datasets and code for specific research
+projects. This work will be done under the guidance of project
+investigators, and will involve participation in cross-institution
+collaborative work groups.
+
+Job Responsibilities
+1. Data Management
+• Participates in mapping of data from operational sources to PEDSnet data
+model and terminologies, under guidance of informaticians.
+• Develops and executes ETL specification based on these mappings in
+partnership with data integration analysts.
+• Monitors ongoing status of data repository, and bidirectional data flow
+within collaborative network.
+• Executes queries and constructs analytic datasets as needed for research
+projects.
+• Conducts information audits and develops and manages electronic
+resources.
+2. Scientific and Application Programming
+• Configures, modifies, and extends data transformation, storage, and query
+applications using the i2b2 and/or OMOP frameworks.
+• Develops or modifies tools to support ETL, data quality analysis and
+cleaning, and repository monitoring.
+• Develops web applications to mediate reporting and querying, using
+Harvest or similar frameworks.
+• Makes use of version control and project managements systems in
+collaborative informatics group.
+3. Project Documentation and Training
+• Produces detailed documentation for all assigned data projects -
+documents all projects fully and completely.
+• Ensures appropriate metadata are developed and recorded.
+• Circulates current information issues to staff.
+• Writes and edits technical reports.
+• Trains colleagues and clients how to use specific information systems.
+
+Required skills:
+Education and Experience
+• Bachelor’s or Master’s degree in Computer Science, Informatics,
+Information Systems, or related field.
+• 3 or more years of experience.
+• Proficiency in one or more programming languages, such as Perl, Python,
+Javascript, Java, or C.
+• Proficiency in working in Unix/Linux environment, using version control
+systems such as git and Subversion, and other software development tools.
+• Experience with integration of large and complex data sets.
+
+
+All CHOP employees who work in a patient building or who provide patient
+care are required to receive an annual influenza vaccine unless they are
+granted a medical or religious exemption.
+
+The Children's Hospital of Philadelphia is committed to providing a safe
+and healthy environment for its patients, family members, visitors and
+employees.  In an effort to achieve this goal, employment at The Children's
+Hospital of Philadelphia, other than for positions with regularly scheduled
+hours in New Jersey, is contingent upon an attestation that the job
+applicant does not use tobacco products or nicotine in any form and a
+negative nicotine screen (the latter occurs after a job offer).
+
+The Children's Hospital of Philadelphia is an equal opportunity employer.
+We do not discriminate on the basis of race, color, gender, gender
+identity, sexual orientation, age, religion, national or ethnic origin,
+disability or protected veteran status.
+
+Desired skills:
+• Experience in managing health care data preferred.
+• Experience with i2b2 and/or OMOP preferred.
+
+Additional Requirements
+• Demonstrated knowledge of relational databases, complex data integration,
+and database design.
+• Strong interest in database architecture, data mining and business
+analysis.
+• Experience with analytic tools such as R, Stata, or SPSS a benefit.
+• Strong problem solving and critical thinking skills.
+• Very good oral and written communication skills.
+• Ability to document procedures and specifications, and develop policies
+and procedures in regard projects.
+• Ability to perform work that is detailed and routine.
+• Ability to work under stress and meet deadlines.
+• Creativity and initiative in problem solving with consultative team but
+significant independence.
+• Team Oriented. Must be able to work effectively with complex and multiple
+teams simultaneously.
+
+Website for more information: http://www.chop.edu
+
+Contact information at:
+http://jobs.perl.org/job/18492#contact

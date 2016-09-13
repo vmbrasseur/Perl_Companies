@@ -1,0 +1,124 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14938
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 19644 invoked from network); 26 Feb 2015 06:01:05 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 26 Feb 2015 06:01:05 -0000
+Received: (qmail 9658 invoked by uid 225); 26 Feb 2015 06:01:04 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 9650 invoked by alias); 26 Feb 2015 06:01:04 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,T_FILL_THIS_FORM_SHORT
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 25 Feb 2015 22:00:57 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id A83F44294C; Wed, 25 Feb 2015 22:00:53 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 25 Feb 2015 22:00:52 -0800
+Message-ID: <20150226060053.A83F44294C@x3.develooper.com>
+Subject: Software Engineer (onsite), San Francisco, CA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19370
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 25, 2015
+
+Job title: Software Engineer
+
+Company name: Symantec
+
+Internal ID: 17386BR
+
+Location: San Francisco, CA
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Relentlessly protect the world’s information. Make a difference at
+Symantec. Across the globe, we are an ‘essential’ partner to both consumers
+and businesses of all sizes. We combine our talents, our brains, and our
+creative energy to reinforce our place as a world-class technical
+community. 
+
+Join a dynamic international team developing the software that keeps e-mail
+safe! Symantec Corporation, the leader in computer security, is hiring a
+Senior Software Engineer for the Anti-Spam Engineering group. This is an
+on-site position based in downtown San Francisco. 
+
+This is a software development role, on the team responsible Symantec’s
+enterprise Anti-Spam solution. Work on building out our mission critical,
+24x7 cloud-based service backing enterprise security for numerous Fortune
+500 customers.
+
+Responsibilities: 
+•	Writing, testing and debugging both legacy and new software in
+multiple languages. 
+•	Analyzing software systems and identifying targets for improvement.
+
+•	Designing and developing new components of the software system. 
+•	Documenting software designs and implementations for peer, user and
+stakeholder audiences. 
+•	Proactively communicating with peers and management. 
+•	Self-managing work within cycles/sprints and delivering quality on
+time.
+
+Required skills:
+•	Expertise in Perl. 
+•	Bachelor's degree in engineering or computer science, or equivalent
+experience. 
+•	Full understanding of Object Oriented software paradigms. 
+•	Expertise in at least one server-oriented language, ideally in
+Perl. 
+•	Experience working with relational database systems, ideally
+Oracle. 
+•	Experience shipping production software. 
+•	Experience writing and/or maintaining mission-critical
+zero-downtime systems. 
+•	Experience with and comfort in a UNIX/Linux development and
+production environment. 
+•	Experience collaborating within a fast-paced team. 
+•	Experience working successfully in a quality-driven engineering
+environment. 
+•	Experience with unit testing using standard frameworks. 
+•	Proven ability to work under pressure, independently and as part of
+a team. 
+•	Enthusiasm for Software Engineering as a discipline and Security as
+an industry. 
+•	Excellent oral and written communication skills.
+
+Desired skills:
+•	Experience with OpenStack-based cloud systems. 
+•	Experience with Agile methodologies. 
+•	Experience with Computer Security (anti-virus, anti-spam, et al). 
+•	Experience delivering internet services. 
+•	Experience with modern languages such as Scala. 
+•	Web application experience, including user interfaces. 
+•	Experience working with large data sets. 
+
+Symantec is an equal opportunity employer. All candidates for employment
+will be considered without regard to race, color, religion, sex, gender
+identity, sexual orientation, national origin, physical or mental
+disability, veteran status, or any other basis protected by applicable
+federal, state or local law.
+
+Website for more information:
+https://sjobs.brassring.com/tgwebhost/jobdetails.aspx?jobId=1744714&Partner
+Id=25471&SiteId=5529&type=mail&JobReqLang=1&recordstart=1&JobSiteId=5529&Jo
+bSiteInfo=1744714_5529&gqid=0
+
+Contact information at:
+http://jobs.perl.org/job/19370#contact

@@ -1,0 +1,176 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15294
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 23273 invoked from network); 16 Nov 2015 13:27:43 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 16 Nov 2015 13:27:43 -0000
+Received: (qmail 4969 invoked by uid 225); 16 Nov 2015 13:27:43 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 4965 invoked by alias); 16 Nov 2015 13:27:43 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,LOTS_OF_MONEY,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 16 Nov 2015 05:27:35 -0800
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 8C5EF297; Mon, 16 Nov 2015 13:27:32 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 16 Nov 2015 13:27:32 +0000
+Message-ID: <20151116132732.8C5EF297@web1.develooper.com>
+X-Virus-Checked: Checked
+Subject: Senior Perl Developer, London, SW6 (not remotely)
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19756
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 16, 2015
+
+Job title: Senior Perl Developer
+
+Company name: Adzuna
+
+Location: London, SW6 (not remotely)
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Description:
+We are looking for an experienced Perl developer to support the ongoing
+development and rapid growth of the Adzuna job search engine. This is a
+great opportunity to join a fast-growing, blue-chip startup.
+
+As a key
+member of our small but experienced team, you will work on a Solr powered
+frontend website, with a Gearman-powered, distributed backend aggregating
+job ads from across the web, crunching job market data and applying machine
+learning algorithms to enhance job seekers’ experience.
+
+You will need to
+thrive on working independently in a fast-moving, low-structure
+environment. You will have the chance to help shape our technical direction
+and processes as we grow. An appreciation of the ‘devops’ movement is
+essential as we manage and monitor the systems ourselves. You will also
+need to understand the importance of building structured code that is fast,
+scalable, reliable and robust.
+The projects you will work on will include
+new search features, relevancy and matching algorithms, APIs and ‘big data’
+analysis, reporting tools and features to enhance the job search experience
+on Adzuna. Our systems have been built to scale, and you will be able to
+demonstrate your experience in writing scalable code running in distributed
+environments.
+
+You will:
+
+- need to possess a solid understanding of
+application data flow and ability to partner with other engineers and data
+scientists to improve existing systems and develop new functionality and
+tools
+
+- analyse business and technical requirement and develop solutions,
+taking into account variable aspects, such as performance, scalability,
+ease of maintenance.
+
+- help refactor existing processes and workflows to
+improve availability and performance
+
+- participate in R&D of new
+technology trends and tools
+assist and mentor members of our development
+team
+
+
+About Adzuna
+
+
+Adzuna is a search engine for job ads used by over 7
+million visitors per month that aims to list every job, everywhere. We
+search thousands of websites so our users don’t have to, bringing together
+millions of ads in one place. By providing smarter search options and
+powerful data about the job market, as well as unique tools like ValueMyCV,
+we give jobseekers the information they need to take control of their
+careers.
+
+Adzuna’s data also powers the Number 10 Dashboard, used by the
+Prime Minister and senior officials to keep track of economic growth on a
+daily basis.
+
+Adzuna.co.uk was founded in 2011 by Andrew Hunter and Doug
+Monro, formerly of eBay, Gumtree, Qype and Zoopla and is backed by leading
+Venture Capital firms Passion Capital, The Accelerator Group and Index
+Ventures, and recently raised a further £2M from a successful crowdfunding
+campaign. Adzuna has also been selected to be part of the Government’s
+Future Fifty programme.
+
+Adzuna’s mission is to be the best place to start
+looking for a job. We love using the awesome power of technology to help
+match people to better, more fulfilling jobs and keep Britain working.
+
+What we offer:
+
+· Competitive salary
+· Stock options
+· An opportunity to be
+part of a high-growth startup business with a friendly, informal,
+no-politics, low-hierarchy, multicultural team culture.
+· The chance to
+work with and learn from a highly motivated team of experienced internet
+professionals who want to make job search better.
+
+Startup benefits like a
+positive attitude towards flexible working and families, your birthday off,
+bike to work scheme, childcare vouchers, regular team training sessions -
+plus a table tennis table and a program of team social events.
+
+Bright,
+airy office in leafy Parson's Green with great pubs & delis around, green
+space to have lunch in the park, close to famous King's Road in Chelsea.
+
+Desired skills:
+Required skills
+
+- 5+ years with high-volume/high-traffic
+applications/sites
+- Excellent Object-Oriented Perl. Moose.
+- Apache,
+fastcgi
+- strong mysql and DBIx
+- Good experience with Unix/Linux and shell
+scripts
+- Experience with unit and functional testing
+- Git
+- Strong
+attention to detail
+
+
+Useful extra skills / experience
+
+- SOLR, Lucene,
+ElasticSearch or other search engine
+- Experience with templating
+frameworks (ideally Template Toolkit)
+- Classified ads / vertical search
+websites
+- Varnish
+- Spidering technology
+- Search technology and search
+engine optimisation
+- Cloud infrastructure and tools.
+- Chef (pref), Puppet
+or an equivalent
+- Gearman or other distributed job-dispatching frameworks
+- Machine learning / neural nets
+
+Website for more information: http://www.adzuna.co.uk/about-us.html
+
+Contact information at:
+http://jobs.perl.org/job/19756#contact

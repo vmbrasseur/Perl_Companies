@@ -1,0 +1,79 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14211
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 2364 invoked from network); 27 Feb 2014 08:25:17 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 27 Feb 2014 08:25:17 -0000
+Received: (qmail 22792 invoked by uid 225); 27 Feb 2014 08:25:16 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 22788 invoked by alias); 27 Feb 2014 08:25:16 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 27 Feb 2014 00:25:14 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 69ED642A86; Thu, 27 Feb 2014 00:25:11 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 27 Feb 2014 00:25:11 -0800
+Message-ID: <20140227082511.69ED642A86@x3.develooper.com>
+Subject: Perl Developer (onsite), Cary, NC, United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18422
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 27, 2014
+
+Job title: Perl Developer
+
+Company name: Deutsche Bank
+
+Location: Cary, NC, United States
+
+Pay rate: Excellent Package
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are responsible for engineering highly automated Web and Java hosting
+services within this well established global investment bank.  Our
+solutions are used to host thousands of business applications on
+efficiently managed Web/Java containers deployed to hundreds of Linux hosts
+globally with feature rich self service portals. We are looking to expand
+our Cary based team with developers who can work on our Perl code bases to
+further improve our services.
+
+Required skills:
++ Strong programming experience in Object Orientated Perl and/or Strong Web
+UI Development (JQuery, backbone)
++ Ability to reverse-engineer legacy code
++ Linux/Unix process administration and shell scripting
++ Agile Test Driven Development
++ Revision Control Systems (Subversion, branching and merging)
++ Strong experience with at least one of following: Apache, Tomcat,
+WebLogic, JBoss or CPanel type administration UI
+
+Desired skills:
+- Perl Modules: XML, DBIx, Test::More, Catalyst (to name a few we use)
+- Opensource software compilation, configuration and deployment
+- Large scale web or application hosting architectures
+- HTTP(s), REST, web services
+- Web, Application and OS security
+- Networking: IP, loadbalancing (F5, apache modules)
+- Working as part of a global development team
+
+Contact information at:
+http://jobs.perl.org/job/18422#contact

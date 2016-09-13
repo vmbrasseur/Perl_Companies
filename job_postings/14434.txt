@@ -1,0 +1,89 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14434
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 19777 invoked from network); 28 May 2014 16:47:05 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 28 May 2014 16:47:05 -0000
+Received: (qmail 32294 invoked by uid 225); 28 May 2014 16:47:05 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 32290 invoked by alias); 28 May 2014 16:47:05 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 28 May 2014 09:47:02 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id BD4B84294A; Wed, 28 May 2014 09:46:58 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 28 May 2014 09:46:58 -0700
+Message-ID: <20140528164658.BD4B84294A@x3.develooper.com>
+Subject: Senior Perl Developer (onsite), Amsterdam, Netherlands
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17651
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 28, 2014
+
+Job title: Senior Perl Developer
+
+Company name: RDC inMotiv Nederland B.V.
+
+Location: Amsterdam, Netherlands
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+RDC inMotiv Nederland richt zich op het ondersteunen van autobedrijven en
+andere spelers in de automotive bij hun automatiseringsprocessen. Hiervoor
+leveren we data, diensten en applicaties.
+
+Voor onze vestiging in Bussum zijn we op zoek naar een nieuwe collega om
+ons Perl-team te versterken.
+
+CaRe-Mail is hét klantcontactsysteem voor de autobranche van RDC inMotiv
+Nederland B.V. Met ruim 1300 aansluitingen zijn we tevens marktleider.
+CaRe-Mail is gekoppeld aan het Dealer Management Systeem (DMS) waar de
+autodealer dagelijks in werkt en benut actief alle klant-, auto-, en
+werkplaatsgegevens. Autobedrijven zijn hiermee in staat om dagelijks de
+juiste berichten op het juiste moment naar de juiste klanten te sturen. 
+
+Technieken: 
+•    Modern Perl
+•    Percona MySQL
+•    NoSQL
+•    jQuery
+•    Debian GNU/ Linux
+
+Tooling:
+•    JIRA voor stories en Scrum ondersteuning
+•    GIT
+•    Editor naar keuze (wij gebruiken nu VIM en Emacs)
+
+Methodologie:
+•    Scrum
+•    Test Driven Development
+
+Required skills:
+•    HBO/WO werk- en denkniveau
+•    Minimaal 5 jaar werkervaring met Perl
+•    Ervaring in en affiniteit met bovenstaande manier van werken
+•    Uitstekende beheersing van het Nederlands (vloeiend)
+•    32 - 40 uur per week beschikbaar
+
+Website for more information: http://www.inmotiv.nl
+
+Contact information at:
+http://jobs.perl.org/job/17651#contact

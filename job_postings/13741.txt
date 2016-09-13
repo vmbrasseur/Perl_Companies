@@ -1,0 +1,81 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13741
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 9329 invoked from network); 20 Sep 2013 05:43:13 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 20 Sep 2013 05:43:13 -0000
+Received: (qmail 31874 invoked by uid 225); 20 Sep 2013 05:43:13 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 31870 invoked by alias); 20 Sep 2013 05:43:12 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,LOTS_OF_MONEY
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 19 Sep 2013 22:43:09 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 041C02AFE1; Thu, 19 Sep 2013 22:43:05 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 19 Sep 2013 22:43:05 -0700
+Message-ID: <20130920054306.041C02AFE1@x3.develooper.com>
+Subject: Computer Programmer (onsite), Birmingham, United Kingdom
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17863
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 19, 2013
+
+Job title: Computer Programmer
+
+Company name: Connect Distribution Services Ltd
+
+Location: Birmingham, United Kingdom
+
+Pay rate: £20,000 to £30,000
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+As a Computer Programmer you will be required to assist in the design,
+programming of software and the continued development and smooth operation
+of all in-house operations.
+
+Key Accountability and Responsibilities include: 
+
+1. To help ensure continual and efficient operation of the man computer
+system
+2. To program to the requirements set by management 
+3. Co-ordinate debug processes with the team 
+4. Posses the ability to adapt to a given situation 
+5. To help ensure data integrity 
+6. Able to make decisions and solve problems 
+7. Ensure projects are progressing to meet deadlines 
+8. Report back status and progress on projects to senior/line manager 
+10. Assist in maintaining effective communication throughout the
+organisation
+
+Required skills:
+1.	Perl Catalyst Framework - Essential 
+2.	MYSQL (Percona)
+3.	Redis 
+4.	Memcached 
+5.	CouchDB
+6.	Nginx
+7.	RabbitMQ 
+8.	Linx
+9.	Subversion
+
+Contact information at:
+http://jobs.perl.org/job/17863#contact

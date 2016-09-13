@@ -1,0 +1,80 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14518
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 21282 invoked from network); 6 Jul 2014 03:36:14 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 6 Jul 2014 03:36:14 -0000
+Received: (qmail 17168 invoked by uid 225); 6 Jul 2014 03:36:14 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 17164 invoked by alias); 6 Jul 2014 03:36:14 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,LOTS_OF_MONEY,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 05 Jul 2014 20:36:12 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 901DB42954; Sat,  5 Jul 2014 20:36:09 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 5 Jul 2014 20:36:09 -0700
+Message-ID: <20140706033609.901DB42954@x3.develooper.com>
+Subject: Perl Developer / Perl Programmer / Perl Engineer (onsite), Fleet,
+ Hampshire, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18768
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July  5, 2014
+
+Job title: Perl Developer / Perl Programmer / Perl Engineer
+
+Company name: Capita IT Resourcing
+
+Location: Fleet, Hampshire, UK
+
+Pay rate: £55,000 - £70,000
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+My market leading, high-profile client based in Fleet are urgently seeking
+to recruit skilled Senior Perl Developers and is offering a salary between
+£55,000 to £70,000 plus benefits PERL / MOOSE / DBIx / SQL
+
+As a senior developer you will have an in depth knowledge of Modern Perl
+and object-oriented programming. You believe in best practices and tests
+(sometimes developing using TDD). You are equally happy adding new features
+or refactoring legacy code to improve the overall architecture. You enjoy
+learning new technologies and coaching/mentoring your fellow developers.
+
+Required skills:
+* OO Perl with Moose and DBIx::Class
+* Apache / Nginx
+* SQL (MySQL)
+* Linux
+* Version control (ideally with Git)
+
+Desired skills:
+* Solr
+* Template Toolkit
+* Plack
+* Javascript (JQuery)
+
+Website for more information:
+https://www.linkedin.com/profile/view?id=255216263&trk=nav_responsive_tab_p
+rofile
+
+Contact information at:
+http://jobs.perl.org/job/18768#contact

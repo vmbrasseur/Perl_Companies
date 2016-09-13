@@ -1,0 +1,98 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14425
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28234 invoked from network); 24 May 2014 21:53:18 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 24 May 2014 21:53:18 -0000
+Received: (qmail 21862 invoked by uid 225); 24 May 2014 21:53:18 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 21858 invoked by alias); 24 May 2014 21:53:17 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 24 May 2014 14:53:15 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 8990D42960; Sat, 24 May 2014 14:53:12 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 24 May 2014 14:53:12 -0700
+Message-ID: <20140524215312.8990D42960@x3.develooper.com>
+Subject: Senior Perl Programmer (onsite), New York, NY
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18654
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 24, 2014
+
+Job title: Senior Perl Programmer
+
+Company name: MAP Staffing Solutions Group
+
+Location: New York, NY
+
+Pay rate: Negotiable
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 6 months temp to perm
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+3 -6 month contract to hire position with a Fortune 500 healthcare company
+in midtown Manhattan. Working directly on their most vital application.
+
+The candidate will be responsible for web interface programming for an
+internal database driven web-based application that connects multiple
+systems used for internal operations.  The position requires primarily
+Perl/web development work.  The candidate must be very proficient with SQL
+and able to author complex queries for reporting purposes.  The candidate
+must be a proficient web author and JavaScript programmer.  The applicant
+should be prepared to participate in decision-making on broader information
+architecture and design questions.
+
+Required skills:
+*  Extreme proficiency in advanced Perl programming for web applications
+and system administration.
+
+*  Proficiency with the following Perl Modules:  CGI, DBI, DBD::Oracle,
+Carp, Date, HTML::Template
+
+*  Ability to write own Perl Modules and subroutine packages
+
+* Solid understanding of multidimensional data structures, references,
+regular expressions
+
+* Extreme proficiency in SQL
+
+* Solid understanding of database concepts: keying, subquerying, triggers,
+stored procedures
+
+* Web authoring:  complex JavaScript, HTML, CSS
+
+* Experience in command line Unix/Linux environments
+
+* Ability to install, administrate Linux packages, including from source
+
+Desired skills:
+* Oracle specific experience
+
+* Ability to write PL/SQL triggers, functions, stored procedures.
+
+* Experience programming for mod_perl, Apache.
+
+Website for more information: http://www.mapssg.com
+
+Contact information at:
+http://jobs.perl.org/job/18654#contact

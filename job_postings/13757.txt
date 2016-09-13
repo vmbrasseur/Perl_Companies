@@ -1,0 +1,140 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13757
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 21578 invoked from network); 26 Sep 2013 07:20:52 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 26 Sep 2013 07:20:52 -0000
+Received: (qmail 8217 invoked by uid 225); 26 Sep 2013 07:20:51 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 8208 invoked by alias); 26 Sep 2013 07:20:51 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,LOTS_OF_MONEY
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 26 Sep 2013 00:20:48 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id EB7DC2AFD1; Thu, 26 Sep 2013 00:20:44 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 26 Sep 2013 00:20:44 -0700
+Message-ID: <20130926072044.EB7DC2AFD1@x3.develooper.com>
+Subject: Graduate Developer (onsite), Clerkenwell, London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17885
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 26, 2013
+
+Job title: Graduate Developer
+
+Company name: Nestoria
+
+Location: Clerkenwell, London
+
+Pay rate: £25,000 - £35,000
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are seeking an intelligent, motivated and forward thinking developer to
+work on the Nestoria property search engine, and to help us continue
+serving millions of house hunters in eight countries and six languages.
+
+As a developer at Nestoria you will be responsible for the maintenance and
+continued improvement of our property search engine. We have a reputation
+for providing a fast and clean search experience to our users, allowing
+them to quickly find the properties which are the most relevant to them.
+
+The Role:
+
+The challenges we face at Lokku are similar to those faced by larger search
+engines such as Google. On the one hand we have a huge amount of data that
+we need to analyse, clean up, extract keywords from, geocode and
+de-duplicate. On the other hand we have a very popular website that needs
+to remain highly stable and lightning fast.
+
+We consider development to cover all aspects of the web experience, from
+the client side with jQuery, CSS and HTML back to the server side
+templating, localization, and of course the search engine itself. You will
+have the opportunity to branch out into any parts of the code base which
+interest you, to pitch in with the rest of the developers and make Nestoria
+the best it can be.
+
+You will be a member of our small, highly collaborative, international team
+(15 total, 5 devs), which will mean working closely with both other
+developers and with non-technical team members from our product development
+and commercial teams. From day one you will be encouraged to engage with
+senior management and interns alike, and make suggestions and contribute
+ideas into our product planning process.
+
+We don’t work in a formalised Agile / XP process but have organically
+developed methods that allow us to manage development effectively. The core
+values for us are true ownership for devs of their work and maximum
+transparency during the planning process. We are committed to continuous
+deployment, testing, refactoring and code maintainability.
+
+About Nestoria:
+
+We like to give something back to the technology communities we're involved
+in, and are especially keen on contributing to the Perl (CPAN) and
+Geo-spatial open source development communities. We make our API available
+to developers, are frequent sponsors of relevant events and operate
+#geomob, a quarterly meet up for geo and mobile enthusiasts.
+
+We also like to give back to our team members. We invest time into
+expanding our collective knowledge through attending conferences and
+training days, and through our own internal tech talks where each week one
+engineer presents to the team about any subject. Each developer in the team
+has an annual training budget allocated to them, and is expected to search
+out and suggest training opportunities. In August 2013, for example, the
+entire development team attended the 3-day YAPC::EU conference in Kiev,
+Ukraine.
+
+Required skills:
+You are fresh, eager, willing to learn, and probably a recent graduate. 
+You’ve used a few different programming languages, maybe even Perl.  You
+know Linux well, and probably have used some scripting (Perl/Python/Ruby)
+and/or compiled languages (C/Objective-C).  You have a good understanding
+of programming concepts and algorithms.  
+
+You are looking for a great role in a small, tightly-knit team which
+affords you a high degree of responsibility and a diverse range of juicy
+projects to work on and learn from.
+
+Required skills:
+
+•	Experience running and developing on UNIX/Linux platforms
+(we use Debian)
+•	Experience with Perl, or with other scripting languages such as
+Python or Ruby
+(we will teach you to write modern, readable Perl)
+•	Understanding of SQL-based relational databases
+•	Knowledge of the internet and of web development
+•	A pragmatic and practical approach to solving problems
+•	Some understanding of Internet protocols (HTTP, FTP, SSH, etc),
+plus XML, JSON, LAMP stack
+
+Desired skills:
+It is also desirable but not essential that you have some of the following:
+
+
+•	Knowledge of modern client-side web technologies
+•	Ability to write and maintain C code
+•	Experience with internationalization and character encoding
+•	Good understanding of test-driven development
+•	Understanding of revision control
+
+Website for more information: http://www.lokku.com/
+
+Contact information at:
+http://jobs.perl.org/job/17885#contact

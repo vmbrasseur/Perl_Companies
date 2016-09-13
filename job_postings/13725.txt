@@ -1,0 +1,115 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13725
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 17866 invoked from network); 14 Sep 2013 22:45:17 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 14 Sep 2013 22:45:17 -0000
+Received: (qmail 1301 invoked by uid 225); 14 Sep 2013 22:45:17 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 1296 invoked by alias); 14 Sep 2013 22:45:16 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 14 Sep 2013 15:45:09 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id B8A0D2AFDE; Sat, 14 Sep 2013 15:45:05 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 14 Sep 2013 15:45:05 -0700
+Message-ID: <20130914224505.B8A0D2AFDE@x3.develooper.com>
+Subject: PERL SYSTEM ENG or DEVELOPER (onsite), YORK, PA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17841
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 14, 2013
+
+Job title: PERL SYSTEM ENG or DEVELOPER
+
+Company name: CAI
+
+Internal ID: 2013-17301
+
+Location: YORK, PA
+
+Pay rate: OPEN
+
+Terms of employment: Hourly employee
+
+Length of employment: 3 + MONTHS
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Job is located in York, PA.
+Candidate MUST BE U.S. CITIZEN.
+
+Contract is 3+ months 
+
+CAI an Equal Opportunity Employer is looking to hire a Perl  Systems
+Engineer.
+ 
+Project definition:  Currently have web application running on Windows
+server in York, PA and will be migrating the application to the Milwaukee
+Data Center and modifying the application to JCI standards.  This is a two
+tier system with the application on a windows web server and the data on
+the iSeries platform. 
+Tasks include but not limited to: 
+	1.  Install new version of PERL - will provide 
+	2.  Copy application from current server 
+	3.  Modify PERL coding 
+		.  setup / use environment variables 
+		.  replace existing authentication with single sign on
+(Siteminder) 
+		.  add application authorization by using DB2 table on
+iSeries 
+		.  may need to setup new ODBC drivers/connections for data 
+
+	4.  Systems test application 
+	5.  Move / copy application from development to new production
+servers 
+	6.  Document where necessary 
+In summary,  We are looking for candidates who can do: 
+
+a) Web scripting using Perl/CGI
+ b) Web server administration
+ c) Single sign on using Netegrity/Siteminder
+ d) Reverse engineer code for legacy applications.  
+
+
+Current configuration: 
+		1.  Application web server - Windows 2000 / IIS 
+		2.  Application code - PERL 5 
+		3.  Data - iSeries via ODBC connection (HiT400) 
+		4.  Authentication - 3rd party application (Sentry) 
+		
+	Future configuration 
+		1.  Application web server - Windows 2008 / IIS 
+		2.  Application code - current version of PERL 
+		3.  Data - remains on iSeries 
+		4.  Authentication - Siteminder single sign on 
+		
+You may assume the new application servers will be available with Windows
+2008 / IIS installed.  Also, resource will work with YORK application
+support analyst, who will be working side by side to assist and to pick up
+support after completion.
+
+Required skills: PERL 5
+
+Desired skills: IIS
+
+Website for more information: http://www.compaid.com
+
+Contact information at:
+http://jobs.perl.org/job/17841#contact

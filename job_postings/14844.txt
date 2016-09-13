@@ -1,0 +1,82 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14844
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 31092 invoked from network); 5 Jan 2015 03:50:13 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 5 Jan 2015 03:50:13 -0000
+Received: (qmail 32575 invoked by uid 225); 5 Jan 2015 03:50:13 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 32571 invoked by alias); 5 Jan 2015 03:50:13 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 04 Jan 2015 19:50:11 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 5BA1242A8D; Sun,  4 Jan 2015 19:50:08 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sun, 4 Jan 2015 19:50:08 -0800
+Message-ID: <20150105035008.5BA1242A8D@x3.develooper.com>
+Subject: Senior Perl Software Developer (onsite), Dresden
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19034
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January  4, 2015
+
+Job title: Senior Perl Software Developer
+
+Company name: Amazon Web Services
+
+Internal ID: 243046
+
+Location: Dresden
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are changing the way that people use computers. The Kernel and Operating
+System team is at the core of pushing the future of our technology platform
+– and you can help us make history!
+
+Are you passionate about building the platform to support the world's
+premier cloud computing environment? Then this is the job for you!
+
+You will be working on the Tapper test system to automate testing and
+qualification of new hardware and the Amazon Linux distribution in a very
+large scale. You will be testing bare metal and virtualized operating
+systems and qualify them for use in the Amazon Web Services.
+
+Required skills:
+- Master in Computer Science or related discipline, or equivalent work
+experience
+- 10+ years of industry experience building software for Linux environments
+
+- Expert skills in Perl
+- Expert skills in Unix scripting (Bash)
+- Expert skills in building large, database driven applications
+- Experience with many other programming languages
+
+Desired skills:
+- Confidence in using the typical Linux toolbox of open source development
+software.
+- Previous experience with operating system or Linux distribution testing.
+
+Website for more information:
+http://www.amazon.jobs/jobs/243046/test-automation-developer-mf
+
+Contact information at:
+http://jobs.perl.org/job/19034#contact

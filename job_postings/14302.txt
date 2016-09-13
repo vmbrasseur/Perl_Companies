@@ -1,0 +1,100 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14302
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 11007 invoked from network); 8 Apr 2014 07:17:53 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 8 Apr 2014 07:17:53 -0000
+Received: (qmail 2343 invoked by uid 225); 8 Apr 2014 07:17:53 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 2338 invoked by alias); 8 Apr 2014 07:17:53 -0000
+X-Spam-Status: No, hits=-3.7 required=8.0
+	tests=BAYES_00,LOTS_OF_MONEY,RCVD_IN_DNSWL_HI,SARE_MLB_Stock6,SARE_PROLOSTOCK_SYM3,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 08 Apr 2014 00:17:51 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 4F00642964; Tue,  8 Apr 2014 00:17:48 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Tue, 8 Apr 2014 00:17:48 -0700
+Message-ID: <20140408071748.4F00642964@x3.develooper.com>
+Subject: Senior Perl Developers (onsite), London, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18530
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: April  8, 2014
+
+Job title: Senior Perl Developers
+
+Company name: WBRS
+
+Internal ID: lf7680p
+
+Location: London, UK
+
+Pay rate: £57,000 - £80,000
+
+Terms of employment: Salaried employee
+
+Length of employment: Permanent
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+A globally recognised Online business is looking for a number of
+high-performing senior perl developers to join their dedicated team based
+in Central London. You will be joining a small and friendly team in an
+exciting and ambitious company where your work can make a big difference. 
+The development team builds the platform behind all aspects of the
+business, including the websites, data processing, search, analysis,
+reporting, CRM and finance. The platform architecture is based on Linux,
+Apache, Perl (/Mason), MySQL, Amazon's Web Services (EC2, RDS etc.),
+Gearman, Memcached and other technologies.  The role will involve building
+new features and enhancements to the platform - this includes the APIs that
+drive other websites, back-end tools, intensive/distributed data
+processing, search technology, complex valuation algorithms, and server
+control functionality.
+
+To be considered for this role you will need to understand the importance
+of building structured code that is highly scalable, secure, reliable and
+robust.  You will need to thrive in a challenging and rewarding environment
+where you may need to work with all aspects of systems - software
+engineering, server configuration, software evaluation, scripting, QA. 
+Senior developers are expected to display thought leadership across all
+aspects of the development role, including professional & constructive
+communications with the business teams and third parties they support. They
+must also contribute where required to hiring, evaluations, and improving
+workflows and processes across the IT functions.
+
+Required skills:
+-	Perl platform development
+-	Database / data-processing experience
+Desired skills:
+-	Linux, Apache, MySQL, HTML::Mason, AWS
+
+This is a fantastic career opportunity with an organisation renowned for
+technical excellence.  If you are interested please send your CV ASAP.	If
+you require any further information please call Lanre Fisher on
+02076213511.
+
+Required skills:
+- Perl platform development
+- Database / data-processing experience
+
+Desired skills: Linux, Apache, MySQL, HTML::Mason, AWS
+
+Website for more information: http://www.wbrs.com/
+
+Contact information at:
+http://jobs.perl.org/job/18530#contact

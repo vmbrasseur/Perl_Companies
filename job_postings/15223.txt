@@ -1,0 +1,102 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15223
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 29720 invoked from network); 13 Sep 2015 07:04:36 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 13 Sep 2015 07:04:36 -0000
+Received: (qmail 27551 invoked by uid 225); 13 Sep 2015 07:04:35 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 27546 invoked by alias); 13 Sep 2015 07:04:34 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 13 Sep 2015 00:04:28 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 060C5315; Sun, 13 Sep 2015 07:04:16 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sun, 13 Sep 2015 07:04:16 +0000
+Message-ID: <20150913070417.060C5315@web1.develooper.com>
+Subject: Add perl functions to a Responsive Dashboard Template (telecommute), San Cristobal de las Casas, Mexico
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19822
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 13, 2015
+
+Job title:
+Add perl functions to a Responsive Dashboard Template
+
+Company name: Not Applicable
+
+Location: San Cristobal de las Casas, Mexico
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+Hi... I got an old looking existing, non-responsive DEMO  "Dashboard" for
+Hotel Management coded in php.
+
+I need help by you making a replica of this
+DEMO panel in Mojolicious perl. 
+
+You can search for any free or open
+source ready to go dashboard responsive template of your choice.
+
+Then..
+login to this yucky php panel and checkout the functions so you can
+replicate them in gorgeous perl.
+
+You will see that on the left there are 8
+tabs as follows: 
+
+1) General
+2) Accounts
+3) Hotels Management
+4) Bookings
+5) Menus and Pages
+6) Languages Settings
+7) Mass Mail & Templates
+8)
+Modules
+
+Navigate each tab, check out the functions and give me a quote for
+each tab separately.
+
+the reason why I need a separate quote for each tab
+is because each tab will be a different milestone. You will get the funds
+in advance, (in escrow), before you start with the code for each tab.
+
+Here
+are the panel Credentials:
+
+http://nomada.xyz/1/hotel_portal/index.php?admin=login
+
+Username: hoteldemo
+Password: hoteldemo
+
+any questions contact me at:
+
+Skype: sebstian.glanzer
+(the only one in Chiapas, Mexico)
+
+Desired skills: Mojolicious, Peerl, MySQL,
+
+Website for more information:
+http://nomada.xyz/1/hotel_portal/index.php?admin=login
+
+Contact information at:
+http://jobs.perl.org/job/19822#contact

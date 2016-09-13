@@ -1,0 +1,89 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13844
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 754 invoked from network); 4 Nov 2013 05:15:39 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 4 Nov 2013 05:15:39 -0000
+Received: (qmail 30842 invoked by uid 225); 4 Nov 2013 05:15:38 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 30838 invoked by alias); 4 Nov 2013 05:15:38 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 03 Nov 2013 21:15:33 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id E968E2AFE0; Sun,  3 Nov 2013 21:15:29 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sun, 3 Nov 2013 21:15:29 -0800
+Message-ID: <20131104051529.E968E2AFE0@x3.develooper.com>
+Subject: Developer to assist with server automation in telecommunications
+ environment (telecommute), Leicester, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18010
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November  3, 2013
+
+Job title:
+Developer to assist with server automation in telecommunications
+environment
+
+Company name: Jenero Ltd.
+
+Location: Leicester, UK
+
+Pay rate: £300
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+Jenero Ltd. is a telecommunications company based in Leicester UK, which
+specialises in the direct interconnection of tier 1 carriers to
+international destinations.
+
+Jenero Ltd's back end infrastructure was built from the ground up using
+perl, and now needs someone with a more concrete experience in the language
+to add ad-hoc scripts to automate additional processes, currently done
+manually on the servers. As well as improve or re-write scripts already in
+place.
+
+This scale of complexity will be within the reams of reading information
+from a database, reviewing information, and submitting the information to
+another database. It is essential you are comfortable with mongoDB, as this
+is the only database used.
+
+This position is perfect for someone looking for extra work as we happy to
+be flexible with time spent 'in the office' and location of work. We do ask
+that the person be within reasonable distance of Leicester, and that you
+treat the position professionally. You must allow us the opportunity to see
+you in person on an irregular and reasonable basis.
+
+Required skills:
+- perl!
+- mongoDB (essential!)
+- able to listen and process requirements confidently
+
+Desired skills:
+- a telecommunications background
+- freeswitch
+- VoIP
+- reporting
+
+Website for more information: http://www.jenero-telecom.com
+
+Contact information at:
+http://jobs.perl.org/job/18010#contact

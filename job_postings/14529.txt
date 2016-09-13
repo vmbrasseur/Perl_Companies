@@ -1,0 +1,167 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14529
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 12079 invoked from network); 11 Jul 2014 03:37:06 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 11 Jul 2014 03:37:06 -0000
+Received: (qmail 7638 invoked by uid 225); 11 Jul 2014 03:37:06 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 7633 invoked by alias); 11 Jul 2014 03:37:06 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 10 Jul 2014 20:37:03 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 694F642955; Thu, 10 Jul 2014 20:37:00 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 10 Jul 2014 20:37:00 -0700
+Message-ID: <20140711033700.694F642955@x3.develooper.com>
+X-Virus-Checked: Checked
+Subject: Bus & Tech App Analyst II (onsite), St. Louis, MO, USA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18790
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 10, 2014
+
+Job title: Bus & Tech App Analyst II
+
+Company name: The Genome Institute at Washington University
+
+Internal ID: 28449
+
+Location: St. Louis, MO, USA
+
+Pay rate:
+The hiring range for this position is commensurate with experience.
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+I am looking for another software developer for the LIMS group at The
+Genome Institute, a position where the primary language is Perl.  You may
+contact me directly (my user name at genome.wustl.edu) with your resume and
+samples of code or hosted repositories; it does not matter to me what
+languages you choose.  Officially, you can apply to this job through
+https://jobs.wustl.edu (search for job ID 28449).  Below is a copy of the
+official job posting description with all the HR legalese. :)  This is
+considered a mid-tier position, between junior and senior experience.
+
+
+ESSENTIAL FUNCTIONS
+
+The Genome Institute at Washington University has an opening for a talented
+software engineer in the Bioinformatics group.	The position will work with
+an experienced group of software engineers to develop software supporting
+the tracking of laboratory data and analysis processes to support large
+scale genomic research projects.  The Genome Institute has been at the
+forefront of genome research since its inception in 1993 and has been a
+part of major scientific projects such as the Human Genome, 1000 Genomes
+and TCGA (The Cancer Genome Atlas) Projects.  The Genome Institute is a
+world-leader in the generation and analysis of genomic sequence data and
+uses this data to extend biological knowledge of the human genome and
+provide clinically relevant sequence analysis aimed at understanding human
+diseases (such as cancer and Alzheimer's disease).  In addition, the
+Institute fosters public understanding of genomic science through various
+educational and outreach efforts.
+
+
+DEPARTMENT SUMMARY
+
+One of only three NIH-funded large-scale genome centers in the United
+States, The Genome Institute at Washington University is a leader in
+genomics research as it applies to the study of biology, human disease and
+the field of personalized medicine. Founded in 1993, The Genome Institute
+focuses on cancer genomics, the genomics of heritable diseases, microbial
+and pathogen genomics, as well as novel sequencing and evolutionary
+genomics. 
+
+Our mission is to help improve the human condition by producing, studying,
+and interpreting high-quality genome-based data that drives biological
+discoveries that range from the bench to the hospital bedside. We value the
+open sharing of information and ideas and encourage collaboration while
+also engaging the next generation of scientists through educational
+outreach efforts.
+
+
+BENEFITS
+
+- Retirement Savings Plan 
+
+- 22 vacation days 
+
+- 8 Paid Holidays 
+
+- Sick Time 
+
+- Tuition benefits for employee, spouse and dependent children 
+
+- Free Metro Link/ Bus pass 
+
+- Free Life Insurance 
+
+- Health, Dental, Vision 
+
+- Health Savings Accounts (HSA) 
+
+- Long Term Disability Insurance 
+
+- Flex Spending Plan 
+
+- Other Benefits 
+
+Med School HR website (http://medschoolhr.wustl.edu)
+
+
+EOE STATEMENT
+
+All qualified applicants will receive consideration for employment without
+regard to sex, race, ethnicity, protected veteran, or disability status.
+
+Required skills:
+Certification or degree in computer programming from a technical school or
+college plus two years of relevant work experience required. Additional
+relevant programming experience may be substituted on a year-for-year basis
+for required education
+
+Desired skills:
+The ideal candidate has a talent and love for writing software, is
+interested in developing that skill, and applying it in a production
+environment.  The candidate will be expected to learn new things on a
+regular basis, think critically, and collaborate with other developers
+across groups.	The environment is fast-paced and a person who likes to get
+things done will find a lot of opportunity.  Design, testing, debugging,
+and problem analysis are a regular part of the work.  Skills in abstract
+software design, object-oriented architecture, relational data modeling,
+and web interface design will be used frequently, which will require
+thorough knowledge of each concept.  The applicant will use these skills to
+develop software that will: interface with people and/or laboratory
+equipment, process and analyze large data sets on a compute cluster, and
+provide intuitive web based interfaces to the specifications of the
+laboratory managers and technicians.  Proficiency in dynamically typed
+languages (Perl, Ruby, Python, Lisp, etc.) is a plus, but not required. 
+Understanding of relational databases and SQL will be helpful.	Experience
+with web technologies such as HTML, CSS, Javascript and approaches such as
+REST and AJAX is an asset.  Regular work will be done in GNU/Linux and
+other UNIX-like development environments.  Familiarity with open source
+technologies, version control software such as git, and programming in a
+network environment are also assets.
+
+Website for more information: https://jobs.wustl.edu
+
+Contact information at:
+http://jobs.perl.org/job/18790#contact

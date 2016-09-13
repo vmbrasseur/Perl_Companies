@@ -1,0 +1,107 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14918
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 17173 invoked from network); 17 Feb 2015 09:54:11 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 17 Feb 2015 09:54:11 -0000
+Received: (qmail 8426 invoked by uid 225); 17 Feb 2015 09:54:11 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 8422 invoked by alias); 17 Feb 2015 09:54:11 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 17 Feb 2015 01:54:08 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 7DD8A42950; Tue, 17 Feb 2015 01:54:05 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Tue, 17 Feb 2015 01:54:05 -0800
+Message-ID: <20150217095405.7DD8A42950@x3.develooper.com>
+Subject: Perl Developer (onsite), Guildford, Surrey
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19298
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 17, 2015
+
+Job title: Perl Developer
+
+Company name: The Completely Group
+
+Location: Guildford, Surrey
+
+Pay rate: Competitive package + bonus
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The Completely Group are a pioneering property marketing agency that thinks
+differently. We provide property professionals with industry-leading,
+innovative, creative and highly effective marketing tools that meet the
+demands of an evolving industry. The comprehensive range of products and
+services we offer reflect our appetite to challenge convention and deliver
+ground-breaking ways to facilitate property transactions. Our approach
+ensures The Completely Group is an integral part of every serious property
+marketing strategy.
+
+The Completely Group has designed and developed over 50 websites, which
+include CompletelyRetail.co.uk, the UK’s fastest growing commercial
+property listing network.
+
+We’re looking for a Perl developer with 5 years + experience to join our
+team.  You will be working alongside an existing PHP (& basic Perl)
+in-house team and more closely with an extremely experienced Perl system
+architect and programmer.
+
+Initially the primary focus of the role will be observing and contributing
+to the development of a new API alongside our Perl system architect, who
+will act as your mentor.  This is an extremely rare and exciting
+opportunity to work alongside an exceptionally talented individual.
+
+You will join our growing development team at an important time as we begin
+implementing Agile and regular dev scrums.
+
+The team enjoy a relaxed working environment with:
+-	High quality large monitors
+-	High spec PC
+-	Laid back dress code
+
+Additional benefits:
+-	Subsidised gym membership
+-	Discretionary share option scheme (opportunity to join after 12
+months)
+-	Profit related bonus scheme (discretionary and based on on personal
+and company performance)
+
+Required skills:
+-	OO Perl
+-	Modern web technologies: HTML5, CSS3, JS, REST APIs, etc.
+-	Apache, SQL (MySQL), Linux
+-	Version control (ideally with Git)
+
+Desired skills:
+-	PHP / OOPHP
+-	Template Toolkit
+-	Web Application Frameworks (e.g. Plack, Catalyst, Dancer, Mojo,
+etc)
+-	Common Javascript libraries and frameworks: jQuery, Backbone,
+Require.js, etc. 
+-	Agile / Scrum experience a plus
+
+Website for more information: http://completelygroup.com
+
+Contact information at:
+http://jobs.perl.org/job/19298#contact

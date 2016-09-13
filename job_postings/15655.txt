@@ -1,0 +1,114 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15655
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 9726 invoked from network); 26 Aug 2016 07:09:37 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 26 Aug 2016 07:09:37 -0000
+Received: (qmail 17549 invoked by uid 225); 26 Aug 2016 07:09:37 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 17545 invoked by alias); 26 Aug 2016 07:09:37 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 26 Aug 2016 00:09:35 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 61172323; Fri, 26 Aug 2016 07:09:31 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 26 Aug 2016 07:09:31 +0000
+Message-ID: <20160826070931.61172323@web1.develooper.com>
+Subject: Junior Software Engineer (onsite), Arlington, VA, USA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20282
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 26, 2016
+
+Job title: Junior Software Engineer
+
+Company name: Inspire
+
+Location: Arlington, VA, USA
+
+Pay rate: Salary USD (commensurate with experience)
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Junior Software Engineer (Linux/Perl/SQL/Javascript Developer)
+Location:
+Arlington, VA
+ 
+Inspire, the largest social network for patients and
+caregivers, is hiring collaborative, curious, forward-looking developers to
+enhance and modernize our approach to... everything!  The products we
+develop help people in very tangible ways.
+ 
+Inspire’s technology stack is
+primarily Linux, MySQL, Apache2+mod_perl and Template::Toolkit, along with
+lots of other fiddly bits you’d expect to see in a web development shop. 
+We use a wide variety of technologies, and are constantly looking to
+improve our systems and our members’ experience.
+  
+WHAT YOU’LL BE DOING
+Support, maintain and extend systems to support clients, designers and
+stakeholders. Produce updates, improvements and documentation on a wide
+variety of systems.
+We are a multi-language shop that strives to use the
+right tools for the job at hand. We are currently using Perl. As we
+continue to modernize and scale our architecture we are considering the
+deployment of Go, node.js, Erlang, and more to ensure we are using the
+right tools and best practices available. We are not looking for a
+jack-of-all-trades to work in every language under the sun, but we're also
+not looking to only work in a single stack.
+Working in a very supportive
+and collaborative team environment that values your ideas, opinions,
+curiosity, and creativity
+Interacting with stakeholders, designers, other
+developers and system admins
+Evaluating new technologies and helping to
+modernize our technical infrastructure
+Full lifecycle development
+Developing new features
+Ongoing maintenance
+
+Desired skills:
+WHAT WE ARE LOOKING FOR
+Proficiency in Perl web development or Python, PHP,
+or Ruby
+Experience with scripting languages (eg: BASH, Perl, Ruby)
+Understanding of the traditional LAMP hosting stack
+A good understanding of
+MySQL
+Solid Linux experience (eg: Ubuntu, RHEL, CentOS) with a focus on web
+(Apache/Nginx)
+Understanding of protocols/technologies like SOA, HTTP, SSL,
+LDAP, JDBC, Servlet/JSP, SQL, HTML, XML.
+Very strong troubleshooting skills
+Strong technical curiosity
+ 
+--- Begin SEO Keyword Buzzwords ---
+AJAX,
+Automated testing, AWS, CSS, DOM, GA, Git, GitHub, Go (language), Google
+Analytics, HTML5, Javascript, Jquery, JSON, Linux, Mobile, Mod Perl, Moose,
+MySQL, Perl, PHP, Plack, PostgreSQL, Python, QA/Test, Responsive, SCSS,
+Selenium, XSS
+--- End SEO Keyword Buzzwords ---
+
+Website for more information: https://www.inspire.com/
+
+Contact information at:
+http://jobs.perl.org/job/20282#contact

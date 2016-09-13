@@ -1,0 +1,150 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15365
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 23803 invoked from network); 15 Jan 2016 17:32:28 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 15 Jan 2016 17:32:28 -0000
+Received: (qmail 12076 invoked by uid 225); 15 Jan 2016 17:32:28 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 12072 invoked by alias); 15 Jan 2016 17:32:28 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 15 Jan 2016 09:32:21 -0800
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id CB8F12E0; Fri, 15 Jan 2016 17:32:17 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 15 Jan 2016 17:32:17 +0000
+Message-ID: <20160115173217.CB8F12E0@web1.develooper.com>
+Subject: automated mobile app API feed classification (telecommute), telecommute (company based in Northern Virginia)
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20000
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 15, 2016
+
+Job title: automated mobile app API feed classification
+
+Company name: Synthima
+
+Location: telecommute (company based in Northern Virginia)
+
+Pay rate: DOE
+
+Terms of employment: Salaried employee
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+Note: This could be a full time with benefits, part time (hourly or
+salaried), or hourly contract (1099) position. For employees, we are open
+to anybody legally able to work in the USA. The team is mostly full time
+employees today, but if you are overseas we would be happy to work with you
+if you can legally take payments from the USA (and handle local taxes,
+etc.). 
+
+We are doing work looking at mobile apps and websites for our
+clients.
+
+To do this, we have built a framework in Perl to network to
+automate operation of various headless browsers, capture and analyze
+traffic, and attempt to automatically grok network traffic between apps and
+servers, etc.
+
+The data we're working with is frequently JSON, XML, or
+straight HTML. It can be compressed or encoded in a number of ways. It can
+be in a number of languages including Asian (so, understanding what things
+matter when using unicode in a database query via Perl is important...).
+
+We try to automatically detect and work with a variety of data sources,
+looking for [the thing that it is we're looking for]. 
+
+Our environment is
+made up of Debian Linux, lots of kvm virtualization, MySQL / MariaDB. Perl
+glues things together.
+
+The team is geographically distributed, mostly
+based in the USA. We coordinate using chat, git, video and voice
+conferencing.
+
+Desired skills:
+Reasonable grasp of:
+ 
+- Perl network programming
+   - retrieval of web
+content (using LWP::UserAgent underneath some wrappers we have made)
+   -
+TCP / UDP sockets (server and client), sometimes including TLS / SSL
+sockets
+- Perl database access (especially MySQL / MariaDB)
+- Perl IPC (as
+experienced in a Linux environment) 
+   - for the sake of parallel
+processing moderately large (but not huge) chunks of data. 
+   - for the
+sake of controlling other programs (some non-Perl)
+
+- Knowledge of how
+modern web / mobile apps typically talk to their APIs.
+
+Non-Perl skills
+that would be useful:
+
+- web or mobile app security / analysis / coding
+background, OR
+- example experience using mitmproxy, burpsuite, etc.
+-
+LAMP-type stuff (we present the data we automatically collect via a web
+dashboard)
+
+
+
+Since this is jobs.perl.org, maybe it's helpful to post the
+top of a recent creation, so you can see what types of data we're working
+with regularly. 
+
+use strict;
+use warnings;
+use Digest::MD5 qw(md5 md5_hex
+md5_base64);
+use IO::Socket::SSL;
+use LWP::UserAgent;
+use JSON
+qw(decode_json);
+use File::Slurp;
+use Storable;
+use Data::Dump;
+use DBI;
+use DBD::mysql;
+use Data::UUID;
+use MIME::Base64;
+use DateTime;
+use
+Date::Calc qw/Delta_Days Today Add_Delta_Days Delta_DHMS Date_to_Time/;
+use
+Try::Tiny;
+use HTTP::Cookies;
+use HTTP::Request;
+use XML::Simple; 
+use
+HTML::Entities; 
+use Net::SMTP;
+use Net::SMTP::SSL;
+use Crypt::SMIME;
+use
+IPC::Run qw( run timeout );
+
+Contact information at:
+http://jobs.perl.org/job/20000#contact

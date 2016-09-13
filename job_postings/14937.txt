@@ -1,0 +1,87 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14937
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 19584 invoked from network); 26 Feb 2015 06:00:55 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 26 Feb 2015 06:00:55 -0000
+Received: (qmail 9617 invoked by uid 225); 26 Feb 2015 06:00:51 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 9611 invoked by alias); 26 Feb 2015 06:00:50 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 25 Feb 2015 22:00:46 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id AB3524294C; Wed, 25 Feb 2015 22:00:43 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 25 Feb 2015 22:00:42 -0800
+Message-ID: <20150226060043.AB3524294C@x3.develooper.com>
+Subject: Perl Developer (Internal Systems) (onsite), Houston, Texas
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19368
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: February 25, 2015
+
+Job title: Perl Developer (Internal Systems)
+
+Company name: cPanel Inc.
+
+Internal ID: 24
+
+Location: Houston, Texas
+
+Pay rate: DOE
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+cPanel is growing its Internal Systems Development department and looking
+for a software craftsman with advanced knowledge of Perl and working
+knowledge of Linux.  You'll be tasked with developing, implementing, and
+maintaining cPanel's internal and external software products which include
+our Store, License Provisioning System and Ticket / Support system.   Sound
+like this could be you?  Read on.
+
+Required skills:
+Strong knowledge of Perl including:  CGI, DBI, Object Oriented Programming,
+Perl best practices, and deployment of CPAN modules within a production
+environment
+
+Strong working knowledge of web development technologies including
+Javascript, Ajax, and the Yahoo User Interface Library
+
+Strong working knowledge of Linux and FreeBSD operating systems, their
+underlying components and hosting related services such as:  Web Servers
+(Apache, Tux, Lighttpd, etc), Mail Servers (Exim, Sendmail, etc.), DNS
+Servers (BIND, NSD, etc.), understanding of Linux Filesystem and volume
+management  
+
+Strong	working knowledge of SQL syntax and usage
+
+Strong working	knowledge of MySQL database administration, including
+database replication
+
+Working  knowledge of relational database design
+Familiarity with PHP
+Familiarity with jQuery​
+
+Website for more information:
+http://job.listings.cpanel.net/x/detail/a2ldog9w0ykj
+
+Contact information at:
+http://jobs.perl.org/job/19368#contact

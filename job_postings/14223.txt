@@ -1,0 +1,56 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14223
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 26394 invoked from network); 5 Mar 2014 07:43:05 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 5 Mar 2014 07:43:05 -0000
+Received: (qmail 11247 invoked by uid 225); 5 Mar 2014 07:43:04 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11243 invoked by alias); 5 Mar 2014 07:43:04 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 04 Mar 2014 23:43:02 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 494B0429A5; Tue,  4 Mar 2014 23:42:59 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Tue, 4 Mar 2014 23:42:59 -0800
+Message-ID: <20140305074259.494B0429A5@x3.develooper.com>
+Subject: Modify perl jmarshall cgiproxy (part onsite)
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18434
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March  4, 2014
+
+Job title: Modify perl jmarshall cgiproxy
+
+Terms of employment: Independent contractor (project-based)
+
+Onsite: some
+
+Description:
+I would like to change the following script
+http://www.jmarshall.com/tools/cgiproxy/.   To change referrer ,the script
+already has the function to hide the referrer but I need it to be able to
+change the referrer from one from a webpage list,also the ip and user agent
+use by the user should be pass that means that user agent and ip the user
+is being used should be detected.I can pay directly via paypal or odesk but
+both ways will be pay after job is done.Budget is 65 and its negotiable
+
+Required skills: Perl cgi
+
+Desired skills: Perl cgi
+
+Contact information at:
+http://jobs.perl.org/job/18434#contact

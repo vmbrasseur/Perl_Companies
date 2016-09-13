@@ -1,0 +1,83 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15610
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 26201 invoked from network); 14 Jul 2016 04:39:11 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 14 Jul 2016 04:39:11 -0000
+Received: (qmail 11096 invoked by uid 225); 14 Jul 2016 04:39:11 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11092 invoked by alias); 14 Jul 2016 04:39:11 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 13 Jul 2016 21:39:09 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id E35CE618; Thu, 14 Jul 2016 04:39:05 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 14 Jul 2016 04:39:05 +0000
+Message-ID: <20160714043905.E35CE618@web1.develooper.com>
+Subject: Perl Developer, London Bridge
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20308
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July  8, 2016
+
+Job title: Perl Developer
+
+Company name: Zoopla Property Group
+
+Location: London Bridge
+
+Description:
+We are seeking high-performing software developers who want to make a
+difference, and aren't afraid of a challenge to join our dedicated team
+based in Central London.
+
+Our development team builds the platform behind
+all aspects of the business, including our websites, data processing,
+search, analysis, reporting, CRM and finance. Our platform architecture is
+based on Linux, Apache, Perl (/Mason), MySQL, Amazon's Web Services (EC2,
+RDS etc.), Gearman, Memcached and other technologies. You’ll be joining a
+small and friendly group of developers in an exciting and ambitious company
+where your work can make a big difference.
+
+We are looking to recruit Perl
+developers to help us build new features and enhancements to our platform -
+this includes the APIs that drive our website, back-end tools,
+intensive/distributed data processing, search technology, complex valuation
+algorithms, and server control functionality. 
+
+​You will consider yourself
+an excellent problem-solver, will enjoy a flexible working environment and
+a strong team culture. You will need good communication skills as well as
+technical ability.
+
+You will need to understand the importance of building
+structured code that is highly-scalable, secure, reliable and robust.
+
+You
+will need to thrive in a challenging and rewarding environment where you
+may need to work with all aspects of our systems - software engineering,
+server configuration, software evaluation, scripting, QA.
+
+Desired skills:
+Perl platform development
+Database / data-processing experience
+Linux,
+Apache, MySQL, HTML::Mason, AWS
+
+Website for more information: http://www.zpg.co.uk/
+
+Contact information at:
+http://jobs.perl.org/job/20308#contact

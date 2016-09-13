@@ -1,0 +1,83 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15684
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 18091 invoked from network); 8 Sep 2016 01:49:16 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 8 Sep 2016 01:49:16 -0000
+Received: (qmail 22817 invoked by uid 225); 8 Sep 2016 01:49:16 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 22813 invoked by alias); 8 Sep 2016 01:49:16 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 07 Sep 2016 18:49:14 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 077F8348; Thu,  8 Sep 2016 01:49:10 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 8 Sep 2016 01:49:10 +0000
+Message-ID: <20160908014911.077F8348@web1.develooper.com>
+Subject: Freelance Perl Developer (telecommute), Remote
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20414
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September  6, 2016
+
+Job title: Freelance Perl Developer
+
+Location: Remote
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+Looking for an experienced Perl Developer to work remotely full time for at
+least 3-6 months.
+
+We need someone to join the team and help us with the
+backend and API development which is completely done in Perl using the
+Dancer framework.
+
+You will be working with us in:
+- The JSON API that
+connects with our mobile apps
+- The admin panel that our clients use to
+manage their system
+- Report exporting with Excel and CSV.
+- Integration
+with other 3rd party APIs, for example Google Maps & Roads.
+
+We need
+someone with full time availability for at least 3-6 months, with a chance
+for this to become more of a fixed position.
+
+Desired skills:
+- Perl
+- Dancer
+- MySQL
+- Template Toolkit
+- git
+- JSON
+
+Beneficial Skills:
+- nginx
+- shell scripting
+- Excel reporting through Perl
+- Google
+Maps/Roads API
+
+Contact information at:
+http://jobs.perl.org/job/20414#contact

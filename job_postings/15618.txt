@@ -1,0 +1,99 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15618
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 22894 invoked from network); 21 Jul 2016 06:41:00 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 21 Jul 2016 06:41:00 -0000
+Received: (qmail 5916 invoked by uid 225); 21 Jul 2016 06:41:00 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 5910 invoked by alias); 21 Jul 2016 06:41:00 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 20 Jul 2016 23:40:57 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 941DE34E; Thu, 21 Jul 2016 06:40:54 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 21 Jul 2016 06:40:54 +0000
+Message-ID: <20160721064054.941DE34E@web1.develooper.com>
+Subject: Senior Back-End Engineer (onsite), Amsterdam, Netherlands
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20174
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 21, 2016
+
+Job title: Senior Back-End Engineer
+
+Company name: Try Catch
+
+Location: Amsterdam, Netherlands
+
+Pay rate: €55-65l
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Our technical culture derives strongly from our strong ties to the Perl
+community. We appreciate what open source means both for our business and
+also for internal projects. Some of our most useful hacks inside the
+company have come from someone scratching the proverbial itch.
+
+Even if you
+do not have Perl experience, your colleagues will help you get up to speed
+in order to be able to start solving real problems from day one. You will
+work independently and will also be responsible for making technical
+decisions within a team. Our development strategy is agile and we work in
+small Scrum teams of 5-7. We do several rollouts every day, are data-driven
+and do extensive A/B testing.
+
+Important aspects of the job include:
+
+Rapidly develop next-generation scalable, flexible, and high-performance
+systems.
+Solve issues with the site and internal systems, prioritizing
+based on customer impact
+Act as an intermediary for problems, with both
+technical and non-technical audiences
+Collaborate with the team, Team
+Leaders and Product Owners to prioritize projects
+
+Desired skills:
+As a Software Developer, you are responsible for the development,
+performance, and scaling of our public website as well as internal systems,
+which includes using: Perl (5.14), DBI, Mason, Moose, Sereal, Plack, nginx,
+Javascript, MySQL, Memcached, Redis, Hadoop, Elasticsearch, git, and CentOS
+Linux.
+
+We have found that people who match the following requirements are
+the ones who fit us best:
+
+4 years of hardcore development experience with
+more than one programming language
+Experience of developing in and
+contributing to open source
+Experience with HTTP and server-side
+technologies (web servers, database servers)
+Ability to work independently
+in small teams
+Preferably a university degree in Mathematics or Software
+Engineering
+
+Website for more information: http://www.trycatch.tech
+
+Contact information at:
+http://jobs.perl.org/job/20174#contact

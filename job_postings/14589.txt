@@ -1,0 +1,106 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14589
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 8178 invoked from network); 9 Aug 2014 05:15:40 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 9 Aug 2014 05:15:40 -0000
+Received: (qmail 26753 invoked by uid 225); 9 Aug 2014 05:15:40 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 26749 invoked by alias); 9 Aug 2014 05:15:40 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 08 Aug 2014 22:15:38 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id E7C4942AA4; Fri,  8 Aug 2014 22:15:34 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 8 Aug 2014 22:15:34 -0700
+Message-ID: <20140809051534.E7C4942AA4@x3.develooper.com>
+Subject: Senior Perl Engineer (onsite), Buffalo, NY
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18852
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August  6, 2014
+
+Job title: Senior Perl Engineer
+
+Company name: Synacor
+
+Internal ID: 2131
+
+Location: Buffalo, NY
+
+Pay rate: DOE
+
+Terms of employment: Salaried employee
+
+Length of employment: Full Time
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+What Synacor Does:
+
+Synacor. We're a Tech company at the intersection of Hollywood and Madison
+Avenue. In 26 million high-speed Internet households, we trade in
+consumers' favorite digital media: their TV shows, movies, music, sports,
+games, email and more. Consumers want all the content and services they can
+imagine, anytime, anywhere and on the device of their choosing. Consumers
+are clamoring for it. Industry is struggling to deliver it. Enter Synacor,
+making it all possible. We're the leading provider of next-gen startpages,
+award-winning TV Everywhere solutions and cloud-based Identity Management
+(IDM) services, working with cable, satellite, telecom and consumer
+electronics companies in the U.S. and abroad. If you have a passion for
+technology and want to work on products that will change the world of
+digital entertainment, then check out Synacor and apply.
+
+Our Team:
+
+Asset Management is the team at Synacor that is responsible for ingesting,
+augmenting, correlating, and indexing millions of assets from your favorite
+television shows and movies to news articles and more. We build APIs that
+are then used by many internal teams to search and retrieve content to
+power our various applications. We operate as a small agile team that
+values quality, reliability, and continuous improvement.  
+
+The Role:
+
+As a Senior Engineer on the Asset Management team, you’ll be working with
+modern Perl to handle ingestions, and writing APIs in Catalyst/Dancer to
+deliver content to Synacor’s applications. You’ll also interact with
+PostgreSQL, and Riak for our data storage, and Solr for our search
+application. We value testing and have extensive unit tests using
+Test::More and related modules.
+
+Required skills:
+About You:
+•	Extensive professional experience in Modern Perl 
+•	Three to five years of experience in software or website
+development; proven experience developing large-scale database-driven
+applications a plus
+•	Knowledge of Catalyst web application framework
+•	Knowledge of Moose a plus
+•	Excellent communication skills, and ability to collaborate
+•	Bachelor of Science in Computer Science or a related field, or
+equivalent work experience 
+•	Knowledge of Apache, mod_perl and Solr a plus
+
+Website for more information:
+http://ch.tbe.taleo.net/CH11/ats/careers/requisition.jsp?org=SYNACOR&cws=1&
+rid=1504
+
+Contact information at:
+http://jobs.perl.org/job/18852#contact

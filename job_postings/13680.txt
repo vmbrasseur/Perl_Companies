@@ -1,0 +1,164 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13680
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 24170 invoked from network); 28 Aug 2013 06:02:37 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 28 Aug 2013 06:02:37 -0000
+Received: (qmail 11318 invoked by uid 225); 28 Aug 2013 06:02:36 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11312 invoked by alias); 28 Aug 2013 06:02:36 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,T_FRT_PROFILE2
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 27 Aug 2013 23:02:29 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id C72062AFE1; Tue, 27 Aug 2013 23:02:25 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Tue, 27 Aug 2013 23:02:25 -0700
+Message-ID: <20130828060225.C72062AFE1@x3.develooper.com>
+X-Virus-Checked: Checked
+Subject: Senior Systems Engineer (onsite), Los Angeles or San Francisco
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17629
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 27, 2013
+
+Job title: Senior Systems Engineer
+
+Company name: DreamHost
+
+Internal ID: 96-401
+
+Location: Los Angeles or San Francisco
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The Senior Systems Engineer role is to ensure the stability, integrity, and
+efficient operation of the in-house information systems that support core
+organizational functions. This is achieved by monitoring, maintaining,
+supporting, and optimizing all networked software and associated operating
+systems. The Senior Systems Engineer will apply proven communication,
+analytical, and problem-solving skills to help identify, communicate, and
+resolve issues in order to maximize the benefit of IT systems investments.
+Additionally, the Senior Systems Engineer will be expected to have
+extensive high level project management experience as well as the ability
+to mentor junior team members.
+
+Strategy & Planning
+Design and deploy new applications and enhancements to existing
+applications, software, and operating systems.
+Collaborate with network staff to ensure smooth and reliable operation of
+software and systems for fulfilling business objectives and processes.
+Design and perform server and security audits, system backup procedures,
+and other recovery processes in accordance with the company’s disaster
+recovery and business continuity strategies.
+Create and maintain documentation as it relates to system configuration,
+mapping, processes, and service records.
+
+Implementation & Deployment
+Gauge the effectiveness and efficiency of existing systems; develop and
+implement strategies for improving or further leveraging these systems.
+Propose and create system design models, specifications, diagrams, and
+charts to provide direction to system programmer and development teams.
+Integrate servers, including database, e-mail, web/front-end, and backup
+servers and their associated software into cohesive enterprise-level
+systems.
+Ensure system connectivity of all servers, shared software, groupware, and
+other applications.
+Monitor and test system performance; prepare and deliver system performance
+statistics and reports.
+Plan and perform OS and software upgrades.
+Create and maintain kernels and OS packages.
+Provide general assistance for Tech Support and Datacenter Operations
+staff.
+Assist in the development and implementation of disaster recovery plans.
+Perform general documentation, classes, training, and diagramming.
+
+Operational Management
+Conduct research on emerging technologies in support of systems development
+efforts, and recommend technologies that will increase cost effectiveness
+and systems flexibility.
+Review new and existing systems design projects and procurement or
+outsourcing plans for compliance with standards and architectural plans.
+Provide guidance to junior members of the team.
+Perform cost-benefit and return on investment analyses for proposed systems
+to aid management in making implementation decisions.
+Ensure compatibility and interoperability of in-house computing systems.
+Coordinate and perform in-depth tests, including end-user reviews, for
+modified and new systems.
+Conduct research on software and systems products to justify
+recommendations and to support purchasing efforts.
+
+Required skills:
+Required Skills
+Exceptional analytical, conceptual, and problem-solving abilities.
+Exceptional understanding of the organization’s goals and objectives.
+Superior written and oral communication skills.
+Excellent architecture and technical support documentation skills.
+Strong interpersonal and consultative skills.
+Ability to conduct research into emerging technologies and trends,
+standards, and products as required.
+Ability to present ideas in user-friendly language.
+Able to prioritize and execute tasks in a high-pressure environment.
+Experience working in a team-oriented, collaborative environment.
+Ability to read, analyze, and interpret common scientific and technical
+journals, financial reports, and legal documents.
+Ability to respond to common inquiries or complaints from customers,
+regulatory agencies, or members of the business community.
+Ability to write speeches and articles for publication that conforms to
+prescribed style and format.
+Ability to effectively present information to top management, public
+groups, and/or board of directors.
+Ability to define problems, collects data, establishes facts, and draw
+valid conclusions.
+Ability to interpret an extensive variety of technical instructions in
+mathematical or diagram form and deal with several abstract and concrete
+variables.
+Demonstrate use of intermediate computer operations (Advanced programming
+in 3rd and 4 generation languages, relational databases, and operating
+systems) and intermediate software packages (word processing, spreadsheet,
+graphics, etc.).
+
+Required Experience
+Experience with automation tools, ideally Chef.
+Senior level systems operations experience in a large-scale Linux
+environment. 
+Proven experience in overseeing the design, development, and implementation
+of software systems, applications, and related products.
+Proven experience with systems planning, security principles, and general
+software management best practices.
+Working technical knowledge of current software protocols, and Internet
+standards, including TCP/IP, HTML, AJAX, Javascript, and XML.
+Excellent software troubleshooting experience.
+Working technical knowledge of Perl, Python, Bash, and PHP programming
+languages.
+Competence with testing, flowchart, and data mapping tools and procedures.
+Excellent understanding of the organization’s goals and objectives.
+Knowledge of applicable data privacy practices and laws.
+Ideally someone with cloud experience, specifically OpenStack related
+projects.
+
+Desired skills: Strong working proficiency with Perl
+
+Website for more information:
+https://newdream-openhire.silkroad.com/epostings/index.cfm?fuseaction=app.j
+obinfo&jobid=96&version=2#.Ud2X0S-LxSM.twitter
+
+Contact information at:
+http://jobs.perl.org/job/17629#contact

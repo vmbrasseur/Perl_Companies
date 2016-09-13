@@ -1,0 +1,92 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13464
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 19854 invoked from network); 10 Jun 2013 21:14:53 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 10 Jun 2013 21:14:53 -0000
+Received: (qmail 11151 invoked by uid 225); 10 Jun 2013 21:14:53 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11147 invoked by alias); 10 Jun 2013 21:14:52 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,LOTS_OF_MONEY
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 10 Jun 2013 14:14:50 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 4932E2AFE1; Mon, 10 Jun 2013 14:14:47 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 10 Jun 2013 14:14:47 -0700
+Message-ID: <20130610211447.4932E2AFE1@x3.develooper.com>
+Subject: REMOTE PERL Programmer (part onsite), Greenville, NC
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17309
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 10, 2013
+
+Job title: REMOTE PERL Programmer
+
+Company name: Confidential
+
+Location: Greenville, NC
+
+Pay rate: $65,000 - $75,000 USD annually
+
+Terms of employment: Hourly employee
+
+Length of employment: 6 month contract to hire
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+The Web Programmer will take input from the eCommerce Business Analyst and
+business users and convert that input (in the form of business
+requirements) into functioning computer code.  The Web Programmer will
+consult closely with the eCommerce Business Analyst, the Web Designers and
+QA resources to be sure business requirements are translated correctly into
+the underlying, functional website code and features.  
+
+Essential Functions:
+
+    Consults with business analyst, other programmers and end users to
+gather information about program intent, functions, features, data
+requirements, input requirements, output requirements, internal and
+external checks and controls, and interfaces with other systems.
+    Designs or writes program specifications based on consultations with
+business analyst, other programmers, and end users.
+    Converts designs and specifications into computer code.
+    Compiles code into programs and corrects errors detected in compile
+process.
+    Creates test transactions and runs tests to find errors and confirm
+program meets specifications; works closely with QA on the same.
+    Analyzes code to find causes of errors and revises programs.
+    Writes and maintains documentation of changes to computer code,
+programs, and specifications.
+    Reviews user and technical documentation written by others to confirm
+consistency with program operations.
+    Provides technical assistance by responding to inquiries regarding
+errors, problems, or questions with programs.
+    Coordinates with other programmers about program revisions.
+    Modifies and maintains software programs written by others.
+
+Required skills:
+- Linux OS
+- Perl programming
+- Apache
+- MySQL
+
+Desired skills: Perl, web development, eCommerce
+
+Contact information at:
+http://jobs.perl.org/job/17309#contact

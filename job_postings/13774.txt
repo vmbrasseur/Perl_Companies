@@ -1,0 +1,82 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13774
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 25441 invoked from network); 4 Oct 2013 03:06:45 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 4 Oct 2013 03:06:45 -0000
+Received: (qmail 10153 invoked by uid 225); 4 Oct 2013 03:06:45 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 10149 invoked by alias); 4 Oct 2013 03:06:44 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 03 Oct 2013 20:06:41 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 7AC7C2AFE0; Thu,  3 Oct 2013 20:06:38 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 3 Oct 2013 20:06:38 -0700
+Message-ID: <20131004030638.7AC7C2AFE0@x3.develooper.com>
+Subject: Perl Developer (onsite), Sheffield, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17907
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October  3, 2013
+
+Job title: Perl Developer
+
+Company name: Eligo Recruitment
+
+Location: Sheffield, UK
+
+Pay rate: £150 - £200
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 6 Months
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+A Contract Perl Programmer is sought for a Legal Agency based in Sheffield.
+The right Perl Programmer will have experience in web application
+development. As Perl Programmer you will be required to develop additional
+components for our web based debt collection system, to ensure our system
+capabilities are developed in line with our strategic growth objectives.
+
+Required skills:
+The right Perl Programmer with have 
+
+- Perl Programming with experience in web application developing enterprise
+web applications 
+- CGI scripting experience 
+- DBI::x
+- Strong understanding of SQL (MySQL, PostgreSQL or Oracle PL/SQL)
+- HTML, CSS, JavaScript and/or jQuery
+- Experience working on Linux/Unix platforms
+- Good interpersonal skills, strong verbal and written communication skills
+
+Desired skills:
+- OO Perl 
+- HTML :: Template toolkit or any other Templating system 
+- Apache Server Configuration 
+- Comfortable using revision control (SVN, CVS)
+- Python
+- Experience with Django, Catalyst or other MVC framwork
+
+Website for more information: http://www.eligo.co.uk/
+
+Contact information at:
+http://jobs.perl.org/job/17907#contact

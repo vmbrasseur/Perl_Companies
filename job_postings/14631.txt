@@ -1,0 +1,143 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14631
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 32116 invoked from network); 23 Aug 2014 08:24:45 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 23 Aug 2014 08:24:45 -0000
+Received: (qmail 26089 invoked by uid 225); 23 Aug 2014 08:24:45 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 26085 invoked by alias); 23 Aug 2014 08:24:44 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 23 Aug 2014 01:24:42 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id A65E542ABB; Sat, 23 Aug 2014 01:24:38 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 23 Aug 2014 01:24:38 -0700
+Message-ID: <20140823082438.A65E542ABB@x3.develooper.com>
+Subject: Short-Term E-Commerce Perl/JavaScript Project Needs Finishing
+ (telecommute), Seattle, WA, United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18528
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 23, 2014
+
+Job title:
+Short-Term E-Commerce Perl/JavaScript Project Needs Finishing
+
+Company name: The Purple Store
+
+Location: Seattle, WA, United States
+
+Pay rate: (negotiable)
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 1-2 weeks
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+U.S.-based developers only, please.
+
+We have a project that two friends helped on and nearly got done before
+each got too busy with their day gig projects.	It's pretty close to done
+and could use some help wrapping up from another developer.
+
+The Purple Store has been around for nine years online
+(www.thepurplestore.com) and now has a retail store in Seattle.  Yes,
+everything we sell is purple. We cater to purple fans, carrying
+men's/women's clothing, furniture, jewelry, kitchen, electrical tape, etc.
+
+
+We expect this to take 5-15 hours depending on experience (and perhaps how
+quickly you tend to code and get things done). 
+
+Location:		Seattle (Greenlake/Fremont) though work can be done
+off-site.  We prefer someone locally based in the Seattle area but can make
+this a telecommute if you have references saying you're awesome.
+
+We need someone to finish an e-commerce payment steps flow to integrate
+with PayPal's back-end for thepurplestore.com.	Major bits are done; it
+needs final a few more features and testing.
+
+Timeframe:	Soon.  This or next week if possible.
+
+Time Needed:	From what we understand, it's about 3-4 real Perl coding
+hours remaining for the basics on this and a few extra hours for some other
+features if we can get to them, plus a bit of handoff time to get familiar
+with what's in the code.
+
+Assets: 	We have a Perl conversant project lead (having built part
+of the less-pretty parts of the code) who can be a reference.  Both
+previous devs would be available to explain what the heck they did, so you
+wouldn't be in the dark.
+
+A Few Details:
+We're hoping to redo the front-end of our website soon and will be
+improving the back-end at the same time.  Our current code is Perl +
+Postgresql and we'll either be improving that and adding some missing
+features (accounts, etc.) or ditching it for some open source or other cart
+system.
+
+In the meantime, our checkout payment approach is stupid.  It sends the
+customer off-site to PayPal, sometimes returning them after payment, and
+scares a lot of non-PayPal users away.	We can't afford to redo the website
+until we boost some cash and that means bringing the payment system
+on-site.  This will both improve conversions and let us measure
+pay-per-click conversions so we can improve the ads we're running.
+
+You'd need to look over what's there, activate a few features done but not
+being triggered, and add two or three more things (such as an API for
+address verification) if they're not yet in there. Most of the PayPal
+integration, we believe, is already done.   Then our staff would help with
+testing and you'd debug.
+
+While we can't afford a ton right now this is a priority for us so we'd
+like to pay someone (rather than have a friend do it when they can) a
+reasonable amount so they can prioritize it.  Again, we will be hiring
+someone based in the U.S. and not abroad.
+
+Please let us know if you or someone you love would fit this and what your
+background and skill levels are.  We're happy to work out project and
+compensation details together.
+
+If things go well, we may have some add-on features for this or other Perl
+projects periodically.
+
+For e-mail your reply, including a quick description of your background and
+(candid) assessment of your Perl and JavaScript skills.
+
+Required skills:
+-- Really solid Perl
+-- Decent JavaScript/AJAX for a few small steps
+-- Good API/CGI sense
+-- A mind for tight security development, as these are payment steps
+-- Ease at communicating how things are going and working together toward
+the best end result.
+
+Desired skills:
+-- Background in CSS and mobile layout development is a plus for phase II,
+making the payment steps mobile responsive or adaptive.
+
+-- Familiarity with PostgreSQL wouldn't hurt, though we have already built
+most sql commands for this.
+
+Website for more information: http://www.thepurplestore.com
+
+Contact information at:
+http://jobs.perl.org/job/18528#contact

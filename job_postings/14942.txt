@@ -1,0 +1,101 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14942
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 10570 invoked from network); 1 Mar 2015 18:57:43 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 1 Mar 2015 18:57:43 -0000
+Received: (qmail 31270 invoked by uid 225); 1 Mar 2015 18:57:43 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 31266 invoked by alias); 1 Mar 2015 18:57:43 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 01 Mar 2015 10:57:41 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id E7D4F4294C; Sun,  1 Mar 2015 10:57:37 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sun, 1 Mar 2015 10:57:37 -0800
+Message-ID: <20150301185737.E7D4F4294C@x3.develooper.com>
+Subject: Perl Developer (onsite), Oakville, ON
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19380
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: March  1, 2015
+
+Job title: Perl Developer
+
+Company name: Flightnetwork.com
+
+Location: Oakville, ON
+
+Pay rate: TBD
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We’re going through a re-platforming in live time with a real focus on
+innovating the online travel experience. And we’re serious about it.  We
+built our business on innovation and we’re definitely not stopping.  We
+have a sincere commitment and substantial financial means to support this
+reinvention and we are looking for passionate, intelligent, talented,
+motivated software engineers to help us bring that to life.
+ 
+Some of the things you can expect to do in this role would be to:
+Actively participate in ongoing software development, design, build,
+testing and deployment.
+Regularly practice test driven application development with emphasis on
+clean, readable code.
+Assist in establishing project and iteration scope, have respect for
+timelines.
+Work with product owner to refine and understand the business stories.
+Present functioning solutions to product owner on an iterative basis.
+Attend and actively participate in planning, backlog grooming and
+retrospective meetings.
+Actively participate in all team discussions and white boarding sessions.
+Coach team members and present designs to your peers.
+
+Required skills:
+We’re not looking for someone with a specialization in a specific
+technology stack, but rather talented engineers with a varied background
+who takes the approach that specific technology is really just a tool in
+the toolbelt. In terms of experience, capabilities and approach we’re
+looking for:
+
+2+ years experience as a software developer with Perl 5.10 
+2+ years experience in an web based application development
+Aptitude to do software development in a variety of programming languages
+such as Scala, Java, Groovy.
+Write self-testing, high availability, scalable, well designed, quality
+code.
+Be our champion of test driven development and test automation.
+Hands on experience in designing and developing web applications.
+Hands on experience with web and application frameworks.
+Hands on experience with command line build and deployment tools.
+Must be disciplined, detail oriented, reliable and have the ability to work
+effectively in team environments.
+Must be advocate for agile (kanban, scrum) and XP practices.
+Knowledge of functional programming concepts, OO design patterns and SOLID
+engineering principles.
+Understanding of Relational and NoSQL databases and cache technologies.
+Bachelors degree in Computer Science/Engineering or related field strongly
+preferred.
+
+Website for more information: http://www.flightnetwork.com
+
+Contact information at:
+http://jobs.perl.org/job/19380#contact

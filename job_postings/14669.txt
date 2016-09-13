@@ -1,0 +1,95 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14669
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28541 invoked from network); 9 Sep 2014 02:26:36 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 9 Sep 2014 02:26:36 -0000
+Received: (qmail 22992 invoked by uid 225); 9 Sep 2014 02:26:36 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 22988 invoked by alias); 9 Sep 2014 02:26:36 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 08 Sep 2014 19:26:34 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 1DF7642950; Mon,  8 Sep 2014 19:26:31 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 8 Sep 2014 19:26:31 -0700
+Message-ID: <20140909022631.1DF7642950@x3.develooper.com>
+Subject: ~Senior Level Perl Developer - Telecommute Position~ (telecommute),
+ Telecommute
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18927
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September  8, 2014
+
+Job title:
+~Senior Level Perl Developer - Telecommute Position~
+
+Company name: Ultra buys
+
+Location: Telecommute
+
+Pay rate: Very Competitive
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+We are a small (25 employees) company that specializes in the sale of media
+products through online sales channels. We have been in this industry for
+over 10 years. We currently have a single developer handling everything,
+which leads us to this job opening. You would be coming in to work with him
+to maintain and enhance the system. It is about 150,000 lines of perl code.
+You will be expected to wear multiple hats. 
+
+Who we are looking for:
+You will have worked alone or as a senior member of a significant
+programming project so that you're comfortable working from a
+specification, estimating the time required for a task, reporting on
+progress , documenting , and delivering tested, usable code.
+
+You will also be partly responsible for the operation of the code, so
+willingness to occasionally respond to urgent matters off-hours is
+necessary.
+
+Required skills:
+Required:
+
+- Excellent skills and history programming Object-Oriented perl. (Minimum
+of 5+ years)
+- MySQL queries including JOINs and InnoDB
+- Linux System administration via command line (RHEL or equivalent)
+- Comfortable with XML
+- Experience writing tests 
+
+Candidate must be located in the U.S.
+
+Desired skills:
+These would be nice to have technical skills (but not required):
+
+- MySQL database administration and performance tuning
+- Familiarity with Amazon PA-API, MWS, EC2, SQS
+- Good understanding of Unicode and how to use it with perl and mySQL
+- Experience with automating web interaction / web scraping
+
+Traits:
+Self driven, responsible, resourceful, intelligent, able to stay on
+task/meet deadlines, track record of success in prior positions.
+
+Contact information at:
+http://jobs.perl.org/job/18927#contact

@@ -1,0 +1,95 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14372
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 16036 invoked from network); 4 May 2014 22:10:17 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 4 May 2014 22:10:17 -0000
+Received: (qmail 27716 invoked by uid 225); 4 May 2014 22:10:16 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 27712 invoked by alias); 4 May 2014 22:10:16 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 04 May 2014 15:10:12 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 4D24A4294F; Sun,  4 May 2014 15:10:10 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sun, 4 May 2014 15:10:10 -0700
+Message-ID: <20140504221010.4D24A4294F@x3.develooper.com>
+Subject: PerlWeb Developer (onsite), Austin, TX, United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/16744
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May  4, 2014
+
+Job title: PerlWeb Developer
+
+Company name: Open Mortgage
+
+Internal ID: Eng4
+
+Location: Austin, TX, United States
+
+Pay rate: $60-$95k USD/yr DOE
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+This job requires on-site presence in Austin, TX, USA.	We do not offer
+re-location assistance.
+
+Open Mortgage is looking for an experienced Perl Developer to help
+maintain, expand and modernize our legacy mod_perl-based enterprise
+back-end office system that provides services for 100 branches in 25
+states. 
+
+We also maintain a large WordPress multi-site installation and several
+independent websites. 
+
+The position will have some support and on-call responsibilities and
+experience in those areas in a plus. While not a core responsibility, the
+role is tasked with some IT Help Desk-type support. 
+
+Applicants should be comfortable in a casual corporate environment and
+should be equally skilled at working with the technical team and technical
+vendors as well as office staff and system users.
+
+Required skills:
+3 years experience Perl-based web applications, preferably mod_perl/MySQL. 
+
+2 years experience Javascript client-side/front-end.
+Strong written and oral communication skills; able to explain technical
+problems to non-technical personnel.
+
+Desired skills:
+Prefer experience with Amazon Web Services (RDS/S3/EC2).
+Prefer experience with Git SCM
+Prefer experience with node.js
+Prefer experience with Perl Dancer
+Prefer experience with Agile methodologies
+Experience with Perl retrieving external services, APIs, webservices a
+plus. 
+Experience with Catalyst, Moo, DBIx::Class a plus.
+Experience with PHP/WordPress a plus.
+Finance or Mathematics background preferred; BSc Computer Science or
+equivalent work experience.
+
+Website for more information: http://openmortgage.com
+
+Contact information at:
+http://jobs.perl.org/job/16744#contact

@@ -1,0 +1,72 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14870
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 18835 invoked from network); 23 Jan 2015 22:02:09 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 23 Jan 2015 22:02:09 -0000
+Received: (qmail 13226 invoked by uid 225); 23 Jan 2015 22:02:09 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 13222 invoked by alias); 23 Jan 2015 22:02:09 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 23 Jan 2015 14:02:05 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id D110442AC7; Fri, 23 Jan 2015 14:02:01 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 23 Jan 2015 14:02:01 -0800
+Message-ID: <20150123220201.D110442AC7@x3.develooper.com>
+Subject: Operations / Site Reliability engineer (telecommute)
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19056
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 20, 2015
+
+Job title: Operations / Site Reliability engineer
+
+Company name: DuckDuckGo
+
+Pay rate: Varies
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: Varies
+
+Hours: Part time
+
+Onsite: no
+
+Description:
+If you're excited about what we're accomplishing at DuckDuckGo, then please
+check out our hiring page at https://dukgo.com/help/en_US/company/hiring
+
+This position is for an operations/site reliability engineer.
+
+The ideal candidate has a deep understanding of Perl and will be able to
+jump in and out of our core software while tracking down systems issues.
+
+Additionally, all of our internal tools that facilitate our interactions
+with AWS (Amazon Web Services) are written in OOPerl, and so the candidate
+must be adept in this area.
+
+We start with part time and transition to full time if there is a good fit.
+
+Required skills: See https://duck.co/help/hiring/site-reliability
+
+Desired skills: See https://duck.co/help/hiring/site-reliability
+
+Website for more information: https://dukgo.com/help/en_US/company/hiring
+
+Contact information at:
+http://jobs.perl.org/job/19056#contact

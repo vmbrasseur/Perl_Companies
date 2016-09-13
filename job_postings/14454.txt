@@ -1,0 +1,99 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14454
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 16071 invoked from network); 11 Jun 2014 08:17:03 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 11 Jun 2014 08:17:03 -0000
+Received: (qmail 8359 invoked by uid 225); 11 Jun 2014 08:17:02 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 8355 invoked by alias); 11 Jun 2014 08:17:02 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 11 Jun 2014 01:17:01 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 22FD442937; Wed, 11 Jun 2014 01:16:58 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 11 Jun 2014 01:16:58 -0700
+Message-ID: <20140611081658.22FD442937@x3.develooper.com>
+Subject: Senior Perl Developer (part onsite), Central London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18700
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 11, 2014
+
+Job title: Senior Perl Developer
+
+Company name: UK2 Group
+
+Internal ID: PJM001
+
+Location: Central London
+
+Pay rate: £60 per hour
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 3-6 months
+
+Hours: Flexible
+
+Onsite: some
+
+Description:
+Looking for a for a highly experienced and capable Perl developer to work
+on the completion of a strategic application platform for a global domain
+registration and web hosting group. The back-end is entirely Perl and API
+driven and integrates with UI functionality for the front-end control
+panels via RESTful API’s.
+
+The principles of code re-use and coding standards adherence are enforced,
+alongside peer code reviews. The team works from the central London office
+or remotely, collaborating over IRC. GitHub is used for version control,
+and Redmine for controlling defect resolution and new feature development.
+
+The candidate should have good communication skills and be commercially
+aware. The candidate must demonstrate an ability perform reliable impact
+assessments against stated requirements and deliver against negotiated time
+frames based on the impact assessments.
+
+Required skills:
+5+ years Perl programming experience.
+
+5+ years experience with Unix-based systems (systems administration or Perl
+development. 
+
+Excellent knowledge of common Internet protocols (e.g. HTTP, SMTP, DNS,
+Whois.
+
+Excellent Perl programming skills, including Object Orientated development,
+debugging, test-driven development, continuous integration, POD
+documentation and common CPAN modules. 
+
+Good Unix skills, including shell scripting & database administration
+(MySQL).
+
+1+ years experience of managing small development teams.
+
+Desired skills:
+Experience in the domain registration / web hosting market.
+
+Moose, DBIx::Class or Perl Dancer experience.
+
+MySQL Proxy, Galera Cluster.
+
+Website for more information: http://www.uk2group.com
+
+Contact information at:
+http://jobs.perl.org/job/18700#contact

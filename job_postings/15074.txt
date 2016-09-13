@@ -1,0 +1,92 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15074
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 19157 invoked from network); 15 May 2015 01:56:54 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 15 May 2015 01:56:54 -0000
+Received: (qmail 10860 invoked by uid 225); 15 May 2015 01:56:53 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 10856 invoked by alias); 15 May 2015 01:56:52 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 14 May 2015 18:56:46 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id D71C23D4; Fri, 15 May 2015 01:56:42 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 15 May 2015 01:56:42 +0000
+Message-ID: <20150515015642.D71C23D4@web1.develooper.com>
+Subject: LAMP(Perl) System Admin - Boston, MA (onsite), Boston, MA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19224
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 15, 2015
+
+Job title: LAMP(Perl) System Admin - Boston, MA
+
+Company name: BigR.io
+
+Location: Boston, MA
+
+Pay rate: USD 70-120K
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Company
+Become part of an exciting company that’s enabling digital
+marketers to optimize their web and mobile site performance with
+unprecedented ease. The leader in its space, this next-generation SaaS
+platform is used by the world's largest and best-known websites, including
+Walmart.com, Staples, Target, Expedia, 1-800 Contacts, Overstock.com, TiVo,
+and Urban Outfitters among others.
+
+Position
+The System Administrator sits
+at the heart of the technology platform, owning the day-to-day operations
+and management for the production environments, including the hardware,
+networking, and OS layers, as well as deployment of software and
+infrastructure upgrades. This position resides within our Platform
+Operations team, comprised of other engineers and specialists who ensure
+that our services are delivered in a scalable and resilient manner, and
+with the highest possible standard for speed and performance. Solving
+challenges such as distributed monitoring and system visibility, continuous
+integration of code releases on live systems, and multi-tier load balancing
+- all of which takes place on the platform’s private cloud platform which
+is utilized by the largest site operators in the world.
+
+Responsibilities
+
+Day-to-day management of systems in all of the production environments:
+multi-datacenter SAAS, on customer-site solutions, and internal development
+and operations environments
+ Perform planned and unplanned maintenance
+procedures, including software upgrades and patches.
+ Serve as 2nd-level
+escalation path between Help Desk and systems engineering, handling
+technical issues which may require further investigation and consultation
+with other teams within the company (though seldom interfacing directly
+with clients).
+ Monitor operational components for warnings and errors,
+investigate and resolve issues
+ Assist with system deployment duties
+including system builds, packaging and shipping, physical/network
+installation, command-line configurations.
+
+Contact information at:
+http://jobs.perl.org/job/19224#contact

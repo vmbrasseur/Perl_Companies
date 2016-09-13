@@ -1,0 +1,96 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15569
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 12386 invoked from network); 5 Jun 2016 18:20:19 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 5 Jun 2016 18:20:19 -0000
+Received: (qmail 13335 invoked by uid 225); 5 Jun 2016 18:20:18 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 13331 invoked by alias); 5 Jun 2016 18:20:18 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 05 Jun 2016 11:20:12 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 386692D3; Sun,  5 Jun 2016 18:20:09 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sun, 5 Jun 2016 18:20:09 +0000
+Message-ID: <20160605182009.386692D3@web1.develooper.com>
+Subject: Perl Developer with (Pure) Javascript (onsite), Wimbledon, London, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/20012
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June  5, 2016
+
+Job title: Perl Developer with (Pure) Javascript
+
+Company name: Brainbox Digital
+
+Location: Wimbledon, London, UK
+
+Pay rate: 20-40k
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+UK Candidates only, no agencies.  Really.
+
+Brainbox Digital are seeking
+Perl Developers to join their agile development team to grow their product
+range of real-time price-comparison search APIs, data feeds, and Javascript
+widgets.
+
+Reporting directly to the CTO, your work will be recognised as a
+key member of the development team.
+
+We work solely with Modern Perl, no
+legacy code, and exciting technologies, such as MongoDB, Solr, and Machine
+Learning.
+
+We're looking for talented individuals who like to push the
+boundaries of what's possible, creative individuals should definitely
+apply.
+
+As the job title states, some (pure) Javascript is also required
+and could see you spending up to 25% of your time working on, enhancing
+existing widgets, and creating new elaborate products.
+
+Desired skills:
+Experience with "Big Data" or Machine Learning would set you in good stead
+for working with our data.
+
+Effectively building high-performance
+processing engines and optimising memory usage throughout the process
+pipeline.
+
+You will also be required to assist in the maintenance of other
+backend/control-panel systems, experience with Catalyst/DBIx::Class/TT
+would be a bonus.
+
+Other desired skills/knowledge:
+
+Parallel Processing
+MySQL
+MongoDB
+Lucene/Solr
+Machine Learning
+
+Website for more information: http://www.brainboxdigital.com
+
+Contact information at:
+http://jobs.perl.org/job/20012#contact

@@ -1,0 +1,78 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14488
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 30736 invoked from network); 21 Jun 2014 06:28:11 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 21 Jun 2014 06:28:11 -0000
+Received: (qmail 3854 invoked by uid 225); 21 Jun 2014 06:28:11 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 3849 invoked by alias); 21 Jun 2014 06:28:10 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 20 Jun 2014 23:28:08 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 3EFAD42959; Fri, 20 Jun 2014 23:28:05 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 20 Jun 2014 23:28:05 -0700
+Message-ID: <20140621062805.3EFAD42959@x3.develooper.com>
+Subject: Senior Perl Developer (part onsite), Canary Wharf, London, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18718
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 20, 2014
+
+Job title: Senior Perl Developer
+
+Company name: Broadbean Technology
+
+Location: Canary Wharf, London, UK
+
+Pay rate: Competitive
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+We're looking for a talented Senior Developer to join our team in our
+lovely Canary Wharf offices. You'll be working on a mixtures of new and
+less new codebases, you'll be able to influence the technologies we use,
+and will be partly responsible for the architecture of the resulting
+products. 
+
+We build a Software As A Service product for recruiters, and have 60%-70%
+of the UK market depending on who you ask. We're a smallish company (90
+people in the UK, 40 in California, a handful in Sydney) owned by a much
+larger company. Post-probation we offer (non-contractually, to permanent
+staff) flexible working and 50% telecommuting. We've got a development team
+of 30 and are fully committed to Perl, clearing our technical debt, and
+doing things the right way moving forward...
+
+We have a number of members of the London Perl Mongers working with us, and
+we'll hopefully be sending a fair contingent to YAPC this year, so if
+you're a Perl person through and through, you'll be amongst friends.
+
+Required skills:
+You'll need to show proof of strong and "Modern" Perl - at least
+familiarity with various testing modules, exposure to Moose would be
+useful. You should have opinions that you can justify on the "right" level
+of testing, and the pros and cons of continuous delivery. You can take a
+stab at the philosophical differences between Catalyst, Dancer, and
+Mojolicious.
+
+Contact information at:
+http://jobs.perl.org/job/18718#contact

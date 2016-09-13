@@ -1,0 +1,84 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13846
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 13519 invoked from network); 5 Nov 2013 09:30:31 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 5 Nov 2013 09:30:31 -0000
+Received: (qmail 13718 invoked by uid 225); 5 Nov 2013 09:30:31 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 13713 invoked by alias); 5 Nov 2013 09:30:31 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 05 Nov 2013 01:30:29 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id D4B182AFDE; Tue,  5 Nov 2013 01:30:25 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Tue, 5 Nov 2013 01:30:25 -0800
+Message-ID: <20131105093025.D4B182AFDE@x3.develooper.com>
+Subject: Perl Developer with Mongo DB (part onsite), UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18014
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November  5, 2013
+
+Job title: Perl Developer with Mongo DB
+
+Company name: Ascent Sourcing
+
+Internal ID: CG34
+
+Location: UK
+
+Pay rate: £250 per day
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Part time
+
+Onsite: some
+
+Description:
+The company is a telecommunications company based near Leicester UK, which
+specialises in the direct interconnection of tier 1 carriers to
+international destinations. 
+
+The company is a back end infrastructure was built from the ground up using
+perl, and now needs someone with a more concrete experience in the language
+to add ad-hoc scripts to automate additional processes, currently done
+manually on the servers. As well as improve or re-write scripts already in
+place. 
+
+This scale of complexity will be within the reams of reading information
+from a database, reviewing information, and submitting the information to
+another database. It is essential you are comfortable with mongoDB, as this
+is the only database used. 
+
+This position is perfect for someone looking for extra work as we happy to
+be flexible with time spent 'in the office' and location of work. We do ask
+that the person be within reasonable distance of Leicester, and that you
+treat the position professionally. You must allow us the opportunity to see
+you in person on an irregular and reasonable basis.
+
+Desired skills:
+- perl
+- mongoDB
+- able to listen and process requirements confidently
+- a telecommunications background 
+- freeswitch 
+- VoIP 
+- reporting
+
+Contact information at:
+http://jobs.perl.org/job/18014#contact

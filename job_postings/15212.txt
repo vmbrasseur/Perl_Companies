@@ -1,0 +1,130 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15212
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 12076 invoked from network); 26 Aug 2015 02:42:45 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 26 Aug 2015 02:42:45 -0000
+Received: (qmail 12275 invoked by uid 225); 26 Aug 2015 02:42:45 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 12270 invoked by alias); 26 Aug 2015 02:42:45 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 25 Aug 2015 19:42:40 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id D812E347; Wed, 26 Aug 2015 02:42:36 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 26 Aug 2015 02:42:36 +0000
+Message-ID: <20150826024236.D812E347@web1.develooper.com>
+Subject: Software Developer (telecommute), Kennebunk, ME, USA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19806
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 25, 2015
+
+Job title: Software Developer
+
+Company name: Plixer International, Inc.
+
+Location: Kennebunk, ME, USA
+
+Pay rate: USD
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+Programmer Pre-requisites
+- Microsoft Technologies such as ActiveDirectory
+and Eventlogs
+
+Scope
+- A Library to read Microsoft EventLogs using a login
+to get one or more eventlogs either locally or remotely
+- Each use of the
+library to generate a single audit event no matter if one or many eventlogs
+are returned
+- Must produce CSV and JSON output
+- Compatible within a
+Windows and Linux based Application
+- Required to handle 5000 eventlog
+records per second
+
+Requirements
+- Input Parameters
+    = A username and
+password to authenticate locally or remotely to a windows machine
+    =
+Filter for one or more event ID (ideally passed in as a list [e.g. array])
+
+   = The start RecordNumber (passing nothing means first record in log)
+   
+= The end RecordNumber (passing nothing means most recent record in log)
+  
+ = The source of the EventLog (e.g. APPLICATION, SYSTEM, SECURITY, etc.)
+  
+ = Output format (CSV or JSON)
+    = The path to CSV/JSON file name if none
+use stdout : write to pipe (|) delimited file, one record per line. or JSON
+output
+    = Debug flag. Write all steps and messages to a the file
+specified by this parameter (For example: debug => '/tmp/debug.txt')
+
+-
+Output 
+    = success / failure indication
+    = CSV or JSON output
+    =
+any error message(s) generated
+    = last (i.e. most recent) recordID read
+
+   = Description of each record in JSON or CSV file. Items with no comment
+means to return as is:
+	+ TimeGenerated
+	     - must be
+converted to unixtime epoch
+	+ RecordNumber
+	+ User
+	 
+   - Need a lookup to convert to the name similar to the perl
+Win32::LookupAccountSID function. The output needed is DOMAIN\\USERNAME
+format
+	+ Computer
+	     - Name is returned but want IP
+address
+	+ EventID
+	+ EventLog
+	     - result as a
+integer so it can be enumerated
+	+ Length
+	+ TimeWritten
+    
+	- Needs to be converted to a unixtime epoch
+	+ Message
+     
+  + EventType
+	+ Strings
+	+ Source
+	     - result as a
+integer so it can be enumerated
+	+ Category
+	+ Data
+
+Website for more information: https://www.plixer.com/
+
+Contact information at:
+http://jobs.perl.org/job/19806#contact

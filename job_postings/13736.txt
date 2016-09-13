@@ -1,0 +1,77 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13736
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 10382 invoked from network); 19 Sep 2013 04:48:30 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 19 Sep 2013 04:48:30 -0000
+Received: (qmail 2519 invoked by uid 225); 19 Sep 2013 04:48:29 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 2515 invoked by alias); 19 Sep 2013 04:48:29 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 18 Sep 2013 21:48:22 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 5BFA52AFE2; Wed, 18 Sep 2013 21:48:18 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 18 Sep 2013 21:48:18 -0700
+Message-ID: <20130919044819.5BFA52AFE2@x3.develooper.com>
+Subject: Senior Perl Developer (onsite), Hampshire, England
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17857
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 18, 2013
+
+Job title: Senior Perl Developer
+
+Company name: Eligo Recruitment
+
+Location: Hampshire, England
+
+Pay rate: £40'000 - £50'000
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+As senior developer you will have an in depth knowledge of Modern Perl and
+object-oriented programming. You believe in best practices and tests
+(sometimes developing using TDD). You are equally happy adding new features
+or refactoring legacy code to improve the overall architecture. You enjoy
+learning new technologies and coaching/mentoring your fellow developers.
+
+Required skills:
+-	OO Perl with Moose and DBIx::Class
+-	Apache / Nginx
+-	SQL (MySQL)
+-	Linux
+-	Version control (ideally with Git)
+
+Desired skills:
+-	Solr
+-	Template Toolkit
+-	Plack
+-	Javascript (JQuery)
+
+
+Our development team performs code review (with Gerrit) and continuous
+integration (with Jenkins running our Test::Class unit tests) to increase
+code quality. We use commit hooks with Perltidy and Perl::Critic and we
+have daily standups, and weekly demos and retrospectives.
+
+Website for more information: http://www.eligo.co.uk/
+
+Contact information at:
+http://jobs.perl.org/job/17857#contact

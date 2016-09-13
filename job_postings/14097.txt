@@ -1,0 +1,127 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14097
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 22402 invoked from network); 24 Jan 2014 04:53:17 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 24 Jan 2014 04:53:17 -0000
+Received: (qmail 13513 invoked by uid 225); 24 Jan 2014 04:53:17 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 13509 invoked by alias); 24 Jan 2014 04:53:17 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,T_FRT_PROFILE2
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 23 Jan 2014 20:53:11 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 603E442936; Thu, 23 Jan 2014 20:53:08 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 23 Jan 2014 20:53:08 -0800
+Message-ID: <20140124045308.603E442936@x3.develooper.com>
+Subject: Business & Technology Applications Analyst I (entry level position)
+ (onsite), St. Louis, MO, USA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18328
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 23, 2014
+
+Job title:
+Business & Technology Applications Analyst I (entry level position)
+
+Company name: The Genome Institute at Washington University
+
+Internal ID: 26988
+
+Location: St. Louis, MO, USA
+
+Pay rate: Commensurate with experience
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The Genome Institute at Washington University has an opening for a talented
+software engineer in the Bioinformatics group.	The position will work with
+an experienced group of software engineers to develop software supporting
+the tracking of laboratory data and analysis processes to support large
+scale genomic research projects.
+
+The ideal candidate has a talent and love for writing software, is
+interested in developing that skill, and applying it in a production
+environment.  The candidate will be expected to learn new things on a
+regular basis, think critically, and collaborate with other developers
+across groups.	The environment is fast-paced and a person who likes to get
+things done will find a lot of opportunity.
+
+The Genome Institute has been at the forefront of genome research since its
+inception in 1993 and has been a part of major scientific projects such as
+the Human Genome, 1000 Genomes and TCGA (The Cancer Genome Atlas) Projects.
+ The Genome Institute is a world-leader in the generation and analysis of
+genomic sequence data and uses this data to extend biological knowledge of
+the human genome and provide clinically relevant sequence analysis aimed at
+understanding human diseases (such as cancer and Alzheimer's disease).	In
+addition, the Institute fosters public understanding of genomic science
+through various educational and outreach efforts.
+
+Washington University in St. Louis is an equal opportunity, affirmative
+action employer and encourages applications from women, ethnic minorities,
+veterans, and individuals with disabilities.
+
+Benefits:
+
+* Retirement Savings Plan 
+* 22 vacation days 
+* 8 Paid Holidays 
+* Sick Time 
+* Tuition benefits for employee, spouse and dependent children 
+* Free Metro Link / Bus pass
+* Free Life Insurance
+* Health, Dental, Vision 
+* Health Savings Accounts (HSA)
+* Long Term Disability Insurance 
+* Flex Spending Plan 
+* Other Benefits - Med School HR website (medschoolhr.wustl.edu)
+
+Required skills:
+Degree or certification from a technical school or college in computer
+programming required; experience in computer programming and/or relevant
+DBA experience may be substituted on a year-for-year basis for required
+education.
+
+Design, testing, debugging, and problem analysis are a regular part of the
+work.  Skills in abstract software design, object-oriented architecture,
+relational data modeling, and web interface design will be used frequently,
+which will require thorough knowledge of each concept.	The applicant will
+use these skills to develop software that will: interface with people
+and/or laboratory equipment, process and analyze large data sets on a
+compute cluster, and provide intuitive web based interfaces to the
+specifications of the laboratory managers and technicians.
+
+Perl is the hugely dominant language for our software, though some
+individuals dabble in other languages.
+
+Desired skills:
+Proficiency in dynamically typed languages (Perl, Ruby, Python, Lisp, etc.)
+is a plus, but not required.  Understanding of relational databases and SQL
+will be helpful.  Experience with web technologies such as HTML, CSS,
+Javascript and approaches such as REST and AJAX is an asset.  Regular work
+will be done in GNU/Linux and other UNIX-like development environments. 
+Familiarity with open source technologies, version control software such as
+git, and programming in a network environment are also assets.
+
+Website for more information: https://jobs.wustl.edu/
+
+Contact information at:
+http://jobs.perl.org/job/18328#contact

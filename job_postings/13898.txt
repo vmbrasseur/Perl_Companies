@@ -1,0 +1,101 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13898
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28197 invoked from network); 18 Nov 2013 07:38:19 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 18 Nov 2013 07:38:19 -0000
+Received: (qmail 12567 invoked by uid 225); 18 Nov 2013 07:38:18 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 12563 invoked by alias); 18 Nov 2013 07:38:18 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 17 Nov 2013 23:38:16 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 33EEA2AFE0; Sun, 17 Nov 2013 23:38:12 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sun, 17 Nov 2013 23:38:12 -0800
+Message-ID: <20131118073813.33EEA2AFE0@x3.develooper.com>
+Subject: senior software engineer (UNIX/Perl) (onsite), Sunnyvale, CA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18072
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 17, 2013
+
+Job title: senior software engineer (UNIX/Perl)
+
+Company name: Aruba Networks
+
+Location: Sunnyvale, CA
+
+Pay rate: based on qualifications & experience
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Consider your wireless network at home. You probably have a single access
+point/router, and only a few people with a handful of devices connected to
+the network.
+
+How would you scale that up to a larger building, multiple buildings on a
+large campus, or multiple geographic sites? How would you design software
+to configure, upgrade, and monitor the usage and security of that network
+in real-time?
+
+If this sounds like an interesting challenge, then a career in the AirWave
+division at Aruba Networks may be waiting for you!
+
+Aruba Networks is a leader in providing enterprise-scale WLAN/edge
+networking products. Our customers include major universities, giant tech
+companies, and international retail stores, with deployments numbering
+thousands of access points and tens of thousands of wireless devices.
+
+AirWave is Aruba's software solution for managing and monitoring the health
+and usage of massive WiFi deployments.
+
+We practice Agile/extreme programming with short release cycles in a fun,
+relaxed atmosphere that feels very much like working for a startup --
+except without the long hours, and with all the benefits of being part of a
+larger company (401k, ESPP, open vacation).
+
+But enough about us, what about you?
+
+You must have a solid grasp of computer science/software engineering
+concepts, including common data structures and algorithms and
+object-oriented design. You must also be familiar with at least one flavor
+of Linux (preferably CentOS/RHEL) and be completely at home on the UNIX
+command line.
+
+Nice-to-haves: the more of these you can check off, the better (we are
+looking for both front end and back end engineers, so it's ok if you lean
+one way or the other):
+
+- scripting languages (particularly perl)
+- detailed knowledge of common networking protocols (including SNMP and
+HTTP)
+- version control systems (preferably svn)
+- SQL databases (preferably Postgres)
+- multi-server high availability/failover architecture
+- web stack (HTML, CSS, JavaScript, Ajax, Apache)
+- web frameworks (especially Google Closure)
+- system administration/configuration of anything mentioned above
+
+This is a full-time position in Sunnyvale, CA.
+
+Contact information at:
+http://jobs.perl.org/job/18072#contact

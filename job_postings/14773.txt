@@ -1,0 +1,97 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14773
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 2896 invoked from network); 13 Nov 2014 12:14:27 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 13 Nov 2014 12:14:27 -0000
+Received: (qmail 4411 invoked by uid 225); 13 Nov 2014 12:14:27 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 4407 invoked by alias); 13 Nov 2014 12:14:26 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 13 Nov 2014 04:14:24 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 1CDBE429D5; Thu, 13 Nov 2014 04:14:21 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 13 Nov 2014 04:14:21 -0800
+Message-ID: <20141113121421.1CDBE429D5@x3.develooper.com>
+Subject: Software Developer Web/Perl (onsite), Boston, MA, USA
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18953
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 12, 2014
+
+Job title: Software Developer Web/Perl
+
+Company name: inviCRO, LLC
+
+Internal ID: Perl
+
+Location: Boston, MA, USA
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+inviCRO is currently seeking an experienced Software Developer with strong
+Perl skills to extend our web-based study management and storage
+application (iPACS) designed for the special needs of pre-clinical imaging
+studies. The iPACS is used by researchers worldwide in the fight against
+diseases such as cancer and Alzheimer’s, providing tools for data mining
+and reporting on large amounts of medical imaging data. Currently the iPACS
+is installed at more than half of the Top 25 pharmaceutical companies.
+
+Our software is based on the web-MVC framework Catalyst, running on Perl,
+Apache and MySQL, using Modern Perl approaches to object orientation,
+object relational database and separation of responsibilities. We follow a
+test driven development cycle with continuous integration and frequent
+releases to our in-house and external users.
+As part of a team of highly motivated and skilled developers, the Software
+Developer would work on the application backend in Perl as well as the
+user-facing front-end in HTML/JavaScript.
+
+Required skills:
+•	Excellent knowledge of Modern Perl (OOP/Moose, DBIx::Class,
+Template::Toolkit, …)
+•	Experience in one of Perl's Web MVC frameworks (Catalyst
+(preferred), Dancer, Mojolicous) 
+•	Expertise in HTML/CSS (Bootstrap), JavaScript (jQuery), SQL (MySQL)
+and Linux (RHEL) 
+•	Strong background in developing Web 2.0 applications
+•	Practical experience with test driven development and continuous
+integration
+•	Familiarity with current “Big Data” technologies a plus
+
+Desired skills:
+COMPANY PROFILE
+inviCRO was founded in 2008 by a team of imaging scientists seeking to
+further the functionality of imaging in research and medicine. We have
+grown the company organically to employ 30+ researchers from a broad range
+of disciplines including advanced degrees in: physics, optics, engineering
+(electrical, chemical, biomedical, software, mechanical), mathematics,
+neuroscience, chemistry, molecular biology and statistics.  Our IT team
+helps store and manage large amounts of imaging data for both internal and
+external imaging groups, as well as support our Linux- and web-based study
+management system for our own teams as well as external customers. 
+For more information, please visit https://www.invicro.com or contact us at
+&lt;jobs@invicro.com&gt;.
+
+Website for more information: https://www.invicro.com
+
+Contact information at:
+http://jobs.perl.org/job/18953#contact

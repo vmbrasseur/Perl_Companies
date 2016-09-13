@@ -1,0 +1,84 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15253
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 20735 invoked from network); 14 Oct 2015 04:51:09 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 14 Oct 2015 04:51:09 -0000
+Received: (qmail 2076 invoked by uid 225); 14 Oct 2015 04:51:09 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 2072 invoked by alias); 14 Oct 2015 04:51:08 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Tue, 13 Oct 2015 21:51:00 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id C62512E0; Wed, 14 Oct 2015 04:50:57 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 14 Oct 2015 04:50:57 +0000
+Message-ID: <20151014045057.C62512E0@web1.develooper.com>
+Subject: PERL Developer (part onsite), Home based (with trips to UK) or UK office (Luton - Beds)
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19858
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 13, 2015
+
+Job title: PERL Developer
+
+Company name: EasyCruit (Part of Lumesse)
+
+Location:
+Home based (with trips to UK) or UK office (Luton - Beds)
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+We are looking for full time developers to join the R&D team to work on our
+Recruitment Platform 'EasyCruit'. The role will encompass the full
+development life cycle from design to deployment.
+
+Our products are
+developed using open source technology and based upon a LAMP stack, so you
+will be expected to have at least 3 years' experience of writing web
+applications using Perl and MySQL, deployed on Apache Web servers in a
+Linux environment. You will have experience using Source Code management
+tools and will be expected to participate in peer code reviews providing
+constructive feedback, and be prepared to receive the same.
+
+Developers
+will be required to produce technical documentation and accurate estimates
+so excellent levels of written and verbal English are required. The role
+also includes a proportion of bug fixing, so you will need an intelligent
+approach to problem solving and analysis.
+
+Desired skills:
+- Previous use of Perl / ModPerl, Apache and MySQL to create web based
+applications. You should have used Perl modules and packages created by
+others and written your own.
+- Experience of producing web pages in HTML
+and CSS. Ultimately Easycruit renders its pages in HTML, so being able to
+produce 'standards compliant' HTML is a must for this role.
+- Ability to
+support systems and applications in a Linux environment.
+- Previous
+experience deploying SaaS software in a multi-lingual, multi-site and
+multi-country environment.
+
+Website for more information: http://www.easycruit.net/vacancy/perl-developer
+
+Contact information at:
+http://jobs.perl.org/job/19858#contact

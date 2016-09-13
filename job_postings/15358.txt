@@ -1,0 +1,121 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15358
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 7502 invoked from network); 8 Jan 2016 03:20:08 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 8 Jan 2016 03:20:08 -0000
+Received: (qmail 8190 invoked by uid 225); 8 Jan 2016 03:20:07 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 8179 invoked by alias); 8 Jan 2016 03:20:03 -0000
+X-Spam-Status: No, hits=-0.5 required=8.0
+	tests=BAYES_05,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 07 Jan 2016 19:19:58 -0800
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id AAE06265; Fri,  8 Jan 2016 03:19:55 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 8 Jan 2016 03:19:55 +0000
+Message-ID: <20160108031955.AAE06265@web1.develooper.com>
+Subject: Perl Programer (telecommute), Sea Girt, NJ
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19986
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January  8, 2016
+
+Job title: Perl Programer
+
+Company name: OZMOSI
+
+Location: Sea Girt, NJ
+
+Pay rate: $70 USD
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+Need support in using prewritten PERL scripts for extracting large amounts
+of data from PubMed based on their suggestions below.
+
+We also have the new
+edirect package of prewritten PERL scripts which can make this much easier
+http://www.ncbi.nlm.nih.gov/books/NBK179288/. Download and unarchive
+edirect on a UNIX machine and you can do eutils calls with a single command
+line. Assuming you have a file of PMC ids in a file called pmcids.txt you
+can do the following oneline command command: 
+
+epost -db pmc -id 4662335 |
+elink -target pubmed | efetch -db pubmed -format native -mode xml | xtract
+-pattern PubmedArticle -division Article -group AuthorList -pfx "|" -first
+LastName -sfx "|" -first Initials -pfx "|" -element Affiliation -group
+ArticleTitle -pfx "|" -element ArticleTitle -group Journal -pfx "|"
+-element Title,Volume -group AbstractText -pfx "|" -element AbstractText
+-Division PMID -pfx "|" -element PMID -Division KeywordList -sep "|"
+-element Keyword
+
+The results look like this:
+
+|Miller |DA| |Department of
+Ecosystem Science and Management Pennsylvania State University University
+Park Pennsylvania 16802. U.S. Geological Survey Patuxent Wildlife Research
+Center SO Conte Anadromous Fish Laboratory 1 Migratory Way Turners Falls
+Massachusetts 01360.| |Estimating occupancy dynamics for large-scale
+monitoring networks: amphibian breeding occupancy across protected areas in
+the northeast United States. |Ecology and evolution 5 |Regional monitoring
+strategies frequently employ a nested sampling design where a finite set of
+study areas from throughout a region are selected and intensive sampling
+occurs within a subset of sites within the individual study areas. This
+sampling protocol naturally lends itself to a hierarchical analysis to
+account for dependence among subsamples. Implementing such an analysis
+using a classic likelihood framework is computationally challenging when
+accounting for detection errors in species occurrence models. Bayesian
+methods offer an alternative approach for fitting models that readily
+allows for spatial structure to be incorporated. We demonstrate a general
+approach for estimating occupancy when data come from a nested sampling
+design. We analyzed data from a regional monitoring program of wood frogs
+(Lithobates sylvaticus) and spotted salamanders (Ambystoma maculatum) in
+vernal pools using static and dynamic occupancy models. We analyzed
+observations from 2004 to 2013 that were collected within 14 protected
+areas located throughout the northeast United States. We use the data set
+to estimate trends in occupancy at both the regional and individual
+protected area levels. We show that occupancy at the regional level was
+relatively stable for both species. However, substantial variation occurred
+among study areas, with some populations declining and some increasing for
+both species. In addition, When the hierarchical study design is not
+accounted for, one would conclude stronger support for latitudinal gradient
+in trends than when using our approach that accounts for the nested design.
+In contrast to the model that does not account for nesting, the nested
+model did not include an effect of latitude in the 95% credible interval.
+These results shed light on the range-level population status of these
+pond-breeding amphibians, and our approach provides a framework that can be
+used to examine drivers of local and regional occurrence dynamics. &nbsp;
+&nbsp; &nbsp;|26640655 &nbsp; &nbsp; &nbsp; Ambystoma maculatum|Luthobates
+sylvaticus|hierarchical models|occupancy|population trend
+
+I recommend
+using the "|" symbol as the separator and not a comma because there are
+internal commas in the abstracts which will throw the spreadsheet off and
+place columns where you do not want them.
+
+Desired skills:
+PERL programming and experience setting up a simple set of tasks for other
+employees to pull the data in the future.
+
+Website for more information: http://www.ozmosi.com
+
+Contact information at:
+http://jobs.perl.org/job/19986#contact

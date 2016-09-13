@@ -1,0 +1,102 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14470
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 30296 invoked from network); 15 Jun 2014 18:52:54 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 15 Jun 2014 18:52:54 -0000
+Received: (qmail 16319 invoked by uid 225); 15 Jun 2014 18:52:53 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 16315 invoked by alias); 15 Jun 2014 18:52:53 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 15 Jun 2014 11:52:51 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 22F4142955; Sun, 15 Jun 2014 11:52:49 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sun, 15 Jun 2014 11:52:49 -0700
+Message-ID: <20140615185249.22F4142955@x3.develooper.com>
+Subject: Senior Perl Developer - Telecommute (telecommute), Telecommute
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17257
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 15, 2014
+
+Job title: Senior Perl Developer - Telecommute
+
+Company name: Binary.com
+
+Location: Telecommute
+
+Pay rate: TBD
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+Binary.com is a leading fixed-odds financial betting company with offices
+in Malta and Malaysia. Founded in 1999, the company has in recent years
+experienced very strong growth, with the average number of bets transacted
+per day rising 6-fold over the last 4 years.
+
+Binary.com's code-base is developed entirely in-house in Perl. Various
+parts of the code were developed at various points in the company's 14-year
+history, with some code being legacy procedural code and other code being
+recent state of the art Moose/oop design.
+
+We are seeking a senior and experienced Perl developer on a telecommute
+basis to help us complete the re-factoring of legacy procedural code to our
+oop library.
+
+Relevant code spans multiple domains: financial data feeds, database and
+transactions, quant (financial derivatives) pricing algorithms, marketing
+and website-related code, payments and banking systems code, and the
+development of an API.
+
+This is a unique opportunity for a talented and experienced Perl developer
+to apply his or her skills to a complex and high-traffic e-commerce website
+and gain experience with financial markets, as well as to participate in a
+fast-growing industry-leading company.
+
+Required skills:
+We are seeking someone with solid Perl and OOP skills and experience, who
+is able to hit the ground running and gain mastery over what is at times
+large and complex code. We seek an individual who is well versed in
+software engineering best practices and is able to make independent
+decisions based on common sense, good judgment, commercial nous, as well as
+Perl and OOP best practices and coding standards.
+
+This is a senior position for a person with at least 15 years experience in
+software engineering and who is excited about the prospect of working as a
+senior individual contributor, within however the framework of a global
+distributed team of similarly talented and senior developers. Ideally we
+are looking for an individual who may have held prior senior positions such
+as CTO, and who would now welcome the opportunity to work as an individual
+contributor, enjoying the feeling of "flow" that the best programmers
+experience when working productively.
+
+Strong experience with Moose, MVC frameworks such as Mojolicious, jQuery,
+Postgres, Linux, is a must, as well as a disciplined coding approach (e.g.
+TDD) and understanding of industry best practices.
+
+Desired skills:
+Experience or strong interest in trading and financial markets is a plus.
+
+Website for more information: http://www.binary.com
+
+Contact information at:
+http://jobs.perl.org/job/17257#contact

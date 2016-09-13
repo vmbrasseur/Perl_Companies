@@ -1,0 +1,96 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13592
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 30738 invoked from network); 22 Jul 2013 23:46:15 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 22 Jul 2013 23:46:15 -0000
+Received: (qmail 15536 invoked by uid 225); 22 Jul 2013 23:46:15 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 15532 invoked by alias); 22 Jul 2013 23:46:14 -0000
+X-Spam-Status: No, hits=-2.8 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,SARE_RMML_Stock10
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 22 Jul 2013 16:46:08 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 984A32AFDF; Mon, 22 Jul 2013 16:46:04 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 22 Jul 2013 16:46:04 -0700
+Message-ID: <20130722234604.984A32AFDF@x3.develooper.com>
+Subject: Development Manager (onsite), Canary Wharf, London, United Kingdom
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17663
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 22, 2013
+
+Job title: Development Manager
+
+Company name: Broadbean Technology Ltd
+
+Internal ID: DEVMAN
+
+Location: Canary Wharf, London, United Kingdom
+
+Pay rate: Competitive
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+*** YOU MUST BE ELIGIBLE TO WORK IN THE UK ALREADY, AND ABLE TO WORK
+ONSITE; PLEASE, NO RECRUITERS *** 
+
+We're looking for an exceptional Development Manager to lead our growing
+product development team in the UK. Reporting to the CTO, you'll be
+responsible for a team of ten Perl developers (really it's three small
+teams), and for helping us to introduce best-practice programming. 
+
+The future is already here - it's just not very evenly distributed: we have
+a range of codebases, from a continuously deployed and properly tested
+product on Dancer and Plack, to an application which is being gently
+converted from CGI and with no tests. We have buy-in at a group level to
+aggressively tackle our technical debt, and you'll be a big part of that.
+
+The role will be 50% hands on, and 50% leadership - you'll help the team
+with code reviews, and architectural design - but you'll also need to be
+able to get your hands dirty when required, perhaps by pair programming
+with team to help them learn good test design, perhaps picking off
+complicated features to serve as example code, or perhaps helping to debug
+a particularly tricky UTF8 issue.
+
+You'll help identify and prioritize the most pressing pieces of technical
+debt, help to plan and execute a move to cloud infrastructure, and be a key
+part of keeping our excellent team atmosphere as we expand. You'll stretch
+our development team to implement new technologies and exploit existing
+ones like Puppet and Pinto, you'll be able to recognize and grow technical
+excellence, but you'll also be able to choose appropriately between "new
+and shiny" and "tried and tested". You'll have great instincts on
+engineering practices, and have opinions on where monitoring, process, and
+tests move from "exceptionally useful" to "intrusive".
+
+We're a small company (90 people in the UK), owned by a very big company,
+and a great place to work. Post-probation we offer (non-contractually)
+flexible working and 50% telecommuting. We've got an engineering team of 30
+and are fully committed to Perl, clearing our technical debt, and doing
+things the right way moving forward...
+
+Required skills:
+Very strong "Modern" Perl is a must, as is some experience leading teams
+and line management. A very healthy amount of Real World Experience, and an
+ability to apply that experience to new problems is a must.
+
+Contact information at:
+http://jobs.perl.org/job/17663#contact

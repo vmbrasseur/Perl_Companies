@@ -1,0 +1,162 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13824
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 23095 invoked from network); 28 Oct 2013 04:08:57 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 28 Oct 2013 04:08:57 -0000
+Received: (qmail 8740 invoked by uid 225); 28 Oct 2013 04:08:56 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 8736 invoked by alias); 28 Oct 2013 04:08:56 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 27 Oct 2013 21:08:53 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id AEE712AFE1; Sun, 27 Oct 2013 21:08:49 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sun, 27 Oct 2013 21:08:49 -0700
+Message-ID: <20131028040849.AEE712AFE1@x3.develooper.com>
+X-Virus-Checked: Checked
+Subject: Senior Web Software Engineer (onsite), Milton Keynes, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17978
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 27, 2013
+
+Job title: Senior Web Software Engineer
+
+Company name: iDirect
+
+Location: Milton Keynes, UK
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Senior Web Software Developer
+
+
+Job Description
+
+iDirect, a subsidiary of VT Systems, is transforming the way the world gets
+and stays connected. The company’s satellite-based IP communications
+technology enables constant connectivity for voice, video and data
+applications in diverse and challenging environments. The iDirect
+Intelligent Platform integrates advanced technology into iDirect’s
+portfolio of hubs, routers and network management software to address the
+growing complexity of deploying and managing global IP networks. With more
+than 15 years of global satellite communications experience, iDirect serves
+customers in over 50 countries through a diverse network of service
+provider partners, including seven of the World Teleport Associations
+Global Top Ten operators. Headquartered in Virginia USA, iDirect has
+offices in Europe, Middle East, Africa and Latin America.
+
+Our UK Web Development Centre of Excellence is recruiting for a Senior Web
+Software Engineer to lead a team who are building our latest, industry
+pioneering, Network Management System. Satellite networks are complicated
+things; configuration, maintenance, monitoring and reporting is made a lot
+easier with our innovative web based NMS.
+
+You’ll work on the full stack from the Linux OS, through scalable & fault
+tolerant web services (including websockets) in to an MVC framework and up
+to cutting edge web UI toolkits and lovingly crafted JavaScript, HTML5 and
+CSS. Working alongside our UX and Design team we build the tools for other
+frontend engineering teams to use. We also architect the high availability
+load-balanced web servers and associated technologies. Our typical
+customers are large telcos and service providers with exacting requirements
+and high expectations, and so we always work to the highest standards.
+
+
+The Senior developer will own the delivery of core frameworks and tools in
+Perl and JavaScript and advise on best practice, new techniques, software
+quality and process improvement.  The Senior developer will also lead a
+team of developers and enable task breakdown, handle task assignment and
+prioritisation, ensure work is progressing to the required schedule, help
+the team overcome technical blockers by working with other engineering
+teams to provide timely resolution to problems and report to management on
+the progress of the project.
+
+The Senior Developer will need to be technically astute and have experience
+in the delivery of large web-centric projects. The other members of the
+team will look to the Senior developer to provide direction, advice and
+technical help.
+
+
+We offer an excellent package which includes:
+
+•	Competitive salary
+•	Pension scheme
+•	Generous bonus scheme
+•	Private health care & dental care (also extendable to your family)
+•	Company provided life assurance
+•	Company provided income protection scheme.
+
+Required skills:
+Qualifications
+
+We’re looking for the very best candidates to join us in our Milton Keynes
+offices where you will work alongside smart, creative and dedicated
+developers.  We highly value a good approach to problem solving, logical
+thinking and the enthusiasm, passion and ability to learn new skills
+quickly.
+
+As a base line you’ll need to have first rate skills in:
+•	Perl (or similar middle-end language, for example Python or PHP)
+•	JavaScript
+•	AJAX, CSS and of course HTML5
+•	jQuery
+•	Working with MVC frameworks
+•	Object orientated analysis & design
+
+Bonus points for:
+
+•	Kendo UI
+•	A keen eye for software quality. TDD, JSlint, Unit tests,
+integration testing, Jenkins setups
+•	Cross browser testing frameworks
+•	A public Github/Launchpad/SourceForge account or blog with evidence
+of contributions to projects
+•	HA Proxy configuration
+•	Stunnel experience
+
+
+You’ll also need experience with some of:
+
+•	Apache 2 configuration and optimisation
+•	Mojolicous, or similar MVC frameworks
+•	Linux Sys Admin
+•	Virtualisation technologies
+•	Awareness of networking (TCP/IP etc)
+
+As a person, you need to:
+
+•	Be excited by and demonstrate knowledge of the latest developments
+in web technology 
+•	Show a strong ownership ethic
+•	Be able to communicate your ideas clearly to fellow developers and
+non-technical staff across time zones
+•	Be flexible and dedicated
+•	Come up with clever solutions to difficult problems
+
+
+To apply for this position please submit your CV along with a couple of
+paragraphs describing how you meet the requirements, why youre interested
+in this position and any other supporting information (e.g. links to code)
+and we’ll be in touch.
+
+Website for more information: http://www.idirect.net
+
+Contact information at:
+http://jobs.perl.org/job/17978#contact

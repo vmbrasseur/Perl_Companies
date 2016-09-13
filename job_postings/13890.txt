@@ -1,0 +1,84 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13890
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 18784 invoked from network); 18 Nov 2013 02:35:28 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 18 Nov 2013 02:35:28 -0000
+Received: (qmail 25961 invoked by uid 225); 18 Nov 2013 02:35:28 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 25957 invoked by alias); 18 Nov 2013 02:35:28 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,SUBJECT_NEEDS_ENCODING
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 17 Nov 2013 18:35:22 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 83D432AFCB; Sun, 17 Nov 2013 18:35:19 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sun, 17 Nov 2013 18:35:19 -0800
+Message-ID: <20131118023519.83D432AFCB@x3.develooper.com>
+Subject: Large DB Developer (onsite), Málaga, Spain
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18056
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: November 13, 2013
+
+Job title: Large DB Developer
+
+Company name: Lingo Network
+
+Location: Málaga, Spain
+
+Pay rate: Negotiable
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+As a software engineer within our team, you will be responsible for
+designing and developing solutions that support delivery improvements (both
+business and technical) across a large organisation. Applicants must
+possess a flair for creative and innovative solutions, as well as a passion
+for continuous improvement.
+
+Required skills:
+- A bachelors degree with honours or equivalent in Computer Science or a
+related field
+- Strong software engineering skills/background and understanding of
+software design principles
+- Experience with the following languages: Perl, C/C++
+- Strong Linux skills - must be able to diagnose and repair problems
+- Experience with either PostgreSQL or strong experience in another SQL
+based RDBMS
+- Strong communicator (fluent English is a must, but knowledge of Japanese
+would be a plus)
+- Willingness to learn and pick-up new technologies
+- Customer orientation with a strong ability to solve technical issues
+
+Desired skills:
+- Understanding of mobile network system architecture
+- Experience with O&M of RAN and Core network telecommunications nodes
+(Ericsson equipment preferred)
+- Experience with large-scale systems (multi-TB databases, processing of
+large amounts of data).
+- Team-lead/management skills: Support staff management, team process
+improvement, interfacing with end users
+- Comfortable building scripts for task automation (perl/sh)
+
+Website for more information: http://lingonetwork.com/
+
+Contact information at:
+http://jobs.perl.org/job/18056#contact

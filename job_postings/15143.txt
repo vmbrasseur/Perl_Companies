@@ -1,0 +1,122 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15143
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 20937 invoked from network); 11 Jul 2015 07:47:56 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 11 Jul 2015 07:47:56 -0000
+Received: (qmail 23212 invoked by uid 225); 11 Jul 2015 07:47:56 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 23208 invoked by alias); 11 Jul 2015 07:47:56 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 11 Jul 2015 00:47:54 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 4470B3B6; Sat, 11 Jul 2015 07:47:51 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 11 Jul 2015 07:47:51 +0000
+Message-ID: <20150711074751.4470B3B6@web1.develooper.com>
+Subject: Lead Developer ActivePerl (part onsite), Vancouver, BC, Canada
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19712
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 11, 2015
+
+Job title: Lead Developer ActivePerl
+
+Company name: ActiveState
+
+Location: Vancouver, BC, Canada
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+If you know Perl, you've probably heard of ActivePerl, ActiveState's very
+popular distribution of Perl. We're looking for a lead engineer in
+beautiful Vancouver, BC who can become a key member of the ActivePerl team
+and help take ActivePerl to the next level. 
+ 
+Building the world's best
+Perl distribution takes a lot of build engineering on a wide range of
+platforms, serious C coding skills, and a willingness to dig deep to fix
+bugs in Perl and CPAN modules in order to ensure a high quality product.
+ 
+Millions of individuals and thousands of companies (including some BIG
+mission-critical systems) will rely on your product on a daily basis. If
+that kind of responsibility and influence makes you go "ooooh", read on:
+ 
+What you'll be doing
+
+Providing hands on technical expertise to help solve
+critical software design and development challenges
+
+Provide leadership and
+guidance to the team when it comes working through all aspects of the
+software development lifecycle
+
+Owning development projects from start to
+finish
+
+Working in a collaborative environment and providing mentorship to
+other team members
+
+Desired skills:
+Requirements
+
+Minimum 5 years' software development experience
+Technical
+leadership experience
+Strong experience programming for Unix/Linux in C
+Excellent Perl development skills 
+Knowledge of CPAN
+Comfortable with
+version control software, especially Perforce and Git
+Experience building
+and debugging software on Mac OS X and Windows
+Able to independently
+research problems and present solutions to the team
+Excellent written and
+spoken communications skills
+Experience (or interest) in managing and
+improving a complex build system
+ 
+Assets
+
+Ability to help flesh out
+precise requirements from customer input
+Knowledge of Perl XS programming
+Knowledge of various Unix packaging formats (RPMs, DEBs, Solaris pkgs, Mac
+OS X pkgs)
+Experience building and debugging software on multiple platforms
+Released a module on CPAN
+Experience building and debugging software on
+AIX, HP-UX, Linux and Solaris
+Experience building client-server
+applications
+Other dynamic languages experience (Python, Tcl, Ruby, ...)
+Willing and able to do ongoing competitive research
+Ability to work with
+Sales and Marketing teams to help drive product development roadmap
+Product
+management and/or project management skills
+
+Website for more information:
+http://www.activestate.com/company/careers/lead-language-developer-perl
+
+Contact information at:
+http://jobs.perl.org/job/19712#contact

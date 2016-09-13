@@ -1,0 +1,85 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14742
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 25962 invoked from network); 24 Oct 2014 15:31:03 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 24 Oct 2014 15:31:03 -0000
+Received: (qmail 26380 invoked by uid 225); 24 Oct 2014 15:31:03 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 26376 invoked by alias); 24 Oct 2014 15:31:03 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,LOTS_OF_MONEY,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 24 Oct 2014 08:31:00 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 8EB9742A9A; Fri, 24 Oct 2014 08:30:56 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 24 Oct 2014 08:30:56 -0700
+Message-ID: <20141024153056.8EB9742A9A@x3.develooper.com>
+Subject: Perl Programmer (onsite), Nottingham
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19021
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 24, 2014
+
+Job title: Perl Programmer
+
+Company name: Host Europe Group - Heart Internet
+
+Location: Nottingham
+
+Pay rate: £35,000 - 40,000
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We aim to create inspirational, intelligent and robust products that will
+stand the test of time, ensuring our brands remain market leading. It is
+our people that will make this happen, so naturally we look after them! We
+offer a state of the art working environment, open plan offices, comfy
+chairs, regular social events and a culture of learning that inspires our
+team members to reach that little bit further in their pursuit of
+excellence. Perl Developers will be exposed to the latest technologies,
+frameworks & methodologies in application development. Your development
+experience to date will have included object-oriented Perl programming and
+you will be familiar with the latest Perl concepts and unit testing. The
+team enjoy a quiet working environment with: High quality dual monitors.
+Choice of high spec PC. Casual dress code
+
+Required skills:
+Good knowledge of Relational Databases, especially MySQL 
+Good knowledge of source control management systems, e.g. SVN or GIT 
+Good knowledge of CPAN and commonly used Perl modules 
+Knowledge of working with XML / JSON API’s. 
+System Admin skills like Vim and grep. 
+Knowledge of webserver applications such as Apache, Nginx, Lighttp 
+Knowledge of X/HTML 
+Class::Accessor 
+Understanding of Object-Relational mapping (i.e. Class::DBI, DBIx::Class,
+etc.) 
+Familiar with Perl web frameworks (i.e., Catalyst,.) 
+Have an understanding of ‘Modern Perl’
+
+Desired skills:
+Working knowledge of CSS / Javascript 
+Familiar with: Moose, Mouse, Moo, Class::Std,
+
+Website for more information: http://www.heartinternet.co.uk/careers
+
+Contact information at:
+http://jobs.perl.org/job/19021#contact

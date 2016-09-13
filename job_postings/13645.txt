@@ -1,0 +1,100 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13645
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 15838 invoked from network); 14 Aug 2013 21:42:27 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 14 Aug 2013 21:42:27 -0000
+Received: (qmail 30406 invoked by uid 225); 14 Aug 2013 21:42:27 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 30402 invoked by alias); 14 Aug 2013 21:42:26 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,LOTS_OF_MONEY
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 14 Aug 2013 14:42:20 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 8B3B32AFE1; Wed, 14 Aug 2013 14:42:16 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 14 Aug 2013 14:42:16 -0700
+Message-ID: <20130814214216.8B3B32AFE1@x3.develooper.com>
+Subject: LAMP ( Linux / Apache / MySQL / Perl ) Developer (onsite), Canvey
+ Island, United Kingdom
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17743
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August 14, 2013
+
+Job title: LAMP ( Linux / Apache / MySQL / Perl ) Developer
+
+Company name: 1st Interactive
+
+Location: Canvey Island, United Kingdom
+
+Pay rate: up to £40,000
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+1st Interactive designs, builds and supports interactive web sites that
+deliver dynamic and cost effective e-business for a wide range of
+businesses. 
+
+1st Interactive are looking for an experienced LAMP Developer to mainly
+support and develop HBC's operations in hosue. The successful candidate
+should be able to demonstrate a thorough working knowledge of Perl 5 and
+MySQL within Linux / Unix / Apache CGI environment. A good working
+knowledge of Template Toolkit, Jquery, Javascript, HTML and CSS and the
+ability to combine these to generate robust solutions.
+
+The successful candidate will be an experienced programmer with excellent
+working knowledge of application development best practices and
+methodologies. You will be passionate about leaving behind accurately
+documented code (mainly POD) that will survive the test of time. You will
+show evidence of a willingness to develop in the same style of PERL as the
+existing team and build on the existing infrastructure of modules and other
+building blocks.
+
+1st Interactive require the position initially to be held onsite at the
+head office, however there may be an opportunity for home working in the
+future for the right candidate.
+
+Interested? Send a cv and cover letter to jobs@hbc.com describing something
+you have achieved through your own efforts. Tell us about yourself, your
+technical skills and what gives you a buzz.
+
+Required skills:
+PERL
+MySQL
+Linux / Unix
+Apache
+JavaScript
+
+Desired skills:
+CPAN
+Internet protocols
+Subversion
+Data import / export / JSON
+XML
+Content Management
+Apache Webservers
+TCIP/IP
+Problem solver
+
+Website for more information: http://www.1st-interactive.co.uk/
+
+Contact information at:
+http://jobs.perl.org/job/17743#contact

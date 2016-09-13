@@ -1,0 +1,94 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13952
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 18214 invoked from network); 8 Dec 2013 07:33:53 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 8 Dec 2013 07:33:53 -0000
+Received: (qmail 12144 invoked by uid 225); 8 Dec 2013 07:33:52 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 12140 invoked by alias); 8 Dec 2013 07:33:51 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 07 Dec 2013 23:33:50 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id BC5202AFE0; Sat,  7 Dec 2013 23:33:46 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 7 Dec 2013 23:33:46 -0800
+Message-ID: <20131208073346.BC5202AFE0@x3.develooper.com>
+Subject: Perl Developer - Washington, DC or Frisco, TX or Scottsdale, AZ
+ (onsite), Washington, DC, Frisco, TX or Scottsdale, AZ
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18158
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: December  7, 2013
+
+Job title:
+Perl Developer - Washington, DC or Frisco, TX or Scottsdale, AZ
+
+Company name: TekMasters
+
+Location: Washington, DC, Frisco, TX or Scottsdale, AZ
+
+Pay rate: tbd
+
+Terms of employment: Hourly employee
+
+Length of employment: 1+ years
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+TekMasters is looking for an experienced Perl Software Developer.  The
+successful candidate will work independently.  The developer will
+participate in all aspects of the software development life cycle,
+including:  requirements gathering from business leads, implementation,
+testing, documentation, and support.  We primarily develop in a LAMP
+environment (Perl), but are increasingly using Java as well.  
+
+Responsibilities:
+ 
+•	Software Architecture and design
+•	Coding / development of new and existing applications
+•	Testing & writing unit tests
+•	Documentation
+ 
+Qualifications:
+ 
+•	Extensive software development experience in a professional
+environment.
+•	Ability to write idiomatic Perl.
+•	Knowledge of a variety of modern CPAN modules.
+•	Object oriented programming, using frameworks such as DBIx::Class &
+Moo.
+•	Experience writing scalable, high performance code with efficient
+utilization of server resources.
+•	Use of software engineering best practices to maximize code
+maintainability (for example, those in Damian Conway's "Perl Best
+Practices").
+•	Experience with using RDBMS from Perl (MySQL preferred).
+•	Experience with Apache web server, HTTP & CGI scripting
+•	Experience with client-side programming (Javascript, jQuery)
+•	Ability to learn and understand existing software applications by
+running and studying the source code
+•	Strong verbal and written communication skills.
+•	Knowledge of other languages, particularly Java and related
+technologies (Spring, Struts, Hibernate, Maven, etc.) is considered a plus.
+
+Website for more information: http://www.tekmasters.com
+
+Contact information at:
+http://jobs.perl.org/job/18158#contact

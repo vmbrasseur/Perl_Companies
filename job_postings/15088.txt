@@ -1,0 +1,65 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15088
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 28329 invoked from network); 23 May 2015 20:20:46 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 23 May 2015 20:20:46 -0000
+Received: (qmail 14412 invoked by uid 225); 23 May 2015 20:20:42 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 14408 invoked by alias); 23 May 2015 20:20:41 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 23 May 2015 13:20:37 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id DF90C314; Sat, 23 May 2015 20:20:33 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 23 May 2015 20:20:33 +0000
+Message-ID: <20150523202033.DF90C314@web1.develooper.com>
+Subject: Junior Perl Developer / Systems Specialist (onsite), Springfield, VA, 22151 United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19624
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 23, 2015
+
+Job title: Junior Perl Developer / Systems Specialist
+
+Company name: GGM
+
+Location: Springfield, VA, 22151 United States
+
+Pay rate: $58k USD
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+The Systems Specialist is responsible for developing, troubleshooting and
+maintaining locally-developed Perl / MySQL scripts used in our prepress
+production workflow environment. Additionally, this position shares
+responsibility for sys admin and support responsibilities on our production
+servers, workstations, and other equipment.
+
+Desired skills:
+Must have more than 3 months experience solving real problems using Perl.
+Will consider candidates with less Perll experience only if they have 6
+months or more of combined experience with Linux shell scripting, SQL
+development, or PHP development. Prefer candidates with experience using
+Perl with DBI, LWP, PDF, and CGI. Basic knowledge of HTML and CSS useful.
+
+Contact information at:
+http://jobs.perl.org/job/19624#contact

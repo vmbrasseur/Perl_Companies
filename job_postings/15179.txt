@@ -1,0 +1,74 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15179
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 10297 invoked from network); 31 Jul 2015 18:44:37 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 31 Jul 2015 18:44:37 -0000
+Received: (qmail 31408 invoked by uid 225); 31 Jul 2015 18:44:37 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 31404 invoked by alias); 31 Jul 2015 18:44:37 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 31 Jul 2015 11:44:35 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 1CEC14C5; Fri, 31 Jul 2015 18:44:32 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 31 Jul 2015 18:44:32 +0000
+Message-ID: <20150731184432.1CEC14C5@web1.develooper.com>
+Subject: Perl Catalyst Contractor: Database and Web Interface Development (telecommute), Remote
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19746
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: July 31, 2015
+
+Job title:
+Perl Catalyst Contractor: Database and Web Interface Development
+
+Company name: Kutter Consulting
+
+Location: Remote
+
+Pay rate: 64 USD
+
+Terms of employment: Independent contractor (hourly)
+
+Hours: Full time
+
+Onsite: no
+
+Description:
+Work with a large US retailer to manage tasks relating to vendor
+performance and communication with vendors. In the past, this company has
+used a smattering of Access and Excel sheets manage data sets. My team will
+implement a comprehensive solution in Perl, including a well-structured
+relational database and a user interface via Catalyst.
+
+Ideally, the person
+I bring on would also have expertise with Microsoft Excel and Access
+because that is how these tasks are currently set up. Experience building
+macros or writing VBA scripts would be an asset, as well. 
+
+This is a
+one-year project. Your work can be 100% remote.
+
+Desired skills:
+Key skills: Perl, Catalyst, DBIx::Class, SQL
+Beneficial skills: MS Excel,
+MS Access, VBA
+
+Website for more information: http://kutterconsulting.com
+
+Contact information at:
+http://jobs.perl.org/job/19746#contact

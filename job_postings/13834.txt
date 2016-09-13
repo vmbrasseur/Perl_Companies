@@ -1,0 +1,100 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13834
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 9576 invoked from network); 31 Oct 2013 05:48:49 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 31 Oct 2013 05:48:49 -0000
+Received: (qmail 16775 invoked by uid 225); 31 Oct 2013 05:48:49 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 16771 invoked by alias); 31 Oct 2013 05:48:49 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 30 Oct 2013 22:48:43 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id EC4542AFE0; Wed, 30 Oct 2013 22:48:39 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 30 Oct 2013 22:48:39 -0700
+Message-ID: <20131031054839.EC4542AFE0@x3.develooper.com>
+Subject: Accountant (telecommute), Melbourne, Australia
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17996
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: October 30, 2013
+
+Job title: Accountant
+
+Location: Melbourne, Australia
+
+Pay rate: AU$
+
+Terms of employment: Independent contractor (project-based)
+
+Hours: Flexible
+
+Onsite: no
+
+Description:
+Hi All
+
+I would like information to be scraped from an SWF website (from what I can
+tell...but I am no expert, hence the post) and the resulting tables out put
+to CSV. An example of the page can be found here:
+https://www.tab.com.au/#!/nsw/racing/race-results-details/SEYMOUR/Races/1/3
+1-Oct-2013
+
+From this page I would like tables which show the win and place Tote Odds
+for all the horses and the fixed odds just to the right of the tote odds,
+including:
+-  No.
+-  TAB Sportsbet No
+-  Runner(barrier)
+-  Jockey/Trainer/Driver
+-  Win (Tote Odds)
+-  Place (Tote Odds)
+-  Win (Fixed Odds)
+-  Place (Fixed Odds)
+
+I would also like the pools information:
+-  Win
+-  Place
+-  Trifecta
+-  Quinella
+-  Exacta
+-  Duet
+-  First 4
+-  Running Double
+
+This will form a larger part of the program where another webpage is
+scrapped...http://www.risa.com.au where I would like results and form
+scraped.  I already have some code to obtain this info provided by a kind
+person on PERL Monks. If you are interested in the whole job or just the
+SWF part please let me know.
+
+Also please provide an estimate of the amount you would like to be paid to
+do the work. 
+
+I look forward to hearing from you.
+
+Kind regards
+
+Shaun
+
+Required skills:
+PERL
+SWF webpage scrapping
+HTML table scrapping
+
+Contact information at:
+http://jobs.perl.org/job/17996#contact

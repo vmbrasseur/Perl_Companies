@@ -1,0 +1,100 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14098
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 22418 invoked from network); 24 Jan 2014 04:53:19 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 24 Jan 2014 04:53:19 -0000
+Received: (qmail 13521 invoked by uid 225); 24 Jan 2014 04:53:19 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 13517 invoked by alias); 24 Jan 2014 04:53:19 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 23 Jan 2014 20:53:18 -0800
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 236C742977; Thu, 23 Jan 2014 20:53:15 -0800 (PST)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 23 Jan 2014 20:53:15 -0800
+Message-ID: <20140124045315.236C742977@x3.develooper.com>
+Subject: Senior Perl/Scala Web/BPM Developer: Telecommute (part onsite),
+ Washington, DC
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/15540
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: January 23, 2014
+
+Job title: Senior Perl/Scala Web/BPM Developer: Telecommute
+
+Company name: CargoTel, Inc.
+
+Location: Washington, DC
+
+Pay rate: Competitive
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: some
+
+Description:
+CargoTel's RadioField division is a start up focused on creating a mobile
+Business Process Management (BPM) SaaS platform using modern responsive and
+asynchronous technologies. 
+
+We are seeking a talented perl/scala web developer who is experienced with
+many of the following technologies:
+
+Angular, Bootstrap, HTML5, Kendo
+Dancer/Mojo, Play
+Perl, Scala, Akka, Java, Solr
+REST, JASON
+BPM, Activiti, JBPM, related platform
+Postgres (postgis, h-store, PLV8), noSQL, BI Tools 
+AWS, Ubuntu, Jenkins
+
+Position would entail web development of both new and existing products
+including mobile and web deployments.
+
+Baltimore/Washington DC area candidate or telecommuter. 
+
+CargoTel is a YAPC sponsor, host and sponsor of the Baltimore/Washington DC
+Perl Mongers.
+
+Required skills:
+- Senior-level OO perl web development
+- Java development
+- Scala, Play, TypeSafe exposure
+- Modern Java Script; HTML5
+- Postgres and NoSQL
+- Revision control(GitHub preferred) 
+- System administration (AWS preferred)
+- Ability to work in a fast-paced team environment 
+- Enthusiasm, determination and initiative
+
+Desired skills:
+- Dancer/Mojo; MVC frameworks 
+- Angular, Bootstrap, Kendo 
+- Mobile native or hybrid development(Phonegap)
+- Familiarity with REST, JSON
+- Mapping integration and PostGIS
+- Jenkins, Akka, Solr
+- BI Tools 
+- Experience in Business Process Management (BPM) systems such as Activiti,
+JBPM, etc.
+
+Website for more information: http://www.cargotel.com
+
+Contact information at:
+http://jobs.perl.org/job/15540#contact

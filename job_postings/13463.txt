@@ -1,0 +1,120 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13463
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 19871 invoked from network); 10 Jun 2013 21:14:57 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 10 Jun 2013 21:14:57 -0000
+Received: (qmail 11164 invoked by uid 225); 10 Jun 2013 21:14:56 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 11160 invoked by alias); 10 Jun 2013 21:14:56 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Mon, 10 Jun 2013 14:14:47 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id DC6D12AFE0; Mon, 10 Jun 2013 14:14:42 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Mon, 10 Jun 2013 14:14:42 -0700
+Message-ID: <20130610211442.DC6D12AFE0@x3.develooper.com>
+Subject: Perl Developer (onsite), London, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17483
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 10, 2013
+
+Job title: Perl Developer
+
+Company name: Adzuna
+
+Location: London, UK
+
+Pay rate: £45kish p.a. + stock options
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Adzuna are looking to recruit an experienced, professional perl developer
+to support the ongoing development of our classifieds search engine.  This
+is a great opportunity to join a rapidly-growing early stage startup where
+you can make a difference.
+
+You will need good communication skills and attention to detail as well as
+strong technical ability. You will also need to understand the importance
+of building structured code that is fast, scalable, reliable and robust. 
+As part of a small but talented team you need to thrive working
+independently and in a fast-moving, low-structure environment.
+
+The kind of projects you will be working on include  new search features
+and relevancy algorithms, partner xml feed integrations, APIs and ‘big
+data’ analysis, administrative tools and  a variety of product features and
+enhancements. Our systems have been with scalability in mind, so the
+successful candidate must demonstrate experience and ability to write
+scalable code to be run in distributed environments.
+
+This is a full-time role at a market competitive salary plus stock options.
+
+
+Location is at our office in Clapham.  Flexibility can be discussed.
+
+To apply, please send your CV and covering email to jobs at adzuna.com
+
+
+About Adzuna
+
+Adzuna is a search engine for classified ads used by over 2 million
+visitors per month which makes it easier to find the right job, house or
+car for you.  We search thousands of websites so you don't have to and
+bring together millions of ads so you can find them all in one place.  We
+add powerful search, insightful market data and social connections, so you
+can find your perfect job with a little help from your friends.
+
+Adzuna’s data also powers the Number 10 Dashboard, used by the Prime
+Minister and senior officials to keep track of economic growth on a daily
+basis.
+
+Adzuna was founded by Andrew Hunter and Doug Monro, formerly of eBay,
+Gumtree, Qype and Zoopla and is backed by leading Venture Capital firms
+Passion Capital, The Accelerator Group and Index Ventures.  Adzuna was
+originally launched in the UK in 2011 and now operates in 6 countries from
+our offices in Clapham, south west London.
+
+You can read more here: http://www.adzuna.co.uk/about-us.html
+
+Required skills:
+•	Very good Object-Oriented Perl
+•	Apache, fastcgi
+•	mysql
+•	SOLR or other search engine
+•	multi-box/multi-environment system configuration
+•	Strong attention to detail
+
+Desired skills:
+•	Experience with templating frameworks (ideally Template Toolkit)
+•	Spidering technology
+•	Catalogue / feeds management
+•	Search engine optimisation
+•	Classified ads / vertical search websites
+•	Cloud services integration
+•	Chef
+•	Machine learning / neural nets
+•	gearman or other distributed job-dispatching mechanisms
+
+Website for more information: http://www.adzuna.co.uk
+
+Contact information at:
+http://jobs.perl.org/job/17483#contact

@@ -1,0 +1,116 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13633
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 21294 invoked from network); 7 Aug 2013 19:47:25 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 7 Aug 2013 19:47:25 -0000
+Received: (qmail 28810 invoked by uid 225); 7 Aug 2013 19:47:24 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 28806 invoked by alias); 7 Aug 2013 19:47:24 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Wed, 07 Aug 2013 12:47:17 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 8F4442AFE2; Wed,  7 Aug 2013 12:47:14 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Wed, 7 Aug 2013 12:47:14 -0700
+Message-ID: <20130807194714.8F4442AFE2@x3.develooper.com>
+Subject: Assoc Software Engineer (onsite), Gloucester UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17731
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: August  7, 2013
+
+Job title: Assoc Software Engineer
+
+Company name: Symantec
+
+Internal ID: 12103BR
+
+Location: Gloucester UK
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are passionate about blocking spam, phishing and unwanted email. Our
+team is part of the Global Security & Response organization and is
+responsible for designing and delivering highly resilient systems and
+analyzers. We integrate security intelligence collected across Symantec
+into these systems and analyzers to deliver market-leading Antispam
+Effectiveness. Our team operates in an agile and highly dynamic environment
+and is geographically distributed across the world. 
+
+We are looking for someone who will be mentored by our senior engineers to
+help maintain, configure and develop one of our critical messaging security
+systems. Our new team member will enjoy working with others and will enjoy
+getting stuck into addressing difficult problems. We are looking for
+someone who is resourceful and determined and can demonstrate an aptitude
+and willingness to learn new skills. Our new team member will enjoy
+responding quickly to emerging messaging security threats and will display
+an overall demeanor of contagious enthusiasm.
+
+Required skills:
+Specific tasks will include 
+•	the development of UIs to allow streamlined configuration and
+monitoring of this system 
+•	the development of tools to strengthen our QA testing of this
+system. 
+•	email message and URL analysis to ensure that increased detection
+is created by this system. 
+
+Other responsibilities will include 
+
+•	Completing all tasks as defined and prioritized in our project
+plans, ensuring code is written, tested and integrated with the rest of the
+project code base and version control system. 
+•	Responsibility for working with the System Test Engineers
+throughout the project lifecycle. 
+•	Investigating bug reports, fixing defects and re-releasing the
+fixed software to System Test Engineers. 
+•	Writing, monitoring and revising all installation, rollback,
+configuration and support documentation and ensuring that this is up to
+date at all times. 
+•	Provide post release support in all instances, including training
+where necessary to internal customers, and occasionally with external
+customers. 
+•	Work on customer and regional specific messaging security problems.
+
+•	Work with other teams within Symantec to develop infrastructure to
+collect and share information about mobile and SMTP security threats.
+
+Mandatory Requirements 
+•	Perl
+•	Experience working in a Linux environment 
+•	Excellent written and oral communication skills.
+
+Desired skills:
+Desirable Requirements 
+•	Knowledge of how URL and domain redirection can be used and tracked
+
+•	Knowledge of Email Protocols (i.e. RFC822) and knowledge of
+antispam and anti-malware best practices and products. 
+•	Understanding of DNS and URL blacklists 
+•	Knowledge of version control systems (like CVS, Subversion, Git) 
+•	Good understanding of DOM and JavaScript
+
+Website for more information:
+http://www.symantec.com/about/careers/careers.jsp?areq=12103BR&codes=JB-Ind
+
+Contact information at:
+http://jobs.perl.org/job/17731#contact

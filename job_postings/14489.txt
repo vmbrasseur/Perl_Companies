@@ -1,0 +1,74 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:14489
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 30777 invoked from network); 21 Jun 2014 06:28:15 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 21 Jun 2014 06:28:15 -0000
+Received: (qmail 3868 invoked by uid 225); 21 Jun 2014 06:28:15 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 3864 invoked by alias); 21 Jun 2014 06:28:14 -0000
+X-Spam-Status: No, hits=-6.9 required=8.0
+	tests=BAYES_00,RCVD_IN_DNSWL_HI,SPF_PASS,URIBL_BLOCKED
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Fri, 20 Jun 2014 23:28:12 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id 9CBC542955; Fri, 20 Jun 2014 23:28:09 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Fri, 20 Jun 2014 23:28:09 -0700
+Message-ID: <20140621062809.9CBC542955@x3.develooper.com>
+Subject: Senior Perl Developer / Sysadmin with Strong Perl (contract)
+ (onsite), Canary Wharf, London, UK
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/18720
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: June 20, 2014
+
+Job title:
+Senior Perl Developer / Sysadmin with Strong Perl (contract)
+
+Company name: Broadbean Technology
+
+Location: Canary Wharf, London, UK
+
+Pay rate: Competitive
+
+Terms of employment: Independent contractor (hourly)
+
+Length of employment: 3-6 months
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We're looking for at least one talented Senior Perl Developer with Sysadmin
+experience – or a Senior Sysadmin with strong Perl experience, to join our
+Infrastructure team in our lovely Canary Wharf offices. You’ll be working
+on directly – or helping to support - an ambitious project involving AWS.
+You’ll be helping to continue split apart a product in to services, working
+with a high-availability system, and getting Puppet to do your bidding.
+
+We build a Software As A Service product for recruiters, and have 60%-70%
+of the UK market depending on who you ask. We're a smallish company (90
+people in the UK, 40 in California, a handful in Sydney) owned by a much
+larger company. Work will be onsite in Canary Wharf, 9-6.
+
+Required skills:
+You'll need to show proof of strong and "Modern" Perl - at least
+familiarity with various testing modules, exposure to Moose would be
+useful. You’ll need to show understanding and experience of Sysadmin on
+Linux, with Puppet and/or AWS experience being a real bonus.
+
+Contact information at:
+http://jobs.perl.org/job/18720#contact

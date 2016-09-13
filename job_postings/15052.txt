@@ -1,0 +1,127 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15052
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 20802 invoked from network); 2 May 2015 19:33:00 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 2 May 2015 19:33:00 -0000
+Received: (qmail 27624 invoked by uid 225); 2 May 2015 19:33:00 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 27620 invoked by alias); 2 May 2015 19:33:00 -0000
+X-Spam-Status: No, hits=0.0 required=8.0
+	tests=
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sat, 02 May 2015 12:33:00 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 09538346; Sat,  2 May 2015 19:32:55 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sat, 2 May 2015 19:32:55 +0000
+Message-ID: <20150502193256.09538346@web1.develooper.com>
+Subject: Software Developer (Half-time, telecommuting) (telecommute), Massachusetts, United States
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19552
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May  2, 2015
+
+Job title: Software Developer (Half-time, telecommuting)
+
+Company name: Massachusetts Library Network Cooperative
+
+Location: Massachusetts, United States
+
+Pay rate: $30-$35 per hour (US Dollars)
+
+Terms of employment: Salaried employee
+
+Hours: Part time
+
+Onsite: no
+
+Description:
+The Software Developer will primarily be responsible for developing new
+features and fixing bugs for the Evergreen Integrated Library System (ILS)
+to support the needs of three Massachusetts library consortia using
+Evergreen. S/he will  work on a variety of projects to enhance user
+experience and improve workflows. The Software Developer will also work
+closely with the highly-collaborative open-source community that supports
+Evergreen. This position reports directly to the MassLNC Project
+Coordinator.
+
+The successful candidate will be able to work independently,
+learn quickly, and show a willingness to reach out to a large community for
+help and feedback on development projects. S/he should be able to work with
+people at all levels, including non-technical staff. Strong analytical,
+communication, and collaborative skills are critical for the success of
+this job.
+
+This position offers a great work/life balance and flexible work
+hours. This is a 20-hour-per-week telecommuting position with benefits on a
+prorated basis. The successful candidate must maintain a designated work
+area to perform their MassLNC duties. A telecommuting allowance will be
+provided to offset some telecommunication expenses.
+
+Essential Duties and
+Responsibilities:
+
+* Updates and adds new functionality to the Integrated
+Library System. Performs other updates or functional enhancements to the
+system as directed.
+* Creates patches to fix software bugs.
+* Writes code
+using the programming languages and platforms used in the Evergreen
+community including, but not limited, to Perl, SQL (PostgreSQL),
+JavaScript, Python,  and C.
+* Provides automated tests with new code that
+integrates with community tools.
+* Translates functional requirements for a
+project into technical design and development.
+* Collaborates with the
+MassLNC development team and the Evergreen community at all stages of the
+development process.
+* Contributes to technical design and progress
+meetings.
+* Revises development projects as appropriate to respond to
+changing needs and requirements.
+* Engages with the larger Evergreen
+community by attending regular online developer meetings; participating in
+virtual and in-person community events, such as hackfests, bug squashing
+days, and conferences; and contributing to discussions on Evergreen
+listservs and IRC channels.
+
+Desired skills:
+Required Qualifications:
+* B.S. in Computer Science (or related field) or
+equivalent level of experience and certifications
+* Experience with Perl,
+SQL, and JavaScript.
+* Experience with relational database software such as
+PostgreSQL, MySQL or similar products.
+* Working knowledge of XML, HTML,
+and other web-related markup languages.
+
+Preferred Qualifications:
+*
+Experience with version control systems, like Git or SVN
+* Experience in
+web development frameworks, preferably Template Toolkit, AngularJS, and
+Dojo.
+* Familiarity with Evergreen
+* Familiarity with public or academic
+library operations and standards.
+* Experience working in free/libre/open
+source software (FLOSS) communities.
+
+Website for more information: http://www.masslnc.org
+
+Contact information at:
+http://jobs.perl.org/job/19552#contact

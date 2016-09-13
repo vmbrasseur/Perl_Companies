@@ -1,0 +1,101 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:15077
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 12553 invoked from network); 17 May 2015 22:11:20 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 17 May 2015 22:11:20 -0000
+Received: (qmail 31462 invoked by uid 225); 17 May 2015 22:11:19 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 31458 invoked by alias); 17 May 2015 22:11:18 -0000
+X-Spam-Status: No, hits=-1.9 required=8.0
+	tests=BAYES_00,SPF_PASS
+X-Spam-Check-By: la.mx.develooper.com
+Received: from web1.develooper.com (HELO web1.develooper.com) (207.171.7.220)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Sun, 17 May 2015 15:11:11 -0700
+Received: by web1.develooper.com (Postfix, from userid 545)
+	id 925B2346; Sun, 17 May 2015 22:11:01 +0000 (UTC)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Sun, 17 May 2015 22:11:01 +0000
+Message-ID: <20150517221101.925B2346@web1.develooper.com>
+Subject: Perl Developer (onsite), Amsterdam, Netherlands
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/19388
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: May 17, 2015
+
+Job title: Perl Developer
+
+Company name: Booking.com
+
+Location: Amsterdam, Netherlands
+
+Terms of employment: Salaried employee
+
+Length of employment: permanent
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+Booking.com BV (the company behind Booking.com™, the market leading online
+hotel reservation service in the world) is looking for Perl Developer who
+is passionate about their craft, who thrives on challenge and who believes
+in success through collaboration. Whether it is hardening Perl's hash
+function or developing efficient serialization libraries, we solve serious
+problems using Perl.
+
+We offer an international, result-driven, fun, and
+dynamic environment. If scale and complexity excite you, Booking is the
+place to B!
+
+B.responsible
+
+Our technical culture derives strongly from our
+strong ties to the Perl community. We appreciate what open source means
+both for our business and also for internal projects. Some of our most
+useful hacks inside the company have come from someone scratching the
+proverbial itch. We are actively engaged and enjoy the benefits our culture
+produces such as increased communication between each other and also to our
+business counterparts.
+
+As a Software Developer, you are responsible for
+the development, performance, and scaling of our public website as well as
+internal systems, which includes using: Perl (5.14), DBI, Mason, Moose,
+Sereal, Plack, nginx, Javascript, MySQL, Memcached, Redis, Hadoop,
+Elasticsearch, git, and CentOS Linux. You will work independently and will
+also be responsible for making technical decisions within a team. Our
+development strategy is agile and we work in small Scrum teams of 5-7. We
+do several rollouts every day. We are data-driven and do extensive A/B
+testing.
+
+Even without Perl experience, your colleagues will help you get
+up to speed in order to be able to start solving real problems from day
+one.
+
+Important aspects of the job include:
+
+Rapidly develop
+next-generation scalable, flexible, and high-performance systems.
+Solve
+issues with the site and internal systems, prioritizing based on customer
+impact
+Act as an intermediary for problems, with both technical and
+non-technical audiences
+Collaborate with the team, Team Leaders and Product
+Owners to prioritize projects
+
+Website for more information: http://grnh.se/jco6m1
+
+Contact information at:
+http://jobs.perl.org/job/19388#contact

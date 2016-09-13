@@ -1,0 +1,141 @@
+Newsgroups: perl.jobs
+Path: nntp.perl.org
+Xref: nntp.perl.org perl.jobs:13753
+Return-Path: <jobs-admin@perl.org>
+Mailing-List: contact jobs-help@perl.org; run by ezmlm
+Delivered-To: mailing list jobs@perl.org
+Delivered-To: moderator for jobs@perl.org
+Received: (qmail 21561 invoked from network); 26 Sep 2013 07:20:43 -0000
+Received: from x1.develooper.com (207.171.7.70)
+  by x6.develooper.com with SMTP; 26 Sep 2013 07:20:43 -0000
+Received: (qmail 8200 invoked by uid 225); 26 Sep 2013 07:20:43 -0000
+Delivered-To: jobs@perl.org
+Received: (qmail 8196 invoked by alias); 26 Sep 2013 07:20:43 -0000
+X-Spam-Status: No, hits=-2.9 required=8.0
+	tests=ALL_TRUSTED,BAYES_00,LOTS_OF_MONEY
+X-Spam-Check-By: la.mx.develooper.com
+Received: from x3.develooper.com (HELO x3.develooper.com) (207.171.7.63)
+    by la.mx.develooper.com (qpsmtpd/0.28) with ESMTP; Thu, 26 Sep 2013 00:20:36 -0700
+Received: by x3.develooper.com (Postfix, from userid 545)
+	id A98122AFD1; Thu, 26 Sep 2013 00:20:32 -0700 (PDT)
+To: jobs@perl.org
+Reply-To: help@nutmegjobs.com
+Date: Thu, 26 Sep 2013 00:20:32 -0700
+Message-ID: <20130926072032.A98122AFD1@x3.develooper.com>
+Subject: Web Developer (onsite), Clerkenwell, London
+Approved: news@nntp.perl.org
+From: jobs-admin@perl.org (Perl Jobs)
+
+Online URL for this job: http://jobs.perl.org/job/17883
+
+To subscribe to this list, send mail to jobs-subscribe@perl.org.
+To unsubscribe, send mail to jobs-unsubscribe@perl.org.
+
+Posted: September 26, 2013
+
+Job title: Web Developer
+
+Company name: Nestoria
+
+Location: Clerkenwell, London
+
+Pay rate: £30,000 - £45,000
+
+Terms of employment: Salaried employee
+
+Hours: Full time
+
+Onsite: yes
+
+Description:
+We are seeking an intelligent, motivated and forward thinking Web Developer
+to work on the Nestoria property search engine, and to help us continue
+serving millions of house hunters in eight countries and six languages.
+
+As a web developer at Nestoria you will be responsible for the maintenance
+and continued improvement of our property search engine. We have a
+reputation for providing a fast and clean search experience to our users,
+allowing them to quickly find the properties which are the most relevant to
+them. We use modern web technologies and take things like responsive design
+and typography seriously.
+
+The Role:
+
+We consider web development to cover all aspects of the web experience,
+from the client side with jQuery, CSS and HTML back to the server side
+templating, localization, and of course the search engine itself. You will
+have the opportunity to branch out into any other parts of the code base
+which interest you, to pitch in with the rest of the developers and make
+Nestoria the best it can be.
+
+You will be a member of our small, highly collaborative, international team
+(15 total, 5 devs), which will mean working closely with both other
+developers and with non-technical team members from our product development
+and commercial teams. From day one you will be encouraged to engage with
+senior management and interns alike, and make suggestions and contribute
+ideas into our product planning process.
+
+We don’t work in a formalised Agile / XP process but have organically
+developed methods that allow us to manage development effectively. The core
+values for us are true ownership for devs of their work and maximum
+transparency during the planning process. We are committed to continuous
+deployment, testing, refactoring, and code maintainability.
+
+The wide salary band is an indication that we are happy to interview
+candidates from a wide range of experience levels. The skills, intelligence
+and enthusiasm we are looking for can be found in a new graduate who is a
+passionate about the web or in a professional web developer with a few
+great sites already under his or her belt.
+
+About Nestoria:
+
+We like to give something back to the technology communities we're involved
+in, and are especially keen on contributing to the Perl (CPAN) and
+Geo-spatial open source development communities. We make our API available
+to developers, are frequent sponsors of relevant events and operate
+#geomob, a quarterly meet up for geo and mobile enthusiasts.
+
+We also like to give back to our team members. We invest time into
+expanding our collective knowledge through attending conferences and
+training days, and through our own internal tech talks where each week one
+engineer presents to the team about any subject. Each developer in the team
+has an annual training budget allocated to them, and is expected to search
+out and suggest training opportunities. In August 2013, for example, the
+entire development team attended the 3-day YAPC::EU conference in Kiev,
+Ukraine.
+
+Required skills:
+Maybe you are looking to make the move to a tech team which embraces the
+principles of clean code, best practice development methodologies, and
+user-centred product planning. Perhaps you crave a role in a smaller,
+tightly-knit team which affords you a higher degree of responsibility and a
+more diverse range of juicy projects to work on. Or maybe you can't wait to
+get your hands on our frontend and make it work even more smoothly in your
+favourite browser on your Nexus 10.
+
+Required skills:
+
+•	Experience with web development including JavaScript, HTML5, and
+CSS3
+(we love jQuery, JSON and media queries)
+•	Experience with a dynamic language such as Python, Ruby, PHP or
+Perl
+(we’ll teach you to write modern, readable Perl)
+•	Experience developing for a Linux platform
+(we’re fans of Debian and Devops)
+
+Desired skills:
+It is also desirable but not essential that you have some of the following:
+
+
+•	Understanding of responsive design and cross-device website testing
+
+•	Experience with internationalization and character encoding
+•	Good understanding of test-driven development
+•	Experience working with systems which have to scale to a large
+number of users
+
+Website for more information: http://www.lokku.com/
+
+Contact information at:
+http://jobs.perl.org/job/17883#contact
