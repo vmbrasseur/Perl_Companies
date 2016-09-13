@@ -5,8 +5,7 @@ use utf8;
 use warnings;
 use autodie;
 no warnings 'uninitialized';
-use FindBin qw($Bin);
-use lib qw("$Bin/../lib");
+use lib qw(lib);
 
 use Email::Simple;
 use List::Util qw(max);
@@ -16,10 +15,10 @@ use Path::Tiny qw(path);
 use DateTime::Format::Natural;
 use DateTime::Format::SQLite;
 
-my $dir = "$Bin/../job_postings";
+my $dir = "job_postings";
 die "$dir does not exist." unless ( -d $dir );
 
-my $exceptions = "$Bin/../exceptions.txt";
+my $exceptions = "exceptions.txt";
 
 open( my $EXCEPTIONS, ">", $exceptions );
 
@@ -36,10 +35,10 @@ my $iter = path($dir)->iterator;       # grab an iterator to walk the files
 while ( my $file = $iter->() ) {
     next unless $file->basename =~ /\.txt$/;
 
-    state $job_rs    = $schema->resultset('Job');
-    state $location_rs    = $schema->resultset('Location');
-    state $company_rs    = $schema->resultset('Company');
-    state $dt_parser = DateTime::Format::Natural->new();
+    state $job_rs      = $schema->resultset('Job');
+    state $location_rs = $schema->resultset('Location');
+    state $company_rs  = $schema->resultset('Company');
+    state $dt_parser   = DateTime::Format::Natural->new();
 
     say "Working on $file";
 
@@ -64,29 +63,39 @@ while ( my $file = $iter->() ) {
     my ($onsite)   = $body =~ /^Onsite:\s+(.*)$/mi;
     my ($terms)    = $body =~ /^Terms of employment:\s+(.*)$/mi;
 
+    chomp($uri, $title, $posted, $location, $hours, $onsite, $terms); # clean up a little
+
     $posted = $dt_parser->parse_datetime($posted);
 
     $location ||= '[Missing]';
 
     my $remote = not( $onsite eq 'yes' );
 
+    my $company = $company_rs->find_or_create(
+        {
+            name   => $name,
+            source => $file->relative,
+        }
+    );
     my $job = $job_rs->find_or_create(
         {
             uri    => $uri,
             posted => DateTime::Format::SQLite->format_datetime($posted),
             title  => $title,
-            hours   => $hours,    # full-time / part-time
-            terms   => $terms,    # contractor or direct-hire
-            remote  => $remote,
-            company => {
-                name => $name,
-            },
-            filename => $file->basename,
+            hours      => $hours,         # full-time / part-time
+            terms      => $terms,         # contractor or direct-hire
+            remote     => $remote,
+            company_id => $company->id,
         }
     );
-    my $location_row = $location_rs->find_or_create({name => $location});
-    unless ($location_row->companies->find($job->company->id)) {
-        $location_row->add_to_companies({ id => $job->company->id });
+    my $location_row = $location_rs->find_or_create(
+        {
+            name   => $location,
+            source => $file->relative
+        }
+    );
+    unless ( $location_row->companies->find( $company->id ) ) {
+        $location_row->add_to_companies( { id => $company->id } );
     }
 }
 

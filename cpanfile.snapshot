@@ -1922,6 +1922,15 @@ DISTRIBUTIONS
     requirements:
       ExtUtils::MakeMaker 0
       perl 5.008001
+  YAML-LibYAML-0.63
+    pathname: T/TI/TINITA/YAML-LibYAML-0.63.tar.gz
+    provides:
+      YAML::LibYAML 0.63
+      YAML::XS 0.63
+      YAML::XS::LibYAML undef
+    requirements:
+      ExtUtils::MakeMaker 0
+      perl 5.008001
   bareword-filehandles-0.004
     pathname: I/IL/ILMARI/bareword-filehandles-0.004.tar.gz
     provides:

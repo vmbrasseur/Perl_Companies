@@ -16,6 +16,11 @@ column posted => {
     data_type => 'datetime',
 };
 
+column ctime => {
+    data_type => 'datetime',
+    default_value => \'CURRENT_TIMESTAMP',
+};
+
 column hours => {
     data_type => 'text',
     is_nullable => 1,
@@ -29,10 +34,6 @@ column terms => {
 column remote => {
     data_type => 'bool',
     default => 0,
-};
-
-column filename => {
-    data_type => 'text',
 };
 
 column company_id => {

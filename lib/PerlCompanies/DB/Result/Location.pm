@@ -9,9 +9,18 @@ primary_column id => {
     is_numeric => 1,
 };
 
-column name => {
+unique_column name => {
     data_type => 'text',
     retrieve_on_insert => 1,
+};
+
+column ctime => {
+    data_type => 'datetime',
+    default_value => \'CURRENT_TIMESTAMP',
+};
+
+column source => {
+    data_type => 'text',
 };
 
 has_many company_location => 'PerlCompanies::DB::Result::CompanyLocation' => 'location_id';

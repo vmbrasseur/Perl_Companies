@@ -21,7 +21,7 @@ my $db_file = $ENV{PERL_COMPANIES_DB} // 'Perl_Companies.db';
 my $schema = PerlCompanies::DB->connect( "dbi:SQLite:dbname=$db_file", '', '',
     { sqlite_unicode => 1 } );
 
-my $rs = $schema->resultset('Company');
+my $rs = $schema->resultset('Company')->search({},{order_by => 'name'});
 
 
 
