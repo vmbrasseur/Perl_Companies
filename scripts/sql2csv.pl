@@ -25,7 +25,7 @@ my $rs = $schema->resultset('Company');
 
 
 
-open my $fh, '>', 'generated_company_list.csv';
+open my $fh, '>', 'Perl_Companies.csv';
 
 $csv->print( $fh => [
     "Company Name",

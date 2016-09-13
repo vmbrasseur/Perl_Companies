@@ -13,7 +13,7 @@ my $schema = PerlCompanies::DB->connect( "dbi:SQLite:dbname=$db_file", '', '',
 
 my $rs = $schema->resultset('Company');
 
-open my $fh, '>', 'generated_company_list.md';
+open my $fh, '>', 'Perl_Companies.md';
 print {$fh} $_ for <DATA>;
 
 while( $row = $rs->next ) {
